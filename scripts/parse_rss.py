@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 """
 Parses Belgian news RSS feeds and writes to news/input.txt.
-Replace the feed URLs with the ones you prefer (VRT, De Standaard, etc.).
+Skips articles without a meaningful summary and ensures 5 valid articles per feed.
 """
 
 import feedparser
 from pathlib import Path
 import datetime
-
 FEEDS = {
     "Binnenland": "https://rss.app/feeds/ChpniKLavR6NqTqG.xml",
     "Buitenland": "https://rss.app/feeds/AhAgjAK1HabLkBZd.xml"
@@ -24,12 +23,22 @@ def main():
         if not feed.entries:
             out.append("Geen nieuws gevonden.")
             continue
-        for entry in feed.entries[:5]:  # Show top 5 articles per topic
+
+        valid_count = 0
+        index = 0
+        while valid_count < 5 and index < len(feed.entries):
+            entry = feed.entries[index]
+            index += 1
+            summary = entry.get('summary', '').replace("\n", " ").strip()
+
+            # Skip if summary is empty or says "Geen samenvatting"
+            if not summary or summary.lower() == "geen samenvatting":
+                continue
+
             out.append(f"Titel: {entry.get('title', 'Geen titel')}")
             out.append(f"Link: {entry.get('link', 'Geen link')}")
             out.append(f"Datum: {entry.get('published', 'Geen datum')}")
-            summary = entry.get('summary', '').replace("\n", " ").strip()
-            out.append(f"Samenvatting: {summary if summary else 'Geen samenvatting'}")
+            out.append(f"Samenvatting: {summary}")
             out.append(f"Auteur: {entry.get('dc_creator', 'Geen auteur')}")
             out.append(f"Categorie: {entry.get('category', 'Geen categorie')}")
 
@@ -47,6 +56,10 @@ def main():
                 out.append(f"Premium: {entry.premium}")
 
             out.append("-" * 60)
+            valid_count += 1
+
+        if valid_count == 0:
+            out.append("Geen artikelen met bruikbare samenvatting gevonden.")
 
     OUTFILE.parent.mkdir(exist_ok=True)
     OUTFILE.write_text("\n".join(out), encoding="utf-8")
