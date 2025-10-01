@@ -3,14 +3,15 @@
 Parses Belgian news RSS feeds and writes to news/input.txt.
 Skips articles without a meaningful summary and ensures 5 valid articles per feed.
 """
-
 import feedparser
 from pathlib import Path
 import datetime
+
 FEEDS = {
-    "Binnenland": "https://rss.app/feeds/ChpniKLavR6NqTqG.xml",
-    "Buitenland": "https://rss.app/feeds/AhAgjAK1HabLkBZd.xml"
+    "Binnenland": "https://www.standaard.be/binnenland/rss/",
+    "Buitenland": "https://www.standaard.be/buitenland/rss/"
 }
+
 OUTFILE = Path("news/input.txt")
 
 def main():
@@ -31,7 +32,6 @@ def main():
             index += 1
             summary = entry.get('summary', '').replace("\n", " ").strip()
 
-            # Skip if summary is empty or says "Geen samenvatting"
             if not summary or summary.lower() == "geen samenvatting":
                 continue
 
@@ -42,7 +42,6 @@ def main():
             out.append(f"Auteur: {entry.get('dc_creator', 'Geen auteur')}")
             out.append(f"Categorie: {entry.get('category', 'Geen categorie')}")
 
-            # Try to get image from media:content or enclosure
             image_url = None
             if 'media_content' in entry and entry.media_content:
                 image_url = entry.media_content[0].get('url')
@@ -51,7 +50,6 @@ def main():
             if image_url:
                 out.append(f"Afbeelding: {image_url}")
 
-            # Premium status (custom tag)
             if 'premium' in entry:
                 out.append(f"Premium: {entry.premium}")
 
