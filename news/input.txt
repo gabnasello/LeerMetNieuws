@@ -1,22 +1,98 @@
-Nieuwsupdate: 2025-10-01 17:09
+Nieuwsupdate: 2025-10-01 20:25
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: [Action required] Your RSS.app Trial has Expired.
-Link: https://rss.app
-Datum: Wed, 01 Oct 2025 17:09:20 GMT
-Samenvatting: Your trial has expired. Please update your subscription plan at <a href="https://rss.app">rss.app</a>. - (ChpniKLavR6NqTqG)
+Titel: Illegaal wapenhandelnetwerk opgerold in Brussel, 90 vuurwapens in beslag genomen
+Link: https://www.standaard.be/binnenland/illegaal-wapenhandelnetwerk-opgerold-in-brussel-90-vuurwapens-in-beslag-genomen/94393644.html
+Datum: Wed, 01 Oct 2025 15:19:00 GMT
+Samenvatting: De federale politie heeft een netwerk opgerold dat de voorbije maanden vervalste semi-automatische vuurwapens zou hebben ingevoerd en verkocht in Brussel. Negen verdachten zijn aangehouden, ongeveer  90 wapens werden in beslag genomen.
 Auteur: Geen auteur
-Categorie: Geen categorie
+Categorie: Binnenland
+Afbeelding: https://prod-img.standaard.be/public/nieuws/mhajym-pjf-bruxelles-3.jpg/alternates/BASE_SIXTEEN_NINE/PJF%20Bruxelles_3.jpg
+Premium: false
+------------------------------------------------------------
+Titel: Bommelding op vliegtuig op Brussels Airport blijkt vals alarm: “Hinder is voorbij”
+Link: https://www.standaard.be/binnenland/bommelding-op-vliegtuig-op-brussels-airport-blijkt-vals-alarm-hinder-is-voorbij/94266583.html
+Datum: Wed, 01 Oct 2025 11:42:50 GMT
+Samenvatting: Een vliegtuig dat woensdagochtend van Brussel naar Berlijn zou vliegen, werd geëvacueerd naar aanleiding van een bommelding. Dat bevestigen de federale politie en de luchthaven aan VRT NWS. Bij een doorzoeking werden geen explosieven aangetroffen.
+Auteur: Geen auteur
+Categorie: Binnenland
+Afbeelding: https://prod-img.standaard.be/public/nieuws/8f1ybx-file82h10258uyt177gf7mus/alternates/BASE_SIXTEEN_NINE/file82h10258uyt177gf7mus
+Premium: false
+------------------------------------------------------------
+Titel: Tot twintig jaar cel voor folteraars van celgenoot in Antwerpse gevangenis
+Link: https://www.standaard.be/binnenland/tot-twintig-jaar-cel-voor-folteraars-van-celgenoot-in-antwerpse-gevangenis/94206560.html
+Datum: Wed, 01 Oct 2025 11:09:43 GMT
+Samenvatting: Vijf beklaagden hebben celstraffen tussen achttien maanden en twintig jaar gekregen voor de dagenlange foltering van een celgenoot in de gevangenis van Antwerpen.
+Auteur: Geen auteur
+Categorie: Binnenland
+Afbeelding: https://prod-img.standaard.be/public/nieuws/gsfvfs-947d395c-6402-11f0-9242-a56d091cb582.jpeg/alternates/BASE_SIXTEEN_NINE/947d395c-6402-11f0-9242-a56d091cb582.jpeg
+Premium: false
+------------------------------------------------------------
+Titel: Overlijdens na een val in tien jaar tijd verdubbeld: 1.224 Vlaamse slachtoffers in 2022
+Link: https://www.standaard.be/binnenland/overlijdens-na-een-val-in-tien-jaar-tijd-verdubbeld-1.224-vlaamse-slachtoffers-in-2022/94064578.html
+Datum: Tue, 30 Sep 2025 21:59:00 GMT
+Samenvatting: Sinds 2018 gaat het aantal 65-plussers dat ten val komt, opnieuw in stijgende lijn. Het overkomt in ons land zowat een kwart van hen. Het risico neemt toe met ouder worden. Vallen kan ernstige gevolgen hebben: 1.224 Vlamingen legden er het loodje bij neer.
+Auteur: Geen auteur
+Categorie: Binnenland
+Afbeelding: https://prod-img.standaard.be/public/nieuws/k82608-themabeeld-vergrijzing-oude-vrouw-wandelt-met-rollator-voorbij-het-strand-van-mariakerkeoostende-met-in-de-achtergrond-een-boot-speeltuig-voor-kinderen-foto-jimmy-kets/alternates/BASE_SIXTEEN_NINE/Themabeeld%20vergrijzing%20oude%20vrouw%20wandelt%20met%20rollator%20voorbij%20het%20strand%20van%20MariakerkeOostende%20met%20in%20de%20achtergrond%20een%20boot%20speeltuig%20voor%20kinderen%20foto%20Jimmy%20Kets
+Premium: true
+------------------------------------------------------------
+Titel: Ze werkte jarenlang bij Volvo in Gent, wordt Martina Johnson straks veroordeeld voor oorlogsmisdaden in Liberia?
+Link: https://www.standaard.be/binnenland/ze-werkte-jarenlang-bij-volvo-in-gent-wordt-martina-johnson-straks-veroordeeld-voor-oorlogsmisdaden-in-liberia/94033107.html
+Datum: Tue, 30 Sep 2025 21:59:00 GMT
+Samenvatting: Ze werkte bij Volvo in Gent, woonde jarenlang vredig met man en kind in volkswijk De Muide en wordt verdacht van oorlogsmisdaden. Staat Martina Johnson binnenkort voor het hof van assisen?
+Auteur: Geen auteur
+Categorie: Binnenland
+Afbeelding: https://prod-img.standaard.be/public/nieuws/c0v8zm-191.jpeg/alternates/BASE_SIXTEEN_NINE/191.jpeg
+Premium: true
 ------------------------------------------------------------
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: [Action required] Your RSS.app Trial has Expired.
-Link: https://rss.app
-Datum: Wed, 01 Oct 2025 17:09:20 GMT
-Samenvatting: Your trial has expired. Please update your subscription plan at <a href="https://rss.app">rss.app</a>. - (AhAgjAK1HabLkBZd)
+Titel: Met ‘dronemuur’ en versterkte oostgrens bouwt EU aan burcht tegen Rusland
+Link: https://www.standaard.be/buitenland/met-dronemuur-en-versterkte-oostgrens-bouwt-eu-aan-burcht-tegen-rusland/94239844.html
+Datum: Wed, 01 Oct 2025 20:17:58 GMT
+Samenvatting: Een grote groep lidstaten steunt het voorstel om versneld werk te maken van een ‘dronemuur’ en de versterking van de oostelijke grens van de EU. Ze reageren op de hybride oorlog die Rusland opvoert.
 Auteur: Geen auteur
-Categorie: Geen categorie
+Categorie: Buitenland
+Afbeelding: https://prod-img.standaard.be/public/nieuws/eiayee-2025-10-01t103432z-1740955496-rc2y2ha72f0q-rtrmadp-3-eu-summit.jpg/alternates/BASE_SIXTEEN_NINE/2025-10-01T103432Z_1740955496_RC2Y2HA72F0Q_RTRMADP_3_EU-SUMMIT.JPG
+Premium: true
+------------------------------------------------------------
+Titel: Israël onderschept grootste schepen van flotilla met humanitaire hulp voor Gaza
+Link: https://www.standaard.be/buitenland/israel-onderschept-grootste-schepen-van-flotilla-met-humanitaire-hulp-voor-gaza/94462510.html
+Datum: Wed, 01 Oct 2025 17:41:00 GMT
+Samenvatting: De Global Sumud Flotilla, een hulpkonvooi op weg naar Gaza, is zoals verwacht tegengehouden door de Israëlische marine. Er zijn vijf Belgen aan boord.
+Auteur: Geen auteur
+Categorie: Buitenland
+Afbeelding: https://prod-img.standaard.be/public/nieuws/hm8s4x-733.jpeg/alternates/BASE_SIXTEEN_NINE/733.jpeg
+Premium: false
+------------------------------------------------------------
+Titel: Taliban draaien internetverbod terug na drie dagen black-out
+Link: https://www.standaard.be/buitenland/taliban-draaien-internetverbod-terug-na-drie-dagen-black-out/94396069.html
+Datum: Wed, 01 Oct 2025 15:14:51 GMT
+Samenvatting: Na bijna drie dagen black-out zijn het internet en het mobiele telefoonnetwerk in verschillende Afghaanse provincies weer hersteld. De taliban hadden het uitgeschakeld om “immorele activiteiten” te voorkomen.
+Auteur: Geen auteur
+Categorie: Buitenland
+Afbeelding: https://prod-img.standaard.be/public/nieuws/lhleaw-internet-and-telecom-blackout-in-afghanistan/alternates/BASE_SIXTEEN_NINE/Internet%20and%20telecom%20blackout%20in%20Afghanistan
+Premium: false
+------------------------------------------------------------
+Titel: Vergeet Mars: een ijskoude maan biedt de beste kans om buitenaards leven te vinden
+Link: https://www.standaard.be/buitenland/vergeet-mars-een-ijskoude-maan-biedt-de-beste-kans-om-buitenaards-leven-te-vinden/94241514.html
+Datum: Wed, 01 Oct 2025 14:37:00 GMT
+Samenvatting: Vergeet Mars. Een kleine, ijskoude maan biedt momenteel de beste kans om buitenaards leven in ons zonnestelsel te vinden. Ze heeft een oceaan die bulkt van de koolstofchemie.
+Auteur: Geen auteur
+Categorie: Buitenland
+Afbeelding: https://prod-img.standaard.be/public/nieuws/sjtfiz-gettyimages-1217774642.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-1217774642.jpg
+Premium: true
+------------------------------------------------------------
+Titel: Politie identificeert verdachte voor dodelijke explosie, terrein Oktoberfest mag om halfzes weer open
+Link: https://www.standaard.be/buitenland/politie-identificeert-verdachte-voor-dodelijke-explosie-terrein-oktoberfest-mag-om-halfzes-weer-open/94229259.html
+Datum: Wed, 01 Oct 2025 14:05:00 GMT
+Samenvatting: De politie heeft een verdachte geïdentificeerd die verantwoordelijk is voor de dodelijke explosie in München. De man liet een brief na waarin hij dreigde met een aanslag op Oktoberfest, dat tijdelijk moest sluiten. Vanavond rond halfzes mag het festival weer openen.
+Auteur: Geen auteur
+Categorie: Buitenland
+Afbeelding: https://prod-img.nieuwsblad.be/public/nieuws/7kx3iv-germany-fire/alternates/BASE_SIXTEEN_NINE/Germany%20Fire
+Premium: false
 ------------------------------------------------------------
