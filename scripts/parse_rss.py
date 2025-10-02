@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Parses Belgian news RSS feeds and stores each article in a separate file
-within a directory named after the feed topic.
+Parses Belgian news RSS feeds and stores each article in fixed filenames
+(article_1.txt to article_5.txt) inside the respective feed directory.
+Each file is overwritten on each run and includes article number and timestamp.
 """
 import feedparser
 from pathlib import Path
@@ -34,7 +35,8 @@ def main():
                 continue
 
             article = [
-                f"Nieuwsupdate: {now}",
+                f"Artikel {valid_count + 1}",
+                f"Nieuwsupdate: {now} UCT",
                 "=" * 50,
                 f"\nDe Standaard - {topic} Nieuws:",
                 "=" * 50,
@@ -59,13 +61,12 @@ def main():
 
             article.append("-" * 60)
 
-            timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-            filename = topic_dir / f"article_{timestamp}_{valid_count+1}.txt"
+            filename = topic_dir / f"article_{valid_count + 1}.txt"
             filename.write_text("\n".join(article), encoding="utf-8")
 
             valid_count += 1
 
-    print("Nieuwsartikelen zijn opgeslagen in de respectieve mappen.")
+    print("Nieuwsartikelen zijn opgeslagen in vaste bestanden per feed.")
 
 if __name__ == "__main__":
     main()
