@@ -1,14 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-10-03 05:22 UCT
+Nieuwsupdate: 2025-10-03 11:08 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Nieuwe groothertog legt de eed af, Luxemburgers krijgen weer ‘Belgische’ groothertogin
-Link: https://www.standaard.be/buitenland/nieuwe-groothertog-legt-de-eed-af-luxemburgers-krijgen-weer-belgische-groothertogin/94693980.html
-Datum: Fri, 03 Oct 2025 00:00:00 GMT
-Samenvatting: Na 25 jaar geeft de Luxemburgse groothertog Henri de fakkel door aan zijn zoon Guillaume. De nieuwe groothertogin Stéphanie is geboren en opgegroeid in de buurt van Ronse.
+Titel: Defensie onderzoekt waarneming drones boven militair domein in Elsenborn
+Link: https://www.standaard.be/buitenland/defensie-onderzoekt-waarneming-drones-boven-militair-domein-in-elsenborn/94813833.html
+Datum: Fri, 03 Oct 2025 06:13:00 GMT
+Samenvatting: Er zouden donderdagnacht vijftien drones zijn gezien boven het militaire kamp van Elsenborn, in de Oostkantons. Dat meldt VRT NWS. Het ministerie van Defensie bevestigt dat er een onderzoek loopt.
 Auteur: Geen auteur
 Categorie: Buitenland
-Premium: true
+Afbeelding: https://prod-img.nieuwsblad.be/public/nieuws/ra9zkc-belgium-royals-military-initiation-fase-princess-elisabeth/alternates/BASE_SIXTEEN_NINE/BELGIUM%20ROYALS%20MILITARY%20INITIATION%20FASE%20PRINCESS%20ELISABETH
+Premium: false
 ------------------------------------------------------------
