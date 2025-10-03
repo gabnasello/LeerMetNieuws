@@ -1,15 +1,15 @@
 Artikel 4
-Nieuwsupdate: 2025-10-03 11:08 UCT
+Nieuwsupdate: 2025-10-03 17:08 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Drones gespot bij luchthaven München, tientallen vluchten geschrapt of omgeleid
-Link: https://www.standaard.be/buitenland/drones-gespot-bij-luchthaven-munchen-tientallen-vluchten-geschrapt-of-omgeleid/94811353.html
-Datum: Fri, 03 Oct 2025 05:32:00 GMT
-Samenvatting: De luchthaven in München heeft donderdagavond alle verkeer stilgelegd nadat er  drones waren gespot. Dat laat het vliegveld in de nacht van donderdag op vrijdag weten in een verklaring.
+Titel: Pro-Palestijnse actievoerders zondebok na terreuraanval op synagoge in Manchester
+Link: https://www.standaard.be/buitenland/pro-palestijnse-actievoerders-zondebok-na-terreuraanval-op-synagoge-in-manchester/94822330.html
+Datum: Fri, 03 Oct 2025 14:30:29 GMT
+Samenvatting: De Britse autoriteiten vragen pro-Palestijnse betogers “een paar dagen” thuis te blijven na een dodelijke terreuraanslag op een synagoge in Manchester. Intussen werd ook duidelijk dat een van de twee dodelijke slachtoffers stierf door politiekogels.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/l0f0s1-germany-airport-drones/alternates/BASE_SIXTEEN_NINE/Germany-Airport-Drones
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/mmfs48-police-investigate-scene-of-manchester-synagogue-deadly-attack/alternates/BASE_SIXTEEN_NINE/Police%20investigate%20scene%20of%20Manchester%20synagogue%20deadly%20attack
+Premium: true
 ------------------------------------------------------------
