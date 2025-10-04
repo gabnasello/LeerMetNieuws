@@ -1,56 +1,56 @@
-# Oud-baas van de NAVO Stoltenberg: “Rusland en China hebben veel minder vrienden”
+# Oud-leider van de NAVO: "Rusland en China hebben maar weinig vrienden"
 
-**Samenvatting:** Jens Stoltenberg was tien jaar de baas van de NAVO. Toen hij begon, was het rustig. Toen kwam Donald Trump. Kort daarna viel Rusland Oekraïne binnen. “Poetin denkt nog steeds dat hij kan winnen. Wij moeten dat veranderen.”
+**Samenvatting:** Jens Stoltenberg was tien jaar de baas van de NAVO. Toen hij begon, was het rustig. Toen kwam Donald Trump. Kort daarna viel Rusland Oekraïne binnen. "Poetin denkt nog steeds dat hij kan winnen. Wij moeten dat veranderen."
 
 ## Woordenschatuitbreiding
 
-### Woordlijst
+### Woordelijst
 | Woord | Definitie |
 |-------|-----------|
-| **NAVO** | Een groep van landen die samenwerken voor veiligheid. |
-| **bondgenoten** | Landen die vrienden zijn en elkaar helpen. |
-| **binnenvalen** | Het leger van een land gaat een ander land binnen zonder toestemming. |
-| **terugvallen op** | Iets of iemand gebruiken voor hulp als het moeilijk is. |
-| **winnen** | De beste zijn in een gevecht of strijd. |
+| **leider** | iemand die de baas is |
+| **bondgenoten** | landen die vrienden zijn en elkaar helpen |
+| **binnen** | van buiten naar de plek waar je zelf bent |
+| **vallen** | snel naar beneden gaan |
+| **rustig** | zonder problemen of geluid |
 
 ### Vul-in-de-leegte
-1. Jens Stoltenberg was de baas van de ___.
-2. Rusland viel ___ binnen.
+1. Jens Stoltenberg was de ___ van de NAVO.
+2. Rusland viel Oekraïne ___.
 3. Poetin denkt dat hij kan ___.
 
 #### Oplossingen
-1. NAVO
-2. Oekraïne
+1. leider
+2. binnen
 3. winnen
 
 ### Meerkeuzevragen
 1. Hoe lang was Stoltenberg de baas van de NAVO?
-   a) 5 jaar
-   b) 10 jaar
-   c) 15 jaar
-   d) 20 jaar
+   a) vijf jaar
+   b) tien jaar
+   c) vijftien jaar
+   d) twintig jaar
 
-2. Welk land viel een ander land binnen?
-   a) China
-   b) Duitsland
-   c) Rusland
-   d) Amerika
+2. Wie kwam er toen Stoltenberg begon?
+   a) Poetin
+   b) Donald Trump
+   c) De president van China
+   d) De leider van Oekraïne
 
-3. Wat betekent 'terugvallen op'?
-   a) iemand pijn doen
-   b) om hulp vragen aan iemand
-   c) iemand uitlachen
-   d) iemand negeren
+3. Wat denkt Poetin volgens Stoltenberg?
+   a) dat hij gaat verliezen
+   b) dat hij kan winnen
+   c) dat hij moet stoppen
+   d) dat hij meer vrienden nodig heeft
 
 #### Antwoorden
-1. b) 10 jaar
-2. c) Rusland
-3. b) om hulp vragen aan iemand
+1. b) tien jaar
+2. b) Donald Trump
+3. b) dat hij kan winnen
 
 ### Waar / Niet Waar
-1. Stoltenberg zegt dat Rusland en China 30 bondgenoten hebben.
-2. Donald Trump kwam nadat Stoltenberg begon.
-3. Poetin denkt dat hij zal verliezen.
+1. Stoltenberg was vijf jaar de baas van de NAVO.
+2. Rusland viel Oekraïne binnen.
+3. Poetin denkt dat hij gaat verliezen.
 
 #### Antwoorden
 1. Niet Waar
@@ -62,57 +62,57 @@
 [Lees het originele artikel](https://www.standaard.be/buitenland/ex-navobaas-stoltenberg-rusland-en-china-kunnen-niet-terugvallen-op-dertig-bondgenoten/94865366.html)
 
 ## Samenvatting
-Jens Stoltenberg was tien jaar de baas van de NAVO. Toen hij begon, was het rustig. Toen kwam Donald Trump. Kort daarna viel Rusland Oekraïne binnen. “Poetin denkt nog steeds dat hij kan winnen. Wij moeten dat veranderen.”
+Jens Stoltenberg was tien jaar de baas van de NAVO. Toen hij begon, was het rustig. Toen kwam Donald Trump. Kort daarna viel Rusland Oekraïne binnen. "Poetin denkt nog steeds dat hij kan winnen. Wij moeten dat veranderen."
 
 ## Woordenschatuitbreiding
 
-### Woordlijst
+### Woordelijst
 | Woord | Definitie |
 |-------|-----------|
-| **NAVO** | Een groep van landen die samenwerken voor veiligheid. |
-| **bondgenoten** | Landen die vrienden zijn en elkaar helpen. |
-| **binnenvalen** | Het leger van een land gaat een ander land binnen zonder toestemming. |
-| **terugvallen op** | Iets of iemand gebruiken voor hulp als het moeilijk is. |
-| **winnen** | De beste zijn in een gevecht of strijd. |
+| **leider** | iemand die de baas is |
+| **bondgenoten** | landen die vrienden zijn en elkaar helpen |
+| **binnen** | van buiten naar de plek waar je zelf bent |
+| **vallen** | snel naar beneden gaan |
+| **rustig** | zonder problemen of geluid |
 
 ### Vul-in-de-leegte
-1. Jens Stoltenberg was de baas van de ___.
-2. Rusland viel ___ binnen.
+1. Jens Stoltenberg was de ___ van de NAVO.
+2. Rusland viel Oekraïne ___.
 3. Poetin denkt dat hij kan ___.
 
 #### Oplossingen
-1. NAVO
-2. Oekraïne
+1. leider
+2. binnen
 3. winnen
 
 ### Meerkeuzevragen
 1. Hoe lang was Stoltenberg de baas van de NAVO?
-   a) 5 jaar
-   b) 10 jaar
-   c) 15 jaar
-   d) 20 jaar
+   a) vijf jaar
+   b) tien jaar
+   c) vijftien jaar
+   d) twintig jaar
 
-2. Welk land viel een ander land binnen?
-   a) China
-   b) Duitsland
-   c) Rusland
-   d) Amerika
+2. Wie kwam er toen Stoltenberg begon?
+   a) Poetin
+   b) Donald Trump
+   c) De president van China
+   d) De leider van Oekraïne
 
-3. Wat betekent 'terugvallen op'?
-   a) iemand pijn doen
-   b) om hulp vragen aan iemand
-   c) iemand uitlachen
-   d) iemand negeren
+3. Wat denkt Poetin volgens Stoltenberg?
+   a) dat hij gaat verliezen
+   b) dat hij kan winnen
+   c) dat hij moet stoppen
+   d) dat hij meer vrienden nodig heeft
 
 #### Antwoorden
-1. b) 10 jaar
-2. c) Rusland
-3. b) om hulp vragen aan iemand
+1. b) tien jaar
+2. b) Donald Trump
+3. b) dat hij kan winnen
 
 ### Waar / Niet Waar
-1. Stoltenberg zegt dat Rusland en China 30 bondgenoten hebben.
-2. Donald Trump kwam nadat Stoltenberg begon.
-3. Poetin denkt dat hij zal verliezen.
+1. Stoltenberg was vijf jaar de baas van de NAVO.
+2. Rusland viel Oekraïne binnen.
+3. Poetin denkt dat hij gaat verliezen.
 
 #### Antwoorden
 1. Niet Waar
@@ -121,53 +121,53 @@ Jens Stoltenberg was tien jaar de baas van de NAVO. Toen hij begon, was het rust
 ---
 
 ## Woordenschatuitbreiding
-### Woordlijst
+### Woordelijst
 | Woord | Definitie |
 |-------|-----------|
-| **NAVO** | Een groep van landen die samenwerken voor veiligheid. |
-| **bondgenoten** | Landen die vrienden zijn en elkaar helpen. |
-| **binnenvalen** | Het leger van een land gaat een ander land binnen zonder toestemming. |
-| **terugvallen op** | Iets of iemand gebruiken voor hulp als het moeilijk is. |
-| **winnen** | De beste zijn in een gevecht of strijd. |
+| **leider** | iemand die de baas is |
+| **bondgenoten** | landen die vrienden zijn en elkaar helpen |
+| **binnen** | van buiten naar de plek waar je zelf bent |
+| **vallen** | snel naar beneden gaan |
+| **rustig** | zonder problemen of geluid |
 
 ### Vul-in-de-leegte
-1. Jens Stoltenberg was de baas van de ___.
-2. Rusland viel ___ binnen.
+1. Jens Stoltenberg was de ___ van de NAVO.
+2. Rusland viel Oekraïne ___.
 3. Poetin denkt dat hij kan ___.
 
 #### Oplossingen
-1. NAVO
-2. Oekraïne
+1. leider
+2. binnen
 3. winnen
 
 ### Meerkeuzevragen
 1. Hoe lang was Stoltenberg de baas van de NAVO?
-   a) 5 jaar
-   b) 10 jaar
-   c) 15 jaar
-   d) 20 jaar
+   a) vijf jaar
+   b) tien jaar
+   c) vijftien jaar
+   d) twintig jaar
 
-2. Welk land viel een ander land binnen?
-   a) China
-   b) Duitsland
-   c) Rusland
-   d) Amerika
+2. Wie kwam er toen Stoltenberg begon?
+   a) Poetin
+   b) Donald Trump
+   c) De president van China
+   d) De leider van Oekraïne
 
-3. Wat betekent 'terugvallen op'?
-   a) iemand pijn doen
-   b) om hulp vragen aan iemand
-   c) iemand uitlachen
-   d) iemand negeren
+3. Wat denkt Poetin volgens Stoltenberg?
+   a) dat hij gaat verliezen
+   b) dat hij kan winnen
+   c) dat hij moet stoppen
+   d) dat hij meer vrienden nodig heeft
 
 #### Antwoorden
-1. b) 10 jaar
-2. c) Rusland
-3. b) om hulp vragen aan iemand
+1. b) tien jaar
+2. b) Donald Trump
+3. b) dat hij kan winnen
 
 ### Waar / Niet Waar
-1. Stoltenberg zegt dat Rusland en China 30 bondgenoten hebben.
-2. Donald Trump kwam nadat Stoltenberg begon.
-3. Poetin denkt dat hij zal verliezen.
+1. Stoltenberg was vijf jaar de baas van de NAVO.
+2. Rusland viel Oekraïne binnen.
+3. Poetin denkt dat hij gaat verliezen.
 
 #### Antwoorden
 1. Niet Waar
@@ -176,43 +176,43 @@ Jens Stoltenberg was tien jaar de baas van de NAVO. Toen hij begon, was het rust
 ---
 
 ## Vul-in-de-leegte
-1. Jens Stoltenberg was de baas van de ___.
-2. Rusland viel ___ binnen.
+1. Jens Stoltenberg was de ___ van de NAVO.
+2. Rusland viel Oekraïne ___.
 3. Poetin denkt dat hij kan ___.
 
 #### Oplossingen
-1. NAVO
-2. Oekraïne
+1. leider
+2. binnen
 3. winnen
 
 ### Meerkeuzevragen
 1. Hoe lang was Stoltenberg de baas van de NAVO?
-   a) 5 jaar
-   b) 10 jaar
-   c) 15 jaar
-   d) 20 jaar
+   a) vijf jaar
+   b) tien jaar
+   c) vijftien jaar
+   d) twintig jaar
 
-2. Welk land viel een ander land binnen?
-   a) China
-   b) Duitsland
-   c) Rusland
-   d) Amerika
+2. Wie kwam er toen Stoltenberg begon?
+   a) Poetin
+   b) Donald Trump
+   c) De president van China
+   d) De leider van Oekraïne
 
-3. Wat betekent 'terugvallen op'?
-   a) iemand pijn doen
-   b) om hulp vragen aan iemand
-   c) iemand uitlachen
-   d) iemand negeren
+3. Wat denkt Poetin volgens Stoltenberg?
+   a) dat hij gaat verliezen
+   b) dat hij kan winnen
+   c) dat hij moet stoppen
+   d) dat hij meer vrienden nodig heeft
 
 #### Antwoorden
-1. b) 10 jaar
-2. c) Rusland
-3. b) om hulp vragen aan iemand
+1. b) tien jaar
+2. b) Donald Trump
+3. b) dat hij kan winnen
 
 ### Waar / Niet Waar
-1. Stoltenberg zegt dat Rusland en China 30 bondgenoten hebben.
-2. Donald Trump kwam nadat Stoltenberg begon.
-3. Poetin denkt dat hij zal verliezen.
+1. Stoltenberg was vijf jaar de baas van de NAVO.
+2. Rusland viel Oekraïne binnen.
+3. Poetin denkt dat hij gaat verliezen.
 
 #### Antwoorden
 1. Niet Waar
@@ -222,32 +222,32 @@ Jens Stoltenberg was tien jaar de baas van de NAVO. Toen hij begon, was het rust
 
 ## Meerkeuzevragen
 1. Hoe lang was Stoltenberg de baas van de NAVO?
-   a) 5 jaar
-   b) 10 jaar
-   c) 15 jaar
-   d) 20 jaar
+   a) vijf jaar
+   b) tien jaar
+   c) vijftien jaar
+   d) twintig jaar
 
-2. Welk land viel een ander land binnen?
-   a) China
-   b) Duitsland
-   c) Rusland
-   d) Amerika
+2. Wie kwam er toen Stoltenberg begon?
+   a) Poetin
+   b) Donald Trump
+   c) De president van China
+   d) De leider van Oekraïne
 
-3. Wat betekent 'terugvallen op'?
-   a) iemand pijn doen
-   b) om hulp vragen aan iemand
-   c) iemand uitlachen
-   d) iemand negeren
+3. Wat denkt Poetin volgens Stoltenberg?
+   a) dat hij gaat verliezen
+   b) dat hij kan winnen
+   c) dat hij moet stoppen
+   d) dat hij meer vrienden nodig heeft
 
 #### Antwoorden
-1. b) 10 jaar
-2. c) Rusland
-3. b) om hulp vragen aan iemand
+1. b) tien jaar
+2. b) Donald Trump
+3. b) dat hij kan winnen
 
 ### Waar / Niet Waar
-1. Stoltenberg zegt dat Rusland en China 30 bondgenoten hebben.
-2. Donald Trump kwam nadat Stoltenberg begon.
-3. Poetin denkt dat hij zal verliezen.
+1. Stoltenberg was vijf jaar de baas van de NAVO.
+2. Rusland viel Oekraïne binnen.
+3. Poetin denkt dat hij gaat verliezen.
 
 #### Antwoorden
 1. Niet Waar
@@ -256,9 +256,9 @@ Jens Stoltenberg was tien jaar de baas van de NAVO. Toen hij begon, was het rust
 ---
 
 ## Waar / Niet waar
-1. Stoltenberg zegt dat Rusland en China 30 bondgenoten hebben.
-2. Donald Trump kwam nadat Stoltenberg begon.
-3. Poetin denkt dat hij zal verliezen.
+1. Stoltenberg was vijf jaar de baas van de NAVO.
+2. Rusland viel Oekraïne binnen.
+3. Poetin denkt dat hij gaat verliezen.
 
 #### Antwoorden
 1. Niet Waar

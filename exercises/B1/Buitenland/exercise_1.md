@@ -1,267 +1,267 @@
-# Ziekenhuizen in Gaza melden weer gevaarlijke aanvallen
+# Ziekenhuizen zeggen: bombardementen in Gaza gaan door
 
-**Samenvatting:** Israël gaat door met de oorlog in Gaza. Dit gebeurt ook al is er veel kritiek uit andere landen. Hier lees je het laatste nieuws.
+**Samenvatting:** Veel landen zijn boos op Israël. Toch gaat het land door met de oorlog in Gaza. Hier lees je het laatste nieuws.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **ziekenhuizen** | plaatsen waar zieke en gewonde mensen worden geholpen |
-| **melden** | vertellen of doorgeven wat er is gebeurd |
-| **aanvallen** | wanneer iemand met geweld op een plek of persoon afgaat |
-| **oorlog** | een tijd waarin landen of groepen met wapens tegen elkaar vechten |
-| **kritiek** | zeggen wat je slecht vindt aan iets of iemand |
+| **bevel** | een strenge opdracht die je moet uitvoeren |
+| **internationale** | van of over meerdere landen in de wereld |
+| **kritiek** | zeggen wat je slecht of fout vindt aan iets of iemand |
+| **ontwikkelingen** | nieuwe dingen die gebeuren en hoe een situatie verandert |
+| **onverminderd** | zonder minder te worden, even hard doorgaan |
 
 ### Vul-in-de-leegte
-1. De dokter werkt in het ___ waar gewonde mensen worden geholpen.
-2. De journalist zal ___ wat er gisteren is gebeurd.
-3. Veel landen hebben ___ op de aanval.
+1. De president gaf een ___ om de aanval te stoppen.
+2. Er is veel ___ op het nieuwe plan van de regering.
+3. We volgen de ___ in dat gebied op de voet.
 
 #### Oplossingen
-1. ziekenhuis
-2. melden
-3. kritiek
+1. bevel
+2. kritiek
+3. ontwikkelingen
 
 ### Meerkeuzevragen
-1. Wat is een ziekenhuis?
-   a) Een school
-   b) Een plek om gewonde mensen te helpen
-   c) Een winkel
-   d) Een restaurant
+1. Wat is een 'bevel'?
+   A) Een vriendelijk verzoek
+   B) Een strenge opdracht
+   C) Een moeilijke vraag
+   D) Een leuk gesprek
 
-2. Wat betekent 'melden'?
-   a) Iets schoonmaken
-   b) Iets doorgeven of vertellen
-   c) Iets kopen
-   d) Iets breken
+2. Wat betekent 'internationale kritiek'?
+   A) Iemand in je eigen land is boos op je.
+   B) Mensen uit je eigen familie zijn boos op je.
+   C) Mensen uit verschillende landen zeggen dat ze het ergens niet mee eens zijn.
+   D) Iemand geeft je een compliment.
 
-3. Wat is oorlog?
-   a) Samenwerken
-   b) Een feest vieren
-   c) Vechten met wapens tussen landen
-   d) Zaken doen
+3. Als iets 'onverminderd' doorgaat, betekent dat...
+   A) het stopt heel snel.
+   B) het gaat even hard door als eerst.
+   C) het wordt langzaam minder.
+   D) het is helemaal klaar.
 
 #### Antwoorden
-1. b
-2. b
-3. c
+1. B
+2. C
+3. B
 
 ### Waar / Niet Waar
-1. Een ziekenhuis is een plek om te sporten.
-2. 'Kritiek hebben' betekent dat je iets goed vindt.
-3. Bij een oorlog vechten groepen mensen tegen elkaar.
+1. De ziekenhuizen zeggen dat de bombardementen zijn gestopt.
+2. Veel landen zijn boos op Israël.
+3. De situatie in Gaza verandert niet.
 
 #### Antwoorden
 1. Niet Waar
-2. Niet Waar
-3. Waar
+2. Waar
+3. Niet Waar
 ---
 
 ![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/q1zodc-israel-palestinians-gaza/alternates/BASE_SIXTEEN_NINE/Israel%20Palestinians%20Gaza)  
 [Lees het originele artikel](https://www.standaard.be/buitenland/ondanks-trumps-bevel-melden-ziekenhuizen-opnieuw-dodelijke-bombardementen-in-gaza/35173881.html)
 
 ## Samenvatting
-Israël gaat door met de oorlog in Gaza. Dit gebeurt ook al is er veel kritiek uit andere landen. Hier lees je het laatste nieuws.
+Veel landen zijn boos op Israël. Toch gaat het land door met de oorlog in Gaza. Hier lees je het laatste nieuws.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **ziekenhuizen** | plaatsen waar zieke en gewonde mensen worden geholpen |
-| **melden** | vertellen of doorgeven wat er is gebeurd |
-| **aanvallen** | wanneer iemand met geweld op een plek of persoon afgaat |
-| **oorlog** | een tijd waarin landen of groepen met wapens tegen elkaar vechten |
-| **kritiek** | zeggen wat je slecht vindt aan iets of iemand |
+| **bevel** | een strenge opdracht die je moet uitvoeren |
+| **internationale** | van of over meerdere landen in de wereld |
+| **kritiek** | zeggen wat je slecht of fout vindt aan iets of iemand |
+| **ontwikkelingen** | nieuwe dingen die gebeuren en hoe een situatie verandert |
+| **onverminderd** | zonder minder te worden, even hard doorgaan |
 
 ### Vul-in-de-leegte
-1. De dokter werkt in het ___ waar gewonde mensen worden geholpen.
-2. De journalist zal ___ wat er gisteren is gebeurd.
-3. Veel landen hebben ___ op de aanval.
+1. De president gaf een ___ om de aanval te stoppen.
+2. Er is veel ___ op het nieuwe plan van de regering.
+3. We volgen de ___ in dat gebied op de voet.
 
 #### Oplossingen
-1. ziekenhuis
-2. melden
-3. kritiek
+1. bevel
+2. kritiek
+3. ontwikkelingen
 
 ### Meerkeuzevragen
-1. Wat is een ziekenhuis?
-   a) Een school
-   b) Een plek om gewonde mensen te helpen
-   c) Een winkel
-   d) Een restaurant
+1. Wat is een 'bevel'?
+   A) Een vriendelijk verzoek
+   B) Een strenge opdracht
+   C) Een moeilijke vraag
+   D) Een leuk gesprek
 
-2. Wat betekent 'melden'?
-   a) Iets schoonmaken
-   b) Iets doorgeven of vertellen
-   c) Iets kopen
-   d) Iets breken
+2. Wat betekent 'internationale kritiek'?
+   A) Iemand in je eigen land is boos op je.
+   B) Mensen uit je eigen familie zijn boos op je.
+   C) Mensen uit verschillende landen zeggen dat ze het ergens niet mee eens zijn.
+   D) Iemand geeft je een compliment.
 
-3. Wat is oorlog?
-   a) Samenwerken
-   b) Een feest vieren
-   c) Vechten met wapens tussen landen
-   d) Zaken doen
+3. Als iets 'onverminderd' doorgaat, betekent dat...
+   A) het stopt heel snel.
+   B) het gaat even hard door als eerst.
+   C) het wordt langzaam minder.
+   D) het is helemaal klaar.
 
 #### Antwoorden
-1. b
-2. b
-3. c
+1. B
+2. C
+3. B
 
 ### Waar / Niet Waar
-1. Een ziekenhuis is een plek om te sporten.
-2. 'Kritiek hebben' betekent dat je iets goed vindt.
-3. Bij een oorlog vechten groepen mensen tegen elkaar.
+1. De ziekenhuizen zeggen dat de bombardementen zijn gestopt.
+2. Veel landen zijn boos op Israël.
+3. De situatie in Gaza verandert niet.
 
 #### Antwoorden
 1. Niet Waar
-2. Niet Waar
-3. Waar
+2. Waar
+3. Niet Waar
 ---
 
 ## Woordenschatuitbreiding
 ### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **ziekenhuizen** | plaatsen waar zieke en gewonde mensen worden geholpen |
-| **melden** | vertellen of doorgeven wat er is gebeurd |
-| **aanvallen** | wanneer iemand met geweld op een plek of persoon afgaat |
-| **oorlog** | een tijd waarin landen of groepen met wapens tegen elkaar vechten |
-| **kritiek** | zeggen wat je slecht vindt aan iets of iemand |
+| **bevel** | een strenge opdracht die je moet uitvoeren |
+| **internationale** | van of over meerdere landen in de wereld |
+| **kritiek** | zeggen wat je slecht of fout vindt aan iets of iemand |
+| **ontwikkelingen** | nieuwe dingen die gebeuren en hoe een situatie verandert |
+| **onverminderd** | zonder minder te worden, even hard doorgaan |
 
 ### Vul-in-de-leegte
-1. De dokter werkt in het ___ waar gewonde mensen worden geholpen.
-2. De journalist zal ___ wat er gisteren is gebeurd.
-3. Veel landen hebben ___ op de aanval.
+1. De president gaf een ___ om de aanval te stoppen.
+2. Er is veel ___ op het nieuwe plan van de regering.
+3. We volgen de ___ in dat gebied op de voet.
 
 #### Oplossingen
-1. ziekenhuis
-2. melden
-3. kritiek
+1. bevel
+2. kritiek
+3. ontwikkelingen
 
 ### Meerkeuzevragen
-1. Wat is een ziekenhuis?
-   a) Een school
-   b) Een plek om gewonde mensen te helpen
-   c) Een winkel
-   d) Een restaurant
+1. Wat is een 'bevel'?
+   A) Een vriendelijk verzoek
+   B) Een strenge opdracht
+   C) Een moeilijke vraag
+   D) Een leuk gesprek
 
-2. Wat betekent 'melden'?
-   a) Iets schoonmaken
-   b) Iets doorgeven of vertellen
-   c) Iets kopen
-   d) Iets breken
+2. Wat betekent 'internationale kritiek'?
+   A) Iemand in je eigen land is boos op je.
+   B) Mensen uit je eigen familie zijn boos op je.
+   C) Mensen uit verschillende landen zeggen dat ze het ergens niet mee eens zijn.
+   D) Iemand geeft je een compliment.
 
-3. Wat is oorlog?
-   a) Samenwerken
-   b) Een feest vieren
-   c) Vechten met wapens tussen landen
-   d) Zaken doen
+3. Als iets 'onverminderd' doorgaat, betekent dat...
+   A) het stopt heel snel.
+   B) het gaat even hard door als eerst.
+   C) het wordt langzaam minder.
+   D) het is helemaal klaar.
 
 #### Antwoorden
-1. b
-2. b
-3. c
+1. B
+2. C
+3. B
 
 ### Waar / Niet Waar
-1. Een ziekenhuis is een plek om te sporten.
-2. 'Kritiek hebben' betekent dat je iets goed vindt.
-3. Bij een oorlog vechten groepen mensen tegen elkaar.
+1. De ziekenhuizen zeggen dat de bombardementen zijn gestopt.
+2. Veel landen zijn boos op Israël.
+3. De situatie in Gaza verandert niet.
 
 #### Antwoorden
 1. Niet Waar
-2. Niet Waar
-3. Waar
+2. Waar
+3. Niet Waar
 ---
 
 ## Vul-in-de-leegte
-1. De dokter werkt in het ___ waar gewonde mensen worden geholpen.
-2. De journalist zal ___ wat er gisteren is gebeurd.
-3. Veel landen hebben ___ op de aanval.
+1. De president gaf een ___ om de aanval te stoppen.
+2. Er is veel ___ op het nieuwe plan van de regering.
+3. We volgen de ___ in dat gebied op de voet.
 
 #### Oplossingen
-1. ziekenhuis
-2. melden
-3. kritiek
+1. bevel
+2. kritiek
+3. ontwikkelingen
 
 ### Meerkeuzevragen
-1. Wat is een ziekenhuis?
-   a) Een school
-   b) Een plek om gewonde mensen te helpen
-   c) Een winkel
-   d) Een restaurant
+1. Wat is een 'bevel'?
+   A) Een vriendelijk verzoek
+   B) Een strenge opdracht
+   C) Een moeilijke vraag
+   D) Een leuk gesprek
 
-2. Wat betekent 'melden'?
-   a) Iets schoonmaken
-   b) Iets doorgeven of vertellen
-   c) Iets kopen
-   d) Iets breken
+2. Wat betekent 'internationale kritiek'?
+   A) Iemand in je eigen land is boos op je.
+   B) Mensen uit je eigen familie zijn boos op je.
+   C) Mensen uit verschillende landen zeggen dat ze het ergens niet mee eens zijn.
+   D) Iemand geeft je een compliment.
 
-3. Wat is oorlog?
-   a) Samenwerken
-   b) Een feest vieren
-   c) Vechten met wapens tussen landen
-   d) Zaken doen
+3. Als iets 'onverminderd' doorgaat, betekent dat...
+   A) het stopt heel snel.
+   B) het gaat even hard door als eerst.
+   C) het wordt langzaam minder.
+   D) het is helemaal klaar.
 
 #### Antwoorden
-1. b
-2. b
-3. c
+1. B
+2. C
+3. B
 
 ### Waar / Niet Waar
-1. Een ziekenhuis is een plek om te sporten.
-2. 'Kritiek hebben' betekent dat je iets goed vindt.
-3. Bij een oorlog vechten groepen mensen tegen elkaar.
+1. De ziekenhuizen zeggen dat de bombardementen zijn gestopt.
+2. Veel landen zijn boos op Israël.
+3. De situatie in Gaza verandert niet.
 
 #### Antwoorden
 1. Niet Waar
-2. Niet Waar
-3. Waar
+2. Waar
+3. Niet Waar
 ---
 
 ## Meerkeuzevragen
-1. Wat is een ziekenhuis?
-   a) Een school
-   b) Een plek om gewonde mensen te helpen
-   c) Een winkel
-   d) Een restaurant
+1. Wat is een 'bevel'?
+   A) Een vriendelijk verzoek
+   B) Een strenge opdracht
+   C) Een moeilijke vraag
+   D) Een leuk gesprek
 
-2. Wat betekent 'melden'?
-   a) Iets schoonmaken
-   b) Iets doorgeven of vertellen
-   c) Iets kopen
-   d) Iets breken
+2. Wat betekent 'internationale kritiek'?
+   A) Iemand in je eigen land is boos op je.
+   B) Mensen uit je eigen familie zijn boos op je.
+   C) Mensen uit verschillende landen zeggen dat ze het ergens niet mee eens zijn.
+   D) Iemand geeft je een compliment.
 
-3. Wat is oorlog?
-   a) Samenwerken
-   b) Een feest vieren
-   c) Vechten met wapens tussen landen
-   d) Zaken doen
+3. Als iets 'onverminderd' doorgaat, betekent dat...
+   A) het stopt heel snel.
+   B) het gaat even hard door als eerst.
+   C) het wordt langzaam minder.
+   D) het is helemaal klaar.
 
 #### Antwoorden
-1. b
-2. b
-3. c
+1. B
+2. C
+3. B
 
 ### Waar / Niet Waar
-1. Een ziekenhuis is een plek om te sporten.
-2. 'Kritiek hebben' betekent dat je iets goed vindt.
-3. Bij een oorlog vechten groepen mensen tegen elkaar.
+1. De ziekenhuizen zeggen dat de bombardementen zijn gestopt.
+2. Veel landen zijn boos op Israël.
+3. De situatie in Gaza verandert niet.
 
 #### Antwoorden
 1. Niet Waar
-2. Niet Waar
-3. Waar
+2. Waar
+3. Niet Waar
 ---
 
 ## Waar / Niet waar
-1. Een ziekenhuis is een plek om te sporten.
-2. 'Kritiek hebben' betekent dat je iets goed vindt.
-3. Bij een oorlog vechten groepen mensen tegen elkaar.
+1. De ziekenhuizen zeggen dat de bombardementen zijn gestopt.
+2. Veel landen zijn boos op Israël.
+3. De situatie in Gaza verandert niet.
 
 #### Antwoorden
 1. Niet Waar
-2. Niet Waar
-3. Waar
+2. Waar
+3. Niet Waar
 ---

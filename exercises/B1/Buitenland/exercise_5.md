@@ -1,56 +1,56 @@
-# De vergeten oorlog: "Al-Fasher heeft grote problemen"
+# De vergeten oorlog in Al-Fasher
 
-**Samenvatting:** De stad Al-Fasher in Soedan heeft al meer dan 500 dagen oorlog. Er kan geen eten en geen medicijnen meer naar binnen. Een fotograaf, Mohamed Zakaria, ziet alles. Hij maakt foto's van deze oorlog die bijna niemand meer kent. Deze oorlog kan heel erg worden.
+**Samenvatting:** De stad Al-Fasher in Soedan wordt al meer dan 500 dagen omsingeld door soldaten. Er kunnen geen eten en medicijnen meer naar binnen. Een fotograaf ziet alles. Hij is een belangrijke getuige van deze oorlog. De oorlog is bijna vergeten door de wereld. Het kan een genocide worden. Dat betekent dat er een volk wordt uitgemoord.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **conflict** | een lange en vaak gewelddadige ruzie tussen groepen |
-| **belegerd** | een stad die is omsingeld, zodat niemand meer in of uit kan |
-| **noodsituatie** | een zeer gevaarlijke en ernstige toestand waarin direct hulp nodig is |
-| **kroongetuige** | een zeer belangrijke getuige die alles van dichtbij heeft gezien |
+| **omsingeld** | helemaal omgeven door vijandige soldaten, je kunt er niet meer in of uit |
+| **getuige** | iemand die iets met eigen ogen heeft gezien of meegemaakt |
+| **vergeten** | dat niemand er meer aan denkt of weet |
 | **genocide** | het opzettelijk doden van een hele bevolkingsgroep |
+| **noodsituatie** | een zeer gevaarlijke en ernstige toestand waar snel hulp nodig is |
 
 ### Vul-in-de-leegte
-1. De stad is al lang ________, dus er komt geen eten meer binnen.
-2. Mohamed Zakaria is een ________ omdat hij foto's maakt van de oorlog.
-3. De situatie is zo erg dat het een ________ wordt genoemd.
+1. De stad is al lang ___ door soldaten, niemand kan meer weg.
+2. De fotograaf is een belangrijke ___ van de oorlog.
+3. Er is een ___ omdat er geen eten en medicijnen meer zijn.
 
 #### Oplossingen
-1. belegerd
-2. kroongetuige
+1. omsingeld
+2. getuige
 3. noodsituatie
 
 ### Meerkeuzevragen
-1. Hoe lang duurt het conflict in Al-Fasher al?
-   a) 100 dagen
-   b) 300 dagen
-   c) meer dan 500 dagen
-   d) 50 dagen
+1. Hoe lang is Al-Fasher al omsingeld?
+   a) meer dan 100 dagen
+   b) meer dan 500 dagen
+   c) meer dan 1000 dagen
+   d) precies 365 dagen
 
-2. Wat kan de stad niet binnenkomen?
-   a) nieuwe mensen
-   b) eten en medicijnen
-   c) foto's
-   d) auto's
-
-3. Wat voor persoon is Mohamed Zakaria?
+2. Wat is Mohamed Zakaria?
    a) een soldaat
-   b) een dokter
-   c) een fotograaf
-   d) een leraar
+   b) een fotograaf
+   c) een dokter
+   d) een politicus
+
+3. Wat betekent 'genocide'?
+   a) een grote overwinning vieren
+   b) een heel volk uitmoorden
+   c) een nieuwe wet maken
+   d) vrede sluiten
 
 #### Antwoorden
-1. c
+1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. Al-Fasher is een stad in België.
-2. Er is een tekort aan eten en medicijnen.
-3. Iedereen over de hele wereld praat over dit conflict.
+1. Er kunnen nog steeds medicijnen en voedsel naar Al-Fasher.
+2. Deze oorlog is bijna vergeten door de wereld.
+3. De situatie in de stad is niet erg ernstig.
 
 #### Antwoorden
 1. Niet Waar
@@ -62,57 +62,57 @@
 [Lees het originele artikel](https://www.standaard.be/buitenland/het-vergeten-conflict-al-fasher-bevindt-zich-in-een-absolute-noodsituatie/94833361.html)
 
 ## Samenvatting
-De stad Al-Fasher in Soedan heeft al meer dan 500 dagen oorlog. Er kan geen eten en geen medicijnen meer naar binnen. Een fotograaf, Mohamed Zakaria, ziet alles. Hij maakt foto's van deze oorlog die bijna niemand meer kent. Deze oorlog kan heel erg worden.
+De stad Al-Fasher in Soedan wordt al meer dan 500 dagen omsingeld door soldaten. Er kunnen geen eten en medicijnen meer naar binnen. Een fotograaf ziet alles. Hij is een belangrijke getuige van deze oorlog. De oorlog is bijna vergeten door de wereld. Het kan een genocide worden. Dat betekent dat er een volk wordt uitgemoord.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **conflict** | een lange en vaak gewelddadige ruzie tussen groepen |
-| **belegerd** | een stad die is omsingeld, zodat niemand meer in of uit kan |
-| **noodsituatie** | een zeer gevaarlijke en ernstige toestand waarin direct hulp nodig is |
-| **kroongetuige** | een zeer belangrijke getuige die alles van dichtbij heeft gezien |
+| **omsingeld** | helemaal omgeven door vijandige soldaten, je kunt er niet meer in of uit |
+| **getuige** | iemand die iets met eigen ogen heeft gezien of meegemaakt |
+| **vergeten** | dat niemand er meer aan denkt of weet |
 | **genocide** | het opzettelijk doden van een hele bevolkingsgroep |
+| **noodsituatie** | een zeer gevaarlijke en ernstige toestand waar snel hulp nodig is |
 
 ### Vul-in-de-leegte
-1. De stad is al lang ________, dus er komt geen eten meer binnen.
-2. Mohamed Zakaria is een ________ omdat hij foto's maakt van de oorlog.
-3. De situatie is zo erg dat het een ________ wordt genoemd.
+1. De stad is al lang ___ door soldaten, niemand kan meer weg.
+2. De fotograaf is een belangrijke ___ van de oorlog.
+3. Er is een ___ omdat er geen eten en medicijnen meer zijn.
 
 #### Oplossingen
-1. belegerd
-2. kroongetuige
+1. omsingeld
+2. getuige
 3. noodsituatie
 
 ### Meerkeuzevragen
-1. Hoe lang duurt het conflict in Al-Fasher al?
-   a) 100 dagen
-   b) 300 dagen
-   c) meer dan 500 dagen
-   d) 50 dagen
+1. Hoe lang is Al-Fasher al omsingeld?
+   a) meer dan 100 dagen
+   b) meer dan 500 dagen
+   c) meer dan 1000 dagen
+   d) precies 365 dagen
 
-2. Wat kan de stad niet binnenkomen?
-   a) nieuwe mensen
-   b) eten en medicijnen
-   c) foto's
-   d) auto's
-
-3. Wat voor persoon is Mohamed Zakaria?
+2. Wat is Mohamed Zakaria?
    a) een soldaat
-   b) een dokter
-   c) een fotograaf
-   d) een leraar
+   b) een fotograaf
+   c) een dokter
+   d) een politicus
+
+3. Wat betekent 'genocide'?
+   a) een grote overwinning vieren
+   b) een heel volk uitmoorden
+   c) een nieuwe wet maken
+   d) vrede sluiten
 
 #### Antwoorden
-1. c
+1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. Al-Fasher is een stad in België.
-2. Er is een tekort aan eten en medicijnen.
-3. Iedereen over de hele wereld praat over dit conflict.
+1. Er kunnen nog steeds medicijnen en voedsel naar Al-Fasher.
+2. Deze oorlog is bijna vergeten door de wereld.
+3. De situatie in de stad is niet erg ernstig.
 
 #### Antwoorden
 1. Niet Waar
@@ -124,50 +124,50 @@ De stad Al-Fasher in Soedan heeft al meer dan 500 dagen oorlog. Er kan geen eten
 ### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **conflict** | een lange en vaak gewelddadige ruzie tussen groepen |
-| **belegerd** | een stad die is omsingeld, zodat niemand meer in of uit kan |
-| **noodsituatie** | een zeer gevaarlijke en ernstige toestand waarin direct hulp nodig is |
-| **kroongetuige** | een zeer belangrijke getuige die alles van dichtbij heeft gezien |
+| **omsingeld** | helemaal omgeven door vijandige soldaten, je kunt er niet meer in of uit |
+| **getuige** | iemand die iets met eigen ogen heeft gezien of meegemaakt |
+| **vergeten** | dat niemand er meer aan denkt of weet |
 | **genocide** | het opzettelijk doden van een hele bevolkingsgroep |
+| **noodsituatie** | een zeer gevaarlijke en ernstige toestand waar snel hulp nodig is |
 
 ### Vul-in-de-leegte
-1. De stad is al lang ________, dus er komt geen eten meer binnen.
-2. Mohamed Zakaria is een ________ omdat hij foto's maakt van de oorlog.
-3. De situatie is zo erg dat het een ________ wordt genoemd.
+1. De stad is al lang ___ door soldaten, niemand kan meer weg.
+2. De fotograaf is een belangrijke ___ van de oorlog.
+3. Er is een ___ omdat er geen eten en medicijnen meer zijn.
 
 #### Oplossingen
-1. belegerd
-2. kroongetuige
+1. omsingeld
+2. getuige
 3. noodsituatie
 
 ### Meerkeuzevragen
-1. Hoe lang duurt het conflict in Al-Fasher al?
-   a) 100 dagen
-   b) 300 dagen
-   c) meer dan 500 dagen
-   d) 50 dagen
+1. Hoe lang is Al-Fasher al omsingeld?
+   a) meer dan 100 dagen
+   b) meer dan 500 dagen
+   c) meer dan 1000 dagen
+   d) precies 365 dagen
 
-2. Wat kan de stad niet binnenkomen?
-   a) nieuwe mensen
-   b) eten en medicijnen
-   c) foto's
-   d) auto's
-
-3. Wat voor persoon is Mohamed Zakaria?
+2. Wat is Mohamed Zakaria?
    a) een soldaat
-   b) een dokter
-   c) een fotograaf
-   d) een leraar
+   b) een fotograaf
+   c) een dokter
+   d) een politicus
+
+3. Wat betekent 'genocide'?
+   a) een grote overwinning vieren
+   b) een heel volk uitmoorden
+   c) een nieuwe wet maken
+   d) vrede sluiten
 
 #### Antwoorden
-1. c
+1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. Al-Fasher is een stad in België.
-2. Er is een tekort aan eten en medicijnen.
-3. Iedereen over de hele wereld praat over dit conflict.
+1. Er kunnen nog steeds medicijnen en voedsel naar Al-Fasher.
+2. Deze oorlog is bijna vergeten door de wereld.
+3. De situatie in de stad is niet erg ernstig.
 
 #### Antwoorden
 1. Niet Waar
@@ -176,43 +176,43 @@ De stad Al-Fasher in Soedan heeft al meer dan 500 dagen oorlog. Er kan geen eten
 ---
 
 ## Vul-in-de-leegte
-1. De stad is al lang ________, dus er komt geen eten meer binnen.
-2. Mohamed Zakaria is een ________ omdat hij foto's maakt van de oorlog.
-3. De situatie is zo erg dat het een ________ wordt genoemd.
+1. De stad is al lang ___ door soldaten, niemand kan meer weg.
+2. De fotograaf is een belangrijke ___ van de oorlog.
+3. Er is een ___ omdat er geen eten en medicijnen meer zijn.
 
 #### Oplossingen
-1. belegerd
-2. kroongetuige
+1. omsingeld
+2. getuige
 3. noodsituatie
 
 ### Meerkeuzevragen
-1. Hoe lang duurt het conflict in Al-Fasher al?
-   a) 100 dagen
-   b) 300 dagen
-   c) meer dan 500 dagen
-   d) 50 dagen
+1. Hoe lang is Al-Fasher al omsingeld?
+   a) meer dan 100 dagen
+   b) meer dan 500 dagen
+   c) meer dan 1000 dagen
+   d) precies 365 dagen
 
-2. Wat kan de stad niet binnenkomen?
-   a) nieuwe mensen
-   b) eten en medicijnen
-   c) foto's
-   d) auto's
-
-3. Wat voor persoon is Mohamed Zakaria?
+2. Wat is Mohamed Zakaria?
    a) een soldaat
-   b) een dokter
-   c) een fotograaf
-   d) een leraar
+   b) een fotograaf
+   c) een dokter
+   d) een politicus
+
+3. Wat betekent 'genocide'?
+   a) een grote overwinning vieren
+   b) een heel volk uitmoorden
+   c) een nieuwe wet maken
+   d) vrede sluiten
 
 #### Antwoorden
-1. c
+1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. Al-Fasher is een stad in België.
-2. Er is een tekort aan eten en medicijnen.
-3. Iedereen over de hele wereld praat over dit conflict.
+1. Er kunnen nog steeds medicijnen en voedsel naar Al-Fasher.
+2. Deze oorlog is bijna vergeten door de wereld.
+3. De situatie in de stad is niet erg ernstig.
 
 #### Antwoorden
 1. Niet Waar
@@ -221,33 +221,33 @@ De stad Al-Fasher in Soedan heeft al meer dan 500 dagen oorlog. Er kan geen eten
 ---
 
 ## Meerkeuzevragen
-1. Hoe lang duurt het conflict in Al-Fasher al?
-   a) 100 dagen
-   b) 300 dagen
-   c) meer dan 500 dagen
-   d) 50 dagen
+1. Hoe lang is Al-Fasher al omsingeld?
+   a) meer dan 100 dagen
+   b) meer dan 500 dagen
+   c) meer dan 1000 dagen
+   d) precies 365 dagen
 
-2. Wat kan de stad niet binnenkomen?
-   a) nieuwe mensen
-   b) eten en medicijnen
-   c) foto's
-   d) auto's
-
-3. Wat voor persoon is Mohamed Zakaria?
+2. Wat is Mohamed Zakaria?
    a) een soldaat
-   b) een dokter
-   c) een fotograaf
-   d) een leraar
+   b) een fotograaf
+   c) een dokter
+   d) een politicus
+
+3. Wat betekent 'genocide'?
+   a) een grote overwinning vieren
+   b) een heel volk uitmoorden
+   c) een nieuwe wet maken
+   d) vrede sluiten
 
 #### Antwoorden
-1. c
+1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. Al-Fasher is een stad in België.
-2. Er is een tekort aan eten en medicijnen.
-3. Iedereen over de hele wereld praat over dit conflict.
+1. Er kunnen nog steeds medicijnen en voedsel naar Al-Fasher.
+2. Deze oorlog is bijna vergeten door de wereld.
+3. De situatie in de stad is niet erg ernstig.
 
 #### Antwoorden
 1. Niet Waar
@@ -256,9 +256,9 @@ De stad Al-Fasher in Soedan heeft al meer dan 500 dagen oorlog. Er kan geen eten
 ---
 
 ## Waar / Niet waar
-1. Al-Fasher is een stad in België.
-2. Er is een tekort aan eten en medicijnen.
-3. Iedereen over de hele wereld praat over dit conflict.
+1. Er kunnen nog steeds medicijnen en voedsel naar Al-Fasher.
+2. Deze oorlog is bijna vergeten door de wereld.
+3. De situatie in de stad is niet erg ernstig.
 
 #### Antwoorden
 1. Niet Waar

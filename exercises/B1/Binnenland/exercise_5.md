@@ -1,56 +1,56 @@
 # Expert Peter Lacoere: "Niemand geeft om het landschap"
 
-**Samenvatting:** In Vlaanderen nemen we steeds meer open ruimte in. Dat is een probleem, zegt expert Peter Lacoere. Hij zegt dat we open ruimte nodig hebben om Vlaanderen een fijne, veilige en sterke plek te maken.
+**Samenvatting:** In Vlaanderen gebruiken we beetje bij beetje alle open ruimte. Volgens expert Peter Lacoere is dat een groot probleem voor de toekomst. Hij zegt: "We hebben open ruimte nodig om Vlaanderen een fijne, veilige en sterke plek te maken."
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **expert** | iemand die heel veel weet over een onderwerp |
-| **landschap** | het land dat je ziet, met velden, bossen en gebouwen |
-| **open ruimte** | plek zonder gebouwen, zoals een park, bos of veld |
+| **expert** | iemand die heel veel weet over een bepaald onderwerp |
+| **landschap** | het land dat je om je heen ziet, met natuur, velden en gebouwen |
+| **Vlaanderen** | het Nederlandstalige deel van België |
+| **open ruimte** | plekken zonder gebouwen, zoals parken, velden en bossen |
 | **leefbaar** | fijn om in te wonen en te leven |
-| **weerbaar** | sterk genoeg om problemen aan te kunnen |
 
 ### Vul-in-de-leegte
 1.  We moeten zuinig zijn op de laatste ___ ruimte.
-2.  Een ___ weet heel veel over één specifiek onderwerp.
-3.  Een groene stad met parken is veel ___ om in te wonen.
+2.  Peter Lacoere is een ___ in bouwen en ruimte.
+3.  Een ___ plek is een fijne plek om te wonen.
 
 #### Oplossingen
 1.  open
 2.  expert
-3.  leefbaar
+3.  leefbare
 
 ### Meerkeuzevragen
-1. Wat is 'open ruimte'?
-   a) Een lege kamer
-   b) Een ruimte zonder dak
-   c) Een plek zonder gebouwen, zoals een park
-   d) Een grote garage
+1. Waarover maakt Peter Lacoere zich zorgen?
+   a) Het verkeer
+   b) Het verdwijnen van open ruimte
+   c) De prijs van huizen
+   d) Het weer
 
-2. Wat bedoelt men met een 'leefbare' plek?
-   a) Een plek waar je mag leven
-   b) Een fijne en goede plek om te wonen
-   c) Een plek met veel mensen
-   d) Een plek waar veel gebouwd wordt
+2. Wat is Vlaanderen?
+   a) Een stad in Nederland
+   b) Een provincie in Duitsland
+   c) Het Nederlandstalige deel van België
+   d) Een rivier in Frankrijk
 
-3. Waarom is open ruimte belangrijk volgens de tekst?
-   a) Om meer te kunnen bouwen
-   b) Om het landschap mooi, veilig en sterk te maken
-   c) Om meer auto's te kunnen parkeren
-   d) Om meer winkels te openen
+3. Wat betekent 'leefbaar'?
+   a) Druk en vol
+   b) Vies en rommelig
+   c) Fijn om in te wonen
+   d) Heel groot
 
 #### Antwoorden
-1.  c
-2.  b
-3.  b
+1.  b
+2.  c
+3.  c
 
 ### Waar / Niet Waar
-1.  Peter Lacoere vindt dat we meer open ruimte moeten innemen.
-2.  Open ruimte is belangrijk voor een fijne leefomgeving.
-3.  'Weerbaar' betekent dat iets makkelijk kapot gaat.
+1.  Peter Lacoere vindt dat we meer open ruimte moeten gebruiken voor gebouwen.
+2.  Open ruimte is belangrijk om een regio veilig en leefbaar te maken.
+3.  Vlaanderen is de Franstalige deel van België.
 
 #### Antwoorden
 1.  Niet Waar
@@ -62,57 +62,57 @@
 [Lees het originele artikel](https://www.standaard.be/binnenland/bouwshiftexpert-peter-lacoere-niemand-lijkt-zich-om-het-landschap-te-bekommeren/94659270.html)
 
 ## Samenvatting
-In Vlaanderen nemen we steeds meer open ruimte in. Dat is een probleem, zegt expert Peter Lacoere. Hij zegt dat we open ruimte nodig hebben om Vlaanderen een fijne, veilige en sterke plek te maken.
+In Vlaanderen gebruiken we beetje bij beetje alle open ruimte. Volgens expert Peter Lacoere is dat een groot probleem voor de toekomst. Hij zegt: "We hebben open ruimte nodig om Vlaanderen een fijne, veilige en sterke plek te maken."
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **expert** | iemand die heel veel weet over een onderwerp |
-| **landschap** | het land dat je ziet, met velden, bossen en gebouwen |
-| **open ruimte** | plek zonder gebouwen, zoals een park, bos of veld |
+| **expert** | iemand die heel veel weet over een bepaald onderwerp |
+| **landschap** | het land dat je om je heen ziet, met natuur, velden en gebouwen |
+| **Vlaanderen** | het Nederlandstalige deel van België |
+| **open ruimte** | plekken zonder gebouwen, zoals parken, velden en bossen |
 | **leefbaar** | fijn om in te wonen en te leven |
-| **weerbaar** | sterk genoeg om problemen aan te kunnen |
 
 ### Vul-in-de-leegte
 1.  We moeten zuinig zijn op de laatste ___ ruimte.
-2.  Een ___ weet heel veel over één specifiek onderwerp.
-3.  Een groene stad met parken is veel ___ om in te wonen.
+2.  Peter Lacoere is een ___ in bouwen en ruimte.
+3.  Een ___ plek is een fijne plek om te wonen.
 
 #### Oplossingen
 1.  open
 2.  expert
-3.  leefbaar
+3.  leefbare
 
 ### Meerkeuzevragen
-1. Wat is 'open ruimte'?
-   a) Een lege kamer
-   b) Een ruimte zonder dak
-   c) Een plek zonder gebouwen, zoals een park
-   d) Een grote garage
+1. Waarover maakt Peter Lacoere zich zorgen?
+   a) Het verkeer
+   b) Het verdwijnen van open ruimte
+   c) De prijs van huizen
+   d) Het weer
 
-2. Wat bedoelt men met een 'leefbare' plek?
-   a) Een plek waar je mag leven
-   b) Een fijne en goede plek om te wonen
-   c) Een plek met veel mensen
-   d) Een plek waar veel gebouwd wordt
+2. Wat is Vlaanderen?
+   a) Een stad in Nederland
+   b) Een provincie in Duitsland
+   c) Het Nederlandstalige deel van België
+   d) Een rivier in Frankrijk
 
-3. Waarom is open ruimte belangrijk volgens de tekst?
-   a) Om meer te kunnen bouwen
-   b) Om het landschap mooi, veilig en sterk te maken
-   c) Om meer auto's te kunnen parkeren
-   d) Om meer winkels te openen
+3. Wat betekent 'leefbaar'?
+   a) Druk en vol
+   b) Vies en rommelig
+   c) Fijn om in te wonen
+   d) Heel groot
 
 #### Antwoorden
-1.  c
-2.  b
-3.  b
+1.  b
+2.  c
+3.  c
 
 ### Waar / Niet Waar
-1.  Peter Lacoere vindt dat we meer open ruimte moeten innemen.
-2.  Open ruimte is belangrijk voor een fijne leefomgeving.
-3.  'Weerbaar' betekent dat iets makkelijk kapot gaat.
+1.  Peter Lacoere vindt dat we meer open ruimte moeten gebruiken voor gebouwen.
+2.  Open ruimte is belangrijk om een regio veilig en leefbaar te maken.
+3.  Vlaanderen is de Franstalige deel van België.
 
 #### Antwoorden
 1.  Niet Waar
@@ -124,50 +124,50 @@ In Vlaanderen nemen we steeds meer open ruimte in. Dat is een probleem, zegt exp
 ### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **expert** | iemand die heel veel weet over een onderwerp |
-| **landschap** | het land dat je ziet, met velden, bossen en gebouwen |
-| **open ruimte** | plek zonder gebouwen, zoals een park, bos of veld |
+| **expert** | iemand die heel veel weet over een bepaald onderwerp |
+| **landschap** | het land dat je om je heen ziet, met natuur, velden en gebouwen |
+| **Vlaanderen** | het Nederlandstalige deel van België |
+| **open ruimte** | plekken zonder gebouwen, zoals parken, velden en bossen |
 | **leefbaar** | fijn om in te wonen en te leven |
-| **weerbaar** | sterk genoeg om problemen aan te kunnen |
 
 ### Vul-in-de-leegte
 1.  We moeten zuinig zijn op de laatste ___ ruimte.
-2.  Een ___ weet heel veel over één specifiek onderwerp.
-3.  Een groene stad met parken is veel ___ om in te wonen.
+2.  Peter Lacoere is een ___ in bouwen en ruimte.
+3.  Een ___ plek is een fijne plek om te wonen.
 
 #### Oplossingen
 1.  open
 2.  expert
-3.  leefbaar
+3.  leefbare
 
 ### Meerkeuzevragen
-1. Wat is 'open ruimte'?
-   a) Een lege kamer
-   b) Een ruimte zonder dak
-   c) Een plek zonder gebouwen, zoals een park
-   d) Een grote garage
+1. Waarover maakt Peter Lacoere zich zorgen?
+   a) Het verkeer
+   b) Het verdwijnen van open ruimte
+   c) De prijs van huizen
+   d) Het weer
 
-2. Wat bedoelt men met een 'leefbare' plek?
-   a) Een plek waar je mag leven
-   b) Een fijne en goede plek om te wonen
-   c) Een plek met veel mensen
-   d) Een plek waar veel gebouwd wordt
+2. Wat is Vlaanderen?
+   a) Een stad in Nederland
+   b) Een provincie in Duitsland
+   c) Het Nederlandstalige deel van België
+   d) Een rivier in Frankrijk
 
-3. Waarom is open ruimte belangrijk volgens de tekst?
-   a) Om meer te kunnen bouwen
-   b) Om het landschap mooi, veilig en sterk te maken
-   c) Om meer auto's te kunnen parkeren
-   d) Om meer winkels te openen
+3. Wat betekent 'leefbaar'?
+   a) Druk en vol
+   b) Vies en rommelig
+   c) Fijn om in te wonen
+   d) Heel groot
 
 #### Antwoorden
-1.  c
-2.  b
-3.  b
+1.  b
+2.  c
+3.  c
 
 ### Waar / Niet Waar
-1.  Peter Lacoere vindt dat we meer open ruimte moeten innemen.
-2.  Open ruimte is belangrijk voor een fijne leefomgeving.
-3.  'Weerbaar' betekent dat iets makkelijk kapot gaat.
+1.  Peter Lacoere vindt dat we meer open ruimte moeten gebruiken voor gebouwen.
+2.  Open ruimte is belangrijk om een regio veilig en leefbaar te maken.
+3.  Vlaanderen is de Franstalige deel van België.
 
 #### Antwoorden
 1.  Niet Waar
@@ -177,42 +177,42 @@ In Vlaanderen nemen we steeds meer open ruimte in. Dat is een probleem, zegt exp
 
 ## Vul-in-de-leegte
 1.  We moeten zuinig zijn op de laatste ___ ruimte.
-2.  Een ___ weet heel veel over één specifiek onderwerp.
-3.  Een groene stad met parken is veel ___ om in te wonen.
+2.  Peter Lacoere is een ___ in bouwen en ruimte.
+3.  Een ___ plek is een fijne plek om te wonen.
 
 #### Oplossingen
 1.  open
 2.  expert
-3.  leefbaar
+3.  leefbare
 
 ### Meerkeuzevragen
-1. Wat is 'open ruimte'?
-   a) Een lege kamer
-   b) Een ruimte zonder dak
-   c) Een plek zonder gebouwen, zoals een park
-   d) Een grote garage
+1. Waarover maakt Peter Lacoere zich zorgen?
+   a) Het verkeer
+   b) Het verdwijnen van open ruimte
+   c) De prijs van huizen
+   d) Het weer
 
-2. Wat bedoelt men met een 'leefbare' plek?
-   a) Een plek waar je mag leven
-   b) Een fijne en goede plek om te wonen
-   c) Een plek met veel mensen
-   d) Een plek waar veel gebouwd wordt
+2. Wat is Vlaanderen?
+   a) Een stad in Nederland
+   b) Een provincie in Duitsland
+   c) Het Nederlandstalige deel van België
+   d) Een rivier in Frankrijk
 
-3. Waarom is open ruimte belangrijk volgens de tekst?
-   a) Om meer te kunnen bouwen
-   b) Om het landschap mooi, veilig en sterk te maken
-   c) Om meer auto's te kunnen parkeren
-   d) Om meer winkels te openen
+3. Wat betekent 'leefbaar'?
+   a) Druk en vol
+   b) Vies en rommelig
+   c) Fijn om in te wonen
+   d) Heel groot
 
 #### Antwoorden
-1.  c
-2.  b
-3.  b
+1.  b
+2.  c
+3.  c
 
 ### Waar / Niet Waar
-1.  Peter Lacoere vindt dat we meer open ruimte moeten innemen.
-2.  Open ruimte is belangrijk voor een fijne leefomgeving.
-3.  'Weerbaar' betekent dat iets makkelijk kapot gaat.
+1.  Peter Lacoere vindt dat we meer open ruimte moeten gebruiken voor gebouwen.
+2.  Open ruimte is belangrijk om een regio veilig en leefbaar te maken.
+3.  Vlaanderen is de Franstalige deel van België.
 
 #### Antwoorden
 1.  Niet Waar
@@ -221,33 +221,33 @@ In Vlaanderen nemen we steeds meer open ruimte in. Dat is een probleem, zegt exp
 ---
 
 ## Meerkeuzevragen
-1. Wat is 'open ruimte'?
-   a) Een lege kamer
-   b) Een ruimte zonder dak
-   c) Een plek zonder gebouwen, zoals een park
-   d) Een grote garage
+1. Waarover maakt Peter Lacoere zich zorgen?
+   a) Het verkeer
+   b) Het verdwijnen van open ruimte
+   c) De prijs van huizen
+   d) Het weer
 
-2. Wat bedoelt men met een 'leefbare' plek?
-   a) Een plek waar je mag leven
-   b) Een fijne en goede plek om te wonen
-   c) Een plek met veel mensen
-   d) Een plek waar veel gebouwd wordt
+2. Wat is Vlaanderen?
+   a) Een stad in Nederland
+   b) Een provincie in Duitsland
+   c) Het Nederlandstalige deel van België
+   d) Een rivier in Frankrijk
 
-3. Waarom is open ruimte belangrijk volgens de tekst?
-   a) Om meer te kunnen bouwen
-   b) Om het landschap mooi, veilig en sterk te maken
-   c) Om meer auto's te kunnen parkeren
-   d) Om meer winkels te openen
+3. Wat betekent 'leefbaar'?
+   a) Druk en vol
+   b) Vies en rommelig
+   c) Fijn om in te wonen
+   d) Heel groot
 
 #### Antwoorden
-1.  c
-2.  b
-3.  b
+1.  b
+2.  c
+3.  c
 
 ### Waar / Niet Waar
-1.  Peter Lacoere vindt dat we meer open ruimte moeten innemen.
-2.  Open ruimte is belangrijk voor een fijne leefomgeving.
-3.  'Weerbaar' betekent dat iets makkelijk kapot gaat.
+1.  Peter Lacoere vindt dat we meer open ruimte moeten gebruiken voor gebouwen.
+2.  Open ruimte is belangrijk om een regio veilig en leefbaar te maken.
+3.  Vlaanderen is de Franstalige deel van België.
 
 #### Antwoorden
 1.  Niet Waar
@@ -256,9 +256,9 @@ In Vlaanderen nemen we steeds meer open ruimte in. Dat is een probleem, zegt exp
 ---
 
 ## Waar / Niet waar
-1.  Peter Lacoere vindt dat we meer open ruimte moeten innemen.
-2.  Open ruimte is belangrijk voor een fijne leefomgeving.
-3.  'Weerbaar' betekent dat iets makkelijk kapot gaat.
+1.  Peter Lacoere vindt dat we meer open ruimte moeten gebruiken voor gebouwen.
+2.  Open ruimte is belangrijk om een regio veilig en leefbaar te maken.
+3.  Vlaanderen is de Franstalige deel van België.
 
 #### Antwoorden
 1.  Niet Waar
