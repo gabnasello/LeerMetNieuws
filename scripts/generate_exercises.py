@@ -196,7 +196,7 @@ def main():
                     out_file_path = os.path.join(level_dir, exercise_name)
 
                     response_text = generate_exercises(level, title, summary, news_text)
-                    response_text = clean_response(response_text)  # 🧹 fix duplicates
+                    #response_text = clean_response(response_text)  # 🧹 fix duplicates
 
                     simplified_title, simplified_summary, vocab, fill_section, mcq_section, tf_section = parse_exercises(response_text)
 
