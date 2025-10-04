@@ -1,267 +1,267 @@
-# Minister Brouns geeft antwoord op onderzoek over groen in Vlaanderen
+# Kinderen opvoeden in een grote stad: wel of niet?
 
-**Samenvatting:** De minister van Landbouw en Natuur, Jo Brouns, reageert op een onderzoek van de krant De Standaard. Het onderzoek gaat over het verdwijnen van boerenland en natuur in Vlaanderen.
+**Samenvatting:** Brihang is een hiphopper. Hij is met zijn gezin weggegaan uit Brussel. Hij twijfelde of een grote stad wel een goede plek is voor kinderen. Hij vond de stad te onveilig, te druk en te grijs. Veel lezers denken hier ook over na als ze kinderen krijgen.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordlijst
 | Woord | Definitie |
 |-------|-----------|
-| **minister** | een belangrijk persoon in de regering |
-| **onderzoek** | het bestuderen van iets om meer te weten te komen |
-| **landbouwgrond** | grond die gebruikt wordt om voedsel te verbouwen |
-| **natuur** | alles wat niet door mensen is gemaakt, zoals bossen en dieren |
-| **kansen** | mogelijkheden om iets goeds te doen |
+| **hiphopper** | een artiest die hiphop muziek maakt |
+| **twijfelen** | niet zeker weten of iets goed of fout is |
+| **onveilig** | niet veilig, er kan gevaar zijn |
+| **grijs** | saai, zonder kleur of vrolijkheid |
+| **balans opmaken** | nadenken over de voor- en nadelen |
 
 ### Vul-in-de-leegte
-1. De minister geeft ___ op het onderzoek van de krant.
-2. Er verdwijnt veel ___ en natuur in Vlaanderen.
-3. In het verleden waren we te ___ met onze ruimte.
+1. Brihang is een _____ en hij is verhuisd uit Brussel.
+2. Hij vond de stad te druk en te _____ voor zijn kinderen.
+3. Veel ouders _____ of een grote stad goed is voor kinderen.
 
 #### Oplossingen
-1. antwoord
-2. landbouwgrond
-3. kwistig
+1. hiphopper
+2. grijs
+3. twijfelen
 
 ### Meerkeuzevragen
-1. Over welk onderwerp gaat het onderzoek?
-   a) over nieuwe huizen
-   b) over het verdwijnen van groen
-   c) over de politiek
-   d) over scholen
+1. Waarom verliet Brihang de stad?
+   a) Omdat hij een nieuwe job vond.
+   b) Omdat hij de stad te onveilig vond voor zijn kinderen.
+   c) Omdat hij niet van muziek houdt.
+   d) Omdat hij meer zon wilde.
 
-2. Wie is Jo Brouns?
-   a) een boer
-   b) een journalist
-   c) een minister
-   d) een onderzoeker
+2. Wat betekent 'grijs' in deze tekst?
+   a) De kleur grijs.
+   b) Saai en niet vrolijk.
+   c) Heel modern.
+   d) Erg schoon.
 
-3. Wat betekent 'kwistig zijn'?
-   a) heel zuinig zijn
-   b) heel veel gebruiken
-   c) heel blij zijn
-   d) heel snel zijn
+3. Wat doen veel lezers volgens de samenvatting?
+   a) Ze verhuizen direct.
+   b) Ze maken muziek.
+   c) Ze denken na over voor- en nadelen.
+   d) Ze bezoeken de stad.
 
 #### Antwoorden
 1. b
-2. c
-3. b
+2. b
+3. c
 
 ### Waar / Niet Waar
-1. Het onderzoek gaat over het verdwijnen van natuur in Vlaanderen.
-2. Minister Brouns is minister van Onderwijs.
-3. In het verleden was Vlaanderen heel zuinig met ruimte.
+1. Brihang verhuisde omdat hij de stad leuk vond.
+2. Hij vond de stad te druk en te onveilig.
+3. Alleen Brihang denkt na over opvoeden in de stad.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar
+1. Niet Waar
+2. Waar
 3. Niet Waar
 ---
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/yi0i9f-id-chd--2202778.jpg/alternates/BASE_SIXTEEN_NINE/ID_CHD__2202778.jpg)  
-[Lees het originele artikel](https://www.standaard.be/binnenland/minister-brouns-reageert-op-onderzoek-omdat-we-in-het-verleden-zo-kwistig-waren-met-onze-ruimte-liggen-er-vandaag-enorme-kansen/94733608.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/5g0og1-file82nvtooo9sg15fnb315p8/alternates/BASE_SIXTEEN_NINE/file82nvtooo9sg15fnb315p8)  
+[Lees het originele artikel](https://www.standaard.be/binnenland/wel-of-niet-kinderen-opvoeden-in-een-grootstad-wij-zouden-ongelukkig-worden-als-we-de-stad-zouden-moeten-opgeven/94922785.html)
 
 ## Samenvatting
-De minister van Landbouw en Natuur, Jo Brouns, reageert op een onderzoek van de krant De Standaard. Het onderzoek gaat over het verdwijnen van boerenland en natuur in Vlaanderen.
+Brihang is een hiphopper. Hij is met zijn gezin weggegaan uit Brussel. Hij twijfelde of een grote stad wel een goede plek is voor kinderen. Hij vond de stad te onveilig, te druk en te grijs. Veel lezers denken hier ook over na als ze kinderen krijgen.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordlijst
 | Woord | Definitie |
 |-------|-----------|
-| **minister** | een belangrijk persoon in de regering |
-| **onderzoek** | het bestuderen van iets om meer te weten te komen |
-| **landbouwgrond** | grond die gebruikt wordt om voedsel te verbouwen |
-| **natuur** | alles wat niet door mensen is gemaakt, zoals bossen en dieren |
-| **kansen** | mogelijkheden om iets goeds te doen |
+| **hiphopper** | een artiest die hiphop muziek maakt |
+| **twijfelen** | niet zeker weten of iets goed of fout is |
+| **onveilig** | niet veilig, er kan gevaar zijn |
+| **grijs** | saai, zonder kleur of vrolijkheid |
+| **balans opmaken** | nadenken over de voor- en nadelen |
 
 ### Vul-in-de-leegte
-1. De minister geeft ___ op het onderzoek van de krant.
-2. Er verdwijnt veel ___ en natuur in Vlaanderen.
-3. In het verleden waren we te ___ met onze ruimte.
+1. Brihang is een _____ en hij is verhuisd uit Brussel.
+2. Hij vond de stad te druk en te _____ voor zijn kinderen.
+3. Veel ouders _____ of een grote stad goed is voor kinderen.
 
 #### Oplossingen
-1. antwoord
-2. landbouwgrond
-3. kwistig
+1. hiphopper
+2. grijs
+3. twijfelen
 
 ### Meerkeuzevragen
-1. Over welk onderwerp gaat het onderzoek?
-   a) over nieuwe huizen
-   b) over het verdwijnen van groen
-   c) over de politiek
-   d) over scholen
+1. Waarom verliet Brihang de stad?
+   a) Omdat hij een nieuwe job vond.
+   b) Omdat hij de stad te onveilig vond voor zijn kinderen.
+   c) Omdat hij niet van muziek houdt.
+   d) Omdat hij meer zon wilde.
 
-2. Wie is Jo Brouns?
-   a) een boer
-   b) een journalist
-   c) een minister
-   d) een onderzoeker
+2. Wat betekent 'grijs' in deze tekst?
+   a) De kleur grijs.
+   b) Saai en niet vrolijk.
+   c) Heel modern.
+   d) Erg schoon.
 
-3. Wat betekent 'kwistig zijn'?
-   a) heel zuinig zijn
-   b) heel veel gebruiken
-   c) heel blij zijn
-   d) heel snel zijn
+3. Wat doen veel lezers volgens de samenvatting?
+   a) Ze verhuizen direct.
+   b) Ze maken muziek.
+   c) Ze denken na over voor- en nadelen.
+   d) Ze bezoeken de stad.
 
 #### Antwoorden
 1. b
-2. c
-3. b
+2. b
+3. c
 
 ### Waar / Niet Waar
-1. Het onderzoek gaat over het verdwijnen van natuur in Vlaanderen.
-2. Minister Brouns is minister van Onderwijs.
-3. In het verleden was Vlaanderen heel zuinig met ruimte.
+1. Brihang verhuisde omdat hij de stad leuk vond.
+2. Hij vond de stad te druk en te onveilig.
+3. Alleen Brihang denkt na over opvoeden in de stad.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar
+1. Niet Waar
+2. Waar
 3. Niet Waar
 ---
 
 ## Woordenschatuitbreiding
-### Woordelijst
+### Woordlijst
 | Woord | Definitie |
 |-------|-----------|
-| **minister** | een belangrijk persoon in de regering |
-| **onderzoek** | het bestuderen van iets om meer te weten te komen |
-| **landbouwgrond** | grond die gebruikt wordt om voedsel te verbouwen |
-| **natuur** | alles wat niet door mensen is gemaakt, zoals bossen en dieren |
-| **kansen** | mogelijkheden om iets goeds te doen |
+| **hiphopper** | een artiest die hiphop muziek maakt |
+| **twijfelen** | niet zeker weten of iets goed of fout is |
+| **onveilig** | niet veilig, er kan gevaar zijn |
+| **grijs** | saai, zonder kleur of vrolijkheid |
+| **balans opmaken** | nadenken over de voor- en nadelen |
 
 ### Vul-in-de-leegte
-1. De minister geeft ___ op het onderzoek van de krant.
-2. Er verdwijnt veel ___ en natuur in Vlaanderen.
-3. In het verleden waren we te ___ met onze ruimte.
+1. Brihang is een _____ en hij is verhuisd uit Brussel.
+2. Hij vond de stad te druk en te _____ voor zijn kinderen.
+3. Veel ouders _____ of een grote stad goed is voor kinderen.
 
 #### Oplossingen
-1. antwoord
-2. landbouwgrond
-3. kwistig
+1. hiphopper
+2. grijs
+3. twijfelen
 
 ### Meerkeuzevragen
-1. Over welk onderwerp gaat het onderzoek?
-   a) over nieuwe huizen
-   b) over het verdwijnen van groen
-   c) over de politiek
-   d) over scholen
+1. Waarom verliet Brihang de stad?
+   a) Omdat hij een nieuwe job vond.
+   b) Omdat hij de stad te onveilig vond voor zijn kinderen.
+   c) Omdat hij niet van muziek houdt.
+   d) Omdat hij meer zon wilde.
 
-2. Wie is Jo Brouns?
-   a) een boer
-   b) een journalist
-   c) een minister
-   d) een onderzoeker
+2. Wat betekent 'grijs' in deze tekst?
+   a) De kleur grijs.
+   b) Saai en niet vrolijk.
+   c) Heel modern.
+   d) Erg schoon.
 
-3. Wat betekent 'kwistig zijn'?
-   a) heel zuinig zijn
-   b) heel veel gebruiken
-   c) heel blij zijn
-   d) heel snel zijn
+3. Wat doen veel lezers volgens de samenvatting?
+   a) Ze verhuizen direct.
+   b) Ze maken muziek.
+   c) Ze denken na over voor- en nadelen.
+   d) Ze bezoeken de stad.
 
 #### Antwoorden
 1. b
-2. c
-3. b
+2. b
+3. c
 
 ### Waar / Niet Waar
-1. Het onderzoek gaat over het verdwijnen van natuur in Vlaanderen.
-2. Minister Brouns is minister van Onderwijs.
-3. In het verleden was Vlaanderen heel zuinig met ruimte.
+1. Brihang verhuisde omdat hij de stad leuk vond.
+2. Hij vond de stad te druk en te onveilig.
+3. Alleen Brihang denkt na over opvoeden in de stad.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar
+1. Niet Waar
+2. Waar
 3. Niet Waar
 ---
 
 ## Vul-in-de-leegte
-1. De minister geeft ___ op het onderzoek van de krant.
-2. Er verdwijnt veel ___ en natuur in Vlaanderen.
-3. In het verleden waren we te ___ met onze ruimte.
+1. Brihang is een _____ en hij is verhuisd uit Brussel.
+2. Hij vond de stad te druk en te _____ voor zijn kinderen.
+3. Veel ouders _____ of een grote stad goed is voor kinderen.
 
 #### Oplossingen
-1. antwoord
-2. landbouwgrond
-3. kwistig
+1. hiphopper
+2. grijs
+3. twijfelen
 
 ### Meerkeuzevragen
-1. Over welk onderwerp gaat het onderzoek?
-   a) over nieuwe huizen
-   b) over het verdwijnen van groen
-   c) over de politiek
-   d) over scholen
+1. Waarom verliet Brihang de stad?
+   a) Omdat hij een nieuwe job vond.
+   b) Omdat hij de stad te onveilig vond voor zijn kinderen.
+   c) Omdat hij niet van muziek houdt.
+   d) Omdat hij meer zon wilde.
 
-2. Wie is Jo Brouns?
-   a) een boer
-   b) een journalist
-   c) een minister
-   d) een onderzoeker
+2. Wat betekent 'grijs' in deze tekst?
+   a) De kleur grijs.
+   b) Saai en niet vrolijk.
+   c) Heel modern.
+   d) Erg schoon.
 
-3. Wat betekent 'kwistig zijn'?
-   a) heel zuinig zijn
-   b) heel veel gebruiken
-   c) heel blij zijn
-   d) heel snel zijn
+3. Wat doen veel lezers volgens de samenvatting?
+   a) Ze verhuizen direct.
+   b) Ze maken muziek.
+   c) Ze denken na over voor- en nadelen.
+   d) Ze bezoeken de stad.
 
 #### Antwoorden
 1. b
-2. c
-3. b
+2. b
+3. c
 
 ### Waar / Niet Waar
-1. Het onderzoek gaat over het verdwijnen van natuur in Vlaanderen.
-2. Minister Brouns is minister van Onderwijs.
-3. In het verleden was Vlaanderen heel zuinig met ruimte.
+1. Brihang verhuisde omdat hij de stad leuk vond.
+2. Hij vond de stad te druk en te onveilig.
+3. Alleen Brihang denkt na over opvoeden in de stad.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar
+1. Niet Waar
+2. Waar
 3. Niet Waar
 ---
 
 ## Meerkeuzevragen
-1. Over welk onderwerp gaat het onderzoek?
-   a) over nieuwe huizen
-   b) over het verdwijnen van groen
-   c) over de politiek
-   d) over scholen
+1. Waarom verliet Brihang de stad?
+   a) Omdat hij een nieuwe job vond.
+   b) Omdat hij de stad te onveilig vond voor zijn kinderen.
+   c) Omdat hij niet van muziek houdt.
+   d) Omdat hij meer zon wilde.
 
-2. Wie is Jo Brouns?
-   a) een boer
-   b) een journalist
-   c) een minister
-   d) een onderzoeker
+2. Wat betekent 'grijs' in deze tekst?
+   a) De kleur grijs.
+   b) Saai en niet vrolijk.
+   c) Heel modern.
+   d) Erg schoon.
 
-3. Wat betekent 'kwistig zijn'?
-   a) heel zuinig zijn
-   b) heel veel gebruiken
-   c) heel blij zijn
-   d) heel snel zijn
+3. Wat doen veel lezers volgens de samenvatting?
+   a) Ze verhuizen direct.
+   b) Ze maken muziek.
+   c) Ze denken na over voor- en nadelen.
+   d) Ze bezoeken de stad.
 
 #### Antwoorden
 1. b
-2. c
-3. b
+2. b
+3. c
 
 ### Waar / Niet Waar
-1. Het onderzoek gaat over het verdwijnen van natuur in Vlaanderen.
-2. Minister Brouns is minister van Onderwijs.
-3. In het verleden was Vlaanderen heel zuinig met ruimte.
+1. Brihang verhuisde omdat hij de stad leuk vond.
+2. Hij vond de stad te druk en te onveilig.
+3. Alleen Brihang denkt na over opvoeden in de stad.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar
+1. Niet Waar
+2. Waar
 3. Niet Waar
 ---
 
 ## Waar / Niet waar
-1. Het onderzoek gaat over het verdwijnen van natuur in Vlaanderen.
-2. Minister Brouns is minister van Onderwijs.
-3. In het verleden was Vlaanderen heel zuinig met ruimte.
+1. Brihang verhuisde omdat hij de stad leuk vond.
+2. Hij vond de stad te druk en te onveilig.
+3. Alleen Brihang denkt na over opvoeden in de stad.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar
+1. Niet Waar
+2. Waar
 3. Niet Waar
 ---

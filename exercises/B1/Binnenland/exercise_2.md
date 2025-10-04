@@ -1,267 +1,267 @@
-# Kopers wonen na 10 jaar nog steeds op een bouwplaats: rechtbank zegt dat verkoop van flats oneerlijk was
+# Straat in Antwerpen heeft weer een harde knal
 
-**Samenvatting:** Drie bedrijven die huizen verkopen, moeten 13 flats in Zeebrugge terugkopen. De flats zijn samen ongeveer 3 miljoen euro waard. De kopers zijn naar de rechter gestapt omdat ze zich bedrogen voelden. De rechter in Gent geeft de kopers gelijk. De mensen wonen nu, meer dan 10 jaar na het kopen, nog steeds op een plek waar gebouwd wordt.
+**Samenvatting:** In Borgerhout was er zaterdagochtend een harde knal. Het gebeurde om 6.40 uur in de Kistemaeckersstraat. Een voordeur had een beetje schade. Deze straat had eerder ook al een knal. De vorige keer was het per ongeluk.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordlijst
 | Woord | Definitie |
 |-------|-----------|
-| **rechtbank** | een plaats waar een rechter beslist of iets volgens de wet is |
-| **terugbetalen** | geld teruggeven dat je eerder hebt gekregen |
-| **bedrogen** | wanneer iemand je niet de waarheid vertelt om je ergens toe te brengen |
-| **bouwwerf** | een plaats waar men aan het bouwen is, een bouwplaats |
-| **aankoop** | het kopen van iets |
+| **opgeschrikt** | plots en erg geschrokken zijn |
+| **explosie** | een hele harde knal, een ontploffing |
+| **veroorzaakte** | maakte dat iets gebeurt |
+| **schade** | wat kapot of beschadigd is |
+| **vergissing** | iets doen per ongeluk, een fout |
 
 ### Vul-in-de-leegte
-1. De bedrijven moeten het geld aan de kopers ___.
-2. De mensen voelden zich ___ omdat de flats niet klaar waren.
-3. De rechter heeft de verkoop ___ verklaard, dus die is nu ongeldig.
+1.  De harde ___ maakte iedereen wakker.
+2.  De explosie ___ lichte schade aan de voordeur.
+3.  De vorige keer was het een ___, het was niet met opzet.
 
 #### Oplossingen
-1. terugbetalen
-2. bedrogen
-3. nietig
+1.  knal
+2.  veroorzaakte
+3.  vergissing
 
 ### Meerkeuzevragen
-1. Waarom gingen de kopers naar de rechtbank?
-   a) Omdat hun flats te duur waren.
-   b) Omdat ze zich bedrogen voelden.
-   c) Omdat ze een nieuwe keuken wilden.
-   d) Omdat de lift kapot was.
+1. Waar gebeurde de harde knal?
+   a) In Brussel
+   b) In de Kistemaeckersstraat
+   c) In een winkel
+   d) Op een school
 
-2. Wat moet er volgens de rechter gebeuren?
-   a) De kopers moeten meer betalen.
-   b) De bedrijven moeten de flats terugkopen.
-   c) De bouw moet direct stoppen.
-   d) Er moet een nieuwe rechtbank komen.
+2. Wanneer gebeurde de explosie?
+   a) 's Avonds
+   b) Rond 6.40 uur 's ochtends
+   c) Tijdens de middag
+   d) Om middernacht
 
-3. Hoe lang wonen de kopers al op de bouwplaats?
-   a) Minder dan een jaar
-   b) Ongeveer vijf jaar
-   c) Meer dan tien jaar
-   d) Precies acht jaar
+3. Wat was er aan de hand met de vorige keer?
+   a) Het was een feest.
+   b) Het was een vergissing.
+   c) Het was een oefening.
+   d) Er was geen vorige keer.
 
 #### Antwoorden
-1. b
-2. b
-3. c
+1.  b
+2.  b
+3.  b
 
 ### Waar / Niet Waar
-1. De flats zijn allemaal in Brussel verkocht.
-2. De rechter vindt dat de verkoop oneerlijk was.
-3. De kopers wonen in volledig afgewerkte huizen.
+1.  De knal veroorzaakte veel schade aan verschillende huizen.
+2.  Het is de eerste keer dat er een knal is in deze straat.
+3.  De vorige knal was een vergissing.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1.  Niet Waar
+2.  Niet Waar
+3.  Waar
 ---
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/te4w2p-file82nsc7re57o13v3k28s6.jpg/alternates/BASE_SIXTEEN_NINE/file82nsc7re57o13v3k28s6.jpg)  
-[Lees het originele artikel](https://www.standaard.be/binnenland/de-kopers-leven-meer-dan-tien-jaar-na-aankoop-nog-steeds-op-een-bouwwerf-verkoop-van-dertien-flats-door-hof-van-beroep-nietig-verklaard-wegens-bedrog/95078089.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/5xpqt-fotoborgerhout3.jpeg/alternates/BASE_SIXTEEN_NINE/fotoborgerhout3.jpeg)  
+[Lees het originele artikel](https://www.standaard.be/binnenland/straat-in-antwerpen-opnieuw-opgeschrikt-door-zware-knal-schade-beperkt/95079630.html)
 
 ## Samenvatting
-Drie bedrijven die huizen verkopen, moeten 13 flats in Zeebrugge terugkopen. De flats zijn samen ongeveer 3 miljoen euro waard. De kopers zijn naar de rechter gestapt omdat ze zich bedrogen voelden. De rechter in Gent geeft de kopers gelijk. De mensen wonen nu, meer dan 10 jaar na het kopen, nog steeds op een plek waar gebouwd wordt.
+In Borgerhout was er zaterdagochtend een harde knal. Het gebeurde om 6.40 uur in de Kistemaeckersstraat. Een voordeur had een beetje schade. Deze straat had eerder ook al een knal. De vorige keer was het per ongeluk.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordlijst
 | Woord | Definitie |
 |-------|-----------|
-| **rechtbank** | een plaats waar een rechter beslist of iets volgens de wet is |
-| **terugbetalen** | geld teruggeven dat je eerder hebt gekregen |
-| **bedrogen** | wanneer iemand je niet de waarheid vertelt om je ergens toe te brengen |
-| **bouwwerf** | een plaats waar men aan het bouwen is, een bouwplaats |
-| **aankoop** | het kopen van iets |
+| **opgeschrikt** | plots en erg geschrokken zijn |
+| **explosie** | een hele harde knal, een ontploffing |
+| **veroorzaakte** | maakte dat iets gebeurt |
+| **schade** | wat kapot of beschadigd is |
+| **vergissing** | iets doen per ongeluk, een fout |
 
 ### Vul-in-de-leegte
-1. De bedrijven moeten het geld aan de kopers ___.
-2. De mensen voelden zich ___ omdat de flats niet klaar waren.
-3. De rechter heeft de verkoop ___ verklaard, dus die is nu ongeldig.
+1.  De harde ___ maakte iedereen wakker.
+2.  De explosie ___ lichte schade aan de voordeur.
+3.  De vorige keer was het een ___, het was niet met opzet.
 
 #### Oplossingen
-1. terugbetalen
-2. bedrogen
-3. nietig
+1.  knal
+2.  veroorzaakte
+3.  vergissing
 
 ### Meerkeuzevragen
-1. Waarom gingen de kopers naar de rechtbank?
-   a) Omdat hun flats te duur waren.
-   b) Omdat ze zich bedrogen voelden.
-   c) Omdat ze een nieuwe keuken wilden.
-   d) Omdat de lift kapot was.
+1. Waar gebeurde de harde knal?
+   a) In Brussel
+   b) In de Kistemaeckersstraat
+   c) In een winkel
+   d) Op een school
 
-2. Wat moet er volgens de rechter gebeuren?
-   a) De kopers moeten meer betalen.
-   b) De bedrijven moeten de flats terugkopen.
-   c) De bouw moet direct stoppen.
-   d) Er moet een nieuwe rechtbank komen.
+2. Wanneer gebeurde de explosie?
+   a) 's Avonds
+   b) Rond 6.40 uur 's ochtends
+   c) Tijdens de middag
+   d) Om middernacht
 
-3. Hoe lang wonen de kopers al op de bouwplaats?
-   a) Minder dan een jaar
-   b) Ongeveer vijf jaar
-   c) Meer dan tien jaar
-   d) Precies acht jaar
+3. Wat was er aan de hand met de vorige keer?
+   a) Het was een feest.
+   b) Het was een vergissing.
+   c) Het was een oefening.
+   d) Er was geen vorige keer.
 
 #### Antwoorden
-1. b
-2. b
-3. c
+1.  b
+2.  b
+3.  b
 
 ### Waar / Niet Waar
-1. De flats zijn allemaal in Brussel verkocht.
-2. De rechter vindt dat de verkoop oneerlijk was.
-3. De kopers wonen in volledig afgewerkte huizen.
+1.  De knal veroorzaakte veel schade aan verschillende huizen.
+2.  Het is de eerste keer dat er een knal is in deze straat.
+3.  De vorige knal was een vergissing.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1.  Niet Waar
+2.  Niet Waar
+3.  Waar
 ---
 
 ## Woordenschatuitbreiding
-### Woordenlijst
+### Woordlijst
 | Woord | Definitie |
 |-------|-----------|
-| **rechtbank** | een plaats waar een rechter beslist of iets volgens de wet is |
-| **terugbetalen** | geld teruggeven dat je eerder hebt gekregen |
-| **bedrogen** | wanneer iemand je niet de waarheid vertelt om je ergens toe te brengen |
-| **bouwwerf** | een plaats waar men aan het bouwen is, een bouwplaats |
-| **aankoop** | het kopen van iets |
+| **opgeschrikt** | plots en erg geschrokken zijn |
+| **explosie** | een hele harde knal, een ontploffing |
+| **veroorzaakte** | maakte dat iets gebeurt |
+| **schade** | wat kapot of beschadigd is |
+| **vergissing** | iets doen per ongeluk, een fout |
 
 ### Vul-in-de-leegte
-1. De bedrijven moeten het geld aan de kopers ___.
-2. De mensen voelden zich ___ omdat de flats niet klaar waren.
-3. De rechter heeft de verkoop ___ verklaard, dus die is nu ongeldig.
+1.  De harde ___ maakte iedereen wakker.
+2.  De explosie ___ lichte schade aan de voordeur.
+3.  De vorige keer was het een ___, het was niet met opzet.
 
 #### Oplossingen
-1. terugbetalen
-2. bedrogen
-3. nietig
+1.  knal
+2.  veroorzaakte
+3.  vergissing
 
 ### Meerkeuzevragen
-1. Waarom gingen de kopers naar de rechtbank?
-   a) Omdat hun flats te duur waren.
-   b) Omdat ze zich bedrogen voelden.
-   c) Omdat ze een nieuwe keuken wilden.
-   d) Omdat de lift kapot was.
+1. Waar gebeurde de harde knal?
+   a) In Brussel
+   b) In de Kistemaeckersstraat
+   c) In een winkel
+   d) Op een school
 
-2. Wat moet er volgens de rechter gebeuren?
-   a) De kopers moeten meer betalen.
-   b) De bedrijven moeten de flats terugkopen.
-   c) De bouw moet direct stoppen.
-   d) Er moet een nieuwe rechtbank komen.
+2. Wanneer gebeurde de explosie?
+   a) 's Avonds
+   b) Rond 6.40 uur 's ochtends
+   c) Tijdens de middag
+   d) Om middernacht
 
-3. Hoe lang wonen de kopers al op de bouwplaats?
-   a) Minder dan een jaar
-   b) Ongeveer vijf jaar
-   c) Meer dan tien jaar
-   d) Precies acht jaar
+3. Wat was er aan de hand met de vorige keer?
+   a) Het was een feest.
+   b) Het was een vergissing.
+   c) Het was een oefening.
+   d) Er was geen vorige keer.
 
 #### Antwoorden
-1. b
-2. b
-3. c
+1.  b
+2.  b
+3.  b
 
 ### Waar / Niet Waar
-1. De flats zijn allemaal in Brussel verkocht.
-2. De rechter vindt dat de verkoop oneerlijk was.
-3. De kopers wonen in volledig afgewerkte huizen.
+1.  De knal veroorzaakte veel schade aan verschillende huizen.
+2.  Het is de eerste keer dat er een knal is in deze straat.
+3.  De vorige knal was een vergissing.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1.  Niet Waar
+2.  Niet Waar
+3.  Waar
 ---
 
 ## Vul-in-de-leegte
-1. De bedrijven moeten het geld aan de kopers ___.
-2. De mensen voelden zich ___ omdat de flats niet klaar waren.
-3. De rechter heeft de verkoop ___ verklaard, dus die is nu ongeldig.
+1.  De harde ___ maakte iedereen wakker.
+2.  De explosie ___ lichte schade aan de voordeur.
+3.  De vorige keer was het een ___, het was niet met opzet.
 
 #### Oplossingen
-1. terugbetalen
-2. bedrogen
-3. nietig
+1.  knal
+2.  veroorzaakte
+3.  vergissing
 
 ### Meerkeuzevragen
-1. Waarom gingen de kopers naar de rechtbank?
-   a) Omdat hun flats te duur waren.
-   b) Omdat ze zich bedrogen voelden.
-   c) Omdat ze een nieuwe keuken wilden.
-   d) Omdat de lift kapot was.
+1. Waar gebeurde de harde knal?
+   a) In Brussel
+   b) In de Kistemaeckersstraat
+   c) In een winkel
+   d) Op een school
 
-2. Wat moet er volgens de rechter gebeuren?
-   a) De kopers moeten meer betalen.
-   b) De bedrijven moeten de flats terugkopen.
-   c) De bouw moet direct stoppen.
-   d) Er moet een nieuwe rechtbank komen.
+2. Wanneer gebeurde de explosie?
+   a) 's Avonds
+   b) Rond 6.40 uur 's ochtends
+   c) Tijdens de middag
+   d) Om middernacht
 
-3. Hoe lang wonen de kopers al op de bouwplaats?
-   a) Minder dan een jaar
-   b) Ongeveer vijf jaar
-   c) Meer dan tien jaar
-   d) Precies acht jaar
+3. Wat was er aan de hand met de vorige keer?
+   a) Het was een feest.
+   b) Het was een vergissing.
+   c) Het was een oefening.
+   d) Er was geen vorige keer.
 
 #### Antwoorden
-1. b
-2. b
-3. c
+1.  b
+2.  b
+3.  b
 
 ### Waar / Niet Waar
-1. De flats zijn allemaal in Brussel verkocht.
-2. De rechter vindt dat de verkoop oneerlijk was.
-3. De kopers wonen in volledig afgewerkte huizen.
+1.  De knal veroorzaakte veel schade aan verschillende huizen.
+2.  Het is de eerste keer dat er een knal is in deze straat.
+3.  De vorige knal was een vergissing.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1.  Niet Waar
+2.  Niet Waar
+3.  Waar
 ---
 
 ## Meerkeuzevragen
-1. Waarom gingen de kopers naar de rechtbank?
-   a) Omdat hun flats te duur waren.
-   b) Omdat ze zich bedrogen voelden.
-   c) Omdat ze een nieuwe keuken wilden.
-   d) Omdat de lift kapot was.
+1. Waar gebeurde de harde knal?
+   a) In Brussel
+   b) In de Kistemaeckersstraat
+   c) In een winkel
+   d) Op een school
 
-2. Wat moet er volgens de rechter gebeuren?
-   a) De kopers moeten meer betalen.
-   b) De bedrijven moeten de flats terugkopen.
-   c) De bouw moet direct stoppen.
-   d) Er moet een nieuwe rechtbank komen.
+2. Wanneer gebeurde de explosie?
+   a) 's Avonds
+   b) Rond 6.40 uur 's ochtends
+   c) Tijdens de middag
+   d) Om middernacht
 
-3. Hoe lang wonen de kopers al op de bouwplaats?
-   a) Minder dan een jaar
-   b) Ongeveer vijf jaar
-   c) Meer dan tien jaar
-   d) Precies acht jaar
+3. Wat was er aan de hand met de vorige keer?
+   a) Het was een feest.
+   b) Het was een vergissing.
+   c) Het was een oefening.
+   d) Er was geen vorige keer.
 
 #### Antwoorden
-1. b
-2. b
-3. c
+1.  b
+2.  b
+3.  b
 
 ### Waar / Niet Waar
-1. De flats zijn allemaal in Brussel verkocht.
-2. De rechter vindt dat de verkoop oneerlijk was.
-3. De kopers wonen in volledig afgewerkte huizen.
+1.  De knal veroorzaakte veel schade aan verschillende huizen.
+2.  Het is de eerste keer dat er een knal is in deze straat.
+3.  De vorige knal was een vergissing.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1.  Niet Waar
+2.  Niet Waar
+3.  Waar
 ---
 
 ## Waar / Niet waar
-1. De flats zijn allemaal in Brussel verkocht.
-2. De rechter vindt dat de verkoop oneerlijk was.
-3. De kopers wonen in volledig afgewerkte huizen.
+1.  De knal veroorzaakte veel schade aan verschillende huizen.
+2.  Het is de eerste keer dat er een knal is in deze straat.
+3.  De vorige knal was een vergissing.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1.  Niet Waar
+2.  Niet Waar
+3.  Waar
 ---

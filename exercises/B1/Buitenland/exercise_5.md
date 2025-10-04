@@ -1,267 +1,267 @@
-# De vergeten oorlog in Al-Fasher
+# Mensen in Gaza hebben weer hoop op vrede
 
-**Samenvatting:** De stad Al-Fasher in Soedan wordt al meer dan 500 dagen omsingeld door soldaten. Er kunnen geen eten en medicijnen meer naar binnen. Een fotograaf ziet alles. Hij is een belangrijke getuige van deze oorlog. De oorlog is bijna vergeten door de wereld. Het kan een genocide worden. Dat betekent dat er een volk wordt uitgemoord.
+**Samenvatting:** Mensen in Gaza hopen voor het eerst in lange tijd weer op rust en vrede. De groep Hamas zegt ja tegen een deel van het vredesplan van Trump. Iemand zegt: "Ik hoop dat het waar is wat we horen, en dat de oorlog echt over is."
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordlijst
 | Woord | Definitie |
 |-------|-----------|
-| **omsingeld** | helemaal omgeven door vijandige soldaten, je kunt er niet meer in of uit |
-| **getuige** | iemand die iets met eigen ogen heeft gezien of meegemaakt |
-| **vergeten** | dat niemand er meer aan denkt of weet |
-| **genocide** | het opzettelijk doden van een hele bevolkingsgroep |
-| **noodsituatie** | een zeer gevaarlijke en ernstige toestand waar snel hulp nodig is |
+| **hoop** | het gevoel dat iets goed gaat komen |
+| **vrede** | een tijd zonder ruzie of oorlog |
+| **goedkeuren** | zeggen dat je het ergens mee eens bent |
+| **oorlog** | een tijd met veel geweld en vechten tussen landen of groepen |
+| **voorstel** | een plan dat je aan anderen laat horen |
 
 ### Vul-in-de-leegte
-1. De stad is al lang ___ door soldaten, niemand kan meer weg.
-2. De fotograaf is een belangrijke ___ van de oorlog.
-3. Er is een ___ omdat er geen eten en medicijnen meer zijn.
+1. De mensen waren blij en hadden ___ op een betere toekomst.
+2. De twee landen willen graag ___ sluiten en niet meer vechten.
+3. De leiders moeten het plan eerst ___ voordat het doorgaat.
 
 #### Oplossingen
-1. omsingeld
-2. getuige
-3. noodsituatie
+1. hoop
+2. vrede
+3. goedkeuren
 
 ### Meerkeuzevragen
-1. Hoe lang is Al-Fasher al omsingeld?
-   a) meer dan 100 dagen
-   b) meer dan 500 dagen
-   c) meer dan 1000 dagen
-   d) precies 365 dagen
+1. Wat betekent 'hoop hebben'?
+   a) heel veel geld hebben
+   b) bang zijn voor de toekomst
+   c) geloven dat iets goed komt
+   d) een plan maken
 
-2. Wat is Mohamed Zakaria?
-   a) een soldaat
-   b) een fotograaf
-   c) een dokter
-   d) een politicus
+2. Wat is een 'oorlog'?
+   a) een feestelijke viering
+   b) een tijd met veel vechten en geweld
+   c) een rustige vakantie
+   d) een belangrijke vergadering
 
-3. Wat betekent 'genocide'?
-   a) een grote overwinning vieren
-   b) een heel volk uitmoorden
-   c) een nieuwe wet maken
-   d) vrede sluiten
+3. Wat doe je als je iets 'goedkeurt'?
+   a) je bent het er niet mee eens
+   b) je zegt dat het goed is en je ermee akkoord gaat
+   c) je maakt het kapot
+   d) je vergeet het
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. c) geloven dat iets goed komt
+2. b) een tijd met veel vechten en geweld
+3. b) je zegt dat het goed is en je ermee akkoord gaat
 
 ### Waar / Niet Waar
-1. Er kunnen nog steeds medicijnen en voedsel naar Al-Fasher.
-2. Deze oorlog is bijna vergeten door de wereld.
-3. De situatie in de stad is niet erg ernstig.
+1. Mensen in Gaza zijn hoopvol omdat er misschien vrede komt.
+2. De groep Hamas keurt het hele plan van Trump goed.
+3. Iemand hoopt dat de oorlog voorbij is.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1. Waar
+2. Niet Waar (ze keuren alleen een deel goed)
+3. Waar
 ---
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/6pc42k-dji-mimo-20240529-161312-237-1717001058499-photo.jpg/alternates/BASE_SIXTEEN_NINE/dji_mimo_20240529_161312_237_1717001058499_photo.jpg)  
-[Lees het originele artikel](https://www.standaard.be/buitenland/het-vergeten-conflict-al-fasher-bevindt-zich-in-een-absolute-noodsituatie/94833361.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/3su7ha-532.jpeg/alternates/BASE_SIXTEEN_NINE/532.jpeg)  
+[Lees het originele artikel](https://www.standaard.be/buitenland/palestijnen-in-gaza-voor-het-eerst-in-lange-tijd-weer-hoopvol-godzijdank-hebben-ze-ingestemd-met-het-voorstel-van-trump/95086346.html)
 
 ## Samenvatting
-De stad Al-Fasher in Soedan wordt al meer dan 500 dagen omsingeld door soldaten. Er kunnen geen eten en medicijnen meer naar binnen. Een fotograaf ziet alles. Hij is een belangrijke getuige van deze oorlog. De oorlog is bijna vergeten door de wereld. Het kan een genocide worden. Dat betekent dat er een volk wordt uitgemoord.
+Mensen in Gaza hopen voor het eerst in lange tijd weer op rust en vrede. De groep Hamas zegt ja tegen een deel van het vredesplan van Trump. Iemand zegt: "Ik hoop dat het waar is wat we horen, en dat de oorlog echt over is."
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordlijst
 | Woord | Definitie |
 |-------|-----------|
-| **omsingeld** | helemaal omgeven door vijandige soldaten, je kunt er niet meer in of uit |
-| **getuige** | iemand die iets met eigen ogen heeft gezien of meegemaakt |
-| **vergeten** | dat niemand er meer aan denkt of weet |
-| **genocide** | het opzettelijk doden van een hele bevolkingsgroep |
-| **noodsituatie** | een zeer gevaarlijke en ernstige toestand waar snel hulp nodig is |
+| **hoop** | het gevoel dat iets goed gaat komen |
+| **vrede** | een tijd zonder ruzie of oorlog |
+| **goedkeuren** | zeggen dat je het ergens mee eens bent |
+| **oorlog** | een tijd met veel geweld en vechten tussen landen of groepen |
+| **voorstel** | een plan dat je aan anderen laat horen |
 
 ### Vul-in-de-leegte
-1. De stad is al lang ___ door soldaten, niemand kan meer weg.
-2. De fotograaf is een belangrijke ___ van de oorlog.
-3. Er is een ___ omdat er geen eten en medicijnen meer zijn.
+1. De mensen waren blij en hadden ___ op een betere toekomst.
+2. De twee landen willen graag ___ sluiten en niet meer vechten.
+3. De leiders moeten het plan eerst ___ voordat het doorgaat.
 
 #### Oplossingen
-1. omsingeld
-2. getuige
-3. noodsituatie
+1. hoop
+2. vrede
+3. goedkeuren
 
 ### Meerkeuzevragen
-1. Hoe lang is Al-Fasher al omsingeld?
-   a) meer dan 100 dagen
-   b) meer dan 500 dagen
-   c) meer dan 1000 dagen
-   d) precies 365 dagen
+1. Wat betekent 'hoop hebben'?
+   a) heel veel geld hebben
+   b) bang zijn voor de toekomst
+   c) geloven dat iets goed komt
+   d) een plan maken
 
-2. Wat is Mohamed Zakaria?
-   a) een soldaat
-   b) een fotograaf
-   c) een dokter
-   d) een politicus
+2. Wat is een 'oorlog'?
+   a) een feestelijke viering
+   b) een tijd met veel vechten en geweld
+   c) een rustige vakantie
+   d) een belangrijke vergadering
 
-3. Wat betekent 'genocide'?
-   a) een grote overwinning vieren
-   b) een heel volk uitmoorden
-   c) een nieuwe wet maken
-   d) vrede sluiten
+3. Wat doe je als je iets 'goedkeurt'?
+   a) je bent het er niet mee eens
+   b) je zegt dat het goed is en je ermee akkoord gaat
+   c) je maakt het kapot
+   d) je vergeet het
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. c) geloven dat iets goed komt
+2. b) een tijd met veel vechten en geweld
+3. b) je zegt dat het goed is en je ermee akkoord gaat
 
 ### Waar / Niet Waar
-1. Er kunnen nog steeds medicijnen en voedsel naar Al-Fasher.
-2. Deze oorlog is bijna vergeten door de wereld.
-3. De situatie in de stad is niet erg ernstig.
+1. Mensen in Gaza zijn hoopvol omdat er misschien vrede komt.
+2. De groep Hamas keurt het hele plan van Trump goed.
+3. Iemand hoopt dat de oorlog voorbij is.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1. Waar
+2. Niet Waar (ze keuren alleen een deel goed)
+3. Waar
 ---
 
 ## Woordenschatuitbreiding
-### Woordenlijst
+### Woordlijst
 | Woord | Definitie |
 |-------|-----------|
-| **omsingeld** | helemaal omgeven door vijandige soldaten, je kunt er niet meer in of uit |
-| **getuige** | iemand die iets met eigen ogen heeft gezien of meegemaakt |
-| **vergeten** | dat niemand er meer aan denkt of weet |
-| **genocide** | het opzettelijk doden van een hele bevolkingsgroep |
-| **noodsituatie** | een zeer gevaarlijke en ernstige toestand waar snel hulp nodig is |
+| **hoop** | het gevoel dat iets goed gaat komen |
+| **vrede** | een tijd zonder ruzie of oorlog |
+| **goedkeuren** | zeggen dat je het ergens mee eens bent |
+| **oorlog** | een tijd met veel geweld en vechten tussen landen of groepen |
+| **voorstel** | een plan dat je aan anderen laat horen |
 
 ### Vul-in-de-leegte
-1. De stad is al lang ___ door soldaten, niemand kan meer weg.
-2. De fotograaf is een belangrijke ___ van de oorlog.
-3. Er is een ___ omdat er geen eten en medicijnen meer zijn.
+1. De mensen waren blij en hadden ___ op een betere toekomst.
+2. De twee landen willen graag ___ sluiten en niet meer vechten.
+3. De leiders moeten het plan eerst ___ voordat het doorgaat.
 
 #### Oplossingen
-1. omsingeld
-2. getuige
-3. noodsituatie
+1. hoop
+2. vrede
+3. goedkeuren
 
 ### Meerkeuzevragen
-1. Hoe lang is Al-Fasher al omsingeld?
-   a) meer dan 100 dagen
-   b) meer dan 500 dagen
-   c) meer dan 1000 dagen
-   d) precies 365 dagen
+1. Wat betekent 'hoop hebben'?
+   a) heel veel geld hebben
+   b) bang zijn voor de toekomst
+   c) geloven dat iets goed komt
+   d) een plan maken
 
-2. Wat is Mohamed Zakaria?
-   a) een soldaat
-   b) een fotograaf
-   c) een dokter
-   d) een politicus
+2. Wat is een 'oorlog'?
+   a) een feestelijke viering
+   b) een tijd met veel vechten en geweld
+   c) een rustige vakantie
+   d) een belangrijke vergadering
 
-3. Wat betekent 'genocide'?
-   a) een grote overwinning vieren
-   b) een heel volk uitmoorden
-   c) een nieuwe wet maken
-   d) vrede sluiten
+3. Wat doe je als je iets 'goedkeurt'?
+   a) je bent het er niet mee eens
+   b) je zegt dat het goed is en je ermee akkoord gaat
+   c) je maakt het kapot
+   d) je vergeet het
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. c) geloven dat iets goed komt
+2. b) een tijd met veel vechten en geweld
+3. b) je zegt dat het goed is en je ermee akkoord gaat
 
 ### Waar / Niet Waar
-1. Er kunnen nog steeds medicijnen en voedsel naar Al-Fasher.
-2. Deze oorlog is bijna vergeten door de wereld.
-3. De situatie in de stad is niet erg ernstig.
+1. Mensen in Gaza zijn hoopvol omdat er misschien vrede komt.
+2. De groep Hamas keurt het hele plan van Trump goed.
+3. Iemand hoopt dat de oorlog voorbij is.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1. Waar
+2. Niet Waar (ze keuren alleen een deel goed)
+3. Waar
 ---
 
 ## Vul-in-de-leegte
-1. De stad is al lang ___ door soldaten, niemand kan meer weg.
-2. De fotograaf is een belangrijke ___ van de oorlog.
-3. Er is een ___ omdat er geen eten en medicijnen meer zijn.
+1. De mensen waren blij en hadden ___ op een betere toekomst.
+2. De twee landen willen graag ___ sluiten en niet meer vechten.
+3. De leiders moeten het plan eerst ___ voordat het doorgaat.
 
 #### Oplossingen
-1. omsingeld
-2. getuige
-3. noodsituatie
+1. hoop
+2. vrede
+3. goedkeuren
 
 ### Meerkeuzevragen
-1. Hoe lang is Al-Fasher al omsingeld?
-   a) meer dan 100 dagen
-   b) meer dan 500 dagen
-   c) meer dan 1000 dagen
-   d) precies 365 dagen
+1. Wat betekent 'hoop hebben'?
+   a) heel veel geld hebben
+   b) bang zijn voor de toekomst
+   c) geloven dat iets goed komt
+   d) een plan maken
 
-2. Wat is Mohamed Zakaria?
-   a) een soldaat
-   b) een fotograaf
-   c) een dokter
-   d) een politicus
+2. Wat is een 'oorlog'?
+   a) een feestelijke viering
+   b) een tijd met veel vechten en geweld
+   c) een rustige vakantie
+   d) een belangrijke vergadering
 
-3. Wat betekent 'genocide'?
-   a) een grote overwinning vieren
-   b) een heel volk uitmoorden
-   c) een nieuwe wet maken
-   d) vrede sluiten
+3. Wat doe je als je iets 'goedkeurt'?
+   a) je bent het er niet mee eens
+   b) je zegt dat het goed is en je ermee akkoord gaat
+   c) je maakt het kapot
+   d) je vergeet het
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. c) geloven dat iets goed komt
+2. b) een tijd met veel vechten en geweld
+3. b) je zegt dat het goed is en je ermee akkoord gaat
 
 ### Waar / Niet Waar
-1. Er kunnen nog steeds medicijnen en voedsel naar Al-Fasher.
-2. Deze oorlog is bijna vergeten door de wereld.
-3. De situatie in de stad is niet erg ernstig.
+1. Mensen in Gaza zijn hoopvol omdat er misschien vrede komt.
+2. De groep Hamas keurt het hele plan van Trump goed.
+3. Iemand hoopt dat de oorlog voorbij is.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1. Waar
+2. Niet Waar (ze keuren alleen een deel goed)
+3. Waar
 ---
 
 ## Meerkeuzevragen
-1. Hoe lang is Al-Fasher al omsingeld?
-   a) meer dan 100 dagen
-   b) meer dan 500 dagen
-   c) meer dan 1000 dagen
-   d) precies 365 dagen
+1. Wat betekent 'hoop hebben'?
+   a) heel veel geld hebben
+   b) bang zijn voor de toekomst
+   c) geloven dat iets goed komt
+   d) een plan maken
 
-2. Wat is Mohamed Zakaria?
-   a) een soldaat
-   b) een fotograaf
-   c) een dokter
-   d) een politicus
+2. Wat is een 'oorlog'?
+   a) een feestelijke viering
+   b) een tijd met veel vechten en geweld
+   c) een rustige vakantie
+   d) een belangrijke vergadering
 
-3. Wat betekent 'genocide'?
-   a) een grote overwinning vieren
-   b) een heel volk uitmoorden
-   c) een nieuwe wet maken
-   d) vrede sluiten
+3. Wat doe je als je iets 'goedkeurt'?
+   a) je bent het er niet mee eens
+   b) je zegt dat het goed is en je ermee akkoord gaat
+   c) je maakt het kapot
+   d) je vergeet het
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. c) geloven dat iets goed komt
+2. b) een tijd met veel vechten en geweld
+3. b) je zegt dat het goed is en je ermee akkoord gaat
 
 ### Waar / Niet Waar
-1. Er kunnen nog steeds medicijnen en voedsel naar Al-Fasher.
-2. Deze oorlog is bijna vergeten door de wereld.
-3. De situatie in de stad is niet erg ernstig.
+1. Mensen in Gaza zijn hoopvol omdat er misschien vrede komt.
+2. De groep Hamas keurt het hele plan van Trump goed.
+3. Iemand hoopt dat de oorlog voorbij is.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1. Waar
+2. Niet Waar (ze keuren alleen een deel goed)
+3. Waar
 ---
 
 ## Waar / Niet waar
-1. Er kunnen nog steeds medicijnen en voedsel naar Al-Fasher.
-2. Deze oorlog is bijna vergeten door de wereld.
-3. De situatie in de stad is niet erg ernstig.
+1. Mensen in Gaza zijn hoopvol omdat er misschien vrede komt.
+2. De groep Hamas keurt het hele plan van Trump goed.
+3. Iemand hoopt dat de oorlog voorbij is.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1. Waar
+2. Niet Waar (ze keuren alleen een deel goed)
+3. Waar
 ---

@@ -1,267 +1,267 @@
-# Straat in Antwerpen heeft weer een harde knal
+# Fietser overleden bij grens tussen België en Nederland
 
-**Samenvatting:** In Borgerhout was er zaterdagochtend een harde knal. Dit was om 6.40 uur in de Kistemaeckersstraat. Er was een beetje schade aan een voordeur. Deze straat had eerder ook al een knal. De vorige keer was het per ongeluk.
+**Samenvatting:** Op zaterdagochtend is een fietser overleden bij een ongeluk. Het ongeluk gebeurde op de grens tussen het Nederlandse Hazeldonk en het Belgische Meer.
 
 ## Woordenschatuitbreiding
 
-### Woordenschatlijst
+### Woordlijst
 | Woord | Definitie |
 |-------|-----------|
-| **opgeschrikt** | wakker geschrokken of bang gemaakt door een hard geluid |
-| **explosie** | een hele harde knal, vaak door iets dat ontploft |
-| **veroorzaakte** | maakte dat iets gebeurde |
-| **geviseerd** | als doel gekozen zijn |
-| **vergissing** | iets doen wat je niet wilt doen, een fout |
+| **grens** | de lijn tussen twee landen |
+| **overleden** | dood; niet meer levend |
+| **ongeluk** | iets slechts dat per ongeluk gebeurt |
+| **aanrijding** | wanneer een voertuig iets of iemand raakt |
+| **grensovergang** | de plaats waar je van het ene land naar het andere gaat |
 
 ### Vul-in-de-leegte
-1.  De harde ___ maakte iedereen wakker.
-2.  Er was een ___ aan de voordeur door de knal.
-3.  De vorige keer was het een ___, het was niet met opzet.
+1. De fietser is ___ bij een ongeluk.
+2. Het ongeluk gebeurde op de ___ tussen België en Nederland.
+3. De politie onderzoekt wat de ___ van het ongeluk is.
 
 #### Oplossingen
-1.  explosie
-2.  schade
-3.  vergissing
+1. overleden
+2. grens
+3. oorzaak
 
 ### Meerkeuzevragen
-1. Waar gebeurde de explosie?
-   a) In Brussel
-   b) In de Kistemaeckersstraat
-   c) In een park
-   d) In een winkel
+1. Waar is het ongeluk gebeurd?
+   a) In een park
+   b) Op de grens tussen België en Nederland
+   c) In een winkelstraat
+   d) Op een school
 
-2. Wanneer was de knal?
-   a) Zaterdagavond
-   b) Zondagochtend
-   c) Rond 6.40 uur 's ochtends
-   d) Rond 12.00 uur 's middags
+2. Wanneer gebeurde het ongeluk?
+   a) Maandagavond
+   b) Zaterdagochtend
+   c) Vrijdagmiddag
+   d) Zondagnacht
 
-3. Wat was er aan de hand bij de vorige keer?
-   a) Het was een feest.
-   b) Het was een vergissing.
-   c) Het was een oefening.
-   d) Er was geen vorige keer.
+3. Hoe is de persoon overleden?
+   a) Door ouderdom
+   b) Bij een aanrijding
+   c) Door een ziekte
+   d) Dat weet men niet
 
 #### Antwoorden
-1.  b
-2.  c
-3.  b
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1.  De knal veroorzaakte veel schade aan veel huizen.
-2.  De straat had nog nooit eerder een knal gehad.
-3.  De knal was 's ochtends vroeg.
+1. Het ongeluk gebeurde op maandag.
+2. De fietser is overleden.
+3. Het ongeluk was in het centrum van Amsterdam.
 
 #### Antwoorden
-1.  Niet Waar
-2.  Niet Waar
-3.  Waar
+1. Niet Waar
+2. Waar
+3. Niet Waar
 ---
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/5xpqt-fotoborgerhout3.jpeg/alternates/BASE_SIXTEEN_NINE/fotoborgerhout3.jpeg)  
-[Lees het originele artikel](https://www.standaard.be/binnenland/straat-in-antwerpen-opnieuw-opgeschrikt-door-zware-knal-schade-beperkt/95079630.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/cxmcjh-de-gehavende-fiets-van-de-overleden-man-ligt-in-de-berm-op-de-grensovergang-in-hzeldonk-vlak-naast-de-e19-.jpg/alternates/BASE_SIXTEEN_NINE/De%20gehavende%20fiets%20van%20de%20overleden%20man%20ligt%20in%20de%20berm%20op%20de%20grensovergang%20in%20Hzeldonk%20vlak%20naast%20de%20E19_.jpg)  
+[Lees het originele artikel](https://www.standaard.be/binnenland/dode-fietser-gevonden-bij-belgisch-nederlandse-grens/95099727.html)
 
 ## Samenvatting
-In Borgerhout was er zaterdagochtend een harde knal. Dit was om 6.40 uur in de Kistemaeckersstraat. Er was een beetje schade aan een voordeur. Deze straat had eerder ook al een knal. De vorige keer was het per ongeluk.
+Op zaterdagochtend is een fietser overleden bij een ongeluk. Het ongeluk gebeurde op de grens tussen het Nederlandse Hazeldonk en het Belgische Meer.
 
 ## Woordenschatuitbreiding
 
-### Woordenschatlijst
+### Woordlijst
 | Woord | Definitie |
 |-------|-----------|
-| **opgeschrikt** | wakker geschrokken of bang gemaakt door een hard geluid |
-| **explosie** | een hele harde knal, vaak door iets dat ontploft |
-| **veroorzaakte** | maakte dat iets gebeurde |
-| **geviseerd** | als doel gekozen zijn |
-| **vergissing** | iets doen wat je niet wilt doen, een fout |
+| **grens** | de lijn tussen twee landen |
+| **overleden** | dood; niet meer levend |
+| **ongeluk** | iets slechts dat per ongeluk gebeurt |
+| **aanrijding** | wanneer een voertuig iets of iemand raakt |
+| **grensovergang** | de plaats waar je van het ene land naar het andere gaat |
 
 ### Vul-in-de-leegte
-1.  De harde ___ maakte iedereen wakker.
-2.  Er was een ___ aan de voordeur door de knal.
-3.  De vorige keer was het een ___, het was niet met opzet.
+1. De fietser is ___ bij een ongeluk.
+2. Het ongeluk gebeurde op de ___ tussen België en Nederland.
+3. De politie onderzoekt wat de ___ van het ongeluk is.
 
 #### Oplossingen
-1.  explosie
-2.  schade
-3.  vergissing
+1. overleden
+2. grens
+3. oorzaak
 
 ### Meerkeuzevragen
-1. Waar gebeurde de explosie?
-   a) In Brussel
-   b) In de Kistemaeckersstraat
-   c) In een park
-   d) In een winkel
+1. Waar is het ongeluk gebeurd?
+   a) In een park
+   b) Op de grens tussen België en Nederland
+   c) In een winkelstraat
+   d) Op een school
 
-2. Wanneer was de knal?
-   a) Zaterdagavond
-   b) Zondagochtend
-   c) Rond 6.40 uur 's ochtends
-   d) Rond 12.00 uur 's middags
+2. Wanneer gebeurde het ongeluk?
+   a) Maandagavond
+   b) Zaterdagochtend
+   c) Vrijdagmiddag
+   d) Zondagnacht
 
-3. Wat was er aan de hand bij de vorige keer?
-   a) Het was een feest.
-   b) Het was een vergissing.
-   c) Het was een oefening.
-   d) Er was geen vorige keer.
+3. Hoe is de persoon overleden?
+   a) Door ouderdom
+   b) Bij een aanrijding
+   c) Door een ziekte
+   d) Dat weet men niet
 
 #### Antwoorden
-1.  b
-2.  c
-3.  b
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1.  De knal veroorzaakte veel schade aan veel huizen.
-2.  De straat had nog nooit eerder een knal gehad.
-3.  De knal was 's ochtends vroeg.
+1. Het ongeluk gebeurde op maandag.
+2. De fietser is overleden.
+3. Het ongeluk was in het centrum van Amsterdam.
 
 #### Antwoorden
-1.  Niet Waar
-2.  Niet Waar
-3.  Waar
+1. Niet Waar
+2. Waar
+3. Niet Waar
 ---
 
 ## Woordenschatuitbreiding
-### Woordenschatlijst
+### Woordlijst
 | Woord | Definitie |
 |-------|-----------|
-| **opgeschrikt** | wakker geschrokken of bang gemaakt door een hard geluid |
-| **explosie** | een hele harde knal, vaak door iets dat ontploft |
-| **veroorzaakte** | maakte dat iets gebeurde |
-| **geviseerd** | als doel gekozen zijn |
-| **vergissing** | iets doen wat je niet wilt doen, een fout |
+| **grens** | de lijn tussen twee landen |
+| **overleden** | dood; niet meer levend |
+| **ongeluk** | iets slechts dat per ongeluk gebeurt |
+| **aanrijding** | wanneer een voertuig iets of iemand raakt |
+| **grensovergang** | de plaats waar je van het ene land naar het andere gaat |
 
 ### Vul-in-de-leegte
-1.  De harde ___ maakte iedereen wakker.
-2.  Er was een ___ aan de voordeur door de knal.
-3.  De vorige keer was het een ___, het was niet met opzet.
+1. De fietser is ___ bij een ongeluk.
+2. Het ongeluk gebeurde op de ___ tussen België en Nederland.
+3. De politie onderzoekt wat de ___ van het ongeluk is.
 
 #### Oplossingen
-1.  explosie
-2.  schade
-3.  vergissing
+1. overleden
+2. grens
+3. oorzaak
 
 ### Meerkeuzevragen
-1. Waar gebeurde de explosie?
-   a) In Brussel
-   b) In de Kistemaeckersstraat
-   c) In een park
-   d) In een winkel
+1. Waar is het ongeluk gebeurd?
+   a) In een park
+   b) Op de grens tussen België en Nederland
+   c) In een winkelstraat
+   d) Op een school
 
-2. Wanneer was de knal?
-   a) Zaterdagavond
-   b) Zondagochtend
-   c) Rond 6.40 uur 's ochtends
-   d) Rond 12.00 uur 's middags
+2. Wanneer gebeurde het ongeluk?
+   a) Maandagavond
+   b) Zaterdagochtend
+   c) Vrijdagmiddag
+   d) Zondagnacht
 
-3. Wat was er aan de hand bij de vorige keer?
-   a) Het was een feest.
-   b) Het was een vergissing.
-   c) Het was een oefening.
-   d) Er was geen vorige keer.
+3. Hoe is de persoon overleden?
+   a) Door ouderdom
+   b) Bij een aanrijding
+   c) Door een ziekte
+   d) Dat weet men niet
 
 #### Antwoorden
-1.  b
-2.  c
-3.  b
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1.  De knal veroorzaakte veel schade aan veel huizen.
-2.  De straat had nog nooit eerder een knal gehad.
-3.  De knal was 's ochtends vroeg.
+1. Het ongeluk gebeurde op maandag.
+2. De fietser is overleden.
+3. Het ongeluk was in het centrum van Amsterdam.
 
 #### Antwoorden
-1.  Niet Waar
-2.  Niet Waar
-3.  Waar
+1. Niet Waar
+2. Waar
+3. Niet Waar
 ---
 
 ## Vul-in-de-leegte
-1.  De harde ___ maakte iedereen wakker.
-2.  Er was een ___ aan de voordeur door de knal.
-3.  De vorige keer was het een ___, het was niet met opzet.
+1. De fietser is ___ bij een ongeluk.
+2. Het ongeluk gebeurde op de ___ tussen België en Nederland.
+3. De politie onderzoekt wat de ___ van het ongeluk is.
 
 #### Oplossingen
-1.  explosie
-2.  schade
-3.  vergissing
+1. overleden
+2. grens
+3. oorzaak
 
 ### Meerkeuzevragen
-1. Waar gebeurde de explosie?
-   a) In Brussel
-   b) In de Kistemaeckersstraat
-   c) In een park
-   d) In een winkel
+1. Waar is het ongeluk gebeurd?
+   a) In een park
+   b) Op de grens tussen België en Nederland
+   c) In een winkelstraat
+   d) Op een school
 
-2. Wanneer was de knal?
-   a) Zaterdagavond
-   b) Zondagochtend
-   c) Rond 6.40 uur 's ochtends
-   d) Rond 12.00 uur 's middags
+2. Wanneer gebeurde het ongeluk?
+   a) Maandagavond
+   b) Zaterdagochtend
+   c) Vrijdagmiddag
+   d) Zondagnacht
 
-3. Wat was er aan de hand bij de vorige keer?
-   a) Het was een feest.
-   b) Het was een vergissing.
-   c) Het was een oefening.
-   d) Er was geen vorige keer.
+3. Hoe is de persoon overleden?
+   a) Door ouderdom
+   b) Bij een aanrijding
+   c) Door een ziekte
+   d) Dat weet men niet
 
 #### Antwoorden
-1.  b
-2.  c
-3.  b
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1.  De knal veroorzaakte veel schade aan veel huizen.
-2.  De straat had nog nooit eerder een knal gehad.
-3.  De knal was 's ochtends vroeg.
+1. Het ongeluk gebeurde op maandag.
+2. De fietser is overleden.
+3. Het ongeluk was in het centrum van Amsterdam.
 
 #### Antwoorden
-1.  Niet Waar
-2.  Niet Waar
-3.  Waar
+1. Niet Waar
+2. Waar
+3. Niet Waar
 ---
 
 ## Meerkeuzevragen
-1. Waar gebeurde de explosie?
-   a) In Brussel
-   b) In de Kistemaeckersstraat
-   c) In een park
-   d) In een winkel
+1. Waar is het ongeluk gebeurd?
+   a) In een park
+   b) Op de grens tussen België en Nederland
+   c) In een winkelstraat
+   d) Op een school
 
-2. Wanneer was de knal?
-   a) Zaterdagavond
-   b) Zondagochtend
-   c) Rond 6.40 uur 's ochtends
-   d) Rond 12.00 uur 's middags
+2. Wanneer gebeurde het ongeluk?
+   a) Maandagavond
+   b) Zaterdagochtend
+   c) Vrijdagmiddag
+   d) Zondagnacht
 
-3. Wat was er aan de hand bij de vorige keer?
-   a) Het was een feest.
-   b) Het was een vergissing.
-   c) Het was een oefening.
-   d) Er was geen vorige keer.
+3. Hoe is de persoon overleden?
+   a) Door ouderdom
+   b) Bij een aanrijding
+   c) Door een ziekte
+   d) Dat weet men niet
 
 #### Antwoorden
-1.  b
-2.  c
-3.  b
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1.  De knal veroorzaakte veel schade aan veel huizen.
-2.  De straat had nog nooit eerder een knal gehad.
-3.  De knal was 's ochtends vroeg.
+1. Het ongeluk gebeurde op maandag.
+2. De fietser is overleden.
+3. Het ongeluk was in het centrum van Amsterdam.
 
 #### Antwoorden
-1.  Niet Waar
-2.  Niet Waar
-3.  Waar
+1. Niet Waar
+2. Waar
+3. Niet Waar
 ---
 
 ## Waar / Niet waar
-1.  De knal veroorzaakte veel schade aan veel huizen.
-2.  De straat had nog nooit eerder een knal gehad.
-3.  De knal was 's ochtends vroeg.
+1. Het ongeluk gebeurde op maandag.
+2. De fietser is overleden.
+3. Het ongeluk was in het centrum van Amsterdam.
 
 #### Antwoorden
-1.  Niet Waar
-2.  Niet Waar
-3.  Waar
+1. Niet Waar
+2. Waar
+3. Niet Waar
 ---

@@ -1,15 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-10-04 11:07 UCT
+Nieuwsupdate: 2025-10-04 17:07 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Zelfs als Poetin geen drones meer stuurt, wint hij
-Link: https://www.standaard.be/buitenland/zelfs-als-poetin-geen-drones-meer-stuurt-wint-hij/94928607.html
-Datum: Fri, 03 Oct 2025 21:59:00 GMT
-Samenvatting: Rusland hoeft geen drones meer te sturen om paniek te veroorzaken. Zolang we maar dénken dat “de Russen” er iedere keer achter zitten, hoeven ze in het Kremlin eigenlijk geen vinger meer uit te steken.
+Titel: Man opgepakt na incident met drone bij luchthaven Frankfurt
+Link: https://www.standaard.be/buitenland/man-opgepakt-na-incident-met-drone-bij-luchthaven-frankfurt/95107447.html
+Datum: Sat, 04 Oct 2025 14:37:00 GMT
+Samenvatting: Een man is in Duitsland opgepakt nadat hij vrijdag een drone had laten vliegen in de buurt van de luchthaven van Frankfurt. Dat heeft de Duitse politie zaterdag bevestigd.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/c9b3tb-belgaimage-135934223.jpg/alternates/BASE_SIXTEEN_NINE/Belgaimage-135934223.jpg
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/fpvhk5-lufthansa-job-reductions/alternates/BASE_SIXTEEN_NINE/Lufthansa-Job%20Reductions
+Premium: false
 ------------------------------------------------------------

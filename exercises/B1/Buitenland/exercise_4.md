@@ -1,56 +1,56 @@
-# Oud-leider van de NAVO: "Rusland en China hebben maar weinig vrienden"
+# Sanae Takaichi wordt de eerste vrouwelijke leider van Japan
 
-**Samenvatting:** Jens Stoltenberg was tien jaar de baas van de NAVO. Toen hij begon, was het rustig. Toen kwam Donald Trump. Kort daarna viel Rusland Oekraïne binnen. "Poetin denkt nog steeds dat hij kan winnen. Wij moeten dat veranderen."
+**Samenvatting:** De grootste politieke partij van Japan heeft een nieuwe leider gekozen. De nieuwe leider is een vrouw, Sanae Takaichi. Omdat haar partij de grootste is, wordt zij waarschijnlijk de nieuwe premier. Zij is dan de eerste vrouw die deze belangrijke baan in Japan krijgt.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **leider** | iemand die de baas is |
-| **bondgenoten** | landen die vrienden zijn en elkaar helpen |
-| **binnen** | van buiten naar de plek waar je zelf bent |
-| **vallen** | snel naar beneden gaan |
-| **rustig** | zonder problemen of geluid |
+| **premier** | de leider van de regering van een land |
+| **partij** | een groep mensen met dezelfde ideeën over politiek |
+| **leider** | de belangrijkste persoon; de baas |
+| **verkozen** | gekozen door middel van stemmen |
+| **vrouwelijk** | van of voor een vrouw |
 
 ### Vul-in-de-leegte
-1. Jens Stoltenberg was de ___ van de NAVO.
-2. Rusland viel Oekraïne ___.
-3. Poetin denkt dat hij kan ___.
+1. De politieke _____ heeft een nieuwe leider gekozen.
+2. Sanae Takaichi wordt waarschijnlijk de nieuwe _____ van Japan.
+3. Zij is de eerste _____ leider van het land.
 
 #### Oplossingen
-1. leider
-2. binnen
-3. winnen
+1. partij
+2. premier
+3. vrouwelijke
 
 ### Meerkeuzevragen
-1. Hoe lang was Stoltenberg de baas van de NAVO?
-   a) vijf jaar
-   b) tien jaar
-   c) vijftien jaar
-   d) twintig jaar
+1. Wie is Sanae Takaichi?
+   a) Een koningin
+   b) De nieuwe leider van een politieke partij
+   c) Een journalist
+   d) Een voetballer
 
-2. Wie kwam er toen Stoltenberg begon?
-   a) Poetin
-   b) Donald Trump
-   c) De president van China
-   d) De leider van Oekraïne
+2. Wat is bijzonder aan haar nieuwe baan?
+   a) Ze krijgt een heel hoog salaris.
+   b) Ze is de eerste vrouw die deze baan krijgt.
+   c) Ze gaat in een ander land werken.
+   d) Ze is heel jong.
 
-3. Wat denkt Poetin volgens Stoltenberg?
-   a) dat hij gaat verliezen
-   b) dat hij kan winnen
-   c) dat hij moet stoppen
-   d) dat hij meer vrienden nodig heeft
+3. Wat is de LDP?
+   a) Een Japanse stad.
+   b) Een belangrijke politieke partij in Japan.
+   c) Een televisieprogramma.
+   d) De naam van een vliegtuig.
 
 #### Antwoorden
-1. b) tien jaar
-2. b) Donald Trump
-3. b) dat hij kan winnen
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Stoltenberg was vijf jaar de baas van de NAVO.
-2. Rusland viel Oekraïne binnen.
-3. Poetin denkt dat hij gaat verliezen.
+1. Sanae Takaichi is een man.
+2. Haar partij is de grootste van Japan.
+3. Zij is de tiende vrouwelijke premier van Japan.
 
 #### Antwoorden
 1. Niet Waar
@@ -58,61 +58,61 @@
 3. Niet Waar
 ---
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/sardsb-belgaimage-133688006.jpg/alternates/BASE_SIXTEEN_NINE/Belgaimage-133688006.jpg)  
-[Lees het originele artikel](https://www.standaard.be/buitenland/ex-navobaas-stoltenberg-rusland-en-china-kunnen-niet-terugvallen-op-dertig-bondgenoten/94865366.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/8la5ib-japans-ruling-ldp-picks-takaichi-as-new-leader/alternates/BASE_SIXTEEN_NINE/Japans%20ruling%20LDP%20picks%20Takaichi%20as%20new%20leader)  
+[Lees het originele artikel](https://www.standaard.be/buitenland/sanae-takaichi-wordt-eerste-vrouwelijke-premier-van-japan/95095416.html)
 
 ## Samenvatting
-Jens Stoltenberg was tien jaar de baas van de NAVO. Toen hij begon, was het rustig. Toen kwam Donald Trump. Kort daarna viel Rusland Oekraïne binnen. "Poetin denkt nog steeds dat hij kan winnen. Wij moeten dat veranderen."
+De grootste politieke partij van Japan heeft een nieuwe leider gekozen. De nieuwe leider is een vrouw, Sanae Takaichi. Omdat haar partij de grootste is, wordt zij waarschijnlijk de nieuwe premier. Zij is dan de eerste vrouw die deze belangrijke baan in Japan krijgt.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **leider** | iemand die de baas is |
-| **bondgenoten** | landen die vrienden zijn en elkaar helpen |
-| **binnen** | van buiten naar de plek waar je zelf bent |
-| **vallen** | snel naar beneden gaan |
-| **rustig** | zonder problemen of geluid |
+| **premier** | de leider van de regering van een land |
+| **partij** | een groep mensen met dezelfde ideeën over politiek |
+| **leider** | de belangrijkste persoon; de baas |
+| **verkozen** | gekozen door middel van stemmen |
+| **vrouwelijk** | van of voor een vrouw |
 
 ### Vul-in-de-leegte
-1. Jens Stoltenberg was de ___ van de NAVO.
-2. Rusland viel Oekraïne ___.
-3. Poetin denkt dat hij kan ___.
+1. De politieke _____ heeft een nieuwe leider gekozen.
+2. Sanae Takaichi wordt waarschijnlijk de nieuwe _____ van Japan.
+3. Zij is de eerste _____ leider van het land.
 
 #### Oplossingen
-1. leider
-2. binnen
-3. winnen
+1. partij
+2. premier
+3. vrouwelijke
 
 ### Meerkeuzevragen
-1. Hoe lang was Stoltenberg de baas van de NAVO?
-   a) vijf jaar
-   b) tien jaar
-   c) vijftien jaar
-   d) twintig jaar
+1. Wie is Sanae Takaichi?
+   a) Een koningin
+   b) De nieuwe leider van een politieke partij
+   c) Een journalist
+   d) Een voetballer
 
-2. Wie kwam er toen Stoltenberg begon?
-   a) Poetin
-   b) Donald Trump
-   c) De president van China
-   d) De leider van Oekraïne
+2. Wat is bijzonder aan haar nieuwe baan?
+   a) Ze krijgt een heel hoog salaris.
+   b) Ze is de eerste vrouw die deze baan krijgt.
+   c) Ze gaat in een ander land werken.
+   d) Ze is heel jong.
 
-3. Wat denkt Poetin volgens Stoltenberg?
-   a) dat hij gaat verliezen
-   b) dat hij kan winnen
-   c) dat hij moet stoppen
-   d) dat hij meer vrienden nodig heeft
+3. Wat is de LDP?
+   a) Een Japanse stad.
+   b) Een belangrijke politieke partij in Japan.
+   c) Een televisieprogramma.
+   d) De naam van een vliegtuig.
 
 #### Antwoorden
-1. b) tien jaar
-2. b) Donald Trump
-3. b) dat hij kan winnen
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Stoltenberg was vijf jaar de baas van de NAVO.
-2. Rusland viel Oekraïne binnen.
-3. Poetin denkt dat hij gaat verliezen.
+1. Sanae Takaichi is een man.
+2. Haar partij is de grootste van Japan.
+3. Zij is de tiende vrouwelijke premier van Japan.
 
 #### Antwoorden
 1. Niet Waar
@@ -121,53 +121,53 @@ Jens Stoltenberg was tien jaar de baas van de NAVO. Toen hij begon, was het rust
 ---
 
 ## Woordenschatuitbreiding
-### Woordelijst
+### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **leider** | iemand die de baas is |
-| **bondgenoten** | landen die vrienden zijn en elkaar helpen |
-| **binnen** | van buiten naar de plek waar je zelf bent |
-| **vallen** | snel naar beneden gaan |
-| **rustig** | zonder problemen of geluid |
+| **premier** | de leider van de regering van een land |
+| **partij** | een groep mensen met dezelfde ideeën over politiek |
+| **leider** | de belangrijkste persoon; de baas |
+| **verkozen** | gekozen door middel van stemmen |
+| **vrouwelijk** | van of voor een vrouw |
 
 ### Vul-in-de-leegte
-1. Jens Stoltenberg was de ___ van de NAVO.
-2. Rusland viel Oekraïne ___.
-3. Poetin denkt dat hij kan ___.
+1. De politieke _____ heeft een nieuwe leider gekozen.
+2. Sanae Takaichi wordt waarschijnlijk de nieuwe _____ van Japan.
+3. Zij is de eerste _____ leider van het land.
 
 #### Oplossingen
-1. leider
-2. binnen
-3. winnen
+1. partij
+2. premier
+3. vrouwelijke
 
 ### Meerkeuzevragen
-1. Hoe lang was Stoltenberg de baas van de NAVO?
-   a) vijf jaar
-   b) tien jaar
-   c) vijftien jaar
-   d) twintig jaar
+1. Wie is Sanae Takaichi?
+   a) Een koningin
+   b) De nieuwe leider van een politieke partij
+   c) Een journalist
+   d) Een voetballer
 
-2. Wie kwam er toen Stoltenberg begon?
-   a) Poetin
-   b) Donald Trump
-   c) De president van China
-   d) De leider van Oekraïne
+2. Wat is bijzonder aan haar nieuwe baan?
+   a) Ze krijgt een heel hoog salaris.
+   b) Ze is de eerste vrouw die deze baan krijgt.
+   c) Ze gaat in een ander land werken.
+   d) Ze is heel jong.
 
-3. Wat denkt Poetin volgens Stoltenberg?
-   a) dat hij gaat verliezen
-   b) dat hij kan winnen
-   c) dat hij moet stoppen
-   d) dat hij meer vrienden nodig heeft
+3. Wat is de LDP?
+   a) Een Japanse stad.
+   b) Een belangrijke politieke partij in Japan.
+   c) Een televisieprogramma.
+   d) De naam van een vliegtuig.
 
 #### Antwoorden
-1. b) tien jaar
-2. b) Donald Trump
-3. b) dat hij kan winnen
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Stoltenberg was vijf jaar de baas van de NAVO.
-2. Rusland viel Oekraïne binnen.
-3. Poetin denkt dat hij gaat verliezen.
+1. Sanae Takaichi is een man.
+2. Haar partij is de grootste van Japan.
+3. Zij is de tiende vrouwelijke premier van Japan.
 
 #### Antwoorden
 1. Niet Waar
@@ -176,43 +176,43 @@ Jens Stoltenberg was tien jaar de baas van de NAVO. Toen hij begon, was het rust
 ---
 
 ## Vul-in-de-leegte
-1. Jens Stoltenberg was de ___ van de NAVO.
-2. Rusland viel Oekraïne ___.
-3. Poetin denkt dat hij kan ___.
+1. De politieke _____ heeft een nieuwe leider gekozen.
+2. Sanae Takaichi wordt waarschijnlijk de nieuwe _____ van Japan.
+3. Zij is de eerste _____ leider van het land.
 
 #### Oplossingen
-1. leider
-2. binnen
-3. winnen
+1. partij
+2. premier
+3. vrouwelijke
 
 ### Meerkeuzevragen
-1. Hoe lang was Stoltenberg de baas van de NAVO?
-   a) vijf jaar
-   b) tien jaar
-   c) vijftien jaar
-   d) twintig jaar
+1. Wie is Sanae Takaichi?
+   a) Een koningin
+   b) De nieuwe leider van een politieke partij
+   c) Een journalist
+   d) Een voetballer
 
-2. Wie kwam er toen Stoltenberg begon?
-   a) Poetin
-   b) Donald Trump
-   c) De president van China
-   d) De leider van Oekraïne
+2. Wat is bijzonder aan haar nieuwe baan?
+   a) Ze krijgt een heel hoog salaris.
+   b) Ze is de eerste vrouw die deze baan krijgt.
+   c) Ze gaat in een ander land werken.
+   d) Ze is heel jong.
 
-3. Wat denkt Poetin volgens Stoltenberg?
-   a) dat hij gaat verliezen
-   b) dat hij kan winnen
-   c) dat hij moet stoppen
-   d) dat hij meer vrienden nodig heeft
+3. Wat is de LDP?
+   a) Een Japanse stad.
+   b) Een belangrijke politieke partij in Japan.
+   c) Een televisieprogramma.
+   d) De naam van een vliegtuig.
 
 #### Antwoorden
-1. b) tien jaar
-2. b) Donald Trump
-3. b) dat hij kan winnen
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Stoltenberg was vijf jaar de baas van de NAVO.
-2. Rusland viel Oekraïne binnen.
-3. Poetin denkt dat hij gaat verliezen.
+1. Sanae Takaichi is een man.
+2. Haar partij is de grootste van Japan.
+3. Zij is de tiende vrouwelijke premier van Japan.
 
 #### Antwoorden
 1. Niet Waar
@@ -221,33 +221,33 @@ Jens Stoltenberg was tien jaar de baas van de NAVO. Toen hij begon, was het rust
 ---
 
 ## Meerkeuzevragen
-1. Hoe lang was Stoltenberg de baas van de NAVO?
-   a) vijf jaar
-   b) tien jaar
-   c) vijftien jaar
-   d) twintig jaar
+1. Wie is Sanae Takaichi?
+   a) Een koningin
+   b) De nieuwe leider van een politieke partij
+   c) Een journalist
+   d) Een voetballer
 
-2. Wie kwam er toen Stoltenberg begon?
-   a) Poetin
-   b) Donald Trump
-   c) De president van China
-   d) De leider van Oekraïne
+2. Wat is bijzonder aan haar nieuwe baan?
+   a) Ze krijgt een heel hoog salaris.
+   b) Ze is de eerste vrouw die deze baan krijgt.
+   c) Ze gaat in een ander land werken.
+   d) Ze is heel jong.
 
-3. Wat denkt Poetin volgens Stoltenberg?
-   a) dat hij gaat verliezen
-   b) dat hij kan winnen
-   c) dat hij moet stoppen
-   d) dat hij meer vrienden nodig heeft
+3. Wat is de LDP?
+   a) Een Japanse stad.
+   b) Een belangrijke politieke partij in Japan.
+   c) Een televisieprogramma.
+   d) De naam van een vliegtuig.
 
 #### Antwoorden
-1. b) tien jaar
-2. b) Donald Trump
-3. b) dat hij kan winnen
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Stoltenberg was vijf jaar de baas van de NAVO.
-2. Rusland viel Oekraïne binnen.
-3. Poetin denkt dat hij gaat verliezen.
+1. Sanae Takaichi is een man.
+2. Haar partij is de grootste van Japan.
+3. Zij is de tiende vrouwelijke premier van Japan.
 
 #### Antwoorden
 1. Niet Waar
@@ -256,9 +256,9 @@ Jens Stoltenberg was tien jaar de baas van de NAVO. Toen hij begon, was het rust
 ---
 
 ## Waar / Niet waar
-1. Stoltenberg was vijf jaar de baas van de NAVO.
-2. Rusland viel Oekraïne binnen.
-3. Poetin denkt dat hij gaat verliezen.
+1. Sanae Takaichi is een man.
+2. Haar partij is de grootste van Japan.
+3. Zij is de tiende vrouwelijke premier van Japan.
 
 #### Antwoorden
 1. Niet Waar

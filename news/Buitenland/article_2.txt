@@ -1,15 +1,15 @@
 Artikel 2
-Nieuwsupdate: 2025-10-04 11:07 UCT
+Nieuwsupdate: 2025-10-04 17:07 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Hamas antwoordt met "ja, maar", Trump lijkt enkel "ja" te horen
-Link: https://www.standaard.be/buitenland/hamas-antwoordt-met-ja-maar-trump-lijkt-enkel-ja-te-horen/95072246.html
-Datum: Sat, 04 Oct 2025 07:12:58 GMT
-Samenvatting: Hamas stemt in met enkele delen van Donald Trumps vredesplan, negeert andere of gaat er zelfs expliciet tegenin. Maar de president is positief en voorspelt – ietwat voorbarig – een “historische” vrede in het Midden-Oosten. Er kan nog veel misgaan.
+Titel: Trump “tolereert geen uitstel” van Hamas, VS-gezant Witkoff en Jared Kushner in Caïro verwacht voor gesprekken
+Link: https://www.standaard.be/buitenland/trump-tolereert-geen-uitstel-van-hamas-vs-gezant-witkoff-en-jared-kushner-in-caro-verwacht-voor-gesprekken/35173881.html
+Datum: Sat, 04 Oct 2025 15:29:51 GMT
+Samenvatting: Ondanks toenemende internationale kritiek zet Israël de vernietigingsoorlog in Gaza onverminderd voort. Volg hier de laatste ontwikkelingen.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/62yu5b-us-president-trump-and-israeli-prime-minister-netanyahu-press-conference-at-the-white-house/alternates/BASE_SIXTEEN_NINE/US%20President%20Trump%20and%20Israeli%20Prime%20Minister%20Netanyahu%20press%20conference%20at%20the%20White%20House
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/c1vubq-palestinians-inspect-the-damage-at-a-residential-neighborhood-following-an-israeli-operation-in-gaza-city/alternates/BASE_SIXTEEN_NINE/Palestinians%20inspect%20the%20damage%20at%20a%20residential%20neighborhood%20following%20an%20Israeli%20operation%20in%20Gaza%20City
+Premium: false
 ------------------------------------------------------------

@@ -1,267 +1,261 @@
-# Ziekenhuizen zeggen: bombardementen in Gaza gaan door
+# Andrej Babis wint waarschijnlijk verkiezingen in Tsjechië
 
-**Samenvatting:** Veel landen zijn boos op Israël. Toch gaat het land door met de oorlog in Gaza. Hier lees je het laatste nieuws.
+**Samenvatting:** De rijke zakenman Andrej Babis noemt zichzelf een 'Trumpist'. Hij stond op zaterdag op de eerste plaats bij de verkiezingen voor het parlement in Tsjechië. Dit weten we omdat 60 procent van de stemmen is geteld.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordenschatlijst
 | Woord | Definitie |
 |-------|-----------|
-| **bevel** | een strenge opdracht die je moet uitvoeren |
-| **internationale** | van of over meerdere landen in de wereld |
-| **kritiek** | zeggen wat je slecht of fout vindt aan iets of iemand |
-| **ontwikkelingen** | nieuwe dingen die gebeuren en hoe een situatie verandert |
-| **onverminderd** | zonder minder te worden, even hard doorgaan |
+| **miljardair** | een persoon die heel erg rijk is |
+| **zelfbenoemd** | een naam of titel die iemand zelf kiest |
+| **parlementsverkiezingen** | verkiezingen om mensen voor het parlement te kiezen |
+| **gedeeltelijke** | niet alles, maar alleen een stukje |
+| **resultaten** | de uitkomst of wat er is gebeurd |
 
 ### Vul-in-de-leegte
-1. De president gaf een ___ om de aanval te stoppen.
-2. Er is veel ___ op het nieuwe plan van de regering.
-3. We volgen de ___ in dat gebied op de voet.
+1. Andrej Babis is een heel rijke man, hij is een ___.
+2. De ___ laten zien wie er wint.
+3. We weten het nog niet zeker, we hebben alleen ___ informatie.
 
 #### Oplossingen
-1. bevel
-2. kritiek
-3. ontwikkelingen
+1. miljardair
+2. resultaten
+3. gedeeltelijke
 
 ### Meerkeuzevragen
-1. Wat is een 'bevel'?
-   A) Een vriendelijk verzoek
-   B) Een strenge opdracht
-   C) Een moeilijke vraag
-   D) Een leuk gesprek
+1. Wat is Andrej Babis?
+    a) Een leraar
+    b) Een miljardair
+    c) Een arts
+    d) Een kok
 
-2. Wat betekent 'internationale kritiek'?
-   A) Iemand in je eigen land is boos op je.
-   B) Mensen uit je eigen familie zijn boos op je.
-   C) Mensen uit verschillende landen zeggen dat ze het ergens niet mee eens zijn.
-   D) Iemand geeft je een compliment.
+2. Waar vonden de verkiezingen plaats?
+    a) In België
+    b) In Nederland
+    c) In Tsjechië
+    d) In Duitsland
 
-3. Als iets 'onverminderd' doorgaat, betekent dat...
-   A) het stopt heel snel.
-   B) het gaat even hard door als eerst.
-   C) het wordt langzaam minder.
-   D) het is helemaal klaar.
+3. Hoeveel procent van de stemmen was geteld?
+    a) 40 procent
+    b) 50 procent
+    c) 60 procent
+    d) 70 procent
 
 #### Antwoorden
-1. B
-2. C
-3. B
+1. b) Een miljardair
+2. c) In Tsjechië
+3. c) 60 procent
 
 ### Waar / Niet Waar
-1. De ziekenhuizen zeggen dat de bombardementen zijn gestopt.
-2. Veel landen zijn boos op Israël.
-3. De situatie in Gaza verandert niet.
+1. Andrej Babis noemt zichzelf een 'Trumpist'.
+2. De verkiezingen waren voor de gemeenteraad.
+3. Alle stemmen waren al geteld.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
+1. Waar
+2. Niet Waar (Het waren parlementsverkiezingen)
+3. Niet Waar (Er was 60% geteld)
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/q1zodc-israel-palestinians-gaza/alternates/BASE_SIXTEEN_NINE/Israel%20Palestinians%20Gaza)  
-[Lees het originele artikel](https://www.standaard.be/buitenland/ondanks-trumps-bevel-melden-ziekenhuizen-opnieuw-dodelijke-bombardementen-in-gaza/35173881.html)
+![Nieuwsafbeelding](https://prod-img.nieuwsblad.be/public/nieuws/txwtaf-file82nrzhzt5auydvmv9sa/alternates/BASE_SIXTEEN_NINE/file82nrzhzt5auydvmv9sa)  
+[Lees het originele artikel](https://www.standaard.be/buitenland/trumpist-andrej-babis-aan-kop-bij-parlementsverkiezingen-in-tsjechie/95109981.html)
 
 ## Samenvatting
-Veel landen zijn boos op Israël. Toch gaat het land door met de oorlog in Gaza. Hier lees je het laatste nieuws.
+De rijke zakenman Andrej Babis noemt zichzelf een 'Trumpist'. Hij stond op zaterdag op de eerste plaats bij de verkiezingen voor het parlement in Tsjechië. Dit weten we omdat 60 procent van de stemmen is geteld.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordenschatlijst
 | Woord | Definitie |
 |-------|-----------|
-| **bevel** | een strenge opdracht die je moet uitvoeren |
-| **internationale** | van of over meerdere landen in de wereld |
-| **kritiek** | zeggen wat je slecht of fout vindt aan iets of iemand |
-| **ontwikkelingen** | nieuwe dingen die gebeuren en hoe een situatie verandert |
-| **onverminderd** | zonder minder te worden, even hard doorgaan |
+| **miljardair** | een persoon die heel erg rijk is |
+| **zelfbenoemd** | een naam of titel die iemand zelf kiest |
+| **parlementsverkiezingen** | verkiezingen om mensen voor het parlement te kiezen |
+| **gedeeltelijke** | niet alles, maar alleen een stukje |
+| **resultaten** | de uitkomst of wat er is gebeurd |
 
 ### Vul-in-de-leegte
-1. De president gaf een ___ om de aanval te stoppen.
-2. Er is veel ___ op het nieuwe plan van de regering.
-3. We volgen de ___ in dat gebied op de voet.
+1. Andrej Babis is een heel rijke man, hij is een ___.
+2. De ___ laten zien wie er wint.
+3. We weten het nog niet zeker, we hebben alleen ___ informatie.
 
 #### Oplossingen
-1. bevel
-2. kritiek
-3. ontwikkelingen
+1. miljardair
+2. resultaten
+3. gedeeltelijke
 
 ### Meerkeuzevragen
-1. Wat is een 'bevel'?
-   A) Een vriendelijk verzoek
-   B) Een strenge opdracht
-   C) Een moeilijke vraag
-   D) Een leuk gesprek
+1. Wat is Andrej Babis?
+    a) Een leraar
+    b) Een miljardair
+    c) Een arts
+    d) Een kok
 
-2. Wat betekent 'internationale kritiek'?
-   A) Iemand in je eigen land is boos op je.
-   B) Mensen uit je eigen familie zijn boos op je.
-   C) Mensen uit verschillende landen zeggen dat ze het ergens niet mee eens zijn.
-   D) Iemand geeft je een compliment.
+2. Waar vonden de verkiezingen plaats?
+    a) In België
+    b) In Nederland
+    c) In Tsjechië
+    d) In Duitsland
 
-3. Als iets 'onverminderd' doorgaat, betekent dat...
-   A) het stopt heel snel.
-   B) het gaat even hard door als eerst.
-   C) het wordt langzaam minder.
-   D) het is helemaal klaar.
+3. Hoeveel procent van de stemmen was geteld?
+    a) 40 procent
+    b) 50 procent
+    c) 60 procent
+    d) 70 procent
 
 #### Antwoorden
-1. B
-2. C
-3. B
+1. b) Een miljardair
+2. c) In Tsjechië
+3. c) 60 procent
 
 ### Waar / Niet Waar
-1. De ziekenhuizen zeggen dat de bombardementen zijn gestopt.
-2. Veel landen zijn boos op Israël.
-3. De situatie in Gaza verandert niet.
+1. Andrej Babis noemt zichzelf een 'Trumpist'.
+2. De verkiezingen waren voor de gemeenteraad.
+3. Alle stemmen waren al geteld.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
+1. Waar
+2. Niet Waar (Het waren parlementsverkiezingen)
+3. Niet Waar (Er was 60% geteld)
 
 ## Woordenschatuitbreiding
-### Woordenlijst
+### Woordenschatlijst
 | Woord | Definitie |
 |-------|-----------|
-| **bevel** | een strenge opdracht die je moet uitvoeren |
-| **internationale** | van of over meerdere landen in de wereld |
-| **kritiek** | zeggen wat je slecht of fout vindt aan iets of iemand |
-| **ontwikkelingen** | nieuwe dingen die gebeuren en hoe een situatie verandert |
-| **onverminderd** | zonder minder te worden, even hard doorgaan |
+| **miljardair** | een persoon die heel erg rijk is |
+| **zelfbenoemd** | een naam of titel die iemand zelf kiest |
+| **parlementsverkiezingen** | verkiezingen om mensen voor het parlement te kiezen |
+| **gedeeltelijke** | niet alles, maar alleen een stukje |
+| **resultaten** | de uitkomst of wat er is gebeurd |
 
 ### Vul-in-de-leegte
-1. De president gaf een ___ om de aanval te stoppen.
-2. Er is veel ___ op het nieuwe plan van de regering.
-3. We volgen de ___ in dat gebied op de voet.
+1. Andrej Babis is een heel rijke man, hij is een ___.
+2. De ___ laten zien wie er wint.
+3. We weten het nog niet zeker, we hebben alleen ___ informatie.
 
 #### Oplossingen
-1. bevel
-2. kritiek
-3. ontwikkelingen
+1. miljardair
+2. resultaten
+3. gedeeltelijke
 
 ### Meerkeuzevragen
-1. Wat is een 'bevel'?
-   A) Een vriendelijk verzoek
-   B) Een strenge opdracht
-   C) Een moeilijke vraag
-   D) Een leuk gesprek
+1. Wat is Andrej Babis?
+    a) Een leraar
+    b) Een miljardair
+    c) Een arts
+    d) Een kok
 
-2. Wat betekent 'internationale kritiek'?
-   A) Iemand in je eigen land is boos op je.
-   B) Mensen uit je eigen familie zijn boos op je.
-   C) Mensen uit verschillende landen zeggen dat ze het ergens niet mee eens zijn.
-   D) Iemand geeft je een compliment.
+2. Waar vonden de verkiezingen plaats?
+    a) In België
+    b) In Nederland
+    c) In Tsjechië
+    d) In Duitsland
 
-3. Als iets 'onverminderd' doorgaat, betekent dat...
-   A) het stopt heel snel.
-   B) het gaat even hard door als eerst.
-   C) het wordt langzaam minder.
-   D) het is helemaal klaar.
+3. Hoeveel procent van de stemmen was geteld?
+    a) 40 procent
+    b) 50 procent
+    c) 60 procent
+    d) 70 procent
 
 #### Antwoorden
-1. B
-2. C
-3. B
+1. b) Een miljardair
+2. c) In Tsjechië
+3. c) 60 procent
 
 ### Waar / Niet Waar
-1. De ziekenhuizen zeggen dat de bombardementen zijn gestopt.
-2. Veel landen zijn boos op Israël.
-3. De situatie in Gaza verandert niet.
+1. Andrej Babis noemt zichzelf een 'Trumpist'.
+2. De verkiezingen waren voor de gemeenteraad.
+3. Alle stemmen waren al geteld.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
+1. Waar
+2. Niet Waar (Het waren parlementsverkiezingen)
+3. Niet Waar (Er was 60% geteld)
 
 ## Vul-in-de-leegte
-1. De president gaf een ___ om de aanval te stoppen.
-2. Er is veel ___ op het nieuwe plan van de regering.
-3. We volgen de ___ in dat gebied op de voet.
+1. Andrej Babis is een heel rijke man, hij is een ___.
+2. De ___ laten zien wie er wint.
+3. We weten het nog niet zeker, we hebben alleen ___ informatie.
 
 #### Oplossingen
-1. bevel
-2. kritiek
-3. ontwikkelingen
+1. miljardair
+2. resultaten
+3. gedeeltelijke
 
 ### Meerkeuzevragen
-1. Wat is een 'bevel'?
-   A) Een vriendelijk verzoek
-   B) Een strenge opdracht
-   C) Een moeilijke vraag
-   D) Een leuk gesprek
+1. Wat is Andrej Babis?
+    a) Een leraar
+    b) Een miljardair
+    c) Een arts
+    d) Een kok
 
-2. Wat betekent 'internationale kritiek'?
-   A) Iemand in je eigen land is boos op je.
-   B) Mensen uit je eigen familie zijn boos op je.
-   C) Mensen uit verschillende landen zeggen dat ze het ergens niet mee eens zijn.
-   D) Iemand geeft je een compliment.
+2. Waar vonden de verkiezingen plaats?
+    a) In België
+    b) In Nederland
+    c) In Tsjechië
+    d) In Duitsland
 
-3. Als iets 'onverminderd' doorgaat, betekent dat...
-   A) het stopt heel snel.
-   B) het gaat even hard door als eerst.
-   C) het wordt langzaam minder.
-   D) het is helemaal klaar.
+3. Hoeveel procent van de stemmen was geteld?
+    a) 40 procent
+    b) 50 procent
+    c) 60 procent
+    d) 70 procent
 
 #### Antwoorden
-1. B
-2. C
-3. B
+1. b) Een miljardair
+2. c) In Tsjechië
+3. c) 60 procent
 
 ### Waar / Niet Waar
-1. De ziekenhuizen zeggen dat de bombardementen zijn gestopt.
-2. Veel landen zijn boos op Israël.
-3. De situatie in Gaza verandert niet.
+1. Andrej Babis noemt zichzelf een 'Trumpist'.
+2. De verkiezingen waren voor de gemeenteraad.
+3. Alle stemmen waren al geteld.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
+1. Waar
+2. Niet Waar (Het waren parlementsverkiezingen)
+3. Niet Waar (Er was 60% geteld)
 
 ## Meerkeuzevragen
-1. Wat is een 'bevel'?
-   A) Een vriendelijk verzoek
-   B) Een strenge opdracht
-   C) Een moeilijke vraag
-   D) Een leuk gesprek
+1. Wat is Andrej Babis?
+    a) Een leraar
+    b) Een miljardair
+    c) Een arts
+    d) Een kok
 
-2. Wat betekent 'internationale kritiek'?
-   A) Iemand in je eigen land is boos op je.
-   B) Mensen uit je eigen familie zijn boos op je.
-   C) Mensen uit verschillende landen zeggen dat ze het ergens niet mee eens zijn.
-   D) Iemand geeft je een compliment.
+2. Waar vonden de verkiezingen plaats?
+    a) In België
+    b) In Nederland
+    c) In Tsjechië
+    d) In Duitsland
 
-3. Als iets 'onverminderd' doorgaat, betekent dat...
-   A) het stopt heel snel.
-   B) het gaat even hard door als eerst.
-   C) het wordt langzaam minder.
-   D) het is helemaal klaar.
+3. Hoeveel procent van de stemmen was geteld?
+    a) 40 procent
+    b) 50 procent
+    c) 60 procent
+    d) 70 procent
 
 #### Antwoorden
-1. B
-2. C
-3. B
+1. b) Een miljardair
+2. c) In Tsjechië
+3. c) 60 procent
 
 ### Waar / Niet Waar
-1. De ziekenhuizen zeggen dat de bombardementen zijn gestopt.
-2. Veel landen zijn boos op Israël.
-3. De situatie in Gaza verandert niet.
+1. Andrej Babis noemt zichzelf een 'Trumpist'.
+2. De verkiezingen waren voor de gemeenteraad.
+3. Alle stemmen waren al geteld.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
+1. Waar
+2. Niet Waar (Het waren parlementsverkiezingen)
+3. Niet Waar (Er was 60% geteld)
 
 ## Waar / Niet waar
-1. De ziekenhuizen zeggen dat de bombardementen zijn gestopt.
-2. Veel landen zijn boos op Israël.
-3. De situatie in Gaza verandert niet.
+1. Andrej Babis noemt zichzelf een 'Trumpist'.
+2. De verkiezingen waren voor de gemeenteraad.
+3. Alle stemmen waren al geteld.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
+1. Waar
+2. Niet Waar (Het waren parlementsverkiezingen)
+3. Niet Waar (Er was 60% geteld)
