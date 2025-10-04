@@ -1,15 +1,15 @@
 Artikel 2
-Nieuwsupdate: 2025-10-03 17:08 UCT
+Nieuwsupdate: 2025-10-04 05:21 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Van grijze generaals tot jonge vluchtelingen: de opmerkelijkste beelden van de week
-Link: https://www.standaard.be/buitenland/van-grijze-generaals-tot-jonge-vluchtelingen-de-opmerkelijkste-beelden-van-de-week/94923558.html
-Datum: Fri, 03 Oct 2025 14:50:00 GMT
-Samenvatting: De beeldredactie van De Standaard selecteert iedere week de meest in het oog springende nieuwsfoto’s.
+Titel: Zelfs als Poetin geen drones meer stuurt, wint hij
+Link: https://www.standaard.be/buitenland/zelfs-als-poetin-geen-drones-meer-stuurt-wint-hij/94928607.html
+Datum: Fri, 03 Oct 2025 21:59:00 GMT
+Samenvatting: Rusland hoeft geen drones meer te sturen om paniek te veroorzaken. Zolang we maar dénken dat “de Russen” er iedere keer achter zitten, hoeven ze in het Kremlin eigenlijk geen vinger meer uit te steken.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/cuod08-2025-09-30t121139z-1483350491-rc2p1has583l-rtrmadp-3-bolivia-cholitas-golf.jpg/alternates/BASE_SIXTEEN_NINE/2025-09-30T121139Z_1483350491_RC2P1HAS583L_RTRMADP_3_BOLIVIA-CHOLITAS-GOLF.JPG
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/c9b3tb-belgaimage-135934223.jpg/alternates/BASE_SIXTEEN_NINE/Belgaimage-135934223.jpg
+Premium: true
 ------------------------------------------------------------

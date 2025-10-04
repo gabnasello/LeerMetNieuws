@@ -1,15 +1,15 @@
 Artikel 1
-Nieuwsupdate: 2025-10-03 17:08 UCT
+Nieuwsupdate: 2025-10-04 05:21 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Apple verwijdert waarschuwingsapp om locatie ICE-agenten te delen
-Link: https://www.standaard.be/buitenland/apple-verwijdert-waarschuwingsapp-om-locatie-ice-agenten-te-delen/35131945.html
-Datum: Fri, 03 Oct 2025 15:29:46 GMT
-Samenvatting: De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates.
+Titel: Trump: “Hamas is klaar voor vrede, Israël moet onmiddellijk stoppen met bombarderen van Gaza”
+Link: https://www.standaard.be/buitenland/trump-hamas-is-klaar-voor-vrede-israel-moet-onmiddellijk-stoppen-met-bombarderen-van-gaza/35173881.html
+Datum: Sat, 04 Oct 2025 04:41:56 GMT
+Samenvatting: Ondanks toenemende internationale kritiek zet Israël de vernietigingsoorlog in Gaza onverminderd voort. Volg hier de laatste ontwikkelingen.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/ni6iwy-file82munkybr6w1l5t4dtau/alternates/BASE_SIXTEEN_NINE/file82munkybr6w1l5t4dtau
+Afbeelding: https://prod-img.nieuwsblad.be/public/nieuws/jsgz82-file-photo-u.s.-president-trump-announces-deal-with-pfizer/alternates/BASE_SIXTEEN_NINE/FILE%20PHOTO%20U.S.%20President%20Trump%20announces%20deal%20with%20Pfizer
 Premium: false
 ------------------------------------------------------------
