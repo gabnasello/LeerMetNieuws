@@ -31,10 +31,10 @@ jobs:
 
       - name: Generate exercises
         env:
-          HF_API_KEY: ${{ secrets.HF_API_KEY }}
-          INPUT_PATH: news/input.txt
-          PROMPT_PATH: prompts/b2_prompt.txt
-          HF_MODEL: mistralai/Mistral-7B-Instruct
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          # INPUT_PATH: news/input.txt
+          # PROMPT_PATH: prompts/b2_prompt.txt
+          # HF_MODEL: mistralai/Mistral-7B-Instruct
         run: python scripts/generate_exercises.py
 
       - name: Commit changes
