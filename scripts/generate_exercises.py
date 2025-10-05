@@ -43,8 +43,11 @@ def generate_exercises(level, title, summary, news_text):
     messages = [
         {"role": "system", "content": "Je bent een docent Nederlands."},
         {"role": "user", "content": f"""
-Herschrijf de titel en samenvatting in eenvoudig Nederlands op niveau {level}.
-Daarna genereer oefeningen volgens het vaste format hieronder.
+Herschrijf eerst de titel en samenvatting in eenvoudig Nederlands op niveau {level}.
+Gebruik vervolgens **alleen de vereenvoudigde titel en vereenvoudigde samenvatting** 
+om 5 belangrijke woorden te kiezen voor de Woordenlijst (niet uit de oorspronkelijke tekst).
+
+Genereer daarna alle oefeningen volgens het vaste format hieronder.
 
 Gebruik **precies** dit Markdown-format:
 
@@ -56,6 +59,7 @@ Gebruik **precies** dit Markdown-format:
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
+*(Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting)*
 | Woord | Definitie |
 |-------|-----------|
 | **woord1** | definitie |
@@ -85,8 +89,7 @@ Samenvatting: {summary}
 
 Tekst:  
 {news_text}
-"""}
-    ]
+"""}]
     return query_openrouter(messages)
 
 
