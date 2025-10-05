@@ -1,267 +1,267 @@
-# Amerikaanse minister waarschuwt zanger voor strenge controle bij Super Bowl
+# Trump laat kaart zien van eerste stap terugtrekken Israël uit Gaza
 
-**Samenvatting:** Donald Trump is voor de tweede keer president van Amerika geworden. Zijn beleid verandert veel dingen over de hele wereld. Hier lees je het laatste nieuws.
+**Samenvatting:** Israël gaat door met de oorlog in Gaza. Dit doet het land ook al zijn er veel landen die het er niet mee eens zijn. Hier lees je het laatste nieuws.
 
 ## Woordenschatuitbreiding
 
-### Woordlijst
+### Woordelijst
 | Woord | Definitie |
 |-------|-----------|
-| **waarschuwt** | zegt tegen iemand dat er gevaar of een probleem kan zijn |
-| **minister** | een belangrijk persoon in de regering die over een bepaald onderwerp gaat |
-| **controle** | kijken of alles goed gaat en volgens de regels is |
-| **beleid** | de plannen en regels die een regering maakt |
-| **wereldwijd** | over de hele wereld |
+| **terugtrekking** | het weggaan van soldaten uit een gebied |
+| **internationale** | van andere landen over de hele wereld |
+| **kritiek** | zeggen dat je iets niet goed vindt |
+| **vernietiging** | alles kapot maken |
+| **ontwikkelingen** | dingen die gebeuren en veranderen |
 
 ### Vul-in-de-leegte
-1. De politie zal veel aanwezig zijn voor extra ___ tijdens het grote feest.
-2. De nieuwe ___ van de regering zorgt voor veel veranderingen.
-3. De leraar ___ de leerlingen voor een moeilijk examen.
+1. Israël gaat door met de oorlog, ondanks de ___ van andere landen.
+2. Trump liet een ___ zien waarop de eerste stap van de terugtrekking stond.
+3. We volgen hier de laatste ___ over de situatie in Gaza.
 
 #### Oplossingen
-1. controle
-2. beleid
-3. waarschuwt
+1. kritiek
+2. kaart
+3. ontwikkelingen
 
 ### Meerkeuzevragen
-1. Wat betekent "wereldwijd"?
-   a) Alleen in één stad
-   b) Over de hele wereld
-   c) Alleen in Europa
-   d) Binnen één land
+1. Wat laat Trump zien?
+   a) een nieuw wapen
+   b) een kaart van de terugtrekking
+   c) foto's van Gaza
+   d) een internationaal verdrag
 
-2. Wie waarschuwt de zanger in het nieuwsbericht?
-   a) Een leraar
-   b) Een minister
-   c) Een arts
-   d) Een brandweerman
+2. Wat doet Israël ondanks de kritiek?
+   a) het stopt met vechten
+   b) het praat met andere landen
+   c) het gaat door met de oorlog
+   d) het trekt zich terug
 
-3. Wat doet een minister?
-   a) Werkt in een restaurant
-   b) Is een belangrijk persoon in de regering
-   c) Bestuurt een vliegtuig
-   d) Werkt in een supermarkt
+3. Wat betekent 'internationale kritiek'?
+   a) kritiek van de eigen bevolking
+   b) kritiek van buurlanden
+   c) kritiek van veel verschillende landen
+   d) kritiek van de Verenigde Naties
 
 #### Antwoorden
-1. b) Over de hele wereld
-2. b) Een minister
-3. b) Is een belangrijk persoon in de regering
+1. b
+2. c
+3. c
 
 ### Waar / Niet Waar
-1. Donald Trump is voor de eerste keer president van Amerika.
-2. De minister waarschuwt een zanger voor strenge controle.
-3. Het beleid van de president verandert alleen dingen in Amerika.
+1. Israël stopt met de oorlog omdat andere landen dat willen.
+2. Trump heeft een kaart getoond over de terugtrekking uit Gaza.
+3. De samenvatting zegt dat je hier het laatste nieuws kunt volgen.
 
 #### Antwoorden
 1. Niet Waar
 2. Waar
-3. Niet Waar
+3. Waar
 ---
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ri6z0y-donald-trump-signs-memorandum-in-the-oval-office/alternates/BASE_SIXTEEN_NINE/Donald%20Trump%20Signs%20Memorandum%20In%20The%20Oval%20Office)  
-[Lees het originele artikel](https://www.standaard.be/buitenland/kristi-noem-waarschuwt-bad-bunny-ice-zal-alomtegenwoordig-zijn-bij-super-bowl/35131945.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/eyp5va-12415305.jpg/alternates/BASE_SIXTEEN_NINE/12415305.jpg)  
+[Lees het originele artikel](https://www.standaard.be/buitenland/trump-toont-kaart-waarop-eerste-fase-staat-van-israels-terugtrekking-uit-gaza/35173881.html)
 
 ## Samenvatting
-Donald Trump is voor de tweede keer president van Amerika geworden. Zijn beleid verandert veel dingen over de hele wereld. Hier lees je het laatste nieuws.
+Israël gaat door met de oorlog in Gaza. Dit doet het land ook al zijn er veel landen die het er niet mee eens zijn. Hier lees je het laatste nieuws.
 
 ## Woordenschatuitbreiding
 
-### Woordlijst
+### Woordelijst
 | Woord | Definitie |
 |-------|-----------|
-| **waarschuwt** | zegt tegen iemand dat er gevaar of een probleem kan zijn |
-| **minister** | een belangrijk persoon in de regering die over een bepaald onderwerp gaat |
-| **controle** | kijken of alles goed gaat en volgens de regels is |
-| **beleid** | de plannen en regels die een regering maakt |
-| **wereldwijd** | over de hele wereld |
+| **terugtrekking** | het weggaan van soldaten uit een gebied |
+| **internationale** | van andere landen over de hele wereld |
+| **kritiek** | zeggen dat je iets niet goed vindt |
+| **vernietiging** | alles kapot maken |
+| **ontwikkelingen** | dingen die gebeuren en veranderen |
 
 ### Vul-in-de-leegte
-1. De politie zal veel aanwezig zijn voor extra ___ tijdens het grote feest.
-2. De nieuwe ___ van de regering zorgt voor veel veranderingen.
-3. De leraar ___ de leerlingen voor een moeilijk examen.
+1. Israël gaat door met de oorlog, ondanks de ___ van andere landen.
+2. Trump liet een ___ zien waarop de eerste stap van de terugtrekking stond.
+3. We volgen hier de laatste ___ over de situatie in Gaza.
 
 #### Oplossingen
-1. controle
-2. beleid
-3. waarschuwt
+1. kritiek
+2. kaart
+3. ontwikkelingen
 
 ### Meerkeuzevragen
-1. Wat betekent "wereldwijd"?
-   a) Alleen in één stad
-   b) Over de hele wereld
-   c) Alleen in Europa
-   d) Binnen één land
+1. Wat laat Trump zien?
+   a) een nieuw wapen
+   b) een kaart van de terugtrekking
+   c) foto's van Gaza
+   d) een internationaal verdrag
 
-2. Wie waarschuwt de zanger in het nieuwsbericht?
-   a) Een leraar
-   b) Een minister
-   c) Een arts
-   d) Een brandweerman
+2. Wat doet Israël ondanks de kritiek?
+   a) het stopt met vechten
+   b) het praat met andere landen
+   c) het gaat door met de oorlog
+   d) het trekt zich terug
 
-3. Wat doet een minister?
-   a) Werkt in een restaurant
-   b) Is een belangrijk persoon in de regering
-   c) Bestuurt een vliegtuig
-   d) Werkt in een supermarkt
+3. Wat betekent 'internationale kritiek'?
+   a) kritiek van de eigen bevolking
+   b) kritiek van buurlanden
+   c) kritiek van veel verschillende landen
+   d) kritiek van de Verenigde Naties
 
 #### Antwoorden
-1. b) Over de hele wereld
-2. b) Een minister
-3. b) Is een belangrijk persoon in de regering
+1. b
+2. c
+3. c
 
 ### Waar / Niet Waar
-1. Donald Trump is voor de eerste keer president van Amerika.
-2. De minister waarschuwt een zanger voor strenge controle.
-3. Het beleid van de president verandert alleen dingen in Amerika.
+1. Israël stopt met de oorlog omdat andere landen dat willen.
+2. Trump heeft een kaart getoond over de terugtrekking uit Gaza.
+3. De samenvatting zegt dat je hier het laatste nieuws kunt volgen.
 
 #### Antwoorden
 1. Niet Waar
 2. Waar
-3. Niet Waar
+3. Waar
 ---
 
 ## Woordenschatuitbreiding
-### Woordlijst
+### Woordelijst
 | Woord | Definitie |
 |-------|-----------|
-| **waarschuwt** | zegt tegen iemand dat er gevaar of een probleem kan zijn |
-| **minister** | een belangrijk persoon in de regering die over een bepaald onderwerp gaat |
-| **controle** | kijken of alles goed gaat en volgens de regels is |
-| **beleid** | de plannen en regels die een regering maakt |
-| **wereldwijd** | over de hele wereld |
+| **terugtrekking** | het weggaan van soldaten uit een gebied |
+| **internationale** | van andere landen over de hele wereld |
+| **kritiek** | zeggen dat je iets niet goed vindt |
+| **vernietiging** | alles kapot maken |
+| **ontwikkelingen** | dingen die gebeuren en veranderen |
 
 ### Vul-in-de-leegte
-1. De politie zal veel aanwezig zijn voor extra ___ tijdens het grote feest.
-2. De nieuwe ___ van de regering zorgt voor veel veranderingen.
-3. De leraar ___ de leerlingen voor een moeilijk examen.
+1. Israël gaat door met de oorlog, ondanks de ___ van andere landen.
+2. Trump liet een ___ zien waarop de eerste stap van de terugtrekking stond.
+3. We volgen hier de laatste ___ over de situatie in Gaza.
 
 #### Oplossingen
-1. controle
-2. beleid
-3. waarschuwt
+1. kritiek
+2. kaart
+3. ontwikkelingen
 
 ### Meerkeuzevragen
-1. Wat betekent "wereldwijd"?
-   a) Alleen in één stad
-   b) Over de hele wereld
-   c) Alleen in Europa
-   d) Binnen één land
+1. Wat laat Trump zien?
+   a) een nieuw wapen
+   b) een kaart van de terugtrekking
+   c) foto's van Gaza
+   d) een internationaal verdrag
 
-2. Wie waarschuwt de zanger in het nieuwsbericht?
-   a) Een leraar
-   b) Een minister
-   c) Een arts
-   d) Een brandweerman
+2. Wat doet Israël ondanks de kritiek?
+   a) het stopt met vechten
+   b) het praat met andere landen
+   c) het gaat door met de oorlog
+   d) het trekt zich terug
 
-3. Wat doet een minister?
-   a) Werkt in een restaurant
-   b) Is een belangrijk persoon in de regering
-   c) Bestuurt een vliegtuig
-   d) Werkt in een supermarkt
+3. Wat betekent 'internationale kritiek'?
+   a) kritiek van de eigen bevolking
+   b) kritiek van buurlanden
+   c) kritiek van veel verschillende landen
+   d) kritiek van de Verenigde Naties
 
 #### Antwoorden
-1. b) Over de hele wereld
-2. b) Een minister
-3. b) Is een belangrijk persoon in de regering
+1. b
+2. c
+3. c
 
 ### Waar / Niet Waar
-1. Donald Trump is voor de eerste keer president van Amerika.
-2. De minister waarschuwt een zanger voor strenge controle.
-3. Het beleid van de president verandert alleen dingen in Amerika.
+1. Israël stopt met de oorlog omdat andere landen dat willen.
+2. Trump heeft een kaart getoond over de terugtrekking uit Gaza.
+3. De samenvatting zegt dat je hier het laatste nieuws kunt volgen.
 
 #### Antwoorden
 1. Niet Waar
 2. Waar
-3. Niet Waar
+3. Waar
 ---
 
 ## Vul-in-de-leegte
-1. De politie zal veel aanwezig zijn voor extra ___ tijdens het grote feest.
-2. De nieuwe ___ van de regering zorgt voor veel veranderingen.
-3. De leraar ___ de leerlingen voor een moeilijk examen.
+1. Israël gaat door met de oorlog, ondanks de ___ van andere landen.
+2. Trump liet een ___ zien waarop de eerste stap van de terugtrekking stond.
+3. We volgen hier de laatste ___ over de situatie in Gaza.
 
 #### Oplossingen
-1. controle
-2. beleid
-3. waarschuwt
+1. kritiek
+2. kaart
+3. ontwikkelingen
 
 ### Meerkeuzevragen
-1. Wat betekent "wereldwijd"?
-   a) Alleen in één stad
-   b) Over de hele wereld
-   c) Alleen in Europa
-   d) Binnen één land
+1. Wat laat Trump zien?
+   a) een nieuw wapen
+   b) een kaart van de terugtrekking
+   c) foto's van Gaza
+   d) een internationaal verdrag
 
-2. Wie waarschuwt de zanger in het nieuwsbericht?
-   a) Een leraar
-   b) Een minister
-   c) Een arts
-   d) Een brandweerman
+2. Wat doet Israël ondanks de kritiek?
+   a) het stopt met vechten
+   b) het praat met andere landen
+   c) het gaat door met de oorlog
+   d) het trekt zich terug
 
-3. Wat doet een minister?
-   a) Werkt in een restaurant
-   b) Is een belangrijk persoon in de regering
-   c) Bestuurt een vliegtuig
-   d) Werkt in een supermarkt
+3. Wat betekent 'internationale kritiek'?
+   a) kritiek van de eigen bevolking
+   b) kritiek van buurlanden
+   c) kritiek van veel verschillende landen
+   d) kritiek van de Verenigde Naties
 
 #### Antwoorden
-1. b) Over de hele wereld
-2. b) Een minister
-3. b) Is een belangrijk persoon in de regering
+1. b
+2. c
+3. c
 
 ### Waar / Niet Waar
-1. Donald Trump is voor de eerste keer president van Amerika.
-2. De minister waarschuwt een zanger voor strenge controle.
-3. Het beleid van de president verandert alleen dingen in Amerika.
+1. Israël stopt met de oorlog omdat andere landen dat willen.
+2. Trump heeft een kaart getoond over de terugtrekking uit Gaza.
+3. De samenvatting zegt dat je hier het laatste nieuws kunt volgen.
 
 #### Antwoorden
 1. Niet Waar
 2. Waar
-3. Niet Waar
+3. Waar
 ---
 
 ## Meerkeuzevragen
-1. Wat betekent "wereldwijd"?
-   a) Alleen in één stad
-   b) Over de hele wereld
-   c) Alleen in Europa
-   d) Binnen één land
+1. Wat laat Trump zien?
+   a) een nieuw wapen
+   b) een kaart van de terugtrekking
+   c) foto's van Gaza
+   d) een internationaal verdrag
 
-2. Wie waarschuwt de zanger in het nieuwsbericht?
-   a) Een leraar
-   b) Een minister
-   c) Een arts
-   d) Een brandweerman
+2. Wat doet Israël ondanks de kritiek?
+   a) het stopt met vechten
+   b) het praat met andere landen
+   c) het gaat door met de oorlog
+   d) het trekt zich terug
 
-3. Wat doet een minister?
-   a) Werkt in een restaurant
-   b) Is een belangrijk persoon in de regering
-   c) Bestuurt een vliegtuig
-   d) Werkt in een supermarkt
+3. Wat betekent 'internationale kritiek'?
+   a) kritiek van de eigen bevolking
+   b) kritiek van buurlanden
+   c) kritiek van veel verschillende landen
+   d) kritiek van de Verenigde Naties
 
 #### Antwoorden
-1. b) Over de hele wereld
-2. b) Een minister
-3. b) Is een belangrijk persoon in de regering
+1. b
+2. c
+3. c
 
 ### Waar / Niet Waar
-1. Donald Trump is voor de eerste keer president van Amerika.
-2. De minister waarschuwt een zanger voor strenge controle.
-3. Het beleid van de president verandert alleen dingen in Amerika.
+1. Israël stopt met de oorlog omdat andere landen dat willen.
+2. Trump heeft een kaart getoond over de terugtrekking uit Gaza.
+3. De samenvatting zegt dat je hier het laatste nieuws kunt volgen.
 
 #### Antwoorden
 1. Niet Waar
 2. Waar
-3. Niet Waar
+3. Waar
 ---
 
 ## Waar / Niet waar
-1. Donald Trump is voor de eerste keer president van Amerika.
-2. De minister waarschuwt een zanger voor strenge controle.
-3. Het beleid van de president verandert alleen dingen in Amerika.
+1. Israël stopt met de oorlog omdat andere landen dat willen.
+2. Trump heeft een kaart getoond over de terugtrekking uit Gaza.
+3. De samenvatting zegt dat je hier het laatste nieuws kunt volgen.
 
 #### Antwoorden
 1. Niet Waar
 2. Waar
-3. Niet Waar
+3. Waar
 ---

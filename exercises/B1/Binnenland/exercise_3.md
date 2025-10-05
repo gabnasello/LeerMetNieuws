@@ -1,261 +1,267 @@
-# Kopers moeten na 10 jaar nog op bouwwerk wonen: rechtbank zegt dat verkoop van flats niet eerlijk was
+# Straat in Antwerpen schrikt weer van harde knal
 
-**Samenvatting:** Drie bedrijven die huizen verkopen, moeten 13 appartementen in Zeebrugge terugkopen. De appartementen zijn samen ongeveer 3 miljoen euro waard. De kopers zijn naar de rechter gegaan omdat ze vonden dat ze bedrogen waren. De rechter in Gent heeft gezegd dat de kopers gelijk hebben. De kopers wonen nu, meer dan 10 jaar na de aankoop, nog steeds op een plek waar gebouwd wordt.
+**Samenvatting:** In Borgerhout was er zaterdagochtend een harde knal. De knal was rond 6.40 uur in de Kistemaeckersstraat. Er was een beetje schade aan een voordeur. Deze straat is vaker gekozen voor een aanslag. De vorige keer was het per ongeluk.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 | Woord | Definitie |
 |-------|-----------|
-| **bouwwerf** | een plek waar men aan het bouwen is |
-| **rechtbank** | een plaats waar een rechter beslist wie gelijk heeft in een ruzie |
-| **terugbetalen** | geld teruggeven dat je eerder hebt gekregen |
-| **bedrog** | wanneer iemand tegen je liegt om iets van je te krijgen |
-| **aankoop** | iets wat je koopt |
+| **opgeschrikt** | geschrokken, bang gemaakt door een hard geluid |
+| **explosie** | een hele harde knal, bijvoorbeeld door een bom |
+| **veroorzaakte** | maakte dat iets gebeurt, was de reden voor |
+| **geviseerd** | uitgekozen als doel, met opzet gekozen |
+| **vergissing** | een fout, iets dat per ongeluk gebeurt |
 
 ### Vul-in-de-leegte
-1. De mensen voelden zich bedrogen en zijn naar de ___ gestapt.
-2. De bedrijven moeten de kopers hun geld ___.
-3. De kopers wonen al meer dan tien jaar op een ___.
+1. De harde ___ maakte iedereen wakker.
+2. De politie denkt dat het geen ongeluk was, maar dat de straat werd ___.
+3. Gelukkig was de ___ aan het huis niet groot.
 
 #### Oplossingen
-1. rechtbank
-2. terugbetalen
-3. bouwwerf
+1. knal
+2. geviseerd
+3. schade
 
 ### Meerkeuzevragen
-1. Waarom zijn de kopers naar de rechter gegaan?
-a) Omdat hun huis te groot was.
-b) Omdat ze zich bedrogen voelden.
-c) Omdat ze een nieuw huis wilden kopen.
-d) Omdat de huur te hoog was.
+1. Waar gebeurde de explosie?
+   a) In een park
+   b) In de Kistemaeckersstraat
+   c) In een winkelcentrum
+   d) Op een school
 
-2. Wat moet er met de appartementen gebeuren?
-a) Ze moeten worden verhuurd.
-b) Ze moeten worden verkocht aan nieuwe kopers.
-c) Ze moeten worden teruggenomen en het geld moet worden terugbetaald.
-d) Er moet nog meer worden gebouwd.
+2. Wat is Borgerhout?
+   a) Een stad in Nederland
+   b) Een wijk in Antwerpen
+   c) Een rivier in België
+   d) Een berg in Duitsland
 
-3. Hoe lang wonen de kopers al op de bouwplaats?
-a) Minder dan een jaar.
-b) Ongeveer vijf jaar.
-c) Meer dan tien jaar.
-d) Precies acht jaar.
+3. Wanneer was de vorige aanslag in deze straat?
+   a) Per ongeluk
+   b) Met opzet
+   c) Tijdens een feest
+   d) Door de politie
 
 #### Antwoorden
 1. b
-2. c
-3. c
+2. b
+3. a
 
 ### Waar / Niet Waar
-1. De rechter heeft beslist dat de verkoop van de flats niet eerlijk was.
-2. De appartementen zijn samen ongeveer 300.000 euro waard.
-3. De kopers wonen nu in een afgebouwde wijk zonder bouwwerkzaamheden.
+1. De knal was op zaterdagochtend.
+2. Er was veel schade aan veel huizen.
+3. Het is de eerste keer dat er iets gebeurt in deze straat.
 
 #### Antwoorden
 1. Waar
-2. Niet Waar (Ze zijn ongeveer 3 miljoen euro waard)
-3. Niet Waar (Ze wonen nog steeds op een bouwwerf)
+2. Niet Waar
+3. Niet Waar
+---
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/te4w2p-file82nsc7re57o13v3k28s6.jpg/alternates/BASE_SIXTEEN_NINE/file82nsc7re57o13v3k28s6.jpg)  
-[Lees het originele artikel](https://www.standaard.be/binnenland/de-kopers-leven-meer-dan-tien-jaar-na-aankoop-nog-steeds-op-een-bouwwerf-verkoop-van-dertien-flats-door-hof-van-beroep-nietig-verklaard-wegens-bedrog/95078089.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/5xpqt-fotoborgerhout3.jpeg/alternates/BASE_SIXTEEN_NINE/fotoborgerhout3.jpeg)  
+[Lees het originele artikel](https://www.standaard.be/binnenland/straat-in-antwerpen-opnieuw-opgeschrikt-door-zware-knal-schade-beperkt/95079630.html)
 
 ## Samenvatting
-Drie bedrijven die huizen verkopen, moeten 13 appartementen in Zeebrugge terugkopen. De appartementen zijn samen ongeveer 3 miljoen euro waard. De kopers zijn naar de rechter gegaan omdat ze vonden dat ze bedrogen waren. De rechter in Gent heeft gezegd dat de kopers gelijk hebben. De kopers wonen nu, meer dan 10 jaar na de aankoop, nog steeds op een plek waar gebouwd wordt.
+In Borgerhout was er zaterdagochtend een harde knal. De knal was rond 6.40 uur in de Kistemaeckersstraat. Er was een beetje schade aan een voordeur. Deze straat is vaker gekozen voor een aanslag. De vorige keer was het per ongeluk.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 | Woord | Definitie |
 |-------|-----------|
-| **bouwwerf** | een plek waar men aan het bouwen is |
-| **rechtbank** | een plaats waar een rechter beslist wie gelijk heeft in een ruzie |
-| **terugbetalen** | geld teruggeven dat je eerder hebt gekregen |
-| **bedrog** | wanneer iemand tegen je liegt om iets van je te krijgen |
-| **aankoop** | iets wat je koopt |
+| **opgeschrikt** | geschrokken, bang gemaakt door een hard geluid |
+| **explosie** | een hele harde knal, bijvoorbeeld door een bom |
+| **veroorzaakte** | maakte dat iets gebeurt, was de reden voor |
+| **geviseerd** | uitgekozen als doel, met opzet gekozen |
+| **vergissing** | een fout, iets dat per ongeluk gebeurt |
 
 ### Vul-in-de-leegte
-1. De mensen voelden zich bedrogen en zijn naar de ___ gestapt.
-2. De bedrijven moeten de kopers hun geld ___.
-3. De kopers wonen al meer dan tien jaar op een ___.
+1. De harde ___ maakte iedereen wakker.
+2. De politie denkt dat het geen ongeluk was, maar dat de straat werd ___.
+3. Gelukkig was de ___ aan het huis niet groot.
 
 #### Oplossingen
-1. rechtbank
-2. terugbetalen
-3. bouwwerf
+1. knal
+2. geviseerd
+3. schade
 
 ### Meerkeuzevragen
-1. Waarom zijn de kopers naar de rechter gegaan?
-a) Omdat hun huis te groot was.
-b) Omdat ze zich bedrogen voelden.
-c) Omdat ze een nieuw huis wilden kopen.
-d) Omdat de huur te hoog was.
+1. Waar gebeurde de explosie?
+   a) In een park
+   b) In de Kistemaeckersstraat
+   c) In een winkelcentrum
+   d) Op een school
 
-2. Wat moet er met de appartementen gebeuren?
-a) Ze moeten worden verhuurd.
-b) Ze moeten worden verkocht aan nieuwe kopers.
-c) Ze moeten worden teruggenomen en het geld moet worden terugbetaald.
-d) Er moet nog meer worden gebouwd.
+2. Wat is Borgerhout?
+   a) Een stad in Nederland
+   b) Een wijk in Antwerpen
+   c) Een rivier in België
+   d) Een berg in Duitsland
 
-3. Hoe lang wonen de kopers al op de bouwplaats?
-a) Minder dan een jaar.
-b) Ongeveer vijf jaar.
-c) Meer dan tien jaar.
-d) Precies acht jaar.
+3. Wanneer was de vorige aanslag in deze straat?
+   a) Per ongeluk
+   b) Met opzet
+   c) Tijdens een feest
+   d) Door de politie
 
 #### Antwoorden
 1. b
-2. c
-3. c
+2. b
+3. a
 
 ### Waar / Niet Waar
-1. De rechter heeft beslist dat de verkoop van de flats niet eerlijk was.
-2. De appartementen zijn samen ongeveer 300.000 euro waard.
-3. De kopers wonen nu in een afgebouwde wijk zonder bouwwerkzaamheden.
+1. De knal was op zaterdagochtend.
+2. Er was veel schade aan veel huizen.
+3. Het is de eerste keer dat er iets gebeurt in deze straat.
 
 #### Antwoorden
 1. Waar
-2. Niet Waar (Ze zijn ongeveer 3 miljoen euro waard)
-3. Niet Waar (Ze wonen nog steeds op een bouwwerf)
+2. Niet Waar
+3. Niet Waar
+---
 
 ## Woordenschatuitbreiding
-### Woordenlijst
+### Woordelijst
 | Woord | Definitie |
 |-------|-----------|
-| **bouwwerf** | een plek waar men aan het bouwen is |
-| **rechtbank** | een plaats waar een rechter beslist wie gelijk heeft in een ruzie |
-| **terugbetalen** | geld teruggeven dat je eerder hebt gekregen |
-| **bedrog** | wanneer iemand tegen je liegt om iets van je te krijgen |
-| **aankoop** | iets wat je koopt |
+| **opgeschrikt** | geschrokken, bang gemaakt door een hard geluid |
+| **explosie** | een hele harde knal, bijvoorbeeld door een bom |
+| **veroorzaakte** | maakte dat iets gebeurt, was de reden voor |
+| **geviseerd** | uitgekozen als doel, met opzet gekozen |
+| **vergissing** | een fout, iets dat per ongeluk gebeurt |
 
 ### Vul-in-de-leegte
-1. De mensen voelden zich bedrogen en zijn naar de ___ gestapt.
-2. De bedrijven moeten de kopers hun geld ___.
-3. De kopers wonen al meer dan tien jaar op een ___.
+1. De harde ___ maakte iedereen wakker.
+2. De politie denkt dat het geen ongeluk was, maar dat de straat werd ___.
+3. Gelukkig was de ___ aan het huis niet groot.
 
 #### Oplossingen
-1. rechtbank
-2. terugbetalen
-3. bouwwerf
+1. knal
+2. geviseerd
+3. schade
 
 ### Meerkeuzevragen
-1. Waarom zijn de kopers naar de rechter gegaan?
-a) Omdat hun huis te groot was.
-b) Omdat ze zich bedrogen voelden.
-c) Omdat ze een nieuw huis wilden kopen.
-d) Omdat de huur te hoog was.
+1. Waar gebeurde de explosie?
+   a) In een park
+   b) In de Kistemaeckersstraat
+   c) In een winkelcentrum
+   d) Op een school
 
-2. Wat moet er met de appartementen gebeuren?
-a) Ze moeten worden verhuurd.
-b) Ze moeten worden verkocht aan nieuwe kopers.
-c) Ze moeten worden teruggenomen en het geld moet worden terugbetaald.
-d) Er moet nog meer worden gebouwd.
+2. Wat is Borgerhout?
+   a) Een stad in Nederland
+   b) Een wijk in Antwerpen
+   c) Een rivier in België
+   d) Een berg in Duitsland
 
-3. Hoe lang wonen de kopers al op de bouwplaats?
-a) Minder dan een jaar.
-b) Ongeveer vijf jaar.
-c) Meer dan tien jaar.
-d) Precies acht jaar.
+3. Wanneer was de vorige aanslag in deze straat?
+   a) Per ongeluk
+   b) Met opzet
+   c) Tijdens een feest
+   d) Door de politie
 
 #### Antwoorden
 1. b
-2. c
-3. c
+2. b
+3. a
 
 ### Waar / Niet Waar
-1. De rechter heeft beslist dat de verkoop van de flats niet eerlijk was.
-2. De appartementen zijn samen ongeveer 300.000 euro waard.
-3. De kopers wonen nu in een afgebouwde wijk zonder bouwwerkzaamheden.
+1. De knal was op zaterdagochtend.
+2. Er was veel schade aan veel huizen.
+3. Het is de eerste keer dat er iets gebeurt in deze straat.
 
 #### Antwoorden
 1. Waar
-2. Niet Waar (Ze zijn ongeveer 3 miljoen euro waard)
-3. Niet Waar (Ze wonen nog steeds op een bouwwerf)
+2. Niet Waar
+3. Niet Waar
+---
 
 ## Vul-in-de-leegte
-1. De mensen voelden zich bedrogen en zijn naar de ___ gestapt.
-2. De bedrijven moeten de kopers hun geld ___.
-3. De kopers wonen al meer dan tien jaar op een ___.
+1. De harde ___ maakte iedereen wakker.
+2. De politie denkt dat het geen ongeluk was, maar dat de straat werd ___.
+3. Gelukkig was de ___ aan het huis niet groot.
 
 #### Oplossingen
-1. rechtbank
-2. terugbetalen
-3. bouwwerf
+1. knal
+2. geviseerd
+3. schade
 
 ### Meerkeuzevragen
-1. Waarom zijn de kopers naar de rechter gegaan?
-a) Omdat hun huis te groot was.
-b) Omdat ze zich bedrogen voelden.
-c) Omdat ze een nieuw huis wilden kopen.
-d) Omdat de huur te hoog was.
+1. Waar gebeurde de explosie?
+   a) In een park
+   b) In de Kistemaeckersstraat
+   c) In een winkelcentrum
+   d) Op een school
 
-2. Wat moet er met de appartementen gebeuren?
-a) Ze moeten worden verhuurd.
-b) Ze moeten worden verkocht aan nieuwe kopers.
-c) Ze moeten worden teruggenomen en het geld moet worden terugbetaald.
-d) Er moet nog meer worden gebouwd.
+2. Wat is Borgerhout?
+   a) Een stad in Nederland
+   b) Een wijk in Antwerpen
+   c) Een rivier in België
+   d) Een berg in Duitsland
 
-3. Hoe lang wonen de kopers al op de bouwplaats?
-a) Minder dan een jaar.
-b) Ongeveer vijf jaar.
-c) Meer dan tien jaar.
-d) Precies acht jaar.
+3. Wanneer was de vorige aanslag in deze straat?
+   a) Per ongeluk
+   b) Met opzet
+   c) Tijdens een feest
+   d) Door de politie
 
 #### Antwoorden
 1. b
-2. c
-3. c
+2. b
+3. a
 
 ### Waar / Niet Waar
-1. De rechter heeft beslist dat de verkoop van de flats niet eerlijk was.
-2. De appartementen zijn samen ongeveer 300.000 euro waard.
-3. De kopers wonen nu in een afgebouwde wijk zonder bouwwerkzaamheden.
+1. De knal was op zaterdagochtend.
+2. Er was veel schade aan veel huizen.
+3. Het is de eerste keer dat er iets gebeurt in deze straat.
 
 #### Antwoorden
 1. Waar
-2. Niet Waar (Ze zijn ongeveer 3 miljoen euro waard)
-3. Niet Waar (Ze wonen nog steeds op een bouwwerf)
+2. Niet Waar
+3. Niet Waar
+---
 
 ## Meerkeuzevragen
-1. Waarom zijn de kopers naar de rechter gegaan?
-a) Omdat hun huis te groot was.
-b) Omdat ze zich bedrogen voelden.
-c) Omdat ze een nieuw huis wilden kopen.
-d) Omdat de huur te hoog was.
+1. Waar gebeurde de explosie?
+   a) In een park
+   b) In de Kistemaeckersstraat
+   c) In een winkelcentrum
+   d) Op een school
 
-2. Wat moet er met de appartementen gebeuren?
-a) Ze moeten worden verhuurd.
-b) Ze moeten worden verkocht aan nieuwe kopers.
-c) Ze moeten worden teruggenomen en het geld moet worden terugbetaald.
-d) Er moet nog meer worden gebouwd.
+2. Wat is Borgerhout?
+   a) Een stad in Nederland
+   b) Een wijk in Antwerpen
+   c) Een rivier in België
+   d) Een berg in Duitsland
 
-3. Hoe lang wonen de kopers al op de bouwplaats?
-a) Minder dan een jaar.
-b) Ongeveer vijf jaar.
-c) Meer dan tien jaar.
-d) Precies acht jaar.
+3. Wanneer was de vorige aanslag in deze straat?
+   a) Per ongeluk
+   b) Met opzet
+   c) Tijdens een feest
+   d) Door de politie
 
 #### Antwoorden
 1. b
-2. c
-3. c
+2. b
+3. a
 
 ### Waar / Niet Waar
-1. De rechter heeft beslist dat de verkoop van de flats niet eerlijk was.
-2. De appartementen zijn samen ongeveer 300.000 euro waard.
-3. De kopers wonen nu in een afgebouwde wijk zonder bouwwerkzaamheden.
+1. De knal was op zaterdagochtend.
+2. Er was veel schade aan veel huizen.
+3. Het is de eerste keer dat er iets gebeurt in deze straat.
 
 #### Antwoorden
 1. Waar
-2. Niet Waar (Ze zijn ongeveer 3 miljoen euro waard)
-3. Niet Waar (Ze wonen nog steeds op een bouwwerf)
+2. Niet Waar
+3. Niet Waar
+---
 
 ## Waar / Niet waar
-1. De rechter heeft beslist dat de verkoop van de flats niet eerlijk was.
-2. De appartementen zijn samen ongeveer 300.000 euro waard.
-3. De kopers wonen nu in een afgebouwde wijk zonder bouwwerkzaamheden.
+1. De knal was op zaterdagochtend.
+2. Er was veel schade aan veel huizen.
+3. Het is de eerste keer dat er iets gebeurt in deze straat.
 
 #### Antwoorden
 1. Waar
-2. Niet Waar (Ze zijn ongeveer 3 miljoen euro waard)
-3. Niet Waar (Ze wonen nog steeds op een bouwwerf)
+2. Niet Waar
+3. Niet Waar
+---

@@ -1,56 +1,56 @@
-# Andrej Babis wint verkiezingen in Tsjechië
+# Amerikaanse minister waarschuwt zanger voor veel politie bij Super Bowl
 
-**Samenvatting:** De rijke zakenman Andrej Babis heeft de verkiezingen in Tsjechië gewonnen. Hij noemt zichzelf een 'Trumpist', omdat hij lijkt op de Amerikaanse politicus Donald Trump. Hij kreeg veel meer stemmen dan andere partijen.
+**Samenvatting:** Donald Trump is voor de tweede keer president van Amerika geworden. Zijn regering maakt veel dingen anders in de hele wereld. Hier lees je het laatste nieuws.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordenschatlijst
 | Woord | Definitie |
 |-------|-----------|
-| **miljardair** | iemand die heel erg veel geld heeft |
-| **zelfbenoemd** | iemand die zelf een naam of titel voor zichzelf bedenkt |
-| **verkiezingen** | een stemming waarbij mensen kiezen wie hun land gaat besturen |
-| **overwinnaar** | degene die heeft gewonnen |
-| **ruime voorsprong** | veel meer stemmen of punten hebben dan anderen |
+| **minister** | een belangrijk persoon in de regering |
+| **waarschuwen** | zeggen dat er gevaar of een probleem kan komen |
+| **politie** | mensen die zorgen voor veiligheid en de wet controleren |
+| **president** | de belangrijkste leider van een land |
+| **wereldwijd** | over de hele wereld |
 
 ### Vul-in-de-leegte
-1. Andrej Babis is een _____ omdat hij heel erg rijk is.
-2. Mensen stemmen tijdens de _____ voor een nieuwe regering.
-3. Hij won met een _____; hij kreeg veel meer stemmen dan zijn tegenstanders.
+1. De minister wil de zanger ___ voor veel politie.
+2. De president maakt veel veranderingen in het ___.
+3. Dit nieuws gaat over iets dat ___ gebeurt.
 
 #### Oplossingen
-1. miljardair
-2. verkiezingen
-3. ruime voorsprong
+1. waarschuwen
+2. land
+3. wereldwijd
 
 ### Meerkeuzevragen
-1. Wat is een miljardair?
-   a) Iemand die voor de regering werkt
-   b) Iemand die heel erg veel geld heeft
-   c) Iemand die verkiezingen organiseert
-   d) Iemand die uit Tsjechië komt
+1. Wie is de president van Amerika?
+   a) Kristi Noem
+   b) Bad Bunny
+   c) Donald Trump
+   d) De minister
 
-2. Wat gebeurde er zaterdag in Tsjechië?
-   a) Er was een feest voor miljardairs
-   b) Er waren parlementsverkiezingen
-   c) Andrej Babis werd geboren
-   d) Donald Trump bezocht het land
+2. Waar waarschuwt de minister voor?
+   a) Voor een concert
+   b) Voor veel politie bij een groot sportevenement
+   c) Voor nieuw muziek
+   d) Voor een verkiezing
 
-3. Wat betekent 'winnaar met ruime voorsprong'?
-   a) Iemand die met weinig stemmen verschil wint
-   b) Iemand die veel meer stemmen krijgt dan anderen
-   c) Iemand die de verkiezingen verliest
-   d) Iemand die niet meedeed aan de verkiezingen
+3. Wat betekent "wereldwijd"?
+   a) Alleen in Amerika
+   b) In één stad
+   c) Over de hele wereld
+   d) In Europa
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. c) Donald Trump
+2. b) Voor veel politie bij een groot sportevenement
+3. c) Over de hele wereld
 
 ### Waar / Niet Waar
-1. Andrej Babis noemt zichzelf een 'Trumpist' omdat hij van treinen houdt.
-2. Babis kreeg veel meer stemmen dan andere partijen.
-3. De verkiezingen gingen over wie de beste miljardair van het land is.
+1. Donald Trump is voor de eerste keer president.
+2. De minister waarschuwt een zanger.
+3. De veranderingen zijn alleen in Amerika.
 
 #### Antwoorden
 1. Niet Waar
@@ -58,61 +58,61 @@
 3. Niet Waar
 ---
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/3cid9p-file82odku5hs1115o6ac1o0y/alternates/BASE_SIXTEEN_NINE/file82odku5hs1115o6ac1o0y)  
-[Lees het originele artikel](https://www.standaard.be/buitenland/trumpist-andrej-babis-wint-parlementsverkiezingen-in-tsjechie/95109981.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ri6z0y-donald-trump-signs-memorandum-in-the-oval-office/alternates/BASE_SIXTEEN_NINE/Donald%20Trump%20Signs%20Memorandum%20In%20The%20Oval%20Office)  
+[Lees het originele artikel](https://www.standaard.be/buitenland/kristi-noem-waarschuwt-bad-bunny-ice-zal-alomtegenwoordig-zijn-bij-super-bowl/35131945.html)
 
 ## Samenvatting
-De rijke zakenman Andrej Babis heeft de verkiezingen in Tsjechië gewonnen. Hij noemt zichzelf een 'Trumpist', omdat hij lijkt op de Amerikaanse politicus Donald Trump. Hij kreeg veel meer stemmen dan andere partijen.
+Donald Trump is voor de tweede keer president van Amerika geworden. Zijn regering maakt veel dingen anders in de hele wereld. Hier lees je het laatste nieuws.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordenschatlijst
 | Woord | Definitie |
 |-------|-----------|
-| **miljardair** | iemand die heel erg veel geld heeft |
-| **zelfbenoemd** | iemand die zelf een naam of titel voor zichzelf bedenkt |
-| **verkiezingen** | een stemming waarbij mensen kiezen wie hun land gaat besturen |
-| **overwinnaar** | degene die heeft gewonnen |
-| **ruime voorsprong** | veel meer stemmen of punten hebben dan anderen |
+| **minister** | een belangrijk persoon in de regering |
+| **waarschuwen** | zeggen dat er gevaar of een probleem kan komen |
+| **politie** | mensen die zorgen voor veiligheid en de wet controleren |
+| **president** | de belangrijkste leider van een land |
+| **wereldwijd** | over de hele wereld |
 
 ### Vul-in-de-leegte
-1. Andrej Babis is een _____ omdat hij heel erg rijk is.
-2. Mensen stemmen tijdens de _____ voor een nieuwe regering.
-3. Hij won met een _____; hij kreeg veel meer stemmen dan zijn tegenstanders.
+1. De minister wil de zanger ___ voor veel politie.
+2. De president maakt veel veranderingen in het ___.
+3. Dit nieuws gaat over iets dat ___ gebeurt.
 
 #### Oplossingen
-1. miljardair
-2. verkiezingen
-3. ruime voorsprong
+1. waarschuwen
+2. land
+3. wereldwijd
 
 ### Meerkeuzevragen
-1. Wat is een miljardair?
-   a) Iemand die voor de regering werkt
-   b) Iemand die heel erg veel geld heeft
-   c) Iemand die verkiezingen organiseert
-   d) Iemand die uit Tsjechië komt
+1. Wie is de president van Amerika?
+   a) Kristi Noem
+   b) Bad Bunny
+   c) Donald Trump
+   d) De minister
 
-2. Wat gebeurde er zaterdag in Tsjechië?
-   a) Er was een feest voor miljardairs
-   b) Er waren parlementsverkiezingen
-   c) Andrej Babis werd geboren
-   d) Donald Trump bezocht het land
+2. Waar waarschuwt de minister voor?
+   a) Voor een concert
+   b) Voor veel politie bij een groot sportevenement
+   c) Voor nieuw muziek
+   d) Voor een verkiezing
 
-3. Wat betekent 'winnaar met ruime voorsprong'?
-   a) Iemand die met weinig stemmen verschil wint
-   b) Iemand die veel meer stemmen krijgt dan anderen
-   c) Iemand die de verkiezingen verliest
-   d) Iemand die niet meedeed aan de verkiezingen
+3. Wat betekent "wereldwijd"?
+   a) Alleen in Amerika
+   b) In één stad
+   c) Over de hele wereld
+   d) In Europa
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. c) Donald Trump
+2. b) Voor veel politie bij een groot sportevenement
+3. c) Over de hele wereld
 
 ### Waar / Niet Waar
-1. Andrej Babis noemt zichzelf een 'Trumpist' omdat hij van treinen houdt.
-2. Babis kreeg veel meer stemmen dan andere partijen.
-3. De verkiezingen gingen over wie de beste miljardair van het land is.
+1. Donald Trump is voor de eerste keer president.
+2. De minister waarschuwt een zanger.
+3. De veranderingen zijn alleen in Amerika.
 
 #### Antwoorden
 1. Niet Waar
@@ -121,53 +121,53 @@ De rijke zakenman Andrej Babis heeft de verkiezingen in Tsjechië gewonnen. Hij 
 ---
 
 ## Woordenschatuitbreiding
-### Woordenlijst
+### Woordenschatlijst
 | Woord | Definitie |
 |-------|-----------|
-| **miljardair** | iemand die heel erg veel geld heeft |
-| **zelfbenoemd** | iemand die zelf een naam of titel voor zichzelf bedenkt |
-| **verkiezingen** | een stemming waarbij mensen kiezen wie hun land gaat besturen |
-| **overwinnaar** | degene die heeft gewonnen |
-| **ruime voorsprong** | veel meer stemmen of punten hebben dan anderen |
+| **minister** | een belangrijk persoon in de regering |
+| **waarschuwen** | zeggen dat er gevaar of een probleem kan komen |
+| **politie** | mensen die zorgen voor veiligheid en de wet controleren |
+| **president** | de belangrijkste leider van een land |
+| **wereldwijd** | over de hele wereld |
 
 ### Vul-in-de-leegte
-1. Andrej Babis is een _____ omdat hij heel erg rijk is.
-2. Mensen stemmen tijdens de _____ voor een nieuwe regering.
-3. Hij won met een _____; hij kreeg veel meer stemmen dan zijn tegenstanders.
+1. De minister wil de zanger ___ voor veel politie.
+2. De president maakt veel veranderingen in het ___.
+3. Dit nieuws gaat over iets dat ___ gebeurt.
 
 #### Oplossingen
-1. miljardair
-2. verkiezingen
-3. ruime voorsprong
+1. waarschuwen
+2. land
+3. wereldwijd
 
 ### Meerkeuzevragen
-1. Wat is een miljardair?
-   a) Iemand die voor de regering werkt
-   b) Iemand die heel erg veel geld heeft
-   c) Iemand die verkiezingen organiseert
-   d) Iemand die uit Tsjechië komt
+1. Wie is de president van Amerika?
+   a) Kristi Noem
+   b) Bad Bunny
+   c) Donald Trump
+   d) De minister
 
-2. Wat gebeurde er zaterdag in Tsjechië?
-   a) Er was een feest voor miljardairs
-   b) Er waren parlementsverkiezingen
-   c) Andrej Babis werd geboren
-   d) Donald Trump bezocht het land
+2. Waar waarschuwt de minister voor?
+   a) Voor een concert
+   b) Voor veel politie bij een groot sportevenement
+   c) Voor nieuw muziek
+   d) Voor een verkiezing
 
-3. Wat betekent 'winnaar met ruime voorsprong'?
-   a) Iemand die met weinig stemmen verschil wint
-   b) Iemand die veel meer stemmen krijgt dan anderen
-   c) Iemand die de verkiezingen verliest
-   d) Iemand die niet meedeed aan de verkiezingen
+3. Wat betekent "wereldwijd"?
+   a) Alleen in Amerika
+   b) In één stad
+   c) Over de hele wereld
+   d) In Europa
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. c) Donald Trump
+2. b) Voor veel politie bij een groot sportevenement
+3. c) Over de hele wereld
 
 ### Waar / Niet Waar
-1. Andrej Babis noemt zichzelf een 'Trumpist' omdat hij van treinen houdt.
-2. Babis kreeg veel meer stemmen dan andere partijen.
-3. De verkiezingen gingen over wie de beste miljardair van het land is.
+1. Donald Trump is voor de eerste keer president.
+2. De minister waarschuwt een zanger.
+3. De veranderingen zijn alleen in Amerika.
 
 #### Antwoorden
 1. Niet Waar
@@ -176,43 +176,43 @@ De rijke zakenman Andrej Babis heeft de verkiezingen in Tsjechië gewonnen. Hij 
 ---
 
 ## Vul-in-de-leegte
-1. Andrej Babis is een _____ omdat hij heel erg rijk is.
-2. Mensen stemmen tijdens de _____ voor een nieuwe regering.
-3. Hij won met een _____; hij kreeg veel meer stemmen dan zijn tegenstanders.
+1. De minister wil de zanger ___ voor veel politie.
+2. De president maakt veel veranderingen in het ___.
+3. Dit nieuws gaat over iets dat ___ gebeurt.
 
 #### Oplossingen
-1. miljardair
-2. verkiezingen
-3. ruime voorsprong
+1. waarschuwen
+2. land
+3. wereldwijd
 
 ### Meerkeuzevragen
-1. Wat is een miljardair?
-   a) Iemand die voor de regering werkt
-   b) Iemand die heel erg veel geld heeft
-   c) Iemand die verkiezingen organiseert
-   d) Iemand die uit Tsjechië komt
+1. Wie is de president van Amerika?
+   a) Kristi Noem
+   b) Bad Bunny
+   c) Donald Trump
+   d) De minister
 
-2. Wat gebeurde er zaterdag in Tsjechië?
-   a) Er was een feest voor miljardairs
-   b) Er waren parlementsverkiezingen
-   c) Andrej Babis werd geboren
-   d) Donald Trump bezocht het land
+2. Waar waarschuwt de minister voor?
+   a) Voor een concert
+   b) Voor veel politie bij een groot sportevenement
+   c) Voor nieuw muziek
+   d) Voor een verkiezing
 
-3. Wat betekent 'winnaar met ruime voorsprong'?
-   a) Iemand die met weinig stemmen verschil wint
-   b) Iemand die veel meer stemmen krijgt dan anderen
-   c) Iemand die de verkiezingen verliest
-   d) Iemand die niet meedeed aan de verkiezingen
+3. Wat betekent "wereldwijd"?
+   a) Alleen in Amerika
+   b) In één stad
+   c) Over de hele wereld
+   d) In Europa
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. c) Donald Trump
+2. b) Voor veel politie bij een groot sportevenement
+3. c) Over de hele wereld
 
 ### Waar / Niet Waar
-1. Andrej Babis noemt zichzelf een 'Trumpist' omdat hij van treinen houdt.
-2. Babis kreeg veel meer stemmen dan andere partijen.
-3. De verkiezingen gingen over wie de beste miljardair van het land is.
+1. Donald Trump is voor de eerste keer president.
+2. De minister waarschuwt een zanger.
+3. De veranderingen zijn alleen in Amerika.
 
 #### Antwoorden
 1. Niet Waar
@@ -221,33 +221,33 @@ De rijke zakenman Andrej Babis heeft de verkiezingen in Tsjechië gewonnen. Hij 
 ---
 
 ## Meerkeuzevragen
-1. Wat is een miljardair?
-   a) Iemand die voor de regering werkt
-   b) Iemand die heel erg veel geld heeft
-   c) Iemand die verkiezingen organiseert
-   d) Iemand die uit Tsjechië komt
+1. Wie is de president van Amerika?
+   a) Kristi Noem
+   b) Bad Bunny
+   c) Donald Trump
+   d) De minister
 
-2. Wat gebeurde er zaterdag in Tsjechië?
-   a) Er was een feest voor miljardairs
-   b) Er waren parlementsverkiezingen
-   c) Andrej Babis werd geboren
-   d) Donald Trump bezocht het land
+2. Waar waarschuwt de minister voor?
+   a) Voor een concert
+   b) Voor veel politie bij een groot sportevenement
+   c) Voor nieuw muziek
+   d) Voor een verkiezing
 
-3. Wat betekent 'winnaar met ruime voorsprong'?
-   a) Iemand die met weinig stemmen verschil wint
-   b) Iemand die veel meer stemmen krijgt dan anderen
-   c) Iemand die de verkiezingen verliest
-   d) Iemand die niet meedeed aan de verkiezingen
+3. Wat betekent "wereldwijd"?
+   a) Alleen in Amerika
+   b) In één stad
+   c) Over de hele wereld
+   d) In Europa
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. c) Donald Trump
+2. b) Voor veel politie bij een groot sportevenement
+3. c) Over de hele wereld
 
 ### Waar / Niet Waar
-1. Andrej Babis noemt zichzelf een 'Trumpist' omdat hij van treinen houdt.
-2. Babis kreeg veel meer stemmen dan andere partijen.
-3. De verkiezingen gingen over wie de beste miljardair van het land is.
+1. Donald Trump is voor de eerste keer president.
+2. De minister waarschuwt een zanger.
+3. De veranderingen zijn alleen in Amerika.
 
 #### Antwoorden
 1. Niet Waar
@@ -256,9 +256,9 @@ De rijke zakenman Andrej Babis heeft de verkiezingen in Tsjechië gewonnen. Hij 
 ---
 
 ## Waar / Niet waar
-1. Andrej Babis noemt zichzelf een 'Trumpist' omdat hij van treinen houdt.
-2. Babis kreeg veel meer stemmen dan andere partijen.
-3. De verkiezingen gingen over wie de beste miljardair van het land is.
+1. Donald Trump is voor de eerste keer president.
+2. De minister waarschuwt een zanger.
+3. De veranderingen zijn alleen in Amerika.
 
 #### Antwoorden
 1. Niet Waar

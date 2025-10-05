@@ -1,56 +1,56 @@
-# Fietser overleden bij grens tussen België en Nederland
+# Drie jonge mannen komen om bij ongeluk in Evergem, motorrijder overlijdt in Ternat
 
-**Samenvatting:** Zaterdagochtend is een fietser omgekomen bij een ongeluk. Het ongeluk gebeurde op de grens tussen het Nederlandse Hazeldonk en het Belgische Meer.
+**Samenvatting:** In Evergem zijn drie jonge mensen 's nachts omgekomen bij een verkeersongeluk. Op de snelweg E40 in Ternat is een motorrijder overleden. De bestuurder die het ongeluk veroorzaakte, is daarna weggegaan.
 
 ## Woordenschatuitbreiding
 
-### Woordlijst
+### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **grens** | de lijn tussen twee landen |
-| **overleden** | dood, niet meer levend |
-| **ongeluk** | iets slechts dat per ongeluk gebeurt |
-| **aanrijding** | wanneer een voertuig iets of iemand raakt |
-| **grensovergang** | de plaats waar je van het ene land naar het andere gaat |
+| **verongelukken** | omkomen of overlijden bij een ongeluk |
+| **overleed** | is overleden, is doodgegaan |
+| **verkeersongeval** | een ongeluk op de weg, bijvoorbeeld tussen auto's |
+| **vluchtmisdrijf** | weggaan van de plek van een ongeluk zonder te helpen |
+| **snelweg** | een brede weg waar auto's snel mogen rijden |
 
 ### Vul-in-de-leegte
-1. De fietser is ___ bij een ongeluk.
-2. Het ongeluk gebeurde bij de ___ tussen België en Nederland.
-3. De politie onderzoekt wat de ___ van het ongeluk was.
+1. Bij het verkeersongeval in Evergem ___ drie jonge mannen.
+2. De bestuurder die het ongeluk veroorzaakte, pleegde ___ door weg te rijden.
+3. De E40 bij Ternat is een belangrijke ___ in België.
 
 #### Oplossingen
-1. overleden
-2. grens
-3. oorzaak
+1. verongelukten
+2. vluchtmisdrijf
+3. snelweg
 
 ### Meerkeuzevragen
-1. Waar gebeurde het ongeluk?
-   a) In een winkel
-   b) Bij de grens tussen België en Nederland
-   c) In een school
-   d) Op een sportveld
+1. Waar gebeurde het ongeluk met de drie jonge mannen?
+   a) In Ternat
+   b) Op de E40
+   c) In Evergem
+   d) In een stad
 
-2. Wanneer gebeurde het ongeluk?
-   a) Maandagavond
-   b) Donderdagmiddag
-   c) Zaterdagochtend
-   d) Zondagnacht
+2. Wat is een vluchtmisdrijf?
+   a) Snel rijden op de snelweg
+   b) Weggaan van de plek van een ongeluk
+   c) Iemand helpen na een ongeluk
+   d) Een ongeluk veroorzaken
 
-3. Hoe is de fietser omgekomen?
-   a) Door een val
-   b) Bij een aanrijding
-   c) Door ziekte
-   d) Dat weet men nog niet
+3. Wat is de E40?
+   a) Een stad in België
+   b) Een soort auto
+   c) Een snelweg
+   d) Een motor
 
 #### Antwoorden
-1. b
-2. c
-3. b
+1. c) In Evergem
+2. b) Weggaan van de plek van een ongeluk
+3. c) Een snelweg
 
 ### Waar / Niet Waar
-1. Het ongeluk gebeurde op zondagochtend.
-2. De fietser is overleden.
-3. Het ongeluk was in het centrum van Amsterdam.
+1. Het ongeluk in Evergem gebeurde overdag.
+2. De motorrijder in Ternat is overleden.
+3. Vluchtmisdrijf is hetzelfde als iemand helpen.
 
 #### Antwoorden
 1. Niet Waar
@@ -58,61 +58,61 @@
 3. Niet Waar
 ---
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/cxmcjh-de-gehavende-fiets-van-de-overleden-man-ligt-in-de-berm-op-de-grensovergang-in-hzeldonk-vlak-naast-de-e19-.jpg/alternates/BASE_SIXTEEN_NINE/De%20gehavende%20fiets%20van%20de%20overleden%20man%20ligt%20in%20de%20berm%20op%20de%20grensovergang%20in%20Hzeldonk%20vlak%20naast%20de%20E19_.jpg)  
-[Lees het originele artikel](https://www.standaard.be/binnenland/dode-fietser-gevonden-bij-belgisch-nederlandse-grens/95099727.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/2j65x2-ongeval-e40-ternat.jfif/alternates/BASE_SIXTEEN_NINE/Ongeval%20E40%20Ternat.jfif)  
+[Lees het originele artikel](https://www.standaard.be/binnenland/drie-jonge-mannen-verongelukken-in-evergem-motorrijder-komt-om-in-ternat/95170138.html)
 
 ## Samenvatting
-Zaterdagochtend is een fietser omgekomen bij een ongeluk. Het ongeluk gebeurde op de grens tussen het Nederlandse Hazeldonk en het Belgische Meer.
+In Evergem zijn drie jonge mensen 's nachts omgekomen bij een verkeersongeluk. Op de snelweg E40 in Ternat is een motorrijder overleden. De bestuurder die het ongeluk veroorzaakte, is daarna weggegaan.
 
 ## Woordenschatuitbreiding
 
-### Woordlijst
+### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **grens** | de lijn tussen twee landen |
-| **overleden** | dood, niet meer levend |
-| **ongeluk** | iets slechts dat per ongeluk gebeurt |
-| **aanrijding** | wanneer een voertuig iets of iemand raakt |
-| **grensovergang** | de plaats waar je van het ene land naar het andere gaat |
+| **verongelukken** | omkomen of overlijden bij een ongeluk |
+| **overleed** | is overleden, is doodgegaan |
+| **verkeersongeval** | een ongeluk op de weg, bijvoorbeeld tussen auto's |
+| **vluchtmisdrijf** | weggaan van de plek van een ongeluk zonder te helpen |
+| **snelweg** | een brede weg waar auto's snel mogen rijden |
 
 ### Vul-in-de-leegte
-1. De fietser is ___ bij een ongeluk.
-2. Het ongeluk gebeurde bij de ___ tussen België en Nederland.
-3. De politie onderzoekt wat de ___ van het ongeluk was.
+1. Bij het verkeersongeval in Evergem ___ drie jonge mannen.
+2. De bestuurder die het ongeluk veroorzaakte, pleegde ___ door weg te rijden.
+3. De E40 bij Ternat is een belangrijke ___ in België.
 
 #### Oplossingen
-1. overleden
-2. grens
-3. oorzaak
+1. verongelukten
+2. vluchtmisdrijf
+3. snelweg
 
 ### Meerkeuzevragen
-1. Waar gebeurde het ongeluk?
-   a) In een winkel
-   b) Bij de grens tussen België en Nederland
-   c) In een school
-   d) Op een sportveld
+1. Waar gebeurde het ongeluk met de drie jonge mannen?
+   a) In Ternat
+   b) Op de E40
+   c) In Evergem
+   d) In een stad
 
-2. Wanneer gebeurde het ongeluk?
-   a) Maandagavond
-   b) Donderdagmiddag
-   c) Zaterdagochtend
-   d) Zondagnacht
+2. Wat is een vluchtmisdrijf?
+   a) Snel rijden op de snelweg
+   b) Weggaan van de plek van een ongeluk
+   c) Iemand helpen na een ongeluk
+   d) Een ongeluk veroorzaken
 
-3. Hoe is de fietser omgekomen?
-   a) Door een val
-   b) Bij een aanrijding
-   c) Door ziekte
-   d) Dat weet men nog niet
+3. Wat is de E40?
+   a) Een stad in België
+   b) Een soort auto
+   c) Een snelweg
+   d) Een motor
 
 #### Antwoorden
-1. b
-2. c
-3. b
+1. c) In Evergem
+2. b) Weggaan van de plek van een ongeluk
+3. c) Een snelweg
 
 ### Waar / Niet Waar
-1. Het ongeluk gebeurde op zondagochtend.
-2. De fietser is overleden.
-3. Het ongeluk was in het centrum van Amsterdam.
+1. Het ongeluk in Evergem gebeurde overdag.
+2. De motorrijder in Ternat is overleden.
+3. Vluchtmisdrijf is hetzelfde als iemand helpen.
 
 #### Antwoorden
 1. Niet Waar
@@ -121,53 +121,53 @@ Zaterdagochtend is een fietser omgekomen bij een ongeluk. Het ongeluk gebeurde o
 ---
 
 ## Woordenschatuitbreiding
-### Woordlijst
+### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **grens** | de lijn tussen twee landen |
-| **overleden** | dood, niet meer levend |
-| **ongeluk** | iets slechts dat per ongeluk gebeurt |
-| **aanrijding** | wanneer een voertuig iets of iemand raakt |
-| **grensovergang** | de plaats waar je van het ene land naar het andere gaat |
+| **verongelukken** | omkomen of overlijden bij een ongeluk |
+| **overleed** | is overleden, is doodgegaan |
+| **verkeersongeval** | een ongeluk op de weg, bijvoorbeeld tussen auto's |
+| **vluchtmisdrijf** | weggaan van de plek van een ongeluk zonder te helpen |
+| **snelweg** | een brede weg waar auto's snel mogen rijden |
 
 ### Vul-in-de-leegte
-1. De fietser is ___ bij een ongeluk.
-2. Het ongeluk gebeurde bij de ___ tussen België en Nederland.
-3. De politie onderzoekt wat de ___ van het ongeluk was.
+1. Bij het verkeersongeval in Evergem ___ drie jonge mannen.
+2. De bestuurder die het ongeluk veroorzaakte, pleegde ___ door weg te rijden.
+3. De E40 bij Ternat is een belangrijke ___ in België.
 
 #### Oplossingen
-1. overleden
-2. grens
-3. oorzaak
+1. verongelukten
+2. vluchtmisdrijf
+3. snelweg
 
 ### Meerkeuzevragen
-1. Waar gebeurde het ongeluk?
-   a) In een winkel
-   b) Bij de grens tussen België en Nederland
-   c) In een school
-   d) Op een sportveld
+1. Waar gebeurde het ongeluk met de drie jonge mannen?
+   a) In Ternat
+   b) Op de E40
+   c) In Evergem
+   d) In een stad
 
-2. Wanneer gebeurde het ongeluk?
-   a) Maandagavond
-   b) Donderdagmiddag
-   c) Zaterdagochtend
-   d) Zondagnacht
+2. Wat is een vluchtmisdrijf?
+   a) Snel rijden op de snelweg
+   b) Weggaan van de plek van een ongeluk
+   c) Iemand helpen na een ongeluk
+   d) Een ongeluk veroorzaken
 
-3. Hoe is de fietser omgekomen?
-   a) Door een val
-   b) Bij een aanrijding
-   c) Door ziekte
-   d) Dat weet men nog niet
+3. Wat is de E40?
+   a) Een stad in België
+   b) Een soort auto
+   c) Een snelweg
+   d) Een motor
 
 #### Antwoorden
-1. b
-2. c
-3. b
+1. c) In Evergem
+2. b) Weggaan van de plek van een ongeluk
+3. c) Een snelweg
 
 ### Waar / Niet Waar
-1. Het ongeluk gebeurde op zondagochtend.
-2. De fietser is overleden.
-3. Het ongeluk was in het centrum van Amsterdam.
+1. Het ongeluk in Evergem gebeurde overdag.
+2. De motorrijder in Ternat is overleden.
+3. Vluchtmisdrijf is hetzelfde als iemand helpen.
 
 #### Antwoorden
 1. Niet Waar
@@ -176,43 +176,43 @@ Zaterdagochtend is een fietser omgekomen bij een ongeluk. Het ongeluk gebeurde o
 ---
 
 ## Vul-in-de-leegte
-1. De fietser is ___ bij een ongeluk.
-2. Het ongeluk gebeurde bij de ___ tussen België en Nederland.
-3. De politie onderzoekt wat de ___ van het ongeluk was.
+1. Bij het verkeersongeval in Evergem ___ drie jonge mannen.
+2. De bestuurder die het ongeluk veroorzaakte, pleegde ___ door weg te rijden.
+3. De E40 bij Ternat is een belangrijke ___ in België.
 
 #### Oplossingen
-1. overleden
-2. grens
-3. oorzaak
+1. verongelukten
+2. vluchtmisdrijf
+3. snelweg
 
 ### Meerkeuzevragen
-1. Waar gebeurde het ongeluk?
-   a) In een winkel
-   b) Bij de grens tussen België en Nederland
-   c) In een school
-   d) Op een sportveld
+1. Waar gebeurde het ongeluk met de drie jonge mannen?
+   a) In Ternat
+   b) Op de E40
+   c) In Evergem
+   d) In een stad
 
-2. Wanneer gebeurde het ongeluk?
-   a) Maandagavond
-   b) Donderdagmiddag
-   c) Zaterdagochtend
-   d) Zondagnacht
+2. Wat is een vluchtmisdrijf?
+   a) Snel rijden op de snelweg
+   b) Weggaan van de plek van een ongeluk
+   c) Iemand helpen na een ongeluk
+   d) Een ongeluk veroorzaken
 
-3. Hoe is de fietser omgekomen?
-   a) Door een val
-   b) Bij een aanrijding
-   c) Door ziekte
-   d) Dat weet men nog niet
+3. Wat is de E40?
+   a) Een stad in België
+   b) Een soort auto
+   c) Een snelweg
+   d) Een motor
 
 #### Antwoorden
-1. b
-2. c
-3. b
+1. c) In Evergem
+2. b) Weggaan van de plek van een ongeluk
+3. c) Een snelweg
 
 ### Waar / Niet Waar
-1. Het ongeluk gebeurde op zondagochtend.
-2. De fietser is overleden.
-3. Het ongeluk was in het centrum van Amsterdam.
+1. Het ongeluk in Evergem gebeurde overdag.
+2. De motorrijder in Ternat is overleden.
+3. Vluchtmisdrijf is hetzelfde als iemand helpen.
 
 #### Antwoorden
 1. Niet Waar
@@ -221,33 +221,33 @@ Zaterdagochtend is een fietser omgekomen bij een ongeluk. Het ongeluk gebeurde o
 ---
 
 ## Meerkeuzevragen
-1. Waar gebeurde het ongeluk?
-   a) In een winkel
-   b) Bij de grens tussen België en Nederland
-   c) In een school
-   d) Op een sportveld
+1. Waar gebeurde het ongeluk met de drie jonge mannen?
+   a) In Ternat
+   b) Op de E40
+   c) In Evergem
+   d) In een stad
 
-2. Wanneer gebeurde het ongeluk?
-   a) Maandagavond
-   b) Donderdagmiddag
-   c) Zaterdagochtend
-   d) Zondagnacht
+2. Wat is een vluchtmisdrijf?
+   a) Snel rijden op de snelweg
+   b) Weggaan van de plek van een ongeluk
+   c) Iemand helpen na een ongeluk
+   d) Een ongeluk veroorzaken
 
-3. Hoe is de fietser omgekomen?
-   a) Door een val
-   b) Bij een aanrijding
-   c) Door ziekte
-   d) Dat weet men nog niet
+3. Wat is de E40?
+   a) Een stad in België
+   b) Een soort auto
+   c) Een snelweg
+   d) Een motor
 
 #### Antwoorden
-1. b
-2. c
-3. b
+1. c) In Evergem
+2. b) Weggaan van de plek van een ongeluk
+3. c) Een snelweg
 
 ### Waar / Niet Waar
-1. Het ongeluk gebeurde op zondagochtend.
-2. De fietser is overleden.
-3. Het ongeluk was in het centrum van Amsterdam.
+1. Het ongeluk in Evergem gebeurde overdag.
+2. De motorrijder in Ternat is overleden.
+3. Vluchtmisdrijf is hetzelfde als iemand helpen.
 
 #### Antwoorden
 1. Niet Waar
@@ -256,9 +256,9 @@ Zaterdagochtend is een fietser omgekomen bij een ongeluk. Het ongeluk gebeurde o
 ---
 
 ## Waar / Niet waar
-1. Het ongeluk gebeurde op zondagochtend.
-2. De fietser is overleden.
-3. Het ongeluk was in het centrum van Amsterdam.
+1. Het ongeluk in Evergem gebeurde overdag.
+2. De motorrijder in Ternat is overleden.
+3. Vluchtmisdrijf is hetzelfde als iemand helpen.
 
 #### Antwoorden
 1. Niet Waar

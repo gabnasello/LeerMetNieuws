@@ -1,261 +1,267 @@
-# Straat in Antwerpen weer geschrokken door harde knal
+# Fietser komt om bij ongeluk op grens tussen België en Nederland
 
-**Samenvatting:** In Borgerhout was er zaterdagochtend een harde explosie. De knal was rond half zeven 's ochtends in de Kistemaeckersstraat. Er was een beetje schade aan een voordeur. Deze straat is vaker gekozen voor een aanslag. De vorige keer was het per ongeluk.
+**Samenvatting:** Op zaterdagochtend is een fietser overleden door een ongeluk. Dit gebeurde op de grens tussen het Nederlandse Hazeldonk en het Belgische Meer.
 
 ## Woordenschatuitbreiding
 
-### Woordlijst
+### Woordelijst
 | Woord | Definitie |
 |-------|-----------|
-| **opgeschrikt** | geschrokken, plotseling en erg geschrokken zijn |
-| **explosie** | een hele harde knal, iets dat met veel kracht ontploft |
-| **veroorzaakte** | maakte dat iets gebeurde, was de reden voor |
-| **geviseerd** | uitgekozen, als doelwit genomen |
-| **vergissing** | een fout, iets dat per ongeluk gebeurt |
+| **grens** | de lijn tussen twee landen |
+| **overleden** | niet meer levend, dood |
+| **ongeluk** | iets slechts dat per ongeluk gebeurt |
+| **aanrijding** | wanneer een voertuig iets of iemand raakt |
+| **grensovergang** | de plaats waar je van het ene land naar het andere gaat |
 
 ### Vul-in-de-leegte
-1.  De harde ___ maakte dat iedereen wakker werd.
-2.  De politie denkt dat het geen opzet was, maar een ___.
-3.  De straat werd opnieuw ___ voor een aanval.
+1. De fietser is ___ bij een verkeersongeluk.
+2. Het ongeluk gebeurde bij de ___ tussen België en Nederland.
+3. De politie onderzoekt hoe de ___ kon gebeuren.
 
 #### Oplossingen
-1.  knal
-2.  vergissing
-3.  geviseerd
+1. overleden
+2. grens
+3. aanrijding
 
 ### Meerkeuzevragen
-1. Wat is een synoniem voor 'opgeschrikt'?
-   A) blij
-   B) geschrokken
-   C) moe
-   D) rustig
+1. Waar gebeurde het ongeluk?
+   a) In een winkelcentrum
+   b) Op de grens tussen België en Nederland
+   c) In een park
+   d) Bij een school
 
-2. Wanneer vond de explosie plaats?
-   A) 's Avonds
-   B) Rond het middaguur
-   C) 's Ochtends vroeg
-   D) In de namiddag
+2. Wanneer gebeurde het ongeluk?
+   a) Maandagavond
+   b) Zaterdagochtend
+   c) Zondagnacht
+   d) Dinsdagmiddag
 
-3. Wat veroorzaakte de explosie?
-   A) Iets dat ontploft is
-   B) Een harde storm
-   C) Een botsing van auto's
-   D) Dat weet men niet
+3. Wat is een grensovergang?
+   a) Een hoge berg
+   b) Een plaats waar je de grens oversteekt
+   c) Een rivier tussen landen
+   d) Een groot bos
 
 #### Antwoorden
-1. B) geschrokken
-2. C) 's Ochtends vroeg
-3. A) Iets dat ontploft is
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Er was veel schade aan verschillende gebouwen.
-2. Het is de eerste keer dat er iets in deze straat gebeurt.
-3. De vorige keer was de aanslag per ongeluk.
+1. Het ongeluk gebeurde op maandag.
+2. De fietser overleefde het ongeluk.
+3. De plaats heet Hazeldonk in Nederland.
 
 #### Antwoorden
 1. Niet Waar
 2. Niet Waar
 3. Waar
+---
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/5xpqt-fotoborgerhout3.jpeg/alternates/BASE_SIXTEEN_NINE/fotoborgerhout3.jpeg)  
-[Lees het originele artikel](https://www.standaard.be/binnenland/straat-in-antwerpen-opnieuw-opgeschrikt-door-zware-knal-schade-beperkt/95079630.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/cxmcjh-de-gehavende-fiets-van-de-overleden-man-ligt-in-de-berm-op-de-grensovergang-in-hzeldonk-vlak-naast-de-e19-.jpg/alternates/BASE_SIXTEEN_NINE/De%20gehavende%20fiets%20van%20de%20overleden%20man%20ligt%20in%20de%20berm%20op%20de%20grensovergang%20in%20Hzeldonk%20vlak%20naast%20de%20E19_.jpg)  
+[Lees het originele artikel](https://www.standaard.be/binnenland/dode-fietser-gevonden-bij-belgisch-nederlandse-grens/95099727.html)
 
 ## Samenvatting
-In Borgerhout was er zaterdagochtend een harde explosie. De knal was rond half zeven 's ochtends in de Kistemaeckersstraat. Er was een beetje schade aan een voordeur. Deze straat is vaker gekozen voor een aanslag. De vorige keer was het per ongeluk.
+Op zaterdagochtend is een fietser overleden door een ongeluk. Dit gebeurde op de grens tussen het Nederlandse Hazeldonk en het Belgische Meer.
 
 ## Woordenschatuitbreiding
 
-### Woordlijst
+### Woordelijst
 | Woord | Definitie |
 |-------|-----------|
-| **opgeschrikt** | geschrokken, plotseling en erg geschrokken zijn |
-| **explosie** | een hele harde knal, iets dat met veel kracht ontploft |
-| **veroorzaakte** | maakte dat iets gebeurde, was de reden voor |
-| **geviseerd** | uitgekozen, als doelwit genomen |
-| **vergissing** | een fout, iets dat per ongeluk gebeurt |
+| **grens** | de lijn tussen twee landen |
+| **overleden** | niet meer levend, dood |
+| **ongeluk** | iets slechts dat per ongeluk gebeurt |
+| **aanrijding** | wanneer een voertuig iets of iemand raakt |
+| **grensovergang** | de plaats waar je van het ene land naar het andere gaat |
 
 ### Vul-in-de-leegte
-1.  De harde ___ maakte dat iedereen wakker werd.
-2.  De politie denkt dat het geen opzet was, maar een ___.
-3.  De straat werd opnieuw ___ voor een aanval.
+1. De fietser is ___ bij een verkeersongeluk.
+2. Het ongeluk gebeurde bij de ___ tussen België en Nederland.
+3. De politie onderzoekt hoe de ___ kon gebeuren.
 
 #### Oplossingen
-1.  knal
-2.  vergissing
-3.  geviseerd
+1. overleden
+2. grens
+3. aanrijding
 
 ### Meerkeuzevragen
-1. Wat is een synoniem voor 'opgeschrikt'?
-   A) blij
-   B) geschrokken
-   C) moe
-   D) rustig
+1. Waar gebeurde het ongeluk?
+   a) In een winkelcentrum
+   b) Op de grens tussen België en Nederland
+   c) In een park
+   d) Bij een school
 
-2. Wanneer vond de explosie plaats?
-   A) 's Avonds
-   B) Rond het middaguur
-   C) 's Ochtends vroeg
-   D) In de namiddag
+2. Wanneer gebeurde het ongeluk?
+   a) Maandagavond
+   b) Zaterdagochtend
+   c) Zondagnacht
+   d) Dinsdagmiddag
 
-3. Wat veroorzaakte de explosie?
-   A) Iets dat ontploft is
-   B) Een harde storm
-   C) Een botsing van auto's
-   D) Dat weet men niet
+3. Wat is een grensovergang?
+   a) Een hoge berg
+   b) Een plaats waar je de grens oversteekt
+   c) Een rivier tussen landen
+   d) Een groot bos
 
 #### Antwoorden
-1. B) geschrokken
-2. C) 's Ochtends vroeg
-3. A) Iets dat ontploft is
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Er was veel schade aan verschillende gebouwen.
-2. Het is de eerste keer dat er iets in deze straat gebeurt.
-3. De vorige keer was de aanslag per ongeluk.
+1. Het ongeluk gebeurde op maandag.
+2. De fietser overleefde het ongeluk.
+3. De plaats heet Hazeldonk in Nederland.
 
 #### Antwoorden
 1. Niet Waar
 2. Niet Waar
 3. Waar
+---
 
 ## Woordenschatuitbreiding
-### Woordlijst
+### Woordelijst
 | Woord | Definitie |
 |-------|-----------|
-| **opgeschrikt** | geschrokken, plotseling en erg geschrokken zijn |
-| **explosie** | een hele harde knal, iets dat met veel kracht ontploft |
-| **veroorzaakte** | maakte dat iets gebeurde, was de reden voor |
-| **geviseerd** | uitgekozen, als doelwit genomen |
-| **vergissing** | een fout, iets dat per ongeluk gebeurt |
+| **grens** | de lijn tussen twee landen |
+| **overleden** | niet meer levend, dood |
+| **ongeluk** | iets slechts dat per ongeluk gebeurt |
+| **aanrijding** | wanneer een voertuig iets of iemand raakt |
+| **grensovergang** | de plaats waar je van het ene land naar het andere gaat |
 
 ### Vul-in-de-leegte
-1.  De harde ___ maakte dat iedereen wakker werd.
-2.  De politie denkt dat het geen opzet was, maar een ___.
-3.  De straat werd opnieuw ___ voor een aanval.
+1. De fietser is ___ bij een verkeersongeluk.
+2. Het ongeluk gebeurde bij de ___ tussen België en Nederland.
+3. De politie onderzoekt hoe de ___ kon gebeuren.
 
 #### Oplossingen
-1.  knal
-2.  vergissing
-3.  geviseerd
+1. overleden
+2. grens
+3. aanrijding
 
 ### Meerkeuzevragen
-1. Wat is een synoniem voor 'opgeschrikt'?
-   A) blij
-   B) geschrokken
-   C) moe
-   D) rustig
+1. Waar gebeurde het ongeluk?
+   a) In een winkelcentrum
+   b) Op de grens tussen België en Nederland
+   c) In een park
+   d) Bij een school
 
-2. Wanneer vond de explosie plaats?
-   A) 's Avonds
-   B) Rond het middaguur
-   C) 's Ochtends vroeg
-   D) In de namiddag
+2. Wanneer gebeurde het ongeluk?
+   a) Maandagavond
+   b) Zaterdagochtend
+   c) Zondagnacht
+   d) Dinsdagmiddag
 
-3. Wat veroorzaakte de explosie?
-   A) Iets dat ontploft is
-   B) Een harde storm
-   C) Een botsing van auto's
-   D) Dat weet men niet
+3. Wat is een grensovergang?
+   a) Een hoge berg
+   b) Een plaats waar je de grens oversteekt
+   c) Een rivier tussen landen
+   d) Een groot bos
 
 #### Antwoorden
-1. B) geschrokken
-2. C) 's Ochtends vroeg
-3. A) Iets dat ontploft is
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Er was veel schade aan verschillende gebouwen.
-2. Het is de eerste keer dat er iets in deze straat gebeurt.
-3. De vorige keer was de aanslag per ongeluk.
+1. Het ongeluk gebeurde op maandag.
+2. De fietser overleefde het ongeluk.
+3. De plaats heet Hazeldonk in Nederland.
 
 #### Antwoorden
 1. Niet Waar
 2. Niet Waar
 3. Waar
+---
 
 ## Vul-in-de-leegte
-1.  De harde ___ maakte dat iedereen wakker werd.
-2.  De politie denkt dat het geen opzet was, maar een ___.
-3.  De straat werd opnieuw ___ voor een aanval.
+1. De fietser is ___ bij een verkeersongeluk.
+2. Het ongeluk gebeurde bij de ___ tussen België en Nederland.
+3. De politie onderzoekt hoe de ___ kon gebeuren.
 
 #### Oplossingen
-1.  knal
-2.  vergissing
-3.  geviseerd
+1. overleden
+2. grens
+3. aanrijding
 
 ### Meerkeuzevragen
-1. Wat is een synoniem voor 'opgeschrikt'?
-   A) blij
-   B) geschrokken
-   C) moe
-   D) rustig
+1. Waar gebeurde het ongeluk?
+   a) In een winkelcentrum
+   b) Op de grens tussen België en Nederland
+   c) In een park
+   d) Bij een school
 
-2. Wanneer vond de explosie plaats?
-   A) 's Avonds
-   B) Rond het middaguur
-   C) 's Ochtends vroeg
-   D) In de namiddag
+2. Wanneer gebeurde het ongeluk?
+   a) Maandagavond
+   b) Zaterdagochtend
+   c) Zondagnacht
+   d) Dinsdagmiddag
 
-3. Wat veroorzaakte de explosie?
-   A) Iets dat ontploft is
-   B) Een harde storm
-   C) Een botsing van auto's
-   D) Dat weet men niet
+3. Wat is een grensovergang?
+   a) Een hoge berg
+   b) Een plaats waar je de grens oversteekt
+   c) Een rivier tussen landen
+   d) Een groot bos
 
 #### Antwoorden
-1. B) geschrokken
-2. C) 's Ochtends vroeg
-3. A) Iets dat ontploft is
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Er was veel schade aan verschillende gebouwen.
-2. Het is de eerste keer dat er iets in deze straat gebeurt.
-3. De vorige keer was de aanslag per ongeluk.
+1. Het ongeluk gebeurde op maandag.
+2. De fietser overleefde het ongeluk.
+3. De plaats heet Hazeldonk in Nederland.
 
 #### Antwoorden
 1. Niet Waar
 2. Niet Waar
 3. Waar
+---
 
 ## Meerkeuzevragen
-1. Wat is een synoniem voor 'opgeschrikt'?
-   A) blij
-   B) geschrokken
-   C) moe
-   D) rustig
+1. Waar gebeurde het ongeluk?
+   a) In een winkelcentrum
+   b) Op de grens tussen België en Nederland
+   c) In een park
+   d) Bij een school
 
-2. Wanneer vond de explosie plaats?
-   A) 's Avonds
-   B) Rond het middaguur
-   C) 's Ochtends vroeg
-   D) In de namiddag
+2. Wanneer gebeurde het ongeluk?
+   a) Maandagavond
+   b) Zaterdagochtend
+   c) Zondagnacht
+   d) Dinsdagmiddag
 
-3. Wat veroorzaakte de explosie?
-   A) Iets dat ontploft is
-   B) Een harde storm
-   C) Een botsing van auto's
-   D) Dat weet men niet
+3. Wat is een grensovergang?
+   a) Een hoge berg
+   b) Een plaats waar je de grens oversteekt
+   c) Een rivier tussen landen
+   d) Een groot bos
 
 #### Antwoorden
-1. B) geschrokken
-2. C) 's Ochtends vroeg
-3. A) Iets dat ontploft is
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Er was veel schade aan verschillende gebouwen.
-2. Het is de eerste keer dat er iets in deze straat gebeurt.
-3. De vorige keer was de aanslag per ongeluk.
+1. Het ongeluk gebeurde op maandag.
+2. De fietser overleefde het ongeluk.
+3. De plaats heet Hazeldonk in Nederland.
 
 #### Antwoorden
 1. Niet Waar
 2. Niet Waar
 3. Waar
+---
 
 ## Waar / Niet waar
-1. Er was veel schade aan verschillende gebouwen.
-2. Het is de eerste keer dat er iets in deze straat gebeurt.
-3. De vorige keer was de aanslag per ongeluk.
+1. Het ongeluk gebeurde op maandag.
+2. De fietser overleefde het ongeluk.
+3. De plaats heet Hazeldonk in Nederland.
 
 #### Antwoorden
 1. Niet Waar
 2. Niet Waar
 3. Waar
+---
