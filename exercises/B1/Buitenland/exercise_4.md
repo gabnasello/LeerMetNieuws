@@ -1,61 +1,61 @@
----
-**Titel:** Duizenden mensen protesteren in Georgië, regering gaat harder optreden
+# Titel
+Andrej Babis, de "Tsjechische Trump", wint de verkiezingen - en dat is slecht voor Oekraïne
 
-**Samenvatting:** Duizenden mensen in Georgië zijn de straat op gegaan. Ze zijn boos op de regeringspartij na de verkiezingen in hun stad of dorp. De regering zegt dat ze harder zal optreden tegen de protesten.
+## Samenvatting
+Andrej Babis heeft de verkiezingen in Tsjechië gewonnen. Eerst was hij voor Europa, nu is hij tegen Europa. Zijn goede vriend Viktor Orban zegt: "Dit is goed nieuws voor Europa."
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
-*(Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting)*
+
 | Woord | Definitie |
 |-------|-----------|
-| **protesten** | in het openbaar laten weten dat je het ergens niet mee eens bent |
-| **regering** | de groep mensen die een land bestuurt |
-| **verkiezingen** | het kiezen van nieuwe mensen voor de regering door te stemmen |
-| **optreden** | iets doen, bijvoorbeeld door de politie |
-| **boos** | een sterk gevoel van niet blij zijn, vaak omdat iets oneerlijk is |
+| **verkiezingen** | wanneer mensen stemmen om een nieuwe regering te kiezen |
+| **gewonnen** | als je eerste bent geworden in een wedstrijd of verkiezing |
+| **Europa** | het werelddeel waar Nederland en Tsjechië in liggen |
+| **tegen** | niet voor iets zijn, er niet mee eens zijn |
+| **nieuws** | informatie over iets dat net gebeurd is |
 
 ### Vul-in-de-leegte
-1. Mensen gaan de straat op om te laten zien dat ze ___ zijn.
-2. De ___ is de groep die beslissingen maakt voor een land.
-3. Iedereen mag stemmen tijdens de ___.
+1. Bij ___ kiezen mensen een nieuwe regering.
+2. Andrej Babis heeft de verkiezingen ___.
+3. Viktor Orban zegt dat dit goed ___ is voor Europa.
 
 #### Oplossingen
-1. boos
-2. regering
-3. verkiezingen
+1. verkiezingen
+2. gewonnen
+3. nieuws
 
 ### Meerkeuzevragen
-1. Wat doen mensen als ze protesteren?
-   a) Ze gaan feestvieren.
-   b) Ze laten zien dat ze het ergens niet mee eens zijn.
-   c) Ze gaan winkelen.
-   d) Ze gaan op vakantie.
+1. Wat zijn verkiezingen?
+   a) een sportwedstrijd
+   b) een feestdag
+   c) stemmen voor een nieuwe regering
+   d) een soort examen
 
-2. Wie kondigt harder optreden aan?
-   a) De winkels.
-   b) De toeristen.
-   c) De regering.
-   d) De kinderen.
+2. Wat betekent "tegen Europa zijn"?
+   a) heel veel van Europa houden
+   b) in Europa wonen
+   c) niet voor Europa zijn
+   d) op vakantie gaan in Europa
 
-3. Waar zijn de mensen boos over?
-   a) Het weer.
-   b) De regeringspartij.
-   c) De prijs van brood.
-   d) De openingstijden van de winkels.
+3. Wat is "nieuws"?
+   a) een oude geschiedenis
+   b) informatie over iets nieuws
+   c) een televisieprogramma
+   d) een soort boek
 
 #### Antwoorden
-1. b
-2. c
-3. b
+1. c) stemmen voor een nieuwe regering
+2. c) niet voor Europa zijn
+3. b) informatie over iets nieuws
 
 ### Waar / Niet Waar
-1. De mensen zijn de straat op gegaan omdat ze heel blij zijn.
-2. De protesten zijn begonnen na de verkiezingen.
-3. De regering zegt dat ze niets zal doen.
+1. Andrej Babis heeft de verkiezingen verloren.
+2. Viktor Orban vindt het goed nieuws.
+3. Babis is nu voor Europa.
 
 #### Antwoorden
 1. Niet Waar
 2. Waar
 3. Niet Waar
----

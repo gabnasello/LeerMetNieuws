@@ -1,61 +1,66 @@
----
-**Titel:** Israëlische onderhandelaars gaan naar Egypte voor gesprekken over Gaza
+# Titel
 
-**Samenvatting:** Ondanks dat steeds meer landen kritiek hebben, gaat Israël door met de verwoestende oorlog in Gaza. Hier lees je het laatste nieuws.
+Bijna duizend klimmers zitten vast op Mount Everest – de eerste 350 zijn gered
+
+## Samenvatting
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/5bpviu-a-screen-capture-from-video-shows-trekkers-leaving-their-campsite-as-unusually-heavy-snow-and-rainfall-pummeled-the-himalayas-in-the-tibet-region/alternates/BASE_SIXTEEN_NINE/A%20screen%20capture%20from%20video%20shows%20trekkers%20leaving%20their%20campsite%20as%20unusually%20heavy%20snow%20and%20rainfall%20pummeled%20the%20Himalayas%20in%20the%20Tibet%20Region)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/bijna-duizend-bergbeklimmers-vast-op-mount-everest-%E2%80%93-eerste-350-gered/95234082.html)
+
+Door een zware sneeuwstorm kunnen bijna duizend klimmers niet van de berg af. Mensen zijn nu hard aan het werk om iedereen te helpen. De eerste 350 mensen zijn al in veiligheid gebracht.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
-*(Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting)*
+
 | Woord | Definitie |
 |-------|-----------|
-| **onderhandelaars** | Mensen die namens een land met een ander land praten om problemen op te lossen. |
-| **gesprekken** | Een serieuze bespreking tussen mensen of landen over een belangrijk onderwerp. |
-| **kritiek** | Iets zeggen wat je niet goed vindt; je mening geven dat iets fout is. |
-| **verwoestend** | Iets dat heel veel kapot maakt. |
-| **ontwikkelingen** | Nieuwe dingen die gebeuren; veranderingen in een situatie. |
+| **klimmers** | mensen die een berg beklimmen |
+| **vastzitten** | niet weg kunnen, niet kunnen vertrekken |
+| **sneeuwstorm** | heel erg harde wind met veel sneeuw |
+| **reddingsoperatie** | het werk om mensen in gevaar te helpen |
+| **veiligheid** | een plek waar geen gevaar is |
 
 ### Vul-in-de-leegte
-1. De ___ gaan naar een ander land om te praten over vrede.
-2. Veel landen hebben ___ op de oorlog, ze vinden het niet goed.
-3. We volgen de ___ op de voet, zodat we het laatste nieuws weten.
+1. De _________ zorgde ervoor dat je niets kon zien.
+2. De helikopters zijn onderdeel van de grote _________.
+3. Na de redding waren de klimmers eindelijk in _________.
 
 #### Oplossingen
-1. onderhandelaars
-2. kritiek
-3. ontwikkelingen
+1. sneeuwstorm
+2. reddingsoperatie
+3. veiligheid
 
 ### Meerkeuzevragen
-1. Wat zijn onderhandelaars?
-   a) Mensen die oorlog voeren
-   b) Mensen die namens een land praten om problemen op te lossen
-   c) Mensen die nieuws schrijven
-   d) Mensen die voor een krant werken
+1. Wat zijn 'klimmers'?
+   a) Mensen die van skiën houden
+   b) Mensen die een berg beklimmen
+   c) Mensen die in de bergen wonen
+   d) Mensen die van ijs houden
 
-2. Wat betekent 'kritiek hebben'?
-   a) Iets heel goed vinden
-   b) Iets niet goed vinden en dat zeggen
-   c) Geen mening hebben
-   d) Iemand helpen
+2. Wat betekent 'vastzitten'?
+   a) Heel sterk zijn
+   b) Niet kunnen bewegen of vertrekken
+   c) Iets stevig vasthouden
+   d) Snel kunnen rennen
 
-3. Wat zijn 'ontwikkelingen'?
-   a) Oude gebeurtenissen
-   b) Nieuwe dingen die gebeuren
-   c) Moeilijke woorden
-   d) Vrede
+3. Waar brengt een reddingsoperatie mensen naartoe?
+   a) Naar een nieuwe berg
+   b) Naar een sneeuwstorm
+   c) Naar gevaar
+   d) Naar veiligheid
 
 #### Antwoorden
 1. b
 2. b
-3. b
+3. d
 
 ### Waar / Niet Waar
-1. Onderhandelaars zijn mensen die vechten in een oorlog.
-2. 'Kritiek hebben' betekent dat je iets goed vindt.
-3. 'Ontwikkelingen' zijn nieuwe dingen die gebeuren.
+1. Een sneeuwstorm is goed weer om te klimmen.
+2. Een reddingsoperatie helpt mensen in problemen.
+3. Veiligheid betekent dat er gevaar is.
 
 #### Antwoorden
 1. Niet Waar
-2. Niet Waar
-3. Waar
----
+2. Waar
+3. Niet Waar

@@ -1,61 +1,72 @@
----
-**Titel:** Minister boos om gratis-actie van school voor volwassenen
+# Titel
 
-**Samenvatting:** Een school in Brugge gaf deze zomer een gratis cursus weg als actie. Het kantoor van de minister vond dit niet goed en reageerde heel boos.
+Actie "tweede cursus gratis" maakt minister boos
+
+## Samenvatting
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/9wywfj-file814tfrjq9h0cq1ootre/alternates/BASE_SIXTEEN_NINE/file814tfrjq9h0cq1ootre)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/11-gratis-actie-in-avondonderwijs-maakt-kabinet-van-minister-demir-woedend-uw-centrum-wordt-bij-controles-prioritair-geevalueerd/95233047.html)
+
+Een school in Brugge voor volwassenen had deze zomer een actie: je krijgt de tweede cursus gratis. Het kantoor van de minister vindt dit niet goed en reageerde heel kwaad.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
-*(Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting)*
+### Woordenschatlijst
+
 | Woord | Definitie |
 |-------|-----------|
-| **minister** | Een belangrijk persoon in de regering. |
-| **boos** | Een sterk gevoel van woede hebben. |
-| **gratis** | Zonder dat je ervoor moet betalen. |
-| **cursus** | Lessen over een bepaald onderwerp. |
-| **kantoor** | De plaats waar mensen (bijvoorbeeld van een minister) werken. |
+| **actie** | iets wat je doet om aandacht te krijgen of iets te verkopen |
+| **cursus** | lessen over een bepaald onderwerp die je volgt |
+| **minister** | een belangrijk persoon in de regering |
+| **kantoor** | de plaats waar mensen werken, bijvoorbeeld van een minister |
+| **kwaad** | een sterk gevoel van boosheid |
 
 ### Vul-in-de-leegte
-1.  De minister was erg ___ op de school.
-2.  Je mag die pen ___ meenemen; hij is voor jou.
-3.  Ik volg een ___ om de taal beter te leren.
+
+1.  De school heeft een speciale ___ om nieuwe leerlingen te krijgen.
+2.  Je betaalt voor één ___ en krijgt de tweede gratis.
+3.  Het ___ van de minister was niet blij met deze actie.
 
 #### Oplossingen
-1.  boos
-2.  gratis
-3.  cursus
+
+1.  actie
+2.  cursus
+3.  kantoor
 
 ### Meerkeuzevragen
-1. Wat is een 'minister'?
-   A) Een leraar
-   B) Een belangrijk persoon in de regering
-   C) Een dokter
-   D) Een student
 
-2. Wat betekent 'gratis'?
-   A) Heel duur
-   B) Zonder te betalen
-   C) Moeilijk te vinden
-   D) Snel voorbij
+1.  Wat kreeg je gratis bij de actie?
+    a) Een boek
+    b) De tweede cursus
+    c) Een computer
+    d) Een maaltijd
 
-3. Waar werken mensen van een minister?
-   A) In een school
-   B) In een winkel
-   C) In een kantoor
-   D) In een restaurant
+2.  Hoe reageerde het kantoor van de minister?
+    a) Ze waren heel blij.
+    b) Ze vonden het niet goed.
+    c) Ze deden alsof er niets was.
+    d) Ze begonnen zelf ook een actie.
+
+3.  Voor wie zijn de cursussen bij deze school?
+    a) Voor kinderen
+    b) Voor dieren
+    c) Voor volwassenen
+    d) Voor ministers
 
 #### Antwoorden
-1.  B
-2.  B
-3.  C
+
+1.  b
+2.  b
+3.  c
 
 ### Waar / Niet Waar
-1.  De school gaf gratis cursussen weg.
-2.  De minister was blij met de actie.
-3.  De school staat in Brussel.
+
+1.  De actie was om nieuwe leerlingen te werven.
+2.  De minister was heel blij met de actie.
+3.  De school staat in Brugge.
 
 #### Antwoorden
+
 1.  Waar
 2.  Niet Waar
-3.  Niet Waar
----
+3.  Waar

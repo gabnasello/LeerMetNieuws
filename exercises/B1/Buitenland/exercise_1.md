@@ -1,61 +1,61 @@
----
-**Titel:** Andrej Babis, de "Tsjechische Trump", wint de verkiezingen
+# Titel
+Trump is boos op Netanyahu en Hamas voor belangrijke gesprekken over Gaza
 
-**Samenvatting:** Andrej Babis heeft de verkiezingen in Tsjechië gewonnen. Eerst was hij voor Europa, nu is hij tegen Europa. Zijn vriend Viktor Orban zegt dat dit goed nieuws is voor Europa.
+## Samenvatting
+President Trump zei tegen premier Netanyahu: "Jij bent altijd zo negatief." Tegen Hamas zei hij dat hij ze helemaal weg wil maken. Door deze sterke woorden gebeurt er nu iets: in Egypte beginnen op maandag gesprekken over een stop van het vechten in Gaza en over het ruilen van gegijzelde mensen.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
-*(Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting)*
+
 | Woord | Definitie |
 |-------|-----------|
-| **verkiezingen** | Een stemming waarbij mensen kiezen wie hun land of stad gaat besturen. |
-| **wint** | Als iemand de eerste plaats haalt en dus de beste is. |
-| **Tsjechië** | Een land in het midden van Europa. |
-| **Europa** | Het werelddeel waar landen zoals Nederland, België en Duitsland liggen. |
-| **nieuws** | Informatie over iets dat net is gebeurd. |
+| **boos** | een sterk gevoel van ergernis of woede hebben |
+| **premier** | de leider van de regering van een land |
+| **wegmaken** | iets of iemand vernietigen of laten verdwijnen |
+| **gesprekken** | een formele bijeenkomst waar mensen over belangrijke zaken praten |
+| **ruilen** | iets aan een ander geven en er iets anders voor terugkrijgen |
 
 ### Vul-in-de-leegte
-1.  Mensen stemmen tijdens de ___ om een nieuwe leider te kiezen.
-2.  Andrej Babis ___ de verkiezingen in zijn land.
-3.  Tsjechië is een land in ___.
+1. De president was erg ___ op de minister.
+2. Er zijn belangrijke ___ over vrede.
+3. De twee landen willen gevangenen ___.
 
 #### Oplossingen
-1.  verkiezingen
-2.  wint
-3.  Europa
+1. boos
+2. gesprekken
+3. ruilen
 
 ### Meerkeuzevragen
-1. Wat zijn verkiezingen?
-   A) Een feestdag
-   B) Een sportwedstrijd
-   C) Een stemming om een nieuwe leider te kiezen
-   D) Een soort examen
+1. Wat betekent 'boos'?
+   a) heel blij
+   b) erg kwaad
+   c) een beetje moe
+   d) heel nerveus
 
-2. Waar ligt Tsjechië?
-   A) In Azië
-   B) In Afrika
-   C) In het midden van Europa
-   D) In Zuid-Amerika
+2. Wie is de 'premier'?
+   a) de baas van een school
+   b) de leider van een regering
+   c) een belangrijke dokter
+   d) de eigenaar van een groot bedrijf
 
-3. Wat betekent "wint" in deze tekst?
-   A: Verliezen
-   B: Heeft de eerste plaats
-   C: Weggaan
-   D: Kopen
+3. Wat is 'ruilen'?
+   a) iets verkopen voor geld
+   b) iets weggooien
+   c) iets aan iemand geven en iets anders terugkrijgen
+   d) iets voor altijd bewaren
 
 #### Antwoorden
-1. C) Een stemming om een nieuwe leider te kiezen
-2. C) In het midden van Europa
-3. B) Heeft de eerste plaats
+1. b) erg kwaad
+2. b) de leider van een regering
+3. c) iets aan iemand geven en iets anders terugkrijgen
 
 ### Waar / Niet Waar
-1. Andrej Babis heeft de verkiezingen verloren.
-2. Tsjechië is een land in Europa.
-3. Nieuws is informatie over iets dat lang geleden is gebeurd.
+1. 'Wegmaken' betekent iets een cadeau geven.
+2. 'Gesprekken' zijn informele praatjes tussen vrienden.
+3. De 'premier' is een belangrijke politieke leider.
 
 #### Antwoorden
 1. Niet Waar
-2. Waar
-3. Niet Waar
----
+2. Niet Waar
+3. Waar
