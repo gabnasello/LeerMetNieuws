@@ -8,7 +8,7 @@ API_KEY = os.getenv("OPENROUTER_API_KEY")
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # CEFR levels
-levels = ["B1"]  # or ["A1", "A2", "B1", "B2", "C1"]
+levels = ["B1","C1","A2","B2"]  # or ["A1", "A2", "B1", "B2", "C1"]
 
 # ---------- API CALL WITH RETRIES ----------
 def query_openrouter(messages, max_tokens=1200, retries=5, backoff=2):
