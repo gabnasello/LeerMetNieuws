@@ -51,15 +51,20 @@ Genereer daarna alle oefeningen volgens het vaste format hieronder.
 
 Gebruik **precies** dit Markdown-format:
 
----
-**Titel:** [vereenvoudigde titel]
+# Titel
 
-**Samenvatting:** [vereenvoudigde samenvatting]
+[vereenvoudigde titel]
+
+## Samenvatting
+
+[vereenvoudigde samenvatting]
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
-*(Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting)*
+
+[Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting]
+
 | Woord | Definitie |
 |-------|-----------|
 | **woord1** | definitie |
