@@ -91,74 +91,74 @@ Tekst:
 
 
 # ---------- CLEAN DUPLICATES ----------
-def clean_response(text):
-    """
-    Keep only the first full exercise block.
-    """
-    blocks = re.findall(r"---(.*?)---", text, re.DOTALL)
-    if blocks:
-        return "---" + blocks[0].strip() + "---"
-    return text
+# def clean_response(text):
+#     """
+#     Keep only the first full exercise block.
+#     """
+#     blocks = re.findall(r"---(.*?)---", text, re.DOTALL)
+#     if blocks:
+#         return "---" + blocks[0].strip() + "---"
+#     return text
 
 
 # ---------- PARSING HELPERS ----------
-def extract_first_match(pattern, text):
-    """Return the first regex group match or empty string."""
-    match = re.search(pattern, text, re.IGNORECASE | re.DOTALL)
-    return match.group(1).strip() if match else ""
+# def extract_first_match(pattern, text):
+#     """Return the first regex group match or empty string."""
+#     match = re.search(pattern, text, re.IGNORECASE | re.DOTALL)
+#     return match.group(1).strip() if match else ""
 
 
-def parse_exercises(full_text):
-    """Split unified response into components, keeping only the first set."""
-    simplified_title = extract_first_match(r"\*\*Titel:\*\*\s*(.*)", full_text)
-    if not simplified_title:
-        simplified_title = "Vereenvoudigde titel"
+# def parse_exercises(full_text):
+#     """Split unified response into components, keeping only the first set."""
+#     simplified_title = extract_first_match(r"\*\*Titel:\*\*\s*(.*)", full_text)
+#     if not simplified_title:
+#         simplified_title = "Vereenvoudigde titel"
 
-    simplified_summary = extract_first_match(r"\*\*Samenvatting:\*\*\s*(.*)", full_text)
+#     simplified_summary = extract_first_match(r"\*\*Samenvatting:\*\*\s*(.*)", full_text)
 
-    vocab_section = extract_first_match(r"## Woordenschatuitbreiding([\s\S]*?)(?=\n## |\Z)", full_text)
-    fill_section = extract_first_match(r"## Vul-in-de-leegte([\s\S]*?)(?=\n## |\Z)", full_text)
-    mcq_section = extract_first_match(r"## Meerkeuzevragen([\s\S]*?)(?=\n## |\Z)", full_text)
-    tf_section = extract_first_match(r"## Waar\s*/\s*Niet\s*Waar([\s\S]*?)(?=\n## |\Z)", full_text)
+#     vocab_section = extract_first_match(r"## Woordenschatuitbreiding([\s\S]*?)(?=\n## |\Z)", full_text)
+#     fill_section = extract_first_match(r"## Vul-in-de-leegte([\s\S]*?)(?=\n## |\Z)", full_text)
+#     mcq_section = extract_first_match(r"## Meerkeuzevragen([\s\S]*?)(?=\n## |\Z)", full_text)
+#     tf_section = extract_first_match(r"## Waar\s*/\s*Niet\s*Waar([\s\S]*?)(?=\n## |\Z)", full_text)
 
-    # Ensure no section is missing
-    if not simplified_summary:
-        simplified_summary = "Geen inhoud beschikbaar."
-    if not vocab_section:
-        vocab_section = "Geen inhoud beschikbaar."
-    if not fill_section:
-        fill_section = "Geen inhoud beschikbaar."
-    if not mcq_section:
-        mcq_section = "Geen inhoud beschikbaar."
-    if not tf_section:
-        tf_section = "Geen inhoud beschikbaar."
+#     # Ensure no section is missing
+#     if not simplified_summary:
+#         simplified_summary = "Geen inhoud beschikbaar."
+#     if not vocab_section:
+#         vocab_section = "Geen inhoud beschikbaar."
+#     if not fill_section:
+#         fill_section = "Geen inhoud beschikbaar."
+#     if not mcq_section:
+#         mcq_section = "Geen inhoud beschikbaar."
+#     if not tf_section:
+#         tf_section = "Geen inhoud beschikbaar."
 
-    return simplified_title, simplified_summary, vocab_section, fill_section, mcq_section, tf_section
+#     return simplified_title, simplified_summary, vocab_section, fill_section, mcq_section, tf_section
 
 
 # ---------- MARKDOWN BUILDER ----------
-def build_markdown(simplified_title, simplified_summary, image_url, news_link,
-                   vocab, fill_section, mcq_section, tf_section):
-    return f"""# {simplified_title}
+# def build_markdown(simplified_title, simplified_summary, image_url, news_link,
+#                    vocab, fill_section, mcq_section, tf_section):
+#     return f"""# {simplified_title}
 
-![Nieuwsafbeelding]({image_url})  
-[Lees het originele artikel]({news_link})
+# ![Nieuwsafbeelding]({image_url})  
+# [Lees het originele artikel]({news_link})
 
-## Samenvatting
-{simplified_summary}
+# ## Samenvatting
+# {simplified_summary}
 
-## Woordenschatuitbreiding
-{vocab}
+# ## Woordenschatuitbreiding
+# {vocab}
 
-## Vul-in-de-leegte
-{fill_section}
+# ## Vul-in-de-leegte
+# {fill_section}
 
-## Meerkeuzevragen
-{mcq_section}
+# ## Meerkeuzevragen
+# {mcq_section}
 
-## Waar / Niet waar
-{tf_section}
-"""
+# ## Waar / Niet waar
+# {tf_section}
+# """
 
 
 # ---------- MAIN ----------
@@ -198,15 +198,22 @@ def main():
                     response_text = generate_exercises(level, title, summary, news_text)
                     #response_text = clean_response(response_text)  # 🧹 fix duplicates
 
-                    simplified_title, simplified_summary, vocab, fill_section, mcq_section, tf_section = parse_exercises(response_text)
+                    # simplified_title, simplified_summary, vocab, fill_section, mcq_section, tf_section = parse_exercises(response_text)
 
-                    md_content = build_markdown(
-                        simplified_title, simplified_summary, image_url, news_link,
-                        vocab, fill_section, mcq_section, tf_section
-                    )
+                    # md_content = build_markdown(
+                    #     simplified_title, simplified_summary, image_url, news_link,
+                    #     vocab, fill_section, mcq_section, tf_section
+                    # )
+
+                    # Text to insert before the Samenvatting paragraph
+                    insertion = f"![Nieuwsafbeelding]({image_url})   \n[Lees het originele artikel]({news_link})\n\n"
+
+                    # Use regex to find the header and insert the new text after it, before the paragraph
+                    pattern = r"(## Samenvatting\s*\n\n)"
+                    updated_text = re.sub(pattern, r"\1" + insertion, response_text, count=1)
 
                     with open(out_file_path, "w", encoding="utf-8") as f_out:
-                        f_out.write(md_content)
+                        f_out.write(updated_text)
 
                     print(f"Wrote {out_file_path}")
                     time.sleep(1)  # throttle to avoid 429
