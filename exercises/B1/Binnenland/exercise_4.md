@@ -1,60 +1,67 @@
----
-**Titel:** 30.000 mensen in Brussel voor klimaatprotest
+# Titel
 
-**Samenvatting:** Duizenden mensen lopen op zondag mee in een klimaatmars in Brussel. De groep die de mars organiseert, wil dat de overheid geld uitgeeft aan een eerlijk en sterk plan voor het klimaat.
+30.000 mensen in Brussel voor klimaatprotest
+
+## Samenvatting
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/i5ispf-klimaatbetoging-01.jpg/alternates/BASE_SIXTEEN_NINE/klimaatbetoging-01.jpg)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/30.000-mensen-in-brussel-voor-klimaatbetoging-investeer-in-onze-toekomst-niet-in-de-vernietiging-ervan/95181236.html)
+
+Duizenden mensen liepen op zondag mee in een klimaatmars in Brussel. De groep die de mars organiseerde, wil dat de overheid geld uitgeeft aan een goed en sterk plan voor het klimaat.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
-*(Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting)*
+### Woordelijst
+
 | Woord | Definitie |
 |-------|-----------|
-| **protest** | het laten zien dat je het ergens niet mee eens bent |
-| **klimaat** | het gemiddelde weer over een lange tijd |
-| **mars** | een tocht lopen met een groep mensen voor een idee |
-| **overheid** | de groep mensen die een land of stad bestuurt |
-| **plan** | een beschrijving van wat je gaat doen |
+| **protest** | een bijeenkomst om ergens tegen te zijn of iets te vragen |
+| **klimaat** | het weer over een lange tijd in een groot gebied |
+| **mars** | een groep mensen die samen loopt voor een idee |
+| **overheid** | de mensen die een land, stad of dorp besturen |
+| **plan** | een idee over wat je gaat doen en hoe |
 
 ### Vul-in-de-leegte
-1. Mensen doen mee aan een ___ om te laten zien dat ze ontevreden zijn.
-2. Het ___ verandert omdat de aarde warmer wordt.
-3. De ___ moet luisteren naar wat de mensen vragen.
+1. Veel mensen doen mee aan een ___ om iets te vragen.
+2. Het ___ verandert, daarom zijn mensen bezorgd.
+3. De ___ moet luisteren naar wat de mensen willen.
+
 #### Oplossingen
 1. protest
 2. klimaat
 3. overheid
 
 ### Meerkeuzevragen
-1. Wat is een mars?
-   a) Een feest
-   b) Een soort dans
-   c) Een protesttocht
-   d) Een sportwedstrijd
+1. Wat is een protest?
+a) Een feestje
+b) Een bijeenkomst om iets te vragen
+c) Een sportwedstrijd
+d) Een winkel
 
-2. Wat betekent 'klimaat'?
-   a) Het weer van vandaag
-   b) Het gemiddelde weer over lange tijd
-   c) De temperatuur in de zomer
-   d) Regen en wind
+2. Wat is het klimaat?
+a) Het weer van vandaag
+b) Het weer over een lange tijd
+c) De temperatuur in huis
+d) Een seizoen
 
-3. Wie is de overheid?
-   a) De mensen die protesteren
-   b) De mensen die het land besturen
-   c) De organisatoren van een mars
-   d) Iedereen in het land
+3. Wat is een mars?
+a) Alleen lopen
+b) Hardlopen
+c) Een groep mensen die samen loopt voor een idee
+d) Fietsen
 
 #### Antwoorden
-1. c
+1. b
 2. b
-3. b
+3. c
 
 ### Waar / Niet Waar
-1. De mars was op een maandag.
-2. De organisatie wil dat de overheid geld uitgeeft aan het klimaat.
-3. Er liepen maar tien mensen mee.
+1. Een protest is altijd heel stil.
+2. Het klimaat is overal op de wereld hetzelfde.
+3. De overheid beslist soms over geld.
 
 #### Antwoorden
 1. Niet Waar
-2. Waar
-3. Niet Waar
+2. Niet Waar
+3. Waar
 ---
