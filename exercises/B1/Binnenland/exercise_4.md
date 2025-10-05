@@ -1,60 +1,60 @@
 # Kinderen opvoeden in een grote stad: wel of niet?
 
-**Samenvatting:** Brihang is een hiphopper. Hij is met zijn gezin weggegaan uit Brussel. Hij twijfelde of een grote stad wel een goede plek is voor kinderen. Hij vond de stad te onveilig, te druk en te grijs. Veel lezers denken hier ook over na als ze kinderen krijgen.
+**Samenvatting:** De rapper Brihang is met zijn gezin uit Brussel verhuisd. Hij dacht dat de stad niet goed was voor zijn kinderen. Hij vond de stad te onveilig, te druk en te grijs. Veel lezers denken hier ook over na als ze kinderen krijgen.
 
 ## Woordenschatuitbreiding
 
-### Woordlijst
+### Woordenschatlijst
 | Woord | Definitie |
 |-------|-----------|
-| **hiphopper** | een artiest die hiphop muziek maakt |
-| **twijfelen** | niet zeker weten of iets goed of fout is |
-| **onveilig** | niet veilig, er kan gevaar zijn |
-| **grijs** | saai, zonder kleur of vrolijkheid |
+| **opvoeden** | kinderen leren hoe ze zich moeten gedragen |
+| **grootstad** | een hele grote en drukke stad |
+| **ongelukkig** | verdrietig zijn, je niet blij voelen |
+| **twijfelen** | niet zeker weten of iets goed is |
 | **balans opmaken** | nadenken over de voor- en nadelen |
 
 ### Vul-in-de-leegte
-1. Brihang is een _____ en hij is verhuisd uit Brussel.
-2. Hij vond de stad te druk en te _____ voor zijn kinderen.
-3. Veel ouders _____ of een grote stad goed is voor kinderen.
+1. Brihang is verhuisd omdat hij ___ of de stad goed was voor zijn kinderen.
+2. Hij vond de stad te druk en te ___.
+3. Veel mensen ___ de balans op als ze een gezin beginnen.
 
 #### Oplossingen
-1. hiphopper
+1. twijfelde
 2. grijs
-3. twijfelen
+3. maken
 
 ### Meerkeuzevragen
-1. Waarom verliet Brihang de stad?
-   a) Omdat hij een nieuwe job vond.
-   b) Omdat hij de stad te onveilig vond voor zijn kinderen.
-   c) Omdat hij niet van muziek houdt.
-   d) Omdat hij meer zon wilde.
+1. Waarom verhuisde Brihang uit Brussel?
+   a) Omdat hij een nieuw huis wilde
+   b) Omdat hij de stad niet goed vond voor zijn kinderen
+   c) Omdat zijn werk daar was
+   d) Omdat hij van weer wilde veranderen
 
-2. Wat betekent 'grijs' in deze tekst?
-   a) De kleur grijs.
-   b) Saai en niet vrolijk.
-   c) Heel modern.
-   d) Erg schoon.
+2. Wat vond hij NIET leuk aan de stad?
+   a) De winkels
+   b) De drukte
+   c) De scholen
+   d) De restaurants
 
 3. Wat doen veel lezers volgens de samenvatting?
-   a) Ze verhuizen direct.
-   b) Ze maken muziek.
-   c) Ze denken na over voor- en nadelen.
-   d) Ze bezoeken de stad.
+   a) Ze verhuizen altijd
+   b) Ze maken de balans op
+   c) Ze worden rappers
+   d) Ze bezoeken Brussel
 
 #### Antwoorden
 1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. Brihang verhuisde omdat hij de stad leuk vond.
-2. Hij vond de stad te druk en te onveilig.
+1. Brihang is een rapper.
+2. Hij vond de stad heel veilig en rustig.
 3. Alleen Brihang denkt na over opvoeden in de stad.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
+1. Waar
+2. Niet Waar
 3. Niet Waar
 ---
 
@@ -62,206 +62,206 @@
 [Lees het originele artikel](https://www.standaard.be/binnenland/wel-of-niet-kinderen-opvoeden-in-een-grootstad-wij-zouden-ongelukkig-worden-als-we-de-stad-zouden-moeten-opgeven/94922785.html)
 
 ## Samenvatting
-Brihang is een hiphopper. Hij is met zijn gezin weggegaan uit Brussel. Hij twijfelde of een grote stad wel een goede plek is voor kinderen. Hij vond de stad te onveilig, te druk en te grijs. Veel lezers denken hier ook over na als ze kinderen krijgen.
+De rapper Brihang is met zijn gezin uit Brussel verhuisd. Hij dacht dat de stad niet goed was voor zijn kinderen. Hij vond de stad te onveilig, te druk en te grijs. Veel lezers denken hier ook over na als ze kinderen krijgen.
 
 ## Woordenschatuitbreiding
 
-### Woordlijst
+### Woordenschatlijst
 | Woord | Definitie |
 |-------|-----------|
-| **hiphopper** | een artiest die hiphop muziek maakt |
-| **twijfelen** | niet zeker weten of iets goed of fout is |
-| **onveilig** | niet veilig, er kan gevaar zijn |
-| **grijs** | saai, zonder kleur of vrolijkheid |
+| **opvoeden** | kinderen leren hoe ze zich moeten gedragen |
+| **grootstad** | een hele grote en drukke stad |
+| **ongelukkig** | verdrietig zijn, je niet blij voelen |
+| **twijfelen** | niet zeker weten of iets goed is |
 | **balans opmaken** | nadenken over de voor- en nadelen |
 
 ### Vul-in-de-leegte
-1. Brihang is een _____ en hij is verhuisd uit Brussel.
-2. Hij vond de stad te druk en te _____ voor zijn kinderen.
-3. Veel ouders _____ of een grote stad goed is voor kinderen.
+1. Brihang is verhuisd omdat hij ___ of de stad goed was voor zijn kinderen.
+2. Hij vond de stad te druk en te ___.
+3. Veel mensen ___ de balans op als ze een gezin beginnen.
 
 #### Oplossingen
-1. hiphopper
+1. twijfelde
 2. grijs
-3. twijfelen
+3. maken
 
 ### Meerkeuzevragen
-1. Waarom verliet Brihang de stad?
-   a) Omdat hij een nieuwe job vond.
-   b) Omdat hij de stad te onveilig vond voor zijn kinderen.
-   c) Omdat hij niet van muziek houdt.
-   d) Omdat hij meer zon wilde.
+1. Waarom verhuisde Brihang uit Brussel?
+   a) Omdat hij een nieuw huis wilde
+   b) Omdat hij de stad niet goed vond voor zijn kinderen
+   c) Omdat zijn werk daar was
+   d) Omdat hij van weer wilde veranderen
 
-2. Wat betekent 'grijs' in deze tekst?
-   a) De kleur grijs.
-   b) Saai en niet vrolijk.
-   c) Heel modern.
-   d) Erg schoon.
+2. Wat vond hij NIET leuk aan de stad?
+   a) De winkels
+   b) De drukte
+   c) De scholen
+   d) De restaurants
 
 3. Wat doen veel lezers volgens de samenvatting?
-   a) Ze verhuizen direct.
-   b) Ze maken muziek.
-   c) Ze denken na over voor- en nadelen.
-   d) Ze bezoeken de stad.
+   a) Ze verhuizen altijd
+   b) Ze maken de balans op
+   c) Ze worden rappers
+   d) Ze bezoeken Brussel
 
 #### Antwoorden
 1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. Brihang verhuisde omdat hij de stad leuk vond.
-2. Hij vond de stad te druk en te onveilig.
+1. Brihang is een rapper.
+2. Hij vond de stad heel veilig en rustig.
 3. Alleen Brihang denkt na over opvoeden in de stad.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
+1. Waar
+2. Niet Waar
 3. Niet Waar
 ---
 
 ## Woordenschatuitbreiding
-### Woordlijst
+### Woordenschatlijst
 | Woord | Definitie |
 |-------|-----------|
-| **hiphopper** | een artiest die hiphop muziek maakt |
-| **twijfelen** | niet zeker weten of iets goed of fout is |
-| **onveilig** | niet veilig, er kan gevaar zijn |
-| **grijs** | saai, zonder kleur of vrolijkheid |
+| **opvoeden** | kinderen leren hoe ze zich moeten gedragen |
+| **grootstad** | een hele grote en drukke stad |
+| **ongelukkig** | verdrietig zijn, je niet blij voelen |
+| **twijfelen** | niet zeker weten of iets goed is |
 | **balans opmaken** | nadenken over de voor- en nadelen |
 
 ### Vul-in-de-leegte
-1. Brihang is een _____ en hij is verhuisd uit Brussel.
-2. Hij vond de stad te druk en te _____ voor zijn kinderen.
-3. Veel ouders _____ of een grote stad goed is voor kinderen.
+1. Brihang is verhuisd omdat hij ___ of de stad goed was voor zijn kinderen.
+2. Hij vond de stad te druk en te ___.
+3. Veel mensen ___ de balans op als ze een gezin beginnen.
 
 #### Oplossingen
-1. hiphopper
+1. twijfelde
 2. grijs
-3. twijfelen
+3. maken
 
 ### Meerkeuzevragen
-1. Waarom verliet Brihang de stad?
-   a) Omdat hij een nieuwe job vond.
-   b) Omdat hij de stad te onveilig vond voor zijn kinderen.
-   c) Omdat hij niet van muziek houdt.
-   d) Omdat hij meer zon wilde.
+1. Waarom verhuisde Brihang uit Brussel?
+   a) Omdat hij een nieuw huis wilde
+   b) Omdat hij de stad niet goed vond voor zijn kinderen
+   c) Omdat zijn werk daar was
+   d) Omdat hij van weer wilde veranderen
 
-2. Wat betekent 'grijs' in deze tekst?
-   a) De kleur grijs.
-   b) Saai en niet vrolijk.
-   c) Heel modern.
-   d) Erg schoon.
+2. Wat vond hij NIET leuk aan de stad?
+   a) De winkels
+   b) De drukte
+   c) De scholen
+   d) De restaurants
 
 3. Wat doen veel lezers volgens de samenvatting?
-   a) Ze verhuizen direct.
-   b) Ze maken muziek.
-   c) Ze denken na over voor- en nadelen.
-   d) Ze bezoeken de stad.
+   a) Ze verhuizen altijd
+   b) Ze maken de balans op
+   c) Ze worden rappers
+   d) Ze bezoeken Brussel
 
 #### Antwoorden
 1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. Brihang verhuisde omdat hij de stad leuk vond.
-2. Hij vond de stad te druk en te onveilig.
+1. Brihang is een rapper.
+2. Hij vond de stad heel veilig en rustig.
 3. Alleen Brihang denkt na over opvoeden in de stad.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
+1. Waar
+2. Niet Waar
 3. Niet Waar
 ---
 
 ## Vul-in-de-leegte
-1. Brihang is een _____ en hij is verhuisd uit Brussel.
-2. Hij vond de stad te druk en te _____ voor zijn kinderen.
-3. Veel ouders _____ of een grote stad goed is voor kinderen.
+1. Brihang is verhuisd omdat hij ___ of de stad goed was voor zijn kinderen.
+2. Hij vond de stad te druk en te ___.
+3. Veel mensen ___ de balans op als ze een gezin beginnen.
 
 #### Oplossingen
-1. hiphopper
+1. twijfelde
 2. grijs
-3. twijfelen
+3. maken
 
 ### Meerkeuzevragen
-1. Waarom verliet Brihang de stad?
-   a) Omdat hij een nieuwe job vond.
-   b) Omdat hij de stad te onveilig vond voor zijn kinderen.
-   c) Omdat hij niet van muziek houdt.
-   d) Omdat hij meer zon wilde.
+1. Waarom verhuisde Brihang uit Brussel?
+   a) Omdat hij een nieuw huis wilde
+   b) Omdat hij de stad niet goed vond voor zijn kinderen
+   c) Omdat zijn werk daar was
+   d) Omdat hij van weer wilde veranderen
 
-2. Wat betekent 'grijs' in deze tekst?
-   a) De kleur grijs.
-   b) Saai en niet vrolijk.
-   c) Heel modern.
-   d) Erg schoon.
+2. Wat vond hij NIET leuk aan de stad?
+   a) De winkels
+   b) De drukte
+   c) De scholen
+   d) De restaurants
 
 3. Wat doen veel lezers volgens de samenvatting?
-   a) Ze verhuizen direct.
-   b) Ze maken muziek.
-   c) Ze denken na over voor- en nadelen.
-   d) Ze bezoeken de stad.
+   a) Ze verhuizen altijd
+   b) Ze maken de balans op
+   c) Ze worden rappers
+   d) Ze bezoeken Brussel
 
 #### Antwoorden
 1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. Brihang verhuisde omdat hij de stad leuk vond.
-2. Hij vond de stad te druk en te onveilig.
+1. Brihang is een rapper.
+2. Hij vond de stad heel veilig en rustig.
 3. Alleen Brihang denkt na over opvoeden in de stad.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
+1. Waar
+2. Niet Waar
 3. Niet Waar
 ---
 
 ## Meerkeuzevragen
-1. Waarom verliet Brihang de stad?
-   a) Omdat hij een nieuwe job vond.
-   b) Omdat hij de stad te onveilig vond voor zijn kinderen.
-   c) Omdat hij niet van muziek houdt.
-   d) Omdat hij meer zon wilde.
+1. Waarom verhuisde Brihang uit Brussel?
+   a) Omdat hij een nieuw huis wilde
+   b) Omdat hij de stad niet goed vond voor zijn kinderen
+   c) Omdat zijn werk daar was
+   d) Omdat hij van weer wilde veranderen
 
-2. Wat betekent 'grijs' in deze tekst?
-   a) De kleur grijs.
-   b) Saai en niet vrolijk.
-   c) Heel modern.
-   d) Erg schoon.
+2. Wat vond hij NIET leuk aan de stad?
+   a) De winkels
+   b) De drukte
+   c) De scholen
+   d) De restaurants
 
 3. Wat doen veel lezers volgens de samenvatting?
-   a) Ze verhuizen direct.
-   b) Ze maken muziek.
-   c) Ze denken na over voor- en nadelen.
-   d) Ze bezoeken de stad.
+   a) Ze verhuizen altijd
+   b) Ze maken de balans op
+   c) Ze worden rappers
+   d) Ze bezoeken Brussel
 
 #### Antwoorden
 1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. Brihang verhuisde omdat hij de stad leuk vond.
-2. Hij vond de stad te druk en te onveilig.
+1. Brihang is een rapper.
+2. Hij vond de stad heel veilig en rustig.
 3. Alleen Brihang denkt na over opvoeden in de stad.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
+1. Waar
+2. Niet Waar
 3. Niet Waar
 ---
 
 ## Waar / Niet waar
-1. Brihang verhuisde omdat hij de stad leuk vond.
-2. Hij vond de stad te druk en te onveilig.
+1. Brihang is een rapper.
+2. Hij vond de stad heel veilig en rustig.
 3. Alleen Brihang denkt na over opvoeden in de stad.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
+1. Waar
+2. Niet Waar
 3. Niet Waar
 ---

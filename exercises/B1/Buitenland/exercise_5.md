@@ -1,267 +1,267 @@
-# Mensen in Gaza hebben weer hoop op vrede
+# Sanae Takaichi wordt de eerste vrouwelijke premier van Japan
 
-**Samenvatting:** Mensen in Gaza hopen voor het eerst in lange tijd weer op rust en vrede. De groep Hamas zegt ja tegen een deel van het vredesplan van Trump. Iemand zegt: "Ik hoop dat het waar is wat we horen, en dat de oorlog echt over is."
+**Samenvatting:** De grootste politieke partij van Japan heeft een nieuwe leider gekozen. De nieuwe leider is een vrouw, Sanae Takaichi. Omdat haar partij de grootste is, wordt zij waarschijnlijk de nieuwe premier. Zij is dan de eerste vrouw in die functie.
 
 ## Woordenschatuitbreiding
 
-### Woordlijst
+### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **hoop** | het gevoel dat iets goed gaat komen |
-| **vrede** | een tijd zonder ruzie of oorlog |
-| **goedkeuren** | zeggen dat je het ergens mee eens bent |
-| **oorlog** | een tijd met veel geweld en vechten tussen landen of groepen |
-| **voorstel** | een plan dat je aan anderen laat horen |
+| **partij** | een groep mensen met dezelfde ideeën over politiek |
+| **leider** | de belangrijkste persoon; de baas |
+| **premier** | de leider van de regering van een land |
+| **verkozen** | gekozen door te stemmen |
+| **functie** | een baan of een belangrijke taak |
 
 ### Vul-in-de-leegte
-1. De mensen waren blij en hadden ___ op een betere toekomst.
-2. De twee landen willen graag ___ sluiten en niet meer vechten.
-3. De leiders moeten het plan eerst ___ voordat het doorgaat.
+1. De politieke _____ heeft een nieuwe leider gekozen.
+2. Zij is _____ tot nieuwe leider van de partij.
+3. De _____ is de baas van de regering.
 
 #### Oplossingen
-1. hoop
-2. vrede
-3. goedkeuren
+1. partij
+2. verkozen
+3. premier
 
 ### Meerkeuzevragen
-1. Wat betekent 'hoop hebben'?
-   a) heel veel geld hebben
-   b) bang zijn voor de toekomst
-   c) geloven dat iets goed komt
-   d) een plan maken
+1. Wat is een 'partij' in de politiek?
+   a) Een feestje
+   b) Een groep mensen met dezelfde ideeën
+   c) Een soort restaurant
+   d) Een sportteam
 
-2. Wat is een 'oorlog'?
-   a) een feestelijke viering
-   b) een tijd met veel vechten en geweld
-   c) een rustige vakantie
-   d) een belangrijke vergadering
+2. Wat gebeurt er als je wordt 'verkozen'?
+   a) Je wordt verkocht in een winkel.
+   b) Mensen stemmen voor jou.
+   c) Je gaat op vakantie.
+   d) Je verft een muur.
 
-3. Wat doe je als je iets 'goedkeurt'?
-   a) je bent het er niet mee eens
-   b) je zegt dat het goed is en je ermee akkoord gaat
-   c) je maakt het kapot
-   d) je vergeet het
+3. Wie is de premier?
+   a) De baas van een school.
+   b) De leider van de regering.
+   c) De koning van een land.
+   d) De eigenaar van een bedrijf.
 
 #### Antwoorden
-1. c) geloven dat iets goed komt
-2. b) een tijd met veel vechten en geweld
-3. b) je zegt dat het goed is en je ermee akkoord gaat
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Mensen in Gaza zijn hoopvol omdat er misschien vrede komt.
-2. De groep Hamas keurt het hele plan van Trump goed.
-3. Iemand hoopt dat de oorlog voorbij is.
+1. Sanae Takaichi is een man.
+2. Haar partij is de grootste van Japan.
+3. Japan heeft al eerder een vrouwelijke premier gehad.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar (ze keuren alleen een deel goed)
-3. Waar
+1. Niet Waar
+2. Waar
+3. Niet Waar
 ---
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/3su7ha-532.jpeg/alternates/BASE_SIXTEEN_NINE/532.jpeg)  
-[Lees het originele artikel](https://www.standaard.be/buitenland/palestijnen-in-gaza-voor-het-eerst-in-lange-tijd-weer-hoopvol-godzijdank-hebben-ze-ingestemd-met-het-voorstel-van-trump/95086346.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/8la5ib-japans-ruling-ldp-picks-takaichi-as-new-leader/alternates/BASE_SIXTEEN_NINE/Japans%20ruling%20LDP%20picks%20Takaichi%20as%20new%20leader)  
+[Lees het originele artikel](https://www.standaard.be/buitenland/sanae-takaichi-wordt-eerste-vrouwelijke-premier-van-japan/95095416.html)
 
 ## Samenvatting
-Mensen in Gaza hopen voor het eerst in lange tijd weer op rust en vrede. De groep Hamas zegt ja tegen een deel van het vredesplan van Trump. Iemand zegt: "Ik hoop dat het waar is wat we horen, en dat de oorlog echt over is."
+De grootste politieke partij van Japan heeft een nieuwe leider gekozen. De nieuwe leider is een vrouw, Sanae Takaichi. Omdat haar partij de grootste is, wordt zij waarschijnlijk de nieuwe premier. Zij is dan de eerste vrouw in die functie.
 
 ## Woordenschatuitbreiding
 
-### Woordlijst
+### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **hoop** | het gevoel dat iets goed gaat komen |
-| **vrede** | een tijd zonder ruzie of oorlog |
-| **goedkeuren** | zeggen dat je het ergens mee eens bent |
-| **oorlog** | een tijd met veel geweld en vechten tussen landen of groepen |
-| **voorstel** | een plan dat je aan anderen laat horen |
+| **partij** | een groep mensen met dezelfde ideeën over politiek |
+| **leider** | de belangrijkste persoon; de baas |
+| **premier** | de leider van de regering van een land |
+| **verkozen** | gekozen door te stemmen |
+| **functie** | een baan of een belangrijke taak |
 
 ### Vul-in-de-leegte
-1. De mensen waren blij en hadden ___ op een betere toekomst.
-2. De twee landen willen graag ___ sluiten en niet meer vechten.
-3. De leiders moeten het plan eerst ___ voordat het doorgaat.
+1. De politieke _____ heeft een nieuwe leider gekozen.
+2. Zij is _____ tot nieuwe leider van de partij.
+3. De _____ is de baas van de regering.
 
 #### Oplossingen
-1. hoop
-2. vrede
-3. goedkeuren
+1. partij
+2. verkozen
+3. premier
 
 ### Meerkeuzevragen
-1. Wat betekent 'hoop hebben'?
-   a) heel veel geld hebben
-   b) bang zijn voor de toekomst
-   c) geloven dat iets goed komt
-   d) een plan maken
+1. Wat is een 'partij' in de politiek?
+   a) Een feestje
+   b) Een groep mensen met dezelfde ideeën
+   c) Een soort restaurant
+   d) Een sportteam
 
-2. Wat is een 'oorlog'?
-   a) een feestelijke viering
-   b) een tijd met veel vechten en geweld
-   c) een rustige vakantie
-   d) een belangrijke vergadering
+2. Wat gebeurt er als je wordt 'verkozen'?
+   a) Je wordt verkocht in een winkel.
+   b) Mensen stemmen voor jou.
+   c) Je gaat op vakantie.
+   d) Je verft een muur.
 
-3. Wat doe je als je iets 'goedkeurt'?
-   a) je bent het er niet mee eens
-   b) je zegt dat het goed is en je ermee akkoord gaat
-   c) je maakt het kapot
-   d) je vergeet het
+3. Wie is de premier?
+   a) De baas van een school.
+   b) De leider van de regering.
+   c) De koning van een land.
+   d) De eigenaar van een bedrijf.
 
 #### Antwoorden
-1. c) geloven dat iets goed komt
-2. b) een tijd met veel vechten en geweld
-3. b) je zegt dat het goed is en je ermee akkoord gaat
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Mensen in Gaza zijn hoopvol omdat er misschien vrede komt.
-2. De groep Hamas keurt het hele plan van Trump goed.
-3. Iemand hoopt dat de oorlog voorbij is.
+1. Sanae Takaichi is een man.
+2. Haar partij is de grootste van Japan.
+3. Japan heeft al eerder een vrouwelijke premier gehad.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar (ze keuren alleen een deel goed)
-3. Waar
+1. Niet Waar
+2. Waar
+3. Niet Waar
 ---
 
 ## Woordenschatuitbreiding
-### Woordlijst
+### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **hoop** | het gevoel dat iets goed gaat komen |
-| **vrede** | een tijd zonder ruzie of oorlog |
-| **goedkeuren** | zeggen dat je het ergens mee eens bent |
-| **oorlog** | een tijd met veel geweld en vechten tussen landen of groepen |
-| **voorstel** | een plan dat je aan anderen laat horen |
+| **partij** | een groep mensen met dezelfde ideeën over politiek |
+| **leider** | de belangrijkste persoon; de baas |
+| **premier** | de leider van de regering van een land |
+| **verkozen** | gekozen door te stemmen |
+| **functie** | een baan of een belangrijke taak |
 
 ### Vul-in-de-leegte
-1. De mensen waren blij en hadden ___ op een betere toekomst.
-2. De twee landen willen graag ___ sluiten en niet meer vechten.
-3. De leiders moeten het plan eerst ___ voordat het doorgaat.
+1. De politieke _____ heeft een nieuwe leider gekozen.
+2. Zij is _____ tot nieuwe leider van de partij.
+3. De _____ is de baas van de regering.
 
 #### Oplossingen
-1. hoop
-2. vrede
-3. goedkeuren
+1. partij
+2. verkozen
+3. premier
 
 ### Meerkeuzevragen
-1. Wat betekent 'hoop hebben'?
-   a) heel veel geld hebben
-   b) bang zijn voor de toekomst
-   c) geloven dat iets goed komt
-   d) een plan maken
+1. Wat is een 'partij' in de politiek?
+   a) Een feestje
+   b) Een groep mensen met dezelfde ideeën
+   c) Een soort restaurant
+   d) Een sportteam
 
-2. Wat is een 'oorlog'?
-   a) een feestelijke viering
-   b) een tijd met veel vechten en geweld
-   c) een rustige vakantie
-   d) een belangrijke vergadering
+2. Wat gebeurt er als je wordt 'verkozen'?
+   a) Je wordt verkocht in een winkel.
+   b) Mensen stemmen voor jou.
+   c) Je gaat op vakantie.
+   d) Je verft een muur.
 
-3. Wat doe je als je iets 'goedkeurt'?
-   a) je bent het er niet mee eens
-   b) je zegt dat het goed is en je ermee akkoord gaat
-   c) je maakt het kapot
-   d) je vergeet het
+3. Wie is de premier?
+   a) De baas van een school.
+   b) De leider van de regering.
+   c) De koning van een land.
+   d) De eigenaar van een bedrijf.
 
 #### Antwoorden
-1. c) geloven dat iets goed komt
-2. b) een tijd met veel vechten en geweld
-3. b) je zegt dat het goed is en je ermee akkoord gaat
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Mensen in Gaza zijn hoopvol omdat er misschien vrede komt.
-2. De groep Hamas keurt het hele plan van Trump goed.
-3. Iemand hoopt dat de oorlog voorbij is.
+1. Sanae Takaichi is een man.
+2. Haar partij is de grootste van Japan.
+3. Japan heeft al eerder een vrouwelijke premier gehad.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar (ze keuren alleen een deel goed)
-3. Waar
+1. Niet Waar
+2. Waar
+3. Niet Waar
 ---
 
 ## Vul-in-de-leegte
-1. De mensen waren blij en hadden ___ op een betere toekomst.
-2. De twee landen willen graag ___ sluiten en niet meer vechten.
-3. De leiders moeten het plan eerst ___ voordat het doorgaat.
+1. De politieke _____ heeft een nieuwe leider gekozen.
+2. Zij is _____ tot nieuwe leider van de partij.
+3. De _____ is de baas van de regering.
 
 #### Oplossingen
-1. hoop
-2. vrede
-3. goedkeuren
+1. partij
+2. verkozen
+3. premier
 
 ### Meerkeuzevragen
-1. Wat betekent 'hoop hebben'?
-   a) heel veel geld hebben
-   b) bang zijn voor de toekomst
-   c) geloven dat iets goed komt
-   d) een plan maken
+1. Wat is een 'partij' in de politiek?
+   a) Een feestje
+   b) Een groep mensen met dezelfde ideeën
+   c) Een soort restaurant
+   d) Een sportteam
 
-2. Wat is een 'oorlog'?
-   a) een feestelijke viering
-   b) een tijd met veel vechten en geweld
-   c) een rustige vakantie
-   d) een belangrijke vergadering
+2. Wat gebeurt er als je wordt 'verkozen'?
+   a) Je wordt verkocht in een winkel.
+   b) Mensen stemmen voor jou.
+   c) Je gaat op vakantie.
+   d) Je verft een muur.
 
-3. Wat doe je als je iets 'goedkeurt'?
-   a) je bent het er niet mee eens
-   b) je zegt dat het goed is en je ermee akkoord gaat
-   c) je maakt het kapot
-   d) je vergeet het
+3. Wie is de premier?
+   a) De baas van een school.
+   b) De leider van de regering.
+   c) De koning van een land.
+   d) De eigenaar van een bedrijf.
 
 #### Antwoorden
-1. c) geloven dat iets goed komt
-2. b) een tijd met veel vechten en geweld
-3. b) je zegt dat het goed is en je ermee akkoord gaat
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Mensen in Gaza zijn hoopvol omdat er misschien vrede komt.
-2. De groep Hamas keurt het hele plan van Trump goed.
-3. Iemand hoopt dat de oorlog voorbij is.
+1. Sanae Takaichi is een man.
+2. Haar partij is de grootste van Japan.
+3. Japan heeft al eerder een vrouwelijke premier gehad.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar (ze keuren alleen een deel goed)
-3. Waar
+1. Niet Waar
+2. Waar
+3. Niet Waar
 ---
 
 ## Meerkeuzevragen
-1. Wat betekent 'hoop hebben'?
-   a) heel veel geld hebben
-   b) bang zijn voor de toekomst
-   c) geloven dat iets goed komt
-   d) een plan maken
+1. Wat is een 'partij' in de politiek?
+   a) Een feestje
+   b) Een groep mensen met dezelfde ideeën
+   c) Een soort restaurant
+   d) Een sportteam
 
-2. Wat is een 'oorlog'?
-   a) een feestelijke viering
-   b) een tijd met veel vechten en geweld
-   c) een rustige vakantie
-   d) een belangrijke vergadering
+2. Wat gebeurt er als je wordt 'verkozen'?
+   a) Je wordt verkocht in een winkel.
+   b) Mensen stemmen voor jou.
+   c) Je gaat op vakantie.
+   d) Je verft een muur.
 
-3. Wat doe je als je iets 'goedkeurt'?
-   a) je bent het er niet mee eens
-   b) je zegt dat het goed is en je ermee akkoord gaat
-   c) je maakt het kapot
-   d) je vergeet het
+3. Wie is de premier?
+   a) De baas van een school.
+   b) De leider van de regering.
+   c) De koning van een land.
+   d) De eigenaar van een bedrijf.
 
 #### Antwoorden
-1. c) geloven dat iets goed komt
-2. b) een tijd met veel vechten en geweld
-3. b) je zegt dat het goed is en je ermee akkoord gaat
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Mensen in Gaza zijn hoopvol omdat er misschien vrede komt.
-2. De groep Hamas keurt het hele plan van Trump goed.
-3. Iemand hoopt dat de oorlog voorbij is.
+1. Sanae Takaichi is een man.
+2. Haar partij is de grootste van Japan.
+3. Japan heeft al eerder een vrouwelijke premier gehad.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar (ze keuren alleen een deel goed)
-3. Waar
+1. Niet Waar
+2. Waar
+3. Niet Waar
 ---
 
 ## Waar / Niet waar
-1. Mensen in Gaza zijn hoopvol omdat er misschien vrede komt.
-2. De groep Hamas keurt het hele plan van Trump goed.
-3. Iemand hoopt dat de oorlog voorbij is.
+1. Sanae Takaichi is een man.
+2. Haar partij is de grootste van Japan.
+3. Japan heeft al eerder een vrouwelijke premier gehad.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar (ze keuren alleen een deel goed)
-3. Waar
+1. Niet Waar
+2. Waar
+3. Niet Waar
 ---

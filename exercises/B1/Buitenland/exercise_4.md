@@ -1,267 +1,267 @@
-# Sanae Takaichi wordt de eerste vrouwelijke leider van Japan
+# Man opgepakt na ongeluk met drone bij vliegveld Frankfurt
 
-**Samenvatting:** De grootste politieke partij van Japan heeft een nieuwe leider gekozen. De nieuwe leider is een vrouw, Sanae Takaichi. Omdat haar partij de grootste is, wordt zij waarschijnlijk de nieuwe premier. Zij is dan de eerste vrouw die deze belangrijke baan in Japan krijgt.
+**Samenvatting:** In Duitsland heeft de politie een man opgepakt. De man liet vrijdag een drone vliegen dicht bij het vliegveld van Frankfurt. De politie heeft dit zaterdag gezegd.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordlijst
 | Woord | Definitie |
 |-------|-----------|
-| **premier** | de leider van de regering van een land |
-| **partij** | een groep mensen met dezelfde ideeën over politiek |
-| **leider** | de belangrijkste persoon; de baas |
-| **verkozen** | gekozen door middel van stemmen |
-| **vrouwelijk** | van of voor een vrouw |
+| **opgepakt** | vastgehouden door de politie |
+| **drone** | een klein vliegend toestel zonder piloot, bestuurd op afstand |
+| **vliegveld** | een plaats waar vliegtuigen opstijgen en landen |
+| **incident** | een gebeurtenis of ongeluk |
+| **bevestigd** | gezegd dat het waar is |
 
 ### Vul-in-de-leegte
-1. De politieke _____ heeft een nieuwe leider gekozen.
-2. Sanae Takaichi wordt waarschijnlijk de nieuwe _____ van Japan.
-3. Zij is de eerste _____ leider van het land.
+1.  De politie heeft de man _____ omdat hij te dicht bij het vliegveld vloog.
+2.  Een _____ is een klein vliegtuigje zonder piloot.
+3.  Het _____ gebeurde op vrijdag.
 
 #### Oplossingen
-1. partij
-2. premier
-3. vrouwelijke
+1.  opgepakt
+2.  drone
+3.  incident
 
 ### Meerkeuzevragen
-1. Wie is Sanae Takaichi?
-   a) Een koningin
-   b) De nieuwe leider van een politieke partij
-   c) Een journalist
-   d) Een voetballer
+1.  Waarom werd de man opgepakt?
+    a) Hij was te snel aan het rijden.
+    b) Hij vloog met een drone bij het vliegveld.
+    c) Hij verloor zijn paspoort.
+    d) Hij was zijn hond kwijt.
 
-2. Wat is bijzonder aan haar nieuwe baan?
-   a) Ze krijgt een heel hoog salaris.
-   b) Ze is de eerste vrouw die deze baan krijgt.
-   c) Ze gaat in een ander land werken.
-   d) Ze is heel jong.
+2.  Wat is een drone?
+    a) Een soort auto.
+    b) Een groot vliegtuig met piloot.
+    c) Een klein onbemand vliegtuigje.
+    d) Een boot.
 
-3. Wat is de LDP?
-   a) Een Japanse stad.
-   b) Een belangrijke politieke partij in Japan.
-   c) Een televisieprogramma.
-   d) De naam van een vliegtuig.
+3.  Wanneer bevestigde de politie het nieuws?
+    a) Op donderdag.
+    b) Op vrijdag.
+    c) Op zaterdag.
+    d) Op zondag.
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1.  b
+2.  c
+3.  c
 
 ### Waar / Niet Waar
-1. Sanae Takaichi is een man.
-2. Haar partij is de grootste van Japan.
-3. Zij is de tiende vrouwelijke premier van Japan.
+1.  De man is opgepakt in Nederland.
+2.  Het incident gebeurde op een zaterdag.
+3.  De politie heeft het nieuws bevestigd.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1.  Niet Waar
+2.  Niet Waar
+3.  Waar
 ---
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/8la5ib-japans-ruling-ldp-picks-takaichi-as-new-leader/alternates/BASE_SIXTEEN_NINE/Japans%20ruling%20LDP%20picks%20Takaichi%20as%20new%20leader)  
-[Lees het originele artikel](https://www.standaard.be/buitenland/sanae-takaichi-wordt-eerste-vrouwelijke-premier-van-japan/95095416.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/fpvhk5-lufthansa-job-reductions/alternates/BASE_SIXTEEN_NINE/Lufthansa-Job%20Reductions)  
+[Lees het originele artikel](https://www.standaard.be/buitenland/man-opgepakt-na-incident-met-drone-bij-luchthaven-frankfurt/95107447.html)
 
 ## Samenvatting
-De grootste politieke partij van Japan heeft een nieuwe leider gekozen. De nieuwe leider is een vrouw, Sanae Takaichi. Omdat haar partij de grootste is, wordt zij waarschijnlijk de nieuwe premier. Zij is dan de eerste vrouw die deze belangrijke baan in Japan krijgt.
+In Duitsland heeft de politie een man opgepakt. De man liet vrijdag een drone vliegen dicht bij het vliegveld van Frankfurt. De politie heeft dit zaterdag gezegd.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordlijst
 | Woord | Definitie |
 |-------|-----------|
-| **premier** | de leider van de regering van een land |
-| **partij** | een groep mensen met dezelfde ideeën over politiek |
-| **leider** | de belangrijkste persoon; de baas |
-| **verkozen** | gekozen door middel van stemmen |
-| **vrouwelijk** | van of voor een vrouw |
+| **opgepakt** | vastgehouden door de politie |
+| **drone** | een klein vliegend toestel zonder piloot, bestuurd op afstand |
+| **vliegveld** | een plaats waar vliegtuigen opstijgen en landen |
+| **incident** | een gebeurtenis of ongeluk |
+| **bevestigd** | gezegd dat het waar is |
 
 ### Vul-in-de-leegte
-1. De politieke _____ heeft een nieuwe leider gekozen.
-2. Sanae Takaichi wordt waarschijnlijk de nieuwe _____ van Japan.
-3. Zij is de eerste _____ leider van het land.
+1.  De politie heeft de man _____ omdat hij te dicht bij het vliegveld vloog.
+2.  Een _____ is een klein vliegtuigje zonder piloot.
+3.  Het _____ gebeurde op vrijdag.
 
 #### Oplossingen
-1. partij
-2. premier
-3. vrouwelijke
+1.  opgepakt
+2.  drone
+3.  incident
 
 ### Meerkeuzevragen
-1. Wie is Sanae Takaichi?
-   a) Een koningin
-   b) De nieuwe leider van een politieke partij
-   c) Een journalist
-   d) Een voetballer
+1.  Waarom werd de man opgepakt?
+    a) Hij was te snel aan het rijden.
+    b) Hij vloog met een drone bij het vliegveld.
+    c) Hij verloor zijn paspoort.
+    d) Hij was zijn hond kwijt.
 
-2. Wat is bijzonder aan haar nieuwe baan?
-   a) Ze krijgt een heel hoog salaris.
-   b) Ze is de eerste vrouw die deze baan krijgt.
-   c) Ze gaat in een ander land werken.
-   d) Ze is heel jong.
+2.  Wat is een drone?
+    a) Een soort auto.
+    b) Een groot vliegtuig met piloot.
+    c) Een klein onbemand vliegtuigje.
+    d) Een boot.
 
-3. Wat is de LDP?
-   a) Een Japanse stad.
-   b) Een belangrijke politieke partij in Japan.
-   c) Een televisieprogramma.
-   d) De naam van een vliegtuig.
+3.  Wanneer bevestigde de politie het nieuws?
+    a) Op donderdag.
+    b) Op vrijdag.
+    c) Op zaterdag.
+    d) Op zondag.
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1.  b
+2.  c
+3.  c
 
 ### Waar / Niet Waar
-1. Sanae Takaichi is een man.
-2. Haar partij is de grootste van Japan.
-3. Zij is de tiende vrouwelijke premier van Japan.
+1.  De man is opgepakt in Nederland.
+2.  Het incident gebeurde op een zaterdag.
+3.  De politie heeft het nieuws bevestigd.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1.  Niet Waar
+2.  Niet Waar
+3.  Waar
 ---
 
 ## Woordenschatuitbreiding
-### Woordenlijst
+### Woordlijst
 | Woord | Definitie |
 |-------|-----------|
-| **premier** | de leider van de regering van een land |
-| **partij** | een groep mensen met dezelfde ideeën over politiek |
-| **leider** | de belangrijkste persoon; de baas |
-| **verkozen** | gekozen door middel van stemmen |
-| **vrouwelijk** | van of voor een vrouw |
+| **opgepakt** | vastgehouden door de politie |
+| **drone** | een klein vliegend toestel zonder piloot, bestuurd op afstand |
+| **vliegveld** | een plaats waar vliegtuigen opstijgen en landen |
+| **incident** | een gebeurtenis of ongeluk |
+| **bevestigd** | gezegd dat het waar is |
 
 ### Vul-in-de-leegte
-1. De politieke _____ heeft een nieuwe leider gekozen.
-2. Sanae Takaichi wordt waarschijnlijk de nieuwe _____ van Japan.
-3. Zij is de eerste _____ leider van het land.
+1.  De politie heeft de man _____ omdat hij te dicht bij het vliegveld vloog.
+2.  Een _____ is een klein vliegtuigje zonder piloot.
+3.  Het _____ gebeurde op vrijdag.
 
 #### Oplossingen
-1. partij
-2. premier
-3. vrouwelijke
+1.  opgepakt
+2.  drone
+3.  incident
 
 ### Meerkeuzevragen
-1. Wie is Sanae Takaichi?
-   a) Een koningin
-   b) De nieuwe leider van een politieke partij
-   c) Een journalist
-   d) Een voetballer
+1.  Waarom werd de man opgepakt?
+    a) Hij was te snel aan het rijden.
+    b) Hij vloog met een drone bij het vliegveld.
+    c) Hij verloor zijn paspoort.
+    d) Hij was zijn hond kwijt.
 
-2. Wat is bijzonder aan haar nieuwe baan?
-   a) Ze krijgt een heel hoog salaris.
-   b) Ze is de eerste vrouw die deze baan krijgt.
-   c) Ze gaat in een ander land werken.
-   d) Ze is heel jong.
+2.  Wat is een drone?
+    a) Een soort auto.
+    b) Een groot vliegtuig met piloot.
+    c) Een klein onbemand vliegtuigje.
+    d) Een boot.
 
-3. Wat is de LDP?
-   a) Een Japanse stad.
-   b) Een belangrijke politieke partij in Japan.
-   c) Een televisieprogramma.
-   d) De naam van een vliegtuig.
+3.  Wanneer bevestigde de politie het nieuws?
+    a) Op donderdag.
+    b) Op vrijdag.
+    c) Op zaterdag.
+    d) Op zondag.
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1.  b
+2.  c
+3.  c
 
 ### Waar / Niet Waar
-1. Sanae Takaichi is een man.
-2. Haar partij is de grootste van Japan.
-3. Zij is de tiende vrouwelijke premier van Japan.
+1.  De man is opgepakt in Nederland.
+2.  Het incident gebeurde op een zaterdag.
+3.  De politie heeft het nieuws bevestigd.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1.  Niet Waar
+2.  Niet Waar
+3.  Waar
 ---
 
 ## Vul-in-de-leegte
-1. De politieke _____ heeft een nieuwe leider gekozen.
-2. Sanae Takaichi wordt waarschijnlijk de nieuwe _____ van Japan.
-3. Zij is de eerste _____ leider van het land.
+1.  De politie heeft de man _____ omdat hij te dicht bij het vliegveld vloog.
+2.  Een _____ is een klein vliegtuigje zonder piloot.
+3.  Het _____ gebeurde op vrijdag.
 
 #### Oplossingen
-1. partij
-2. premier
-3. vrouwelijke
+1.  opgepakt
+2.  drone
+3.  incident
 
 ### Meerkeuzevragen
-1. Wie is Sanae Takaichi?
-   a) Een koningin
-   b) De nieuwe leider van een politieke partij
-   c) Een journalist
-   d) Een voetballer
+1.  Waarom werd de man opgepakt?
+    a) Hij was te snel aan het rijden.
+    b) Hij vloog met een drone bij het vliegveld.
+    c) Hij verloor zijn paspoort.
+    d) Hij was zijn hond kwijt.
 
-2. Wat is bijzonder aan haar nieuwe baan?
-   a) Ze krijgt een heel hoog salaris.
-   b) Ze is de eerste vrouw die deze baan krijgt.
-   c) Ze gaat in een ander land werken.
-   d) Ze is heel jong.
+2.  Wat is een drone?
+    a) Een soort auto.
+    b) Een groot vliegtuig met piloot.
+    c) Een klein onbemand vliegtuigje.
+    d) Een boot.
 
-3. Wat is de LDP?
-   a) Een Japanse stad.
-   b) Een belangrijke politieke partij in Japan.
-   c) Een televisieprogramma.
-   d) De naam van een vliegtuig.
+3.  Wanneer bevestigde de politie het nieuws?
+    a) Op donderdag.
+    b) Op vrijdag.
+    c) Op zaterdag.
+    d) Op zondag.
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1.  b
+2.  c
+3.  c
 
 ### Waar / Niet Waar
-1. Sanae Takaichi is een man.
-2. Haar partij is de grootste van Japan.
-3. Zij is de tiende vrouwelijke premier van Japan.
+1.  De man is opgepakt in Nederland.
+2.  Het incident gebeurde op een zaterdag.
+3.  De politie heeft het nieuws bevestigd.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1.  Niet Waar
+2.  Niet Waar
+3.  Waar
 ---
 
 ## Meerkeuzevragen
-1. Wie is Sanae Takaichi?
-   a) Een koningin
-   b) De nieuwe leider van een politieke partij
-   c) Een journalist
-   d) Een voetballer
+1.  Waarom werd de man opgepakt?
+    a) Hij was te snel aan het rijden.
+    b) Hij vloog met een drone bij het vliegveld.
+    c) Hij verloor zijn paspoort.
+    d) Hij was zijn hond kwijt.
 
-2. Wat is bijzonder aan haar nieuwe baan?
-   a) Ze krijgt een heel hoog salaris.
-   b) Ze is de eerste vrouw die deze baan krijgt.
-   c) Ze gaat in een ander land werken.
-   d) Ze is heel jong.
+2.  Wat is een drone?
+    a) Een soort auto.
+    b) Een groot vliegtuig met piloot.
+    c) Een klein onbemand vliegtuigje.
+    d) Een boot.
 
-3. Wat is de LDP?
-   a) Een Japanse stad.
-   b) Een belangrijke politieke partij in Japan.
-   c) Een televisieprogramma.
-   d) De naam van een vliegtuig.
+3.  Wanneer bevestigde de politie het nieuws?
+    a) Op donderdag.
+    b) Op vrijdag.
+    c) Op zaterdag.
+    d) Op zondag.
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1.  b
+2.  c
+3.  c
 
 ### Waar / Niet Waar
-1. Sanae Takaichi is een man.
-2. Haar partij is de grootste van Japan.
-3. Zij is de tiende vrouwelijke premier van Japan.
+1.  De man is opgepakt in Nederland.
+2.  Het incident gebeurde op een zaterdag.
+3.  De politie heeft het nieuws bevestigd.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1.  Niet Waar
+2.  Niet Waar
+3.  Waar
 ---
 
 ## Waar / Niet waar
-1. Sanae Takaichi is een man.
-2. Haar partij is de grootste van Japan.
-3. Zij is de tiende vrouwelijke premier van Japan.
+1.  De man is opgepakt in Nederland.
+2.  Het incident gebeurde op een zaterdag.
+3.  De politie heeft het nieuws bevestigd.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1.  Niet Waar
+2.  Niet Waar
+3.  Waar
 ---
