@@ -1,267 +1,61 @@
-# Vliegverkeer boven vliegveld Vilnius gestopt vanwege ballonnen
+---
+**Titel:** Bijna duizend klimmers zitten vast op de Mount Everest
 
-**Samenvatting:** Het vliegverkeer boven het vliegveld van Vilnius is korte tijd gestopt. Dit kwam door ballonnen die in de lucht dreven. Deze ballonnen kwamen waarschijnlijk uit een ander land. Ondertussen gaat de oorlog in Oekraïne door. Je kunt een app downloaden om het laatste nieuws hierover te lezen.
+**Samenvatting:** Bijna duizend klimmers zitten vast door een zware sneeuwstorm. Het is moeilijk om contact met ze te krijgen. Er zijn waarschijnlijk ook gewonden.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
+*(Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting)*
 | Woord | Definitie |
 |-------|-----------|
-| **vliegverkeer** | alle vliegtuigen die in de lucht zijn |
-| **vliegveld** | een plaats waar vliegtuigen opstijgen en landen |
-| **ballonnen** | een opgeblazen object van rubber of folie dat in de lucht kan zweven |
-| **waarschijnlijk** | het is bijna zeker, maar je weet het niet 100% |
-| **ontwikkelingen** | veranderingen of nieuwe dingen die gebeuren |
+| **klimmers** | Mensen die bergen beklimmen. |
+| **vastzitten** | Niet meer verder kunnen en niet weg kunnen. |
+| **sneeuwstorm** | Heel harde wind met veel sneeuw. |
+| **contact** | Met iemand praten of iemand bereiken, bijvoorbeeld via de telefoon. |
+| **gewonden** | Mensen die pijn hebben of letsel hebben door een ongeluk. |
 
 ### Vul-in-de-leegte
-1. Het ___ boven Vilnius werd stilgelegd.
-2. Er dreven mysterieuze ___ in de lucht.
-3. De oorlog in Oekraïne heeft veel ___ de afgelopen jaren.
+1. De _________ kunnen niet verder omdat het weer slecht is.
+2. Het is gevaarlijk om buiten te zijn tijdens een _________.
+3. De hulpverleners proberen _________ te maken met de groep.
 
 #### Oplossingen
-1. vliegverkeer
-2. ballonnen
-3. ontwikkelingen
+1. klimmers
+2. sneeuwstorm
+3. contact
 
 ### Meerkeuzevragen
-1. Waarom werd het vliegverkeer in Vilnius gestopt?
-   a) Vanwege slecht weer
-   b) Omdat er ballonnen in de lucht dreven
-   c) Omdat het nacht was
-   d) Vanwege een vakantie
+1. Wat is een 'klimmer'?
+   A) Iemand die van ijs houdt
+   B) Iemand die bergen beklimt
+   C) Iemand die hard kan rennen
+   D) Iemand die graag wandelt
 
-2. Wat is een vliegveld?
-   a) Een groot park
-   b) Een plaats waar vliegtuigen komen en gaan
-   c) Een busstation
-   d) Een winkelcentrum
+2. Wat betekent 'vastzitten'?
+   A) Heel sterk zijn
+   B) Niet meer verder kunnen
+   C) Iets stevig vasthouden
+   D) Een moeilijke opdracht krijgen
 
-3. Wat betekent 'waarschijnlijk'?
-   a) Het is zeker
-   b) Het is bijna zeker
-   c) Het is niet zeker
-   d) Het is nooit gebeurd
+3. Wat zijn 'gewonden'?
+   A) Mensen die heel moe zijn
+   B) Mensen die verdwaald zijn
+   C) Mensen die pijn hebben door een ongeluk
+   D) Mensen die honger hebben
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. B
+2. B
+3. C
 
 ### Waar / Niet Waar
-1. Het vliegverkeer werd gestopt omdat het sneeuwde.
-2. De ballonnen kwamen waarschijnlijk uit een ander land.
-3. De oorlog in Oekraïne is al afgelopen.
+1. De klimmers zitten vast omdat de zon te hard schijnt.
+2. Het is makkelijk om contact te hebben met de klimmers.
+3. Er zijn waarschijnlijk mensen gewond.
 
 #### Antwoorden
 1. Niet Waar
-2. Waar
-3. Niet Waar
----
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/u7a1iu-russia-ukraine-war/alternates/BASE_SIXTEEN_NINE/Russia%20Ukraine%20War)  
-[Lees het originele artikel](https://www.standaard.be/buitenland/luchtverkeer-boven-luchthaven-vilnius-stilgelegd-wegens-smokkelballonnen/35173633.html)
-
-## Samenvatting
-Het vliegverkeer boven het vliegveld van Vilnius is korte tijd gestopt. Dit kwam door ballonnen die in de lucht dreven. Deze ballonnen kwamen waarschijnlijk uit een ander land. Ondertussen gaat de oorlog in Oekraïne door. Je kunt een app downloaden om het laatste nieuws hierover te lezen.
-
-## Woordenschatuitbreiding
-
-### Woordenlijst
-| Woord | Definitie |
-|-------|-----------|
-| **vliegverkeer** | alle vliegtuigen die in de lucht zijn |
-| **vliegveld** | een plaats waar vliegtuigen opstijgen en landen |
-| **ballonnen** | een opgeblazen object van rubber of folie dat in de lucht kan zweven |
-| **waarschijnlijk** | het is bijna zeker, maar je weet het niet 100% |
-| **ontwikkelingen** | veranderingen of nieuwe dingen die gebeuren |
-
-### Vul-in-de-leegte
-1. Het ___ boven Vilnius werd stilgelegd.
-2. Er dreven mysterieuze ___ in de lucht.
-3. De oorlog in Oekraïne heeft veel ___ de afgelopen jaren.
-
-#### Oplossingen
-1. vliegverkeer
-2. ballonnen
-3. ontwikkelingen
-
-### Meerkeuzevragen
-1. Waarom werd het vliegverkeer in Vilnius gestopt?
-   a) Vanwege slecht weer
-   b) Omdat er ballonnen in de lucht dreven
-   c) Omdat het nacht was
-   d) Vanwege een vakantie
-
-2. Wat is een vliegveld?
-   a) Een groot park
-   b) Een plaats waar vliegtuigen komen en gaan
-   c) Een busstation
-   d) Een winkelcentrum
-
-3. Wat betekent 'waarschijnlijk'?
-   a) Het is zeker
-   b) Het is bijna zeker
-   c) Het is niet zeker
-   d) Het is nooit gebeurd
-
-#### Antwoorden
-1. b
-2. b
-3. b
-
-### Waar / Niet Waar
-1. Het vliegverkeer werd gestopt omdat het sneeuwde.
-2. De ballonnen kwamen waarschijnlijk uit een ander land.
-3. De oorlog in Oekraïne is al afgelopen.
-
-#### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
-
-## Woordenschatuitbreiding
-### Woordenlijst
-| Woord | Definitie |
-|-------|-----------|
-| **vliegverkeer** | alle vliegtuigen die in de lucht zijn |
-| **vliegveld** | een plaats waar vliegtuigen opstijgen en landen |
-| **ballonnen** | een opgeblazen object van rubber of folie dat in de lucht kan zweven |
-| **waarschijnlijk** | het is bijna zeker, maar je weet het niet 100% |
-| **ontwikkelingen** | veranderingen of nieuwe dingen die gebeuren |
-
-### Vul-in-de-leegte
-1. Het ___ boven Vilnius werd stilgelegd.
-2. Er dreven mysterieuze ___ in de lucht.
-3. De oorlog in Oekraïne heeft veel ___ de afgelopen jaren.
-
-#### Oplossingen
-1. vliegverkeer
-2. ballonnen
-3. ontwikkelingen
-
-### Meerkeuzevragen
-1. Waarom werd het vliegverkeer in Vilnius gestopt?
-   a) Vanwege slecht weer
-   b) Omdat er ballonnen in de lucht dreven
-   c) Omdat het nacht was
-   d) Vanwege een vakantie
-
-2. Wat is een vliegveld?
-   a) Een groot park
-   b) Een plaats waar vliegtuigen komen en gaan
-   c) Een busstation
-   d) Een winkelcentrum
-
-3. Wat betekent 'waarschijnlijk'?
-   a) Het is zeker
-   b) Het is bijna zeker
-   c) Het is niet zeker
-   d) Het is nooit gebeurd
-
-#### Antwoorden
-1. b
-2. b
-3. b
-
-### Waar / Niet Waar
-1. Het vliegverkeer werd gestopt omdat het sneeuwde.
-2. De ballonnen kwamen waarschijnlijk uit een ander land.
-3. De oorlog in Oekraïne is al afgelopen.
-
-#### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
-
-## Vul-in-de-leegte
-1. Het ___ boven Vilnius werd stilgelegd.
-2. Er dreven mysterieuze ___ in de lucht.
-3. De oorlog in Oekraïne heeft veel ___ de afgelopen jaren.
-
-#### Oplossingen
-1. vliegverkeer
-2. ballonnen
-3. ontwikkelingen
-
-### Meerkeuzevragen
-1. Waarom werd het vliegverkeer in Vilnius gestopt?
-   a) Vanwege slecht weer
-   b) Omdat er ballonnen in de lucht dreven
-   c) Omdat het nacht was
-   d) Vanwege een vakantie
-
-2. Wat is een vliegveld?
-   a) Een groot park
-   b) Een plaats waar vliegtuigen komen en gaan
-   c) Een busstation
-   d) Een winkelcentrum
-
-3. Wat betekent 'waarschijnlijk'?
-   a) Het is zeker
-   b) Het is bijna zeker
-   c) Het is niet zeker
-   d) Het is nooit gebeurd
-
-#### Antwoorden
-1. b
-2. b
-3. b
-
-### Waar / Niet Waar
-1. Het vliegverkeer werd gestopt omdat het sneeuwde.
-2. De ballonnen kwamen waarschijnlijk uit een ander land.
-3. De oorlog in Oekraïne is al afgelopen.
-
-#### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
-
-## Meerkeuzevragen
-1. Waarom werd het vliegverkeer in Vilnius gestopt?
-   a) Vanwege slecht weer
-   b) Omdat er ballonnen in de lucht dreven
-   c) Omdat het nacht was
-   d) Vanwege een vakantie
-
-2. Wat is een vliegveld?
-   a) Een groot park
-   b) Een plaats waar vliegtuigen komen en gaan
-   c) Een busstation
-   d) Een winkelcentrum
-
-3. Wat betekent 'waarschijnlijk'?
-   a) Het is zeker
-   b) Het is bijna zeker
-   c) Het is niet zeker
-   d) Het is nooit gebeurd
-
-#### Antwoorden
-1. b
-2. b
-3. b
-
-### Waar / Niet Waar
-1. Het vliegverkeer werd gestopt omdat het sneeuwde.
-2. De ballonnen kwamen waarschijnlijk uit een ander land.
-3. De oorlog in Oekraïne is al afgelopen.
-
-#### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
-
-## Waar / Niet waar
-1. Het vliegverkeer werd gestopt omdat het sneeuwde.
-2. De ballonnen kwamen waarschijnlijk uit een ander land.
-3. De oorlog in Oekraïne is al afgelopen.
-
-#### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+2. Niet Waar
+3. Waar
 ---

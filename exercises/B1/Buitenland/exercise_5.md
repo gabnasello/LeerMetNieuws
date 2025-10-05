@@ -1,261 +1,61 @@
-# Man opgepakt na ongeluk met drone bij vliegveld Frankfurt
+---
+**Titel:** Syriërs mogen voor het eerst stemmen sinds de val van Assad
 
-**Samenvatting:** In Duitsland heeft de politie een man opgepakt. De man liet vrijdag een drone vliegen dicht bij een groot vliegveld. De politie heeft dit op zaterdag bevestigd.
-
-## Woordenschatuitbreiding
-
-### Woordenschatlijst
-| Woord | Definitie |
-|-------|-----------|
-| **opgepakt** | door de politie meegenomen voor vragen |
-| **drone** | een klein, onbemand vliegtuigje dat op afstand wordt bestuurd |
-| **vliegveld** | een plaats waar vliegtuigen opstijgen en landen (luchthaven) |
-| **bevestigd** | gezegd dat iets zeker waar is |
-| **incident** | een gebeurtenis, vaak een ongeluk of probleem |
-
-### Vul-in-de-leegte
-1. De politie heeft de man _____ omdat hij te dicht bij het vliegveld vloog.
-2. Het is verboden om een _____ te laten vliegen bij een vliegveld.
-3. De politie heeft het nieuws op zaterdag _____.
-
-#### Oplossingen
-1. opgepakt
-2. drone
-3. bevestigd
-
-### Meerkeuzevragen
-1. Waarom is de man opgepakt?
-   a) Omdat hij te hard reed.
-   b) Omdat hij een drone liet vliegen bij het vliegveld.
-   c) Omdat hij zijn paspoort was verloren.
-   d) Omdat hij op het vliegveld werkte.
-
-2. Wat is een drone?
-   a) Een grote politieauto.
-   b) Een soort trein.
-   c) Een onbemand vliegtuigje.
-   d) Een groot vliegveld.
-
-3. Wanneer heeft de politie het nieuws bevestigd?
-   a) Op vrijdag
-   b) Op zondag
-   c) Op maandag
-   d) Op zaterdag
-
-#### Antwoorden
-1. b
-2. c
-3. d
-
-### Waar / Niet Waar
-1. De man is opgepakt op zaterdag.
-2. Het is toegestaan om overal met een drone te vliegen.
-3. Het incident gebeurde bij een vliegveld in Duitsland.
-
-#### Antwoorden
-1. Niet Waar (Hij is opgepakt na een incident op vrijdag)
-2. Niet Waar (Het is verboden bij een vliegveld)
-3. Waar
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/fpvhk5-lufthansa-job-reductions/alternates/BASE_SIXTEEN_NINE/Lufthansa-Job%20Reductions)  
-[Lees het originele artikel](https://www.standaard.be/buitenland/man-opgepakt-na-incident-met-drone-bij-luchthaven-frankfurt/95107447.html)
-
-## Samenvatting
-In Duitsland heeft de politie een man opgepakt. De man liet vrijdag een drone vliegen dicht bij een groot vliegveld. De politie heeft dit op zaterdag bevestigd.
+**Samenvatting:** Syrië kiest vandaag een nieuw parlement. Dit is de eerste keer sinds het einde van dictator Bashar al-Assad in 2024. Twee derde van de 210 plaatsen in het parlement worden gekozen door speciale groepen in het hele land. De andere plaatsen worden gekozen door de tijdelijke president.
 
 ## Woordenschatuitbreiding
 
-### Woordenschatlijst
+### Woordenlijst
+*(Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting)*
 | Woord | Definitie |
 |-------|-----------|
-| **opgepakt** | door de politie meegenomen voor vragen |
-| **drone** | een klein, onbemand vliegtuigje dat op afstand wordt bestuurd |
-| **vliegveld** | een plaats waar vliegtuigen opstijgen en landen (luchthaven) |
-| **bevestigd** | gezegd dat iets zeker waar is |
-| **incident** | een gebeurtenis, vaak een ongeluk of probleem |
+| **stemmen** | je keuze maken bij een verkiezing, bijvoorbeeld door een papier in te vullen |
+| **parlement** | een groep mensen die voor een land kiest welke wetten en regels er komen |
+| **dictator** | een alleenheerser; iemand die alle macht heeft en het volk niet vrij laat |
+| **plaatsen** | de zetels of stoelen in een parlement; elke plaats is voor één gekozen persoon |
+| **tijdelijke** | voor een korte periode; niet voor altijd (tegenovergesteld van permanent) |
 
 ### Vul-in-de-leegte
-1. De politie heeft de man _____ omdat hij te dicht bij het vliegveld vloog.
-2. Het is verboden om een _____ te laten vliegen bij een vliegveld.
-3. De politie heeft het nieuws op zaterdag _____.
+1. In een democratie mag iedereen ___ voor een nieuwe regering.
+2. Het ___ maakt belangrijke wetten voor het hele land.
+3. De ___ president is er alleen tot de volgende verkiezingen.
 
 #### Oplossingen
-1. opgepakt
-2. drone
-3. bevestigd
+1. stemmen
+2. parlement
+3. tijdelijke
 
 ### Meerkeuzevragen
-1. Waarom is de man opgepakt?
-   a) Omdat hij te hard reed.
-   b) Omdat hij een drone liet vliegen bij het vliegveld.
-   c) Omdat hij zijn paspoort was verloren.
-   d) Omdat hij op het vliegveld werkte.
+1. Wat is een parlement?
+   A) Een soort school
+   B) Een groep mensen die wetten maakt
+   C) Een groot feest
+   D) Een nieuw soort auto
 
-2. Wat is een drone?
-   a) Een grote politieauto.
-   b) Een soort trein.
-   c) Een onbemand vliegtuigje.
-   d) Een groot vliegveld.
+2. Wat doet een dictator?
+   A) Hij geeft iedereen veel vrijheid
+   B) Hij regeert alleen en is vaak heel streng
+   C) Hij organiseert verkiezingen
+   D) Hij helpt alleen oude mensen
 
-3. Wanneer heeft de politie het nieuws bevestigd?
-   a) Op vrijdag
-   b) Op zondag
-   c) Op maandag
-   d) Op zaterdag
+3. Wat betekent 'tijdelijke president'?
+   A) Een president die altijd blijft
+   B) Een president die er maar voor korte tijd is
+   C) Een president die heel traag werkt
+   D) Een president uit een andere tijd
 
 #### Antwoorden
-1. b
-2. c
-3. d
+1. B
+2. B
+3. B
 
 ### Waar / Niet Waar
-1. De man is opgepakt op zaterdag.
-2. Het is toegestaan om overal met een drone te vliegen.
-3. Het incident gebeurde bij een vliegveld in Duitsland.
+1. In Syrië was er voor 2024 een dictator.
+2. Alle plaatsen in het nieuwe parlement worden gekozen door het volk.
+3. De verkiezingen zijn een belangrijke gebeurtenis voor Syrië.
 
 #### Antwoorden
-1. Niet Waar (Hij is opgepakt na een incident op vrijdag)
-2. Niet Waar (Het is verboden bij een vliegveld)
+1. Waar
+2. Niet Waar
 3. Waar
-
-## Woordenschatuitbreiding
-### Woordenschatlijst
-| Woord | Definitie |
-|-------|-----------|
-| **opgepakt** | door de politie meegenomen voor vragen |
-| **drone** | een klein, onbemand vliegtuigje dat op afstand wordt bestuurd |
-| **vliegveld** | een plaats waar vliegtuigen opstijgen en landen (luchthaven) |
-| **bevestigd** | gezegd dat iets zeker waar is |
-| **incident** | een gebeurtenis, vaak een ongeluk of probleem |
-
-### Vul-in-de-leegte
-1. De politie heeft de man _____ omdat hij te dicht bij het vliegveld vloog.
-2. Het is verboden om een _____ te laten vliegen bij een vliegveld.
-3. De politie heeft het nieuws op zaterdag _____.
-
-#### Oplossingen
-1. opgepakt
-2. drone
-3. bevestigd
-
-### Meerkeuzevragen
-1. Waarom is de man opgepakt?
-   a) Omdat hij te hard reed.
-   b) Omdat hij een drone liet vliegen bij het vliegveld.
-   c) Omdat hij zijn paspoort was verloren.
-   d) Omdat hij op het vliegveld werkte.
-
-2. Wat is een drone?
-   a) Een grote politieauto.
-   b) Een soort trein.
-   c) Een onbemand vliegtuigje.
-   d) Een groot vliegveld.
-
-3. Wanneer heeft de politie het nieuws bevestigd?
-   a) Op vrijdag
-   b) Op zondag
-   c) Op maandag
-   d) Op zaterdag
-
-#### Antwoorden
-1. b
-2. c
-3. d
-
-### Waar / Niet Waar
-1. De man is opgepakt op zaterdag.
-2. Het is toegestaan om overal met een drone te vliegen.
-3. Het incident gebeurde bij een vliegveld in Duitsland.
-
-#### Antwoorden
-1. Niet Waar (Hij is opgepakt na een incident op vrijdag)
-2. Niet Waar (Het is verboden bij een vliegveld)
-3. Waar
-
-## Vul-in-de-leegte
-1. De politie heeft de man _____ omdat hij te dicht bij het vliegveld vloog.
-2. Het is verboden om een _____ te laten vliegen bij een vliegveld.
-3. De politie heeft het nieuws op zaterdag _____.
-
-#### Oplossingen
-1. opgepakt
-2. drone
-3. bevestigd
-
-### Meerkeuzevragen
-1. Waarom is de man opgepakt?
-   a) Omdat hij te hard reed.
-   b) Omdat hij een drone liet vliegen bij het vliegveld.
-   c) Omdat hij zijn paspoort was verloren.
-   d) Omdat hij op het vliegveld werkte.
-
-2. Wat is een drone?
-   a) Een grote politieauto.
-   b) Een soort trein.
-   c) Een onbemand vliegtuigje.
-   d) Een groot vliegveld.
-
-3. Wanneer heeft de politie het nieuws bevestigd?
-   a) Op vrijdag
-   b) Op zondag
-   c) Op maandag
-   d) Op zaterdag
-
-#### Antwoorden
-1. b
-2. c
-3. d
-
-### Waar / Niet Waar
-1. De man is opgepakt op zaterdag.
-2. Het is toegestaan om overal met een drone te vliegen.
-3. Het incident gebeurde bij een vliegveld in Duitsland.
-
-#### Antwoorden
-1. Niet Waar (Hij is opgepakt na een incident op vrijdag)
-2. Niet Waar (Het is verboden bij een vliegveld)
-3. Waar
-
-## Meerkeuzevragen
-1. Waarom is de man opgepakt?
-   a) Omdat hij te hard reed.
-   b) Omdat hij een drone liet vliegen bij het vliegveld.
-   c) Omdat hij zijn paspoort was verloren.
-   d) Omdat hij op het vliegveld werkte.
-
-2. Wat is een drone?
-   a) Een grote politieauto.
-   b) Een soort trein.
-   c) Een onbemand vliegtuigje.
-   d) Een groot vliegveld.
-
-3. Wanneer heeft de politie het nieuws bevestigd?
-   a) Op vrijdag
-   b) Op zondag
-   c) Op maandag
-   d) Op zaterdag
-
-#### Antwoorden
-1. b
-2. c
-3. d
-
-### Waar / Niet Waar
-1. De man is opgepakt op zaterdag.
-2. Het is toegestaan om overal met een drone te vliegen.
-3. Het incident gebeurde bij een vliegveld in Duitsland.
-
-#### Antwoorden
-1. Niet Waar (Hij is opgepakt na een incident op vrijdag)
-2. Niet Waar (Het is verboden bij een vliegveld)
-3. Waar
-
-## Waar / Niet waar
-1. De man is opgepakt op zaterdag.
-2. Het is toegestaan om overal met een drone te vliegen.
-3. Het incident gebeurde bij een vliegveld in Duitsland.
-
-#### Antwoorden
-1. Niet Waar (Hij is opgepakt na een incident op vrijdag)
-2. Niet Waar (Het is verboden bij een vliegveld)
-3. Waar
+---

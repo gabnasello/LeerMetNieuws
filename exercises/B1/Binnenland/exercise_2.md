@@ -1,265 +1,57 @@
-# Fietser komt om bij ongeluk op grens tussen België en Nederland
+---
+**Titel:** Oude regering betaalde geld om borden weg te halen, nieuwe regering betaalt meer om ze terug te zetten
 
-**Samenvatting:** Op zaterdagochtend is een fietser overleden door een ongeluk. Dit gebeurde op de grens tussen het Nederlandse Hazeldonk en het Belgische Meer.
+**Samenvatting:** De vorige minister van verkeer in Vlaanderen gaf veel geld uit om waarschuwingsborden weg te halen. De nieuwe minister geeft nu bijna vier keer meer geld uit om diezelfde borden weer terug te plaatsen.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
+*(Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting)*
 | Woord | Definitie |
 |-------|-----------|
-| **grens** | de lijn tussen twee landen |
-| **overleden** | niet meer levend, dood |
-| **ongeluk** | iets slechts dat per ongeluk gebeurt |
-| **aanrijding** | wanneer een voertuig iets of iemand raakt |
-| **grensovergang** | de plaats waar je van het ene land naar het andere gaat |
+| **regering** | De groep mensen die een land of gebied bestuurt. |
+| **minister** | Een belangrijk persoon in de regering die over een bepaald onderwerp gaat, zoals verkeer. |
+| **waarschuwingsborden** | Borden langs de weg die je waarschuwen voor iets, bijvoorbeeld een snelheidscontrole. |
+| **geld uitgeven** | Betalen voor iets; geld gebruiken om iets te kopen of te doen. |
+| **terugplaatsen** | Iets weer op dezelfde plek zetten waar het eerst stond. |
 
 ### Vul-in-de-leegte
-1. De fietser is ___ bij een verkeersongeluk.
-2. Het ongeluk gebeurde bij de ___ tussen België en Nederland.
-3. De politie onderzoekt hoe de ___ kon gebeuren.
-
+1. De oude ___ betaalde geld om de borden weg te halen.
+2. De nieuwe minister geeft veel geld uit om de borden ___ te plaatsen.
+3. De waarschuwingsborden staan langs de ___.
 #### Oplossingen
-1. overleden
-2. grens
-3. aanrijding
+1. regering
+2. terug
+3. weg
 
 ### Meerkeuzevragen
-1. Waar gebeurde het ongeluk?
-   a) In een winkelcentrum
-   b) Op de grens tussen België en Nederland
-   c) In een park
-   d) Bij een school
+1. Wat is een 'regering'?
+   a) Een groep vrienden
+   b) De groep die een land bestuurt
+   c) Een soort verkeersbord
+   d) Een grote hoeveelheid geld
 
-2. Wanneer gebeurde het ongeluk?
-   a) Maandagavond
-   b) Zaterdagochtend
-   c) Zondagnacht
-   d) Dinsdagmiddag
+2. Wat betekent 'geld uitgeven'?
+   a) Geld vinden
+   b) Geld sparen
+   c) Geld gebruiken om iets te betalen
+   d) Geld tellen
 
-3. Wat is een grensovergang?
-   a) Een hoge berg
-   b) Een plaats waar je de grens oversteekt
-   c) Een rivier tussen landen
-   d) Een groot bos
-
-#### Antwoorden
-1. b
-2. b
-3. b
-
-### Waar / Niet Waar
-1. Het ongeluk gebeurde op maandag.
-2. De fietser overleefde het ongeluk.
-3. De plaats heet Hazeldonk in Nederland.
-
-#### Antwoorden
-1. Niet Waar
-2. Niet Waar
-3. Waar
----
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/cxmcjh-de-gehavende-fiets-van-de-overleden-man-ligt-in-de-berm-op-de-grensovergang-in-hzeldonk-vlak-naast-de-e19-.jpg/alternates/BASE_SIXTEEN_NINE/De%20gehavende%20fiets%20van%20de%20overleden%20man%20ligt%20in%20de%20berm%20op%20de%20grensovergang%20in%20Hzeldonk%20vlak%20naast%20de%20E19_.jpg)  
-[Lees het originele artikel](https://www.standaard.be/binnenland/dode-fietser-gevonden-bij-belgisch-nederlandse-grens/95099727.html)
-
-## Samenvatting
-Op zaterdagochtend is een fietser overleden door een ongeluk. Dit gebeurde op de grens tussen het Nederlandse Hazeldonk en het Belgische Meer.
-
-## Woordenschatuitbreiding
-
-### Woordelijst
-| Woord | Definitie |
-|-------|-----------|
-| **grens** | de lijn tussen twee landen |
-| **overleden** | niet meer levend, dood |
-| **ongeluk** | iets slechts dat per ongeluk gebeurt |
-| **aanrijding** | wanneer een voertuig iets of iemand raakt |
-| **grensovergang** | de plaats waar je van het ene land naar het andere gaat |
-
-### Vul-in-de-leegte
-1. De fietser is ___ bij een verkeersongeluk.
-2. Het ongeluk gebeurde bij de ___ tussen België en Nederland.
-3. De politie onderzoekt hoe de ___ kon gebeuren.
-
-#### Oplossingen
-1. overleden
-2. grens
-3. aanrijding
-
-### Meerkeuzevragen
-1. Waar gebeurde het ongeluk?
-   a) In een winkelcentrum
-   b) Op de grens tussen België en Nederland
-   c) In een park
-   d) Bij een school
-
-2. Wanneer gebeurde het ongeluk?
-   a) Maandagavond
-   b) Zaterdagochtend
-   c) Zondagnacht
-   d) Dinsdagmiddag
-
-3. Wat is een grensovergang?
-   a) Een hoge berg
-   b) Een plaats waar je de grens oversteekt
-   c) Een rivier tussen landen
-   d) Een groot bos
+3. Waar waarschuwen 'waarschuwingsborden' voor?
+   a) Voor het weer
+   b) Voor iets belangrijks, zoals gevaar of een controle
+   c) Voor een feestje
+   d) Voor een restaurant
 
 #### Antwoorden
 1. b
-2. b
+2. c
 3. b
 
 ### Waar / Niet Waar
-1. Het ongeluk gebeurde op maandag.
-2. De fietser overleefde het ongeluk.
-3. De plaats heet Hazeldonk in Nederland.
-
-#### Antwoorden
-1. Niet Waar
-2. Niet Waar
-3. Waar
----
-
-## Woordenschatuitbreiding
-### Woordelijst
-| Woord | Definitie |
-|-------|-----------|
-| **grens** | de lijn tussen twee landen |
-| **overleden** | niet meer levend, dood |
-| **ongeluk** | iets slechts dat per ongeluk gebeurt |
-| **aanrijding** | wanneer een voertuig iets of iemand raakt |
-| **grensovergang** | de plaats waar je van het ene land naar het andere gaat |
-
-### Vul-in-de-leegte
-1. De fietser is ___ bij een verkeersongeluk.
-2. Het ongeluk gebeurde bij de ___ tussen België en Nederland.
-3. De politie onderzoekt hoe de ___ kon gebeuren.
-
-#### Oplossingen
-1. overleden
-2. grens
-3. aanrijding
-
-### Meerkeuzevragen
-1. Waar gebeurde het ongeluk?
-   a) In een winkelcentrum
-   b) Op de grens tussen België en Nederland
-   c) In een park
-   d) Bij een school
-
-2. Wanneer gebeurde het ongeluk?
-   a) Maandagavond
-   b) Zaterdagochtend
-   c) Zondagnacht
-   d) Dinsdagmiddag
-
-3. Wat is een grensovergang?
-   a) Een hoge berg
-   b) Een plaats waar je de grens oversteekt
-   c) Een rivier tussen landen
-   d) Een groot bos
-
-#### Antwoorden
-1. b
-2. b
-3. b
-
-### Waar / Niet Waar
-1. Het ongeluk gebeurde op maandag.
-2. De fietser overleefde het ongeluk.
-3. De plaats heet Hazeldonk in Nederland.
-
-#### Antwoorden
-1. Niet Waar
-2. Niet Waar
-3. Waar
----
-
-## Vul-in-de-leegte
-1. De fietser is ___ bij een verkeersongeluk.
-2. Het ongeluk gebeurde bij de ___ tussen België en Nederland.
-3. De politie onderzoekt hoe de ___ kon gebeuren.
-
-#### Oplossingen
-1. overleden
-2. grens
-3. aanrijding
-
-### Meerkeuzevragen
-1. Waar gebeurde het ongeluk?
-   a) In een winkelcentrum
-   b) Op de grens tussen België en Nederland
-   c) In een park
-   d) Bij een school
-
-2. Wanneer gebeurde het ongeluk?
-   a) Maandagavond
-   b) Zaterdagochtend
-   c) Zondagnacht
-   d) Dinsdagmiddag
-
-3. Wat is een grensovergang?
-   a) Een hoge berg
-   b) Een plaats waar je de grens oversteekt
-   c) Een rivier tussen landen
-   d) Een groot bos
-
-#### Antwoorden
-1. b
-2. b
-3. b
-
-### Waar / Niet Waar
-1. Het ongeluk gebeurde op maandag.
-2. De fietser overleefde het ongeluk.
-3. De plaats heet Hazeldonk in Nederland.
-
-#### Antwoorden
-1. Niet Waar
-2. Niet Waar
-3. Waar
----
-
-## Meerkeuzevragen
-1. Waar gebeurde het ongeluk?
-   a) In een winkelcentrum
-   b) Op de grens tussen België en Nederland
-   c) In een park
-   d) Bij een school
-
-2. Wanneer gebeurde het ongeluk?
-   a) Maandagavond
-   b) Zaterdagochtend
-   c) Zondagnacht
-   d) Dinsdagmiddag
-
-3. Wat is een grensovergang?
-   a) Een hoge berg
-   b) Een plaats waar je de grens oversteekt
-   c) Een rivier tussen landen
-   d) Een groot bos
-
-#### Antwoorden
-1. b
-2. b
-3. b
-
-### Waar / Niet Waar
-1. Het ongeluk gebeurde op maandag.
-2. De fietser overleefde het ongeluk.
-3. De plaats heet Hazeldonk in Nederland.
-
-#### Antwoorden
-1. Niet Waar
-2. Niet Waar
-3. Waar
----
-
-## Waar / Niet waar
-1. Het ongeluk gebeurde op maandag.
-2. De fietser overleefde het ongeluk.
-3. De plaats heet Hazeldonk in Nederland.
-
+1. De vorige minister wilde de borden graag houden.
+2. De nieuwe minister betaalt minder geld dan de oude minister.
+3. Waarschuwingsborden staan vaak langs de weg.
 #### Antwoorden
 1. Niet Waar
 2. Niet Waar

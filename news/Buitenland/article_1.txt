@@ -1,15 +1,15 @@
 Artikel 1
-Nieuwsupdate: 2025-10-05 11:07 UCT
+Nieuwsupdate: 2025-10-05 17:07 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Trump toont kaart waarop eerste fase staat van Israëls terugtrekking uit Gaza
-Link: https://www.standaard.be/buitenland/trump-toont-kaart-waarop-eerste-fase-staat-van-israels-terugtrekking-uit-gaza/35173881.html
-Datum: Sun, 05 Oct 2025 06:24:00 GMT
-Samenvatting: Ondanks toenemende internationale kritiek zet Israël de vernietigingsoorlog in Gaza onverminderd voort. Volg hier de laatste ontwikkelingen.
+Titel: Andrej Babis, de “Tsjechische Trump”, wint verkiezingen – en dat is slecht nieuws voor Oekraïne
+Link: https://www.standaard.be/buitenland/andrej-babis-de-tsjechische-trump-wint-verkiezingen-%E2%80%93-en-dat-is-slecht-nieuws-voor-oekrane/94995176.html
+Datum: Sun, 05 Oct 2025 16:23:00 GMT
+Samenvatting: Andrej Babis, de overduidelijke winnaar van de verkiezingen in Tsjechië, vervelde van pro-Europese liberaal tot euroscepticus. “Goed nieuws voor Europa”, reageert zijn goede vriend Viktor Orban.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/eyp5va-12415305.jpg/alternates/BASE_SIXTEEN_NINE/12415305.jpg
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/v8ybal-czech-parliamentary-election/alternates/BASE_SIXTEEN_NINE/Czech%20parliamentary%20election
+Premium: true
 ------------------------------------------------------------
