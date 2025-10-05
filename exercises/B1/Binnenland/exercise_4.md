@@ -1,264 +1,57 @@
-# Kopers wonen na 10 jaar nog op bouwplaats: rechtbank zegt dat verkoop van flats oneerlijk was
+---
+**Titel:** 30.000 mensen in Brussel voor klimaatprotest
 
-**Samenvatting:** Drie bedrijven die huizen verkopen, moeten 13 flats in Zeebrugge terugkopen. De flats zijn samen ongeveer 3 miljoen euro waard. De kopers voelden zich bedrogen en zijn naar de rechter gestapt. De rechter in Gent geeft de kopers gelijk. De mensen wonen nu, meer dan 10 jaar na het kopen, nog steeds op een plek waar gebouwd wordt.
+**Samenvatting:** Duizenden mensen lopen op zondag mee in een klimaatmars in Brussel. De groep die de mars organiseert, wil dat de overheid geld uitgeeft aan een eerlijk en sterk plan voor het klimaat.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
+*(Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting)*
 | Woord | Definitie |
 |-------|-----------|
-| **bouwwerf** | een plaats waar men aan het bouwen is |
-| **appartement** | een woning in een groot gebouw met andere woningen |
-| **rechtbank** | de plaats waar een rechter beslist wie gelijk heeft in een conflict |
-| **terugbetalen** | geld teruggeven dat je eerder hebt gekregen |
-| **bedrog** | wanneer iemand tegen je liegt om je geld te nemen |
+| **protest** | het laten zien dat je het ergens niet mee eens bent |
+| **klimaat** | het gemiddelde weer over een lange tijd |
+| **mars** | een tocht lopen met een groep mensen voor een idee |
+| **overheid** | de groep mensen die een land of stad bestuurt |
+| **plan** | een beschrijving van wat je gaat doen |
 
 ### Vul-in-de-leegte
-1. De mensen kochten een ___ maar wonen nog op een bouwwerf.
-2. De ___ besliste dat de verkoop niet eerlijk was.
-3. De bedrijven moeten het geld ___ aan de kopers.
-
+1. Mensen doen mee aan een ___ om te laten zien dat ze ontevreden zijn.
+2. Het ___ verandert omdat de aarde warmer wordt.
+3. De ___ moet luisteren naar wat de mensen vragen.
 #### Oplossingen
-1. appartement
-2. rechtbank
-3. terugbetalen
+1. protest
+2. klimaat
+3. overheid
 
 ### Meerkeuzevragen
-1. Wat is een bouwwerf?
-   a) Een mooie tuin
-   b) Een plaats waar gebouwd wordt
-   c) Een soort winkel
-   d) Een parkeerplaats
+1. Wat is een mars?
+   a) Een feest
+   b) Een soort dans
+   c) Een protesttocht
+   d) Een sportwedstrijd
 
-2. Waarom gingen de kopers naar de rechter?
-   a) Omdat ze een nieuwe auto wilden
-   b) Omdat ze zich bedrogen voelden
-   c) Omdat ze verhuizen wilden
-   d) Omdat ze hun buren niet leuk vonden
+2. Wat betekent 'klimaat'?
+   a) Het weer van vandaag
+   b) Het gemiddelde weer over lange tijd
+   c) De temperatuur in de zomer
+   d) Regen en wind
 
-3. Wat moet er nu gebeuren met de flats?
-   a) Ze moeten verkocht worden aan nieuwe mensen
-   b) Ze moeten afgebroken worden
-   c) De bedrijven moeten ze terugkopen van de kopers
-   d) Er moet nog meer gebouwd worden
+3. Wie is de overheid?
+   a) De mensen die protesteren
+   b) De mensen die het land besturen
+   c) De organisatoren van een mars
+   d) Iedereen in het land
 
 #### Antwoorden
-1. b
+1. c
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. De kopers wonen al 10 jaar in een afgebouwd huis.
-2. De rechter vond dat de verkoop oneerlijk was.
-3. De flats staan in Brussel.
-
-#### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/te4w2p-file82nsc7re57o13v3k28s6.jpg/alternates/BASE_SIXTEEN_NINE/file82nsc7re57o13v3k28s6.jpg)  
-[Lees het originele artikel](https://www.standaard.be/binnenland/de-kopers-leven-meer-dan-tien-jaar-na-aankoop-nog-steeds-op-een-bouwwerf-verkoop-van-dertien-flats-door-hof-van-beroep-nietig-verklaard-wegens-bedrog/95078089.html)
-
-## Samenvatting
-Drie bedrijven die huizen verkopen, moeten 13 flats in Zeebrugge terugkopen. De flats zijn samen ongeveer 3 miljoen euro waard. De kopers voelden zich bedrogen en zijn naar de rechter gestapt. De rechter in Gent geeft de kopers gelijk. De mensen wonen nu, meer dan 10 jaar na het kopen, nog steeds op een plek waar gebouwd wordt.
-
-## Woordenschatuitbreiding
-
-### Woordenlijst
-| Woord | Definitie |
-|-------|-----------|
-| **bouwwerf** | een plaats waar men aan het bouwen is |
-| **appartement** | een woning in een groot gebouw met andere woningen |
-| **rechtbank** | de plaats waar een rechter beslist wie gelijk heeft in een conflict |
-| **terugbetalen** | geld teruggeven dat je eerder hebt gekregen |
-| **bedrog** | wanneer iemand tegen je liegt om je geld te nemen |
-
-### Vul-in-de-leegte
-1. De mensen kochten een ___ maar wonen nog op een bouwwerf.
-2. De ___ besliste dat de verkoop niet eerlijk was.
-3. De bedrijven moeten het geld ___ aan de kopers.
-
-#### Oplossingen
-1. appartement
-2. rechtbank
-3. terugbetalen
-
-### Meerkeuzevragen
-1. Wat is een bouwwerf?
-   a) Een mooie tuin
-   b) Een plaats waar gebouwd wordt
-   c) Een soort winkel
-   d) Een parkeerplaats
-
-2. Waarom gingen de kopers naar de rechter?
-   a) Omdat ze een nieuwe auto wilden
-   b) Omdat ze zich bedrogen voelden
-   c) Omdat ze verhuizen wilden
-   d) Omdat ze hun buren niet leuk vonden
-
-3. Wat moet er nu gebeuren met de flats?
-   a) Ze moeten verkocht worden aan nieuwe mensen
-   b) Ze moeten afgebroken worden
-   c) De bedrijven moeten ze terugkopen van de kopers
-   d) Er moet nog meer gebouwd worden
-
-#### Antwoorden
-1. b
-2. b
-3. c
-
-### Waar / Niet Waar
-1. De kopers wonen al 10 jaar in een afgebouwd huis.
-2. De rechter vond dat de verkoop oneerlijk was.
-3. De flats staan in Brussel.
-
-#### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
-
-## Woordenschatuitbreiding
-### Woordenlijst
-| Woord | Definitie |
-|-------|-----------|
-| **bouwwerf** | een plaats waar men aan het bouwen is |
-| **appartement** | een woning in een groot gebouw met andere woningen |
-| **rechtbank** | de plaats waar een rechter beslist wie gelijk heeft in een conflict |
-| **terugbetalen** | geld teruggeven dat je eerder hebt gekregen |
-| **bedrog** | wanneer iemand tegen je liegt om je geld te nemen |
-
-### Vul-in-de-leegte
-1. De mensen kochten een ___ maar wonen nog op een bouwwerf.
-2. De ___ besliste dat de verkoop niet eerlijk was.
-3. De bedrijven moeten het geld ___ aan de kopers.
-
-#### Oplossingen
-1. appartement
-2. rechtbank
-3. terugbetalen
-
-### Meerkeuzevragen
-1. Wat is een bouwwerf?
-   a) Een mooie tuin
-   b) Een plaats waar gebouwd wordt
-   c) Een soort winkel
-   d) Een parkeerplaats
-
-2. Waarom gingen de kopers naar de rechter?
-   a) Omdat ze een nieuwe auto wilden
-   b) Omdat ze zich bedrogen voelden
-   c) Omdat ze verhuizen wilden
-   d) Omdat ze hun buren niet leuk vonden
-
-3. Wat moet er nu gebeuren met de flats?
-   a) Ze moeten verkocht worden aan nieuwe mensen
-   b) Ze moeten afgebroken worden
-   c) De bedrijven moeten ze terugkopen van de kopers
-   d) Er moet nog meer gebouwd worden
-
-#### Antwoorden
-1. b
-2. b
-3. c
-
-### Waar / Niet Waar
-1. De kopers wonen al 10 jaar in een afgebouwd huis.
-2. De rechter vond dat de verkoop oneerlijk was.
-3. De flats staan in Brussel.
-
-#### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
-
-## Vul-in-de-leegte
-1. De mensen kochten een ___ maar wonen nog op een bouwwerf.
-2. De ___ besliste dat de verkoop niet eerlijk was.
-3. De bedrijven moeten het geld ___ aan de kopers.
-
-#### Oplossingen
-1. appartement
-2. rechtbank
-3. terugbetalen
-
-### Meerkeuzevragen
-1. Wat is een bouwwerf?
-   a) Een mooie tuin
-   b) Een plaats waar gebouwd wordt
-   c) Een soort winkel
-   d) Een parkeerplaats
-
-2. Waarom gingen de kopers naar de rechter?
-   a) Omdat ze een nieuwe auto wilden
-   b) Omdat ze zich bedrogen voelden
-   c) Omdat ze verhuizen wilden
-   d) Omdat ze hun buren niet leuk vonden
-
-3. Wat moet er nu gebeuren met de flats?
-   a) Ze moeten verkocht worden aan nieuwe mensen
-   b) Ze moeten afgebroken worden
-   c) De bedrijven moeten ze terugkopen van de kopers
-   d) Er moet nog meer gebouwd worden
-
-#### Antwoorden
-1. b
-2. b
-3. c
-
-### Waar / Niet Waar
-1. De kopers wonen al 10 jaar in een afgebouwd huis.
-2. De rechter vond dat de verkoop oneerlijk was.
-3. De flats staan in Brussel.
-
-#### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
-
-## Meerkeuzevragen
-1. Wat is een bouwwerf?
-   a) Een mooie tuin
-   b) Een plaats waar gebouwd wordt
-   c) Een soort winkel
-   d) Een parkeerplaats
-
-2. Waarom gingen de kopers naar de rechter?
-   a) Omdat ze een nieuwe auto wilden
-   b) Omdat ze zich bedrogen voelden
-   c) Omdat ze verhuizen wilden
-   d) Omdat ze hun buren niet leuk vonden
-
-3. Wat moet er nu gebeuren met de flats?
-   a) Ze moeten verkocht worden aan nieuwe mensen
-   b) Ze moeten afgebroken worden
-   c) De bedrijven moeten ze terugkopen van de kopers
-   d) Er moet nog meer gebouwd worden
-
-#### Antwoorden
-1. b
-2. b
-3. c
-
-### Waar / Niet Waar
-1. De kopers wonen al 10 jaar in een afgebouwd huis.
-2. De rechter vond dat de verkoop oneerlijk was.
-3. De flats staan in Brussel.
-
-#### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
-
-## Waar / Niet waar
-1. De kopers wonen al 10 jaar in een afgebouwd huis.
-2. De rechter vond dat de verkoop oneerlijk was.
-3. De flats staan in Brussel.
+1. De mars was op een maandag.
+2. De organisatie wil dat de overheid geld uitgeeft aan het klimaat.
+3. Er liepen maar tien mensen mee.
 
 #### Antwoorden
 1. Niet Waar

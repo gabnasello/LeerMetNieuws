@@ -1,15 +1,15 @@
 Artikel 1
-Nieuwsupdate: 2025-10-05 11:07 UCT
+Nieuwsupdate: 2025-10-05 17:07 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Drie jonge mannen verongelukken in Evergem, motorrijder komt om in Ternat
-Link: https://www.standaard.be/binnenland/drie-jonge-mannen-verongelukken-in-evergem-motorrijder-komt-om-in-ternat/95170138.html
-Datum: Sun, 05 Oct 2025 08:33:00 GMT
-Samenvatting: In Evergem kwamen afgelopen nacht drie jongeren om in een verkeersongeval, op de E40 in Ternat overleed een motorrijder bij een ongeval met vluchtmisdrijf.
+Titel: Ex-klimaatspijbelaars op betoging in Brussel: “Oorlog is belangrijk, maar het klimaat blijft het allerbelangrijkste”
+Link: https://www.standaard.be/binnenland/ex-klimaatspijbelaars-op-betoging-in-brussel-oorlog-is-belangrijk-maar-het-klimaat-blijft-het-allerbelangrijkste/95209463.html
+Datum: Sun, 05 Oct 2025 16:46:30 GMT
+Samenvatting: Met zijn twintig- tot dertigduizend waren de klimaatbetogers zondag. Onder hen veel klimaatspijbelaars die intussen volwassen zijn geworden, maar wiens engagement is gebleven. “Het is er met de jaren alleen nog groter op geworden.”
 Auteur: Geen auteur
 Categorie: Binnenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/2j65x2-ongeval-e40-ternat.jfif/alternates/BASE_SIXTEEN_NINE/Ongeval%20E40%20Ternat.jfif
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/v09e91-file82ot49zzvsi1gq1hv91u/alternates/BASE_SIXTEEN_NINE/file82ot49zzvsi1gq1hv91u
+Premium: true
 ------------------------------------------------------------

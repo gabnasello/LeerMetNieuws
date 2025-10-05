@@ -1,15 +1,15 @@
 Artikel 5
-Nieuwsupdate: 2025-10-05 11:07 UCT
+Nieuwsupdate: 2025-10-05 17:07 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Man opgepakt na incident met drone bij luchthaven Frankfurt
-Link: https://www.standaard.be/buitenland/man-opgepakt-na-incident-met-drone-bij-luchthaven-frankfurt/95107447.html
-Datum: Sat, 04 Oct 2025 14:37:00 GMT
-Samenvatting: Een man is in Duitsland opgepakt nadat hij vrijdag een drone had laten vliegen in de buurt van de luchthaven van Frankfurt. Dat heeft de Duitse politie zaterdag bevestigd.
+Titel: Syriërs voor het eerst naar stembus sinds val Assad
+Link: https://www.standaard.be/buitenland/syriers-voor-het-eerst-naar-stembus-sinds-val-assad/95188145.html
+Datum: Sun, 05 Oct 2025 11:04:13 GMT
+Samenvatting: Syrië kiest vandaag een nieuw parlement, voor het eerst sinds de val van dictator Bashar al-Assad eind 2024. Twee derde van de 210 zetels worden gekozen door lokale commissies over het hele land, de rest worden aangewezen door de huidige interim-president.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/fpvhk5-lufthansa-job-reductions/alternates/BASE_SIXTEEN_NINE/Lufthansa-Job%20Reductions
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/dxc3yi-web-0510bui-verkiezingen.jpg/alternates/BASE_SIXTEEN_NINE/web-0510BUI_verkiezingen.jpg
+Premium: true
 ------------------------------------------------------------

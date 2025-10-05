@@ -1,267 +1,61 @@
-# Trump laat kaart zien van eerste stap terugtrekken Israël uit Gaza
+---
+**Titel:** Andrej Babis, de "Tsjechische Trump", wint de verkiezingen
 
-**Samenvatting:** Israël gaat door met de oorlog in Gaza. Dit doet het land ook al zijn er veel landen die het er niet mee eens zijn. Hier lees je het laatste nieuws.
+**Samenvatting:** Andrej Babis heeft de verkiezingen in Tsjechië gewonnen. Eerst was hij voor Europa, nu is hij tegen Europa. Zijn vriend Viktor Orban zegt dat dit goed nieuws is voor Europa.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
+*(Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting)*
 | Woord | Definitie |
 |-------|-----------|
-| **terugtrekking** | het weggaan van soldaten uit een gebied |
-| **internationale** | van andere landen over de hele wereld |
-| **kritiek** | zeggen dat je iets niet goed vindt |
-| **vernietiging** | alles kapot maken |
-| **ontwikkelingen** | dingen die gebeuren en veranderen |
+| **verkiezingen** | Een stemming waarbij mensen kiezen wie hun land of stad gaat besturen. |
+| **wint** | Als iemand de eerste plaats haalt en dus de beste is. |
+| **Tsjechië** | Een land in het midden van Europa. |
+| **Europa** | Het werelddeel waar landen zoals Nederland, België en Duitsland liggen. |
+| **nieuws** | Informatie over iets dat net is gebeurd. |
 
 ### Vul-in-de-leegte
-1. Israël gaat door met de oorlog, ondanks de ___ van andere landen.
-2. Trump liet een ___ zien waarop de eerste stap van de terugtrekking stond.
-3. We volgen hier de laatste ___ over de situatie in Gaza.
+1.  Mensen stemmen tijdens de ___ om een nieuwe leider te kiezen.
+2.  Andrej Babis ___ de verkiezingen in zijn land.
+3.  Tsjechië is een land in ___.
 
 #### Oplossingen
-1. kritiek
-2. kaart
-3. ontwikkelingen
+1.  verkiezingen
+2.  wint
+3.  Europa
 
 ### Meerkeuzevragen
-1. Wat laat Trump zien?
-   a) een nieuw wapen
-   b) een kaart van de terugtrekking
-   c) foto's van Gaza
-   d) een internationaal verdrag
+1. Wat zijn verkiezingen?
+   A) Een feestdag
+   B) Een sportwedstrijd
+   C) Een stemming om een nieuwe leider te kiezen
+   D) Een soort examen
 
-2. Wat doet Israël ondanks de kritiek?
-   a) het stopt met vechten
-   b) het praat met andere landen
-   c) het gaat door met de oorlog
-   d) het trekt zich terug
+2. Waar ligt Tsjechië?
+   A) In Azië
+   B) In Afrika
+   C) In het midden van Europa
+   D) In Zuid-Amerika
 
-3. Wat betekent 'internationale kritiek'?
-   a) kritiek van de eigen bevolking
-   b) kritiek van buurlanden
-   c) kritiek van veel verschillende landen
-   d) kritiek van de Verenigde Naties
+3. Wat betekent "wint" in deze tekst?
+   A: Verliezen
+   B: Heeft de eerste plaats
+   C: Weggaan
+   D: Kopen
 
 #### Antwoorden
-1. b
-2. c
-3. c
+1. C) Een stemming om een nieuwe leider te kiezen
+2. C) In het midden van Europa
+3. B) Heeft de eerste plaats
 
 ### Waar / Niet Waar
-1. Israël stopt met de oorlog omdat andere landen dat willen.
-2. Trump heeft een kaart getoond over de terugtrekking uit Gaza.
-3. De samenvatting zegt dat je hier het laatste nieuws kunt volgen.
+1. Andrej Babis heeft de verkiezingen verloren.
+2. Tsjechië is een land in Europa.
+3. Nieuws is informatie over iets dat lang geleden is gebeurd.
 
 #### Antwoorden
 1. Niet Waar
 2. Waar
-3. Waar
----
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/eyp5va-12415305.jpg/alternates/BASE_SIXTEEN_NINE/12415305.jpg)  
-[Lees het originele artikel](https://www.standaard.be/buitenland/trump-toont-kaart-waarop-eerste-fase-staat-van-israels-terugtrekking-uit-gaza/35173881.html)
-
-## Samenvatting
-Israël gaat door met de oorlog in Gaza. Dit doet het land ook al zijn er veel landen die het er niet mee eens zijn. Hier lees je het laatste nieuws.
-
-## Woordenschatuitbreiding
-
-### Woordelijst
-| Woord | Definitie |
-|-------|-----------|
-| **terugtrekking** | het weggaan van soldaten uit een gebied |
-| **internationale** | van andere landen over de hele wereld |
-| **kritiek** | zeggen dat je iets niet goed vindt |
-| **vernietiging** | alles kapot maken |
-| **ontwikkelingen** | dingen die gebeuren en veranderen |
-
-### Vul-in-de-leegte
-1. Israël gaat door met de oorlog, ondanks de ___ van andere landen.
-2. Trump liet een ___ zien waarop de eerste stap van de terugtrekking stond.
-3. We volgen hier de laatste ___ over de situatie in Gaza.
-
-#### Oplossingen
-1. kritiek
-2. kaart
-3. ontwikkelingen
-
-### Meerkeuzevragen
-1. Wat laat Trump zien?
-   a) een nieuw wapen
-   b) een kaart van de terugtrekking
-   c) foto's van Gaza
-   d) een internationaal verdrag
-
-2. Wat doet Israël ondanks de kritiek?
-   a) het stopt met vechten
-   b) het praat met andere landen
-   c) het gaat door met de oorlog
-   d) het trekt zich terug
-
-3. Wat betekent 'internationale kritiek'?
-   a) kritiek van de eigen bevolking
-   b) kritiek van buurlanden
-   c) kritiek van veel verschillende landen
-   d) kritiek van de Verenigde Naties
-
-#### Antwoorden
-1. b
-2. c
-3. c
-
-### Waar / Niet Waar
-1. Israël stopt met de oorlog omdat andere landen dat willen.
-2. Trump heeft een kaart getoond over de terugtrekking uit Gaza.
-3. De samenvatting zegt dat je hier het laatste nieuws kunt volgen.
-
-#### Antwoorden
-1. Niet Waar
-2. Waar
-3. Waar
----
-
-## Woordenschatuitbreiding
-### Woordelijst
-| Woord | Definitie |
-|-------|-----------|
-| **terugtrekking** | het weggaan van soldaten uit een gebied |
-| **internationale** | van andere landen over de hele wereld |
-| **kritiek** | zeggen dat je iets niet goed vindt |
-| **vernietiging** | alles kapot maken |
-| **ontwikkelingen** | dingen die gebeuren en veranderen |
-
-### Vul-in-de-leegte
-1. Israël gaat door met de oorlog, ondanks de ___ van andere landen.
-2. Trump liet een ___ zien waarop de eerste stap van de terugtrekking stond.
-3. We volgen hier de laatste ___ over de situatie in Gaza.
-
-#### Oplossingen
-1. kritiek
-2. kaart
-3. ontwikkelingen
-
-### Meerkeuzevragen
-1. Wat laat Trump zien?
-   a) een nieuw wapen
-   b) een kaart van de terugtrekking
-   c) foto's van Gaza
-   d) een internationaal verdrag
-
-2. Wat doet Israël ondanks de kritiek?
-   a) het stopt met vechten
-   b) het praat met andere landen
-   c) het gaat door met de oorlog
-   d) het trekt zich terug
-
-3. Wat betekent 'internationale kritiek'?
-   a) kritiek van de eigen bevolking
-   b) kritiek van buurlanden
-   c) kritiek van veel verschillende landen
-   d) kritiek van de Verenigde Naties
-
-#### Antwoorden
-1. b
-2. c
-3. c
-
-### Waar / Niet Waar
-1. Israël stopt met de oorlog omdat andere landen dat willen.
-2. Trump heeft een kaart getoond over de terugtrekking uit Gaza.
-3. De samenvatting zegt dat je hier het laatste nieuws kunt volgen.
-
-#### Antwoorden
-1. Niet Waar
-2. Waar
-3. Waar
----
-
-## Vul-in-de-leegte
-1. Israël gaat door met de oorlog, ondanks de ___ van andere landen.
-2. Trump liet een ___ zien waarop de eerste stap van de terugtrekking stond.
-3. We volgen hier de laatste ___ over de situatie in Gaza.
-
-#### Oplossingen
-1. kritiek
-2. kaart
-3. ontwikkelingen
-
-### Meerkeuzevragen
-1. Wat laat Trump zien?
-   a) een nieuw wapen
-   b) een kaart van de terugtrekking
-   c) foto's van Gaza
-   d) een internationaal verdrag
-
-2. Wat doet Israël ondanks de kritiek?
-   a) het stopt met vechten
-   b) het praat met andere landen
-   c) het gaat door met de oorlog
-   d) het trekt zich terug
-
-3. Wat betekent 'internationale kritiek'?
-   a) kritiek van de eigen bevolking
-   b) kritiek van buurlanden
-   c) kritiek van veel verschillende landen
-   d) kritiek van de Verenigde Naties
-
-#### Antwoorden
-1. b
-2. c
-3. c
-
-### Waar / Niet Waar
-1. Israël stopt met de oorlog omdat andere landen dat willen.
-2. Trump heeft een kaart getoond over de terugtrekking uit Gaza.
-3. De samenvatting zegt dat je hier het laatste nieuws kunt volgen.
-
-#### Antwoorden
-1. Niet Waar
-2. Waar
-3. Waar
----
-
-## Meerkeuzevragen
-1. Wat laat Trump zien?
-   a) een nieuw wapen
-   b) een kaart van de terugtrekking
-   c) foto's van Gaza
-   d) een internationaal verdrag
-
-2. Wat doet Israël ondanks de kritiek?
-   a) het stopt met vechten
-   b) het praat met andere landen
-   c) het gaat door met de oorlog
-   d) het trekt zich terug
-
-3. Wat betekent 'internationale kritiek'?
-   a) kritiek van de eigen bevolking
-   b) kritiek van buurlanden
-   c) kritiek van veel verschillende landen
-   d) kritiek van de Verenigde Naties
-
-#### Antwoorden
-1. b
-2. c
-3. c
-
-### Waar / Niet Waar
-1. Israël stopt met de oorlog omdat andere landen dat willen.
-2. Trump heeft een kaart getoond over de terugtrekking uit Gaza.
-3. De samenvatting zegt dat je hier het laatste nieuws kunt volgen.
-
-#### Antwoorden
-1. Niet Waar
-2. Waar
-3. Waar
----
-
-## Waar / Niet waar
-1. Israël stopt met de oorlog omdat andere landen dat willen.
-2. Trump heeft een kaart getoond over de terugtrekking uit Gaza.
-3. De samenvatting zegt dat je hier het laatste nieuws kunt volgen.
-
-#### Antwoorden
-1. Niet Waar
-2. Waar
-3. Waar
+3. Niet Waar
 ---

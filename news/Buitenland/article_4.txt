@@ -1,15 +1,15 @@
 Artikel 4
-Nieuwsupdate: 2025-10-05 11:07 UCT
+Nieuwsupdate: 2025-10-05 17:07 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: ‘Trumpist’ Andrej Babis wint parlementsverkiezingen in Tsjechië
-Link: https://www.standaard.be/buitenland/trumpist-andrej-babis-wint-parlementsverkiezingen-in-tsjechie/95109981.html
-Datum: Sat, 04 Oct 2025 17:49:54 GMT
-Samenvatting: Miljardair en zelfbenoemd ‘Trumpist’ Andrej Babis is zaterdag met ruime voorsprong de overwinnaar geworden van de parlementsverkiezingen in Tsjechië.
+Titel: Tienduizenden protesteren in Georgië, premier kondigt harder optreden aan
+Link: https://www.standaard.be/buitenland/tienduizenden-protesteren-in-georgie-premier-kondigt-harder-optreden-aan/95200366.html
+Datum: Sun, 05 Oct 2025 11:31:00 GMT
+Samenvatting: Tienduizenden Georgiërs zijn na de lokale verkiezingen op straat gekomen tegen de regeringspartij. Die kondigt hardere repressie aan.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/3cid9p-file82odku5hs1115o6ac1o0y/alternates/BASE_SIXTEEN_NINE/file82odku5hs1115o6ac1o0y
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/lz0zdc-georgia-elections/alternates/BASE_SIXTEEN_NINE/Georgia%20Elections
+Premium: true
 ------------------------------------------------------------

@@ -1,15 +1,15 @@
 Artikel 2
-Nieuwsupdate: 2025-10-05 11:07 UCT
+Nieuwsupdate: 2025-10-05 17:07 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Dode fietser gevonden bij Belgisch-Nederlandse grens
-Link: https://www.standaard.be/binnenland/dode-fietser-gevonden-bij-belgisch-nederlandse-grens/95099727.html
-Datum: Sat, 04 Oct 2025 14:23:00 GMT
-Samenvatting: Op de grensovergang van het Nederlandse Hazeldonk en het Belgische Meer (Hoogstraten) kwam zaterdagochtend een fietser om het leven bij een aanrijding.
+Titel: Vorige regering betaalde 43.000 euro om verkeersborden weg te halen, de huidige 172.000 euro om ze terug te zetten
+Link: https://www.standaard.be/binnenland/vorige-regering-betaalde-43.000-euro-om-verkeersborden-weg-te-halen-de-huidige-172.000-euro-om-ze-terug-te-zetten/95242751.html
+Datum: Sun, 05 Oct 2025 15:23:00 GMT
+Samenvatting: De vorige Vlaamse mobiliteitsminister gaf tienduizenden euro’s uit om de waarschuwingsborden voor trajectcontroles weg te halen. De nieuwe minister geeft nu bijna vier keer zoveel geld uit om overal weer waarschuwingsborden te plaatsen.
 Auteur: Geen auteur
 Categorie: Binnenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/cxmcjh-de-gehavende-fiets-van-de-overleden-man-ligt-in-de-berm-op-de-grensovergang-in-hzeldonk-vlak-naast-de-e19-.jpg/alternates/BASE_SIXTEEN_NINE/De%20gehavende%20fiets%20van%20de%20overleden%20man%20ligt%20in%20de%20berm%20op%20de%20grensovergang%20in%20Hzeldonk%20vlak%20naast%20de%20E19_.jpg
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/t17g2x-trajectcontrole/alternates/BASE_SIXTEEN_NINE/Trajectcontrole
+Premium: true
 ------------------------------------------------------------
