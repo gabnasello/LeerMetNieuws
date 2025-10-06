@@ -1,67 +1,75 @@
-# Titel
+# Politieagenten voor de rechter
 
-30.000 mensen in Brussel voor klimaatprotest
+[vereenvoudigde titel]
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/i5ispf-klimaatbetoging-01.jpg/alternates/BASE_SIXTEEN_NINE/klimaatbetoging-01.jpg)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/30.000-mensen-in-brussel-voor-klimaatbetoging-investeer-in-onze-toekomst-niet-in-de-vernietiging-ervan/95181236.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/yf0fe2-file82nqj0ao1olrs6q0s50/alternates/BASE_SIXTEEN_NINE/file82nqj0ao1olrs6q0s50)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/maandag-verschijnen-agenten-die-pieter-aerts-neerschoten-voor-de-rechter-alles-wat-we-sinds-2019-hebben-gedaan-was-voor-de-zaak-van-onze-zoon/94902991.html)
 
-Duizenden mensen liepen op zondag mee in een klimaatmars in Brussel. De groep die de mars organiseerde, wil dat de overheid geld uitgeeft aan een goed en sterk plan voor het klimaat.
+[vereenvoudigde samenvatting]
+Maandag komen vier politieagenten voor de rechter in Antwerpen. Ze moeten uitleggen waarom Pieter Aerts (35) in 2019 in zijn huis is doodgeschoten. De politie zegt dat het zelfverdediging was. De familie zegt dat het veel te hard politiegeweld was.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
+
+[Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting]
 
 | Woord | Definitie |
 |-------|-----------|
-| **protest** | een bijeenkomst om ergens tegen te zijn of iets te vragen |
-| **klimaat** | het weer over een lange tijd in een groot gebied |
-| **mars** | een groep mensen die samen loopt voor een idee |
-| **overheid** | de mensen die een land, stad of dorp besturen |
-| **plan** | een idee over wat je gaat doen en hoe |
+| **rechter** | de persoon die beslist of iemand schuldig is |
+| **uitleggen** | zeggen waarom je iets hebt gedaan |
+| **zelfverdediging** | jezelf beschermen als iemand je aanvalt |
+| **geweld** | harde acties waarbij iemand pijn wordt gedaan |
+| **schieten** | met een wapen een kogel afvuren |
 
 ### Vul-in-de-leegte
-1. Veel mensen doen mee aan een ___ om iets te vragen.
-2. Het ___ verandert, daarom zijn mensen bezorgd.
-3. De ___ moet luisteren naar wat de mensen willen.
+[3 zinnen met ___]
+1. De agenten moeten ___ waarom ze geschoten hebben.
+2. De politie zegt dat het ___ was, maar de familie noemt het ___.
+3. De zaak gaat over een man die in 2019 is ___.
 
 #### Oplossingen
-1. protest
-2. klimaat
-3. overheid
+[oplossingen]
+1. uitleggen
+2. zelfverdediging, geweld
+3. doodgeschoten
 
 ### Meerkeuzevragen
-1. Wat is een protest?
-a) Een feestje
-b) Een bijeenkomst om iets te vragen
-c) Een sportwedstrijd
-d) Een winkel
+[3 vragen + 4 opties]
+1. Waarom komen de politieagenten voor de rechter?
+   a) Voor een feestje
+   b) Om uit te leggen wat er is gebeurd
+   c) Om nieuwe wetten te maken
+   d) Om te lunchen
 
-2. Wat is het klimaat?
-a) Het weer van vandaag
-b) Het weer over een lange tijd
-c) De temperatuur in huis
-d) Een seizoen
+2. Wat zegt de politie over wat er gebeurd is?
+   a) Het was een ongeluk
+   b) Het was zelfverdediging
+   c) Het was een grap
+   d) Ze weten het niet meer
 
-3. Wat is een mars?
-a) Alleen lopen
-b) Hardlopen
-c) Een groep mensen die samen loopt voor een idee
-d) Fietsen
+3. Waar is Pieter Aerts doodgeschoten?
+   a) Op straat
+   b) In zijn auto
+   c) In zijn huis
+   d) In het politiekantoor
 
 #### Antwoorden
+[antwoorden]
 1. b
 2. b
 3. c
 
 ### Waar / Niet Waar
-1. Een protest is altijd heel stil.
-2. Het klimaat is overal op de wereld hetzelfde.
-3. De overheid beslist soms over geld.
+[3 stellingen]
+1. De agenten komen voor de rechter op dinsdag.
+2. De familie van Pieter vindt dat de politie te hard geweld gebruikte.
+3. Pieter Aerts was 35 jaar oud.
 
 #### Antwoorden
+[antwoorden]
 1. Niet Waar
-2. Niet Waar
+2. Waar
 3. Waar
----

@@ -1,68 +1,66 @@
-# Israëlische onderhandelaars gaan naar Egypte
+# Maduro's volksleger: Venezuela bewapent burgers tegen gevreesde VS-interventie
 
-[vereenvoudigde titel]
+Maduro's volksleger: Venezuela geeft wapens aan burgers uit angst voor aanval door de Verenigde Staten
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/4ev3wy-131.jpeg/alternates/BASE_SIXTEEN_NINE/131.jpeg)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/israelische-onderhandelaars-naar-egypte-voor-gesprekken-over-gaza/35173881.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/nhp11b-file82ha2c33evlk4hfzu42/alternates/BASE_SIXTEEN_NINE/file82ha2c33evlk4hfzu42)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/maduro-s-volksleger-venezuela-bewapent-burgers-tegen-gevreesde-vs-interventie/94734876.html)
 
-Israël gaat door met de oorlog in Gaza. Andere landen vinden dat niet goed. Er zijn nu gesprekken in Egypte. Hier lees je het laatste nieuws.
-
-[vereenvoudigde samenvatting]
+De president van Venezuela, Nicolás Maduro, begint een plan waar niet iedereen het mee eens is. Hij wil vier miljoen gewone burgers leren vechten en hen wapens geven. Dit doet hij omdat de relatie met de Verenigde Staten slechter wordt en hij bang is voor een aanval.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **onderhandelaars** | Mensen die namens een land met een ander land praten om problemen op te lossen. |
-| **oorlog** | Een tijd waarin landen of groepen vechten met wapens. |
-| **andere landen** | Landen die niet hetzelfde zijn als het land waar het over gaat. |
-| **gesprekken** | Afspraken waarbij mensen met elkaar praten over belangrijke zaken. |
-| **laatste nieuws** | De meest recente informatie over iets wat nu gebeurt. |
+| **volksleger** | een leger gemaakt uit gewone burgers, niet uit professionele soldaten |
+| **wapens** | voorwerpen die je kunt gebruiken om mee te vechten of aan te vallen, zoals geweren |
+| **burgers** | gewone mensen die in een land wonen, geen soldaten of politie |
+| **aanval** | wanneer een land of groep geweld gebruikt tegen een ander |
+| **bang** | een gevoel van angst hebben, je niet veilig voelen |
 
 ### Vul-in-de-leegte
-1. De ___ gaan naar Egypte om te praten.
-2. Er is ___ in Gaza tussen Israël en Hamas.
-3. Je kunt het ___ hier lezen.
+1. De president is ___ voor een aanval van een ander land.
+2. Gewone ___ krijgen nu training van het leger.
+3. Soldaten gebruiken ___ om zich te verdedigen.
 
 #### Oplossingen
-1. onderhandelaars
-2. oorlog
-3. laatste nieuws
+1. bang
+2. burgers
+3. wapens
 
 ### Meerkeuzevragen
-1. Wat zijn onderhandelaars?
-   a) Soldaten
-   b) Mensen die praten namens een land
-   c) Artsen
-   d) Boeren
+1. Wat is een volksleger?
+   a) Een leger van professionele soldaten.
+   b) Een leger gemaakt uit gewone burgers.
+   c) Een groep politieagenten.
+   d) Een team van artsen.
 
-2. Waar gaan de onderhandelaars naartoe?
-   a) Nederland
-   b) België
-   c) Egypte
-   d) Duitsland
+2. Waarom geeft Maduro wapens aan burgers?
+   a) Om een feest te vieren.
+   b) Omdat hij bang is voor een aanval.
+   c) Om te gaan jagen.
+   d) Omdat het een traditie is.
 
-3. Wat is 'laatste nieuws'?
-   a) Oude informatie
-   b) De meest recente informatie
-   c) Een verhaal
-   d) Een liedje
+3. Wat zijn wapens?
+   a) Voorwerpen om mee te eten.
+   b) Voorwerpen om muziek mee te maken.
+   c) Voorwerpen om mee te vechten.
+   d) Voorwerpen om mee te schrijven.
 
 #### Antwoorden
 1. b
-2. c
-3. b
+2. b
+3. c
 
 ### Waar / Niet Waar
-1. Israël stopt met de oorlog in Gaza.
-2. Er zijn gesprekken in Egypte.
-3. Andere landen zijn blij met de oorlog.
+1. Maduro wil professionele soldaten trainen.
+2. De relatie tussen Venezuela en de Verenigde Staten wordt beter.
+3. Vier miljoen burgers zullen getraind worden.
 
 #### Antwoorden
 1. Niet Waar
-2. Waar
-3. Niet Waar
+2. Niet Waar
+3. Waar

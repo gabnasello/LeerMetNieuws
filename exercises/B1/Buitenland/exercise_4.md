@@ -1,8 +1,8 @@
 # Titel
-Andrej Babis, de "Tsjechische Trump", wint de verkiezingen - en dat is slecht voor Oekraïne
+Eerste vrouwelijke premier van Japan
 
 ## Samenvatting
-Andrej Babis heeft de verkiezingen in Tsjechië gewonnen. Eerst was hij voor Europa, nu is hij tegen Europa. Zijn goede vriend Viktor Orban zegt: "Dit is goed nieuws voor Europa."
+De grootste politieke partij van Japan heeft Sanae Takaichi gekozen als nieuwe leider. Ze wil de eerste vrouwelijke premier van het land worden. Ze zegt dat ze sterk wil zijn, net als een beroemde vrouwelijke leider uit Engeland.
 
 ## Woordenschatuitbreiding
 
@@ -10,50 +10,50 @@ Andrej Babis heeft de verkiezingen in Tsjechië gewonnen. Eerst was hij voor Eur
 
 | Woord | Definitie |
 |-------|-----------|
-| **verkiezingen** | wanneer mensen stemmen om een nieuwe regering te kiezen |
-| **gewonnen** | als je eerste bent geworden in een wedstrijd of verkiezing |
-| **Europa** | het werelddeel waar Nederland en Tsjechië in liggen |
-| **tegen** | niet voor iets zijn, er niet mee eens zijn |
-| **nieuws** | informatie over iets dat net gebeurd is |
+| **premier** | de leider van de regering van een land |
+| **partij** | een groep mensen met dezelfde politieke ideeën |
+| **leider** | de persoon die de baas is |
+| **vrouwelijk** | iets dat bij een vrouw hoort |
+| **sterk** | iemand die veel kracht heeft, niet zwak |
 
 ### Vul-in-de-leegte
-1. Bij ___ kiezen mensen een nieuwe regering.
-2. Andrej Babis heeft de verkiezingen ___.
-3. Viktor Orban zegt dat dit goed ___ is voor Europa.
+1. De nieuwe _____ van Japan is een vrouw.
+2. Ze is de _____ van een grote politieke partij.
+3. Ze wil een _____ bestuurder zijn.
 
 #### Oplossingen
-1. verkiezingen
-2. gewonnen
-3. nieuws
+1. premier
+2. leider
+3. sterke
 
 ### Meerkeuzevragen
-1. Wat zijn verkiezingen?
-   a) een sportwedstrijd
-   b) een feestdag
-   c) stemmen voor een nieuwe regering
-   d) een soort examen
+1. Wat is Sanae Takaichi geworden?
+   a) Koningin
+   b) Leider van een partij
+   c) Burgemeester
+   d) Leraar
 
-2. Wat betekent "tegen Europa zijn"?
-   a) heel veel van Europa houden
-   b) in Europa wonen
-   c) niet voor Europa zijn
-   d) op vakantie gaan in Europa
+2. Wat is bijzonder aan haar?
+   a) Ze is heel jong
+   b) Ze is de eerste vrouwelijke premier
+   c) Ze komt uit Amerika
+   d) Ze is een arts
 
-3. Wat is "nieuws"?
-   a) een oude geschiedenis
-   b) informatie over iets nieuws
-   c) een televisieprogramma
-   d) een soort boek
+3. Hoe wil ze zijn?
+   a) Vriendelijk
+   b) Sterk
+   c) Grappig
+   d) Rustig
 
 #### Antwoorden
-1. c) stemmen voor een nieuwe regering
-2. c) niet voor Europa zijn
-3. b) informatie over iets nieuws
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Andrej Babis heeft de verkiezingen verloren.
-2. Viktor Orban vindt het goed nieuws.
-3. Babis is nu voor Europa.
+1. Sanae Takaichi is een man.
+2. Ze is de leider van een politieke partij.
+3. Ze wil zwak zijn.
 
 #### Antwoorden
 1. Niet Waar

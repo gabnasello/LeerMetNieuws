@@ -1,15 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-10-05 19:44 UCT
+Nieuwsupdate: 2025-10-06 05:23 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Bijna duizend bergbeklimmers vast op Mount Everest – eerste 350 gered
-Link: https://www.standaard.be/buitenland/bijna-duizend-bergbeklimmers-vast-op-mount-everest-%E2%80%93-eerste-350-gered/95234082.html
-Datum: Sun, 05 Oct 2025 17:30:00 GMT
-Samenvatting: Door een zware sneeuwstorm zitten bijna duizend bergbeklimmers vast. De reddingsoperatie is volop aan de gang.
+Titel: Wie zijn de Motoristen die in Tsjechië zoveel stemmen haalden?
+Link: https://www.standaard.be/buitenland/wie-zijn-de-motoristen-die-in-tsjechie-zoveel-stemmen-haalden/95190247.html
+Datum: Sun, 05 Oct 2025 21:59:00 GMT
+Samenvatting: De winst van de Motoristen-partij in Tsjechië, die vanuit het niets dertien zetels haalt, zal de EVP bevestigen in haar verzet tegen onderdelen van de Green Deal in het Europees Parlement.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/5bpviu-a-screen-capture-from-video-shows-trekkers-leaving-their-campsite-as-unusually-heavy-snow-and-rainfall-pummeled-the-himalayas-in-the-tibet-region/alternates/BASE_SIXTEEN_NINE/A%20screen%20capture%20from%20video%20shows%20trekkers%20leaving%20their%20campsite%20as%20unusually%20heavy%20snow%20and%20rainfall%20pummeled%20the%20Himalayas%20in%20the%20Tibet%20Region
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/yveixo-belgaimage-123709319.jpg/alternates/BASE_SIXTEEN_NINE/Belgaimage-123709319.jpg
+Premium: true
 ------------------------------------------------------------

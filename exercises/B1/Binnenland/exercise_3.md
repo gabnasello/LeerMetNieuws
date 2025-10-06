@@ -1,72 +1,64 @@
-# Titel
-
-Actie "tweede cursus gratis" maakt minister boos
+# Zuid-Korea zegt sorry voor veel adopties
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/9wywfj-file814tfrjq9h0cq1ootre/alternates/BASE_SIXTEEN_NINE/file814tfrjq9h0cq1ootre)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/11-gratis-actie-in-avondonderwijs-maakt-kabinet-van-minister-demir-woedend-uw-centrum-wordt-bij-controles-prioritair-geevalueerd/95233047.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/jf2j5q-yung-fierens./alternates/BASE_SIXTEEN_NINE/Yung%20Fierens.)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/zuid-korea-biedt-excuses-aan-voor-vele-adopties-maar-een-sprookje-wordt-adoptie-toch-nooit-meer/95225859.html)
 
-Een school in Brugge voor volwassenen had deze zomer een actie: je krijgt de tweede cursus gratis. Het kantoor van de minister vindt dit niet goed en reageerde heel kwaad.
+De president van Zuid-Korea heeft gezegd dat het verkeerd was om zoveel kinderen naar andere landen te sturen voor adoptie. Hij zei dat de rechten van deze kinderen niet goed zijn beschermd. Geadopteerde mensen zeggen: wij zullen nooit helemaal kunnen vergeten wat er is gebeurd. Wat er met ons gebeurd is, is te erg.
 
 ## Woordenschatuitbreiding
 
-### Woordenschatlijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **actie** | iets wat je doet om aandacht te krijgen of iets te verkopen |
-| **cursus** | lessen over een bepaald onderwerp die je volgt |
-| **minister** | een belangrijk persoon in de regering |
-| **kantoor** | de plaats waar mensen werken, bijvoorbeeld van een minister |
-| **kwaad** | een sterk gevoel van boosheid |
+| **president** | de leider van een land |
+| **kinderen** | jonge mensen |
+| **adoptie** | wanneer iemand een kind van andere ouders neemt en voor altijd voor het kind zorgt |
+| **rechten** | dingen die je mag hebben of doen, volgens de wet |
+| **erge** | heel naar of heel slecht |
 
 ### Vul-in-de-leegte
-
-1.  De school heeft een speciale ___ om nieuwe leerlingen te krijgen.
-2.  Je betaalt voor één ___ en krijgt de tweede gratis.
-3.  Het ___ van de minister was niet blij met deze actie.
+1. De ___ van Zuid-Korea heeft sorry gezegd.
+2. Veel ___ zijn naar andere landen gestuurd.
+3. Wat er gebeurd is, is heel ___.
 
 #### Oplossingen
-
-1.  actie
-2.  cursus
-3.  kantoor
+1. president
+2. kinderen
+3. erge
 
 ### Meerkeuzevragen
+1. Wie heeft sorry gezegd?
+   a) een leraar
+   b) de president
+   c) een dokter
+   d) een politieagent
 
-1.  Wat kreeg je gratis bij de actie?
-    a) Een boek
-    b) De tweede cursus
-    c) Een computer
-    d) Een maaltijd
+2. Waar zijn de kinderen naartoe gestuurd?
+   a) naar andere landen
+   b) naar een nieuw huis in hetzelfde land
+   c) naar school
+   d) naar de dierentuin
 
-2.  Hoe reageerde het kantoor van de minister?
-    a) Ze waren heel blij.
-    b) Ze vonden het niet goed.
-    c) Ze deden alsof er niets was.
-    d) Ze begonnen zelf ook een actie.
-
-3.  Voor wie zijn de cursussen bij deze school?
-    a) Voor kinderen
-    b) Voor dieren
-    c) Voor volwassenen
-    d) Voor ministers
+3. Wat is er volgens de geadopteerde mensen te erg?
+   a) naar school gaan
+   b) wat er met hen gebeurd is
+   c) televisie kijken
+   d) buiten spelen
 
 #### Antwoorden
-
-1.  b
-2.  b
-3.  c
+1. b) de president
+2. a) naar andere landen
+3. b) wat er met hen gebeurd is
 
 ### Waar / Niet Waar
-
-1.  De actie was om nieuwe leerlingen te werven.
-2.  De minister was heel blij met de actie.
-3.  De school staat in Brugge.
+1. De president van Zuid-Korea vindt dat het goed was om kinderen weg te sturen.
+2. Geadopteerde mensen kunnen makkelijk vergeten wat er gebeurd is.
+3. De rechten van de kinderen zijn niet goed beschermd.
 
 #### Antwoorden
-
-1.  Waar
-2.  Niet Waar
-3.  Waar
+1. Niet Waar
+2. Niet Waar
+3. Waar

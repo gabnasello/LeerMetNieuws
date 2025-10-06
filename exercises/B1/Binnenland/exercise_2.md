@@ -1,13 +1,11 @@
-# Titel
-
-Vorige regering betaalde veel geld om verkeersborden weg te halen, nieuwe regering betaalt nog meer om ze terug te zetten
+# Werkgevers hebben vaak geen plan voor zieke werknemers
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/t17g2x-trajectcontrole/alternates/BASE_SIXTEEN_NINE/Trajectcontrole)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/vorige-regering-betaalde-43.000-euro-om-verkeersborden-weg-te-halen-de-huidige-172.000-euro-om-ze-terug-te-zetten/95242751.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/gg3h6z-gettyimages-1207263315.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-1207263315.jpg)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/meerderheid-werkgevers-heeft-geen-terugkeerbeleid-voor-langdurig-zieken/95284556.html)
 
-De vorige minister van verkeer in Vlaanderen gaf veel geld uit om borden weg te halen. Deze borden waarschuwden voor trajectcontroles. De nieuwe minister geeft nu bijna vier keer meer geld uit om diezelfde waarschuwingsborden overal weer terug te plaatsen.
+Meer dan de helft van de bedrijven heeft geen plan om werknemers die lang ziek zijn terug te laten komen. Dit is al drie jaar verplicht door de wet. De organisaties Kom op tegen Kanker en het Vlaams Patiëntenplatform willen dat de overheid geld geeft om dit probleem op te lossen.
 
 ## Woordenschatuitbreiding
 
@@ -15,52 +13,52 @@ De vorige minister van verkeer in Vlaanderen gaf veel geld uit om borden weg te 
 
 | Woord | Definitie |
 |-------|-----------|
-| **regering** | de groep mensen die een land of gebied bestuurt |
-| **minister** | een belangrijk persoon in de regering die over een bepaald onderwerp gaat, zoals verkeer |
-| **borden** | platen langs de weg met tekst of symbolen die informatie geven |
-| **waarschuwen** | mensen vertellen dat ze voorzichtig moeten zijn of dat er gevaar is |
-| **geld** | wat je gebruikt om iets te betalen, zoals euro's |
+| **werkgevers** | Mensen of bedrijven die andere mensen betalen om voor hen te werken. |
+| **plan** | Een manier om iets te doen dat je van tevoren bedenkt. |
+| **ziek** | Niet gezond zijn; je lichaam werkt niet goed. |
+| **verplicht** | Iets wat je móét doen, je hebt geen keuze. |
+| **organisaties** | Groepen mensen die samenwerken voor een bepaald doel. |
 
 ### Vul-in-de-leegte
-1. De minister van verkeer is een belangrijk persoon in de ___.
-2. De verkeers___ staan langs de weg.
-3. De borden ___ bestuurders voor gevaar.
+1. Veel _____ hebben geen plan voor werknemers die lang ziek zijn.
+2. Het is al drie jaar _____ om een plan te hebben.
+3. _____ vragen de overheid om hulp.
 
 #### Oplossingen
-1. regering
-2. borden
-3. waarschuwen
+1. werkgevers
+2. verplicht
+3. Organisaties
 
 ### Meerkeuzevragen
-1. Wat is een regering?
-   a) Een groep mensen die een land bestuurt.
-   b) Een soort verkeersbord.
-   c) Een grote hoeveelheid geld.
-   d) Een waarschuwing voor gevaar.
+1. Wat betekent 'werkgevers'?
+   a) Mensen die ziek zijn
+   b) Mensen die voor anderen werken
+   c) Mensen die anderen betalen om te werken
+   d) Mensen die bij de overheid werken
 
-2. Wat doen waarschuwingsborden?
-   a) Ze halen geld op.
-   b) Ze vertellen bestuurders om voorzichtig te zijn.
-   c) Ze zijn de ministers.
-   d) Ze zijn de regering.
+2. Wat is een 'plan'?
+   a) Iets wat je moet doen
+   b) Een groep mensen
+   c) Iets wat je van tevoren bedenkt
+   d) Een wet
 
-3. Wat betaal je met geld?
-   a) Je bestuurt er een land mee.
-   b) Je waarschuwt er mensen mee.
-   c) Je koopt er dingen mee of betaalt er mensen mee.
-   d) Je zet er borden mee weg.
+3. Wat betekent 'verplicht'?
+   a) Je mag zelf kiezen
+   b) Je moet het doen
+   c) Het is een goed idee
+   d) Het is niet belangrijk
 
 #### Antwoorden
-1. a
-2. b
-3. c
+1. c) Mensen die anderen betalen om te werken
+2. c) Iets wat je van tevoren bedenkt
+3. b) Je moet het doen
 
 ### Waar / Niet Waar
-1. Een minister is een verkeersbord.
-2. Geld gebruik je om iets te betalen.
-3. De regering bestuurt het land.
+1. Alle bedrijven hebben een plan voor zieke werknemers.
+2. Het hebben van een plan is verplicht.
+3. Alleen de werkgevers willen dit probleem oplossen.
 
 #### Antwoorden
 1. Niet Waar
 2. Waar
-3. Waar
+3. Niet Waar

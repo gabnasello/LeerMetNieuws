@@ -1,15 +1,15 @@
 Artikel 1
-Nieuwsupdate: 2025-10-05 19:44 UCT
+Nieuwsupdate: 2025-10-06 05:23 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Trump vloekt Netanyahu en Hamas naar cruciale onderhandelingsronde over Gaza
-Link: https://www.standaard.be/buitenland/trump-vloekt-netanyahu-en-hamas-naar-cruciale-onderhandelingsronde-over-gaza/95191724.html
-Datum: Sun, 05 Oct 2025 19:12:00 GMT
-Samenvatting: “Jij bent altijd zo fucking negatief”, beet president Trump premier Netanyahu toe. Hamas bedreigde hij met “totale uitroeiing”. Die assertiviteit heeft effect: in Egypte wordt vanaf maandag beslist over een bestand in Gaza en de uitwisseling van gijzelaars.
+Titel: Tienduizenden protesteren in Georgië, premier kondigt harder optreden aan
+Link: https://www.standaard.be/buitenland/tienduizenden-protesteren-in-georgie-premier-kondigt-harder-optreden-aan/95200366.html
+Datum: Sun, 05 Oct 2025 21:59:00 GMT
+Samenvatting: Tienduizenden Georgiërs zijn na de lokale verkiezingen op straat gekomen tegen de regeringspartij. Die kondigt een hardere repressie aan en beschuldigt de EU van inmenging.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/9s0b0f-internally-displaced-palestinians-in-khan-younis-southern-gaza-strip/alternates/BASE_SIXTEEN_NINE/Internally%20displaced%20Palestinians%20in%20Khan%20Younis%20southern%20Gaza%20Strip
+Afbeelding: https://prod-img.standaard.be/public/nieuws/lz0zdc-georgia-elections/alternates/BASE_SIXTEEN_NINE/Georgia%20Elections
 Premium: true
 ------------------------------------------------------------

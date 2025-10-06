@@ -1,66 +1,66 @@
-# Titel
+# Wie zijn de Motoristen die in Tsjechië zoveel stemmen haalden?
 
-Bijna duizend klimmers zitten vast op Mount Everest – de eerste 350 zijn gered
+[De nieuwe partij Motoristen in Tsjechië]
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/5bpviu-a-screen-capture-from-video-shows-trekkers-leaving-their-campsite-as-unusually-heavy-snow-and-rainfall-pummeled-the-himalayas-in-the-tibet-region/alternates/BASE_SIXTEEN_NINE/A%20screen%20capture%20from%20video%20shows%20trekkers%20leaving%20their%20campsite%20as%20unusually%20heavy%20snow%20and%20rainfall%20pummeled%20the%20Himalayas%20in%20the%20Tibet%20Region)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/bijna-duizend-bergbeklimmers-vast-op-mount-everest-%E2%80%93-eerste-350-gered/95234082.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/yveixo-belgaimage-123709319.jpg/alternates/BASE_SIXTEEN_NINE/Belgaimage-123709319.jpg)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/wie-zijn-de-motoristen-die-in-tsjechie-zoveel-stemmen-haalden/95190247.html)
 
-Door een zware sneeuwstorm kunnen bijna duizend klimmers niet van de berg af. Mensen zijn nu hard aan het werk om iedereen te helpen. De eerste 350 mensen zijn al in veiligheid gebracht.
+[Een nieuwe politieke partij in Tsjechië heeft veel stemmen gekregen. Ze heet Motoristen. Ze heeft 13 zetels gehaald in de verkiezingen. Deze partij is tegen delen van de Europese Green Deal. Hierdoor krijgt een andere grote groep in het Europees Parlement meer steun voor haar verzet daartegen.]
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **klimmers** | mensen die een berg beklimmen |
-| **vastzitten** | niet weg kunnen, niet kunnen vertrekken |
-| **sneeuwstorm** | heel erg harde wind met veel sneeuw |
-| **reddingsoperatie** | het werk om mensen in gevaar te helpen |
-| **veiligheid** | een plek waar geen gevaar is |
+| **partij** | een groep mensen met dezelfde politieke ideeën die meedoet aan verkiezingen |
+| **stemmen** | een keuze maken bij een verkiezing door een vakje rood te maken of een knop in te drukken |
+| **zetels** | de plaatsen in een parlement die worden vergeven na verkiezingen |
+| **verkiezingen** | een proces waarbij mensen kiezen wie hen gaat vertegenwoordigen in de politiek |
+| **verzet** | het er niet mee eens zijn en actie ondernemen tegen iets |
 
 ### Vul-in-de-leegte
-1. De _________ zorgde ervoor dat je niets kon zien.
-2. De helikopters zijn onderdeel van de grote _________.
-3. Na de redding waren de klimmers eindelijk in _________.
+1. Bij de laatste ___ heeft een nieuwe partij veel zetels gewonnen.
+2. Veel mensen gingen ___ op de partij Motoristen.
+3. De partij toont ___ tegen de nieuwe milieuregels.
 
 #### Oplossingen
-1. sneeuwstorm
-2. reddingsoperatie
-3. veiligheid
+1. verkiezingen
+2. stemmen
+3. verzet
 
 ### Meerkeuzevragen
-1. Wat zijn 'klimmers'?
-   a) Mensen die van skiën houden
-   b) Mensen die een berg beklimmen
-   c) Mensen die in de bergen wonen
-   d) Mensen die van ijs houden
+1. Wat is een politieke partij?
+   a) Een groep vrienden
+   b) Een auto-vereniging
+   c) Een groep mensen met dezelfde politieke ideeën
+   d) Een sportteam
 
-2. Wat betekent 'vastzitten'?
-   a) Heel sterk zijn
-   b) Niet kunnen bewegen of vertrekken
-   c) Iets stevig vasthouden
-   d) Snel kunnen rennen
+2. Wat gebeurt er tijdens verkiezingen?
+   a) Mensen gaan sporten
+   b) Morden gaan stemmen
+   c) Mensen gaan winkelen
+   d) Mensen gaan op reis
 
-3. Waar brengt een reddingsoperatie mensen naartoe?
-   a) Naar een nieuwe berg
-   b) Naar een sneeuwstorm
-   c) Naar gevaar
-   d) Naar veiligheid
+3. Wat is 'verzet'?
+   a) Iets heel leuk vinden
+   b) Ergens tegen zijn en actie ondernemen
+   c) Iets kopen
+   d) Iets maken
 
 #### Antwoorden
-1. b
+1. c
 2. b
-3. d
+3. b
 
 ### Waar / Niet Waar
-1. Een sneeuwstorm is goed weer om te klimmen.
-2. Een reddingsoperatie helpt mensen in problemen.
-3. Veiligheid betekent dat er gevaar is.
+1. De partij Motoristen heeft weinig stemmen gekregen.
+2. Een zetel is een stoel in een restaurant.
+3. De partij is tegen delen van de Green Deal.
 
 #### Antwoorden
 1. Niet Waar
-2. Waar
-3. Niet Waar
+2. Niet Waar
+3. Waar

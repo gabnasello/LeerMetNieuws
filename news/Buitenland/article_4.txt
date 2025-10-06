@@ -1,15 +1,15 @@
 Artikel 4
-Nieuwsupdate: 2025-10-05 19:44 UCT
+Nieuwsupdate: 2025-10-06 05:23 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Andrej Babis, de “Tsjechische Trump”, wint verkiezingen – en dat is slecht nieuws voor Oekraïne
-Link: https://www.standaard.be/buitenland/andrej-babis-de-tsjechische-trump-wint-verkiezingen-%E2%80%93-en-dat-is-slecht-nieuws-voor-oekrane/94995176.html
-Datum: Sun, 05 Oct 2025 16:23:00 GMT
-Samenvatting: Andrej Babis, de overduidelijke winnaar van de verkiezingen in Tsjechië, vervelde van pro-Europese liberaal tot euroscepticus. “Goed nieuws voor Europa”, reageert zijn goede vriend Viktor Orban.
+Titel: Thatcher-bewonderaarster wordt eerste vrouwelijke premier van Japan
+Link: https://www.standaard.be/buitenland/thatcher-bewonderaarster-wordt-eerste-vrouwelijke-premier-van-japan/95095416.html
+Datum: Sun, 05 Oct 2025 21:59:00 GMT
+Samenvatting: De Japanse Liberale Democratische Partij (LDP) heeft Sanae Takaichi tot nieuwe leider verkozen. Als toekomstige premier wil ze “de Iron Lady” van Japan worden.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/v8ybal-czech-parliamentary-election/alternates/BASE_SIXTEEN_NINE/Czech%20parliamentary%20election
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/8la5ib-japans-ruling-ldp-picks-takaichi-as-new-leader/alternates/BASE_SIXTEEN_NINE/Japans%20ruling%20LDP%20picks%20Takaichi%20as%20new%20leader
+Premium: false
 ------------------------------------------------------------

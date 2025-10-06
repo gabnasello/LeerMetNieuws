@@ -1,61 +1,75 @@
-# Titel
-Trump is boos op Netanyahu en Hamas voor belangrijke gesprekken over Gaza
+# Duizenden mensen protesteren in Georgië
+
+[vereenvoudigde titel]
 
 ## Samenvatting
-President Trump zei tegen premier Netanyahu: "Jij bent altijd zo negatief." Tegen Hamas zei hij dat hij ze helemaal weg wil maken. Door deze sterke woorden gebeurt er nu iets: in Egypte beginnen op maandag gesprekken over een stop van het vechten in Gaza en over het ruilen van gegijzelde mensen.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/lz0zdc-georgia-elections/alternates/BASE_SIXTEEN_NINE/Georgia%20Elections)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/tienduizenden-protesteren-in-georgie-premier-kondigt-harder-optreden-aan/95200366.html)
+
+[Duizenden mensen in Georgië zijn de straat op gegaan. Ze zijn boos op de regering. Dit gebeurde na verkiezingen in hun eigen steden en dorpen. De regering zegt dat ze harder zal optreden tegen de protesten. De regering zegt ook dat de Europese Unie zich met hun land bemoeit.]
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
 
+[Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting]
+
 | Woord | Definitie |
 |-------|-----------|
-| **boos** | een sterk gevoel van ergernis of woede hebben |
-| **premier** | de leider van de regering van een land |
-| **wegmaken** | iets of iemand vernietigen of laten verdwijnen |
-| **gesprekken** | een formele bijeenkomst waar mensen over belangrijke zaken praten |
-| **ruilen** | iets aan een ander geven en er iets anders voor terugkrijgen |
+| **protesten** | in het openbaar laten zien dat je het ergens niet mee eens bent |
+| **regering** | de groep mensen die een land bestuurt |
+| **verkiezingen** | het kiezen van nieuwe mensen voor de regering |
+| **optreden** | hoe de politie of regering reageert op iets |
+| **bemoeien** | je ergens mee mengen, ook al gaat het je niet aan |
 
 ### Vul-in-de-leegte
-1. De president was erg ___ op de minister.
-2. Er zijn belangrijke ___ over vrede.
-3. De twee landen willen gevangenen ___.
+[3 zinnen met ___]
+1. Mensen gaan de straat op om te ___ tegen de regering.
+2. De ___ zegt dat ze harder zal ingrijpen.
+3. De Europese Unie wordt beschuldigd van ___.
 
 #### Oplossingen
-1. boos
-2. gesprekken
-3. ruilen
+[oplossingen]
+1. protesteren
+2. regering
+3. bemoeien
 
 ### Meerkeuzevragen
-1. Wat betekent 'boos'?
-   a) heel blij
-   b) erg kwaad
-   c) een beetje moe
-   d) heel nerveus
+[3 vragen + 4 opties]
+1. Waarom protesteren de mensen in Georgië?
+   a) Omdat ze een feest vieren.
+   b) Omdat ze boos zijn op de regering.
+   c) Omdat het mooi weer is.
+   d) Omdat de winkels gesloten zijn.
 
-2. Wie is de 'premier'?
-   a) de baas van een school
-   b) de leider van een regering
-   c) een belangrijke dokter
-   d) de eigenaar van een groot bedrijf
+2. Wat zegt de regering dat ze gaat doen?
+   a) Ze gaat luisteren naar de protesten.
+   b) Ze gaat harder optreden.
+   c) Ze gaat iedereen geld geven.
+   d) Ze gaat nieuwe verkiezingen houden.
 
-3. Wat is 'ruilen'?
-   a) iets verkopen voor geld
-   b) iets weggooien
-   c) iets aan iemand geven en iets anders terugkrijgen
-   d) iets voor altijd bewaren
+3. Wat zegt de regering over de Europese Unie?
+   a) Dat ze Georgië geld geven.
+   b) Dat ze zich met het land bemoeien.
+   c) Dat ze op vakantie gaan naar Georgië.
+   d) Dat ze de verkiezingen heel goed vinden.
 
 #### Antwoorden
-1. b) erg kwaad
-2. b) de leider van een regering
-3. c) iets aan iemand geven en iets anders terugkrijgen
+[antwoorden]
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. 'Wegmaken' betekent iets een cadeau geven.
-2. 'Gesprekken' zijn informele praatjes tussen vrienden.
-3. De 'premier' is een belangrijke politieke leider.
+[3 stellingen]
+1. De protesten zijn begonnen na de verkiezingen.
+2. De regering vindt de protesten heel goed.
+3. De regering is boos op de Europese Unie.
 
 #### Antwoorden
-1. Niet Waar
+[antwoorden]
+1. Waar
 2. Niet Waar
 3. Waar
+---

@@ -1,13 +1,13 @@
 # Titel
 
-Oud-klimaatspijbelaars op protest in Brussel
+Belangrijke verdachte in geldkwestie CFE vastgezet
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/98wjgv-949.jpeg/alternates/BASE_SIXTEEN_NINE/949.jpeg)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/ex-klimaatspijbelaars-op-betoging-in-brussel-oorlog-is-belangrijk-maar-het-klimaat-blijft-het-allerbelangrijkste/95209463.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/jhc7q2-het-grand-hotel-in-ndjamena./alternates/BASE_SIXTEEN_NINE/Het%20Grand%20Hotel%20in%20NDjamena.)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/hoofdverdachte-in-smeergeldzaak-cfe-aangehouden/95283965.html)
 
-Op zondag waren er 20.000 tot 30.000 mensen die protesteerden voor het klimaat. Er waren veel mensen die vroeger spijbelden voor het klimaat. Zij zijn nu volwassen, maar zij blijven zich inzetten voor het klimaat. Hun inzet is alleen maar groter geworden.
+Een voormalige spion uit Tsjad, Abderahman Moussa, is uitgeleverd aan België en vastgezet. Hij is een belangrijk persoon in het onderzoek naar corruptie bij het Belgische bouwbedrijf CFE.
 
 ## Woordenschatuitbreiding
 
@@ -15,52 +15,56 @@ Op zondag waren er 20.000 tot 30.000 mensen die protesteerden voor het klimaat. 
 
 | Woord | Definitie |
 |-------|-----------|
-| **protest** | Een bijeenkomst om ergens tegen te zijn of om iets te vragen. |
-| **klimaat** | Het weer over een lange tijd in een groot gebied. |
-| **spijbelen** | Niet naar school gaan zonder toestemming. |
-| **volwassen** | Niet meer een kind; een persoon die ouder is dan 18 jaar. |
-| **inzet** | Je ergens voor inzetten; je best doen voor iets wat je belangrijk vindt. |
+| **verdachte** | iemand waarvan de politie denkt dat hij iets fouts heeft gedaan |
+| **geldkwestie** | een probleem of zaak waarbij geld op een oneerlijke manier wordt gegeven of genomen |
+| **voormalige** | iemand die een baan of functie niet meer heeft |
+| **uitgeleverd** | overgedragen aan een ander land voor berechting |
+| **corruptie** | het oneerlijk gebruik maken van je macht, bijvoorbeeld door steekpenningen aan te nemen |
 
 ### Vul-in-de-leegte
-1. De studenten organiseerden een ___ voor een beter milieu.
-2. Mijn zus is nu ___ en heeft een eigen huis.
-3. Zijn ___ voor de buurt is groot; hij doet veel vrijwilligerswerk.
+
+1. De politie denkt dat hij iets fouts heeft gedaan; hij is een ___.
+2. Het bedrijf wordt onderzocht wegens ___, omdat het geld aan ambtenaren zou hebben gegeven.
+3. Omdat hij in een ander land was, moest hij eerst worden ___ aan België.
 
 #### Oplossingen
-1. protest
-2. volwassen
-3. inzet
+1. verdachte
+2. corruptie
+3. uitgeleverd
 
 ### Meerkeuzevragen
-1. Wat is **spijbelen**?
-   a) Hard werken voor school
-   b) Niet naar school gaan zonder toestemming
-   c) Een feest vieren op school
-   d) Naar de bibliotheek gaan
 
-2. Wat betekent **klimaat**?
-   a) Het weer van vandaag
-   b) De temperatuur in één kamer
-   c) Het weer over een lange tijd in een groot gebied
-   d) Een warme zomer
+1. Wat is een 'verdachte'?
+   a) Iemand die getuige is van een misdrijf
+   b) Iemand waarvan wordt gedacht dat hij een misdrijf heeft gepleegd
+   c) Een politieagent die een onderzoek leidt
+   d) Een rechter die een vonnis uitspreekt
 
-3. Wat is een **protest**?
-   a) Een feestje voor een verjaardag
-   b) Een bijeenkomst om ergens tegen te zijn
-   c) Een rustige dag thuis
-   d) Een nieuwe wet van de regering
+2. Wat betekent 'uitgeleverd worden'?
+   a) Vrijgelaten worden uit de gevangenis
+   b) Overgedragen worden aan een ander land voor berechting
+   c) Een boete moeten betalen
+   d) Getuigen in de rechtbank
+
+3. Waar gaat het bij 'corruptie'?
+   a) Het maken van een productiefout
+   b) Het oneerlijk gebruiken van macht voor persoonlijk voordeel
+   c) Het snel rijden in de auto
+   d) Het organiseren van een protest
 
 #### Antwoorden
 1. b
-2. c
+2. b
 3. b
 
 ### Waar / Niet Waar
-1. **Inzet** betekent dat je je ergens voor inzet.
-2. **Volwassen** betekent dat je nog een kind bent.
-3. **Spijbelen** is altijd met toestemming van de ouders.
+
+1. Een 'voormalige' spion is iemand die nu nog steeds spion is.
+2. Bij een 'geldkwestie' gaat het vaak om oneerlijk gedrag met geld.
+3. Iemand die wordt 'uitgeleverd' mag in zijn eigen land blijven.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar
+1. Niet Waar
+2. Waar
 3. Niet Waar
+---

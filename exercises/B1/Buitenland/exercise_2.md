@@ -1,62 +1,68 @@
-# Titel
-Zelensky is boos op het Westen na grote Russische aanval
+# Russische verdachten ontlopen straf door gaten in de wet
+
+[vereenvoudigde titel]
 
 ## Samenvatting
-Lees hier het laatste nieuws over de oorlog in Oekraïne. Je kunt de app DS Nieuws downloaden. Dan krijg je een bericht als er belangrijk nieuws is.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/sw7h0b-file82nb85nfbjm1fugbw5e/alternates/BASE_SIXTEEN_NINE/file82nb85nfbjm1fugbw5e)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/verdachten-russische-sabotage-ontsnappen-aan-straf-door-grijze-zone-van-zeerecht/95190728.html)
+
+[vereenvoudigde samenvatting]
+Russische schepen worden vaak verdacht van sabotage, zoals het kapotmaken van kabels op zee of het sturen van drones boven vliegvelden. Deze schepen weten precies hoe ze moeten varen om niet gestraft te worden. Een belangrijke rechtszaak over deze mogelijke sabotage loopt voorlopig op niets uit. Het zeerecht heeft veel onduidelijke regels.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
 
+[Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting]
+
 | Woord | Definitie |
 |-------|-----------|
-| **boos** | een sterk gevoel van ongenoegen of woede hebben |
-| **aanval** | een gewelddadige actie tegen iemand of iets |
-| **oorlog** | een gewapend conflict tussen landen of groepen |
-| **laatste** | het meest recente, wat net gebeurd is |
-| **belangrijk** | iets waar veel waarde aan wordt gehecht, van groot belang |
+| **verdachten** | mensen waarvan wordt gedacht dat ze iets strafbaars hebben gedaan |
+| **ontlopen** | ervoor zorgen dat je iets niet hoeft te doen of niet wordt gepakt |
+| **sabotage** | met opzet iets kapotmaken of verstoren |
+| **rechtszaak** | een procedure in de rechtbank waarbij een rechter beslist of iemand schuldig is |
+| **onduidelijk** | niet precies bekend, vaag of moeilijk te begrijpen |
 
 ### Vul-in-de-leegte
-1.  De president was erg ___ op de andere leiders omdat ze niets zeiden.
-2.  Er was een grote ___ met veel raketten op verschillende steden.
-3.  Mensen over de hele wereld volgen het ___ nieuws over het conflict.
-
+1. De politie heeft twee ___ aangehouden voor de diefstal.
+2. Hij probeerde zijn verplichtingen te ___ door zich ziek te melden.
+3. De instructies waren heel ___ , dus wist niemand wat hij moest doen.
 #### Oplossingen
-1.  boos
-2.  aanval
-3.  laatste
+1. verdachten
+2. ontlopen
+3. onduidelijk
 
 ### Meerkeuzevragen
-1. Wat betekent 'boos'?
-   a) heel blij
-   b) heel kwaad
-   c) een beetje moe
-   d) erg verbaasd
+1. Wat is 'sabotage'?
+   a) Iets heel netjes maken
+   b) Iets met opzet kapotmaken
+   c) Iets verkopen voor veel geld
+   d) Iets nieuw uitvinden
 
-2. Wat is een 'aanval'?
-   a) een feestje vieren
-   b) iemand helpen
-   c) geweld gebruiken tegen iemand
-   d) een vraag stellen
+2. Wat gebeurt er in een 'rechtszaak'?
+   a) Er wordt een nieuwe wet gemaakt.
+   b) Een rechter beslist of iemand schuldig is.
+   c) Mensen gaan met vakantie.
+   d) Er wordt een feest gegeven.
 
-3. Wat is 'oorlog'?
-   a) een vreedzame vergadering
-   b) een sportwedstrijd
-   c) een gewapend conflict tussen landen
-   d) een soort muziek
+3. Wat betekent 'ontlopen'?
+   a) Iets zoeken
+   b) Iets kopen
+   c) Ergens voor weglopen of ervoor zorgen dat je het niet hoeft te doen
+   d) Iets repareren
 
 #### Antwoorden
-1. b) heel kwaad
-2. c) geweld gebruiken tegen iemand
-3. c) een gewapend conflict tussen landen
+1. b
+2. b
+3. c
 
 ### Waar / Niet Waar
-1. 'Belangrijk' betekent dat iets niet zo interessant is.
-2. 'Laatste' gaat over nieuws dat net gebeurd is.
-3. In een 'oorlog' vieren landen feest met elkaar.
-
+1. 'Verdachten' zijn mensen die zeker schuldig zijn.
+2. Sabotage betekent per ongeluk iets kapotmaken.
+3. Een rechter is de baas tijdens een rechtszaak.
 #### Antwoorden
 1. Niet Waar
-2. Waar
-3. Niet Waar
+2. Niet Waar
+3. Waar
 ---
