@@ -1,11 +1,13 @@
-# Veel werkgevers hebben geen plan voor zieke werknemers
+# Titel
+
+Kinderen met en zonder beperking spelen samen in Villa Clementina: "Dit zou overal in Vlaanderen moeten zijn"
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/gg3h6z-gettyimages-1207263315.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-1207263315.jpg)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/meerderheid-werkgevers-heeft-geen-terugkeerbeleid-voor-langdurig-zieken/95284556.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/spgsvo-file82pfcm3aczdfsneaedj/alternates/BASE_SIXTEEN_NINE/file82pfcm3aczdfsneaedj)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/kinderen-met-en-zonder-beperking-spelen-samen-in-villa-clementina-dit-zou-overal-in-vlaanderen-moeten-bestaan/95401913.html)
 
-Meer dan de helft van de bedrijven (57%) heeft geen plan om werknemers die lang ziek zijn geweest terug te laten keren naar hun werk. Dit is al drie jaar verplicht door de wet. De organisaties Kom op tegen Kanker en het Vlaams Patiëntenplatform willen dat de overheid meer geld geeft om dit probleem op te lossen.
+Kinderopvang Villa Clementina in Zemst is bijzonder. Eén op de drie kinderen heeft daar een beperking. Er werken ook veel vrijwilligers. Bedrijven en particulieren geven geld om de opvang te steunen. Een vader zegt: "Het is een geweldige plek. Er zouden veel meer van zulke plekken moeten zijn in Vlaanderen."
 
 ## Woordenschatuitbreiding
 
@@ -13,53 +15,53 @@ Meer dan de helft van de bedrijven (57%) heeft geen plan om werknemers die lang 
 
 | Woord | Definitie |
 |-------|-----------|
-| **werkgevers** | Mensen of bedrijven die andere mensen in dienst hebben en betalen voor hun werk. |
-| **plan** | Een gedachte over hoe je iets gaat aanpakken of doen. |
-| **terugkeren** | Weer gaan naar een plaats waar je eerst was. |
-| **verplicht** | Iets wat moet van de wet of van een regel. |
-| **organisaties** | Groepen mensen die samenwerken voor eenzelfde doel. |
+| **beperking** | Een lichamelijke of geestelijke conditie die sommige activiteiten moeilijker maakt. |
+| **vrijwilligers** | Mensen die zonder betaling ergens werken, omdat ze het graag willen doen. |
+| **sponsoren** | Geld of spullen geven om een activiteit of organisatie te steunen. |
+| **bijzonder** | Niet gewoon, speciaal of uitzonderlijk. |
+| **kinderopvang** | Een plaats waar op kinderen wordt gepast terwijl hun ouders werken of weg zijn. |
 
 ### Vul-in-de-leegte
-1. Veel _____ hebben geen goed plan voor werknemers die lang ziek zijn.
-2. Het is _____ om een plan te hebben voor zieke werknemers.
-3. Verschillende _____ vragen om meer geld van de overheid.
+1. Mensen die zonder salaris werken, noem je ___.
+2. Een plaats waar kinderen worden opgevangen, heet een ___.
+3. Bedrijven die geld geven om iets te steunen, ___ dat project.
 
 #### Oplossingen
-1. werkgevers
-2. verplicht
-3. organisaties
+1. vrijwilligers
+2. kinderopvang
+3. sponsoren
 
 ### Meerkeuzevragen
-1. Wat betekent 'werkgevers'?
-   a) Mensen die werken
-   b) Mensen die werk zoeken
-   c) Mensen die anderen betalen voor werk
-   d) Mensen die ziek zijn
+1. Wat is een 'beperking'?
+   a) Een groot talent
+   b) Een lichamelijke of geestelijke conditie die dingen moeilijker maakt
+   c) Een soort sport
+   d) Een duur voorwerp
 
-2. Wat is een 'plan'?
-   a) Een soort vakantie
-   b) Een gedachte over hoe je iets gaat doen
-   c) Een soort ziekte
-   d) Een wet van de overheid
+2. Wat betekent 'bijzonder' in deze tekst?
+   a) Heel gewoon
+   b) Speciaal en niet alledaags
+   c) Saai
+   d) Klein
 
-3. Wat betekent 'terugkeren'?
-   a) Voor het eerst ergens naartoe gaan
-   b) Weer ergens naartoe gaan waar je eerst was
-   c) Iets nieuws beginnen
-   d) Met vakantie gaan
+3. Wie zijn 'vrijwilligers'?
+   a) Mensen die veel verdienen
+   b) Mensen die verplicht moeten werken
+   c) Mensen die zonder betaling werken omdat ze het willen
+   d) Mensen die alleen voor zichzelf werken
 
 #### Antwoorden
-1. c) Mensen die anderen betalen voor werk
-2. b) Een gedachte over hoe je iets gaat doen
-3. b) Weer ergens naartoe gaan waar je eerst was
+1. b
+2. b
+3. c
 
 ### Waar / Niet Waar
-1. Alle bedrijven hebben een plan voor zieke werknemers.
-2. Het is verplicht om een plan te hebben.
-3. Alleen de werkgevers vragen om meer geld.
+1. Villa Clementina is een gewone kinderopvang zonder bijzondere kenmerken.
+2. Particulieren kunnen een organisatie ook sponsoren.
+3. Een op de drie kinderen in Villa Clementina heeft een beperking.
 
 #### Antwoorden
 1. Niet Waar
 2. Waar
-3. Niet Waar
+3. Waar
 ---

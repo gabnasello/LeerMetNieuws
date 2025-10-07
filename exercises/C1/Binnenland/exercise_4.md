@@ -1,70 +1,64 @@
-# Politieagenten voor rechter over dood Pieter Aerts
-
-[vereenvoudigde titel]
+# Vier agenten staan terecht voor de dood van Pieter Aerts
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/yf0fe2-file82nqj0ao1olrs6q0s50/alternates/BASE_SIXTEEN_NINE/file82nqj0ao1olrs6q0s50)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/maandag-verschijnen-agenten-die-pieter-aerts-neerschoten-voor-de-rechter-alles-wat-we-sinds-2019-hebben-gedaan-was-voor-de-zaak-van-onze-zoon/94902991.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/a1ejb4-job-1060894-proces-pieter-aerts/alternates/BASE_SIXTEEN_NINE/Job%201060894%20Proces%20Pieter%20Aerts)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/vier-agenten-voor-de-rechter-voor-dood-pieter-aerts-perfect-volgens-het-boekje-versus-een-waar-bloedbad/95283508.html)
 
-[vereenvoudigde samenvatting]
-
-Vier politieagenten moeten maandag bij de rechtbank in Antwerpen uitleg geven over de dood van Pieter Aerts. Deze 35-jarige man werd in 2019 in zijn eigen appartement doodgeschoten door de politie. De politie beweert dat ze handelde uit zelfverdediging, maar de familie van Pieter zegt dat het om ernstig politiegeweld ging.
+Moet een politieagent altijd alles doen wat mogelijk is, met alle gevolgen die dat heeft? De rechtszaak over Pieter Aerts (35) gaat over de vraag of de politie bij iemand binnen mag gaan zonder officiële toestemming van een rechter, zelfs als ze zich ernstige zorgen maken. Een van de agenten zegt: "Ik kan nog steeds niet begrijpen dat ik vier keer heb geschoten."
 
 ## Woordenschatuitbreiding
 
-### Woordenschatlijst
-
-[Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting]
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **rechtbank** | plaats waar rechters rechtspreken en vonnissen uitspreken |
-| **uitleg geven** | een verklaring of toelichting verschaffen over iets |
-| **zelfverdediging** | het gebruik van geweld om jezelf tegen een aanval te beschermen |
-| **politiegeweld** | het gebruik van excessieve of onnodige kracht door politieagenten |
-| **verantwoorden** | je daden of beslissingen moeten uitleggen en rechtvaardigen |
+| **terechtstaan** | voor een rechter moeten verschijnen omdat men beschuldigd wordt van een misdrijf |
+| **politieagent** | een persoon die bij de politie werkt en de taak heeft om de wet te handhaven en de openbare orde te bewaken |
+| **rechtszaak** | een procedure voor een rechter waarin wordt beslist of iemand schuldig is aan een overtreding of misdrijf |
+| **officiële toestemming** | een schriftelijk document van een bevoegde instantie (zoals een rechter) dat toestemming geeft om iets te doen |
+| **ernstige zorgen** | een sterk gevoel van ongerustheid of bezorgdheid over een mogelijk gevaarlijke situatie |
 
 ### Vul-in-de-leegte
-1. De agenten moeten zich ___ voor hun optreden tijdens de arrestatie.
-2. De familie van het slachtoffer spreekt van ___ omdat ze vinden dat de politie te veel geweld gebruikte.
-3. De politieagenten claimen dat ze handelden uit ___.
+1. De vier agenten moeten ___ omdat ze beschuldigd worden van het veroorzaken van een dodelijk incident.
+2. De politie had geen ___, maar ging toch het huis binnen.
+3. De familie van het slachtoffer maakte ___ over zijn veiligheid.
 
 #### Oplossingen
-1. verantwoorden
-2. politiegeweld
-3. zelfverdediging
+1. terechtstaan
+2. officiële toestemming
+3. ernstige zorgen
 
 ### Meerkeuzevragen
-1. Waar moeten de vier politieagenten verschijnen?
-   A) Op het politiebureau
-   B) Bij de rechtbank
-   C) In het gemeentehuis
-   D) Bij de burgemeester
+1. Waar gaat deze rechtszaak vooral over?
+   a) Het salaris van politieagenten.
+   b) Of politie zonder toestemming een huis binnen mag.
+   c) De bouw van een nieuwe gevangenis.
+   d) De verkeersregels in België.
 
-2. Wat beweert de politie over het incident?
-   A) Het was een ongeluk
-   B) Het was grof politiegeweld
-   C) Het was zelfverdediging
-   D) De man pleegde zelfmoord
+2. Wat zei een van de agenten?
+   a) Hij was trots op wat hij had gedaan.
+   b) Hij kon niet geloven dat hij had geschoten.
+   c) Hij vond het een perfecte actie.
+   d) Hij was niet aanwezig die dag.
 
-3. Wanneer vond het incident met Pieter Aerts plaats?
-   A) In 2020
-   B) In 2018
-   C) In 2019
-   D) In 2021
+3. Wat is de hoofdtaak van een politieagent?
+   a) De wet handhaven.
+   b) Auto's verkopen.
+   c) Gebouwen ontwerpen.
+   d) Zieke mensen verzorgen.
 
 #### Antwoorden
-1. B) Bij de rechtbank
-2. C) Het was zelfverdediging
-3. C) In 2019
+1. b
+2. b
+3. a
 
 ### Waar / Niet Waar
-1. Pieter Aerts werd in 2019 doodgeschoten in zijn eigen huis.
-2. De politie geeft toe dat ze fouten hebben gemaakt bij deze zaak.
-3. De familie van Pieter Aerts is het eens met de versie van de politie.
+1. Pieter Aerts was 35 jaar oud.
+2. De politieagenten hadden een huiszoekingsbevel.
+3. Een agent loste vier schoten.
 
 #### Antwoorden
 1. Waar
 2. Niet Waar
-3. Niet Waar
+3. Waar

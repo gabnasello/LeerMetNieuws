@@ -1,75 +1,64 @@
-# Politieagenten voor de rechter
-
-[vereenvoudigde titel]
+# Vier agenten voor de rechter voor de dood van Pieter Aerts
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/yf0fe2-file82nqj0ao1olrs6q0s50/alternates/BASE_SIXTEEN_NINE/file82nqj0ao1olrs6q0s50)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/maandag-verschijnen-agenten-die-pieter-aerts-neerschoten-voor-de-rechter-alles-wat-we-sinds-2019-hebben-gedaan-was-voor-de-zaak-van-onze-zoon/94902991.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/a1ejb4-job-1060894-proces-pieter-aerts/alternates/BASE_SIXTEEN_NINE/Job%201060894%20Proces%20Pieter%20Aerts)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/vier-agenten-voor-de-rechter-voor-dood-pieter-aerts-perfect-volgens-het-boekje-versus-een-waar-bloedbad/95283508.html)
 
-[vereenvoudigde samenvatting]
-Maandag komen vier politieagenten voor de rechter in Antwerpen. Ze moeten uitleggen waarom Pieter Aerts (35) in 2019 in zijn huis is doodgeschoten. De politie zegt dat het zelfverdediging was. De familie zegt dat het veel te hard politiegeweld was.
+Moet een politieagent altijd alles doen wat kan, ook als dat slechte gevolgen heeft? De zaak over Pieter Aerts (35) gaat over de vraag of de politie zomaar bij iemand binnen mag gaan. Ze hadden geen officiële toestemming, maar ze waren wel bezorgd. Een agent zegt: "Ik snap nog steeds niet dat ik vier keer heb geschoten."
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
-
-[Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting]
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **rechter** | de persoon die beslist of iemand schuldig is |
-| **uitleggen** | zeggen waarom je iets hebt gedaan |
-| **zelfverdediging** | jezelf beschermen als iemand je aanvalt |
-| **geweld** | harde acties waarbij iemand pijn wordt gedaan |
-| **schieten** | met een wapen een kogel afvuren |
+| **agent** | iemand die voor de politie werkt |
+| **rechter** | de persoon in de rechtbank die beslist of iemand schuldig is |
+| **dood** | wanneer iemand niet meer leeft |
+| **politie** | een groep mensen die de wet handhaaft en mensen beschermt |
+| **binnenkomen** | ergens naar binnen gaan |
 
 ### Vul-in-de-leegte
-[3 zinnen met ___]
-1. De agenten moeten ___ waarom ze geschoten hebben.
-2. De politie zegt dat het ___ was, maar de familie noemt het ___.
-3. De zaak gaat over een man die in 2019 is ___.
+1. De vier _____ moeten voor de _____ verschijnen.
+2. De _____ mag niet zomaar bij iemand _____ zonder toestemming.
+3. De _____ van de man was een heel verdrietig ongeval.
 
 #### Oplossingen
-[oplossingen]
-1. uitleggen
-2. zelfverdediging, geweld
-3. doodgeschoten
+1. agenten, rechter
+2. politie, binnenkomen
+3. dood
 
 ### Meerkeuzevragen
-[3 vragen + 4 opties]
-1. Waarom komen de politieagenten voor de rechter?
-   a) Voor een feestje
-   b) Om uit te leggen wat er is gebeurd
-   c) Om nieuwe wetten te maken
-   d) Om te lunchen
+1. Waar gaat de zaak over?
+   a) Een diefstal
+   b) Of de politie zomaar binnen mocht gaan
+   c) Een verkeersongeluk
+   d) Een ruzie tussen buren
 
-2. Wat zegt de politie over wat er gebeurd is?
-   a) Het was een ongeluk
-   b) Het was zelfverdediging
-   c) Het was een grap
-   d) Ze weten het niet meer
+2. Wat zei de agent?
+   a) Hij was trots op wat hij deed
+   b) Hij snapt niet dat hij vier keer schoot
+   c) Hij zou het weer zo doen
+   d) Het was zijn schuld niet
 
-3. Waar is Pieter Aerts doodgeschoten?
-   a) Op straat
-   b) In zijn auto
-   c) In zijn huis
-   d) In het politiekantoor
+3. Wat is de hoofd vraag?
+   a) Hoe oud Pieter was
+   b) Moet een agent altijd alles doen wat kan?
+   c) Wie er schuldig is
+   d) Wat er die avond gebeurde
 
 #### Antwoorden
-[antwoorden]
 1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-[3 stellingen]
-1. De agenten komen voor de rechter op dinsdag.
-2. De familie van Pieter vindt dat de politie te hard geweld gebruikte.
-3. Pieter Aerts was 35 jaar oud.
+1. De politie had een officieel papier om binnen te mogen.
+2. De agent schoot vier keer.
+3. Iedereen is het eens over wat er is gebeurd.
 
 #### Antwoorden
-[antwoorden]
 1. Niet Waar
 2. Waar
-3. Waar
+3. Niet Waar

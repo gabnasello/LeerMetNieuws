@@ -1,66 +1,66 @@
-# Wie zijn de Motoristen die in Tsjechië zoveel stemmen haalden?
+# Titel
 
-[De nieuwe partij Motoristen in Tsjechië]
+Oude en nieuwe bewoners in Zuid-Israël wonen weer naast Gaza: "Het antwoord op geweld is hier gaan wonen"
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/yveixo-belgaimage-123709319.jpg/alternates/BASE_SIXTEEN_NINE/Belgaimage-123709319.jpg)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/wie-zijn-de-motoristen-die-in-tsjechie-zoveel-stemmen-haalden/95190247.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/sm8ry5-image00003.jpg/alternates/BASE_SIXTEEN_NINE/image00003.JPG)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/oude-en-nieuwe-kibboetsbewoners-in-zuid-israel-wonen-weer-naast-gaza-het-antwoord-op-terreur-is-ons-hier-te-vestigen/95454079.html)
 
-[Een nieuwe politieke partij in Tsjechië heeft veel stemmen gekregen. Ze heet Motoristen. Ze heeft 13 zetels gehaald in de verkiezingen. Deze partij is tegen delen van de Europese Green Deal. Hierdoor krijgt een andere grote groep in het Europees Parlement meer steun voor haar verzet daartegen.]
+Twee jaar na de aanval zijn veel mensen teruggekomen naar Zuid-Israël. Honderden nieuwe mensen zijn ook komen wonen. Sommige nieuwe mensen zijn hier uit idealisme gaan wonen. "Het is goed dat er nieuwe mensen bijkomen."
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **partij** | een groep mensen met dezelfde politieke ideeën die meedoet aan verkiezingen |
-| **stemmen** | een keuze maken bij een verkiezing door een vakje rood te maken of een knop in te drukken |
-| **zetels** | de plaatsen in een parlement die worden vergeven na verkiezingen |
-| **verkiezingen** | een proces waarbij mensen kiezen wie hen gaat vertegenwoordigen in de politiek |
-| **verzet** | het er niet mee eens zijn en actie ondernemen tegen iets |
+| **bewoners** | mensen die op een plek wonen |
+| **teruggekomen** | weer op dezelfde plek zijn als voorheen |
+| **nieuwkomers** | mensen die ergens voor het eerst gaan wonen |
+| **idealisme** | ergens gaan wonen of werken omdat je in een ideaal gelooft |
+| **bijkomen** | dat er meer mensen komen |
 
 ### Vul-in-de-leegte
-1. Bij de laatste ___ heeft een nieuwe partij veel zetels gewonnen.
-2. Veel mensen gingen ___ op de partij Motoristen.
-3. De partij toont ___ tegen de nieuwe milieuregels.
+1. De oude ___ zijn teruggekeerd naar hun huizen.
+2. Veel ___ zijn uit overtuiging naar de grens verhuisd.
+3. Het is positief dat er ___ is in de regio.
 
 #### Oplossingen
-1. verkiezingen
-2. stemmen
-3. verzet
+1. bewoners
+2. nieuwkomers
+3. nieuwe aanwas
 
 ### Meerkeuzevragen
-1. Wat is een politieke partij?
-   a) Een groep vrienden
-   b) Een auto-vereniging
-   c) Een groep mensen met dezelfde politieke ideeën
-   d) Een sportteam
+1. Waarom zijn sommige nieuwe bewoners naar de grens verhuisd?
+   a) Voor hun werk
+   b) Uit idealisme
+   c) Omdat het goedkoper is
+   d) Voor het mooie uitzicht
 
-2. Wat gebeurt er tijdens verkiezingen?
-   a) Mensen gaan sporten
-   b) Morden gaan stemmen
-   c) Mensen gaan winkelen
-   d) Mensen gaan op reis
+2. Wat is de betekenis van 'teruggekomen'?
+   a) Voor het eerst ergens heen gaan
+   b) Weer op dezelfde plek zijn als vroeger
+   c) Iemand bezoeken
+   d) Iets nieuws beginnen
 
-3. Wat is 'verzet'?
-   a) Iets heel leuk vinden
-   b) Ergens tegen zijn en actie ondernemen
-   c) Iets kopen
-   d) Iets maken
+3. Wat wordt bedoeld met 'nieuwe aanwas'?
+   a) Mensen die vertrekken
+   b) Mensen die terugkeren
+   c) Mensen die voor het eerst komen
+   d) Mensen die op bezoek komen
 
 #### Antwoorden
-1. c
+1. b
 2. b
-3. b
+3. c
 
 ### Waar / Niet Waar
-1. De partij Motoristen heeft weinig stemmen gekregen.
-2. Een zetel is een stoel in een restaurant.
-3. De partij is tegen delen van de Green Deal.
+1. Alle bewoners zijn na twee jaar teruggekeerd naar Zuid-Israël.
+2. Nieuwkomers zijn mensen die voor het eerst in een gebied gaan wonen.
+3. Idealisme betekent dat je ergens gaat wonen omdat je in een ideaal gelooft.
 
 #### Antwoorden
 1. Niet Waar
-2. Niet Waar
+2. Waar
 3. Waar

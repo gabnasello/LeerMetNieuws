@@ -1,13 +1,13 @@
-# Maduro's volksleger: Venezuela bewapent burgers tegen gevreesde VS-interventie
+# Titel
 
-Maduro's volksleger: Venezuela geeft wapens aan burgers uit angst voor aanval door de Verenigde Staten
+Waarom de Labour-partij zo bang is voor beschuldigingen van antisemitisme
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/nhp11b-file82ha2c33evlk4hfzu42/alternates/BASE_SIXTEEN_NINE/file82ha2c33evlk4hfzu42)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/maduro-s-volksleger-venezuela-bewapent-burgers-tegen-gevreesde-vs-interventie/94734876.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/6jku9v-protest-in-support-of-palestine-action-in-central-london/alternates/BASE_SIXTEEN_NINE/Protest%20in%20support%20of%20Palestine%20Action%20in%20central%20London)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/hoe-labour-als-de-dood-is-voor-beschuldigingen-van-antisemitisme-zeker-na-de-aanslag-in-manchester/95377538.html)
 
-De president van Venezuela, Nicolás Maduro, begint een plan waar niet iedereen het mee eens is. Hij wil vier miljoen gewone burgers leren vechten en hen wapens geven. Dit doet hij omdat de relatie met de Verenigde Staten slechter wordt en hij bang is voor een aanval.
+De Britse regering wil dat de politie meer mag ingrijpen bij protesten voor Palestina. Dit past niet goed bij de cultuur en normen van het land. De tekst legt uit waarom de Labour-partij ook zo bang is voor dit soort protesten en de beschuldigingen die ermee te maken hebben.
 
 ## Woordenschatuitbreiding
 
@@ -15,40 +15,39 @@ De president van Venezuela, Nicolás Maduro, begint een plan waar niet iedereen 
 
 | Woord | Definitie |
 |-------|-----------|
-| **volksleger** | een leger gemaakt uit gewone burgers, niet uit professionele soldaten |
-| **wapens** | voorwerpen die je kunt gebruiken om mee te vechten of aan te vallen, zoals geweren |
-| **burgers** | gewone mensen die in een land wonen, geen soldaten of politie |
-| **aanval** | wanneer een land of groep geweld gebruikt tegen een ander |
-| **bang** | een gevoel van angst hebben, je niet veilig voelen |
+| **regering** | De groep mensen die een land bestuurt. |
+| **protesten** | Bijeenkomsten waar mensen laten weten dat ze het ergens niet mee eens zijn. |
+| **partij** | Een groep mensen met dezelfde ideeën over politiek. |
+| **bang** | Een gevoel van angst hebben. |
+| **beschuldigingen** | Iets zeggen wat iemand verkeerd heeft gedaan. |
 
 ### Vul-in-de-leegte
-1. De president is ___ voor een aanval van een ander land.
-2. Gewone ___ krijgen nu training van het leger.
-3. Soldaten gebruiken ___ om zich te verdedigen.
-
+1. De _____ wil nieuwe wetten maken.
+2. Mensen houden een _____ omdat ze ontevreden zijn.
+3. Hij is _____ voor spinnen.
 #### Oplossingen
-1. bang
-2. burgers
-3. wapens
+1. regering
+2. protest
+3. bang
 
 ### Meerkeuzevragen
-1. Wat is een volksleger?
-   a) Een leger van professionele soldaten.
-   b) Een leger gemaakt uit gewone burgers.
-   c) Een groep politieagenten.
-   d) Een team van artsen.
+1. Wat is een 'regering'?
+   a) Een groep artsen
+   b) Een groep die een land bestuurt
+   c) Een sportteam
+   d) Een muziekgroep
 
-2. Waarom geeft Maduro wapens aan burgers?
-   a) Om een feest te vieren.
-   b) Omdat hij bang is voor een aanval.
-   c) Om te gaan jagen.
-   d) Omdat het een traditie is.
+2. Wat doe je bij een 'protest'?
+   a) Je viert een feestje
+   b) Je laat zien dat je het ergens niet mee eens bent
+   c) Je gaat winkelen
+   d) Je gaat naar de film
 
-3. Wat zijn wapens?
-   a) Voorwerpen om mee te eten.
-   b) Voorwerpen om muziek mee te maken.
-   c) Voorwerpen om mee te vechten.
-   d) Voorwerpen om mee te schrijven.
+3. Wat is een 'beschuldiging'?
+   a) Iemand een cadeau geven
+   b) Iemand helpen
+   c) Iets zeggen wat iemand verkeerd heeft gedaan
+   d) Iemand feliciteren
 
 #### Antwoorden
 1. b
@@ -56,9 +55,9 @@ De president van Venezuela, Nicolás Maduro, begint een plan waar niet iedereen 
 3. c
 
 ### Waar / Niet Waar
-1. Maduro wil professionele soldaten trainen.
-2. De relatie tussen Venezuela en de Verenigde Staten wordt beter.
-3. Vier miljoen burgers zullen getraind worden.
+1. Een 'partij' is een groep mensen die samen sporten.
+2. 'Bang' zijn is een fijn gevoel.
+3. De 'regering' bestuurt een land.
 
 #### Antwoorden
 1. Niet Waar

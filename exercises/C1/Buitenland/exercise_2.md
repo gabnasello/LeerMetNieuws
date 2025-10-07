@@ -1,13 +1,13 @@
 # Titel
 
-Verdachten van Russische sabotage ontlopen straf door onduidelijkheid in het zeerecht
+Eerste dag van vredesbesprekingen “goed verlopen”
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/sw7h0b-file82nb85nfbjm1fugbw5e/alternates/BASE_SIXTEEN_NINE/file82nb85nfbjm1fugbw5e)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/verdachten-russische-sabotage-ontsnappen-aan-straf-door-grijze-zone-van-zeerecht/95190728.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/8d0pra-smoke-rises-following-explosions-in-gaza-city-as-seen-from-central-gaza-strip/alternates/BASE_SIXTEEN_NINE/Smoke%20rises%20following%20explosions%20in%20Gaza%20City%20as%20seen%20from%20central%20Gaza%20Strip)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/eerste-dag-van-vredesonderhandelingen-positief-afgerond/35173881.html)
 
-Bij beschadigde kabels in zee of drones boven vliegvelden wordt vaak gedacht aan de Russische schaduwvloot. Die vloot weet hoe ze moet varen om niet gestraft te worden. Een rechtszaak over mogelijke sabotage, waar veel van werd verwacht, levert voorlopig weinig op. "Het zeerecht is onduidelijk."
+Israël gaat door met de verwoestende oorlog in Gaza, ook al is er steeds meer kritiek uit andere landen. Hier vind je het laatste nieuws.
 
 ## Woordenschatuitbreiding
 
@@ -15,53 +15,52 @@ Bij beschadigde kabels in zee of drones boven vliegvelden wordt vaak gedacht aan
 
 | Woord | Definitie |
 |-------|-----------|
-| **ontlopen** | eraan weten te ontsnappen, weten te vermijden |
-| **zeerecht** | de wetten en regels die gelden op zee |
-| **schaduwvloot** | een geheime of niet-officiële vloot van schepen |
-| **sabotage** | het met opzet beschadigen of verstoren van iets |
-| **onduidelijk** | niet duidelijk, vaag, moeilijk te begrijpen |
+| **vredesbesprekingen** | Officiële gesprekken tussen partijen in een conflict om tot vrede te komen |
+| **verwoestend** | Iets dat enorme schade of vernietiging veroorzaakt |
+| **oorlog** | Gewapend conflict tussen landen of groepen binnen een land |
+| **kritiek** | Uiting van afkeuring of bezwaren tegen iets of iemand |
+| **internationale** | Betrekking hebbend op of tussen verschillende landen |
 
 ### Vul-in-de-leegte
-1.  Het is moeilijk om iemand te straffen als de wet ___ is.
-2.  De ___ voer 's nachts om niet gezien te worden.
-3.  De verdachten probeerden hun straf te ___.
+1. De ___ tussen de twee landen werden onderbroken door nieuwe gevechten.
+2. De bombardementen hadden een ___ effect op de stad.
+3. Er kwam veel ___ op het besluit om de aanval voort te zetten.
 
 #### Oplossingen
-1.  onduidelijk
-2.  schaduwvloot
-3.  ontlopen
+1. vredesbesprekingen
+2. verwoestend
+3. kritiek
 
 ### Meerkeuzevragen
-1. Wat is 'zeerecht'?
-   A) Recht om te varen
-   B) Wetten die gelden op zee
-   C) Recht op visvangst
-   D) Een soort belasting
+1. Wat zijn 'vredesbesprekingen'?
+   a) Gesprekken over handel
+   b) Officiële gesprekken om een conflict te beëindigen
+   c) Een soort protest
+   d) Een militaire operatie
 
-2. Wat doet een 'schaduwvloot'?
-   A) Vist in het donker
-   B) Vaart in het geheim
-   C) Werpt schaduwen
-   D) Vervoert steenkool
+2. Wat betekent 'verwoestend'?
+   a) Iets dat opbouwt
+   b) Iets dat enorme schade veroorzaakt
+   c) Iets dat vrede brengt
+   d) Iets dat tijdelijk is
 
-3. Wat betekent 'sabotage'?
-   A) Per ongeluk iets kapotmaken
-   B) Iets met opzet beschadigen
-   C) Iets heel voorzichtig doen
-   D) Iets repareren
+3. Wat is 'internationale kritiek'?
+   a) Goedkeuring vanuit het buitenland
+   b) Afkeuring vanuit verschillende landen
+   c) Een binnenlandse discussie
+   d) Een soort compliment
 
 #### Antwoorden
-1.  B
-2.  B
-3.  B
+1. b) Officiële gesprekken om een conflict te beëindigen
+2. b) Iets dat enorme schade veroorzaakt
+3. b) Afkeuring vanuit verschillende landen
 
 ### Waar / Niet Waar
-1.  De schaduwvloot wil graag opgemerkt worden.
-2.  De rechtszaak had een duidelijke uitkomst.
-3.  Het zeerecht is voor iedereen heel duidelijk.
+1. 'Oorlog' is een gewapend conflict tussen partijen.
+2. 'Kritiek' betekent dat je het ergens volledig mee eens bent.
+3. 'Internationale' heeft alleen betrekking op zaken binnen één land.
 
 #### Antwoorden
-1.  Niet Waar
-2.  Niet Waar
-3.  Niet Waar
----
+1. Waar
+2. Niet Waar
+3. Niet Waar

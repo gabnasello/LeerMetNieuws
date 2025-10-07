@@ -1,67 +1,61 @@
 # Titel
-
-Hoofdverdachte in omkoopschandaal CFE gearresteerd
+Nooit eerder zijn zoveel jongeren door de jeugdrechtbank begeleid vanwege een misdrijf
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/jhc7q2-het-grand-hotel-in-ndjamena./alternates/BASE_SIXTEEN_NINE/Het%20Grand%20Hotel%20in%20NDjamena.)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/hoofdverdachte-in-smeergeldzaak-cfe-aangehouden/95283965.html)
-
-De Tsjadische voormalige inlichtingenofficier Abderahman Moussa, een van de belangrijkste personen in het corruptieonderzoek naar het Belgische bouwbedrijf CFE, is aan België overgedragen en in hechtenis genomen.
+Het aantal jongeren dat door de jeugdrechtbank wordt begeleid omdat ze een misdrijf hebben gepleegd, is vorig jaar sterk toegenomen. Het aantal steeg van 2.447 naar 2.630. Hierdoor is ook het aantal jongeren dat in een gesloten jeugdinstelling wordt geplaatst, aanzienlijk gestegen.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **hoofdverdachte** | De belangrijkste persoon die wordt verdacht van het plegen van een misdrijf. |
-| **omkoopschandaal** | Een groot schandaal waarbij geld of gunsten worden gegeven om iemand om te kopen of te beïnvloeden. |
-| **voormalige** | Iemand die een bepaalde functie of baan in het verleden had, maar nu niet meer. |
-| **overgedragen** | Het officieel overdragen van een persoon van het ene land of gezag aan het andere. |
-| **hechtenis** | De vrijheidsberoving van een verdachte in afwachting van een rechtszaak. |
+| **jeugdrechtbank** | Een speciale rechtbank die rechtspreekt over minderjarigen die een wet hebben overtreden. |
+| **misdrijf** | Een ernstige, strafbare overtreding van de wet. |
+| **begeleiden** | Iemand helpen, ondersteunen en controleren, vaak in een juridische context. |
+| **toenemen** | Groter in aantal of hoeveelheid worden; stijgen. |
+| **gesloten instelling** | Een inrichting waar mensen (in dit geval jongeren) verblijven zonder vrij naar buiten te mogen. |
 
 ### Vul-in-de-leegte
-1. De politie heeft de ___ in de zaak kunnen arresteren.
-2. Het bedrijf raakte betrokken bij een groot ___ dat veel publiciteit kreeg.
-3. Na zijn ___ aan de Belgische autoriteiten, werd hij onmiddellijk in ___ genomen.
+1.  De ___ is speciaal voor minderjarigen die met justitie in aanraking komen.
+2.  Het aantal meldingen bleef ___ waardoor de druk op de hulpverlening groter werd.
+3.  Na de uitspraak van de rechter kan een jongere in een ___ worden geplaatst.
 
 #### Oplossingen
-1. hoofdverdachte
-2. omkoopschandaal
-3. overdracht, hechtenis
+1.  jeugdrechtbank
+2.  toenemen
+3.  gesloten instelling
 
 ### Meerkeuzevragen
-1. Wat is een 'hoofdverdachte'?
-   a) Een getuige van een misdrijf
-   b) De rechter in een rechtszaak
-   c) De belangrijkste verdachte in een zaak
-   d) Een advocaat van de verdediging
+1.  Wat is een 'misdrijf'?
+    A) Een kleine overtreding
+    B) Een ernstige wetsovertreding
+    C) Een schoolregel
+    D) Een ongeluk
 
-2. Wat betekent 'overgedragen' in deze context?
-   a) Iemand de vrijheid geven
-   b) Iemand officieel aan een ander land of gezag geven
-   c) Iemand verhoren
-   d) Iemand vervoeren naar een andere gevangenis
+2.  Wat doet een jeugdrechtbank?
+    A) organiseert jeugdkampen
+    B) spreekt recht over jongeren
+    C) geeft advies aan scholen
+    D) beheert sportclubs
 
-3. Wat is 'hechtenis'?
-   a) Een soort boete
-   b) Vrijheidsberoving van een verdachte voor de rechtszaak
-   c) Een verhoor door de politie
-   d) Een getuigenverklaring
+3.  Wat betekent 'begeleiden' in deze tekst?
+    A) iemand wegsturen
+    B) iemand helpen en controleren
+    C) iemand negeren
+    D) iemand straffen zonder hulp
 
 #### Antwoorden
-1. c
-2. b
-3. b
+1.  B
+2.  B
+3.  B
 
 ### Waar / Niet Waar
-1. Een 'voormalige' officier is iemand die nu nog steeds die functie bekleedt.
-2. Een 'omkoopschandaal' gaat over het geven van geld of gunsten om iemand te beïnvloeden.
-3. 'Overdragen' betekent dat iemand zijn vrijheid terugkrijgt.
+1.  Het aantal jongeren dat door de jeugdrechtbank wordt begeleid, is gedaald.
+2.  Een gesloten instelling is een plek waar je vrij naar buiten mag.
+3.  De stijging van het aantal begeleide jongeren leidde tot meer opnames in jeugdinstellingen.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
+1.  Niet Waar
+2.  Niet Waar
+3.  Waar

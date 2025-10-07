@@ -1,67 +1,76 @@
-# Titel
+# Trump wil de rebelliewet gebruiken voor de Nationale Garde
 
-Duizenden mensen demonstreren in Georgië, regeringsleider belooft strengere aanpak
+[vereenvoudigde titel]
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/lz0zdc-georgia-elections/alternates/BASE_SIXTEEN_NINE/Georgia%20Elections)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/tienduizenden-protesteren-in-georgie-premier-kondigt-harder-optreden-aan/95200366.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/q1yhga-federal-crackdown-chicago/alternates/BASE_SIXTEEN_NINE/Federal%20Crackdown-Chicago)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/trump-wil-indien-nodig-rebelliewet-inroepen-om-nationale-garde-in-te-zetten/35131945.html)
 
-Duizenden inwoners van Georgië zijn de straat op gegaan na de verkiezingen in hun eigen steden en dorpen. Ze protesteren tegen de partij die aan de macht is. De regering zegt dat ze nog strenger zal optreden tegen de demonstranten. Ook zegt de regering dat de Europese Unie zich met hun zaken bemoeit.
+[vereenvoudigde samenvatting]
+Donald Trump is voor de tweede keer president van Amerika geworden. Zijn beleid zorgt voor veel veranderingen over de hele wereld. Op deze pagina lees je het laatste nieuws.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
 
+[Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting]
+
 | Woord | Definitie |
 |-------|-----------|
-| **demonstreren** | in een groep bij elkaar komen om ergens voor of tegen te zijn, vaak op straat |
-| **regeringsleider** | de belangrijkste persoon van de regering van een land |
-| **aanpak** | de manier waarop je iets gaat doen of oplossen |
-| **protesteren** | laten weten dat je het ergens niet mee eens bent |
-| **bemoeien** | je ergens mee mengen, ook al gaat het je niet direct aan |
+| **Rebelliewet** | Een speciale wet die de president meer macht geeft om het leger in te zetten in eigen land. |
+| **Inroepen** | Om hulp vragen of officieel gebruiken, zoals een wet of een persoon met macht. |
+| **Nationale Garde** | Een reserveleger in de Verenigde Staten dat de politie kan helpen in binnenlandse noodsituaties. |
+| **President** | Het hoogste politieke leider van een land, die aan het hoofd staat van de regering. |
+| **Beleid** | De plannen en regels die een regering of organisatie maakt en uitvoert. |
 
 ### Vul-in-de-leegte
-1. De mensen gaan _____ tegen de nieuwe wet.
-2. De _____ van het land gaf een toespraak op televisie.
-3. De buurvrouw moet altijd met alles _____.
+[3 zinnen met ___]
+1. De president kan een speciale wet ___ om soldaten te sturen.
+2. De ___ is een Amerikaanse eenheid die bij problemen in het land kan helpen.
+3. Het ___ van de nieuwe regering zorgt voor grote veranderingen.
 
 #### Oplossingen
-1. protesteren
-2. regeringsleider
-3. bemoeien
+[oplossingen]
+1. inroepen
+2. Nationale Garde
+3. beleid
 
 ### Meerkeuzevragen
-1. Wat betekent 'demonstreren'?
-   a) thuis blijven
-   b) op straat laten zien dat je iets niet goed vindt
-   c) een feestje vieren
-   d) een brief schrijven
+[3 vragen + 4 opties]
+1. Wat is de 'Rebelliewet'?
+   a) Een wet tegen de president.
+   b) Een wet die de president meer macht geeft in noodsituaties.
+   c) Een wet over buitenlandse handel.
+   d) Een wet voor nieuwe verkiezingen.
 
-2. Wie is de 'regeringsleider'?
-   a) de baas van een school
-   b) de belangrijkste persoon van de regering
-   c) de leider van een protest
-   d) een dokter
+2. Wat doet de Nationale Garde?
+   a) Ze vechten alleen in het buitenland.
+   b) Ze helpen bij rampen en problemen in eigen land.
+   c) Ze maken nieuwe wetten voor de regering.
+   d) Ze zijn de persoonlijke bewakers van de president.
 
-3. Wat doe je als je je 'bemoeit' met iets?
-   a) je houdt je erbuiten
-   b) je gaat ergens anders heen
-   c) je mengt je in een situatie
-   d) je gaat slapen
+3. Wat betekent 'inroepen'?
+   a) Iemand ontslaan.
+   b) Iets weigeren.
+   c) Officieel om hulp vragen of gebruiken.
+   d. Iets minder belangrijk maken.
 
 #### Antwoorden
-1. b) op straat laten zien dat je iets niet goed vindt
-2. b) de belangrijkste persoon van de regering
-3. c) je mengt je in een situatie
+[antwoorden]
+1. b
+2. b
+3. c
 
 ### Waar / Niet Waar
-1. 'Aanpak' gaat over de manier waarop je iets doet.
-2. 'Protesteren' betekent dat je ergens heel blij mee bent.
-3. De regeringsleider is de baas van een supermarkt.
+[3 stellingen]
+1. Donald Trump is de president van Duitsland.
+2. De Nationale Garde is een reserveleger in de Verenigde Staten.
+3. De rebelliewet geeft de president minder macht.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar
+[antwoorden]
+1. Niet Waar
+2. Waar
 3. Niet Waar
 ---

@@ -1,75 +1,67 @@
-# Duizenden mensen protesteren in Georgië
+# Titel
 
-[vereenvoudigde titel]
+Trump wil de Nationale Garde sturen
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/lz0zdc-georgia-elections/alternates/BASE_SIXTEEN_NINE/Georgia%20Elections)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/tienduizenden-protesteren-in-georgie-premier-kondigt-harder-optreden-aan/95200366.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/q1yhga-federal-crackdown-chicago/alternates/BASE_SIXTEEN_NINE/Federal%20Crackdown-Chicago)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/trump-wil-indien-nodig-rebelliewet-inroepen-om-nationale-garde-in-te-zetten/35131945.html)
 
-[Duizenden mensen in Georgië zijn de straat op gegaan. Ze zijn boos op de regering. Dit gebeurde na verkiezingen in hun eigen steden en dorpen. De regering zegt dat ze harder zal optreden tegen de protesten. De regering zegt ook dat de Europese Unie zich met hun land bemoeit.]
+Donald Trump is voor de tweede keer president van Amerika. Hij maakt dingen over de hele wereld anders. Hier lees je het laatste nieuws.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
 
-[Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting]
-
 | Woord | Definitie |
 |-------|-----------|
-| **protesten** | in het openbaar laten zien dat je het ergens niet mee eens bent |
-| **regering** | de groep mensen die een land bestuurt |
-| **verkiezingen** | het kiezen van nieuwe mensen voor de regering |
-| **optreden** | hoe de politie of regering reageert op iets |
-| **bemoeien** | je ergens mee mengen, ook al gaat het je niet aan |
+| **president** | de leider van een land |
+| **tweede** | nummer twee, niet de eerste keer |
+| **wereldwijd** | over de hele wereld |
+| **veranderingen** | dingen die anders worden |
+| **laatste** | het meest recente, het nieuwste |
 
 ### Vul-in-de-leegte
-[3 zinnen met ___]
-1. Mensen gaan de straat op om te ___ tegen de regering.
-2. De ___ zegt dat ze harder zal ingrijpen.
-3. De Europese Unie wordt beschuldigd van ___.
+1. De _____ van een land heeft veel macht.
+2. Dit is zijn _____ keer dat hij president is.
+3. Het nieuws gaat over de _____ ontwikkelingen.
 
 #### Oplossingen
-[oplossingen]
-1. protesteren
-2. regering
-3. bemoeien
+1. president
+2. tweede
+3. laatste
 
 ### Meerkeuzevragen
-[3 vragen + 4 opties]
-1. Waarom protesteren de mensen in Georgië?
-   a) Omdat ze een feest vieren.
-   b) Omdat ze boos zijn op de regering.
-   c) Omdat het mooi weer is.
-   d) Omdat de winkels gesloten zijn.
+1. Wat is de president?
+A) Een soort auto
+B) De leider van een land
+C) Een grote stad
+D) Een oud gebouw
 
-2. Wat zegt de regering dat ze gaat doen?
-   a) Ze gaat luisteren naar de protesten.
-   b) Ze gaat harder optreden.
-   c) Ze gaat iedereen geld geven.
-   d) Ze gaat nieuwe verkiezingen houden.
+2. Wat betekent 'wereldwijd'?
+A) Alleen in een dorp
+B) Over de hele wereld
+C) Binnen één huis
+D) Onder de grond
 
-3. Wat zegt de regering over de Europese Unie?
-   a) Dat ze Georgië geld geven.
-   b) Dat ze zich met het land bemoeien.
-   c) Dat ze op vakantie gaan naar Georgië.
-   d) Dat ze de verkiezingen heel goed vinden.
+3. Wat zijn 'veranderingen'?
+A) Dingen die hetzelfde blijven
+B) Dingen die kapot zijn
+C) Dingen die anders worden
+D) Dingen die heel duur zijn
 
 #### Antwoorden
-[antwoorden]
-1. b
-2. b
-3. b
+1. B) De leider van een land
+2. B) Over de hele wereld
+3. C) Dingen die anders worden
 
 ### Waar / Niet Waar
-[3 stellingen]
-1. De protesten zijn begonnen na de verkiezingen.
-2. De regering vindt de protesten heel goed.
-3. De regering is boos op de Europese Unie.
+1. Trump is voor de eerste keer president.
+2. De samenvatting gaat over het laatste nieuws.
+3. 'Wereldwijd' betekent alleen in België.
 
 #### Antwoorden
-[antwoorden]
-1. Waar
-2. Niet Waar
-3. Waar
+1. Niet Waar
+2. Waar
+3. Niet Waar
 ---

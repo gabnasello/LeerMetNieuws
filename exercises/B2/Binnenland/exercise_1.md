@@ -1,7 +1,13 @@
-# Hoofdverdachte in corruptiezaak CFE gearresteerd
+# Titel
+
+Nooit zoveel jongeren door de jeugdrechtbank begeleid vanwege een misdrijf
 
 ## Samenvatting
-Een voormalige Tsjadische spion, Abderahman Moussa, is uitgeleverd aan België en gearresteerd. Hij is een belangrijke verdachte in een onderzoek naar corruptie bij het Belgische bouwbedrijf CFE.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/lz76o0-gesloten-jeugdinstelling-de-grubbe/alternates/BASE_SIXTEEN_NINE/gesloten%20jeugdinstelling%20De%20Grubbe)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/nooit-zoveel-jongeren-door-jeugdrechtbank-opgevolgd-wegens-misdrijf/95560703.html)
+
+Het aantal jongeren dat begeleid wordt door de jeugdrechtbank vanwege een misdrijf is vorig jaar sterk gestegen. Het ging van 2.447 naar 2.630 jongeren. Hierdoor zijn ook veel meer jongeren opgenomen in gesloten jeugdinstellingen.
 
 ## Woordenschatuitbreiding
 
@@ -9,40 +15,40 @@ Een voormalige Tsjadische spion, Abderahman Moussa, is uitgeleverd aan België e
 
 | Woord | Definitie |
 |-------|-----------|
-| **hoofdverdachte** | de belangrijkste persoon die verdacht wordt van een misdrijf |
-| **corruptie** | het oneerlijk handelen, vaak door machtsmisbruik voor persoonlijk gewin |
-| **uitgeleverd** | overgedragen aan een ander land voor berechting |
-| **gearresteerd** | officieel vastgehouden door de politie omdat men verdacht wordt van een misdaad |
-| **onderzoek** | een systematische zoektocht naar informatie of de waarheid |
+| **jeugdrechtbank** | een speciale rechtbank die beslist over zaken waarin jongeren betrokken zijn |
+| **begeleid** | geholpen en in de gaten gehouden worden |
+| **misdrijf** | een ernstige strafbare handeling, een zwaar vergrijp |
+| **sterk gestegen** | met een grote hoeveelheid omhoog gegaan |
+| **gesloten jeugdinstelling** | een speciale plek waar jongeren verblijven die niet vrij mogen komen |
 
 ### Vul-in-de-leegte
-1. De politie heeft de ___ omdat ze denken dat hij iets illegaals heeft gedaan.
-2. Er is een ___ gestart om te kijken of er bij het bedrijf sprake is van ___.
-3. De man werd ___ aan België en is nu ___.
+1. De jeugdrechtbank beslist over jongeren die een ___ hebben gepleegd.
+2. Het aantal meldingen is ___ door de nieuwe regels.
+3. Jongeren in een ___ kunnen niet zomaar naar buiten.
 
 #### Oplossingen
-1. hoofdverdachte
-2. onderzoek, corruptie
-3. uitgeleverd, gearresteerd
+1. misdrijf
+2. sterk gestegen
+3. gesloten jeugdinstelling
 
 ### Meerkeuzevragen
-1. Wat is een 'hoofdverdachte'?
-   a) De rechter in een rechtszaak
-   b) De belangrijkste persoon die verdacht wordt
-   c) Het slachtoffer van een misdrijf
-   d) De advocaat van de verdachte
+1. Wat is een jeugdrechtbank?
+   a) Een school voor probleemjongeren
+   b) Een speciale rechtbank voor jongeren
+   c) Een sportvereniging
+   d) Een soort ziekenhuis
 
-2. Wat betekent 'uitgeleverd worden'?
-   a) Vrijgelaten worden uit de gevangenis
-   b) Overgedragen worden aan een ander land voor berechting
-   c) Een verklaring afleggen bij de politie
-   d) Terugkeren naar je eigen land
+2. Wat betekent 'begeleid worden' in deze tekst?
+   a) Vrijgelaten worden
+   b) Geholpen en gecontroleerd worden
+   c) Gestraft worden zonder hulp
+   d) Vergeten worden
 
-3. Wat is 'corruptie'?
-   a) Het opruimen van afval
-   b) Het oneerlijk handelen voor persoonlijk voordeel
-   c) Het helpen van andere mensen
-   d) Het bouwen van een groot gebouw
+3. Waarom stijgen de opnames in jeugdinstellingen?
+   a) Omdat de instellingen groter worden
+   b) Omdat er meer jongeren begeleid worden
+   c) Omdat het vakantie is
+   d) Omdat de rechters milder zijn
 
 #### Antwoorden
 1. b
@@ -50,11 +56,11 @@ Een voormalige Tsjadische spion, Abderahman Moussa, is uitgeleverd aan België e
 3. b
 
 ### Waar / Niet Waar
-1. Abderahman Moussa is een voormalige Tsjadische spion.
-2. Hij is vrijgelaten omdat er geen bewijs was.
-3. Het onderzoek gaat over corruptie bij een Belgisch bouwbedrijf.
+1. Het aantal jongeren dat begeleid wordt, is gedaald.
+2. Een gesloten jeugdinstelling is een plek waar je niet vrij bent.
+3. Een misdrijf is een ernstige strafbare handeling.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar
+1. Niet Waar
+2. Waar
 3. Waar

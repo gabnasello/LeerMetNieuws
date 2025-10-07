@@ -1,11 +1,13 @@
-# Zuid-Korea zegt sorry voor veel adopties
+# Titel
+
+Hoe kunnen mensen die lang ziek zijn weer gaan werken?
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/jf2j5q-yung-fierens./alternates/BASE_SIXTEEN_NINE/Yung%20Fierens.)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/zuid-korea-biedt-excuses-aan-voor-vele-adopties-maar-een-sprookje-wordt-adoptie-toch-nooit-meer/95225859.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/6zjy9y-file82pdv23cbact0mclcti/alternates/BASE_SIXTEEN_NINE/file82pdv23cbact0mclcti)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/een-klant-die-de-poetshulp-pauze-gaf-en-meehielp-bleek-essentieel-hoe-kunnen-langdurig-zieken-weer-aan-het-werk-raken/94979180.html)
 
-De president van Zuid-Korea heeft gezegd dat het verkeerd was om zoveel kinderen naar andere landen te sturen voor adoptie. Hij zei dat de rechten van deze kinderen niet goed zijn beschermd. Geadopteerde mensen zeggen: wij zullen nooit helemaal kunnen vergeten wat er is gebeurd. Wat er met ons gebeurd is, is te erg.
+Wanneer lukt het iemand die lang ziek is geweest om weer te gaan werken? De Sociaal-Economische Raad voor Vlaanderen heeft dit gevraagd aan mensen die het meegemaakt hebben. Ze hebben de antwoorden in een nieuw rapport gezet. De onderzoekster, Katrijn Vanderweyden, zegt dat vertrouwen heel belangrijk is.
 
 ## Woordenschatuitbreiding
 
@@ -13,52 +15,52 @@ De president van Zuid-Korea heeft gezegd dat het verkeerd was om zoveel kinderen
 
 | Woord | Definitie |
 |-------|-----------|
-| **president** | de leider van een land |
-| **kinderen** | jonge mensen |
-| **adoptie** | wanneer iemand een kind van andere ouders neemt en voor altijd voor het kind zorgt |
-| **rechten** | dingen die je mag hebben of doen, volgens de wet |
-| **erge** | heel naar of heel slecht |
+| **langdurig** | voor een lange tijd |
+| **ziek** | niet gezond, je voelt je niet goed |
+| **werken** | een baan hebben, iets doen voor geld |
+| **rapport** | een geschreven verslag met informatie |
+| **vertrouwen** | het gevoel dat je iemand kunt geloven |
 
 ### Vul-in-de-leegte
-1. De ___ van Zuid-Korea heeft sorry gezegd.
-2. Veel ___ zijn naar andere landen gestuurd.
-3. Wat er gebeurd is, is heel ___.
+1. Mijn buurvrouw was lang ___ en kon niet naar haar werk.
+2. De baas heeft veel ___ in zijn nieuwe medewerker.
+3. De regering las het ___ over gezondheid op het werk.
 
 #### Oplossingen
-1. president
-2. kinderen
-3. erge
+1. ziek
+2. vertrouwen
+3. rapport
 
 ### Meerkeuzevragen
-1. Wie heeft sorry gezegd?
-   a) een leraar
-   b) de president
-   c) een dokter
-   d) een politieagent
+1. Wat betekent 'langdurig'?
+   a) voor een korte tijd
+   b) voor een lange tijd
+   c) heel erg ziek
+   d) nooit meer beter worden
 
-2. Waar zijn de kinderen naartoe gestuurd?
-   a) naar andere landen
-   b) naar een nieuw huis in hetzelfde land
-   c) naar school
-   d) naar de dierentuin
+2. Wat is een 'rapport'?
+   a) een gesprek met de dokter
+   b) een geschreven verslag met informatie
+   c) een nieuwe baan
+   d) een soort medicijn
 
-3. Wat is er volgens de geadopteerde mensen te erg?
-   a) naar school gaan
-   b) wat er met hen gebeurd is
-   c) televisie kijken
-   d) buiten spelen
+3. Waarom is vertrouwen belangrijk volgens het artikel?
+   a) omdat het geld bespaart
+   b) omdat het mensen helpt weer te gaan werken
+   c) omdat de baas dan blij is
+   d) omdat het de ziekte korter maakt
 
 #### Antwoorden
-1. b) de president
-2. a) naar andere landen
-3. b) wat er met hen gebeurd is
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. De president van Zuid-Korea vindt dat het goed was om kinderen weg te sturen.
-2. Geadopteerde mensen kunnen makkelijk vergeten wat er gebeurd is.
-3. De rechten van de kinderen zijn niet goed beschermd.
+1. De Sociaal-Economische Raad heeft alleen aan dokters gevraagd wanneer terugkeer naar werk lukt.
+2. Katrijn Vanderweyden is een onderzoekster.
+3. Vertrouwen is niet belangrijk om weer te kunnen werken.
 
 #### Antwoorden
 1. Niet Waar
-2. Niet Waar
-3. Waar
+2. Waar
+3. Niet Waar

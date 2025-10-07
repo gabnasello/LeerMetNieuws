@@ -1,11 +1,13 @@
-# Veel werkgevers hebben geen plan voor zieke werknemers
+# Kinderen spelen samen in Villa Clementina
+
+[Kinderen met en zonder beperking spelen samen in Villa Clementina: “Dit zou overal in Vlaanderen moeten bestaan”]
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/gg3h6z-gettyimages-1207263315.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-1207263315.jpg)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/meerderheid-werkgevers-heeft-geen-terugkeerbeleid-voor-langdurig-zieken/95284556.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/spgsvo-file82pfcm3aczdfsneaedj/alternates/BASE_SIXTEEN_NINE/file82pfcm3aczdfsneaedj)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/kinderen-met-en-zonder-beperking-spelen-samen-in-villa-clementina-dit-zou-overal-in-vlaanderen-moeten-bestaan/95401913.html)
 
-Meer dan de helft van de bedrijven heeft geen plan om werknemers die lang ziek zijn terug te laten komen. Dat is zo, ook al is het al drie jaar verplicht door de wet. Twee organisaties vragen aan de overheid om meer geld te geven om dit probleem op te lossen.
+In Villa Clementina in Zemst spelen kinderen met en zonder beperking samen. Het is een speciale kinderopvang. Eén op de drie kinderen heeft daar een beperking. Er werken veel vrijwilligers. Bedrijven en mensen geven geld. Een vader zegt: "Het is een mooie plek. Er moeten meer van zulke plekken zijn in Vlaanderen."
 
 ## Woordenschatuitbreiding
 
@@ -13,53 +15,52 @@ Meer dan de helft van de bedrijven heeft geen plan om werknemers die lang ziek z
 
 | Woord | Definitie |
 |-------|-----------|
-| **werkgevers** | Mensen of bedrijven die andere mensen betalen om voor hen te werken. |
-| **plan** | Een manier die je bedenkt om iets te doen. |
-| **ziek** | Niet gezond zijn; je lichaam werkt niet goed. |
-| **verplicht** | Iets wat je móet doen, je hebt geen keuze. |
-| **geld** | Wat je gebruikt om iets te kopen (munten en briefjes). |
+| **beperking** | Je kunt iets niet goed of niet zo goed als anderen. |
+| **kinderopvang** | Een plek waar kinderen worden opgevangen als hun ouders werken. |
+| **vrijwilligers** | Mensen die werken zonder geld te krijgen. |
+| **sponsoren** | Geld geven om iets of iemand te helpen. |
+| **Vlaanderen** | Een deel van België waar ze Nederlands spreken. |
 
 ### Vul-in-de-leegte
-1. Veel bedrijven hebben geen ___ om zieke werknemers te helpen.
-2. Het is ___ door de wet om een plan te hebben.
-3. De organisaties vragen de overheid voor meer ___.
+1. In Villa Clementina spelen kinderen met en zonder ___ samen.
+2. Er werken veel ___ die geen geld krijgen voor hun werk.
+3. Bedrijven en mensen ___ de kinderopvang met geld.
 
 #### Oplossingen
-1. plan
-2. verplicht
-3. geld
+1. beperking
+2. vrijwilligers
+3. sponsoren
 
 ### Meerkeuzevragen
-1. Wie heeft geen plan voor zieke werknemers?
-   a) de werknemers
-   b) de overheid
-   c) veel werkgevers
-   d) de dokters
+1. Waar is Villa Clementina?
+   a) In Nederland
+   b) In Frankrijk
+   c) In Vlaanderen
+   d) In Duitsland
 
-2. Hoe lang is het al verplicht om een plan te hebben?
-   a) één jaar
-   b) twee jaar
-   c) drie jaar
-   d) vier jaar
+2. Wat is bijzonder aan deze kinderopvang?
+   a) Het is heel duur
+   b) Kinderen met en zonder beperking spelen er samen
+   c) Alleen kinderen met een beperking gaan er naartoe
+   d) Het is alleen voor baby's
 
-3. Wat vragen de organisaties aan de overheid?
-   a) nieuwe wetten
-   b) meer werknemers
-   c) meer geld
-   d) meer tijd
+3. Wie geeft geld aan Villa Clementina?
+   a) Alleen de regering
+   b) Alleen de ouders
+   c) Bedrijven en mensen
+   d) Niemand
 
 #### Antwoorden
-1. c) veel werkgevers
-2. c) drie jaar
-3. c) meer geld
+1. c) In Vlaanderen
+2. b) Kinderen met en zonder beperking spelen er samen
+3. c) Bedrijven en mensen
 
 ### Waar / Niet Waar
-1. Alle bedrijven hebben een plan voor zieke werknemers.
-2. Het is verplicht om een plan te hebben.
-3. De organisaties zijn blij met de situatie.
+1. Alle kinderen in Villa Clementina hebben een beperking.
+2. Vrijwilligers krijgen veel geld voor hun werk.
+3. Een vader vindt dat er meer van zulke plekken moeten zijn.
 
 #### Antwoorden
 1. Niet Waar
-2. Waar
-3. Niet Waar
----
+2. Niet Waar
+3. Waar

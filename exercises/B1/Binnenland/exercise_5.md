@@ -1,13 +1,13 @@
-# Beton in Vlaanderen en Europa
+# Titel
 
-[Vlaanderen en Europa gebruiken veel beton]
+Nieuwe bisschop voor Namen en Doornik
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/jcblfm-turkey-1.jpg/alternates/BASE_SIXTEEN_NINE/turkey_1.jpg)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/vlaamse-betonwoede-verovert-europa-maar-wij-blijven-koploper/94656877.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/nqonas-file82p9hbaza2h9ri08d9j/alternates/BASE_SIXTEEN_NINE/file82p9hbaza2h9ri08d9j)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/namen-en-doornik-krijgen-nieuwe-bisschop/95378654.html)
 
-Niet alleen in Vlaanderen, maar in heel Europa wordt er veel grond volgebouwd. Elke dag verdwijnt er in Europa een gebied zo groot als 600 voetbalvelden. Daar komen dan wegen, gebouwen en tuinen.
+De kerkelijke gebieden van Doornik en Namen krijgen allebei een nieuwe leider. Fabien Lejeusne wordt de nieuwe bisschop van Namen. Frédéric Rossignol wordt de nieuwe bisschop van Doornik.
 
 ## Woordenschatuitbreiding
 
@@ -15,53 +15,52 @@ Niet alleen in Vlaanderen, maar in heel Europa wordt er veel grond volgebouwd. E
 
 | Woord | Definitie |
 |-------|-----------|
-| **Vlaanderen** | een deel van België waar ze Nederlands spreken |
-| **Europa** | een werelddeel met veel landen, waaronder België |
-| **grond** | de aarde, de bodem waarop je loopt of iets bouwt |
-| **gebied** | een stuk land, een plek |
-| **verdwijnt** | gaat weg, is er niet meer |
+| **bisschop** | Een belangrijke leider in de katholieke kerk. |
+| **gebied** | Een stuk land of een regio. |
+| **kerkelijk** | Alles wat met de kerk te maken heeft. |
+| **leider** | Iemand die de leiding heeft over een groep mensen. |
+| **nieuwe** | Iets of iemand dat er eerst niet was. |
 
 ### Vul-in-de-leegte
-1.  In ___ wordt veel nieuwe grond volgebouwd.
-2.  Elke dag ___ er veel natuur in Europa.
-3.  Er komen nieuwe wegen en ___ op de grond.
+1. De priester werkt in het ___ gebied.
+2. De koning is de ___ van het land.
+3. Mijn buurvrouw is de ___ directeur van de school.
 
 #### Oplossingen
-1.  Europa
-2.  verdwijnt
-3.  tuinen
+1. kerkelijke
+2. leider
+3. nieuwe
 
 ### Meerkeuzevragen
-1. Wat is Vlaanderen?
-   a) Een stad in Duitsland
-   b) Een deel van België
-   c) Een meer in Nederland
-   d) Een berg in Frankrijk
+1. Wat is een bisschop?
+   a) Een burgemeester
+   b) Een belangrijke leider in de kerk
+   c) Een brandweerman
+   d) Een arts
 
-2. Wat gebeurt er elke dag in Europa?
-   a) Er komen 600 nieuwe voetbalvelden.
-   b) Er verdwijnt natuur zo groot als 600 voetbalvelden.
-   c) Er wordt 600 keer gevoetbald.
-   d) Er regent het 600 keer.
+2. Wat betekent 'kerkelijk'?
+   a) Heel oud
+   b) Heel groot
+   c) Met de kerk te maken hebben
+   d) Met de school te maken hebben
 
-3. Wat komt er voor in de plaats van de natuur?
-   a) Meer bomen
-   b) Dieren
-   c) Wegen en gebouwen
-   d) Water
+3. Wat is een leider?
+   a) Iemand die de baas is
+   b) Iemand die altijd luistert
+   c) Iemand die veel eet
+   d) Iemand die hard werkt
 
 #### Antwoorden
-1.  b
-2.  b
-3.  c
+1. b
+2. c
+3. a
 
 ### Waar / Niet Waar
-1.  Alleen in Vlaanderen wordt veel grond volgebouwd.
-2.  Er verdwijnt elke dag natuur in Europa.
-3.  Er komen alleen nieuwe huizen op de grond.
+1. Een bisschop is de leider van een kerkelijk gebied.
+2. 'Kerkelijk' betekent hetzelfde als 'sportief'.
+3. Een nieuwe leider is iemand die al heel lang de baas is.
 
 #### Antwoorden
-1.  Niet Waar
-2.  Waar
-3.  Niet Waar
----
+1. Waar
+2. Niet Waar
+3. Niet Waar

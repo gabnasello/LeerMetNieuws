@@ -1,13 +1,11 @@
-# Titel
-
-Politieagenten voor de rechter
+# Vier agenten voor de rechter voor de dood van Pieter Aerts
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/yf0fe2-file82nqj0ao1olrs6q0s50/alternates/BASE_SIXTEEN_NINE/file82nqj0ao1olrs6q0s50)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/maandag-verschijnen-agenten-die-pieter-aerts-neerschoten-voor-de-rechter-alles-wat-we-sinds-2019-hebben-gedaan-was-voor-de-zaak-van-onze-zoon/94902991.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/a1ejb4-job-1060894-proces-pieter-aerts/alternates/BASE_SIXTEEN_NINE/Job%201060894%20Proces%20Pieter%20Aerts)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/vier-agenten-voor-de-rechter-voor-dood-pieter-aerts-perfect-volgens-het-boekje-versus-een-waar-bloedbad/95283508.html)
 
-Vier politieagenten komen maandag voor de rechter in Antwerpen. Ze moeten uitleggen waarom Pieter Aerts is doodgeschoten in 2019. De politie zegt: het was zelfverdediging. De familie zegt: het was veel geweld van de politie.
+Moet een politieagent altijd alles doen wat mogelijk is, zelfs als dat slechte gevolgen heeft? De zaak van Pieter Aerts (35) gaat over de vraag of de politie zonder toestemming een huis binnen mag gaan. Ze waren bezorgd, maar hadden geen officieel papiertje. Een agent zegt: "Ik kan nog steeds niet geloven dat ik vier keer heb geschoten."
 
 ## Woordenschatuitbreiding
 
@@ -15,53 +13,52 @@ Vier politieagenten komen maandag voor de rechter in Antwerpen. Ze moeten uitleg
 
 | Woord | Definitie |
 |-------|-----------|
-| **rechter** | de persoon die beslist of iemand iets fout heeft gedaan |
-| **uitleggen** | zeggen hoe iets zit of waarom iets gebeurt is |
-| **doodgeschoten** | gedood met een pistool of geweer |
-| **zelfverdediging** | jezelf beschermen als iemand je pijn wil doen |
-| **geweld** | iemand pijn doen of iets kapotmaken |
+| **agent** | iemand die voor de politie werkt |
+| **rechter** | de persoon in de rechtbank die beslist of iets goed of fout is |
+| **dood** | niet meer leven |
+| **huis** | een gebouw waar mensen wonen |
+| **geschoten** | een wapen hebben afgevuurd |
 
 ### Vul-in-de-leegte
-1. De agenten moeten ___ waarom ze geschoten hebben.
-2. De politie zegt dat het ___ was.
-3. De familie is heel verdrietig omdat hun zoon is ___.
+1. De _____ beslist of de man schuldig is.
+2. Mijn _____ is geel en heeft een tuin.
+3. De politie_____ heeft zijn pistool gebruikt.
 
 #### Oplossingen
-1. uitleggen
-2. zelfverdediging
-3. doodgeschoten
+1. rechter
+2. huis
+3. geschoten
 
 ### Meerkeuzevragen
-1. Waar komen de politieagenten maandag?
-   a) Op school
-   b) Bij de rechter
-   c) In de winkel
-   d) In het park
+1. Wat is een agent?
+A) Een leraar
+B) Iemand die voor de politie werkt
+C) Een dokter
+D) Een kok
 
-2. Wat zegt de politie over het schieten?
-   a) Het was een feest
-   b) Het was zelfverdediging
-   c) Het was een ongeluk
-   d) Het was een spel
+2. Wat beslist een rechter?
+A) Wat je gaat eten
+B) Of iets goed of fout is
+C) Welk weer het wordt
+D) Welke film je gaat kijken
 
-3. Wie is Pieter Aerts?
-   a) Een politieagent
-   b) De rechter
-   c) De man die is doodgeschoten
-   d) Een journalist
+3. Wat betekent 'geschoten'?
+A) Iets hard weggooien
+B) Een wapen hebben afgevuurd
+C) Hard wegrennen
+D) Hard schreeuwen
 
 #### Antwoorden
-1. b
-2. b
-3. c
+1. B
+2. B
+3. B
 
 ### Waar / Niet Waar
-1. De agenten komen op dinsdag voor de rechter.
-2. De familie vindt dat de politie te veel geweld gebruikte.
-3. Pieter Aerts werd doodgeschoten in 2020.
+1. Een agent werkt in een restaurant.
+2. De rechter werkt in een rechtbank.
+3. 'Dood' betekent dat je heel moe bent.
 
 #### Antwoorden
 1. Niet Waar
 2. Waar
 3. Niet Waar
----

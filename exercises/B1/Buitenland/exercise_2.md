@@ -1,68 +1,66 @@
-# Russische verdachten ontlopen straf door gaten in de wet
+# Titel
 
-[vereenvoudigde titel]
+Eerste dag van vredesgesprekken "goed verlopen"
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/sw7h0b-file82nb85nfbjm1fugbw5e/alternates/BASE_SIXTEEN_NINE/file82nb85nfbjm1fugbw5e)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/verdachten-russische-sabotage-ontsnappen-aan-straf-door-grijze-zone-van-zeerecht/95190728.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/8d0pra-smoke-rises-following-explosions-in-gaza-city-as-seen-from-central-gaza-strip/alternates/BASE_SIXTEEN_NINE/Smoke%20rises%20following%20explosions%20in%20Gaza%20City%20as%20seen%20from%20central%20Gaza%20Strip)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/eerste-dag-van-vredesonderhandelingen-positief-afgerond/35173881.html)
 
-[vereenvoudigde samenvatting]
-Russische schepen worden vaak verdacht van sabotage, zoals het kapotmaken van kabels op zee of het sturen van drones boven vliegvelden. Deze schepen weten precies hoe ze moeten varen om niet gestraft te worden. Een belangrijke rechtszaak over deze mogelijke sabotage loopt voorlopig op niets uit. Het zeerecht heeft veel onduidelijke regels.
+Israël gaat door met de oorlog in Gaza. Dit gebeurt ondanks kritiek uit andere landen. Hier lees je het laatste nieuws.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
 
-[Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting]
-
 | Woord | Definitie |
 |-------|-----------|
-| **verdachten** | mensen waarvan wordt gedacht dat ze iets strafbaars hebben gedaan |
-| **ontlopen** | ervoor zorgen dat je iets niet hoeft te doen of niet wordt gepakt |
-| **sabotage** | met opzet iets kapotmaken of verstoren |
-| **rechtszaak** | een procedure in de rechtbank waarbij een rechter beslist of iemand schuldig is |
-| **onduidelijk** | niet precies bekend, vaag of moeilijk te begrijpen |
+| **vredesgesprekken** | gesprekken tussen landen om oorlog te stoppen en vrede te maken |
+| **verlopen** | hoe iets gaat of hoe iets is gegaan |
+| **oorlog** | een tijd waarin landen vechten met geweld |
+| **kritiek** | zeggen wat je niet goed vindt |
+| **nieuws** | informatie over wat er nu gebeurt in de wereld |
 
 ### Vul-in-de-leegte
-1. De politie heeft twee ___ aangehouden voor de diefstal.
-2. Hij probeerde zijn verplichtingen te ___ door zich ziek te melden.
-3. De instructies waren heel ___ , dus wist niemand wat hij moest doen.
+1. De eerste dag van de ___ is goed ___.
+2. Israël krijgt ___ uit andere landen.
+3. Je kunt hier het laatste ___ lezen.
+
 #### Oplossingen
-1. verdachten
-2. ontlopen
-3. onduidelijk
+1. vredesgesprekken, verlopen
+2. kritiek
+3. nieuws
 
 ### Meerkeuzevragen
-1. Wat is 'sabotage'?
-   a) Iets heel netjes maken
-   b) Iets met opzet kapotmaken
-   c) Iets verkopen voor veel geld
-   d) Iets nieuw uitvinden
+1. Waarover gaan de gesprekken?
+   a) handel
+   b) vrede
+   c) sport
+   d) onderwijs
 
-2. Wat gebeurt er in een 'rechtszaak'?
-   a) Er wordt een nieuwe wet gemaakt.
-   b) Een rechter beslist of iemand schuldig is.
-   c) Mensen gaan met vakantie.
-   d) Er wordt een feest gegeven.
+2. Wat doet Israël ondanks de kritiek?
+   a) stopt met vechten
+   b) gaat door met oorlog
+   c) vraagt om hulp
+   d) verontschuldigt zich
 
-3. Wat betekent 'ontlopen'?
-   a) Iets zoeken
-   b) Iets kopen
-   c) Ergens voor weglopen of ervoor zorgen dat je het niet hoeft te doen
-   d) Iets repareren
+3. Wat vind je in dit artikel?
+   a) oude verhalen
+   b) het laatste nieuws
+   c) grappige filmpjes
+   d) weerbericht
 
 #### Antwoorden
 1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. 'Verdachten' zijn mensen die zeker schuldig zijn.
-2. Sabotage betekent per ongeluk iets kapotmaken.
-3. Een rechter is de baas tijdens een rechtszaak.
+1. De vredesgesprekken zijn slecht verlopen.
+2. Israël stopt met vechten.
+3. Andere landen zijn kritisch op Israël.
+
 #### Antwoorden
 1. Niet Waar
 2. Niet Waar
 3. Waar
----

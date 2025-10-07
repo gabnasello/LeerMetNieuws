@@ -1,15 +1,15 @@
 Artikel 1
-Nieuwsupdate: 2025-10-06 05:23 UCT
+Nieuwsupdate: 2025-10-07 05:22 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Tienduizenden protesteren in Georgië, premier kondigt harder optreden aan
-Link: https://www.standaard.be/buitenland/tienduizenden-protesteren-in-georgie-premier-kondigt-harder-optreden-aan/95200366.html
-Datum: Sun, 05 Oct 2025 21:59:00 GMT
-Samenvatting: Tienduizenden Georgiërs zijn na de lokale verkiezingen op straat gekomen tegen de regeringspartij. Die kondigt een hardere repressie aan en beschuldigt de EU van inmenging.
+Titel: Trump wil “indien nodig” ‘rebelliewet’ inroepen om Nationale Garde in te zetten
+Link: https://www.standaard.be/buitenland/trump-wil-indien-nodig-rebelliewet-inroepen-om-nationale-garde-in-te-zetten/35131945.html
+Datum: Tue, 07 Oct 2025 03:29:33 GMT
+Samenvatting: De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/lz0zdc-georgia-elections/alternates/BASE_SIXTEEN_NINE/Georgia%20Elections
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/q1yhga-federal-crackdown-chicago/alternates/BASE_SIXTEEN_NINE/Federal%20Crackdown-Chicago
+Premium: false
 ------------------------------------------------------------

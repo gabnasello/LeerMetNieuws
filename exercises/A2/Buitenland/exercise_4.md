@@ -1,13 +1,13 @@
-# Titel
+# Drie vrouwen in Gaza na twee jaar oorlog
 
-Eerste vrouwelijke premier van Japan
+[Vrouwen in Gaza vertellen hun verhaal]
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/8la5ib-japans-ruling-ldp-picks-takaichi-as-new-leader/alternates/BASE_SIXTEEN_NINE/Japans%20ruling%20LDP%20picks%20Takaichi%20as%20new%20leader)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/thatcher-bewonderaarster-wordt-eerste-vrouwelijke-premier-van-japan/95095416.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/lj7ea9-2025-10-06t095950z-743495135-rc2jzgaq46ho-rtrmadp-3-israel-palestinians-gaza-anniversary-twins.jpg/alternates/BASE_SIXTEEN_NINE/2025-10-06T095950Z_743495135_RC2JZGAQ46HO_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-ANNIVERSARY-TWINS.JPG)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/drie-jonge-vrouwen-in-gaza-na-twee-jaar-oorlog-ik-vroeg-me-af-of-ik-niet-egostisch-geweest-was-door-zwanger-te-worden/95400300.html)
 
-De grootste partij van Japan heeft een nieuwe leider gekozen. Het is een vrouw. Ze wil net zo sterk zijn als een bekende vrouwelijke leider uit Engeland.
+Drie jonge vrouwen uit Gaza vertellen over hun leven. Er is al twee jaar oorlog. De oorlog heeft hun leven veranderd. Maar de vrouwen geven niet op. Ze blijven sterk en proberen hun dromen waar te maken. Een vrouw zegt: "Ik ben nu een andere persoon. Maar ik heb ook een sterke kracht in mijzelf gevonden."
 
 ## Woordenschatuitbreiding
 
@@ -15,52 +15,53 @@ De grootste partij van Japan heeft een nieuwe leider gekozen. Het is een vrouw. 
 
 | Woord | Definitie |
 |-------|-----------|
-| **premier** | de baas van de regering van een land |
-| **vrouwelijk** | van of voor een vrouw |
-| **partij** | een groep mensen met dezelfde ideeën over politiek |
-| **leider** | de baas, degene die de leiding heeft |
-| **sterk** | iemand die veel kan, krachtig is |
+| **oorlog** | Een tijd waarin landen of groepen vechten met wapens. |
+| **leven** | Alles wat je doet en meemaakt, van geboren worden tot sterven. |
+| **sterk** | Iemand die veel kan hebben en niet snel opgeeft. |
+| **dromen** | Mooie plannen voor de toekomst die je graag wilt. |
+| **kracht** | De energie en power die je van binnen hebt om iets moeilijks te doen. |
 
 ### Vul-in-de-leegte
-1. De nieuwe _____ van Japan is een vrouw.
-2. Ze is de leider van een politieke _____.
-3. Ze wil een _____ bestuurder zijn.
+1. De vrouwen wonen in Gaza, waar al twee jaar ___ is.
+2. Ze zijn ___ en proberen hun dromen waar te maken.
+3. Een vrouw ontdekte een nieuwe ___ in zichzelf.
 
 #### Oplossingen
-1. premier
-2. partij
-3. sterke
+1. oorlog
+2. sterk
+3. kracht
 
 ### Meerkeuzevragen
-1. Wat is een premier?
-    a) Een koning
-    b) De baas van de regering
-    c) Een burgemeester
-    d) Een dokter
+1. Hoe lang is er al oorlog in Gaza?
+   a) één jaar
+   b) twee jaar
+   c) vijf jaar
+   d) tien jaar
 
-2. Wat betekent 'vrouwelijk'?
-    a) Voor een man
-    b) Voor een vrouw
-    c) Voor een kind
-    d) Voor een dier
+2. Wat hebben de vrouwen ontdekt in zichzelf?
+   a) angst
+   b) kracht
+   c) verdriet
+   d) geld
 
-3. Wat is een politieke partij?
-    a) Een feestje over politiek
-    b) Een groep mensen met dezelfde politieke ideeën
-    c) Een vereniging voor sport
-    d) Een soort restaurant
+3. Wat proberen de vrouwen waar te maken?
+   a) een nieuwe auto
+   b) hun dromen
+   c) een groot huis
+   d) een reis
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. b) twee jaar
+2. b) kracht
+3. b) hun dromen
 
 ### Waar / Niet Waar
-1. De nieuwe premier van Japan is een man.
-2. Een leider heeft de leiding over een groep.
-3. 'Sterk' betekent dat je weinig kunt.
+1. De vrouwen uit het verhaal zijn oud.
+2. De oorlog heeft hun leven veranderd.
+3. De vrouwen zijn zwak en geven snel op.
 
 #### Antwoorden
 1. Niet Waar
 2. Waar
 3. Niet Waar
+---

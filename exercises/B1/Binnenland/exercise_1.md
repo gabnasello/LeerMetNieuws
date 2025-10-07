@@ -1,13 +1,13 @@
 # Titel
 
-Belangrijke verdachte in geldkwestie CFE vastgezet
+Nooit zoveel jongeren gevolgd door jeugdrechtbank voor misdrijf
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/jhc7q2-het-grand-hotel-in-ndjamena./alternates/BASE_SIXTEEN_NINE/Het%20Grand%20Hotel%20in%20NDjamena.)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/hoofdverdachte-in-smeergeldzaak-cfe-aangehouden/95283965.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/lz76o0-gesloten-jeugdinstelling-de-grubbe/alternates/BASE_SIXTEEN_NINE/gesloten%20jeugdinstelling%20De%20Grubbe)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/nooit-zoveel-jongeren-door-jeugdrechtbank-opgevolgd-wegens-misdrijf/95560703.html)
 
-Een voormalige spion uit Tsjad, Abderahman Moussa, is uitgeleverd aan België en vastgezet. Hij is een belangrijk persoon in het onderzoek naar corruptie bij het Belgische bouwbedrijf CFE.
+Vorig jaar zijn veel meer jongeren gevolgd door de jeugdrechtbank omdat ze een misdrijf hebben gedaan. Het aantal steeg van 2447 naar 2630. Hierdoor zijn ook veel meer jongeren opgenomen in gesloten jeugdinstellingen.
 
 ## Woordenschatuitbreiding
 
@@ -15,56 +15,52 @@ Een voormalige spion uit Tsjad, Abderahman Moussa, is uitgeleverd aan België en
 
 | Woord | Definitie |
 |-------|-----------|
-| **verdachte** | iemand waarvan de politie denkt dat hij iets fouts heeft gedaan |
-| **geldkwestie** | een probleem of zaak waarbij geld op een oneerlijke manier wordt gegeven of genomen |
-| **voormalige** | iemand die een baan of functie niet meer heeft |
-| **uitgeleverd** | overgedragen aan een ander land voor berechting |
-| **corruptie** | het oneerlijk gebruik maken van je macht, bijvoorbeeld door steekpenningen aan te nemen |
+| **jeugdrechtbank** | Een speciale rechtbank die beslist over zaken waar jongeren bij betrokken zijn. |
+| **misdrijf** | Een ernstige strafbare handeling, een zwaar vergrijp. |
+| **opgenomen** | Ergens (moeten) gaan wonen en verblijven, bijvoorbeeld in een instelling. |
+| **gesloten** | Niet vrij om weg te gaan; afgesloten van de buitenwereld. |
+| **fors** | Heel veel; een grote, sterke toename. |
 
 ### Vul-in-de-leegte
-
-1. De politie denkt dat hij iets fouts heeft gedaan; hij is een ___.
-2. Het bedrijf wordt onderzocht wegens ___, omdat het geld aan ambtenaren zou hebben gegeven.
-3. Omdat hij in een ander land was, moest hij eerst worden ___ aan België.
+1.  De rechter bij de ___ beslist wat er met de jongere gebeurt.
+2.  Een ___ is een veel ernstiger vergrijp dan een overtreding.
+3.  Het aantal jongeren in de instellingen steeg ___.
 
 #### Oplossingen
-1. verdachte
-2. corruptie
-3. uitgeleverd
+1.  jeugdrechtbank
+2.  misdrijf
+3.  fors
 
 ### Meerkeuzevragen
+1. Wat is een jeugdrechtbank?
+   A) Een school voor moeilijke jongeren
+   B) Een speciale rechtbank voor jongeren
+   C) Een sportvereniging
+   D) Een soort ziekenhuis
 
-1. Wat is een 'verdachte'?
-   a) Iemand die getuige is van een misdrijf
-   b) Iemand waarvan wordt gedacht dat hij een misdrijf heeft gepleegd
-   c) Een politieagent die een onderzoek leidt
-   d) Een rechter die een vonnis uitspreekt
+2. Wat betekent 'fors'?
+   A) Een beetje
+   B) Heel veel
+   C) Minder
+   D) Hetzelfde
 
-2. Wat betekent 'uitgeleverd worden'?
-   a) Vrijgelaten worden uit de gevangenis
-   b) Overgedragen worden aan een ander land voor berechting
-   c) Een boete moeten betalen
-   d) Getuigen in de rechtbank
-
-3. Waar gaat het bij 'corruptie'?
-   a) Het maken van een productiefout
-   b) Het oneerlijk gebruiken van macht voor persoonlijk voordeel
-   c) Het snel rijden in de auto
-   d) Het organiseren van een protest
+3. Wat is een gesloten instelling?
+   A) Een plaats waar je vrij bent om te gaan en staan waar je wilt.
+   B) Een plaats waar je niet zelf mag besluiten weg te gaan.
+   C) Een openluchtmuseum.
+   D) Een groot winkelcentrum.
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1.  B
+2.  B
+3.  B
 
 ### Waar / Niet Waar
-
-1. Een 'voormalige' spion is iemand die nu nog steeds spion is.
-2. Bij een 'geldkwestie' gaat het vaak om oneerlijk gedrag met geld.
-3. Iemand die wordt 'uitgeleverd' mag in zijn eigen land blijven.
+1.  Er zijn minder jongeren gevolgd door de jeugdrechtbank.
+2.  Een misdrijf is een ernstige strafbare handeling.
+3.  Meer jongeren zijn opgenomen in gesloten instellingen.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
+1.  Niet Waar
+2.  Waar
+3.  Waar

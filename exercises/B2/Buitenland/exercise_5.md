@@ -1,8 +1,13 @@
 # Titel
-Maduro's burgerleger: Venezuela bewapent burgers uit angst voor tussenkomst door de VS
+
+Waarom Labour zo bang is voor beschuldigingen van antisemitisme
 
 ## Samenvatting
-De Venezolaanse president Nicolás Maduro begint een plan om burgers op te leiden en wapens te geven. Dit gebeurt omdat de relatie met de Verenigde Staten slechter wordt en hij een aanval vreest.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/6jku9v-protest-in-support-of-palestine-action-in-central-london/alternates/BASE_SIXTEEN_NINE/Protest%20in%20support%20of%20Palestine%20Action%20in%20central%20London)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/hoe-labour-als-de-dood-is-voor-beschuldigingen-van-antisemitisme-zeker-na-de-aanslag-in-manchester/95377538.html)
+
+De Britse regering wil de politie meer macht geven om protesten voor Palestina strenger te stoppen. Dit past niet bij de cultuur en waarden van het land. De tekst legt uit waarom de Labour-partij ook zo bang is voor dit soort acties.
 
 ## Woordenschatuitbreiding
 
@@ -10,52 +15,53 @@ De Venezolaanse president Nicolás Maduro begint een plan om burgers op te leide
 
 | Woord | Definitie |
 |-------|-----------|
-| **burgerleger** | een grote groep gewone burgers die een militaire training krijgt en wapens draagt |
-| **bewapenen** | mensen wapens geven om zichzelf te verdedigen of om te vechten |
-| **opleiden** | mensen leren en trainen om bepaalde taken of een beroep uit te voeren |
-| **tussenkomst** | het ingrijpen of deelnemen van een land in de zaken van een ander land, soms met militaire actie |
-| **vrezen** | ergens bang voor zijn; verwachten dat er iets ergs gaat gebeuren |
+| **beschuldigingen** | Het zeggen dat iemand iets verkeerds heeft gedaan. |
+| **antisemitisme** | Haat of vooroordelen tegen Joodse mensen. |
+| **regering** | De groep mensen die een land bestuurt. |
+| **protesten** | Bijeenkomsten waar mensen laten zien dat ze het ergens niet mee eens zijn. |
+| **waarden** | De belangrijke principes of overtuigingen die een groep mensen deelt. |
 
 ### Vul-in-de-leegte
-1. Het land besloot zijn inwoners te ____ om zich tegen een mogelijke aanval te verdedigen.
-2. De president zei dat een ____ van een ander land onacceptabel is.
-3. Veel mensen ____ dat de situatie nog erger wordt.
+1. De politie kreeg meer macht om de ___ harder aan te pakken.
+2. De nieuwe wet past niet bij de ___ van het land.
+3. De partij is bang voor ___ van racisme.
 
 #### Oplossingen
-1. bewapenen
-2. tussenkomst
-3. vrezen
+1. protesten
+2. waarden
+3. beschuldigingen
 
 ### Meerkeuzevragen
-1. Wat is een 'burgerleger'?
-   a) Het professionele leger van een land.
-   b) Een groep burgers die een militaire training krijgt.
-   c) De politie van een groot land.
-   d) Een groep soldaten uit het buitenland.
+1. Waar is de Labour-partij bang voor?
+   a) Nieuwe verkiezingen
+   b) Beschuldigingen van antisemitisme
+   c) Economische problemen
+   d) Een nieuwe leider
 
-2. Wat betekent het om mensen 'op te leiden'?
-   a) Mensen ergens naartoe sturen.
-   b) Mensen leren en trainen voor een taak.
-   c) Mensen straffen voor hun gedrag.
-   d) Mensen een wapen verkopen.
+2. Wat wil de Britse regering de politie geven?
+   a) Meer geld
+   b) Meer macht
+   c) Nieuwe uniformen
+   d) Minder werk
 
-3. Wat doe je als je iets 'vreesť?
-   a) Je bent er heel blij mee.
-   b) Je bent er neutraal over.
-   c) Je bent er bang voor.
-   d) Je begrijpt het niet.
+3. Tegen welke protesten wil de regering optreden?
+   a) Protesten voor het klimaat
+   b) Protesten voor Palestina
+   c) Protesten voor betere scholen
+   d) Protesten voor meer banen
 
 #### Antwoorden
 1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. 'Bewapenen' betekent het afnemen van wapens.
-2. Een 'tussenkomst' is altijd een vreedzame actie.
-3. Iemand 'opleiden' is hetzelfde als iemand iets leren.
+1. De Britse regering wil dat de politie protesten minder streng aanpakt.
+2. De Labour-partij maakt zich zorgen over beschuldigingen van antisemitisme.
+3. De nieuwe plannen van de regering passen goed bij de cultuur van het land.
 
 #### Antwoorden
 1. Niet Waar
-2. Niet Waar
-3. Waar
+2. Waar
+3. Niet Waar
+---

@@ -1,13 +1,13 @@
 # Titel
 
-Vlaanderen en Europa bouwen veel op open ruimte
+Nieuwe bisschoppen voor Namen en Doornik
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/jcblfm-turkey-1.jpg/alternates/BASE_SIXTEEN_NINE/turkey_1.jpg)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/vlaamse-betonwoede-verovert-europa-maar-wij-blijven-koploper/94656877.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/nqonas-file82p9hbaza2h9ri08d9j/alternates/BASE_SIXTEEN_NINE/file82p9hbaza2h9ri08d9j)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/namen-en-doornik-krijgen-nieuwe-bisschop/95378654.html)
 
-Niet alleen in Vlaanderen wordt er veel gebouwd op open ruimte. In heel Europa wordt elke dag natuur en landbouwgrond volgebouwd. Dit gebeurt voor wegen, gebouwen en tuinen. Een gebied zo groot als 600 voetbalvelden verdwijnt hierdoor elke dag.
+De bisdommen van Doornik en Namen krijgen allebei een nieuwe bisschop. Fabien Lejeusne wordt de bisschop van Namen. Frédéric Rossignol wordt de nieuwe bisschop van Doornik.
 
 ## Woordenschatuitbreiding
 
@@ -15,53 +15,49 @@ Niet alleen in Vlaanderen wordt er veel gebouwd op open ruimte. In heel Europa w
 
 | Woord | Definitie |
 |-------|-----------|
-| **open ruimte** | Gebied zonder gebouwen, zoals natuur, bos of weiland. |
-| **landbouwgrond** | Grond die gebruikt wordt om gewassen te verbouwen of dieren te houden. |
-| **bouwen** | Het maken van huizen, wegen of andere gebouwen. |
-| **verdwijnt** | Gaat weg en is er niet meer. |
-| **gebied** | Een stuk land of een bepaalde plek. |
+| **bisdom** | het gebied waar een bisschop de leiding heeft over de katholieke kerken |
+| **bisschop** | een belangrijke leider in de katholieke kerk die de leiding heeft over een bisdom |
+| **nieuwe** | recent aangesteld of benoemd, niet de vorige |
+| **krijgen** | ontvangen, iemand wordt aan hen toegewezen |
+| **leiding** | de verantwoordelijkheid om iets of iemand te besturen of te managen |
 
 ### Vul-in-de-leegte
-1.  Er wordt veel nieuwe woningbouw ontwikkeld op de ___ rond de stad.
-2.  De boer verbouwt zijn groenten op zijn eigen ___.
-3.  Het mooie park ___ omdat er een groot kantoor komt.
-
+1. Een ___ is het gebied waar een bisschop werkt.
+2. De kerk in die stad zal een ___ priester als leider krijgen.
+3. De bisschop heeft de ___ over alle kerken in zijn gebied.
 #### Oplossingen
-1.  open ruimte
-2.  landbouwgrond
-3.  verdwijnt
+1. bisdom
+2. nieuwe
+3. leiding
 
 ### Meerkeuzevragen
-1. Wat is **open ruimte**?
-   a) Een groot winkelcentrum
-   b) Een gebied zonder gebouwen
-   c) Een drukke snelweg
-   d) Een oude fabriek
+1. Wat is een bisdom?
+   A) Een soort kerkgebouw
+   B) Het gebied onder leiding van een bisschop
+   C) Een groep gelovigen
+   D) Een religieus feest
 
-2. Wat gebeurt er volgens de samenvatting in Europa?
-   a) Er komen meer bossen bij.
-   b) Er wordt veel natuur volgebouwd.
-   c) Alle boeren stoppen met werken.
-   d) Er worden meer voetbalvelden aangelegd.
+2. Wat betekent 'krijgen' in deze samenvatting?
+   A) Weggooien
+   B) Kopen
+   C) Ontvangen
+   D) Zoeken
 
-3. Wat is **landbouwgrond**?
-   a) Grond om op te sporten
-   b) Grond om een huis op te zetten
-   c) Grond om gewassen op te verbouwen
-   d) Grond onder een meer
-
+3. Wat doet een bisschop?
+   A. Hij bouwt kerken
+   B. Hij heeft de leiding over een bisdom
+   C. Hij zingt in de kerk
+   D. Hij is een gewone gelovige
 #### Antwoorden
-1.  b
-2.  b
-3.  c
+1. B
+2. C
+3. B
 
 ### Waar / Niet Waar
-1.  Alleen in Vlaanderen wordt er veel gebouwd op open ruimte.
-2.  Er verdwijnt in Europa elke dag een groot gebied natuur.
-3.  De nieuwe gebouwen zijn vooral voor nieuwe bossen.
-
+1. Een bisdom is een gebouw.
+2. De bisschop heeft de leiding over de kerken in zijn gebied.
+3. 'Nieuwe' betekent altijd oud en versleten.
 #### Antwoorden
-1.  Niet Waar
-2.  Waar
-3.  Niet Waar
----
+1. Niet Waar
+2. Waar
+3. Niet Waar

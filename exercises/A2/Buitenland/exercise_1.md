@@ -1,13 +1,13 @@
 # Titel
 
-Veel mensen protesteren in Georgië. De leider van het land zegt: de politie gaat harder optreden.
+Trump wil de Nationale Garde sturen
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/lz0zdc-georgia-elections/alternates/BASE_SIXTEEN_NINE/Georgia%20Elections)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/tienduizenden-protesteren-in-georgie-premier-kondigt-harder-optreden-aan/95200366.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/q1yhga-federal-crackdown-chicago/alternates/BASE_SIXTEEN_NINE/Federal%20Crackdown-Chicago)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/trump-wil-indien-nodig-rebelliewet-inroepen-om-nationale-garde-in-te-zetten/35131945.html)
 
-Heel veel mensen in het land Georgië zijn boos. Ze protesteren op straat tegen de regering. De regering zegt: we gaan harder optreden tegen de protesten. De regering zegt ook dat de Europese Unie zich met het land moet bemoeien.
+Donald Trump is voor de tweede keer president van Amerika. Hij maakt dingen anders in de wereld. Hier lees je het laatste nieuws.
 
 ## Woordenschatuitbreiding
 
@@ -15,53 +15,52 @@ Heel veel mensen in het land Georgië zijn boos. Ze protesteren op straat tegen 
 
 | Woord | Definitie |
 |-------|-----------|
-| **protesteren** | laten zien dat je het ergens niet mee eens bent |
-| **leider** | de belangrijkste persoon, de baas |
-| **harder** | meer kracht gebruiken, strenger |
-| **regering** | de groep mensen die een land bestuurt |
-| **Europese Unie** | een groep van veel landen in Europa die samenwerken |
+| **president** | de belangrijkste leider van een land |
+| **tweede** | nummer twee, niet de eerste keer |
+| **wereld** | alle landen en mensen samen |
+| **nieuws** | informatie over wat er nu gebeurt |
+| **anderen** | niet hetzelfde maken, veranderen |
 
 ### Vul-in-de-leegte
-1. Mensen gaan de straat op om te ________ tegen de regering.
-2. De ________ is de baas van het land.
-3. De politie gaat ________ optreden, dus ze zijn strenger.
+1. Donald Trump is de _____ van Amerika.
+2. Hier lees je het laatste _____.
+3. Hij maakt dingen _____ in de wereld.
 
 #### Oplossingen
-1. protesteren
-2. leider
-3. harder
+1. president
+2. nieuws
+3. anderen
 
 ### Meerkeuzevragen
-1. Wat doen de mensen op straat?
-   a) Ze vieren feest.
-   b) Ze protesteren.
-   c) Ze gaan winkelen.
-   d) Ze zijn aan het werk.
+1. Wat is Donald Trump?
+   a) een leraar
+   b) de president
+   c) een dokter
+   d) een kok
 
-2. Wie is de baas van het land?
-   a) De politie.
-   b) De leider.
-   c) De Europese Unie.
-   d) De protesten.
+2. Wat lees je hier?
+   a) een verhaal
+   b) het laatste nieuws
+   c) een grap
+   d) een recept
 
-3. Wat zegt de regering over de Europese Unie?
-   a) Ze zijn heel blij met hen.
-   b) Ze zeggen dat de Europese Unie zich er niet mee moet bemoeien.
-   c) Ze vragen om meer geld.
-   d) Ze nodigen hen uit voor een feest.
+3. Wat doet hij in de wereld?
+   a) Hij maakt dingen anderen.
+   b) Hij koopt een auto.
+   c) Hij gaat naar school.
+   d) Hij kookt eten.
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. b) de president
+2. b) het laatste nieuws
+3. a) Hij maakt dingen anderen.
 
 ### Waar / Niet Waar
-1. De mensen in Georgië zijn blij met de regering.
-2. De politie gaat minder hard optreden.
-3. De regering praat over de Europese Unie.
+1. Donald Trump is voor de eerste keer president.
+2. Hier lees je oude nieuws.
+3. Hij maakt dingen anders in de wereld.
 
 #### Antwoorden
 1. Niet Waar
 2. Niet Waar
 3. Waar
----

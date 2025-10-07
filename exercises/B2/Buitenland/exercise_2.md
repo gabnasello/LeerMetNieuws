@@ -1,7 +1,7 @@
-# Russische sabotage verdachten ontlopen straf door grijze zone in zeerecht
+# Eerste dag van vredesgesprekken "goed verlopen"
 
 ## Samenvatting
-Bij beschadigde kabels in zee of drones boven vliegvelden wordt vaak gedacht aan Russische schepen. Deze schepen weten hoe ze moeten varen om niet gestraft te worden. Een rechtszaak over mogelijke sabotage, waar veel van werd verwacht, is tot nu toe mislukt. "Het zeerecht is één grote grijze zone."
+Israël gaat door met de verwoestende oorlog in Gaza. Dit gebeurt ondanks steeds meer kritiek uit andere landen. Hier lees je het laatste nieuws over de situatie.
 
 ## Woordenschatuitbreiding
 
@@ -9,52 +9,52 @@ Bij beschadigde kabels in zee of drones boven vliegvelden wordt vaak gedacht aan
 
 | Woord | Definitie |
 |-------|-----------|
-| **sabotage** | het met opzet beschadigen of vernietigen van iets om een doel te bereiken |
-| **ontlopen** | erin slagen om iets vervelends of gevaarlijks te vermijden |
-| **beschadigde** | kapotgemaakt of niet meer heel |
-| **verwacht** | gedacht dat iets zou gaan gebeuren |
-| **mislukt** | niet gelukt, niet succesvol |
+| **vredesgesprekken** | gesprekken tussen partijen die oorlog voeren, om tot vrede te komen |
+| **verwoestend** | iets dat veel kapot maakt en grote schade veroorzaakt |
+| **kritiek** | een negatieve mening over iets of iemand, waarin je zegt wat er niet goed is |
+| **ondanks** | het tegenovergestelde van 'dankzij'; geeft aan dat iets toch gebeurt, ook al is er een belemmering |
+| **ontwikkelingen** | veranderingen of nieuwe gebeurtenissen in een situatie |
 
 ### Vul-in-de-leegte
-1. De verdachten konden de straf ___ door een juridisch probleem.
-2. De ___ kabels op de zeebodem veroorzaakten veel problemen.
-3. Het onderzoek is ___ omdat er geen duidelijke wetten zijn.
+1. De twee landen voeren ___ om een einde aan de oorlog te maken.
+2. Een orkaan kan een ___ effect hebben op een eiland.
+3. De journalist kreeg veel ___ op zijn artikel omdat het niet objectief was.
 
 #### Oplossingen
-1. ontlopen
-2. beschadigde
-3. mislukt
+1. vredesgesprekken
+2. verwoestend
+3. kritiek
 
 ### Meerkeuzevragen
-1. Wat betekent 'sabotage'?
-   a) per ongeluk iets kapotmaken
-   b) met opzet iets beschadigen
-   c) iets heel goed repareren
-   d) iets nieuws bouwen
+1. Wat betekent 'ondanks'?
+   a) dankzij
+   b) vanwege
+   c) hoewel
+   d) omdat
 
-2. Wat is een synoniem voor 'ontlopen'?
-   a) zoeken
-   b) veroorzaken
-   c) vermijden
-   d) accepteren
+2. Welk woord past het beste bij 'kritiek'?
+   a) lof
+   b) commentaar
+   c) aanmoediging
+   d) steun
 
-3. Als iets 'mislukt' is, dan is het...
-   a) heel goed gegaan
-   b) nog niet begonnen
-   c) niet gelukt
-   d) bijna klaar
+3. Wat zijn 'ontwikkelingen'?
+   a) oude gewoontes
+   b) nieuwe gebeurtenissen
+   c) vaste regels
+   d) simpele taken
 
 #### Antwoorden
-1. b
-2. c
-3. c
+1. c) hoewel
+2. b) commentaar
+3. b) nieuwe gebeurtenissen
 
 ### Waar / Niet Waar
-1. 'Verwacht' betekent dat je iets niet zag aankomen.
-2. 'Beschadigde' kabels zijn kapotte kabels.
-3. De rechtszaak was een groot succes.
+1. 'Verwoestend' betekent dat iets heel mooi is.
+2. 'Vredesgesprekken' gaan over het voeren van oorlog.
+3. 'Kritiek' kan zowel positief als negatief zijn.
 
 #### Antwoorden
 1. Niet Waar
-2. Waar
-3. Niet Waar
+2. Niet Waar
+3. Waar

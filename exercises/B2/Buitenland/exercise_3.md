@@ -1,66 +1,69 @@
-# Titel
+# Mensen keren terug naar hun huizen bij Gaza
 
-Wie zijn de Motoristen die in Tsjechië zo populair zijn?
+[vereenvoudigde titel]
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/yveixo-belgaimage-123709319.jpg/alternates/BASE_SIXTEEN_NINE/Belgaimage-123709319.jpg)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/wie-zijn-de-motoristen-die-in-tsjechie-zoveel-stemmen-haalden/95190247.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/sm8ry5-image00003.jpg/alternates/BASE_SIXTEEN_NINE/image00003.JPG)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/oude-en-nieuwe-kibboetsbewoners-in-zuid-israel-wonen-weer-naast-gaza-het-antwoord-op-terreur-is-ons-hier-te-vestigen/95454079.html)
 
-De Motoristen-partij heeft in Tsjechië veel stemmen gekregen. Ze hebben dertien zetels in het parlement gewonnen. Deze partij is tegen delen van de Europese Green Deal. Door hun winst zal de EVP-partij in het Europees Parlement sterker worden in haar verzet tegen deze plannen.
+Twee jaar na een gewelddadige aanval keren veel mensen terug naar hun huizen in het zuiden van Israël. Honderden nieuwe bewoners komen er ook bij. Sommige nieuwe bewoners gaan daar uit idealisme wonen. Zij zeggen: "Het is goed dat er nieuwe mensen bij komen."
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
 
+[Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting]
+
 | Woord | Definitie |
 |-------|-----------|
-| **Motoristen** | Een politieke partij die opkomt voor de belangen van automobilisten |
-| **zetels** | Plaatsen in een parlement die door verkiezingen worden verdeeld |
-| **parlement** | Een vergadering van gekozen vertegenwoordigers die wetten maakt |
-| **verzet** | Het zich tegen iets verzetten of ertegen zijn |
-| **plannen** | Voorgenomen acties of ideeën voor de toekomst |
+| **keren** | teruggaan naar een plaats |
+| **gewelddadig** | met veel kracht en agressie, niet vreedzaam |
+| **idealisme** | het streven naar een betere wereld volgens je idealen |
+| **bewoners** | mensen die ergens wonen |
+| **plaats** | een bepaalde locatie, stad of dorp |
 
 ### Vul-in-de-leegte
-1. De nieuwe politieke partij kreeg veel ___ bij de verkiezingen.
-2. In het parlement hebben ze meerdere ___ verworven.
-3. De partij toont ___ tegen de nieuwe milieuregels.
+1. Na de vakantie ___ ik altijd terug naar huis.
+2. De ___ aanval zorgde voor veel angst.
+3. Uit ___ verhuisde hij naar een afgelegen dorp.
 
 #### Oplossingen
-1. stemmen
-2. zetels
-3. verzet
+1. keer
+2. gewelddadige
+3. idealisme
 
 ### Meerkeuzevragen
-1. Wat is een 'parlement'?
-   a) Een soort auto
-   b) Een vergadering van gekozen vertegenwoordigers
-   c) Een Europees plan
-   d) Een soort verkiezing
+1. Wat betekent 'keren'?
+   a) Weggaan
+   b) Teruggaan
+   c) Blijven
+   d) Bezoeken
 
-2. Wat betekent 'verzet'?
-   a) Heel erg ergens voor zijn
-   b) Zich tegen iets verzetten
-   c) Neutraal blijven
-   d) Iets aanpassen
+2. Wat is een synoniem voor 'gewelddadig'?
+   a) Vreedzaam
+   b) Agressief
+   c) Rustig
+   d) Vriendelijk
 
-3. Wat zijn 'zetels'?
-   a) Stoelen in een vergaderzaal
-   b) Plaatsen in een parlement
-   c) Soorten verkiezingen
-   d) Europese regels
+3. Waarom gaan mensen ergens wonen uit idealisme?
+   a) Omdat het huis goedkoop is
+   b) Omdat ze ergens in geloven
+   c) Omdat hun familie er woont
+   d) Omdat het dichtbij hun werk is
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. b) Teruggaan
+2. b) Agressief
+3. b) Omdat ze ergens in geloven
 
 ### Waar / Niet Waar
-1. De Motoristen-partij heeft bij de verkiezingen veel stemmen gekregen.
-2. De partij is volledig voor de Europese Green Deal.
-3. Door de winst van deze partij wordt het verzet tegen bepaalde plannen sterker.
+1. 'Bewoners' zijn mensen die ergens op vakantie zijn.
+2. Idealisme gaat over het nastreven van een betere wereld.
+3. Een 'plaats' is altijd een groot land.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar
-3. Waar
+1. Niet Waar
+2. Waar
+3. Niet Waar
+---

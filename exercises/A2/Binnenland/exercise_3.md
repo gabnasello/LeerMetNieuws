@@ -1,76 +1,67 @@
-# Zuid-Korea zegt sorry voor adoptie
+# Titel
 
-[vereenvoudigde titel]
+Hoe kunnen mensen die lang ziek zijn weer gaan werken?
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/jf2j5q-yung-fierens./alternates/BASE_SIXTEEN_NINE/Yung%20Fierens.)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/zuid-korea-biedt-excuses-aan-voor-vele-adopties-maar-een-sprookje-wordt-adoptie-toch-nooit-meer/95225859.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/6zjy9y-file82pdv23cbact0mclcti/alternates/BASE_SIXTEEN_NINE/file82pdv23cbact0mclcti)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/een-klant-die-de-poetshulp-pauze-gaf-en-meehielp-bleek-essentieel-hoe-kunnen-langdurig-zieken-weer-aan-het-werk-raken/94979180.html)
 
-[vereenvoudigde samenvatting]
-De leider van Zuid-Korea zegt dat het niet goed was om veel kinderen naar andere landen te sturen. Hij zegt dat de rechten van de kinderen niet goed waren. Maar de geadopteerde kinderen zeggen: wij kunnen het nooit vergeten. Wat er gebeurd is, is te erg.
+Wanneer gaat het goed als je na een lange ziekte weer gaat werken? Een groep in Vlaanderen heeft dit gevraagd aan mensen die het meegemaakt hebben. Ze hebben de antwoorden in een nieuw verslag gezet. De onderzoekster, Katrijn Vanderweyden, zegt: "Geef mensen vertrouwen."
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
 
-[Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting]
-
 | Woord | Definitie |
 |-------|-----------|
-| **sorry** | zeggen dat het je spijt |
-| **kinderen** | jonge mensen |
-| **rechten** | dingen die je mag en kunt doen |
-| **vergeten** | niet meer weten |
-| **gebeurd** | iets dat is voorgevallen |
+| **lang** | voor een grote tijd, niet kort |
+| **ziek** | niet gezond, je voelt je niet goed |
+| **werken** | een baan hebben, iets doen voor geld |
+| **groep** | een aantal mensen die samen iets doen |
+| **vertrouwen** | geloven dat iemand goed is of iets goed doet |
 
 ### Vul-in-de-leegte
-[3 zinnen met ___]
-1. De president zei ___ voor de fout.
-2. De ___ werden naar het buitenland gestuurd.
-3. Wat er is ___ is heel erg.
+1. Mijn vader was heel ___ ziek.
+2. Het is belangrijk om ___ te hebben in je collega's.
+3. Deze ___ onderzoekt hoe mensen weer kunnen werken.
 
 #### Oplossingen
-[oplossingen]
-1. sorry
-2. kinderen
-3. gebeurd
+1. lang
+2. vertrouwen
+3. groep
 
 ### Meerkeuzevragen
-[3 vragen + 4 opties]
-1. Wie zei sorry?
-   a) Een kind
-   b) De president van Zuid-Korea
-   c) Een leraar
-   d) Een dokter
+1. Wat betekent 'ziek'?
+   a) veel energie hebben
+   b) niet gezond zijn
+   c) heel hard werken
+   d) altijd lachen
 
-2. Waar werden de kinderen naartoe gestuurd?
-   a) Naar school
-   b) Naar andere landen
-   c) Naar huis
-   d) Naar de winkel
+2. Wat is 'werken'?
+   a) slapen
+   b) een baan hebben
+   c) naar de film gaan
+   d) sporten
 
-3. Wat kunnen de geadopteerde kinderen niet doen?
-   a) Het vergeten
-   b) Zingen
-   c) Lezen
-   d) Spelen
+3. Wat is een 'groep'?
+   a) één persoon
+   b) een dier
+   c) een aantal mensen samen
+   d) een auto
 
 #### Antwoorden
-[antwoorden]
-1. b
-2. b
-3. a
+1. b) niet gezond zijn
+2. b) een baan hebben
+3. c) een aantal mensen samen
 
 ### Waar / Niet Waar
-[3 stellingen]
-1. De president van Zuid-Korea zei sorry.
-2. De kinderen bleven allemaal in Zuid-Korea.
-3. De geadopteerde kinderen vinden het niet erg.
+1. 'Lang' betekent voor een korte tijd.
+2. Vertrouwen betekent dat je iemand gelooft.
+3. Iemand die ziek is, voelt zich altijd goed.
 
 #### Antwoorden
-[antwoorden]
-1. Waar
-2. Niet Waar
+1. Niet Waar
+2. Waar
 3. Niet Waar
 ---

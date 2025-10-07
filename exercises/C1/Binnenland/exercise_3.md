@@ -1,11 +1,11 @@
-# Zuid-Korea zegt sorry voor veel adopties: "Maar adoptie wordt nooit meer een sprookje"
+# Hoe kunnen mensen die lang ziek zijn weer gaan werken?
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/jf2j5q-yung-fierens./alternates/BASE_SIXTEEN_NINE/Yung%20Fierens.)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/zuid-korea-biedt-excuses-aan-voor-vele-adopties-maar-een-sprookje-wordt-adoptie-toch-nooit-meer/95225859.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/6zjy9y-file82pdv23cbact0mclcti/alternates/BASE_SIXTEEN_NINE/file82pdv23cbact0mclcti)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/een-klant-die-de-poetshulp-pauze-gaf-en-meehielp-bleek-essentieel-hoe-kunnen-langdurig-zieken-weer-aan-het-werk-raken/94979180.html)
 
-De president van Zuid-Korea heeft vorige week toegegeven dat het verkeerd was om zoveel kinderen naar andere landen te sturen voor adoptie. Hij gaf toe dat hun mensenrechten zijn geschonden. "Maar wij, geadopteerden, zullen het nooit helemaal kunnen verwerken. Wat ons is overkomen, is te traumatisch."
+Wanneer lukt het iemand die lang ziek is geweest om weer te gaan werken? De Sociaal-Economische Raad voor Vlaanderen heeft dit gevraagd aan mensen die het meegemaakt hebben. Ze hebben de antwoorden en adviezen samengebracht in een nieuw verslag. Onderzoekster Katrijn Vanderweyden zegt dat het belangrijk is om in vertrouwen te investeren.
 
 ## Woordenschatuitbreiding
 
@@ -13,50 +13,50 @@ De president van Zuid-Korea heeft vorige week toegegeven dat het verkeerd was om
 
 | Woord | Definitie |
 |-------|-----------|
-| **adoptie** | Het wettelijk aannemen en opvoeden van een kind dat niet je eigen biologisch kind is. |
-| **excuses** | Een formele verklaring of uiting van spijt voor iets wat verkeerd is gedaan. |
-| **mensenrechten** | De fundamentele rechten en vrijheden waar elke persoon recht op heeft, zoals een leven in waardigheid en veiligheid. |
-| **traumatisch** | Zo schokkend of emotioneel pijnlijk dat het langdurige psychische gevolgen kan hebben. |
-| **erkennen** | Toegeven of openlijk bevestigen dat iets waar is of dat iets is gebeurd. |
+| **langdurig** | voor een lange tijd, niet kort |
+| **essentieel** | heel erg belangrijk, onmisbaar |
+| **re-integratie** | het proces om weer deel uit te maken van iets, zoals terugkeren naar je werk |
+| **succesvol** | wanneer iets lukt en het gewenste resultaat heeft |
+| **vertrouwen** | het geloof dat je in iemand of iets kunt hebben; een gevoel van zekerheid |
 
 ### Vul-in-de-leegte
-1. De president van Zuid-Korea bood zijn ___ aan voor het beleid uit het verleden.
-2. Voor veel geadopteerden was hun ervaring erg ___ en niet zoals een sprookje.
-3. Het sturen van kinderen naar het buitenland was een schending van hun ___.
+1. Voor haar herstel was rust _____; zonder kon ze niet beter worden.
+2. De _____ van een werknemer naar de werkvloer verloopt soms geleidelijk.
+3. Een goede relatie met je leidinggevende is gebaseerd op wederzijds _____.
 
 #### Oplossingen
-1. excuses
-2. traumatisch
-3. mensenrechten
+1. essentieel
+2. re-integratie
+3. vertrouwen
 
 ### Meerkeuzevragen
-1. Waarvoor bood de president van Zuid-Korea excuses aan?
-   a) Voor een natuurramp
-   b) Voor het sturen van veel kinderen naar het buitenland voor adoptie
-   c) Voor een economische crisis
-   d) Voor een sportevenement
+1. Wat betekent 'langdurig'?
+   a) Voor een korte periode
+   b) Voor een lange periode
+   c) Heel intens
+   d) Tussentijds
 
-2. Wat zei de president over de mensenrechten van de kinderen?
-   a) Dat ze werden beschermd
-   b) Dat ze werden geschonden
-   c) Dat ze niet belangrijk waren
-   d) Dat ze werden verbeterd
+2. Als iets 'essentieel' is, is het...
+   a) optioneel en niet nodig
+   b) heel erg belangrijk en noodzakelijk
+   c) gemakkelijk te vervangen
+   d) van lage kwaliteit
 
-3. Hoe omschrijven de geadopteerden hun ervaring volgens de samenvatting?
-   a) Als een avontuur
-   b) Als een sprookje
-   c) Als traumatisch
-   d) Als eenvoudig
+3. Wat is 're-integratie'?
+   a) Het voor het eerst beginnen met een studie
+   b) Het proces om weer ergens bij te horen en terug te keren
+   c) Iemand ontslaan van zijn werk
+   d) Een nieuwe wet introduceren
 
 #### Antwoorden
 1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. De president van Zuid-Korea vond het een goed idee om kinderen voor adoptie naar het buitenland te sturen.
-2. Geadopteerden geven aan dat hun ervaring nooit meer een sprookje zal zijn.
-3. De president erkende dat de mensenrechten van de geadopteerde kinderen werden gerespecteerd.
+1. 'Succesvol' betekent dat iets mislukt is.
+2. 'Vertrouwen' gaat over het geloof dat je in iemand of iets hebt.
+3. Iemand met een 'langdurige' ziekte is maar een paar dagen ziek.
 
 #### Antwoorden
 1. Niet Waar
