@@ -1,13 +1,11 @@
-# Titel
-
-Kinderen met en zonder beperking spelen samen in Villa Clementina: “Dit zou overal in Vlaanderen moeten bestaan”
+# Politie gebruikt traangas tegen demonstranten bij Dienst Vreemdelingenzaken, twintig mensen gearresteerd
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/spgsvo-file82pfcm3aczdfsneaedj/alternates/BASE_SIXTEEN_NINE/file82pfcm3aczdfsneaedj)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/kinderen-met-en-zonder-beperking-spelen-samen-in-villa-clementina-dit-zou-overal-in-vlaanderen-moeten-bestaan/95401913.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/72avh9-betog3-109.jpg/alternates/BASE_SIXTEEN_NINE/betog3-109.jpg)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/politie-zet-traangas-in-tegen-gemaskerde-betogers-bij-dienst-vreemdelingenzaken-twintig-mensen-opgepakt/97358960.html)
 
-Kinderopvang Villa Clementina in Zemst is bijzonder. Eén op de drie kinderen daar heeft een beperking. Er werken ook veel vrijwilligers. Bedrijven en particuliere personen geven geld om de opvang te steunen. Een ouder zegt dat het een fantastische plek is en dat er meer van zulke plaatsen in Vlaanderen zouden moeten zijn.
+Bij de Dienst Vreemdelingenzaken in Brussel was de situatie rond het middaguur erg gespannen. Gemaskerde demonstranten kwamen in conflict met de politie. Ze gooiden rookbommen, en tientallen ruiten werden ingegooid. “Schandalig!”, reageert minister Anneleen Van Bossuyt (N-VA). Enkele demonstranten drongen ook het Hilton-hotel aan het Centraal Station binnen.
 
 ## Woordenschatuitbreiding
 
@@ -15,53 +13,52 @@ Kinderopvang Villa Clementina in Zemst is bijzonder. Eén op de drie kinderen da
 
 | Woord | Definitie |
 |-------|-----------|
-| **beperking** | Een aandoening of conditie die het voor iemand moeilijker maakt om bepaalde dingen te doen. |
-| **vrijwilligers** | Mensen die zonder betaald te worden hun tijd en werk geven om te helpen. |
-| **steunen** | Iets of iemand helpen door bijvoorbeeld geld of middelen te geven. |
-| **particuliere personen** | Gewone mensen, niet verbonden aan een bedrijf of officiële organisatie. |
-| **fantastisch** | Heel erg goed, geweldig, uitstekend. |
+| **gemaskerde** | iemand die een masker draagt, vaak om niet herkend te worden |
+| **rookbommen** | voorwerp dat rook produceert, vaak gebruikt bij protesten |
+| **schandalig** | erg verontrustend of onacceptabel |
+| **demonstranten** | mensen die deelnemen aan een protest of betoging |
+| **binnendringen** | zonder toestemming naar binnen gaan |
 
 ### Vul-in-de-leegte
-1. Mensen met een fysieke ___ kunnen soms extra hulp nodig hebben.
-2. Veel ___ helpen elke week in het buurthuis.
-3. We kunnen dit goede doel ___ door een donatie te doen.
+1. De politie gebruikte traangas tegen de ___ die gemaskerd waren.
+2. Tientallen ruiten werden ingegooid, wat als een ___ daad wordt beschouwd.
+3. Sommige demonstranten probeerden ___ het Hilton-hotel binnen te dringen.
 
 #### Oplossingen
-1. beperking
-2. vrijwilligers
-3. steunen
+1. demonstranten
+2. schandalige
+3. binnen te dringen
 
 ### Meerkeuzevragen
-1. Wat betekent 'steunen' in deze tekst?
-   a) ergens tegenaan leunen
-   b) financieel of moreel helpen
-   c) tegenhouden
-   d) negeren
+1. Wat is een "rookbom"?
+   a) Een soort vuurwerk dat rook produceert.
+   b) Een bom die alleen rook produceert, zonder explosie.
+   c) Een soort parfum dat ruikt naar rook.
+   d) Een speciaal effect in films voor rook.
 
-2. Wie zijn 'particuliere personen'?
-   a) mensen die voor de overheid werken
-   b) gewone burgers
-   c) managers van grote bedrijven
-   d) vrijwilligers van een organisatie
+2. Waarom noemde de minister de actie "schandalig"?
+   a) Omdat het overdag gebeurde.
+   b) Omdat er geweld en vernieling was.
+   c) Omdat de demonstranten gemaskerd waren.
+   d) Omdat de politie traangas gebruikte.
 
-3. Wat is een synoniem voor 'fantastisch'?
-   a) gewoon
-   b) saai
-   c) verschrikkelijk
-   d) geweldig
+3. Wat is de "Dienst Vreemdelingenzaken"?
+   a) Een restaurant met buitenlands eten.
+   b) Een overheidsdienst voor buitenlanders.
+   c) Een hotel voor buitenlandse toeristen.
+   d) Een soort reisbureau.
 
 #### Antwoorden
 1. b
 2. b
-3. d
+3. b
 
 ### Waar / Niet Waar
-1. 'Vrijwilligers' krijgen altijd een hoog salaris voor hun werk.
-2. Een 'beperking' maakt het leven altijd makkelijker.
-3. Iets 'steunen' betekent dat je het helpt.
+1. De situatie was gespannen omdat er een protest was.
+2. Alle demonstranten droegen maskers.
+3. Het Hilton-hotel werd binnengedrongen.
 
 #### Antwoorden
-1. Niet Waar
-2. Niet Waar
-3. Waar
----
+1. Waar
+2. Niet Waar (niet alle demonstranten droegen maskers)
+3. Waar<｜begin▁of▁sentence｜>

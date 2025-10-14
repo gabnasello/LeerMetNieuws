@@ -1,13 +1,10 @@
-# Titel
+# Eenvoudige titel en samenvatting
 
-Waarom de Labour-partij zo bang is voor beschuldigingen van antisemitisme
+## Eenvoudige titel
+Israëlisch leger schiet op Palestijnse verdachten bij grens met Gaza
 
-## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/6jku9v-protest-in-support-of-palestine-action-in-central-london/alternates/BASE_SIXTEEN_NINE/Protest%20in%20support%20of%20Palestine%20Action%20in%20central%20London)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/hoe-labour-als-de-dood-is-voor-beschuldigingen-van-antisemitisme-zeker-na-de-aanslag-in-manchester/95377538.html)
-
-De Britse regering wil dat de politie meer mag ingrijpen bij protesten voor Palestina. Dit past niet goed bij de cultuur en normen van het land. De tekst legt uit waarom de Labour-partij ook zo bang is voor dit soort protesten en de beschuldigingen die ermee te maken hebben.
+## Eenvoudige samenvatting
+Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Dit artikel bespreekt de laatste ontwikkelingen.
 
 ## Woordenschatuitbreiding
 
@@ -15,51 +12,41 @@ De Britse regering wil dat de politie meer mag ingrijpen bij protesten voor Pale
 
 | Woord | Definitie |
 |-------|-----------|
-| **regering** | De groep mensen die een land bestuurt. |
-| **protesten** | Bijeenkomsten waar mensen laten weten dat ze het ergens niet mee eens zijn. |
-| **partij** | Een groep mensen met dezelfde ideeën over politiek. |
-| **bang** | Een gevoel van angst hebben. |
-| **beschuldigingen** | Iets zeggen wat iemand verkeerd heeft gedaan. |
+| **oorlog** | een periode van gewapend conflict tussen landen of groepen |
+| **onderhandelingen** | gesprekken tussen partijen om tot een overeenkomst te komen |
+| **verdachten** | mensen waarvan wordt gedacht dat ze iets illegaals hebben gedaan |
+| **vredesproces** | de stappen en afspraken om vrede te bereiken |
+| **doorbraak** | een belangrijke en positieve verandering of oplossing na moeilijkheden |
 
 ### Vul-in-de-leegte
-1. De _____ wil nieuwe wetten maken.
-2. Mensen houden een _____ omdat ze ontevreden zijn.
-3. Hij is _____ voor spinnen.
+1. Na twee jaar oorlog lijkt er eindelijk een ___ in de vredesonderhandelingen.
+2. De Israëlische soldaten schoten op de Palestijnse ___ die verdacht werden van betrokkenheid bij de aanvallen.
+3. De recente ontwikkelingen geven hoop dat er een ___ komt in het vredesproces.
+
 #### Oplossingen
-1. regering
-2. protest
-3. bang
+1. doorbraak
+2. verdachten
+3. doorbraak
 
 ### Meerkeuzevragen
-1. Wat is een 'regering'?
-   a) Een groep artsen
-   b) Een groep die een land bestuurt
-   c) Een sportteam
-   d) Een muziekgroep
-
-2. Wat doe je bij een 'protest'?
-   a) Je viert een feestje
-   b) Je laat zien dat je het ergens niet mee eens bent
-   c) Je gaat winkelen
-   d) Je gaat naar de film
-
-3. Wat is een 'beschuldiging'?
-   a) Iemand een cadeau geven
-   b) Iemand helpen
-   c) Iets zeggen wat iemand verkeerd heeft gedaan
-   d) Iemand feliciteren
+1. Wat is de hoofdstad van Israël?
+   a. Jeruzalem  b. Tel Aviv  c. Haifa  d. Beersheba
+2. Wat betekent 'onderhandelingen' in deze context?
+   a. Gevecht  b. Onderhandeling  c. Oorlog  d. Vriendschap
+3. Wat is de Gaza-strook?
+   a. Een groot woestijngebied  b. Een dichtbevolkt kustgebied  c. Een bergachtig gebied  d. Een rivierdelta
 
 #### Antwoorden
-1. b
+1. a
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. Een 'partij' is een groep mensen die samen sporten.
-2. 'Bang' zijn is een fijn gevoel.
-3. De 'regering' bestuurt een land.
+1. Het artikel beschrijft een volledig vredesakkoord tussen Israël en Palestina.
+2. De 'gele lijn' in de titel verwijst naar een echte fysieke lijn op de grond.
+3. De situatie in Gaza is na twee jaar nog steeds zeer gespannen.
 
 #### Antwoorden
 1. Niet Waar
 2. Niet Waar
-3. Waar
+3. Waar<｜begin▁of▁sentence｜>

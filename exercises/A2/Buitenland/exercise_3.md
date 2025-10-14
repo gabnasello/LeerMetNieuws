@@ -1,77 +1,60 @@
-# Mensen gaan weer wonen bij de grens van Gaza
+# Gaza-conferentie
 
-[vereenvoudigde titel]
+## Titel
+Wat deed Fifa-baas Gianni Infantino op de Gaza-top in Sharm-el-Sheikh?
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/sm8ry5-image00003.jpg/alternates/BASE_SIXTEEN_NINE/image00003.JPG)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/oude-en-nieuwe-kibboetsbewoners-in-zuid-israel-wonen-weer-naast-gaza-het-antwoord-op-terreur-is-ons-hier-te-vestigen/95454079.html)
-
-[vereenvoudigde samenvatting]
-Twee jaar na een grote aanval zijn veel mensen teruggekomen naar hun huis in Zuid-Israël. Honderden nieuwe mensen zijn ook daar gaan wonen. Sommige nieuwe mensen doen dit omdat ze ergens in geloven. Zij zeggen: "Het is goed dat er nieuwe mensen bij komen."
+Fifa-baas Gianni Infantino was aanwezig bij een bijeenkomst in Egypte. Hij ontmoette daar Donald Trump. Het is niet de eerste keer dat hij wereldleiders ontmoet. Hij bouwt goede relaties met leiders over de hele wereld.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
-
-[Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting]
-
 | Woord | Definitie |
 |-------|-----------|
-| **grens** | De lijn tussen twee landen |
-| **teruggekomen** | Weer op dezelfde plaats zijn als vroeger |
-| **aanval** | Iets of iemand met geweld pijn doen |
-| **geloven** | Zeker weten dat iets waar is |
-| **nieuwe mensen** | Mensen die ergens voor het eerst komen wonen |
+| **baas** | iemand die de leiding heeft |
+| **ontmoeten** | elkaar zien en spreken |
+| **wereldleider** | iemand die een land bestuurt |
+| **relatie** | de band tussen mensen of landen |
+| **bijeenkomst** | een meeting, een bijeenkomst waar mensen samenkomen |
 
 ### Vul-in-de-leegte
-[3 zinnen met ___]
-1. De _____ tussen Nederland en België is lang.
-2. Na de vakantie ben ik _____ naar school _____.
-3. Ik _____ in sprookjes.
+1. Gianni Infantino is de baas van _____.
+2. Hij ontmoette Donald Trump op een _____.
+3. Infantino bouwt goede _____ met wereldleiders.
 
 #### Oplossingen
-[oplossingen]
-1. grens
-2. teruggekomen
-3. geloof
+1. Fifa
+2. bijeenkomst (of: vergadering, ontmoeting)
+3. relaties
 
 ### Meerkeuzevragen
-[3 vragen + 4 opties]
-1. Wat is een grens?
-   a) Een soort auto
-   b) De lijn tussen twee landen
-   c) Een grote berg
-   d) Een rivier in de zee
-
-2. Wat betekent 'terugkomen'?
-   a) Weggaan
-   b) Weer op dezelfde plaats zijn
-   c) Iets nieuws kopen
-   d) Hard rennen
-
-3. Wat is een aanval?
-   a) Iets moois maken
-   b) Iemand met geweld pijn doen
-   c) Een feest vieren
-   d) Zachtjes praten
+1. Wat is Gianni Infantino’s rol?
+   a) Sporter
+   b) Directeur van Fifa
+   c) Kok
+   d) Leraar
+2. Waar ontmoette hij Donald Trump?
+   a) In een winkel
+   b) Thuis
+   c) Tijdens een bijeenkomst in Egypte
+   d) Op een voetbalveld
+3. Waarom ontmoet hij wereldleiders?
+   a) Omdat hij van ze houdt
+   b) Om goede relaties op te bouwen
+   c) Omdat hij niets anders te doen heeft
+   d) Omdat het moet van zijn familie
 
 #### Antwoorden
-[antwoorden]
-1. b
-2. b
-3. b
+1. b) Directeur van Fifa
+2. c) Tijdens een bijeenkomst in Egypte
+3. b) Om goede relaties op te bouwen
 
 ### Waar / Niet Waar
-[3 stellingen]
-1. 'Geloven' betekent dat je iets zeker weet.
-2. 'Nieuwe mensen' zijn mensen die al heel lang ergens wonen.
-3. Een 'grens' is de lijn tussen twee landen.
+1. Gianni Infantino is de baas van de Verenigde Naties. (Niet waar)
+2. Hij ontmoette Donald Trump in Egypte. (Waar)
+3. Infantino ontmoet nooit belangrijke mensen. (Niet waar)
 
 #### Antwoorden
-[antwoorden]
-1. Waar
-2. Niet Waar
-3. Waar
-
----
+1. Niet waar
+2. Waar
+3. Niet waar

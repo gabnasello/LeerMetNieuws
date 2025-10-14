@@ -1,67 +1,61 @@
-# Titel
+# Politie gebruikt traangas tegen betogers
 
-Kinderen met en zonder handicap spelen samen in Villa Clementina: "Dit moet er overal in Vlaanderen zijn"
+## Titel
+Politie gebruikt traangas tegen betogers bij Dienst Vreemdelingenzaken
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/spgsvo-file82pfcm3aczdfsneaedj/alternates/BASE_SIXTEEN_NINE/file82pfcm3aczdfsneaedj)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/kinderen-met-en-zonder-beperking-spelen-samen-in-villa-clementina-dit-zou-overal-in-vlaanderen-moeten-bestaan/95401913.html)
-
-Kinderopvang Villa Clementina in Zemst is heel bijzonder. Eén op de drie kinderen heeft daar een handicap. Er werken ook veel vrijwilligers. En bedrijven en gewone mensen geven geld om de opvang te betalen. Een vader zegt: "Het is een geweldige plek. Er moeten veel meer van zulke plekken komen in Vlaanderen."
+In Brussel was het rond het middaguur erg spannend bij de Dienst Vreemdelingenzaken. Gemaskerde betogers vochten met de politie. De betogers gooiden rookbommen en er vielen veel ruiten. Minister Anneleen Van Bossuxt (N-VA) noemde het "Crapuul". Enkele betogers gingen ook het Hilton-hotel binnen bij het Centraal Station.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **handicap** | Een lichamelijke of geestelijke beperking waardoor je sommige dingen niet of anders doet. |
-| **vrijwilligers** | Mensen die zonder betaling ergens werken omdat ze het leuk vinden of belangrijk vinden. |
-| **sponsoren** | Geld geven aan een project of activiteit, zodat het kan bestaan. |
-| **bijzonder** | Iets wat niet gewoon is, maar speciaal of uitzonderlijk. |
-| **kinderopvang** | Een plek waar op kinderen wordt gepast terwijl hun ouders werken of andere dingen doen. |
+| **betogers** | mensen die protesteren |
+| **rookbommen** | een soort bom die veel rook maakt |
+| **gemaskerd** | met een masker op het gezicht |
+| **Vreemdelingenzaken** | de dienst die over buitenlanders gaat |
+| **politie** | mensen die de wet handhaven |
 
-### Vul-in-de-leegte
-1. In Villa Clementina spelen kinderen met en zonder ___ samen.
-2. Mensen die zonder salaris werken, noem je ___.
-3. Bedrijven die geld geven aan de opvang, ___ het project.
+### Vul in de lege plekken
+1. De betogers droegen maskers om hun gezicht te ___.
+2. De politie gebruikte ___ om de menigte uit elkaar te halen.
+3. Bij het Hilton-hotel waren er ook ___ die binnen gingen.
 
 #### Oplossingen
-1. handicap
-2. vrijwilligers
-3. sponsoren
+1. verbergen
+2. traangas
+3. betogers
 
 ### Meerkeuzevragen
-1. Wat is Villa Clementina?
-   a) Een school
-   b) Een speeltuin
-   c) Een kinderopvang
-   d) Een ziekenhuis
-
-2. Hoeveel kinderen in Villa Clementina hebben een handicap?
-   a) Alle kinderen
-   b) Eén op de drie kinderen
-   c) Twee op de drie kinderen
-   d) Geen enkel kind
-
-3. Wie betaalt voor Villa Clementina?
-   a) Alleen de ouders
-   b) Alleen de overheid
-   c) Bedrijven en particulieren
-   d) Alleen de vrijwilligers
+1. Wat is de Dienst Vreemdelingenzaken?
+   a) een restaurant
+   b) een overheidsdienst
+   c) een winkelcentrum
+   d) een sportschool
+2. Waarom waren de betogers gemaskerd?
+   a) om zich te vermommen
+   b) omdat het koud was
+   c) om mode te maken
+   d) om te vieren
+3. Wat is "Crapuul"?
+   a) de naam van een minister
+   b) een scheldwoord
+   c) een soort eten
+   d) een plaats
 
 #### Antwoorden
-1. c
-2. b
-3. c
+1. b
+2. a
+3. b
 
 ### Waar / Niet Waar
-1. Villa Clementina is een gewone kinderopvang.
-2. Er werken betaalde krachten en vrijwilligers in Villa Clementina.
-3. Volgens de vader moeten er minder van dit soort opvangplaatsen komen.
+1. De situatie was rustig in Brussel. (Niet waar)
+2. De betogers gingen alleen naar de Dienst Vreemdelingenzaken. (Niet waar - ook het Hilton-hotel)
+3. Minister Anneleen Van Bossuxt is de minister van Justitie. (Waar)
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
+1. Niet waar
+2. Niet waar
+3. Waar<｜begin▁of▁sentence｜>

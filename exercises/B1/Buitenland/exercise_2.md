@@ -1,66 +1,61 @@
-# Titel
-
-Eerste dag van vredesgesprekken "goed verlopen"
+# Madagaskar: President afgezet door parlement, soldaten nemen over
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/8d0pra-smoke-rises-following-explosions-in-gaza-city-as-seen-from-central-gaza-strip/alternates/BASE_SIXTEEN_NINE/Smoke%20rises%20following%20explosions%20in%20Gaza%20City%20as%20seen%20from%20central%20Gaza%20Strip)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/eerste-dag-van-vredesonderhandelingen-positief-afgerond/35173881.html)
-
-Israël gaat door met de oorlog in Gaza. Dit gebeurt ondanks kritiek uit andere landen. Hier lees je het laatste nieuws.
+Het parlement van Madagaskar heeft gestemd om president Andry Rajoelina af te zetten. Rajoelina probeert nog steeds de macht te houden, maar een groep soldaten zegt nu dat zij de controle over het land hebben overgenomen.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **vredesgesprekken** | gesprekken tussen landen om oorlog te stoppen en vrede te maken |
-| **verlopen** | hoe iets gaat of hoe iets is gegaan |
-| **oorlog** | een tijd waarin landen vechten met geweld |
-| **kritiek** | zeggen wat je niet goed vindt |
-| **nieuws** | informatie over wat er nu gebeurt in de wereld |
+| **president** | het staatshoofd van een land |
+| **parlement** | een groep mensen die wetten maakt voor een land |
+| **soldaten** | mensen die in het leger zitten en het land beschermen |
+| **controle** | de macht om iets te bepalen of te beheren |
+| **afzetten** | iemand uit een belangrijke positie verwijderen |
 
 ### Vul-in-de-leegte
-1. De eerste dag van de ___ is goed ___.
-2. Israël krijgt ___ uit andere landen.
-3. Je kunt hier het laatste ___ lezen.
+1. Het parlement heeft gestemd om de president ___ te zetten.
+2. De soldaten zeggen dat ze nu de ___ over het land hebben.
+3. De president probeert nog steeds de ___ te houden.
 
 #### Oplossingen
-1. vredesgesprekken, verlopen
-2. kritiek
-3. nieuws
+1. af te zetten
+2. controle
+3. macht
 
 ### Meerkeuzevragen
-1. Waarover gaan de gesprekken?
-   a) handel
-   b) vrede
-   c) sport
-   d) onderwijs
+1. Wat heeft het parlement van Madagaskar gestemd?
+   a) De president te steunen
+   b) De president af te zetten
+   c) Nieuwe verkiezingen te houden
+   d) De soldaten te ontslaan
 
-2. Wat doet Israël ondanks de kritiek?
-   a) stopt met vechten
-   b) gaat door met oorlog
-   c) vraagt om hulp
-   d) verontschuldigt zich
+2. Wie heeft de controle over Madagaskar overgenomen volgens het artikel?
+   a) De president
+   b) Het parlement
+   c) Een groep soldaten
+   d) Buitenlandse leiders
 
-3. Wat vind je in dit artikel?
-   a) oude verhalen
-   b) het laatste nieuws
-   c) grappige filmpjes
-   d) weerbericht
+3. Wat probeert de president te blijven houden?
+   a) Zijn geld
+   b) Zijn macht
+   c) Zijn huis
+   d) Zijn familie
 
 #### Antwoorden
 1. b
-2. b
+2. c
 3. b
 
 ### Waar / Niet Waar
-1. De vredesgesprekken zijn slecht verlopen.
-2. Israël stopt met vechten.
-3. Andere landen zijn kritisch op Israël.
+1. De president van Madagaskar is afgetreden. (Niet waar)
+2. De soldaten zeggen dat ze de controle over Madagaskar hebben. (Waar)
+3. De president heeft de steun van het parlement. (Niet waar)
 
 #### Antwoorden
-1. Niet Waar
-2. Niet Waar
-3. Waar
+1. Niet waar
+2. Waar
+3. Niet waar
+---

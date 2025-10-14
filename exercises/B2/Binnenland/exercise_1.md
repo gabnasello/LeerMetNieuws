@@ -1,13 +1,10 @@
-# Titel
+# Vereenvoudigde oefeningen: Oorlogsmisdaden in Liberia
 
-Nooit zoveel jongeren door de jeugdrechtbank begeleid vanwege een misdrijf
+## Titel
+Raadkamer leidt Martina Johnson richting assisen voor oorlogsmisdaden in Liberia
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/lz76o0-gesloten-jeugdinstelling-de-grubbe/alternates/BASE_SIXTEEN_NINE/gesloten%20jeugdinstelling%20De%20Grubbe)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/nooit-zoveel-jongeren-door-jeugdrechtbank-opgevolgd-wegens-misdrijf/95560703.html)
-
-Het aantal jongeren dat begeleid wordt door de jeugdrechtbank vanwege een misdrijf is vorig jaar sterk gestegen. Het ging van 2.447 naar 2.630 jongeren. Hierdoor zijn ook veel meer jongeren opgenomen in gesloten jeugdinstellingen.
+Martina Johnson wordt verdacht van oorlogsmisdaden tijdens de burgeroorlog in Liberia in de jaren 90. De rechtbank in Gent heeft besloten dat ze terecht moet staan voor de assisenzaal.
 
 ## Woordenschatuitbreiding
 
@@ -15,40 +12,38 @@ Het aantal jongeren dat begeleid wordt door de jeugdrechtbank vanwege een misdri
 
 | Woord | Definitie |
 |-------|-----------|
-| **jeugdrechtbank** | een speciale rechtbank die beslist over zaken waarin jongeren betrokken zijn |
-| **begeleid** | geholpen en in de gaten gehouden worden |
-| **misdrijf** | een ernstige strafbare handeling, een zwaar vergrijp |
-| **sterk gestegen** | met een grote hoeveelheid omhoog gegaan |
-| **gesloten jeugdinstelling** | een speciale plek waar jongeren verblijven die niet vrij mogen komen |
+| **oorlogsmisdaden** | Misdaad die gebeurt tijdens een oorlog. |
+| **verdacht** | Waarschijnlijk schuldig, maar nog niet bewezen. |
+| **rechtbank** | De plek waar rechters beslissen of iemand schuldig is. |
+| **terechtstaan** | Voor de rechter komen om je te verdedigen. |
+| **beslissen** | Een besluit nemen, iets bepalen. |
 
 ### Vul-in-de-leegte
-1. De jeugdrechtbank beslist over jongeren die een ___ hebben gepleegd.
-2. Het aantal meldingen is ___ door de nieuwe regels.
-3. Jongeren in een ___ kunnen niet zomaar naar buiten.
+1. Martina Johnson wordt ______ van oorlogsmisdaden.
+2. De rechtbank in Gent heeft ______ dat Martina terecht moet staan.
+3. Martina moet voor de rechter ______ omdat ze verdacht wordt van oorlogsmisdaden.
 
 #### Oplossingen
-1. misdrijf
-2. sterk gestegen
-3. gesloten jeugdinstelling
+1. verdacht
+2. beslist
+3. komen
 
 ### Meerkeuzevragen
-1. Wat is een jeugdrechtbank?
-   a) Een school voor probleemjongeren
-   b) Een speciale rechtbank voor jongeren
-   c) Een sportvereniging
-   d) Een soort ziekenhuis
-
-2. Wat betekent 'begeleid worden' in deze tekst?
-   a) Vrijgelaten worden
-   b) Geholpen en gecontroleerd worden
-   c) Gestraft worden zonder hulp
-   d) Vergeten worden
-
-3. Waarom stijgen de opnames in jeugdinstellingen?
-   a) Omdat de instellingen groter worden
-   b) Omdat er meer jongeren begeleid worden
-   c) Omdat het vakantie is
-   d) Omdat de rechters milder zijn
+1. Wat is een oorlogsmisdaad?
+   a) Een feest in oorlogstijd
+   b) Een misdrijf begaan tijdens een oorlog
+   c) Een sportevenement
+   d) Een nieuwe dans
+2. Wat doet een rechtbank?
+   a) Kooklessen geven
+   b) Beslissen of iemand schuldig is
+   c) Auto's verkopen
+   d) Muziek maken
+3. Wat betekent 'beslissen'?
+   a) Een taart bakken
+   b) Een besluit nemen, iets bepalen
+   c) Naar de dierentuin gaan
+   d) Een boek lezen
 
 #### Antwoorden
 1. b
@@ -56,11 +51,11 @@ Het aantal jongeren dat begeleid wordt door de jeugdrechtbank vanwege een misdri
 3. b
 
 ### Waar / Niet Waar
-1. Het aantal jongeren dat begeleid wordt, is gedaald.
-2. Een gesloten jeugdinstelling is een plek waar je niet vrij bent.
-3. Een misdrijf is een ernstige strafbare handeling.
+1. Martina Johnson wordt verdacht van oorlogsmisdaden.
+2. De rechtbank in Gent heeft beslist dat Martina niet terecht hoeft te staan.
+3. Martina Johnson is een bekende zangeres.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Waar
+1. Waar
+2. Niet waar
+3. Niet waar

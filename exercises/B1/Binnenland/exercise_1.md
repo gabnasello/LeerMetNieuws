@@ -1,13 +1,18 @@
-# Titel
+# Vereenvoudigde tekst
 
-Nooit zoveel jongeren gevolgd door jeugdrechtbank voor misdrijf
+## Titel
+Rechtbank beslist: Martina Johnson moet voor assisen voor oorlogsmisdaden in Liberia
 
 ## Samenvatting
+Martina Johnson wordt verdacht van oorlogsmisdaden. Deze misdaden vonden plaats tijdens de burgeroorlog in Liberia in de jaren 90. De rechtbank in Gent heeft beslist dat ze moet voorkomen voor de assisenbank. Dit is een belangrijke stap in de rechtszaak.
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/lz76o0-gesloten-jeugdinstelling-de-grubbe/alternates/BASE_SIXTEEN_NINE/gesloten%20jeugdinstelling%20De%20Grubbe)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/nooit-zoveel-jongeren-door-jeugdrechtbank-opgevolgd-wegens-misdrijf/95560703.html)
+---
 
-Vorig jaar zijn veel meer jongeren gevolgd door de jeugdrechtbank omdat ze een misdrijf hebben gedaan. Het aantal steeg van 2447 naar 2630. Hierdoor zijn ook veel meer jongeren opgenomen in gesloten jeugdinstellingen.
+Beste student,
+
+Hier is de oefening gebaseerd op de gegeven instructies:
+
+# Oefening: Rechtbankbeslissing over Martina Johnson
 
 ## Woordenschatuitbreiding
 
@@ -15,52 +20,51 @@ Vorig jaar zijn veel meer jongeren gevolgd door de jeugdrechtbank omdat ze een m
 
 | Woord | Definitie |
 |-------|-----------|
-| **jeugdrechtbank** | Een speciale rechtbank die beslist over zaken waar jongeren bij betrokken zijn. |
-| **misdrijf** | Een ernstige strafbare handeling, een zwaar vergrijp. |
-| **opgenomen** | Ergens (moeten) gaan wonen en verblijven, bijvoorbeeld in een instelling. |
-| **gesloten** | Niet vrij om weg te gaan; afgesloten van de buitenwereld. |
-| **fors** | Heel veel; een grote, sterke toename. |
+| **verdacht** | wordt gezien als mogelijke dader |
+| **oorlogsmisdaden** | ernstige misdrijven gepleegd tijdens een oorlog |
+| **rechtbank** | plaats waar recht wordt gesproken en beslissingen worden genomen |
+| **assisenhof** | een hogere rechtbank die zwaar strafrecht behandelt |
+| **beslist** | heeft een beslissing genomen |
 
 ### Vul-in-de-leegte
-1.  De rechter bij de ___ beslist wat er met de jongere gebeurt.
-2.  Een ___ is een veel ernstiger vergrijp dan een overtreding.
-3.  Het aantal jongeren in de instellingen steeg ___.
+1. Martina Johnson is ________ van het plegen van oorlogsmisdaden.
+2. De rechtbank in Gent heeft ________ dat Martina Johnson naar de assisenbank moet.
+3. De zaak tegen Martina Johnson is een belangrijke ________ in de rechtsgang.
 
 #### Oplossingen
-1.  jeugdrechtbank
-2.  misdrijf
-3.  fors
+1. verdacht
+2. beslist
+3. stap
 
 ### Meerkeuzevragen
-1. Wat is een jeugdrechtbank?
-   A) Een school voor moeilijke jongeren
-   B) Een speciale rechtbank voor jongeren
-   C) Een sportvereniging
-   D) Een soort ziekenhuis
+1. Wat is Martina Johnson naar mening van de rechtbank?
+   a) onschuldig  
+   b) verdacht  
+   c) vrijgesproken  
+   d) gearresteerd  
+   **Antwoord: b) verdacht**
 
-2. Wat betekent 'fors'?
-   A) Een beetje
-   B) Heel veel
-   C) Minder
-   D) Hetzelfde
+2. Waar heeft de rechtbank in Gent over beslist?
+   a) Dat Martina Johnson vrijgesproken is.  
+   b) Dat Martina Johnson naar de assisenbank moet.  
+   c) Dat de zaak gesloten is.  
+   d) Dat Martina Johnson onschuldig is.  
+   **Antwoord: b) Dat Martina Johnson naar de assizenbank moet.**
 
-3. Wat is een gesloten instelling?
-   A) Een plaats waar je vrij bent om te gaan en staan waar je wilt.
-   B) Een plaats waar je niet zelf mag besluiten weg te gaan.
-   C) Een openluchtmuseum.
-   D) Een groot winkelcentrum.
-
-#### Antwoorden
-1.  B
-2.  B
-3.  B
+3. Wat is het belang van deze beslissing?
+   a) Het is een eerste stap in de rechtszaak.  
+   b) Het is het einde van de rechtszaak.  
+   c) Het betekent dat Martina Johnson vrij is.  
+   d) Het is onbelangrijk.  
+   **Antwoord: a) Het is een eerste stap in de rechtszaak.**
 
 ### Waar / Niet Waar
-1.  Er zijn minder jongeren gevolgd door de jeugdrechtbank.
-2.  Een misdrijf is een ernstige strafbare handeling.
-3.  Meer jongeren zijn opgenomen in gesloten instellingen.
+1. Martina Johnson is al veroordeeld voor haar misdaden.  
+2. De rechtbank in Gent heeft Martina Johnson vrijgesproken.  
+3. Deze beslissing is het einde van de rechtszaak.  
+**Antwoorden:**
+1. Niet waar
+2. Niet waar
+3. Niet waar
 
-#### Antwoorden
-1.  Niet Waar
-2.  Waar
-3.  Waar
+---<｜begin▁of▁sentence｜>

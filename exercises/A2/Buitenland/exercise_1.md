@@ -1,13 +1,7 @@
-# Titel
+# Een ongeluk met twee VN-hulpkonvooien
+Twee konvooien met hulp van de VN zijn beschadigd door een droneaanval uit Rusland.
 
-Trump wil de Nationale Garde sturen
-
-## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/q1yhga-federal-crackdown-chicago/alternates/BASE_SIXTEEN_NINE/Federal%20Crackdown-Chicago)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/trump-wil-indien-nodig-rebelliewet-inroepen-om-nationale-garde-in-te-zetten/35131945.html)
-
-Donald Trump is voor de tweede keer president van Amerika. Hij maakt dingen anders in de wereld. Hier lees je het laatste nieuws.
+Volg alle nieuwe ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en ontvang meldingen bij belangrijke updates.
 
 ## Woordenschatuitbreiding
 
@@ -15,52 +9,48 @@ Donald Trump is voor de tweede keer president van Amerika. Hij maakt dingen ande
 
 | Woord | Definitie |
 |-------|-----------|
-| **president** | de belangrijkste leider van een land |
-| **tweede** | nummer twee, niet de eerste keer |
-| **wereld** | alle landen en mensen samen |
-| **nieuws** | informatie over wat er nu gebeurt |
-| **anderen** | niet hetzelfde maken, veranderen |
+| **konvooien** | een groep voertuigen die samen reizen, vaak voor bescherming |
+| **drone** | een onbemand vliegtuigje dat op afstand wordt bestuurd |
+| **oorlog** | een periode van gewapend conflict tussen landen of groepen |
+| **Oekraïne** | een land in Europa, nu in oorlog |
+| **updates** | nieuwe informatie of het laatste nieuws |
 
 ### Vul-in-de-leegte
-1. Donald Trump is de _____ van Amerika.
-2. Hier lees je het laatste _____.
-3. Hij maakt dingen _____ in de wereld.
-
+1. Een drone is een vliegtuigje dat op ___ wordt bestuurd.
+2. Oekraïne is een land in Europa waar nu ___ is.
+3. Door de app te downloaden, krijg je ___ over het nieuws.
 #### Oplossingen
-1. president
-2. nieuws
-3. anderen
+1. afstand
+2. oorlog
+3. updates
 
 ### Meerkeuzevragen
-1. Wat is Donald Trump?
-   a) een leraar
-   b) de president
-   c) een dokter
-   d) een kok
+1. Wat is een drone?
+a) een soort vogel  
+b) een onbemand vliegtuigje  
+c) een soort auto  
+d) een soort boot  
+**Antwoord: b) een onbemand vliegtuigje**
 
-2. Wat lees je hier?
-   a) een verhaal
-   b) het laatste nieuws
-   c) een grap
-   d) een recept
+2. Waar is Oekraïne?
+a) een stad in Duitsland  
+b) een land in Europa  
+c) een berg in Zwitserland  
+d) een rivier in Rusland  
+**Antwoord: b) een land in Europa**
 
-3. Wat doet hij in de wereld?
-   a) Hij maakt dingen anderen.
-   b) Hij koopt een auto.
-   c) Hij gaat naar school.
-   d) Hij kookt eten.
-
-#### Antwoorden
-1. b) de president
-2. b) het laatste nieuws
-3. a) Hij maakt dingen anderen.
+3. Wat betekent 'updates'?
+a) oude boeken  
+b) nieuwe informatie  
+c) vergeten nieuws  
+d) verborgen berichten  
+**Antwoord: b) nieuwe informatie**
 
 ### Waar / Niet Waar
-1. Donald Trump is voor de eerste keer president.
-2. Hier lees je oude nieuws.
-3. Hij maakt dingen anders in de wereld.
-
+1. Een drone wordt handmatig bestuurd. (Niet Waar - het wordt op afstand bestuurd)
+2. Oekraïne is een land in Azië. (Niet Waar - het is in Europa)
+3. Door de app te downloaden, krijg je updates over het nieuws. (Waar)
 #### Antwoorden
 1. Niet Waar
 2. Niet Waar
-3. Waar
+3. Waar<｜begin▁of▁sentence｜>

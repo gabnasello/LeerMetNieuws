@@ -1,70 +1,55 @@
-# Vier agenten voor de rechter voor dood man
+# Een pizza snijden, doe je dat met een schaar?
 
-[vereenvoudigde titel]
+[Een pizza snijden, doe je dat met een schaar?]
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/a1ejb4-job-1060894-proces-pieter-aerts/alternates/BASE_SIXTEEN_NINE/Job%201060894%20Proces%20Pieter%20Aerts)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/vier-agenten-voor-de-rechter-voor-dood-pieter-aerts-perfect-volgens-het-boekje-versus-een-waar-bloedbad/95283508.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ikni38-file82sb5jbovkw1el6oz7w7/alternates/BASE_SIXTEEN_NINE/file82sb5jbovkw1el6oz7w7)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/een-pizza-snijden-dat-doe-je-toch-gewoon-met-een-schaar/97275517.html)
 
-[vereenvoudigde samenvatting]
-Moet een politieagent altijd alles doen wat mogelijk is, zelfs als dat ernstige gevolgen heeft? De zaak over Pieter Aerts (35) gaat over de vraag of de politie zonder officiële toestemming een huis binnen mag gaan. Dit mag alleen als er een goede reden tot bezorgdheid is. Een van de agenten zegt: "Ik kan nog steeds niet begrijpen dat ik vier keer heb geschoten."
+In Napels is het heel gewoon, en nu wordt de pizzaschaar ook bij ons populair. Sterrenchef Peppe Giacomazta zegt: "Ik knip altijd."
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
 
-[Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting]
-
 | Woord | Definitie |
 |-------|-----------|
-| **agent** | een politiepersoon, iemand die de wet handhaaft |
-| **rechter** | de persoon in de rechtbank die beslist of iemand schuldig is |
-| **dood** | het overlijden, het einde van het leven |
-| **reden** | een oorzaak of verklaring voor iets |
-| **geschoten** | het afvuren van een wapen |
+| **pizzaschaar** | een schaar om pizza mee te snijden |
+| **Napels** | een stad in Italië waar pizza vandaan komt |
+| **gewoon** | iets wat vaak voorkomt, niet speciaal |
+| **sterrenchef** | een hele goede kok die bekend is |
+| **knip** | hier: het werkwoord van "knippen", met een schaar iets doorknippen |
 
 ### Vul-in-de-leegte
-1. De vier _____ moeten voor de _____ verschijnen.
-2. Er was een goede _____ om bezorgd te zijn.
-3. De agent kan niet geloven dat hij heeft _____.
+1. In ___ is het heel gewoon om pizza met een schaar te snijden.
+2. Peppe Giacomazta is een beroemde ___ die altijd een schaar gebruikt.
+3. De pizzaschaar wordt nu ook in andere landen ___.
 
 #### Oplossingen
-1. agenten, rechter
-2. reden
-3. geschoten
+1. Napels
+2. kok
+3. gebruikt
 
 ### Meerkeuzevragen
-1. Waar gaat de zaak vooral over?
-   a) Of de agenten een bonus krijgen
-   b) Of de politie zonder toestemming een huis binnen mag
-   c) Of Pieter Aerts een crimineel was
-   d) Of het wapen van de agent kapot was
-
-2. Wat zegt een van de agenten?
-   a) Hij is trots op wat hij deed
-   b) Hij kan niet geloven dat hij geschoten heeft
-   c) Hij vindt het zijn schuld niet
-   d) Hij wil ontslag nemen
-
-3. Wat is een synoniem voor 'dood' in deze tekst?
-   a) Leven
-   b) Overlijden
-   c) Geboorte
-   d) Feest
+1. Waar komt de pizzaschaar oorspronkelijk vandaan?
+   a) Nederland b) België c) Italië d) Duitsland
+2. Wat betekent "gewoon" in deze context?
+   a) saai b) normaal c) duur d) speciaal
+3. Wat doet Peppe Giacomazta altijd?
+   a) koken b) knippen c) schrijven d) reizen
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. c) Italië
+2. b) normaal
+3. b) knippen
 
-### Waar / Niet Waar
-1. De politie had een officieel huiszoekingsbevel.
-2. Er was een reden voor bezorgdheid.
-3. De agent schoot één keer.
+### Waar / Niet waar
+1. De pizzaschaar is alleen in Italië bekend.
+2. Peppe Giacomazta is een gewone kok.
+3. De tekst zegt dat de pizzaschaar nu ook in andere landen gebruikt wordt.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
+1. Niet waar (want in de tekst staat dat het in Napels gewoon is, en nu ook hier)
+2. Niet waar (hij is een sterrenchef, dus niet gewoon)
+3. Waar (uit de samenvatting: "nu vindt de pizzaschaar ook de weg van het zuiden naar hier")<｜begin▁of▁sentence｜>

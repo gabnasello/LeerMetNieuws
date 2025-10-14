@@ -1,13 +1,7 @@
-# Titel
-
-Nieuwe bisschoppen voor Namen en Doornik
+# Gaat de luchthaven van Deurne binnenkort failliet?
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/nqonas-file82p9hbaza2h9ri08d9j/alternates/BASE_SIXTEEN_NINE/file82p9hbaza2h9ri08d9j)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/namen-en-doornik-krijgen-nieuwe-bisschop/95378654.html)
-
-De bisdommen van Doornik en Namen krijgen allebei een nieuwe bisschop. Fabien Lejeusne wordt de bisschop van Namen. Frédéric Rossignol wordt de nieuwe bisschop van Doornik.
+De luchthaven van Deurne heeft financiële problemen. Ze heeft financiële steun nodig van de Vlaamse regering om te kunnen blijven werken. Omdat de regering moet besparen, is het niet zeker of ze de luchthaven wel of niet zal steunen. 
 
 ## Woordenschatuitbreiding
 
@@ -15,49 +9,41 @@ De bisdommen van Doornik en Namen krijgen allebei een nieuwe bisschop. Fabien Le
 
 | Woord | Definitie |
 |-------|-----------|
-| **bisdom** | het gebied waar een bisschop de leiding heeft over de katholieke kerken |
-| **bisschop** | een belangrijke leider in de katholieke kerk die de leiding heeft over een bisdom |
-| **nieuwe** | recent aangesteld of benoemd, niet de vorige |
-| **krijgen** | ontvangen, iemand wordt aan hen toegewezen |
-| **leiding** | de verantwoordelijkheid om iets of iemand te besturen of te managen |
+| **luchthaven** | een plaats waar vliegtuigen kunnen starten en landen |
+| **financiële** | met betrekking tot geld en inkomsten |
+| **steun** | hulp of bijstand geven |
+| **besparen** | minder geld uitgeven, zuiniger leven |
+| **toekomst** | de tijd die nog moet komen, na nu |
 
 ### Vul-in-de-leegte
-1. Een ___ is het gebied waar een bisschop werkt.
-2. De kerk in die stad zal een ___ priester als leider krijgen.
-3. De bisschop heeft de ___ over alle kerken in zijn gebied.
+1. De luchthaven van Deurne heeft financiële ___ nodig.
+2. De Vlaamse regering moet beslissen of ze de luchthaven financieel ___ of niet.
+3. Als de luchthaven failliet gaat, zullen veel mensen hun ___ verliezen.
+
 #### Oplossingen
-1. bisdom
-2. nieuwe
-3. leiding
+1. steun
+2. steunt
+3. baan
 
 ### Meerkeuzevragen
-1. Wat is een bisdom?
-   A) Een soort kerkgebouw
-   B) Het gebied onder leiding van een bisschop
-   C) Een groep gelovigen
-   D) Een religieus feest
+1. Wat is de hoofdstad van Vlaanderen?
+A) Brussel B) Antwerpen C) Gent D) Deurne
+2. Waar staat N-VA voor in deze context?
+A) Nieuwe Vlaamse Alliantie B) Nederlandse Vereniging Antwerpen C) Nationale Vlieg Associatie D) Nationale Vakbond Antwerpen
+3. Wat betekent "failliet gaan"?
+A) een feestje hebben B) financieel instorten C) een nieuwe start maken D) snel groeien
 
-2. Wat betekent 'krijgen' in deze samenvatting?
-   A) Weggooien
-   B) Kopen
-   C) Ontvangen
-   D) Zoeken
-
-3. Wat doet een bisschop?
-   A. Hij bouwt kerken
-   B. Hij heeft de leiding over een bisdom
-   C. Hij zingt in de kerk
-   D. Hij is een gewone gelovige
 #### Antwoorden
-1. B
-2. C
-3. B
+1. A) Brussel
+2. A) Nieuwe Vlaamse Alliantie
+3. B) financieel instorten
 
 ### Waar / Niet Waar
-1. Een bisdom is een gebouw.
-2. De bisschop heeft de leiding over de kerken in zijn gebied.
-3. 'Nieuwe' betekent altijd oud en versleten.
+1. De luchthaven van Deurne heeft geen financiële problemen. (Niet Waar)
+2. De Vlaamse regering heeft al besloten om de luchthaven te steunen. (Niet Waar)
+3. Als de luchthaven failliet gaat, verliezen alleen de piloten hun baan. (Niet Waar)
+
 #### Antwoorden
 1. Niet Waar
-2. Waar
-3. Niet Waar
+2. Niet Waar
+3. Niet Waar<｜begin▁of▁sentence｜>

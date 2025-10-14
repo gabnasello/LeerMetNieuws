@@ -1,66 +1,57 @@
-# Titel
+# Parlement van Madagaskar stemt voor afzetting president, elitetroepen zeggen het land nu te controleren
 
-Eerste dag van vredesbesprekingen “goed verlopen”
+## Titel en Samenvatting in eenvoudig Nederlands
 
-## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/8d0pra-smoke-rises-following-explosions-in-gaza-city-as-seen-from-central-gaza-strip/alternates/BASE_SIXTEEN_NINE/Smoke%20rises%20following%20explosions%20in%20Gaza%20City%20as%20seen%20from%20central%20Gaza%20Strip)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/eerste-dag-van-vredesonderhandelingen-positief-afgerond/35173881.html)
-
-Israël gaat door met de verwoestende oorlog in Gaza, ook al is er steeds meer kritiek uit andere landen. Hier vind je het laatste nieuws.
+**Titel**: Parlement Madagaskar stemt voor afzetting president, elitesoldaten zeggen het land nu te controleren  
+**Samenvatting**: Het Lagerhuis van het parlement van Madagaskar heeft gestemd voor de afzetting van president Andry Rajoelina. Ondertussen probeert hij vanuit het buitenland zijn macht te behouden. De elitetroepen (Capsat-eenheid) hebben aangekondigd dat ze de controle over het land hebben overgenomen.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **vredesbesprekingen** | Officiële gesprekken tussen partijen in een conflict om tot vrede te komen |
-| **verwoestend** | Iets dat enorme schade of vernietiging veroorzaakt |
-| **oorlog** | Gewapend conflict tussen landen of groepen binnen een land |
-| **kritiek** | Uiting van afkeuring of bezwaren tegen iets of iemand |
-| **internationale** | Betrekking hebbend op of tussen verschillende landen |
+| **afzetting** | het verwijderen van iemand uit een machtige positie, vaak een president of leider |
+| **parlement** | een groep van gekozen personen die wetten maken en het land besturen |
+| **elitetroepen** | speciale, vaak elite, militaire eenheden die taken uitvoeren voor de staat |
+| **controle** | het hebben van beheer, gezag of toezicht over iets |
+| **aan te kondigen** | officieel bekendmaken, bekendgeven |
 
 ### Vul-in-de-leegte
-1. De ___ tussen de twee landen werden onderbroken door nieuwe gevechten.
-2. De bombardementen hadden een ___ effect op de stad.
-3. Er kwam veel ___ op het besluit om de aanval voort te zetten.
-
+1. Het parlement heeft gestemd voor de ___ van de president.
+2. De elitetroepen hebben ___ dat ze nu de controle over het land hebben.
+3. President Rajoelina probeert zijn macht te ___ vanuit het buitenland.
 #### Oplossingen
-1. vredesbesprekingen
-2. verwoestend
-3. kritiek
+1. afzetting
+2. aangekondigd
+3. behouden
 
 ### Meerkeuzevragen
-1. Wat zijn 'vredesbesprekingen'?
-   a) Gesprekken over handel
-   b) Officiële gesprekken om een conflict te beëindigen
-   c) Een soort protest
-   d) Een militaire operatie
-
-2. Wat betekent 'verwoestend'?
-   a) Iets dat opbouwt
-   b) Iets dat enorme schade veroorzaakt
-   c) Iets dat vrede brengt
-   d) Iets dat tijdelijk is
-
-3. Wat is 'internationale kritiek'?
-   a) Goedkeuring vanuit het buitenland
-   b) Afkeuring vanuit verschillende landen
-   c) Een binnenlandse discussie
-   d) Een soort compliment
-
+1. Wat is het parlement van Madagaskar?
+   a) een soort museum  
+   b) een groep die wetten maakt en de regering controleert  
+   c) een internationaal verdrag  
+   d) een lokale markt  
+2. Wat betekent "afzetting" in deze context?  
+   a) iemand helpen met een taak  
+   b) iemand verwijderen uit een positie van macht  
+   c) iemand een geschenk geven  
+   d) iemand bezoeken in een ander land  
+3. Wat doet de Capsat-eenheid?  
+   a) ze organiseren een feest  
+   b) ze hebben de controle over het land overgenomen  
+   c) ze werken samen met de president  
+   d) ze zijn op vakantie  
 #### Antwoorden
-1. b) Officiële gesprekken om een conflict te beëindigen
-2. b) Iets dat enorme schade veroorzaakt
-3. b) Afkeuring vanuit verschillende landen
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. 'Oorlog' is een gewapend conflict tussen partijen.
-2. 'Kritiek' betekent dat je het ergens volledig mee eens bent.
-3. 'Internationale' heeft alleen betrekking op zaken binnen één land.
-
+1. Het parlement van Madagaskar heeft gestemd om de president te eren.  
+2. President Rajoelina is in het buitenland.  
+3. De Capsat-eenheid heeft de controle over het land overgenomen.  
 #### Antwoorden
-1. Waar
-2. Niet Waar
-3. Niet Waar
+1. Niet waar
+2. Waar
+3. Waar<｜begin▁of▁sentence｜>

@@ -1,69 +1,60 @@
-# Mensen keren terug naar hun huizen bij Gaza
-
-[vereenvoudigde titel]
+# Wat deed Fifa-baas Gianni Infantino op de Gaza-top in Sharm-el-Sheikh?
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/sm8ry5-image00003.jpg/alternates/BASE_SIXTEEN_NINE/image00003.JPG)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/oude-en-nieuwe-kibboetsbewoners-in-zuid-israel-wonen-weer-naast-gaza-het-antwoord-op-terreur-is-ons-hier-te-vestigen/95454079.html)
-
-Twee jaar na een gewelddadige aanval keren veel mensen terug naar hun huizen in het zuiden van Israël. Honderden nieuwe bewoners komen er ook bij. Sommige nieuwe bewoners gaan daar uit idealisme wonen. Zij zeggen: "Het is goed dat er nieuwe mensen bij komen."
+Naast een lange reeks wereldleiders dook ook Fifa-voorzitter Gianni Infantino maandag op aan de zijde van Donald Trump in Egypte. Dat was niet de eerste keer: de voetbalbaas cultiveert zorgvuldig banden met machthebbers van in het Midden-Oosten tot Washington.  
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
-
-[Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting]
+### Woordenschat
 
 | Woord | Definitie |
 |-------|-----------|
-| **keren** | teruggaan naar een plaats |
-| **gewelddadig** | met veel kracht en agressie, niet vreedzaam |
-| **idealisme** | het streven naar een betere wereld volgens je idealen |
-| **bewoners** | mensen die ergens wonen |
-| **plaats** | een bepaalde locatie, stad of dorp |
+| **Fifa-baas** | de baas van de internationale voetbalorganisatie |
+| **wereldleider** | een leider van een land op de wereld |
+| **cultiveren** | iets met zorg doen, verzorgen |
+| **machthebbers** | mensen die de macht hebben |
+| **voetbalbaas** | de baas van een voetbalorganisatie |
 
 ### Vul-in-de-leegte
-1. Na de vakantie ___ ik altijd terug naar huis.
-2. De ___ aanval zorgde voor veel angst.
-3. Uit ___ verhuisde hij naar een afgelegen dorp.
+1. Gianni Infantino is de baas van de ___.  
+2. Hij ontmoet wereldleiders zoals ___ Trump.  
+3. Hij probeert goede relaties te ___ met belangrijke mensen.  
 
 #### Oplossingen
-1. keer
-2. gewelddadige
-3. idealisme
+1. Fifa  
+2. Donald  
+3. cultiveren  
 
 ### Meerkeuzevragen
-1. Wat betekent 'keren'?
-   a) Weggaan
-   b) Teruggaan
-   c) Blijven
-   d) Bezoeken
+1. Wat is Fifa?  
+a) Een land  
+b) Een voetbalorganisatie  
+c) Een stad  
+d) Een sport  
 
-2. Wat is een synoniem voor 'gewelddadig'?
-   a) Vreedzaam
-   b) Agressief
-   c) Rustig
-   d) Vriendelijk
+2. Waar ontmoette Gianni Infantino andere leiders?  
+a) In een winkelcentrum  
+b) Op een sportevenement  
+c) Op een internationale bijeenkomst in Egypte  
+d) In zijn eigen kantoor  
 
-3. Waarom gaan mensen ergens wonen uit idealisme?
-   a) Omdat het huis goedkoop is
-   b) Omdat ze ergens in geloven
-   c) Omdat hun familie er woont
-   d) Omdat het dichtbij hun werk is
+3. Waarom doet Gianni Infantino dit?  
+a) Omdat hij van reizen houdt  
+b) Omdat hij sterke relaties wil opbouwen met belangrijke mensen  
+c) Omdat hij moet voetballen  
+d) Omdat hij daar woont  
 
 #### Antwoorden
-1. b) Teruggaan
-2. b) Agressief
-3. b) Omdat ze ergens in geloven
+1. b) Een voetbalorganisatie  
+2. c) Op een internationale bijeenkomst in Egypte  
+3. b) Omdat hij sterke relaties wil opbouwen met belangrijke mensen  
 
 ### Waar / Niet Waar
-1. 'Bewoners' zijn mensen die ergens op vakantie zijn.
-2. Idealisme gaat over het nastreven van een betere wereld.
-3. Een 'plaats' is altijd een groot land.
+1. Gianni Infantino is de baas van de Fifa.  
+2. De Fifa-baas ontmoette alleen sportmensen.  
+3. Gianni Infantino probeert geen goede relaties te onderhouden.  
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
+1. Waar  
+2. Niet waar  
+3. Niet waar<｜begin▁of▁sentence｜>

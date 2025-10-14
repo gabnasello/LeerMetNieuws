@@ -1,66 +1,61 @@
-# Titel
+# Vereenvoudigde titel en samenvatting
 
-Nieuwe bisschop voor Namen en Doornik
+**Titel: Kan de luchthaven van Deurne overleven?**
 
-## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/nqonas-file82p9hbaza2h9ri08d9j/alternates/BASE_SIXTEEN_NINE/file82p9hbaza2h9ri08d9j)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/namen-en-doornik-krijgen-nieuwe-bisschop/95378654.html)
-
-De kerkelijke gebieden van Doornik en Namen krijgen allebei een nieuwe leider. Fabien Lejeusne wordt de nieuwe bisschop van Namen. Frédéric Rossignol wordt de nieuwe bisschop van Doornik.
+**Samenvatting:** Het gaat niet goed met de luchthaven van Deurne. Zonder een grote financiële steun van de Vlaamse regering kan de luchthaven misschien sluiten. Omdat er veel besparingen zijn, vragen sommige politieke partijen zich af of dit soort subsidies nog wel nodig zijn. Maar N-VA wil de steun gewoon door laten gaan.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **bisschop** | Een belangrijke leider in de katholieke kerk. |
-| **gebied** | Een stuk land of een regio. |
-| **kerkelijk** | Alles wat met de kerk te maken heeft. |
-| **leider** | Iemand die de leiding heeft over een groep mensen. |
-| **nieuwe** | Iets of iemand dat er eerst niet was. |
+| **luchthaven** | een plaats waar vliegtuigen opstijgen en landen |
+| **financiële steun** | geld dat gegeven wordt om iemand of iets te helpen |
+| **besparingen** | het verminderen van uitgaven of kosten |
+| **partij** | een groep mensen die samenwerken in de politiek |
+| **subsidie** | financiële steun van de overheid aan een organisatie of project |
 
-### Vul-in-de-leegte
-1. De priester werkt in het ___ gebied.
-2. De koning is de ___ van het land.
-3. Mijn buurvrouw is de ___ directeur van de school.
+### Vul in de lege plekken
+1. De luchthaven van Deurne heeft financiële steun nodig om ___ te blijven werken.
+2. Sommige politieke partijen vragen zich af of het verstandig is om ___ aan de luchthaven te geven.
+3. N-VA wil dat de steun gewoon ___.
 
 #### Oplossingen
-1. kerkelijke
-2. leider
-3. nieuwe
+1. blijven
+2. subsidies
+3. doorgaat
 
 ### Meerkeuzevragen
-1. Wat is een bisschop?
-   a) Een burgemeester
-   b) Een belangrijke leider in de kerk
-   c) Een brandweerman
-   d) Een arts
+1. Wat is een luchthaven?
+   a) Een treinstation
+   b) Een plaats waar vliegtuigen opstijgen en landen
+   c) Een busstation
+   d) Een snelweg
 
-2. Wat betekent 'kerkelijk'?
-   a) Heel oud
-   b) Heel groot
-   c) Met de kerk te maken hebben
-   d) Met de school te maken hebben
+2. Waarom heeft de luchthaven van Deurne financiële steun nodig?
+   a) Omdat het te veel winst maakt
+   b) Omdat het niet genoeg inkomsten heeft om de kosten te dekken
+   c) Omdat het een nieuwe luchthaven is
+   d) Omdat het te veel vliegtuigen heeft
 
-3. Wat is een leider?
-   a) Iemand die de baas is
-   b) Iemand die altijd luistert
-   c) Iemand die veel eet
-   d) Iemand die hard werkt
+3. Wat is een synoniem voor "besparingen"?
+   a) Investeringen
+   b) Uitgaven
+   c) Besparingen (bezuinigingen)
+   d) Inkomsten
 
 #### Antwoorden
 1. b
-2. c
-3. a
+2. b
+3. c
 
 ### Waar / Niet Waar
-1. Een bisschop is de leider van een kerkelijk gebied.
-2. 'Kerkelijk' betekent hetzelfde als 'sportief'.
-3. Een nieuwe leider is iemand die al heel lang de baas is.
+1. De luchthaven van Deurne heeft geen financiële steun nodig.
+2. Alle politieke partijen zijn het eens over de steun aan de luchthaven.
+3. N-VA wil de steun stopzetten.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar
-3. Niet Waar
+1. Niet waar
+2. Niet waar
+3. Niet waar<｜begin▁of▁sentence｜>

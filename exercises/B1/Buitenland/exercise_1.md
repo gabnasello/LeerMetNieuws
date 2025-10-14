@@ -1,13 +1,12 @@
-# Titel
+# Twee VN-konvooien met humanitaire hulp beschadigd door Russische droneaanval
 
-Trump wil de Nationale Garde sturen
-
+[Twee VN-konvooien met humanitaire hulp zijn beschadigd door een Russische droneaanval]
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/q1yhga-federal-crackdown-chicago/alternates/BASE_SIXTEEN_NINE/Federal%20Crackdown-Chicago)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/trump-wil-indien-nodig-rebelliewet-inroepen-om-nationale-garde-in-te-zetten/35131945.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/efs2cn-000-par2004071450604.jpg/alternates/BASE_SIXTEEN_NINE/000_PAR2004071450604.jpg)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/twee-vn-konvooien-met-humanitaire-hulp-beschadigd-door-russische-droneaanval/35173633.html)
 
-Donald Trump is voor de tweede keer president van Amerika. Hij maakt dingen over de hele wereld anders. Hier lees je het laatste nieuws.
+[In de oorlog in Oekraïne zijn twee VN-konvooien met humanitaire hulp beschadigd door een Russische droneaanval. Volg de laatste ontwikkelingen in de oorlog in Oekraïne. Download de DS Nieuws-app voor belangrijke updates.]
 
 ## Woordenschatuitbreiding
 
@@ -15,53 +14,47 @@ Donald Trump is voor de tweede keer president van Amerika. Hij maakt dingen over
 
 | Woord | Definitie |
 |-------|-----------|
-| **president** | de leider van een land |
-| **tweede** | nummer twee, niet de eerste keer |
-| **wereldwijd** | over de hele wereld |
-| **veranderingen** | dingen die anders worden |
-| **laatste** | het meest recente, het nieuwste |
+| **Konvooien** | Een groep voertuigen die samen reizen, vaak voor bescherming. |
+| **Humanitair** | Alles wat te maken heeft met het helpen en beschermen van mensen. |
+| **Drone** | Een onbemand vliegtuigje dat op afstand wordt bestuurd. |
+| **Oorlog** | Een periode van gewapend conflict tussen landen of groepen. |
+| **Update** | De nieuwste informatie over iets. |
 
 ### Vul-in-de-leegte
-1. De _____ van een land heeft veel macht.
-2. Dit is zijn _____ keer dat hij president is.
-3. Het nieuws gaat over de _____ ontwikkelingen.
-
+1. Twee VN-___ met humanitaire hulp werden beschadigd door een Russische drone.
+2. De droneaanval vond plaats tijdens de ___ in Oekraïne.
+3. Mensen kunnen de DS Nieuws-app downloaden om ___ over het nieuws te krijgen.
 #### Oplossingen
-1. president
-2. tweede
-3. laatste
+1. konvooien
+2. oorlog
+3. updates
 
 ### Meerkeuzevragen
-1. Wat is de president?
-A) Een soort auto
-B) De leider van een land
-C) Een grote stad
-D) Een oud gebouw
-
-2. Wat betekent 'wereldwijd'?
-A) Alleen in een dorp
-B) Over de hele wereld
-C) Binnen één huis
-D) Onder de grond
-
-3. Wat zijn 'veranderingen'?
-A) Dingen die hetzelfde blijven
-B) Dingen die kapot zijn
-C) Dingen die anders worden
-D) Dingen die heel duur zijn
-
+1. Wat is een drone?
+   a) Een soort vliegtuig zonder piloot
+   b) Een soort auto
+   c) Een soort fiets
+   d) Een soort computer
+2. Waarom worden konvooien gebruikt?
+   a) Om sneller te reizen
+   b) Om goederen en mensen veilig te vervoeren
+   c) Om te racen
+   d) Om te winkelen
+3. Wat betekent 'humanitair'?
+   a) Alles wat met oorlog te maken heeft
+   b) Alles wat met helpen en beschermen te maken heeft
+   c) Alles wat met feesten te maken heeft
+   d) Alles wat met sport te maken heeft
 #### Antwoorden
-1. B) De leider van een land
-2. B) Over de hele wereld
-3. C) Dingen die anders worden
+1. a
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Trump is voor de eerste keer president.
-2. De samenvatting gaat over het laatste nieuws.
-3. 'Wereldwijd' betekent alleen in België.
-
+1. Twee VN-konvooien werden beschadigd door een Oekraïense drone. (Niet Waar)
+2. De oorlog vindt plaats in Oekraïne. (Waar)
+3. De DS Nieuws-app geeft updates over het nieuws. (Waar)
 #### Antwoorden
 1. Niet Waar
 2. Waar
-3. Niet Waar
----
+3. Waar<｜begin▁of▁sentence｜>

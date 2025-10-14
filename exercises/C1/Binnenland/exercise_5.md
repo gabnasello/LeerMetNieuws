@@ -1,67 +1,61 @@
 # Titel
 
-Nieuwe bisschop voor bisdommen Namen en Doornik
+Gaat de luchthaven van Deurne binnenkort failliet?
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/nqonas-file82p9hbaza2h9ri08d9j/alternates/BASE_SIXTEEN_NINE/file82p9hbaza2h9ri08d9j)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/namen-en-doornik-krijgen-nieuwe-bisschop/95378654.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/fp8iqf-954.jpeg/alternates/BASE_SIXTEEN_NINE/954.jpeg)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/gaat-de-luchthaven-van-deurne-binnenkort-failliet/97287327.html)
 
-De bisdommen van Doornik en Namen krijgen allebei een nieuwe bisschop. Fabien Lejeusne wordt de bisschop van Namen. Frédéric Rossignol wordt de nieuwe bisschop van Doornik.
+Het gaat niet goed met de luchthaven van Deurne. Zonder financiële steun van de Vlaamse regering dreigt de luchthaven failliet te gaan. Twee regeringspartijen, CD&V en Vooruit, stellen de subsidies in vraag, maar N-VA wil niet meewerken.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordenschat
 
 | Woord | Definitie |
 |-------|-----------|
-| **bisdom** | een kerkelijk gebied dat onder leiding staat van een bisschop |
-| **bisschop** | een hoge geestelijke leider binnen de katholieke kerk |
-| **Doornik** | een stad en bisdom in België |
-| **Namen** | een stad en bisdom in België |
-| **nieuwe** | recent aangesteld of benoemd; niet de vorige |
+| **luchthaven** | een plaats waar vliegtuigen opstijgen en landen |
+| **failliet** | zonder geld, dus niet meer kunnen werken |
+| **financiële steun** | geld dat gegeven wordt om iets of iemand te helpen |
+| **regeringspartijen** | politieke groepen die samen de regering vormen |
+| **subsidies** | geld dat de overheid geeft om iets te ondersteunen |
 
 ### Vul-in-de-leegte
-1. Een ___ is een belangrijk religieus leider in de katholieke kerk.
-2. De stad ___ is de hoofdstad van Wallonië.
-3. Na het vertrek van de oude leider, kwam er een ___ aan het hoofd te staan.
-
+1. De luchthaven van Deurne heeft financiële steun nodig om open te blijven.
+2. Als de luchthaven failliet gaat, zullen veel mensen hun baan verliezen.
+3. Twee politieke partijen stellen de subsidies in vraag, maar één partij wil niet meewerken.
 #### Oplossingen
-1. bisschop
-2. Namen
-3. nieuwe
+1. De luchthaven van Deurne heeft financiële steun nodig om open te blijven.
+2. Als de luchthaven failliet gaat, zullen veel mensen hun baan verliezen.
+3. Twee politieke partijen stellen de subsidies in vraag, maar één partij wil niet meewerken.
 
 ### Meerkeuzevragen
-1. Wat is een 'bisdom'?
-   a) Een soort kerkgebouw
-   b) Een kerkelijk gebied geleid door een bisschop
-   c) Een religieuze bijeenkomst
-   d) Een gebed
-
-2. Welke stad is NIET een bisdom in deze tekst?
-   a) Doornik
-   b) Brussel
-   c) Namen
-   d) Beide a en c zijn bisdommen
-
-3. Wat betekent 'nieuwe' in de context van de samenvatting?
-   a) Iemand die voor het eerst een functie krijgt
-   b) Iemand die een andere bisschop opvolgt
-   c) Een modern persoon
-   d) Een jonge persoon
-
+1. Wat is de hoofdreden dat de luchthaven van Deurne in problemen is?
+   a) Te weinig vliegtuigen
+   b) Geen financiële steun
+   c) Te veel sneeuw
+   d) Geen elektriciteit
+2. Wat is een gevolg als de luchthaven failliet gaat?
+   a) Meer toeristen
+   b) Minder files
+   c) Werkloosheid
+   d) Meer vluchten
+3. Welke partij ondersteunt de subsidies niet?
+   a) CD&V
+   b) Vooruit
+   c) N-VA
+   d) Alle partijen
 #### Antwoorden
-1. b
-2. b
-3. b
+1. b) Geen financiële steun
+2. c) Werkloosheid
+3. c) N-VA
 
 ### Waar / Niet Waar
-1. De tekst gaat over de benoeming van een nieuwe bisschop voor Brussel.
-2. Fabien Lejeusne wordt de bisschop van Namen.
-3. Beide bisdommen krijgen dezelfde persoon als nieuwe bisschop.
-
+1. De luchthaven van Deurne doet het goed zonder financiële hulp.
+2. Alle regeringspartijen willen de subsidies stopzetten.
+3. N-VA is de enige partij die de subsidies wil behouden.
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
+1. Niet waar
+2. Niet waar
+3. Waar<｜begin▁of▁sentence｜>

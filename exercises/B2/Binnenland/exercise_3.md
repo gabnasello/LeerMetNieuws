@@ -1,64 +1,60 @@
-# Hoe kunnen langdurig zieke mensen weer gaan werken?
+# Youssef uit ‘Kamp Waes’ is veroordeeld voor berichten aan leerlinge
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/6zjy9y-file82pdv23cbact0mclcti/alternates/BASE_SIXTEEN_NINE/file82pdv23cbact0mclcti)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/een-klant-die-de-poetshulp-pauze-gaf-en-meehielp-bleek-essentieel-hoe-kunnen-langdurig-zieken-weer-aan-het-werk-raken/94979180.html)
-
-Wanneer is het weer aan het werk gaan na een lange ziekte succesvol? De Sociaal-Economische Raad voor Vlaanderen heeft dit gevraagd aan mensen die het meemaakten. Ze hebben de antwoorden en adviezen samengebracht in een nieuw verslag. "Het is belangrijk om te investeren in vertrouwen", zegt onderzoekster Katrijn Vanderweyden.
+Youssef Challouki, een deelnemer van het tv-programma Kamp Waes, is veroordeeld tot een jaar cel met uitstel. Hij stuurde seksueel getinte berichten naar een van zijn leerlingen.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **langdurig** | voor een lange tijd, niet kort |
-| **succesvol** | met een goed resultaat, wanneer iets lukt |
-| **verslag** | een geschreven tekst met informatie en resultaten over iets |
-| **investeren** | tijd, geld of moeite ergens in stoppen voor later resultaat |
-| **vertrouwen** | het geloof dat je in iemand of iets hebt, het gevoel dat je iemand kunt geloven |
+| **deelnemer** | iemand die meedoet aan iets, bijvoorbeeld een activiteit of programma |
+| **veroordeeld** | iemand die door een rechter schuldig is bevonden en een straf krijgt |
+| **uitstel** | wanneer iets niet doorgaat of wordt uitgesteld naar een later moment |
+| **berichten** | geschreven of digitale communicatie, zoals een sms of een chatbericht |
+| **leerlinge** | een vrouwelijke student of iemand die onderwijs volgt |
 
-### Vul-in-de-leegte
-1. Na haar ziekte was het voor haar een grote uitdaging om weer ___ te raken.
-2. De raad bracht alle adviezen samen in een duidelijk ___.
-3. Volgens de onderzoekster is het essentieel om in ___ te investeren.
+### Vul in de lege plekken
+1. Youssef Challouki is een ___ van het programma Kamp Waes.
+2. Hij stuurde ongepaste ___ naar een leerling.
+3. De rechter heeft hem ___ en hij kreeg een straf met ___.
 
 #### Oplossingen
-1. werken
-2. verslag
-3. vertrouwen
+1. deelnemer
+2. berichten
+3. veroordeeld, uitstel
 
 ### Meerkeuzevragen
-1. Wat betekent 'langdurig'?
-   a) heel erg
-   b) voor een korte tijd
-   c) voor een lange tijd
-   d) met veel moeite
+1. Wat is Youssef Challouki?
+a) Een docent
+b) Een tv-deelnemer
+c) Een rechter
+d) Een student
 
-2. Wat is een synoniem voor 'succesvol'?
-   a) moeilijk
-   b) geslaagd
-   c) interessant
-   d) nieuw
+2. Wat betekent "uitstel" in deze context?
+a) De straf is onmiddellijk
+b) De straf is uitgesteld
+c) De straf is verhoogd
+d) De straf is onbekend
 
-3. Waar investeer je in volgens het verslag?
-   a) in nieuwe banen
-   b) in vertrouwen
-   c) in geld
-   d) in gezondheid
+3. Wat is de hoofdoorzaak van deze zaak?
+a) Youssef is onschuldig
+b) Youssef stuurde ongepaste berichten
+c) Youssef won een prijs
+d) Youssef is een leraar
 
 #### Antwoorden
-1. c) voor een lange tijd
-2. b) geslaagd
-3. b) in vertrouwen
+1. b) Een tv-deelnemer
+2. b) De straf is uitgesteld
+3. b) Youssef stuurde ongepaste berichten
 
 ### Waar / Niet Waar
-1. De Sociaal-Economische Raad heeft alleen met artsen gesproken.
-2. Het verslag gaat over hoe mensen weer kunnen werken na een lange ziekte.
-3. Investeren in vertrouwen is volgens het verslag niet belangrijk.
+1. Youssef Challouki is een deelnemer van Kamp Waes.
+2. Youssef stuurde berichten naar een medestudent.
+3. Youssef kreeg een onmiddellijke gevangenisstraf.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1. Waar
+2. Niet waar (het was een leerling, geen medestudent)
+3. Niet waar (hij kreeg uitstel)<｜begin▁of▁sentence｜>

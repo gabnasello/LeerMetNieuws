@@ -1,67 +1,64 @@
-# Titel
+# Politie gebruikt traangas tegen betogers bij Dienst Vreemdelingenzaken
 
-Kinderen met en zonder beperking spelen samen in Villa Clementina: "Dit zou overal in Vlaanderen moeten zijn"
+[Vereenvoudigde titel: Politie gebruikt traangas tegen betogers bij Dienst Vreemdelingenzaken]
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/spgsvo-file82pfcm3aczdfsneaedj/alternates/BASE_SIXTEEN_NINE/file82pfcm3aczdfsneaedj)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/kinderen-met-en-zonder-beperking-spelen-samen-in-villa-clementina-dit-zou-overal-in-vlaanderen-moeten-bestaan/95401913.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/72avh9-betog3-109.jpg/alternates/BASE_SIXTEEN_NINE/betog3-109.jpg)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/politie-zet-traangas-in-tegen-gemaskerde-betogers-bij-dienst-vreemdelingenzaken-twintig-mensen-opgepakt/97358960.html)
 
-Kinderopvang Villa Clementina in Zemst is bijzonder. Eén op de drie kinderen heeft daar een beperking. Er werken ook veel vrijwilligers. Bedrijven en particulieren geven geld om de opvang te steunen. Een vader zegt: "Het is een geweldige plek. Er zouden veel meer van zulke plekken moeten zijn in Vlaanderen."
+De situatie bij de Dienst Vreemdelingenzaken in Brussel was erg gespannen. Gemaskerde demonstranten vochten met de politie. Ze gooiden rookbommen en er vielen veel ruiten. Minister Anneleen Van Bossuxt (N-VA) noemde het "Crapuul". Enkele betogers drongen ook het Hilton-hotel binnen bij het Centraal Station.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **beperking** | Een lichamelijke of geestelijke conditie die sommige activiteiten moeilijker maakt. |
-| **vrijwilligers** | Mensen die zonder betaling ergens werken, omdat ze het graag willen doen. |
-| **sponsoren** | Geld of spullen geven om een activiteit of organisatie te steunen. |
-| **bijzonder** | Niet gewoon, speciaal of uitzonderlijk. |
-| **kinderopvang** | Een plaats waar op kinderen wordt gepast terwijl hun ouders werken of weg zijn. |
+| **gemaskerde** | iemand die een masker draagt, vaak om niet herkend te worden |
+| **betogers** | mensen die protesteren of demonstreren voor een doel |
+| **rookbommen** | voorwerpen die rook produceren, vaak gebruikt tijdens protesten |
+| **situatie** | hoe dingen op een bepaald moment zijn; de toestand van iets |
+| **politie** | mensen die de wet handhaven en de openbare orde bewaken |
 
 ### Vul-in-de-leegte
-1. Mensen die zonder salaris werken, noem je ___.
-2. Een plaats waar kinderen worden opgevangen, heet een ___.
-3. Bedrijven die geld geven om iets te steunen, ___ dat project.
+1. De politie gebruikte traangas tegen de ______ bij de Dienst Vreemdelingenzaken.
+2. De ______ gooiden rookbommen en er vielen veel ruiten.
+3. Minister Anneleen Van Bossuyt noemde de situatie "______" in haar reactie.
 
 #### Oplossingen
-1. vrijwilligers
-2. kinderopvang
-3. sponsoren
+1. betogers
+2. betogers
+3. Crapuul
 
 ### Meerkeuzevragen
-1. Wat is een 'beperking'?
-   a) Een groot talent
-   b) Een lichamelijke of geestelijke conditie die dingen moeilijker maakt
-   c) Een soort sport
-   d) Een duur voorwerp
-
-2. Wat betekent 'bijzonder' in deze tekst?
-   a) Heel gewoon
-   b) Speciaal en niet alledaags
-   c) Saai
-   d) Klein
-
-3. Wie zijn 'vrijwilligers'?
-   a) Mensen die veel verdienen
-   b) Mensen die verplicht moeten werken
-   c) Mensen die zonder betaling werken omdat ze het willen
-   d) Mensen die alleen voor zichzelf werken
+1. Wat is de rol van de politie in deze situatie?
+   a) Alleen toeschouwer zijn
+   b) De orde handhaven en optreden tegen geweld
+   c) Meedoen met de betogers
+   d) Niets doen en toekijken
+2. Waar vond de confrontatie plaats?
+   a) Alleen bij de Dienst Vreemdelingenzaken
+   b) Alleen bij het Hilton-hotel
+   c) Zowel bij de Dienst Vreemdelingenzaken als bij het Hilton-hotel
+   d) Op een rustige plek buiten het centrum
+3. Wat was de reactie van minister Anneleen Van Bossuxt?
+   a) Ze prees de betogers
+   b) Ze noemde het "Crapuul" en keurde het af
+   c) Ze zei niets over de situatie
+   d) Ze steunde de betogers openlijk
 
 #### Antwoorden
-1. b
-2. b
-3. c
+1. b) De orde handhaven en optreden tegen geweld
+2. c) Zowel bij de Dienst Vreemdelingenzaken als bij het Hilton-hotel
+3. b) Ze noemde het "Crapuul" en keurde het af
 
 ### Waar / Niet Waar
-1. Villa Clementina is een gewone kinderopvang zonder bijzondere kenmerken.
-2. Particulieren kunnen een organisatie ook sponsoren.
-3. Een op de drie kinderen in Villa Clementina heeft een beperking.
+1. De politie gebruikte alleen waterkanonnen tegen de betogers. (Niet waar)
+2. De betogers drongen het Hilton-hotel binnen. (Waar)
+3. Minister Anneleen Van Bossuyt was aanwezig bij het protest. (Niet waar)
 
 #### Antwoorden
-1. Niet Waar
+1. Niet waar
 2. Waar
-3. Waar
----
+3. Niet waar<｜begin▁of▁sentence｜>

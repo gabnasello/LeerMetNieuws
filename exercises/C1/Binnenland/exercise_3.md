@@ -1,11 +1,10 @@
-# Hoe kunnen mensen die lang ziek zijn weer gaan werken?
+# Youssef uit 'Kamp Waes' is strafbaar voor seksueel getinte berichten aan leerlinge
+
+## Titel
+Youssef uit 'Kamp Waes' is gestraft voor het sturen van ongepaste berichten aan een leerlinge.
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/6zjy9y-file82pdv23cbact0mclcti/alternates/BASE_SIXTEEN_NINE/file82pdv23cbact0mclcti)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/een-klant-die-de-poetshulp-pauze-gaf-en-meehielp-bleek-essentieel-hoe-kunnen-langdurig-zieken-weer-aan-het-werk-raken/94979180.html)
-
-Wanneer lukt het iemand die lang ziek is geweest om weer te gaan werken? De Sociaal-Economische Raad voor Vlaanderen heeft dit gevraagd aan mensen die het meegemaakt hebben. Ze hebben de antwoorden en adviezen samengebracht in een nieuw verslag. Onderzoekster Katrijn Vanderweyden zegt dat het belangrijk is om in vertrouwen te investeren.
+Youssef Challouki, bekend van het tv-programma Kamp Waes, is veroordeeld tot een jaar cel, maar hij hoeft die straf niet uit te zitten als hij zich goed gedraagt. Hij stuurde seksueel getinte berichten naar een van zijn leerlingen.
 
 ## Woordenschatuitbreiding
 
@@ -13,53 +12,50 @@ Wanneer lukt het iemand die lang ziek is geweest om weer te gaan werken? De Soci
 
 | Woord | Definitie |
 |-------|-----------|
-| **langdurig** | voor een lange tijd, niet kort |
-| **essentieel** | heel erg belangrijk, onmisbaar |
-| **re-integratie** | het proces om weer deel uit te maken van iets, zoals terugkeren naar je werk |
-| **succesvol** | wanneer iets lukt en het gewenste resultaat heeft |
-| **vertrouwen** | het geloof dat je in iemand of iets kunt hebben; een gevoel van zekerheid |
+| **veroordeeld** | schuldig bevonden door de rechter |
+| **leerlinge** | een vrouwelijke student |
+| **seksueel** | met betrekking tot seks |
+| **getinte** | met een bepaalde kleur of karakter |
+| **probatie** | een proefperiode waarin iemand moet bewijzen dat hij of zij zich goed gedraagt |
 
 ### Vul-in-de-leegte
-1. Voor haar herstel was rust _____; zonder kon ze niet beter worden.
-2. De _____ van een werknemer naar de werkvloer verloopt soms geleidelijk.
-3. Een goede relatie met je leidinggevende is gebaseerd op wederzijds _____.
+1. Youssef is ______ omdat hij ongepaste berichten stuurde.
+2. De leerling was een ______, niet een man.
+3. Als Youssef zich goed gedraagt tijdens zijn ______, hoeft hij niet naar de gevangenis.
 
 #### Oplossingen
-1. essentieel
-2. re-integratie
-3. vertrouwen
+1. veroordeeld
+2. leerlinge
+3. probatie
 
 ### Meerkeuzevragen
-1. Wat betekent 'langdurig'?
-   a) Voor een korte periode
-   b) Voor een lange periode
-   c) Heel intens
-   d) Tussentijds
-
-2. Als iets 'essentieel' is, is het...
-   a) optioneel en niet nodig
-   b) heel erg belangrijk en noodzakelijk
-   c) gemakkelijk te vervangen
-   d) van lage kwaliteit
-
-3. Wat is 're-integratie'?
-   a) Het voor het eerst beginnen met een studie
-   b) Het proces om weer ergens bij te horen en terug te keren
-   c) Iemand ontslaan van zijn werk
-   d) Een nieuwe wet introduceren
+1. Wat is 'Kamp Waes'?
+   a) Een tv-programma
+   b) Een militaire basis
+   c) Een gevangenis
+   d) Een school
+2. Wat betekent 'probatie' in deze context?
+   a) Vakantie
+   b) Een testperiode met goede gedrag
+   c) Een soort straf
+   d) Een beloning
+3. Wat is de hoofdoorzaak van deze straf?
+   a) Youssef heeft te hard gewerkt.
+   b) Youssef heeft iemand geslagen.
+   c) Youssef heeft ongepaste berichten gestuurd.
+   d) Youssef heeft te veel geld uitgegeven.
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. a) Een tv-programma
+2. b) Een testperiode met goed gedrag
+3. c) Youssef heeft ongepaste berichten gestuurd.
 
 ### Waar / Niet Waar
-1. 'Succesvol' betekent dat iets mislukt is.
-2. 'Vertrouwen' gaat over het geloof dat je in iemand of iets hebt.
-3. Iemand met een 'langdurige' ziekte is maar een paar dagen ziek.
+1. Youssef is voor altijd in de gevangenis.
+2. De leerling was een man.
+3. Youssef kan zijn straf vermijden met goed gedrag.
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
+1. Niet waar (het is een probatiestraf)
+2. Niet waar (het was een leerlinge, dus een vrouw)
+3. Waar<｜begin▁of▁sentence｜>

@@ -1,65 +1,64 @@
-# Drie jonge vrouwen in Gaza na twee jaar oorlog
+# Titel
 
-Drie jonge vrouwen in Gaza vertellen hoe twee jaar oorlog hun leven heeft veranderd. Ondanks alle moeilijkheden blijven ze doorgaan en proberen ze hun dromen te volgen. "Na twee jaar ben ik een ander persoon. Maar ik heb ook een innerlijke kracht ontdekt waarvan ik niet wist dat ik die had."
+De dader op de foto van een massa-executie tijdens de Holocaust is eindelijk ontmaskerd: hij was leraar Frans, Engels en gym.
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/lj7ea9-2025-10-06t095950z-743495135-rc2jzgaq46ho-rtrmadp-3-israel-palestinians-gaza-anniversary-twins.jpg/alternates/BASE_SIXTEEN_NINE/2025-10-06T095950Z_743495135_RC2JZGAQ46HO_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-ANNIVERSARY-TWINS.JPG)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/drie-jonge-vrouwen-in-gaza-na-twee-jaar-oorlog-ik-vroeg-me-af-of-ik-niet-egostisch-geweest-was-door-zwanger-te-worden/95400300.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/l0z2sy-gettyimages-461733515.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-461733515.jpg)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/dader-op-foto-massa-executie-holocaust-eindelijk-achterhaald-hij-was-leraar-frans-engels-en-gymnastiek/97293860.html)
 
-Drie jonge vrouwen in Gaza beschrijven de impact van twee jaar oorlog op hun leven. Ze vertellen hoe ze, ondanks alles, blijven doorzetten en hun doelen proberen te bereiken. Een van hen zegt: "Ik ben niet meer dezelfde persoon, maar ik heb ook een onverwachte kracht in mezelf gevonden."
+Meer dan zestig jaar nadat de bekende foto 'De laatste Jood van Vinnytsja' voor het eerst werd gepubliceerd, heeft een Duitse historicus de identiteit van de SS'er ontdekt die in 1941 de trekker overhaalde.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenschatlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **oorlog** | Een gewapend conflict tussen landen of groepen binnen een land. |
-| **impact** | Het effect of de invloed die iets heeft. |
-| **doorzetten** | Blijven proberen en niet opgeven, ondanks moeilijkheden. |
-| **doelen** | Dingen die je wilt bereiken in je leven; ambities. |
-| **innerlijke kracht** | De mentale en emotionele sterkte die iemand van binnenuit heeft. |
+| **dader** | de persoon die iets (meestal iets slechts) doet |
+| **ontmaskeren** | iemands ware identiteit of ware aard bekendmaken |
+| **executie** | het officieel doden van iemand als straf |
+| **historisch** | gerelateerd aan geschiedenis |
+| **identificeren** | iemands identiteit ontdekken of bevestigen |
 
 ### Vul-in-de-leegte
-1. De lange ___ had een grote ___ op het dagelijks leven van de mensen.
-2. Ondanks tegenslag is het belangrijk om ___ en je ___ niet uit het oog te verliezen.
-3. Haar ___ hielp haar om deze moeilijke periode te overleven.
+1. De historici konden de dader van de misdaad niet __identificeren__ omdat er geen bewijs was.  
+2. De oude foto toonde een __executie__ tijdens de oorlog.  
+3. Na jaren van onderzoek is de ware identiteit van de crimineel eindelijk __ontmaskerd__.  
+
 #### Oplossingen
-1. oorlog, impact
-2. door te zetten, doelen
-3. innerlijke kracht
+1. identificeren  
+2. executie  
+3. ontmaskerd  
 
 ### Meerkeuzevragen
-1. Wat betekent 'doorzetten'?
-   a) Stoppen
-   b) Blijven proberen
-   c) Wachten
-   d) Vergeten
-
-2. Wat is een synoniem voor 'impact'?
-   a) Geluk
-   b) Invloed
-   c) Snelheid
-   d) Vrede
-
-3. Wat zijn 'doelen'?
-   a) Moeilijke situaties
-   b) Dingen die je wilt bereiken
-   c) Oude herinneringen
-   d) Regelmatige activiteiten
+1. Wat is een synoniem voor "ontmaskeren"?  
+   a) verbergen  
+   b) onthullen  
+   c) negeren  
+   d) accepteren  
+2. Wat betekent "historisch" in deze context?  
+   a) modern  
+   b) hedendaags  
+   c) uit het verleden  
+   d) toekomstig  
+3. Wat is een "executie"?  
+   a) een feest  
+   b) een sportevenement  
+   c) een officiële doodstraf  
+   d) een feestmaal  
 
 #### Antwoorden
-1. b) Blijven proberen
-2. b) Invloed
-3. b) Dingen die je wilt bereiken
+1. b) onthullen  
+2. c) uit het verleden  
+3. c) een officiële doodstraf  
 
 ### Waar / Niet Waar
-1. 'Innerlijke kracht' verwijst naar fysieke spieren.
-2. Een oorlog is een vreedzame periode.
-3. Iemand die doorzet, geeft niet snel op.
+1. De dader op de foto is geïdentificeerd als een leraar.  
+2. De foto toont een executie tijdens de Holocaust.  
+3. De historicus is de persoon die de executie uitvoerde.  
 
 #### Antwoorden
-1. Niet Waar
-2. Niet Waar
-3. Waar
+1. Waar  
+2. Waar  
+3. Niet waar<｜begin▁of▁sentence｜>

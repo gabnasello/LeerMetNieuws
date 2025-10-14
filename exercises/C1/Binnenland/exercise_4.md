@@ -1,64 +1,59 @@
-# Vier agenten staan terecht voor de dood van Pieter Aerts
+# Een pizza snijden, dat doe je toch gewoon met een schaar?
 
-## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/a1ejb4-job-1060894-proces-pieter-aerts/alternates/BASE_SIXTEEN_NINE/Job%201060894%20Proces%20Pieter%20Aerts)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/vier-agenten-voor-de-rechter-voor-dood-pieter-aerts-perfect-volgens-het-boekje-versus-een-waar-bloedbad/95283508.html)
-
-Moet een politieagent altijd alles doen wat mogelijk is, met alle gevolgen die dat heeft? De rechtszaak over Pieter Aerts (35) gaat over de vraag of de politie bij iemand binnen mag gaan zonder officiële toestemming van een rechter, zelfs als ze zich ernstige zorgen maken. Een van de agenten zegt: "Ik kan nog steeds niet begrijpen dat ik vier keer heb geschoten."
+In Napels kijken ze er al lang niet meer van op, en nu vindt de pizzaschaar ook de weg van het zuiden naar hier. “Ik knip altijd”, zegt sterrenchef Peppe Giacomazza.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **terechtstaan** | voor een rechter moeten verschijnen omdat men beschuldigd wordt van een misdrijf |
-| **politieagent** | een persoon die bij de politie werkt en de taak heeft om de wet te handhaven en de openbare orde te bewaken |
-| **rechtszaak** | een procedure voor een rechter waarin wordt beslist of iemand schuldig is aan een overtreding of misdrijf |
-| **officiële toestemming** | een schriftelijk document van een bevoegde instantie (zoals een rechter) dat toestemming geeft om iets te doen |
-| **ernstige zorgen** | een sterk gevoel van ongerustheid of bezorgdheid over een mogelijk gevaarlijke situatie |
+| **pizzaschaar** | een schaar die speciaal gemaakt is om pizza mee te snijden |
+| **Napels** | een stad in Italië, bekend om zijn pizza |
+| **sterrenchef** | een chef-kok die bekend is en veel prijzen heeft gewonnen |
+| **knip** | knippen; iets in stukken delen met een schaar |
+| **vinden** | ontdekken; iets zien of tegenkomen |
 
 ### Vul-in-de-leegte
-1. De vier agenten moeten ___ omdat ze beschuldigd worden van het veroorzaken van een dodelijk incident.
-2. De politie had geen ___, maar ging toch het huis binnen.
-3. De familie van het slachtoffer maakte ___ over zijn veiligheid.
+1. In Napels gebruiken ze al lang een pizzaschaar om pizza te __snijden__.
+2. De chef-kok zegt: "Ik __knip__ altijd mijn pizza met een schaar."
+3. De pizzaschaar is nu ook __gevonden__ in onze regio, niet alleen in het zuiden.
 
 #### Oplossingen
-1. terechtstaan
-2. officiële toestemming
-3. ernstige zorgen
+1. snijden
+2. knip
+3. gevonden
 
 ### Meerkeuzevragen
-1. Waar gaat deze rechtszaak vooral over?
-   a) Het salaris van politieagenten.
-   b) Of politie zonder toestemming een huis binnen mag.
-   c) De bouw van een nieuwe gevangenis.
-   d) De verkeersregels in België.
+1. Wat is een pizzaschaar?
+a) een mes om pizza mee te eten  
+b) een schaar om pizza mee te snijden  
+c) een oven om pizza in te bakken  
+d) een soort kaas om over pizza te doen  
 
-2. Wat zei een van de agenten?
-   a) Hij was trots op wat hij had gedaan.
-   b) Hij kon niet geloven dat hij had geschoten.
-   c) Hij vond het een perfecte actie.
-   d) Hij was niet aanwezig die dag.
+2. Waar is Napels vooral bekend om?  
+a) zijn schepen  
+b) zijn pizza  
+c) zijn wolkenkrabbers  
+d) zijn regenachtig klimaat  
 
-3. Wat is de hoofdtaak van een politieagent?
-   a) De wet handhaven.
-   b) Auto's verkopen.
-   c) Gebouwen ontwerpen.
-   d) Zieke mensen verzorgen.
+3. Wat betekent "knip" in deze context?  
+a) gooi  
+b) snij  
+c) bak  
+d) eet  
 
 #### Antwoorden
 1. b
 2. b
-3. a
+3. b
 
 ### Waar / Niet Waar
-1. Pieter Aerts was 35 jaar oud.
-2. De politieagenten hadden een huiszoekingsbevel.
-3. Een agent loste vier schoten.
+1. De pizzaschaar werd alleen in Napels gebruikt.  
+2. Chef-kok Peppe Giacomazja zegt dat hij altijd een schaar gebruikt.  
+3. Pizzaschaar is een nieuw woord in dit artikel.  
 
 #### Antwoorden
-1. Waar
-2. Niet Waar
-3. Waar
+1. Niet Waar (het wordt ook in andere plaatsen gebruikt)
+2. Waar
+3. Waar<｜begin▁of▁sentence｜>

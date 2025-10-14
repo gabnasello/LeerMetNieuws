@@ -1,8 +1,6 @@
-# Titel
-Nooit eerder zijn zoveel jongeren door de jeugdrechtbank begeleid vanwege een misdrijf
-
-## Samenvatting
-Het aantal jongeren dat door de jeugdrechtbank wordt begeleid omdat ze een misdrijf hebben gepleegd, is vorig jaar sterk toegenomen. Het aantal steeg van 2.447 naar 2.630. Hierdoor is ook het aantal jongeren dat in een gesloten jeugdinstelling wordt geplaatst, aanzienlijk gestegen.
+# Vereenvoudigde titel en samenvatting
+**Titel:** De rechtbank in Gent stuurt Martina Johnson naar de jury voor oorlogsmisdaden in Liberia.  
+**Samenvatting:** Martina Johnson is verdacht van oorlogsmisdaden in Liberia. De rechtbank in Gent heeft besloten dat ze moet worden berecht door een jury.
 
 ## Woordenschatuitbreiding
 
@@ -10,52 +8,52 @@ Het aantal jongeren dat door de jeugdrechtbank wordt begeleid omdat ze een misdr
 
 | Woord | Definitie |
 |-------|-----------|
-| **jeugdrechtbank** | Een speciale rechtbank die rechtspreekt over minderjarigen die een wet hebben overtreden. |
-| **misdrijf** | Een ernstige, strafbare overtreding van de wet. |
-| **begeleiden** | Iemand helpen, ondersteunen en controleren, vaak in een juridische context. |
-| **toenemen** | Groter in aantal of hoeveelheid worden; stijgen. |
-| **gesloten instelling** | Een inrichting waar mensen (in dit geval jongeren) verblijven zonder vrij naar buiten te mogen. |
+| **rechtbank** | plaats waar rechters beslissen over de wet |
+| **verdacht** | iemand waarvan wordt gedacht dat hij of zij iets fouts heeft gedaan |
+| **oorlogsmisdaden** | ernstige misdaden begaan tijdens een oorlog |
+| **beslissen** | een besluit nemen na overweging |
+| **bereiden** | klaarmaken of voorbereiden voor iets |
 
 ### Vul-in-de-leegte
-1.  De ___ is speciaal voor minderjarigen die met justitie in aanraking komen.
-2.  Het aantal meldingen bleef ___ waardoor de druk op de hulpverlening groter werd.
-3.  Na de uitspraak van de rechter kan een jongere in een ___ worden geplaatst.
+1. De rechtbank in Gent heeft ____ om Martina Johnson naar de jury te sturen.
+2. Martina Johnson is ____ van het plegen van oorlogsmisdaden in Liberia.
+3. Het assisenhof zal ____ over de beschuldigingen tegen Johnson.
 
 #### Oplossingen
-1.  jeugdrechtbank
-2.  toenemen
-3.  gesloten instelling
+1. beslist
+2. verdacht
+3. oordelen
 
 ### Meerkeuzevragen
-1.  Wat is een 'misdrijf'?
-    A) Een kleine overtreding
-    B) Een ernstige wetsovertreding
-    C) Een schoolregel
-    D) Een ongeluk
+1. Wat is de rol van de rechtbank in deze zaak?  
+a) Verdedigen van de verdachte  
+b) Beslissen of de verdachte naar de jury gaat  
+c) Vrijspreken van de verdachte  
+d) Alleen de taal van de zaak behandelen  
 
-2.  Wat doet een jeugdrechtbank?
-    A) organiseert jeugdkampen
-    B) spreekt recht over jongeren
-    C) geeft advies aan scholen
-    D) beheert sportclubs
+2. Waar werd Martina Johnson verdacht van?  
+a) Diefstal  
+b) Oorlogsmisdaden  
+c) Belastingfraude  
+d) Vervalsing  
 
-3.  Wat betekent 'begeleiden' in deze tekst?
-    A) iemand wegsturen
-    B) iemand helpen en controleren
-    C) iemand negeren
-    D) iemand straffen zonder hulp
+3. Wat is een assisenproces?  
+a) Een proces bij de lagere rechtbank  
+b) Een proces bij het hooggerechtshof  
+c) Een proces waarbij een jury beslissingen neemt  
+d) Een proces zonder jury, alleen een rechter  
 
 #### Antwoorden
-1.  B
-2.  B
-3.  B
+1. b) Beslissen of de verdachte naar de jury gaat  
+2. b) Oorlogsmisdaden  
+3. c) Een proces waarbij een jury beslissingen neemt  
 
 ### Waar / Niet Waar
-1.  Het aantal jongeren dat door de jeugdrechtbank wordt begeleid, is gedaald.
-2.  Een gesloten instelling is een plek waar je vrij naar buiten mag.
-3.  De stijging van het aantal begeleide jongeren leidde tot meer opnames in jeugdinstellingen.
+1. De rechtbank in Gent heeft Martina Johnson volledig vrijgesproken.  
+2. Martina Johnson is beschuldigd van oorlogsmisdaden begaan tijdens de burgeroorlog in Liberia.  
+3. Het assisenhof is de hoogste rechterlijke instantie in België.  
 
 #### Antwoorden
-1.  Niet Waar
-2.  Niet Waar
-3.  Waar
+1. Niet waar  
+2. Waar  
+3. Niet waar (Het is het Hof van Cassatie)<｜begin▁of▁sentence｜>

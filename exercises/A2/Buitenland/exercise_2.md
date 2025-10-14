@@ -1,7 +1,12 @@
-# Vredesgesprekken: eerste dag is goed verlopen
+# Madagaskar Parlement stemt om president af te zetten, maar militaire eenheid zegt nu het land te controleren
 
-## Samenvatting
-Er zijn gesprekken voor vrede begonnen. De eerste dag was goed. Maar in Gaza gaat de oorlog helaas door. Veel landen zijn boos over deze oorlog. Hier lees je het laatste nieuws.
+## Titels en samenvattingen in eenvoudig Nederlands
+
+**Originele titel:** Parlement Madagaskar stemt voor afzetting president, elitesoldaten zeggen het land nu te controleren  
+**Vereenvoudigde titel:** Het parlement van Madagaskar stemt om de president af te zetten. Maar een groep soldaten zegt dat zij het land nu besturen.
+
+**Originele samenvatting:** Het Lagerhuis van het parlement van Madagaskar heeft gestemd voor de afzetting van president Andry Rajoelina. Terwijl die vanuit het buitenland probeert vast te houden aan zijn macht, heeft de Capsat-eenheid aangekondigd de controle over het land te hebben overgenomen.  
+**Vereenvoudigde samenvatting:** Het parlement van Madagaskar wil president Rajoelina afzetten. Maar de president weigert te vertrekken. Ondertussen zegt een groep soldaten, de "Capsat", dat zij nu het land besturen.
 
 ## Woordenschatuitbreiding
 
@@ -9,52 +14,50 @@ Er zijn gesprekken voor vrede begonnen. De eerste dag was goed. Maar in Gaza gaa
 
 | Woord | Definitie |
 |-------|-----------|
-| **gesprekken** | Mensen praten met elkaar over een belangrijk onderwerp. |
-| **vrede** | Er is geen oorlog. Iedereen leeft rustig en veilig. |
-| **oorlog** | Landen vechten tegen elkaar met wapens. |
-| **boos** | Een heel sterk gevoel van niet blij zijn. |
-| **nieuws** | Nieuwe informatie over wat er in de wereld gebeurt. |
+| **afzetten** | verwijderen uit de macht, stoppen als leider |
+| **besturen** | leiden, de leiding hebben over |
+| **soldaten** | mensen in het leger, die vechten voor een land |
+| **parlement** | een groep mensen die wetten maakt voor een land |
+| **president** | de leider van een land |
 
 ### Vul-in-de-leegte
-1. De eerste dag van de ___ was goed.
-2. Veel landen zijn ___ over de oorlog.
-3. Hier lees je het laatste ___.
+1. Het parlement wil de president ___ (afzetten).
+2. De president probeert aan de macht te blijven, maar de soldaten zeggen dat zij het land nu ___ (besturen).
+3. Er is onrust in Madagaskar omdat verschillende groepen zeggen dat ze de leiding hebben over het ___ (land).
 
 #### Oplossingen
-1. gesprekken
-2. boos
-3. nieuws
+1. afzetten
+2. besturen
+3. land
 
 ### Meerkeuzevragen
-1. Waarover gaan de gesprekken?
-   a) over sport
-   b) over vrede
-   c) over muziek
-   d) over eten
-
-2. Hoe was de eerste dag van de gesprekken?
-   a) slecht
-   b) goed
-   c) saai
-   d) kort
-
-3. Wat vinden veel landen van de oorlog?
-   a) ze zijn boos
-   b) ze zijn blij
-   c) ze lachen
-   d) ze zingen
+1. Wat is het parlement?
+   a) een soort auto
+   b) een groep die wetten maakt
+   c) een type dier
+   d) een sportteam
+2. Waarom is er onrust in Madagaskar?
+   a) Omdat iedereen op vakantie wil.
+   b) Omdat verschillende groepen zeggen dat ze de leiding hebben.
+   c) Omdat er een groot feest is.
+   d) Omdat er een nieuwe film uitkomt.
+3. Wat betekent "afzetten" in deze context?
+   a) iemand een cadeau geven
+   b) iemand helpen met sporten
+   c) iemand uit de macht halen
+   d) iemand naar huis sturen
 
 #### Antwoorden
 1. b
 2. b
-3. a
+3. c
 
 ### Waar / Niet Waar
-1. De gesprekken zijn voor vrede.
-2. De oorlog in Gaza is gestopt.
-3. Veel landen zijn blij met de oorlog.
+1. De president van Madagaskar is al afgezet. (Niet waar - het parlement heeft alleen gestemd om hem af te zetten, maar het is nog niet gebeurd)
+2. De Capsat-eenheid is een groep soldaten die zegt dat zij nu het land besturen. (Waar)
+3. Alle partijen zijn het eens over wie de leiding heeft over Madagaskar. (Niet waar - er is onrust omdat verschillende groepen zeggen dat zij de leiding hebben)
 
 #### Antwoorden
-1. Waar
-2. Niet Waar
-3. Niet Waar
+1. Niet waar
+2. Waar
+3. Niet waar<｜begin▁of▁sentence｜>

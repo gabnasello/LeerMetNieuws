@@ -1,13 +1,15 @@
-# Titel
+# Gaza Oorlog: Vrede in Zicht?
 
-Waarom Labour zo bang is voor beschuldigingen van antisemitisme
+## Titels en Samenvatting
+
+[Israël schiet op Palestijnse verdachten aan de grens met Gaza]
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/6jku9v-protest-in-support-of-palestine-action-in-central-london/alternates/BASE_SIXTEEN_NINE/Protest%20in%20support%20of%20Palestine%20Action%20in%20central%20London)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/hoe-labour-als-de-dood-is-voor-beschuldigingen-van-antisemitisme-zeker-na-de-aanslag-in-manchester/95377538.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/zgno84-12450187.jpg/alternates/BASE_SIXTEEN_NINE/12450187.jpg)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/israelisch-leger-schiet-op-palestijnse-verdachten-aan-gele-lijn-met-gaza/35173881.html)
 
-De regering van Engeland wil dat de politie meer mag doen tegen protesten voor Palestina. Maar dit past niet goed bij het land. Waarom is de politieke partij Labour ook zo bang voor dit soort protesten?
+[Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen.]
 
 ## Woordenschatuitbreiding
 
@@ -15,53 +17,50 @@ De regering van Engeland wil dat de politie meer mag doen tegen protesten voor P
 
 | Woord | Definitie |
 |-------|-----------|
-| **regering** | de groep mensen die een land bestuurt |
-| **politie** | mensen die de wet handhaven en voor veiligheid zorgen |
-| **protest** | een bijeenkomst om ergens tegen te zijn of iets te vragen |
-| **partij** | een groep mensen met dezelfde politieke ideeën |
-| **bang** | een gevoel van angst hebben |
+| **oorlog** | een tijd waarin landen of groepen elkaar proberen te verslaan, vaak met wapens |
+| **onderhandelingen** | gesprekken tussen groepen om tot een oplossing te komen |
+| **doorbraak** | een belangrijke, positieve verandering na lang wachten |
+| **verdachten** | mensen waarvan wordt gedacht dat ze iets verkeerds hebben gedaan |
+| **vredesoverleg** | gesprekken om vrede te bereiken |
 
 ### Vul-in-de-leegte
-1. De ___ van Engeland wil nieuwe regels.
-2. De ___ moet de protesten in de gaten houden.
-3. Mensen houden een ___ om hun mening te laten horen.
+1. Na lange ___ kwam er eindelijk een doorbraak in het vredesproces. (oplossing: onderhandelingen)
+2. Het Israëlische leger heeft enkele ___ aangehouden voor ondervraging. (oplossing: verdachten)
+3. De partijen zitten momenteel aan tafel voor ___. (oplossing: vredesoverleg)
 
 #### Oplossingen
-1. regering
-2. politie
-3. protest
+1. onderhandelingen
+2. verdachten
+3. vredesoverleg
 
 ### Meerkeuzevragen
-1. Wat is de 'regering'?
-   a) Een feest
-   b) De baas van een school
-   c) De groep die een land bestuurt
-   d) Een restaurant
-
-2. Wat doet de politie?
-   a) Zorgen voor veiligheid
-   b) Lesgeven
-   c) Koken
-   d) Bussen besturen
-
-3. Waarom houden mensen een protest?
-   a) Om te feesten
-   b) Om hun mening te laten horen
-   c) Om te slapen
-   d) Om te winkelen
+1. Wat is een 'doorbraak' in een onderhandelingsproces?
+   a) een mislukking
+   b) een belangrijke, positieve ontwikkeling
+   c) een pauze
+   d) een terugval
+2. Wat betekent het als iemand wordt beschreven als een 'verdachte'?
+   a) de persoon is zeker onschuldig
+   b) de persoon wordt verdacht van een misdaad
+   c) de persoon is al veroordeeld
+   d) de persoon is een held
+3. Wat zijn 'onderhandelingen'?
+   a) een sportevenement
+   b) gesprekken om een conflict op te lossen
+   c) een soort spel
+   d) het negeren van problemen
 
 #### Antwoorden
-1. c) De groep die een land bestuurt
-2. a) Zorgen voor veiligheid
-3. b) Om hun mening te laten horen
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. De regering bestuurt het land.
-2. De politie geeft les op school.
-3. Bij een protest zijn mensen het ergens niet mee eens.
+1. De vredesonderhandelingen zijn al twee jaar aan de gang. (Waar)
+2. Het Israëlische leger heeft de verdachten vrijgelaten. (Niet waar - ze zijn aangehouden)
+3. De situatie in Gaza is volledig opgelost. (Niet waar - er zijn ontwikkelingen, maar geen volledige oplossing)
 
 #### Antwoorden
 1. Waar
 2. Niet Waar
-3. Waar
----
+3. Niet Waar<｜begin▁of▁sentence｜>

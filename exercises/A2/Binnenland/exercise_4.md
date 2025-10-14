@@ -1,11 +1,7 @@
-# Vier agenten voor de rechter voor de dood van Pieter Aerts
+# Pizza snijden met een schaar
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/a1ejb4-job-1060894-proces-pieter-aerts/alternates/BASE_SIXTEEN_NINE/Job%201060894%20Proces%20Pieter%20Aerts)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/vier-agenten-voor-de-rechter-voor-dood-pieter-aerts-perfect-volgens-het-boekje-versus-een-waar-bloedbad/95283508.html)
-
-Moet een politieagent altijd alles doen wat mogelijk is, zelfs als dat slechte gevolgen heeft? De zaak van Pieter Aerts (35) gaat over de vraag of de politie zonder toestemming een huis binnen mag gaan. Ze waren bezorgd, maar hadden geen officieel papiertje. Een agent zegt: "Ik kan nog steeds niet geloven dat ik vier keer heb geschoten."
+In Italië snijden mensen pizza soms met een speciale schaar. Dat doen ze omdat het makkelijk is. Nu komt deze gewoonte ook naar ons land. "Ik knip de pizza altijd", zegt de beroemde kok Peppe Giacomazza.
 
 ## Woordenschatuitbreiding
 
@@ -13,52 +9,50 @@ Moet een politieagent altijd alles doen wat mogelijk is, zelfs als dat slechte g
 
 | Woord | Definitie |
 |-------|-----------|
-| **agent** | iemand die voor de politie werkt |
-| **rechter** | de persoon in de rechtbank die beslist of iets goed of fout is |
-| **dood** | niet meer leven |
-| **huis** | een gebouw waar mensen wonen |
-| **geschoten** | een wapen hebben afgevuurd |
+| **pizza** | een plat brood met kaas en tomatensaus |
+| **schaar** | een ding met twee scherpe delen om iets te knippen |
+| **snijden** | in stukken delen met iets scherps |
+| **kok** | iemand die eten klaarmaakt |
+| **makkelijk** | niet moeilijk, eenvoudig |
 
 ### Vul-in-de-leegte
-1. De _____ beslist of de man schuldig is.
-2. Mijn _____ is geel en heeft een tuin.
-3. De politie_____ heeft zijn pistool gebruikt.
+1. In Italië snijden ze pizza soms met een ___.
+2. De kok zei: "Ik ___ de pizza altijd met een schaar."
+3. Het is ___ om pizza te knippen met een schaar.
 
 #### Oplossingen
-1. rechter
-2. huis
-3. geschoten
+1. schaar
+2. knip
+3. makkelijk
 
 ### Meerkeuzevragen
-1. Wat is een agent?
-A) Een leraar
-B) Iemand die voor de politie werkt
-C) Een dokter
-D) Een kok
-
-2. Wat beslist een rechter?
-A) Wat je gaat eten
-B) Of iets goed of fout is
-C) Welk weer het wordt
-D) Welke film je gaat kijken
-
-3. Wat betekent 'geschoten'?
-A) Iets hard weggooien
-B) Een wapen hebben afgevuurd
-C) Hard wegrennen
-D) Hard schreeuwen
+1. Wat gebruiken sommige mensen om pizza te snijden?
+   a) een mes
+   b) een schaar
+   c) een lepel
+   d) een vork
+2. Waar komt deze gewoonte vandaan?
+   a) Nederland
+   b) Italië
+   c) Frankrijk
+   d) Duitsland
+3. Wie is Peppe Giacomazza?
+   a) een leraar
+   b) een beroemde kok
+   c) een zanger
+   d) een dokter
 
 #### Antwoorden
-1. B
-2. B
-3. B
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Een agent werkt in een restaurant.
-2. De rechter werkt in een rechtbank.
-3. 'Dood' betekent dat je heel moe bent.
+1. In Nederland snijden we pizza altijd met een schaar. (Niet waar)
+2. Peppe Giacomazza is een kok. (Waar)
+3. Het is moeilijk om een pizza te knippen. (Niet waar)
 
 #### Antwoorden
-1. Niet Waar
+1. Niet waar
 2. Waar
-3. Niet Waar
+3. Niet waar<｜begin▁of▁sentence｜>

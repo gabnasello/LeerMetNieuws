@@ -1,66 +1,62 @@
-# Titel
-
-Hoe kunnen mensen die lang ziek zijn weer gaan werken?
+# Youssef is gestraft voor onjuiste berichten aan een leerling
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/6zjy9y-file82pdv23cbact0mclcti/alternates/BASE_SIXTEEN_NINE/file82pdv23cbact0mclcti)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/een-klant-die-de-poetshulp-pauze-gaf-en-meehielp-bleek-essentieel-hoe-kunnen-langdurig-zieken-weer-aan-het-werk-raken/94979180.html)
+![Nieuwsafbeelding](https://prod-img.gva.be/public/incoming/vcfhkw-job-1060294-rechtszaak-kamp-waes-deelnemer-youssef-challouki/alternates/BASE_SIXTEEN_NINE/Job%201060294%20Rechtszaak%20Kamp%20Waes-deelnemer%20Youssef%20Challouki)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/youssef-uit-kamp-waes-veroordeeld-voor-seksueel-getinte-berichten-aan-leerlinge/97341781.html)
 
-Wanneer lukt het iemand die lang ziek is geweest om weer te gaan werken? De Sociaal-Economische Raad voor Vlaanderen heeft dit gevraagd aan mensen die het meegemaakt hebben. Ze hebben de antwoorden in een nieuw rapport gezet. De onderzoekster, Katrijn Vanderweyden, zegt dat vertrouwen heel belangrijk is.
+Youssef Challouki heeft meegedaan aan het tv-programma Kamp Waes. Hij is veroordeeld tot een jaar cel, maar die straf is voorwaardelijk. Hij stuurde seksueel getinte berichten naar een van zijn leerlingen.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **langdurig** | voor een lange tijd |
-| **ziek** | niet gezond, je voelt je niet goed |
-| **werken** | een baan hebben, iets doen voor geld |
-| **rapport** | een geschreven verslag met informatie |
-| **vertrouwen** | het gevoel dat je iemand kunt geloven |
+| **versturen** | naar iemand sturen, bijvoorbeeld een bericht of een pakket |
+| **voorwaardelijk** | iets geldt alleen onder bepaalde voorwaarden; hier: de straf geldt alleen als hij zich niet goed gedraagt |
+| **seksueel** | met seks te maken, over seks |
+| **leerling** | iemand die les krijgt, vaak op school |
+| **veroordeeld** | door een rechter gestraft zijn voor iets wat je verkeerd hebt gedaan |
 
-### Vul-in-de-leegte
-1. Mijn buurvrouw was lang ___ en kon niet naar haar werk.
-2. De baas heeft veel ___ in zijn nieuwe medewerker.
-3. De regering las het ___ over gezondheid op het werk.
+### Vul de lege plekken in
+1. Youssef heeft enkele berichten ___ naar een leerling. (versturen / verstuurd)
+2. De rechter heeft Youssef ___ voor zijn gedrag. (veroordeeld / vervolgd)
+3. De straf is ___; Youssef hoeft niet naar de gevangenis als hij zich goed gedraagt. (voorwaardelijk / vrijgesproken)
 
 #### Oplossingen
-1. ziek
-2. vertrouwen
-3. rapport
+1. verstuurd
+2. veroordeeld
+3. voorwaardelijk
 
 ### Meerkeuzevragen
-1. Wat betekent 'langdurig'?
-   a) voor een korte tijd
-   b) voor een lange tijd
-   c) heel erg ziek
-   d) nooit meer beter worden
-
-2. Wat is een 'rapport'?
-   a) een gesprek met de dokter
-   b) een geschreven verslag met informatie
-   c) een nieuwe baan
-   d) een soort medicijn
-
-3. Waarom is vertrouwen belangrijk volgens het artikel?
-   a) omdat het geld bespaart
-   b) omdat het mensen helpt weer te gaan werken
-   c) omdat de baas dan blij is
-   d) omdat het de ziekte korter maakt
+1. Wat is Youssef Challouki bekend van?
+   a) Een bekende schrijver
+   b) Een deelnemer aan Kamp Waes
+   c) Een professionele atleet
+   d) Een leraar op een middelbare school
+2. Wat was de aard van de berichten die Youssef stuurde?
+   a) Vriendelijke groeten
+   b) Seksueel getinte berichten
+   c) Werkgerelateerde vragen
+   d) Uitnodigingen voor een feestje
+3. Wat is de huidige status van Youssef's straf?
+   a) Hij moet onmiddellijk de gevangenis in.
+   b) De straf is voorwaardelijk; hij gaat alleen de gevangenis in als hij zich niet goed gedraagt.
+   c) Hij is volledig vrijgesproken van alle aanklachten.
+   d) Hij moet alleen maar een boete betalen.
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. b) Een deelnemer aan Kamp Waes
+2. b) Seksueel getinte berichten
+3. b) De straf is voorwaardelijk; hij gaat alleen de gevangenis in als hij zich niet goed gedraagt.
 
-### Waar / Niet Waar
-1. De Sociaal-Economische Raad heeft alleen aan dokters gevraagd wanneer terugkeer naar werk lukt.
-2. Katrijn Vanderweyden is een onderzoekster.
-3. Vertrouwen is niet belangrijk om weer te kunnen werken.
+### Waar of niet waar?
+1. Youssef is een professionele atleet. (Niet waar)
+2. Youssef heeft geen berichten gestuurd naar de leerling. (Niet waar)
+3. Youssef is volledig vrijgesproken en hoeft zich nergens meer aan te houden. (Niet waar)
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1. Niet waar
+2. Niet waar
+3. Niet waar

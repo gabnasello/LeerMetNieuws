@@ -1,13 +1,9 @@
-# Titel
+# Israël en Palestina praten over vrede
 
-Waarom Labour zo bang is voor beschuldigingen van antisemitisme
+Een nieuw vredesakkoord tussen Israël en Palestina is in de maak na twee jaar oorlog in Gaza. Volg hier de laatste ontwikkelingen.
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/6jku9v-protest-in-support-of-palestine-action-in-central-london/alternates/BASE_SIXTEEN_NINE/Protest%20in%20support%20of%20Palestine%20Action%20in%20central%20London)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/hoe-labour-als-de-dood-is-voor-beschuldigingen-van-antisemitisme-zeker-na-de-aanslag-in-manchester/95377538.html)
-
-De Britse regering wil de politie meer macht geven om protesten voor Palestina strenger te stoppen. Dit past niet bij de cultuur en waarden van het land. De tekst legt uit waarom de Labour-partij ook zo bang is voor dit soort acties.
+Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen.
 
 ## Woordenschatuitbreiding
 
@@ -15,53 +11,50 @@ De Britse regering wil de politie meer macht geven om protesten voor Palestina s
 
 | Woord | Definitie |
 |-------|-----------|
-| **beschuldigingen** | Het zeggen dat iemand iets verkeerds heeft gedaan. |
-| **antisemitisme** | Haat of vooroordelen tegen Joodse mensen. |
-| **regering** | De groep mensen die een land bestuurt. |
-| **protesten** | Bijeenkomsten waar mensen laten zien dat ze het ergens niet mee eens zijn. |
-| **waarden** | De belangrijke principes of overtuigingen die een groep mensen deelt. |
+| **vredesakkoord** | een officiële overeenkomst om vrede te maken |
+| **onderhandelingen** | gesprekken om tot een beslissing te komen |
+| **doorbraak** | een belangrijke, positieve verandering na lang wachten |
+| **ontwikkelingen** | nieuwe dingen die gebeuren of veranderen |
+| **oorlog** | een periode van gewapend conflict tussen landen of groepen |
 
 ### Vul-in-de-leegte
-1. De politie kreeg meer macht om de ___ harder aan te pakken.
-2. De nieuwe wet past niet bij de ___ van het land.
-3. De partij is bang voor ___ van racisme.
+1. Na lange ___ is er eindelijk een vredesakkoord.
+2. De onderhandelingen leiden hopelijk tot een positieve ___ in de situatie.
+3. De laatste ___ in het conflict zijn veelbelovend.
 
 #### Oplossingen
-1. protesten
-2. waarden
-3. beschuldigingen
+1. onderhandelingen  
+2. doorbraak  
+3. ontwikkelingen
 
 ### Meerkeuzevragen
-1. Waar is de Labour-partij bang voor?
-   a) Nieuwe verkiezingen
-   b) Beschuldigingen van antisemitisme
-   c) Economische problemen
-   d) Een nieuwe leider
-
-2. Wat wil de Britse regering de politie geven?
-   a) Meer geld
-   b) Meer macht
-   c) Nieuwe uniformen
-   d) Minder werk
-
-3. Tegen welke protesten wil de regering optreden?
-   a) Protesten voor het klimaat
-   b) Protesten voor Palestina
-   c) Protesten voor betere scholen
-   d) Protesten voor meer banen
+1. Wat is een 'vredesakkoord'?  
+   a) een feestelijke bijeenkomst  
+   b) een officiële overeenkomst om de vrede te bevestigen  
+   c) een soort wapen  
+   d) een sportevenement  
+2. Wat betekent 'doorbraak' in deze context?  
+   a) een kapot object  
+   b) een belangrijke, positieve verandering na moeilijke tijden  
+   c) een nieuwe deur  
+   d) een soort medicijn  
+3. Waar gaat dit artikel over?  
+   a) een kookwedstrijd  
+   b) vredesonderhandelingen tussen Israël en Palestina  
+   c) de Olympische Spelen  
+   d) een nieuwe film  
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. b) een officiële overeenkomst om de vrede te bevestigen  
+2. b) een belangrijke, positieve verandering na moeilijke tijden  
+3. b) vredesonderhandelingen tussen Israël en Palestina  
 
 ### Waar / Niet Waar
-1. De Britse regering wil dat de politie protesten minder streng aanpakt.
-2. De Labour-partij maakt zich zorgen over beschuldigingen van antisemitisme.
-3. De nieuwe plannen van de regering passen goed bij de cultuur van het land.
+1. Het artikel gaat over vredesonderhandelingen tussen Israël en Palestina.  
+2. De situatie in Gaza is na twee jaar oorlog nog steeds hetzelfde.  
+3. De 'gele lijn' in de titel verwijst naar een nieuwe grens tussen de gebieden.  
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
----
+1. Waar  
+2. Niet waar  
+3. Waar<｜begin▁of▁sentence｜>
