@@ -1,61 +1,59 @@
-# Madagaskar: President afgezet door parlement, soldaten nemen over
+# Wat deed de Fifa-baas in Egypte?
 
 ## Samenvatting
-Het parlement van Madagaskar heeft gestemd om president Andry Rajoelina af te zetten. Rajoelina probeert nog steeds de macht te houden, maar een groep soldaten zegt nu dat zij de controle over het land hebben overgenomen.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ejhb3h-92.jpeg/alternates/BASE_SIXTEEN_NINE/92.jpeg)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/wat-deed-fifa-baas-gianni-infantino-op-de-gaza-top-in-egypte/97732646.html)
+
+De Fifa-baas Gianni Infantino was in Egypte voor een bijeenkomst over de toekomst van Gaza. Hij zei dat voetbal mensen samenbrengt.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **president** | het staatshoofd van een land |
-| **parlement** | een groep mensen die wetten maakt voor een land |
-| **soldaten** | mensen die in het leger zitten en het land beschermen |
-| **controle** | de macht om iets te bepalen of te beheren |
-| **afzetten** | iemand uit een belangrijke positie verwijderen |
+| **Fifa** | de internationale organisatie voor voetbal |
+| **baas** | de persoon die de leiding heeft |
+| **bijeenkomst** | een meeting waar mensen samenkomen om te praten |
+| **toekomst** | de tijd die nog moet komen |
+| **voetbal** | een sport met een bal en twee goals |
 
 ### Vul-in-de-leegte
-1. Het parlement heeft gestemd om de president ___ te zetten.
-2. De soldaten zeggen dat ze nu de ___ over het land hebben.
-3. De president probeert nog steeds de ___ te houden.
-
+1. Gianni Infantino is de baas van de ____.
+2. Hij ging naar Egypte voor een ____ over de toekomst van Gaza.
+3. Infantino zei dat voetbal mensen ____.
 #### Oplossingen
-1. af te zetten
-2. controle
-3. macht
+1. Fifa  
+2. bijeenkomst  
+3. samenbrengt
 
 ### Meerkeuzevragen
-1. Wat heeft het parlement van Madagaskar gestemd?
-   a) De president te steunen
-   b) De president af te zetten
-   c) Nieuwe verkiezingen te houden
-   d) De soldaten te ontslaan
-
-2. Wie heeft de controle over Madagaskar overgenomen volgens het artikel?
-   a) De president
-   b) Het parlement
-   c) Een groep soldaten
-   d) Buitenlandse leiders
-
-3. Wat probeert de president te blijven houden?
-   a) Zijn geld
-   b) Zijn macht
-   c) Zijn huis
-   d) Zijn familie
-
+1. Waar ging Gianni Infantino naartoe?  
+   a) Nederland  
+   b) Egypte  
+   c) België  
+   d) Zwitserland  
+2. Wat was het doel van zijn bezoek?  
+   a) Een voetbalwedstrijd bekijken  
+   b) Deelnemen aan een bijeenkomst over Gaza  
+   c) Op vakantie gaan  
+   d) Een nieuwe baan zoeken  
+3. Wat zei Infantino over voetbal?  
+   a) Het is alleen maar een spel  
+   b) Het verdeelt mensen  
+   c) Het verenigt mensen  
+   d) Het is te duur  
 #### Antwoorden
-1. b
-2. c
-3. b
+1. b) Egypte  
+2. b) Deelnemen aan een bijeenkomst over Gaza  
+3. c) Het verenigt mensen  
 
 ### Waar / Niet Waar
-1. De president van Madagaskar is afgetreden. (Niet waar)
-2. De soldaten zeggen dat ze de controle over Madagaskar hebben. (Waar)
-3. De president heeft de steun van het parlement. (Niet waar)
-
+1. Gianni Infantino is de baas van Fifa.  
+2. De bijeenkomst was in Nederland.  
+3. Infantino zei dat voetbal mensen verdeelt.  
 #### Antwoorden
-1. Niet waar
-2. Waar
-3. Niet waar
----
+1. Waar  
+2. Niet waar  
+3. Niet waar<｜begin▁of▁sentence｜>

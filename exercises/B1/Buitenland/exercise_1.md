@@ -1,60 +1,64 @@
-# Twee VN-konvooien met humanitaire hulp beschadigd door Russische droneaanval
+# Titel
 
-[Twee VN-konvooien met humanitaire hulp zijn beschadigd door een Russische droneaanval]
+De Franse Raad van State weigert verzoek van Marine Le Pen om mee te doen met de verkiezingen
+
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/efs2cn-000-par2004071450604.jpg/alternates/BASE_SIXTEEN_NINE/000_PAR2004071450604.jpg)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/twee-vn-konvooien-met-humanitaire-hulp-beschadigd-door-russische-droneaanval/35173633.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/mhry9c-french-prime-minister-lecornu-holds-general-policy-speech-at-national-assembly/alternates/BASE_SIXTEEN_NINE/French%20Prime%20Minister%20Lecornu%20holds%20general%20policy%20speech%20at%20National%20Assembly)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/raad-van-state-verwerpt-verzoek-le-pen-om-deel-te-nemen-aan-verkiezingen/97703008.html)
 
-[In de oorlog in Oekraïne zijn twee VN-konvooien met humanitaire hulp beschadigd door een Russische droneaanval. Volg de laatste ontwikkelingen in de oorlog in Oekraïne. Download de DS Nieuws-app voor belangrijke updates.]
+De Franse Raad van State heeft het verzoek van Marine Le Pen om mee te mogen doen aan de verkiezingen, afgewezen. Daarom is zij voorlopig niet verkiesbaar.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **Konvooien** | Een groep voertuigen die samen reizen, vaak voor bescherming. |
-| **Humanitair** | Alles wat te maken heeft met het helpen en beschermen van mensen. |
-| **Drone** | Een onbemand vliegtuigje dat op afstand wordt bestuurd. |
-| **Oorlog** | Een periode van gewapend conflict tussen landen of groepen. |
-| **Update** | De nieuwste informatie over iets. |
+| **verzoek** | een vraag of verzoek om iets te mogen doen |
+| **verkiezingen** | de verkiezingen zijn de verkiezingen, een soort stemming waar mensen op kunnen stemmen |
+| **onverkiesbaar** | iemand die niet mee kan doen aan de verkiezingen of die niet gekozen kan worden |
+| **Raad van State** | een speciale groep die de regering adviseert over belangrijke besluiten |
+| **verwerpen** | het niet accepteren of goedkeuren van iets |
 
 ### Vul-in-de-leegte
-1. Twee VN-___ met humanitaire hulp werden beschadigd door een Russische drone.
-2. De droneaanval vond plaats tijdens de ___ in Oekraïne.
-3. Mensen kunnen de DS Nieuws-app downloaden om ___ over het nieuws te krijgen.
+1. Marine Le Pen heeft een ___ ingediend om mee te mogen doen met de verkiezingen.
+2. Omdat haar verzoek werd ___ is zij nu onverkiesbaar.
+3. De ___ van State is een belangrijke instantie in Frankrijk.
+
 #### Oplossingen
-1. konvooien
-2. oorlog
-3. updates
+1. verzoek
+2. afgewezen / verworpen
+3. Raad
 
 ### Meerkeuzevragen
-1. Wat is een drone?
-   a) Een soort vliegtuig zonder piloot
-   b) Een soort auto
-   c) Een soort fiets
-   d) Een soort computer
-2. Waarom worden konvooien gebruikt?
-   a) Om sneller te reizen
-   b) Om goederen en mensen veilig te vervoeren
-   c) Om te racen
-   d) Om te winkelen
-3. Wat betekent 'humanitair'?
-   a) Alles wat met oorlog te maken heeft
-   b) Alles wat met helpen en beschermen te maken heeft
-   c) Alles wat met feesten te maken heeft
-   d) Alles wat met sport te maken heeft
+1. Wat is de Raad van State?
+   a) Een sportteam  
+   b) Een adviesorgaan voor de regering  
+   c) Een soort supermarkt  
+   d) Een bekende berg  
+2. Wat betekent "onverkiesbaar"?
+   a) Iemand die niet gekozen kan worden in verkiezingen.  
+   b) Iemand die heel erg moe is.  
+   c) Iemand die heel goed kan zwemmen.  
+   d) Iemand die heel erg sterk is.  
+3. Wat is het tegenovergestelde van "verwerpen"?
+   a) Goedkeuren  
+   b) Weigeren  
+   c) Vergeten  
+   d) Verliezen  
+
 #### Antwoorden
-1. a
-2. b
-3. b
+1. b
+2. a
+3. a
 
 ### Waar / Niet Waar
-1. Twee VN-konvooien werden beschadigd door een Oekraïense drone. (Niet Waar)
-2. De oorlog vindt plaats in Oekraïne. (Waar)
-3. De DS Nieuws-app geeft updates over het nieuws. (Waar)
+1. Marine Le Pen mag nu wel meedoen met de verkiezingen. (Niet waar)
+2. De Raad van State is een Franse organisatie. (Waar)
+3. "Onverkiesbaar" betekent dat je heel goed kunt zwemmen. (Niet waar)
+
 #### Antwoorden
-1. Niet Waar
+1. Niet waar
 2. Waar
-3. Waar<｜begin▁of▁sentence｜>
+3. Niet waar<｜begin▁of▁sentence｜>

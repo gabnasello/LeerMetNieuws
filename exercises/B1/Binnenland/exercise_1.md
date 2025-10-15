@@ -1,18 +1,8 @@
-# Vereenvoudigde tekst
+# Stadsplanning en bouwbeleid
 
-## Titel
-Rechtbank beslist: Martina Johnson moet voor assisen voor oorlogsmisdaden in Liberia
-
-## Samenvatting
-Martina Johnson wordt verdacht van oorlogsmisdaden. Deze misdaden vonden plaats tijdens de burgeroorlog in Liberia in de jaren 90. De rechtbank in Gent heeft beslist dat ze moet voorkomen voor de assisenbank. Dit is een belangrijke stap in de rechtszaak.
-
----
-
-Beste student,
-
-Hier is de oefening gebaseerd op de gegeven instructies:
-
-# Oefening: Rechtbankbeslissing over Martina Johnson
+## Titel en Samenvatting
+**Titel:** Professor Tom Coppens over de bouwplannen: "Minder beton is zinloos als we blijven bouwen"
+**Samenvatting:** Professor Tom Coppens stelt belangrijke vragen over de bouwplannen in Vlaanderen. Hij vraagt of de plannen wel kunnen werken. Ondertussen wil minister Jo Brouns de regels voor bouwvergunningen juist makkelijker maken.
 
 ## Woordenschatuitbreiding
 
@@ -20,49 +10,50 @@ Hier is de oefening gebaseerd op de gegeven instructies:
 
 | Woord | Definitie |
 |-------|-----------|
-| **verdacht** | wordt gezien als mogelijke dader |
-| **oorlogsmisdaden** | ernstige misdrijven gepleegd tijdens een oorlog |
-| **rechtbank** | plaats waar recht wordt gesproken en beslissingen worden genomen |
-| **assisenhof** | een hogere rechtbank die zwaar strafrecht behandelt |
-| **beslist** | heeft een beslissing genomen |
+| **bouwen** | iets maken, zoals een huis of een gebouw |
+| **beton** | een heel hard, stevig materiaal, vaak gebruikt om wegen of gebouwen van te maken |
+| **vergunning** | een officiële toestemming om iets te mogen doen |
+| **veranderen** | iets anders maken, of anders worden |
+| **zinloos** | zonder nut of doel, waarvoor je geen reden ziet |
 
 ### Vul-in-de-leegte
-1. Martina Johnson is ________ van het plegen van oorlogsmisdaden.
-2. De rechtbank in Gent heeft ________ dat Martina Johnson naar de assisenbank moet.
-3. De zaak tegen Martina Johnson is een belangrijke ________ in de rechtsgang.
+1. De nieuwe regels maken het makkelijker om een ___ te krijgen.
+2. Het is ___ om te blijven bouwen als je ook natuur wilt behouden.
+3. Als je iets verandert, moet je ook de oorzaak ___.
 
 #### Oplossingen
-1. verdacht
-2. beslist
-3. stap
+1. vergunning
+2. zinloos
+3. veranderen
 
 ### Meerkeuzevragen
-1. Wat is Martina Johnson naar mening van de rechtbank?
-   a) onschuldig  
-   b) verdacht  
-   c) vrijgesproken  
-   d) gearresteerd  
-   **Antwoord: b) verdacht**
+1. Wat is "beton"?
+   a) Een soort plant  
+   b) Een soort steen of materiaal  
+   c) Een soort dier  
+   d) Een soort voedsel
+2. Wat betekent "veranderen"?
+   a) Hetzelfde blijven  
+   b) Iets anders worden of maken  
+   c) Iets kapotmaken  
+   d) Iets vergeten
+3. Wat is een "vergunning"?
+   a) Een soort feest  
+   b) Een officieel document met toestemming  
+   c) Een soort straf  
+   d) Een soort gebouw
 
-2. Waar heeft de rechtbank in Gent over beslist?
-   a) Dat Martina Johnson vrijgesproken is.  
-   b) Dat Martina Johnson naar de assisenbank moet.  
-   c) Dat de zaak gesloten is.  
-   d) Dat Martina Johnson onschuldig is.  
-   **Antwoord: b) Dat Martina Johnson naar de assizenbank moet.**
-
-3. Wat is het belang van deze beslissing?
-   a) Het is een eerste stap in de rechtszaak.  
-   b) Het is het einde van de rechtszaak.  
-   c) Het betekent dat Martina Johnson vrij is.  
-   d) Het is onbelangrijk.  
-   **Antwoord: a) Het is een eerste stap in de rechtszaak.**
+#### Antwoorden
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Martina Johnson is al veroordeeld voor haar misdaden.  
-2. De rechtbank in Gent heeft Martina Johnson vrijgesproken.  
-3. Deze beslissing is het einde van de rechtszaak.  
-**Antwoorden:**
+1. Professor Coppens is het eens met de nieuwe bouwregels. (Niet waar)
+2. Brouns wil de regels strenger maken. (Niet waar)
+3. Bouwen met beton is goed voor het milieu. (Niet waar)
+
+#### Antwoorden
 1. Niet waar
 2. Niet waar
 3. Niet waar

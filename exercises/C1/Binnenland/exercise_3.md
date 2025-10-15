@@ -1,10 +1,13 @@
-# Youssef uit 'Kamp Waes' is strafbaar voor seksueel getinte berichten aan leerlinge
+# Verharding in Vlaanderen bereikt recordhoogte
 
-## Titel
-Youssef uit 'Kamp Waes' is gestraft voor het sturen van ongepaste berichten aan een leerlinge.
+[Vereenvoudigde titel: Verharding in Vlaanderen bereikt een record]
 
 ## Samenvatting
-Youssef Challouki, bekend van het tv-programma Kamp Waes, is veroordeeld tot een jaar cel, maar hij hoeft die straf niet uit te zitten als hij zich goed gedraagt. Hij stuurde seksueel getinte berichten naar een van zijn leerlingen.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ye9tbt-reportage-over-de-opbouw-van-studentenkoten-in-gent-hier-stropkaai-foto-jimmy-kets/alternates/BASE_SIXTEEN_NINE/Reportage%20over%20de%20opbouw%20van%20studentenkoten%20in%20Gent%20Hier%20Stropkaai%20Foto%20Jimmy%20Kets)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/verharding-van-vlaanderen-op-recordsnelheid-elke-dag-verdwijnt-14-hectare-onder-asfalt-en-beton/97565539.html)
+
+We blijven in Vlaanderen veel verharden. Volgens de nieuwste gegevens verdween er in 2023 elke dag 14,4 hectare onder verharding. Dit is het hoogste cijfer in de afgelopen tien jaar.
 
 ## Woordenschatuitbreiding
 
@@ -12,50 +15,50 @@ Youssef Challouki, bekend van het tv-programma Kamp Waes, is veroordeeld tot een
 
 | Woord | Definitie |
 |-------|-----------|
-| **veroordeeld** | schuldig bevonden door de rechter |
-| **leerlinge** | een vrouwelijke student |
-| **seksueel** | met betrekking tot seks |
-| **getinte** | met een bepaalde kleur of karakter |
-| **probatie** | een proefperiode waarin iemand moet bewijzen dat hij of zij zich goed gedraagt |
+| **verharden** | hard of stevig worden, vaak door verharding |
+| **verharding** | het bedekken van grond met asfalt of beton |
+| **record** | het beste of hoogste resultaat ooit behaald |
+| **hectare** | een oppervlaktemaat; 1 hectare is 100 bij 100 meter |
+| **asfalt** | een zwart, kleverig materiaal gebruikt voor wegen |
 
 ### Vul-in-de-leegte
-1. Youssef is ______ omdat hij ongepaste berichten stuurde.
-2. De leerling was een ______, niet een man.
-3. Als Youssef zich goed gedraagt tijdens zijn ______, hoeft hij niet naar de gevangenis.
+1. In Vlaanderen wordt veel grond ___ met asfalt en beton.
+2. De hoeveelheid verharding in Vlaanderen bereikte een nieuw ___.
+3. Een ___ is een eenheid voor het meten van oppervlakte.
 
 #### Oplossingen
-1. veroordeeld
-2. leerlinge
-3. probatie
+1. bedekt
+2. record
+3. hectare
 
 ### Meerkeuzevragen
-1. Wat is 'Kamp Waes'?
-   a) Een tv-programma
-   b) Een militaire basis
-   c) Een gevangenis
-   d) Een school
-2. Wat betekent 'probatie' in deze context?
-   a) Vakantie
-   b) Een testperiode met goede gedrag
-   c) Een soort straf
-   d) Een beloning
-3. Wat is de hoofdoorzaak van deze straf?
-   a) Youssef heeft te hard gewerkt.
-   b) Youssef heeft iemand geslagen.
-   c) Youssef heeft ongepaste berichten gestuurd.
-   d) Youssef heeft te veel geld uitgegeven.
+1. Wat is "verharden" in deze context?
+   a) zachter worden  
+   b) harder worden  
+   c) verdwijnen  
+   d) groeien  
+2. Wat is een "record" in deze context?
+   a) een oude muziekopname  
+   b) het hoogste of laagste cijfer ooit  
+   c) een sportevenement  
+   d) een soort plant  
+3. Waar verwijst "14,4 hectare" naar?
+   a) de hoeveelheid verharding per jaar  
+   b) de dagelijkse hoeveelheid verharding  
+   c) de wekelijkse verharding  
+   d) de maandelijkse verharding  
 
 #### Antwoorden
-1. a) Een tv-programma
-2. b) Een testperiode met goed gedrag
-3. c) Youssef heeft ongepaste berichten gestuurd.
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Youssef is voor altijd in de gevangenis.
-2. De leerling was een man.
-3. Youssef kan zijn straf vermijden met goed gedrag.
+1. Verharding in Vlaanderen neemt af.  
+2. De verharding in 2023 was meer dan in voorgaande jaren.  
+3. Een hectare is een maat voor volume.  
 
 #### Antwoorden
-1. Niet waar (het is een probatiestraf)
-2. Niet waar (het was een leerlinge, dus een vrouw)
-3. Waar<｜begin▁of▁sentence｜>
+1. Niet Waar
+2. Waar
+3. Niet Waar

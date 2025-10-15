@@ -1,13 +1,8 @@
-# Titel
+# Eenvoudige versie
 
-Dader op foto massa-executie Holocaust eindelijk achterhaald: hij was leraar Frans, Engels en gymnastiek
+## Titel: Trump niet blij met cover van 'Time Magazine': "Ze hebben mijn haar doen verdwijnen"
 
-## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/l0z2sy-gettyimages-461733515.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-461733515.jpg)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/dader-op-foto-massa-executie-holocaust-eindelijk-achterhaald-hij-was-leraar-frans-engels-en-gymnastiek/97293860.html)
-
-Zestig jaar nadat de foto 'De laatste Jood van Vinnytsja' voor het eerst aan de wereld was getoond, heeft een Duitse historicus de naam van de SS'er achterhaald die in 1941 de trekker overhaalde.
+## Samenvatting: De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates.
 
 ## Woordenschatuitbreiding
 
@@ -15,50 +10,50 @@ Zestig jaar nadat de foto 'De laatste Jood van Vinnytsja' voor het eerst aan de 
 
 | Woord | Definitie |
 |-------|-----------|
-| **dader** | iemand die iets strafbaars heeft gedaan |
-| **tweede wereldoorlog** | een grote oorlog die van 1939 tot 1945 duurde |
-| **onderzoek** | proberen iets te weten te komen |
-| **ontdekken** | iets vinden of erachter komen |
-| **vergeten** | niet meer aan iets of iemand denken |
+| **tweede** | volgend op de eerste; opnieuw |
+| **amtermijn** | periode waarin iemand een functie heeft |
+| **veranderen** | anders worden |
+| **belangrijk** | van groot belang |
+| **wereldwijd** | over de hele wereld |
 
 ### Vul-in-de-leegte
-1. De politie probeerde de ___ van de bankroof te vinden.
-2. Na de Tweede Wereldoorlog moesten veel mensen ___ wat er was gebeurd.
-3. De historicus kon de gebeurtenissen uit de Tweede Wereldoorlog ___ door oude documenten te lezen.
+1. Donald Trump was de ___ president van de Verenigde Staten.
+2. Zijn tweede ambtstermijn bracht ___ veranderingen teweeg.
+3. De foto op de cover was niet naar zijn ___ ; hij was er niet blij mee.
 
 #### Oplossingen
-1. dader
-2. vergeten
-3. ontdekken
+1. eerste
+2. wereldwijd
+3. zin
 
 ### Meerkeuzevragen
-1. Wat is de Tweede Wereldoorlog?
-   a) Een recente sportwedstrijd  
-   b) Een oude grote oorlog  
-   c) Een nieuwe film  
-   d) Een soort muziek  
-2. Wat betekent "ontdekken"?
-   a) Iets verliezen  
-   b) Iets nieuws of onbekends vinden  
-   c) Iets breken  
-   d) Iets heel oud maken  
-3. Wat is een "dader"?
-   a) Iemand die een taak uitvoert  
-   b) Iemand die iets slechts of strafbaars doet  
-   c) Iemand die altijd gelijk heeft  
-   d) Iemand die een prijs wint  
+1. Waarover ging het artikel?
+   a) Trump's nieuwe kapsel
+   b) Trump's tweede ambtstermijn
+   c) Trump's favoriete tijdschrift
+   d) Trump's vakantieplannen
+2. Waarom was Trump niet blij?
+   a) Omdat hij niet op de cover wilde staan
+   b) Omdat hij zijn haar niet mooi vond
+   c) Omdat hij de foto niet mooi vond
+   d) Omdat hij niet meer president wilde zijn
+3. Wat betekent "wereldwijd"?
+   a) Alleen in Amerika
+   b) Over de hele wereld
+   c) Alleen in Europa
+   d) Alleen in grote steden
 
 #### Antwoorden
 1. b
-2. b
+2. c
 3. b
 
 ### Waar / Niet Waar
-1. De Tweede Wereldoorlog was een vredelijke tijd.
-2. De Tweede Wereldoorlog is nog maar net begonnen.
-3. "Ontdekken" betekent hetzelfde als "vinden".
+1. Trump was blij met de cover van Time Magazine. (Niet waar)
+2. Trump was president van de Verenigde Staten. (Waar)
+3. De veranderingen waren alleen in Amerika. (Niet waar)
 
 #### Antwoorden
 1. Niet waar
-2. Niet waar
-3. Waar<｜begin▁of▁sentence｜>
+2. Waar
+3. Niet waar<｜begin▁of▁sentence｜>

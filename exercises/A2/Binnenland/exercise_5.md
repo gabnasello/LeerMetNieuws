@@ -1,53 +1,53 @@
-# Vereenvoudigde titel en samenvatting
+# In Thiams dorp is men verbolgen over ‘Nafigate’: “Thiam is veel groter dan Wallonië, natuurlijk kiezen we haar kant”
 
-Antwerpen Airport (de luchthaven van Deurne) heeft problemen. Ze heeft geld nodig om te blijven werken. De Vlaamse regering geeft normaal geld om de luchthaven te helpen, maar nu zijn er grote besparingen. Partijen CD&V en Vooruit vragen of de subsidies wel nodig zijn. Maar N-VA vindt dat de luchthaven het geld moet krijgen.
+## Samenvatting
+In het dorp van Nafi Thiam is men boos over de 'Nafigate'-affaire. Ze zeggen dat Thiam veel groter is dan de regio Wallonië en dat ze daarom voor haar kiezen.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **luchthaven** | plaats waar vliegtuigen landen en opstijgen |
-| **geld** | wat je gebruikt om iets te kopen |
-| **besparingen** | minder geld uitgeven |
-| **partijen** | groepen mensen in de politiek |
-| **regio** | een bepaald gebied of deel van een land |
+| **verbolgen** | boos, kwaad |
+| **affaire** | een gebeurtenis of situatie die veel aandacht krijgt |
+| **kiezen** | een keuze maken, voor iets of iemand zijn |
+| **boos** | heel erg kwaad, niet blij |
+| **dorp** | een kleine plaats waar mensen wonen, kleiner dan een stad |
 
 ### Vul-in-de-leegte
-1. De luchthaven van Deurne heeft financiële ondersteuning nodig om ___ te blijven.
-2. Sommige politieke partijen vragen zich af of de subsidies wel ___ zijn.
-3. De N-VA partij wil de financiële steun voor de luchthaven ___.
+
+1. De mensen in het dorp zijn _____ over de situatie.
+2. Nafi Thiam is een atleet die in het dorp _____.
+3. De mensen zeggen dat Thiam groter is dan Wallonië, dus ze _____ haar.
+
 #### Oplossingen
-1. functioneren
-2. nodig
-3. behouden
+1. boos
+2. woont
+3. kiezen
 
 ### Meerkeuzevragen
-1. Wat is de belangrijkste reden dat de luchthaven van Deurne in problemen is?
-   a) Er zijn te veel vliegtuigen.
-   b) Er is niet genoeg geld om het te ondersteunen.
-   c) De luchthaven is te groot.
-   d) Mensen willen er niet naartoe reizen.
-2. Welke partij ondersteunt de financiële hulp voor de luchthaven?
-   a) CD&V
-   b) Vooruit
-   c) N-VA
-   d) Geen van de bovenstaande
-3. Wat is de rol van de Vlaamse regering in deze situatie?
-   a) Zij geeft de financiële steun.
-   b) Zij wil de luchthaven sluiten.
-   c) Zij beslist of de steun doorgaat.
-   d) Zij heeft er niets mee te maken.
+
+1. Wat betekent 'verbolgen'?
+   a) blij b) boos c) moe d) ziek
+
+2. Waarover zijn de mensen in het dorp boos?
+   a) Over het weer b) Over de 'Nafigate'-affaire c) Over een feest d) Over een nieuwe wet
+
+3. Waarom kiezen de mensen voor Thiam?
+   a) Omdat ze haar leuk vinden b) Omdat ze haar niet kennen c) Omdat ze denken dat ze groter is dan Wallonië d) Omdat ze haar een prijs willen geven
+
 #### Antwoorden
-1. b
-2. c
-3. c
+1. b) boos
+2. b) Over de 'Nafigate'-affaire
+3. c) Omdat ze denken dat ze groter is dan Wallonië
 
 ### Waar / Niet Waar
-1. De luchthaven van Deurne heeft geen financiële hulp nodig. (Niet waar)
-2. Alle politieke partijen zijn het eens over de financiële steun. (Niet waar)
-3. De luchthaven kan niet overleven zonder financiële steun. (Waar)
+
+1. De mensen in het dorp zijn blij met de 'Nafigate'-affaire.
+2. Nafi Thiam woont in een groot stad.
+3. De mensen in het dorp kiezen voor Thiam omdat ze groter is.
+
 #### Antwoorden
 1. Niet waar
 2. Niet waar

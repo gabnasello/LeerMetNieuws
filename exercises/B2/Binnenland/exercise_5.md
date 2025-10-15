@@ -1,7 +1,7 @@
-# Gaat de luchthaven van Deurne binnenkort failliet?
+# In Thiams dorp is men verbolgen over ‘Nafigate’: “Thiam is veel groter dan Wallonië, natuurlijk kiezen we haar kant”
 
 ## Samenvatting
-De luchthaven van Deurne heeft financiële problemen. Ze heeft financiële steun nodig van de Vlaamse regering om te kunnen blijven werken. Omdat de regering moet besparen, is het niet zeker of ze de luchthaven wel of niet zal steunen. 
+In het dorp van Nafi Thiam zijn mensen boos over een schandaal genaamd 'Nafigate'. Ze zeggen dat Thiam veel belangrijker is dan Wallonië, en dus kiezen ze haar kant.
 
 ## Woordenschatuitbreiding
 
@@ -9,41 +9,49 @@ De luchthaven van Deurne heeft financiële problemen. Ze heeft financiële steun
 
 | Woord | Definitie |
 |-------|-----------|
-| **luchthaven** | een plaats waar vliegtuigen kunnen starten en landen |
-| **financiële** | met betrekking tot geld en inkomsten |
-| **steun** | hulp of bijstand geven |
-| **besparen** | minder geld uitgeven, zuiniger leven |
-| **toekomst** | de tijd die nog moet komen, na nu |
+| **dorp** | een kleine plaats waar mensen wonen |
+| **boos** | heel erg kwaad |
+| **kiezen** | een keuze maken |
+| **belangrijk** | heel erg nodig of van grote waarde |
+| **kant** | een zijde of een kant van iets |
 
 ### Vul-in-de-leegte
-1. De luchthaven van Deurne heeft financiële ___ nodig.
-2. De Vlaamse regering moet beslissen of ze de luchthaven financieel ___ of niet.
-3. Als de luchthaven failliet gaat, zullen veel mensen hun ___ verliezen.
-
-#### Oplossingen
-1. steun
-2. steunt
-3. baan
+1. Het kleine _____ heeft maar 100 inwoners.
+2. Mensen zijn _____ omdat de regering heeft gelogen.
+3. We moeten altijd de waarheid _____.
+#### Oplossing
+1. Het kleine **dorp** heeft maar 100 inwoners.
+2. Mensen zijn **boos** omdat de regering heeft gelogen.
+3. We moeten altijd de waarheid **kiezen**.
 
 ### Meerkeuzevragen
-1. Wat is de hoofdstad van Vlaanderen?
-A) Brussel B) Antwerpen C) Gent D) Deurne
-2. Waar staat N-VA voor in deze context?
-A) Nieuwe Vlaamse Alliantie B) Nederlandse Vereniging Antwerpen C) Nationale Vlieg Associatie D) Nationale Vakbond Antwerpen
-3. Wat betekent "failliet gaan"?
-A) een feestje hebben B) financieel instorten C) een nieuwe start maken D) snel groeien
+1. Wat is een 'dorp'?  
+a) Een grote stad  
+b) Een kleine gemeenschap  
+c) Een soort auto  
+d) Een berg  
 
+2. Wat betekent 'boos'?  
+a) Heel blij  
+b) Heel kwaad  
+c) Heel moe  
+d) Heel lui  
+
+3. Wat doe je als je 'kiest'?  
+a) Je negeert iets  
+b) Je maakt een keuze  
+c) Je rent heel hard  
+d) Je lacht heel hard  
 #### Antwoorden
-1. A) Brussel
-2. A) Nieuwe Vlaamse Alliantie
-3. B) financieel instorten
+1. b) Een kleine gemeenschap  
+2. b) Heel kwaad  
+3. b) Je maakt een keuze  
 
 ### Waar / Niet Waar
-1. De luchthaven van Deurne heeft geen financiële problemen. (Niet Waar)
-2. De Vlaamse regering heeft al besloten om de luchthaven te steunen. (Niet Waar)
-3. Als de luchthaven failliet gaat, verliezen alleen de piloten hun baan. (Niet Waar)
-
+1. Een dorp is groter dan een stad.  
+2. 'Boos' zijn is hetzelfde als 'blij' zijn.  
+3. 'Kiezen' betekent hetzelfde als 'selecteren'.  
 #### Antwoorden
-1. Niet Waar
-2. Niet Waar
-3. Niet Waar<｜begin▁of▁sentence｜>
+1. Niet waar. Een dorp is kleiner dan een stad.  
+2. Niet waar. 'Boos' zijn is het tegenovergestelde van 'blij' zijn.  
+3. Waar. 'Kiezen' en 'selecteren' betekenen allebei 'een keuze maken'.

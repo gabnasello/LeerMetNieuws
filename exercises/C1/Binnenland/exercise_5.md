@@ -1,60 +1,53 @@
-# Titel
-
-Gaat de luchthaven van Deurne binnenkort failliet?
+# In Thiams dorp is men verbolgen over ‘Nafigate’: “Thiam is veel groter dan Wallonië, natuurlijk kiezen we haar kant”
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/fp8iqf-954.jpeg/alternates/BASE_SIXTEEN_NINE/954.jpeg)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/gaat-de-luchthaven-van-deurne-binnenkort-failliet/97287327.html)
-
-Het gaat niet goed met de luchthaven van Deurne. Zonder financiële steun van de Vlaamse regering dreigt de luchthaven failliet te gaan. Twee regeringspartijen, CD&V en Vooruit, stellen de subsidies in vraag, maar N-VA wil niet meewerken.
+In het dorp van Nafi Thiam, een Belgische atleet, is men boos over een schandaal genaamd "Nafigate". De mensen zeggen dat Thiam groter is dan Wallonië en dat ze aan haar kant staan.
 
 ## Woordenschatuitbreiding
 
-### Woordenschat
-
+### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **luchthaven** | een plaats waar vliegtuigen opstijgen en landen |
-| **failliet** | zonder geld, dus niet meer kunnen werken |
-| **financiële steun** | geld dat gegeven wordt om iets of iemand te helpen |
-| **regeringspartijen** | politieke groepen die samen de regering vormen |
-| **subsidies** | geld dat de overheid geeft om iets te ondersteunen |
+| **verbolgen** | boos, kwaad |
+| **Nafigate** | de naam van een schandaal (vergelijk met "Watergate") |
+| **Wallonië** | een regio in België waar Frans wordt gesproken |
+| **kiezen** | een keuze maken, voor iets of iemand stemmen |
+| **dorp** | een kleine woonplaats, kleiner dan een stad |
 
 ### Vul-in-de-leegte
-1. De luchthaven van Deurne heeft financiële steun nodig om open te blijven.
-2. Als de luchthaven failliet gaat, zullen veel mensen hun baan verliezen.
-3. Twee politieke partijen stellen de subsidies in vraag, maar één partij wil niet meewerken.
+1. De inwoners van het dorp waren erg __ over de situatie.
+2. "Nafigate" is de naam van een __ in de politiek.
+3. Nafi Thiam komt uit België, een land met een __ en een Vlaamse gemeenschap.
 #### Oplossingen
-1. De luchthaven van Deurne heeft financiële steun nodig om open te blijven.
-2. Als de luchthaven failliet gaat, zullen veel mensen hun baan verliezen.
-3. Twee politieke partijen stellen de subsidies in vraag, maar één partij wil niet meewerken.
+1. verbolgen
+2. schandaal
+3. Waalse regio
 
 ### Meerkeuzevragen
-1. Wat is de hoofdreden dat de luchthaven van Deurne in problemen is?
-   a) Te weinig vliegtuigen
-   b) Geen financiële steun
-   c) Te veel sneeuw
-   d) Geen elektriciteit
-2. Wat is een gevolg als de luchthaven failliet gaat?
-   a) Meer toeristen
-   b) Minder files
-   c) Werkloosheid
-   d) Meer vluchten
-3. Welke partij ondersteunt de subsidies niet?
-   a) CD&V
-   b) Vooruit
-   c) N-VA
-   d) Alle partijen
+1. Wat is "Nafigate"?
+   a) een nieuwe sport
+   b) een politiek schandaal
+   c) een nieuwe stad
+   d) een soort dessert
+2. Waar is Nafi Thiam vooral bekend om?
+   a) als politicus
+   b) als atleet
+   c) als zanger
+   d) als wetenschapper
+3. Wat betekent "verbolgen"?
+   a) blij
+   b) verward
+   c) boos
+   d) moe
 #### Antwoorden
-1. b) Geen financiële steun
-2. c) Werkloosheid
-3. c) N-VA
+1. b
+2. b
+3. c
 
 ### Waar / Niet Waar
-1. De luchthaven van Deurne doet het goed zonder financiële hulp.
-2. Alle regeringspartijen willen de subsidies stopzetten.
-3. N-VA is de enige partij die de subsidies wil behouden.
+1. Nafi Thiam komt uit Nederland.
+2. Het dorp in de titel is located in Vlaanderen.
+3. "Wallonië" is een officiële provincie in België.
 #### Antwoorden
 1. Niet waar
 2. Niet waar

@@ -1,11 +1,10 @@
-# Politie in Brussel gebruikt traangas tegen betogers, 20 mensen opgepakt
+# Privéjets op Antwerp Airport
+
+## Titel
+Vele privéjets vliegen zonder passagiers op Antwerp Airport.
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/72avh9-betog3-109.jpg/alternates/BASE_SIXTEEN_NINE/betog3-109.jpg)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/politie-zet-traangas-in-tegen-gemaskerde-betogers-bij-dienst-vreemdelingenzaken-twintig-mensen-opgepakt/97358960.html)
-
-In Brussel waren er rellen. Mensen met maskers op hun gezicht gingen de straat op. De politie moest ingrijpen. Ze gebruikten traangas om de groep uiteen te doen gaan. Twintig mensen zijn opgepakt. Er zijn geen gewonden gemeld.
+De luchthaven van Antwerpen heeft de laatste jaren veel privéjets zonder passagiers. Dit is nodig maar niet ideaal.
 
 ## Woordenschatuitbreiding
 
@@ -13,38 +12,38 @@ In Brussel waren er rellen. Mensen met maskers op hun gezicht gingen de straat o
 
 | Woord | Definitie |
 |-------|-----------|
-| **politie** | mensen die zorgen voor veiligheid en handhaven de wet |
-| **betogers** | mensen die protesteren of demonstreren |
-| **gemaskerd** | met een masker dat het gezicht bedekt |
-| **traangas** | een soort gas dat pijn doet aan de ogen, gebruikt om mensen te verspreiden |
-| **opgepakt** | meegenomen door de politie voor verder onderzoek |
+| **privéjets** | kleine vliegtuigen voor rijke mensen |
+| **luchthaven** | plaats waar vliegtuigen landen en opstijgen |
+| **passagiers** | mensen die met een voertuig reizen |
+| **noodzakelijk** | iets dat nodig is, onvermijdelijk |
+| **klant** | iemand die iets koopt of een dienst gebruikt |
 
 ### Vul-in-de-leegte
-1. De politie gebruikte ______ om de groep uit elkaar te drijven.
-2. Enkele betogers waren ______, wat betekent dat ze hun gezicht niet lieten zien.
-3. Mensen die de wet overtreden worden soms ______ door de politie.
+1. Sommige vliegtuigen vliegen zonder ___ aan boord. (passagiers)
+2. De luchthaven heeft veel ___ die geen passagiers vervoeren. (privéjets)
+3. Het is ___ dat er vliegtuigen zijn zonder passagiers. (noodzakelijk)
 
 #### Oplossingen
-1. traangas
-2. gemaskerd
-3. opgepakt
+1. passagiers
+2. privéjets
+3. noodzakelijk
 
 ### Meerkeuzevragen
-1. Wat is traangas?
-   a) een soort parfum  
-   b) een chemische stof die irritatie veroorzaakt  
-   c) een soort limonade  
-   d) een beschermend kledingstuk  
-2. Waarom droegen sommige betogers een masker?  
-   a) Om zichzelf te beschermen tegen traangas  
-   b) Om er cooler uit te zien  
-   c) Om anoniem te blijven  
-   d) Omdat het feest was  
-3. Wat betekent "opgepakt" in deze context?  
-   a) thuisgebracht  
-   b) gearresteerd of meegenomen door de politie  
-   c) opgetild  
-   d) uitgenodigd voor een feestje  
+1. Wat is een "privéjet"?
+a) een openbaar vliegtuig
+b) een privé vliegtuig voor weinig mensen
+c) een trein
+d) een bus
+2. Waarom hebben sommige vluchten geen passagiers?
+a) Omdat het geen echte vluchten zijn
+b) Omdat het oefenvluchten zijn
+c) Omdat het privéjets zijn die alleen cargo vervoeren
+d) Omdat het drones zijn
+3. Wat betekent "noodzakelijk"?
+a) leuk en fijn
+b) nodig maar niet ideaal
+c) duur en luxueus
+d) verboden en gevaarlijk
 
 #### Antwoorden
 1. b
@@ -52,11 +51,11 @@ In Brussel waren er rellen. Mensen met maskers op hun gezicht gingen de straat o
 3. b
 
 ### Waar / Niet Waar
-1. De politie gebruikte traangas om mensen samen te brengen. (Niet waar)
-2. Er waren geen gewonden tijdens de rellen. (Waar)
-3. Alle betogers werden opgepakt. (Niet waar, alleen sommige)
+1. Antwerp Airport heeft alleen privéjets met passagiers. (Niet waar)
+2. Alle vluchten zonder passagiers zijn nutteloos. (Niet waar - sommige zijn voor cargo)
+3. De luchthaven heeft meer privéjets dan ooit. (Waar)
 
 #### Antwoorden
 1. Niet waar
-2. Waar
-3. Niet waar<｜begin▁of▁sentence｜>
+2. Niet waar
+3. Waar

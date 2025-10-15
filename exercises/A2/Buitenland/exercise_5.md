@@ -1,15 +1,7 @@
-# Gaza Oorlog: Vrede in Zicht?
-
-## Titels en Samenvatting
-
-[Israël schiet op Palestijnse verdachten aan de grens met Gaza]
+# Voormalig Keniaans premier Raila Odinga overleden op 80-jarige leeftijd
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/zgno84-12450187.jpg/alternates/BASE_SIXTEEN_NINE/12450187.jpg)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/israelisch-leger-schiet-op-palestijnse-verdachten-aan-gele-lijn-met-gaza/35173881.html)
-
-[Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen.]
+Raila Odinga, de voormalige premier van Kenia, is overleden. Hij is 80 jaar geworden. Zijn familie heeft dit bevestigd. Hij was meerdere keren presidentskandidaat, maar heeft nooit gewonnen.
 
 ## Woordenschatuitbreiding
 
@@ -17,50 +9,47 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **oorlog** | een tijd waarin landen of groepen elkaar proberen te verslaan, vaak met wapens |
-| **onderhandelingen** | gesprekken tussen groepen om tot een oplossing te komen |
-| **doorbraak** | een belangrijke, positieve verandering na lang wachten |
-| **verdachten** | mensen waarvan wordt gedacht dat ze iets verkeerds hebben gedaan |
-| **vredesoverleg** | gesprekken om vrede te bereiken |
+| **voormalig** | vroeger, van vroeger |
+| **premier** | regeringsleider, regeringshoofd |
+| **overleden** | niet meer levend, dood |
+| **presidentskandidaat** | iemand die probeert president te worden |
+| **bevestigd** | bevestigd, het is zeker |
 
 ### Vul-in-de-leegte
-1. Na lange ___ kwam er eindelijk een doorbraak in het vredesproces. (oplossing: onderhandelingen)
-2. Het Israëlische leger heeft enkele ___ aangehouden voor ondervraging. (oplossing: verdachten)
-3. De partijen zitten momenteel aan tafel voor ___. (oplossing: vredesoverleg)
-
+1. Raila Odinga was een voormalige ___ van Kenia.
+2. Hij is op __-jarige leeftijd overleden.
+3. Zijn familie heeft dit __.
 #### Oplossingen
-1. onderhandelingen
-2. verdachten
-3. vredesoverleg
+1. premier
+2. tachtig
+3. bevestigd
 
 ### Meerkeuzevragen
-1. Wat is een 'doorbraak' in een onderhandelingsproces?
-   a) een mislukking
-   b) een belangrijke, positieve ontwikkeling
-   c) een pauze
-   d) een terugval
-2. Wat betekent het als iemand wordt beschreven als een 'verdachte'?
-   a) de persoon is zeker onschuldig
-   b) de persoon wordt verdacht van een misdaad
-   c) de persoon is al veroordeeld
-   d) de persoon is een held
-3. Wat zijn 'onderhandelingen'?
-   a) een sportevenement
-   b) gesprekken om een conflict op te lossen
-   c) een soort spel
-   d) het negeren van problemen
-
+1. Wat was Raila Odinga?
+   a) een student
+   b) een voetballer
+   c) een voormalig premier
+   d) een acteur
+2. Hoe oud werd Raila Odinga?
+   a) 18 jaar
+   b) 80 jaar
+   c) 100 jaar
+   d) 60 jaar
+3. Waar heeft de familie het overlijden bevestigd?
+   a) in Kenia
+   b) in India
+   c) in Nederland
+   d) in België
 #### Antwoorden
-1. b
+1. c
 2. b
 3. b
 
 ### Waar / Niet Waar
-1. De vredesonderhandelingen zijn al twee jaar aan de gang. (Waar)
-2. Het Israëlische leger heeft de verdachten vrijgelaten. (Niet waar - ze zijn aangehouden)
-3. De situatie in Gaza is volledig opgelost. (Niet waar - er zijn ontwikkelingen, maar geen volledige oplossing)
-
+1. Raila Odinga was de huidige premier van Kenia.
+2. Raila Odinga is overleden in India.
+3. Raila Odinga werd 80 jaar oud.
 #### Antwoorden
-1. Waar
-2. Niet Waar
-3. Niet Waar<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Waar
+3. Waar<｜begin▁of▁sentence｜>

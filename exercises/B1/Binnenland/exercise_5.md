@@ -1,61 +1,61 @@
-# Vereenvoudigde titel en samenvatting
+# Kies de juiste woorden
 
-**Titel: Kan de luchthaven van Deurne overleven?**
+**Vereenvoudigde titel:** In het dorp van Thiam zijn mensen boos over 'Nafigate': "Thiam is veel groter dan Wallonië, natuurlijk kiezen we haar kant"
 
-**Samenvatting:** Het gaat niet goed met de luchthaven van Deurne. Zonder een grote financiële steun van de Vlaamse regering kan de luchthaven misschien sluiten. Omdat er veel besparingen zijn, vragen sommige politieke partijen zich af of dit soort subsidies nog wel nodig zijn. Maar N-VA wil de steun gewoon door laten gaan.
+**Vereenvoudigde samenvatting:** Mensen in het dorp van Nafie Thiam zijn erg boos. Ze zeggen dat Nafie Thiam groter is dan de regio Wallonië, en dat ze aan haar kant staan. Er is een schandaal genaamd 'Nafigate' dat hen boos maakt.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **luchthaven** | een plaats waar vliegtuigen opstijgen en landen |
-| **financiële steun** | geld dat gegeven wordt om iemand of iets te helpen |
-| **besparingen** | het verminderen van uitgaven of kosten |
-| **partij** | een groep mensen die samenwerken in de politiek |
-| **subsidie** | financiële steun van de overheid aan een organisatie of project |
+| **boos** | een gevoel van ergernis of woede |
+| **groter** | van een grotere omvang of belang |
+| **kant** | een zijde of positie in een situatie |
+| **schandaal** | een openbare gebeurtenis die schokt of verontwaardiging veroorzaakt |
+| **kiezen** | een beslissing maken of een optie selecteren |
 
-### Vul in de lege plekken
-1. De luchthaven van Deurne heeft financiële steun nodig om ___ te blijven werken.
-2. Sommige politieke partijen vragen zich af of het verstandig is om ___ aan de luchthaven te geven.
-3. N-VA wil dat de steun gewoon ___.
+### Vul de lege plekken in
+1. De mensen in het dorp waren erg **boos** over de situatie.
+2. Nafie Thiam is veel **groter** dan de andere atleten.
+3. Ze kozen ervoor om aan haar **kant** te staan.
 
 #### Oplossingen
-1. blijven
-2. subsidies
-3. doorgaat
+1. boos
+2. groter
+3. kant
 
 ### Meerkeuzevragen
-1. Wat is een luchthaven?
-   a) Een treinstation
-   b) Een plaats waar vliegtuigen opstijgen en landen
-   c) Een busstation
-   d) Een snelweg
+1. Wat is de houding van de mensen in het dorp?
+   a) Blij
+   b) Neutraal
+   c) Boos
+   d) Verveeld
 
-2. Waarom heeft de luchthaven van Deurne financiële steun nodig?
-   a) Omdat het te veel winst maakt
-   b) Omdat het niet genoeg inkomsten heeft om de kosten te dekken
-   c) Omdat het een nieuwe luchthaven is
-   d) Omdat het te veel vliegtuigen heeft
+2. Wat wordt er bedoeld met 'Nafigate'?
+   a) Een feest
+   b) Een sportevenement
+   c) Een schandaal
+   d) Een nieuwe wet
 
-3. Wat is een synoniem voor "besparingen"?
-   a) Investeringen
-   b) Uitgaven
-   c) Besparingen (bezuinigingen)
-   d) Inkomsten
+3. Wat betekent 'kiezen' in deze context?
+   a) Spelletjes spelen
+   b) Een beslissing maken
+   c) Iemand negeren
+   d) Hard werken
 
 #### Antwoorden
-1. b
-2. b
-3. c
+1. c) Boos
+2. c) Een schandaal
+3. b) Een beslissing maken
 
 ### Waar / Niet Waar
-1. De luchthaven van Deurne heeft geen financiële steun nodig.
-2. Alle politieke partijen zijn het eens over de steun aan de luchthaven.
-3. N-VA wil de steun stopzetten.
+1. De mensen in het dorp zijn blij met de situatie. (Niet waar)
+2. 'Nafigate' is de naam van een lokaal feest. (Niet waar)
+3. Nafie Thiam is een atleet uit Wallonië. (Waar)
 
 #### Antwoorden
 1. Niet waar
 2. Niet waar
-3. Niet waar<｜begin▁of▁sentence｜>
+3. Waar<｜begin▁of▁sentence｜>

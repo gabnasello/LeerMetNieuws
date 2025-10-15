@@ -1,58 +1,55 @@
-# Pizza snijden met een schaar
+# Vereenvoudigde titel en samenvatting
 
-## Samenvatting
-In Italië snijden mensen pizza soms met een speciale schaar. Dat doen ze omdat het makkelijk is. Nu komt deze gewoonte ook naar ons land. "Ik knip de pizza altijd", zegt de beroemde kok Peppe Giacomazza.
+**Titel**: Advocaten zeggen dat cliënten geen aanslag wilden plegen op premier: “Meneer De Wever hoeft zich geen zorgen te maken”
+**Samenvatting**: Een advocaat zegt dat er bij zijn cliënt alleen maar zand, een leeg colablikje met suiker, en wat loden balletjes voor een speelgoedpistool gevonden zijn. Er is niks ernstigs gevonden. De cliënt is een 18-jarige man die verdacht wordt van een aanslag op premier Bart De Wever.
 
-## Woordenschatuitbreiding
+# Woordenschatuitbreiding
 
 ### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **pizza** | een plat brood met kaas en tomatensaus |
-| **schaar** | een ding met twee scherpe delen om iets te knippen |
-| **snijden** | in stukken delen met iets scherps |
-| **kok** | iemand die eten klaarmaakt |
-| **makkelijk** | niet moeilijk, eenvoudig |
+| **aanslag** | poging om iemand te doden of iets kapot te maken |
+| **advocaat** | iemand die voor je praat in de rechtbank |
+| **cliënt** | persoon die hulp vraagt aan een advocaat |
+| **verdacht** | waarvan men denkt dat je iets verkeerds gedaan hebt |
+| **premier** | de leider van de regering van een land |
 
 ### Vul-in-de-leegte
-1. In Italië snijden ze pizza soms met een ___.
-2. De kok zei: "Ik ___ de pizza altijd met een schaar."
-3. Het is ___ om pizza te knippen met een schaar.
-
+1. De advocaat zegt dat zijn cliënt ___ is van een misdaad.
+2. De politie vond alleen maar zand en een leeg blikje, maar geen ___.
+3. De premier heeft zich geen zorgen ___ maken over de situatie.
 #### Oplossingen
-1. schaar
-2. knip
-3. makkelijk
+1. verdacht
+2. wapen
+3. hoeft
 
 ### Meerkeuzevragen
-1. Wat gebruiken sommige mensen om pizza te snijden?
-   a) een mes
-   b) een schaar
-   c) een lepel
-   d) een vork
-2. Waar komt deze gewoonte vandaan?
-   a) Nederland
-   b) Italië
-   c) Frankrijk
-   d) Duitsland
-3. Wie is Peppe Giacomazza?
-   a) een leraar
-   b) een beroemde kok
-   c) een zanger
-   d) een dokter
-
+1. Wat is een "aanslag"?
+   a) een soort auto  
+   b) een poging om iemand te doden  
+   c) een soort feest  
+   d) een soort boek  
+2. Waarom is de advocaat belangrijk in dit verhaal?  
+   a) Hij rijdt de auto  
+   b) Hij kookt eten  
+   c) Hij verdedigt de persoon die verdacht wordt  
+   d) Hij speelt voetbal  
+3. Wat betekent "zich geen zorgen maken"?  
+   a) heel erg bang zijn  
+   b) niet ongerust zijn, het is oké  
+   c) heel hard schreeuwen  
+   d) heel veel eten  
 #### Antwoorden
 1. b
-2. b
+2. c
 3. b
 
 ### Waar / Niet Waar
-1. In Nederland snijden we pizza altijd met een schaar. (Niet waar)
-2. Peppe Giacomazza is een kok. (Waar)
-3. Het is moeilijk om een pizza te knippen. (Niet waar)
-
+1. De advocaat zegt dat zijn cliënt een aanslag wilde plegen. (Niet waar)
+2. De politie vond een echt wapen bij de man. (Niet waar)
+3. Premier De Wever is niet bang. (Waar)
 #### Antwoorden
 1. Niet waar
-2. Waar
-3. Niet waar<｜begin▁of▁sentence｜>
+2. Niet waar
+3. Waar

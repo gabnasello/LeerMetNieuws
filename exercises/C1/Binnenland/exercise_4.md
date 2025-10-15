@@ -1,59 +1,61 @@
-# Een pizza snijden, dat doe je toch gewoon met een schaar?
+# Titel
+Advocaten ontkennen dat hun cliënt een aanslag op de premier wilde plegen: “Meneer De Wever hoeft zich nergens zorgen over te maken”
 
-In Napels kijken ze er al lang niet meer van op, en nu vindt de pizzaschaar ook de weg van het zuiden naar hier. “Ik knip altijd”, zegt sterrenchef Peppe Giacomazza.
+## Samenvatting
+Bij een verdachte werd enkel zand, een leeg colablikje met suiker en loden bolletjes voor een speelgoedpistool gevonden. Volgens advocaat Johan Platteau was er geen bewijs dat zijn cliënt, de 18-jarige Abdulmajid E.J., een aanslag op premier Bart De Wever wilde plegen.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **pizzaschaar** | een schaar die speciaal gemaakt is om pizza mee te snijden |
-| **Napels** | een stad in Italië, bekend om zijn pizza |
-| **sterrenchef** | een chef-kok die bekend is en veel prijzen heeft gewonnen |
-| **knip** | knippen; iets in stukken delen met een schaar |
-| **vinden** | ontdekken; iets zien of tegenkomen |
+| **aanslag** | een (gepland) misdrijf of aanval |
+| **advocaat** | een persoon die anderen bijstaat in juridische zaken |
+| **ontkennen** | zeggen dat iets niet waar is of niet gebeurd is |
+| **verdacht** | iemand waarvan men denkt dat die iets verkeerds heeft gedaan |
+| **bewijs** | iets dat aantoont dat iets waar of gebeurd is |
 
 ### Vul-in-de-leegte
-1. In Napels gebruiken ze al lang een pizzaschaar om pizza te __snijden__.
-2. De chef-kok zegt: "Ik __knip__ altijd mijn pizza met een schaar."
-3. De pizzaschaar is nu ook __gevonden__ in onze regio, niet alleen in het zuiden.
+1. De advocaten ___ dat hun cliënt onschuldig is.
+2. Er is geen ___ dat de verdachte een aanslag wilde plegen.
+3. De politie vond zand, een leeg colablikje met suiker en loden bolletjes, maar geen echte ___.
 
 #### Oplossingen
-1. snijden
-2. knip
-3. gevonden
+1. beweren
+2. bewijs
+3. wapen
 
 ### Meerkeuzevragen
-1. Wat is een pizzaschaar?
-a) een mes om pizza mee te eten  
-b) een schaar om pizza mee te snijden  
-c) een oven om pizza in te bakken  
-d) een soort kaas om over pizza te doen  
-
-2. Waar is Napels vooral bekend om?  
-a) zijn schepen  
-b) zijn pizza  
-c) zijn wolkenkrabbers  
-d) zijn regenachtig klimaat  
-
-3. Wat betekent "knip" in deze context?  
-a) gooi  
-b) snij  
-c) bak  
-d) eet  
+1. Wat is een aanslag?
+   a) een soort dans
+   b) een gepland misdrijf of aanval
+   c) een soort fruit
+   d) een feestelijke gebeurtenis
+2. Wat betekent 'ontkennen'?
+   a) zeggen dat iets niet waar is
+   b) een cadeau geven
+   c) heel hard schreeuwen
+   d) iets nieuws beginnen
+3. Wat is een advocaat?
+   a) een soort auto
+   b) iemand die anderen helpt in juridische zaken
+   c) een persoon die graag kookt
+   d) een ijsjesverkoper
 
 #### Antwoorden
 1. b
-2. b
+2. a
 3. b
 
 ### Waar / Niet Waar
-1. De pizzaschaar werd alleen in Napels gebruikt.  
-2. Chef-kok Peppe Giacomazja zegt dat hij altijd een schaar gebruikt.  
-3. Pizzaschaar is een nieuw woord in dit artikel.  
+1. De advocaten zeggen dat hun cliënt onschuldig is.
+2. Er werd een echt wapen bij de verdachte gevonden.
+3. Abdulmajid E.J. is de advocaat van de verdachte.
 
 #### Antwoorden
-1. Niet Waar (het wordt ook in andere plaatsen gebruikt)
-2. Waar
-3. Waar<｜begin▁of▁sentence｜>
+1. Waar
+2. Niet Waar
+3. Niet Waar
+
+---<｜begin▁of▁sentence｜>

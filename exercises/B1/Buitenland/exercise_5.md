@@ -1,10 +1,10 @@
-# Eenvoudige titel en samenvatting
+# Eenvoudig Nederlands
 
-## Eenvoudige titel
-Israëlisch leger schiet op Palestijnse verdachten bij grens met Gaza
+## Titel
+Voormalig Keniaans premier Raila Odinga overleden op 80-jarige leeftijd
 
-## Eenvoudige samenvatting
-Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Dit artikel bespreekt de laatste ontwikkelingen.
+## Samenvatting
+Raila Odinga, een voormalig premier van Kenia, is overleden in India. Zijn familie heeft dit bevestigd. Hij werd 80 jaar oud.
 
 ## Woordenschatuitbreiding
 
@@ -12,41 +12,47 @@ Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onder
 
 | Woord | Definitie |
 |-------|-----------|
-| **oorlog** | een periode van gewapend conflict tussen landen of groepen |
-| **onderhandelingen** | gesprekken tussen partijen om tot een overeenkomst te komen |
-| **verdachten** | mensen waarvan wordt gedacht dat ze iets illegaals hebben gedaan |
-| **vredesproces** | de stappen en afspraken om vrede te bereiken |
-| **doorbraak** | een belangrijke en positieve verandering of oplossing na moeilijkheden |
+| **voormalig** | vroeger, niet meer |
+| **premier** | leider van de regering |
+| **overleden** | niet meer levend, gestorven |
+| **familie** | mensen die bij je horen, zoals ouders en kinderen |
+| **leeftijd** | hoe oud iemand is |
 
 ### Vul-in-de-leegte
-1. Na twee jaar oorlog lijkt er eindelijk een ___ in de vredesonderhandelingen.
-2. De Israëlische soldaten schoten op de Palestijnse ___ die verdacht werden van betrokkenheid bij de aanvallen.
-3. De recente ontwikkelingen geven hoop dat er een ___ komt in het vredesproces.
-
+1. Raila Odinga was de ___ van Kenia.
+2. Hij is overleden in ___.
+3. Zijn ___ heeft het nieuws bevestigd.
 #### Oplossingen
-1. doorbraak
-2. verdachten
-3. doorbraak
+1. premier
+2. India
+3. familie
 
 ### Meerkeuzevragen
-1. Wat is de hoofdstad van Israël?
-   a. Jeruzalem  b. Tel Aviv  c. Haifa  d. Beersheba
-2. Wat betekent 'onderhandelingen' in deze context?
-   a. Gevecht  b. Onderhandeling  c. Oorlog  d. Vriendschap
-3. Wat is de Gaza-strook?
-   a. Een groot woestijngebied  b. Een dichtbevolkt kustgebied  c. Een bergachtig gebied  d. Een rivierdelta
-
+1. Wat was Raila Odinga?
+   a) een acteur  
+   b) een premier  
+   c) een dokter  
+   d) een leraar  
+2. Waar is hij overleden?
+   a) in Kenia  
+   b) in India  
+   c) in Amerika  
+   d) in China  
+3. Hoe oud werd hij?
+   a) 60 jaar  
+   b) 70 jaar  
+   c) 80 jaar  
+   d) 90 jaar  
 #### Antwoorden
-1. a
-2. b
-3. b
+1. b) een premier
+2. b) in India
+3. c) 80 jaar
 
 ### Waar / Niet Waar
-1. Het artikel beschrijft een volledig vredesakkoord tussen Israël en Palestina.
-2. De 'gele lijn' in de titel verwijst naar een echte fysieke lijn op de grond.
-3. De situatie in Gaza is na twee jaar nog steeds zeer gespannen.
-
+1. Raila Odinga was de premier van Kenia. (Waar)
+2. Hij overleed in Kenia. (Niet waar)
+3. Hij werd 90 jaar oud. (Niet waar)
 #### Antwoorden
-1. Niet Waar
-2. Niet Waar
-3. Waar<｜begin▁of▁sentence｜>
+1. Waar
+2. Niet waar
+3. Niet waar<｜begin▁of▁sentence｜>

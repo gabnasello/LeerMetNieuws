@@ -1,64 +1,61 @@
-# Titel
-
-De dader op de foto van een massa-executie tijdens de Holocaust is eindelijk ontmaskerd: hij was leraar Frans, Engels en gym.
+# Vereenvoudigd naar Nederlands C1
+## Titel
+Trump niet blij met cover van 'Time Magazine': “Ze hebben mijn haar doen verdwijnen”
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/l0z2sy-gettyimages-461733515.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-461733515.jpg)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/dader-op-foto-massa-executie-holocaust-eindelijk-achterhaald-hij-was-leraar-frans-engels-en-gymnastiek/97293860.html)
-
-Meer dan zestig jaar nadat de bekende foto 'De laatste Jood van Vinnytsja' voor het eerst werd gepubliceerd, heeft een Duitse historicus de identiteit van de SS'er ontdekt die in 1941 de trekker overhaalde.
+De tweede ambtstermijn van Donald Trump als president van de VS brengt wereldwijd veranderingen teweeg. Volg hier alle updates.
 
 ## Woordenschatuitbreiding
 
-### Woordenschatlijst
-
-| Woord | Definitie |
-|-------|-----------|
-| **dader** | de persoon die iets (meestal iets slechts) doet |
-| **ontmaskeren** | iemands ware identiteit of ware aard bekendmaken |
-| **executie** | het officieel doden van iemand als straf |
-| **historisch** | gerelateerd aan geschiedenis |
-| **identificeren** | iemands identiteit ontdekken of bevestigen |
+### Woordenlijst
+| Woorden | Definitie |
+|---|---|
+| **tweede** | opnieuw of nog een keer; hier: tweede keer dat iemand president is |
+| **president** | het staatshoofd van een republiek; iemand die de leiding heeft |
+| **wereldwijd** | over de hele wereld; overal ter wereld |
+| **veranderingen** | aanpassingen of wijzigingen in de situatie |
+| **amper** | nauwelijks; bijna niet |
 
 ### Vul-in-de-leegte
-1. De historici konden de dader van de misdaad niet __identificeren__ omdat er geen bewijs was.  
-2. De oude foto toonde een __executie__ tijdens de oorlog.  
-3. Na jaren van onderzoek is de ware identiteit van de crimineel eindelijk __ontmaskerd__.  
+1. Donald Trump is de ________ van de Verenigde Staten.
+2. Zijn tweede ambtstermijn brengt ________ veranderingen teweeg.
+3. Het artikel is ________ te lezen vanwege de eenvoudige taal.
 
 #### Oplossingen
-1. identificeren  
-2. executie  
-3. ontmaskerd  
+1. president
+2. wereldwijd
+3. amper
 
 ### Meerkeuzevragen
-1. Wat is een synoniem voor "ontmaskeren"?  
-   a) verbergen  
-   b) onthullen  
-   c) negeren  
-   d) accepteren  
-2. Wat betekent "historisch" in deze context?  
-   a) modern  
-   b) hedendaags  
-   c) uit het verleden  
-   d) toekomstig  
-3. Wat is een "executie"?  
-   a) een feest  
-   b) een sportevenement  
-   c) een officiële doodstraf  
-   d) een feestmaal  
+1. Wat is de hoofdgedachte van de tekst?
+   a) Trump verandert zijn kapsel
+   b) Trumps tweede termijn heeft wereldwijde gevolgen
+   c) Time Magazine heeft een slechte fotograaf
+   d) Trump is ontevreden over zijn salaris
+
+2. Waar gaat de samenvatting over?
+   a) Een nieuwe kapsel voor Trump
+   b) De eerste ambtstermijn van Trump
+   c) Wereldwijde veranderingen door Trumps beleid
+   d) De cover van Time Magazine
+
+3. Hoe reageert Trump op de cover?
+   a) Hij is er blij mee
+   b) Hij wil een nieuwe fotograaf
+   c) Hij vindt dat zijn haar er niet goed uitziet
+   d) Hij kondigt verkiezingen aan
 
 #### Antwoorden
-1. b) onthullen  
-2. c) uit het verleden  
-3. c) een officiële doodstraf  
+1. b) Trumps tweede termijn heeft wereldwijd gevolgen
+2. c) Wereldwijde veranderingen door Trumps beleid
+3. c) Hij vindt dat zijn haar er niet goed uitziet
 
 ### Waar / Niet Waar
-1. De dader op de foto is geïdentificeerd als een leraar.  
-2. De foto toont een executie tijdens de Holocaust.  
-3. De historicus is de persoon die de executie uitvoerde.  
+1. De auteur van het artikel is bekend.
+2. Trump heeft alleen maar binnenlandse invloed.
+3. De foto op de cover is naar Trumps zin.
 
 #### Antwoorden
-1. Waar  
-2. Waar  
+1. Niet waar
+2. Niet waar
 3. Niet waar<｜begin▁of▁sentence｜>

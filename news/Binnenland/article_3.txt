@@ -1,15 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-10-14 15:21 UCT
+Nieuwsupdate: 2025-10-15 15:18 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Youssef uit ‘Kamp Waes’ veroordeeld voor seksueel getinte berichten aan leerlinge
-Link: https://www.standaard.be/binnenland/youssef-uit-kamp-waes-veroordeeld-voor-seksueel-getinte-berichten-aan-leerlinge/97341781.html
-Datum: Tue, 14 Oct 2025 10:53:24 GMT
-Samenvatting: Youssef Challouki, bekend als deelnemer aan het tv-programma Kamp Waes, is veroordeeld tot een jaar cel met probatie-uitstel voor het versturen van seksueel getinte berichten naar een van zijn leerlingen.
+Titel: Verharding van Vlaanderen op recordsnelheid: elke dag verdwijnt 14 hectare onder asfalt en beton
+Link: https://www.standaard.be/binnenland/verharding-van-vlaanderen-op-recordsnelheid-elke-dag-verdwijnt-14-hectare-onder-asfalt-en-beton/97565539.html
+Datum: Wed, 15 Oct 2025 11:40:00 GMT
+Samenvatting: We blijven in Vlaanderen massaal verharden. Volgens de nieuwste cijfers verdween in 2023 14,4 hectare per dag onder verharding. Het is het hoogste cijfer van de afgelopen tien jaar.
 Auteur: Geen auteur
 Categorie: Binnenland
-Afbeelding: https://prod-img.gva.be/public/incoming/vcfhkw-job-1060294-rechtszaak-kamp-waes-deelnemer-youssef-challouki/alternates/BASE_SIXTEEN_NINE/Job%201060294%20Rechtszaak%20Kamp%20Waes-deelnemer%20Youssef%20Challouki
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/ye9tbt-reportage-over-de-opbouw-van-studentenkoten-in-gent-hier-stropkaai-foto-jimmy-kets/alternates/BASE_SIXTEEN_NINE/Reportage%20over%20de%20opbouw%20van%20studentenkoten%20in%20Gent%20Hier%20Stropkaai%20Foto%20Jimmy%20Kets
+Premium: true
 ------------------------------------------------------------

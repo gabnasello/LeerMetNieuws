@@ -1,55 +1,58 @@
-# Wat deed FIFA-baas Gianni Infantino op de Gaza-top in Sharm-el-Sheikh?
-
-## Samenvatting
-FIFA-voorzitter Gianni Infantino was maandag in Egypte. Hij was daar om samen te werken met Donald Trump. Dit is niet de eerste keer dat hij met wereldleiders optrekt. De voetbalbaas probeert goede banden te houden met leiders over de hele wereld, van het Midden-Oosten tot in Washington.
+# Oefeningen
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordenschatlijst
 
-| Woord | Definitie |
-|-------|-----------|
-| **FIFA** | Wereldvoetbalbond, de organisatie die wereldwijd voetbal regelt |
-| **voorzitter** | Leider, iemand die de leiding heeft |
-| **wereldleiders** | Belangrijke personen die landen of grote organisaties besturen |
-| **samenwerken** | Samen iets doen, elkaar helpen |
-| **banden** | Relaties, contacten tussen mensen of organisaties |
+| Woord | Betekenis |
+|-------|----------|
+| **investeren** | geld of tijd gebruiken om iets te verbeteren of te maken |
+| **wapens** | voorwerpen zoals geweren of bommen die in een oorlog worden gebruikt |
+| **Oekraïne** | een land in Europa waar nu oorlog is |
+| **minister** | iemand die een belangrijk deel van de regering leidt, zoals de minister van onderwijs |
+| **bondgenoten** | landen of groepen die samenwerken en elkaar helpen |
 
-### Vul-in-de-leegte
-1. Gianni Infantino is de ___ van FIFA.
-2. Hij werkt graag samen met belangrijke ___ zoals Donald Trump.
-3. Door goede ___ te onderhouden, blijft hij invloedrijk.
+### Vul de lege plekken in
+
+1. Nederland moet meer ___ in onderwijs, zodat kinderen betere scholen krijgen.
+2. Veel landen zijn ___ van Oekraïne in de oorlog.
+3. De minister van defensie zorgt voor de ___ van het land.
+
 #### Oplossingen
-1. voorzitter
-2. wereldleiders
-3. banden
+1. investeren
+2. bondgenoten
+3. wapens
 
-### Meerkeuzevragen
-1. Waar komt Gianni Infantino vandaan?
-   a) Egypte
-   b) Zwitserland
-   c) Verenigde Staten
-   d) Italië
-2. Wat is de hoofdstad van Egypte?
-   a) Sharm-el-Sheikh
-   b) Caïro
-   c) Washington
-   d) Gaza
-3. Wat is FIFA?
-   a) Een land
-   b) Een voetbalclub
-   c) Een internationale sportorganisatie
-   d) Een stad
-#### Antwoorden
-1. d) Italië
-2. b) Caïro
-3. c) Een internationale sportorganisatie
+### Kies het juiste antwoord
 
-### Waar / Niet Waar
-1. Gianni Infantino is de president van de Verenigde Staten. (Niet waar)
-2. Sharm-el-Sheikh is een stad in Egypte. (Waar)
-3. FIFA organiseert alleen voetbalwedstrijden in Europa. (Niet waar)
+1. Wat doet een minister?  
+   a) koken  
+   b) een land of gebied besturen  
+   c) zingen  
+   d) slapen  
+2. Waarom zijn bondgenoten belangrijk?  
+   a) Ze maken muziek.  
+   b) Ze helpen elkaar in moeilijke tijden.  
+   c) Ze dansen samen.  
+   d) Ze eten samen.  
+3. Waar is Oekraïne?  
+   a) op de maan  
+   b) in Europa  
+   c) in de oceaan  
+   d) in een boek  
+
 #### Antwoorden
-1. Niet waar
+1. b
+2. b
+3. b
+
+### Waar of Niet Waar
+
+1. Oekraïne is een land in Azië.  
+2. Bondgenoten werken samen.  
+3. Investeren betekent iets kapotmaken.
+
+#### Antwoorden
+1. Niet Waar
 2. Waar
-3. Niet waar<｜begin▁of▁sentence｜>
+3. Niet Waar<｜begin▁of▁sentence｜>

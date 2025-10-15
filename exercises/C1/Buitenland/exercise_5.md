@@ -1,51 +1,45 @@
-# Israëlisch leger schiet op Palestijnse verdachten aan ‘gele lijn’ met Gaza
+# Overlijden van voormalig Keniaans premier Raila Odinga
 
-Israëlisch leger schiet op Palestijnse verdachten bij 'gele lijn' met Gaza
-
-## Samenvatting  
-Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen.
+## Samenvatting
+Raila Odinga, de voormalige premier van Kenia en meermaals presidentskandidaat, is overleden in India. Zijn familie heeft dit bevestigd. Hij werd 80 jaar oud.
 
 ## Woordenschatuitbreiding
 
-### Woordenschat Lijst
-
+### Woordenschat
 | Woord | Definitie |
 |-------|-----------|
-| **verdachten** | personen waarvan wordt gedacht dat ze iets verkeerds hebben gedaan, maar waar het nog niet is bewezen |
-| **onderhandelingen** | gesprekken tussen twee of meer partijen om tot een overeenkomst te komen |
-| **doorbraak** | een belangrijke positieve ontwikkeling of oplossing na een moeilijke periode |
-| **vredesbesprekingen** | gesprekken tussen groepen of landen om vrede te bereiken |
-| **militair** | alles wat te maken heeft met het leger en oorlogvoering |
+| **voormalig** | vroeger, van vroeger |
+| **premier** | regeringsleider, eerste minister |
+| **kandidaat** | iemand die mee doet aan verkiezingen |
+| **overleden** | gestorven, niet meer levend |
+| **familie** | groep mensen die bij elkaar horen en vaak samenwonen, zoals ouders en kinderen |
 
 ### Vul-in-de-leegte
-1. De politie heeft drie ___ aangehouden voor het incident.
-2. Na lange ___ zijn de partijen tot een akkoord gekomen.
-3. De nieuwe technologie betekende een ___ in de behandeling van de ziekte.
-
+1. Raila Odinga was een ___ voor het presidentschap van Kenia.
+2. Zijn familie heeft het overlijden van Raila Odinga ___.
+3. Raila Odinga overleed op 80-jarige ___.
 #### Oplossingen
-1. verdachten  
-2. onderhandelingen  
-3. doorbraak
+1. kandidaat
+2. bevestigd
+3. leeftijd
 
 ### Meerkeuzevragen
-1. Wat is de hoofdstad van Nederland?  
-   a) Brussel  b) Parijs  c) Amsterdam  d) Londen  
-2. Welk dier staat bekend als de koning der dieren?  
-   a) Leeuw  b) Tijger  c) Beer  d) Wolf  
-3. Wat betekent "onderhandelingen"?  
-   a) een sportevenement  b) een onderhandelingsproces  c) een soort maaltijd  d) een weersomstandigheid  
-
+1. Waar overleed Raila Odinga?
+   a) Kenia b) India c) Nederland d) België
+2. Hoe oud werd Raila Odinga?
+   a) 60 jaar b) 70 jaar c) 80 jaar d) 90 jaar
+3. Wat bevestigde de familie van Raila Odinga?
+   a) zijn geboorte b) zijn overlijden c) zijn verkiezing d) zijn leeftijd
 #### Antwoorden
-1. c) Amsterdam  
-2. a) Leeuw  
-3. b) een onderhandelingsproces
+1. b
+2. c
+3. b
 
 ### Waar / Niet Waar
-1. Parijs is de hoofdstad van Duitsland.  
-2. De aarde draait om de zon.  
-3. "Verdachten" zijn mensen die reeds zijn veroordeeld voor een misdrijf.
-
+1. Raila Odinga was de huidige premier van Kenia.
+2. Raila Odinga overleed in Kenia.
+3. Raila Odinga werd 80 jaar oud.
 #### Antwoorden
-1. Niet waar  
-2. Waar  
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Niet Waar
+2. Niet Waar
+3. Waar<｜begin▁of▁sentence｜>

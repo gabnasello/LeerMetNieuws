@@ -1,62 +1,57 @@
-Natuurlijk! Hier is de les:
+# Vereenvoudigd Nederlands: Verkiezingen en Le Pen
 
-# Twee VN-konvooien met humanitaire hulp beschadigd door Russische droneaanval
-
-Twee VN-konvooien met hulp beschadigd door droneaanval
-
-## Samenvatting
-Er is een nieuwe ontwikkeling in de oorlog in Oekraïne. Twee konvooien van de Verenigde Naties (VN) met humanitaire hulp zijn beschadigd door een droneaanval van Rusland. Je kunt deze gebeurtenis en andere updates volgen via de DS Nieuws app.
+De Raad van State in Frankrijk heeft de aanvraag van Marine Le Pen om mee te doen aan de verkiezingen afgewezen. Daarom is zij voorlopig niet verkiesbaar.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordenschat Lijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **ontwikkeling** | iets dat nieuw gebeurt of verandert; een nieuwe situatie of gebeurtenis |
-| **humanitair** | iets dat te maken heeft met hulp aan mensen, vooral in nood |
-| **drone** | een onbemand vliegtuigje dat op afstand wordt bestuurd, vaak gebruikt voor aanvallen |
-| **aanval** | een actie waarbij iemand probeert schade toe te brengen, bijvoorbeeld door te schieten of te bombarderen |
-| **oorlog** | een periode van gewapend conflict tussen landen of groepen |
+| **verzoek** | een verzoek; iets wat je vraagt |
+| **verkiezingen** | een verkiezing; een stemming om nieuwe leiders te kiezen |
+| **onverkiesbaar** | niet gekozen kunnen worden |
+| **afgewezen** | niet geaccepteerd; geweigerd |
+| **deel te nemen** | mee te doen; te participeren |
 
 ### Vul-in-de-leegte
-1. De drone werd gebruikt voor een ___ op het konvooi.
-2. De VN stuurt humanitaire hulp naar gebieden in ___.
-3. Na de aanval was er veel ___ in de stad.
+1. Marine Le Pen heeft een ___ ingediend om mee te doen aan de verkiezingen.
+2. De Raad van State heeft dit verzoek ___.
+3. Hierdoor is ze voorlopig ___.
 
 #### Oplossingen
-1. aanval
-2. nood
-3. schade
+1. verzoek
+2. afgewezen
+3. onverkiesbaar
 
 ### Meerkeuzevragen
-1. Waarom worden drones gebruikt in oorlogen?
-   a) Om voedsel te leveren
-   b) Om gebieden te verkennen en aanvallen uit te voeren
-   c) Om feesten te vieren
-   d) Om vrede te onderhandelen
-2. Wat is humanitaire hulp?
-   a) Hulp om mensen te vermoorden
-   b) Hulp om mensen in nood te ondersteunen, bijvoorbeeld met voedsel of medicijnen
-   c) Hulp om gebouwen te vernietigen
-   d) Hulp om feesten te organiseren
-3. Wat is het doel van de Verenigde Naties (VN)?
-   a) Om oorlogen te beginnen
-   b) Om de wereld te vernietigen
-   c) Om internationale vrede en veiligheid te bevorderen, en humanitaire hulp te bieden
-   d) Om alleen rijke landen te helpen
+1. Wat is de rol van de Raad van State in Frankrijk?
+   a) Het organiseren van verkiezingen
+   b) Het adviseren van de regering over juridische zaken
+   c) Het goedkeuren van alle politieke kandidaten
+   d) Het beheren van de nationale begroting
+2. Waarom is Marine Le Pen onverkiesbaar?
+   a) Omdat ze niet van Franse afkomst is
+   b) Omdat haar verzoek werd afgewezen
+   c) Omdat ze te jong is
+   d) Omdat ze geen politicus is
+3. Wat betekent 'onverkiesbaar' in deze context?
+   a) Niet in staat om verkozen te worden
+   b) Niet langer populair
+   c) Niet beschikbaar voor verkiezingen
+   d) Geen van de bovenstaande
 
 #### Antwoorden
 1. b
 2. b
-3. c
+3. a
 
 ### Waar / Niet Waar
-1. De VN stuurt nooit humanitaire hulp.
-2. Een drone kan gebruikt worden voor een aanval.
-3. Oorlog heeft alleen negatieve gevolgen.
+1. De Raad van State heeft het verzoek van Marine Le Pen goedgekeurd.
+2. Marine Le Pen kan nu deelnemen aan de verkiezingen.
+3. De uitslag is definitief en onveranderlijk.
 
 #### Antwoorden
 1. Niet waar
-2. Waar
-3. Waar<｜begin▁of▁sentence｜>
+2. Niet waar
+3. Niet waar<｜begin▁of▁sentence｜>

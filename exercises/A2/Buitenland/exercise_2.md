@@ -1,12 +1,7 @@
-# Madagaskar Parlement stemt om president af te zetten, maar militaire eenheid zegt nu het land te controleren
+# Wat deed Fifa-baas Gianni Infantino op de Gaza-top in Egypte?
 
-## Titels en samenvattingen in eenvoudig Nederlands
-
-**Originele titel:** Parlement Madagaskar stemt voor afzetting president, elitesoldaten zeggen het land nu te controleren  
-**Vereenvoudigde titel:** Het parlement van Madagaskar stemt om de president af te zetten. Maar een groep soldaten zegt dat zij het land nu besturen.
-
-**Originele samenvatting:** Het Lagerhuis van het parlement van Madagaskar heeft gestemd voor de afzetting van president Andry Rajoelina. Terwijl die vanuit het buitenland probeert vast te houden aan zijn macht, heeft de Capsat-eenheid aangekondigd de controle over het land te hebben overgenomen.  
-**Vereenvoudigde samenvatting:** Het parlement van Madagaskar wil president Rajoelina afzetten. Maar de president weigert te vertrekken. Ondertussen zegt een groep soldaten, de "Capsat", dat zij nu het land besturen.
+**Titel en samenvatting in eenvoudig Nederlands**
+De Fifa-baas Gianni Infantino was in Egypte. Hij was er voor een bijeenkomst over de toekomst van Gaza. Waarom was hij daar? Omdat voetbal mensen samenbrengt.
 
 ## Woordenschatuitbreiding
 
@@ -14,50 +9,40 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **afzetten** | verwijderen uit de macht, stoppen als leider |
-| **besturen** | leiden, de leiding hebben over |
-| **soldaten** | mensen in het leger, die vechten voor een land |
-| **parlement** | een groep mensen die wetten maakt voor een land |
-| **president** | de leider van een land |
+| **Fifa** | de internationale voetbalorganisatie |
+| **baas** | de belangrijkste leider of chef |
+| **bijeenkomst** | een meeting of vergadering waar mensen samenkomen |
+| **toekomst** | de tijd die nog komt |
+| **samenbrengen** | mensen bij elkaar brengen, verenigen |
 
 ### Vul-in-de-leegte
-1. Het parlement wil de president ___ (afzetten).
-2. De president probeert aan de macht te blijven, maar de soldaten zeggen dat zij het land nu ___ (besturen).
-3. Er is onrust in Madagaskar omdat verschillende groepen zeggen dat ze de leiding hebben over het ___ (land).
-
+1. Gianni Infantino is de baas van ___.
+2. Hij ging naar een ___ in Egypte.
+3. De bijeenkomst ging over de ___ van Gaza.
 #### Oplossingen
-1. afzetten
-2. besturen
-3. land
+1. Fifa
+2. bijeenkomst
+3. toekomst
 
 ### Meerkeuzevragen
-1. Wat is het parlement?
-   a) een soort auto
-   b) een groep die wetten maakt
-   c) een type dier
-   d) een sportteam
-2. Waarom is er onrust in Madagaskar?
-   a) Omdat iedereen op vakantie wil.
-   b) Omdat verschillende groepen zeggen dat ze de leiding hebben.
-   c) Omdat er een groot feest is.
-   d) Omdat er een nieuwe film uitkomt.
-3. Wat betekent "afzetten" in deze context?
-   a) iemand een cadeau geven
-   b) iemand helpen met sporten
-   c) iemand uit de macht halen
-   d) iemand naar huis sturen
-
+1. Waar ging Gianni Infantino heen?  
+a) Nederland b) Egypte c) België d) Zwitserland  
+2. Waarom was hij daar?  
+a) Om te voetballen b) Omdat voetbal mensen samenbrengt  
+c) Voor een vakantie d) Geen idee  
+3. Wat bespraken ze in Egypte?  
+a) De Fifa-beker b) De toekomst van Gaza  
+c) Een voetbalwedstrijd d) Een nieuwe sport  
 #### Antwoorden
 1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. De president van Madagaskar is al afgezet. (Niet waar - het parlement heeft alleen gestemd om hem af te zetten, maar het is nog niet gebeurd)
-2. De Capsat-eenheid is een groep soldaten die zegt dat zij nu het land besturen. (Waar)
-3. Alle partijen zijn het eens over wie de leiding heeft over Madagaskar. (Niet waar - er is onrust omdat verschillende groepen zeggen dat zij de leiding hebben)
-
+1. Gianni Infantino is de baas van Fifa.  
+2. De bijeenkomst was in Nederland.  
+3. De bijeenkomst ging over de toekomst van Gaza.  
 #### Antwoorden
-1. Niet waar
-2. Waar
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Waar
+2. Niet waar
+3. Waar<｜begin▁of▁sentence｜>

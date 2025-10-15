@@ -1,6 +1,6 @@
-# Vereenvoudigde titel en samenvatting
-**Titel:** De rechtbank in Gent stuurt Martina Johnson naar de jury voor oorlogsmisdaden in Liberia.  
-**Samenvatting:** Martina Johnson is verdacht van oorlogsmisdaden in Liberia. De rechtbank in Gent heeft besloten dat ze moet worden berecht door een jury.
+# Betonstop: zinvol of niet?
+
+De Vlaamse overheid wil stoppen met het verharden van de open ruimte. Maar professor Tom Coppens vraagt zich af of dit plan wel haalbaar is. Minister Jo Brouns wil namelijk de regels voor bouwvergunningen versoepelen. Volgens professor Coppens heeft het geen zin om te stoppen met verharden als er ondertussen meer beton wordt gegoten.
 
 ## Woordenschatuitbreiding
 
@@ -8,52 +8,47 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **rechtbank** | plaats waar rechters beslissen over de wet |
-| **verdacht** | iemand waarvan wordt gedacht dat hij of zij iets fouts heeft gedaan |
-| **oorlogsmisdaden** | ernstige misdaden begaan tijdens een oorlog |
-| **beslissen** | een besluit nemen na overweging |
-| **bereiden** | klaarmaken of voorbereiden voor iets |
+| **verharden** | hard maken, bijvoorbeeld door beton te gieten |
+| **vergunning** | officiële toestemming om iets te doen |
+| **onthutsend** | verbazingwekkend, heel verrassend |
+| **haalbear** | mogelijk om te doen, uitvoerbaar |
+| **beton** | een sterk, hard materiaal voor bouwwerken |
 
-### Vul-in-de-leegte
-1. De rechtbank in Gent heeft ____ om Martina Johnson naar de jury te sturen.
-2. Martina Johnson is ____ van het plegen van oorlogsmisdaden in Liberia.
-3. Het assisenhof zal ____ over de beschuldigingen tegen Johnson.
-
+### Vul de lege plekken in
+1. De nieuwe regels zijn nog niet ___ (haalbare / haalbaar), volgens de experts.
+2. Het is ___ (onthutsend / onthutsend) hoeveel beton er wordt gebruikt.
+3. De minister wil de procedure voor een nieuwe ___ (vergunning / verharding) versnellen.
 #### Oplossingen
-1. beslist
-2. verdacht
-3. oordelen
+1. haalbaar
+2. onthutsend
+3. vergunning
 
 ### Meerkeuzevragen
-1. Wat is de rol van de rechtbank in deze zaak?  
-a) Verdedigen van de verdachte  
-b) Beslissen of de verdachte naar de jury gaat  
-c) Vrijspreken van de verdachte  
-d) Alleen de taal van de zaak behandelen  
-
-2. Waar werd Martina Johnson verdacht van?  
-a) Diefstal  
-b) Oorlogsmisdaden  
-c) Belastingfraude  
-d) Vervalsing  
-
-3. Wat is een assisenproces?  
-a) Een proces bij de lagere rechtbank  
-b) Een proces bij het hooggerechtshof  
-c) Een proces waarbij een jury beslissingen neemt  
-d) Een proces zonder jury, alleen een rechter  
-
+1. Wat betekent 'verharden' in deze context?
+   a) zachter maken  
+   b) harder maken  
+   c) verwijderen  
+   d) veranderen  
+2. Wat is 'onthutsend'?
+   a) heel gewoon  
+   b) heel bijzonder  
+   c) heel saai  
+   d) heel verbazingwekkend  
+3. Wat is een synoniem voor 'haalbare'?
+   a) onmogelijke  
+   b) uitvoerbare  
+   c) dure  
+   d) moeilijke  
 #### Antwoorden
-1. b) Beslissen of de verdachte naar de jury gaat  
-2. b) Oorlogsmisdaden  
-3. c) Een proces waarbij een jury beslissingen neemt  
+1. b
+2. d
+3. b
 
 ### Waar / Niet Waar
-1. De rechtbank in Gent heeft Martina Johnson volledig vrijgesproken.  
-2. Martina Johnson is beschuldigd van oorlogsmisdaden begaan tijdens de burgeroorlog in Liberia.  
-3. Het assisenhof is de hoogste rechterlijke instantie in België.  
-
+1. Professor Coppens is tegen het beleid van de overheid. (Waar / Niet waar)
+2. De auteur van het artikel is tegen het beleid van de overheid. (Waar / Niet waar)
+3. De titel is een citaat van professor Coppens. (Waar / Niet waar)
 #### Antwoorden
-1. Niet waar  
-2. Waar  
-3. Niet waar (Het is het Hof van Cassatie)<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Niet waar
+3. Waar

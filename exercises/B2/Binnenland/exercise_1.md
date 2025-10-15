@@ -1,10 +1,13 @@
-# Vereenvoudigde oefeningen: Oorlogsmisdaden in Liberia
+# Herbouwen
 
-## Titel
-Raadkamer leidt Martina Johnson richting assisen voor oorlogsmisdaden in Liberia
+[Titel vereenvoudigd: Professor over bouwen: "Waarom stoppen met beton als we doorgaan?"]
 
 ## Samenvatting
-Martina Johnson wordt verdacht van oorlogsmisdaden tijdens de burgeroorlog in Liberia in de jaren 90. De rechtbank in Gent heeft besloten dat ze terecht moet staan voor de assisenzaal.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/x9ql2m-4bfe0230-f8cb-11ea-a8a1-534ce6854a1c.jpg/alternates/BASE_SIXTEEN_NINE/4bfe0230-f8cb-11ea-a8a1-534ce6854a1c.jpg)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/professor-ruimtelijke-ordening-tom-coppens-over-onthutsende-cijfers-ontharden-heeft-weinig-zin-als-de-betonkraan-blijft-openstaan/97689369.html)
+
+Professor Tom Coppens vraagt zich af of de Vlaamse bouwplannen wel kunnen werken. "Waarom stoppen met asfalt en beton als de regels juist makkelijker worden?" zegt hij over minister Brouns.
 
 ## Woordenschatuitbreiding
 
@@ -12,50 +15,47 @@ Martina Johnson wordt verdacht van oorlogsmisdaden tijdens de burgeroorlog in Li
 
 | Woord | Definitie |
 |-------|-----------|
-| **oorlogsmisdaden** | Misdaad die gebeurt tijdens een oorlog. |
-| **verdacht** | Waarschijnlijk schuldig, maar nog niet bewezen. |
-| **rechtbank** | De plek waar rechters beslissen of iemand schuldig is. |
-| **terechtstaan** | Voor de rechter komen om je te verdedigen. |
-| **beslissen** | Een besluit nemen, iets bepalen. |
+| **bouwen** | iets maken, zoals een huis of een weg |
+| **betalen** | geld geven voor iets |
+| **plan** | een idee over wat je gaat doen |
+| **maken** | iets creëren of produceren |
+| **vragen** | iets willen weten |
 
 ### Vul-in-de-leegte
-1. Martina Johnson wordt ______ van oorlogsmisdaden.
-2. De rechtbank in Gent heeft ______ dat Martina terecht moet staan.
-3. Martina moet voor de rechter ______ omdat ze verdacht wordt van oorlogsmisdaden.
-
+1. We moeten ___ of we kunnen doorgaan met bouwen.
+2. Het is belangrijk om te ___ voordat je een groot project start.
+3. De minister wil de regels ___, maar professor Coppens vraagt zich af of dat slim is.
 #### Oplossingen
-1. verdacht
-2. beslist
-3. komen
+1. beslissen
+2. overleggen
+3. veranderen
 
 ### Meerkeuzevragen
-1. Wat is een oorlogsmisdaad?
-   a) Een feest in oorlogstijd
-   b) Een misdrijf begaan tijdens een oorlog
-   c) Een sportevenement
-   d) Een nieuwe dans
-2. Wat doet een rechtbank?
-   a) Kooklessen geven
-   b) Beslissen of iemand schuldig is
-   c) Auto's verkopen
-   d) Muziek maken
-3. Wat betekent 'beslissen'?
-   a) Een taart bakken
-   b) Een besluit nemen, iets bepalen
-   c) Naar de dierentuin gaan
-   d) Een boek lezen
-
+1. Wat betekent "ontharden" in deze context?
+   a) stoppen met bouwen
+   b) meer bomen planten
+   c) stoppen met het gebruik van beton en asfalt
+   d) een feest vieren
+2. Waarom maakt professor Coppens zich zorgen?
+   a) Omdat er te weinig huizen zijn.
+   b) Omdat de regels te streng worden.
+   c) Omdat de plannen niet werken als de regels veranderen.
+   d) Omdat hij een nieuwe baan wil.
+3. Wat is de hoofdgedachte van het artikel?
+   a) Bouwen is altijd goed.
+   b) Soms moet je stoppen en nadenken.
+   c] Nieuwe regels zijn altijd beter.
+   d] Meer asfalt is de oplossing.
 #### Antwoorden
-1. b
-2. b
+1. c
+2. c
 3. b
 
 ### Waar / Niet Waar
-1. Martina Johnson wordt verdacht van oorlogsmisdaden.
-2. De rechtbank in Gent heeft beslist dat Martina niet terecht hoeft te staan.
-3. Martina Johnson is een bekende zangeres.
-
+1. Professor Coppens is het eens met de nieuwe regels.
+2. Het artikel zegt dat het makkelijker maken van vergunningen goed is voor de bouw.
+3. De professor stelt vragen bij de bouwplannen.
 #### Antwoorden
-1. Waar
-2. Niet waar
-3. Niet waar
+1. Niet Waar
+2. Niet Waar
+3. Waar

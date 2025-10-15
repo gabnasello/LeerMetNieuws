@@ -1,13 +1,6 @@
-# Oorlogsmisdadiger eindelijk bekend
-
-[Vereenvoudigde titel: Oorlogsmisdadiger eindelijk bekend]
-
-## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/l0z2sy-gettyimages-461733515.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-461733515.jpg)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/dader-op-foto-massa-executie-holocaust-eindelijk-achterhaald-hij-was-leraar-frans-engels-en-gymnastiek/97293860.html)
-
-[Vereenvoudigde samenvatting: Na zestig jaar weten we eindelijk wie de man op de beroemde foto is. Het is een Duitse soldaat die in 1941 een Joodse man doodde. Een Duitse historicus heeft dit ontdekt.]
+# Vereenvoudigde titel en samenvatting
+Titel: Trump is boos over de foto op 'Time Magazine'. Hij zegt: "Ze hebben mijn haar weggehaald!"
+Samenvatting: Donald Trump is opnieuw president van Amerika. Zijn tweede termijn brengt veel veranderingen in de wereld. Hier vind je het laatste nieuws.
 
 ## Woordenschatuitbreiding
 
@@ -15,38 +8,41 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **eindelijk** | ten slotte, na lang wachten |
-| **ontdekken** | iets nieuws vinden of leren |
-| **soldaat** | iemand die in het leger vecht |
-| **foto** | een afbeelding die met een camera is gemaakt |
-| **bekend** | iemand of iets dat je kent |
+| **boos** | een gevoel van ergernis of kwaadheid, tegenovergestelde van blij |
+| **president** | de leider van een land, zoals een koning of minister-president |
+| **termijn** | een periode van tijd, vaak gebruikt voor de tijd dat iemand een bepaalde functie heeft |
+| **verandering** | wanneer iets anders wordt dan het was, een verandering |
+| **wereldwijd** | over de hele wereld, niet alleen in één land |
 
 ### Vul-in-de-leegte
-1. Na zestig jaar werd de man op de foto ___ bekend.
-2. De soldaat was lid van de SS en ___ de Joodse man.
-3. Een historicus heeft deze informatie ___.
+1. Donald Trump is de ___ van de Verenigde Staten. (president)
+2. Hij was niet blij met zijn foto in het tijdschrift, want hij dacht dat ze zijn ___ hadden weggehaald. (haar)
+3. Zijn tweede ambtstermijn ___ grote veranderingen over de hele wereld. (brengt)
+
 #### Oplossingen
-1. eindelijk
-2. doodde
-3. ontdekt
+1. president
+2. haar
+3. brengt
 
 ### Meerkeuzevragen
-1. Wat is de betekenis van 'ontdekken'?
-   a) verliezen b) vergeten c) vinden of leren d) weggooien
-2. Wie was de man op de foto?
-   a) een kunstenaar b) een soldaat c) een leraar d) een boer
-3. Wat betekent 'eindelijk'?
-   a) nooit b) onmiddellijk c) na lang wachten d) zonder reden
+1. Wat betekent "boos"?
+a) blij b) verdrietig c) kwaad d) moe
+2. Wat is een "termijn"?
+a) een soort auto b) een periode van tijd c) een soort huis d) een soort dier
+3. Wat betekent "wereldwijd"?
+a) alleen in Nederland b) overal ter wereld c) alleen in de stad d) alleen thuis
+
 #### Antwoorden
-1. c) vinden of leren
-2. b) een soldaat
-3. c) na lang wachten
+1. c) kwaad
+2. b) een periode van tijd
+3. b) overal ter wereld
 
 ### Waar / Niet Waar
-1. De man op de foto was een Duitse soldaat. (Waar)
-2. De foto is gemaakt in 2023. (Niet waar)
-3. De historicus heeft de soldaat geïdentificeerd. (Waar)
+1. Donald Trump is de president van de Verenigde Staten. (Waar)
+2. De foto in Time Magazine liet Trump zien met lang haar. (Niet waar, de tekst zegt dat hij denkt dat zijn haar is weggehaald)
+3. Trump's tweede termijn brengt veranderingen alleen in Amerika. (Niet waar, het is wereldwijd)
+
 #### Antwoorden
 1. Waar
 2. Niet waar
-3. Waar<｜begin▁of▁sentence｜>
+3. Niet waar<｜begin▁of▁sentence｜>

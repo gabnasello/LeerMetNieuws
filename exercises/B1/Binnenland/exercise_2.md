@@ -1,59 +1,56 @@
-# Politie gebruikt traangas tegen betogers
-
-## Titel
-Politie gebruikt traangas tegen betogers bij Dienst Vreemdelingenzaken
+# Antwerp Airport: privéjets zonder passagiers
 
 ## Samenvatting
-In Brussel was het rond het middaguur erg spannend bij de Dienst Vreemdelingenzaken. Gemaskerde betogers vochten met de politie. De betogers gooiden rookbommen en er vielen veel ruiten. Minister Anneleen Van Bossuxt (N-VA) noemde het "Crapuul". Enkele betogers gingen ook het Hilton-hotel binnen bij het Centraal Station.
+Antwerp Airport heeft veel privévluchten. Maar een kwart van die vluchten heeft geen enkele passagier aan boord. Dit is nodig, maar niet ideaal.
 
 ## Woordenschatuitbreiding
 
-### Woordlijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **betogers** | mensen die protesteren |
-| **rookbommen** | een soort bom die veel rook maakt |
-| **gemaskerd** | met een masker op het gezicht |
-| **Vreemdelingenzaken** | de dienst die over buitenlanders gaat |
-| **politie** | mensen die de wet handhaven |
+| **privéjets** | privévliegtuigen, kleine vliegtuigen voor rijke mensen |
+| **passagier** | iemand die meereist in een voertuig |
+| **luchthaven** | plaats waar vliegtuigen starten en landen |
+| **klant** | persoon die iets koopt of gebruikt |
+| **noodzakelijk** | iets dat echt moet, heel nodig is |
 
-### Vul in de lege plekken
-1. De betogers droegen maskers om hun gezicht te ___.
-2. De politie gebruikte ___ om de menigte uit elkaar te halen.
-3. Bij het Hilton-hotel waren er ook ___ die binnen gingen.
+### Vul-in-de-leegte
+1. Antwerp Airport heeft veel privéjets, maar sommige vluchten hebben geen ___ aan boord.
+2. Zonder passagiers zijn deze vluchten toch ___, omdat ze goederen of post vervoeren.
+3. De luchthaven zegt dat dit een ___ kwaad is, maar nodig voor de economie.
 
 #### Oplossingen
-1. verbergen
-2. traangas
-3. betogers
+1. passagiers
+2. belangrijk
+3. noodzakelijk
 
 ### Meerkeuzevragen
-1. Wat is de Dienst Vreemdelingenzaken?
-   a) een restaurant
-   b) een overheidsdienst
-   c) een winkelcentrum
-   d) een sportschool
-2. Waarom waren de betogers gemaskerd?
-   a) om zich te vermommen
-   b) omdat het koud was
-   c) om mode te maken
-   d) om te vieren
-3. Wat is "Crapuul"?
-   a) de naam van een minister
-   b) een scheldwoord
-   c) een soort eten
-   d) een plaats
+1. Wat is Antwerp Airport bekend voor in dit artikel?
+   a) Alleen passagiersvluchten
+   b) Alleen goederenvluchten
+   c) Veel privéjets, sommige zonder passagiers
+   d) Alleen militaire vluchten
+2. Waarom hebben sommige vluchten geen passagiers?
+   a) Omdat ze te duur zijn
+   b) Omdat ze alleen cargo of post vervoeren
+   c) Omdat ze niet mogen vliegen
+   d) Omdat ze te klein zijn
+3. Hoe noemt de luchthavan dit soort vluchten?
+   a) Een groot probleem
+   b) Een mooie kans
+   c) Een noodzakelijk kwaad
+   d) Een onnodige luxe
 
 #### Antwoorden
-1. b
-2. a
-3. b
+1. c) Veel privéjets, sommige zonder passagiers
+2. b) Omdat ze alleen cargo of post vervoeren
+3. c) Een noodzakelijk kwaad
 
 ### Waar / Niet Waar
-1. De situatie was rustig in Brussel. (Niet waar)
-2. De betogers gingen alleen naar de Dienst Vreemdelingenzaken. (Niet waar - ook het Hilton-hotel)
-3. Minister Anneleen Van Bossuxt is de minister van Justitie. (Waar)
+1. Alle vluchten van Antwerp Airport hebben passagiers aan boord.
+2. De luchthaven vindt dit een positieve situatie.
+3. Sommige vluchten hebben geen passagiers maar zijn toch belangrijk.
 
 #### Antwoorden
 1. Niet waar

@@ -1,7 +1,13 @@
-# Youssef uit 'Kamp Waes' is veroordeeld voor seksueel getinte berichten aan een leerlinge
+# Verharding in Vlaanderen
+
+[Verharding in Vlaanderen]
 
 ## Samenvatting
-Youssef Challouki is bekend als deelnemer aan het tv-programma Kamp Waes. Hij is veroordeeld tot een jaar cel met uitstel voor het sturen van seksueel getinte berichten naar een van zijn leerlingen.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ye9tbt-reportage-over-de-opbouw-van-studentenkoten-in-gent-hier-stropkaai-foto-jimmy-kets/alternates/BASE_SIXTEEN_NINE/Reportage%20over%20de%20opbouw%20van%20studentenkoten%20in%20Gent%20Hier%20Stropkaai%20Foto%20Jimmy%20Kets)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/verharding-van-vlaanderen-op-recordsnelheid-elke-dag-verdwijnt-14-hectare-onder-asfalt-en-beton/97565539.html)
+
+In Vlaanderen wordt veel grond bedekt met asfalt en beton. Elk jaar wordt er steeds meer grond verhard.
 
 ## Woordenschatuitbreiding
 
@@ -9,46 +15,49 @@ Youssef Challouki is bekend als deelnemer aan het tv-programma Kamp Waes. Hij is
 
 | Woord | Definitie |
 |-------|-----------|
-| **Veroordeeld** | schuldig bevonden door de rechter |
-| **Seksueel** | over seks of geslacht |
-| **Berichten** | geschreven of gesproken berichten |
-| **Leerling** | iemand die les krijgt van een leraar |
-| **Uitstel** | iets uitstellen of later doen |
+| **verharden** | hard maken |
+| **verharding** | het hard worden van de grond |
+| **grond** | de bovenste laag van de aarde waarop we leven |
+| **Vlaanderen** | een gebied in België |
+| **oppervlakte** | de grootte van een gebied |
 
 ### Vul-in-de-leegte
-1. Youssef Challouki is ___ omdat hij seksueel getinte berichten stuurde naar een leerling.
-2. De rechter heeft hem ___ tot een jaar cel, maar met uitstel.
-3. Youssef was een ___ in de klas; hij kreeg les van een leraar.
+1. In Vlaanderen wordt veel grond ___ met asfalt en beton. (verhard)
+2. Elke dag wordt er 14,4 hectare aan grond ___. (verhard)
+3. Het ___ van de grond is een groot probleem. (verharden)
+
 #### Oplossingen
-1. veroordeeld
-2. veroordeeld
-3. leerling
+1. verhard
+2. verhard
+3. verharden
 
 ### Meerkeuzevragen
-1. Wat is Youssef Challouki bekend van?
-a) Een filmacteur
-b) Een deelnemer aan Kamp Waes
-c) Een professionele atleet
-d) Een leraar
-2. Wat was de straf voor Youssef?
-a) Alleen een boete
-b) Twee jaar gevangenis
-c) Een jaar cel, maar met uitstel
-d) Geen straf
-3. Waarvoor is Youssef veroordeeld?
-a) Het sturen van normale berichten
-b) Het sturen van seksueel getinte berichten
-c) Het stelen van geld
-d) Het breken van een raam
+1. Wat betekent 'verharden'?
+   a) zachter worden  
+   b) harder worden  
+   c) groter worden  
+   d) kleiner worden  
+2. Waar staat 'Vlaanderen' voor?  
+   a) een land  
+   b) een stad  
+   c) een gebied in België  
+   d) een rivier  
+3. Wat is 'oppervlakte'?  
+   a) de bovenkant van iets  
+   b) de onderkant van iets  
+   c) de binnenkant van iets  
+   d) de buitenkant van iets  
+
 #### Antwoorden
-1. b) Een deelnemer aan Kamp Waes
-2. c) Een jaar cel, maar met uitstel
-3. b) Het sturen van seksueel getinte berichten
+1. b
+2. c
+3. a
 
 ### Waar / Niet Waar
-1. Youssef Challouki is een deelnemer van Kamp Waes. (Waar)
-2. Youssef is veroordeeld voor het sturen van lieve berichten. (Niet waar)
-3. Youssef kreeg geen straf voor zijn daden. (Niet waar)
+1. In Vlaanderen wordt steeds meer grond verhard. (Waar)
+2. Verharding van de grond is goed voor het milieu. (Niet waar)
+3. Vlaanderen is een gebied in Nederland. (Niet waar)
+
 #### Antwoorden
 1. Waar
 2. Niet waar

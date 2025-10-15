@@ -1,60 +1,61 @@
-# Youssef uit ‘Kamp Waes’ is veroordeeld voor berichten aan leerlinge
+# Verharding in Vlaanderen
+
+[Vereenvoudigde titel: Verharding in Vlaanderen]
 
 ## Samenvatting
-Youssef Challouki, een deelnemer van het tv-programma Kamp Waes, is veroordeeld tot een jaar cel met uitstel. Hij stuurde seksueel getinte berichten naar een van zijn leerlingen.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ye9tbt-reportage-over-de-opbouw-van-studentenkoten-in-gent-hier-stropkaai-foto-jimmy-kets/alternates/BASE_SIXTEEN_NINE/Reportage%20over%20de%20opbouw%20van%20studentenkoten%20in%20Gent%20Hier%20Stropkaai%20Foto%20Jimmy%20Kets)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/verharding-van-vlaanderen-op-recordsnelheid-elke-dag-verdwijnt-14-hectare-onder-asfalt-en-beton/97565539.html)
+
+[Vereenvoudigde samenvatting: In Vlaanderen wordt er veel grond verhard. Uit nieuwe cijfers blijkt dat in 2023 elke dag 14,4 hectare aan grond werd verhard. Dit is het hoogste aantal in de afgelopen tien jaar.]
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **deelnemer** | iemand die meedoet aan iets, bijvoorbeeld een activiteit of programma |
-| **veroordeeld** | iemand die door een rechter schuldig is bevonden en een straf krijgt |
-| **uitstel** | wanneer iets niet doorgaat of wordt uitgesteld naar een later moment |
-| **berichten** | geschreven of digitale communicatie, zoals een sms of een chatbericht |
-| **leerlinge** | een vrouwelijke student of iemand die onderwijs volgt |
+| **verharden** | hard maken, bijvoorbeeld door asfalt of beton aan te leggen |
+| **grondgebruik** | hoe de grond wordt gebruikt, bijvoorbeeld voor landbouw, natuur of bebouwing |
+| **cijfer** | getal of nummer dat iets meet of weergeeft |
+| **oppervlakte** | de grootte van een gebied in vierkante meters of hectares |
+| **duurzaam** | goed voor het milieu en de toekomst, niet schadelijk |
 
-### Vul in de lege plekken
-1. Youssef Challouki is een ___ van het programma Kamp Waes.
-2. Hij stuurde ongepaste ___ naar een leerling.
-3. De rechter heeft hem ___ en hij kreeg een straf met ___.
-
+### Vul-in-de-leegte
+1. In Vlaanderen wordt veel grond _____, wat betekent dat er asfalt of beton op komt.
+2. De _____ van de verharding is in 2023 het hoogst in tien jaar.
+3. Het _____ van de verharding zorgt voor problemen, zoals water dat niet weg kan.
 #### Oplossingen
-1. deelnemer
-2. berichten
-3. veroordeeld, uitstel
+1. verhard
+2. hoeveelheid
+3. gebrek
 
 ### Meerkeuzevragen
-1. Wat is Youssef Challouki?
-a) Een docent
-b) Een tv-deelnemer
-c) Een rechter
-d) Een student
-
-2. Wat betekent "uitstel" in deze context?
-a) De straf is onmiddellijk
-b) De straf is uitgesteld
-c) De straf is verhoogd
-d) De straf is onbekend
-
-3. Wat is de hoofdoorzaak van deze zaak?
-a) Youssef is onschuldig
-b) Youssef stuurde ongepaste berichten
-c) Youssef won een prijs
-d) Youssef is een leraar
-
+1. Wat is 'verharden' in deze context?
+   a) zachter maken
+   b) hard maken met asfalt of beton
+   c) alleen maar planten
+   d) tijdelijk bedekken
+2. Waarom is de verharding een probleem?
+   a) Het ziet er niet mooi uit.
+   b) Het zorgt voor water dat niet weg kan, waardoor overstromingen kunnen ontstaan.
+   c) Het is te duur.
+   d) Het maakt de grond te hard voor sporten.
+3. Wat is een 'duurzame' oplossing?
+   a) Meer asfalt leggen.
+   b) Meer parkeerplaatsen aanleggen.
+   c: Groene daken en waterdoorlatende stenen gebruiken.
+   d: Niets doen en wachten.
 #### Antwoorden
-1. b) Een tv-deelnemer
-2. b) De straf is uitgesteld
-3. b) Youssef stuurde ongepaste berichten
+1. b
+2. b
+3. c
 
 ### Waar / Niet Waar
-1. Youssef Challouki is een deelnemer van Kamp Waes.
-2. Youssef stuurde berichten naar een medestudent.
-3. Youssef kreeg een onmiddellijke gevangenisstraf.
-
+1. Verharding is alleen maar goed omdat het sterke wegen oplevert.
+2. De verharding in Vlaanderen is in 2023 het hoogst in tien jaar.
+3. Duurzame oplossingen kunnen helpen om verharding tegen te gaan.
 #### Antwoorden
-1. Waar
-2. Niet waar (het was een leerling, geen medestudent)
-3. Niet waar (hij kreeg uitstel)<｜begin▁of▁sentence｜>
+1. Niet Waar
+2. Waar
+3. Waar<｜begin▁of▁sentence｜>
