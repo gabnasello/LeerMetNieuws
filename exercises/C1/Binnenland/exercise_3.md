@@ -1,13 +1,13 @@
-# Verharding in Vlaanderen bereikt recordhoogte
+# Privéjets vliegen vanuit Deurne op de eerste plaats naar de zon
 
-[Vereenvoudigde titel: Verharding in Vlaanderen bereikt een record]
+[Vereenvoudigde titel: Privéjets vliegen eerst naar de zon vanuit Deurne]
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ye9tbt-reportage-over-de-opbouw-van-studentenkoten-in-gent-hier-stropkaai-foto-jimmy-kets/alternates/BASE_SIXTEEN_NINE/Reportage%20over%20de%20opbouw%20van%20studentenkoten%20in%20Gent%20Hier%20Stropkaai%20Foto%20Jimmy%20Kets)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/verharding-van-vlaanderen-op-recordsnelheid-elke-dag-verdwijnt-14-hectare-onder-asfalt-en-beton/97565539.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/wpp686-luchthaven-deurne/alternates/BASE_SIXTEEN_NINE/Luchthaven%20Deurne)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/privejets-vliegen-vanuit-deurne-op-de-eerste-plaats-naar-de-zon/97698380.html)
 
-We blijven in Vlaanderen veel verharden. Volgens de nieuwste gegevens verdween er in 2023 elke dag 14,4 hectare onder verharding. Dit is het hoogste cijfer in de afgelopen tien jaar.
+Privévliegtuigen die vertrekken van de luchthaven Deurne, vliegen vooral naar bestemmingen zoals Nice en Cannes. Ook het Spaanse feesteiland Ibiza wordt populairder, blijkt uit cijfers. “Maar we zijn niet alleen bezig met luxe en blingbling”, zegt de sector.
 
 ## Woordenschatuitbreiding
 
@@ -15,50 +15,50 @@ We blijven in Vlaanderen veel verharden. Volgens de nieuwste gegevens verdween e
 
 | Woord | Definitie |
 |-------|-----------|
-| **verharden** | hard of stevig worden, vaak door verharding |
-| **verharding** | het bedekken van grond met asfalt of beton |
-| **record** | het beste of hoogste resultaat ooit behaald |
-| **hectare** | een oppervlaktemaat; 1 hectare is 100 bij 100 meter |
-| **asfalt** | een zwart, kleverig materiaal gebruikt voor wegen |
+| **privéjets** | privéjets, particuliere vliegtuigen |
+| **luchthaven** | een plaats waar vliegtuigen opstijgen en landen |
+| **bestemming** | de plaats waar je naartoe gaat |
+| **sector** | een groep bedrijven die hetzelfde doen |
+| **cijfers** | getallen die informatie geven over iets |
 
 ### Vul-in-de-leegte
-1. In Vlaanderen wordt veel grond ___ met asfalt en beton.
-2. De hoeveelheid verharding in Vlaanderen bereikte een nieuw ___.
-3. Een ___ is een eenheid voor het meten van oppervlakte.
+1. Privévliegtuigen vliegen naar bestemmingen zoals Nice, Cannes en ___.
+2. De luchthaven van Deurne is een plaats waar vliegtuigen ___ en landen.
+3. De sector reageert dat ze niet alleen met luxe en "blingbling" ___.
 
 #### Oplossingen
-1. bedekt
-2. record
-3. hectare
+1. Ibiza
+2. opstijgen
+3. bezig zijn
 
 ### Meerkeuzevragen
-1. Wat is "verharden" in deze context?
-   a) zachter worden  
-   b) harder worden  
-   c) verdwijnen  
-   d) groeien  
-2. Wat is een "record" in deze context?
-   a) een oude muziekopname  
-   b) het hoogste of laagste cijfer ooit  
-   c) een sportevenement  
-   d) een soort plant  
-3. Waar verwijst "14,4 hectare" naar?
-   a) de hoeveelheid verharding per jaar  
-   b) de dagelijkse hoeveelheid verharding  
-   c) de wekelijkse verharding  
-   d) de maandelijkse verharding  
+1. Waar vliegen privéjets vooral naartoe vanuit Deurne?
+   a) Naar zakelijke bestemmingen zoals Londen en Frankfurt  
+   b) Naar toeristische bestemmingen zoals Nice, Cannes en Ibiza  
+   c) Naar andere luchthavens binnen België  
+   d) Naar onbekende locaties voor privédoeleinden  
+2. Wat betekent "blinding" in deze context?  
+   a) Een soort van licht of glans  
+   b) Een informele term voor luxe en opvallende rijkdom  
+   c) Een technische term in de luchtvaart  
+   d) Een type van privévliegtuig  
+3. Waarom vermeldt de sector dat ze niet alleen met luxe bezig zijn?  
+   a) Omdat ze ook goedkope vluchten aanbieden  
+   b) Omdat ze ook aan milieubehoud doen  
+   c) Omdat ze ook zakelijke en essentiële vluchten verzorgen  
+   d) Omdat ze alleen met luxe bezig zijn  
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. b) Naar toeristische bestemmingen zoals Nice, Cannes en Ibiza
+2. b) Een informele term voor luxe en opvallende rijkdom
+3. c) Omdat ze ook zakelijke en essentiële vluchten verzorgen
 
 ### Waar / Niet Waar
-1. Verharding in Vlaanderen neemt af.  
-2. De verharding in 2023 was meer dan in voorgaande jaren.  
-3. Een hectare is een maat voor volume.  
+1. Privéjets vliegen alleen naar luxe bestemmingen.
+2. De luchthaven van Deurne heeft alleen internationale vluchten.
+3. De sector benadrukt dat ze ook andere soorten vluchten aanbieden.
 
 #### Antwoorden
 1. Niet Waar
-2. Waar
-3. Niet Waar
+2. Niet Waar
+3. Waar<｜begin▁of▁sentence｜>

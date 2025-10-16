@@ -1,7 +1,7 @@
-# In Thiams dorp is men verbolgen over ‘Nafigate’: “Thiam is veel groter dan Wallonië, natuurlijk kiezen we haar kant”
+# Vereenvoudigd artikel: De magie van K3
 
 ## Samenvatting
-In het dorp van Nafi Thiam zijn mensen boos over een schandaal genaamd 'Nafigate'. Ze zeggen dat Thiam veel belangrijker is dan Wallonië, en dus kiezen ze haar kant.
+De reünieconcerten van K3 zijn een groot succes, ook bij volwassenen. Dat is niet verrassend, volgens Linde Bossuyt, een expert in kinder-tv. "Wie de populariteit van K3 niet begrijpt, onderschat hun culturele impact."
 
 ## Woordenschatuitbreiding
 
@@ -9,49 +9,50 @@ In het dorp van Nafi Thiam zijn mensen boos over een schandaal genaamd 'Nafigate
 
 | Woord | Definitie |
 |-------|-----------|
-| **dorp** | een kleine plaats waar mensen wonen |
-| **boos** | heel erg kwaad |
-| **kiezen** | een keuze maken |
-| **belangrijk** | heel erg nodig of van grote waarde |
-| **kant** | een zijde of een kant van iets |
+| **reünieconcerten** | speciale concerten waar een oude band weer bij elkaar komt om te spelen |
+| **succes** | iets dat heel goed gaat of veel mensen leuk vinden |
+| **expert** | iemand die heel veel weet over een onderwerp |
+| **populair** | iets wat veel mensen leuk vinden of wat veel gebruikt wordt |
+| **impact** | de grote invloed of effect die iets heeft |
 
 ### Vul-in-de-leegte
-1. Het kleine _____ heeft maar 100 inwoners.
-2. Mensen zijn _____ omdat de regering heeft gelogen.
-3. We moeten altijd de waarheid _____.
-#### Oplossing
-1. Het kleine **dorp** heeft maar 100 inwoners.
-2. Mensen zijn **boos** omdat de regering heeft gelogen.
-3. We moeten altijd de waarheid **kiezen**.
+1. De reünieconcerten van K3 zijn een groot ____, ook bij volwassenen.
+2. Linde Bossuyt is een ____ in kinder-tv.
+3. Wie de ____ van K3 niet begrijpt, onderschat hun culturele ____.
+
+#### Oplossingen
+1. succes
+2. expert
+3. populariteit, impact
 
 ### Meerkeuzevragen
-1. Wat is een 'dorp'?  
-a) Een grote stad  
-b) Een kleine gemeenschap  
-c) Een soort auto  
-d) Een berg  
+1. Wat zijn de reünieconcerten van K3?
+   a) Nieuwe concerten voor kinderen
+   b) Oude concerten die opnieuw worden gegeven met de originele band
+   c) Concerten alleen voor volwassenen
+   d) Concerten die alleen online te zien zijn  
+2. Waarom zijn de reünieconcerten een succes?
+   a) Omdat ze alleen voor kinderen zijn
+   b) Omdat ze herinneringen ophalen voor veel mensen
+   c) Omdat ze gratis zijn
+   d) Omdat ze in kleine zalen zijn  
+3. Wat zegt Linde Bossuyt over K3?
+   a) Alleen kinderen houden van K3
+   b) K3 heeft geen echte impact
+   c) K3's populariteit toont hun culturele impact
+   d) K3 is niet meer relevant  
 
-2. Wat betekent 'boos'?  
-a) Heel blij  
-b) Heel kwaad  
-c) Heel moe  
-d) Heel lui  
-
-3. Wat doe je als je 'kiest'?  
-a) Je negeert iets  
-b) Je maakt een keuze  
-c) Je rent heel hard  
-d) Je lacht heel hard  
 #### Antwoorden
-1. b) Een kleine gemeenschap  
-2. b) Heel kwaad  
-3. b) Je maakt een keuze  
+1. b
+2. b
+3. c
 
 ### Waar / Niet Waar
-1. Een dorp is groter dan een stad.  
-2. 'Boos' zijn is hetzelfde als 'blij' zijn.  
-3. 'Kiezen' betekent hetzelfde als 'selecteren'.  
+1. De reünieconcerten van K3 zijn alleen populair bij kinderen. (Niet waar)
+2. Linde Bossuyt is een expert in kinder-tv. (Waar)
+3. K3 heeft geen culturele impact. (Niet waar)
+
 #### Antwoorden
-1. Niet waar. Een dorp is kleiner dan een stad.  
-2. Niet waar. 'Boos' zijn is het tegenovergestelde van 'blij' zijn.  
-3. Waar. 'Kiezen' en 'selecteren' betekenen allebei 'een keuze maken'.
+1. Niet waar
+2. Waar
+3. Niet waar<｜begin▁of▁sentence｜>

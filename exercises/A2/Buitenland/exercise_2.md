@@ -1,48 +1,47 @@
-# Wat deed Fifa-baas Gianni Infantino op de Gaza-top in Egypte?
+# Titel
+CIA mag acties uitvoeren in Venezuela
 
-**Titel en samenvatting in eenvoudig Nederlands**
-De Fifa-baas Gianni Infantino was in Egypte. Hij was er voor een bijeenkomst over de toekomst van Gaza. Waarom was hij daar? Omdat voetbal mensen samenbrengt.
+## Samenvatting
+Donald Trump is opnieuw president van Amerika. Zijn tweede ambtstermijn brengt veranderingen over de hele wereld. De Amerikaanse regering laat de CIA acties uitvoeren in Venezuela.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **Fifa** | de internationale voetbalorganisatie |
-| **baas** | de belangrijkste leider of chef |
-| **bijeenkomst** | een meeting of vergadering waar mensen samenkomen |
-| **toekomst** | de tijd die nog komt |
-| **samenbrengen** | mensen bij elkaar brengen, verenigen |
+| **president** | de leider van een land |
+| **acties** | dingen die mensen doen |
+| **veranderingen** | dingen die anders worden |
+| **land** | een gebied met eigen regels |
+| **overal** | op alle plaatsen |
 
 ### Vul-in-de-leegte
-1. Gianni Infantino is de baas van ___.
-2. Hij ging naar een ___ in Egypte.
-3. De bijeenkomst ging over de ___ van Gaza.
+1. Donald Trump is de ___ van de Verenigde Staten.
+2. De CIA voert ___ uit in Venezuela.
+3. Deze veranderingen gebeuren overal in de ___.
 #### Oplossingen
-1. Fifa
-2. bijeenkomst
-3. toekomst
+1. president
+2. acties
+3. wereld
 
 ### Meerkeuzevragen
-1. Waar ging Gianni Infantino heen?  
-a) Nederland b) Egypte c) België d) Zwitserland  
-2. Waarom was hij daar?  
-a) Om te voetballen b) Omdat voetbal mensen samenbrengt  
-c) Voor een vakantie d) Geen idee  
-3. Wat bespraken ze in Egypte?  
-a) De Fifa-beker b) De toekomst van Gaza  
-c) Een voetbalwedstrijd d) Een nieuwe sport  
+1. Wat is Donald Trump?  
+a) een land b) een actie c) de president d) een verandering
+2. Waar voert de CIA acties uit?  
+a) in Amerika b) in een land c) in Venezuela d) in een verandering
+3. Waar vinden de veranderingen plaats?  
+a) alleen in Amerika b) in een land c) in Venezuela d) overal in de wereld
 #### Antwoorden
-1. b
-2. b
-3. b
+1. c) de president
+2. c) in Venezuela
+3. d) overal in de wereld
 
 ### Waar / Niet Waar
-1. Gianni Infantino is de baas van Fifa.  
-2. De bijeenkomst was in Nederland.  
-3. De bijeenkomst ging over de toekomst van Gaza.  
+1. Donald Trump is de president van Amerika. (Waar)
+2. De CIA voert acties uit in Venezuela. (Waar)
+3. De veranderingen gebeuren alleen in Amerika. (Niet waar)
 #### Antwoorden
 1. Waar
-2. Niet waar
-3. Waar<｜begin▁of▁sentence｜>
+2. Waar
+3. Niet waar

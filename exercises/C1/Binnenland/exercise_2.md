@@ -1,53 +1,57 @@
-# Eenvoudige titel en samenvatting
-Privévliegtuigen vertrekken zonder passagiers vanaf Antwerp Airport: "Kan niet verwachten dat klant in de file staat"
-
-Samenvatting: De luchthaven van Deurne moet de laatste jaren steeds meer afhankelijk zijn van privévluchten. Veel van deze vluchten vertrekken vanaf Antwerp Airport zonder ook maar één passagier aan boord. "Het is een noodzakelijk kwaad."
+# Herwerken van de titel en samenvatting in eenvoudig Nederlands op C1-niveau
+**Titel vereenvoudigd:** De nieuwe Lunch Garden is veranderd – en dat is goed nieuws  
+**Samenvatting vereenvoudigd:** In Wijnegem is de eerste vernieuwde Lunch Garden heropend. Het restaurant heeft nu een modern interieur en heeft de recepten van zijn klassiekers aangepast. Culinair journalist Evelien Rutten heeft het al mogen proeven.
 
 ## Woordenschatuitbreiding
 
-### Woordlijst
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **privévliegtuigen** | particuliere vliegtuigen voor persoonlijk gebruik |
-| **vertrekken** | weg gaan van een plaats |
-| **passagier** | iemand die meereist in een voertuig |
-| **afhankelijk** | niet zelfstandig, heeft hulp nodig |
-| **noodzakelijk** | onmisbaar, erg nodig |
+| **heropend** | opnieuw geopend voor het publiek |
+| **vernieuwde** | vernieuwd, gemoderniseerd |
+| **klassiekers** | klassieke, traditionele gerechten op het menu |
+| **culinair** | met betrekking tot koken of voedsel |
+| **eigentijds** | modern en bij de tijd |
 
 ### Vul de lege plekken in
-1. Het vliegtuig vertrekt zonder ook maar één ___ aan boord.
-2. De luchthaven is ___ van privévluchten voor haar inkomsten.
-3. Het is een ___ kwaad dat de luchthaven deze vluchten nodig heeft.
+1. De Lunch Garden in Wijnegem is ___, met een nieuw interieur en nieuwe recepten.
+2. Evelien Rutten, een ___ journalist, heeft het nieuwe restaurant al kunnen proeven.
+3. Het restaurant heeft zijn ___ behouden maar ze zijn moderner gemaakt.
+
 #### Oplossingen
-1. passagier
-2. afhankelijk
-3. noodzakelijk
+1. heropend
+2. culinair
+3. klassiekers
 
 ### Meerkeuzevragen
-1. Wat is de hoofdreden dat Antwerp Airport privévluchten nodig heeft?
-   a) Ze zijn goedkoop
-   b) Ze hebben geen passagiers
-   c) Ze zijn noodzakelijk voor inkomsten
-   d) Ze zijn een luxe
-2. Wat betekent "noodzakelijk" in deze context?
-   a) Ongewenst maar noodzakelijk
-   b) Volledig optioneel
-   c) Zeer gewenst
-   d) Niet belangrijk
-3. Waar of niet waar: Alle privévluchten hebben passagiers aan boord.
-   a) Waar
-   b) Niet waar
-#### Antwoorden
-1. c
-2. a
-3. b
+1. Wat is er veranderd aan de Lunch Garden in Wijnegem?  
+   a) Alleen de naam  
+   b) Alleen de recepten  
+   c) Het interieur en de recepten  
+   d) Alleen het interieur  
+2. Wie is Evelien Rutten?  
+   a) Een klant  
+   b) Een chef-kok  
+   c) Een foodblogger  
+   d) Een culinair journalist  
+3. Welke term beschrijft het best het nieuwe interieur van de Lunch Garden?  
+   a) Ouderwets  
+   b) Eigentijds  
+   c) Rommelig  
+   d) Saai  
 
-### Waar / Niet Waar
-1. Antwerp Airport is volledig afhankelijk van privévluchten.
-2. Privévluchten zonder passagiers zijn goedkoop voor de luchthaven.
-3. Alle privévluchten vertrekken zonder passagiers.
+#### Antwoorden
+1. c) Het interieur en de recepten
+2. d) Een culinair journalist
+3. b) Eigentijds
+
+### Waar / Niet waar
+1. De Lunch Garden in Wijnegem is gesloten.  
+2. Evelien Rutten is de eigenaar van het restaurant.  
+3. Het restaurant heeft zijn klassiekers behouden maar ze zijn aangepast.  
+
 #### Antwoorden
 1. Niet waar
 2. Niet waar
-3. Niet waar<｜begin▁of▁sentence｜>
+3. Waar

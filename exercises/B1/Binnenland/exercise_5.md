@@ -1,8 +1,7 @@
-# Kies de juiste woorden
+# De magie van K3
 
-**Vereenvoudigde titel:** In het dorp van Thiam zijn mensen boos over 'Nafigate': "Thiam is veel groter dan Wallonië, natuurlijk kiezen we haar kant"
-
-**Vereenvoudigde samenvatting:** Mensen in het dorp van Nafie Thiam zijn erg boos. Ze zeggen dat Nafie Thiam groter is dan de regio Wallonië, en dat ze aan haar kant staan. Er is een schandaal genaamd 'Nafigate' dat hen boos maakt.
+## Samenvatting
+De reünieconcerten van K3 zijn een groot succes, ook bij volwassenen. Dat is niet vreemd, zegt Linde Bossuyt, een expert in kinder-tv. "Wie de populariteit van K3 niet begrijpt, onderschat hun culturele belang."
 
 ## Woordenschatuitbreiding
 
@@ -10,52 +9,52 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **boos** | een gevoel van ergernis of woede |
-| **groter** | van een grotere omvang of belang |
-| **kant** | een zijde of positie in een situatie |
-| **schandaal** | een openbare gebeurtenis die schokt of verontwaardiging veroorzaakt |
-| **kiezen** | een beslissing maken of een optie selecteren |
+| **reünieconcerten** | speciale concerten waar een oude band weer bij elkaar komt |
+| **expert** | iemand die heel veel weet over een onderwerp |
+| **kritiek** | een mening of oordeel over iets |
+| **cultureel** | alles wat met kunst, taal en gewoontes te maken heeft |
+| **succes** | iets dat goed gaat of goed afloopt |
 
-### Vul de lege plekken in
-1. De mensen in het dorp waren erg **boos** over de situatie.
-2. Nafie Thiam is veel **groter** dan de andere atleten.
-3. Ze kozen ervoor om aan haar **kant** te staan.
+### Vul-in-de-leegte
+1. De reünieconcerten van K3 zijn een groot ____ bij veel mensen.
+2. Linde Bossuyt is een ____ in kinder-tv.
+3. Wie de populariteit van K3 niet begrijpt, ____ hun culturele belang.
 
 #### Oplossingen
-1. boos
-2. groter
-3. kant
+1. De reünieconcerten van K3 zijn een groot **succes** bij veel mensen.
+2. Linde Bossuyt is een **expert** in kinder-tv.
+3. Wie de populariteit van K3 niet begrijpt, **onderschat** hun culturele belang.
 
 ### Meerkeuzevragen
-1. Wat is de houding van de mensen in het dorp?
-   a) Blij
-   b) Neutraal
-   c) Boos
-   d) Verveeld
+1. Wat is K3?
+   a) een muziekgroep  
+   b) een soort fruit  
+   c) een televisieprogramma  
+   d) een sportteam  
 
-2. Wat wordt er bedoeld met 'Nafigate'?
-   a) Een feest
-   b) Een sportevenement
-   c) Een schandaal
-   d) Een nieuwe wet
+2. Waar is Linde Bossuyt een expert in?
+   a) koken  
+   b) kinder-tv  
+   c) sport  
+   d) reizen  
 
-3. Wat betekent 'kiezen' in deze context?
-   a) Spelletjes spelen
-   b) Een beslissing maken
-   c) Iemand negeren
-   d) Hard werken
-
-#### Antwoorden
-1. c) Boos
-2. c) Een schandaal
-3. b) Een beslissing maken
-
-### Waar / Niet Waar
-1. De mensen in het dorp zijn blij met de situatie. (Niet waar)
-2. 'Nafigate' is de naam van een lokaal feest. (Niet waar)
-3. Nafie Thiam is een atleet uit Wallonië. (Waar)
+3. Waarom is K3 populair volgens de tekst?
+   a) omdat ze alleen voor kinderen zijn  
+   b) omdat ze een grote culturele impact hebben  
+   c) omdat ze niet meer bestaan  
+   d) omdat niemand ze kent  
 
 #### Antwoorden
-1. Niet waar
-2. Niet waar
-3. Waar<｜begin▁of▁sentence｜>
+1. a) een muziekgroep  
+2. b) kinder-tv  
+3. b) omdat ze een grote culturele impact hebben  
+
+### Waar / Niet waar
+1. K3 trekt alleen kinderen aan.
+2. Linde Bossuyt is een expert in kinder-tv.
+3. K3 heeft geen culturele impact.
+
+#### Antwoorden
+1. Niet waar  
+2. Waar  
+3. Niet waar<｜begin▁of▁sentence｜>

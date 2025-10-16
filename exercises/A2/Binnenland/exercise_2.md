@@ -1,10 +1,12 @@
-# Privéjets op Antwerp Airport
+# Eenvoudige versie van het artikel
 
-## Titel
-Vele privéjets vliegen zonder passagiers op Antwerp Airport.
+## Titel en samenvatting in eenvoudig Nederlands
 
-## Samenvatting
-De luchthaven van Antwerpen heeft de laatste jaren veel privéjets zonder passagiers. Dit is nodig maar niet ideaal.
+**Titel:** De nieuwe Lunch Garden is niet meer hetzelfde – en dat is goed nieuws
+
+**Samenvatting:** In Wijnegem heropende de eerste vernieuwde Lunch Garden. Het restaurant heeft een nieuw interieur en nieuwe recepten. Culinair journalist Evelien Rutten heeft het eten al geproefd.
+
+---
 
 ## Woordenschatuitbreiding
 
@@ -12,50 +14,50 @@ De luchthaven van Antwerpen heeft de laatste jaren veel privéjets zonder passag
 
 | Woord | Definitie |
 |-------|-----------|
-| **privéjets** | kleine vliegtuigen voor rijke mensen |
-| **luchthaven** | plaats waar vliegtuigen landen en opstijgen |
-| **passagiers** | mensen die met een voertuig reizen |
-| **noodzakelijk** | iets dat nodig is, onvermijdelijk |
-| **klant** | iemand die iets koopt of een dienst gebruikt |
+| **heropende** | opende opnieuw, na verbouwing of verandering |
+| **vernieuwde** | vernieuwd, aangepast en verbeterd |
+| **culinair** | met eten en koken te maken hebbend |
+| **proeven** | (hier) eten om te testen hoe het smaakt |
+| **gerechten** | (hier) maaltijden, eten dat geserveerd wordt |
 
 ### Vul-in-de-leegte
-1. Sommige vliegtuigen vliegen zonder ___ aan boord. (passagiers)
-2. De luchthaven heeft veel ___ die geen passagiers vervoeren. (privéjets)
-3. Het is ___ dat er vliegtuigen zijn zonder passagiers. (noodzakelijk)
+1. De Lunch Garden is ____ en heeft nieuwe gerechten.
+2. Evelien Rutten is een ____ journalist.
+3. Het restaurant is ___ in Wijnegem.
 
 #### Oplossingen
-1. passagiers
-2. privéjets
-3. noodzakelijk
+1. vernieuwd
+2. culinair
+3. heropend
 
 ### Meerkeuzevragen
-1. Wat is een "privéjet"?
-a) een openbaar vliegtuig
-b) een privé vliegtuig voor weinig mensen
-c) een trein
-d) een bus
-2. Waarom hebben sommige vluchten geen passagiers?
-a) Omdat het geen echte vluchten zijn
-b) Omdat het oefenvluchten zijn
-c) Omdat het privéjets zijn die alleen cargo vervoeren
-d) Omdat het drones zijn
-3. Wat betekent "noodzakelijk"?
-a) leuk en fijn
-b) nodig maar niet ideaal
-c) duur en luxueus
-d) verboden en gevaarlijk
+1. Wat is de Lunch Garden?
+   a) een tuin
+   b) een restaurant
+   c) een winkel
+   d) een park
+2. Wat is er nieuw aan de Lunch Garden?
+   a) alleen de naam
+   b) het interieur en de recepten
+   c) alleen het interieur
+   d) alleen de recepten
+3. Wie is Evelien Rutten?
+   a) een kok
+   b) een culinair journalist
+   c) een klant
+   d) een manager
 
 #### Antwoorden
 1. b
-2. c
+2. b
 3. b
 
 ### Waar / Niet Waar
-1. Antwerp Airport heeft alleen privéjets met passagiers. (Niet waar)
-2. Alle vluchten zonder passagiers zijn nutteloos. (Niet waar - sommige zijn voor cargo)
-3. De luchthaven heeft meer privéjets dan ooit. (Waar)
+1. De Lunch Garden is helemaal hetzelfde gebleven.
+2. Evelien Rutten heeft het eten geproefd.
+3. Het restaurant is in Amsterdam.
 
 #### Antwoorden
 1. Niet waar
-2. Niet waar
-3. Waar
+2. Waar
+3. Niet waar<｜begin▁of▁sentence｜>

@@ -1,11 +1,7 @@
-# Wat deed de Fifa-baas in Egypte?
+# CIA mag van regering-Trump acties uitvoeren in Venezuela
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ejhb3h-92.jpeg/alternates/BASE_SIXTEEN_NINE/92.jpeg)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/wat-deed-fifa-baas-gianni-infantino-op-de-gaza-top-in-egypte/97732646.html)
-
-De Fifa-baas Gianni Infantino was in Egypte voor een bijeenkomst over de toekomst van Gaza. Hij zei dat voetbal mensen samenbrengt.
+Donald Trump is opnieuw president van Amerika. Dit brengt veranderingen over de hele wereld. In dit artikel lees je meer over wat dit betekent.
 
 ## Woordenschatuitbreiding
 
@@ -13,47 +9,41 @@ De Fifa-baas Gianni Infantino was in Egypte voor een bijeenkomst over de toekoms
 
 | Woord | Definitie |
 |-------|-----------|
-| **Fifa** | de internationale organisatie voor voetbal |
-| **baas** | de persoon die de leiding heeft |
-| **bijeenkomst** | een meeting waar mensen samenkomen om te praten |
-| **toekomst** | de tijd die nog moet komen |
-| **voetbal** | een sport met een bal en twee goals |
+| **president** | het hoofd van een land |
+| **verandering** | een verandering in de manier waarop iets is of gebeurt |
+| **acties** | acties die worden ondernomen om een bepaald doel te bereiken |
+| **land** | een land of natie met zijn eigen regering |
+| **politiek** | de activiteiten geassocieerd met het besturen van een land of gebied |
 
 ### Vul-in-de-leegte
-1. Gianni Infantino is de baas van de ____.
-2. Hij ging naar Egypte voor een ____ over de toekomst van Gaza.
-3. Infantino zei dat voetbal mensen ____.
+1. Donald Trump is de ______ van de Verenigde Staten.
+2. De CIA voerde ______ uit in Venezuela.
+3. Zijn deze veranderingen goed of slecht voor het ______?
+
 #### Oplossingen
-1. Fifa  
-2. bijeenkomst  
-3. samenbrengt
+1. president
+2. acties
+3. land
 
 ### Meerkeuzevragen
-1. Waar ging Gianni Infantino naartoe?  
-   a) Nederland  
-   b) Egypte  
-   c) België  
-   d) Zwitserland  
-2. Wat was het doel van zijn bezoek?  
-   a) Een voetbalwedstrijd bekijken  
-   b) Deelnemen aan een bijeenkomst over Gaza  
-   c) Op vakantie gaan  
-   d) Een nieuwe baan zoeken  
-3. Wat zei Infantino over voetbal?  
-   a) Het is alleen maar een spel  
-   b) Het verdeelt mensen  
-   c) Het verenigt mensen  
-   d) Het is te duur  
+1. Wat is de rol van Donald Trump in deze context?
+   a) Burgemeester b) President c) Minister d) Acteur
+2. Wat doet de CIA in Venezuela?
+   a) Niets b) Acties c) Slaapt d) Werkt samen
+3. Waarover gaat dit artikel?
+   a) Koken b) Politiek c) Sport d) Kunst
+
 #### Antwoorden
-1. b) Egypte  
-2. b) Deelnemen aan een bijeenkomst over Gaza  
-3. c) Het verenigt mensen  
+1. b) President
+2. b) Acties
+3. b) Politiek
 
 ### Waar / Niet Waar
-1. Gianni Infantino is de baas van Fifa.  
-2. De bijeenkomst was in Nederland.  
-3. Infantino zei dat voetbal mensen verdeelt.  
+1. Donald Trump is de president van Frankrijk. (Niet waar)
+2. De CIA voert acties uit in Nederland. (Niet waar)
+3. Dit artikel gaat over politiek. (Waar)
+
 #### Antwoorden
-1. Waar  
-2. Niet waar  
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Niet waar
+3. Waar<｜begin▁of▁sentence｜>

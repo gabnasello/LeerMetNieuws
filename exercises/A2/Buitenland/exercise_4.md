@@ -1,6 +1,9 @@
-# Vereenvoudigde titel en samenvatting
-Titel: Trump is boos over de foto op 'Time Magazine'. Hij zegt: "Ze hebben mijn haar weggehaald!"
-Samenvatting: Donald Trump is opnieuw president van Amerika. Zijn tweede termijn brengt veel veranderingen in de wereld. Hier vind je het laatste nieuws.
+# De Verenigde Staten en Venezuela
+
+## Titels en samenvatting in eenvoudig Nederlands
+
+**Titel:** VS blijven boten opblazen en druk zetten op Venezolaanse president Maduro  
+**Samenvatting:** De VS vallen boten van "narcoterroristen" aan in de Caraïbische Zee en noemen regimewissels, wat Venezuela boos maakt. Deskundigen zeggen dat deze aanvallen illegaal zijn, maar Trump luistert niet. "Wij blazen jullie weg."
 
 ## Woordenschatuitbreiding
 
@@ -8,41 +11,50 @@ Samenvatting: Donald Trump is opnieuw president van Amerika. Zijn tweede termijn
 
 | Woord | Definitie |
 |-------|-----------|
-| **boos** | een gevoel van ergernis of kwaadheid, tegenovergestelde van blij |
-| **president** | de leider van een land, zoals een koning of minister-president |
-| **termijn** | een periode van tijd, vaak gebruikt voor de tijd dat iemand een bepaalde functie heeft |
-| **verandering** | wanneer iets anders wordt dan het was, een verandering |
-| **wereldwijd** | over de hele wereld, niet alleen in één land |
+| **boten** | een soort groot schip dat op water vaart |
+| **aanvallen** | proberen iemand of iets te beschadigen of te vernietigen |
+| **illegale** | iets wat niet volgens de wet is |
+| **president** | de leider van een land |
+| **deskundigen** | mensen die veel over een onderwerp weten |
 
 ### Vul-in-de-leegte
-1. Donald Trump is de ___ van de Verenigde Staten. (president)
-2. Hij was niet blij met zijn foto in het tijdschrift, want hij dacht dat ze zijn ___ hadden weggehaald. (haar)
-3. Zijn tweede ambtstermijn ___ grote veranderingen over de hele wereld. (brengt)
+1. De Verenigde Staten vallen boten aan in de Caraïbische Zee, wat door veel mensen als ___ wordt gezien.
+2. De Amerikaanse president Trump zegt "Wij blazen jullie weg", maar deskundigen zeggen dat deze aanvallen ___ zijn.
+3. De VS zet druk op president Maduro van Venezuela, en dat maakt het land ___.
 
 #### Oplossingen
-1. president
-2. haar
-3. brengt
+1. onrechtmatig
+2. illegaal
+3. ongerust
 
 ### Meerkeuzevragen
-1. Wat betekent "boos"?
-a) blij b) verdrietig c) kwaad d) moe
-2. Wat is een "termijn"?
-a) een soort auto b) een periode van tijd c) een soort huis d) een soort dier
-3. Wat betekent "wereldwijd"?
-a) alleen in Nederland b) overal ter wereld c) alleen in de stad d) alleen thuis
+1. Waarom is de VS bezig met het aanvallen van boten in de Caraïbische Zee?
+   a) Om te oefenen voor een oorlog
+   b) Omdat ze denken dat de boten van criminelen zijn
+   c) Omdat ze de boten mooi vinden
+   d) Omdat ze de boten willen kopen
+2. Waarom noemt het artikel deze acties "illegaal"?
+   a) Omdat de VN (Verenigde Naties) het heeft gezegd
+   b) Omdat de VN-Veiligheidsraad geen toestemming gaf
+   c) Omdat de VS geen lid is van de VN
+   d) Omdat de VN-Veiligheidsraad niet bestaat
+3. Wat is de rol van president Maduro in deze situatie?
+   a) Hij is de leider van de VS
+   b) Hij is de leider van Venezuela, en de VS zet druk op hem
+   c) Hij is de leider van de VN-Veiligheidsraad
+   d) Hij is de kapitein van een van de boten
 
 #### Antwoorden
-1. c) kwaad
-2. b) een periode van tijd
-3. b) overal ter wereld
+1. b) Omdat ze denken dat de boten van criminelen zijn
+2. b) Omdat de VN-Veiligheidsraad geen toestemming gaf
+3. b) Hij is de leider van Venezuela, en de VS zet druk op hem
 
 ### Waar / Niet Waar
-1. Donald Trump is de president van de Verenigde Staten. (Waar)
-2. De foto in Time Magazine liet Trump zien met lang haar. (Niet waar, de tekst zegt dat hij denkt dat zijn haar is weggehaald)
-3. Trump's tweede termijn brengt veranderingen alleen in Amerika. (Niet waar, het is wereldwijd)
+1. De Verenigde Staten vallen alleen boten aan in de Caraïbische Zee.
+2. Deskundigen zeggen dat de aanvallen illegaal zijn, maar president Trump gaat ermee door.
+3. President Maduro van Venezuela is blij met de acties van de VS.
 
 #### Antwoorden
-1. Waar
-2. Niet waar
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Niet Waar (Het artikel zegt dat de VS de boten opblaast, dus ze vallen ze niet alleen aan)
+2. Waar
+3. Niet Waar (Het artikel zegt dat de VS druk zet op Maduro, wat Venezuela onrustig maakt)<｜begin▁of▁sentence｜>

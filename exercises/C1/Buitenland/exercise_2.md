@@ -1,58 +1,61 @@
-# Wat deed Fifa-baas Gianni Infantino op de Gaza-top in Egypte?
+# CIA mag van regering-Trump acties uitvoeren in Venezuela
 
-**Titel: Wat deed FIFA-baas Gianni Infantino op de Gaza-top in Egypte?**
-**Samenvatting: FIFA-baas Gianni Infantino ging ook naar de bijeenkomst over Gaza in Egypte. Hij was daar omdat voetbal mensen kan verbinden. Dit is wat hij zelf zei.**
+[Vereenvoudigde titel: CIA mag van Trump acties uitvoeren in Venezuela]
+
+## Samenvatting
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/o7m6ou-venezuelan-president-nicolas-maduro-attends-indigenous-resistance-day-event-in-caracas/alternates/BASE_SIXTEEN_NINE/Venezuelan%20president%20Nicolas%20Maduro%20attends%20Indigenous%20Resistance%20Day%20event%20in%20Caracas)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/cia-mag-van-regering-trump-acties-uitvoeren-in-venezuela/35131945.html)
+
+[Vereenvoudigde samenvatting: Donald Trump is opnieuw president van Amerika. Dit leidt tot veranderingen wereldwijd. Dit artikel gaat over de CIA die acties mag uitvoeren in Venezuela.]
 
 ## Woordenschatuitbreiding
 
-### Woordenschat
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **FIFA** | De internationale voetbalorganisatie. |
-| **top** | Een belangrijke bijeenkomst of vergadering. |
-| **Egypte** | Een land in Afrika met veel geschiedenis. |
-| **verbinden** | Mensen met elkaar laten samenwerken of samenbrengen. |
-| **bijeenkomst** | Een meeting of vergadering waar mensen samenkomen. |
+| **acties** | daden of handelingen die worden uitgevoerd |
+| **president** | het staatshoofd van een land, de hoogste leider |
+| **veranderingen** | veranderingen, het anders worden of maken van iets |
+| **regering** | de groep mensen die een land bestuurt |
+| **internationaal** | tussen of met verschillende landen |
 
 ### Vul-in-de-leegte
-1. Gianni Infantino is de baas van ___.
-2. De bijeenkomst in Egypte ging over de toekomst van ___.
-3. Infantino zei dat voetbal mensen kan ___.
-
+1. De CIA voerde bepaalde acties uit in Venezuela, op instructie van de Amerikaanse ___.
+2. President Trump is opnieuw gekozen, wat leidt tot ___ op wereldschaal.
+3. De regering-Trump staat bepaalde acties toe, wat betekent dat de CIA toestemming heeft om deze ___ uit te voeren.
 #### Oplossingen
-1. FIFA
-2. Gaza
-3. verbinden
+1. regering
+2. veranderingen
+3. acties
 
 ### Meerkeuzevragen
-1. Waarom ging Gianni Infantino naar de bijeenkomst in Egypte?
-   a) Om te vakantie
-   b) Omdat voetbal mensen kan verbinden
-   c) Om te werken
-   d) Omdat hij in Egypte woont
-2. Wat is FIFA?
-   a) Een soort eten
-   b) Een internationale voetbalorganisatie
-   c) Een land
-   d) Een stad
-3. Waar vond de bijeenkomst plaats?
-   a) In Nederland
-   b) In Egypte
-   c) In Zwitserland
-   d) In Amerika
-
+1. Wat is de CIA?
+a) Een Amerikaans bedrijf
+b) Een internationale organisatie
+c) Een Amerikaanse overheidsorganisatie voor informatie en operaties
+d) Een Europese veiligheidsdienst
+2. Wat betekent "op wereldschaal"?
+a) Alleen in één land
+b) Overal ter wereld
+c) Alleen in Europa
+d) Alleen in ontwikkelde landen
+3. Waar gaat dit artikel over?
+a) De verkiezing van Trump
+b) De economie van Venezuela
+c) De toestemming voor CIA-acties in Venezuela
+d) Algemene wereldpolitiek
 #### Antwoorden
-1. b
+1. c
 2. b
-3. b
+3. c
 
 ### Waar / Niet Waar
-1. Gianni Infantino is de baas van de Verenigde Naties.
-2. De bijeenkomst in Egypte was over de toekomst van Frankrijk.
-3. Gianni Infantino kwam uit Zwitserland.
-
+1. De CIA mag zonder toestemming van de regering acties uitvoeren in andere landen.
+2. President Trump is de enige die dit besluit heeft genomen.
+3. Dit artikel gaat alleen over de Verenigde Staten.
 #### Antwoorden
 1. Niet Waar
 2. Niet Waar
-3. Waar<｜begin▁of▁sentence｜>
+3. Niet Waar

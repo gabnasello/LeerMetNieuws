@@ -1,64 +1,62 @@
-# Raad van State wijst Marine Le Pen af
+# Eenvoudige herhaling van het nieuwsbericht
 
-De Franse Raad van State heeft het verzoek van Marine Le Pen om mee te doen met de verkiezingen, afgewezen. Daardoor is ze voorlopig niet verkiesbaar.
+## Titel: Hamas vraagt meer tijd om lichamen van gijzelaars te bergen, Trump noemt het een “gruwelijk proces”
 
-## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/mhry9c-french-prime-minister-lecornu-holds-general-policy-speech-at-national-assembly/alternates/BASE_SIXTEEN_NINE/French%20Prime%20Minister%20Lecornu%20holds%20general%20policy%20speech%20at%20National%20Assembly)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/raad-van-state-verwerpt-verzoek-le-pen-om-deel-te-nemen-aan-verkiezingen/97703008.html)
-
-De Franse Raad van State heeft de aanvraag van Marine Le Pen afgewezen. Hierdoor kan ze voorlopig niet meedoen met de verkiezingen.
+## Samenvatting:
+Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **Raad** | een groep mensen die advies geeft of beslissingen neemt |
-| **verzoek** | een vraag of verzoek om iets te doen |
-| **verkiezingen** | de verkiezingen waar mensen stemmen voor een nieuwe leider |
-| **onverkiesbaar** | niet in staat zijn om gekozen te worden |
-| **afgewezen** | niet geaccepteerd of goedgekeurd |
+| **gijzelaars** | mensen die zijn gevangen genomen om iets gedaan te krijgen |
+| **onderhandelingen** | gesprekken tussen partijen om tot een oplossing te komen |
+| **oorlog** | een periode van gewapend conflict tussen landen of groepen |
+| **doorbraak** | een belangrijke, positieve ontwikkeling na lang wachten |
+| **ontwikkelingen** | veranderingen of gebeurtenissen die plaatsvinden |
 
-### Vul in de lege plekken
-1. Marine Le Pen heeft een ___ ingediend bij de Raad van State, maar die werd ___.  
-2. Omdat ze is ___, kan ze niet meedoen aan de ___.  
-3. Zonder toestemming van de Raad van State is een kandidaat ___ voor een functie.  
+### Vul-in-de-leegte
+1. De Hamas strijders vroegen meer tijd om de lichamen van de ___ te bergen.
+2. Na twee jaar oorlog in Gaza lijkt er eindelijk een ___ in de onderhandelingen.
+3. Volg hier de laatste ___ in dit nieuwsbericht.
 
 #### Oplossingen
-1. verzoek, afgewezen  
-2. afgewezen, verkiezingen  
-3. onverkiesbaar  
+1. gijzelaars
+2. doorbraak
+3. ontwikkelingen
 
 ### Meerkeuzevragen
-1. Wat is de Raad van State in deze context?  
-A) Een sportteam  
-B) Een adviesorgaan van de overheid  
-C) Een restaurant  
-D) Een soort van computer  
-2. Wat betekent "onverkiesbaar" in deze context?  
-A) Ze kan niet winnen bij verkiezingen.  
-B) Ze is erg populair.  
-C) Ze heeft al gewonnen.  
-D) Ze maakt zelf geen deel uit van de verkiezingen.  
-3. Wat is het gevolg van de afwijzing door de Raad van State?  
-A) Ze mag nu wel meedoen.  
-B) Ze wordt koningin.  
-C) Ze kan niet deelnemen aan de verkiezingen.  
-D) Ze krijgt een prijs.  
+1. Wat betekent “gijzelaars”?
+a) Vredesonderhandelaars
+b) Gevangen genomen personen
+c) Internationale waarnemers
+d) Oorlogsveteranen
+
+2. Wat is een “doorbraak”?
+a) Een militaire aanval
+b) Een diplomatiek succes
+c) Een natuurramp
+d) Een sportevenement
+
+3. Wat zijn “ontwikkelingen”?
+a) Oude gebeurtenissen
+b) Toekomstige plannen
+c) Huidige veranderingen en gebeurtenissen
+d) Onbelangrijke details
 
 #### Antwoorden
-1. B  
-2. A  
-3. C  
+1. b) Gevangen genomen personen
+2. b) Een diplomatiek succes
+3. c) Huidige veranderingen en gebeurtenissen
 
 ### Waar / Niet Waar
-1. Marine Le Pen kan nu deelnemen aan de verkiezingen.  
-2. De Raad van State heeft het verzoek goedgekeurd.  
-3. Marine Le Pen is nu onverkiesbaar.  
+1. De oorlog in Gaza duurde twee jaar.
+2. Er zijn geen onderhandelingen over vrede.
+3. Trump was betrokken bij dit proces.
 
 #### Antwoorden
-1. Niet waar  
-2. Niet waar  
-3. Waar
+1. Waar
+2. Niet waar
+3. Waar<｜begin▁of▁sentence｜>

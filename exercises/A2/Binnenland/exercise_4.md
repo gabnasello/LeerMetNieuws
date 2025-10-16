@@ -1,55 +1,62 @@
-# Vereenvoudigde titel en samenvatting
 
-**Titel**: Advocaten zeggen dat cliënten geen aanslag wilden plegen op premier: “Meneer De Wever hoeft zich geen zorgen te maken”
-**Samenvatting**: Een advocaat zegt dat er bij zijn cliënt alleen maar zand, een leeg colablikje met suiker, en wat loden balletjes voor een speelgoedpistool gevonden zijn. Er is niks ernstigs gevonden. De cliënt is een 18-jarige man die verdacht wordt van een aanslag op premier Bart De Wever.
+# Hoe heet de man in dit verhaal?
 
-# Woordenschatuitbreiding
+[Wat is de naam van de man in dit verhaal?]
+
+## Samenvatting
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/fer4t9-belgaimage-721275.jpg/alternates/BASE_SIXTEEN_NINE/Belgaimage-721275.jpg)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/bertrand-sassoye-de-witte-ridder-van-extreemlinks/97636940.html)
+
+Een man met de naam Bertrand Sassoye is belangrijk in een rechtszaak. De politie heeft vijf mensen gearresteerd na rellen op een protest. Maar de rechter moet nog beslissen over deze mensen. Ondertussen is Bertrand Sassoye nog steeds een bekende naam. Hij was eerder betrokken bij een groep genaamd CCC. Dit artikel vertelt over hem en de huidige situatie.
+
+## Woordenschatuitbreiding
 
 ### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **aanslag** | poging om iemand te doden of iets kapot te maken |
-| **advocaat** | iemand die voor je praat in de rechtbank |
-| **cliënt** | persoon die hulp vraagt aan een advocaat |
-| **verdacht** | waarvan men denkt dat je iets verkeerds gedaan hebt |
-| **premier** | de leider van de regering van een land |
+| **man** | een volwassen persoon van het mannelijk geslacht |
+| **naam** | hoe iemand genoemd wordt; bijvoorbeeld "Piet" of "Marie" |
+| **rechter** | een persoon die beslist of iemand schuldig is of niet in de rechtbank |
+| **groep** | een aantal mensen die samen iets doen of zijn |
+| **artikel** | een geschreven tekst in een krant of online die over een onderwerp gaat |
 
 ### Vul-in-de-leegte
-1. De advocaat zegt dat zijn cliënt ___ is van een misdaad.
-2. De politie vond alleen maar zand en een leeg blikje, maar geen ___.
-3. De premier heeft zich geen zorgen ___ maken over de situatie.
+1. Bertrand Sassoye is een ___ die veel aandacht krijgt.
+2. De rechter moet nog beslissen over de vijf ___ die zijn gearresteerd.
+3. De CCC is een ___ waar Bertrand Sassoye eerder bij betrokken was.
 #### Oplossingen
-1. verdacht
-2. wapen
-3. hoeft
+1. man
+2. mensen
+3. groep
 
 ### Meerkeuzevragen
-1. Wat is een "aanslag"?
-   a) een soort auto  
-   b) een poging om iemand te doden  
-   c) een soort feest  
-   d) een soort boek  
-2. Waarom is de advocaat belangrijk in dit verhaal?  
-   a) Hij rijdt de auto  
-   b) Hij kookt eten  
-   c) Hij verdedigt de persoon die verdacht wordt  
-   d) Hij speelt voetbal  
-3. Wat betekent "zich geen zorgen maken"?  
-   a) heel erg bang zijn  
-   b) niet ongerust zijn, het is oké  
-   c) heel hard schreeuwen  
-   d) heel veel eten  
+1. Wat is Bertrand Sassoye?
+   a) Een boek
+   b) Een man
+   c) Een plaats
+   d) Een gerecht
+2. Wat doet de rechter?
+   a) Hij schrijft artikelen.
+   b) Hij beslist of mensen schuldig zijn.
+   c) Hij organiseert protesten.
+   d) Hij is een vriend van Bertrand.
+3. Waar gaat dit artikel over?
+   a) Koken en eten
+   b) Een sportwedstrijd
+   c) Politie en rechtspraak na rellen
+   d) Een vakantiebestemming
 #### Antwoorden
 1. b
-2. c
-3. b
+2. b
+3. c
 
 ### Waar / Niet Waar
-1. De advocaat zegt dat zijn cliënt een aanslag wilde plegen. (Niet waar)
-2. De politie vond een echt wapen bij de man. (Niet waar)
-3. Premier De Wever is niet bang. (Waar)
+1. Bertrand Sassoye is een vrouw. (Niet waar)
+2. De rechter heeft al beslist over de vijf gearresteerden. (Niet waar)
+3. Dit artikel is geschreven door een auteur. (Waar)
 #### Antwoorden
 1. Niet waar
 2. Niet waar
-3. Waar
+3. Waar<｜begin▁of▁sentence｜>

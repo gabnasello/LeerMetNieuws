@@ -1,61 +1,66 @@
-# Vereenvoudigd naar Nederlands C1
-## Titel
-Trump niet blij met cover van 'Time Magazine': “Ze hebben mijn haar doen verdwijnen”
+# VS houdt niet op met aanvallen en zet druk op Maduro
+
+[Vereenvoudigde titel: VS blijft aanvallen uitvoeren en zet druk op Maduro]
 
 ## Samenvatting
-De tweede ambtstermijn van Donald Trump als president van de VS brengt wereldwijd veranderingen teweeg. Volg hier alle updates.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/f6zliz-74.jpeg/alternates/BASE_SIXTEEN_NINE/74.jpeg)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/vs-blijft-boten-opblazen-en-druk-zetten-op-venezolaanse-president-maduro/97637937.html)
+
+[Vereenvoudigde samenvatting: De VS voert militaire aanvallen uit op boten van "narcoterroristen" in de Caraïbische Zee en zet druk op het Venezolaanse regime. Volgens juridische experts zijn deze dodelijke aanvallen illegaal, maar dit houdt Trump niet tegen. "We gaan jullie wegblazen."]
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
-| Woorden | Definitie |
-|---|---|
-| **tweede** | opnieuw of nog een keer; hier: tweede keer dat iemand president is |
-| **president** | het staatshoofd van een republiek; iemand die de leiding heeft |
-| **wereldwijd** | over de hele wereld; overal ter wereld |
-| **veranderingen** | aanpassingen of wijzigingen in de situatie |
-| **amper** | nauwelijks; bijna niet |
+
+| Woord | Definitie |
+|-------|-----------|
+| **aanvallen** | een offensieve actie tegen iets of iemand |
+| **illegale** | niet toegestaan volgens de wet |
+| **druk** | kracht die wordt uitgeoefend, of invloed |
+| **regime** | de regering van een land, vooral als deze ondemocratisch is |
+| **experten** | mensen met veel kennis over een bepaald onderwerp |
 
 ### Vul-in-de-leegte
-1. Donald Trump is de ________ van de Verenigde Staten.
-2. Zijn tweede ambtstermijn brengt ________ veranderingen teweeg.
-3. Het artikel is ________ te lezen vanwege de eenvoudige taal.
+1. De VS voert militaire ___ uit op boten in de Caraïbische Zee.
+2. Volgens juridische experts zijn deze aanvallen ___, maar dit houdt Trump niet tegen.
+3. "We gaan jullie ___," zei Trump.
 
 #### Oplossingen
-1. president
-2. wereldwijd
-3. amper
+1. aanvallen
+2. illegaal
+3. wegblazen
 
 ### Meerkeuzevragen
-1. Wat is de hoofdgedachte van de tekst?
-   a) Trump verandert zijn kapsel
-   b) Trumps tweede termijn heeft wereldwijde gevolgen
-   c) Time Magazine heeft een slechte fotograaf
-   d) Trump is ontevreden over zijn salaris
+1. Wat is de houding van Trump tegenover de illegale acties?
+   a) Hij stopt ermee.
+   b) Hij negeert het en gaat door.
+   c) Hij keurt het af maar doet niets.
+   d) Hij voert ze alleen uit als het moet.
 
-2. Waar gaat de samenvatting over?
-   a) Een nieuwe kapsel voor Trump
-   b) De eerste ambtstermijn van Trump
-   c) Wereldwijde veranderingen door Trumps beleid
-   d) De cover van Time Magazine
+2. Wat is de reactie van de VS op de kritiek van experts?
+   a) Ze stoppen onmiddellijk.
+   b) Ze negeren het en gaan door.
+   c) Ze veranderen van strategie.
+   d) Ze bieden hun excuses aan.
 
-3. Hoe reageert Trump op de cover?
-   a) Hij is er blij mee
-   b) Hij wil een nieuwe fotograaf
-   c) Hij vindt dat zijn haar er niet goed uitziet
-   d) Hij kondigt verkiezingen aan
+3. Wat is het hoofddoel van deze acties volgens de samenvatting?
+   a) Het Venezolaanse regime onrustig maken.
+   b) De internationale wet overtreden.
+   c) Trump's populariteit vergroten.
+   d) Geen van de bovenstaande.
 
 #### Antwoorden
-1. b) Trumps tweede termijn heeft wereldwijd gevolgen
-2. c) Wereldwijde veranderingen door Trumps beleid
-3. c) Hij vindt dat zijn haar er niet goed uitziet
+1. b) Hij negeert het en gaat door.
+2. b) Ze negeren het en gaan door.
+3. a) Het Venezolaanse regime onrustig maken.
 
 ### Waar / Niet Waar
-1. De auteur van het artikel is bekend.
-2. Trump heeft alleen maar binnenlandse invloed.
-3. De foto op de cover is naar Trumps zin.
+1. De aanvallen worden alleen uitgevoerd in de Caraïbische Zee.
+2. Trump geeft toe dat de acties illegaal zijn maar blijft doorgaan.
+3. De acties hebben als enig doel het onrustig maken van het Venezolaanse regime.
 
 #### Antwoorden
-1. Niet waar
-2. Niet waar
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Waar
+2. Waar
+3. Waar<｜begin▁of▁sentence｜>

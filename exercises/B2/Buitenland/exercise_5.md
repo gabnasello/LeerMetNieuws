@@ -1,55 +1,61 @@
-# Voormalig Keniaans premier Raila Odinga overleden op 80-jarige leeftijd
+# Greta Thunberg over haar gevangenschap in Israël
 
-Raila Odinga, voormalig premier van Kenia en meermaals presidentskandidaat, is overleden in India. Zijn familie heeft dit bevestigd. Hij werd 80 jaar oud.
+Hoewel ze eerst weigerde te spreken, deelt Greta Thunberg nu voor het eerst haar ervaringen in Israël met een Zweedse krant. 
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/vho9p1-kenya-obit-raila-odinga/alternates/BASE_SIXTEEN_NINE/Kenya%20Obit%20Raila%20Odinga)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/voormalig-keniaans-premier-raila-odinga-overleden-op-80-jarige-leeftijd/97583487.html)
-
-Raila Odinga was een belangrijke politicus in Kenia. Hij was meerdere keren kandidaat voor het presidentschap. Hij is overleden in India op 80-jarige leeftijd.
+Greta Thunberg, een bekende activiste, werd gevangengezet in Israël. Ze weigerde eerst om over haar ervaring te praten, maar vertelt nu haar verhaal aan een Zweedse krant. Ze zegt dat ze werd bedreigd.
 
 ## Woordenschatuitbreiding
 
-### Woordenschat
-
+### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **premier** | de leider van de regering van een land |
-| **kandidaat** | iemand die meedoet aan een verkiezing om een functie te krijgen |
-| **overleden** | niet meer levend; gestorven |
-| **gebeurtenis** | iets dat plaatsvindt of gebeurt |
-| **leeftijd** | hoe oud iemand is |
+| **gevangenis** | een gebouw waar mensen die een misdrijf hebben gepleegd, worden opgesloten. |
+| **activist** | iemand die actie onderneemt om verandering in de samenleving te bewerkstelligen, bijvoorbeeld door te protesteren. |
+| **bedreigen** | iemand waarschuwen dat je iets ergs zult doen, tenzij die persoon doet wat jij wilt. |
+| **ervaring** | iets wat je meemaakt en waarvan je leert. |
+| **weigeren** | zeggen dat je iets niet zult doen. |
 
 ### Vul-in-de-leegte
-1. Raila Odinga was een belangrijke politicus in Kenia en streed voor de ___ van het land.
-2. Hij overleed op 80-jarige ___, wat betekende dat hij 80 jaar oud was.
-3. Zijn overlijden is een grote ___ voor Kenia, omdat hij veel voor het land heeft betekend.
+1. Greta Thunberg is een bekende **activist** die opkomt voor het klimaat.
+2. Tijdens haar gevangenschap voelde ze zich **bedreigd** door de autoriteiten.
+3. Ze wil haar **ervaring** delen om anderen te waarschuwen.
 
 #### Oplossingen
-1. toekomst
-2. leeftijd
-3. verlies
+1. activist
+2. bedreigd
+3. ervaring
 
 ### Meerkeuzevragen
-1. Wat was Raila Odinga's beroep?
-a) arts b) leraar c) politicus d) atleet
-2. Waar overleed Raila Odinga?
-a) Kenia b) India c) China d) VS
-3. Hoe oud was Raila Odinga bij zijn overlijden?
-a) 60 jaar b) 70 jaar c) 80 jaar d) 90 jaar
+1. Waarom sprak Greta eerst niet over haar gevangenschap?
+A) Ze vond het niet belangrijk
+B) Ze was te bang voor de gevolgen
+C) Ze wilde eerst met familie praten
+D) Ze had niets te vertellen
+
+2. Wat betekent "gevangenschap" in deze context?
+A) Vrijwillig verblijf
+B) Gedwongen opsluiting
+C) Een vakantie
+D) Een droom
+
+3. Wat is de "Aftonbladet"?
+A) Een Israëlische krant
+B) Een Zweedse krant
+C) Greta's bijnaam
+D) Een soort voedsel
 
 #### Antwoorden
-1. c) politicus
-2. b) India
-3. c) 80 jaar
+1. B) Ze was te bang voor de gegevens
+2. B) Gedwongen opsluiting
+3. B) Een Zweedse krant
 
 ### Waar / Niet Waar
-1. Raila Odinga was de premier van Kenia. (Waar)
-2. Raila Odinga overleed in Kenia. (Niet waar)
-3. Raila Odinga was 80 jaar oud toen hij overleed. (Waar)
+1. Greta Thunberg is een Nederlandse activist. (Niet waar)
+2. Greta sprak meteen over haar ervaring. (Niet waar)
+3. De tekst is geschreven in het Nederlands. (Waar)
 
 #### Antwoorden
-1. Waar
-2. Niet Waar
+1. Niet waar
+2. Niet waar
 3. Waar<｜begin▁of▁sentence｜>

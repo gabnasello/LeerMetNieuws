@@ -1,13 +1,9 @@
-# Amerikaans minister Hegseth roept Navo-bondgenoten op om meer te investeren in wapens voor Oekraïne
 
-[Vereenvoudigde titel: Amerikaanse minister roept NAVO-bondgenoten op om meer te investeren in wapens voor Oekraïne]
+# Militaire steun aan Oekraïne: wat is er aan de hand?
 
-## Samenvatting
+Een korte samenvatting in eenvoudig Nederlands
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/m41x6v-file82tu2y3ua3b1i3ihk995/alternates/BASE_SIXTEEN_NINE/file82tu2y3ua3b1i3ihk995)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/amerikaans-minister-hegseth-roept-navo-bondgenoten-op-om-meer-te-investeren-in-wapens-voor-oekrane/35173633.html)
-
-[Vereenvoudigde samenvatting: Een Amerikaanse minister vraagt de NAVO-landen om meer wapens te geven aan Oekraïne. Volg het laatste nieuws over de oorlog in Oekraïne. Download de DS Nieuws-app om op de hoogte te blijven.]
+De militaire steun van Europa aan Oekraïne is de afgelopen zomer sterk verminderd. Toch kunnen Europese NAVO-landen wapens kopen in de Verenigde Staten en deze vervolgens doorsturen naar Oekraïne. Op dit moment hebben minstens 17 landen toegezegd om aan dit systeem deel te nemen.
 
 ## Woordenschatuitbreiding
 
@@ -15,52 +11,41 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **minister** | Een belangrijk persoon in de regering die over een bepaald onderwerp gaat |
-| **NAVO** | Een groep van landen die samenwerken voor veiligheid |
-| **wapens** | Wapens zijn gereedschappen om mee te vechten, zoals geweren of tanks |
-| **Oekraïne** | Een land in Europa waar nu oorlog is |
-| **oorlog** | Een situatie waarin landen of groepen vechten, vaak met geweld |
+| **steun** | hulp of ondersteuning |
+| **verminderd** | minder geworden; gedaald |
+| **wapens** | wapens; militaire uitrusting |
+| **doorsturen** | naar iemand anders sturen; doorgeven |
+| **deelnemen** | meedoen; participeren |
 
 ### Vul-in-de-leegte
-1. De minister vraagt de NAVO-landen om meer ___ te sturen naar Oekraïne.
-2. Oekraïne heeft behoefte aan extra ___ om zich te verdedigen.
-3. De situatie in Oekraïne is ernstig, en er is dringend behoefte aan internationale ___.
+1. De militaire steun aan Oekraïne is de afgelopen zomer sterk ___.  
+2. Europese landen kunnen wapens kopen in de VS en deze vervolgens ___ naar Oekraïne.  
+3. Minstens 17 landen hebben toegezegd om aan dit systeem ___.  
 
 #### Oplossingen
-1. wapens
-2. ondersteuning
-3. hulp
+1. verminderd  
+2. doorsturen  
+3. deel te nemen  
 
 ### Meerkeuzevragen
-1. Wat is de NAVO?
-a) Een supermarktketen
-b) Een militaire alliantie van landen
-c) Een soort sportteam
-d) Een muziekgroep
-
-2. Waarom vraagt de minister om meer wapens voor Oekraïne?
-a) Omdat hij wil dat Oekraïne zichzelf kan verdedigen
-b) Omdat hij van oorlog houdt
-c) Omdat hij niet weet wat anders te doen
-d) Omdat hij denkt dat het niet nodig is
-
-3. Wat is de rol van de DS Nieuws-app in deze context?
-a) Het verkoopt tickets naar Oekraïne
-b) Het biedt games over de oorlog
-c) Het geeft updates over de situatie in Oekraïne
-d) Het is een social media platform voor soldaten
+1. Wat is er gebeurd met de militaire steun aan Oekraïne in de zomer?  
+A) Het is gestegen B) Het is gelijk gebleven C) Het is verminderd D) Het is verdwenen  
+2. Waar kunnen Europese NAVO-landen wapens kopen?  
+A) Alleen in Europa B) Alleen in Oekraïne C) In de Verenigde Staten D) In Azië  
+3. Hoeveel landen hebben minstens toegezegd om deel te nemen aan het systeem?  
+A) 10 B) 15 C) 17 D) 20  
 
 #### Antwoorden
-1. b
-2. a
-3. c
+1. C) Het is verminderd  
+2. C) In de Verenigde Staten  
+3. C) 17  
 
 ### Waar / Niet Waar
-1. De oorlog in Oekraïne is al afgelopen.
-2. De NAVO is een economische organisatie.
-3. De DS Nieuws-app biedt alleen nieuws over sport.
+1. De militaire steun aan Oekraïne is in de zomer toegenomen.  
+2. Europese landen kunnen wapens kopen in de VS en deze doorsturen naar Oekraïne.  
+3. Meer dan 20 landen hebben toegezegd om deel te nemen.  
 
 #### Antwoorden
-1. Niet waar
-2. Niet waar
-3. Niet waar
+1. Niet Waar  
+2. Waar  
+3. Niet Waar<｜begin▁of▁sentence｜>

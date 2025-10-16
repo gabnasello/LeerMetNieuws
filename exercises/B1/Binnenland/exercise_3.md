@@ -1,49 +1,47 @@
-# Verharding in Vlaanderen
 
-## Titel
-Verharding in Vlaanderen
+# Vakantie of zakelijk? Vliegtuigen vanuit Antwerpen
 
-## Samenvatring
-In Vlaanderen wordt er veel verhard. Volgens de nieuwste cijfers werd in 2023 elke dag 14,4 hectare verhard. Dit is het hoogste cijfer van de laatste tien jaar.
+## Samenvatting
+Sommige privévliegtuigen vliegen vanuit Antwerpen naar warme of zonnige bestemmingen. Dit zijn vaak vakantiebestemmingen, maar soms ook voor zaken. De luchtvaartsector zegt dat ze niet alleen met luxe bezig zijn, maar ook met nuttige vluchten.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **verharden** | hard worden of maken, bijvoorbeeld asfalt of beton dat de grond bedekt |
-| **verharding** | het proces waarbij grond bedekt wordt met harde materialen zoals asfalt of beton |
-| **record** | het hoogste of beste resultaat dat ooit is behaald |
-| **oppervlakte** | de grootte van een gebied, bijvoorbeeld in vierkante meters of hectares |
-| **cijfers** | getallen die informatie geven, bijvoorbeeld over hoeveelheid of grootte |
+| **privéjets** | kleine vliegtuigen voor weinig mensen |
+| **bestemming** | plaats waar je naartoe gaat |
+| **vakantie** | vrije tijd om te reizen en te ontspannen |
+| **zakelijk** | iets dat met werk te maken heeft |
+| **luchtvaartsector** | alle bedrijven en activiteiten rond vliegen |
 
 ### Vul-in-de-leegte
-1. In Vlaanderen wordt veel grond ___ met asfalt en beton.
-2. De ___ van verharding in 2023 was 14,4 hectare per dag.
-3. Dit is het hoogste ___ in de afgelopen tien jaar.
+1. De privéjets vliegen naar bestemmingen zoals Ibiza en Nice.
+2. Sommige vluchten zijn voor __vakantie__, andere voor __zakelijke__ doeleinden.
+3. De __luchtvaartsector__ benadrukt dat ze niet alleen met luxe bezig zijn.
 
 #### Oplossingen
-1. bedekt
-2. hoeveelheid
-3. cijfer
+1. de
+2. vakantie zakelijk
+3. luchtvaartsector
 
 ### Meerkeuzevragen
-1. Wat is 'verharding'?
-   a) Het planten van bomen
-   b) Het bedekken van grond met asfalt of beton
-   c) Het bouwen van huizen
-   d) Het schilderen van straten
-2. Wat is een 'record' in deze context?
-   a) Een muziekalbum
-   b) Het hoogste of beste resultaat ooit behaald
-   c) Een sportevenement
-   d) Een soort boek
-3. Wat zijn 'cijfers' in deze tekst?
-   a) Mensen die informatie verzamelen
-   b) Getallen die informatie geven, zoals over hoeveelheid
-   c) Soorten gereedschap
-   d) Soorten gebouwen
+1. Waar vliegen de privéjets vooral naartoe vanuit Antwerpen?  
+   a) Naar koude landen  
+   b) Naar warme en zonnige bestemmingen  
+   c) Alleen naar andere Europese steden  
+   d) Naar drukke zakelijke centra  
+2. Wat zegt de luchtvaartsector over hun activiteiten?  
+   a) Ze zijn alleen met luxe bezig.  
+   b) Ze doen ook nuttige vluchten, niet alleen luxe.  
+   c) Ze vliegen alleen naar vakantiebestemmingen.  
+   d) Ze zijn niet geïnteresseerd in zakelijke vluchten.  
+3. Zijn alle vluchten vanuit Antwerpen voor vakantie?  
+   a) Ja, alle vluchten zijn voor plezier.  
+   b) Nee, sommige zijn voor zakelijke reizen.  
+   c) Nee, alle vluchten zijn voor zakelijke doeleinden.  
+   d) Ja, maar alleen tijdens de zomer.  
 
 #### Antwoorden
 1. b
@@ -51,11 +49,11 @@ In Vlaanderen wordt er veel verhard. Volgens de nieuwste cijfers werd in 2023 el
 3. b
 
 ### Waar / Niet Waar
-1. Verharding betekent dat de grond bedekt wordt met materialen zoals asfalt.
-2. In 2023 was er minder verharding dan in voorgaande jaren.
-3. De cijfers over verharding zijn altijd hetzelfde.
+1. Privéjets vliegen alleen naar koude bestemmingen. (Niet waar)
+2. De luchtvaartsector zegt dat ze alleen met luxe bezig zijn. (Niet waar)
+3. Sommige vluchten zijn voor zakelijke doeleinden. (Waar)
 
 #### Antwoorden
-1. Waar
+1. Niet waar
 2. Niet waar
-3. Niet waar
+3. Waar<｜begin▁of▁sentence｜>

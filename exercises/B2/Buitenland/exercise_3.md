@@ -1,7 +1,13 @@
-# Amerikaanse minister vraagt bondgenoten om meer wapens voor Oekraïne
+# Militaire steun aan Oekraïne
+
+De Europese landen sturen minder wapens naar Oekraïne. Maar ze beloven om meer Amerikaanse wapens te kopen en die dan door te sturen naar Oekraïne.
 
 ## Samenvatting
-Een Amerikaanse minister heeft de NAVO-partners opgeroepen om meer te investeren in wapens voor Oekraïne. Dit artikel gaat over de oorlog in Oekraïne. Je kunt de nieuwsapp DS Nieuws downloaden om op de hoogte te blijven van belangrijke updates.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/jx1ybk-387.jpeg/alternates/BASE_SIXTEEN_NINE/387.jpeg)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/militaire-steun-aan-oekrane-slabakt-maar-de-europese-landen-beloven-meer-amerikaanse-wapens-te-kopen/97693844.html)
+
+De wapensteun van Europa aan Oekraïne is in de zomer flink gedaald. Maar Europese Navo-landen kunnen wel wapens kopen in de Verenigde Staten en die dan doorsturen naar Oekraïne. Minstens 17 landen hebben nu toegezegd om aan dit systeem mee te doen.
 
 ## Woordenschatuitbreiding
 
@@ -9,50 +15,41 @@ Een Amerikaanse minister heeft de NAVO-partners opgeroepen om meer te investeren
 
 | Woord | Definitie |
 |-------|-----------|
-| **minister** | een belangrijk persoon in de regering |
-| **investeren** | geld of middelen ergens in stoppen om het te verbeteren |
-| **wapens** | wapens, zoals geweren of tanks, die in een oorlog worden gebruikt |
-| **bondgenoten** | landen of groepen die samenwerken voor een gemeenschappelijk doel |
-| **oorlog** | een periode van gewapend conflict tussen landen of groepen |
+| **steun** | hulp of ondersteuning |
+| **wapens** | wapens zijn bijvoorbeeld geweren, pistolen of bommen |
+| **Oekraïne** | een land in Europa, nu in oorlog |
+| **Europa** | het werelddeel waar ook Nederland en België liggen |
+| **leveren** | hier: geven of sturen (bijvoorbeeld: 'Ze leveren wapens.') |
 
 ### Vul-in-de-leegte
-1. De minister vroeg andere landen om meer ___ te sturen naar Oekraïne.
-2. Landen werken samen als ze ___ zijn.
-3. Tijdens een ___, worden er vaak veel wapens gebruikt.
+1. Veel landen in Europa geven militaire steun aan ___. (Oekraïne)
+2. Nederland en België zijn twee landen in ___. (Europa)
+3. Veel landen hebben toegezegd om wapens te ___ naar Oekraïne. (leveren)
 
 #### Oplossingen
-1. wapens
-2. bondgenoten
-3. oorlog
+1. Oekraïne
+2. Europa
+3. leveren
 
 ### Meerkeuzevragen
-1. Wat is een 'minister'?
-   a) een soort auto  
-   b) een belangrijk persoon in de regering  
-   c) een soort dier  
-   d) een gebouw  
-2. Wat betekent 'investeren' in deze context?  
-   a) geld uitgeven aan wapens  
-   b) geld of middelen ergens in stoppen om het te verbeteren  
-   c) een feest vieren  
-   d) een boek lezen  
-3. Wat zijn 'bondgenoten'?  
-   a) tegenstanders in een spel  
-   b) groepen of landen die samenwerken  
-   c) een soort fruit  
-   d) een type vervoermiddel  
+1. Wat is de hoofdstad van Oekraïne?  
+   a) Kiev  b) Amsterdam  c) Brussel  d) Parijs  
+2. Welk continent ligt ten westen van Europa?  
+   a) Azië  b) Afrika  c) Noord-Amerika  d) Australië  
+3. Wat betekent 'leveren' in deze context?  
+   a) kopen  b) geven  c) verkopen  d) ontvangen  
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. a) Kiev  
+2. c) Noord-Amerika  
+3. b) geven  
 
 ### Waar / Niet Waar
-1. De Amerikaanse minister vroeg de NAVO om meer wapens te sturen. (Waar)
-2. Oekraïne is een bondgenoot van Rusland. (Niet waar)
-3. Investeren in wapens betekent geld uitgeven aan wapens. (Waar)
+1. Oekraïne is een land in Azië. (Niet waar)  
+2. Europa helpt Oekraïne met wapens. (Waar)  
+3. Alle Europese landen stoppen met het sturen van wapens. (Niet waar)  
 
 #### Antwoorden
-1. Waar
-2. Niet waar
-3. Waar
+1. Niet waar  
+2. Waar  
+3. Niet waar<｜begin▁of▁sentence｜>

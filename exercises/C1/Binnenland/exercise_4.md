@@ -1,61 +1,57 @@
-# Titel
-Advocaten ontkennen dat hun cliënt een aanslag op de premier wilde plegen: “Meneer De Wever hoeft zich nergens zorgen over te maken”
+# Vereenvoudigde oefeningen
+
+## Titel
+Bertrand Sassoye, de witte ridder van extreemlinks
 
 ## Samenvatting
-Bij een verdachte werd enkel zand, een leeg colablikje met suiker en loden bolletjes voor een speelgoedpistool gevonden. Volgens advocaat Johan Platteau was er geen bewijs dat zijn cliënt, de 18-jarige Abdulmajid E.J., een aanslag op premier Bart De Wever wilde plegen.
+Het Brusselse parket wil nog niets zeggen over de vijf verdachten die zijn gearresteerd na de rellen op de nationale betoging. Maar alle ogen zijn gericht op extreemlinks. Oud-CCC'er Bertrand Sassoye is nog lang niet vergeten.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
-
+### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **aanslag** | een (gepland) misdrijf of aanval |
-| **advocaat** | een persoon die anderen bijstaat in juridische zaken |
-| **ontkennen** | zeggen dat iets niet waar is of niet gebeurd is |
-| **verdacht** | iemand waarvan men denkt dat die iets verkeerds heeft gedaan |
-| **bewijs** | iets dat aantoont dat iets waar of gebeurd is |
+| **parket** | officiële instantie die misdaden onderzoekt |
+| **verdachten** | mensen waarvan wordt gedacht dat ze een misdaad hebben begaan |
+| **rechts** | politieke richting die conservatief is |
+| **links** | politieke richting die progressief is |
+| **extreem** | heel erg, heel sterk |
 
 ### Vul-in-de-leegte
-1. De advocaten ___ dat hun cliënt onschuldig is.
-2. Er is geen ___ dat de verdachte een aanslag wilde plegen.
-3. De politie vond zand, een leeg colablikje met suiker en loden bolletjes, maar geen echte ___.
-
+1. Het _____ onderzoekt misdaden en kan mensen arresteren.
+2. De politie heeft enkele _____ gearresteerd na de betoging.
+3. _____ is het tegenovergestelde van links in de politiek.
 #### Oplossingen
-1. beweren
-2. bewijs
-3. wapen
+1. parket
+2. verdachten
+3. Rechts
 
 ### Meerkeuzevragen
-1. Wat is een aanslag?
-   a) een soort dans
-   b) een gepland misdrijf of aanval
-   c) een soort fruit
-   d) een feestelijke gebeurtenis
-2. Wat betekent 'ontkennen'?
-   a) zeggen dat iets niet waar is
-   b) een cadeau geven
-   c) heel hard schreeuwen
-   d) iets nieuws beginnen
-3. Wat is een advocaat?
-   a) een soort auto
-   b) iemand die anderen helpt in juridische zaken
-   c) een persoon die graag kookt
-   d) een ijsjesverkoper
-
+1. Wat is 'parket' in deze context?
+   a) een soort saus
+   b) de officiële instantie die misdaden onderzoekt
+   c) een groep politici
+   d) een soort gerecht
+2. Wat betekent 'verdachten'?
+   a) mensen die zeker een misdaad hebben begaan
+   b) mensen waarvan wordt vermoed dat ze een misdaad hebben begaan
+   c) mensen die onschuldig zijn
+   d) mensen die getuige zijn geweest
+3. Wat is het tegenovergestelde van 'links' in de politiek?
+   a) extreem
+   b) rechts
+   c) progressief
+   d) conservatief
 #### Antwoorden
 1. b
-2. a
+2. b
 3. b
 
 ### Waar / Niet Waar
-1. De advocaten zeggen dat hun cliënt onschuldig is.
-2. Er werd een echt wapen bij de verdachte gevonden.
-3. Abdulmajid E.J. is de advocaat van de verdachte.
-
+1. Het Brusselse parket heeft al veel informatie vrijgegeven over de gearresteerden. (Niet waar)
+2. Bertrand Sassoye is een persoon die betrokken was bij de rellen. (Waar)
+3. Extreemlinks betekent 'heel erg links'. (Waar)
 #### Antwoorden
-1. Waar
-2. Niet Waar
-3. Niet Waar
-
----<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Waar
+3. Waar<｜begin▁of▁sentence｜>

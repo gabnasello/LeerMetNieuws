@@ -1,61 +1,66 @@
-# Verharding in Vlaanderen
+# Privéjets op Deurne vliegen vooral naar de zon
 
-[Vereenvoudigde titel: Verharding in Vlaanderen]
+Privéjets die op Deurne vliegen, gaan vooral naar plaatsen zoals Nice, Cannes en Ibiza. Dit zijn zonnige, vakantiebestemmingen. Maar de sector zegt dat ze niet alleen voor luxe en plezier vliegen. Ze doen ook andere vluchten.
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ye9tbt-reportage-over-de-opbouw-van-studentenkoten-in-gent-hier-stropkaai-foto-jimmy-kets/alternates/BASE_SIXTEEN_NINE/Reportage%20over%20de%20opbouw%20van%20studentenkoten%20in%20Gent%20Hier%20Stropkaai%20Foto%20Jimmy%20Kets)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/verharding-van-vlaanderen-op-recordsnelheid-elke-dag-verdwijnt-14-hectare-onder-asfalt-en-beton/97565539.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/wpp686-luchthaven-deurne/alternates/BASE_SIXTEEN_NINE/Luchthaven%20Deurne)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/privejets-vliegen-vanuit-deurne-op-de-eerste-plaats-naar-de-zon/97698380.html)
 
-[Vereenvoudigde samenvatting: In Vlaanderen wordt er veel grond verhard. Uit nieuwe cijfers blijkt dat in 2023 elke dag 14,4 hectare aan grond werd verhard. Dit is het hoogste aantal in de afgelopen tien jaar.]
+Privéjets die vanop de luchthaven van Deurne vertrekken, gaan vooral naar zonnige vakantiebestemmingen zoals Nice, Cannes en Ibiza. Maar de sector benadrukt dat ze niet alleen voor luxe reizen. Ze voeren ook andere soorten vluchten uit.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **verharden** | hard maken, bijvoorbeeld door asfalt of beton aan te leggen |
-| **grondgebruik** | hoe de grond wordt gebruikt, bijvoorbeeld voor landbouw, natuur of bebouwing |
-| **cijfer** | getal of nummer dat iets meet of weergeeft |
-| **oppervlakte** | de grootte van een gebied in vierkante meters of hectares |
-| **duurzaam** | goed voor het milieu en de toekomst, niet schadelijk |
+| **privéjet** | een klein, privé vliegtuig voor weinig passagiers |
+| **luchthaven** | een plaats waar vliegtuigen opstijgen en landen |
+| **vakantie** | een periode waarin je niet werkt en vaak reist |
+| **sector** | een groep bedrijven die hetzelfde doen |
+| **vluchten** | reizen met een vliegtuig |
 
 ### Vul-in-de-leegte
-1. In Vlaanderen wordt veel grond _____, wat betekent dat er asfalt of beton op komt.
-2. De _____ van de verharding is in 2023 het hoogst in tien jaar.
-3. Het _____ van de verharding zorgt voor problemen, zoals water dat niet weg kan.
+1. Privéjets vliegen vanuit Deurne naar bestemmingen zoals Nice, Cannes en ___.  
+2. De sector zegt dat ze niet alleen voor ___ reizen.  
+3. Naast vakantievluchten doen ze ook andere ___.
+
 #### Oplossingen
-1. verhard
-2. hoeveelheid
-3. gebrek
+1. Ibiza
+2. luxe
+3. vluchten
 
 ### Meerkeuzevragen
-1. Wat is 'verharden' in deze context?
-   a) zachter maken
-   b) hard maken met asfalt of beton
-   c) alleen maar planten
-   d) tijdelijk bedekken
-2. Waarom is de verharding een probleem?
-   a) Het ziet er niet mooi uit.
-   b) Het zorgt voor water dat niet weg kan, waardoor overstromingen kunnen ontstaan.
-   c) Het is te duur.
-   d) Het maakt de grond te hard voor sporten.
-3. Wat is een 'duurzame' oplossing?
-   a) Meer asfalt leggen.
-   b) Meer parkeerplaatsen aanleggen.
-   c: Groene daken en waterdoorlatende stenen gebruiken.
-   d: Niets doen en wachten.
+1. Wat is Deurne?  
+a) een stad  
+b) een luchthaven  
+c) een hotel  
+d) een treinstation  
+
+2. Waar vliegen privéjets vooral naartoe?  
+a) naar koude plaatsen  
+b) naar zonnige vakantiebestemmingen  
+c) naar drukke steden  
+d) naar afgelegen dorpen  
+
+3. Wat benadrukt de sector?  
+a) Ze vliegen alleen voor luxe.  
+b) Ze vliegen nooit naar warme plaatsen.  
+c) Ze doen alleen vakantievluchten.  
+d) Ze doen ook andere vluchten, niet alleen vakantie.  
+
 #### Antwoorden
 1. b
 2. b
-3. c
+3. d
 
-### Waar / Niet Waar
-1. Verharding is alleen maar goed omdat het sterke wegen oplevert.
-2. De verharding in Vlaanderen is in 2023 het hoogst in tien jaar.
-3. Duurzame oplossingen kunnen helpen om verharding tegen te gaan.
+### Waar / Niet waar
+1. Privéjets van Deurne vliegen alleen naar koude, noordelijke plaatsen.  
+2. De sector zegt dat ze alleen voor luxe reizen.  
+3. Alle vluchten van Deurne zijn vakantievluchten.  
+
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Waar<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Niet waar
+3. Niet waar

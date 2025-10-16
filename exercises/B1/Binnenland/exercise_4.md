@@ -1,47 +1,58 @@
-# Eenvoudige titel en samenvatting
-**Titel**: Advocaten zeggen: "Onze cliënt wilde geen aanslag plegen op de premier"
-**Samenvatting**: De advocaat zegt dat ze bij de verdachte alleen maar onschuldige dingen vonden, zoals zand en een leeg colablikje. Zij denkt dat haar cliënt onschuldig is en dat de premier zich geen zorgen hoeft te maken.
+# Vereenvoudigde titel en samenvatting
 
-# Woordenschatuitbreiding
+**Titel:** Bertrand Sassoye, de witte ridder van extreemlinks  
+**Samenvatting:** Het Brusselse parket wil nog niets zeggen over de vijf verdachten die zijn gearresteerd na de rellen op de nationale betoging. Maar iedereen kijkt naar extreemlinks. De voormalige CCC'er Bertrand Sassoye is nog lang niet vergeten.
 
-## Woordenlijst
+## Woordenschatuitbreiding
+
+### Woordelijst
+
 | Woord | Definitie |
 |-------|-----------|
-| **advocaat** | iemand die voor de rechter een verdachte verdedigt |
-| **aanslag** | een plan om iemand te vermoorden of iets kapot te maken |
-| **bewijs** | iets dat laat zien dat iets waar of niet waar is |
-| **verdachte** | iemand die wordt verdacht van een misdaad |
-| **onafhankelijk** | neutraal, niet voor of tegen iemand |
+| **verdachten** | mensen waarvan wordt gedacht dat ze iets misdaan hebben |
+| **rechts** | politieke richting die vaak voor traditie en vrijheid is |
+| **links** | politieke richting die vaak voor gelijkheid en sociale rechtvaardigheid is |
+| **betoging** | een protestactie op straat |
+| **extreem** | heel erg of ver doorgeschoten |
 
-### Vul de lege plekken in
-1. De advocaten zeggen dat er geen _____ is dat hun cliënt een aanslag wilde plegen.
-2. De gevonden voorwerpen, zoals zand en een leeg colablikje, zijn geen _____ van een misdaad.
-3. Een _____ onderzoek is nodig om de waarheid te vinden.
+### Vul-in-de-leegte
+1. De politie heeft vijf ___ gearresteerd na de rellen.
+2. Bertrand Sassoye is een bekend persoon in de ___ politiek.
+3. Extreemlinks betekent dat je heel erg aan de ___ kant staat.
 
 #### Oplossingen
-1. bewijs
-2. bewijs
-3. onafhankelijk
+1. verdachten
+2. linkse
+3. linkse
 
 ### Meerkeuzevragen
-1. Wat is een "aanslag"?
-a) een soort feest b) een plan om iemand te verwonden of te doden c) een soort auto d) een soort boek
-2. Wat doet een advocaat?
-a) kookt eten b) verdedigt iemand in de rechtbank c) geeft les op school d) rijdt een bus
-3. Wat betekent "onafhankelijk"?
-a) heel erg oud b) niet partijdig, neutraal c) heel erg duur d) heel erg snel
+1. Wat betekent "extreemlinks"?
+  a) heel erg links
+  b) een beetje links
+  c) rechts
+  d) geen van bovenstaande
+2. Wat is een "betoging"?
+  a) een feest
+  b) een protestmars
+  c) een sportwedstrijd
+  d) een concert
+3. Wie is Bertrand Sassoye?
+  a) een voetballer
+  b) een bekende persoon in de linkse politiek
+  c) een docent
+  d) een zakenman
 
 #### Antwoorden
-1. b
+1. a
 2. b
 3. b
 
-### Waar of Niet Waar
-1. De advocaten zeggen dat hun cliënt onschuldig is.
-2. Er werd een echt pistool gevonden bij de verdachte.
-3. De advocaten zeggen dat de premier zich geen zorgen hoeft te maken.
+### Waar / Niet Waar
+1. Bertrand Sassoye is een actuele politicus. (Niet waar)
+2. De Brusselse parket praat graag over verdachten. (Niet waar)
+3. Extreemlinks is hetzelfde als rechts. (Niet waar)
 
 #### Antwoorden
-1. Waar
+1. Niet waar
 2. Niet waar
-3. Waar<｜begin▁of▁sentence｜>
+3. Niet waar<｜begin▁of▁sentence｜>

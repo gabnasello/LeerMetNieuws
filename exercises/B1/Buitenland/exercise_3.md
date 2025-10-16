@@ -1,58 +1,58 @@
-# Oefeningen
+# Oekraïne steun
+
+**Titel: Militaire steun aan Oekraïne wordt minder, maar Europese landen beloven meer Amerikaanse wapens te kopen**  
+**Samenvatting:** De Europese steun met wapens voor Oekraïne is in de zomer sterk verminderd. Europese NAVO-landen kunnen echter wapens kopen in de VS en die dan doorsturen naar Oekraïne. Minstens 17 landen hebben nu toegezegd om aan dit systeem deel te nemen.
 
 ## Woordenschatuitbreiding
 
-### Woordenschatlijst
+### Woordelijst
 
 | Woord | Betekenis |
 |-------|----------|
-| **investeren** | geld of tijd gebruiken om iets te verbeteren of te maken |
-| **wapens** | voorwerpen zoals geweren of bommen die in een oorlog worden gebruikt |
-| **Oekraïne** | een land in Europa waar nu oorlog is |
-| **minister** | iemand die een belangrijk deel van de regering leidt, zoals de minister van onderwijs |
-| **bondgenoten** | landen of groepen die samenwerken en elkaar helpen |
+| **militair** | alles wat met het leger te maken heeft |
+| **steun** | hulp of ondersteuning |
+| **wapen** | een wapen is een middel om mee te vechten, zoals een geweer |
+| **leveren** | ergens heen brengen of aanbieden |
+| **systeem** | een manier van werken, een plan of methode |
 
 ### Vul de lege plekken in
-
-1. Nederland moet meer ___ in onderwijs, zodat kinderen betere scholen krijgen.
-2. Veel landen zijn ___ van Oekraïne in de oorlog.
-3. De minister van defensie zorgt voor de ___ van het land.
+1. Europese landen kunnen wapens ___ naar Oekraïne.
+2. Het nieuwe systeem helpt om militaire steun te ___.
+3. Minstens 17 landen hebben toegezegd om aan het ___ deel te nemen.
 
 #### Oplossingen
-1. investeren
-2. bondgenoten
-3. wapens
+1. leveren
+2. versterken
+3. systeem
 
-### Kies het juiste antwoord
-
-1. Wat doet een minister?  
-   a) koken  
-   b) een land of gebied besturen  
-   c) zingen  
-   d) slapen  
-2. Waarom zijn bondgenoten belangrijk?  
-   a) Ze maken muziek.  
-   b) Ze helpen elkaar in moeilijke tijden.  
-   c) Ze dansen samen.  
-   d) Ze eten samen.  
-3. Waar is Oekraïne?  
-   a) op de maan  
-   b) in Europa  
-   c) in de oceaan  
-   d) in een boek  
+### Meerkeuzevragen
+1. Wat is een "wapen"?
+   a) een soort gereedschap  
+   b) een wapen om mee te vechten  
+   c) een soort medicijn  
+   d) een feestelijk evenement  
+2. Wat betekent "leveren" in deze context?  
+   a) verkopen  
+   b) afleveren of aanbieden  
+   c) produceren  
+   d) ontvangen  
+3. Wat is de "Europese Unie" in deze context?  
+   a) een continent  
+   b) een economische en politieke unie van Europese landen  
+   c) een soort munt  
+   d) een sportteam  
 
 #### Antwoorden
 1. b
 2. b
 3. b
 
-### Waar of Niet Waar
-
-1. Oekraïne is een land in Azië.  
-2. Bondgenoten werken samen.  
-3. Investeren betekent iets kapotmaken.
+### Waar / Niet Waar
+1. Militaire steun aan Oekraïne is toegenomen.  
+2. Europese landen kunnen wapens kopen in de VS.  
+3. Alle Europese landen doen mee aan het nieuwe systeem.  
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar<｜begin▁of▁sentence｜>
+1. Niet Waar  
+2. Waar  
+3. Niet Waar

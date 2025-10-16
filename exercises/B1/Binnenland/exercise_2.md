@@ -1,58 +1,55 @@
-# Antwerp Airport: privéjets zonder passagiers
+# De nieuwe Lunch Garden is niet meer wat het was – en dat is goed nieuws
 
 ## Samenvatting
-Antwerp Airport heeft veel privévluchten. Maar een kwart van die vluchten heeft geen enkele passagier aan boord. Dit is nodig, maar niet ideaal.
+In Wijnegam is een vernieuwde Lunch Garden geopend. Het interieur is modern geworden. Ook zijn de recepten van de bekende gerechten aangepast. Culinair journalist Evelien Rutten heeft het restaurant al kunnen proberen.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
 
-| Woord | Definitie |
+| Woorden | Definitie |
 |-------|-----------|
-| **privéjets** | privévliegtuigen, kleine vliegtuigen voor rijke mensen |
-| **passagier** | iemand die meereist in een voertuig |
-| **luchthaven** | plaats waar vliegtuigen starten en landen |
-| **klant** | persoon die iets koopt of gebruikt |
-| **noodzakelijk** | iets dat echt moet, heel nodig is |
+| **vernieuwd** | opnieuw gemaakt, vernieuwd |
+| **eigentijds** | modern, van deze tijd |
+| **culinair** | met betrekking tot koken en eten |
+| **proeven** | (hier) iets uitproberen of testen |
+| **aangepast** | veranderd, aangepast aan nieuwe eisen |
 
 ### Vul-in-de-leegte
-1. Antwerp Airport heeft veel privéjets, maar sommige vluchten hebben geen ___ aan boord.
-2. Zonder passagiers zijn deze vluchten toch ___, omdat ze goederen of post vervoeren.
-3. De luchthaven zegt dat dit een ___ kwaad is, maar nodig voor de economie.
-
+1. De nieuwe Lunch Garden heeft een ___ interieur.
+2. Evelien Rutten is een ___ journalist.
+3. De recepten zijn ___ aan de nieuwe stijl.
 #### Oplossingen
-1. passagiers
-2. belangrijk
-3. noodzakelijk
+1. eigentijds
+2. culinair
+3. aangepast
 
 ### Meerkeuzevragen
-1. Wat is Antwerp Airport bekend voor in dit artikel?
-   a) Alleen passagiersvluchten
-   b) Alleen goederenvluchten
-   c) Veel privéjets, sommige zonder passagiers
-   d) Alleen militaire vluchten
-2. Waarom hebben sommige vluchten geen passagiers?
-   a) Omdat ze te duur zijn
-   b) Omdat ze alleen cargo of post vervoeren
-   c) Omdat ze niet mogen vliegen
-   d) Omdat ze te klein zijn
-3. Hoe noemt de luchthavan dit soort vluchten?
-   a) Een groot probleem
-   b) Een mooie kans
-   c) Een noodzakelijk kwaad
-   d) Een onnodige luxe
-
+1. Wat is er nieuw aan de Lunch Garden in Wijnegem?
+   a) Alleen de naam
+   b) Alleen het eten
+   c) Het interieur en het eten
+   d) Alleen de locatie
+2. Wie is Evelien Rutten?
+   a) Een kok
+   b) Een restaurantmanager
+   c) Een journalist die over eten schrijft
+   d) Een klant
+3. Waarom is dit goed nieuws volgens de titel?
+   a) Omdat het restaurant gesloten is
+   b) Omdat het restaurant nu moderner is en beter aan huidige wensen voldoet
+   c) Omdat het restaurant duurder is geworden
+   d) Omdat het restaurant nu kleiner is
 #### Antwoorden
-1. c) Veel privéjets, sommige zonder passagiers
-2. b) Omdat ze alleen cargo of post vervoeren
-3. c) Een noodzakelijk kwaad
+1. c
+2. c
+3. b
 
 ### Waar / Niet Waar
-1. Alle vluchten van Antwerp Airport hebben passagiers aan boord.
-2. De luchthaven vindt dit een positieve situatie.
-3. Sommige vluchten hebben geen passagiers maar zijn toch belangrijk.
-
+1. De Lunch Garden in Wijnegem is helemaal hetzelfde gebleven.
+2. Evelien Rutten heeft de nieuwe Lunch Garden al bezocht.
+3. De recepten zijn hetzelfde gebleven.
 #### Antwoorden
 1. Niet waar
-2. Niet waar
-3. Waar<｜begin▁of▁sentence｜>
+2. Waar
+3. Niet waar<｜begin▁of▁sentence｜>

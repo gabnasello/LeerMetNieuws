@@ -1,9 +1,7 @@
-# Eenvoudige Titel en Samenvatting
+# Vereenvoudigde tekst oefeningen
 
-**Titel**: “Professor Tom Coppens over de bouw van huizen: ‘Het heeft geen zin om stenen te verwijderen als er steeds nieuwe bijkomen’”  
-**Samenvatting**: Professor Tom Coppens heeft kritiek op het plan van de Vlaamse regering. Hij zegt: “Waarom zou je stenen weghalen als er steeds nieuwe bijkomen?” Ook vindt hij het slecht dat minister Jo Brouns de regels voor bouwvergunningen nog makkelijker wil maken.  
-
----
+**Titel:** Beveiliging voerde veel interventies uit in Brussel-Zuid  
+**Samenvatting:** De beveiliging van de trein moest in Brussel-Zuid elke dag gemiddeld twintig keer iets doen. Dat is een nieuw record.
 
 ## Woordenschatuitbreiding
 
@@ -11,50 +9,47 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **professor** | een leraar op de universiteit |
-| **bouwen** | het maken van huizen of andere gebouwen |
-| **verwijderen** | weghalen of weggooien |
-| **vergunning** | een soort toestemming van de overheid om iets te mogen doen |
-| **makkelijk** | niet moeilijk, gemakkelijk |
+| **beveiliging** | mensen die veiligheid zorgen |
+| **interventies** | ingrijpen of iets doen om te helpen |
+| **gemiddeld** | wat meestal gebeurt, het gemiddelde |
+| **record** | het beste of meeste ooit |
+| **station** | plaats waar treinen stoppen |
 
 ### Vul-in-de-leegte
-1. Een professor is een __ op de universiteit.
-2. De gemeente gaf een __ om een huis te bouwen.
-3. Als iets __ is, is het niet moeilijk.
-
+1. De beveiliging doet elke dag een interventie in het ___.
+2. Het aantal interventies in Brussel-Zuid is een nieuw ___.
+3. De beveiliging zorgt voor ___ in het station.
 #### Oplossingen
-1. leraar
-2. vergunning
-3. makkelijk
+1. station
+2. record
+3. veiligheid
 
 ### Meerkeuzevragen
-1. Wat is een "professor"?
-   a) een student  
-   b) een leraar op de universiteit  
-   c) een bouwvakker  
-   d) een soort voedsel  
-2. Wat betekent "verwijderen"?
-   a) toevoegen  
-   b) weghalen of verwijderen  
-   c) repareren  
-   d) negeren  
-3. Wat is een "vergunning"?
-   a) een soort feest  
-   b) een soort toestemming van de overheid  
-   c) een soort straf  
-   d) een soort muziek  
-
+1. Wat is de taak van de beveiliging?  
+   a) Koffie drinken  
+   b) Veiligheid bewaken  
+   c) Treinen besturen  
+   d) Geen van deze  
+2. Waar vindt de meeste actie plaats?  
+   a) In een supermarkt  
+   b) In station Brussel-Zuid  
+   c) In een park  
+   d) Op de maan  
+3. Hoe vaak moet de beveiliging gemiddeld per dag iets doen?  
+   a) 1 keer  
+   b) 5 keer  
+   c) 20 keer  
+   d) 100 keer  
 #### Antwoorden
 1. b
 2. b
-3. b
+3. c
 
 ### Waar / Niet Waar
-1. Professor Coppens is het eens met het plan van minister Brouns.
-2. "Verwijderen" betekent hetzelfde als "weghalen".
-3. Een vergunning is nodig om te mogen bouwen.
-
+1. De beveiliging doet niks in Brussel-Zuid.  
+2. Het aantal interventies is een nieuw hoogtepunt.  
+3. De beveiliging werkt alleen 's nachts.  
 #### Antwoorden
 1. Niet waar
 2. Waar
-3. Waar
+3. Niet waar

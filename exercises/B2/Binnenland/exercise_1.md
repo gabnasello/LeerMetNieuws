@@ -1,13 +1,15 @@
-# Herbouwen
+# Oefeningen
 
-[Titel vereenvoudigd: Professor over bouwen: "Waarom stoppen met beton als we doorgaan?"]
+## Titel
+
+Securail had vorig jaar 7000 interventies in Brussel-Zuid
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/x9ql2m-4bfe0230-f8cb-11ea-a8a1-534ce6854a1c.jpg/alternates/BASE_SIXTEEN_NINE/4bfe0230-f8cb-11ea-a8a1-534ce6854a1c.jpg)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/professor-ruimtelijke-ordening-tom-coppens-over-onthutsende-cijfers-ontharden-heeft-weinig-zin-als-de-betonkraan-blijft-openstaan/97689369.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ftzpvr-brussel-zuid.jfif/alternates/BASE_SIXTEEN_NINE/Brussel%20Zuid.jfif)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/securail-moest-vorig-jaar-7.000-interventies-doen-in-station-brussel-zuid/97801424.html)
 
-Professor Tom Coppens vraagt zich af of de Vlaamse bouwplannen wel kunnen werken. "Waarom stoppen met asfalt en beton als de regels juist makkelijker worden?" zegt hij over minister Brouns.
+Securail is de beveiligingsdienst van de NMBS. Zij moesten vorig jaar gemiddeld 20 keer per dag tussenkomen in Brussel-Zuid. Dat is een nieuw record.
 
 ## Woordenschatuitbreiding
 
@@ -15,47 +17,50 @@ Professor Tom Coppens vraagt zich af of de Vlaamse bouwplannen wel kunnen werken
 
 | Woord | Definitie |
 |-------|-----------|
-| **bouwen** | iets maken, zoals een huis of een weg |
-| **betalen** | geld geven voor iets |
-| **plan** | een idee over wat je gaat doen |
-| **maken** | iets creëren of produceren |
-| **vragen** | iets willen weten |
+| **interventie** | tussenkomst, bijvoorbeeld om te helpen |
+| **gemiddeld** | het gemiddelde, wat meestal gebeurt |
+| **dienst** | een dienst, bijvoorbeeld voor hulp |
+| **record** | een nieuw hoogtepunt, het beste of slechtste ooit |
+| **tussenkomen** | ingrijpen, tussenbeide komen |
 
 ### Vul-in-de-leegte
-1. We moeten ___ of we kunnen doorgaan met bouwen.
-2. Het is belangrijk om te ___ voordat je een groot project start.
-3. De minister wil de regels ___, maar professor Coppens vraagt zich af of dat slim is.
+1. Securail is een beveiligings___ die optreedt in Brussel-Zuid.
+2. Vorig jaar vond er gemiddeld elke dag een ___ plaats in Brussel-Zuid.
+3. Dit nieuwe ___ toont aan dat de situatie daar zorgwekkend is.
+
 #### Oplossingen
-1. beslissen
-2. overleggen
-3. veranderen
+1. dienst
+2. interventie
+3. record
 
 ### Meerkeuzevragen
-1. Wat betekent "ontharden" in deze context?
-   a) stoppen met bouwen
-   b) meer bomen planten
-   c) stoppen met het gebruik van beton en asfalt
-   d) een feest vieren
-2. Waarom maakt professor Coppens zich zorgen?
-   a) Omdat er te weinig huizen zijn.
-   b) Omdat de regels te streng worden.
-   c) Omdat de plannen niet werken als de regels veranderen.
-   d) Omdat hij een nieuwe baan wil.
-3. Wat is de hoofdgedachte van het artikel?
-   a) Bouwen is altijd goed.
-   b) Soms moet je stoppen en nadenken.
-   c] Nieuwe regels zijn altijd beter.
-   d] Meer asfalt is de oplossing.
+1. Wat is Securail?
+   a) Een treinstation
+   b) Een veiligheidsdienst
+   c) Een soort trein
+   d) Een winkelketen
+2. Waar is de interventie van Securail?
+   a) In heel België
+   b) Alleen in Brussel
+   c) Alleen in Brussel-Zuid
+   d) Alleen in Brussel-Zuid station
+3. Hoe vaak moest Securail gemiddeld per dag tussenkomen in 2024?
+   a) 1 keer
+   b) 10 keer
+   c) 20 keer
+   d) 7000 keer
+
 #### Antwoorden
-1. c
-2. c
-3. b
+1. b
+2. d
+3. c
 
 ### Waar / Niet Waar
-1. Professor Coppens is het eens met de nieuwe regels.
-2. Het artikel zegt dat het makkelijker maken van vergunningen goed is voor de bouw.
-3. De professor stelt vragen bij de bouwplannen.
+1. Securail is de politie van de NMBS.
+2. Er waren in 2024 dagelijks gemiddeld 20 interventies in Brussel-Zuid.
+3. Dit is een positief record.
+
 #### Antwoorden
-1. Niet Waar
-2. Niet Waar
-3. Waar
+1. Waar
+2. Waar
+3. Niet waar

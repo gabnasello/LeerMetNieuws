@@ -1,66 +1,55 @@
-# Vliegtuigen zonder passagiers
-
-[Vereenvoudigde titel: Vliegtuigen zonder passagiers]
+# De vernieuwde Lunch Garden is niet meer hetzelfde – en dat is goed
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/8gdebp-ed975b08-02df-11e8-90e1-98eb7d1f633b.jpg/alternates/BASE_SIXTEEN_NINE/ed975b08-02df-11e8-90e1-98eb7d1f633b.jpg)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/kwart-privejets-vliegt-vanuit-antwerp-airport-zonder-ook-maar-een-passagier-kunnen-van-klant-niet-verwachten-dat-die-in-file-gaat-staan/97447413.html)
-
-[Vereenvoudigde samenvatting: De luchthaven van Antwerpen heeft meer en meer privévluchten zonder passagiers. Dit is nodig, maar niet ideaal.]
+In Wijnegem heropende de allereerste vernieuwde Lunch Garden. Het heeft een modern interieur en de recepten van hun bekende gerechten zijn aangepast. Culinair journalist Evelien Rutten heeft het alvast mogen proeven.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **privévluchten** | vluchten met kleine vliegtuigen voor enkele personen |
-| **passagier** | iemand die meereist in een voertuig |
-| **luchthaven** | plaats waar vliegtuigen opstijgen en landen |
-| **klant** | iemand die een product of dienst koopt |
-| **file** | een lange rij van stilstaand of langzaam rijdend verkeer |
+| **heropende** | opnieuw openen of openen na een verbouwing |
+| **eigentijds** | modern en passend bij deze tijd |
+| **culinair** | met betrekking tot koken en lekker eten |
+| **voorproeven** | van tevoren proeven, voorproeven |
+| **vernieuwde** | vernieuwd, opgefrist of gemoderniseerd |
 
-### Vul-in-de-leegte
-1. Privévluchten zonder passagiers zijn een ___ van de luchtvaart.
-2. De luchthaven van Antwerpen heeft te maken met veel ___ zonder passagiers.
-3. De klant kan niet verwacht worden om in de ___ te staan.
-
+### Vul in de lege plekken
+1. De Lunch Garden in Wijnegem heeft een ___ interieur.
+2. Evelien Rutten is een ___ journalist.
+3. De vernieuwde Lunch Garden is een ___ versie van het restaurant.
 #### Oplossingen
-1. noodzakelijk kwaad
-2. privévluchten
-3. file
+1. eigentijds
+2. culinair
+3. vernieuwde
 
 ### Meerkeuzevragen
-1. Wat is een "privévlucht"?
-   a) Een vlucht met alleen de piloot
-   b) Een vlucht met VIP-passagiers
-   c) Een vlucht zonder passagiers
-   d) Een vlucht met alleen familie aan boord
-
-2. Waarom heeft Antwerp Airport meer privévluchten zonder passagiers?
-   a) Omdat mensen liever met de trein gaan
-   b) Omdat het goedkoper is zonder passagiers
-   c) Omdat de luchthaven dit verplicht
-   d) Omdat het een noodzakelijk kwaad is
-
-3. Wat is een "file"?
-   a) Een plaats waar auto's geparkeerd staan
-   b) Een lange rij van stilstaand of langzaam rijdend verkeer
-   c) Een soort restaurant
-   d) Een snelweg zonder verkeer
-
+1. Wat is de Lunch Garden?
+   a) Een tuin met planten  
+   b) Een restaurantketen  
+   c) Een kookprogramma  
+   d) Een soort salade  
+2. Wat betekent 'culinair'?
+   a) Goedkoop  
+   b) Met betrekking tot koken  
+   c) Ongezond  
+   d) Saai  
+3. Waarom is het goed nieuws dat de Lunch Garden is veranderd?
+   a) Omdat het nu gesloten is  
+   b) Omdat het nu moderner en beter is  
+   c) Omdat het nu duurder is  
+   d) Omdat het nu kleiner is  
 #### Antwoorden
-1. c) Een vlucht zonder passagiers
-2. d) Omdat het een noodzakelijk kwaad is
-3. b) Een lange rij van stilstaand of langzaam rijdend verkeer
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Antwerp Airport heeft alleen vluchten met passagiers.
-2. Privévluchten zonder passagiers zijn een goed voorbeeld voor andere luchthavens.
-3. De klant kan verwacht worden om in de file te staan.
-
+1. De Lunch Garden in Wijnegem is nog precies hetzelfde als voorheen.
+2. Evelien Rutten is een culinair journalist.
+3. De vernieuwde Lunch Garden is slecht nieuws.
 #### Antwoorden
 1. Niet waar
-2. Niet waar
-3. Waar<｜begin▁of▁sentence｜>
+2. Waar
+3. Niet waar<｜begin▁of▁sentence｜>

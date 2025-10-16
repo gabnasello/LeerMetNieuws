@@ -1,8 +1,6 @@
-# Eenvoudige versie
+# VS blijft boten opblazen en druk zetten op Venezolaanse president Maduro
 
-## Titel: Trump niet blij met cover van 'Time Magazine': "Ze hebben mijn haar doen verdwijnen"
-
-## Samenvatting: De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates.
+De Verenigde Staten blijven boten opblazen en druk uitoefenen op de Venezolaanse president Maduro. Ondanks dat experts zeggen dat deze aanvallen illegaal zijn, gaat de VS ermee door. Dit zorgt voor veel onrust in de regio.
 
 ## Woordenschatuitbreiding
 
@@ -10,50 +8,50 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **tweede** | volgend op de eerste; opnieuw |
-| **amtermijn** | periode waarin iemand een functie heeft |
-| **veranderen** | anders worden |
-| **belangrijk** | van groot belang |
-| **wereldwijd** | over de hele wereld |
+| **opblazen** | kapotmaken, vernietigen |
+| **druk** | kracht die iets of iemand beïnvloedt |
+| **illegale** | niet toegestaan, tegen de wet |
+| **onrust** | onrustige, gespannen situatie |
+| **experten** | mensen die veel weten over een onderwerp |
 
 ### Vul-in-de-leegte
-1. Donald Trump was de ___ president van de Verenigde Staten.
-2. Zijn tweede ambtstermijn bracht ___ veranderingen teweeg.
-3. De foto op de cover was niet naar zijn ___ ; hij was er niet blij mee.
+1. De VS blijft boten ___ op zee, ook al is dat illegaal.
+2. De acties van de VS zorgen voor veel ___ in de regio.
+3. Volgens ___ zijn de aanvallen van de VS niet toegestaan.
 
 #### Oplossingen
-1. eerste
-2. wereldwijd
-3. zin
+1. De VS blijft boten **opblazen** op zee, ook al is dat illegaal.
+2. De acties van de VS zorgen voor veel **onrust** in de regio.
+3. Volgens **experten** zijn de aanvallen van de VS niet toegestaan.
 
 ### Meerkeuzevragen
-1. Waarover ging het artikel?
-   a) Trump's nieuwe kapsel
-   b) Trump's tweede ambtstermijn
-   c) Trump's favoriete tijdschrift
-   d) Trump's vakantieplannen
-2. Waarom was Trump niet blij?
-   a) Omdat hij niet op de cover wilde staan
-   b) Omdat hij zijn haar niet mooi vond
-   c) Omdat hij de foto niet mooi vond
-   d) Omdat hij niet meer president wilde zijn
-3. Wat betekent "wereldwijd"?
-   a) Alleen in Amerika
-   b) Over de hele wereld
-   c) Alleen in Europa
-   d) Alleen in grote steden
+1. Wat betekent "opblazen" in deze context?  
+   a) Schoonmaken  
+   b) Vernietigen  
+   c) Opblazen  
+   d) Verplaatsen  
+   **Antwoord: b) Vernietigen**
 
-#### Antwoorden
-1. b
-2. c
-3. b
+2. Waarom is er onrust in de regio?  
+   a) Omdat de VS stopt met aanvallen  
+   b) Omdat de VS doorgaat met illegale acties  
+   c) Omdat er een feest is  
+   d) Omdat het regent  
+   **Antwoord: b) Omdat de VS doorgaat met illegale acties**
+
+3. Wat zeggen de experts over de acties van de VS?  
+   a) Ze zijn legaal  
+   b) Ze zijn illegaal  
+   c) Ze zijn onduidelijk  
+   d) Ze zijn onbelangrijk  
+   **Antwoord: b) Ze zijn illegaal**
 
 ### Waar / Niet Waar
-1. Trump was blij met de cover van Time Magazine. (Niet waar)
-2. Trump was president van de Verenigde Staten. (Waar)
-3. De veranderingen waren alleen in Amerika. (Niet waar)
+1. De VS stopt met het opblazen van boten omdat het illegaal is.  
+2. De acties van de VS zorgen voor onrust in de regio.  
+3. Experts zeggen dat de acties van de VS legaal zijn.  
 
 #### Antwoorden
-1. Niet waar
-2. Waar
+1. Niet waar  
+2. Waar  
 3. Niet waar<｜begin▁of▁sentence｜>

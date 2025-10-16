@@ -1,66 +1,48 @@
-# Amerikaans minister Hegseth roept Navo-bondgenoten op om meer te investeren in wapens voor Oekraïne
-
-De Amerikaanse minister Hegseth vraagt de NAVO-landen om meer geld te geven voor wapens voor Oekraïne.
+# Oorlog in Oekraïne
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/m41x6v-file82tu2y3ua3b1i3ihk995/alternates/BASE_SIXTEEN_NINE/file82tu2y3ua3b1i3ihk995)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/amerikaans-minister-hegseth-roept-navo-bondgenoten-op-om-meer-te-investeren-in-wapens-voor-oekrane/35173633.html)
-
-Amerikaanse minister Hegseth vraagt de NAVO-bondgenoten om meer te investeren in wapens voor Oekraïne. Dit is belangrijk voor de oorlog in Oekraïne.
+De Europese landen geven minder wapens aan Oekraïne. Maar ze beloven om meer Amerikaanse wapens te kopen en die naar Oekraïne te sturen. Op die manier steunen ze Oekraïne.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
-
 | Woord | Definitie |
 |-------|-----------|
-| **minister** | een belangrijk persoon in de regering |
-| **NATO** | een groep van landen die samenwerken voor veiligheid |
-| **wapens** | voorwerpen die worden gebruikt in oorlog, zoals geweren |
-| **Oekraïne** | een land in Europa waar nu oorlog is |
-| **investeer** | geld geven voor een doel |
+| **wapens** | wapens, zoals geweren of tanks, voor oorlog |
+| **steunen** | helpen of ondersteunen |
+| **beloven** | zeggen dat je iets zult doen |
+| **kopen** | betalen om iets te krijgen |
+| **sturen** | naar een andere plaats brengen |
 
-### Vul-in-de-leegte
-1. De minister vraagt de NAVO-landen om meer te ___ in wapens voor Oekraïne. (investeer)
-2. Oekraïne heeft veel ___ nodig om zich te verdedigen. (wapens)
-3. De NATO is een groep van landen die samenwerken voor ___. (veiligheid)
+### Vul in de lege plekken
+1. De Europese landen ___ wapens naar Oekraïne.
+2. Ze ___ meer wapens te kopen uit de VS.
+3. Ze zullen deze wapens ___ naar Oekraïne.
 
 #### Oplossingen
-1. investeren
-2. wapens
-3. veiligheid
+1. sturen
+2. beloven
+3. sturen
 
 ### Meerkeuzevragen
-1. Wat doet minister Hegseth?
-   a) Hij gaat op vakantie
-   b) Hij vraagt om meer geld voor wapens
-   c) Hij bezoekt Oekraïne
-   d) Hij speelt een spel
-
-2. Waarom is dit verzoek belangrijk?
-   a) Omdat Oekraïne geen hulp nodig heeft
-   b) Omdat de oorlog snel kan eindigen met meer steun
-   c) Omdat de NATO niet bestaat
-   d) Omdat niemand zich zorgen maakt
-
-3. Wat is de NATO?
-   a) Een soort eten
-   b) Een groep landen die samenwerken voor veiligheid
-   c) Een stad in Amerika
-   d) Een nieuwe technologie
+1. Wat betekent "steunen" in deze context?
+   a) tegenwerken b) helpen c) negeren d) bekritiseren
+2. Wat doen de Europese landen met de wapens?
+   a) Ze verkopen ze. b) Ze sturen ze naar Oekraïne. c) Ze houden ze voor zichzelf. d) Ze vernietigen ze.
+3. Waarom kopen de landen wapens uit de VS?
+   a) Omdat ze goedkoper zijn. b) Omdat ze groter zijn. c) Om Oekraïne te steunen. d) Omdat ze mooi zijn.
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. b) helpen
+2. b) Ze sturen ze naar Oekraïne.
+3. c) Om Oekraïne te steunen.
 
 ### Waar / Niet Waar
-1. Minister Hegseth vraagt om minder geld voor wapens. (Niet waar)
-2. Oekraïne heeft geen wapens nodig. (Niet waar)
-3. De NATO helpt met veiligheid. (Waar)
+1. De Europese landen sturen meer wapens naar Oekraïne. (Niet Waar)
+2. Ze kopen wapens uit de VS om Oekraïne te steunen. (Waar)
+3. Ze sturen de wapens naar andere landen, niet naar Oekraïne. (Niet Waar)
 
 #### Antwoorden
-1. Niet waar
-2. Niet waar
-3. Waar<｜begin▁of▁sentence｜>
+1. Niet Waar
+2. Waar
+3. Niet Waar<｜begin▁of▁sentence｜>

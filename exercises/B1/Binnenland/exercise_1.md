@@ -1,8 +1,13 @@
-# Stadsplanning en bouwbeleid
+# Veiligheid in Brussel-Zuid
 
-## Titel en Samenvatting
-**Titel:** Professor Tom Coppens over de bouwplannen: "Minder beton is zinloos als we blijven bouwen"
-**Samenvatting:** Professor Tom Coppens stelt belangrijke vragen over de bouwplannen in Vlaanderen. Hij vraagt of de plannen wel kunnen werken. Ondertussen wil minister Jo Brouns de regels voor bouwvergunningen juist makkelijker maken.
+[Vereenvoudigde titel: Veiligheid in Brussel-Zuid]
+
+## Samenvatting
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ftzpvr-brussel-zuid.jfif/alternates/BASE_SIXTEEN_NINE/Brussel%20Zuid.jfif)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/securail-moest-vorig-jaar-7.000-interventies-doen-in-station-brussel-zuid/97801424.html)
+
+[Vereenvoudigde samenvatting: De beveiliging van de trein, Securail, moet elke dag 20 keer optreden in Brussel-Zuid. Dat is een nieuw record.]
 
 ## Woordenschatuitbreiding
 
@@ -10,38 +15,38 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **bouwen** | iets maken, zoals een huis of een gebouw |
-| **beton** | een heel hard, stevig materiaal, vaak gebruikt om wegen of gebouwen van te maken |
-| **vergunning** | een officiële toestemming om iets te mogen doen |
-| **veranderen** | iets anders maken, of anders worden |
-| **zinloos** | zonder nut of doel, waarvoor je geen reden ziet |
+| **beveiliging** | bescherming, veiligheid |
+| **optreden** | in actie komen, iets doen |
+| **record** | het beste of hoogste aantal ooit |
+| **gemiddeld** | wat meestal gebeurt, het normale aantal |
+| **station** | een gebouw waar treinen stoppen |
 
 ### Vul-in-de-leegte
-1. De nieuwe regels maken het makkelijker om een ___ te krijgen.
-2. Het is ___ om te blijven bouwen als je ook natuur wilt behouden.
-3. Als je iets verandert, moet je ook de oorzaak ___.
+1. Securail zorgt voor de ___ in het station. (beveiliging)
+2. Elke dag moeten ze gemiddeld ___ keer optreden. (twintig)
+3. Het aantal keren dat ze optreden is een nieuw ___. (record)
 
 #### Oplossingen
-1. vergunning
-2. zinloos
-3. veranderen
+1. beveiling
+2. twintig
+3. record
 
 ### Meerkeuzevragen
-1. Wat is "beton"?
-   a) Een soort plant  
-   b) Een soort steen of materiaal  
-   c) Een soort dier  
-   d) Een soort voedsel
-2. Wat betekent "veranderen"?
-   a) Hetzelfde blijven  
-   b) Iets anders worden of maken  
-   c) Iets kapotmaken  
-   d) Iets vergeten
-3. Wat is een "vergunning"?
-   a) Een soort feest  
-   b) Een officieel document met toestemming  
-   c) Een soort straf  
-   d) Een soort gebouw
+1. Waar is dit station?
+   a) Amsterdam
+   b) Brussel
+   c) Parijs
+   d) Berlijn
+2. Wat betekent 'optreden'?
+   a) dansen
+   b) in actie komen
+   c) zingen
+   d) slapen
+3. Wat is een 'record'?
+   a) een muziekopname
+   b) het hoogste aantal ooit
+   c) een sportevenement
+   d) een dagboek
 
 #### Antwoorden
 1. b
@@ -49,13 +54,11 @@
 3. b
 
 ### Waar / Niet Waar
-1. Professor Coppens is het eens met de nieuwe bouwregels. (Niet waar)
-2. Brouns wil de regels strenger maken. (Niet waar)
-3. Bouwen met beton is goed voor het milieu. (Niet waar)
+1. Securail werkt in Brussel-Zuid. (Waar)
+2. Ze treden 10 keer per dag op. (Niet waar)
+3. Het is een nieuw record. (Waar)
 
 #### Antwoorden
-1. Niet waar
+1. Waar
 2. Niet waar
-3. Niet waar
-
----<｜begin▁of▁sentence｜>
+3. Waar

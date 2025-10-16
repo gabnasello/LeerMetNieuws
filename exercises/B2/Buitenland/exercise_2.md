@@ -1,7 +1,9 @@
-# Wat deed Fifa-baas Gianni Infantino op de Gaza-top in Egypte?
+# Amerikaanse politiek en Venezuela
+
+[Titel: Amerikaanse politiek en Venezuela]
 
 ## Samenvatting
-Fifa-baas Gianni Infantino was in Egypte voor een bijeenkomst over de toekomst van Gaza. Hij was daar omdat voetbal mensen kan verbinden.
+De Amerikaanse president Donald Trump heeft een tweede termijn. Zijn beleid brengt veranderingen over de hele wereld. Dit artikel gaat over de acties van de CIA in Venezuela, met toestemming van de regering-Trump.
 
 ## Woordenschatuitbreiding
 
@@ -9,41 +11,47 @@ Fifa-baas Gianni Infantino was in Egypte voor een bijeenkomst over de toekomst v
 
 | Woord | Definitie |
 |-------|-----------|
-| **Fifa-baas** | de leider van de internationale voetbalorganisatie |
-| **toekomst** | de tijd die nog moet komen |
-| **bijeenkomst** | een vergadering of ontmoeting tussen mensen |
-| **verbinden** | samenbrengen of met elkaar in contact brengen |
-| **voetbal** | een populaire sport met een bal en twee goals |
+| **president** | het staatshoofd van een land |
+| **beleid** | de plannen en acties van een regering |
+| **acties** | dingen die gedaan worden, activiteiten |
+| **toestemming** | toestemming geven of zeggen dat iets mag |
+| **international** | tussen verschillende landen |
 
 ### Vul-in-de-leegte
-1. Gianni Infantino is de baas van ___.
-2. De bijeenkomst in Egypte ging over de toekomst van ___.
-3. Infantino zei dat voetbal mensen kan ___.
-
+1. De Amerikaanse president heeft een tweede ____.
+2. Het beleid van Trump brengt veranderingen in de ____.
+3. De CIA heeft ____ gekregen van de regering-Trump.
 #### Oplossingen
-1. FIFA
-2. Gaza
-3. verbinden
+1. termijn
+2. wereld
+3. toestemming
 
 ### Meerkeuzevragen
-1. Waar vond de bijeenkomst plaats?
-   a) Nederland b) Egypte c) Zwitserland d) Gaza
-2. Wat is de hoofdactiviteit van FIFA?
-   a) Vissen b) Voetbal c) Schaken d) Schilderen
-3. Wat is het tegenovergestelde van "verenigen"?
-   a) Verbinden b) Scheiden c) Verliezen d) Veranderen
-
+1. Wat is de CIA?
+A) een soort voedsel
+B) een Amerikaanse overheidsorganisatie
+C) een beroemde persoon
+D) een land in Europa
+2. Wat betekent 'internationaal'?
+A) alleen in één land
+B) tussen verschillende landen
+C) onder de grond
+D) boven de wolken
+3. Waarover gaat dit artikel?
+A) koken en eten
+B) sport en spel
+C) Amerikaans beleid in Venezuela
+D) feest en vakantie
 #### Antwoorden
-1. b
-2. b
-3. b
+1. B
+2. B
+3. C
 
 ### Waar / Niet Waar
-1. Gianni Infantino is de baas van FIFA.
-2. De bijeenkomst was in Nederland.
-3. Volgens Infantino kan voetbal mensen scheiden.
-
+1. Donald Trump is de president van Amerika. (Waar)
+2. De CIA heeft toestemming gekregen van de regering-Trump. (Waar)
+3. Venezuela is een provincie in Nederland. (Niet waar)
 #### Antwoorden
 1. Waar
-2. Niet waar
+2. Waar
 3. Niet waar<｜begin▁of▁sentence｜>
