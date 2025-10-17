@@ -1,66 +1,62 @@
-# Privéjets op Deurne vliegen vooral naar de zon
-
-Privéjets die op Deurne vliegen, gaan vooral naar plaatsen zoals Nice, Cannes en Ibiza. Dit zijn zonnige, vakantiebestemmingen. Maar de sector zegt dat ze niet alleen voor luxe en plezier vliegen. Ze doen ook andere vluchten.
+# Eenvoudige les over re-integratie
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/wpp686-luchthaven-deurne/alternates/BASE_SIXTEEN_NINE/Luchthaven%20Deurne)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/privejets-vliegen-vanuit-deurne-op-de-eerste-plaats-naar-de-zon/97698380.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/dd3eb4-file82pudqfjyuw1443g8ga7/alternates/BASE_SIXTEEN_NINE/file82pudqfjyuw1443g8ga7)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/leidinggevenden-over-re-integratie-langdurig-zieken-na-een-fysiek-probleem-vind-ik-de-aanpak-helderder-dan-na-mentale-problemen/95411311.html)
 
-Privéjets die vanop de luchthaven van Deurne vertrekken, gaan vooral naar zonnige vakantiebestemmingen zoals Nice, Cannes en Ibiza. Maar de sector benadrukt dat ze niet alleen voor luxe reizen. Ze voeren ook andere soorten vluchten uit.
+Sommige bedrijven hebben nog geen plan voor de terugkeer van langdurig zieke werknemers. Uit onderzoek blijkt dat leidinggevenden het lastiger vinden om te gaan met mentale problemen dan met fysieke problemen.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **privéjet** | een klein, privé vliegtuig voor weinig passagiers |
-| **luchthaven** | een plaats waar vliegtuigen opstijgen en landen |
-| **vakantie** | een periode waarin je niet werkt en vaak reist |
-| **sector** | een groep bedrijven die hetzelfde doen |
-| **vluchten** | reizen met een vliegtuig |
+| **re-integratie** | het weer laten meedoen van iemand die ziek was |
+| **langdurig** | voor een lange tijd |
+| **leidinggevenden** | mensen die leidinggeven aan een team |
+| **mentaal** | met betrekking tot de geest en gedachten |
+| **fysiek** | met betrekking tot het lichaam |
 
 ### Vul-in-de-leegte
-1. Privéjets vliegen vanuit Deurne naar bestemmingen zoals Nice, Cannes en ___.  
-2. De sector zegt dat ze niet alleen voor ___ reizen.  
-3. Naast vakantievluchten doen ze ook andere ___.
+1. Het is belangrijk dat werknemers na ziekte weer ___ kunnen gaan werken.
+2. Sommige leidinggevenden vinden het lastig om te praten over ___ problemen.
+3. Re-integratie na een ___ ziekte is vaak makkelijker dan na mentale problemen.
 
 #### Oplossingen
-1. Ibiza
-2. luxe
-3. vluchten
+1. meedoen
+2. mentale
+3. fysieke
 
 ### Meerkeuzevragen
-1. Wat is Deurne?  
-a) een stad  
-b) een luchthaven  
-c) een hotel  
-d) een treinstation  
-
-2. Waar vliegen privéjets vooral naartoe?  
-a) naar koude plaatsen  
-b) naar zonnige vakantiebestemmingen  
-c) naar drukke steden  
-d) naar afgelegen dorpen  
-
-3. Wat benadrukt de sector?  
-a) Ze vliegen alleen voor luxe.  
-b) Ze vliegen nooit naar warme plaatsen.  
-c) Ze doen alleen vakantievluchten.  
-d) Ze doen ook andere vluchten, niet alleen vakantie.  
+1. Wat is re-integratie?
+   a) een nieuw soort baan
+   b) het weer laten meedoen na ziekte
+   c) een sportevenement
+   d) een soort vakantie
+2. Wat is een voorbeeld van een fysiek probleem?
+   a) niet kunnen slapen
+   b) niet kunnen lopen
+   c) niet kunnen concentreren
+   d) niet kunnen onthouden
+3. Waarom is re-integratie belangrijk?
+   a) het is verplicht volgens de wet
+   b) het is leuk voor werknemers
+   c) het bespaart kosten voor werkgevers
+   d) alle antwoorden zijn correct
 
 #### Antwoorden
 1. b
 2. b
 3. d
 
-### Waar / Niet waar
-1. Privéjets van Deurne vliegen alleen naar koude, noordelijke plaatsen.  
-2. De sector zegt dat ze alleen voor luxe reizen.  
-3. Alle vluchten van Deurne zijn vakantievluchten.  
+### Waar / Niet Waar
+1. Alle bedrijven hebben een re-integratiebeleid. (Niet waar)
+2. Mentale problemen zijn makkelijker te bespreken dan fysieke problemen. (Niet waar)
+3. Re-integratie helpt werknemers om weer mee te doen. (Waar)
 
 #### Antwoorden
 1. Niet waar
 2. Niet waar
-3. Niet waar
+3. Waar<｜begin▁of▁sentence｜>

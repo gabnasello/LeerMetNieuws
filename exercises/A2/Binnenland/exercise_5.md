@@ -1,12 +1,4 @@
-
-# K3 is populair bij jong en oud
-
-## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/x1e9vc-k3-the-originals-afas-dome-antwerpen-3102025/alternates/BASE_SIXTEEN_NINE/K3%20The%20Originals%20Afas%20Dome%20Antwerpen%203102025)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/de-magie-doet-het-hem-nog-altijd-ik-ging-half-als-grap-naar-k3-maar-kreeg-tranen-in-mijn-ogen/97160469.html)
-
-De reünieconcerten van K3 zijn een groot succes. Veel mensen komen naar de concerten, zelfs volwassenen. Linde Bossuyt, een expert in kinder-tv, zegt dat dit niet verwonderlijk is. "Als je de populariteit van K3 niet begrijpt, dan onderschat je hun culturele impact."
+# Oefeningen
 
 ## Woordenschatuitbreiding
 
@@ -14,47 +6,52 @@ De reünieconcerten van K3 zijn een groot succes. Veel mensen komen naar de conc
 
 | Woord | Definitie |
 |-------|-----------|
-| **concerten** | muziekoptredens die je live kunt bekijken |
-| **populair** | veel mensen vinden het leuk of interessant |
-| **expert** | iemand die veel weet over een bepaald onderwerp |
-| **cultureel** | alles wat te maken heeft met kunst, muziek en gewoonten van een groep mensen |
-| **impact** | de invloed of effect dat iets heeft |
+| **demonstratie** | het laten zien van iets, bijvoorbeeld een vliegshow |
+| **minister** | een belangrijk persoon in de regering |
+| **luchtruim** | de ruimte in de lucht boven een gebied |
+| **defensie** | bescherming van het land |
+| **drones** | onbemande vliegtuigjes die op afstand bestuurd worden |
 
 ### Vul-in-de-leegte
-1. K3 trekt veel mensen naar hun __concerten__.
-2. K3 is erg __populair__ bij zowel kinderen als volwassenen.
-3. Linde Bossuyt is een __expert__ in kinder-tv.
+1. De minister van Defensie zei dat de demonstratie niet doorging: "not the ___" (time)
+2. Het luchtruim boven Brussel moest gesloten worden voor de vliegende ___. (drones)
+3. De minister vond het niet het juiste ___ om de show te houden. (moment)
 
 #### Oplossingen
-1. concerten
-2. populair
-3. expert
+1. time
+2. drones
+3. moment
 
 ### Meerkeuzevragen
-1. Wat is K3?
-a) een soort fruit b) een muziekgroep c) een sportteam d) een soort boek  
-2. Waarom noemt de auteur K3 populair?  
-a) Omdat alleen kinderen van K3 houden.  
-b) Omdat K3 alleen in België bekend is.  
-c) Omdat K3 fans heeft van alle leeftijden.  
-d) Omdat K3 niet meer actief is.  
-3. Wat is de rol van Linde Bossuyt?  
-a) Ze is een fan van K3.  
-b) Ze is een expert die uitlegt over K3.  
-c) Ze is een lid van K3.  
-d) Ze is een journalist.  
+1. Waarom ging de demonstratie niet door?
+   a) Omdat het te duur was
+   b) Omdat de minister vond dat het moment niet goed was
+   c) Omdat er geen toestemming was
+   d) Omdat het weer te slecht was
+
+2. Wat is de rol van de minister van Defensie?
+   a) Alleen voor defensie
+   b) Alleen voor buitenlandse zaken
+   c) Over de luchtmacht en defensie
+   d) Alleen voor het leger
+
+3. Wat betekent "not the time, not the place"?
+   a) Het is nooit en nergens goed voor
+   b) Het is hier en nu niet geschikt
+   c) Het is altijd en overal goed
+   d) Het is alleen in de avond
 
 #### Antwoorden
-1. b) een muziekgroep  
-2. c) Omdat K3 fans heeft van alle leeftijden.  
-3. b) Ze is een expert die uitlegt over K3.  
+1. b
+2. c
+3. b
 
 ### Waar / Niet Waar
-1. Alleen kinderen gaan naar K3-concerten.  
-2. Linde Bossuyt is een expert in kinder-tv.  
-3. K3 heeft alleen invloed in België.  
+1. De demonstratie met de F-35's ging wel door.
+2. Het luchtruim boven Brussel werd helemaal afgesloten.
+3. De minister vond het gewoon niet de juiste tijd.
 
 #### Antwoorden
-1. Niet waar  
-2. Waar  
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Niet waar
+3. Waar

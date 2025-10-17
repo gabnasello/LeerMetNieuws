@@ -1,59 +1,62 @@
-
-# Vakantie of zakelijk? Vliegtuigen vanuit Antwerpen
+# Re-integratie van zieke werknemers
 
 ## Samenvatting
-Sommige privévliegtuigen vliegen vanuit Antwerpen naar warme of zonnige bestemmingen. Dit zijn vaak vakantiebestemmingen, maar soms ook voor zaken. De luchtvaartsector zegt dat ze niet alleen met luxe bezig zijn, maar ook met nuttige vluchten.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/dd3eb4-file82pudqfjyuw1443g8ga7/alternates/BASE_SIXTEEN_NINE/file82pudqfjyuw1443g8ga7)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/leidinggevenden-over-re-integratie-langdurig-zieken-na-een-fysiek-probleem-vind-ik-de-aanpak-helderder-dan-na-mentale-problemen/95411311.html)
+
+Sommige bedrijven hebben nog geen goede plannen om langdurig zieke werknemers te helpen terug te keren naar hun werk. Dit blijkt uit onderzoek. Vooral bij psychische problemen vinden leidinggevenden het lastiger dan bij fysieke problemen.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **privéjets** | kleine vliegtuigen voor weinig mensen |
-| **bestemming** | plaats waar je naartoe gaat |
-| **vakantie** | vrije tijd om te reizen en te ontspannen |
-| **zakelijk** | iets dat met werk te maken heeft |
-| **luchtvaartsector** | alle bedrijven en activiteiten rond vliegen |
+| **re-integratie** | Het opnieuw laten meedoen van iemand die ziek was |
+| **leidinggevenden** | Mensen die anderen aansturen op het werk |
+| **langdurig zieken** | Mensen die lang ziek zijn |
+| **psychisch** | Alles wat met de geest te maken heeft |
+| **fysiek** | Alles wat met het lichaam te maken heeft |
 
 ### Vul-in-de-leegte
-1. De privéjets vliegen naar bestemmingen zoals Ibiza en Nice.
-2. Sommige vluchten zijn voor __vakantie__, andere voor __zakelijke__ doeleinden.
-3. De __luchtvaartsector__ benadrukt dat ze niet alleen met luxe bezig zijn.
+1. Sommige bedrijven hebben nog geen plan voor de ___ van zieke werknemers.
+2. Het is moeilijker om te helpen bij problemen die ___ zijn dan bij fysieke problemen.
+3. Werkgevers moeten een ___ maken voor werknemers die langdurig ziek zijn.
 
 #### Oplossingen
-1. de
-2. vakantie zakelijk
-3. luchtvaartsector
+1. re-integratie
+2. psychisch
+3. plan
 
 ### Meerkeuzevragen
-1. Waar vliegen de privéjets vooral naartoe vanuit Antwerpen?  
-   a) Naar koude landen  
-   b) Naar warme en zonnige bestemmingen  
-   c) Alleen naar andere Europese steden  
-   d) Naar drukke zakelijke centra  
-2. Wat zegt de luchtvaartsector over hun activiteiten?  
-   a) Ze zijn alleen met luxe bezig.  
-   b) Ze doen ook nuttige vluchten, niet alleen luxe.  
-   c) Ze vliegen alleen naar vakantiebestemmingen.  
-   d) Ze zijn niet geïnteresseerd in zakelijke vluchten.  
-3. Zijn alle vluchten vanuit Antwerpen voor vakantie?  
-   a) Ja, alle vluchten zijn voor plezier.  
-   b) Nee, sommige zijn voor zakelijke reizen.  
-   c) Nee, alle vluchten zijn voor zakelijke doeleinden.  
-   d) Ja, maar alleen tijdens de zomer.  
+1. Wat is re-integratie?
+   a) Een nieuwe baan zoeken
+   b) Weer laten meedoen na ziekte
+   c) Op vakantie gaan
+   d) Een feestje organiseren
+2. Wat betekent 'psychisch'?
+   a) Lichamelijk
+   b) Geestelijk
+   c) Sociaal
+   d) Creatief
+3. Waarom is re-integratie belangrijk?
+   a) Omdat het verplicht is
+   b) Omdat het leuk is
+   c) Omdat het goedkoop is
+   d) Omdat iedereen het doet
 
 #### Antwoorden
 1. b
 2. b
-3. b
+3. a
 
 ### Waar / Niet Waar
-1. Privéjets vliegen alleen naar koude bestemmingen. (Niet waar)
-2. De luchtvaartsector zegt dat ze alleen met luxe bezig zijn. (Niet waar)
-3. Sommige vluchten zijn voor zakelijke doeleinden. (Waar)
+1. Alle bedrijven hebben al een re-integratieplan. (Niet waar)
+2. Psychische problemen zijn makkelijker dan fysieke problemen. (Niet waar)
+3. Re-integratie is alleen voor lichamelijke problemen. (Niet waar)
 
 #### Antwoorden
 1. Niet waar
 2. Niet waar
-3. Waar<｜begin▁of▁sentence｜>
+3. Niet waar<｜begin▁of▁sentence｜>

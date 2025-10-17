@@ -1,64 +1,66 @@
-# Veiligheid in Brussel-Zuid
+# Toestemming bij seks
 
-[Vereenvoudigde titel: Veiligheid in Brussel-Zuid]
+[Vereenvoudigde titel en samenvatting]
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ftzpvr-brussel-zuid.jfif/alternates/BASE_SIXTEEN_NINE/Brussel%20Zuid.jfif)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/securail-moest-vorig-jaar-7.000-interventies-doen-in-station-brussel-zuid/97801424.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/kvhlkx-file82uhrcc1yrt11ia71idi/alternates/BASE_SIXTEEN_NINE/file82uhrcc1yrt11ia71idi)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/sensoa-start-jongerencampagne-over-toestemming-bij-seks-je-kunt-wel-opgewonden-blijven-van-een-vraag/97976999.html)
 
-[Vereenvoudigde samenvatting: De beveiliging van de trein, Securail, moet elke dag 20 keer optreden in Brussel-Zuid. Dat is een nieuw record.]
+Lichaamstaal kan soms verkeerd begrepen worden. Bij seks is het beter om duidelijk te vragen om toestemming. Sensoa, een organisatie, heeft een nieuwe campagne gemaakt. Die campagne laat aan jongeren zien hoe ze om toestemming kunnen vragen.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **beveiliging** | bescherming, veiligheid |
-| **optreden** | in actie komen, iets doen |
-| **record** | het beste of hoogste aantal ooit |
-| **gemiddeld** | wat meestal gebeurt, het normale aantal |
-| **station** | een gebouw waar treinen stoppen |
+| **toestemming** | toestemming betekent dat iemand ermee instemt, dat iets mag |
+| **seks** | seks is de activiteit waarbij twee mensen intimiteit delen op een manier die ze allebei willen |
+| **campagne** | een campagne is een reeks activiteiten of uitingen met een bepaald doel, zoals informatie verspreiden |
+| **vragen** | vragen is het stellen van een vraag, om informatie te krijgen of om iets te weten te komen |
+| **organisatie** | een organisatie is een groep mensen die samenwerkt voor een bepaald doel, zoals Sensoa hier |
 
-### Vul-in-de-leegte
-1. Securail zorgt voor de ___ in het station. (beveiliging)
-2. Elke dag moeten ze gemiddeld ___ keer optreden. (twintig)
-3. Het aantal keren dat ze optreden is een nieuw ___. (record)
+### Vul de lege plekken in
+1. Voordat je iets doet, is het belangrijk om ___ te vragen.
+2. Een campagne kan gebruikt worden om belangrijke informatie te ___.
+3. Wanneer je toestemming vraagt, moet de andere persoon duidelijk ___ of nee zeggen.
 
 #### Oplossingen
-1. beveiling
-2. twintig
-3. record
+1. toestemming
+2. verspreiden
+3. kunnen
 
 ### Meerkeuzevragen
-1. Waar is dit station?
-   a) Amsterdam
-   b) Brussel
-   c) Parijs
-   d) Berlijn
-2. Wat betekent 'optreden'?
-   a) dansen
-   b) in actie komen
-   c) zingen
-   d) slapen
-3. Wat is een 'record'?
-   a) een muziekopname
-   b) het hoogste aantal ooit
-   c) een sportevenement
-   d) een dagboek
+1. Wat is Sensoa?
+A. Een land
+B. Een persoon
+C. Een organisatie
+D. Een dier
+
+2. Waar gaat de nieuwe campagne van Sensoo over?
+A. Over reizen
+B. Over toestemming bij seks
+C. Over koken
+D. Over sport
+
+3. Waarom is het belangrijk om toestemming te vragen?
+A. Omdat het de wet is
+B. Omdat het respect toont en misverstanden voorkomt
+C. Omdat het sneller is
+D. Omdat het leuk is
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. C. Een organisatie
+2. B. Over toestemming bij seks
+3. B. Omdat het respect toont en misverstanden voorkomt
 
-### Waar / Niet Waar
-1. Securail werkt in Brussel-Zuid. (Waar)
-2. Ze treden 10 keer per dag op. (Niet waar)
-3. Het is een nieuw record. (Waar)
+### Waar of niet waar?
+1. Lichaamstaal is altijd duidelijk en leidt nooit tot misverstanden.
+2. Sensoa is een organisatie die campagnes maakt over seksuele gezondheid.
+3. Jongeren hoeven geen toestemming te vragen voor seks, omdat het vanzelfsprekend is.
 
 #### Antwoorden
-1. Waar
-2. Niet waar
-3. Waar
+1. Niet waar
+2. Waar
+3. Niet waar<｜begin▁of▁sentence｜>

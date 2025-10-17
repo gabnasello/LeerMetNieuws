@@ -1,15 +1,10 @@
-# Oefeningen
+# Eenvoudige oefeningen gebaseerd op de tekst
 
 ## Titel
-
-Securail had vorig jaar 7000 interventies in Brussel-Zuid
+Sensoa begint een campagne over toestemming bij seks
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ftzpvr-brussel-zuid.jfif/alternates/BASE_SIXTEEN_NINE/Brussel%20Zuid.jfif)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/securail-moest-vorig-jaar-7.000-interventies-doen-in-station-brussel-zuid/97801424.html)
-
-Securail is de beveiligingsdienst van de NMBS. Zij moesten vorig jaar gemiddeld 20 keer per dag tussenkomen in Brussel-Zuid. Dat is een nieuw record.
+Lichaamstaal kan voor misverstanden zorgen. Bij seks is het beter om duidelijk om toestemming te vragen. Sensoa helpt jongeren met een nieuwe campagne.
 
 ## Woordenschatuitbreiding
 
@@ -17,50 +12,55 @@ Securail is de beveiligingsdienst van de NMBS. Zij moesten vorig jaar gemiddeld 
 
 | Woord | Definitie |
 |-------|-----------|
-| **interventie** | tussenkomst, bijvoorbeeld om te helpen |
-| **gemiddeld** | het gemiddelde, wat meestal gebeurt |
-| **dienst** | een dienst, bijvoorbeeld voor hulp |
-| **record** | een nieuw hoogtepunt, het beste of slechtste ooit |
-| **tussenkomen** | ingrijpen, tussenbeide komen |
+| **toestemming** | toestemming betekent dat je iemand vraagt of iets mag, en die persoon zegt ja of nee |
+| **misverstanden** | als iemand iets verkeerd begrijpt, bijvoorbeeld omdat je niet duidelijk bent geweest |
+| **campagne** | een reeks activiteiten of acties met een bepaald doel, zoals een informatiecampagne |
+| **seksueel** | alles wat te maken heeft met seks en seksualiteit |
+| **vragen** | iets aan iemand vragen, om meer informatie te krijgen of om toestemming |
 
 ### Vul-in-de-leegte
-1. Securail is een beveiligings___ die optreedt in Brussel-Zuid.
-2. Vorig jaar vond er gemiddeld elke dag een ___ plaats in Brussel-Zuid.
-3. Dit nieuwe ___ toont aan dat de situatie daar zorgwekkend is.
+
+1. Bij seks is het belangrijk om toestemming te ___.
+2. Een misverstand ontstaat wanneer je iets niet ___.
+3. Sensoa is een organisatie die een nieuwe campagne ___.
 
 #### Oplossingen
-1. dienst
-2. interventie
-3. record
+1. vragen
+2. begrijpt
+3. startte
 
 ### Meerkeuzevragen
-1. Wat is Securail?
-   a) Een treinstation
-   b) Een veiligheidsdienst
-   c) Een soort trein
-   d) Een winkelketen
-2. Waar is de interventie van Securail?
-   a) In heel België
-   b) Alleen in Brussel
-   c) Alleen in Brussel-Zuid
-   d) Alleen in Brussel-Zuid station
-3. Hoe vaak moest Securail gemiddeld per dag tussenkomen in 2024?
-   a) 1 keer
-   b) 10 keer
-   c) 20 keer
-   d) 7000 keer
+
+1. Wat is een 'misverstand'?
+   a) een soort auto  
+   b) een verkeerd begrip  
+   c) een nieuwe uitvinding  
+   d) een soort computer  
+
+2. Waar helpt Sensoa jongeren mee?
+   a) met rekenen  
+   b) met het maken van een campagne  
+   c) met het leren over toestemming bij seks  
+   d) met het bouwen van een huis  
+
+3. Waarom is het belangrijk om toestemming te vragen?
+   a) omdat het dan lekkerder is  
+   b) omdat het verplicht is  
+   c) om misverstanden te voorkomen  
+   d) omdat je dan sneller klaar bent  
 
 #### Antwoorden
 1. b
-2. d
+2. c
 3. c
 
 ### Waar / Niet Waar
-1. Securail is de politie van de NMBS.
-2. Er waren in 2024 dagelijks gemiddeld 20 interventies in Brussel-Zuid.
-3. Dit is een positief record.
+
+1. Sensoa is een organisatie die een campagne over seksuele toestemming start.
+2. Lichaamstaal is altijd duidelijk en leidt nooit tot misverstanden.
+3. De campagne richt zich op jonge kinderen.
 
 #### Antwoorden
 1. Waar
-2. Waar
+2. Niet waar
 3. Niet waar

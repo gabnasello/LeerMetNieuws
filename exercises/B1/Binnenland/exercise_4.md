@@ -1,58 +1,58 @@
-# Vereenvoudigde titel en samenvatting
+# Het uitstel van De Wever kost ons veel geld
 
-**Titel:** Bertrand Sassoye, de witte ridder van extreemlinks  
-**Samenvatting:** Het Brusselse parket wil nog niets zeggen over de vijf verdachten die zijn gearresteerd na de rellen op de nationale betoging. Maar iedereen kijkt naar extreemlinks. De voormalige CCC'er Bertrand Sassoye is nog lang niet vergeten.
+## Samenvatting
+De politicus De Wever stelt iets uit. Dit kost ons veel geld. Dit artikel gaat over deze kosten.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **verdachten** | mensen waarvan wordt gedacht dat ze iets misdaan hebben |
-| **rechts** | politieke richting die vaak voor traditie en vrijheid is |
-| **links** | politieke richting die vaak voor gelijkheid en sociale rechtvaardigheid is |
-| **betoging** | een protestactie op straat |
-| **extreem** | heel erg of ver doorgeschoten |
+| **uitstel** | iets later doen dan gepland |
+| **kosten** | geld dat je moet betalen |
+| **politicus** | iemand die in de politiek werkt |
+| **artikel** | een tekst in een krant of online |
+| **belangrijk** | heel erg nodig of goed |
 
 ### Vul-in-de-leegte
-1. De politie heeft vijf ___ gearresteerd na de rellen.
-2. Bertrand Sassoye is een bekend persoon in de ___ politiek.
-3. Extreemlinks betekent dat je heel erg aan de ___ kant staat.
+1. De Wever is een ___ die veel in het nieuws is.
+2. Het uitstel van zijn plan kostte veel ___.
+3. Dit is een ___ over wat er gebeurde.
 
 #### Oplossingen
-1. verdachten
-2. linkse
-3. linkse
+1. politicus
+2. geld
+3. artikel
 
 ### Meerkeuzevragen
-1. Wat betekent "extreemlinks"?
-  a) heel erg links
-  b) een beetje links
-  c) rechts
-  d) geen van bovenstaande
-2. Wat is een "betoging"?
-  a) een feest
-  b) een protestmars
-  c) een sportwedstrijd
-  d) een concert
-3. Wie is Bertrand Sassoye?
-  a) een voetballer
-  b) een bekende persoon in de linkse politiek
-  c) een docent
-  d) een zakenman
+1. Wat is 'uitstel'?
+   a) iets eerder doen
+   b) iets later doen
+   c) iets niet doen
+   d) iets verkeerd doen
+2. Wat zijn 'kosten'?
+   a) iets dat je krijgt
+   b) geld dat je moet betalen
+   c) iets dat je leent
+   d) iets dat je verkoopt
+3. Wat is een 'artikel'?
+   a) een film
+   b) een liedje
+   c) een tekst in een krant
+   d) een foto
 
 #### Antwoorden
-1. a
+1. b
 2. b
-3. b
+3. c
 
 ### Waar / Niet Waar
-1. Bertrand Sassoye is een actuele politicus. (Niet waar)
-2. De Brusselse parket praat graag over verdachten. (Niet waar)
-3. Extreemlinks is hetzelfde als rechts. (Niet waar)
+1. De Wever is een docent.
+2. Het uitstel kostte niets.
+3. Dit artikel gaat over de kosten.
 
 #### Antwoorden
 1. Niet waar
 2. Niet waar
-3. Niet waar<｜begin▁of▁sentence｜>
+3. Waar<｜begin▁of▁sentence｜>

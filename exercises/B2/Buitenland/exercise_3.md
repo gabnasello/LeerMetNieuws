@@ -1,13 +1,10 @@
-# Militaire steun aan Oekraïne
+# Vereenvoudigde titel en samenvatting
 
-De Europese landen sturen minder wapens naar Oekraïne. Maar ze beloven om meer Amerikaanse wapens te kopen en die dan door te sturen naar Oekraïne.
+## Titel
+Trump waarschuwt Hamas
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/jx1ybk-387.jpeg/alternates/BASE_SIXTEEN_NINE/387.jpeg)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/militaire-steun-aan-oekrane-slabakt-maar-de-europese-landen-beloven-meer-amerikaanse-wapens-te-kopen/97693844.html)
-
-De wapensteun van Europa aan Oekraïne is in de zomer flink gedaald. Maar Europese Navo-landen kunnen wel wapens kopen in de Verenigde Staten en die dan doorsturen naar Oekraïne. Minstens 17 landen hebben nu toegezegd om aan dit systeem mee te doen.
+Na een eerste week zonder grote problemen wordt er nu gesproken over de tweede fase van het bestand in Gaza. Onderhandelaars melden vooruitgang, maar niets is definitief. President Trump gaf Hamas een waarschuwing.
 
 ## Woordenschatuitbreiding
 
@@ -15,41 +12,50 @@ De wapensteun van Europa aan Oekraïne is in de zomer flink gedaald. Maar Europe
 
 | Woord | Definitie |
 |-------|-----------|
-| **steun** | hulp of ondersteuning |
-| **wapens** | wapens zijn bijvoorbeeld geweren, pistolen of bommen |
-| **Oekraïne** | een land in Europa, nu in oorlog |
-| **Europa** | het werelddeel waar ook Nederland en België liggen |
-| **leveren** | hier: geven of sturen (bijvoorbeeld: 'Ze leveren wapens.') |
+| **bestand** | een overeenkomst om het vechten te stoppen |
+| **onderhandelaars** | mensen die namens anderen praten om tot een oplossing te komen |
+| **definitief** | definitief, onveranderlijk |
+| **waarschuwing** | een waarschuwing, een mededeling dat er gevaar dreigt |
+| **fase** | een deel of stap in een proces |
 
 ### Vul-in-de-leegte
-1. Veel landen in Europa geven militaire steun aan ___. (Oekraïne)
-2. Nederland en België zijn twee landen in ___. (Europa)
-3. Veel landen hebben toegezegd om wapens te ___ naar Oekraïne. (leveren)
+1. Na een week zonder grote problemen, beginnen de onderhandelingen over de tweede ___ van het bestand.
+2. De onderhandelaars zijn voorzichtig omdat niets nog ___ is.
+3. President Trump gaf Hamas een ___, wat betekent dat ze moeten opletten.
 
 #### Oplossingen
-1. Oekraïne
-2. Europa
-3. leveren
+1. fase
+2. definitief
+3. waarschuwing
 
 ### Meerkeuzevragen
-1. Wat is de hoofdstad van Oekraïne?  
-   a) Kiev  b) Amsterdam  c) Brussel  d) Parijs  
-2. Welk continent ligt ten westen van Europa?  
-   a) Azië  b) Afrika  c) Noord-Amerika  d) Australië  
-3. Wat betekent 'leveren' in deze context?  
-   a) kopen  b) geven  c) verkopen  d) ontvangen  
+1. Wat is een 'bestand'?
+   a) Een soort wapen
+   b) Een overeenkomst om het vechten te stoppen
+   c) Een grote groep mensen
+   d) Een speciaal soort feest
+2. Wat betekent het als iets 'definitief' is?
+   a) Het is voor altijd en verandert niet meer.
+   b) Het is nog niet zeker en kan veranderen.
+   c) Het is erg duur en mooi.
+   d) Het is een geheim dat niemand kent.
+3. Waarom is een 'waarschuwing' belangrijk?
+   a) Omdat het iets leuks aankondigt.
+   b) Omdat het aangeeft dat er gevaar of een probleem kan komen.
+   c) Omdat het een cadeau is.
+   d) Omdat het een moeilijk woord is om uit te spreken.
 
 #### Antwoorden
-1. a) Kiev  
-2. c) Noord-Amerika  
-3. b) geven  
+1. b
+2. a
+3. b
 
 ### Waar / Niet Waar
-1. Oekraïne is een land in Azië. (Niet waar)  
-2. Europa helpt Oekraïne met wapens. (Waar)  
-3. Alle Europese landen stoppen met het sturen van wapens. (Niet waar)  
+1. President Trump heeft met Hamas gesproken over het bestand. (Niet waar)
+2. Alles in de onderhandelingen is al definitief beslist. (Niet waar)
+3. Een waarschuwing is altijd een negatieve mededeling. (Waar)
 
 #### Antwoorden
-1. Niet waar  
-2. Waar  
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Niet waar
+3. Waar<｜begin▁of▁sentence｜>

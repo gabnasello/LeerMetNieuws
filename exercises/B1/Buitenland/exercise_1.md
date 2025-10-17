@@ -1,55 +1,63 @@
-# Vredesonderhandelingen in Gaza
+# Vereenvoudigde tekst schrijven
+Hoi! Hier is de vereenvoudigde versie voor niveau B1:
 
-[Vredesonderhandelingen in Gaza]
+**Titel:** Nieuwe regering in Peru roept noodtoestand uit in Lima na dodelijke golf van geweld
+**Samenvatting:** Bij protesten van jongeren in Peru is een persoon overleden en zijn honderden gewond geraakt. De demonstranten zijn al weken op straat om te protesteren tegen corruptie en onveiligheid. De nieuwe regering heeft de noodtoestand afgekondigd in de hoofdstad Lima.
 
-## Samenvatting
+---
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/gl56x8-funeral-of-israeli-soldier-daniel-shimon-perez-who-was-killed-during-the-deadly-october-7-2023-attack-by-hamas-in-jerusalem/alternates/BASE_SIXTEEN_NINE/Funeral%20of%20Israeli%20soldier%20Daniel%20Shimon%20Perez%20who%20was%20killed%20during%20the%20deadly%20October%207%202023%20attack%20by%20Hamas%20in%20Jerusalem)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/hamas-vraagt-meer-tijd-om-moeilijk-bereikbare-lichamen-gijzelaars-te-bergen-trump-erkent-gruwelijk-proces/35173881.html)
-
-Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Dit artikel gaat over de laatste ontwikkelingen in de vredesbesprekingen.
-
-## Woordenschatuitbreiding
+# Woordenschatuitbreiding
 
 ### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **onderhandelingen** | gesprekken tussen twee of meer partijen om tot een overeenkomst te komen |
-| **gijzelaars** | mensen die worden vastgehouden om iets gedaan te krijgen |
-| **oorlog** | een periode van gewapend conflict tussen landen of groepen |
-| **vredesbesprekingen** | gesprekken om vrede te bereiken |
-| **ontwikkelingen** | nieuwe gebeurtenissen of veranderingen in een situatie |
+| **noodtoestand** | een speciale situatie waarin normale regels niet gelden, vaak door gevaar |
+| **geweld** | het gebruik van fysieke kracht, vaak met als doel om pijn te doen of schade aan te richten |
+| **regering** | de groep mensen die een land of gebied bestuurt |
+| **protest** | het uiten van ongenoegen of oneens zijn, vaak in publiek |
+| **corruptie** | wanneer mensen in macht posities misbruik maken van hun positie voor persoonlijk voordeel |
 
 ### Vul-in-de-leegte
-1. De partijen voeren ________ om tot een akkoord te komen.
-2. De ________ werden vrijgelaten na langdurige onderhandelingen.
-3. Er is hoop op ________ in het conflict.
+1. De regering heeft een ___ afgekondigd in de hoofdstad.
+2. De betogers protesteren tegen ___ en onveiligheid.
+3. Bij de protesten is een persoon ___ en raakten honderden gewond.
 
 #### Oplossingen
-1. onderhandelingen
-2. gijzelaars
-3. vrede
+1. noodtoestand
+2. corruptie
+3. overleden
 
 ### Meerkeuzevragen
-1. Wat zijn "gijzelaars"?
-a) onderhandelaars b) gevangenen c) slachtoffers d) soldaten
-2. Waar gaan de "vredesbesprekingen" over?
-a) het stoppen van de oorlog b) het plannen van een aanval c) het verdelen van grondgebied d) het bespreken van vrede
-3. Wat betekent "ontwikkelingen" in deze context?
-a) nieuwe gebeurtenissen b) oude problemen c) toekomstige plannen d) verborgen feiten
+1. Wat is een 'noodtoestand'?
+   a) Een feestelijke gebeurtenis  
+   b) Een situatie waarin speciale maatregelen nodig zijn voor veiligheid  
+   c) Een soort sportevenement  
+   d) Een nieuwe mode trend  
+
+2. Waar protesteren de betogers tegen?
+   a) Tegen te veel zonneschijn  
+   b) Tegen corruptie en onveiligheid  
+   c) Tegen te veel vakantiedagen  
+   d) Tegen nieuwe technologie  
+
+3. Waar heeft de regering de noodtoestand afgekondigd?
+   a) Alleen in het centrum van de stad  
+   b) In de hoofdstad Lima  
+   c) In een klein dorpje  
+   d) In een ander land  
 
 #### Antwoorden
-1. b) gevangenen
-2. d) het bespreken van vrede
-3. a) nieuwe gebeurtenissen
+1. b) Een situatie waarin speciale maatregelen nodig zijn voor veiligheid  
+2. b) Tegen corruptie en onveiligheid  
+3. b) In de hoofdstad Lima  
 
 ### Waar / Niet Waar
-1. De onderhandelingen gaan over vrede.
-2. De gijzelaars zijn de onderhandelaars.
-3. Er is geen vooruitgang in de onderhandelingen.
+1. De protesten in Peru zijn alleen maar voor meer parken.  
+2. De overheid heeft de noodtoestand afgekondigd in de hoofdstad.  
+3. Er is niemand gewond geraakt tijdens de protesten.  
 
 #### Antwoorden
-1. Waar
-2. Niet waar
+1. Niet waar  
+2. Waar  
 3. Niet waar

@@ -1,11 +1,8 @@
-# Greta Thunberg in Israël: “Ze dreigden ons te vergassen”
+# Elektriciteitsnet in Congo
+[Vereenvoudigd: Amerika bouwt stroomkabel in Congo]
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/86bkcp-swedish-activist-greta-thunberg-attends-a-press-conference-in-stockholm/alternates/BASE_SIXTEEN_NINE/Swedish%20activist%20Greta%20Thunberg%20attends%20a%20press%20conference%20in%20Stockholm)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/greta-thunberg-over-gevangenschap-in-israel-ze-dreigden-ons-te-vergassen/97789184.html)
-
-Greta Thunberg werd gevangen gehouden in Israël. Ze vertelde later aan een Zweeds tijdschrift wat er gebeurde. Ze zei dat de Israëliërs dreigden om haar en anderen te vergassen. Dit betekent dat ze dreigden om iedereen te doden, net zoals de nazi's deden in de Tweede Wereldoorlog.
+[Vereenvoudigd: Amerika bouwt een elektriciteitslijn in Congo. Zo kunnen ze de stroom controleren voor belangrijke mijnen. Deze mijnen zijn nodig voor computers en kunstmatige intelligentie.]
 
 ## Woordenschatuitbreiding
 
@@ -13,41 +10,47 @@ Greta Thunberg werd gevangen gehouden in Israël. Ze vertelde later aan een Zwee
 
 | Woord | Definitie |
 |-------|-----------|
-| **gevangen** | niet vrij zijn, opgesloten worden |
-| **dreigen** | zeggen dat je iets ergs gaat doen |
-| **vergassen** | vermoorden met gas, zoals in de oorlog |
-| **activiste** | iemand die actie voert voor een goed doel |
-| **tijdschrift** | een boek met nieuws dat regelmatig uitkomt |
+| **elektriciteit** | stroom, energie |
+| **mijn** | plaats waar men delfstoffen wint |
+| **controle** | beheer, toezicht |
+| **industrie** | bedrijfstak, sector |
+| **nuttig** | handig, van nut |
 
 ### Vul-in-de-leegte
-1. Greta Thunberg werd ___ gehouden in Israël. (gevangen)
-2. De Israëliërs dreigden om iedereen te ___. (vergassen) 
-3. Greta is een ___ die opkomt voor het milieu. (activiste)
-
+1. Elektriciteit is ___ om machines te laten werken.
+2. Een mijn is een plek waar men ___ delft.
+3. Controle hebben over iets betekent dat je het kunt ___.
 #### Oplossingen
-1. gevangen
-2. vergassen
-3. activiste
+1. nodig
+2. ertsen
+3. bepalen
 
 ### Meerkeuzevragen
-1. Waar werd Greta Thonberg gevangen gehouden?
-a) Frankrijk b) Israël c) Nederland d) Zweden
-2. Wat betekent "vergassen"?
-a) iemand verrassen b) iemand vermoorden met gas c) iemand vergeven d) iemand verjagen
-3. Wat is een "activiste"?
-a) iemand die nooit iets doet b) iemand die actie voert c) iemand die altijd rustig is d) iemand die alleen voor zichzelf zorgt
-
+1. Wat is elektriciteit?
+   a) Een soort voedsel
+   b) Een vorm van energie
+   c) Een soort steen
+   d) Een type dier
+2. Waarom is controle over de mijnen belangrijk?
+   a) Omdat het veel geld kost
+   b) Omdat het de industrie beïnvloedt
+   c) Omdat het niets uitmaakt
+   d) Omdat het alleen om sieraden gaat
+3. Wat is een synoniem voor "nuttig"?
+   a) Moeilijk
+   b) Handig
+   c) Duur
+   d) Gevaarlijk
 #### Antwoorden
 1. b
 2. b
 3. b
 
 ### Waar / Niet Waar
-1. Greta Thunberg werd gevangen gehouden in Israël. (Waar)
-2. "Vergassen" betekent iemand een cadeau geven. (Niet waar)
-3. Greta is een activiste voor dierenrechten. (Niet waar)
-
+1. Elektriciteit kan worden gebruikt om huizen te verlichten.
+2. Controle over de mijnen betekent dat je de eigenaar bent.
+3. Kunstmatige intelligentie heeft niets met computers te maken.
 #### Antwoorden
 1. Waar
-2. Niet waar
-3. Niet waar<｜begin▁of▁sentence｜>
+2. Niet waar (controle hebben is niet hetzelfde als eigendom)
+3. Niet waar (AI is juist sterk verbonden met computers)<｜begin▁of▁sentence｜>

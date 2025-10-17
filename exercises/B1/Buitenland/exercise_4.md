@@ -1,57 +1,56 @@
-# VS blijft boten opblazen en druk zetten op Venezolaanse president Maduro
-
-De Verenigde Staten blijven boten opblazen en druk uitoefenen op de Venezolaanse president Maduro. Ondanks dat experts zeggen dat deze aanvallen illegaal zijn, gaat de VS ermee door. Dit zorgt voor veel onrust in de regio.
+# Kunnen zwarte Amerikanen nog stemmen? 
+Sinds 1965 zorgt de Amerikaanse Voting Rights Act ervoor dat zwarte kiezers in zuidelijke staten zwarte volksvertegenwoordigers kunnen verkiezen. Het Hooggerechtshof lijkt die wet te zullen afschaffen, wat de macht van de Republikeinen kan vergroten. 
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woord(en)-Lijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **opblazen** | kapotmaken, vernietigen |
-| **druk** | kracht die iets of iemand beïnvloedt |
-| **illegale** | niet toegestaan, tegen de wet |
-| **onrust** | onrustige, gespannen situatie |
-| **experten** | mensen die veel weten over een onderwerp |
+| **stemmen** | je stem uitbrengen op een verkiezing |
+| **kiezer** | iemand die zijn stem mag uitbrengen bij verkiezingen |
+| **zorgen** | ervoor zorgen dat iets gebeurt of geregeld wordt |
+| **afschaffen** | iets officieel beëindigen of verwijderen |
+| **vergroten** | groter maken of doen toenemen |
 
 ### Vul-in-de-leegte
-1. De VS blijft boten ___ op zee, ook al is dat illegaal.
-2. De acties van de VS zorgen voor veel ___ in de regio.
-3. Volgens ___ zijn de aanvallen van de VS niet toegestaan.
+1. Het is belangrijk dat iedereen kan ___ tijdens verkiezingen.
+2. De regering wil een oude wet ___, wat veel protest veroorzaakt.
+3. Als je iets wilt ___, moet je er hard voor werken. 
 
 #### Oplossingen
-1. De VS blijft boten **opblazen** op zee, ook al is dat illegaal.
-2. De acties van de VS zorgen voor veel **onrust** in de regio.
-3. Volgens **experten** zijn de aanvallen van de VS niet toegestaan.
+1. stemmen
+2. afschaffen
+3. vergroten
 
 ### Meerkeuzevragen
-1. Wat betekent "opblazen" in deze context?  
-   a) Schoonmaken  
-   b) Vernietigen  
-   c) Opblazen  
-   d) Verplaatsen  
-   **Antwoord: b) Vernietigen**
+1. Wat betekent "afschaffen" in deze context?  
+a. iets nieuws maken  
+b. iets officieel beëindigen  
+c. iets tijdelijk stoppen  
+d. iets versterken  
+Antwoord: b
 
-2. Waarom is er onrust in de regio?  
-   a) Omdat de VS stopt met aanvallen  
-   b) Omdat de VS doorgaat met illegale acties  
-   c) Omdat er een feest is  
-   d) Omdat het regent  
-   **Antwoord: b) Omdat de VS doorgaat met illegale acties**
+2. Wat is een "kiezer"?  
+a. iemand die stemt bij verkiezingen  
+b. iemand die de verkiezingen organiseert  
+c. iemand die niet mag stemmen  
+d. iemand die de uitslag bepaalt  
+Antwoord: a
 
-3. Wat zeggen de experts over de acties van de VS?  
-   a) Ze zijn legaal  
-   b) Ze zijn illegaal  
-   c) Ze zijn onduidelijk  
-   d) Ze zijn onbelangrijk  
-   **Antwoord: b) Ze zijn illegaal**
+3. Wat betekent "zorgen" in deze zin?  
+a. zorgen dat iets gebeurt of geregeld wordt  
+b. zich zorgen maken over iets  
+c. iets leuks doen  
+d. iets moeilijks oplossen  
+Antwoord: a
 
 ### Waar / Niet Waar
-1. De VS stopt met het opblazen van boten omdat het illegaal is.  
-2. De acties van de VS zorgen voor onrust in de regio.  
-3. Experts zeggen dat de acties van de VS legaal zijn.  
+1. De Voting Rights Act zorgt ervoor dat zwarte kiezers vertegenwoordigd worden.  
+2. Het Hooggerechtshof wil de Voting Rights Act afschaffen.  
+3. Als de wet wordt afgeschaft, kan dat de macht van de Republikeinen verkleinen.  
 
 #### Antwoorden
-1. Niet waar  
+1. Waar  
 2. Waar  
-3. Niet waar<｜begin▁of▁sentence｜>
+3. Niet waar (het zou de macht van de Republikeinen kunnen vergroten)<｜begin▁of▁sentence｜>

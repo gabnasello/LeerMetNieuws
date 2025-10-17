@@ -1,11 +1,14 @@
-# Greta Thunberg over haar gevangenschap in Israël: “Ze dreigden ons te vergassen”
+
+# Energiecontrole in Congo
+
+[Vereenvoudigde titel: Controle over stroom in Congo]
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/86bkcp-swedish-activist-greta-thunberg-attends-a-press-conference-in-stockholm/alternates/BASE_SIXTEEN_NINE/Swedish%20activist%20Greta%20Thunberg%20attends%20a%20press%20conference%20in%20Stockholm)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/greta-thunberg-over-gevangenschap-in-israel-ze-dreigden-ons-te-vergassen/97789184.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/lk4nvj-belgaimage-69674339.jpg/alternates/BASE_SIXTEEN_NINE/Belgaimage-69674339.jpg)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/trump-krijgt-stroomschakelaar-voor-congolese-kobaltmijnen-in-handen/97854385.html)
 
-Hoewel ze eerst weigerde om over haar gevangenschap in Israël te praten, deelt activiste Greta Thunberg nu voor het eerst details met de Zweedse krant 'Aftonbladet'.
+[Vereenvoudigde samenvatting: Een Amerikaans bedrijf gaat een stroomlijn bouwen van Angola naar Congo. Hierdoor krijgt de VS controle over de stroomvoorziening voor belangrijke mijnen. Deze mijnen zijn nodig voor de AI-industrie in de VS.]
 
 ## Woordenschatuitbreiding
 
@@ -13,42 +16,38 @@ Hoewel ze eerst weigerde om over haar gevangenschap in Israël te praten, deelt 
 
 | Woord | Definitie |
 |-------|-----------|
-| **gevangenschap** | de toestand waarin iemand wordt vastgehouden en niet vrij is |
-| **dreigden** | maakten een dreigement; zeiden dat er iets ergs zal gebeuren als iemand niet doet wat gevraagd wordt |
-| **vergassen** | doden door middel van giftig gas, zoals in een gaskamer |
-| **activiste** | een persoon, vaak een vrouw, die actief campagne voert voor politieke of sociale verandering |
-| **details** | kleine, specifieke stukjes informatie over een gebeurtenis of situatie |
+| **stroom** | elektriciteit, de flow van elektriciteit |
+| **mijn** | een plaats waar mineralen of metalen uit de grond worden gehaald |
+| **controle** | beheer, zeggenschap over iets |
+| **industrie** | een sector of gebied van economische activiteit |
+| **verbinding** | iets dat twee of meer dingen met elkaar verbindt |
 
 ### Vul-in-de-leegte
-1. Greta Thunberg deelde ___ over haar tijd in de Israëlische gevangenschap.
-2. De Israëli's ___ om de activisten te doden als ze niet zouden gehoorzamen.
-3. Activisten zoals Greta werken voor politieke verandering; zij zijn ___.
-
+1. De nieuwe stroomlijn verbindt Angola met Congo.
+2. De VS wil controle over de stroomvoorziening voor de mijnen.
+3. Deze mijnen zijn belangrijk voor de AI-industrie.
 #### Oplossingen
-1. details
-2. dreigden
-3. activisten
+1. de nieuwe stroomlijn
+2. controle
+3. AI-industrie
 
 ### Meerkeuzevragen
-1. Wat betekent "gevangenschap"?
-   a) een feestje b) een periode van vrijheid c) een tijd van opsluiting d) een vakantie
-2. Wat is "vergassen"?
-   a) een stijl van dansen b) een manier om iemand te vermoorden c) een kooktechniek d) een sport
-3. Wie is Greta Thunberg?
-   a) een wetenschapper b) een actrice c) een klimaatactivist d) een koningin
-
+1. Wat wordt er gebouwd tussen Angola en Congo?  
+A) een snelweg B) een stroomlijn C) een tunnel D) een brug  
+2. Waarom is controle over de stroomvoorziening belangrijk?  
+A) Voor verlichting B) Voor transport C) Voor de mijnen D) Voor de landbouw  
+3. Welke industrie is afhankelijk van de metalen uit deze mijnen?  
+A) Bouw B) Voedsel C) AI D) Mode  
 #### Antwoorden
-1. c) een tijd van opsluiting
-2. b) een manier om iemand te vermoorden
-3. c) een klimaatactivist
+1. B) een stroomlijn
+2. C) Voor de mijnen
+3. C) AI
 
 ### Waar / Niet Waar
-1. Greta Thunberg heeft altijd geweigerd om over haar gevangenschap te praten.
-2. "Vergassen" is een manier om iemand te vermoorden.
-3. Greta Thunberg is een Zweedse koningin.
-
+1. De stroomlijn wordt gebouwd door een Europees bedrijf. (Niet waar)
+2. De mijnen zijn belangrijk voor de computerindustrie. (Waar)
+3. Congo heeft geen natuurlijke hulpbronnen. (Niet waar)
 #### Antwoorden
-1. Niet waar – Greta deelt nu details.
-2. Waar – Vergassen is inderdaad een moordmethode.
-3. Niet waar – Greta is een activist, geen koningin.
----<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Waar
+3. Niet waar

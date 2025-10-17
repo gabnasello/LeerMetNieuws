@@ -1,58 +1,58 @@
-# Oekraïne steun
+# Vereenvoudigde titel en samenvatting
 
-**Titel: Militaire steun aan Oekraïne wordt minder, maar Europese landen beloven meer Amerikaanse wapens te kopen**  
-**Samenvatting:** De Europese steun met wapens voor Oekraïne is in de zomer sterk verminderd. Europese NAVO-landen kunnen echter wapens kopen in de VS en die dan doorsturen naar Oekraïne. Minstens 17 landen hebben nu toegezegd om aan dit systeem deel te nemen.
+**Titel:** Trump dreigt Hamas met woorden  
+**Samenvatting:** Na de eerste week van de oorlog in Gaza is er een wapenstilstand. Nu wordt er over een tweede wapenstilstand gepraat. Er is vooruitgang in de gesprekken, maar nog niets is zeker. President Trump gaf Hamas een waarschuwing.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 
-| Woord | Betekenis |
-|-------|----------|
-| **militair** | alles wat met het leger te maken heeft |
-| **steun** | hulp of ondersteuning |
-| **wapen** | een wapen is een middel om mee te vechten, zoals een geweer |
-| **leveren** | ergens heen brengen of aanbieden |
-| **systeem** | een manier van werken, een plan of methode |
+| Woord | Definitie |
+|-------|-----------|
+| **wapenstilstand** | een afspraak om te stoppen met vechten |
+| **gesprekken** | gesprekken tussen mensen over een belangrijk onderwerp |
+| **waarschuwing** | een waarschuwing is een boodschap die zegt dat iets gevaarlijk is of dat je moet oppassen |
+| **opheffen** | beëindigen, stoppen met iets |
+| **voortgang** | vooruitgang, iets dat beter wordt of vordert |
 
-### Vul de lege plekken in
-1. Europese landen kunnen wapens ___ naar Oekraïne.
-2. Het nieuwe systeem helpt om militaire steun te ___.
-3. Minstens 17 landen hebben toegezegd om aan het ___ deel te nemen.
+### Vul-in-de-leegte
+1. De president gaf de groep een ___ om hen te waarschuwen.
+2. De twee landen besloten een ___ te ondertekenen, zodat de soldaten konden rusten.
+3. Na maanden van onderhandelingen, was er eindelijk ___ in de gesprekken.
 
 #### Oplossingen
-1. leveren
-2. versterken
-3. systeem
+1. waarschuwing
+2. wapenstilstand
+3. voortgang
 
 ### Meerkeuzevragen
-1. Wat is een "wapen"?
-   a) een soort gereedschap  
-   b) een wapen om mee te vechten  
-   c) een soort medicijn  
-   d) een feestelijk evenement  
-2. Wat betekent "leveren" in deze context?  
-   a) verkopen  
-   b) afleveren of aanbieden  
-   c) produceren  
-   d) ontvangen  
-3. Wat is de "Europese Unie" in deze context?  
-   a) een continent  
-   b) een economische en politieke unie van Europese landen  
-   c) een soort munt  
-   d) een sportteam  
+1. Wat is een wapenstilstand?  
+A) Een soort dans  
+B) Een overeenkomst om te stoppen met vechten  
+C) Een nieuw wapen  
+D) Een groot feest  
+2. Wat betekent "opheffen"?  
+A) Iets optillen  
+B) Iets beëindigen  
+C) Iets verbergen  
+D) Iets versnellen  
+3. Wat betekent "een veeg uit de pan krijgen"?  
+A) Een cadeau krijgen  
+B) Een straf of waarschuwing krijgen  
+C) Een nieuwe pan krijgen  
+D) Een nieuwe baan krijgen  
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. B) Een overeenkomst om te stoppen met vechten  
+2. B) Iets beëindigen  
+3. B) Een straf of waarschuwing krijgen  
 
 ### Waar / Niet Waar
-1. Militaire steun aan Oekraïne is toegenomen.  
-2. Europese landen kunnen wapens kopen in de VS.  
-3. Alle Europese landen doen mee aan het nieuwe systeem.  
+1. De tekst zegt dat er vooruitgang is in de gesprekken over een tweede wapenstilstand.  
+2. President Trump gaf Hamas een compliment.  
+3. Alles is al definitief beslist volgens de tekst.  
 
 #### Antwoorden
-1. Niet Waar  
-2. Waar  
-3. Niet Waar
+1. Waar  
+2. Niet waar (het was een waarschuwing, geen compliment)  
+3. Niet waar (er staat dat niets zeker is)<｜begin▁of▁sentence｜>

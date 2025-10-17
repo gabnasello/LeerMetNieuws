@@ -1,47 +1,63 @@
-# Titel
-CIA mag acties uitvoeren in Venezuela
+# Vereenvoudigd Nieuwsartikel
 
-## Samenvatting
-Donald Trump is opnieuw president van Amerika. Zijn tweede ambtstermijn brengt veranderingen over de hele wereld. De Amerikaanse regering laat de CIA acties uitvoeren in Venezuela.
+Titel: Oud-adviseur Trump aangeklaagd door Justitie  
+Samenvatting: De tweede ambtstermijn van Donald Trump als president van Amerika brengt wereldwijd veranderingen teweeg. Volg hier alle updates.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **president** | de leider van een land |
-| **acties** | dingen die mensen doen |
-| **veranderingen** | dingen die anders worden |
-| **land** | een gebied met eigen regels |
-| **overal** | op alle plaatsen |
+| **adviseur** | iemand die advies geeft, een raadgever |
+| **aangeklaagd** | beschuldigd van iets, wordt voor de rechter gebracht |
+| **justitie** | het gerecht, het juridische systeem |
+| **amtstermijn** | de periode waarin iemand een ambt bekleedt, bijvoorbeeld president |
+| **wereldwijd** | over de hele wereld |
 
 ### Vul-in-de-leegte
-1. Donald Trump is de ___ van de Verenigde Staten.
-2. De CIA voert ___ uit in Venezuela.
-3. Deze veranderingen gebeuren overal in de ___.
+1. John Bolton was een ___ (adviseur) van president Trump.
+2. Hij is ___ (aangeklaagd) door Justitie.
+3. De tweede ___(amtstermijn) van Trump bracht veel veranderingen.
+
 #### Oplossingen
-1. president
-2. acties
-3. wereld
+1. adviseur
+2. aangeklaagd
+3. ambtstermijn
 
 ### Meerkeuzevragen
-1. Wat is Donald Trump?  
-a) een land b) een actie c) de president d) een verandering
-2. Waar voert de CIA acties uit?  
-a) in Amerika b) in een land c) in Venezuela d) in een verandering
-3. Waar vinden de veranderingen plaats?  
-a) alleen in Amerika b) in een land c) in Venezuela d) overal in de wereld
+1. Wat is een ander woord voor 'aangeklaagd'?  
+   a) veroordeeld  
+   b) beschuldigd  
+   c) onschuldig  
+   d) verdacht  
+   (Antwoord: b)
+
+2. Wat betekent 'wereldwijd'?  
+   a) alleen in één land  
+   b) over de hele wereld  
+   c) in de toekomst  
+   d) in het verleden  
+   (Antwoord: b)
+
+3. Wat is een 'amtstermijn'?  
+   a) Een vakantieperiode  
+   b) De tijd dat iemand een functie heeft, bijvoorbeeld president  
+   c) Een soort boom  
+   d) Een feestdag  
+   (Antwoord: b)
+
 #### Antwoorden
-1. c) de president
-2. c) in Venezuela
-3. d) overal in de wereld
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Donald Trump is de president van Amerika. (Waar)
-2. De CIA voert acties uit in Venezuela. (Waar)
-3. De veranderingen gebeuren alleen in Amerika. (Niet waar)
+1. John Bolton is aangeklaagd door Justitie. (Waar)
+2. De ambtstermijn van Trump was zijn eerste termijn. (Niet waar, het was zijn tweede)
+3. Justitie is de naam van een persoon. (Niet waar, het is een organisatie)
+
 #### Antwoorden
 1. Waar
-2. Waar
-3. Niet waar
+2. Niet waar
+3. Niet waar<｜begin▁of▁sentence｜>

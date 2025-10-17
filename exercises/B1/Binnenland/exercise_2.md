@@ -1,55 +1,55 @@
-# De nieuwe Lunch Garden is niet meer wat het was – en dat is goed nieuws
+# Solliciteren met AI
 
 ## Samenvatting
-In Wijnegam is een vernieuwde Lunch Garden geopend. Het interieur is modern geworden. Ook zijn de recepten van de bekende gerechten aangepast. Culinair journalist Evelien Rutten heeft het restaurant al kunnen proberen.
+Steeds meer mensen gebruiken AI, zoals ChatGPT, om hun sollicitatiebrief of cv te schrijven. Ook werkgevers gebruiken steeds vaker AI om sollicitaties te beoordelen. Als AI zowel de sollicitant als de werkgever beoordeelt, wie krijgt dan de baan?
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
 
-| Woorden | Definitie |
+| Woord | Definitie |
 |-------|-----------|
-| **vernieuwd** | opnieuw gemaakt, vernieuwd |
-| **eigentijds** | modern, van deze tijd |
-| **culinair** | met betrekking tot koken en eten |
-| **proeven** | (hier) iets uitproberen of testen |
-| **aangepast** | veranderd, aangepast aan nieuwe eisen |
+| **solliciteren** | vragen om een baan |
+| **artificiële intelligentie** | een computer die kan leren en denken |
+| **sollicitatie** | het verzoek om een baan |
+| **werkgever** | de persoon of het bedrijf waar je voor werkt |
+| **sollicitatiebrief** | de brief die je schrijft om te vragen om een baan |
 
 ### Vul-in-de-leegte
-1. De nieuwe Lunch Garden heeft een ___ interieur.
-2. Evelien Rutten is een ___ journalist.
-3. De recepten zijn ___ aan de nieuwe stijl.
+1. Veel mensen gebruiken ChatGPT om hun ___ te schrijven.
+2. Werkgevers gebruiken AI om ___ te beoordelen.
+3. Als AI de sollicitant beoordeelt, wie krijgt dan de ___?
 #### Oplossingen
-1. eigentijds
-2. culinair
-3. aangepast
+1. sollicitatiebrief
+2. sollicitaties
+3. baan
 
 ### Meerkeuzevragen
-1. Wat is er nieuw aan de Lunch Garden in Wijnegem?
-   a) Alleen de naam
-   b) Alleen het eten
-   c) Het interieur en het eten
-   d) Alleen de locatie
-2. Wie is Evelien Rutten?
-   a) Een kok
-   b) Een restaurantmanager
-   c) Een journalist die over eten schrijft
-   d) Een klant
-3. Waarom is dit goed nieuws volgens de titel?
-   a) Omdat het restaurant gesloten is
-   b) Omdat het restaurant nu moderner is en beter aan huidige wensen voldoet
-   c) Omdat het restaurant duurder is geworden
-   d) Omdat het restaurant nu kleiner is
+1. Wat is AI?
+   a) een soort robot
+   b) kunstmatige intelligentie
+   c) een soort computerprogramma
+   d) alle bovenstaande
+2. Waarom gebruiken mensen AI bij het solliciteren?
+   a) Omdat het sneller is
+   b) Omdat ze niet weten wat ze moeten schrijven
+   c) Omdat het mooier klinkt
+   d) Alle antwoorden zijn goed
+3. Hoe beïnvloedt AI de kansen op een baan?
+   a) Het geeft iedereen dezelfde kans
+   b) Alleen mensen met toegang tot AI hebben een kans
+   c) Het maakt het oneerlijk voor mensen zonder AI
+   d) Het maakt niet uit
 #### Antwoorden
-1. c
-2. c
-3. b
+1. d
+2. d
+3. c
 
 ### Waar / Niet Waar
-1. De Lunch Garden in Wijnegem is helemaal hetzelfde gebleven.
-2. Evelien Rutten heeft de nieuwe Lunch Garden al bezocht.
-3. De recepten zijn hetzelfde gebleven.
+1. Alleen mensen met toegang tot AI kunnen solliciteren. (Niet waar)
+2. AI kan helpen om sollicitaties eerlijker te beoordelen. (Waar)
+3. Iedereen heeft dezelfde kans op een baan als AI gebruikt wordt. (Niet waar)
 #### Antwoorden
 1. Niet waar
 2. Waar
-3. Niet waar<｜begin▁of▁sentence｜>
+3. Niet waar

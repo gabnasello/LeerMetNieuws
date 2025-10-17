@@ -1,9 +1,11 @@
-# De Verenigde Staten en Venezuela
+# Stemrecht in Amerika
 
-## Titels en samenvatting in eenvoudig Nederlands
+## Samenvatting
 
-**Titel:** VS blijven boten opblazen en druk zetten op Venezolaanse president Maduro  
-**Samenvatting:** De VS vallen boten van "narcoterroristen" aan in de Caraïbische Zee en noemen regimewissels, wat Venezuela boos maakt. Deskundigen zeggen dat deze aanvallen illegaal zijn, maar Trump luistert niet. "Wij blazen jullie weg."
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/5eo63b-gettyimages-1719193814.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-1719193814.jpg)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/maakt-amerikaanse-supreme-court-zwarte-kiezers-machteloos/97914208.html)
+
+Sinds 1965 beschermt de Amerikaanse "Voting Rights Act" het stemrecht. Zwarte kiezers in het zuiden kunnen dan mensen van hun eigen ras verkiezen. Maar nu dreigt het Hooggerechtshof deze wet af te schaffen. Dat zou de macht van de Republikeinen kunnen vergroten.
 
 ## Woordenschatuitbreiding
 
@@ -11,50 +13,52 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **boten** | een soort groot schip dat op water vaart |
-| **aanvallen** | proberen iemand of iets te beschadigen of te vernietigen |
-| **illegale** | iets wat niet volgens de wet is |
-| **president** | de leider van een land |
-| **deskundigen** | mensen die veel over een onderwerp weten |
+| **stemrecht** | het recht om te mogen stemmen |
+| **wet** | een officiële regel die voor iedereen geldt |
+| **kiezers** | mensen die hun stem mogen uitbrengen |
+| **macht** | de mogelijkheid om invloed uit te oefenen |
+| **verkiezen** | het kiezen van een persoon of partij door te stemmen |
 
 ### Vul-in-de-leegte
-1. De Verenigde Staten vallen boten aan in de Caraïbische Zee, wat door veel mensen als ___ wordt gezien.
-2. De Amerikaanse president Trump zegt "Wij blazen jullie weg", maar deskundigen zeggen dat deze aanvallen ___ zijn.
-3. De VS zet druk op president Maduro van Venezuela, en dat maakt het land ___.
+1. Het ___ om te mogen stemmen is een belangrijk recht.
+2. Een wet is een regel die door ___ wordt gemaakt.
+3. Kiezers zijn mensen die hun ___ mogen uitbrengen.
 
 #### Oplossingen
-1. onrechtmatig
-2. illegaal
-3. ongerust
+1. recht
+2. de overheid
+3. stem
 
 ### Meerkeuzevragen
-1. Waarom is de VS bezig met het aanvallen van boten in de Caraïbische Zee?
-   a) Om te oefenen voor een oorlog
-   b) Omdat ze denken dat de boten van criminelen zijn
-   c) Omdat ze de boten mooi vinden
-   d) Omdat ze de boten willen kopen
-2. Waarom noemt het artikel deze acties "illegaal"?
-   a) Omdat de VN (Verenigde Naties) het heeft gezegd
-   b) Omdat de VN-Veiligheidsraad geen toestemming gaf
-   c) Omdat de VS geen lid is van de VN
-   d) Omdat de VN-Veiligheidsraad niet bestaat
-3. Wat is de rol van president Maduro in deze situatie?
-   a) Hij is de leider van de VS
-   b) Hij is de leider van Venezuela, en de VS zet druk op hem
-   c) Hij is de leider van de VN-Veiligheidsraad
-   d) Hij is de kapitein van een van de boten
+1. Wat is het stemrecht?
+a) Het recht om te mogen stemmen
+b) Het recht om niet te hoeven werken
+c) Het recht om vrij te spreken
+d) Het recht om te mogen trouwen
+
+2. Wat is een wet?
+a) Een soort boek
+b) Een officiële regel die voor iedereen geldt
+c) Een soort feest
+d) Een soort sport
+
+3. Wat betekent 'macht' in deze context?
+a) Kracht
+b) Autoriteit of controle over anderen
+c) Een soort machine
+d) Een soort gebouw
 
 #### Antwoorden
-1. b) Omdat ze denken dat de boten van criminelen zijn
-2. b) Omdat de VN-Veiligheidsraad geen toestemming gaf
-3. b) Hij is de leider van Venezuela, en de VS zet druk op hem
+1. a
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. De Verenigde Staten vallen alleen boten aan in de Caraïbische Zee.
-2. Deskundigen zeggen dat de aanvallen illegaal zijn, maar president Trump gaat ermee door.
-3. President Maduro van Venezuela is blij met de acties van de VS.
+1. De Voting Rights Act werd ingevoerd in 1965. (Waar)
+2. Het Hooggerechtshof heeft de Voting Rights Act al afgeschaft. (Niet waar - het dreigt te gebeuren)
+3. Zwarte kiezers kunnen alleen zwarte mensen verkiezen. (Niet waar - ze kunnen iedereen verkiezen, maar de wet beschermt hun recht om dit te doen)
 
 #### Antwoorden
-1. Niet Waar (Het artikel zegt dat de VS de boten opblaast, dus ze vallen ze niet alleen aan)
-2. Waar
-3. Niet Waar (Het artikel zegt dat de VS druk zet op Maduro, wat Venezuela onrustig maakt)<｜begin▁of▁sentence｜>
+1. Waar
+2. Niet waar
+3. Niet waar

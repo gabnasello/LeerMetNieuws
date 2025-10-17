@@ -1,12 +1,6 @@
-# Eenvoudige versie van het artikel
+# Solliciteren met AI
 
-## Titel en samenvatting in eenvoudig Nederlands
-
-**Titel:** De nieuwe Lunch Garden is niet meer hetzelfde – en dat is goed nieuws
-
-**Samenvatting:** In Wijnegem heropende de eerste vernieuwde Lunch Garden. Het restaurant heeft een nieuw interieur en nieuwe recepten. Culinair journalist Evelien Rutten heeft het eten al geproefd.
-
----
+Deel deze tekst in het Nederlands. Als je een fout tegenkomt, verbeter die dan.
 
 ## Woordenschatuitbreiding
 
@@ -14,50 +8,47 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **heropende** | opende opnieuw, na verbouwing of verandering |
-| **vernieuwde** | vernieuwd, aangepast en verbeterd |
-| **culinair** | met eten en koken te maken hebbend |
-| **proeven** | (hier) eten om te testen hoe het smaakt |
-| **gerechten** | (hier) maaltijden, eten dat geserveerd wordt |
+| **solliciteren** | een baan vragen |
+| **kandidaat** | iemand die voor een baan of taak in aanmerking wil komen |
+| **algoritme** | een reeks instructies die een computer uitvoert |
+| **voordeel** | iets dat helpt of nuttig is |
+| **vergelijken** | naast elkaar leggen om verschillen of overeenkomsten te zien |
 
 ### Vul-in-de-leegte
-1. De Lunch Garden is ____ en heeft nieuwe gerechten.
-2. Evelien Rutten is een ____ journalist.
-3. Het restaurant is ___ in Wijnegem.
-
+1. ChatGPT kan een sollicitatiebrief __schrijven__.
+2. Werkgevers kunnen AI gebruiken om kandidaten te __selecteren__.
+3. Als AI kandidaten beoordeelt, is het moeilijk om __eerlijkheid__ te garanderen.
 #### Oplossingen
-1. vernieuwd
-2. culinair
-3. heropend
+1. ChatGPT kan een sollicitatiebrief **schrijven**.
+2. Werkgevers kunnen AI gebruiken om kandidaten te **selecteren**.
+3. Als AI kandidaten beoordeelt, is het moeilijk om **eerlijkheid** te garanderen.
 
 ### Meerkeuzevragen
-1. Wat is de Lunch Garden?
-   a) een tuin
-   b) een restaurant
-   c) een winkel
-   d) een park
-2. Wat is er nieuw aan de Lunch Garden?
-   a) alleen de naam
-   b) het interieur en de recepten
-   c) alleen het interieur
-   d) alleen de recepten
-3. Wie is Evelien Rutten?
-   a) een kok
-   b) een culinair journalist
-   c) een klant
-   d) een manager
-
+1. Wat is een voordeel van AI in sollicitaties?
+   a) Het maakt solliciteren oneerlijk
+   b) Het helpt kandidaten om zich beter te presenteren
+   c) Het maakt de selectie ondoorzichtig
+   d) Het vervangt menselijke beslissingen volledig
+2. Waarom is het belangrijk om AI-gebruik in sollicitaties te controleren?
+   a) Omdat AI altijd de beste kandidaat kiest
+   b) Omdat het oneerlijk kan zijn als sommigen AI gebruiken en anderen niet
+   c) Omdat AI nooit fouten maakt
+   d) Omdat AI de werkgever is
+3. Wat is een ethisch probleem van AI in werving?
+   a) Het maakt sollicitaties te lang
+   b) Het kan bestaande vooroordelen versterken
+   c) Het is te duur voor kleine bedrijven
+   d) Het is alleen voor tech-bedrijven
 #### Antwoorden
-1. b
-2. b
-3. b
+1. b) Het helpt kandidaten om zich beter te presenteren
+2. b) Omdat het oneerlijk kan zijn als sommigen AI gebruiken en anderen niet
+3. b) Het kan bestaande vooroordelen versterken
 
 ### Waar / Niet Waar
-1. De Lunch Garden is helemaal hetzelfde gebleven.
-2. Evelien Rutten heeft het eten geproefd.
-3. Het restaurant is in Amsterdam.
-
+1. AI kan helpen om sollicitaties eerlijker te beoordelen door objectieve criteria te gebruiken.
+2. Het gebruik van AI in sollicitaties garandeert dat iedereen dezelfde kansen krijgt.
+3. Werkgevers moeten transparant zijn over het gebruik van AI in hun wervingsproces.
 #### Antwoorden
-1. Niet waar
-2. Waar
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Waar
+2. Niet waar (want AI kan bestaande vooroordelen versterken, niet elimineren)
+3. Waar<｜begin▁of▁sentence｜>

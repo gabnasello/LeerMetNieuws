@@ -1,7 +1,13 @@
-# De magie van K3
+# Vliegshow
+
+[vereenvoudigde titel: "Demonstratie F-35's gaat niet door: minister Francken vindt het niet het moment"]
 
 ## Samenvatting
-De reünieconcerten van K3 zijn een groot succes, ook bij volwassenen. Dat is niet vreemd, zegt Linde Bossuyt, een expert in kinder-tv. "Wie de populariteit van K3 niet begrijpt, onderschat hun culturele belang."
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/l6rhmp-274.jpeg/alternates/BASE_SIXTEEN_NINE/274.jpeg)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/demonstratie-f-35-s-gaat-niet-door-minister-francken-vindt-het-niet-het-moment/98075382.html)
+
+[vereenvoudigde samenvatting: "Het luchtruim boven Brussel zal vrijdag niet gesloten worden voor een vliegshow met F-35-gevechtsvliegtuigen en nieuwe drones. Minister van Defensie Theo Francken zegt dat dit niet doorgaat: niet de tijd, niet de plaats."]
 
 ## Woordenschatuitbreiding
 
@@ -9,52 +15,47 @@ De reünieconcerten van K3 zijn een groot succes, ook bij volwassenen. Dat is ni
 
 | Woord | Definitie |
 |-------|-----------|
-| **reünieconcerten** | speciale concerten waar een oude band weer bij elkaar komt |
-| **expert** | iemand die heel veel weet over een onderwerp |
-| **kritiek** | een mening of oordeel over iets |
-| **cultureel** | alles wat met kunst, taal en gewoontes te maken heeft |
-| **succes** | iets dat goed gaat of goed afloopt |
+| **demonstratie** | een show of voorstelling waarop iets wordt getoond |
+| **minister** | een belangrijk persoon in de regering die over een bepaald gebied gaat |
+| **defensie** | bescherming van een land tegen aanvallen van buitenaf |
+| **luchtruim** | de ruimte in de lucht boven een bepaald gebied |
+| **drone** | een onbemand vliegtuigje dat op afstand wordt bestuurd |
 
 ### Vul-in-de-leegte
-1. De reünieconcerten van K3 zijn een groot ____ bij veel mensen.
-2. Linde Bossuyt is een ____ in kinder-tv.
-3. Wie de populariteit van K3 niet begrijpt, ____ hun culturele belang.
-
+1. De minister van Defensie heeft besloten de ___ niet door te laten gaan.
+2. Het ___ boven Brussel zou tijdelijk gesloten worden voor de vliegshow.
+3. Minister Francken vindt dat het niet het juiste ___ is voor de demonstratie.
 #### Oplossingen
-1. De reünieconcerten van K3 zijn een groot **succes** bij veel mensen.
-2. Linde Bossuyt is een **expert** in kinder-tv.
-3. Wie de populariteit van K3 niet begrijpt, **onderschat** hun culturele belang.
+1. demonstratie
+2. luchtruim
+3. moment
 
 ### Meerkeuzevragen
-1. Wat is K3?
-   a) een muziekgroep  
-   b) een soort fruit  
-   c) een televisieprogramma  
-   d) een sportteam  
-
-2. Waar is Linde Bossuyt een expert in?
-   a) koken  
-   b) kinder-tv  
-   c) sport  
-   d) reizen  
-
-3. Waarom is K3 populair volgens de tekst?
-   a) omdat ze alleen voor kinderen zijn  
-   b) omdat ze een grote culturele impact hebben  
-   c) omdat ze niet meer bestaan  
-   d) omdat niemand ze kent  
-
+1. Wat is de reden dat de demonstratie niet doorgaat?  
+a) Het weer is te slecht  
+b) De minister vindt het niet het juiste moment  
+c) De vliegtuigen zijn defect  
+d) Er is geen toestemming van de burgemeester  
+2. Wat betekent "defensie"?  
+a) Aanval  
+b) Bescherming  
+c) Onderwijs  
+d) Economie  
+3. Wat is een "drone"?  
+a) Een soort vogel  
+b) Een onbemand vliegtuigje  
+c) Een soort auto  
+d) Een soort computer  
 #### Antwoorden
-1. a) een muziekgroep  
-2. b) kinder-tv  
-3. b) omdat ze een grote culturele impact hebben  
+1. b
+2. b
+3. b
 
-### Waar / Niet waar
-1. K3 trekt alleen kinderen aan.
-2. Linde Bossuyt is een expert in kinder-tv.
-3. K3 heeft geen culturele impact.
-
+### Waar / Niet Waar
+1. De demonstratie met F-35's en drones gaat wel door.  
+2. Minister Francken is de minister van Defensie.  
+3. Het luchtruim boven Brussel wordt helemaal niet gesloten.  
 #### Antwoorden
-1. Niet waar  
-2. Waar  
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Waar
+3. Waar

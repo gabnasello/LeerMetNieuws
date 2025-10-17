@@ -1,9 +1,9 @@
-# Amerikaanse politiek en Venezuela
+# John Bolton aangeklaagd door Justitie
 
-[Titel: Amerikaanse politiek en Venezuela]
+John Bolton, een oud-adviseur van Trump, is aangeklaagd door Justitie.
 
 ## Samenvatting
-De Amerikaanse president Donald Trump heeft een tweede termijn. Zijn beleid brengt veranderingen over de hele wereld. Dit artikel gaat over de acties van de CIA in Venezuela, met toestemming van de regering-Trump.
+Donald Trump is opnieuw president van Amerika. Dit kan wereldwijd veranderingen brengen. Blijf op de hoogte met de laatste updates.
 
 ## Woordenschatuitbreiding
 
@@ -11,47 +11,50 @@ De Amerikaanse president Donald Trump heeft een tweede termijn. Zijn beleid bren
 
 | Woord | Definitie |
 |-------|-----------|
-| **president** | het staatshoofd van een land |
-| **beleid** | de plannen en acties van een regering |
-| **acties** | dingen die gedaan worden, activiteiten |
-| **toestemming** | toestemming geven of zeggen dat iets mag |
-| **international** | tussen verschillende landen |
+| **adviseur** | iemand die advies geeft |
+| **president** | de leider van een land |
+| **verandering** | iets wat anders wordt |
+| **justitie** | de organisatie die wetten handhaaft |
+| **wereldwijd** | over de hele wereld |
 
 ### Vul-in-de-leegte
-1. De Amerikaanse president heeft een tweede ____.
-2. Het beleid van Trump brengt veranderingen in de ____.
-3. De CIA heeft ____ gekregen van de regering-Trump.
+1. John Bolton is een oud-____ van Trump. (adviseur)
+2. Trump is de ____ van Amerika. (president)
+3. Justitie zorgt voor ____ in de samenleving. (orde)
+
 #### Oplossingen
-1. termijn
-2. wereld
-3. toestemming
+1. adviseur
+2. president
+3. orde
 
 ### Meerkeuzevragen
-1. Wat is de CIA?
-A) een soort voedsel
-B) een Amerikaanse overheidsorganisatie
-C) een beroemde persoon
-D) een land in Europa
-2. Wat betekent 'internationaal'?
-A) alleen in één land
-B) tussen verschillende landen
-C) onder de grond
-D) boven de wolken
-3. Waarover gaat dit artikel?
-A) koken en eten
-B) sport en spel
-C) Amerikaans beleid in Venezuela
-D) feest en vakantie
+1. Wat is Justitie?
+   a) Een soort eten
+   b) De organisatie die wetten handhaaft
+   c) Een soort auto
+   d) Een beroemde persoon
+2. Wat betekent 'wereldwijd'?
+   a) Alleen in één stad
+   b) Alleen in één land
+   c) Over de hele wereld
+   d) Alleen in Europa
+3. Wat is een 'president'?
+   a) Een soort dier
+   b) De leider van een land
+   c) Een soort voedsel
+   d) Een gebouw
+
 #### Antwoorden
-1. B
-2. B
-3. C
+1. b
+2. c
+3. b
 
 ### Waar / Niet Waar
-1. Donald Trump is de president van Amerika. (Waar)
-2. De CIA heeft toestemming gekregen van de regering-Trump. (Waar)
-3. Venezuela is een provincie in Nederland. (Niet waar)
+1. John Bolton is de huidige president van Amerika. (Niet waar)
+2. Trump is nog steeds de president van Amerika. (Niet waar)
+3. Justitie heeft John Bolton aangeklaagd. (Waar)
+
 #### Antwoorden
-1. Waar
-2. Waar
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Niet waar
+3. Waar<｜begin▁of▁sentence｜>

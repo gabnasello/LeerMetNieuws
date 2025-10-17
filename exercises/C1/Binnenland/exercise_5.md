@@ -1,66 +1,65 @@
-# De magie van K3 werkt nog steeds: "Ik ging als grap, maar kreeg tranen in mijn ogen"
+# Het organiseren van een demonstratie met F-35's en drones wordt uitgesteld
 
-De reünieconcerten van K3 zijn een groot succes, ook bij volwassenen. Dat mag niet verbazen, vindt Linde Bossuyt, expert in kinder-tv. "Wie de populariteit van K3 niet begrijpt, onderschat hun culturele impact."
+[Vereenvoudigde titel]
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/x1e9vc-k3-the-originals-afas-dome-antwerpen-3102025/alternates/BASE_SIXTEEN_NINE/K3%20The%20Originals%20Afas%20Dome%20Antwerpen%203102025)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/de-magie-doet-het-hem-nog-altijd-ik-ging-half-als-grap-naar-k3-maar-kreeg-tranen-in-mijn-ogen/97160469.html)
-
-De reünieconcerten van de popgroep K3 zijn erg succesvol, ook bij volwassenen. Dat is niet verwonderlijk, volgens expert Linde Bossuyt. "Wie denkt dat K3 niet populair is, begrijpt hun culturele belang niet."
+[Boven het luchtruim van Brussel zal vrijdag niet tijdelijk gesloten worden voor een demonstratie met F-35-straaljagers en de nieuwe drones van de luchtmacht. Minister van Defensie Theo Francken zegt dat dit evenement niet doorgaat; het is niet het juiste moment en niet de juiste plaats.]
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **magie** | toverkunst, iets dat magisch of betoverend is |
-| **grappig** | iets dat je aan het lachen maakt, humoristisch |
-| **tranen** | de druppels water die uit je ogen komen wanneer je huilt |
-| **experte** | iemand die veel weet over een onderwerp, een deskundige |
-| **populair** | iets of iemand dat/die erg geliefd is bij veel mensen |
+| **luchtruim** | de lucht boven een bepaald gebied, waar vliegtuigen doorheen vliegen |
+| **demonstratie** | een evenement waarbij iets wordt getoond of gepresenteerd aan het publiek |
+| **defensie** | de bescherming van een land tegen aanvallen van buitenaf |
+| **minister** | een persoon die een belangrijk onderdeel van de overheid leidt |
+| **organiseren** | plannen en regelen dat iets gebeurt |
 
-### Vul-in-de-leegte
-1. De magie van K3 is nog steeds ___ voor veel fans. (aanwezig)
-2. Sommige mensen gingen naar het concert als een ___, maar werden emotioneel. (grap)
-3. Wie K3's populariteit niet begrijpt, ___ hun culturele impact. (onderschat)
+### Vul de lege plekken in
+
+1. De minister van Defensie zei dat de ___ niet doorgaat omdat het niet het juiste moment is.
+2. Het ___ boven Brussel zou tijdelijk gesloten worden voor de demonstratie.
+3. De minister van Defensie is verantwoordelijk voor de ___ van het land.
 
 #### Oplossingen
-1. De magie van K3 is nog steeds **aanwezig** voor veel fans.
-2. Sommige mensen gingen naar het concert als een **grap**, maar werden emotioneel.
-3. Wie K3's populariteit niet begrijpt, **onderschat** hun culturele impact.
+1. demonstratie
+2. luchtruim
+3. defensie
 
 ### Meerkeuzevragen
-1. Wat is K3 vooral bekend voor?
-   a) Een serie over koken
-   b) Een popgroep uit België
-   c) Een wetenschappelijk programma
-   d) Een politieke partij
 
-2. Waarom noemt de auteur het concertbezoek een "grap"?
-   a) Omdat het concert saai was
-   b) Omdat ze dachten dat het alleen voor kinderen was
-   c) Omdat de tickets goedkoop waren
-   d) Omdat ze de verkeerde datum hadden
+1. Wat is een 'demonstratie' in deze context?
+   a) een protest
+   b) een militaire oefening
+   c) een presentatie of show
+   d) een soort feest
 
-3. Wat is de rol van Linde Bossuyt in deze context?
-   a) Ze is een van de zangeressen van K3
-   b) Ze is een academicus die de impact van K3 bestudeert
-   c) Ze is een fan die altijd naar K3 gaat
-   d) Ze is een journalist die over K3 schrijft
+2. Waarom wordt de demonstratie niet gehouden?
+   a) Omdat de minister ziek is.
+   b) Omdat het niet het juiste moment en de juiste plaats is.
+   c) Omdat er geen geld is.
+   d) Omdat de minister op vakantie is.
+
+3. Wat betekent 'defensie'?
+   a) De bescherming van een land tegen aanvallen.
+   b) De aanval op een ander land.
+   c) De economie van een land.
+   d) De cultuur van een land.
 
 #### Antwoorden
-1. b) Een popgroep uit België
-2. b) Omdat ze dachten dat het alleen voor kinderen was
-3. b) Ze is een academicus die de impact van K3 bestudeert
+1. c
+2. b
+3. a
 
 ### Waar / Niet Waar
-1. K3 trekt alleen kinderen aan naar hun concerten.
-2. Linde Bossuyt is een expert in kindertelevisie.
-3. De auteur van het artikel denkt dat K3's populariteit verrassend is.
+
+1. De demonstratie met F-35's en drones gaat door zoals gepland.
+2. Minister Francken is verantwoordelijk voor de defensie.
+3. Het luchtruim boven Brussel werd volledig gesloten voor een dag.
 
 #### Antwoorden
 1. Niet waar
 2. Waar
-3. Waar<｜begin▁of▁sentence｜>
+3. Niet waar<｜begin▁of▁sentence｜>

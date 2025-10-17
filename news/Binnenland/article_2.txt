@@ -1,15 +1,15 @@
 Artikel 2
-Nieuwsupdate: 2025-10-16 05:23 UCT
+Nieuwsupdate: 2025-10-17 05:23 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: De nieuwe Lunch Garden is niet meer wat het was – en dat is goed nieuws
-Link: https://www.standaard.be/binnenland/de-nieuwe-lunch-garden-is-niet-meer-wat-het-was-%E2%80%93-en-dat-is-goed-nieuws/97772625.html
-Datum: Wed, 15 Oct 2025 21:59:00 GMT
-Samenvatting: In Wijnegem heropende de eerste vernieuwde Lunch Garden, met een eigentijds interieur en aangepaste recepten van zijn klassiekers. Culinair journalist Evelien Rutten ging voorproeven.
+Titel: Solliciteren met AI en beoordeeld worden door AI: krijgt iedereen dan dezelfde kansen op een job?
+Link: https://www.standaard.be/economie/solliciteren-met-ai-en-beoordeeld-worden-door-ai-krijgt-iedereen-dan-dezelfde-kansen-op-een-job/97647233.html
+Datum: Thu, 16 Oct 2025 21:59:00 GMT
+Samenvatting: De helft van de sollicitanten gebruikt ChatGPT om een cv of motivatiebrief te schrijven. En werkgevers schakelen meer en meer algoritmes in om kandidaten te filteren. Als AI straks AI beoordeelt, krijgt de beste kandidaat dan nog de job?
 Auteur: Geen auteur
-Categorie: Binnenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/hyglyj-file82txv9ne0brvg8hg82o/alternates/BASE_SIXTEEN_NINE/file82txv9ne0brvg8hg82o
+Categorie: Economie
+Afbeelding: https://prod-img.standaard.be/public/nieuws/cpyiba-2510-standaard-sollicitatie-v2-c-kopie.jpg/alternates/BASE_SIXTEEN_NINE/2510_standaard_sollicitatie_v2%20c%20kopie.jpg
 Premium: true
 ------------------------------------------------------------

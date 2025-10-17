@@ -1,62 +1,57 @@
-# Eenvoudige herhaling van het nieuwsbericht
+# Vereenvoudigde Titel en Samenvatting
+**Titel:** Nieuwe regering in Peru roept noodtoestand uit in Lima na dodelijke golf van geweld  
+**Samenvatting:** Bij protesten van jongeren in Peru is een persoon overleden en zijn er honderden gewond geraakt. De demonstranten zijn al weken op straat tegen corruptie en onveiligheid. De tijdelijke regering heeft de noodtoestand afgekondigd in de hoofdstad Lima.
 
-## Titel: Hamas vraagt meer tijd om lichamen van gijzelaars te bergen, Trump noemt het een “gruwelijk proces”
-
-## Samenvatting:
-Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen.
-
-## Woordenschatuitbreiding
+# Woordenschatuitbreiding
 
 ### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **gijzelaars** | mensen die zijn gevangen genomen om iets gedaan te krijgen |
-| **onderhandelingen** | gesprekken tussen partijen om tot een oplossing te komen |
-| **oorlog** | een periode van gewapend conflict tussen landen of groepen |
-| **doorbraak** | een belangrijke, positieve ontwikkeling na lang wachten |
-| **ontwikkelingen** | veranderingen of gebeurtenissen die plaatsvinden |
+| **noodtoestand** | een speciale situatie waarin de regering extra macht krijgt om een probleem op te lossen |
+| **geweld** | het gebruik van fysieke kracht, vaak met als doel om schade toe te brengen |
+| **regering** | de groep mensen die een land of gebied bestuurt |
+| **corruptie** | wanneer mensen in machtsposities hun macht misbruiken voor persoonlijk gewin |
+| **protesten** | openlijke demonstraties of acties om ontevredenheid of verzet te uiten |
 
 ### Vul-in-de-leegte
-1. De Hamas strijders vroegen meer tijd om de lichamen van de ___ te bergen.
-2. Na twee jaar oorlog in Gaza lijkt er eindelijk een ___ in de onderhandelingen.
-3. Volg hier de laatste ___ in dit nieuwsbericht.
+1. De regering heeft een ___ afgekondigd in de hoofdstad.  
+2. De demonstranten zijn al weken op straat vanwege de ___ en ___.  
+3. Bij de protesten is een dode ___ en zijn er honderden ___.  
 
 #### Oplossingen
-1. gijzelaars
-2. doorbraak
-3. ontwikkelingen
+1. noodtoestand  
+2. corruptie, onveiligheid  
+3. gevallen, gewond  
 
 ### Meerkeuzevragen
-1. Wat betekent “gijzelaars”?
-a) Vredesonderhandelaars
-b) Gevangen genomen personen
-c) Internationale waarnemers
-d) Oorlogsveteranen
-
-2. Wat is een “doorbraak”?
-a) Een militaire aanval
-b) Een diplomatiek succes
-c) Een natuurramp
-d) Een sportevenement
-
-3. Wat zijn “ontwikkelingen”?
-a) Oude gebeurtenissen
-b) Toekomstige plannen
-c) Huidige veranderingen en gebeurtenissen
-d) Onbelangrijke details
+1. Waarom komen mensen in Peru de straat op?  
+   a) Om te feesten  
+   b) Om te protesteren tegen corruptie en onveiligheid  
+   c) Om te winkelen  
+   d) Om te sporten  
+2. Wat heeft de overgangsregering gedaan?  
+   a) Niets  
+   b) De noodtoestand afgekondigd  
+   c) Een feest georganiseerd  
+   d) De hoofdstad verplaatst  
+3. Wat is het resultaat van de protesten?  
+   a) Alleen maar gewonden  
+   b) Alleen maar materiële schade  
+   c) Een dode en honderden gewonden  
+   d) Alleen maar gelukkige mensen  
 
 #### Antwoorden
-1. b) Gevangen genomen personen
-2. b) Een diplomatiek succes
-3. c) Huidige veranderingen en gebeurtenissen
+1. b  
+2. b  
+3. c  
 
 ### Waar / Niet Waar
-1. De oorlog in Gaza duurde twee jaar.
-2. Er zijn geen onderhandelingen over vrede.
-3. Trump was betrokken bij dit proces.
+1. De protesten in Peru zijn alleen maar vreedzaam.  
+2. De overgangsregering heeft de noodtoestand afgekondigd in de hoofdstad Lima.  
+3. Er zijn geen gewonden of doden bij de protesten.  
 
 #### Antwoorden
-1. Waar
-2. Niet waar
-3. Waar<｜begin▁of▁sentence｜>
+1. Niet waar  
+2. Waar  
+3. Niet waar<｜begin▁of▁sentence｜>

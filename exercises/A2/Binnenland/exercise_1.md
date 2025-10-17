@@ -1,55 +1,56 @@
-# Vereenvoudigde tekst oefeningen
+# Toestemming bij seks
+Een nieuwe campagne van Sensoa leert jongeren over toestemming bij seks.
 
-**Titel:** Beveiliging voerde veel interventies uit in Brussel-Zuid  
-**Samenvatting:** De beveiliging van de trein moest in Brussel-Zuid elke dag gemiddeld twintig keer iets doen. Dat is een nieuw record.
+## Samenvatting
+Lichaamstaal kan soms verkeerd begrepen worden. Daarom is het beter om duidelijk te vragen om toestemming bij seks. Sensoa start een campagne om jongeren te leren hoe ze dit kunnen doen.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijke
 
 | Woord | Definitie |
 |-------|-----------|
-| **beveiliging** | mensen die veiligheid zorgen |
-| **interventies** | ingrijpen of iets doen om te helpen |
-| **gemiddeld** | wat meestal gebeurt, het gemiddelde |
-| **record** | het beste of meeste ooit |
-| **station** | plaats waar treinen stoppen |
+| **toestemming** | goedkeuring of instemming |
+| **seks** | seksuele handeling |
+| **campagne** | een georganiseerde actie of reeks activiteiten met een specifiek doel |
+| **vragen** | iets zeggen om informatie te krijgen |
+| **leren** | kennis of vaardigheden opdoen |
 
-### Vul-in-de-leegte
-1. De beveiliging doet elke dag een interventie in het ___.
-2. Het aantal interventies in Brussel-Zuid is een nieuw ___.
-3. De beveiliging zorgt voor ___ in het station.
+### Vul de lege plekken in
+1. Bij seks is het belangrijk om toestemming te ___.
+2. De campagne leert jongeren hoe ze een ___ kunnen stellen.
+3. Sensoo is een organisatie die een ___ startte over dit onderwerp.
 #### Oplossingen
-1. station
-2. record
-3. veiligheid
+1. vragen
+2. vraag
+3. campagne
 
 ### Meerkeuzevragen
-1. Wat is de taak van de beveiliging?  
-   a) Koffie drinken  
-   b) Veiligheid bewaken  
-   c) Treinen besturen  
-   d) Geen van deze  
-2. Waar vindt de meeste actie plaats?  
-   a) In een supermarkt  
-   b) In station Brussel-Zuid  
-   c) In een park  
-   d) Op de maan  
-3. Hoe vaak moet de beveiliging gemiddeld per dag iets doen?  
-   a) 1 keer  
-   b) 5 keer  
-   c) 20 keer  
-   d) 100 keer  
+1. Wat is het doel van de Sensoa-campagne?
+   a) Seks verbieden  
+   b) Jongeren leren over toestemming vragen  
+   c) Enkel volwassenen informeren  
+   d) Geen van bovenstaande  
+2. Waarom is het volgens de tekst beter om expliciet te vragen?
+   a) Omdat het sneller gaat  
+   b) Omdat lichaamstaal misverstanden kan veroorzaken  
+   c) Omdat seks niet belangrijk is  
+   d) Omdat iedereen het al weet  
+3. Wat doet Sensoo?
+   a) Een winkelketen  
+   b) Een organisatie die campagnes maakt over seksuele gezondheid  
+   c) Een soort sportclub  
+   d) Geen van bovenstaande  
 #### Antwoorden
 1. b
 2. b
-3. c
+3. b
 
-### Waar / Niet Waar
-1. De beveiliging doet niks in Brussel-Zuid.  
-2. Het aantal interventies is een nieuw hoogtepunt.  
-3. De beveiliging werkt alleen 's nachts.  
+### Waar of niet waar?
+1. Lichaamstaal is altijd duidelijk en leidt nooit tot misverstanden.
+2. De Sensoa-campagne is alleen voor ouderen.
+3. Sensoo is de naam van de campagne, niet van de organisatie.
 #### Antwoorden
 1. Niet waar
-2. Waar
-3. Niet waar
+2. Niet waar
+3. Niet waar<｜begin▁of▁sentence｜>

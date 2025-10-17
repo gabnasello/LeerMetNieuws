@@ -1,15 +1,15 @@
 Artikel 4
-Nieuwsupdate: 2025-10-16 05:23 UCT
+Nieuwsupdate: 2025-10-17 05:23 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Bertrand Sassoye, de witte ridder van extreemlinks
-Link: https://www.standaard.be/binnenland/bertrand-sassoye-de-witte-ridder-van-extreemlinks/97636940.html
-Datum: Wed, 15 Oct 2025 21:59:00 GMT
-Samenvatting: Het Brusselse parket wil nog niets kwijt over de vijf verdachten die gerechtelijk gearresteerd zijn na de rellen op de nationale betoging. Maar alle ogen zijn op extreemlinks gericht. Oud-CCC’er Bertrand Sassoye is nog lang niet vergeten.
+Titel: Het uitstel van De Wever kost ons alvast 7.000 euro
+Link: https://www.standaard.be/binnenland/het-uitstel-van-de-wever-kost-ons-alvast-7.000-euro/98019743.html
+Datum: Thu, 16 Oct 2025 17:00:00 GMT
+Samenvatting: Wie slipt in de Wetstraat of in de geruchtenmolen belandt, verzeilt vroeg of laat in deze rubriek.
 Auteur: Geen auteur
 Categorie: Binnenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/fer4t9-belgaimage-721275.jpg/alternates/BASE_SIXTEEN_NINE/Belgaimage-721275.jpg
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/8dm4go-file82r9tqnhep4ucpp4keh/alternates/BASE_SIXTEEN_NINE/file82r9tqnhep4ucpp4keh
+Premium: false
 ------------------------------------------------------------

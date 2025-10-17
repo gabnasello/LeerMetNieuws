@@ -1,48 +1,64 @@
-# Oorlog in Oekraïne
+# Eenvoudig Nederlands: Trump praat met Hamas
 
 ## Samenvatting
-De Europese landen geven minder wapens aan Oekraïne. Maar ze beloven om meer Amerikaanse wapens te kopen en die naar Oekraïne te sturen. Op die manier steunen ze Oekraïne.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/1teids-12456503.jpg/alternates/BASE_SIXTEEN_NINE/12456503.jpg)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/wispelturige-trump-spreekt-dreigende-taal-tegen-hamas/98107265.html)
+
+Er wordt gepraat over een wapenstilstand in Gaza. President Trump praat met Hamas, maar niets is zeker.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
+
 | Woord | Definitie |
 |-------|-----------|
-| **wapens** | wapens, zoals geweren of tanks, voor oorlog |
-| **steunen** | helpen of ondersteunen |
-| **beloven** | zeggen dat je iets zult doen |
-| **kopen** | betalen om iets te krijgen |
-| **sturen** | naar een andere plaats brengen |
+| **praat** | zegt woorden tegen iemand |
+| **zeker** | het is waar, het is niet onzeker |
+| **vrede** | geen oorlog, rust |
+| **stilstand** | alles stopt, niets beweegt |
+| **Trump** | de president van Amerika |
 
-### Vul in de lege plekken
-1. De Europese landen ___ wapens naar Oekraïne.
-2. Ze ___ meer wapens te kopen uit de VS.
-3. Ze zullen deze wapens ___ naar Oekraïne.
+### Vul-in-de-leegte
+1. President Trump ___ met Hamas.  
+2. Is er zekerheid over de vrede? Nog ___.  
+3. De wapenstilstand zorgt voor ___.  
 
-#### Oplossingen
-1. sturen
-2. beloven
-3. sturen
+#### Oplossing
+1. praat  
+2. niet  
+3. vrede  
 
 ### Meerkeuzevragen
-1. Wat betekent "steunen" in deze context?
-   a) tegenwerken b) helpen c) negeren d) bekritiseren
-2. Wat doen de Europese landen met de wapens?
-   a) Ze verkopen ze. b) Ze sturen ze naar Oekraïne. c) Ze houden ze voor zichzelf. d) Ze vernietigen ze.
-3. Waarom kopen de landen wapens uit de VS?
-   a) Omdat ze goedkoper zijn. b) Omdat ze groter zijn. c) Om Oekraïne te steunen. d) Omdat ze mooi zijn.
+1. Wat is “vrede”?  
+a) een soort muziek  
+b) een toestand zonder oorlog  
+c) de naam van een stad  
+d) een soort eten  
+
+2. Wat betekent “stilstand”?  
+a) heel stil  
+b) helemaal niet bewegen  
+c) hard rennen  
+d) heel luid  
+
+3. Waar is Trump de president?  
+a) van Nederland  
+b) van Duitsland  
+c) van Amerika  
+d) van China  
 
 #### Antwoorden
-1. b) helpen
-2. b) Ze sturen ze naar Oekraïne.
-3. c) Om Oekraïne te steunen.
+1. b  
+2. b  
+3. c  
 
 ### Waar / Niet Waar
-1. De Europese landen sturen meer wapens naar Oekraïne. (Niet Waar)
-2. Ze kopen wapens uit de VS om Oekraïne te steunen. (Waar)
-3. Ze sturen de wapens naar andere landen, niet naar Oekraïne. (Niet Waar)
+1. Trump praat met Hamas.  
+2. Alles is al zeker geworden.  
+3. Er is nu vrede in Gaza.  
 
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar<｜begin▁of▁sentence｜>
+1. Waar  
+2. Niet waar  
+3. Niet waar

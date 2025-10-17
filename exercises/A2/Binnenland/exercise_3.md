@@ -1,64 +1,58 @@
-# Privéjets vliegen vanuit Deurne naar de zon
+# Leidinggeven aan mensen die lang ziek zijn
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/wpp686-luchthaven-deurne/alternates/BASE_SIXTEEN_NINE/Luchthaven%20Deurne)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/privejets-vliegen-vanuit-deurne-op-de-eerste-plaats-naar-de-zon/97698380.html)
-
-Mensen met een privéjet vliegen vaak vanaf luchthaven Deurne naar warme plaatsen zoals Nice, Cannes of Ibiza. Maar ze vliegen niet alleen voor vakantie. De luchtvaartsector zegt dat ze ook belangrijke taken uitvoeren.
+Sommige bedrijven hebben nog geen plan om langdurig zieke werknemers te helpen. Mensen met een lichamelijk probleem krijgen vaak duidelijker hulp dan mensen met een mentaal probleem.
 
 ## Woordenschatuitbreiding
 
-### Woordenschat
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **luchthaven** | plaats waar vliegtuigen opstijgen en landen |
-| **privéjet** | een klein vliegtuig voor een kleine groep mensen |
-| **vakantie** | vrije tijd om te reizen en te ontspannen |
-| **taak** | werk dat je moet doen |
-| **bevorderen** | helpen om iets beter of groter te maken |
+| **ziek** | niet gezond, niet fit |
+| **hulp** | ondersteuning, assistentie |
+| **plan** | een plan, een plan van aanpak |
+| **langdurig** | voor een lange tijd, niet kort |
+| **mentaal** | van de geest, niet fysiek |
 
 ### Vul-in-de-leegte
-1. Een luchthaven is een plaats waar vliegtuigen kunnen ___.
-2. Mensen gaan op vakantie om te ___.
-3. De sector helpt ook om werk te ___.
+1. Mensen met een mentaal probleem krijgen soms minder ___ dan mensen met een fysiek probleem.
+2. Sommige bedrijven hebben nog geen ___ om langdurig zieke werknemers te helpen.
+3. Het is belangrijk dat werknemers de juiste ___ krijgen als ze ziek zijn.
 
 #### Oplossingen
-1. opstijgen en landen
-2. ontspannen
-3. uitvoeren
+1. hulp
+2. plan
+3. hulp
 
 ### Meerkeuzevragen
-1. Wat is een privéjet?
-A) een grote bus
-B) een klein vliegtuig voor weinig mensen
-C) een soort trein
-D) een boot
-
-2. Waar vliegen privéjets vaak naartoe?
-A) naar koude plaatsen
-B) naar drukke steden
-C) naar warme en zonnige plaatsen
-D) naar niets
-
-3. Wat doet de luchtvaartsector nog meer?
-A) alleen vakantievluchten
-B) ook belangrijke taken
-C) niets anders
-D) alleen zakenvluchten
+1. Wat is de hoofdgedachte van de tekst?
+   a) Iedereen krijgt evenveel hulp.
+   b) Mentaal zieken krijgen minder hulp dan fysiek zieken.
+   c) Alle bedrijven hebben een plan.
+   d) Alleen fysiek zieken worden geholpen.
+2. Waar gaat de tekst vooral over?
+   a) Het belang van weekenddiensten.
+   b) Het verschil in hulp voor mentale versus fysieke problemen.
+   c) Het oprichten van een nieuwe sportschool.
+   d) Het verbeteren van de gezondheidszorg.
+3. Wat is de oplossing volgens de tekst?
+   a) Alleen fysieke problemen aanpakken.
+   b) Alleen mentale problemen aanpakken.
+   c) Zowel mentale als fysieke problemen even goed aanpakken.
+   d) Geen van beide.
 
 #### Antwoorden
-1. B
-2. C
-3. B
+1. b
+2. b
+3. c
 
-### Waar / Niet waar
-1. Privéjets vliegen alleen naar koude plaatsen.
-2. De sector zegt dat ze alleen voor plezier vliegen.
-3. De tekst gaat over luchtvaart.
+### Waar / Niet Waar
+1. Alle bedrijven hebben al een re-integratiebeleid voor langdurig zieken. (Niet waar)
+2. Mentaal zieken krijgen soms minder hulp dan fysiek zieken. (Waar)
+3. Het artikel is geschreven door Acerta. (Niet waar)
 
 #### Antwoorden
 1. Niet waar
-2. Niet waar
-3. Waar<｜begin▁of▁sentence｜>
+2. Waar
+3. Niet waar<｜begin▁of▁sentence｜>

@@ -1,65 +1,64 @@
-# Vereenvoudigde Titel en Samenvatting
+# Energieproject in Congo
 
-**Titel:**  
-Greta Thunberg over haar tijd in de gevangenis in Israël: “Ze dreigden om ons te vergassen.”
+[Vereenvoudigde titel: Energieproject in Congo]
 
-**Samenvatting:**  
-Greta Thunberg is een bekende klimaatactivist. Ze werd in Israël gevangengezet. Eerst wilde ze er niets over zeggen. Nu vertelt ze voor het eerst over haar gevangenschap aan een Zweeds tijdschrift. Ze zegt dat de Israëliërs haar en anderen bedreigden en zelfs dreigden om hen te vergassen. Dit betekent dat ze erg bang werden gemaakt.
+## Samenvatting
 
----
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/lk4nvj-belgaimage-69674339.jpg/alternates/BASE_SIXTEEN_NINE/Belgaimage-69674339.jpg)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/trump-krijgt-stroomschakelaar-voor-congolese-kobaltmijnen-in-handen/97854385.html)
+
+[Vereenvoudigde samenvatting: Een Amerikaans bedrijf gaat een stroomlijn bouwen van Angola naar Congo. Dit geeft de VS controle over de stroomvoorziening voor belangrijke mijnen. Deze mijnen zijn nodig voor de AI-industrie in de VS.]
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
 | Woord | Definitie |
-|-------|----|
-| **gevangenis** | een plaats waar mensen worden opgesloten als straf |
-| **dreigden** | zeiden dat ze iets slechts zouden doen als niet werd geluisterd |
-| **vergassen** | een manier om iemand te doden door gebruik van gas |
-| **activist** | iemand die actie voert voor een goed doel, zoals het milieu |
-| **gevangenschap** | de tijd dat iemand in de gevangenis zit |
+|-------|-----------|
+| **bedrijf** | een organisatie die producten of diensten verkoopt |
+| **stroomlijn** | een grote kabel die elektriciteit over lange afstanden transporteert |
+| **mijnen** | plaatsen waar men mineralen of metalen uit de grond haalt |
+| **controle** | de macht om iets te bepalen of te besturen |
+| **industrie** | een groep van bedrijven die hetzelfde product maken |
 
 ### Vul-in-de-leegte
-1. Greta Thunberg is een bekende _________ die voor het klimaat vecht.
-2. Tijdens haar _________ in Israël werd ze bedreigd met vergassen.
-3. De autoriteiten _________ om haar en anderen te vergassen als ze niet zouden meewerken.
+1. Het Amerikaanse bedrijf gaat een nieuwe ___ bouwen van Angola naar Congo.
+2. De mijnen in Congo produceren metalen die belangrijk zijn voor de ___.
+3. De Verenigde Staten willen graag ___ over de stroomvoorziening hebben.
 
 #### Oplossingen
-1. activist
-2. gevangenschap
-3. dreigden
+1. stroomlijn
+2. AI-industrie
+3. controle
 
 ### Meerkeuzevragen
-1. Waarom is Greta Thunberg bekend?
-   a) Omdat ze een prinses is  
-   b) Omdat ze een beroemde klimaatactivist is  
-   c) Omdat ze een filmster is  
-   d) Omdat ze een atleet is  
-
-2. Wat betekent "vergassen" in deze context?  
-   a) Iemand een cadeau geven  
-   b) Iemand vermoorden door gebruik van gas  
-   c) Iemand vergeven  
-   d) Iemand een medicijn geven  
-
-3. Wat is "gevangenschap"?  
-   a) Een feestje in de gevangenis  
-   b) De tijd dat iemand in de gevangenis zit  
-   c) Een soort spel  
-   d) Een taak die iemand moet doen  
+1. Wat is de hoofdstad van Congo?
+   a) Kinshasa  
+   b) Johannesburg  
+   c) Nairobi  
+   d) Kaapstad  
+2. Waarom is controle over de stroomvoorziening belangrijk?  
+   a) Het maakt steden mooier  
+   b) Het geeft macht over belangrijke industrieën  
+   c) Het zorgt voor meer verkeer  
+   d) Het maakt de stroom duurder  
+3. Wat is AI-industrie?  
+   a) Industrie die kunstmatige intelligentie ontwikkelt  
+   b) Industrie die auto's maakt  
+   c) Industrie die voedsel produceert  
+   d) Industrie die huizen bouwt  
 
 #### Antwoorden
-1. b) Omdat ze een beroemde klimaatactivist is
-2. b) Iemand vermoorden door gebruik van gas
-3. b) De tijd dat iemand in de gevangenis zit
+1. a) Kinshasa  
+2. b) Het geeft macht over belangrijke industrieën  
+3. a) Industrie die kunstmatige intelligentie ontwikkelt  
 
 ### Waar / Niet Waar
-1. Greta Thunberg werd in Israël gevangengezet.  
-2. "Vergassen" is een manier om iemand te vermoorden.  
-3. Greta Thunberg heeft nooit over haar gevangenschap gesproken.  
+1. De Verenigde Staten hebben controle over de stroomvoorziening in Congo.  
+2. De mijnen in Congo produceren alleen goud.  
+3. De AI-industrie heeft geen belang bij de mijnen in Congo.  
 
 #### Antwoorden
 1. Waar  
-2. Waar  
-3. Niet waar (ze heeft er nu wel over gesproken)<｜begin▁of▁sentence｜>
+2. Niet Waar  
+3. Niet Waar<｜begin▁of▁sentence｜>

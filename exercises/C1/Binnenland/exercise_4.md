@@ -1,57 +1,57 @@
-# Vereenvoudigde oefeningen
-
-## Titel
-Bertrand Sassoye, de witte ridder van extreemlinks
+# Het uitstel van De Wever kost ons alvast 7.000 euro
 
 ## Samenvatting
-Het Brusselse parket wil nog niets zeggen over de vijf verdachten die zijn gearresteerd na de rellen op de nationale betoging. Maar alle ogen zijn gericht op extreemlinks. Oud-CCC'er Bertrand Sassoye is nog lang niet vergeten.
+Deze tekst gaat over de kosten van het uitstellen van een beslissing door De Wever. Dit kost al 7000 euro. Mensen die betrokken zijn bij politieke discussies of roddels komen vaak in dit soort artikelen terecht.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
+
 | Woord | Definitie |
 |-------|-----------|
-| **parket** | officiële instantie die misdaden onderzoekt |
-| **verdachten** | mensen waarvan wordt gedacht dat ze een misdaad hebben begaan |
-| **rechts** | politieke richting die conservatief is |
-| **links** | politieke richting die progressief is |
-| **extreem** | heel erg, heel sterk |
+| **uitstel** | het uitstellen of uitstellen van iets |
+| **kosten** | de prijs of het bedrag dat je moet betalen |
+| **politiek** | alles wat te maken heeft met het bestuur van een land |
+| **roddel** | een verhaal of gerucht over iemand, meestal niet positief |
+| **artikel** | een geschreven stuk in een krant of online |
 
 ### Vul-in-de-leegte
-1. Het _____ onderzoekt misdaden en kan mensen arresteren.
-2. De politie heeft enkele _____ gearresteerd na de betoging.
-3. _____ is het tegenovergestelde van links in de politiek.
+1. Door het ___ van de vergadering moesten we langer wachten.
+2. De ___ van dit project zijn hoger dan verwacht.
+3. Er verscheen een nieuw ___ over deze kwestie in de krant.
 #### Oplossingen
-1. parket
-2. verdachten
-3. Rechts
+1. uitstel
+2. kosten
+3. artikel
 
 ### Meerkeuzevragen
-1. Wat is 'parket' in deze context?
-   a) een soort saus
-   b) de officiële instantie die misdaden onderzoekt
-   c) een groep politici
-   d) een soort gerecht
-2. Wat betekent 'verdachten'?
-   a) mensen die zeker een misdaad hebben begaan
-   b) mensen waarvan wordt vermoed dat ze een misdaad hebben begaan
-   c) mensen die onschuldig zijn
-   d) mensen die getuige zijn geweest
-3. Wat is het tegenovergestelde van 'links' in de politiek?
-   a) extreem
-   b) rechts
-   c) progressief
-   d) conservatief
+1. Wat betekent "uitstel"?
+   a) versnelling  
+   b) uitstellen  
+   c) weggooien  
+   d) verbergen  
+
+2. Wat zijn "kosten"?
+   a) de prijs die je betaalt  
+   b) de beloning die je krijgt  
+   c) de tijd die iets kost  
+   d) de moeite die iets kost  
+
+3. Wat is een "roddel"?
+   a) een officieel bericht  
+   b) een geheim plan  
+   c) een negatief gerucht  
+   d) een positief nieuwsbericht  
 #### Antwoorden
 1. b
-2. b
-3. b
+2. a
+3. c
 
 ### Waar / Niet Waar
-1. Het Brusselse parket heeft al veel informatie vrijgegeven over de gearresteerden. (Niet waar)
-2. Bertrand Sassoye is een persoon die betrokken was bij de rellen. (Waar)
-3. Extreemlinks betekent 'heel erg links'. (Waar)
+1. De Wever is een politicus.  
+2. Dit artikel gaat over een besparing.  
+3. Roddels zijn altijd waar.  
 #### Antwoorden
-1. Niet waar
-2. Waar
-3. Waar<｜begin▁of▁sentence｜>
+1. Waar
+2. Niet Waar
+3. Niet Waar<｜begin▁of▁sentence｜>

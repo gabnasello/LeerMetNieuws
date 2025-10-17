@@ -1,9 +1,8 @@
+# Onderhandelingen in Gaza
 
-# Militaire steun aan Oekraïne: wat is er aan de hand?
-
-Een korte samenvatting in eenvoudig Nederlands
-
-De militaire steun van Europa aan Oekraïne is de afgelopen zomer sterk verminderd. Toch kunnen Europese NAVO-landen wapens kopen in de Verenigde Staten en deze vervolgens doorsturen naar Oekraïne. Op dit moment hebben minstens 17 landen toegezegd om aan dit systeem deel te nemen.
+**Vereenvoudigde titel en samenvatting**  
+Titel: Trump spreekt dreigend tegen Hamas  
+Samenvatting: Na de eerste rustige week wordt er nu druk gepraat over de volgende belangrijke stap in het Gaza-stilstandsoverleg. Hoewel onderhandelaars vooruitgang melden, is er nog niets definitief. President Trump gaf Hamas een scherpe waarschuwing.
 
 ## Woordenschatuitbreiding
 
@@ -11,41 +10,50 @@ De militaire steun van Europa aan Oekraïne is de afgelopen zomer sterk verminde
 
 | Woord | Definitie |
 |-------|-----------|
-| **steun** | hulp of ondersteuning |
-| **verminderd** | minder geworden; gedaald |
-| **wapens** | wapens; militaire uitrusting |
-| **doorsturen** | naar iemand anders sturen; doorgeven |
-| **deelnemen** | meedoen; participeren |
+| **onderhandelen** | praten om tot een overeenkomst te komen |
+| **stilstand** | tijdelijke stop van gevechten |
+| **dreigend** | op een manier die waarschuwt voor gevaar |
+| **definitief** | definitief, onveranderlijk |
+| **aanwezig** | aanwezig, hier |
 
 ### Vul-in-de-leegte
-1. De militaire steun aan Oekraïne is de afgelopen zomer sterk ___.  
-2. Europese landen kunnen wapens kopen in de VS en deze vervolgens ___ naar Oekraïne.  
-3. Minstens 17 landen hebben toegezegd om aan dit systeem ___.  
+1. De onderhandelaars proberen een ___ te bereiken over de volgende fase.
+2. Hamas kreeg een ___ bericht van president Trump.
+3. Het is nog niet ___ welke kant dit opgaat.
 
 #### Oplossingen
-1. verminderd  
-2. doorsturen  
-3. deel te nemen  
+1. overeenkomst
+2. dreigend
+3. definitief
 
 ### Meerkeuzevragen
-1. Wat is er gebeurd met de militaire steun aan Oekraïne in de zomer?  
-A) Het is gestegen B) Het is gelijk gebleven C) Het is verminderd D) Het is verdwenen  
-2. Waar kunnen Europese NAVO-landen wapens kopen?  
-A) Alleen in Europa B) Alleen in Oekraïne C) In de Verenigde Staten D) In Azië  
-3. Hoeveel landen hebben minstens toegezegd om deel te nemen aan het systeem?  
-A) 10 B) 15 C) 17 D) 20  
+1. Wat gebeurt er in de tweede fase van het Gaza-bestand?  
+a) Vechten gaat door.  
+b) Er wordt gepraat over verlenging.  
+c) Hamas geeft zich over.  
+d) President Trump beëindigt het gesprek.  
+2. Waarom wordt Trump's optreden beschreven als "een veeg uit de pan"?  
+a) Hij kookte voor hen.  
+b) Het was een harde, misschien onverdiende straf.  
+c) Het was een belofte van steun.  
+d) Hij prees hun moed.  
+3. Wat is de toestand van het Gaza-bestand nu?  
+a) Alles is definitief geregeld.  
+b) De eerste fase is klaar, en de tweede wordt besproken.  
+c) Hamas heeft gewonnen.  
+d) President Trump heeft het beëindigd.  
 
 #### Antwoorden
-1. C) Het is verminderd  
-2. C) In de Verenigde Staten  
-3. C) 17  
+1. b) Er wordt gepraat over verlenging.  
+2. b) Het was een harde, misschien onverdiende straf.  
+3. b) De eerste fase is klaar, en de tweede wordt besproken.
 
 ### Waar / Niet Waar
-1. De militaire steun aan Oekraïne is in de zomer toegenomen.  
-2. Europese landen kunnen wapens kopen in de VS en deze doorsturen naar Oekraïne.  
-3. Meer dan 20 landen hebben toegezegd om deel te nemen.  
+1. De eerste week van het staakt-het-vuren had geen problemen.  
+2. President Trump's opmerking aan Hamas was vriendelijk.  
+3. De tweede fase van het Gaza-bestand is al volledig in werking.  
 
 #### Antwoorden
-1. Niet Waar  
-2. Waar  
-3. Niet Waar<｜begin▁of▁sentence｜>
+1. Waar
+2. Niet waar
+3. Niet waar
