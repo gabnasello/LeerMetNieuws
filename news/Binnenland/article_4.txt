@@ -1,15 +1,15 @@
 Artikel 4
-Nieuwsupdate: 2025-10-17 05:23 UCT
+Nieuwsupdate: 2025-10-18 05:22 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Het uitstel van De Wever kost ons alvast 7.000 euro
-Link: https://www.standaard.be/binnenland/het-uitstel-van-de-wever-kost-ons-alvast-7.000-euro/98019743.html
-Datum: Thu, 16 Oct 2025 17:00:00 GMT
-Samenvatting: Wie slipt in de Wetstraat of in de geruchtenmolen belandt, verzeilt vroeg of laat in deze rubriek.
+Titel: Regisseur Marie De Hert schreef een boek over haar angststoornis: “We zijn allemaal op zoek naar iets om ons aan vast te houden”
+Link: https://www.standaard.be/binnenland/regisseur-marie-de-hert-schreef-een-boek-over-haar-angststoornis-we-zijn-allemaal-op-zoek-naar-iets-om-ons-aan-vast-te-houden/97053116.html
+Datum: Fri, 17 Oct 2025 21:59:00 GMT
+Samenvatting: Twee jaar geleden werd regisseur Marie De Hert (35) gevloerd door een paniekstoornis die maar niet ging liggen – beangstigend voor haar én haar omgeving. Sindsdien zocht ze hard naar een verklaring. “Nu weet ik dat er niet één antwoord is.”
 Auteur: Geen auteur
 Categorie: Binnenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/8dm4go-file82r9tqnhep4ucpp4keh/alternates/BASE_SIXTEEN_NINE/file82r9tqnhep4ucpp4keh
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/e397pf-mariedehert028.jpg/alternates/BASE_SIXTEEN_NINE/MarieDeHert028.jpg
+Premium: true
 ------------------------------------------------------------

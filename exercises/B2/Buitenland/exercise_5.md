@@ -1,8 +1,13 @@
-# Stroomvoorziening voor de mijnbouw
+# Stille Wapenstop
 
-Titel: Trump krijgt de controle over de stroomvoorziening voor Congolese kobaltmijnen
+[Stille Wapenstop]
 
-Samenvatting: Een Amerikaans bedrijf gaat een grote stroomkabel aanleggen van Angola naar Congo. Hierdoor krijgt de VS controle over de stroomvoorziening voor kobaltmijnen. Die kobalt is belangrijk voor de Amerikaanse kunstmatige intelligentie industrie.
+## Samenvatting
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ur341y-ds-actua-wide.00-03-29-12.still003.png/alternates/BASE_SIXTEEN_NINE/DS%20ACTUA%20Wide.00_03_29_12.Still003.png)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/het-belangrijkste-is-dat-het-doden-bombarderen-en-vernietigen-is-gestopt.-dat-is-het-enige-wat-echt-telt/97851867.html)
+
+Het tijdelijke staakt-het-vuren in Gaza lijkt te houden. De prijzen in de winkels dalen en er komt een beetje hulp binnen, maar voor de mensen in Gaza is er weinig reden om echt blij te zijn. Het herstel gaat jaren duren.
 
 ## Woordenschatuitbreiding
 
@@ -10,53 +15,47 @@ Samenvatting: Een Amerikaans bedrijf gaat een grote stroomkabel aanleggen van An
 
 | Woord | Definitie |
 |-------|-----------|
-| **kobaltmijnen** | mijnen waar ze kobalt uit halen |
-| **stroomvoorziening** | het leveren van elektriciteit |
-| **kunstmatige intelligentie** | computers die kunnen leren en problemen oplossen zoals mensen |
-| **infrastructuur** | de basisvoorzieningen zoals wegen, elektriciteit en internet |
-| **handelsbelangen** | de economische en politieke belangen die landen hebben in handel |
+| **stil** | zonder geluid, niet hoorbaar |
+| **wapenstop** | een overeenkomst om te stoppen met vechten voor een tijdje |
+| **herstel** | het weer opbouwen en repareren van wat kapot is |
+| **tijdelijke** | voor een bepaalde tijd, niet voor altijd |
+| **reden** | de oorzaak of verklaring voor iets |
 
 ### Vul-in-de-leegte
-
-1. De nieuwe stroomkabel zorgt voor ___ van elektriciteit naar de mijnen.
-2. Zonder elektriciteit kunnen de machines in de mijnen niet ___.
-3. De mijnwerkers gebruiken houwelen om ___ te delven.
-
+1. Het is erg ____ dat de wapenstop niet lang lijkt te gaan duren.
+2. De mensen in Gaza hebben weinig ____ om echt blij te zijn.
+3. Het ____ van de stad zal jaren duren.
 #### Oplossingen
-1. levering
-2. werken
-3. kobalt
+1. spijtig
+2. reden
+3. herstel
 
 ### Meerkeuzevragen
-
-1. Waarom is kobalt belangrijk voor de Verenigde Staten?
-   a) Om sieraden te maken.
-   b) Voor de productie van kunstmatige intelligentie.
-   c) Omdat het lekker ruikt.
-   d) Om er auto's van te maken.
-2. Wat is het voordeel van controle over de stroomvoorziening?
-   a) Je kunt dan de lichten aan en uit doen.
-   b) Het geeft politieke en economische invloed.
-   c) Je kunt dan goedkoper stroom krijgen.
-   d) Je kunt dan de stroom doorverkopen.
-3. Wat is een belangrijk onderdeel van infrastructuur?
-   a) Dieren in de dierentuin.
-   b) Moderne gebouwen in de stad.
-   c) Goede wegen en internetverbindingen.
-   d) Oude gebouwen die worden gerestaureerd.
-
+1. Wat betekent "stil" in deze context?
+   a) volledig
+   b) zonder geluid
+   c) snel
+   d) onzeker
+2. Waarom is er weinig reden tot opluchting?
+   a) Omdat de wapenstop al is beëindigd.
+   b) Omdat de situatie nog steeds erg moeilijk is.
+   c) Omdat de prijzen stijgen.
+   d) Omdat er te veel goederen zijn.
+3. Wat betekent "herstel" in deze context?
+   a) vernietiging
+   b) wederopbouw
+   c) ontspanning
+   d) verandering
 #### Antwoorden
 1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-
-1. De Verenigde Staten heeft alleen economische belangen in Congo.
-2. Kunstmatige intelligentie heeft geen grondstoffen nodig.
-3. De nieuwe stroomkabel verbetert de infrastructuur in de regio.
-
+1. Het wapenbestand in Gaza wordt volledig gerespecteerd door alle partijen.
+2. De situatie in Gaza is na het wapenbestand veel beter dan ervoor.
+3. Het herstel zal snel gaan.
 #### Antwoorden
-1. Niet Waar
-2. Niet Waar
-3. Waar
+1. Niet
+2. Niet
+3. Niet<｜begin▁of▁sentence｜>

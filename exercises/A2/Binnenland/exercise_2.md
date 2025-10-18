@@ -1,6 +1,6 @@
-# Solliciteren met AI
+# Een plek om drugs te gebruiken in de buurt
 
-Deel deze tekst in het Nederlands. Als je een fout tegenkomt, verbeter die dan.
+Aan de metrohalte Ribaucourt in Molenbeek komt er een speciale ruimte waar mensen drugs kunnen gebruiken. Sommige buurtbewoners zijn hiertegen. Andere buurtbewoners vinden dit juist een goed idee. Zij zeggen: "Wij lopen elke dag met onze kinderen langs de gebruikers."
 
 ## Woordenschatuitbreiding
 
@@ -8,47 +8,52 @@ Deel deze tekst in het Nederlands. Als je een fout tegenkomt, verbeter die dan.
 
 | Woord | Definitie |
 |-------|-----------|
-| **solliciteren** | een baan vragen |
-| **kandidaat** | iemand die voor een baan of taak in aanmerking wil komen |
-| **algoritme** | een reeks instructies die een computer uitvoert |
-| **voordeel** | iets dat helpt of nuttig is |
-| **vergelijken** | naast elkaar leggen om verschillen of overeenkomsten te zien |
+| **ruimte** | een plaats of gebied, een plek voor iets |
+| **gebruiken** | iets gebruiken, iets op een bepaalde manier inzetten |
+| **buurt** | de omgeving waar je woont, de wijk |
+| **tegen** | niet voor, er tegen zijn |
+| **goed** | iets wat positief is, wat juist of correct is |
 
 ### Vul-in-de-leegte
-1. ChatGPT kan een sollicitatiebrief __schrijven__.
-2. Werkgevers kunnen AI gebruiken om kandidaten te __selecteren__.
-3. Als AI kandidaten beoordeelt, is het moeilijk om __eerlijkheid__ te garanderen.
+1. De buurtbewoners zijn niet allemaal ___ het nieuwe voorstel.
+2. Sommige mensen zijn ___ het idee van een drugsgebruikersruimte.
+3. De nieuwe ruimte zal worden ___ in de buurt van de metrohalte.
+
 #### Oplossingen
-1. ChatGPT kan een sollicitatiebrief **schrijven**.
-2. Werkgevers kunnen AI gebruiken om kandidaten te **selecteren**.
-3. Als AI kandidaten beoordeelt, is het moeilijk om **eerlijkheid** te garanderen.
+1. voor
+2. tegen
+3. gebouwd
 
 ### Meerkeuzevragen
-1. Wat is een voordeel van AI in sollicitaties?
-   a) Het maakt solliciteren oneerlijk
-   b) Het helpt kandidaten om zich beter te presenteren
-   c) Het maakt de selectie ondoorzichtig
-   d) Het vervangt menselijke beslissingen volledig
-2. Waarom is het belangrijk om AI-gebruik in sollicitaties te controleren?
-   a) Omdat AI altijd de beste kandidaat kiest
-   b) Omdat het oneerlijk kan zijn als sommigen AI gebruiken en anderen niet
-   c) Omdat AI nooit fouten maakt
-   d) Omdat AI de werkgever is
-3. Wat is een ethisch probleem van AI in werving?
-   a) Het maakt sollicitaties te lang
-   b) Het kan bestaande vooroordelen versterken
-   c) Het is te duur voor kleine bedrijven
-   d) Het is alleen voor tech-bedrijven
+1. Wat is een 'drugsgebruikersruimte'?
+   a) een winkel waar je drugs kunt kopen
+   b) een plaats waar mensen veilig drugs kunnen gebruiken
+   c) een soort sportschool
+   d) een plek waar drugs worden gemaakt
+
+2. Waar is de Ribaucourt metrohalte?
+   a) in Brussel
+   b) in Amsterdam
+   c) in Parijs
+   d) in Londen
+
+3. Waarom zijn sommige buurtbewoners tegen de nieuwe ruimte?
+   a) Ze zijn bang dat het gevaarlijk wordt voor kinderen.
+   b) Ze willen zelf ook drugs gebruiken.
+   c) Ze denken dat het te duur wordt.
+   d) Ze hebben geen mening.
+
 #### Antwoorden
-1. b) Het helpt kandidaten om zich beter te presenteren
-2. b) Omdat het oneerlijk kan zijn als sommigen AI gebruiken en anderen niet
-3. b) Het kan bestaande vooroordelen versterken
+1. b
+2. a
+3. a
 
 ### Waar / Niet Waar
-1. AI kan helpen om sollicitaties eerlijker te beoordelen door objectieve criteria te gebruiken.
-2. Het gebruik van AI in sollicitaties garandeert dat iedereen dezelfde kansen krijgt.
-3. Werkgevers moeten transparant zijn over het gebruik van AI in hun wervingsproces.
+1. Alle buurtbewoners zijn tegen de nieuwe drugsruimte.
+2. De ruimte zal worden gebouwd bij de Ribaucourt metrohalte.
+3. De ruimte is alleen voor mensen die drugs willen gebruiken.
+
 #### Antwoorden
-1. Waar
-2. Niet waar (want AI kan bestaande vooroordelen versterken, niet elimineren)
+1. Niet waar
+2. Waar
 3. Waar<｜begin▁of▁sentence｜>

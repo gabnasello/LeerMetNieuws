@@ -1,61 +1,60 @@
-# Vereenvoudigde titel en samenvatting
+# Vereenvoudig de titel en samenvatting
 
-## Titel
-Trump waarschuwt Hamas
-
-## Samenvatting
-Na een eerste week zonder grote problemen wordt er nu gesproken over de tweede fase van het bestand in Gaza. Onderhandelaars melden vooruitgang, maar niets is definitief. President Trump gaf Hamas een waarschuwing.
+**Titel:** De Britten zijn boos en Nigel Farage kaapt de woede het best  
+**Samenvatting:** In Engeland zijn veel mensen boos op de politici. Veel mensen voelen zich in de steek gelaten. Waarom kijken boze Britten opnieuw naar Nigel Farage, de man die de Brexit heeft veroorzaakt?  
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **bestand** | een overeenkomst om het vechten te stoppen |
-| **onderhandelaars** | mensen die namens anderen praten om tot een oplossing te komen |
-| **definitief** | definitief, onveranderlijk |
-| **waarschuwing** | een waarschuwing, een mededeling dat er gevaar dreigt |
-| **fase** | een deel of stap in een proces |
+| **boos** | kwaad, niet blij |
+| **vertrouwen** | geloven dat iemand goed is of iets goed zal doen |
+| **veranderen** | anders maken, veranderen |
+| **veroorzaken** | de reden zijn dat iets gebeurt |
+| **oplossing** | antwoord of manier om een probleem op te lossen |
 
-### Vul-in-de-leegte
-1. Na een week zonder grote problemen, beginnen de onderhandelingen over de tweede ___ van het bestand.
-2. De onderhandelaars zijn voorzichtig omdat niets nog ___ is.
-3. President Trump gaf Hamas een ___, wat betekent dat ze moeten opletten.
+### Vul de lege plekken in
+
+1. Veel Britten voelen dat de regering hen niet genoeg heeft geholpen, dus ze zijn ___.
+2. Sommige mensen denken dat Nigel Farage een antwoord is op hun problemen, want ze ___ hem.
+3. Na de Brexit veranderde veel in het Verenigd Koninkrijk, en veel mensen denken dat het land nu anders is dan ___.
 
 #### Oplossingen
-1. fase
-2. definitief
-3. waarschuwing
+1. boos
+2. vertrouwen
+3. voorheen
 
-### Meerkeuzevragen
-1. Wat is een 'bestand'?
-   a) Een soort wapen
-   b) Een overeenkomst om het vechten te stoppen
-   c) Een grote groep mensen
-   d) Een speciaal soort feest
-2. Wat betekent het als iets 'definitief' is?
-   a) Het is voor altijd en verandert niet meer.
-   b) Het is nog niet zeker en kan veranderen.
-   c) Het is erg duur en mooi.
-   d) Het is een geheim dat niemand kent.
-3. Waarom is een 'waarschuwing' belangrijk?
-   a) Omdat het iets leuks aankondigt.
-   b) Omdat het aangeeft dat er gevaar of een probleem kan komen.
-   c) Omdat het een cadeau is.
-   d) Omdat het een moeilijk woord is om uit te spreken.
+### Kies het beste antwoord
+
+1. Waarom zijn veel Britten boos op hun regering?
+a) Omdat de regering te veel belasting heeft geheven.
+b) Omdat ze denken dat de regering hen niet genoeg heeft geholpen.
+c) Omdat de regering te veel feesten organiseert.
+
+2. Wat is de rol van Nigel Farage in deze situatie?
+a) Hij is de koning van Engeland.
+b) Hij is een politicus die veel mensen steunen.
+c) Hij is een beroemde voetballer.
+
+3. Wat is de Brexit?
+a) Een nieuw soort voedsel.
+b) De beslissing van het Verenigd Koninkrijk om de Europese Unie te verlaten.
+c) Een nieuwe sport.
 
 #### Antwoorden
 1. b
-2. a
+2. b
 3. b
 
-### Waar / Niet Waar
-1. President Trump heeft met Hamas gesproken over het bestand. (Niet waar)
-2. Alles in de onderhandelingen is al definitief beslist. (Niet waar)
-3. Een waarschuwing is altijd een negatieve mededeling. (Waar)
+### Waar of niet waar?
+
+1. Alle Britten zijn boos op hun regering.
+2. Nigel Farage is de premier van het Verenigd Koninkrijk.
+3. De Brexit heeft het Verenigd Koninkrijk beter gemaakt.
 
 #### Antwoorden
 1. Niet waar
 2. Niet waar
-3. Waar<｜begin▁of▁sentence｜>
+3. Niet waar<｜begin▁of▁sentence｜>

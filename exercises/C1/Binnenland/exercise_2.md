@@ -1,61 +1,54 @@
-# Solliciteren met AI
-
-[Solliciteren met AI]
+# Drugsgebruikersruimte verdeelt buurt: “Omdat het Ribaucourt is, moeten we het er blijkbaar allemaal maar bijnemen”
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/cpyiba-2510-standaard-sollicitatie-v2-c-kopie.jpg/alternates/BASE_SIXTEEN_NINE/2510_standaard_sollicitatie_v2%20c%20kopie.jpg)   
-[Lees het originele artikel](https://www.standaard.be/economie/solliciteren-met-ai-en-beoordeeld-worden-door-ai-krijgt-iedereen-dan-dezelfde-kansen-op-een-job/97647233.html)
-
-[Veel sollicitanten gebruiken ChatGPT om een cv of motivatiebrief te schrijven. Ook werkgevers zetten meer en meer algoritmes in om kandidaten te selecteren. Als AI straks AI beoordeelt, krijgt de beste kandidaat dan nog de baan?]
+Een drugsgebruikersruimte wordt geopend bij de metrohalte Ribaucourt in Molenbeek. Sommige buurtbewoners zijn hiertegen, terwijl anderen het een goed idee vinden. De situatie verdeelt de buurt.
 
 ## Woordenschatuitbreiding
 
-### Woordenschatlijst
-
+### Woordenlijst
 | Woord | Definitie |
 |-------|-----------|
-| **solliciteren** | een sollicitatiebrief of -mail schrijven om te vragen naar een job |
-| **werkgever** | de persoon of het bedrijf die een werknemer in dienst neemt |
-| **algoritme** | een reeks instructies die een computer volgt om een taak uit te voeren |
-| **kandidaat** | iemand die solliciteert voor een job |
-| **selecteren** | de beste of meest geschikte persoon of ding kiezen |
+| **gebruikersruimte** | een speciale ruimte waar mensen drugs kunnen gebruiken, vaak met medisch toezicht |
+| **buurt** | het gebied waarin je woont, met de mensen en gebouwen eromheen |
+| **tegen zijn** | het er niet mee eens zijn, ertegen zijn |
+| **voorstander** | iemand die vóór iets is, die iets steunt |
+| **verdeeld** | wanneer een groep of gebied het niet met elkaar eens is, en er verschillende meningen zijn |
 
-### Vul in de lege plekken
-1. ChatGPT kan je helpen om een sollicitatiebrief te ___.
-2. Werkgevers gebruiken algoritmes om de juiste ___ te selecteren.
-3. Als AI kandidaten beoordeelt, is het belangrijk dat de ___ eerlijk is.
+### Vul-in-de-leegte
+1. De nieuwe ___ opende in de buurt van het metrostation.
+2. Veel bewoners waren ___ het plan, maar anderen steunden het.
+3. De kwestie heeft de gemeenschap ___.
 #### Oplossingen
-1. schrijven
-2. kandidaat
-3. selectie
+1. drugsgebruikersruimte
+2. tegen
+3. verdeeld
 
 ### Meerkeuzevragen
-1. Wat is een synoniem voor 'solliciteren'?
-   a) werken
-   b) solliciteren
-   c) aanvragen
-   d) meedingen
-2. Wat is de hoofdtaak van een algoritme in dit artikel?
-   a) cv's schrijven
-   b) kandidaten selecteren
-   c) gesprekken voeren
-   d) vacatures plaatsen
-3. Waarom is het belangrijk dat AI eerlijk selecteert?
-   a) zodat iedereen een kans heeft
-   b) zodat de werkgever geld bespaart
-   c) zodat de kandidaat weet waar hij aan toe is
-   d) zodat de overheid kan ingrijpen
+1. Wat is een drugsgebruikersruimte?
+   a) een sportschool
+   b) een plek waar mensen drugs kunnen gebruiken onder toezicht
+   c) een koffiebar
+   d) een gemeenschapscentrum
+2. Waarover is de buurt verdeeld?
+   a) de kleur van de nieuwe speeltuin
+   b) of er een drugsgebruikersruimte moet komen
+   c) de prijs van koffie
+   d) de openingstijden van het metrostation
+3. Wat betekent "tegen zijn"?
+   a) ergens voor zijn
+   b) tegen iets vechten
+   c) het er niet mee eens zijn
+   d) voor iets demonstreren
 #### Antwoorden
-1. c
+1. b
 2. b
-3. a
+3. c
 
 ### Waar / Niet Waar
-1. Alleen sollicitanten gebruiken AI voor hun sollicitaties.
-2. Werkgevers gebruiken AI om kandidaten te screenen.
-3. Als AI beslist wie een baan krijgt, is het proces helemaal eerlijk.
+1. Iedereen in de buurt is voor de nieuwe drugsgebruikersruimte.
+2. De drugsgebruikersruimte is alleen voor toeristen.
+3. Alle buurtbewoners zijn tegen het plan.
 #### Antwoorden
 1. Niet waar
-2. Waar
+2. Niet waar
 3. Niet waar<｜begin▁of▁sentence｜>

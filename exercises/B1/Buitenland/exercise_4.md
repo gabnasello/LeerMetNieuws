@@ -1,56 +1,63 @@
-# Kunnen zwarte Amerikanen nog stemmen? 
-Sinds 1965 zorgt de Amerikaanse Voting Rights Act ervoor dat zwarte kiezers in zuidelijke staten zwarte volksvertegenwoordigers kunnen verkiezen. Het Hooggerechtshof lijkt die wet te zullen afschaffen, wat de macht van de Republikeinen kan vergroten. 
+# Vrede in het Midden-Oosten door Trump's methode
+
+## Samenvatting
+Donald Trump gebruikte zijn schoonzoon als onderhandelaar en negeerde de normale diplomatieke regels. Hij dwong een akkoord voor Gaza af. Daardoor is het daar nu rustiger, maar hoe lang blijft dat zo? “Trump gebruikte dwang en invloed op een manier die verder ging dan wat een Democratische president ooit durfde.”
 
 ## Woordenschatuitbreiding
 
-### Woord(en)-Lijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **stemmen** | je stem uitbrengen op een verkiezing |
-| **kiezer** | iemand die zijn stem mag uitbrengen bij verkiezingen |
-| **zorgen** | ervoor zorgen dat iets gebeurt of geregeld wordt |
-| **afschaffen** | iets officieel beëindigen of verwijderen |
-| **vergroten** | groter maken of doen toenemen |
+| **onderhandelaar** | iemand die namens anderen praat en afspraken maakt |
+| **akkoord** | een overeenkomst waar iedereen het mee eens is |
+| **dwang** | iemand forceren om iets te doen wat ze niet willen |
+| **invloed** | het vermogen om het gedrag of de gedachten van anderen te veranderen |
+| **diplomatie** | het beheren van relaties tussen landen door praten en onderhandelen |
 
 ### Vul-in-de-leegte
-1. Het is belangrijk dat iedereen kan ___ tijdens verkiezingen.
-2. De regering wil een oude wet ___, wat veel protest veroorzaakt.
-3. Als je iets wilt ___, moet je er hard voor werken. 
+1. Trump gebruikte zijn schoonzoon als **onderhandelaar** om het akkoord te bereiken.
+2. Het akkoord werd afgedwongen door **dwang** en macht.
+3. De **diplomatie** van Trump was anders dan normaal.
 
 #### Oplossingen
-1. stemmen
-2. afschaffen
-3. vergroten
+1. onderhandelaar
+2. dwang
+3. diplomatie
 
 ### Meerkeuzevragen
-1. Wat betekent "afschaffen" in deze context?  
-a. iets nieuws maken  
-b. iets officieel beëindigen  
-c. iets tijdelijk stoppen  
-d. iets versterken  
-Antwoord: b
+1. Wat is een ‘onderhandelaar’?
+   a) Iemand die weigert te praten  
+   b) Iemand die namens anderen praat en afspraken maakt  
+   c) Iemand die alleen voor zichzelf zorgt  
+   d) Iemand die nooit compromissen sluit  
+**Antwoord: b**
 
-2. Wat is een "kiezer"?  
-a. iemand die stemt bij verkiezingen  
-b. iemand die de verkiezingen organiseert  
-c. iemand die niet mag stemmen  
-d. iemand die de uitslag bepaalt  
-Antwoord: a
+2. Wat betekent ‘dwang’ in deze context?  
+   a) Vriendelijke overreding  
+   b) Iemand forceren om iets te doen tegen hun wil  
+   c) Een vrijwillige keuze  
+   d) Een soort spel  
+**Antwoord: b**
 
-3. Wat betekent "zorgen" in deze zin?  
-a. zorgen dat iets gebeurt of geregeld wordt  
-b. zich zorgen maken over iets  
-c. iets leuks doen  
-d. iets moeilijks oplossen  
-Antwoord: a
-
-### Waar / Niet Waar
-1. De Voting Rights Act zorgt ervoor dat zwarte kiezers vertegenwoordigd worden.  
-2. Het Hooggerechtshof wil de Voting Rights Act afschaffen.  
-3. Als de wet wordt afgeschaft, kan dat de macht van de Republikeinen verkleinen.  
+3. Wat is ‘diplomatie’?  
+   a) Het starten van oorlogen  
+   b) Het vermijden van communicatie  
+   c) Het beheren van relaties tussen landen door praten  
+   d) Het negeren van andere landen  
+**Antwoord: c**
 
 #### Antwoorden
-1. Waar  
-2. Waar  
-3. Niet waar (het zou de macht van de Republikeinen kunnen vergroten)<｜begin▁of▁sentence｜>
+1. b
+2. b
+3. c
+
+### Waar / Niet Waar
+1. Trump gebruikte diplomatie zoals iedereen dat doet. (Niet waar)
+2. Het akkoord zorgde voor volledige vrede in het Midden-Oosten. (Niet waar)
+3. De aanpak van Trump wordt door iedereen als goed beschouwd. (Niet waar)
+
+#### Antwoorden
+1. Niet waar
+2. Niet waar
+3. Niet waar<｜begin▁of▁sentence｜>

@@ -1,64 +1,63 @@
-# Energieproject in Congo
+Ik help je met het genereren van de oefeningen. Hier is de uitwerking:
 
-[Vereenvoudigde titel: Energieproject in Congo]
+# Vrede in Gaza
+
+[Vrede in Gaza]
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/lk4nvj-belgaimage-69674339.jpg/alternates/BASE_SIXTEEN_NINE/Belgaimage-69674339.jpg)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/trump-krijgt-stroomschakelaar-voor-congolese-kobaltmijnen-in-handen/97854385.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ur341y-ds-actua-wide.00-03-29-12.still003.png/alternates/BASE_SIXTEEN_NINE/DS%20ACTUA%20Wide.00_03_29_12.Still003.png)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/het-belangrijkste-is-dat-het-doden-bombarderen-en-vernietigen-is-gestopt.-dat-is-het-enige-wat-echt-telt/97851867.html)
 
-[Vereenvoudigde samenvatting: Een Amerikaans bedrijf gaat een stroomlijn bouwen van Angola naar Congo. Dit geeft de VS controle over de stroomvoorziening voor belangrijke mijnen. Deze mijnen zijn nodig voor de AI-industrie in de VS.]
+Het geweld in Gaza is gestopt. Dat is het belangrijkste. De prijzen dalen en er komt weer wat hulp binnen, maar voor de mensen in Gaza is er weinig reden om blij te zijn. Het zal jaren duren om alles te herstellen.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **bedrijf** | een organisatie die producten of diensten verkoopt |
-| **stroomlijn** | een grote kabel die elektriciteit over lange afstanden transporteert |
-| **mijnen** | plaatsen waar men mineralen of metalen uit de grond haalt |
-| **controle** | de macht om iets te bepalen of te besturen |
-| **industrie** | een groep van bedrijven die hetzelfde product maken |
+| **geweld** | gewelddadigheid, het gebruik van fysieke kracht |
+| **stoppen** | ophouden, niet meer doorgaan |
+| **hulp** | ondersteuning, assistentie |
+| **herstellen** | weer goed maken, repareren |
+| **jaren** | periode van 365 dagen, een lange tijd |
 
 ### Vul-in-de-leegte
-1. Het Amerikaanse bedrijf gaat een nieuwe ___ bouwen van Angola naar Congo.
-2. De mijnen in Congo produceren metalen die belangrijk zijn voor de ___.
-3. De Verenigde Staten willen graag ___ over de stroomvoorziening hebben.
-
+1. Het belangrijkste is dat het ___ is gestopt.
+2. De prijzen dalen en er komt weer wat ___ binnen.
+3. Het herstel zal jaren ___.
 #### Oplossingen
-1. stroomlijn
-2. AI-industrie
-3. controle
+1. geweld
+2. hulp
+3. duren
 
 ### Meerkeuzevragen
-1. Wat is de hoofdstad van Congo?
-   a) Kinshasa  
-   b) Johannesburg  
-   c) Nairobi  
-   d) Kaapstad  
-2. Waarom is controle over de stroomvoorziening belangrijk?  
-   a) Het maakt steden mooier  
-   b) Het geeft macht over belangrijke industrieën  
-   c) Het zorgt voor meer verkeer  
-   d) Het maakt de stroom duurder  
-3. Wat is AI-industrie?  
-   a) Industrie die kunstmatige intelligentie ontwikkelt  
-   b) Industrie die auto's maakt  
-   c) Industrie die voedsel produceert  
-   d) Industrie die huizen bouwt  
-
+1. Wat is het belangrijkste volgens de tekst?
+   a) Dat de oorlog is gewonnen  
+   b) Dat het geweld is gestopt  
+   c) Dat de prijzen dalen  
+   d) Dat er veel hulp komt  
+2. Waarom is er weinig reden tot opluchting voor de Gazanen?
+   a) Omdat er te veel geweld is  
+   b) Omdat er weinig hulp komt  
+   c) Omdat de prijzen stijgen  
+   d) Omdat het herstel lang duurt  
+3. Wat is de hoofdboodschap van de titel?
+   a) Dat stoppen met vechten het belangrijkste is  
+   b) Dat prijzen dalen het belangrijkste is  
+   c) Dat herstel snel gaat  
+   d) Dat er veel reden tot opluchting is  
 #### Antwoorden
-1. a) Kinshasa  
-2. b) Het geeft macht over belangrijke industrieën  
-3. a) Industrie die kunstmatige intelligentie ontwikkelt  
+1. b) Dat het geweld is gestopt
+2. d) Omdat het herstel lang duurt
+3. a) Dat stoppen met vechten het belangrijkste is
 
 ### Waar / Niet Waar
-1. De Verenigde Staten hebben controle over de stroomvoorziening in Congo.  
-2. De mijnen in Congo produceren alleen goud.  
-3. De AI-industrie heeft geen belang bij de mijnen in Congo.  
-
+1. Het geweld in Gaza is nog steeds aan de gang.
+2. De prijzen in Gaza zijn gestegen.
+3. Het herstel zal snel gaan.
 #### Antwoorden
-1. Waar  
-2. Niet Waar  
-3. Niet Waar<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Waar
+3. Niet waar<｜begin▁of▁sentence｜>

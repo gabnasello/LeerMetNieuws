@@ -1,66 +1,63 @@
-# Toestemming bij seks
+# Eenvoudige Nederlandse versie
 
-[Vereenvoudigde titel en samenvatting]
+## Titel
+Is er een strengere regel nodig voor euthanasie bij twintigers? "Hersenen zijn pas volgroeid vanaf 25 jaar"
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/kvhlkx-file82uhrcc1yrt11ia71idi/alternates/BASE_SIXTEEN_NINE/file82uhrcc1yrt11ia71idi)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/sensoa-start-jongerencampagne-over-toestemming-bij-seks-je-kunt-wel-opgewonden-blijven-van-een-vraag/97976999.html)
-
-Lichaamstaal kan soms verkeerd begrepen worden. Bij seks is het beter om duidelijk te vragen om toestemming. Sensoa, een organisatie, heeft een nieuwe campagne gemaakt. Die campagne laat aan jongeren zien hoe ze om toestemming kunnen vragen.
+In Nederland maken mensen zich zorgen omdat steeds meer jonge mensen zich aanmelden voor euthanasie vanwege psychisch lijden. Ook in België willen psychiaters onderzoeken of er strengere regels nodig zijn voor twintigers. "Maar we willen geen tegenstellingen veroorzaken."
 
 ## Woordenschatuitbreiding
 
-### Woordlijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **toestemming** | toestemming betekent dat iemand ermee instemt, dat iets mag |
-| **seks** | seks is de activiteit waarbij twee mensen intimiteit delen op een manier die ze allebei willen |
-| **campagne** | een campagne is een reeks activiteiten of uitingen met een bepaald doel, zoals informatie verspreiden |
-| **vragen** | vragen is het stellen van een vraag, om informatie te krijgen of om iets te weten te komen |
-| **organisatie** | een organisatie is een groep mensen die samenwerkt voor een bepaald doel, zoals Sensoa hier |
+| **euthanasie** | medisch beëindigen van een leven om lijden te stoppen |
+| **psychisch** | met betrekking tot de geest en emoties |
+| **streng** | heel strikt of serieus |
+| **twintiger** | iemand die tussen de 20 en 29 jaar oud is |
+| **onderzoeken** | iets grondig bestuderen of uitzoeken |
 
-### Vul de lege plekken in
-1. Voordat je iets doet, is het belangrijk om ___ te vragen.
-2. Een campagne kan gebruikt worden om belangrijke informatie te ___.
-3. Wanneer je toestemming vraagt, moet de andere persoon duidelijk ___ of nee zeggen.
+### Vul-in-de-leegte
+1. Sommige jongeren vragen om euthanasie vanwege ___ lijden.
+2. Psychiaters willen meer onderzoek doen voordat ze ___ beslissingen nemen.
+3. Het is belangrijk om de juiste balans te vinden tussen medische hulp en preventie, om ___ te voorkomen.
 
 #### Oplossingen
-1. toestemming
-2. verspreiden
-3. kunnen
+1. psychisch
+2. snelle
+3. misbruik
 
 ### Meerkeuzevragen
-1. Wat is Sensoa?
-A. Een land
-B. Een persoon
-C. Een organisatie
-D. Een dier
+1. Waarom is er bezorgdheid over euthanasie bij jongeren?
+a) Omdat het te duur is
+b) Omdat hun hersenen nog niet volgroeid zijn
+c) Omdat het te snel gaat
+d) Omdat er te weinig artsen zijn
 
-2. Waar gaat de nieuwe campagne van Sensoo over?
-A. Over reizen
-B. Over toestemming bij seks
-C. Over koken
-D. Over sport
+2. Wat is een 'twintiger'?
+a) Iemand van 20 jaar oud
+b) Iemand tussen 20 en 29 jaar oud
+c) Iemand die 20 jaar in een land woont
+d) Iemand met 20 tanden
 
-3. Waarom is het belangrijk om toestemming te vragen?
-A. Omdat het de wet is
-B. Omdat het respect toont en misverstanden voorkomt
-C. Omdat het sneller is
-D. Omdat het leuk is
+3. Wat willen psychiaters doen?
+a) Euthanasie verbieden
+b) Meer onderzoek doen
+c) Meer medicijnen voorschrijven
+d) Niets doen
 
 #### Antwoorden
-1. C. Een organisatie
-2. B. Over toestemming bij seks
-3. B. Omdat het respect toont en misverstanden voorkomt
+1. b
+2. b
+3. b
 
-### Waar of niet waar?
-1. Lichaamstaal is altijd duidelijk en leidt nooit tot misverstanden.
-2. Sensoa is een organisatie die campagnes maakt over seksuele gezondheid.
-3. Jongeren hoeven geen toestemming te vragen voor seks, omdat het vanzelfsprekend is.
+### Waar / Niet waar
+1. Twintigers hebben altijd volledig ontwikkelde hersenen. (Niet waar)
+2. Psychiaters willen onmiddellijk stoppen met euthanasie. (Niet waar)
+3. Er is alleen in Nederland bezorgdheid over euthanasie bij jongeren. (Niet waar)
 
 #### Antwoorden
 1. Niet waar
-2. Waar
-3. Niet waar<｜begin▁of▁sentence｜>
+2. Niet waar
+3. Niet waar

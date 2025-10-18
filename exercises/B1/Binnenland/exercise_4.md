@@ -1,7 +1,7 @@
-# Het uitstel van De Wever kost ons veel geld
+# De regisseur Marie De Hert en haar boek over angst
 
 ## Samenvatting
-De politicus De Wever stelt iets uit. Dit kost ons veel geld. Dit artikel gaat over deze kosten.
+Regisseur Marie De Hert heeft een boek geschreven over haar angststoornis. Twee jaar geleden kreeg ze last van paniekaanvallen. Ze zocht naar een verklaring hiervoor. Nu weet ze dat er niet één antwoord is.
 
 ## Woordenschatuitbreiding
 
@@ -9,50 +9,50 @@ De politicus De Wever stelt iets uit. Dit kost ons veel geld. Dit artikel gaat o
 
 | Woord | Definitie |
 |-------|-----------|
-| **uitstel** | iets later doen dan gepland |
-| **kosten** | geld dat je moet betalen |
-| **politicus** | iemand die in de politiek werkt |
-| **artikel** | een tekst in een krant of online |
-| **belangrijk** | heel erg nodig of goed |
+| **regisseur** | iemand die een film of toneelstuk regisseert |
+| **angststoornis** | een ziekte waarbij je veel angst voelt zonder duidelijke reden |
+| **paniekaanval** | een plotselinge, hevige angstaanval |
+| **verklaring** | een uitleg over waarom iets gebeurt |
+| **boek** | een verzameling van gebonden pagina's met een verhaal of informatie |
 
 ### Vul-in-de-leegte
-1. De Wever is een ___ die veel in het nieuws is.
-2. Het uitstel van zijn plan kostte veel ___.
-3. Dit is een ___ over wat er gebeurde.
+1. Marie De Hert is een ___ die een boek schreef.
+2. Tijdens een paniekaanval voel je heel veel ___ zonder duidelijke oorzaak.
+3. Marie zocht naar een ___ voor haar angsten.
 
 #### Oplossingen
-1. politicus
-2. geld
-3. artikel
+1. regisseur
+2. angst
+3. verklaring
 
 ### Meerkeuzevragen
-1. Wat is 'uitstel'?
-   a) iets eerder doen
-   b) iets later doen
-   c) iets niet doen
-   d) iets verkeerd doen
-2. Wat zijn 'kosten'?
-   a) iets dat je krijgt
-   b) geld dat je moet betalen
-   c) iets dat je leent
-   d) iets dat je verkoopt
-3. Wat is een 'artikel'?
-   a) een film
-   b) een liedje
-   c) een tekst in een krant
-   d) een foto
+1. Wat is Marie De Hert?
+   a) een schrijver  
+   b) een regisseur  
+   c) een dokter  
+   d) een student  
+2. Wat is een paniekaanval?  
+   a) een dansmove  
+   b) een plotseling, sterk gevoel van angst  
+   c) een soort feest  
+   d) een rustige periode  
+3. Wat betekent 'verklaring' in deze context?  
+   a) een verklaring van liefde  
+   b) een uitleg over de oorzaak van iets  
+   c) een verhaal over een vakantie  
+   d) een recept voor taart  
 
 #### Antwoorden
 1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. De Wever is een docent.
-2. Het uitstel kostte niets.
-3. Dit artikel gaat over de kosten.
+1. Marie De Hert is een boer. (Niet waar)
+2. Marie had nooit last van angst. (Niet waar)
+3. Marie vond de verklaring voor haar angst. (Waar)
 
 #### Antwoorden
 1. Niet waar
 2. Niet waar
-3. Waar<｜begin▁of▁sentence｜>
+3. Waar

@@ -1,10 +1,10 @@
-# Eenvoudige oefeningen gebaseerd op de tekst
+# Eenvoudiger Nederlands: Euthanasie voor jonge mensen
 
 ## Titel
-Sensoa begint een campagne over toestemming bij seks
+Heeft de euthanasie-regel voor twintigers een strengere richtlijn nodig? "De hersenen zijn pas volgroeid vanaf 25 jaar."
 
 ## Samenvatting
-Lichaamstaal kan voor misverstanden zorgen. Bij seks is het beter om duidelijk om toestemming te vragen. Sensoa helpt jongeren met een nieuwe campagne.
+In Nederland maken mensen zich zorgen over het groeiende aantal jonge mensen dat zich aanmeldt voor euthanasie wegens psychisch lijden. Ook in België willen psychiaters bekijken of er een strengere richtlijn nodig is voor twintigers. "Maar we willen polarisatie vermijden."
 
 ## Woordenschatuitbreiding
 
@@ -12,55 +12,50 @@ Lichaamstaal kan voor misverstanden zorgen. Bij seks is het beter om duidelijk o
 
 | Woord | Definitie |
 |-------|-----------|
-| **toestemming** | toestemming betekent dat je iemand vraagt of iets mag, en die persoon zegt ja of nee |
-| **misverstanden** | als iemand iets verkeerd begrijpt, bijvoorbeeld omdat je niet duidelijk bent geweest |
-| **campagne** | een reeks activiteiten of acties met een bepaald doel, zoals een informatiecampagne |
-| **seksueel** | alles wat te maken heeft met seks en seksualiteit |
-| **vragen** | iets aan iemand vragen, om meer informatie te krijgen of om toestemming |
+| **Euthanasie** | Een medische handeling om het leven van een terminale patiënt te beëindigen om lijden te verlichten. |
+| **Psychisch** | Betreft de geest en de geestelijke gezondheid. |
+| **Richtlijn** | Een officiële regel of gids over hoe iets moet worden gedaan. |
+| **Polarisatie** | Wanneer groepen tegenover elkaar komen te staan en niet meer samenwerken. |
+| **Twintiger** | Een persoon die tussen de 20 en 29 jaar oud is. |
 
 ### Vul-in-de-leegte
-
-1. Bij seks is het belangrijk om toestemming te ___.
-2. Een misverstand ontstaat wanneer je iets niet ___.
-3. Sensoa is een organisatie die een nieuwe campagne ___.
+1. In sommige landen is ___ toegestaan voor mensen met ernstige psychische aandoeningen.
+2. Er is veel discussie over of twintigers wel of geen ___ zouden moeten krijgen voor psychisch lijden.
+3. Het is belangrijk om polarisatie te voorkomen door open ___.
 
 #### Oplossingen
-1. vragen
-2. begrijpt
-3. startte
+1. euthanasie
+2. euthanasie
+3. dialoog
 
 ### Meerkeuzevragen
-
-1. Wat is een 'misverstand'?
-   a) een soort auto  
-   b) een verkeerd begrip  
-   c) een nieuwe uitvinding  
-   d) een soort computer  
-
-2. Waar helpt Sensoa jongeren mee?
-   a) met rekenen  
-   b) met het maken van een campagne  
-   c) met het leren over toestemming bij seks  
-   d) met het bouwen van een huis  
-
-3. Waarom is het belangrijk om toestemming te vragen?
-   a) omdat het dan lekkerder is  
-   b) omdat het verplicht is  
-   c) om misverstanden te voorkomen  
-   d) omdat je dan sneller klaar bent  
+1. Wat is een synoniem voor "polarisatie" in deze context?
+  a) Samenwerking
+  b) Tegenstelling
+  c) Overeenkomst
+  d) Gelijkheid
+2. Waarom zouden twintigers volgens critici géén euthanasie moeten kunnen krijgen?
+  a) Omdat ze te arm zijn
+  b) Omdat hun hersenen nog niet volgroeid zijn
+  c) Omdat ze te veel geld uitgeven
+  d) Omdat ze nog studeren
+3. Wat is een voorbeeld van een "richtlijn"?
+  a) Een nieuwe telefoon
+  b) Een nieuwe wet over euthanasie
+  c) Een nieuwe auto
+  d) Een nieuwe hobby
 
 #### Antwoorden
 1. b
-2. c
-3. c
+2. b
+3. b
 
-### Waar / Niet Waar
-
-1. Sensoa is een organisatie die een campagne over seksuele toestemming start.
-2. Lichaamstaal is altijd duidelijk en leidt nooit tot misverstanden.
-3. De campagne richt zich op jonge kinderen.
+### Waar / Niet waar
+1. Euthanasie is alleen toegestaan voor terminale patiënten.
+2. Psychisch lijden is nooit een geldige reden voor euthanasie.
+3. Twintigers zijn te jong om beslissingen over euthanasie te nemen.
 
 #### Antwoorden
-1. Waar
-2. Niet waar
-3. Niet waar
+1. Niet waar (het hangt van het land af)
+2. Niet waar (in sommige landen wel)
+3. Niet waar (maar er zijn wel discussies over)<｜begin▁of▁sentence｜>

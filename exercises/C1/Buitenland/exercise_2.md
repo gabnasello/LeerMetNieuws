@@ -1,59 +1,63 @@
-Ik zal je instructies zorgvuldig opvolgen. Laten we beginnen:
+# Trump en Poetin ontmoeten elkaar in Boedapest
 
-# Vereenvoudigde titel en samenvatting
-**Titel:** John Bolton, oud-adviseur van Trump, aangeklaagd door Justitie  
-**Samenvatting:** Donald Trump wordt voor de tweede keer president van Amerika. Dit brengt wereldwijd veel veranderingen. Hier vind je de laatste updates.
+**Titel in eenvoudig Nederlands, niveau C1:**  
+Trump en Poetin spreken af in Boedapest, maar een Russisch vliegtuig mag daar eigenlijk niet naartoe
 
-# Woordenschatuitbreiding
+**Samenvatting in eenvoudig Nederlands, niveau C1:**  
+Trump besluit Poetin te ontmoeten in Boedapest, en dat is een probleem voor de EU. Het luchtruim van de EU is gesloten voor de Russische president. Normaal gesproken moet Hongarije hem zelfs arresteren als hij aankomt.
+
+---
+
+## Woordenschatuitbreiding
 
 ### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **adviseur** | iemand die advies geeft |
-| **aangeklaagd** | beschuldigd van iets, moet voor de rechter komen |
-| **termijn** | periode (hier: de tijd dat iemand president is) |
-| **wereldwijd** | over de hele wereld |
-| **veranderingen** | dingen die anders worden |
+| **besluit** | een genomen besluit of plan |
+| **luchtruim** | de lucht boven een land of gebied; het gebied waar vliegtuigen mogen vliegen |
+| **gesloten** | dicht; niet open |
+| **aankomt** | arriveert; komt aan (vooral voor vervoer) |
+| **ontmoeten** | elkaar zien en spreken; een afspraak hebben met iemand |
 
 ### Vul-in-de-leegte
-1. John Bolton was een _____ van president Trump.
-2. Als je wordt _____, moet je voor de rechter verschijnen.
-3. Trump's tweede _____ als president bracht veel veranderingen.
+1. Trump ___ om Poetin te ontmoeten in Boedapest.
+2. Het Europese luchtruim is ___ voor Russische vliegtuigen.
+3. Hongarije zou Poetin moeten ___ als hij aankomt.
 
 #### Oplossingen
-1. adviseur
-2. aangeklaagd
-3. termijn
+1. besluit
+2. gesloten
+3. arresteren
 
 ### Meerkeuzevragen
-1. Wat betekent "aangeklaagd"?
-   a) geprezen
-   b) beschuldigd
-   c) vergeten
-   d) aangesteld
-2. Wat is een "termijn" in deze context?
-   a) een soort fruit
-   b) een periode of duur
-   c) een feest
-   d) een sport
-3. Wat betekent "wereldwijd"?
-   a) alleen in één stad
-   b) over de hele wereld
-   c) onder de grond
-   d) in de toekomst
+1. Wat betekent "gesloten" in deze context?  
+a) open  
+b) dicht  
+c) toegankelijk  
+d) beschikbaar  
+2. Wat betekent "aankomt"?  
+a) vertrekt  
+b) arriveert  
+c) verlaat  
+d) passeert  
+3. Waarom is de ontmoeting in Boedapest een probleem?  
+a) Omdat Poetin daar niet mag landen.  
+b) Omdat Trump er geen toestemming voor heeft.  
+c) Omdat Hongarije niet in de EU ligt.  
+d) Omdat het een Russische stad is.
 
 #### Antwoorden
-1. b) beschuldigd
-2. b) een periode of duur
-3. b) over de hele wereld
+1. b) dicht  
+2. b) arriveert  
+3. a) Omdat Poetin daar niet mag landen.
 
 ### Waar / Niet Waar
-1. John Bolton is de huidige president van de Verenigde Staten.
-2. "Aangeklaagd" betekent dat je een prijs hebt gewonnen.
-3. Donald Trump was twee termijnen president.
+1. Poetin mag officieel het Europese luchtruim niet in.  
+2. Trump en Poeten ontmoeten elkaar in een niet-EU-land.  
+3. Hongarije is verplicht Poetin te arresteren.
 
 #### Antwoorden
-1. Niet waar
-2. Niet waar
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Waar  
+2. Niet waar (Hongarije is in de EU)  
+3. Waar<｜begin▁of▁sentence｜>

@@ -1,13 +1,10 @@
-# Toestemming bij seks: wat is het en hoe vraag je ernaar?
+# Vereenvoudiging
 
-[Vereenvoudigde titel: Toestemming bij seks: wat is het en hoe vraag je ernaar?]
+## Titel
+Is er een strengere regel nodig voor euthanasie bij twintigers? "De hersenen zijn pas volgroeid vanaf 25 jaar"
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/kvhlkx-file82uhrcc1yrt11ia71idi/alternates/BASE_SIXTEEN_NINE/file82uhrcc1yrt11ia71idi)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/sensoa-start-jongerencampagne-over-toestemming-bij-seks-je-kunt-wel-opgewonden-blijven-van-een-vraag/97976999.html)
-
-[Vereenvoudigde samenvatting: Lichaamstaal kan soms verkeerd begrepen worden. Daarom is het belangrijk om duidelijk toestemming te vragen voor seks. Sensoa, een organisatie, heeft een nieuwe campagne gemaakt om jongeren te leren hoe ze dit kunnen doen.]
+In Nederland maken mensen zich zorgen over het groeiende aantal jongeren dat zich aanmeldt voor euthanasie vanwege psychisch lijden. Ook in België overwegen psychiaters of er strengere regels voor twintigers nodig zijn. "Maar we willen polarisatie vermijden."
 
 ## Woordenschatuitbreiding
 
@@ -15,54 +12,50 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **toestemming** | toestemming geven of krijgen voor iets |
-| **misverstanden** | een situatie waarin iets verkeerd wordt begrepen |
-| **expliciet** | heel duidelijk en zonder twijfel |
-| **campagne** | een georganiseerde reeks activiteiten met een specifiek doel |
-| **seksuele handelingen** | handelingen die met seks te maken hebben |
+| **euthanasie** | het beëindigen van een leven om lijden te stoppen, meestal medisch |
+| **psychisch** | met betrekking tot de geest en emoties |
+| **twintigers** | mensen tussen de 20 en 30 jaar oud |
+| **polarisatie** | wanneer mensen in twee groepen verdeeld raken en tegenover elkaar komen te staan |
+| **richtlijn** | een officiële regel of gids over hoe iets gedaan moet worden |
 
 ### Vul-in-de-leegte
-1. Voordat je doorgaat met ___, is het belangrijk om eerst toestemming te vragen.
-2. Als je niet zeker weet of iemand iets wil, kun je beter een ___ stellen.
-3. Goede communicatie kan ___ voorkomen.
+1. Euthanasie is een manier om het leven te beëindigen wanneer iemand veel __ lijdt.
+2. Sommige twintigers overwegen euthanasie vanwege psychisch __.
+3. Experts willen polarisatie __ door duidelijke richtlijnen te creëren.
 
 #### Oplossingen
-1. seksuele handelingen  
-2. duidelijke vraag  
-3. misverstanden  
+1. lichamelijk of geestelijk
+2. lijden
+3. vermijden
 
 ### Meerkeuzevragen
-1. Wat is een goede manier om toestemming te vragen?  
-   a) Aannemen dat de ander wel wil  
-   b) Gewoon doorgaan zonder te vragen  
-   c) Vragen: "Is dit oké voor je?"  
-   d) Het onderwerp helemaal vermijden  
-
-2. Waarom is het belangrijk om toestemming te vragen bij seksuele handelingen?  
-   a) Omdat het de wet is  
-   b) Omdat het respectvol is en misverstanden voorkomt  
-   c) Omdat het sneller gaat  
-   d) Omdat het niet nodig is als je al lang samen bent  
-
-3. Wat helpt om duidelijk toestemming te communiceren?  
-   a) Alleen non-verbale signalen gebruiken  
-   b) Duidelijk en respectvol taalgebruik  
-   c) Aannemen dat de ander wel wil  
-   d) Geen communicatie hebben  
+1. Wat is een voorbeeld van polarisatie?
+   a) Mensen worden het eens over een oplossing.
+   b) Mensen worden verdeeld in twee groepen met tegengestelde meningen.
+   c) Mensen werken samen aan een project.
+   d) Mensen vieren samen een feest.
+2. Waarom is er discussie over euthanasie voor twintigers?
+   a) Omdat hun hersenen nog niet volgroeid zijn.
+   b) Omdat twintigers te jong zijn om te sterven.
+   c) Omdat euthanasie alleen voor ouderen is.
+   d) Omdat jongeren geen psychisch lijden kunnen hebben.
+3. Wat is een mogelijke oplossing volgens de tekst?
+   a) Euthanasie volledig verbieden.
+   b) Geen richtlijnen maken.
+   c) Strengere richtlijnen over wie in aanmerking komt.
+   d) Alleen ouderen euthanasie aanbieden.
 
 #### Antwoorden
-1. c) Vragen: "Is dit oké voor je?"  
-2. b) Omdat het respectvol is en misverstanden voorkomt  
-3. b) Duidelijk en respectvol taalgebruik  
+1. b
+2. a
+3. c
 
 ### Waar / Niet Waar
-1. Lichaamstaal is altijd voldoende om toestemming te communiceren.  
-2. Sensoa is een organisatie die campagne voert over toestemming bij seks.  
-3. Je hoeft geen toestemming te vragen als je denkt dat de ander het wel wil.  
+1. Er is bezorgdheid over jongeren die euthanasie aanvragen.
+2. Psychiaters in België willen geen nieuwe richtlijnen.
+3. Polarisatie betekent dat mensen het met elkaar eens zijn.
 
 #### Antwoorden
-1. Niet waar  
-2. Waar  
-3. Niet waar  
-
----<｜begin▁of▁sentence｜>
+1. Waar
+2. Niet waar
+3. Niet waar<｜begin▁of▁sentence｜>

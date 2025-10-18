@@ -1,54 +1,58 @@
-# Vereenvoudigde titel en samenvatting
-Herschreven titel: Kan het Amerikaanse Hooggerechtshof zwarte kiezers hun macht ontnemen?
-Herschreven samenvatting: Sinds 1965 beschermt de Amerikaanse "Voting Rights Act" het recht van zwarte kiezers in zuidelijke staten om zwarte volksvertegenwoordigers te verkiezen. Het lijkt erop dat het Hooggerechtshof deze wet zal verwijderen, wat de macht van de Republikeinse partij kan versterken.
+# Vrede in het Midden-Oosten
+
+## Samenvatting
+Donald Trump gebruikte zijn schoonzoon als onderhandelaar. Hij negeerde de normale diplomatie. Hij kreeg een akkoord voor de Gazastrook. De wapens zijn daar nu stil. Maar werkt zijn aanpak voor de lange termijn? Experts zeggen: “Trump ging verder dan een Democratische president ooit durfde.”
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordlijst
 
-| Woord | Definitie |
+| Woord | Betekenis |
 |-------|-----------|
-| **kiesrecht** | het recht om te stemmen bij verkiezingen |
-| **beschermen** | zorgen dat iets of iemand veilig is en geen schade oploopt |
-| **verwijderen** | iets weghalen of weggooien |
-| **versterken** | sterker maken |
-| **vertegenwoordiger** | iemand die namens een groep mensen spreekt of beslissingen neemt |
+| **onderhandelaar** | iemand die met anderen praat om tot een oplossing te komen |
+| **diplomatie** | de manier waarop landen met elkaar praten en afspraken maken |
+| **duurzaam** | iets dat lang mee gaat en goed blijft |
+| **aanpak** | de manier waarop je iets aanpakt of aanpakt |
+| **experts** | mensen die veel weten over een onderwerp |
 
-### Vul-in-de-leegte
-1. Het Hooggerechtshof kan de Voting Rights Act ___, wat de rechten van kiezers aantast.
-2. Als een wet wordt ___, betekent dit dat deze niet meer geldig is.
-3. Goede wetten kunnen de rechten van mensen ___.
+### Vul de lege plekken in
+1. Trump gebruikte zijn schoonzoon als ___ tijdens de onderhandelingen.
+2. Sommige experts vragen zich af of de overeenkomst ___ is of niet.
+3. De ___ van Trump was om buiten de normale kanalen te werken.
+
 #### Oplossingen
-1. verwijderen
-2. verwijderd
-3. beschermen
+1. onderhandelaar
+2. duurzaam
+3. aanpak
 
 ### Meerkeuzevragen
-1. Wat is het "Voting Rights Act"?
-   a) Een wet om verkiezingen eerlijk te houden
-   b) Een wet om scholen te verbeteren
-   c) Een wet om belastingen te verhogen
-   d) Een wet om sportteams te steunen
-2. Wat kan het gevolg zijn als het Hooggerechtshof de "Voting Rights Act" verwijdert?
-   a) Meer mensen kunnen stemmen
-   b) Alleen rijke mensen mogen stemmen
-   c) Minder bescherming voor kiezers, vooral minderheden
-   d) Alle wetten worden automatisch sterker
-3. Wat is een "volksvertegenwoordiger"?
-   a) Iemand die voor een bedrijf werkt
-   b) Een lid van de regering dat door het volk is gekozen
-   c) Een sporter in het nationale team
-   d) Een leraar op een middelbare school
+1. Wat is een "onderhandelaar"?
+   a) iemand die altijd thuis blijft  
+   b) iemand die onderhandelingen leidt  
+   c) iemand die alleen maar werkt  
+   d) iemand die nooit praat  
+2. Wat betekent "duurzaam" in deze context?  
+   a) dat iets heel duur is  
+   b) dat iets lang meegaat en effectief blijft  
+   c) dat iets heel sterk is  
+   d) dat iets heel zwak is  
+3. Wat is een "expert"?  
+   a) iemand die net begint met leren  
+   b) iemand die een expert is in een bepaald gebied  
+   c) iemand die geen vragen stelt  
+   d) iemand die alles alleen doet  
+
 #### Antwoorden
-1. a
-2. c
+1. b
+2. b
 3. b
 
-### Waar / Niet Waar
-1. De "Voting Rights Act" werd ingevoerd in 1965.
-2. Het Hooggerechtshof wil de "Voting Rights Act" verwijderen om zwarte kiezers te helpen.
-3. Als de "Voting Rights Act" wordt verwijderd, kunnen de Republikeinen meer macht krijgen.
+### Waar of niet waar?
+1. Trump volgde de gebruikelijke diplomatieke methoden tijdens de onderhandelingen.
+2. Het akkoord zorgde ervoor dat de wapens in Gaza zijn gestopt.
+3. Alle experts zijn het erover eens dat Trump's aanpak de beste ooit was.
+
 #### Antwoorden
-1. Waar
-2. Niet Waar
-3. Waar<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Waar
+3. Niet waar<｜begin▁of▁sentence｜>

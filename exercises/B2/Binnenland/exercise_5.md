@@ -1,58 +1,63 @@
-# Demonstratie F-35's gaat niet door
+# An Olaerts over de eerste roman die ze ooit las
 
-**Titel:** Demonstratie F-35’s gaat niet door: minister Francken vindt het niet het juiste moment  
-**Samenvatting:** Het luchtruim boven Brussel zal vrijdag dan toch niet gesloten worden voor een demonstratie met F-35-gevechtsvliegtuigen en nieuwe drones van de luchtmacht. Minister van Defensie Theo Francken zegt dat dit niet doorgaat: het is niet het juiste moment, niet de juiste plaats.
+An Olaerts was zeven toen ze haar allereerste roman las. Jaren later vindt ze 'De mantel van Viola' terug en ontdekt ze dat het eigenlijk een vermomde seksvertelling is.
+
+## Samenvatting
+An Olaerts was zeven jaar oud toen ze haar eerste roman las. Jaren later vond ze het boek 'De mantel van Viola' terug en ontdekte ze dat het eigenlijk een verborgen seksverhaal is.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
-
+### Woordenschat
 | Woord | Definitie |
 |-------|-----------|
-| **demonstratie** | een voorstelling of show om iets te laten zien |
-| **minister** | een belangrijk persoon in de regering die over een bepaald gebied gaat |
-| **defensie** | alles wat met het leger en bescherming van het land te maken heeft |
-| **luchtruim** | de ruimte in de lucht boven een gebied |
-| **drone** | een onbemand vliegend apparaat dat op afstand wordt bestuurd |
+| **roman** | een lang verhaal in een boek, meestal met veel personages |
+| **ontdekken** | iets nieuws vinden of leren |
+| **verhaal** | een vertelling van gebeurtenissen, echt of verzonnen |
+| **vermomd** | verborgen of verkleed zodat het niet direct zichtbaar is |
+| **seksueel** | alles wat te maken heeft met seks of intimiteit |
 
 ### Vul-in-de-leegte
-1. De minister van Defensie zei dat de demonstratie niet doorging omdat het niet het juiste ___ was. (moment)
-2. Het luchtruim boven Brussel zou tijdelijk gesloten worden, maar de minister vond het niet het juiste ___ . (moment)
-3. De F-35 is een type ___ . (gevechtsvliegtuig)
+1. An Olaerts las haar eerste roman toen ze nog maar ___ jaar oud was.
+2. Toen An Olaerts 'De mantel van Viola' opnieuw las, ontdekte ze dat het eigenlijk een ___ verhaal was.
+3. Het verhaal was ___, wat betekent dat het niet direct duidelijk was.
 
 #### Oplossingen
-1. moment
-2. moment  
-3. gevechtsvliegtuig
+1. zeven
+2. seksueel
+3. vermomd
 
 ### Meerkeuzevragen
-1. Wat is een 'drone'?  
-a) een soort vogel  
-b) een onbemand vliegtuig  
-c) een soort auto  
-d) een soort computer  
-**Antwoord:** b) een onbemand vliegtuig  
+1. Wat ontdekte An Olaerts toen ze 'De mantel van Viola' opnieuw las?
+A) Dat het een grappig verhaal was
+B) Dat het een verborgen seksverhaal was
+C) Dat het een kort verhaal was
+D) Dat het een saai verhaal was
 
-2. Waarom ging de demonstratie niet door?  
-a) Omdat het te duur was  
-b) Omdat de minister het niet het juiste moment vond  
-c) Omdat het te gevaarlijk was  
-d) Omdat er geen toestemming was  
-**Antwoord:** b) Omdat de minister het niet het juiste moment vond  
+2. Hoe oud was An Olaerts toen ze haar eerste roman las?
+A) 5 jaar oud
+B) 10 jaar oud
+C) 7 jaar oud
+D) 8 jaar oud
 
-3. Wat is 'defensie'?  
-a) Een soort voedsel  
-b) Een onderdeel van de overheid dat over het leger gaat  
-c) Een soort sport  
-d) Een soort muziek  
-**Antwoord:** b) Een onderdeel van de overheid dat over het leger gaat  
-
-### Waar / Niet Waar
-1. Het luchtruim boven Brussel werd helemaal niet gesloten. (Waar)
-2. Minister Francken was verantwoordelijk voor de demonstratie. (Niet waar: hij heeft het juist afgeblazen)
-3. De demonstratie zou plaatsvinden met drones en gevechtsvliegtuigen. (Waar)
+3. Wat betekent 'vermomd' in deze context?
+A) Het verhaal is heel spannend.
+B) Het verhaal is verborgen of verkleed.
+C) Het verhaal is heel saai.
+D) Het verhaal is heel duidelijk.
 
 #### Antwoorden
-1. Waar
-2. Niet waar
-3. Waar
+1. B
+2. C
+3. B
+
+### Waar / Niet Waar
+1. An Olaerts was 10 jaar oud toen ze haar eerste roman las.
+2. 'De mantel van Viola' is eigenlijk een verborgen seksverhaal.
+3. An Olaerts ontdekte niets toen ze het boek opnieuw las.
+
+#### Antwoorden
+1. Niet waar (ze was 7 jaar oud)
+2. Waar
+3. Niet waar (ze ontdekte dat het een verborgen seksverhaal was)
+
+---<｜begin▁of▁sentence｜>

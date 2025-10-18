@@ -1,56 +1,64 @@
-# Toestemming bij seks
-Een nieuwe campagne van Sensoa leert jongeren over toestemming bij seks.
+# Euthanasie voor jongeren
+
+[Vereenvoudigde titel: Is er een strengere regel nodig voor euthanasie bij twintigers? "Hersenen zijn pas volgroeid vanaf 25 jaar"]
 
 ## Samenvatting
-Lichaamstaal kan soms verkeerd begrepen worden. Daarom is het beter om duidelijk te vragen om toestemming bij seks. Sensoa start een campagne om jongeren te leren hoe ze dit kunnen doen.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/mmwrv0-uhh-psychelijden.png/alternates/BASE_SIXTEEN_NINE/UHH-PSYCHELIJDEN.png)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/is-er-een-strengere-richtlijn-nodig-voor-euthanasie-bij-twintigers-het-brein-is-pas-volgroeid-vanaf-25-jaar/98248806.html)
+
+In Nederland maken mensen zich zorgen. Steeds meer jongeren melden zich aan voor euthanasie. Dit komt door psychisch lijden. Ook in België kijken specialisten of er strengere regels nodig zijn voor twintigers. "Maar we willen geen ruzie maken."
 
 ## Woordenschatuitbreiding
 
-### Woordelijke
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **toestemming** | goedkeuring of instemming |
-| **seks** | seksuele handeling |
-| **campagne** | een georganiseerde actie of reeks activiteiten met een specifiek doel |
-| **vragen** | iets zeggen om informatie te krijgen |
-| **leren** | kennis of vaardigheden opdoen |
+| **euthanasie** | medische handeling om het leven van een terminale patiënt te beëindigen |
+| **psychisch** | met betrekking tot de geest en emoties |
+| **specialisten** | experts of deskundigen in een bepaald gebied |
+| **regels** | officiële richtlijnen of voorschriften |
+| **twintigers** | mensen tussen de 20 en 30 jaar oud |
 
-### Vul de lege plekken in
-1. Bij seks is het belangrijk om toestemming te ___.
-2. De campagne leert jongeren hoe ze een ___ kunnen stellen.
-3. Sensoo is een organisatie die een ___ startte over dit onderwerp.
+### Vul-in-de-leegte
+1. Steeds meer jongeren vragen om ___ vanwege psychische problemen.
+2. Specialisten in België onderzoeken of er nieuwe ___ nodig zijn.
+3. Het doel is om polarisatie te ___.
+
 #### Oplossingen
-1. vragen
-2. vraag
-3. campagne
+1. euthanasie
+2. regels
+3. vermijden
 
 ### Meerkeuzevragen
-1. Wat is het doel van de Sensoa-campagne?
-   a) Seks verbieden  
-   b) Jongeren leren over toestemming vragen  
-   c) Enkel volwassenen informeren  
-   d) Geen van bovenstaande  
-2. Waarom is het volgens de tekst beter om expliciet te vragen?
-   a) Omdat het sneller gaat  
-   b) Omdat lichaamstaal misverstanden kan veroorzaken  
-   c) Omdat seks niet belangrijk is  
-   d) Omdat iedereen het al weet  
-3. Wat doet Sensoo?
-   a) Een winkelketen  
-   b) Een organisatie die campagnes maakt over seksuele gezondheid  
-   c) Een soort sportclub  
-   d) Geen van bovenstaande  
+1. Waar gaat deze tekst vooral over?  
+   a) gezondheid van jongeren  
+   b) nieuwe regels voor euthanasie  
+   c) psychische problemen bij ouderen  
+   d) sport voor jongeren  
+2. Waarom zijn specialisten bezorgd?  
+   a) Er zijn te weinig specialisten.  
+   b) Jongeren kunnen nog veranderen.  
+   c) Euthanasie is te duur.  
+   d) Er is te weinig onderzoek.  
+3. Wat is het belangrijkste doel volgens de tekst?  
+   a) Zoveel mogelijk euthanasie uitvoeren.  
+   b) Goede regels maken zonder conflict.  
+   c) Meer psychiaters opleiden.  
+   d) Meer onderzoek doen naar de hersenen.  
+
 #### Antwoorden
 1. b
 2. b
 3. b
 
-### Waar of niet waar?
-1. Lichaamstaal is altijd duidelijk en leidt nooit tot misverstanden.
-2. De Sensoa-campagne is alleen voor ouderen.
-3. Sensoo is de naam van de campagne, niet van de organisatie.
+### Waar / Niet Waar
+1. Euthanasie is alleen voor terminale patiënten.  
+2. Alle landen hebben dezelfde regels voor euthanasie.  
+3. Specialisten willen geen nieuwe regels.  
+
 #### Antwoorden
-1. Niet waar
-2. Niet waar
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Niet waar (niet alle landen hebben dezelfde regels, en niet alleen voor terminale patiënten)  
+2. Niet waar (regels verschillen per land)  
+3. Niet waar (specialisten overwegen nieuwe regels)

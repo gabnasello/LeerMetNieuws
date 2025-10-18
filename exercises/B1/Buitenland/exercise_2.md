@@ -1,10 +1,12 @@
-# Veranderingen in de wereld
+# Eenvoudige titel en samenvatting
 
-## Titel
-De tweede ambtstermijn van Donald Trump als president brengt wereldwijd veranderingen.
+## Vereenvoudigde titel
+Trump en Poetin ontmoeten elkaar in Boedapest, maar een Russisch vliegtuig mag daar eigenlijk niet naartoe.
 
-## Samenvatting
-Donald Trump is opnieuw president van Amerika. Dit kan grote gevolgen hebben voor de hele wereld. Overal kan er veel veranderen. Dit artikel vertelt over de nieuwe ontwikkelingen.
+## Vereenvoudigde samenvatting
+Trump kiest ervoor om Poetin te ontmoeten in Boedapest, wat de EU boos maakt. Het luchtruim van de EU is gesloten voor de Russische president. Normaal gesproken moet Hongarije Poetin zelfs arresteren als hij aankomt.
+
+---
 
 ## Woordenschatuitbreiding
 
@@ -12,50 +14,41 @@ Donald Trump is opnieuw president van Amerika. Dit kan grote gevolgen hebben voo
 
 | Woord | Definitie |
 |-------|-----------|
-| **president** | de leider van een land |
-| **wereld** | de aarde en alle mensen en landen samen |
-| **verandering** | iets wat anders wordt dan het eerst was |
-| **gevolg** | iets wat gebeurt door een andere gebeurtenis |
-| **ontwikkeling** | iets wat nieuw wordt of groeit |
+| **ontmoeten** | elkaar zien en spreken |
+| **luchtruim** | de lucht boven een land |
+| **arresteren** | iemand vasthouden omdat die iets fout heeft gedaan |
+| **gesloten** | niet open, dicht |
+| **boos** | heel erg kwaad |
 
-### Vul de lege plekken in
-1. De president is de leider van een ___.
-2. De wereld bestaat uit alle landen en ___.
-3. Een verandering is wanneer iets ___ wordt.
+### Vul-in-de-leegte
+1. Trump en Poetin ___ elkaar in Boedapest.
+2. Het luchtruim van de EU is ___ voor Russische vliegtuigen.
+3. De Hongaarse politie moet Poetin ___ als hij aankomt.
 
 #### Oplossingen
-1. land
-2. mensen
-3. anders
+1. ontmoeten
+2. gesloten
+3. arresteren
 
 ### Meerkeuzevragen
-1. Wat is een president?
-   a) een soort dier  
-   b) de leider van een land  
-   c) een type auto  
-   d) een grote berg  
-2. Wat betekent "wereld"?
-   a) alleen mijn huis  
-   b) de hele aarde en alles erop  
-   c) een kleine stad  
-   d) een soort voedsel  
-3. Wat is een verandering?
-   a) iets wat precies hetzelfde blijft  
-   b) iets wat anders wordt dan voorheen  
-   c) een nieuw soort dier  
-   d) een oude boom  
+1. Wat betekent "ontmoeten"?
+   a) negeren b) ontvluchten c) tegenkomen en spreken d) vermijden
+2. Wat is "luchtruim"?
+   a) de ruimte in de lucht b) de lucht boven een land c) een ruimteschip d) een soort wolk
+3. Wat betekent "gesloten"?
+   a) heel erg open b) een beetje open c) niet open d) heel erg groot
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. c) tegenkomen en spreken
+2. b) de lucht boven een land
+3. c) niet open
 
-### Waar of niet waar?
-1. De president van Amerika heet Donald Trump. (Waar / Niet waar)
-2. Veranderingen zijn altijd slecht. (Waar / Niet waar)
-3. De wereld is één groot land. (Waar / Niet waar)
+### Waar / Niet Waar
+1. Trump ontmoet Poetin in New York.
+2. Het luchtruim van de EU is open voor Russische vliegtuigen.
+3. Hongarije moet Poetin arresteren als hij aankomt.
 
 #### Antwoorden
-1. Waar
+1. Niet waar
 2. Niet waar
-3. Niet waar<｜begin▁of▁sentence｜>
+3. Waar

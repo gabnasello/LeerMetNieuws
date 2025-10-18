@@ -1,60 +1,58 @@
-# Vliegshow
-
-[vereenvoudigde titel: "Demonstratie F-35's gaat niet door: minister Francken vindt het niet het moment"]
+# An Olaerts over de eerste roman die ze ooit las: “Meester Zwartrok is een pervers mannetje. En maar zeuren over die gleufjes”
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/l6rhmp-274.jpeg/alternates/BASE_SIXTEEN_NINE/274.jpeg)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/demonstratie-f-35-s-gaat-niet-door-minister-francken-vindt-het-niet-het-moment/98075382.html)
-
-[vereenvoudigde samenvatting: "Het luchtruim boven Brussel zal vrijdag niet gesloten worden voor een vliegshow met F-35-gevechtsvliegtuigen en nieuwe drones. Minister van Defensie Theo Francken zegt dat dit niet doorgaat: niet de tijd, niet de plaats."]
+An Olaerts was zeven jaar oud toen ze haar allereerste roman las. Jaren later vond ze ‘De mantel van Viola’ terug en ontdekte dat het eigenlijk een verborgen seksverhaal was.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
-
+### Woordenschat
 | Woord | Definitie |
 |-------|-----------|
-| **demonstratie** | een show of voorstelling waarop iets wordt getoond |
-| **minister** | een belangrijk persoon in de regering die over een bepaald gebied gaat |
-| **defensie** | bescherming van een land tegen aanvallen van buitenaf |
-| **luchtruim** | de ruimte in de lucht boven een bepaald gebied |
-| **drone** | een onbemand vliegtuigje dat op afstand wordt bestuurd |
+| **roman** | een lang verhaal, meestal in boekvorm |
+| **pervers** | niet normaal of gezond, op een slechte manier |
+| **vermomd** | verborgen of verkleed als iets anders |
+| **seksueel** | alles wat met seks te maken heeft |
+| **recensie** | een beoordeling of mening over iets, zoals een boek of film |
 
 ### Vul-in-de-leegte
-1. De minister van Defensie heeft besloten de ___ niet door te laten gaan.
-2. Het ___ boven Brussel zou tijdelijk gesloten worden voor de vliegshow.
-3. Minister Francken vindt dat het niet het juiste ___ is voor de demonstratie.
+1. An Olaerts was nog maar een kind toen ze haar eerste ___ las.
+2. De roman bleek later een ___ verhaal te zijn, niet wat het leek.
+3. De recensie legde uit dat het boek een ___ verhaal was.
+
 #### Oplossingen
-1. demonstratie
-2. luchtruim
-3. moment
+1. roman
+2. vermomd
+3. seksueel
 
 ### Meerkeuzevragen
-1. Wat is de reden dat de demonstratie niet doorgaat?  
-a) Het weer is te slecht  
-b) De minister vindt het niet het juiste moment  
-c) De vliegtuigen zijn defect  
-d) Er is geen toestemming van de burgemeester  
-2. Wat betekent "defensie"?  
-a) Aanval  
-b) Bescherming  
-c) Onderwijs  
-d) Economie  
-3. Wat is een "drone"?  
-a) Een soort vogel  
-b) Een onbemand vliegtuigje  
-c) Een soort auto  
-d) Een soort computer  
+1. Wat is een 'roman'?
+  a) een soort fruit
+  b) een lang verhaal in boekvorm
+  c) een soort muziek
+  d) een wiskundig probleem
+
+2. Wat betekent 'pervers' in deze context?
+  a) heel erg goed
+  b) niet normaal of gezond
+  c) erg duur
+  d) heel mooi
+
+3. Wat is een 'recensie'?
+  a) een soort auto
+  b) een nieuwe film
+  c) een beoordeling of mening over iets
+  d) een soort sport
+
 #### Antwoorden
 1. b
 2. b
-3. b
+3. c
 
 ### Waar / Niet Waar
-1. De demonstratie met F-35's en drones gaat wel door.  
-2. Minister Francken is de minister van Defensie.  
-3. Het luchtruim boven Brussel wordt helemaal niet gesloten.  
+1. An Olaerts was al volwassen toen ze haar eerste roman las.
+2. ‘De mantel van Viola’ was eigenlijk een verborgen seksverhaal.
+3. Recensies schrijven over wat een boek echt is.
+
 #### Antwoorden
 1. Niet waar
 2. Waar

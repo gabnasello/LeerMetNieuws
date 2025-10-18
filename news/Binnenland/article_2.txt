@@ -1,15 +1,15 @@
 Artikel 2
-Nieuwsupdate: 2025-10-17 05:23 UCT
+Nieuwsupdate: 2025-10-18 05:22 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Solliciteren met AI en beoordeeld worden door AI: krijgt iedereen dan dezelfde kansen op een job?
-Link: https://www.standaard.be/economie/solliciteren-met-ai-en-beoordeeld-worden-door-ai-krijgt-iedereen-dan-dezelfde-kansen-op-een-job/97647233.html
-Datum: Thu, 16 Oct 2025 21:59:00 GMT
-Samenvatting: De helft van de sollicitanten gebruikt ChatGPT om een cv of motivatiebrief te schrijven. En werkgevers schakelen meer en meer algoritmes in om kandidaten te filteren. Als AI straks AI beoordeelt, krijgt de beste kandidaat dan nog de job?
+Titel: Drugsgebruikersruimte verdeelt buurt: “Omdat het Ribaucourt is, moeten we het er blijkbaar allemaal maar bijnemen”
+Link: https://www.standaard.be/binnenland/drugsgebruikersruimte-verdeelt-buurt-omdat-het-ribaucourt-is-moeten-we-het-er-blijkbaar-allemaal-maar-bijnemen/97563058.html
+Datum: Fri, 17 Oct 2025 21:59:00 GMT
+Samenvatting: Aan de veelgeplaagde Molenbeekse metrohalte Ribaucourt zou dit jaar nog een drugsgebruikersruimte de deuren openen, tot buurtbewoners daar een stokje voor staken. Voor andere mensen uit de wijk kan de ‘spuitruimte’ niet snel genoeg opengaan. “Wij lopen elke dag met onze kinderen langs de gebruikers.”
 Auteur: Geen auteur
-Categorie: Economie
-Afbeelding: https://prod-img.standaard.be/public/nieuws/cpyiba-2510-standaard-sollicitatie-v2-c-kopie.jpg/alternates/BASE_SIXTEEN_NINE/2510_standaard_sollicitatie_v2%20c%20kopie.jpg
+Categorie: Binnenland
+Afbeelding: https://prod-img.standaard.be/public/nieuws/7m48l1-drugsgebruikers-ribeaucourt-09-kristofvadino-dsc05580.jpg/alternates/BASE_SIXTEEN_NINE/Drugsgebruikers_Ribeaucourt_09_KristofVadino_DSC05580.jpg
 Premium: true
 ------------------------------------------------------------

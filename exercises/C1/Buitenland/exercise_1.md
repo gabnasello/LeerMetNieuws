@@ -1,9 +1,9 @@
-# Eenvoudige oefeningen
+# Vervolging John Bolton toont: Trumps wraak is persoonlijk
 
-Hier zijn de vereenvoudigde titel en samenvatting:
+[Vervolging John Bolton toont: Trumps wraak is persoonlijk]
 
-**Titel:** Nieuwe Peruaanse regering roept noodtoestand uit in Lima na dodelijke golf van geweld  
-**Samenvatting:** Bij jongerenprotesten in Peru is een dode gevallen en raakten zeker honderden gewond. De betogers komen al weken op straat tegen de corruptie en de onveiligheid. De overgangsregering heeft de noodtoestand afgekondigd in de hoofdstad Lima.
+## Samenvatting
+Doordat Donald Trump John Bolton laat vervolgen, de man die hem bijna ten val bracht in zijn eerste afzettingsproces, bewijst Trump dat zelfs zijn rechtse tegenstanders zijn wraak moeten vrezen.
 
 ## Woordenschatuitbreiding
 
@@ -11,47 +11,47 @@ Hier zijn de vereenvoudigde titel en samenvatting:
 
 | Woord | Definitie |
 |-------|-----------|
-| **noodtoestand** | een speciale situatie waarin normale regels niet gelden |
-| **geweld** | het gebruik van fysieke kracht om schade toe te brengen |
-| **protesten** | het uiten van ontevredenheid of bezwaren, vaak in groepen |
-| **regering** | de groep mensen die een land of gebied bestuurt |
-| **corruptie** | wanneer mensen in macht posities misbruik maken voor persoonlijk gewin |
+| **vervolgen** | iemand voor de rechter brengen (om te straffen) |
+| **afzettingsproces** | een procedure waarbij een hooggeplaatst persoon uit zijn functie wordt gezet |
+| **wraak** | iets negatiefs doen om terug te pakken voor iets dat iemand je heeft aangedaan |
+| **tegenstander** | iemand die het niet met je eens is en/of tegen je vecht |
+| **aanstellen** | iemand een baan of positie geven |
 
 ### Vul-in-de-leegte
-1. De regering heeft een ___ uitgeroepen in de hoofdstad.
-2. Er is veel ___ omdat veel politici oneerlijk zijn.
-3. De demonstranten protesteren tegen de ___ in de regering.
+1. Trump laat Bolton ___ om zich te wreken voor eerdere conflicten.
+2. Bolton was een ___ van Trump, wat leidde tot het afzettingsproces.
+3. Trump stelt mensen ___, zoals ambassadeurs, om zijn regering te runnen.
 #### Oplossingen
-1. noodtoestand
-2. corruptie
-3. corruptie
+1. vervolgen
+2. tegenstander
+3. aan
 
 ### Meerkeuzevragen
-1. Wat is een "noodtoestand"?
-   A) een feestelijke gebeurtenis
-   B) een speciale periode waarin normale regels niet gelden
-   C) een sportevenement
-   D) een nieuwe wet
-2. Waarom protesteren de mensen in Peru?
-   A) Ze willen meer vakantiedagen.
-   B) Ze zijn tegen corruptie en onveiligheid.
-   C) Ze willen een nieuwe koning.
-   D) Ze willen betere wifi.
-3. Waar heeft de regering de noodtoestand afgekondigd?
-   A) In een klein dorpje.
-   B) In de hoofdstad Lima.
-   C) In een buurland.
-   D) Alleen in het regenwoud.
+1. Wat is een "afzettingsproces"?
+   a) Een procedure waarbij iemand uit zijn functie wordt gezet.
+   b) Een feestelijke promotie.
+   c) Een rechtszaak over belastingen.
+   d) Een toneelstuk.
+2. Waarom laat Trump Bolton vervolgen volgens de tekst?
+   a) Omdat Bolton een vriend is.
+   b) Omdat Trump zich wil wreken.
+   c) Omdat Bolton een prijs won.
+   d) Omdat Trump hem een baan aanbood.
+3. Wat betekent "wraak" in deze context?
+   a) Een geschenk geven.
+   b) Iets negatiefs doen uit wraak.
+   c) Samenwerken.
+   d) Vergeven en vergeten.
 #### Antwoorden
-1. B
-2. B
-3. B
+1. a
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. De protesten in Peru zijn geweldloos verlopen.
-2. De regering van Peru is de oorzaak van de problemen.
-3. De protesten zijn alleen in de hoofdstad.
+1. Alleen linkse tegenstanders worden door Trump vervolgd.
+2. Bolton werd aangeklaad omdat hij Trump steunde.
+3. Trump toont met deze zaak dat hij persoonlijke wraak neemt.
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Niet Waar
+1. Niet waar (ook rechtse tegenstanders)
+2. Niet waar (Bolton was tegen Trump)
+3. Waar<｜begin▁of▁sentence｜>

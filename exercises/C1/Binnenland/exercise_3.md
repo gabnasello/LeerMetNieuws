@@ -1,6 +1,7 @@
-# Leidinggevenden over re-integratie langdurig zieken: “Fysieke problemen zijn duidelijker dan mentale problemen”
+# Regisseur Marie De Hert schreef een boek over haar angststoornis: “We zijn allemaal op zoek naar iets om ons aan vast te houden” 
 
-Hoewel re-integratie verplicht is, heeft één op de vier bedrijven nog geen beleid voor langdurig zieke werknemers, volgens onderzoek van Acerta. Leidinggevenden delen hun aanpak. “Voor werknemers is er bijvoorbeeld een mental coach, maar ik kan weekenddiensten in de zorg niet afschaffen.”
+## Samenvatting
+Twee jaar geleden kreeg regisseur Marie De Hert (35) te maken met een paniekstoornis die maar niet wegging. Dit was beangstigend voor haar en haar omgeving. Sindsdien zocht ze hard naar een verklaring. “Nu weet ik dat er niet één antwoord is.”
 
 ## Woordenschatuitbreiding
 
@@ -8,52 +9,41 @@ Hoewel re-integratie verplicht is, heeft één op de vier bedrijven nog geen bel
 
 | Woord | Definitie |
 |-------|-----------|
-| **re-integratie** | Het opnieuw laten meedoen van een werknemer na ziekte of verzuim. |
-| **leidinggevenden** | Mensen die leidinggeven aan een team of afdeling. |
-| **langdurig zieken** | Mensen die langdurig ziek zijn en niet kunnen werken. |
-| **beleid** | De regels en afspraken over hoe iets wordt aangepakt. |
-| **verplicht** | Iets dat moet volgens de wet of regels. |
+| **regisseur** | iemand die een film of toneelstuk regisseert |
+| **paniekstoornis** | een psychische aandoening waarbij iemand regelmatig paniekaanvallen heeft |
+| **verklaring** | een uitleg of reden voor iets |
+| **omgeving** | de mensen en dingen om je heen |
+| **zoeken** | proberen iets of iemand te vinden |
 
 ### Vul-in-de-leegte
-1. Het bedrijf heeft een nieuw ___ ingevoerd voor zieke werknemers.  
-2. Na een operatie volgde een periode van ___, waarin hij niet kon werken.  
-3. De nieuwe wet maakt het ___ dat bedrijven re-integratiebeleid moeten hebben.  
+1. Marie De Hert is een __regisseur__ die een boek heeft geschreven.
+2. Ze had last van een __paniekstoornis__ die maar niet wegging.
+3. Ze zocht naar een __verklaring__ voor haar gevoelens.
 
 #### Oplossingen
-1. re-integratiebeleid  
-2. re-integratie  
-3. verplicht  
+1. Marie De Hert is een **regisseur** die een boek heeft geschreven.
+2. Ze had last van een **paniekstoornis** die maar niet wegging.
+3. Ze zocht naar een **verklaring** voor haar gevoelens.
 
 ### Meerkeuzevragen
-1. Wat is re-integratie?  
-a) Een sportevenement  
-b) Het opnieuw laten meedoen van een werknemer na afwezigheid  
-c) Een soort belasting  
-d) Een nieuwe koffiemerke  
-
-2. Waarom is re-integratie belangrijk?  
-a) Omdat het verplicht is  
-b) Omdat het werknemers helpt om weer deel te nemen  
-c) Omdat het bedrijven helpt om ervaren werknemers te behouden  
-d) Alle antwoorden zijn correct  
-
-3. Wat is een voorbeeld van re-integratie?  
-a) Een werknemer krijgt minder uren na ziekte.  
-b) Een werknemer krijgt een nieuwe manager.  
-c) Een werknemer verandert van baan.  
-d) Geen van de bovenstaande.  
+1. Wat is Marie De Hert?
+a) Schrijver b) Regisseur c) Arts d) Student
+2. Wat is een paniekstoornis?
+a) Een soort film b) Een psychische aandoening c) Een boek d) Een persoon
+3. Waar zocht Marie De Hert naar?
+a) Een nieuwe baan b) Een verklaring c) Een boek d) Een huis
 
 #### Antwoorden
-1. b) Het opnieuw laten meedoen van een werknemer na afwezigheid  
-2. d) Alle antwoorden zijn correct  
-3. a) Een werknemer krijgt minder uren na ziekte.  
+1. b) Regisseur
+2. b) Een psychische aandoening
+3. b) Een verklaring
 
 ### Waar / Niet Waar
-1. Re-integratie is alleen voor fysieke problemen.  
-2. Alle bedrijven hebben re-integratiebeleid.  
-3. Mentale problemen zijn makkelijker dan fysieke problemen.  
+1. Marie De Hert is een schrijver. (Niet waar)
+2. Marie had last van een paniekstoornis. (Waar)
+3. Marie vond meteen een oplossing voor haar problemen. (Niet waar)
 
 #### Antwoorden
-1. Niet waar  
-2. Niet waar  
+1. Niet waar
+2. Waar
 3. Niet waar<｜begin▁of▁sentence｜>

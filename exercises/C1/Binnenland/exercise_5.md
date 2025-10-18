@@ -1,65 +1,57 @@
-# Het organiseren van een demonstratie met F-35's en drones wordt uitgesteld
+# An Olaerts over de eerste roman die ze ooit las
 
-[Vereenvoudigde titel]
-
-## Samenvatting
-[Boven het luchtruim van Brussel zal vrijdag niet tijdelijk gesloten worden voor een demonstratie met F-35-straaljagers en de nieuwe drones van de luchtmacht. Minister van Defensie Theo Francken zegt dat dit evenement niet doorgaat; het is niet het juiste moment en niet de juiste plaats.]
+An Olaerts las haar eerste roman toen ze zeven jaar oud was. Jaren later ontdekte ze dat het boek eigenlijk een verkapt seksverhaal was.
 
 ## Woordenschatuitbreiding
 
-### Woordlijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **luchtruim** | de lucht boven een bepaald gebied, waar vliegtuigen doorheen vliegen |
-| **demonstratie** | een evenement waarbij iets wordt getoond of gepresenteerd aan het publiek |
-| **defensie** | de bescherming van een land tegen aanvallen van buitenaf |
-| **minister** | een persoon die een belangrijk onderdeel van de overheid leidt |
-| **organiseren** | plannen en regelen dat iets gebeurt |
+| **roman** | een lang verhalend boek, meestal met diepgaande personages en plot |
+| **ontdekken** | iets vinden of leren dat niet bekend was |
+| **vermomd** | verborgen of vermomd, zodat het niet direct duidelijk is |
+| **seksueel** | met betrekking tot seks, de fysieke daad van intimiteit |
+| **vertelling** | een verhaal of verhaal dat verteld wordt |
 
-### Vul de lege plekken in
-
-1. De minister van Defensie zei dat de ___ niet doorgaat omdat het niet het juiste moment is.
-2. Het ___ boven Brussel zou tijdelijk gesloten worden voor de demonstratie.
-3. De minister van Defensie is verantwoordelijk voor de ___ van het land.
+### Vul-in-de-leegte
+1. An Olaerts las haar eerste ___ toen ze zeven was.
+2. Toen ze ouder was, ontdekte ze dat het boek eigenlijk een ___ seksverhaal was.
+3. Het verhaal was niet wat het leek; het was ___.
 
 #### Oplossingen
-1. demonstratie
-2. luchtruim
-3. defensie
+1. roman
+2. vermomde
+3. een seksverhaal
 
 ### Meerkeuzevragen
-
-1. Wat is een 'demonstratie' in deze context?
-   a) een protest
-   b) een militaire oefening
-   c) een presentatie of show
-   d) een soort feest
-
-2. Waarom wordt de demonstratie niet gehouden?
-   a) Omdat de minister ziek is.
-   b) Omdat het niet het juiste moment en de juiste plaats is.
-   c) Omdat er geen geld is.
-   d) Omdat de minister op vakantie is.
-
-3. Wat betekent 'defensie'?
-   a) De bescherming van een land tegen aanvallen.
-   b) De aanval op een ander land.
-   c) De economie van een land.
-   d) De cultuur van een land.
+1. Wat ontdekte An Olaerts over het boek jaren later?
+   a) Het was een sprookje.
+   b) Het was een kookboek.
+   c) Het was eigenlijk een seksverhaal.
+   d) Het was een sciencefictionverhaal.
+2. Hoe oud was An Olaerts toen ze het boek voor het eerst las?
+   a) zeventien
+   b) zeven
+   c) zevenentwintig
+   d) vijf
+3. Wat betekent "vermomd" in deze context?
+   a) het is vermoeiend
+   b) het is verborgen of vermomd
+   c) het is zeer duidelijk
+   d) het is saai en saai
 
 #### Antwoorden
-1. c
-2. b
-3. a
+1. c) Het was eigenlijk een seksverhaal.
+2. b) zeven
+3. b) het is verborgen of vermomd
 
 ### Waar / Niet Waar
-
-1. De demonstratie met F-35's en drones gaat door zoals gepland.
-2. Minister Francken is verantwoordelijk voor de defensie.
-3. Het luchtruim boven Brussel werd volledig gesloten voor een dag.
+1. An Olaerts las haar eerste roman toen ze zeven was.
+2. Het boek was een spannend avonturenverhaal.
+3. An Olaerts ontdekte later dat het boek een diepere betekenis had.
 
 #### Antwoorden
-1. Niet waar
-2. Waar
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Waar
+2. Niet Waar (het was een seksverhaal)
+3. Waar

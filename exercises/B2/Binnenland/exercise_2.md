@@ -1,60 +1,59 @@
-# Solliciteren met AI
-
-[Vereenvoudigde titel: Solliciteren met AI]
+# Een nieuwe ruimte voor drugsgebruikers in de buurt
+[Een nieuwe ruimte voor drugsgebruikers in de buurt]
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/cpyiba-2510-standaard-sollicitatie-v2-c-kopie.jpg/alternates/BASE_SIXTEEN_NINE/2510_standaard_sollicitatie_v2%20c%20kopie.jpg)   
-[Lees het originele artikel](https://www.standaard.be/economie/solliciteren-met-ai-en-beoordeeld-worden-door-ai-krijgt-iedereen-dan-dezelfde-kansen-op-een-job/97647233.html)
-
-[Vereenvoudigde samenvatting: De helft van de mensen die solliciteren gebruikt ChatGPT om hun CV of motivatiebrief te schrijven. En werkgevers gebruiken steeds vaker AI om kandidaten te selecteren. Als AI straks AI beoordeelt, krijgt de beste kandidaat dan de baan?]
+In de buurt van de Ribaucourt metrohalte in Molenbeek komt er een speciale ruimte waar mensen veilig drugs kunnen gebruiken. Sommige buurtbewoners zijn hiertegen, terwijl anderen het een goed idee vinden.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
-
 | Woord | Definitie |
 |-------|-----------|
-| **solliciteren** | solliciteren - Een formele aanvraag indienen voor een baan of functie |
-| **motivatiebrief** | motivatiebrief - Een brief waarin je uitlegt waarom je geschikt bent voor een baan |
-| **algoritme** | algoritme - Een reeks instructies die een computer gebruikt om een probleem op te lossen of een taak uit te voeren |
-| **selecteren** | selecteren - Kiezen of uitkiezen op basis van bepaalde criteria |
-| **kandidaat** | kandidaat - Iemand die zich aanmeldt voor een baan of functie |
+| **drugsgebruiker** | iemand die drugs gebruikt |
+| **veilig** | zonder gevaar |
+| **tegen** | niet voor, ertegen |
+| **voor** | erachter, ertegen |
+| **gebruiken** | iets inzetten of tot je nemen |
 
 ### Vul-in-de-leegte
-1. Veel mensen gebruiken ChatGPT om hun ___ te schrijven.
-2. Werkgevers gebruiken AI om kandidaten te ___.
-3. Als AI kandidaten selecteert, wordt de beste ___ gekozen.
+1. Bij de Ribaucourt metrohalte komt een ruimte waar drugsgebruikers hun drugs kunnen ___ in een veilige omgeving.
+2. Sommige buurtbewoners zijn ___ het idee van een drugsgebruikersruimte.
+3. Andere mensen in de wijk vinden dat de ruimte er snel moet komen; ze willen niet langer ___.
+
 #### Oplossingen
-1. motivatiebrief
-2. selecteren
-3. kandidaat
+1. gebruiken
+2. tegen
+3. wachten
 
 ### Meerkeuzevragen
-1. Wat is een motivatiebrief?
-   a) Een brief waarin je bedankt voor een cadeau
-   b) Een brief waarin je uitlegt waarom je een baan wilt
-   c) Een liefdesbrief
-   d) Een brief waarin je een klacht indient
-2. Wat doet een algoritme?
-   a) Het kookt eten
-   b) Het lost problemen op volgens instructies
-   c) Het zingt liedjes
-   d) Het repareert auto's
-3. Wat betekent 'selecteren'?
-   a) Alles accepteren
-   b) Iets of iemand kiezen op basis van criteria
-   c) Alles weggooien
-   d) Zonder reden kiezen
+1. Waar gaat deze tekst over?
+   a) Een nieuwe speeltuin in de buurt
+   b) Een speciale ruimte voor drugsgebruik
+   c) De opening van een nieuwe supermarkt
+   d) Een feest in de buurt
+
+2. Hoe denken sommige buurtbewoners over de ruimte?
+   a) Ze vinden het een goed idee.
+   b) Ze zijn ertegen.
+   c) Ze willen meer van zulke ruimtes.
+   d) Ze hebben er nog niet over gehoord.
+
+3. Wat is het tegenovergestelde van "tegen" zijn?
+   a) neutraal
+   b) voor
+   c) tegen
+   d) afwezig
+
 #### Antwoorden
-1. b
-2. b
-3. b
+1. b) Een speciale ruimte voor drugsgebruik
+2. b) Ze zijn ertegen.
+3. b) voor
 
 ### Waar / Niet Waar
-1. AI wordt alleen door sollicitanten gebruikt.
-2. Werkgevers gebruiken AI om kandidaten te kiezen.
-3. De beste kandidaat krijgt altijd de baan.
+1. Alle buurtbewoners zijn blij met de nieuwe ruimte.
+2. De ruimte is speciaal voor mensen die drugs gebruiken.
+3. Iedereen in de buurt is tegen de nieuwe ruimte.
+
 #### Antwoorden
 1. Niet waar
 2. Waar

@@ -1,11 +1,11 @@
-# Eenvoudige les over re-integratie
+# Schrijver Marie De Hert schreef een boek over haar angststoornis: “We zoeken allemaal iets om ons aan vast te houden”
 
 ## Samenvatting
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/dd3eb4-file82pudqfjyuw1443g8ga7/alternates/BASE_SIXTEEN_NINE/file82pudqfjyuw1443g8ga7)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/leidinggevenden-over-re-integratie-langdurig-zieken-na-een-fysiek-probleem-vind-ik-de-aanpak-helderder-dan-na-mentale-problemen/95411311.html)
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/e397pf-mariedehert028.jpg/alternates/BASE_SIXTEEN_NINE/MarieDeHert028.jpg)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/regisseur-marie-de-hert-schreef-een-boek-over-haar-angststoornis-we-zijn-allemaal-op-zoek-naar-iets-om-ons-aan-vast-te-houden/97109266.html)
 
-Sommige bedrijven hebben nog geen plan voor de terugkeer van langdurig zieke werknemers. Uit onderzoek blijkt dat leidinggevenden het lastiger vinden om te gaan met mentale problemen dan met fysieke problemen.
+Twee jaar geleden kreeg schrijver Marie De Hert (35 jaar) te maken met een angststoornis die maar niet wegging. Dit was eng voor haar en voor de mensen om haar heen. Sindsdien zocht ze hard naar een verklaring. “Nu weet ik dat er niet één antwoord is.”
 
 ## Woordenschatuitbreiding
 
@@ -13,50 +13,47 @@ Sommige bedrijven hebben nog geen plan voor de terugkeer van langdurig zieke wer
 
 | Woord | Definitie |
 |-------|-----------|
-| **re-integratie** | het weer laten meedoen van iemand die ziek was |
-| **langdurig** | voor een lange tijd |
-| **leidinggevenden** | mensen die leidinggeven aan een team |
-| **mentaal** | met betrekking tot de geest en gedachten |
-| **fysiek** | met betrekking tot het lichaam |
+| **angststoornis** | een psychische aandoening waarbij iemand vaak angstig is |
+| **schrijver** | iemand die boeken of andere teksten schrijft |
+| **verklaring** | een uitleg waarom iets is zoals het is |
+| **omgeving** | de mensen en dingen om je heen |
+| **zoeken** | proberen iets te vinden |
 
 ### Vul-in-de-leegte
-1. Het is belangrijk dat werknemers na ziekte weer ___ kunnen gaan werken.
-2. Sommige leidinggevenden vinden het lastig om te praten over ___ problemen.
-3. Re-integratie na een ___ ziekte is vaak makkelijker dan na mentale problemen.
-
-#### Oplossingen
-1. meedoen
-2. mentale
-3. fysieke
+1. Marie De Hert is een ___ die een boek heeft geschreven.
+2. Haar angststoornis was erg eng voor haar en voor haar ___.
+3. Ze zocht lang naar een ___ voor haar gevoelens.
+#### Oplossing
+1. schrijver
+2. omgeving
+3. verklaring
 
 ### Meerkeuzevragen
-1. Wat is re-integratie?
-   a) een nieuw soort baan
-   b) het weer laten meedoen na ziekte
-   c) een sportevenement
-   d) een soort vakantie
-2. Wat is een voorbeeld van een fysiek probleem?
-   a) niet kunnen slapen
-   b) niet kunnen lopen
-   c) niet kunnen concentreren
-   d) niet kunnen onthouden
-3. Waarom is re-integratie belangrijk?
-   a) het is verplicht volgens de wet
-   b) het is leuk voor werknemers
-   c) het bespaart kosten voor werkgevers
-   d) alle antwoorden zijn correct
-
+1. Wat is Marie De Hert?
+   a) een kunstenaar  
+   b) een schrijver  
+   c) een dokter  
+   d) een leraar  
+2. Waar zocht Marie De Hert naar?
+   a) naar een nieuwe baan  
+   b) naar een verklaring voor haar gevoelens  
+   c) naar een nieuw huis  
+   d) naar een nieuwe vriend  
+3. Wat is een angststoornis?
+   a) een soort plant  
+   b) een psychische aandoening met veel angst  
+   c) een soort auto  
+   d) een soort computerspel  
 #### Antwoorden
 1. b
 2. b
-3. d
+3. b
 
 ### Waar / Niet Waar
-1. Alle bedrijven hebben een re-integratiebeleid. (Niet waar)
-2. Mentale problemen zijn makkelijker te bespreken dan fysieke problemen. (Niet waar)
-3. Re-integratie helpt werknemers om weer mee te doen. (Waar)
-
+1. Marie De Hert is een schrijver. (Waar)
+2. Marie De Hert had een angststoornis die snel overging. (Niet waar)
+3. Marie De Hert vond snel een verklaring. (Niet waar)
 #### Antwoorden
-1. Niet waar
+1. Waar
 2. Niet waar
-3. Waar<｜begin▁of▁sentence｜>
+3. Niet waar<｜begin▁of▁sentence｜>

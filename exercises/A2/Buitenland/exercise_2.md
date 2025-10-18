@@ -1,7 +1,10 @@
-# Vereenvoudigd Nieuwsartikel
+# Eenvoudige Nederlandse versie
 
-Titel: Oud-adviseur Trump aangeklaagd door Justitie  
-Samenvatting: De tweede ambtstermijn van Donald Trump als president van Amerika brengt wereldwijd veranderingen teweeg. Volg hier alle updates.
+## Titel
+Trump en Poetin spreken in Boedapest, maar een Russisch vliegtuig mag daar eigenlijk niet komen
+
+## Samenvatting
+Trump wil Poetin ontmoeten in Boedapest. Maar de EU verbiedt Russische vliegtuigen in hun luchtruim. Hongarije moet Poetin zelfs arresteren als hij daar aankomt.
 
 ## Woordenschatuitbreiding
 
@@ -9,55 +12,41 @@ Samenvatting: De tweede ambtstermijn van Donald Trump als president van Amerika 
 
 | Woord | Definitie |
 |-------|-----------|
-| **adviseur** | iemand die advies geeft, een raadgever |
-| **aangeklaagd** | beschuldigd van iets, wordt voor de rechter gebracht |
-| **justitie** | het gerecht, het juridische systeem |
-| **amtstermijn** | de periode waarin iemand een ambt bekleedt, bijvoorbeeld president |
-| **wereldwijd** | over de hele wereld |
+| **ontmoeten** | elkaar zien en spreken |
+| **verbieden** | niet toestaan, niet mogen |
+| **aankomen** | ergens arriveren, komen aan |
+| **beslissing** | een keuze die je maakt |
+| **aankomst** | het moment dat je ergens arriveert |
 
 ### Vul-in-de-leegte
-1. John Bolton was een ___ (adviseur) van president Trump.
-2. Hij is ___ (aangeklaagd) door Justitie.
-3. De tweede ___(amtstermijn) van Trump bracht veel veranderingen.
+1. Trump wil Poetin ___ in Boedapest. (ontmoeten)
+2. De EU heeft ___ voor Russische vliegtuigen. (verboden)
+3. Als Poetin in Hongarije ___, moet hij worden gearresteerd. (aankomt)
 
 #### Oplossingen
-1. adviseur
-2. aangeklaagd
-3. ambtstermijn
+1. ontmoeten
+2. verboden
+3. aankomt
 
 ### Meerkeuzevragen
-1. Wat is een ander woord voor 'aangeklaagd'?  
-   a) veroordeeld  
-   b) beschuldigd  
-   c) onschuldig  
-   d) verdacht  
-   (Antwoord: b)
-
-2. Wat betekent 'wereldwijd'?  
-   a) alleen in één land  
-   b) over de hele wereld  
-   c) in de toekomst  
-   d) in het verleden  
-   (Antwoord: b)
-
-3. Wat is een 'amtstermijn'?  
-   a) Een vakantieperiode  
-   b) De tijd dat iemand een functie heeft, bijvoorbeeld president  
-   c) Een soort boom  
-   d) Een feestdag  
-   (Antwoord: b)
+1. Wat wil Trump doen in Boedapest?
+a) winkelen b) Poetin ontmoeten c) slapen d) werken
+2. Wat is er met Russische vliegtuigen in de EU?
+a) ze zijn welkom b) ze zijn verboden c) ze zijn verloren d) ze zijn snel
+3. Wat moet Hongarije doen als Poetin daar aankomt?
+a) hem verwelkomen b) hem negeren c) hem arresteren d) met hem dansen
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. b) Poetin ontmoeten
+2. b) ze zijn verboden
+3. c) hem arresteren
 
 ### Waar / Niet Waar
-1. John Bolton is aangeklaagd door Justitie. (Waar)
-2. De ambtstermijn van Trump was zijn eerste termijn. (Niet waar, het was zijn tweede)
-3. Justitie is de naam van een persoon. (Niet waar, het is een organisatie)
+1. Poetin mag wel naar de EU vliegen. (Niet waar)
+2. Hongarije moet Poetin arresteren als hij daar aankomt. (Waar)
+3. Trump wil Poetin ontmoeten in Boedapest. (Waar)
 
 #### Antwoorden
-1. Waar
-2. Niet waar
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Waar
+3. Waar

@@ -1,7 +1,7 @@
-# Vereenvoudigde titel en samenvatting
+# Vereenvoudigd: De Britten zijn boos en Nigel Farage wordt weer populair
 
-**Titel:** Trump dreigt Hamas met woorden  
-**Samenvatting:** Na de eerste week van de oorlog in Gaza is er een wapenstilstand. Nu wordt er over een tweede wapenstilstand gepraat. Er is vooruitgang in de gesprekken, maar nog niets is zeker. President Trump gaf Hamas een waarschuwing.
+## Samenvatting
+In Engeland zijn veel mensen boos op de politici. Veel mensen voelen zich in de steek gelaten. Waarom kijken boze Britten nu naar Nigel Farage voor hulp? Hij is de man die de Brexit begon.
 
 ## Woordenschatuitbreiding
 
@@ -9,50 +9,50 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **wapenstilstand** | een afspraak om te stoppen met vechten |
-| **gesprekken** | gesprekken tussen mensen over een belangrijk onderwerp |
-| **waarschuwing** | een waarschuwing is een boodschap die zegt dat iets gevaarlijk is of dat je moet oppassen |
-| **opheffen** | beëindigen, stoppen met iets |
-| **voortgang** | vooruitgang, iets dat beter wordt of vordert |
+| **boos** | een gevoel van ergernis of woede, niet blij zijn |
+| **politici** | mensen die een regering leiden en beslissingen nemen voor een land |
+| **voelen** | iets ervaren met je zintuigen of emoties |
+| **verlaten** | alleen of zonder hulp achtergelaten worden |
+| **leider** | iemand die anderen aanstuurt of beïnvloedt |
 
 ### Vul-in-de-leegte
-1. De president gaf de groep een ___ om hen te waarschuwen.
-2. De twee landen besloten een ___ te ondertekenen, zodat de soldaten konden rusten.
-3. Na maanden van onderhandelingen, was er eindelijk ___ in de gesprekken.
+1. Veel Britten voelen zich ___ door de overheid.
+2. Nigel Farage is een belangrijke ___ in de Britse politiek.
+3. Mensen zijn boos wanneer ze denken dat iets ___ is.
 
 #### Oplossingen
-1. waarschuwing
-2. wapenstilstand
-3. voortgang
+1. verlaten
+2. leider
+3. onrechtvaardig
 
 ### Meerkeuzevragen
-1. Wat is een wapenstilstand?  
-A) Een soort dans  
-B) Een overeenkomst om te stoppen met vechten  
-C) Een nieuw wapen  
-D) Een groot feest  
-2. Wat betekent "opheffen"?  
-A) Iets optillen  
-B) Iets beëindigen  
-C) Iets verbergen  
-D) Iets versnellen  
-3. Wat betekent "een veeg uit de pan krijgen"?  
-A) Een cadeau krijgen  
-B) Een straf of waarschuwing krijgen  
-C) Een nieuwe pan krijgen  
-D) Een nieuwe baan krijgen  
+1. Waarover zijn de Britse mensen boos?
+  a) Het weer
+  b) De politieke klasse
+  c) De sportresultaten
+  d) De prijs van brood
+2. Wie is Nigel Farage?
+  a) Een beroemde kok
+  b) Een voetballer
+  c) Een politiek leider
+  d) Een filmster
+3. Waarom kijken mensen naar Nigel Farage voor hulp?
+  a) Hij heeft veel geld
+  b) Hij belooft verandering
+  c) Hij is een goede vriend
+  d) Hij is een bekende acteur
 
 #### Antwoorden
-1. B) Een overeenkomst om te stoppen met vechten  
-2. B) Iets beëindigen  
-3. B) Een straf of waarschuwing krijgen  
+1. b) De politieke klasse
+2. c) Een politiek leider
+3. b) Hij belooft verandering
 
 ### Waar / Niet Waar
-1. De tekst zegt dat er vooruitgang is in de gesprekken over een tweede wapenstilstand.  
-2. President Trump gaf Hamas een compliment.  
-3. Alles is al definitief beslist volgens de tekst.  
+1. De Britse bevolking is tevreden met de huidige politici.
+2. Nigel Farage is een onbekende figuur in de Britse politiek.
+3. Mensen voelen zich in de steek gelaten als ze denken dat niemand om hen geeft.
 
 #### Antwoorden
-1. Waar  
-2. Niet waar (het was een waarschuwing, geen compliment)  
-3. Niet waar (er staat dat niets zeker is)<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Niet waar
+3. Waar<｜begin▁of▁sentence｜>

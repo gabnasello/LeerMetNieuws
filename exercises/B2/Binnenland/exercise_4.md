@@ -1,59 +1,61 @@
-# Het uitstel van De Wever kost ons alvast 7.000 euro
+# Angststoornissen
 
-Bart De Wever heeft zijn terugkeer als minister-president uitgesteld. Dat kost de overheid al 7.000 euro.
+[Vereenvoudigde titel: Angststoornissen]
 
 ## Samenvatting
-Bart De Wever is een belangrijke politicus. Hij heeft zijn terugkeer als minister-president uitgesteld. Dit uitstel kost de overheid al 7.000 euro.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/e397pf-mariedehert028.jpg/alternates/BASE_SIXTEEN_NINE/MarieDeHert028.jpg)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/regisseur-marie-de-hert-schreef-een-boek-over-haar-angststoornis-we-zijn-allemaal-op-zoek-naar-iets-om-ons-aan-vast-te-houden/97053116.html)
+
+[Vereenvoudigde samenvatting: Twee jaar geleden had regisseur Marie De Hert (35) last van paniekaanvallen. Die paniekaanvallen gingen niet weg. Dat was eng voor haar en voor de mensen om haar heen. Sindsdien zocht ze hard naar een verklaring. “Nu weet ik dat er niet één antwoord is.”]
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
+
 | Woord | Definitie |
 |-------|-----------|
-| **politicus** | iemand die in de politiek werkt |
-| **minister-president** | de leider van de regering van een gebied |
-| **uitstel** | iets later doen dan gepland |
-| **kosten** | geld dat je moet betalen |
-| **overheid** | de organisatie die een land of gebied bestuurt |
+| **angststoornis** | een psychische aandoening waarbij iemand veel angst ervaart |
+| **paniekstoornis** | een angststoornis waarbij iemand plotselinge paniekaanvallen heeft |
+| **regisseur** | iemand die de leiding heeft over het maken van een film of toneelstuk |
+| **omgeving** | de mensen en dingen om je heen |
+| **verklaring** | een uitleg over waarom iets is zoals het is |
 
 ### Vul-in-de-leegte
-1. De minister-president is de leider van de ___.
-2. Uitstel betekent dat je iets later doet dan ___.
-3. De overheid betaalt voor diensten zoals onderwijs en ___.
-
+1. Marie De Hert is een __ die een boek schreef over haar ervaringen.
+2. Ze had last van een __, wat betekent dat ze onverwacht heel erg angstig werd.
+3. Ze zocht naar een __ voor haar gevoelens, om te begrijpen waarom ze zich zo voelde.
 #### Oplossingen
-1. regering
-2. gepland
-3. gezondheidszorg
+1. regisseur
+2. paniekstoornis
+3. verklaring
 
 ### Meerkeuzevragen
-1. Wat is een 'politicus'?
-   a) iemand die in de politiek werkt  
-   b) iemand die boeken schrijft  
-   c) iemand die auto's repareert  
-   d) iemand die in een supermarkt werkt  
-2. Wat betekent 'uitstel'?  
-   a) iets eerder doen dan gepland  
-   b) iets later doen dan gepland  
-   c) iets niet doen  
-   d) iets heel snel doen  
-3. Wat zijn 'kosten'?  
-   a) de tijd die iets kost  
-   b) het geld dat je moet betalen  
-   c) de moeite die iets kost  
-   d) de mensen die je kent  
-
+1. Wat is een angststoornis?
+   a) Een soort sport
+   b) Een psychische aandoening met veel angst
+   c) Een soort feest
+   d) Een type auto
+2. Wat deed Marie De Hert nadat ze paniekaanvallen kreeg?
+   a) Ze stopte met werken
+   b) Ze schreef een boek erover
+   c) Ze verhuisde naar een andere stad
+   d) Ze stopte met praten
+3. Waar is Marie De Hert een voorbeeld van?
+   a) Iemand die een boek schrijft
+   b) Iemand die een film regisseert
+   c) Iemand die met angststoornissen leeft
+   d) Alle bovenstaande
 #### Antwoorden
-1. a) iemand die in de politiek werkt  
-2. b) iets later doen dan gepland  
-3. b) het geld dat je moet betalen  
+1. b
+2. b
+3. d
 
 ### Waar / Niet Waar
-1. De minister-president is de leider van de regering.  
-2. Uitstel betekent dat je iets eerder doet.  
-3. De overheid betaalt alleen voor onderwijs.  
-
+1. Marie De Hert is een schrijver die over auto's schrijft. (Niet waar)
+2. Angststoornissen zijn zeldzaam en komen bijna nooit voor. (Niet waar)
+3. Marie De Hert vond uiteindelijk een verklaring voor haar gevoelens. (Waar)
 #### Antwoorden
-1. Waar  
-2. Niet waar  
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Niet waar
+3. Waar

@@ -1,11 +1,7 @@
-# Eenvoudig Nederlands: Trump praat met Hamas
+# Eenvoudige Titel en Samenvatting
 
-## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/1teids-12456503.jpg/alternates/BASE_SIXTEEN_NINE/12456503.jpg)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/wispelturige-trump-spreekt-dreigende-taal-tegen-hamas/98107265.html)
-
-Er wordt gepraat over een wapenstilstand in Gaza. President Trump praat met Hamas, maar niets is zeker.
+Titel: De Britten zijn boos. Nigel Farage krijgt de woede van het volk.
+Samenvatting: In Engeland zijn veel mensen boos op de regering. Veel mensen voelen zich in de steek gelaten. Waarom vertrouwen boze Britten nu opnieuw op Nigel Farage? Hij is de man die de Brexit begon.
 
 ## Woordenschatuitbreiding
 
@@ -13,52 +9,47 @@ Er wordt gepraat over een wapenstilstand in Gaza. President Trump praat met Hama
 
 | Woord | Definitie |
 |-------|-----------|
-| **praat** | zegt woorden tegen iemand |
-| **zeker** | het is waar, het is niet onzeker |
-| **vrede** | geen oorlog, rust |
-| **stilstand** | alles stopt, niets beweegt |
-| **Trump** | de president van Amerika |
+| **boos** | kwaad, niet blij |
+| **regering** | de groep mensen die een land bestuurt |
+| **vertrouwen** | geloven dat iemand goed is of iets goed doet |
+| **beginnen** | ergens mee starten, starten |
+| **volk** | alle mensen van een land of groep |
 
 ### Vul-in-de-leegte
-1. President Trump ___ met Hamas.  
-2. Is er zekerheid over de vrede? Nog ___.  
-3. De wapenstilstand zorgt voor ___.  
-
-#### Oplossing
-1. praat  
-2. niet  
-3. vrede  
+1. Veel mensen zijn ___ op de regering omdat ze zich vergeten voelen.
+2. Nigel Farage is de persoon die de Brexit ___ heeft.
+3. Sommige Britten ___ nu weer op Nigel Farage om hen te helpen.
+#### Oplossingen
+1. boos
+2. begon
+3. vertrouwen
 
 ### Meerkeuzevragen
-1. Wat is “vrede”?  
-a) een soort muziek  
-b) een toestand zonder oorlog  
-c) de naam van een stad  
-d) een soort eten  
-
-2. Wat betekent “stilstand”?  
-a) heel stil  
-b) helemaal niet bewegen  
-c) hard rennen  
-d) heel luid  
-
-3. Waar is Trump de president?  
-a) van Nederland  
-b) van Duitsland  
-c) van Amerika  
-d) van China  
-
+1. Waarover zijn veel Britten boos?
+   a) Het weer is te warm
+   b) Ze voelen zich vergeten door de regering
+   c) Ze hebben te veel geld
+   d) Ze willen meer vakantie
+2. Wat is de Brexit?
+   a) Een nieuwe supermarktketen
+   b) Een plan om uit de Europese Unie te gaan
+   c) Een nieuwe sport
+   d) Een soort voedsel
+3. Waarom vertrouwen sommige Britten op Farage?
+   a) Hij belooft ze veel geld
+   b) Hij begreep hun woede en wilde verandering
+   c) Hij geeft iedereen gratis eten
+   d) Hij is een beroemde zanger
 #### Antwoorden
-1. b  
-2. b  
-3. c  
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Trump praat met Hamas.  
-2. Alles is al zeker geworden.  
-3. Er is nu vrede in Gaza.  
-
+1. Alle Britten zijn boos op hun regering. (Niet Waar)
+2. Nigel Farage begon de Brexit. (Waar)
+3. Iedereen in het VK vertrouwt nu op Farage. (Niet Waar)
 #### Antwoorden
-1. Waar  
-2. Niet waar  
-3. Niet waar
+1. Niet Waar
+2. Waar
+3. Niet Waar<｜begin▁of▁sentence｜>

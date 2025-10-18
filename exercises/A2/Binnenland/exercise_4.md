@@ -1,61 +1,55 @@
-# Een vertraging kost duizenden euro's
-
-[Titel vereenvoudigd: Een vertraging kost duizenden euro's]
+# Mentaal welzijn: Marie De Hert deelt haar verhaal
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/8dm4go-file82r9tqnhep4ucpp4keh/alternates/BASE_SIXTEEN_NINE/file82r9tqnhep4ucpp4keh)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/het-uitstel-van-de-wever-kost-ons-alvast-7.000-euro/98019743.html)
-
-[Samen vatting vereenvoudigd: Een politicus stelt iets uit, en dat kost de stad veel geld. Dit artikel vertelt over die kosten en waarom ze zijn ontstaan.]
+Marie De Hert is een regisseur. Twee jaar geleden kreeg ze last van paniekaanvallen. Dat was eng voor haar en voor de mensen om haar heen. Sinds die tijd heeft ze hard gezocht naar een verklaring. Nu weet ze dat er niet één antwoord is.
 
 ## Woordenschatuitbreiding
 
-### Woordenschat
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **vertraging** | iets dat later komt dan gepland |
-| **kosten** | geld dat je moet betalen |
-| **politicus** | iemand die in de politiek werkt |
-| **stad** | een grote plaats waar mensen wonen |
-| **artikel** | een geschreven tekst in een krant |
+| **regisseur** | iemand die een film of toneelstuk maakt |
+| **paniekaanval** | een moment van heel erg veel angst |
+| **verklaring** | een uitleg waarom iets is zoals het is |
+| **gezondheid** | hoe goed je lichaam en geest werken |
+| **zoeken** | proberen iets te vinden |
 
 ### Vul-in-de-leegte
-1. Een __ kost veel geld.
-2. De __ werkt in de politiek.
-3. De __ is een grote plaats.
+1. Marie De Hert is een ______ die een boek schreef.
+2. Ze kreeg last van ______, wat heel eng was.
+3. Ze zocht naar een ______ voor wat er gebeurde.
 #### Oplossingen
-1. vertraging
-2. politicus
-3. stad
+1. regisseur
+2. paniekaanvallen
+3. verklaring
 
 ### Meerkeuzevragen
-1. Wat is een vertraging?
-   a) iets dat op tijd komt  
-   b) iets dat later komt dan gepland  
-   c) iets dat nooit gebeurt  
-   d) iets dat altijd op tijd is  
-2. Wat zijn kosten?
-   a) dingen die je koopt  
-   b) geld dat je moet betalen  
-   c) dingen die je gratis krijgt  
-   d) dingen die je niet nodig hebt  
-3. Waar woont een politicus?
-   a) in een klein dorp  
-   b) in een grote stad  
-   c) in een bos  
-   d) in een andere land  
+1. Wat is Marie De Hert?
+   a) een schrijfster  
+   b) een regisseur  
+   c) een dokter  
+   d) een lerares  
+2. Waar zocht Marie naar?
+   a) een nieuwe baan  
+   b) een verklaring voor haar angst  
+   c) een verloren voorwerp  
+   d) een vakantiebestemming  
+3. Waarover schreef Marie een boek?
+   a) haar vakantie  
+   b) haar angststoornis  
+   c) haar nieuwe auto  
+   d) haar favoriete film  
 #### Antwoorden
 1. b
 2. b
 3. b
 
 ### Waar / Niet Waar
-1. Een vertraging kost geld.  
-2. Een politicus woont in een klein dorp.  
-3. Kosten zijn dingen die je gratis krijgt.  
+1. Marie De Hert is een regisseur.
+2. Marie kreeg nooit last van paniekaanvallen.
+3. Marie's verhaal helpt anderen.
 #### Antwoorden
 1. Waar
 2. Niet waar
-3. Niet waar<｜begin▁of▁sentence｜>
+3. Waar

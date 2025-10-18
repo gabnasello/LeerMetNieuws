@@ -1,9 +1,13 @@
-# Geweld in Peru
+# Een zaak uit het verleden
 
-[Titels en samenvatting in eenvoudig Nederlands]
+De voormalige Amerikaanse president Donald Trump laat zijn politieke tegenstander John Bolton vervolgen. Dit laat zien dat Trump wraak wil nemen op mensen die hij niet mag.
 
-**Titel:** Nieuwe Peruaanse regering roept noodtoestand uit in Lima na dodelijke golf van geweld  
-**Samenvatting:** Bij jongerenprotesten in Peru is een dode gevallen en raakten zeker honderden gewond. De betogers komen al weken op straat tegen de corruptie en de onveiligheid. De overgangsregering heeft de noodtoestand afgekondigd in de hoofdstad Lima.
+## Samenvatting
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/b0ibi6-bolton-indict-3.jpg/alternates/BASE_SIXTEEN_NINE/BOLTON%20INDICT%203.jpg)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/vervolging-john-bolton-toont-het-meer-dan-ooit-trumps-wraak-is-puur-persoonlijk/98265777.html)
+
+Donald Trump is de voormalige president van Amerika. Hij laat nu een oude medewerker, John Bolton, vervolgen. Dit komt omdat Bolton ooit iets negatiefs over Trump zei. Trump wil wraak nemen. Dit laat zien dat Trump zijn persoonlijke gevoelens laat gelden, zelfs in de politiek.
 
 ## Woordenschatuitbreiding
 
@@ -11,50 +15,47 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **protesten** | acties van mensen die iets niet goed vinden en dat laten zien |
-| **corruptie** | als mensen in de regering geld of macht voor zichzelf nemen, niet voor het land |
-| **noodtoestand** | een speciale situatie waarin de regering extra macht heeft om problemen op te lossen |
-| **geweld** | het gebruiken van fysieke kracht om pijn te veroorzaken of schade toe te brengen |
-| **regering** | de groep mensen die een land of gebied bestuurt |
+| **president** | de leider van een land |
+| **vervolgen** | iemand voor de rechter brengen omdat hij iets verkeerds zou hebben gedaan |
+| **medewerker** | iemand met wie je samenwerkt |
+| **gevoelens** | emoties zoals blij, boos of verdrietig |
+| **politiek** | alles wat met de regering en het bestuur van een land te maken heeft |
 
 ### Vul-in-de-leegte
-1. In veel landen komen mensen op straat om te protesteren tegen ______ en voor betere leefomstandigheden.
-2. De regering heeft de ______ uitgeroepen, wat betekent dat er speciale maatregelen van kracht zijn.
-3. Het is belangrijk dat de ______ luistert naar de zorgen van de bevolking en transparant handelt.
-
+1. Donald Trump was de _______ van Amerika.
+2. John Bolton was een _______ van Trump, maar nu zijn ze tegenstanders.
+3. Trump laat Bolton vervolgen omdat hij nog steeds _______ heeft over iets uit het verleden.
 #### Oplossingen
-1. corruptie
-2. noodtoestand
-3. regering
+1. president
+2. medewerker  
+3. gevoelens
 
 ### Meerkeuzevragen
-1. Wat is een 'noodtoestand'?
-   a) Een feestelijke gebeurtenis
-   b) Een periode waarin de regering extra bevoegdheden heeft om de orde te herstellen
-   c) Een sportevenement
-   d) Een nieuwe wet die iedereen moet volgen
-2. Waarom protesteren mensen soms?
-   a) Omdat ze willen dat er niets verandert
-   b) Omdat ze ontevreden zijn over bijvoorbeeld corruptie of onveiligheid
-   c) Omdat ze het te warm hebben
-   d) Omdat ze niet weten wat ze moeten doen
-3. Wat is een voorbeeld van geweld?
-   a) Iemand helpen met boodschappen dragen
-   b) Iemand opzettelijk slaan of schoppen
-   c) Samen een liedje zingen
-   d) Iemand een compliment geven
-
+1. Waarom laat Trump Bolton vervolgen?  
+a) Omdat Bolton een goede vriend is  
+b) Omdat Bolton een fout maakte  
+c) Omdat Trump boos is over iets ouds  
+d) Omdat Trump hem wil helpen  
+2. Wat betekent "vervolgen" in deze context?  
+a) Iemand een cadeau geven  
+b) Iemand voor de rechter brengen  
+c) Iemand een baan geven  
+d) Iemand vergeven  
+3. Wat is de hoofdreden volgens de tekst?  
+a) Trump wil macht tonen  
+b) Trump heeft honger  
+c) Trump is boos over iets uit het verleden  
+d) Trump is blij met Bolton  
 #### Antwoorden
-1. b
-2. b
-3. b
+1. c) Omdat Trump boos is over iets ouds  
+2. b) Iemand voor de rechter brengen  
+3. c) Trump is boos over iets uit het verleden  
 
 ### Waar / Niet Waar
-1. De overgangsregering in Peru heeft de noodtoestand afgekondigd in de hoofdstad Lima. [Waar]
-2. Er is niemand gewond geraakt tijdens de protesten in Peru. [Niet waar]
-3. De protesten in Peru zijn pas net begonnen. [Niet waar]
-
+1. Trump is de huidige president van Amerika.  
+2. John Bolton is een vriend van Trump.  
+3. De zaak is gebaseerd op een oude gebeurtenis.  
 #### Antwoorden
-1. Waar
-2. Niet waar
-3. Niet waar
+1. Niet Waar  
+2. Niet Waar  
+3. Waar

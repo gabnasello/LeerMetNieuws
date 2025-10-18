@@ -1,4 +1,11 @@
-# Oefeningen
+# An Olaerts over de eerste roman die ze ooit las: “Meester Zwartrok is een pervers mannetje. En maar zeuren over die gleufjes”
+
+## Samenvatting
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/w36y00-an004.jpg/alternates/BASE_SIXTEEN_NINE/An004.JPG)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/an-olaerts-over-de-eerste-roman-die-ze-ooit-las-meester-zwartrok-is-een-pervers-mannetje.-en-maar-zeuren-over-die-gleufjes/96654301.html)
+
+Schrijfster An Olaerts was zeven jaar oud toen ze haar eerste boek las. Jaren later leest ze 'De mantel van Viola' opnieuw. Het blijkt een verborgen verhaal over seks te zijn.
 
 ## Woordenschatuitbreiding
 
@@ -6,52 +13,47 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **demonstratie** | het laten zien van iets, bijvoorbeeld een vliegshow |
-| **minister** | een belangrijk persoon in de regering |
-| **luchtruim** | de ruimte in de lucht boven een gebied |
-| **defensie** | bescherming van het land |
-| **drones** | onbemande vliegtuigjes die op afstand bestuurd worden |
+| **roman** | een lang verhaal in een boek |
+| **lezen** | kijken naar woorden en ze begrijpen |
+| **schrijfster** | een vrouw die boeken schrijft |
+| **verhaal** | een vertelling over iets wat gebeurd is |
+| **boek** | een ding waar je in kunt lezen, met veel pagina's |
 
 ### Vul-in-de-leegte
-1. De minister van Defensie zei dat de demonstratie niet doorging: "not the ___" (time)
-2. Het luchtruim boven Brussel moest gesloten worden voor de vliegende ___. (drones)
-3. De minister vond het niet het juiste ___ om de show te houden. (moment)
-
-#### Oplossingen
-1. time
-2. drones
-3. moment
+1. An Olaerts las haar eerste ___ toen ze zeven jaar oud was.
+2. 'De mantel van Viola' is een ___ over seks, maar dat zag ze eerst niet.
+3. Een boek dat je leest, noem je ook een ___.
+#### Oplossing
+1. roman
+2. verhaal
+3. boek
 
 ### Meerkeuzevragen
-1. Waarom ging de demonstratie niet door?
-   a) Omdat het te duur was
-   b) Omdat de minister vond dat het moment niet goed was
-   c) Omdat er geen toestemming was
-   d) Omdat het weer te slecht was
-
-2. Wat is de rol van de minister van Defensie?
-   a) Alleen voor defensie
-   b) Alleen voor buitenlandse zaken
-   c) Over de luchtmacht en defensie
-   d) Alleen voor het leger
-
-3. Wat betekent "not the time, not the place"?
-   a) Het is nooit en nergens goed voor
-   b) Het is hier en nu niet geschikt
-   c) Het is altijd en overal goed
-   d) Het is alleen in de avond
-
+1. Wat is 'De mantel van Viola'?  
+  a. een schilderij  
+  b. een gedicht  
+  c. een boek  
+  d. een film  
+2. Hoe oud was An Olaerts toen ze haar eerste roman las?  
+  a. 5  
+  b. 7  
+  c. 10  
+  d. 12  
+3. Wat is 'Meester Zwartrok' in dit artikel?  
+  a. een persoon  
+  b. een dier  
+  c. een boek  
+  d. een plaats  
 #### Antwoorden
-1. b
-2. c
-3. b
+1. c
+2. b
+3. c
 
 ### Waar / Niet Waar
-1. De demonstratie met de F-35's ging wel door.
-2. Het luchtruim boven Brussel werd helemaal afgesloten.
-3. De minister vond het gewoon niet de juiste tijd.
-
+1. An Olaerts las haar eerste roman toen ze 5 jaar oud was.  
+2. 'De mantel van Viola' is eigenlijk een verhaal over seks.  
+3. Er wordt gezegd dat Meester Zwartrok een pervers mannetje is.  
 #### Antwoorden
-1. Niet waar
-2. Niet waar
-3. Waar
+1. Niet Waar
+2. Waar
+3. Waar<｜begin▁of▁sentence｜>

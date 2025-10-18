@@ -1,14 +1,9 @@
+# Het belangrijkste is dat de vijandelijkheden zijn gestopt
 
-# Energiecontrole in Congo
-
-[Vereenvoudigde titel: Controle over stroom in Congo]
+Het belangrijkste is dat de gevechten, bombardementen en vernietiging zijn gestopt. Dat is het enige wat echt telt.
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/lk4nvj-belgaimage-69674339.jpg/alternates/BASE_SIXTEEN_NINE/Belgaimage-69674339.jpg)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/trump-krijgt-stroomschakelaar-voor-congolese-kobaltmijnen-in-handen/97854385.html)
-
-[Vereenvoudigde samenvatting: Een Amerikaans bedrijf gaat een stroomlijn bouwen van Angola naar Congo. Hierdoor krijgt de VS controle over de stroomvoorziening voor belangrijke mijnen. Deze mijnen zijn nodig voor de AI-industrie in de VS.]
+Het wankele bestand in Gaza houdt voorlopig stand. De prijzen dalen en er komt weer een klein beetje hulp de strook binnen, maar voor de inwoners van Gaza is er weinig reden om opgelucht te zijn. "Het herstel zal jaren duren."
 
 ## Woordenschatuitbreiding
 
@@ -16,38 +11,41 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **stroom** | elektriciteit, de flow van elektriciteit |
-| **mijn** | een plaats waar mineralen of metalen uit de grond worden gehaald |
-| **controle** | beheer, zeggenschap over iets |
-| **industrie** | een sector of gebied van economische activiteit |
-| **verbinding** | iets dat twee of meer dingen met elkaar verbindt |
+| **wankel** | onstabiel of onzeker |
+| **bestand** | overeenkomst om gevechten te stoppen |
+| **strook** | gebied (hier: Gaza) |
+| **herstel** | wederopbouw of verbetering |
+| **opluchting** | gevoel van opluchting of verlichting |
 
 ### Vul-in-de-leegte
-1. De nieuwe stroomlijn verbindt Angola met Congo.
-2. De VS wil controle over de stroomvoorziening voor de mijnen.
-3. Deze mijnen zijn belangrijk voor de AI-industrie.
+1. Het wankele bestand is ____, maar het is onzeker of het lang standhoudt.
+2. Ondanks de kleine hoeveelheid hulp voelen de mensen in de ____ weinig opluchting.
+3. Het zal jaren duren voordat ____ volledig is.
+
 #### Oplossingen
-1. de nieuwe stroomlijn
-2. controle
-3. AI-industrie
+1. tijdelijk
+2. strook
+3. herstel
 
 ### Meerkeuzevragen
-1. Wat wordt er gebouwd tussen Angola en Congo?  
-A) een snelweg B) een stroomlijn C) een tunnel D) een brug  
-2. Waarom is controle over de stroomvoorziening belangrijk?  
-A) Voor verlichting B) Voor transport C) Voor de mijnen D) Voor de landbouw  
-3. Welke industrie is afhankelijk van de metalen uit deze mijnen?  
-A) Bouw B) Voedsel C) AI D) Mode  
+1. Wat betekent "wankel" in deze context?
+   a) stevig b) onzeker c) snel d) uitgebreid
+2. Waar verwijst "strook" naar in de tekst?
+   a) een rivier b) een stad c) een gebied d) een gebouw
+3. Welk woord beschrijft het gevoel van de mensen in Gaza?
+   a) vreugde b) opluchting c) wanhoop d) opwinding
+
 #### Antwoorden
-1. B) een stroomlijn
-2. C) Voor de mijnen
-3. C) AI
+1. b) onzeker
+2. c) een gebied
+3. c) wanhoop
 
 ### Waar / Niet Waar
-1. De stroomlijn wordt gebouwd door een Europees bedrijf. (Niet waar)
-2. De mijnen zijn belangrijk voor de computerindustrie. (Waar)
-3. Congo heeft geen natuurlijke hulpbronnen. (Niet waar)
+1. Het bestand in Gaza is stabiel.
+2. De mensen in Gaza voelen zich meteen beter door de hulp.
+3. Het herstel zal snel gaan.
+
 #### Antwoorden
-1. Niet waar
-2. Waar
-3. Niet waar
+1. Niet Waar
+2. Niet Waar
+3. Niet Waar<｜begin▁of▁sentence｜>
