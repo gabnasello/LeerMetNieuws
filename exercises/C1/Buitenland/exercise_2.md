@@ -1,12 +1,7 @@
-# Trump en Poetin ontmoeten elkaar in Boedapest
+# Protest tegen president Trump
 
-**Titel in eenvoudig Nederlands, niveau C1:**  
-Trump en Poetin spreken af in Boedapest, maar een Russisch vliegtuig mag daar eigenlijk niet naartoe
-
-**Samenvatting in eenvoudig Nederlands, niveau C1:**  
-Trump besluit Poetin te ontmoeten in Boedapest, en dat is een probleem voor de EU. Het luchtruim van de EU is gesloten voor de Russische president. Normaal gesproken moet Hongarije hem zelfs arresteren als hij aankomt.
-
----
+## Samenvatting
+In heel Amerika vinden er vandaag protesten plaats tegen president Donald Trump. In meer dan 2.700 steden en dorpen zijn er protestmarsen. Deze protesten zijn tegen zijn beleid dat steeds autocratischer wordt.
 
 ## Woordenschatuitbreiding
 
@@ -14,50 +9,50 @@ Trump besluit Poetin te ontmoeten in Boedapest, en dat is een probleem voor de E
 
 | Woord | Definitie |
 |-------|-----------|
-| **besluit** | een genomen besluit of plan |
-| **luchtruim** | de lucht boven een land of gebied; het gebied waar vliegtuigen mogen vliegen |
-| **gesloten** | dicht; niet open |
-| **aankomt** | arriveert; komt aan (vooral voor vervoer) |
-| **ontmoeten** | elkaar zien en spreken; een afspraak hebben met iemand |
+| **tegen** | in tegenstelling tot; niet voor of mee zijn met iets |
+| **president** | de leider van een land, meestal een republiek |
+| **protest** | een actie of uiting om te laten zien dat je het niet eens bent met iets |
+| **autocratisch** | een stijl van regeren waarbij één persoon alle macht heeft |
+| **beleid** | de manier waarop een land of organisatie wordt bestuurd of geleid |
 
 ### Vul-in-de-leegte
-1. Trump ___ om Poetin te ontmoeten in Boedapest.
-2. Het Europese luchtruim is ___ voor Russische vliegtuigen.
-3. Hongarije zou Poetin moeten ___ als hij aankomt.
+1. De protesten zijn gericht ___ president Trumps beleid.
+2. Trump wordt door veel mensen beschouwd ___ een autocratische leider.
+3. De protesten vonden plaats ___ meer dan 2.700 plaatsen.
 
 #### Oplossingen
-1. besluit
-2. gesloten
-3. arresteren
+1. tegen
+2. als
+3. in
 
 ### Meerkeuzevragen
-1. Wat betekent "gesloten" in deze context?  
-a) open  
-b) dicht  
-c) toegankelijk  
-d) beschikbaar  
-2. Wat betekent "aankomt"?  
-a) vertrekt  
-b) arriveert  
-c) verlaat  
-d) passeert  
-3. Waarom is de ontmoeting in Boedapest een probleem?  
-a) Omdat Poetin daar niet mag landen.  
-b) Omdat Trump er geen toestemming voor heeft.  
-c) Omdat Hongarije niet in de EU ligt.  
-d) Omdat het een Russische stad is.
+1. Waar zijn de protesten vooral tegen gericht?
+   a) Tegen de president zelf
+   b) Tegen het autocratische beleid
+   c) Tegen de lokale overheden
+   d) Tegen de protesten zelf
+2. Wat is een synoniem voor "autocratisch" in deze context?
+   a) democratisch
+   b) dictatorisch
+   c) vriendelijk
+   d) vergevingsgezind
+3. Wat was het hoofddoel van de protesten?
+   a) De president steunen
+   b) De macht van de president verminderen
+   c) Meer macht voor de president
+   d) De protesten stoppen
 
 #### Antwoorden
-1. b) dicht  
-2. b) arriveert  
-3. a) Omdat Poetin daar niet mag landen.
+1. b) Tegen het autocratische beleid
+2. b) dictatorisch
+3. b) De macht van de president verminderen
 
 ### Waar / Niet Waar
-1. Poetin mag officieel het Europese luchtruim niet in.  
-2. Trump en Poeten ontmoeten elkaar in een niet-EU-land.  
-3. Hongarije is verplicht Poetin te arresteren.
+1. De protesten waren alleen in grote steden.
+2. President Trump wordt door sommigen gezien als een autocratische leider.
+3. De protesten waren voor meer democratie.
 
 #### Antwoorden
-1. Waar  
-2. Niet waar (Hongarije is in de EU)  
+1. Niet Waar
+2. Waar
 3. Waar<｜begin▁of▁sentence｜>

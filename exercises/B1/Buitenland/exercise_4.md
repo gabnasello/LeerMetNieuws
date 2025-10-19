@@ -1,63 +1,55 @@
-# Vrede in het Midden-Oosten door Trump's methode
+# Eenvoudig schrijven: Prins Andrew en zijn problemen
 
 ## Samenvatting
-Donald Trump gebruikte zijn schoonzoon als onderhandelaar en negeerde de normale diplomatieke regels. Hij dwong een akkoord voor Gaza af. Daardoor is het daar nu rustiger, maar hoe lang blijft dat zo? “Trump gebruikte dwang en invloed op een manier die verder ging dan wat een Democratische president ooit durfde.”
+Prins Andrew van Engeland geeft zijn titels op. Hij wordt beschuldigd in de zaak-Epstein. Dit is slecht voor het werk van de koninklijke familie. Uit nieuwe documenten blijkt dat hij minstens vier keer meevloog in het privévliegtuig van Epstein.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
-| Woord | Definitie |
+| Woord | Betekenis |
 |-------|-----------|
-| **onderhandelaar** | iemand die namens anderen praat en afspraken maakt |
-| **akkoord** | een overeenkomst waar iedereen het mee eens is |
-| **dwang** | iemand forceren om iets te doen wat ze niet willen |
-| **invloed** | het vermogen om het gedrag of de gedachten van anderen te veranderen |
-| **diplomatie** | het beheren van relaties tussen landen door praten en onderhandelen |
+| **titel** | een officiële naam of positie die iemand heeft |
+| **beschuldiging** | zeggen dat iemand iets slechts heeft gedaan |
+| **privé** | alleen voor één persoon of een kleine groep, niet voor iedereen |
+| **document** | een geschreven of gedrukt stuk met informatie |
+| **familie** | een groep mensen die aan elkaar verwant zijn, zoals ouders en kinderen |
 
-### Vul-in-de-leegte
-1. Trump gebruikte zijn schoonzoon als **onderhandelaar** om het akkoord te bereiken.
-2. Het akkoord werd afgedwongen door **dwang** en macht.
-3. De **diplomatie** van Trump was anders dan normaal.
-
-#### Oplossingen
-1. onderhandelaar
-2. dwang
-3. diplomatie
+### Vul de lege plekken in:
+1. Prins Andrew geeft zijn ___ op omdat hij problemen heeft.
+2. Er zijn nieuwe ___ die bewijzen dat hij meevloog met Epstein.
+3. Deze situatie is niet goed voor de __ van het Verenigd Koninkrijk.
+#### Oplossingen:
+1. titels
+2. documenten
+3. koninklijke familie
 
 ### Meerkeuzevragen
-1. Wat is een ‘onderhandelaar’?
-   a) Iemand die weigert te praten  
-   b) Iemand die namens anderen praat en afspraken maakt  
-   c) Iemand die alleen voor zichzelf zorgt  
-   d) Iemand die nooit compromissen sluit  
-**Antwoord: b**
-
-2. Wat betekent ‘dwang’ in deze context?  
-   a) Vriendelijke overreding  
-   b) Iemand forceren om iets te doen tegen hun wil  
-   c) Een vrijwillige keuze  
-   d) Een soort spel  
-**Antwoord: b**
-
-3. Wat is ‘diplomatie’?  
-   a) Het starten van oorlogen  
-   b) Het vermijden van communicatie  
-   c) Het beheren van relaties tussen landen door praten  
-   d) Het negeren van andere landen  
-**Antwoord: c**
-
-#### Antwoorden
+1. Wat is Prins Andrew's situatie?
+   a) Hij krijgt nieuwe titels  
+   b) Hij geeft zijn titels op en heeft problemen  
+   c) Hij wordt koning  
+   d) Hij viert een feest  
+2. Wat blijkt uit nieuwe documenten?  
+   a) Prins Andrew heeft een nieuw huis  
+   b) Prins Andrew vloog vaak met Epstein mee  
+   c) Prins Andrew heeft een nieuwe auto  
+   d) Prins Andrew is nu heel rijk  
+3. Waarom is deze situatie slecht?  
+   a) Het is goed voor de koninklijke familie  
+   b) Het is slecht voor het werk van de koninklijke familie  
+   c) Het maakt de koning blij  
+   d) Het geeft de koning nieuwe titels  
+#### Antwoorden:
 1. b
 2. b
-3. c
+3. b
 
-### Waar / Niet Waar
-1. Trump gebruikte diplomatie zoals iedereen dat doet. (Niet waar)
-2. Het akkoord zorgde voor volledige vrede in het Midden-Oosten. (Niet waar)
-3. De aanpak van Trump wordt door iedereen als goed beschouwd. (Niet waar)
-
-#### Antwoorden
-1. Niet waar
+### Waar of Niet Waar?
+1. Prins Andrew geeft zijn titels op.  
+2. Prins Andrew vloog nooit met Epstein mee.  
+3. Deze situatie is goed voor de koninklijke familie.  
+#### Antwoorden:
+1. Waar
 2. Niet waar
 3. Niet waar<｜begin▁of▁sentence｜>

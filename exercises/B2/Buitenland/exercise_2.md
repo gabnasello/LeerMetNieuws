@@ -1,13 +1,9 @@
-# Trump en Poetin ontmoeten elkaar in Boedapest
+# Vereenvoudigde titel en samenvatting
 
-[Vereenvoudigde titel]
+Massale protestmars tegen "King Donald the First": "Mogelijk de grootste demonstratie in onze geschiedenis"
 
-## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/bi6g0j-belgaimage-137039006.jpg/alternates/BASE_SIXTEEN_NINE/Belgaimage-137039006.jpg)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/trump-en-poetin-spreken-af-in-boedapest-maar-een-russisch-vliegtuig-mag-daar-eigenlijk-niet-naartoe/98262653.html)
-
-Trump en Poetin spreken af in Boedapest. Maar volgens de EU mag een Russisch vliegtuig daar eigenlijk niet landen. Trump maakt de EU boos door daar met Poetin te willen praten. Het is belangrijk dat Hongarije de regels volgt en Poetin niet ontvangt.
+Samenvatting:
+In heel Amerika, op meer dan 2700 plaatsen, zijn vandaag protestmarsen tegen president Donald Trump. De protesten met de naam "No Kings" richten zich tegen zijn autocratische beleid.
 
 ## Woordenschatuitbreiding
 
@@ -15,48 +11,52 @@ Trump en Poetin spreken af in Boedapest. Maar volgens de EU mag een Russisch vli
 
 | Woord | Definitie |
 |-------|-----------|
-| **ontmoeten** | elkaar zien en spreken |
-| **officieel** | volgens de regels |
-| **verboden** | niet toegestaan |
-| **beslissing** | een keuze die je maakt |
-| **internationale** | tussen verschillende landen |
+| **demonstratie** | een bijeenkomst van mensen om hun mening te laten horen, vaak om te protesteren |
+| **autocratisch** | alleenheersend, waarbij één persoon alle macht heeft |
+| **protest** | actie waarbij mensen laten weten dat ze het ergens niet mee eens zijn |
+| **geschiedenis** | alles wat er in het verleden is gebeurd |
+| **mogelijk** | iets dat kan gebeuren of waar kan zijn |
 
 ### Vul-in-de-leegte
-1. Poetin is de president van Rusland, maar hij is niet welkom in de EU omdat er een ___ is tegen hem.
-2. Trump wil Poetin ___ in Boedapest, maar dat is niet de hoofdstad.
-3. Volgens de EU-regels moet Hongarije Poetin ___ bij aankomst.
-#### Oplossingssleutel
-1. verbod
-2. ontmoeten
-3. arresteren
+1. De mensen hielden een _____ tegen het autocratische beleid.
+2. De protesten vonden plaats op _____ 2700 plaatsen.
+3. Het is nog niet zeker, maar de demonstratie is mogelijk _____ grootste in de geschiedenis.
+
+#### Oplossingen
+1. protest
+2. meer dan
+3. de
 
 ### Meerkeuzevragen
-1. Waarom is de ontmoeting in Boedapest een probleem?
-   a) Omdat het slecht weer is
-   b) Omdat Poetin daar niet mag komen van de EU
-   c) Omdat Trump er niet van wist
-   d) Omdat Hongarije niet in de EU zit
-2. Wat is de rol van Hongarije in deze situatie?
-   a) Zij moeten Poetin ontvangen
-   b) Zij moeten Poeten arresteren als hij komt
-   c) Zij moeten niets doen
-   d) Zij moeten de EU regels volgen
-3. Wat is het gevolg van Trump's besluit?
-   a) De EU wordt boos
-   b) Er gebeurt niets
-   c) Het is onduidelijk
-   d) De regels worden genegeerd
+1. Waar is de protestmars tegen gericht?
+   a) De president van Amerika
+   b) Het autocratische beleid van de president
+   c) De naam "No Kings"
+   d) Alle bovenstaande
+   
+2. Waar vonden de protesten plaats?
+   a) Alleen in grote steden
+   b) Alleen in kleine dorpen
+   c) Zowel in grote steden als kleine dorpen
+   d) Alleen in Europa
+   
+3. Wat wordt er gezegd over de grootte van de protesten?
+   a) Het is de kleinste ooit
+   b) Het is mogelijk de grootste in de geschiedenis
+   c) Het is alleen in Amerika
+   d) Het is zeker de grootste
+
 #### Antwoorden
-1. b
-2. d
-3. d
+1. d) Alle bovenstaande
+2. c) Zowel in grote steden als kleine dorpen
+3. b) Het is mogelijk de grootste in de geschiedenis
 
 ### Waar / Niet Waar
-1. Poetin mag officieel de EU inreizen zonder problemen.
-2. Hongarije is verplicht Poetin te arresteren als die arriveert.
-3. De EU heeft regels die voor alle lidstaten gelden.
+1. De protesten zijn alleen tegen president Trump.
+2. De protesten vinden alleen in Amerika plaats.
+3. Het is zeker dat dit de grootste demonstratie in de geschiedenis is.
+
 #### Antwoorden
-1. Niet Waar
-2. Waar
-3. Waar
----<｜begin▁of▁sentence｜>
+1. Niet waar (het is ook tegen het beleid)
+2. Waar (het artikel zegt "in Amerika")
+3. Niet waar (het artikel zegt "mogelijk")<｜begin▁of▁sentence｜>

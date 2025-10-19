@@ -1,10 +1,7 @@
-# Eenvoudige Taaloefening
+# Nieuws over Trump
+**Vereenvoudigde titel**: Protesten tegen Trump in Amerika en wereldwijd
 
-## Titel
-Trump straft voormalige medewerker
-
-## Samenvatting
-Donald Trump is nu president. Hij laat een oud medewerker vervolgen. Deze medewerker had Trump ooit bekritiseerd. Dit laat zien dat Trump wraak neemt op mensen die hij niet mag, zelfs als ze vroeger samenwerkten.
+**Vereenvoudigde samenvatting**: Donald Trump is president van Amerika voor een tweede termijn. Mensen over de hele wereld zijn bezorgd en protesteren tegen zijn beleid. Volg hier het laatste nieuws.
 
 ## Woordenschatuitbreiding
 
@@ -12,50 +9,50 @@ Donald Trump is nu president. Hij laat een oud medewerker vervolgen. Deze medewe
 
 | Woord | Definitie |
 |-------|-----------|
-| **president** | iemand die een land of organisatie leidt |
-| **vervolgen** | iemand voor de rechter brengen omdat diegene iets fouts heeft gedaan |
-| **medewerker** | iemand die met je samenwerkt in een baan |
-| **kritiek** | zeggen wat er niet goed aan iets is |
-| **wraak** | iemand expres laten lijden omdat die jou of iemand anders kwaad heeft gedaan |
+| **president** | het staatshoofd van een land |
+| **termijn** | de periode waarin iemand een functie bekleedt |
+| **protest** | een uiting van verzet of ongenoegen |
+| **wereldwijd** | over de hele wereld, in alle landen |
+| **beleid** | de plannen en acties van een overheid |
 
 ### Vul-in-de-leegte
-1. Trump is de ___ van de Verenigde Staten.
-2. Bolton was een ___ van Trump.
-3. Trump wil Bolton ___ omdat die hem bekritiseerde.
+1. Donald Trump is de ___ van de Verenigde Staten. (president)
+2. Mensen protesteren tegen het ___ van Trump. (beleid)
+3. De protesten zijn niet alleen in Amerika, maar ook ___ zijn er demonstraties. (wereldwijd)
 
 #### Oplossingen
 1. president
-2. medewerker
-3. vervolgen
+2. beleid
+3. wereldwijd
 
 ### Meerkeuzevragen
-1. Wat is Trump?
-   a) een land
-   b) een bedrijf
-   c) een persoon
-   d) een dier
-2. Waarom wil Trump Bolton straffen?
-   a) Omdat Bolton een fout maakte
-   b) Omdat Bolton Trump bekritiseerde
-   c) Omdat Bolton niet meer met Trump wil samenwerken
-   d) Omdat Bolton president wil worden
-3. Wat betekent “wraak”?
-   a) iemand helpen
-   b) iemand straffen uit wraak
-   c) iemand belonen
-   d) iemand negeren
+1. Wat is een 'termijn'?
+   a. een soort fruit  
+   b. een periode waarin iemand een functie uitoefent  
+   c. een soort sport  
+   d. een gebouw  
+2. Wat betekent 'wereldwijd'?  
+   a. alleen in één land  
+   b. over de hele wereld  
+   c. alleen in de stad  
+   d. alleen thuis  
+3. Wat is 'protest'?  
+   a. een groot feest  
+   b. een uiting van verzet of ongenoegen  
+   c. een soort dans  
+   d. een type auto  
 
 #### Antwoorden
-1. c) een persoon
-2. b) Omdat Bolton Trump bekritiseerde
-3. b) iemand straffen uit wraak
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Trump is de president van de Verenigde Staten.
-2. Trump vervolgt Bolton omdat die een misdaad pleegde.
-3. Trump heeft alleen wraak op zijn vijanden.
+1. Trump is de president van de Verenigde Staten. (Waar)
+2. Iedereen is blij met zijn beleid. (Niet waar)
+3. De protesten zijn alleen in Amerika. (Niet waar)
 
 #### Antwoorden
 1. Waar
-2. Niet Waar
-3. Niet Waar<｜begin▁of▁sentence｜>
+2. Niet waar
+3. Niet waar

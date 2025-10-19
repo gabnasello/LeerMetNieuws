@@ -1,7 +1,6 @@
-# De regisseur Marie De Hert en haar boek over angst
+# Een nieuwe richtlijn voor euthanasie
 
-## Samenvatting
-Regisseur Marie De Hert heeft een boek geschreven over haar angststoornis. Twee jaar geleden kreeg ze last van paniekaanvallen. Ze zocht naar een verklaring hiervoor. Nu weet ze dat er niet één antwoord is.
+In Nederland zijn er steeds meer jonge mensen die euthanasie willen vanwege psychische problemen. Ook in België willen psychiaters bekijken of er strengere regels nodig zijn voor twintigers. "Maar we willen polarisatie vermijden."
 
 ## Woordenschatuitbreiding
 
@@ -9,38 +8,38 @@ Regisseur Marie De Hert heeft een boek geschreven over haar angststoornis. Twee 
 
 | Woord | Definitie |
 |-------|-----------|
-| **regisseur** | iemand die een film of toneelstuk regisseert |
-| **angststoornis** | een ziekte waarbij je veel angst voelt zonder duidelijke reden |
-| **paniekaanval** | een plotselinge, hevige angstaanval |
-| **verklaring** | een uitleg over waarom iets gebeurt |
-| **boek** | een verzameling van gebonden pagina's met een verhaal of informatie |
+| **euthanasie** | een medische handeling om het leven van een patiënt te beëindigen, vaak vanwege uitzichtloos lijden |
+| **psychisch** | met betrekking tot de geest en emoties |
+| **richtlijn** | een officieel document met aanbevelingen of regels |
+| **twintigers** | mensen tussen de 20 en 30 jaar oud |
+| **polarisatie** | het ontstaan van twee tegenovergestelde standpunten |
 
 ### Vul-in-de-leegte
-1. Marie De Hert is een ___ die een boek schreef.
-2. Tijdens een paniekaanval voel je heel veel ___ zonder duidelijke oorzaak.
-3. Marie zocht naar een ___ voor haar angsten.
+1. In Nederland maken steeds meer jonge mensen zich zorgen over ___.
+2. Psychiaters in België onderzoeken of er een strengere ___ nodig is voor twintigers.
+3. Er wordt geprobeerd om ___ te voorkomen in deze discussie.
 
 #### Oplossingen
-1. regisseur
-2. angst
-3. verklaring
+1. euthanasie
+2. richtlijn
+3. polarisatie
 
 ### Meerkeuzevragen
-1. Wat is Marie De Hert?
-   a) een schrijver  
-   b) een regisseur  
-   c) een dokter  
-   d) een student  
-2. Wat is een paniekaanval?  
-   a) een dansmove  
-   b) een plotseling, sterk gevoel van angst  
-   c) een soort feest  
-   d) een rustige periode  
-3. Wat betekent 'verklaring' in deze context?  
-   a) een verklaring van liefde  
-   b) een uitleg over de oorzaak van iets  
-   c) een verhaal over een vakantie  
-   d) een recept voor taart  
+1. Wat is euthanasie?
+   a) een feestje
+   b) een medische handeling om het leven te beëindigen
+   c) een nieuwe sport
+   d) een type muziek
+2. Waarom is er bezorgdheid over euthanasie bij jongeren?
+   a) Omdat ze te veel geld hebben
+   b) Omdat hun hersenen nog niet volgroeid zijn
+   c) Omdat ze te veel tv kijken
+   d) Omdat ze te veel snoepen
+3. Wat willen de psychiaters in België onderzoeken?
+   a) of er een nieuwe diersoort is
+   b) of er strengere richtlijnen nodig zijn
+   c) of er een nieuwe koffiesoort is
+   d) of er een nieuw muziekfestival komt
 
 #### Antwoorden
 1. b
@@ -48,11 +47,11 @@ Regisseur Marie De Hert heeft een boek geschreven over haar angststoornis. Twee 
 3. b
 
 ### Waar / Niet Waar
-1. Marie De Hert is een boer. (Niet waar)
-2. Marie had nooit last van angst. (Niet waar)
-3. Marie vond de verklaring voor haar angst. (Waar)
+1. Euthanasie is altijd toegestaan in Nederland.
+2. Twintigers hebben altijd een volledig ontwikkeld brein.
+3. Het artikel suggereert dat er meer regels nodig zijn voor euthanasie bij jongeren.
 
 #### Antwoorden
-1. Niet waar
-2. Niet waar
-3. Waar
+1. Niet Waar
+2. Niet Waar
+3. Waar<｜begin▁of▁sentence｜>

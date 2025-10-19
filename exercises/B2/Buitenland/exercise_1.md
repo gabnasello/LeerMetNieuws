@@ -1,10 +1,7 @@
-# Vereenvoudigde tekst
+# Vereenvoudigde Titel en Samenvatting
 
-## Titel en samenvatting in eenvoudig Nederlands:
-
-**Titel:** Trump neemt wraak op John Bolton, en dat is heel persoonlijk
-
-**Samenvatting:** Donald Trump wil John Bolton straffen. Bolton was een vijand van Trump. Dit laat zien dat Trump wraak neemt, ook tegen mensen uit zijn eigen groep.
+Titel: “Truck Fump” en “Morons Are Governing America”: wereldwijd protest tegen “Dictator” Trump  
+Samenvatting: Donald Trump is opnieuw president van Amerika. Mensen over de hele wereld reageren op zijn tweede ambtstermijn. Volg hier alle nieuwsupdates.
 
 ## Woordenschatuitbreiding
 
@@ -12,43 +9,50 @@
 
 | Woord | Definitie |
 |-------|-----------|
-| **wraak** | iemand iets aandoen omdat die persoon jou eerder pijn heeft gedaan |
-| **vijand** | iemand die tegen je is, een tegenstander |
-| **rechter** | een persoon die beslist of iemand schuldig is of niet |
-| **aanklagen** | iemand voor de rechter brengen omdat diegene iets verkeerds heeft gedaan |
-| **getuigenis** | een verklaring over wat er is gebeurd, vaak in de rechtszaal |
+| **president** | het hoofd van de regering in sommige landen|
+| **protest** | een publieke demonstratie tegen iets|
+| **overwinning** | het winnen van een strijd of wedstrijd|
+| **leider** | iemand die een groep of land leidt|
+| **verandering** | het anders worden van iets|
 
-### Vul in de lege plekken
-1. De advocaat vroeg de getuige om zijn ___ te geven over wat hij zag.
-2. De verdachte werd ___ van moord en moest voor de rechter verschijnen.
-3. De politie heeft de verdachte ___, omdat hij een moord heeft gepleegd.
+### Vul-in-de-leegte
+1. Donald Trump is de ___ van de Verenigde Staten.
+2. Mensen houden een ___ om hun ontevredenheid te uiten.
+3. De verkiezingen resulteerden in een ___ voor de huidige regering.
 
 #### Oplossingen
-1. getuigenis
-2. beschuldigd
-3. aangeklaagd
+1. president
+2. protest
+3. overwinning
 
 ### Meerkeuzevragen
-1. Wat is 'wraak'?
-a) iemand helpen b) iemand straffen voor wat ze deden c) iemand belonen d) iemand negeren
-
-2. Wat doet een rechter?
-a) kookt eten b) beslist over schuld of onschuld c) speelt games d) zingt liedjes
-
-3. Wat betekent 'aanklagen'?
-a) iemand feliciteren b) iemand voor de rechter brengen c) iemand een cadeau geven d) iemand negeren
+1. Wat is een "president"?
+   a) Een soort dier
+   b) Het hoofd van een regering
+   c) Een type auto
+   d) Een sportteam
+2. Wat betekent "protest" in deze context?
+   a) Een feest vieren
+   b) Tegen iets demonstreren
+   c) Iemand feliciteren
+   d) Een wedstrijd winnen
+3. Wat is een "overwinning"?
+   a) Het verliezen van een wedstrijd
+   b) Het winnen van een wedstrijd of conflict
+   c) Het begin van een gevecht
+   d) Het einde van een jaar
 
 #### Antwoorden
 1. b
 2. b
 3. b
 
-### Waar / Niet waar
-1. Trump heeft Bolton aangeklaagd.
-2. Alleen vijanden worden door Trump aangeklaagd.
-3. Trump heeft Bolton laten getuigen.
+### Waar / Niet Waar
+1. Donald Trump is de president van de Verenigde Staten. (Waar)
+2. Een protest is een manier om steun te tonen. (Niet waar)
+3. Overwinning betekent verliezen. (Niet waar)
 
 #### Antwoorden
-1. Niet waar
+1. Waar
 2. Niet waar
-3. Waar<｜begin▁of▁sentence｜>
+3. Niet waar<｜begin▁of▁sentence｜>

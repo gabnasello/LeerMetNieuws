@@ -1,10 +1,7 @@
-# Eenvoudiger Nederlands: Euthanasie voor jonge mensen
+# Vergoeding voor slachtoffers
 
-## Titel
-Heeft de euthanasie-regel voor twintigers een strengere richtlijn nodig? "De hersenen zijn pas volgroeid vanaf 25 jaar."
-
-## Samenvatting
-In Nederland maken mensen zich zorgen over het groeiende aantal jonge mensen dat zich aanmeldt voor euthanasie wegens psychisch lijden. Ook in België willen psychiaters bekijken of er een strengere richtlijn nodig is voor twintigers. "Maar we willen polarisatie vermijden."
+Titel: Kerk betaalt 3.000 euro per slachtoffer: “Dit is een tussentijdse oplossing”
+Samenvatting: De 1.591 “erkende slachtoffers” van misbruik in de kerk zullen binnenkort 3.000 euro extra krijgen om psychologische hulp te kunnen betalen, voor meer kijkt ze naar de politiek: “Het komt op hetzelfde neer: symboliek en wachten.”
 
 ## Woordenschatuitbreiding
 
@@ -12,50 +9,52 @@ In Nederland maken mensen zich zorgen over het groeiende aantal jonge mensen dat
 
 | Woord | Definitie |
 |-------|-----------|
-| **Euthanasie** | Een medische handeling om het leven van een terminale patiënt te beëindigen om lijden te verlichten. |
-| **Psychisch** | Betreft de geest en de geestelijke gezondheid. |
-| **Richtlijn** | Een officiële regel of gids over hoe iets moet worden gedaan. |
-| **Polarisatie** | Wanneer groepen tegenover elkaar komen te staan en niet meer samenwerken. |
-| **Twintiger** | Een persoon die tussen de 20 en 29 jaar oud is. |
+| **slachtoffers** | mensen die iets ergs is overkomen, bijvoorbeeld door misbruik of een ongeluk |
+| **misbruik** | iemand slecht behandelen of pijn doen op een manier die niet hoort |
+| **psychologisch** | heeft te maken met gevoelens, gedachten en gedrag |
+| **tussentijds** | iets dat tijdelijk is, totdat er een definitieve oplossing komt |
+| **erkend** | officieel goedgekeurd of bevestigd |
 
 ### Vul-in-de-leegte
-1. In sommige landen is ___ toegestaan voor mensen met ernstige psychische aandoeningen.
-2. Er is veel discussie over of twintigers wel of geen ___ zouden moeten krijgen voor psychisch lijden.
-3. Het is belangrijk om polarisatie te voorkomen door open ___.
+1. De kerk betaalt 3.000 euro per slachtoffer om ___ te helpen.
+2. Veel slachtoffers hebben psychologische ___ nodig.
+3. Deze oplossing is alleen ___, niet voor altijd.
 
 #### Oplossingen
-1. euthanasie
-2. euthanasie
-3. dialoog
+1. psychologische hulp
+2. hulp
+3. tijdelijk
 
 ### Meerkeuzevragen
-1. Wat is een synoniem voor "polarisatie" in deze context?
-  a) Samenwerking
-  b) Tegenstelling
-  c) Overeenkomst
-  d) Gelijkheid
-2. Waarom zouden twintigers volgens critici géén euthanasie moeten kunnen krijgen?
-  a) Omdat ze te arm zijn
-  b) Omdat hun hersenen nog niet volgroeid zijn
-  c) Omdat ze te veel geld uitgeven
-  d) Omdat ze nog studeren
-3. Wat is een voorbeeld van een "richtlijn"?
-  a) Een nieuwe telefoon
-  b) Een nieuwe wet over euthanasie
-  c) Een nieuwe auto
-  d) Een nieuwe hobby
+1. Wat is "misbruik"?
+   a) iemand helpen
+   b) iemand slecht behandelen
+   c) iemand belonen
+   d) iemand negeren
+
+2. Wat betekent "tussentijds"?
+   a) voor altijd
+   b) alleen voor nu, niet voor altijd
+   c) nooit
+   d) onmiddellijk
+
+3. Wat is een "slachtoffer"?
+   a) iemand die iets goeds heeft gedaan
+   b) iemand die iets slechts heeft meegemaakt
+   c) iemand die niets heeft meegemaakt
+   d) iemand die anderen helpt
 
 #### Antwoorden
-1. b
-2. b
-3. b
+1. b) iemand slecht behandelen
+2. b) alleen voor nu, niet voor altijd
+3. b) iemand die iets slechts heeft meegemaakt
 
-### Waar / Niet waar
-1. Euthanasie is alleen toegestaan voor terminale patiënten.
-2. Psychisch lijden is nooit een geldige reden voor euthanasie.
-3. Twintigers zijn te jong om beslissingen over euthanasie te nemen.
+### Waar / Niet Waar
+1. De kerk betaalt 3.000 euro aan alle slachtoffers. (Niet waar: alleen aan erkende slachtoffers)
+2. Psychologische hulp is gratis in dit plan. (Niet waar: het geld is om die hulp te betalen)
+3. De kerk wil dit voor altijd doen. (Niet waar: het is maar tijdelijk)
 
 #### Antwoorden
-1. Niet waar (het hangt van het land af)
-2. Niet waar (in sommige landen wel)
-3. Niet waar (maar er zijn wel discussies over)<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Niet waar
+3. Niet waar

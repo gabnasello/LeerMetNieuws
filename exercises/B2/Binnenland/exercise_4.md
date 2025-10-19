@@ -1,61 +1,62 @@
-# Angststoornissen
+# Vereenvoudiging van de titel en samenvatting
 
-[Vereenvoudigde titel: Angststoornissen]
+Titel: Is er een strengere richtlijn nodig voor euthanasie bij twintigers? “Het brein is pas volgroeid vanaf 25 jaar”
+Samenvatting: In Nederland leeft bezorgdheid over het groeiende aantal jonge mensen dat zich aanmeldt voor euthanasie wegens psychisch lijden. Ook in België willen psychiaters bekijken of een strengere richtlijn voor twintigers nodig is. “Maar we willen polarisatie vermijden.”
 
-## Samenvatting
+Vereenvoudigde titel: Moeten we de regels voor euthanasie bij jongeren strenger maken? “Hersenen zijn pas volgroeid vanaf 25 jaar”
+Vereenvoudigde samenvatting: In Nederland maken mensen zich zorgen omdat steeds meer jonge mensen euthanasie aanvragen wegens psychisch lijden. Ook in België overwegen psychiaters of ze strengere regels voor twintigers nodig hebben. “Maar we willen geen ruzie of discussies.”
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/e397pf-mariedehert028.jpg/alternates/BASE_SIXTEEN_NINE/MarieDeHert028.jpg)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/regisseur-marie-de-hert-schreef-een-boek-over-haar-angststoornis-we-zijn-allemaal-op-zoek-naar-iets-om-ons-aan-vast-te-houden/97053116.html)
+# Woordenschatuitbreiding
 
-[Vereenvoudigde samenvatting: Twee jaar geleden had regisseur Marie De Hert (35) last van paniekaanvallen. Die paniekaanvallen gingen niet weg. Dat was eng voor haar en voor de mensen om haar heen. Sindsdien zocht ze hard naar een verklaring. “Nu weet ik dat er niet één antwoord is.”]
-
-## Woordenschatuitbreiding
-
-### Woordenlijst
+### Woordenschat
 
 | Woord | Definitie |
 |-------|-----------|
-| **angststoornis** | een psychische aandoening waarbij iemand veel angst ervaart |
-| **paniekstoornis** | een angststoornis waarbij iemand plotselinge paniekaanvallen heeft |
-| **regisseur** | iemand die de leiding heeft over het maken van een film of toneelstuk |
-| **omgeving** | de mensen en dingen om je heen |
-| **verklaring** | een uitleg over waarom iets is zoals het is |
+| **euthanasie** | een medische handeling waarbij een arts het leven van een patiënt beëindigt om lijden te beëindigen |
+| **psychisch** | met betrekking tot de geest en emoties |
+| **twintigers** | mensen tussen de 20 en 30 jaar oud |
+| **richtlijn** | een officiële regel of gids over hoe iets moet worden gedaan |
+| **volwassen** | volgroeid en op een leeftijd waarop iemand volledig verantwoordelijk is |
 
 ### Vul-in-de-leegte
-1. Marie De Hert is een __ die een boek schreef over haar ervaringen.
-2. Ze had last van een __, wat betekent dat ze onverwacht heel erg angstig werd.
-3. Ze zocht naar een __ voor haar gevoelens, om te begrijpen waarom ze zich zo voelde.
+1. Euthanasie is een optie voor mensen met ernstig ___ lijden.
+2. In België overwegen artsen of ze strengere ___ voor twintigers nodig hebben.
+3. Psychiaters willen voorkomen dat er polarisatie ___ over dit onderwerp.
 #### Oplossingen
-1. regisseur
-2. paniekstoornis
-3. verklaring
+1. psychisch
+2. richtlijnen
+3. ontstaat
 
 ### Meerkeuzevragen
-1. Wat is een angststoornis?
-   a) Een soort sport
-   b) Een psychische aandoening met veel angst
-   c) Een soort feest
-   d) Een type auto
-2. Wat deed Marie De Hert nadat ze paniekaanvallen kreeg?
-   a) Ze stopte met werken
-   b) Ze schreef een boek erover
-   c) Ze verhuisde naar een andere stad
-   d) Ze stopte met praten
-3. Waar is Marie De Hert een voorbeeld van?
-   a) Iemand die een boek schrijft
-   b) Iemand die een film regisseert
-   c) Iemand die met angststoornissen leeft
-   d) Alle bovenstaande
+1. Wat is euthanasie?
+   a) Een feestje voor jonge mensen
+   b) Een medische procedure om het leven te beëindigen bij ondraaglijk lijden
+   c) Een nieuwe dansrage
+   d) Een soort therapie voor psychische problemen
+
+2. Waarom zijn mensen bezorgd over euthanasie bij twintigers?
+   a) Omdat twintigers te veel geld uitgeven aan games.
+   b) Omdat hun hersenen nog niet volledig zijn ontwikkeld.
+   c) Omdat twintigers niet weten hoe ze belastingen moeten indienen.
+   d) Omdat twintigers te veel tijd op sociale media doorbrengen.
+
+3. Wat willen psychiaters in België doen?
+   a) Nieuwe videogames testen.
+   b) Een strengere richtlijn overwegen voor euthanasie bij twintigers.
+   c) Euthanasie verbieden voor iedereen.
+   d) Alle psychiaters vervangen door robots.
+
 #### Antwoorden
 1. b
 2. b
-3. d
+3. b
 
 ### Waar / Niet Waar
-1. Marie De Hert is een schrijver die over auto's schrijft. (Niet waar)
-2. Angststoornissen zijn zeldzaam en komen bijna nooit voor. (Niet waar)
-3. Marie De Hert vond uiteindelijk een verklaring voor haar gevoelens. (Waar)
+1. Euthanasie is alleen toegestaan voor terminale patiënten. (Niet waar)
+2. In Nederland is er bezorgdheid over euthanasie bij jonge mensen. (Waar)
+3. Psychiaters in België willen geen nieuwe richtlijnen. (Niet waar - ze overwegen ze wel)
+
 #### Antwoorden
 1. Niet waar
-2. Niet waar
-3. Waar
+2. Waar
+3. Niet waar<｜begin▁of▁sentence｜>

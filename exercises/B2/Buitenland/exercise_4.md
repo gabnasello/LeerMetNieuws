@@ -1,58 +1,57 @@
-# Vrede in het Midden-Oosten
+# Eenvoudige titel en samenvatting
+Titel: Prins Andrew geeft zijn titels op en vloog mee in privéjet van Epstein
+Samenvatting: Prins Andrew geeft zijn titels op. Hij wordt beschuldigd in de zaak-Epstein. Ondertussen blijkt uit nieuwe documenten dat hij minstens vier keer meevloog in het privévliegtuig van Epstein.
 
-## Samenvatting
-Donald Trump gebruikte zijn schoonzoon als onderhandelaar. Hij negeerde de normale diplomatie. Hij kreeg een akkoord voor de Gazastrook. De wapens zijn daar nu stil. Maar werkt zijn aanpak voor de lange termijn? Experts zeggen: “Trump ging verder dan een Democratische president ooit durfde.”
+# Woordenlijst
 
-## Woordenschatuitbreiding
-
-### Woordlijst
-
-| Woord | Betekenis |
+| Woord | Definitie |
 |-------|-----------|
-| **onderhandelaar** | iemand die met anderen praat om tot een oplossing te komen |
-| **diplomatie** | de manier waarop landen met elkaar praten en afspraken maken |
-| **duurzaam** | iets dat lang mee gaat en goed blijft |
-| **aanpak** | de manier waarop je iets aanpakt of aanpakt |
-| **experts** | mensen die veel weten over een onderwerp |
+| **titel** | een officiële naam of positie die iemand krijgt |
+| **opgeven** | stoppen met iets of iemand niet meer gebruiken |
+| **zich schuldig maken** | iets doen wat niet mag volgens de wet |
+| **privé** | alleen voor één persoon of een kleine groep, niet voor iedereen |
+| **minstens** | niet minder dan, ten minste |
 
-### Vul de lege plekken in
-1. Trump gebruikte zijn schoonzoon als ___ tijdens de onderhandelingen.
-2. Sommige experts vragen zich af of de overeenkomst ___ is of niet.
-3. De ___ van Trump was om buiten de normale kanalen te werken.
+# Oefeningen
+
+### Vul-in-de-leegte
+1. Prins Andrew geeft zijn ______ op.
+2. Prins Andrew wordt ______ van misdrijven in de zaak-Epstein.
+3. Uit nieuwe documenten blijkt dat hij minstens vier keer meevloog in Epsteins ______.
 
 #### Oplossingen
-1. onderhandelaar
-2. duurzaam
-3. aanpak
+1. titels
+2. beschuldigd
+3. privéjet
 
 ### Meerkeuzevragen
-1. Wat is een "onderhandelaar"?
-   a) iemand die altijd thuis blijft  
-   b) iemand die onderhandelingen leidt  
-   c) iemand die alleen maar werkt  
-   d) iemand die nooit praat  
-2. Wat betekent "duurzaam" in deze context?  
-   a) dat iets heel duur is  
-   b) dat iets lang meegaat en effectief blijft  
-   c) dat iets heel sterk is  
-   d) dat iets heel zwak is  
-3. Wat is een "expert"?  
-   a) iemand die net begint met leren  
-   b) iemand die een expert is in een bepaald gebied  
-   c) iemand die geen vragen stelt  
-   d) iemand die alles alleen doet  
+1. Wat betekent 'opgeven' in deze context?
+   a) beginnen met
+   b) stoppen met
+   c) verliezen
+   d) winnen
+2. Wat is een privéjet?
+   a) een openbaar vliegtuig
+   b) een taxi
+   c) een privévliegtuig
+   d) een bus
+3. Wat betekent 'minstens'?
+   a) meer dan
+   b) precies
+   c) niet minder dan
+   d) altijd
 
 #### Antwoorden
 1. b
-2. b
-3. b
+2. c
+3. c
 
-### Waar of niet waar?
-1. Trump volgde de gebruikelijke diplomatieke methoden tijdens de onderhandelingen.
-2. Het akkoord zorgde ervoor dat de wapens in Gaza zijn gestopt.
-3. Alle experts zijn het erover eens dat Trump's aanpak de beste ooit was.
+### Waar / Niet Waar
+1. Prins Andrew geeft zijn titels op.
+2. Prins Andrew wordt niet beschuldigd in de zaak-Epstein.
+3. Prins Andrew vloog minstens vier keer mee in Epsteins privéjet.
 
 #### Antwoorden
-1. Niet waar
-2. Waar
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Waar
+2. Niet waar
+3. Waar<｜begin▁of▁sentence｜>

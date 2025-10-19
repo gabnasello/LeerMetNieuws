@@ -1,9 +1,6 @@
-# Het belangrijkste is dat de vijandelijkheden zijn gestopt
+# Oorlog in Oekraïne
 
-Het belangrijkste is dat de gevechten, bombardementen en vernietiging zijn gestopt. Dat is het enige wat echt telt.
-
-## Samenvatting
-Het wankele bestand in Gaza houdt voorlopig stand. De prijzen dalen en er komt weer een klein beetje hulp de strook binnen, maar voor de inwoners van Gaza is er weinig reden om opgelucht te zijn. "Het herstel zal jaren duren."
+Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates.
 
 ## Woordenschatuitbreiding
 
@@ -11,41 +8,52 @@ Het wankele bestand in Gaza houdt voorlopig stand. De prijzen dalen en er komt w
 
 | Woord | Definitie |
 |-------|-----------|
-| **wankel** | onstabiel of onzeker |
-| **bestand** | overeenkomst om gevechten te stoppen |
-| **strook** | gebied (hier: Gaza) |
-| **herstel** | wederopbouw of verbetering |
-| **opluchting** | gevoel van opluchting of verlichting |
+| **ontwikkelingen** | nieuwe dingen die gebeuren of veranderen |
+| **oorlog** | een periode waarin landen of groepen met geweld vechten |
+| **updates** | nieuwe informatie over iets wat gebeurt |
+| **melding** | een bericht dat je informeert over iets nieuws of belangrijks |
+| **app** | een programma op je telefoon of computer |
 
 ### Vul-in-de-leegte
-1. Het wankele bestand is ____, maar het is onzeker of het lang standhoudt.
-2. Ondanks de kleine hoeveelheid hulp voelen de mensen in de ____ weinig opluchting.
-3. Het zal jaren duren voordat ____ volledig is.
+1. De oorlog in Oekraïne heeft veel nieuwe ontwikkelingen.
+2. Krijg een melding wanneer er nieuwe updates zijn.
+3. Download de app om updates te ontvangen.
 
 #### Oplossingen
-1. tijdelijk
-2. strook
-3. herstel
+1. De oorlog in Oekraïne heeft veel nieuwe ontwikkelingen.
+2. Krijg een melding wanneer er nieuwe updates zijn.
+3. Download de app om updates te ontvangen.
 
 ### Meerkeuzevragen
-1. Wat betekent "wankel" in deze context?
-   a) stevig b) onzeker c) snel d) uitgebreid
-2. Waar verwijst "strook" naar in de tekst?
-   a) een rivier b) een stad c) een gebied d) een gebouw
-3. Welk woord beschrijft het gevoel van de mensen in Gaza?
-   a) vreugde b) opluchting c) wanhoop d) opwinding
+1. Wat is een 'update'?  
+a) Een soort boek  
+b) Nieuwe informatie over een onderwerp  
+c) Een type telefoon  
+d) Een oude film
+
+2. Wat is een 'oorlog'?  
+a) Een grote feestelijke bijeenkomst  
+b) Een vreedzame onderhandeling  
+c) Een gewapend conflict tussen landen of groepen  
+d) Een wetenschappelijke ontdekking
+
+3. Wat is een 'app'?  
+a) Een traditioneel gerecht  
+b) Een soort schoen  
+c) Een computerprogramma of applicatie  
+d) Een oud vervoermiddel
 
 #### Antwoorden
-1. b) onzeker
-2. c) een gebied
-3. c) wanhoop
+1. b) Nieuwe informatie over een onderwerp  
+2. c) Een gewapend conflict tussen landen of groepen  
+3. c) Een computerprogramma of applicatie
 
 ### Waar / Niet Waar
-1. Het bestand in Gaza is stabiel.
-2. De mensen in Gaza voelen zich meteen beter door de hulp.
-3. Het herstel zal snel gaan.
+1. De oorlog in Oekraïne is een recente ontwikkeling.  
+2. Updates geven je oude informatie.  
+3. Je hebt een app nodig om updates te ontvangen.
 
 #### Antwoorden
-1. Niet Waar
-2. Niet Waar
-3. Niet Waar<｜begin▁of▁sentence｜>
+1. Waar  
+2. Niet waar  
+3. Waar<｜begin▁of▁sentence｜>

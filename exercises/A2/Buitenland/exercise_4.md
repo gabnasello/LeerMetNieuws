@@ -1,61 +1,59 @@
-# Vrede in het Midden-Oosten
+# De prins en de straf
 
-[Is de ‘methode-Trump’ van dwang en deals de sleutel tot vrede in het Midden-Oosten?]
+**Titel**: De prins en de straf
 
-## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/6zl6mc-13427088.jpg/alternates/BASE_SIXTEEN_NINE/13427088.jpg)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/is-de-methode-trump-van-dwang-en-deals-de-sleutel-tot-vrede-in-het-midden-oosten/98100792.html)
-
-Donald Trump gebruikte zijn schoonzoon als onderhandelaar en maakte veel gebruik van macht en invloed. Hij gebruikte druk en deals om een akkoord over Gaza te bereiken. Daardoor is er nu minder geweld in Gaza. Maar de vraag is of deze aanpak duurzaam is en ook goed werkt in andere situaties. Trump gebruikte methodes die verder gingen dan wat anderen durfden.
+**Samenvatting**: Prins Andrew geeft zijn titels op. Hij wordt beschuldigd van misdrijven. Hij vloog meermaals mee in het vliegtuig van Epstein. Dit is slecht voor het imago van de koninklijke familie.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordelijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **onderhandelen** | praten met anderen om tot een beslissing te komen waar iedereen het mee eens is |
-| **duurzaam** | iets dat voor een lange tijd goed blijft en niet kapot gaat |
-| **macht** | de kracht of autoriteit die iemand heeft om dingen gedaan te krijgen |
-| **invloed** | het effect dat iemand of iets heeft op hoe anderen denken of handelen |
-| **gebruiken** | iets op een bepaalde manier toepassen of inzetten |
+| **prins** | een man van koninklijke bloed |
+| **titel** | een erenaam of positie |
+| **vliegen** | door de lucht gaan in een vliegtuig |
+| **misdrijf** | een ernstige misdaad |
+| **schade** | iets kapotmaken of beschadigen |
 
 ### Vul-in-de-leegte
-1. Donald Trump gebruikte zijn schoonzoon om te ___ met andere landen.
-2. De vrede in Gaza is niet ___ omdat het niet lang standhoudt.
-3. Trump gebruikte zijn ___ en invloed om dingen gedaan te krijgen.
+1. Prins Andrew vloog mee in Epsteins ___.
+2. De prins geeft zijn titels op, en dat is een __ voor de koninklijke familie.
+3. De "beschuldigingen" zijn een vorm van __ tegen de prins.
+
 #### Oplossingen
-1. onderhandelen
-2. duurzaam
-3. macht
+1. privéjet
+2. schande
+3. beschuldiging
 
 ### Meerkeuzevragen
-1. Wat betekent 'duurzaam' in deze context?  
-a) heel sterk  
-b) niet lang houdbaar  
-c) goed voor het milieu  
-d) snel veranderend  
-2. Wat deed Trump's schoonzoon in de onderhandelingen?  
-a) Hij vocht mee in de oorlog.  
-b) Hij was de onderhandelaar.  
-c) Hij tekende het verdrag niet.  
-d) Hij was de president van Amerika.  
-3. Wat is een synoniem voor 'gebruiken' in deze tekst?  
-a) negeren  
-b) toepassen  
-c) verliezen  
-d) kopen  
+1. Wat is Prins Andrews relatie met Epstein?
+   a) Ze zijn vrienden
+   b) Ze zijn broers
+   c) Ze zijn collega's
+   d) Onbekend
+2. Waarom geeft Prins Andrew zijn titels op?
+   a) Omdat hij van zijn werk houdt
+   b) Omdat hij van zijn familie houdt
+   c) Omdat hij beschuldigd wordt van misdrijven
+   d) Omdat hij een nieuwe titel krijgt
+3. Wat is het effect van deze situatie op de koninklijke familie?
+   a) Het maakt hen blij
+   b) Het maakt hen beroemd
+   c) Het beschadigt hun reputatie
+   d) Het heeft geen effect
+
 #### Antwoorden
-1. b) niet lang houdbaar  
-2. b) Hij was de onderhandelaar.  
-3. b) toepassen  
+1. d) Onbekend
+2. c) Omdat hij beschuldigd wordt van misdrijven
+3. c) Het beschadigt hun reputatie
 
 ### Waar / Niet Waar
-1. Trump gebruikte zijn schoonzoon om te onderhandelen. (Waar)  
-2. De vrede in Gaza is nu permanent en onveranderlijk. (Niet waar)  
-3. Trump's aanpak was uniek en niet eerder vertoond. (Waar)  
+1. Prins Andrew vloog nooit met Epstein mee.
+2. De zaak-Epstein heeft de reputatie van de koninklijke familie geschaad.
+3. Prins Andrew heeft al zijn titels behouden.
+
 #### Antwoorden
-1. Waar  
-2. Niet waar  
-3. Waar<｜begin▁of▁sentence｜>
+1. Niet Waar
+2. Waar
+3. Niet Waar<｜begin▁of▁sentence｜>

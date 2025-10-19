@@ -1,60 +1,61 @@
-# Vereenvoudig de titel en samenvatting
+# Vredesbesprekingen in Gaza
 
-**Titel:** De Britten zijn boos en Nigel Farage kaapt de woede het best  
-**Samenvatting:** In Engeland zijn veel mensen boos op de politici. Veel mensen voelen zich in de steek gelaten. Waarom kijken boze Britten opnieuw naar Nigel Farage, de man die de Brexit heeft veroorzaakt?  
+[Vredesbesprekingen in Gaza]
+
+## Samenvatting
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/x3uvzm-aptopix-israel-palestinians-gaza/alternates/BASE_SIXTEEN_NINE/APTOPIX%20Israel%20Palestinians%20Gaza)   
+[Lees het originele artikel](https://www.standaard.be/buitenland/negen-palestijnen-gedood-bij-israelische-aanval/35173881.html)
+
+Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen.
 
 ## Woordenschatuitbreiding
 
-### Woordelijst
+### Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **boos** | kwaad, niet blij |
-| **vertrouwen** | geloven dat iemand goed is of iets goed zal doen |
-| **veranderen** | anders maken, veranderen |
-| **veroorzaken** | de reden zijn dat iets gebeurt |
-| **oplossing** | antwoord of manier om een probleem op te lossen |
+| **vredesbesprekingen** | gesprekken om vrede te bereiken |
+| **doorbraak** | een belangrijke, positieve verandering |
+| **onderhandelingen** | gesprekken om tot een oplossing te komen |
+| **ontwikkelingen** | nieuwe gebeurtenissen of veranderingen |
+| **vakgebied** | een bepaald gebied van studie of werk |
 
-### Vul de lege plekken in
-
-1. Veel Britten voelen dat de regering hen niet genoeg heeft geholpen, dus ze zijn ___.
-2. Sommige mensen denken dat Nigel Farage een antwoord is op hun problemen, want ze ___ hem.
-3. Na de Brexit veranderde veel in het Verenigd Koninkrijk, en veel mensen denken dat het land nu anders is dan ___.
-
+### Vul-in-de-leegte
+1. Na lange __onderhandelingen__ is er eindelijk een akkoord bereikt.
+2. De nieuwe __ontwikkelingen__ in de regio geven hoop op vrede.
+3. Het is belangrijk om op de hoogte te blijven van de laatste __ontwikkelingen__ in het __vakgebied__.
 #### Oplossingen
-1. boos
-2. vertrouwen
-3. voorheen
+1. Na lange **onderhandelingen** is er eindelijk een akkoord bereikt.
+2. De nieuwe **ontwikkelingen** in de regio geven hoop op vrede.
+3. Het is belangrijk om op de hoogte te blijven van de laatste **ontwikkelingen** in het **vakgebied**.
 
-### Kies het beste antwoord
-
-1. Waarom zijn veel Britten boos op hun regering?
-a) Omdat de regering te veel belasting heeft geheven.
-b) Omdat ze denken dat de regering hen niet genoeg heeft geholpen.
-c) Omdat de regering te veel feesten organiseert.
-
-2. Wat is de rol van Nigel Farage in deze situatie?
-a) Hij is de koning van Engeland.
-b) Hij is een politicus die veel mensen steunen.
-c) Hij is een beroemde voetballer.
-
-3. Wat is de Brexit?
-a) Een nieuw soort voedsel.
-b) De beslissing van het Verenigd Koninkrijk om de Europese Unie te verlaten.
-c) Een nieuwe sport.
-
+### Meerkeuzevragen
+1. Wat betekent het woord "doorbraak"?
+   a) een plotselinge verandering  
+   b) een slechte ontwikkeling  
+   c) een langzame verandering  
+   d) een kleine verandering  
+2. Waar gaan de vredesbesprekingen over?
+   a) over kunst en cultuur  
+   b) over het beëindigen van het conflict en het bereiken van vrede  
+   c) over sportevenementen  
+   d) over nieuwe technologieën  
+3. Waarom is het belangrijk om de ontwikkelingen te volgen?
+   a) om achterop te raken  
+   b) om op de hoogte te blijven van nieuwe informatie  
+   c) om alles te vergeten  
+   d) om alleen naar het verleden te kijken  
 #### Antwoorden
-1. b
-2. b
-3. b
+1. a) een plotselinge verandering  
+2. b) over het beëindigen van het conflict en het bereiken van vrede  
+3. b) om op de hoogte te blijven van nieuwe informatie  
 
-### Waar of niet waar?
-
-1. Alle Britten zijn boos op hun regering.
-2. Nigel Farage is de premier van het Verenigd Koninkrijk.
-3. De Brexit heeft het Verenigd Koninkrijk beter gemaakt.
-
+### Waar / Niet Waar
+1. Er is een doorbraak in de vredesbesprekingen in Gaza.  
+2. De onderhandelingen zijn al twee jaar aan de gang.  
+3. Er zijn geen nieuwe ontwikkelingen in dit gebied.  
 #### Antwoorden
-1. Niet waar
-2. Niet waar
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Waar  
+2. Niet Waar  
+3. Niet Waar

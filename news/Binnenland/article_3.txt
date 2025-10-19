@@ -1,15 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-10-18 05:22 UCT
+Nieuwsupdate: 2025-10-19 05:23 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Regisseur Marie De Hert schreef een boek over haar angststoornis: “We zijn allemaal op zoek naar iets om ons aan vast te houden”
-Link: https://www.standaard.be/binnenland/regisseur-marie-de-hert-schreef-een-boek-over-haar-angststoornis-we-zijn-allemaal-op-zoek-naar-iets-om-ons-aan-vast-te-houden/97109266.html
-Datum: Thu, 16 Oct 2025 21:59:00 GMT
-Samenvatting: Twee jaar geleden werd regisseur Marie De Hert (35) gevloerd door een paniekstoornis die maar niet ging liggen – beangstigend voor haar én haar omgeving. Sindsdien zocht ze hard naar een verklaring. “Nu weet ik dat er niet één antwoord is.”
+Titel: Archeologen vinden mummies in Duivelsteen Gent: “Uitzonderlijk goed bewaarde skeletten, met restjes haar, huid en textiel”
+Link: https://www.standaard.be/binnenland/archeologen-vinden-mummies-in-duivelsteen-gent-uitzonderlijk-goed-bewaarde-skeletten-met-restjes-haar-huid-en-textiel/98420192.html
+Datum: Sat, 18 Oct 2025 07:39:00 GMT
+Samenvatting: Archeologen hebben in het Duivelsteen in Gent onverwacht een machtige ontdekking gedaan. Bij opgravingen vonden ze goed bewaarde en deels gemummificeerde resten van vermoedelijk paters, meldt VRT NWS. “We wisten dat we dingen gingen vinden, maar dít hadden we niet verwacht.”
 Auteur: Geen auteur
 Categorie: Binnenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/e397pf-mariedehert028.jpg/alternates/BASE_SIXTEEN_NINE/MarieDeHert028.jpg
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/pkbof0-duivelsteen.jpg/alternates/BASE_SIXTEEN_NINE/duivelsteen.jpg
+Premium: false
 ------------------------------------------------------------

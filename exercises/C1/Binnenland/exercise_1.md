@@ -1,10 +1,7 @@
-# Vereenvoudiging
-
-## Titel
-Is er een strengere regel nodig voor euthanasie bij twintigers? "De hersenen zijn pas volgroeid vanaf 25 jaar"
+# Nieuws over de kerk: 3000 euro per slachtoffer is een tijdelijke oplossing
 
 ## Samenvatting
-In Nederland maken mensen zich zorgen over het groeiende aantal jongeren dat zich aanmeldt voor euthanasie vanwege psychisch lijden. Ook in België overwegen psychiaters of er strengere regels voor twintigers nodig zijn. "Maar we willen polarisatie vermijden."
+De kerk betaalt 3000 euro aan elk van de 1591 erkende slachtoffers van misbruik. Dit geld is bedoeld om psychologische hulp te betalen. De kerk zegt dat dit een tijdelijke oplossing is en wacht op meer actie van de politiek.
 
 ## Woordenschatuitbreiding
 
@@ -12,50 +9,50 @@ In Nederland maken mensen zich zorgen over het groeiende aantal jongeren dat zic
 
 | Woord | Definitie |
 |-------|-----------|
-| **euthanasie** | het beëindigen van een leven om lijden te stoppen, meestal medisch |
-| **psychisch** | met betrekking tot de geest en emoties |
-| **twintigers** | mensen tussen de 20 en 30 jaar oud |
-| **polarisatie** | wanneer mensen in twee groepen verdeeld raken en tegenover elkaar komen te staan |
-| **richtlijn** | een officiële regel of gids over hoe iets gedaan moet worden |
+| **slachtoffer** | iemand die iets ergs is overkomen |
+| **oplossing** | de manier waarop een probleem wordt opgelost |
+| **misbruik** | iemand slecht behandelen of pijn doen |
+| **tussentijds** | voorlopig, niet definitief |
+| **symboliek** | iets dat staat voor een grotere betekenis |
 
 ### Vul-in-de-leegte
-1. Euthanasie is een manier om het leven te beëindigen wanneer iemand veel __ lijdt.
-2. Sommige twintigers overwegen euthanasie vanwege psychisch __.
-3. Experts willen polarisatie __ door duidelijke richtlijnen te creëren.
+1. De kerk betaalt 3000 euro per ___ aan de slachtoffers.
+2. Het geld is bedoeld om ___ te betalen voor de slachtoffers.
+3. De kerk noemt dit een ___ oplossing en wacht op de politiek.
 
 #### Oplossingen
-1. lichamelijk of geestelijk
-2. lijden
-3. vermijden
+1. slachtoffer
+2. psychologische hulp
+3. tussentijdse
 
 ### Meerkeuzevragen
-1. Wat is een voorbeeld van polarisatie?
-   a) Mensen worden het eens over een oplossing.
-   b) Mensen worden verdeeld in twee groepen met tegengestelde meningen.
-   c) Mensen werken samen aan een project.
-   d) Mensen vieren samen een feest.
-2. Waarom is er discussie over euthanasie voor twintigers?
-   a) Omdat hun hersenen nog niet volgroeid zijn.
-   b) Omdat twintigers te jong zijn om te sterven.
-   c) Omdat euthanasie alleen voor ouderen is.
-   d) Omdat jongeren geen psychisch lijden kunnen hebben.
-3. Wat is een mogelijke oplossing volgens de tekst?
-   a) Euthanasie volledig verbieden.
-   b) Geen richtlijnen maken.
-   c) Strengere richtlijnen over wie in aanmerking komt.
-   d) Alleen ouderen euthanasie aanbieden.
+1. Wat is de hoofdgedachte van het artikel?
+   a) De kerk weigert slachtoffers te helpen
+   b) De kerk biedt financiële steun als tijdelijke oplossing
+   c) De kerk heeft alle problemen opgelost
+   d) De kerk geeft geen geld aan slachtoffers
+2. Waar is het geld voor bedoeld?
+   a) Om nieuwe kerken te bouwen
+   b) Om slachtoffers te straffen
+   c) Om psychologische hulp te betalen
+   d) Om feesten te organiseren
+3. Wat is de houding van de kerk?
+   a) Ze weigeren iets te doen
+   b) Ze wachten op actie van de politiek
+   c) Ze geven alle problemen op
+   d) Ze negeren de slachtoffers
 
 #### Antwoorden
 1. b
-2. a
-3. c
+2. c
+3. b
 
 ### Waar / Niet Waar
-1. Er is bezorgdheid over jongeren die euthanasie aanvragen.
-2. Psychiaters in België willen geen nieuwe richtlijnen.
-3. Polarisatie betekent dat mensen het met elkaar eens zijn.
+1. De kerk betaalt 3000 euro per slachtoffer. (Waar)
+2. De kerk zegt dat dit een permanente oplossing is. (Niet waar)
+3. De kerk wacht op de politiek voor meer actie. (Waar)
 
 #### Antwoorden
 1. Waar
-2. Niet waar
-3. Niet waar<｜begin▁of▁sentence｜>
+2. Niet Waar
+3. Waar<｜begin▁of▁sentence｜>

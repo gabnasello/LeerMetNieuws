@@ -1,54 +1,61 @@
-# Drugsgebruikersruimte verdeelt buurt: “Omdat het Ribaucourt is, moeten we het er blijkbaar allemaal maar bijnemen”
+# Attractiepark helpt bezoekers met beperking
+
+De Nederlandse autisme-activist Romano Sandee (37) heeft deze week Plopsa zover gekregen dat de regels voor bezoekers met een beperking worden aangepast. Vanaf 2026 mogen zij in alle Belgische, Nederlandse en Duitse Plopsa-parken gebruikmaken van de prikkelarme wachtrij zónder verplichte begeleider, als ze zelfstandig op en af de attractie kunnen.
 
 ## Samenvatting
-Een drugsgebruikersruimte wordt geopend bij de metrohalte Ribaucourt in Molenbeek. Sommige buurtbewoners zijn hiertegen, terwijl anderen het een goed idee vinden. De situatie verdeelt de buurt.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/snc6l7-plopsaland-de-panne-dsc06871.jpg/alternates/BASE_SIXTEEN_NINE/PLOPSALAND%20de%20panne%20DSC06871.jpg)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/plopsa-past-inclusiebeleid-aan-na-discriminatieklacht-nederlandse-autisme-activist/98435979.html)
+
+De Nederlandse autisme-activist Romano Sandee (37) heeft deze week Plopsa zover gekregen dat de regels voor bezoekers met een beperking worden aangepast. Vanaf 2026 mogen zij in alle Belgische, Nederlandse en Duitse Plopsa-parken gebruikmaken van de prikkelarme wachtrij zónder verplichte begeleider, als ze zelfstandig op en af de attractie kunnen.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordenschat
+
 | Woord | Definitie |
 |-------|-----------|
-| **gebruikersruimte** | een speciale ruimte waar mensen drugs kunnen gebruiken, vaak met medisch toezicht |
-| **buurt** | het gebied waarin je woont, met de mensen en gebouwen eromheen |
-| **tegen zijn** | het er niet mee eens zijn, ertegen zijn |
-| **voorstander** | iemand die vóór iets is, die iets steunt |
-| **verdeeld** | wanneer een groep of gebied het niet met elkaar eens is, en er verschillende meningen zijn |
+| **autisme** | een aangeboren aandoening die invloed heeft op hoe iemand informatie verwerkt en communiceert |
+| **beperking** | een lichamelijke of geestelijke aandoening die ervoor zorgt dat iemand sommige dingen niet of moeilijk kan doen |
+| **inclusie** | het actief betrekken en meedoen laten van mensen met een beperking in de samenleving |
+| **attractie** | een attractie (ook wel attractiepark) is een plaats waar mensen komen voor vermaak, zoals een pretpark |
+| **zelfstandig** | op eigen kracht, zonder hulp van anderen |
 
 ### Vul-in-de-leegte
-1. De nieuwe ___ opende in de buurt van het metrostation.
-2. Veel bewoners waren ___ het plan, maar anderen steunden het.
-3. De kwestie heeft de gemeenschap ___.
+1. Mensen met een beperking kunnen nu __ de attractie.
+2. Dankzij de nieuwe regel is een begeleider niet langer __.
+3. Bezoekers kunnen nu zelfstandig op en af de attractie __.
 #### Oplossingen
-1. drugsgebruikersruimte
-2. tegen
-3. verdeeld
+1. bezoeken
+2. verplicht
+3. stappen
 
 ### Meerkeuzevragen
-1. Wat is een drugsgebruikersruimte?
-   a) een sportschool
-   b) een plek waar mensen drugs kunnen gebruiken onder toezicht
-   c) een koffiebar
-   d) een gemeenschapscentrum
-2. Waarover is de buurt verdeeld?
-   a) de kleur van de nieuwe speeltuin
-   b) of er een drugsgebruikersruimte moet komen
-   c) de prijs van koffie
-   d) de openingstijden van het metrostation
-3. Wat betekent "tegen zijn"?
-   a) ergens voor zijn
-   b) tegen iets vechten
-   c) het er niet mee eens zijn
-   d) voor iets demonstreren
+1. Wat is de kern van de nieuwe regeling?
+   A) Mensen met autisme krijgen gratis toegang.
+   B) De attracties zijn volledig aangepast voor rolstoelgebruikers.
+   C) Bezoekers met een beperking mogen zonder verplichte begeleider de attractie gebruiken.
+   D) Iedereen moet nu een medisch attest tonen.
+2. Wat is het voordeel van de aanpassing?
+   A) Bezoekers met een beperking kunnen nu zelfstandig de attractie betreden.
+   B) De parken maken meer winst door hogere ticketprijzen.
+   C) Het is nu verplicht om een vriend mee te nemen.
+   D) De attracties zijn nu volledig gerobotiseerd.
+3. Wat is een voorbeeld van inclusie?
+   A) Iedereen moet hetzelfde betalen, ongeacht hun situatie.
+   B) Scholen weigeren leerlingen met een beperking.
+   C] Openbare gebouwen hebben alleen trappen, geen liften.
+   D] Musea bieden gratis rondleidingen aan in gebarentaal.
 #### Antwoorden
-1. b
-2. b
-3. c
+1. C
+2. A
+3. D
 
 ### Waar / Niet Waar
-1. Iedereen in de buurt is voor de nieuwe drugsgebruikersruimte.
-2. De drugsgebruikersruimte is alleen voor toeristen.
-3. Alle buurtbewoners zijn tegen het plan.
+1. De nieuwe regels gelden alleen in Nederland.
+2. Romano Sandee heeft zelf een vorm van autisme.
+3. De regels gelden vanaf 2026.
 #### Antwoorden
-1. Niet waar
-2. Niet waar
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Niet Waar
+2. Waar
+3. Waar

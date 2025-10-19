@@ -1,59 +1,54 @@
-# An Olaerts over de eerste roman die ze ooit las: “Meester Zwartrok is een pervers mannetje. En maar zeuren over die gleufjes”
+# Drugsgebruikersruimte verdeelt buurt
 
-## Samenvatting
-An Olaerts was zeven jaar oud toen ze haar allereerste roman las. Jaren later vond ze ‘De mantel van Viola’ terug en ontdekte dat het eigenlijk een verborgen seksverhaal was.
+Op de metrohalte Ribaucourt in Molenbeek komt er een ruimte waar drugsgebruikers veilig kunnen gebruiken. Sommige buurtbewoners zijn tegen dit plan. Andere mensen vinden dit een goed idee.
 
 ## Woordenschatuitbreiding
 
-### Woordenschat
+### Woordenlijst
+
 | Woord | Definitie |
 |-------|-----------|
-| **roman** | een lang verhaal, meestal in boekvorm |
-| **pervers** | niet normaal of gezond, op een slechte manier |
-| **vermomd** | verborgen of verkleed als iets anders |
-| **seksueel** | alles wat met seks te maken heeft |
-| **recensie** | een beoordeling of mening over iets, zoals een boek of film |
+| **ruimte** | een plaats of gebied |
+| **gebruiken** | iets op een bepaalde manier gebruiken |
+| **buurt** | de omgeving waarin je woont |
+| **veilig** | zonder gevaar of risico |
+| **tegen** | niet voor iets zijn, ertegen zijn |
 
 ### Vul-in-de-leegte
-1. An Olaerts was nog maar een kind toen ze haar eerste ___ las.
-2. De roman bleek later een ___ verhaal te zijn, niet wat het leek.
-3. De recensie legde uit dat het boek een ___ verhaal was.
-
-#### Oplossingen
-1. roman
-2. vermomd
-3. seksueel
+1. De nieuwe ruimte is bedoeld om drugs ___ op een veilige manier.
+2. Sommige bewoners zijn ___ het plan omdat ze bang zijn voor meer problemen.
+3. De ruimte is ___ voor mensen die drugs gebruiken.
+#### Oplossing
+1. gebruiken
+2. tegen
+3. bedoeld
 
 ### Meerkeuzevragen
-1. Wat is een 'roman'?
-  a) een soort fruit
-  b) een lang verhaal in boekvorm
-  c) een soort muziek
-  d) een wiskundig probleem
-
-2. Wat betekent 'pervers' in deze context?
-  a) heel erg goed
-  b) niet normaal of gezond
-  c) erg duur
-  d) heel mooi
-
-3. Wat is een 'recensie'?
-  a) een soort auto
-  b) een nieuwe film
-  c) een beoordeling of mening over iets
-  d) een soort sport
-
+1. Wat is een drugsgebruikersruimte?
+   a) Een winkel waar je drugs kan kopen  
+   b) Een veilige plek om drugs te gebruiken  
+   c) Een sportschool  
+   d) Een restaurant  
+2. Waarom zijn sommige buurtbewoners tegen de ruimte?
+   a) Ze willen zelf de drugs gebruiken.  
+   b) Ze zijn bang dat het problemen zal veroorzaken.  
+   c) Ze willen dat er meer drugs wordt verkocht.  
+   d) Ze denken dat het te duur wordt.  
+3. Wat is het doel van de ruimte?
+   a) Om meer mensen aan te moedigen drugs te gebruiken  
+   b) Om een veilige plek te bieden voor mensen die al drugs gebruiken  
+   c) Om drugs te verkopen  
+   d) Om de politie te helpen  
 #### Antwoorden
 1. b
 2. b
-3. c
+3. b
 
 ### Waar / Niet Waar
-1. An Olaerts was al volwassen toen ze haar eerste roman las.
-2. ‘De mantel van Viola’ was eigenlijk een verborgen seksverhaal.
-3. Recensies schrijven over wat een boek echt is.
-
+1. Alle buurtbewoners zijn tegen de nieuwe drugsruimte. (Niet waar)
+2. De ruimte is bedoeld om mensen te helpen die al drugs gebruiken. (Waar)
+3. De ruimte zal de buurt veiliger maken. (Niet waar)
 #### Antwoorden
 1. Niet waar
 2. Waar
-3. Waar
+3. Niet waar<｜begin▁of▁sentence｜>

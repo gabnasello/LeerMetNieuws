@@ -1,13 +1,8 @@
-# Een zaak uit het verleden
-
-De voormalige Amerikaanse president Donald Trump laat zijn politieke tegenstander John Bolton vervolgen. Dit laat zien dat Trump wraak wil nemen op mensen die hij niet mag.
+# Eenvoudige titel en samenvatting
+Donald Trumps tweede termijn als president van Amerika brengt wereldwijd veranderingen. Overal zijn er protesten tegen hem.
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/b0ibi6-bolton-indict-3.jpg/alternates/BASE_SIXTEEN_NINE/BOLTON%20INDICT%203.jpg)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/vervolging-john-bolton-toont-het-meer-dan-ooit-trumps-wraak-is-puur-persoonlijk/98265777.html)
-
-Donald Trump is de voormalige president van Amerika. Hij laat nu een oude medewerker, John Bolton, vervolgen. Dit komt omdat Bolton ooit iets negatiefs over Trump zei. Trump wil wraak nemen. Dit laat zien dat Trump zijn persoonlijke gevoelens laat gelden, zelfs in de politiek.
+Donald Trump is opnieuw president van Amerika. Overal in de wereld zijn er protesten tegen hem.
 
 ## Woordenschatuitbreiding
 
@@ -16,46 +11,49 @@ Donald Trump is de voormalige president van Amerika. Hij laat nu een oude medewe
 | Woord | Definitie |
 |-------|-----------|
 | **president** | de leider van een land |
-| **vervolgen** | iemand voor de rechter brengen omdat hij iets verkeerds zou hebben gedaan |
-| **medewerker** | iemand met wie je samenwerkt |
-| **gevoelens** | emoties zoals blij, boos of verdrietig |
-| **politiek** | alles wat met de regering en het bestuur van een land te maken heeft |
+| **wereld** | de aarde en alle landen samen |
+| **protest** | actie tegen iets of iemand |
+| **verandering** | dat iets anders wordt |
+| **tegen** | niet voor, maar er tegen |
 
 ### Vul-in-de-leegte
-1. Donald Trump was de _______ van Amerika.
-2. John Bolton was een _______ van Trump, maar nu zijn ze tegenstanders.
-3. Trump laat Bolton vervolgen omdat hij nog steeds _______ heeft over iets uit het verleden.
+1. Donald Trump is de ___ van Amerika.
+2. Mensen protesteren ___ Trump.
+3. Een verandering is dat iets anders ___.
+
 #### Oplossingen
 1. president
-2. medewerker  
-3. gevoelens
+2. tegen
+3. wordt
 
 ### Meerkeuzevragen
-1. Waarom laat Trump Bolton vervolgen?  
-a) Omdat Bolton een goede vriend is  
-b) Omdat Bolton een fout maakte  
-c) Omdat Trump boos is over iets ouds  
-d) Omdat Trump hem wil helpen  
-2. Wat betekent "vervolgen" in deze context?  
-a) Iemand een cadeau geven  
-b) Iemand voor de rechter brengen  
-c) Iemand een baan geven  
-d) Iemand vergeven  
-3. Wat is de hoofdreden volgens de tekst?  
-a) Trump wil macht tonen  
-b) Trump heeft honger  
-c) Trump is boos over iets uit het verleden  
-d) Trump is blij met Bolton  
+1. Wat is Donald Trump?
+   a) een acteur
+   b) de president van Amerika
+   c) een protest
+   d) een verandering
+2. Waar zijn er protesten?
+   a) alleen in Amerika
+   b) overal in de wereld
+   c) alleen in Europa
+   d) nergens
+3. Wat is een verandering?
+   a) iets dat hetzelfde blijft
+   b) iets dat anders wordt
+   c) een protest
+   d) een president
+
 #### Antwoorden
-1. c) Omdat Trump boos is over iets ouds  
-2. b) Iemand voor de rechter brengen  
-3. c) Trump is boos over iets uit het verleden  
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Trump is de huidige president van Amerika.  
-2. John Bolton is een vriend van Trump.  
-3. De zaak is gebaseerd op een oude gebeurtenis.  
+1. Donald Trump is de president van Europa.
+2. Mensen zijn tegen Trump.
+3. Overal zijn er protesten.
+
 #### Antwoorden
-1. Niet Waar  
-2. Niet Waar  
+1. Niet waar
+2. Waar
 3. Waar

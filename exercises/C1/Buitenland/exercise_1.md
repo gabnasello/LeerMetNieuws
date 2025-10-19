@@ -1,9 +1,10 @@
-# Vervolging John Bolton toont: Trumps wraak is persoonlijk
+# Titels en samenvatting vereenvoudigen
 
-[Vervolging John Bolton toont: Trumps wraak is persoonlijk]
+## Titel
+Trump's tweede termijn: wereldwijd protest tegen zijn beleid
 
 ## Samenvatting
-Doordat Donald Trump John Bolton laat vervolgen, de man die hem bijna ten val bracht in zijn eerste afzettingsproces, bewijst Trump dat zelfs zijn rechtse tegenstanders zijn wraak moeten vrezen.
+Donald Trump is voor de tweede keer president van de Verenigde Staten. Zijn beleid veroorzaakt wereldwijd veranderingen. Overal ter wereld zijn er protesten. Mensen zijn ontevreden en laten dat zien.
 
 ## Woordenschatuitbreiding
 
@@ -11,47 +12,50 @@ Doordat Donald Trump John Bolton laat vervolgen, de man die hem bijna ten val br
 
 | Woord | Definitie |
 |-------|-----------|
-| **vervolgen** | iemand voor de rechter brengen (om te straffen) |
-| **afzettingsproces** | een procedure waarbij een hooggeplaatst persoon uit zijn functie wordt gezet |
-| **wraak** | iets negatiefs doen om terug te pakken voor iets dat iemand je heeft aangedaan |
-| **tegenstander** | iemand die het niet met je eens is en/of tegen je vecht |
-| **aanstellen** | iemand een baan of positie geven |
+| **tweede** | volgend op de eerste, nummer twee |
+| **termijn** | periode waarin iemand een functie heeft |
+| **wereldwijd** | over de hele wereld |
+| **protest** | uiting van ongenoegen, tegenactie |
+| **verandering** | iets wat anders wordt dan het was |
 
 ### Vul-in-de-leegte
-1. Trump laat Bolton ___ om zich te wreken voor eerdere conflicten.
-2. Bolton was een ___ van Trump, wat leidde tot het afzettingsproces.
-3. Trump stelt mensen ___, zoals ambassadeurs, om zijn regering te runnen.
+1. Trump's tweede ___ als president wordt wereldwijd bekeken.
+2. Mensen protesteren omdat ze het niet ___ met het beleid.
+3. Een ___ is een wijziging in de situatie.
+
 #### Oplossingen
-1. vervolgen
-2. tegenstander
-3. aan
+1. termijn
+2. eens
+3. verandering
 
 ### Meerkeuzevragen
-1. Wat is een "afzettingsproces"?
-   a) Een procedure waarbij iemand uit zijn functie wordt gezet.
-   b) Een feestelijke promotie.
-   c) Een rechtszaak over belastingen.
-   d) Een toneelstuk.
-2. Waarom laat Trump Bolton vervolgen volgens de tekst?
-   a) Omdat Bolton een vriend is.
-   b) Omdat Trump zich wil wreken.
-   c) Omdat Bolton een prijs won.
-   d) Omdat Trump hem een baan aanbood.
-3. Wat betekent "wraak" in deze context?
-   a) Een geschenk geven.
-   b) Iets negatiefs doen uit wraak.
-   c) Samenwerken.
-   d) Vergeven en vergeten.
+1. Wat betekent "wereldwijd"?
+   a) Alleen in Amerika
+   b) Over de hele wereld
+   c) Binnen één stad
+   d) Geen van beide
+2. Waarom protesteren mensen tegen Trump's beleid?
+   a) Omdat ze hem niet leuk vinden
+   b) Omdat ze het oneens zijn met zijn ideeën
+   c) Omdat ze vervelend willen zijn
+   d) Omdat ze niets te doen hebben
+3. Wat is een "verandering"?
+   a) Een object dat beweegt
+   b) Een persoon die praat
+   c) Een wijziging in de toestand
+   d) Een soort voedsel
+
 #### Antwoorden
-1. a
-2. b
-3. b
+1. b) Over de hele wereld
+2. b) Omdat ze het oneens zijn met zijn ideeën
+3. c) Een wijziging in de toestand
 
 ### Waar / Niet Waar
-1. Alleen linkse tegenstanders worden door Trump vervolgd.
-2. Bolton werd aangeklaad omdat hij Trump steunde.
-3. Trump toont met deze zaak dat hij persoonlijke wraak neemt.
+1. Donald Trump is de president van de Verenigde Staten.
+2. Alle mensen over de hele wereld zijn blij met Trump's beleid.
+3. "Termijn" verwijst naar de duur van een presidentschap.
+
 #### Antwoorden
-1. Niet waar (ook rechtse tegenstanders)
-2. Niet waar (Bolton was tegen Trump)
+1. Waar
+2. Niet waar
 3. Waar<｜begin▁of▁sentence｜>

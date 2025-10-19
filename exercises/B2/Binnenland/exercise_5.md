@@ -1,63 +1,64 @@
-# An Olaerts over de eerste roman die ze ooit las
+# Drugsgebruikersruimte verdeelt de buurt
 
-An Olaerts was zeven toen ze haar allereerste roman las. Jaren later vindt ze 'De mantel van Viola' terug en ontdekt ze dat het eigenlijk een vermomde seksvertelling is.
+[Vereenvoudigde titel]
 
 ## Samenvatting
-An Olaerts was zeven jaar oud toen ze haar eerste roman las. Jaren later vond ze het boek 'De mantel van Viola' terug en ontdekte ze dat het eigenlijk een verborgen seksverhaal is.
+
+![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/7m48l1-drugsgebruikers-ribeaucourt-09-kristofvadino-dsc05580.jpg/alternates/BASE_SIXTEEN_NINE/Drugsgebruikers_Ribeaucourt_09_KristofVadino_DSC05580.jpg)   
+[Lees het originele artikel](https://www.standaard.be/binnenland/drugsgebruikersruimte-verdeelt-buurt-omdat-het-ribaucourt-is-moeten-we-het-er-blijkbaar-allemaal-maar-bijnemen/97563058.html)
+
+In de buurt van de metrohalte Ribaucourt in Molenbeek komt er een speciale ruimte waar mensen drugs kunnen gebruiken. Sommige buurtbewoners zijn hiertegen. Andere buurtbewoners vinden dat deze ruimte juist snel moet komen.
 
 ## Woordenschatuitbreiding
 
-### Woordenschat
+### Woordenlijst
+
 | Woord | Definitie |
 |-------|-----------|
-| **roman** | een lang verhaal in een boek, meestal met veel personages |
-| **ontdekken** | iets nieuws vinden of leren |
-| **verhaal** | een vertelling van gebeurtenissen, echt of verzonnen |
-| **vermomd** | verborgen of verkleed zodat het niet direct zichtbaar is |
-| **seksueel** | alles wat te maken heeft met seks of intimiteit |
+| **gebruikers** | mensen die iets gebruiken (hier: drugsgebruikers) |
+| **ruimte** | een grote plaats, een plek waar je iets kunt doen |
+| **tegen** | niet voor, er tegen zijn |
+| **snel** | met weinig tijd ertussen, vlug |
+| **buurt** | het gebied, de straat en huizen waar je woont |
 
 ### Vul-in-de-leegte
-1. An Olaerts las haar eerste roman toen ze nog maar ___ jaar oud was.
-2. Toen An Olaerts 'De mantel van Viola' opnieuw las, ontdekte ze dat het eigenlijk een ___ verhaal was.
-3. Het verhaal was ___, wat betekent dat het niet direct duidelijk was.
+1. Sommige bewoners zijn ____ de komst van de drugsgebruikersruimte.
+2. Andere bewoners vinden dat de ruimte ____ geopend moet worden.
+3. De buurtbewoners lopen dagelijks langs de drugs____.
 
 #### Oplossingen
-1. zeven
-2. seksueel
-3. vermomd
+1. tegen
+2. snel
+3. gebruikers
 
 ### Meerkeuzevragen
-1. Wat ontdekte An Olaerts toen ze 'De mantel van Viola' opnieuw las?
-A) Dat het een grappig verhaal was
-B) Dat het een verborgen seksverhaal was
-C) Dat het een kort verhaal was
-D) Dat het een saai verhaal was
-
-2. Hoe oud was An Olaerts toen ze haar eerste roman las?
-A) 5 jaar oud
-B) 10 jaar oud
-C) 7 jaar oud
-D) 8 jaar oud
-
-3. Wat betekent 'vermomd' in deze context?
-A) Het verhaal is heel spannend.
-B) Het verhaal is verborgen of verkleed.
-C) Het verhaal is heel saai.
-D) Het verhaal is heel duidelijk.
+1. Waar gaat dit artikel over?
+   a) een nieuwe speeltuin
+   b) een ruimte voor drugsgebruik
+   c) de opening van een nieuwe supermarkt
+   d) een protest tegen de metro
+2. Wat vinden sommige buurtbewoners van de drugsgebruikersruimte?
+   a) Ze zijn er blij mee.
+   b) Ze willen hem niet.
+   c) Ze denken dat het niet echt is.
+   d) Ze willen er meer van.
+3. Wat is de houding van andere buurtbewoners?
+   a) Ze willen de ruimte niet.
+   b) Ze willen dat de ruimte snel opengaat.
+   c) Ze willen meer informatie.
+   d) Ze zijn er niet mee bezig.
 
 #### Antwoorden
-1. B
-2. C
-3. B
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. An Olaerts was 10 jaar oud toen ze haar eerste roman las.
-2. 'De mantel van Viola' is eigenlijk een verborgen seksverhaal.
-3. An Olaerts ontdekte niets toen ze het boek opnieuw las.
+1. Alle buurtbewoners zijn tegen de drugsgebruikersruimte.
+2. De drugsgebruikersruimte is al open.
+3. Sommige buurtbewoners zijn voor de komst van de drugsruimte.
 
 #### Antwoorden
-1. Niet waar (ze was 7 jaar oud)
-2. Waar
-3. Niet waar (ze ontdekte dat het een verborgen seksverhaal was)
-
----<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Niet waar
+3. Waar<｜begin▁of▁sentence｜>

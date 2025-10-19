@@ -1,15 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-10-18 05:22 UCT
+Nieuwsupdate: 2025-10-19 05:23 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: De Britten zijn boos en weer kaapt Nigel Farage de woede het best
-Link: https://www.standaard.be/buitenland/de-britten-zijn-boos-en-weer-kaapt-nigel-farage-de-woede-het-best/98151058.html
-Datum: Fri, 17 Oct 2025 21:59:00 GMT
-Samenvatting: In Engeland groeit de woede over de politieke klasse. Velen voelen zich in de steek gelaten. Waarom verwachten boze Britten opnieuw alle heil van Nigel Farage, de man die de Brexit in gang heeft gezet?
+Titel: “Negen Palestijnen gedood bij Israëlische aanval”
+Link: https://www.standaard.be/buitenland/negen-palestijnen-gedood-bij-israelische-aanval/35173881.html
+Datum: Sat, 18 Oct 2025 15:12:00 GMT
+Samenvatting: Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/z9l733-gettyimages-2232493441.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-2232493441.jpg
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/x3uvzm-aptopix-israel-palestinians-gaza/alternates/BASE_SIXTEEN_NINE/APTOPIX%20Israel%20Palestinians%20Gaza
+Premium: false
 ------------------------------------------------------------

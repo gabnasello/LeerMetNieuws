@@ -1,6 +1,10 @@
-# An Olaerts over de eerste roman die ze ooit las
+# De strijd om de drugsgebruikersruimte
 
-An Olaerts las haar eerste roman toen ze zeven jaar oud was. Jaren later ontdekte ze dat het boek eigenlijk een verkapt seksverhaal was.
+## Titel
+Drugsgebruikersruimte verdeelt buurt: “Omdat het Ribaucourt is, moeten we het er blijkbaar allemaal maar bijnemen”
+
+## Samenvatting
+Aan de veelgeplaagde Molenbeekse metrohalte Ribaucourt zou dit jaar nog een drugsgebruikersruimte de deuren openen, tot buurtbewoners daar een stokje voor staken. Voor andere mensen uit de wijk kan de ‘spuitruimte’ niet snel genoeg opengaan. “Wij lopen elke dag met onze kinderen langs de gebruikers.”
 
 ## Woordenschatuitbreiding
 
@@ -8,50 +12,52 @@ An Olaerts las haar eerste roman toen ze zeven jaar oud was. Jaren later ontdekt
 
 | Woord | Definitie |
 |-------|-----------|
-| **roman** | een lang verhalend boek, meestal met diepgaande personages en plot |
-| **ontdekken** | iets vinden of leren dat niet bekend was |
-| **vermomd** | verborgen of vermomd, zodat het niet direct duidelijk is |
-| **seksueel** | met betrekking tot seks, de fysieke daad van intimiteit |
-| **vertelling** | een verhaal of verhaal dat verteld wordt |
+| **gebruikersruimte** | een speciale plek waar mensen drugs kunnen gebruiken |
+| **buurt** | de omgeving of wijk waarin je woont |
+| **stokje voor steken** | iets in de weg leggen om te voorkomen dat iets doorgaat |
+| **spuitruimte** | een plek waar mensen drugs kunnen injecteren |
+| **openen** | beginnen, starten, of beschikbaar stellen |
 
 ### Vul-in-de-leegte
-1. An Olaerts las haar eerste ___ toen ze zeven was.
-2. Toen ze ouder was, ontdekte ze dat het boek eigenlijk een ___ seksverhaal was.
-3. Het verhaal was niet wat het leek; het was ___.
+1. De nieuwe ___ in de buurt zorgde voor veel discussie.
+2. Sommige bewoners willen een ___ voor de drugsgebruikers.
+3. De buurtbewoners hopen dat de ruimte snel ___ zal worden.
 
 #### Oplossingen
-1. roman
-2. vermomde
-3. een seksverhaal
+1. spuitruimte
+2. stokje voor steken
+3. opengaan
 
 ### Meerkeuzevragen
-1. Wat ontdekte An Olaerts over het boek jaren later?
-   a) Het was een sprookje.
-   b) Het was een kookboek.
-   c) Het was eigenlijk een seksverhaal.
-   d) Het was een sciencefictionverhaal.
-2. Hoe oud was An Olaerts toen ze het boek voor het eerst las?
-   a) zeventien
-   b) zeven
-   c) zevenentwintig
-   d) vijf
-3. Wat betekent "vermomd" in deze context?
-   a) het is vermoeiend
-   b) het is verborgen of vermomd
-   c) het is zeer duidelijk
-   d) het is saai en saai
+1. Wat is een 'gebruikersruimte'?
+   a) een plek waar mensen drugs kunnen gebruiken
+   b) een plek waar mensen kunnen sporten
+   c) een plek waar mensen kunnen studeren
+   d) een plek waar mensen kunnen slapen
+
+2. Waarom zijn sommige bewoners tegen de ruimte?
+   a) Ze denken dat het gevaarlijk is voor kinderen.
+   b) Ze willen er zelf drugs gebruiken.
+   c) Ze denken dat het de buurt opfleurt.
+   d) Ze hebben geen mening.
+
+3. Wat betekent "openen" in deze context?
+   a) sluiten
+   b) beginnen of starten
+   c) vergeten
+   d) verbergen
 
 #### Antwoorden
-1. c) Het was eigenlijk een seksverhaal.
-2. b) zeven
-3. b) het is verborgen of vermomd
+1. a
+2. a
+3. b
 
 ### Waar / Niet Waar
-1. An Olaerts las haar eerste roman toen ze zeven was.
-2. Het boek was een spannend avonturenverhaal.
-3. An Olaerts ontdekte later dat het boek een diepere betekenis had.
+1. De drugsgebruikersruimte is al geopend.
+2. Alle buurtbewoners zijn tegen de ruimte.
+3. De ruimte is bedoeld voor mensen die drugs injecteren.
 
 #### Antwoorden
-1. Waar
-2. Niet Waar (het was een seksverhaal)
+1. Niet waar
+2. Niet waar
 3. Waar

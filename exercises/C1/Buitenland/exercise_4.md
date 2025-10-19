@@ -1,57 +1,61 @@
-# Is de ‘methode-Trump’ van dwang en deals de sleutel tot vrede in het Midden-Oosten?
+# Eenvoudige versie voor lesmateriaal
 
-Met zijn schoonzoon als onderhandelaar en wars van diplomatieke conventies duwde Donald Trump het akkoord rond Gaza erdoor. Daar zwijgen de wapens grotendeels, maar hoe duurzaam is zijn aanpak? “Trump gebruikt dwang en invloed op een manier die verder ging dan wat een Democratische president ooit durfde.”
+## Titel
+Nieuwe onthullingen na afgeven koninklijke titels: Prins Andrew vloog meermaals mee in Epsteins privéjet
+
+## Samenvatting
+Prins Andrew geeft zijn titels op. Hij wordt ervan beschuldigd dat hij betrokken was bij de zaak-Epstein. Dit schaadt het werk van de koninklijke familie. Uit nieuwe documenten blijkt dat hij minstens vier keer heeft meegereisd in het privévliegtuig van Epstein.
 
 ## Woordenschatuitbreiding
 
-### Woordenlijst
+### Woordenschat
 
 | Woord | Definitie |
 |-------|-----------|
-| **schoonzoon** | de echtgenoot van iemands dochter |
-| **dwang** | het uitoefenen van druk of kracht om iets gedaan te krijgen |
-| **duurzaam** | bestand tegen langdurig gebruik of van lange duur |
-| **onderhandelaar** | iemand die namens anderen onderhandelingen voert |
-| **conventies** | algemeen aanvaarde of overeengekomen manieren van handelen |
+| **titel** | een officiële naam of positie die iemand krijgt, bijvoorbeeld 'koning' of 'prinses' |
+| **privéjet** | een klein vliegtuig voor privégebruik, niet voor het grote publiek |
+| **meermaals** | meer dan één keer; herhaaldelijk |
+| **bewijs** | documenten of feiten die aantonen dat iets waar is |
+| **afgeven** | hier: vrijwillig opgeven of weggeven, zoals een titel of bezit |
 
 ### Vul-in-de-leegte
-1. De president gebruikte ___ om het akkoord te sluiten.
-2. Hoewel de wapens nu zwijgen, blijft de vraag of de oplossing ___ is.
-3. De onderhandelaar werd gesteund door de president, wat hielp bij het bereiken van ___.
+1. Prins Andrew heeft zijn titels __ (afgegeven)___ omdat hij betrokken was bij de zaak-Epstein.
+2. De nieuwe documenten zijn het ___ (bewijs)___ dat Prins Andrew meervoudig in Epsteins privéjet heeft gevlogen.
+3. Het is belangrijk om te controleren of informatie ___ (waar)___ is voordat we het delen.
 
 #### Oplossingen
-1. zijn schoonzoon
-2. duurzaam
-3. het akkoord
+1. afgegeven
+2. bewijs
+3. waar
 
 ### Meerkeuzevragen
-1. Wat is een synoniem voor "dwang" in deze context?
-   a) vrijwilligheid
-   b) druk
-   c) steun
-   d) weerstand
-2. Wat betekent "duurzaam" in deze tekst?
-   a) goedkoop
-   b) van korte duur
-   c) milieuvriendelijk
-   d) langdurig en standhoudend
-3. Wat is de rol van een "onderhandelaar"?
-   a) iemand die anderen onderdrukt
-   b) iemand die onderhandelingen leidt
-   c) iemand die alleen beslissingen neemt
-   d) iemand die anderen negeert
+1. Wat betekent "afgeven" in deze context?
+   a) weggooien  
+   b) opgeven of weggeven  
+   c) verbergen  
+   d) verkopen  
+2. Wat is een "privéjet"?
+   a) een openbaar vliegtuig  
+   b) een privévliegtuig voor weinig mensen  
+   c) een militaire jet  
+   d) een oude auto  
+3. Wat betekent "meermaals"?
+   a) één keer  
+   b) twee keer  
+   c) meer dan één keer  
+   d) nooit  
 
 #### Antwoorden
-1. b
-2. d
-3. b
+1. b) opgeven of weggeven
+2. b) een privévliegtuig voor weinig mensen
+3. c) meer dan één keer
 
 ### Waar / Niet Waar
-1. De schoonzoon van Trump was de officiële onderhandelaar.
-2. Trump's methode wordt beschouwd als duurzaam.
-3. De wapens in Gaza zijn volledig gestopt.
+1. Prins Andrew heeft nooit in een privéjet gevlogen. (Niet waar)
+2. De nieuwe documenten tonen aan dat Prins Andrew meermaals met Epstein heeft gevlogen. (Waar)
+3. Prins Andrew is nog steeds een werkend lid van de koninklijke familie. (Niet waar)
 
 #### Antwoorden
-1. Waar
-2. Niet Waar
-3. Niet Waar<｜begin▁of▁sentence｜>
+1. Niet waar
+2. Waar
+3. Niet waar<｜begin▁of▁sentence｜>

@@ -1,58 +1,57 @@
-# Vereenvoudigd: De Britten zijn boos en Nigel Farage wordt weer populair
+# Oorlog in Gaza
 
-## Samenvatting
-In Engeland zijn veel mensen boos op de politici. Veel mensen voelen zich in de steek gelaten. Waarom kijken boze Britten nu naar Nigel Farage voor hulp? Hij is de man die de Brexit begon.
+**Titel:** Negen Palestijnen gedood bij Israëlische aanval  
+**Samenvatting:** Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen.
 
-## Woordenschatuitbreiding
-
-### Woordenlijst
-
+**Woordenlijst**
 | Woord | Definitie |
 |-------|-----------|
-| **boos** | een gevoel van ergernis of woede, niet blij zijn |
-| **politici** | mensen die een regering leiden en beslissingen nemen voor een land |
-| **voelen** | iets ervaren met je zintuigen of emoties |
-| **verlaten** | alleen of zonder hulp achtergelaten worden |
-| **leider** | iemand die anderen aanstuurt of beïnvloedt |
+| **oorlog** | een toestand waarin twee of meer landen of groepen elkaar proberen te verslaan met wapens |
+| **onderhandelingen** | gesprekken tussen twee partijen om tot een overeenkomst te komen |
+| **doorbraak** | een belangrijke en plotselinge verbetering of oplossing in een situatie |
+| **vredesproces** | de officiële gesprekken en activiteiten om vrede te bereiken tussen groepen of landen |
+| **geweld** | het gebruik van fysieke kracht om schade toe te brengen, vaak in een conflict |
 
-### Vul-in-de-leegte
-1. Veel Britten voelen zich ___ door de overheid.
-2. Nigel Farage is een belangrijke ___ in de Britse politiek.
-3. Mensen zijn boos wanneer ze denken dat iets ___ is.
+**Vul-in-de-leegte**
+1. De vredesonderhandelingen hebben geleid tot een belangrijke ___ in het conflict. (doorbraak)
+2. Beide partijen blijven streven naar een definitieve ___ om het geweld te stoppen. (oplossing)
+3. De Verenigde Naties bemiddelen om het ___ te bevorderen en de gesprekken te ondersteunen. (vredesproces)
 
-#### Oplossingen
-1. verlaten
-2. leider
-3. onrechtvaardig
+**Oplossingen**
+1. doorbraak
+2. oplossing
+3. vredesproces
 
-### Meerkeuzevragen
-1. Waarover zijn de Britse mensen boos?
-  a) Het weer
-  b) De politieke klasse
-  c) De sportresultaten
-  d) De prijs van brood
-2. Wie is Nigel Farage?
-  a) Een beroemde kok
-  b) Een voetballer
-  c) Een politiek leider
-  d) Een filmster
-3. Waarom kijken mensen naar Nigel Farage voor hulp?
-  a) Hij heeft veel geld
-  b) Hij belooft verandering
-  c) Hij is een goede vriend
-  d) Hij is een bekende acteur
+**Meerkeuzevragen**
+1. Wat is een "doorbraak" in een onderhandelingsproces?
+A) Het moment dat de onderhandelingen stoppen.
+B) Een plotselinge en belangrijke vooruitgang in de gesprekken.
+C) Het begin van nieuwe vijandelijkheden.
+D) De ontdekking van nieuwe wapens in het gebied.
 
-#### Antwoorden
-1. b) De politieke klasse
-2. c) Een politiek leider
-3. b) Hij belooft verandering
+2. Welke term wordt het meest gebruikt om de activiteiten te beschrijven die gericht zijn op het beëindigen van een conflict?
+A) Oorlogvoering
+B) Vredesproces
+C) Gewelddadige actie
+D) Militaire operatie
 
-### Waar / Niet Waar
-1. De Britse bevolking is tevreden met de huidige politici.
-2. Nigel Farage is een onbekende figuur in de Britse politiek.
-3. Mensen voelen zich in de steek gelaten als ze denken dat niemand om hen geeft.
+3. Wat is het tegenovergestelde van "geweld" in een conflictsituatie?
+A) Oorlog
+B) Vrede
+C) Onderhandeling
+D) Terugtrekking
 
-#### Antwoorden
+**Antwoorden**
+1. B) Een plotselinge en belangrijke vooruitgang in de gesprekken.
+2. B) Vredesproces
+3. B) Vrede
+
+**Waar / Niet Waar**
+1. Een doorbraak in vredesonderhandelingen betekent meestal dat de gesprekken zijn mislukt. (Niet waar)
+2. Het stoppen van geweld is een belangrijk doel in veel vredesprocessen. (Waar)
+3. Onderhandelingen leiden altijd onmiddellijk tot een definitieve oplossing. (Niet waar)
+
+**Antwoorden**
 1. Niet waar
-2. Niet waar
-3. Waar<｜begin▁of▁sentence｜>
+2. Waar
+3. Niet waar<｜begin▁of▁sentence｜>

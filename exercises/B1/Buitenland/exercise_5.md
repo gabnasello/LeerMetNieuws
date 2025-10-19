@@ -1,63 +1,52 @@
-Ik help je met het genereren van de oefeningen. Hier is de uitwerking:
+# Vereenvoudigde Titel en Samenvatting
 
-# Vrede in Gaza
-
-[Vrede in Gaza]
+## Titel
+Zelensky hoopt op raketten: Trump heeft "nee" gezegd
 
 ## Samenvatting
+Volg het laatste nieuws over de oorlog in Oekraïne. Download de app DS Nieuws voor belangrijke updates.
 
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/ur341y-ds-actua-wide.00-03-29-12.still003.png/alternates/BASE_SIXTEEN_NINE/DS%20ACTUA%20Wide.00_03_29_12.Still003.png)   
-[Lees het originele artikel](https://www.standaard.be/buitenland/het-belangrijkste-is-dat-het-doden-bombarderen-en-vernietigen-is-gestopt.-dat-is-het-enige-wat-echt-telt/97851867.html)
+# Woordenschatuitbreiding
 
-Het geweld in Gaza is gestopt. Dat is het belangrijkste. De prijzen dalen en er komt weer wat hulp binnen, maar voor de mensen in Gaza is er weinig reden om blij te zijn. Het zal jaren duren om alles te herstellen.
-
-## Woordenschatuitbreiding
-
-### Woordenlijst
+## Woordenlijst
 
 | Woord | Definitie |
 |-------|-----------|
-| **geweld** | gewelddadigheid, het gebruik van fysieke kracht |
-| **stoppen** | ophouden, niet meer doorgaan |
-| **hulp** | ondersteuning, assistentie |
-| **herstellen** | weer goed maken, repareren |
-| **jaren** | periode van 365 dagen, een lange tijd |
+| **oorlog** | een periode van gewapend conflict tussen landen of groepen |
+| **hoop** | het gevoel dat iets goeds zal gebeuren |
+| **raket** | een soort wapen dat door de lucht vliegt |
+| **Trump** | de achternaam van een bekende Amerikaanse politicus |
+| **Oekraïne** | een land in Europa waar nu oorlog is |
 
 ### Vul-in-de-leegte
-1. Het belangrijkste is dat het ___ is gestopt.
-2. De prijzen dalen en er komt weer wat ___ binnen.
-3. Het herstel zal jaren ___.
+1. Zelensky heeft nog ___ op de raketten van Trump.
+2. Oekraïne is een land in Europa waar nu ___ is.
+3. Mensen kunnen de app downloaden voor het laatste ___.
+
 #### Oplossingen
-1. geweld
-2. hulp
-3. duren
+1. hoop
+2. oorlog
+3. nieuws
 
 ### Meerkeuzevragen
-1. Wat is het belangrijkste volgens de tekst?
-   a) Dat de oorlog is gewonnen  
-   b) Dat het geweld is gestopt  
-   c) Dat de prijzen dalen  
-   d) Dat er veel hulp komt  
-2. Waarom is er weinig reden tot opluchting voor de Gazanen?
-   a) Omdat er te veel geweld is  
-   b) Omdat er weinig hulp komt  
-   c) Omdat de prijzen stijgen  
-   d) Omdat het herstel lang duurt  
-3. Wat is de hoofdboodschap van de titel?
-   a) Dat stoppen met vechten het belangrijkste is  
-   b) Dat prijzen dalen het belangrijkste is  
-   c) Dat herstel snel gaat  
-   d) Dat er veel reden tot opluchting is  
+1. Waar is de oorlog momenteel aan de gang?
+   a) Duitsland b) Oekraïne c) Frankrijk d) Spanje
+2. Wat hoopt Zelensky te krijgen van Trump?
+   a) geld b) raketten c) steun d) voedsel
+3. Wat kun je doen om op de hoogte te blijven van het nieuws?
+   a) een boek lezen b) de app downloaden c) tv kijken d) radio luisteren
+
 #### Antwoorden
-1. b) Dat het geweld is gestopt
-2. d) Omdat het herstel lang duurt
-3. a) Dat stoppen met vechten het belangrijkste is
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Het geweld in Gaza is nog steeds aan de gang.
-2. De prijzen in Gaza zijn gestegen.
-3. Het herstel zal snel gaan.
+1. De oorlog in Oekraïne is al afgelopen. (Niet waar)
+2. Trump heeft al "nee" gezegd tegen Zelensky. (Niet waar)
+3. Je kunt de app downloaden voor updates. (Waar)
+
 #### Antwoorden
 1. Niet waar
-2. Waar
-3. Niet waar<｜begin▁of▁sentence｜>
+2. Niet waar
+3. Waar<｜begin▁of▁sentence｜>

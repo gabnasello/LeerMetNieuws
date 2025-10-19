@@ -1,7 +1,8 @@
-# Mentaal welzijn: Marie De Hert deelt haar verhaal
+# Eenvoudige Titel
+Is er een strengere richtlijn nodig voor euthanasie bij twintigers?
 
 ## Samenvatting
-Marie De Hert is een regisseur. Twee jaar geleden kreeg ze last van paniekaanvallen. Dat was eng voor haar en voor de mensen om haar heen. Sinds die tijd heeft ze hard gezocht naar een verklaring. Nu weet ze dat er niet één antwoord is.
+In Nederland zijn mensen bezorgd omdat steeds meer jonge mensen zich aanmelden voor euthanasie vanwege psychisch lijden. Ook in België willen psychiaters bekijken of er strengere regels nodig zijn voor twintigers. "Maar we willen geen discussie veroorzaken."
 
 ## Woordenschatuitbreiding
 
@@ -9,47 +10,50 @@ Marie De Hert is een regisseur. Twee jaar geleden kreeg ze last van paniekaanval
 
 | Woord | Definitie |
 |-------|-----------|
-| **regisseur** | iemand die een film of toneelstuk maakt |
-| **paniekaanval** | een moment van heel erg veel angst |
-| **verklaring** | een uitleg waarom iets is zoals het is |
-| **gezondheid** | hoe goed je lichaam en geest werken |
-| **zoeken** | proberen iets te vinden |
+| **euthanasie** | medische behandeling om het leven van een terminale patiënt te beëindigen |
+| **psychisch** | met betrekking tot de geest en emoties |
+| **richtlijn** | een officiële regel of gids |
+| **twintigers** | mensen tussen de 20 en 30 jaar oud |
+| **strenger** | met meer regels en beperkingen |
 
 ### Vul-in-de-leegte
-1. Marie De Hert is een ______ die een boek schreef.
-2. Ze kreeg last van ______, wat heel eng was.
-3. Ze zocht naar een ______ voor wat er gebeurde.
+1. In Nederland maken mensen zich zorgen over het groeiende aantal jonge mensen dat zich aanmeldt voor euthanasie wegens psychisch ___. (lijden)
+2. Ook in België willen psychiaters bekijken of een strengere richtlijn voor ___ nodig is. (twintigers)
+3. De krantenkop vraagt: "Is er een ___ richtlijn nodig voor euthanasie bij twintigers?" (strengere)
+
 #### Oplossingen
-1. regisseur
-2. paniekaanvallen
-3. verklaring
+1. lijden
+2. twintigers
+3. strengere
 
 ### Meerkeuzevragen
-1. Wat is Marie De Hert?
-   a) een schrijfster  
-   b) een regisseur  
-   c) een dokter  
-   d) een lerares  
-2. Waar zocht Marie naar?
-   a) een nieuwe baan  
-   b) een verklaring voor haar angst  
-   c) een verloren voorwerp  
-   d) een vakantiebestemming  
-3. Waarover schreef Marie een boek?
-   a) haar vakantie  
-   b) haar angststoornis  
-   c) haar nieuwe auto  
-   d) haar favoriete film  
+1. Wat is euthanasie?
+   a) een feestje
+   b) een medische procedure om het leven te beëindigen
+   c) een nieuwe game
+   d) een soort fruit
+2. Waar is de tekst over?
+   a) eten en drinken
+   b) klimaatverandering
+   c) euthanasie voor jonge mensen
+   d) vakantieplannen
+3. Wat is een 'richtlijn'?
+   a) een soort soep
+   b) een officiële regel of gids
+   c) een soort dier
+   d) een sportteam
+
 #### Antwoorden
 1. b
-2. b
+2. c
 3. b
 
 ### Waar / Niet Waar
-1. Marie De Hert is een regisseur.
-2. Marie kreeg nooit last van paniekaanvallen.
-3. Marie's verhaal helpt anderen.
+1. In Nederland zijn mensen bezorgd over euthanasie voor jonge mensen. (Waar)
+2. Psychiaters in België willen juist minder regels voor euthanasie. (Niet waar)
+3. De titel stelt dat het brein pas volgroeid is vanaf 25 jaar. (Waar)
+
 #### Antwoorden
 1. Waar
-2. Niet waar
+2. Niet Waar
 3. Waar

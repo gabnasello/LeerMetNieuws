@@ -1,49 +1,59 @@
-# Regisseur Marie De Hert schreef een boek over haar angststoornis: “We zijn allemaal op zoek naar iets om ons aan vast te houden” 
+# Archeologen vinden mummies in Duivelsteen Gent
+
+[Archeologen vinden mummies in Duivelsteen Gent]
 
 ## Samenvatting
-Twee jaar geleden kreeg regisseur Marie De Hert (35) te maken met een paniekstoornis die maar niet wegging. Dit was beangstigend voor haar en haar omgeving. Sindsdien zocht ze hard naar een verklaring. “Nu weet ik dat er niet één antwoord is.”
+Archeologen hebben in het Duivelsteen in Gent een belangrijke ontdekking gedaan. Tijdens opgravingen vonden ze goed bewaarde en gedeeltelijk gemummificeerde resten. Deze resten zijn waarschijnlijk van paters (religieuze mannen). De onderzoekers waren verrast door deze vondst.
 
 ## Woordenschatuitbreiding
 
 ### Woordenlijst
-
 | Woord | Definitie |
 |-------|-----------|
-| **regisseur** | iemand die een film of toneelstuk regisseert |
-| **paniekstoornis** | een psychische aandoening waarbij iemand regelmatig paniekaanvallen heeft |
-| **verklaring** | een uitleg of reden voor iets |
-| **omgeving** | de mensen en dingen om je heen |
-| **zoeken** | proberen iets of iemand te vinden |
+| **archeologen** | mensen die oude resten van mensen en culturen bestuderen |
+| **mummies** | goed bewaarde, oude lichamen |
+| **opgravingen** | het uitgraven van oude resten uit de grond |
+| **verrassend** | onverwacht, niet verwacht |
+| **vondst** | iets dat gevonden is, bijvoorbeeld tijdens opgravingen |
 
 ### Vul-in-de-leegte
-1. Marie De Hert is een __regisseur__ die een boek heeft geschreven.
-2. Ze had last van een __paniekstoornis__ die maar niet wegging.
-3. Ze zocht naar een __verklaring__ voor haar gevoelens.
+1. De archeologen vonden de mummies tijdens ___ in Gent.
+2. De mummies zijn goed bewaard, wat ___ is.
+3. De onderzoekers waren ___ door deze ontdekking.
 
 #### Oplossingen
-1. Marie De Hert is een **regisseur** die een boek heeft geschreven.
-2. Ze had last van een **paniekstoornis** die maar niet wegging.
-3. Ze zocht naar een **verklaring** voor haar gevoelens.
+1. opgravingen
+2. verrassend
+3. verrast
 
 ### Meerkeuzevragen
-1. Wat is Marie De Hert?
-a) Schrijver b) Regisseur c) Arts d) Student
-2. Wat is een paniekstoornis?
-a) Een soort film b) Een psychische aandoening c) Een boek d) Een persoon
-3. Waar zocht Marie De Hert naar?
-a) Een nieuwe baan b) Een verklaring c) Een boek d) Een huis
+1. Wat zijn mummies?
+   a) Oude boeken  
+   b) Goed bewaarde, oude lichamen  
+   c) Nieuwe planten  
+   d) Moderne gebouwen  
+2. Waar werden de mummies gevonden?
+   a) In een bos  
+   b) In het Duivelsteen in Gent  
+   c) In een moderne fabriek  
+   d) Op de maan  
+  3. Wat betekent "verrassend"?
+   a) Slecht  
+   b) Onverwacht, niet verwacht  
+   c) Snel  
+   d) Duur  
 
 #### Antwoorden
-1. b) Regisseur
-2. b) Een psychische aandoening
-3. b) Een verklaring
+1. b
+2. b
+3. b
 
 ### Waar / Niet Waar
-1. Marie De Hert is een schrijver. (Niet waar)
-2. Marie had last van een paniekstoornis. (Waar)
-3. Marie vond meteen een oplossing voor haar problemen. (Niet waar)
+1. De mummies werden gevonden in het Duivelsteen in Gent.  
+2. De mummies zijn slecht bewaard.  
+3. De onderzoekers verwachten deze vondst.  
 
 #### Antwoorden
-1. Niet waar
-2. Waar
-3. Niet waar<｜begin▁of▁sentence｜>
+1. Waar
+2. Niet waar
+3. Niet waar

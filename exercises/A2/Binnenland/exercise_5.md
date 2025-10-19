@@ -1,11 +1,10 @@
-# An Olaerts over de eerste roman die ze ooit las: “Meester Zwartrok is een pervers mannetje. En maar zeuren over die gleufjes”
+# Eenvoudige oefeningen
+
+## Titel
+Een drugshok in de buurt
 
 ## Samenvatting
-
-![Nieuwsafbeelding](https://prod-img.standaard.be/public/nieuws/w36y00-an004.jpg/alternates/BASE_SIXTEEN_NINE/An004.JPG)   
-[Lees het originele artikel](https://www.standaard.be/binnenland/an-olaerts-over-de-eerste-roman-die-ze-ooit-las-meester-zwartrok-is-een-pervers-mannetje.-en-maar-zeuren-over-die-gleufjes/96654301.html)
-
-Schrijfster An Olaerts was zeven jaar oud toen ze haar eerste boek las. Jaren later leest ze 'De mantel van Viola' opnieuw. Het blijkt een verborgen verhaal over seks te zijn.
+In de buurt van de metrohalte Ribaucourt komt er een speciale ruimte waar mensen drugs kunnen gebruiken. Sommige buurtbewoners zijn daar niet blij mee. Andere mensen vinden het goed en willen snel zo'n ruimte.
 
 ## Woordenschatuitbreiding
 
@@ -13,47 +12,50 @@ Schrijfster An Olaerts was zeven jaar oud toen ze haar eerste boek las. Jaren la
 
 | Woord | Definitie |
 |-------|-----------|
-| **roman** | een lang verhaal in een boek |
-| **lezen** | kijken naar woorden en ze begrijpen |
-| **schrijfster** | een vrouw die boeken schrijft |
-| **verhaal** | een vertelling over iets wat gebeurd is |
-| **boek** | een ding waar je in kunt lezen, met veel pagina's |
+| **drugs** | verslavende stof die je ziek of high maakt |
+| **ruimte** | een plek of plaats die je kunt gebruiken |
+| **buurt** | het gebied waar je woont, met je buren |
+| **gebruiken** | iets doen met iets, bijvoorbeeld een product of ruimte |
+| **tegen** | het tegenovergestelde van voor, bijvoorbeeld tegen iets zijn |
 
 ### Vul-in-de-leegte
-1. An Olaerts las haar eerste ___ toen ze zeven jaar oud was.
-2. 'De mantel van Viola' is een ___ over seks, maar dat zag ze eerst niet.
-3. Een boek dat je leest, noem je ook een ___.
-#### Oplossing
-1. roman
-2. verhaal
-3. boek
+1. Sommige mensen zijn **tegen** de drugsruimte in hun buurt.
+2. De ruimte is bedoeld om drugs te **gebruiken** op een veilige manier.
+3. De buurt **rondom** de metrohalte heeft last van de situatie.
+
+#### Oplossingen
+1. tegen
+2. gebruiken
+3. rondom
 
 ### Meerkeuzevragen
-1. Wat is 'De mantel van Viola'?  
-  a. een schilderij  
-  b. een gedicht  
-  c. een boek  
-  d. een film  
-2. Hoe oud was An Olaerts toen ze haar eerste roman las?  
-  a. 5  
-  b. 7  
-  c. 10  
-  d. 12  
-3. Wat is 'Meester Zwartrok' in dit artikel?  
-  a. een persoon  
-  b. een dier  
-  c. een boek  
-  d. een plaats  
+1. Wat is een drugsgebruikersruimte?
+   a) een winkel die drugs verkoopt
+   b) een plek waar mensen legaal drugs kunnen gebruiken
+   c) een soort speeltuin voor volwassenen
+   d) een café zonder alcohol
+2. Waarom zijn sommige buurtbewoners tegen de ruimte?
+   a) Ze willen zelf de drugs gebruiken.
+   b) Ze zijn bang voor meer problemen in de buurt.
+   c) Ze vinden dat hun buurt al te vol is.
+   d) Ze hebben geen ruimte over in huis.
+3. Wat is een voordeel van een drugsgebruikersruimte?
+   a) Het is goedkoop om te bouwen.
+   b) Mensen kunnen er veilig drugs gebruiken.
+   c) Het is goed voor de lokale economie.
+   d) Het trekt toeristen aan.
+
 #### Antwoorden
-1. c
-2. b
-3. c
+1. b) een plek waar mensen legaal drugs kunnen gebruiken
+2. b) Ze zijn bang voor meer problemen in de buurt.
+3. b) Mensen kunnen er veilig drugs gebruiken.
 
 ### Waar / Niet Waar
-1. An Olaerts las haar eerste roman toen ze 5 jaar oud was.  
-2. 'De mantel van Viola' is eigenlijk een verhaal over seks.  
-3. Er wordt gezegd dat Meester Zwartrok een pervers mannetje is.  
+1. Alle buurtbewoners zijn blij met de drugsruimte. **Niet waar**
+2. De ruimte is alleen voor het gebruik van drugs. **Waar**
+3. Er is geen enkele tegenstand tegen de ruimte. **Niet waar**
+
 #### Antwoorden
-1. Niet Waar
+1. Niet waar
 2. Waar
-3. Waar<｜begin▁of▁sentence｜>
+3. Niet waar<｜begin▁of▁sentence｜>

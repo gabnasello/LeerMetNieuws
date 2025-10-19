@@ -1,7 +1,8 @@
-# Eenvoudige Titel en Samenvatting
+# Oorlog en vrede
+[vereenvoudigde titel]
 
-Titel: De Britten zijn boos. Nigel Farage krijgt de woede van het volk.
-Samenvatting: In Engeland zijn veel mensen boos op de regering. Veel mensen voelen zich in de steek gelaten. Waarom vertrouwen boze Britten nu opnieuw op Nigel Farage? Hij is de man die de Brexit begon.
+## Samenvatting
+Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de vredesonderhandelingen. Volg hier de laatste ontwikkelingen.
 
 ## Woordenschatuitbreiding
 
@@ -9,47 +10,50 @@ Samenvatting: In Engeland zijn veel mensen boos op de regering. Veel mensen voel
 
 | Woord | Definitie |
 |-------|-----------|
-| **boos** | kwaad, niet blij |
-| **regering** | de groep mensen die een land bestuurt |
-| **vertrouwen** | geloven dat iemand goed is of iets goed doet |
-| **beginnen** | ergens mee starten, starten |
-| **volk** | alle mensen van een land of groep |
+| **oorlog** | een tijd van vechten tussen landen of groepen |
+| **vrede** | een tijd zonder oorlog, waarin mensen in vrede leven |
+| **onderhandelingen** | gesprekken om tot een oplossing te komen |
+| **doorbraak** | een belangrijke, positieve verandering na moeilijkheden |
+| **ontwikkelingen** | nieuwe dingen die gebeuren of veranderen |
 
 ### Vul-in-de-leegte
-1. Veel mensen zijn ___ op de regering omdat ze zich vergeten voelen.
-2. Nigel Farage is de persoon die de Brexit ___ heeft.
-3. Sommige Britten ___ nu weer op Nigel Farage om hen te helpen.
+1. Na twee jaar oorlog hoopten veel mensen op een ___ (doorbraak) in de vredesgesprekken.
+2. De Verenigde Naties helpen bij de ___ (onderhandelingen) tussen de twee partijen.
+3. Het nieuws over de vrede is een positieve ___ (ontwikkeling) voor de regio.
+
 #### Oplossingen
-1. boos
-2. begon
-3. vertrouwen
+1. doorbraak
+2. onderhandelingen
+3. ontwikkeling
 
 ### Meerkeuzevragen
-1. Waarover zijn veel Britten boos?
-   a) Het weer is te warm
-   b) Ze voelen zich vergeten door de regering
-   c) Ze hebben te veel geld
-   d) Ze willen meer vakantie
-2. Wat is de Brexit?
-   a) Een nieuwe supermarktketen
-   b) Een plan om uit de Europese Unie te gaan
-   c) Een nieuwe sport
-   d) Een soort voedsel
-3. Waarom vertrouwen sommige Britten op Farage?
-   a) Hij belooft ze veel geld
-   b) Hij begreep hun woede en wilde verandering
-   c) Hij geeft iedereen gratis eten
-   d) Hij is een beroemde zanger
+1. Wat is "vredesonderhandelingen"?  
+a) een sportevenement  
+b) gesprekken om oorlog te beëindigen  
+c) een soort spel  
+d) een nieuw soort muziek  
+2. Wat is een "doorbraak" in deze context?  
+a) een kapot raam  
+b) een belangrijke, positieve verandering  
+c) een soort auto  
+d) een nieuwe telefoon  
+3. Waarom is "ontwikkelingen" in het nieuws belangrijk?  
+a) Omdat het over nieuwe technologie gaat  
+b) Omdat het laat zien wat er nieuw of veranderend is in de wereld  
+c) Omdat het over oude geschiedenis gaat  
+d) Omdat het over sport gaat  
+
 #### Antwoorden
 1. b
 2. b
 3. b
 
 ### Waar / Niet Waar
-1. Alle Britten zijn boos op hun regering. (Niet Waar)
-2. Nigel Farage begon de Brexit. (Waar)
-3. Iedereen in het VK vertrouwt nu op Farage. (Niet Waar)
+1. De tekst gaat over oorlog en vrede. (Waar)
+2. Er zijn geen onderhandelingen om de oorlog te beëindigen. (Niet waar)
+3. Een "doorbraak" betekent dat alles slechter wordt. (Niet waar)
+
 #### Antwoorden
-1. Niet Waar
-2. Waar
+1. Waar
+2. Niet Waar
 3. Niet Waar<｜begin▁of▁sentence｜>
