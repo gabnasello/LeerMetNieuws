@@ -6,7 +6,7 @@ on:
     # ⚠ Adjust to your timezone: GitHub uses UTC!
     - cron: "0 5 * * *"   # 06:00 CET = 07:00 CEST = 05:00 UTC (example)
     #- cron: "0 11 * * *"  # 12:00 CET = 13:00 CEST
-    - cron: "0 15 * * *"  # 18:00 CET = 17:00 CEST
+    #- cron: "0 15 * * *"  # 18:00 CET = 17:00 CEST
   workflow_dispatch:
 
 permissions:
