@@ -1,14 +1,13 @@
 import os
-import requests
 import re
+import json
 import time
+import requests
 
-# 🔑 Get your OpenRouter API key from https://openrouter.ai/keys
 API_KEY = os.getenv("OPENROUTER_API_KEY")
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
-# CEFR levels
-levels = ["B1","C1","A2","B2"]  # or ["A1", "A2", "B1", "B2", "C1"]
+LEVELS = ["B1", "A2", "B2", "C1"]
 
 # ---------- API CALL WITH RETRIES ----------
 def query_openrouter(messages, max_tokens=1200, retries=5, backoff=2):
@@ -22,209 +21,179 @@ def query_openrouter(messages, max_tokens=1200, retries=5, backoff=2):
         "model": "deepseek/deepseek-chat-v3.1:free",
         "messages": messages,
         "max_tokens": max_tokens,
-        "temperature": 0.3,
+        "temperature": 0.4,
     }
 
     for attempt in range(retries):
         response = requests.post(API_URL, headers=headers, json=payload)
-        if response.status_code == 429:  # Too many requests
+        if response.status_code == 429:
             wait_time = backoff * (2 ** attempt)
-            print(f"⚠️ Rate limited (429). Waiting {wait_time} seconds before retry...")
+            print(f"⚠️ Te veel verzoeken. Wachten {wait_time} seconden...")
             time.sleep(wait_time)
             continue
         response.raise_for_status()
         return response.json()["choices"][0]["message"]["content"]
 
-    raise RuntimeError("❌ Failed after multiple retries due to rate limits.")
+    raise RuntimeError("❌ Meerdere keren mislukt vanwege snelheidslimiet.")
 
 
-# ---------- UNIFIED PROMPT ----------
-def generate_exercises(level, title, summary, news_text):
+# ---------- STAP 1: Titel en Samenvatting vereenvoudigen ----------
+def generate_simplified_article(level, title, summary):
     messages = [
-        {"role": "system", "content": "Je bent een docent Nederlands."},
+        {"role": "system", "content": "Je bent een ervaren NT2-docent (Nederlands als tweede taal)."},
         {"role": "user", "content": f"""
-Herschrijf eerst de titel en samenvatting in eenvoudig Nederlands op niveau {level}.
-Gebruik vervolgens **alleen de vereenvoudigde titel en vereenvoudigde samenvatting** 
-om 5 belangrijke woorden te kiezen voor de Woordenlijst (niet uit de oorspronkelijke tekst).
+Herschrijf de titel en samenvatting in eenvoudig Nederlands op niveau {level}.
+Gebruik duidelijke en korte zinnen.
+Geef uitsluitend geldige JSON-uitvoer in dit formaat:
 
-Genereer daarna alle oefeningen volgens het vaste format hieronder.
+{{
+  "level": "{level}",
+  "simplified_title": "…",
+  "simplified_summary": "…"
+}}
 
-Gebruik **precies** dit Markdown-format:
-
-# Titel
-
-[vereenvoudigde titel]
-
-## Samenvatting
-
-[vereenvoudigde samenvatting]
-
-## Woordenschatuitbreiding
-
-### Woordenlijst
-
-[Kies 5 belangrijke woorden uit de vereenvoudigde titel en samenvatting]
-
-| Woord | Definitie |
-|-------|-----------|
-| **woord1** | definitie |
-| **woord2** | definitie |
-| **woord3** | definitie |
-| **woord4** | definitie |
-| **woord5** | definitie |
-
-### Vul-in-de-leegte
-[3 zinnen met ___]
-#### Oplossingen
-[oplossingen]
-
-### Meerkeuzevragen
-[3 vragen + 4 opties]
-#### Antwoorden
-[antwoorden]
-
-### Waar / Niet Waar
-[3 stellingen]
-#### Antwoorden
-[antwoorden]
----
-
-Titel: {title}  
-Samenvatting: {summary}  
-
-Tekst:  
-{news_text}
-"""}]
-    return query_openrouter(messages)
+Titel: {title}
+Samenvatting: {summary}
+"""}
+    ]
+    response = query_openrouter(messages)
+    try:
+        json_match = re.search(r"\{[\s\S]*\}", response)
+        if json_match:
+            return json.loads(json_match.group(0))
+        return {}
+    except json.JSONDecodeError:
+        print(f"⚠️ Ongeldige JSON voor niveau {level}. Ruwe uitvoer behouden.")
+        return {}
 
 
-# ---------- CLEAN DUPLICATES ----------
-# def clean_response(text):
-#     """
-#     Keep only the first full exercise block.
-#     """
-#     blocks = re.findall(r"---(.*?)---", text, re.DOTALL)
-#     if blocks:
-#         return "---" + blocks[0].strip() + "---"
-#     return text
+# ---------- STAP 2: Oefeningen genereren ----------
+def generate_exercises(level, section, topic_number, simplified_data):
+    simplified_title = simplified_data.get("simplified_title", "Onbekende titel")
+    simplified_summary = simplified_data.get("simplified_summary", "Geen samenvatting beschikbaar.")
 
+    messages = [
+        {"role": "system", "content": "Je bent een NT2-docent. Geef uitsluitend geldige JSON-uitvoer."},
+        {"role": "user", "content": f"""
+Gebruik de onderstaande vereenvoudigde titel en samenvatting om een taalactiviteit te genereren voor niveau {level}.
+Zorg dat de woordenlijstwoorden uit de vereenvoudigde tekst komen.
 
-# ---------- PARSING HELPERS ----------
-# def extract_first_match(pattern, text):
-#     """Return the first regex group match or empty string."""
-#     match = re.search(pattern, text, re.IGNORECASE | re.DOTALL)
-#     return match.group(1).strip() if match else ""
+Genereer precies het volgende JSON-formaat:
 
+{{
+  "id": 1,
+  "section": "{section}",
+  "level": "{level}",
+  "title": "{simplified_title}",
+  "topicNumber": {topic_number},
+  "article": {{
+    "title": "{simplified_title}",
+    "summary": "{simplified_summary}"
+  }},
+  "vocabulary": {{
+    "words": [
+      {{"word": "woord1", "definition": "definitie1"}},
+      {{"word": "woord2", "definition": "definitie2"}},
+      {{"word": "woord3", "definition": "definitie3"}},
+      {{"word": "woord4", "definition": "definitie4"}},
+      {{"word": "woord5", "definition": "definitie5"}}
+    ],
+    "fillInBlanks": [
+      {{"sentence": "Zin met ___", "answer": "woord"}},
+      {{"sentence": "Zin met ___", "answer": "woord"}},
+      {{"sentence": "Zin met ___", "answer": "woord"}}
+    ]
+  }},
+  "multipleChoice": [
+    {{
+      "question": "Vraag 1?",
+      "options": ["optie1", "optie2", "optie3", "optie4"],
+      "correctAnswer": 1
+    }},
+    {{
+      "question": "Vraag 2?",
+      "options": ["optie1", "optie2", "optie3", "optie4"],
+      "correctAnswer": 2
+    }},
+    {{
+      "question": "Vraag 3?",
+      "options": ["optie1", "optie2", "optie3", "optie4"],
+      "correctAnswer": 3
+    }}
+  ],
+  "trueFalse": [
+    {{"statement": "Stelling 1", "isTrue": true}},
+    {{"statement": "Stelling 2", "isTrue": false}},
+    {{"statement": "Stelling 3", "isTrue": true}}
+  ]
+}}
 
-# def parse_exercises(full_text):
-#     """Split unified response into components, keeping only the first set."""
-#     simplified_title = extract_first_match(r"\*\*Titel:\*\*\s*(.*)", full_text)
-#     if not simplified_title:
-#         simplified_title = "Vereenvoudigde titel"
+Titel: {simplified_title}
+Samenvatting: {simplified_summary}
+"""}
+    ]
 
-#     simplified_summary = extract_first_match(r"\*\*Samenvatting:\*\*\s*(.*)", full_text)
-
-#     vocab_section = extract_first_match(r"## Woordenschatuitbreiding([\s\S]*?)(?=\n## |\Z)", full_text)
-#     fill_section = extract_first_match(r"## Vul-in-de-leegte([\s\S]*?)(?=\n## |\Z)", full_text)
-#     mcq_section = extract_first_match(r"## Meerkeuzevragen([\s\S]*?)(?=\n## |\Z)", full_text)
-#     tf_section = extract_first_match(r"## Waar\s*/\s*Niet\s*Waar([\s\S]*?)(?=\n## |\Z)", full_text)
-
-#     # Ensure no section is missing
-#     if not simplified_summary:
-#         simplified_summary = "Geen inhoud beschikbaar."
-#     if not vocab_section:
-#         vocab_section = "Geen inhoud beschikbaar."
-#     if not fill_section:
-#         fill_section = "Geen inhoud beschikbaar."
-#     if not mcq_section:
-#         mcq_section = "Geen inhoud beschikbaar."
-#     if not tf_section:
-#         tf_section = "Geen inhoud beschikbaar."
-
-#     return simplified_title, simplified_summary, vocab_section, fill_section, mcq_section, tf_section
-
-
-# ---------- MARKDOWN BUILDER ----------
-# def build_markdown(simplified_title, simplified_summary, image_url, news_link,
-#                    vocab, fill_section, mcq_section, tf_section):
-#     return f"""# {simplified_title}
-
-# ![Nieuwsafbeelding]({image_url})  
-# [Lees het originele artikel]({news_link})
-
-# ## Samenvatting
-# {simplified_summary}
-
-# ## Woordenschatuitbreiding
-# {vocab}
-
-# ## Vul-in-de-leegte
-# {fill_section}
-
-# ## Meerkeuzevragen
-# {mcq_section}
-
-# ## Waar / Niet waar
-# {tf_section}
-# """
+    response = query_openrouter(messages)
+    try:
+        json_match = re.search(r"\{[\s\S]*\}", response)
+        if json_match:
+            return json.loads(json_match.group(0))
+        return {}
+    except json.JSONDecodeError:
+        print(f"⚠️ Ongeldige JSON voor oefeningen ({level}).")
+        return {}
 
 
 # ---------- MAIN ----------
 def main():
     news_root = "news"
-    exercises_root = "exercises"
+    output_root = "structured_exercises"
+    os.makedirs(output_root, exist_ok=True)
+
+    exercise_id = 1
+    topic_number = 1
 
     for root, dirs, files in os.walk(news_root):
         dirs[:] = [d for d in dirs if not d.startswith(".")]
+        section = os.path.basename(root) if root != news_root else "Algemeen"
 
         for file in files:
-            if file.endswith(".txt"):
-                news_file_path = os.path.join(root, file)
+            if not file.endswith(".txt"):
+                continue
 
-                with open(news_file_path, "r", encoding="utf-8") as f:
-                    news_text = f.read().strip()
+            with open(os.path.join(root, file), "r", encoding="utf-8") as f:
+                news_text = f.read().strip()
 
-                title_match = re.search(r"Titel:\s*(.*)", news_text)
-                summary_match = re.search(r"Samenvatting:\s*(.*)", news_text)
-                image_match = re.search(r"Afbeelding:\s*(.*)", news_text)
-                link_match = re.search(r"Link:\s*(.*)", news_text)
+            title_match = re.search(r"Titel:\s*(.*)", news_text)
+            summary_match = re.search(r"Samenvatting:\s*(.*)", news_text)
+            title = title_match.group(1) if title_match else "Geen titel"
+            summary = summary_match.group(1) if summary_match else ""
 
-                title = title_match.group(1) if title_match else "Geen titel"
-                summary = summary_match.group(1) if summary_match else ""
-                image_url = image_match.group(1) if image_match else ""
-                news_link = link_match.group(1) if link_match else ""
+            for level in LEVELS:
+                print(f"\n🪄 Genereren van vereenvoudigde tekst voor {file} [{level}]...")
+                simplified_data = generate_simplified_article(level, title, summary)
+                time.sleep(1)
 
-                rel_path = os.path.relpath(root, news_root)
-                file_number = file.replace("article_", "").replace(".txt", "")
-                exercise_name = f"exercise_{file_number}.md"
+                if not simplified_data:
+                    continue
 
-                for level in levels:
-                    level_dir = os.path.join(exercises_root, level, rel_path)
+                print(f"✏️ Genereren van oefeningen voor {file} [{level}]...")
+                exercise_data = generate_exercises(level, section, topic_number, simplified_data)
+                time.sleep(1)
+
+                if exercise_data:
+                    exercise_data["id"] = exercise_id
+                    exercise_id += 1
+
+                    # Output directory per level
+                    level_dir = os.path.join(output_root, level)
                     os.makedirs(level_dir, exist_ok=True)
-                    out_file_path = os.path.join(level_dir, exercise_name)
 
-                    response_text = generate_exercises(level, title, summary, news_text)
-                    #response_text = clean_response(response_text)  # 🧹 fix duplicates
+                    out_file = os.path.join(level_dir, f"{file.replace('.txt', '.json')}")
+                    with open(out_file, "w", encoding="utf-8") as f_out:
+                        json.dump(exercise_data, f_out, indent=2, ensure_ascii=False)
 
-                    # simplified_title, simplified_summary, vocab, fill_section, mcq_section, tf_section = parse_exercises(response_text)
-
-                    # md_content = build_markdown(
-                    #     simplified_title, simplified_summary, image_url, news_link,
-                    #     vocab, fill_section, mcq_section, tf_section
-                    # )
-
-                    # Text to insert before the Samenvatting paragraph
-                    insertion = f"![Nieuwsafbeelding]({image_url})   \n[Lees het originele artikel]({news_link})\n\n"
-
-                    # Use regex to find the header and insert the new text after it, before the paragraph
-                    pattern = r"(## Samenvatting\s*\n\n)"
-                    updated_text = re.sub(pattern, r"\1" + insertion, response_text, count=1)
-
-                    with open(out_file_path, "w", encoding="utf-8") as f_out:
-                        f_out.write(updated_text)
-
-                    print(f"Wrote {out_file_path}")
-                    time.sleep(1)  # throttle to avoid 429
+                    print(f"✅ Opgeslagen: {out_file}")
 
 
 if __name__ == "__main__":
