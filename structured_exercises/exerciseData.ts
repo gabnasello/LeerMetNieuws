@@ -1,4 +1,4 @@
-export interface Exercise {
+export interface ExerciseData {
   id: number;
   section: string;
   level: string;
@@ -23,7 +23,7 @@ export interface Exercise {
   }[];
 }
 
-export const exercises: Exercise[] = [
+export const exerciseData: ExerciseData[] = [
 {
     id: 1,
     section: "Binnenland",
