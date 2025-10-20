@@ -23,8 +23,8 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install deps
-        run: pip install requests feedparser #beautifulsoup4 html2text
+      - name: Install dependencies
+        run: pip install requests feedparser
 
       - name: Parse RSS feed
         run: python scripts/parse_rss.py
@@ -32,32 +32,19 @@ jobs:
       - name: Generate exercises
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-          # INPUT_PATH: news/input.txt
-          # PROMPT_PATH: prompts/b2_prompt.txt
-          # HF_MODEL: mistralai/Mistral-7B-Instruct
         run: python scripts/generate_exercises.py
 
-      - name: Commit changes
+      - name: Merge JSONs into exerciseData.ts
+        run: python scripts/merge_exercises_to_ts.py
+
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news/ structured_exercises/
+          git add news/ structured_exercises/ exerciseData.ts
           if git diff --cached --quiet; then
             echo "No new changes"
           else
-            git commit -m "Auto: update exercises $(date +%F-%H%M)"
+            git commit -m "Auto: update exercises and TypeScript data $(date +%F-%H%M)"
             git push origin HEAD:main
           fi
-
-
-  # deploy:
-  #   needs: build
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - uses: actions/checkout@v4
-
-  #     - name: Deploy to GitHub Pages
-  #       uses: peaceiris/actions-gh-pages@v3
-  #       with:
-  #         github_token: ${{ secrets.GITHUB_TOKEN }}
-  #         publish_dir: ./website
