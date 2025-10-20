@@ -26,7 +26,7 @@ def main():
 
         valid_count = 0
         index = 0
-        while valid_count < 5 and index < len(feed.entries):
+        while valid_count < 4 and index < len(feed.entries):
             entry = feed.entries[index]
             index += 1
             summary = entry.get('summary', '').replace("\n", " ").strip()
