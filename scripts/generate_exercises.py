@@ -136,17 +136,12 @@ Samenvatting: {summary}
         if json_match:
             data = json.loads(json_match.group(0))
 
-            # Optional validation (you can uncomment if you want strict checking)
-            # simplified_text = (data.get("article", {}).get("title", "") + " " +
-            #                    data.get("article", {}).get("summary", "")).lower()
-            # invalid_words = [
-            #     w["word"] for w in data.get("vocabulary", {}).get("words", [])
-            #     if w["word"].lower() not in simplified_text
-            # ]
-            # if invalid_words:
-            #     print(f"⚠️ Woorden niet gevonden in vereenvoudigde tekst: {invalid_words}")
+            # Force section and topic values to match the input section
+            data["section"] = section
+            data["topic"] = section
 
             return data
+
         print("⚠️ Geen JSON gevonden in de uitvoer.")
         return {}
     except json.JSONDecodeError:
