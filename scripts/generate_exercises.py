@@ -4,10 +4,12 @@ import json
 import time
 import requests
 
+# ---------- CONFIGURATION ----------
 API_KEY = os.getenv("OPENROUTER_API_KEY")
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 LEVELS = ["B1", "A2", "B2", "C1"]
+
 
 # ---------- API CALL WITH RETRIES ----------
 def query_openrouter(messages, max_tokens=1200, retries=5, backoff=2):
@@ -37,58 +39,38 @@ def query_openrouter(messages, max_tokens=1200, retries=5, backoff=2):
     raise RuntimeError("❌ Meerdere keren mislukt vanwege snelheidslimiet.")
 
 
-# ---------- STAP 1: Titel en Samenvatting vereenvoudigen ----------
-def generate_simplified_article(level, title, summary):
+# ---------- COMBINED FUNCTION ----------
+def generate_simplified_and_exercises(level, section, topic_number, title, summary):
     messages = [
-        {"role": "system", "content": "Je bent een ervaren NT2-docent (Nederlands als tweede taal)."},
-        {"role": "user", "content": f"""
+        {
+            "role": "system",
+            "content": "Je bent een ervaren NT2-docent (Nederlands als tweede taal). Geef uitsluitend geldige JSON-uitvoer."
+        },
+        {
+            "role": "user",
+            "content": f"""
 Herschrijf de titel en samenvatting in eenvoudig Nederlands op niveau {level}.
-Gebruik duidelijke en korte zinnen.
-Geef uitsluitend geldige JSON-uitvoer in dit formaat:
+Gebruik korte, duidelijke zinnen.
 
-{{
-  "level": "{level}",
-  "simplified_title": "…",
-  "simplified_summary": "…"
-}}
+Maak vervolgens taalactiviteiten op basis van de vereenvoudigde tekst:
+1. Kies 5 woorden uit de vereenvoudigde tekst voor de woordenlijst. Voeg hun eenvoudige definities toe.
+2. Gebruik precies deze 5 woorden om 3 fill-in-the-blank-zinnen te maken.
+3. Maak 3 meerkeuzevragen over de betekenis van de tekst.
+4. Maak 3 waar/niet waar-stellingen.
 
-Titel: {title}
-Samenvatting: {summary}
-"""}
-    ]
-    response = query_openrouter(messages)
-    try:
-        json_match = re.search(r"\{[\s\S]*\}", response)
-        if json_match:
-            return json.loads(json_match.group(0))
-        return {}
-    except json.JSONDecodeError:
-        print(f"⚠️ Ongeldige JSON voor niveau {level}. Ruwe uitvoer behouden.")
-        return {}
+**Belangrijk:** de woorden in fillInBlanks moeten afkomstig zijn uit de gekozen 5 woorden van de woordenlijst.
 
-
-# ---------- STAP 2: Oefeningen genereren ----------
-def generate_exercises(level, section, topic_number, simplified_data):
-    simplified_title = simplified_data.get("simplified_title", "Onbekende titel")
-    simplified_summary = simplified_data.get("simplified_summary", "Geen samenvatting beschikbaar.")
-
-    messages = [
-        {"role": "system", "content": "Je bent een NT2-docent. Geef uitsluitend geldige JSON-uitvoer."},
-        {"role": "user", "content": f"""
-Gebruik de onderstaande vereenvoudigde titel en samenvatting om een taalactiviteit te genereren voor niveau {level}.
-Zorg dat de woordenlijstwoorden uit de vereenvoudigde tekst komen.
-
-Genereer precies het volgende JSON-formaat:
+Geef de uitvoer in **één geldig JSON-object** met exact deze structuur:
 
 {{
   "id": 1,
   "section": "{section}",
   "level": "{level}",
-  "title": "{simplified_title}",
+  "title": "vereenvoudigde titel",
   "topicNumber": {topic_number},
   "article": {{
-    "title": "{simplified_title}",
-    "summary": "{simplified_summary}"
+    "title": "vereenvoudigde titel",
+    "summary": "vereenvoudigde samenvatting"
   }},
   "vocabulary": {{
     "words": [
@@ -128,9 +110,10 @@ Genereer precies het volgende JSON-formaat:
   ]
 }}
 
-Titel: {simplified_title}
-Samenvatting: {simplified_summary}
-"""}
+Titel: {title}
+Samenvatting: {summary}
+"""
+        }
     ]
 
     response = query_openrouter(messages)
@@ -138,13 +121,14 @@ Samenvatting: {simplified_summary}
         json_match = re.search(r"\{[\s\S]*\}", response)
         if json_match:
             return json.loads(json_match.group(0))
+        print("⚠️ Geen JSON gevonden in de uitvoer.")
         return {}
     except json.JSONDecodeError:
-        print(f"⚠️ Ongeldige JSON voor oefeningen ({level}).")
+        print(f"⚠️ Ongeldige JSON voor niveau {level}.")
         return {}
 
 
-# ---------- MAIN ----------
+# ---------- MAIN SCRIPT ----------
 def main():
     news_root = "news"
     output_root = "structured_exercises"
@@ -170,15 +154,8 @@ def main():
             summary = summary_match.group(1) if summary_match else ""
 
             for level in LEVELS:
-                print(f"\n🪄 Genereren van vereenvoudigde tekst voor {file} [{level}]...")
-                simplified_data = generate_simplified_article(level, title, summary)
-                time.sleep(1)
-
-                if not simplified_data:
-                    continue
-
-                print(f"✏️ Genereren van oefeningen voor {file} [{level}]...")
-                exercise_data = generate_exercises(level, section, topic_number, simplified_data)
+                print(f"\n🪄 Genereren van vereenvoudigde tekst en oefeningen voor {file} [{level}]...")
+                exercise_data = generate_simplified_and_exercises(level, section, topic_number, title, summary)
                 time.sleep(1)
 
                 if exercise_data:
@@ -194,7 +171,12 @@ def main():
                         json.dump(exercise_data, f_out, indent=2, ensure_ascii=False)
 
                     print(f"✅ Opgeslagen: {out_file}")
+                else:
+                    print(f"⚠️ Geen geldige uitvoer ontvangen voor {file} [{level}].")
+
+    print("\n🎉 Alles klaar!")
 
 
+# ---------- ENTRY POINT ----------
 if __name__ == "__main__":
     main()
