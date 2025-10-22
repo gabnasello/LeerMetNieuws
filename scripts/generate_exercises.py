@@ -65,6 +65,7 @@ Geef de uitvoer in **één geldig JSON-object** met exact deze structuur:
 {{
   "id": 1,
   "section": "{section}",
+  "topic": "{section}",
   "level": "{level}",
   "title": "vereenvoudigde titel",
   "topicNumber": {topic_number},
@@ -139,13 +140,17 @@ def main():
 
     for root, dirs, files in os.walk(news_root):
         dirs[:] = [d for d in dirs if not d.startswith(".")]
-        section = os.path.basename(root) if root != news_root else "Algemeen"
+        if root == news_root:
+            continue  # skip the top-level directory itself
+
+        section = os.path.basename(root)
 
         for file in files:
             if not file.endswith(".txt"):
                 continue
 
-            with open(os.path.join(root, file), "r", encoding="utf-8") as f:
+            file_path = os.path.join(root, file)
+            with open(file_path, "r", encoding="utf-8") as f:
                 news_text = f.read().strip()
 
             title_match = re.search(r"Titel:\s*(.*)", news_text)
@@ -154,7 +159,7 @@ def main():
             summary = summary_match.group(1) if summary_match else ""
 
             for level in LEVELS:
-                print(f"\n🪄 Genereren van vereenvoudigde tekst en oefeningen voor {file} [{level}]...")
+                print(f"\n🪄 Genereren van vereenvoudigde tekst en oefeningen voor {file} [{level}] ({section})...")
                 exercise_data = generate_simplified_and_exercises(level, section, topic_number, title, summary)
                 time.sleep(1)
 
@@ -162,8 +167,8 @@ def main():
                     exercise_data["id"] = exercise_id
                     exercise_id += 1
 
-                    # Output directory per level
-                    level_dir = os.path.join(output_root, level)
+                    # Replicate the folder structure: structured_exercises/LEVEL/SECTION/
+                    level_dir = os.path.join(output_root, level, section)
                     os.makedirs(level_dir, exist_ok=True)
 
                     out_file = os.path.join(level_dir, f"{file.replace('.txt', '.json')}")
@@ -172,7 +177,7 @@ def main():
 
                     print(f"✅ Opgeslagen: {out_file}")
                 else:
-                    print(f"⚠️ Geen geldige uitvoer ontvangen voor {file} [{level}].")
+                    print(f"⚠️ Geen geldige uitvoer ontvangen voor {file} [{level}] in {section}.")
 
     print("\n🎉 Alles klaar!")
 
