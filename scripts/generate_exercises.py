@@ -57,16 +57,17 @@ def generate_simplified_and_exercises(level, section, topic_number, title, summa
 Herschrijf de titel en samenvatting in natuurlijk en begrijpelijk Nederlands op niveau {level}.
 De zinnen hoeven niet kort te zijn, maar moeten qua woordenschat, grammatica en structuur passen bij niveau {level}.
 Beperk je niet tot extreem simpele taal; gebruik wat natuurlijk klinkt op dat niveau.
+Zorg voor natuurlijk taalgebruik dat authentiek aanvoelt voor dit niveau - niet kunstmatig vereenvoudigd.
 
 Maak vervolgens taalactiviteiten op basis van de vereenvoudigde tekst:
 
 1. Kies **exact 5 woorden** die letterlijk voorkomen in de vereenvoudigde titel of samenvatting.
    - Geen enkel woord mag afkomstig zijn van buiten de vereenvoudigde titel of samenvatting.
    - Gebruik de woorden zoals ze in de tekst voorkomen (niet verbogen of afgeleid).
-   - Voeg per woord een korte, eenvoudige definitie toe (in eenvoudig Nederlands).
+   - Voeg per woord een korte, passende definitie toe in natuurlijk Nederlands voor niveau {level}.
 
-2. Maak **3 fill-in-the-blank-zinnen** met uitsluitend deze 5 woorden.
-   - De oplossing van elke zin moet een woord zijn uit de gekozen 5 woorden.
+2. Maak **3 fill-in-the-blank-zinnen** met uitsluitend de 5 woorden van punt 1.
+   - De oplossing van elke zin moet een woord zijn uit de gekozen 5 woorden van punt 1.
 
 3. Maak **3 meerkeuzevragen** over de betekenis van de vereenvoudigde tekst.
 
