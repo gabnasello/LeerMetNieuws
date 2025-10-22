@@ -28,91 +28,93 @@ export const exercises: Exercise[] = [
     id: 1,
     section: "Binnenland",
     level: "B1",
-    title: "Kerk betaalt 3000 euro per slachtoffer: Dit is een tijdelijke oplossing",
+    title: "Werknemers gevangenis moeten e-mailtekst verwijderen",
     topicNumber: 1,
     article: {
-      title: "Kerk betaalt 3000 euro per slachtoffer: Dit is een tijdelijke oplossing",
-      summary: "De 1591 erkende slachtoffers van misbruik in de kerk krijgen binnenkort 3000 euro extra. Dit geld is voor psychologische hulp. Maar voor meer hulp kijkt de kerk naar de politiek. Het komt neer op symboliek en wachten."
+      title: "Werknemers gevangenis moeten e-mailtekst verwijderen",
+      summary: "De personeelsleden van de Belgische gevangenissen moeten een bericht uit hun e-mailhandtekening verwijderen. In dat bericht werd geklaagd over te veel gevangenen. De ministerraad heeft dit gevraagd."
     },
     vocabulary: {
       words: [
         {
-          word: "slachtoffer",
-          definition: "iemand die iets ergs meemaakt, bijvoorbeeld door misbruik"
+          word: "gevangenis",
+          definition: "Een plaats waar mensen die de wet hebben overtreden, worden vastgehouden."
         },
         {
-          word: "misbruik",
-          definition: "wanneer iemand iets slechts doet met iets of iemand"
+          word: "e-mailhandtekening",
+          definition: "De tekst die automatisch onderaan een e-mailbericht wordt geplaatst."
         },
         {
-          word: "erkennen",
-          definition: "toegeven dat iets waar of echt is"
+          word: "ministerraad",
+          definition: "De groep van ministers die samen de regering vormen."
         },
         {
-          word: "psychologisch",
-          definition: "wat te maken heeft met de geest en gedachten"
+          word: "verwijderen",
+          definition: "Iets weghalen of er niet meer bij hebben."
         },
         {
-          word: "symboliek",
-          definition: "iets dat staat voor iets anders, vaak met een diepere betekenis"
+          word: "klagen",
+          definition: "Zeggen dat je niet tevreden bent, meestal over iets dat vervelend is."
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De kerk betaalt 3000 euro extra per ___.",
-          answer: "slachtoffer"
+          sentence: "De werknemers moeten de e-mailtekst ___",
+          answer: "verwijderen"
         },
         {
-          sentence: "De kerk erkent het ___ van veel slachtoffers.",
-          answer: "misbruik"
+          sentence: "De ministerraad heeft dit ___",
+          answer: "gevraagd"
         },
         {
-          sentence: "De kerk moet de misstanden ___.",
-          answer: "erkennen"
-        },
-        {
-          sentence: "Het geld is voor ___ hulp.",
-          answer: "psychologische"
-        },
-        {
-          sentence: "Het blijft nog even ___ wat er precies gaat gebeuren.",
-          answer: "wachten"
+          sentence: "Er wordt veel ___ over de situatie in de gevangenissen",
+          answer: "geklaagd"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom betaalt de kerk 3000 euro per slachtoffer?",
+        question: "Waar verwijderen de werknemers de e-mailtekst uit?",
         options: [
-          "Omdat het moet van de regering",
-          "Als gebaar van excuses",
-          "Omdat het zo in de wet staat",
-          "Omdat de kerk veel geld heeft"
+          "Uit hun e-mailhandtekening",
+          "Uit een boek",
+          "Van de ministerraad",
+          "Uit de gevangenis"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Wat is de rol van de ministerraad in dit verhaal?",
+        options: [
+          "Ze hebben de tekst geschreven",
+          "Ze hebben gevraagd de tekst te verwijderen",
+          "Ze zijn de gevangenen",
+          "Ze hebben de tekst goedgekeurd"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is het hoofddoel van deze betaling?",
+        question: "Waarover werd er geklaagd in het bericht?",
         options: [
-          "Om slachtoffers te straffen",
-          "Om financiële steun te bieden voor therapie",
-          "Om de kerk te promoten",
-          "Om de overheid tevreden te stellen"
+          "Over te veel gevangenen",
+          "Over te weinig gevangenen",
+          "Over de ministerraad",
+          "Over de e-mailhandtekening"
         ],
-        correctAnswer: 1
+        correctAnswer: 0
       }
     ],
     trueFalse: [
       {
-        statement: "De kerk betaalt 3000 euro aan alle slachtoffers.",
+        statement: "De werknemers moeten de e-mailtekst toevoegen aan hun e-mail.",
         isTrue: false
       },
       {
-        statement: "De betaling is vooral voor psychologische hulp.",
+        statement: "De ministerraad heeft gevraagd om het bericht te verwijderen.",
         isTrue: true
       },
       {
-        statement: "De kerk hoeft niet meer te doen na deze betaling.",
+        statement: "Het bericht klaagde over te weinig gevangenen.",
         isTrue: false
       }
     ]
@@ -121,141 +123,672 @@ export const exercises: Exercise[] = [
     id: 2,
     section: "Binnenland",
     level: "B1",
-    title: "Archeologen vinden bijzondere overblijfselen in Duivelsteen Gent",
+    title: "Fietsers en wandelaars: Waarom ruziën? Met een beetje beleefdheid is er veel op te lossen.",
     topicNumber: 1,
     article: {
-      title: "Archeologen vinden bijzondere overblijfselen in Duivelsteen Gent",
-      summary: "Archeologen hebben in Gent een bijzondere ontdekking gedaan. Tijdens opgravingen vonden ze goed bewaarde resten van vermoedelijke monniken. Dit was een grote verrassing voor de onderzoekers. Ze hadden wel iets verwacht, maar niet iets zo bijzonders als dit. De vondst is belangrijk voor de geschiedenis van de stad."
+      title: "Fietsers en wandelaars: Waarom ruziën? Met een beetje beleefdheid is er veel op te lossen.",
+      summary: "Fietsers en wandelaars hebben soms problemen met elkaar. Veel mensen herkennen dit. Ze vertellen over hun ergernissen. Dit artikel laat een selectie van die reacties zien."
     },
     vocabulary: {
       words: [
         {
-          word: "archeologen",
-          definition: "mensen die oude voorwerpen en resten bestuderen"
+          word: "fietsers",
+          definition: "personen die fietsen"
         },
         {
-          word: "overblijfselen",
-          definition: "wat er over is gebleven van iets ouds"
+          word: "wandelaars",
+          definition: "personen die wandelen"
         },
         {
-          word: "opgravingen",
-          definition: "het graven in de grond om oude dingen te vinden"
+          word: "ruzie",
+          definition: "onenigheid of conflict"
         },
         {
-          word: "monniken",
-          definition: "mensen die in een klooster leven en geloven"
+          word: "beleefdheid",
+          definition: "het beleefd zijn; vriendelijkheid"
         },
         {
-          word: "geschiedenis",
-          definition: "alles wat er in het verleden is gebeurd"
+          word: "oplossen",
+          definition: "iets oplossen; een probleem verhelpen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "___ vonden de oude resten tijdens hun onderzoek.",
-          answer: "Archeologen"
+          sentence: "Fietsers en wandelaars maken soms ___ over elkaars gedrag.",
+          answer: "ruzies"
         },
         {
-          sentence: "De ___ van de monniken waren goed bewaard gebleven.",
-          answer: "resten"
+          sentence: "Met een beetje ___ kun je al veel problemen voorkomen.",
+          answer: "beleefdheid"
         },
         {
-          sentence: "Door de ___ leren we over het verleden.",
-          answer: "geschiedenis"
+          sentence: "Samen kunnen we dit probleem ___ door beter naar elkaar te luisteren.",
+          answer: "oplossen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat vonden de archeologen in Gent?",
+        question: "Wat helpt om ruzies tussen fietsers en wandelaars te voorkomen?",
         options: [
-          "Een nieuwe stad",
-          "Een schat",
-          "Resten van monniken",
-          "Niets bijzonders"
+          "Meer fietsen",
+          "Meer wandelen",
+          "Beleefdheid tonen",
+          "Harder praten"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Waarom maken fietsers en wandelaars soms ruzie?",
+        options: [
+          "Ze verstaan elkaar niet",
+          "Ze willen allebei voorrang",
+          "Ze hebben haast",
+          "Ze hebben andere doelen"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is een voorbeeld van beleefdheid in het verkeer?",
+        options: [
+          "Snel inhalen",
+          "Niet groeten",
+          "Iemand voor laten gaan",
+          "Op de telefoon kijken"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Archeologen vonden niets bijzonders in Gent.",
+        statement: "Fietsers en wandelaars hebben altijd dezelfde doelen.",
         isTrue: false
       },
       {
-        statement: "De vondst helpt ons de geschiedenis beter te begrijpen.",
+        statement: "Beleefdheid kan helpen om conflicten te voorkomen.",
         isTrue: true
+      },
+      {
+        statement: "Ruzie is altijd de schuld van de fietser.",
+        isTrue: false
       }
     ]
   },
 {
     id: 3,
     section: "Binnenland",
-    level: "B1",
-    title: "Moeten er strengere regels komen voor euthanasie bij jongvolwassenen?",
+    level: "C1",
+    title: "Medewerkers gevangenis moeten klacht over overbevolking uit e-mail verwijderen",
     topicNumber: 1,
     article: {
-      title: "Moeten er strengere regels komen voor euthanasie bij jongvolwassenen?",
-      summary: "In Nederland en België zijn er zorgen over het aantal jonge mensen dat kiest voor euthanasie vanwege psychische problemen. Deskundigen overwegen of er strengere regels moeten komen voor jongeren onder de 25, omdat hun hersenen nog niet volledig zijn ontwikkeld. Ze willen voorkomen dat het een heftig debat wordt."
+      title: "Medewerkers gevangenis moeten klacht over overbeveling uit e-mail verwijderen",
+      summary: "De Belgische regering vraagt aan personeel in gevangenissen om een klacht over overbeveling te verwijderen uit hun e-mailhandtekening. Dit is een belangrijk onderwerp omdat overbeveling in gevangenissen een groot probleem is."
     },
     vocabulary: {
       words: [
         {
-          word: "euthanasie",
-          definition: "een medische behandeling om het leven van een terminale patiënt op een humane manier te beëindigen"
+          word: "gevangenis",
+          definition: "Een plaats waar mensen worden vastgehouden als straf voor een misdaad."
         },
         {
-          word: "jongvolwassenen",
-          definition: "jonge mensen die net volwassen zijn, meestal tussen 18 en 25 jaar"
+          word: "overbevolking",
+          definition: "Wanneer er te veel mensen in een ruimte zijn, waardoor het oncomfortabel of ongezond wordt."
         },
         {
-          word: "psychische problemen",
-          definition: "problemen met de geestelijke gezondheid, zoals depressie of angst"
+          word: "klacht",
+          definition: "Een formele uiting van ontevredenheid of een probleem."
         },
         {
-          word: "deskundigen",
-          definition: "experts of mensen met veel kennis over een onderwerp"
+          word: "e-mailhandtekening",
+          definition: "De tekst die automatisch onderaan een e-mailbericht wordt geplaatst, vaak met contactgegevens."
         },
         {
-          word: "heftig",
-          definition: "erg emotioneel of intens"
+          word: "verwijderen",
+          definition: "Iets weghalen of verwijderen zodat het niet langer aanwezig is."
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Euthanasie is een optie voor mensen met ernstige ___ pijn.",
-          answer: "fysieke"
+          sentence: "De overbevolking in de ___ is zorgwekkend.",
+          answer: "gevangenis"
         },
         {
-          sentence: "Jongeren onder de 25 hebben soms nog geen volledig ontwikkelde ___ .",
-          answer: "hersenen"
+          sentence: "Hij diende een ___ in wegens de slechte service.",
+          answer: "klacht"
         },
         {
-          sentence: "Een heftig debat kan veel ___ veroorzaken.",
-          answer: "emotie"
+          sentence: "Kun je die oude foto ___ van je telefoon?",
+          answer: "verwijderen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom overwegen deskundigen strengere regels voor euthanasie bij jongeren onder 25?",
+        question: "Wat is overbevolking?",
         options: [
-          "Omdat jongeren vaak rijk zijn",
-          "Omdat hun hersenen nog niet volledig zijn ontwikkeld",
-          "Omdat jongeren geen pijn voelen",
-          "Omdat het een goedkope behandeling is"
+          "Een soort ziekte",
+          "Te veel mensen in een kleine ruimte",
+          "Een nieuw soort technologie",
+          "Een feestelijke gebeurtenis"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat betekent 'verwijderen'?",
+        options: [
+          "Toevoegen",
+          "Wegdoen",
+          "Verbergen",
+          "Repareren"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Waarom vraagt de regering aan gevangenispersoneel om de klacht te verwijderen?",
+        options: [
+          "Omdat het niet waar is",
+          "Omdat het slecht voor het imago is",
+          "Omdat het personeel ermee moet leren omgaan",
+          "Omdat het een officieel document moet worden"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Euthanasie is alleen toegestaan voor mensen boven de 30.",
+        statement: "Overbevolking is een probleem in gevangenissen.",
+        isTrue: true
+      },
+      {
+        statement: "Een e-mailhandtekening kan geen klachten bevatten.",
         isTrue: false
       },
       {
-        statement: "Deskundigen willen voorkomen dat euthanasie een heftig debat wordt.",
+        statement: "De Belgische regering onderneemt actie tegen overbevolking.",
         isTrue: true
+      }
+    ]
+  },
+{
+    id: 4,
+    section: "Binnenland",
+    level: "C1",
+    title: "Waarom ruziën? Met een beetje hoffelijkheid los je veel op.",
+    topicNumber: 1,
+    article: {
+      title: "Waarom ruziën? Met een beetje hoffelijkheid los je veel op.",
+      summary: "Fietsers en voetgangers hebben vaak conflicten. Maar met een beetje beleefdheid kunnen ze veel problemen voorkomen. Veel lezers erkennen dit en delen voorbeelden van ergernissen en oplossingen."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "conflict",
+          definition: "een meningsverschil of botsing tussen mensen"
+        },
+        {
+          word: "hoffelijkheid",
+          definition: "beleefd en respectvol gedrag"
+        },
+        {
+          word: "voorkomen",
+          definition: "ervoor zorgen dat iets niet gebeurt"
+        },
+        {
+          word: "ergernis",
+          definition: "irritatie of ergernis"
+        },
+        {
+          word: "oplossing",
+          definition: "manier om een probleem op te lossen"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "Een ___ kan escaleren als mensen niet communiceren.",
+          answer: "conflict"
+        },
+        {
+          sentence: "___ is belangrijk in elke interactie.",
+          answer: "Hoffelijkheid"
+        },
+        {
+          sentence: "Het is beter om problemen te ___ dan ze te negeren.",
+          answer: "voorkomen"
+        },
+        {
+          sentence: "Constante ___ kan tot ruzies leiden.",
+          answer: "ergernis"
+        },
+        {
+          sentence: "Een goede ___ lost veel problemen op.",
+          answer: "oplossing"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Wat is het tegenovergestelde van hoffelijkheid?",
+        options: [
+          "Onbeleefdheid",
+          "Luidruchtigheid",
+          "Onverschilligheid",
+          "Onbeschoftheid"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat helpt om een conflict op te lossen?",
+        options: [
+          "Harder praten",
+          "Weigeren te luisteren",
+          "Samenwerken",
+          "Eigenbelang eerst"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Waarom is hoffelijkheid belangrijk?",
+        options: [
+          "Het is verplicht",
+          "Het maakt anderen boos",
+          "Het creëert harmonie",
+          "Het kost te veel moeite"
+        ],
+        correctAnswer: 2
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "Conflicten zijn altijd negatief.",
+        isTrue: false
+      },
+      {
+        statement: "Hoffelijkheid kan conflicten voorkomen.",
+        isTrue: true
+      },
+      {
+        statement: "Samenwerken leidt altijd tot ruzies.",
+        isTrue: false
+      }
+    ]
+  },
+{
+    id: 5,
+    section: "Binnenland",
+    level: "A2",
+    title: "Werknemers in de gevangenis mogen niet klagen over te veel gevangenen",
+    topicNumber: 1,
+    article: {
+      title: "Werknemers in de gevangenis mogen niet klagen over te veel gevangenen",
+      summary: "De Belgische regering zegt tegen personeel in gevangenissen: jullie mogen niet meer zeggen dat er te veel gevangenen zijn. Die boodschap moet weg uit jullie e-mail handtekening."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "werknemers",
+          definition: "mensen die werken voor een bedrijf"
+        },
+        {
+          word: "gevangenis",
+          definition: "een plaats waar mensen worden vastgehouden als straf"
+        },
+        {
+          word: "klagen",
+          definition: "zeggen dat je niet blij bent met iets"
+        },
+        {
+          word: "over",
+          definition: "bovenop of erboven"
+        },
+        {
+          word: "te veel",
+          definition: "meer dan nodig is"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "De werknemers mogen niet ___ over hun werk.",
+          answer: "klagen"
+        },
+        {
+          sentence: "Er zijn te ___ gevangenen in de gevangenis.",
+          answer: "veel"
+        },
+        {
+          sentence: "De regering wil dat de boodschap ___ uit de e-mail.",
+          answer: "verdwijnt"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Wat mogen de werknemers niet doen?",
+        options: [
+          "Klagen over te veel gevangenen",
+          "Lachen met collega's",
+          "Eten tijdens het werk",
+          "Naar huis gaan vroeg"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Wat zegt de Belgische regering tegen het personeel?",
+        options: [
+          "Jullie mogen niet klagen over te veel gevangenen",
+          "Jullie moeten harder werken",
+          "Jullie moeten meer uren maken",
+          "Jullie moeten minder geld vragen"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Wat moet er gebeuren met de boodschap in de e-mail?",
+        options: [
+          "Die moet verdwijnen",
+          "Die moet groter worden",
+          "Die moet blijven",
+          "Die moet veranderen"
+        ],
+        correctAnswer: 0
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "De werknemers mogen klagen over te veel gevangenen.",
+        isTrue: false
+      },
+      {
+        statement: "De Belgische regering wil dat de boodschap verdwijnt uit de e-mail.",
+        isTrue: true
+      },
+      {
+        statement: "De werknemers mogen blijven werken in de gevangenis.",
+        isTrue: true
+      }
+    ]
+  },
+{
+    id: 6,
+    section: "Binnenland",
+    level: "A2",
+    title: "Ruzie tussen fietsers en wandelaars: Waarom ruzie maken? Met vriendelijkheid los je veel problemen op.",
+    topicNumber: 1,
+    article: {
+      title: "Ruzie tussen fietsers en wandelaars: Waarom ruzie maken? Met vriendelijkheid los je veel problemen op.",
+      summary: "Soms zijn fietsers en wandelaars boos op elkaar. Maar waarom? Het is beter om vriendelijk te zijn. Dan los je veel problemen op."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "ruzie",
+          definition: "een situatie waarin mensen ruzie hebben"
+        },
+        {
+          word: "vriendelijkheid",
+          definition: "vriendelijk zijn; aardig zijn tegen anderen"
+        },
+        {
+          word: "problemen",
+          definition: "moeilijke situaties die moeten worden opgelost"
+        },
+        {
+          word: "oplossen",
+          definition: "iets fixen; een oplossing vinden"
+        },
+        {
+          word: "wandelaars",
+          definition: "mensen die wandelen, meestal in de natuur"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "Fietsers en wandelaars hebben soms ___ met elkaar.",
+          answer: "ruzie"
+        },
+        {
+          sentence: "Met vriendelijkheid kun je veel ___ oplossen.",
+          answer: "problemen"
+        },
+        {
+          sentence: "___ is een goed voorbeeld van hoe je problemen kunt oplossen.",
+          answer: "Vriendelijkheid"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Waarom is het belangrijk om vriendelijk te zijn?",
+        options: [
+          "Omdat het makkelijker is",
+          "Omdat ruzie gevaarlijk is",
+          "Omdat vriendelijkheid problemen oplost",
+          "Omdat het sneller gaat"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is een voorbeeld van vriendelijkheid?",
+        options: [
+          "Iemand uitschelden",
+          "Iemand helpen met zijn fiets",
+          "Negeren",
+          "Hard weglopen"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat doen wandelaars vooral?",
+        options: [
+          "Fietsen",
+          "Auto rijden",
+          "Wandelen",
+          "Zwemmen"
+        ],
+        correctAnswer: 2
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "Fietsers en wandelaars zijn altijd vriendelijk.",
+        isTrue: false
+      },
+      {
+        statement: "Vriendelijkheid kan problemen oplossen.",
+        isTrue: true
+      },
+      {
+        statement: "Ruzie is beter dan vriendelijkheid.",
+        isTrue: false
+      }
+    ]
+  },
+{
+    id: 7,
+    section: "Binnenland",
+    level: "B2",
+    title: "Overbevolking in gevangenissen: personeel mag niet klagen in e-mails",
+    topicNumber: 1,
+    article: {
+      title: "Overbeplakt: Titel is gewijzigd voor privacy",
+      summary: "Artikelinhoud is samengevat voor oefening"
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "overbevolking",
+          definition: "te veel mensen in een beperkte ruimte"
+        },
+        {
+          word: "gevangenis",
+          definition: "een plaats waar mensen worden vastgehouden als straf"
+        },
+        {
+          word: "ministerraad",
+          definition: "een groep ministers die samen besluiten nemen"
+        },
+        {
+          word: "e-mailhandtekening",
+          definition: "de tekst onderaan een e-mail met contactgegevens"
+        },
+        {
+          word: "verwijderen",
+          definition: "weghalen of wissen"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "De gevangenis heeft last van ___",
+          answer: "overbevolking"
+        },
+        {
+          sentence: "De ministerraad vroeg om de ___ aan te passen",
+          answer: "e-mailhandtekening"
+        },
+        {
+          sentence: "Het personeel moet de tekst ___",
+          answer: "verwijderen"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Waarom moet het personeel de tekst verwijderen?",
+        options: [
+          "Omdat de ministerraad het vraagt",
+          "Omdat de tekst te lang is",
+          "Omdat de tekst onjuist is",
+          "Omdat de tekst geheim is"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Wat is de gevolgen van overbevolking in gevangenissen?",
+        options: [
+          "Meer conflicten onder gevangenen",
+          "Minder privacy voor gevangenen",
+          "Meer werkdruk voor personeel",
+          "Alle bovenstaande"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat is de rol van de ministerraad?",
+        options: [
+          "Beslissen over gevangenissen",
+          "Adviseren over e-mailgebruik",
+          "Controleren van personeelshandelingen",
+          "Geen van bovenstaande"
+        ],
+        correctAnswer: 0
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "De e-mailhandtekening mocht blijven staan.",
+        isTrue: false
+      },
+      {
+        statement: "Overbevolking is een probleem in gevangenissen.",
+        isTrue: true
+      },
+      {
+        statement: "Alleen de ministerraad mag over dit onderwerp communiceren.",
+        isTrue: true
+      }
+    ]
+  },
+{
+    id: 8,
+    section: "Binnenland",
+    level: "B2",
+    title: "Waarom zijn fietsers en voetgangers ontevreden? Met een beetje beleefdheid is er veel op te lossen.",
+    topicNumber: 1,
+    article: {
+      title: "Waarom zijn fietsers en voetgangers ontevreden? Met een beetje beleefdheid is er veel op te lossen.",
+      summary: "Fietsers en voetgangers zijn al lang ontevreden. Maar veel lezers herkennen dit en vertellen over hun ergernissen. Dit is een selectie van hun verhalen."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "ontevreden",
+          definition: "niet tevreden, niet blij met de situatie"
+        },
+        {
+          word: "oplossen",
+          definition: "een probleem of conflict wegwerken"
+        },
+        {
+          word: "beleefdheid",
+          definition: "beleefd zijn, vriendelijk en respectvol zijn"
+        },
+        {
+          word: "herkennen",
+          definition: "iets of iemand (weer)zien en weten wat of wie het is"
+        },
+        {
+          word: "ergernis",
+          definition: "een gevoel van irritatie of frustratie"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "Veel mensen zijn ontevreden omdat ze zich niet ___ voelen.",
+          answer: "gehoord"
+        },
+        {
+          sentence: "Met een beetje meer ___, kunnen veel problemen worden opgelost.",
+          answer: "beleefdheid"
+        },
+        {
+          sentence: "Als je een conflict ___, los je het op.",
+          answer: "oplost"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Waarom zijn fietsers en voetgangers ontevreden?",
+        options: [
+          "Omdat er te weinig fietspaden zijn",
+          "Omdat ze zich niet gehoord voelen",
+          "Omdat er te veel auto's zijn",
+          "Omdat het weer slecht is"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat helpt om problemen op te lossen?",
+        options: [
+          "Meer auto's bouwen",
+          "Meer geld uitgeven",
+          "Meer beleefdheid",
+          "Meer klagen"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Hoe voelen veel mensen zich volgens de tekst?",
+        options: [
+          "Tevreden",
+          "Ongehoord",
+          "Vrolijk",
+          "Verdwaald"
+        ],
+        correctAnswer: 1
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "Fietsers en voetgangers zijn over het algemeen tevreden.",
+        isTrue: false
+      },
+      {
+        statement: "Beleefdheid kan helpen om problemen op te lossen.",
+        isTrue: true
+      },
+      {
+        statement: "De meeste lezers hebben geen last van ergernissen in het verkeer.",
+        isTrue: false
       }
     ]
   }

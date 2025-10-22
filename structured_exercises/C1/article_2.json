@@ -1,0 +1,103 @@
+{
+  "id": 16,
+  "section": "Binnenland",
+  "level": "C1",
+  "title": "Waarom ruziën? Met een beetje hoffelijkheid los je veel op.",
+  "topicNumber": 1,
+  "article": {
+    "title": "Waarom ruziën? Met een beetje hoffelijkheid los je veel op.",
+    "summary": "Fietsers en voetgangers hebben vaak conflicten. Maar met een beetje beleefdheid kunnen ze veel problemen voorkomen. Veel lezers erkennen dit en delen voorbeelden van ergernissen en oplossingen."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "conflict",
+        "definition": "een meningsverschil of botsing tussen mensen"
+      },
+      {
+        "word": "hoffelijkheid",
+        "definition": "beleefd en respectvol gedrag"
+      },
+      {
+        "word": "voorkomen",
+        "definition": "ervoor zorgen dat iets niet gebeurt"
+      },
+      {
+        "word": "ergernis",
+        "definition": "irritatie of ergernis"
+      },
+      {
+        "word": "oplossing",
+        "definition": "manier om een probleem op te lossen"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Een ___ kan escaleren als mensen niet communiceren.",
+        "answer": "conflict"
+      },
+      {
+        "sentence": "___ is belangrijk in elke interactie.",
+        "answer": "Hoffelijkheid"
+      },
+      {
+        "sentence": "Het is beter om problemen te ___ dan ze te negeren.",
+        "answer": "voorkomen"
+      },
+      {
+        "sentence": "Constante ___ kan tot ruzies leiden.",
+        "answer": "ergernis"
+      },
+      {
+        "sentence": "Een goede ___ lost veel problemen op.",
+        "answer": "oplossing"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat is het tegenovergestelde van hoffelijkheid?",
+      "options": [
+        "Onbeleefdheid",
+        "Luidruchtigheid",
+        "Onverschilligheid",
+        "Onbeschoftheid"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat helpt om een conflict op te lossen?",
+      "options": [
+        "Harder praten",
+        "Weigeren te luisteren",
+        "Samenwerken",
+        "Eigenbelang eerst"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Waarom is hoffelijkheid belangrijk?",
+      "options": [
+        "Het is verplicht",
+        "Het maakt anderen boos",
+        "Het creëert harmonie",
+        "Het kost te veel moeite"
+      ],
+      "correctAnswer": 2
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Conflicten zijn altijd negatief.",
+      "isTrue": false
+    },
+    {
+      "statement": "Hoffelijkheid kan conflicten voorkomen.",
+      "isTrue": true
+    },
+    {
+      "statement": "Samenwerken leidt altijd tot ruzies.",
+      "isTrue": false
+    }
+  ]
+}

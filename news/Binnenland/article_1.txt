@@ -1,15 +1,15 @@
 Artikel 1
-Nieuwsupdate: 2025-10-19 05:23 UCT
+Nieuwsupdate: 2025-10-22 04:28 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Kerk betaalt 3.000 euro per slachtoffer: “Dit is een tussentijdse oplossing”
-Link: https://www.standaard.be/binnenland/kerk-betaalt-3.000-euro-per-slachtoffer-dit-is-een-tussentijdse-oplossing/98434589.html
-Datum: Sat, 18 Oct 2025 16:19:14 GMT
-Samenvatting: De 1.591 “erkende slachtoffers” van misbruik in de kerk zullen binnenkort 3.000 euro extra krijgen om psychologische hulp te kunnen betalen, voor meer kijkt ze naar de politiek: “Het komt op hetzelfde neer: symboliek en wachten.”
+Titel: Overbevolking blijft stijgen, maar gevangenispersoneel mag er niet over klagen in e-mails
+Link: https://www.standaard.be/binnenland/overbevolking-blijft-stijgen-maar-gevangenispersoneel-mag-er-niet-over-klagen-in-e-mails/99138757.html
+Datum: Tue, 21 Oct 2025 21:59:00 GMT
+Samenvatting: De personeelsleden van de Belgische gevangenissen moeten op vraag van de ministerraad een boodschap uit hun e-mailhandtekening verwijderen. Daarin kaarten ze de overbevolking aan.
 Auteur: Geen auteur
 Categorie: Binnenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/9mi84r-kerk-nyt.jpg/alternates/BASE_SIXTEEN_NINE/kerk%20nyt.jpg
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/31etvz-actie-gevangenis-turnhout/alternates/BASE_SIXTEEN_NINE/ACTIE%20GEVANGENIS%20TURNHOUT
+Premium: true
 ------------------------------------------------------------

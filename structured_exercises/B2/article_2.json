@@ -1,0 +1,95 @@
+{
+  "id": 15,
+  "section": "Binnenland",
+  "level": "B2",
+  "title": "Waarom zijn fietsers en voetgangers ontevreden? Met een beetje beleefdheid is er veel op te lossen.",
+  "topicNumber": 1,
+  "article": {
+    "title": "Waarom zijn fietsers en voetgangers ontevreden? Met een beetje beleefdheid is er veel op te lossen.",
+    "summary": "Fietsers en voetgangers zijn al lang ontevreden. Maar veel lezers herkennen dit en vertellen over hun ergernissen. Dit is een selectie van hun verhalen."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "ontevreden",
+        "definition": "niet tevreden, niet blij met de situatie"
+      },
+      {
+        "word": "oplossen",
+        "definition": "een probleem of conflict wegwerken"
+      },
+      {
+        "word": "beleefdheid",
+        "definition": "beleefd zijn, vriendelijk en respectvol zijn"
+      },
+      {
+        "word": "herkennen",
+        "definition": "iets of iemand (weer)zien en weten wat of wie het is"
+      },
+      {
+        "word": "ergernis",
+        "definition": "een gevoel van irritatie of frustratie"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Veel mensen zijn ontevreden omdat ze zich niet ___ voelen.",
+        "answer": "gehoord"
+      },
+      {
+        "sentence": "Met een beetje meer ___, kunnen veel problemen worden opgelost.",
+        "answer": "beleefdheid"
+      },
+      {
+        "sentence": "Als je een conflict ___, los je het op.",
+        "answer": "oplost"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Waarom zijn fietsers en voetgangers ontevreden?",
+      "options": [
+        "Omdat er te weinig fietspaden zijn",
+        "Omdat ze zich niet gehoord voelen",
+        "Omdat er te veel auto's zijn",
+        "Omdat het weer slecht is"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat helpt om problemen op te lossen?",
+      "options": [
+        "Meer auto's bouwen",
+        "Meer geld uitgeven",
+        "Meer beleefdheid",
+        "Meer klagen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Hoe voelen veel mensen zich volgens de tekst?",
+      "options": [
+        "Tevreden",
+        "Ongehoord",
+        "Vrolijk",
+        "Verdwaald"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Fietsers en voetgangers zijn over het algemeen tevreden.",
+      "isTrue": false
+    },
+    {
+      "statement": "Beleefdheid kan helpen om problemen op te lossen.",
+      "isTrue": true
+    },
+    {
+      "statement": "De meeste lezers hebben geen last van ergernissen in het verkeer.",
+      "isTrue": false
+    }
+  ]
+}

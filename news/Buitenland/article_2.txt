@@ -1,15 +1,15 @@
 Artikel 2
-Nieuwsupdate: 2025-10-19 05:23 UCT
+Nieuwsupdate: 2025-10-22 04:28 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Massale protestmars tegen “King Donald the First”: “Mogelijk de grootste betoging in onze geschiedenis”
-Link: https://www.standaard.be/buitenland/massale-protestmars-tegen-king-donald-the-first-mogelijk-de-grootste-betoging-in-onze-geschiedenis/98472656.html
-Datum: Sat, 18 Oct 2025 16:58:00 GMT
-Samenvatting: Op meer dan 2.700 plaatsen in Amerika, van grote steden tot kleine dorpen, worden vandaag protestmarsen gehouden tegen president Donald Trump. De ‘No Kings’-protesten zijn gericht tegen zijn steeds autocratischere beleid.
+Titel: Arizona klaagt Huis van Afgevaardigden aan voor vertraging bij beëdiging Democraat
+Link: https://www.standaard.be/buitenland/arizona-klaagt-huis-van-afgevaardigden-aan-voor-vertraging-bij-beediging-democraat/35131945.html
+Datum: Wed, 22 Oct 2025 02:50:00 GMT
+Samenvatting: De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/8t0k7o-file82vkcj31hiq1k1gl48ht/alternates/BASE_SIXTEEN_NINE/file82vkcj31hiq1k1gl48ht
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/fxhkee-portland-residents-react-to-trumps-threats-to-deploy-national-guard/alternates/BASE_SIXTEEN_NINE/Portland%20Residents%20React%20To%20Trumps%20Threats%20To%20Deploy%20National%20Guard
+Premium: false
 ------------------------------------------------------------

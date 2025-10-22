@@ -1,0 +1,95 @@
+{
+  "id": 12,
+  "section": "Binnenland",
+  "level": "C1",
+  "title": "Medewerkers gevangenis moeten klacht over overbevolking uit e-mail verwijderen",
+  "topicNumber": 1,
+  "article": {
+    "title": "Medewerkers gevangenis moeten klacht over overbeveling uit e-mail verwijderen",
+    "summary": "De Belgische regering vraagt aan personeel in gevangenissen om een klacht over overbeveling te verwijderen uit hun e-mailhandtekening. Dit is een belangrijk onderwerp omdat overbeveling in gevangenissen een groot probleem is."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "gevangenis",
+        "definition": "Een plaats waar mensen worden vastgehouden als straf voor een misdaad."
+      },
+      {
+        "word": "overbevolking",
+        "definition": "Wanneer er te veel mensen in een ruimte zijn, waardoor het oncomfortabel of ongezond wordt."
+      },
+      {
+        "word": "klacht",
+        "definition": "Een formele uiting van ontevredenheid of een probleem."
+      },
+      {
+        "word": "e-mailhandtekening",
+        "definition": "De tekst die automatisch onderaan een e-mailbericht wordt geplaatst, vaak met contactgegevens."
+      },
+      {
+        "word": "verwijderen",
+        "definition": "Iets weghalen of verwijderen zodat het niet langer aanwezig is."
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "De overbevolking in de ___ is zorgwekkend.",
+        "answer": "gevangenis"
+      },
+      {
+        "sentence": "Hij diende een ___ in wegens de slechte service.",
+        "answer": "klacht"
+      },
+      {
+        "sentence": "Kun je die oude foto ___ van je telefoon?",
+        "answer": "verwijderen"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat is overbevolking?",
+      "options": [
+        "Een soort ziekte",
+        "Te veel mensen in een kleine ruimte",
+        "Een nieuw soort technologie",
+        "Een feestelijke gebeurtenis"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat betekent 'verwijderen'?",
+      "options": [
+        "Toevoegen",
+        "Wegdoen",
+        "Verbergen",
+        "Repareren"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Waarom vraagt de regering aan gevangenispersoneel om de klacht te verwijderen?",
+      "options": [
+        "Omdat het niet waar is",
+        "Omdat het slecht voor het imago is",
+        "Omdat het personeel ermee moet leren omgaan",
+        "Omdat het een officieel document moet worden"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Overbevolking is een probleem in gevangenissen.",
+      "isTrue": true
+    },
+    {
+      "statement": "Een e-mailhandtekening kan geen klachten bevatten.",
+      "isTrue": false
+    },
+    {
+      "statement": "De Belgische regering onderneemt actie tegen overbevolking.",
+      "isTrue": true
+    }
+  ]
+}

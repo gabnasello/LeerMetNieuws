@@ -1,0 +1,95 @@
+{
+  "id": 13,
+  "section": "Binnenland",
+  "level": "B1",
+  "title": "Fietsers en wandelaars: Waarom ruziën? Met een beetje beleefdheid is er veel op te lossen.",
+  "topicNumber": 1,
+  "article": {
+    "title": "Fietsers en wandelaars: Waarom ruziën? Met een beetje beleefdheid is er veel op te lossen.",
+    "summary": "Fietsers en wandelaars hebben soms problemen met elkaar. Veel mensen herkennen dit. Ze vertellen over hun ergernissen. Dit artikel laat een selectie van die reacties zien."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "fietsers",
+        "definition": "personen die fietsen"
+      },
+      {
+        "word": "wandelaars",
+        "definition": "personen die wandelen"
+      },
+      {
+        "word": "ruzie",
+        "definition": "onenigheid of conflict"
+      },
+      {
+        "word": "beleefdheid",
+        "definition": "het beleefd zijn; vriendelijkheid"
+      },
+      {
+        "word": "oplossen",
+        "definition": "iets oplossen; een probleem verhelpen"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Fietsers en wandelaars maken soms ___ over elkaars gedrag.",
+        "answer": "ruzies"
+      },
+      {
+        "sentence": "Met een beetje ___ kun je al veel problemen voorkomen.",
+        "answer": "beleefdheid"
+      },
+      {
+        "sentence": "Samen kunnen we dit probleem ___ door beter naar elkaar te luisteren.",
+        "answer": "oplossen"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat helpt om ruzies tussen fietsers en wandelaars te voorkomen?",
+      "options": [
+        "Meer fietsen",
+        "Meer wandelen",
+        "Beleefdheid tonen",
+        "Harder praten"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Waarom maken fietsers en wandelaars soms ruzie?",
+      "options": [
+        "Ze verstaan elkaar niet",
+        "Ze willen allebei voorrang",
+        "Ze hebben haast",
+        "Ze hebben andere doelen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is een voorbeeld van beleefdheid in het verkeer?",
+      "options": [
+        "Snel inhalen",
+        "Niet groeten",
+        "Iemand voor laten gaan",
+        "Op de telefoon kijken"
+      ],
+      "correctAnswer": 2
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Fietsers en wandelaars hebben altijd dezelfde doelen.",
+      "isTrue": false
+    },
+    {
+      "statement": "Beleefdheid kan helpen om conflicten te voorkomen.",
+      "isTrue": true
+    },
+    {
+      "statement": "Ruzie is altijd de schuld van de fietser.",
+      "isTrue": false
+    }
+  ]
+}
