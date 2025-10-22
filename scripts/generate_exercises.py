@@ -44,23 +44,35 @@ def generate_simplified_and_exercises(level, section, topic_number, title, summa
     messages = [
         {
             "role": "system",
-            "content": "Je bent een ervaren NT2-docent (Nederlands als tweede taal). Geef uitsluitend geldige JSON-uitvoer."
+            "content": (
+                "Je bent een ervaren NT2-docent (Nederlands als tweede taal) die oefenmateriaal maakt "
+                "voor anderstaligen op verschillende ERK-niveaus (CEFR). "
+                "Je begrijpt goed welke grammatica, woordenschat en zinslengte bij elk niveau hoort. "
+                "Gebruik correcte spelling en grammatica, en geef uitsluitend geldige JSON-uitvoer."
+            )
         },
         {
             "role": "user",
             "content": f"""
-Herschrijf de titel en samenvatting in eenvoudig Nederlands op niveau {level}.
-Gebruik korte, duidelijke zinnen.
+Herschrijf de titel en samenvatting in natuurlijk en begrijpelijk Nederlands op niveau {level}.
+De zinnen hoeven niet kort te zijn, maar moeten qua woordenschat, grammatica en structuur passen bij niveau {level}.
+Beperk je niet tot extreem simpele taal; gebruik wat natuurlijk klinkt op dat niveau.
 
 Maak vervolgens taalactiviteiten op basis van de vereenvoudigde tekst:
-1. Kies 5 woorden uit de vereenvoudigde tekst voor de woordenlijst. Voeg hun eenvoudige definities toe.
-2. Gebruik precies deze 5 woorden om 3 fill-in-the-blank-zinnen te maken.
-3. Maak 3 meerkeuzevragen over de betekenis van de tekst.
-4. Maak 3 waar/niet waar-stellingen.
 
-**Belangrijk:** de woorden in fillInBlanks moeten afkomstig zijn uit de gekozen 5 woorden van de woordenlijst.
+1. Kies **exact 5 woorden** die letterlijk voorkomen in de vereenvoudigde titel of samenvatting.
+   - Geen enkel woord mag afkomstig zijn van buiten de vereenvoudigde titel of samenvatting.
+   - Gebruik de woorden zoals ze in de tekst voorkomen (niet verbogen of afgeleid).
+   - Voeg per woord een korte, eenvoudige definitie toe (in eenvoudig Nederlands).
 
-Geef de uitvoer in **één geldig JSON-object** met exact deze structuur:
+2. Maak **3 fill-in-the-blank-zinnen** met uitsluitend deze 5 woorden.
+   - De oplossing van elke zin moet een woord zijn uit de gekozen 5 woorden.
+
+3. Maak **3 meerkeuzevragen** over de betekenis van de vereenvoudigde tekst.
+
+4. Maak **3 waar/niet waar-stellingen** over de inhoud van de tekst.
+
+Geef de uitvoer als **één geldig JSON-object** met exact deze structuur:
 
 {{
   "id": 1,
@@ -121,7 +133,19 @@ Samenvatting: {summary}
     try:
         json_match = re.search(r"\{[\s\S]*\}", response)
         if json_match:
-            return json.loads(json_match.group(0))
+            data = json.loads(json_match.group(0))
+
+            # Optional validation (you can uncomment if you want strict checking)
+            # simplified_text = (data.get("article", {}).get("title", "") + " " +
+            #                    data.get("article", {}).get("summary", "")).lower()
+            # invalid_words = [
+            #     w["word"] for w in data.get("vocabulary", {}).get("words", [])
+            #     if w["word"].lower() not in simplified_text
+            # ]
+            # if invalid_words:
+            #     print(f"⚠️ Woorden niet gevonden in vereenvoudigde tekst: {invalid_words}")
+
+            return data
         print("⚠️ Geen JSON gevonden in de uitvoer.")
         return {}
     except json.JSONDecodeError:
@@ -141,7 +165,7 @@ def main():
     for root, dirs, files in os.walk(news_root):
         dirs[:] = [d for d in dirs if not d.startswith(".")]
         if root == news_root:
-            continue  # skip the top-level directory itself
+            continue
 
         section = os.path.basename(root)
 
@@ -167,7 +191,6 @@ def main():
                     exercise_data["id"] = exercise_id
                     exercise_id += 1
 
-                    # Replicate the folder structure: structured_exercises/LEVEL/SECTION/
                     level_dir = os.path.join(output_root, level, section)
                     os.makedirs(level_dir, exist_ok=True)
 
