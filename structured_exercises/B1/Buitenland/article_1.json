@@ -1,0 +1,96 @@
+{
+  "id": 1,
+  "section": "Buitenland",
+  "topic": "Buitenland",
+  "level": "B1",
+  "title": "Vance is optimistisch over vrede in Gaza",
+  "topicNumber": 1,
+  "article": {
+    "title": "Vance is optimistisch over vrede in Gaza",
+    "summary": "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de vredesonderhandelingen. Vance is hier optimistisch over."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "optimistisch",
+        "definition": "positief en hoopvol"
+      },
+      {
+        "word": "vakbond",
+        "definition": "een groep werknemers die samenwerkt voor betere rechten"
+      },
+      {
+        "word": "onderhandelingen",
+        "definition": "gesprekken om tot een oplossing te komen"
+      },
+      {
+        "word": "oorlog",
+        "definition": "een periode van gewapend conflict"
+      },
+      {
+        "word": "vrede",
+        "definition": "geen oorlog, rust en harmonie"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Hij is ___ over de toekomst.",
+        "answer": "optimistisch"
+      },
+      {
+        "sentence": "De ___ tussen landen is belangrijk voor vrede.",
+        "answer": "onderhandelingen"
+      },
+      {
+        "sentence": "Ze willen ___ in de regio.",
+        "answer": "vrede"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Waar is Vance optimistisch over?",
+      "options": [
+        "Oorlog in Gaza",
+        "Vrede in Gaza",
+        "Een nieuwe oorlog",
+        "Meer conflicten"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is het tegenovergestelde van oorlog?",
+      "options": [
+        "Strijd",
+        "Vrede",
+        "Conflict",
+        "Oorlog"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Hoe lang duurde de oorlog in Gaza?",
+      "options": [
+        "1 jaar",
+        "2 jaar",
+        "5 jaar",
+        "10 jaar"
+      ],
+      "correctAnswer": 2
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Vance is optimistisch over vrede in Gaza.",
+      "isTrue": true
+    },
+    {
+      "statement": "De oorlog in Gaza duurde vijf jaar.",
+      "isTrue": false
+    },
+    {
+      "statement": "Onderhandelingen kunnen leiden tot vrede.",
+      "isTrue": true
+    }
+  ]
+}

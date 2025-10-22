@@ -1,0 +1,96 @@
+{
+  "id": 10,
+  "section": "Binnenland",
+  "topic": "Binnenland",
+  "level": "A2",
+  "title": "Veel boetes voor gokken niet betaald",
+  "topicNumber": 1,
+  "article": {
+    "title": "Veel boetes voor gokken niet betaald",
+    "summary": "De Kansspelcommissie heeft in 2024 veel boetes uitgeschreven, maar veel boetes zijn niet betaald. Van de 4,6 miljoen euro aan boetes is slechts 0,6 procent betaald. De Kansspelcommissie is als een tijger zonder tanden."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "boetes",
+        "definition": "geld dat je moet betalen als straf"
+      },
+      {
+        "word": "betaald",
+        "definition": "het geld is gegeven voor iets"
+      },
+      {
+        "word": "gokken",
+        "definition": "spelen om geld te winnen of verliezen"
+      },
+      {
+        "word": "tand",
+        "definition": "hard, wit ding in je mond"
+      },
+      {
+        "word": "tijger",
+        "definition": "een groot, geel met zwart gestreept dier"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Als je niet betaalt, krijg je een ___.",
+        "answer": "boete"
+      },
+      {
+        "sentence": "Een ___ is een gevaarlijk dier.",
+        "answer": "tijger"
+      },
+      {
+        "sentence": "Gokken kan verslavend zijn, net als een ___.",
+        "answer": "tijger"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat is de Kansspelcommissie?",
+      "options": [
+        "Een soort bank",
+        "Een groep die toezicht houdt op gokken",
+        "Een soort dierentuin",
+        "Een soort restaurant"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is een 'tandeloze tijger'?",
+      "options": [
+        "Een dier zonder tanden",
+        "Iemand die er niet gevaarlijk uitziet",
+        "Een dier dat niet kan bijten",
+        "Alle bovenstaande"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Waar gaat de tekst over?",
+      "options": [
+        "Over een echte tijger",
+        "Over geld en boetes",
+        "Over een commissie die geen tanden heeft",
+        "Over de opbrengst van boetes"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "De Kansspelcommissie heeft in 2024 veel boetes geïnd.",
+      "isTrue": false
+    },
+    {
+      "statement": "Een tijger zonder tanden kan niet bijten.",
+      "isTrue": true
+    },
+    {
+      "statement": "De Kansspelcommissie is net een sterke leeuw.",
+      "isTrue": false
+    }
+  ]
+}

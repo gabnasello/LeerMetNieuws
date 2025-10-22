@@ -1,0 +1,96 @@
+{
+  "id": 15,
+  "section": "Binnenland",
+  "topic": "Binnenland",
+  "level": "C1",
+  "title": "Felix Heremans: van 'Putain' naar 'De Slimste Mens'",
+  "topicNumber": 1,
+  "article": {
+    "title": "Felix Heremans: van 'Putain' naar 'De Slimste Mens'",
+    "summary": "Acteur Felix Heremans deed mee aan het tv-programma 'De Slimste Mens'. Hij won de eerste aflevering. Hij is de jongste kandidaat ooit in dat programma. We spraken met hem in juli, en nu lees je hier over hem."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "acteur",
+        "definition": "iemand die een rol speelt in een film of op het toneel"
+      },
+      {
+        "word": "winnen",
+        "definition": "een wedstrijd of spel winnen"
+      },
+      {
+        "word": "kandidaat",
+        "definition": "iemand die meedoet aan een wedstrijd of verkiezing"
+      },
+      {
+        "word": "programma",
+        "definition": "een tv-programma of uitzending"
+      },
+      {
+        "word": "interview",
+        "definition": "een vraaggesprek, vaak voor de media"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Hij is een ___ die meedeed aan een tv-programma.",
+        "answer": "acteur"
+      },
+      {
+        "sentence": "Hij hoopte de eerste aflevering te ___.",
+        "answer": "winnen"
+      },
+      {
+        "sentence": "Hij is de jongste ___ ooit in dat programma.",
+        "answer": "kandidaat"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat is Felix Heremans?",
+      "options": [
+        "Een programmamaker",
+        "Een presentator",
+        "Een acteur",
+        "Een journalist"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat deed Felix in de eerste aflevering?",
+      "options": [
+        "Hij verloor",
+        "Hij was afwezig",
+        "Hij won",
+        "Hij was tweede"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is bijzonder aan zijn deelname?",
+      "options": [
+        "Hij is de oudste",
+        "Hij is de jongste",
+        "Hij is de sterkste",
+        "Hij is de snelste"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Felix Heremans is de jongste kandidaat ooit in 'De Slimste Mens'.",
+      "isTrue": true
+    },
+    {
+      "statement": "Felix Heremans verloor de eerste aflevering.",
+      "isTrue": false
+    },
+    {
+      "statement": "Felix Heremans is een acteur.",
+      "isTrue": true
+    }
+  ]
+}

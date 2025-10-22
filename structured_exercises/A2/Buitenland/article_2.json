@@ -1,0 +1,96 @@
+{
+  "id": 6,
+  "section": "Buitenland",
+  "topic": "Buitenland",
+  "level": "A2",
+  "title": "Oorlog in Oekraïne: nieuws en updates",
+  "topicNumber": 1,
+  "article": {
+    "title": "Oorlog in Oekraïne: nieuws en updates",
+    "summary": "Volg hier alle nieuwe ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "oorlog",
+        "definition": "een situatie waarin landen of groepen tegen elkaar vechten"
+      },
+      {
+        "word": "ontwikkeling",
+        "definition": "iets dat nieuw is of verandert"
+      },
+      {
+        "word": "app",
+        "definition": "een programma op je telefoon of computer"
+      },
+      {
+        "word": "melding",
+        "definition": "een bericht dat je iets vertelt"
+      },
+      {
+        "word": "updates",
+        "definition": "nieuwe informatie over iets"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Er is een nieuwe ___ in de oorlog.",
+        "answer": "ontwikkeling"
+      },
+      {
+        "sentence": "Download de ___ om meldingen te krijgen.",
+        "answer": "app"
+      },
+      {
+        "sentence": "Krijg een ___ wanneer er belangrijk nieuws is.",
+        "answer": "melding"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Waar gaat de oorlog over?",
+      "options": [
+        "Een spel",
+        "Een feest",
+        "Een conflict tussen landen",
+        "Een soort muziek"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is een app?",
+      "options": [
+        "Een soort dier",
+        "Een programma op je telefoon",
+        "Een soort eten",
+        "Een auto"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat betekent 'updates'?",
+      "options": [
+        "Oude informatie",
+        "Nieuwe informatie",
+        "Een soort game",
+        "Een sport"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Een oorlog is wanneer mensen samen feesten.",
+      "isTrue": false
+    },
+    {
+      "statement": "Een app is iets op je telefoon.",
+      "isTrue": true
+    },
+    {
+      "statement": "Updates zijn oude informatie die niet meer geldig is.",
+      "isTrue": false
+    }
+  ]
+}

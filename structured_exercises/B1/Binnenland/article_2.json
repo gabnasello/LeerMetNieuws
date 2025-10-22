@@ -1,0 +1,96 @@
+{
+  "id": 12,
+  "section": "Binnenland",
+  "topic": "Binnenland",
+  "level": "B1",
+  "title": "Acteur Felix Heremans wint in tv-quiz",
+  "topicNumber": 1,
+  "article": {
+    "title": "Acteur Felix Heremans wint in tv-quiz",
+    "summary": "Acteur Felix Heremans is de jongste winnaar ooit van de tv-quiz 'De slimste mens'. Hij won de eerste aflevering. We spraken met hem in juli."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "acteur",
+        "definition": "iemand die een rol speelt in een film of toneelstuk"
+      },
+      {
+        "word": "winnen",
+        "definition": "een wedstrijd of spel winnen"
+      },
+      {
+        "word": "quiz",
+        "definition": "een spel of wedstrijd met vragen"
+      },
+      {
+        "word": "jongste",
+        "definition": "de kleinste in leeftijd"
+      },
+      {
+        "word": "aflevering",
+        "definition": "een deel van een serie, bijvoorbeeld op tv"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Felix Heremans is een ___.",
+        "answer": "acteur"
+      },
+      {
+        "sentence": "Hij was de ___ winnaar ooit.",
+        "answer": "jongste"
+      },
+      {
+        "sentence": "Hij deed mee aan een ___.",
+        "answer": "quiz"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat is Felix Heremans?",
+      "options": [
+        "Een student",
+        "Een leraar",
+        "Een acteur",
+        "Een atleet"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is 'De slimste mens'?",
+      "options": [
+        "Een boek",
+        "Een film",
+        "Een tv-programma",
+        "Een sport"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Hoe oud is Felix Heremans ongeveer?",
+      "options": [
+        "10 jaar",
+        "20 jaar",
+        "30 jaar",
+        "40 jaar"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Felix Heremans is de oudste winnaar.",
+      "isTrue": false
+    },
+    {
+      "statement": "'De slimste mens' is een tv-programma.",
+      "isTrue": true
+    },
+    {
+      "statement": "Felix Heremans is een acteur.",
+      "isTrue": true
+    }
+  ]
+}

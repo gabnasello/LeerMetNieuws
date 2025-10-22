@@ -1,0 +1,96 @@
+{
+  "id": 9,
+  "section": "Binnenland",
+  "topic": "Binnenland",
+  "level": "B1",
+  "title": "Kansspelcommissie kon weinig boetes innen",
+  "topicNumber": 1,
+  "article": {
+    "title": "Kansspelcommissie kon weinig boetes innen",
+    "summary": "De Kansspelcommissie heeft in 2024 veel boetes uitgeschreven, maar weinig geld binnengekregen. Het is een organisatie zonder tanden."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "commissie",
+        "definition": "een groep mensen die samenwerkt"
+      },
+      {
+        "word": "boetes",
+        "definition": "geld dat je moet betalen als straf"
+      },
+      {
+        "word": "innen",
+        "definition": "binnenhalen of ontvangen"
+      },
+      {
+        "word": "tand",
+        "definition": "een hard ding in je mond om mee te kauwen"
+      },
+      {
+        "word": "weinig",
+        "definition": "niet veel"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "De commissie kon de boetes niet ___",
+        "answer": "innen"
+      },
+      {
+        "sentence": "Hij heeft een ___ gelachen, dus hij is blij.",
+        "answer": "tand"
+      },
+      {
+        "sentence": "Er is ___ water in de fles.",
+        "answer": "weinig"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat is de Kansspelcommissie?",
+      "options": [
+        "Een soort school",
+        "Een soort winkel",
+        "Een soort commissie",
+        "Een soort auto"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is een boete?",
+      "options": [
+        "Een soort beloning",
+        "Een soort straf",
+        "Een soort spel",
+        "Een soort tand"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat betekent 'innen'?",
+      "options": [
+        "Buiten krijgen",
+        "Binnen krijgen",
+        "Buiten halen",
+        "Binnen halen"
+      ],
+      "correctAnswer": 3
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "De Kansspelcommissie heeft veel boetes uitgeschreven.",
+      "isTrue": true
+    },
+    {
+      "statement": "De Kansspelcommissie heeft alle boetes binnengekregen.",
+      "isTrue": false
+    },
+    {
+      "statement": "Een tandeloze tijger heeft geen tanden.",
+      "isTrue": true
+    }
+  ]
+}

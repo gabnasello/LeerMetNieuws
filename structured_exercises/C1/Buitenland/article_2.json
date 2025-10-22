@@ -1,0 +1,96 @@
+{
+  "id": 8,
+  "section": "Buitenland",
+  "topic": "Buitenland",
+  "level": "C1",
+  "title": "Zelensky vindt Trumps voorstel goed compromis",
+  "topicNumber": 1,
+  "article": {
+    "title": "Zelensky vindt Trumps voorstel goed compromis",
+    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "voorstel",
+        "definition": "een idee of plan dat iemand voorstelt"
+      },
+      {
+        "word": "compromis",
+        "definition": "een oplossing waar beide partijen iets van elkaar krijgen"
+      },
+      {
+        "word": "oorlog",
+        "definition": "een gewapend conflict tussen landen of groepen"
+      },
+      {
+        "word": "ontwikkeling",
+        "definition": "een nieuwe gebeurtenis of verandering in een situatie"
+      },
+      {
+        "word": "melding",
+        "definition": "een bericht of waarschuwing dat je iets vertelt"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Hij heeft een nieuw ___ gedaan om het conflict op te lossen.",
+        "answer": "voorstel"
+      },
+      {
+        "sentence": "Ze sloten een ___ om het meningsverschil bij te leggen.",
+        "answer": "compromis"
+      },
+      {
+        "sentence": "De ___ duurt al meer dan twee jaar.",
+        "answer": "oorlog"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Waar gaat de tekst over?",
+      "options": [
+        "Een sportevenement",
+        "Een politiek conflict",
+        "Een kunstexpositie",
+        "Een wetenschappelijke doorbraak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is de kern van Trumps voorstel?",
+      "options": [
+        "Een wapenstilstand",
+        "Een volledige overgave",
+        "Geen specifieke actie",
+        "Een gezamenlijke vakantie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Hoe reageert Zelensky op het voorstel?",
+      "options": [
+        "Hij wijst het meteen af",
+        "Hij noemt het een goed compromis",
+        "Hij eist meer",
+        "Hij negeert het volledig"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Trumps voorstel gaat over een permanente vrede.",
+      "isTrue": false
+    },
+    {
+      "statement": "Zelensky is positief over het voorstel.",
+      "isTrue": true
+    },
+    {
+      "statement": "De oorlog is al beëindigd.",
+      "isTrue": false
+    }
+  ]
+}

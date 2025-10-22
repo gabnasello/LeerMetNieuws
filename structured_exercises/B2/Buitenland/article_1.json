@@ -1,0 +1,96 @@
+{
+  "id": 3,
+  "section": "Buitenland",
+  "topic": "Buitenland",
+  "level": "B2",
+  "title": "Vance is optimistisch over wapenstilstand in Gaza",
+  "topicNumber": 1,
+  "article": {
+    "title": "Vance is optimistisch over wapenstilstand in Gaza",
+    "summary": "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de vredesonderhandelingen. Volg hier de laatste ontwikkelingen."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "optimistisch",
+        "definition": "positief en hoopvol over de toekomst"
+      },
+      {
+        "word": "wapenstilstand",
+        "definition": "een overeenkomst om te stoppen met vechten"
+      },
+      {
+        "word": "onderhandelingen",
+        "definition": "gesprekken om tot een oplossing te komen"
+      },
+      {
+        "word": "doorbraak",
+        "definition": "een belangrijke en positieve ontwikkeling"
+      },
+      {
+        "word": "vredesonderhandelingen",
+        "definition": "gesprekken om vrede te bereiken"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Hij voelde zich ___ over de uitkomst.",
+        "answer": "optimistisch"
+      },
+      {
+        "sentence": "De partijen kwamen overeen een ___ te sluiten.",
+        "answer": "wapenstilstand"
+      },
+      {
+        "sentence": "De ___ leidde tot een oplossing.",
+        "answer": "doorbraak"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Waar is Vance optimistisch over?",
+      "options": [
+        "het weer",
+        "de wapenstilstand",
+        "een sportevenement",
+        "zijn vakantie"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat betekent het woord 'doorbraak' in deze context?",
+      "options": [
+        "een doorgebroken raam",
+        "een belangrijke positieve ontwikkeling",
+        "een sportterm",
+        "een soort voedsel"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Waarom zijn de onderhandelingen belangrijk?",
+      "options": [
+        "Ze zijn niet belangrijk",
+        "Ze kunnen leiden tot meer vrede",
+        "Ze gaan alleen over sport",
+        "Ze zijn geheim"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Vance is optimistisch over de wapenstilstand.",
+      "isTrue": true
+    },
+    {
+      "statement": "De oorlog in Gaza duurt al meer dan twee jaar.",
+      "isTrue": true
+    },
+    {
+      "statement": "Er zijn geen onderhandelingen geweest.",
+      "isTrue": false
+    }
+  ]
+}

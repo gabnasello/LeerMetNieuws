@@ -1,0 +1,96 @@
+{
+  "id": 2,
+  "section": "Buitenland",
+  "topic": "Buitenland",
+  "level": "A2",
+  "title": "Vance is hoopvol over vrede in Gaza",
+  "topicNumber": 1,
+  "article": {
+    "title": "Vance is hoopvol over vrede in Gaza",
+    "summary": "Na twee jaar oorlog in Gaza is er hoop op vrede. Vance is optimistisch over het staakt-het-vuren. Volg hier het laatste nieuws."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "vredes",
+        "definition": "geen oorlog, vrede"
+      },
+      {
+        "word": "hoop",
+        "definition": "het gevoel dat iets goeds gaat gebeuren"
+      },
+      {
+        "word": "onderhandelingen",
+        "definition": "gesprekken om tot een oplossing te komen"
+      },
+      {
+        "word": "doorbraak",
+        "definition": "een belangrijke, positieve verandering"
+      },
+      {
+        "word": "staakt-het-vuren",
+        "definition": "stoppen met vechten, geen vuur meer"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "De vredes___ zijn begonnen",
+        "answer": "onderhandelingen"
+      },
+      {
+        "sentence": "Er is een belangrijke door___ in het conflict",
+        "answer": "doorbraak"
+      },
+      {
+        "sentence": "Het staakt-het-vuren wordt ___ gehouden",
+        "answer": "Vance"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Waar is Vance optimistisch over?",
+      "options": [
+        "De oorlog in Gaza",
+        "Het staakt-het-vuren",
+        "De toekomst van Gaza",
+        "De onderhandelingen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is het resultaat van de onderhandelingen?",
+      "options": [
+        "Een nieuwe oorlog",
+        "Een doorbraak naar vrede",
+        "Meer conflicten",
+        "Geen verandering"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Hoe lang duurde de oorlog in Gaza?",
+      "options": [
+        "1 jaar",
+        "2 jaar",
+        "5 jaar",
+        "10 jaar"
+      ],
+      "correctAnswer": 2
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Vance is optimistisch over het staakt-het-vuren.",
+      "isTrue": true
+    },
+    {
+      "statement": "De oorlog in Gaza is al 10 jaar aan de gang.",
+      "isTrue": false
+    },
+    {
+      "statement": "Er is een doorbraak in de onderhandelingen.",
+      "isTrue": true
+    }
+  ]
+}

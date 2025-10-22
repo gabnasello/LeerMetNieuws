@@ -1,0 +1,96 @@
+{
+  "id": 7,
+  "section": "Buitenland",
+  "topic": "Buitenland",
+  "level": "B2",
+  "title": "Zelensky vindt Trumps voorstel een goed compromis",
+  "topicNumber": 1,
+  "article": {
+    "title": "Zelensky vindt Trumps voorstel een goed compromis",
+    "summary": "Volg de laatste ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws voor updates."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "voorstel",
+        "definition": "een plan of idee dat iemand naar voren brengt"
+      },
+      {
+        "word": "bevriezen",
+        "definition": "stoppen of laten stilstaan, vooral van actie"
+      },
+      {
+        "word": "compromis",
+        "definition": "een oplossing waar beide partijen iets toegeven"
+      },
+      {
+        "word": "ontwikkeling",
+        "definition": "gebeurtenis of verandering die plaatsvindt"
+      },
+      {
+        "word": "oorlog",
+        "definition": "een gewapend conflict tussen landen of groepen"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Het voorstel was om de gevechten te ___.",
+        "answer": "bevriezen"
+      },
+      {
+        "sentence": "Een ___ kan helpen om een conflict op te lossen.",
+        "answer": "compromis"
+      },
+      {
+        "sentence": "Er was een nieuwe ___ in het conflict.",
+        "answer": "ontwikkeling"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat betekent 'bevriezen' in deze context?",
+      "options": [
+        "bevriezen betekent doorgaan",
+        "bevriezen betekent stoppen",
+        "bevriezen betekent versnellen",
+        "bevriezen betekent negeren"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is een 'compromis'?",
+      "options": [
+        "Een soort muziek",
+        "Een soort voedsel",
+        "Een overeenkomst waar beide partijen iets opgeven",
+        "Een soort wapen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Waar gaat de tekst over?",
+      "options": [
+        "Over koken",
+        "Over sport",
+        "Over politiek en conflict",
+        "Over kunst"
+      ],
+      "correctAnswer": 2
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Zelensky vindt Trumps voorstel een slecht idee.",
+      "isTrue": false
+    },
+    {
+      "statement": "De tekst gaat over de oorlog in Oekraïne.",
+      "isTrue": true
+    },
+    {
+      "statement": "Een compromis betekent dat niets verandert.",
+      "isTrue": false
+    }
+  ]
+}

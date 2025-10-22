@@ -1,0 +1,96 @@
+{
+  "id": 11,
+  "section": "Binnenland",
+  "topic": "Binnenland",
+  "level": "B2",
+  "title": "Binnenland",
+  "topicNumber": 1,
+  "article": {
+    "title": "Grote boetes voor gokken, maar weinig betaald",
+    "summary": "De Kansspelcommissie heeft in 2024 veel boetes uitgeschreven, maar weinig van dit geld is daadwerkelijk betaald. Dit komt doordat het voor veel mensen moeilijk is om de hoge boetes te betalen. Hierdoor heeft de commissie minder geld binnengekregen dan verwacht."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "boetes",
+        "definition": "Geld dat je moet betalen als straf voor iets wat niet mag"
+      },
+      {
+        "word": "betalen",
+        "definition": "Geld geven voor iets wat je koopt of voor een dienst"
+      },
+      {
+        "word": "moeilijk",
+        "definition": "Niet gemakkelijk, veel moeite kostend"
+      },
+      {
+        "word": "hoge",
+        "definition": "Veel, groot, boven een normaal niveau"
+      },
+      {
+        "word": "mensen",
+        "definition": "Meerdere personen, de groep personen in het algemeen"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Sommige mensen kunnen hun ___ niet betalen.",
+        "answer": "boetes"
+      },
+      {
+        "sentence": "Het is ___ voor hem om alleen naar school te gaan.",
+        "answer": "moeilijk"
+      },
+      {
+        "sentence": "De prijs voor deze auto is te ___ voor mij.",
+        "answer": "hoge"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Waarom heeft de Kansspelcommissie weinig geld binnengekregen?",
+      "options": [
+        "Omdat ze te veel boetes uitgeschreven heeft",
+        "Omdat veel mensen de boetes niet kunnen betalen",
+        "Omdat ze stopte met innen",
+        "Omdat er geen boetes zijn uitgeschreven"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is een voorbeeld van iets dat 'hoog' is?",
+      "options": [
+        "Een diepe kuil",
+        "Een korte persoon",
+        "Een hoge berg",
+        "Een warme dag"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat betekent 'betalen' in deze context?",
+      "options": [
+        "Geld ontvangen",
+        "Geld uitgeven",
+        "Geld geven voor een dienst of product",
+        "Geld weigeren"
+      ],
+      "correctAnswer": 2
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "De Kansspelcommissie heeft veel geld binnengekregen in 2024.",
+      "isTrue": false
+    },
+    {
+      "statement": "Het is moeilijk voor sommige mensen om boetes te betalen.",
+      "isTrue": true
+    },
+    {
+      "statement": "De Kansspelcommissie heeft alleen boetes uitgeschreven voor lage bedragen.",
+      "isTrue": false
+    }
+  ]
+}

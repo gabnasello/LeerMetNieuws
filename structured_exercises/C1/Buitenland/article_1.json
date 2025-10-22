@@ -1,0 +1,96 @@
+{
+  "id": 4,
+  "section": "Buitenland",
+  "topic": "Buitenland",
+  "level": "C1",
+  "title": "Vance is hoopvol over vrede in Gaza",
+  "topicNumber": 1,
+  "article": {
+    "title": "Vance is hoopvol over vrede in Gaza",
+    "summary": "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de vredesonderhandelingen. Volg hier de laatste ontwikkelingen."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "oorlog",
+        "definition": "een gewapend conflict tussen landen of groepen"
+      },
+      {
+        "word": "vredesonderhandelingen",
+        "definition": "gesprekken om oorlog te beëindigen en vrede te maken"
+      },
+      {
+        "word": "staakt-het-vuren",
+        "definition": "een overeenkomst om te stoppen met vechten"
+      },
+      {
+        "word": "doorbraak",
+        "definition": "een belangrijke, positieve verandering in een situatie"
+      },
+      {
+        "word": "hoopvol",
+        "definition": "optimistisch en vol hoop"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "De partijen hebben een ___ overeengekomen om de gevechten te stoppen.",
+        "answer": "staakt-het-vuren"
+      },
+      {
+        "sentence": "De onderhandelingen leidden tot een ___ in het conflict.",
+        "answer": "doorbraak"
+      },
+      {
+        "sentence": "Vance is ___ over de uitkomst van de gesprekken.",
+        "answer": "hoopvol"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Waar gaat de tekst over?",
+      "options": [
+        "Vrede in Gaza",
+        "Een sportevenement",
+        "Een kunsttentoonstelling",
+        "Een nieuwe film"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Wat is een 'staakt-het-vuren'?",
+      "options": [
+        "Een soort wapen",
+        "Een soort dans",
+        "Een soort overeenkomst",
+        "Een soort maaltijd"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Hoe voelt Vance over de onderhandelingen?",
+      "options": [
+        "Boos",
+        "Verdrietig",
+        "Hopelijk",
+        "Bang"
+      ],
+      "correctAnswer": 2
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "De tekst gaat over vrede in Gaza.",
+      "isTrue": true
+    },
+    {
+      "statement": "Vance is verdrietig over de onderhandelingen.",
+      "isTrue": false
+    },
+    {
+      "statement": "Er is een doorbraak in de vredesgesprekken.",
+      "isTrue": true
+    }
+  ]
+}
