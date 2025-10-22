@@ -8,7 +8,8 @@ import requests
 API_KEY = os.getenv("OPENROUTER_API_KEY")
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
-LEVELS = ["B1", "A2", "B2", "C1"]
+# LEVELS = ["B1", "A2", "B2", "C1"]
+LEVELS = ["B1"]
 
 
 # ---------- API CALL WITH RETRIES ----------
