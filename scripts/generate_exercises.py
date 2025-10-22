@@ -20,7 +20,8 @@ def query_openrouter(messages, max_tokens=1200, retries=5, backoff=2):
         "X-Title": "Dutch Exercises Generator"
     }
     payload = {
-        "model": "deepseek/deepseek-chat-v3.1:free",
+        #"model": "deepseek/deepseek-chat-v3.1:free",
+        "model": "deepseek/deepseek-r1-0528:free",
         "messages": messages,
         "max_tokens": max_tokens,
         "temperature": 0.4,
