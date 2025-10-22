@@ -1,96 +1,96 @@
 {
-  "id": 11,
+  "id": 10,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Binnenland",
+  "title": "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
   "topicNumber": 1,
   "article": {
-    "title": "Grote boetes voor gokken, maar weinig betaald",
-    "summary": "De Kansspelcommissie heeft in 2024 veel boetes uitgeschreven, maar weinig van dit geld is daadwerkelijk betaald. Dit komt doordat het voor veel mensen moeilijk is om de hoge boetes te betalen. Hierdoor heeft de commissie minder geld binnengekregen dan verwacht."
+    "title": "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
+    "summary": "Het KMI heeft code geel afgekondigd voor het aankomende stormweer. Aan de kust geldt donderdag vanaf 15 uur code oranje."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "boetes",
-        "definition": "Geld dat je moet betalen als straf voor iets wat niet mag"
+        "word": "KMI",
+        "definition": "Koninklijk Meteorologisch Instituut"
       },
       {
-        "word": "betalen",
-        "definition": "Geld geven voor iets wat je koopt of voor een dienst"
+        "word": "stormweer",
+        "definition": "weer met veel wind, regen of storm"
       },
       {
-        "word": "moeilijk",
-        "definition": "Niet gemakkelijk, veel moeite kostend"
+        "word": "code",
+        "definition": "een soort waarschuwing of signaal"
       },
       {
-        "word": "hoge",
-        "definition": "Veel, groot, boven een normaal niveau"
+        "word": "oranje",
+        "definition": "een kleur, hier een code voor gevaar"
       },
       {
-        "word": "mensen",
-        "definition": "Meerdere personen, de groep personen in het algemeen"
+        "word": "geel",
+        "definition": "een kleur, hier een code voor minder gevaar"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Sommige mensen kunnen hun ___ niet betalen.",
-        "answer": "boetes"
+        "sentence": "Het KMI heeft een speciale ___ uitgegeven voor het weer.",
+        "answer": "code"
       },
       {
-        "sentence": "Het is ___ voor hem om alleen naar school te gaan.",
-        "answer": "moeilijk"
+        "sentence": "Aan de kust geldt code ___ vanaf 15 uur.",
+        "answer": "oranje"
       },
       {
-        "sentence": "De prijs voor deze auto is te ___ voor mij.",
-        "answer": "hoge"
+        "sentence": "In de rest van het land geldt code ___ .",
+        "answer": "geel"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom heeft de Kansspelcommissie weinig geld binnengekregen?",
+      "question": "Wat betekent 'code oranje'?",
       "options": [
-        "Omdat ze te veel boetes uitgeschreven heeft",
-        "Omdat veel mensen de boetes niet kunnen betalen",
-        "Omdat ze stopte met innen",
-        "Omdat er geen boetes zijn uitgeschreven"
+        "Er is geen gevaar",
+        "Wees voorzichtig, er is gevaar",
+        "Er is extreem gevaar",
+        "De code is niet geldig"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Waar geldt code geel?",
+      "options": [
+        "Alleen aan de kust",
+        "In de rest van het land",
+        "Alleen in het buitenland",
+        "Overal in België"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wanneer gaat de code in?",
+      "options": [
+        "Vanaf 15 uur",
+        "Alleen in de ochtend",
+        "De hele dag",
+        "Alleen na 15 uur"
       ],
       "correctAnswer": 1
-    },
-    {
-      "question": "Wat is een voorbeeld van iets dat 'hoog' is?",
-      "options": [
-        "Een diepe kuil",
-        "Een korte persoon",
-        "Een hoge berg",
-        "Een warme dag"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat betekent 'betalen' in deze context?",
-      "options": [
-        "Geld ontvangen",
-        "Geld uitgeven",
-        "Geld geven voor een dienst of product",
-        "Geld weigeren"
-      ],
-      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Kansspelcommissie heeft veel geld binnengekregen in 2024.",
-      "isTrue": false
-    },
-    {
-      "statement": "Het is moeilijk voor sommige mensen om boetes te betalen.",
+      "statement": "Code oranje betekent dat er extreem gevaar is.",
       "isTrue": true
     },
     {
-      "statement": "De Kansspelcommissie heeft alleen boetes uitgeschreven voor lage bedragen.",
+      "statement": "Code geel geldt alleen aan de kust.",
       "isTrue": false
+    },
+    {
+      "statement": "De waarschuwing geldt vanaf 15 uur.",
+      "isTrue": true
     }
   ]
 }

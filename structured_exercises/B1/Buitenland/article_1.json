@@ -3,94 +3,94 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Vance is optimistisch over vrede in Gaza",
+  "title": "Zeven doden na Russische aanval Oekraïne",
   "topicNumber": 1,
   "article": {
-    "title": "Vance is optimistisch over vrede in Gaza",
-    "summary": "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de vredesonderhandelingen. Vance is hier optimistisch over."
+    "title": "Zeven doden na Russische aanval Oekraïne",
+    "summary": "Bij een Russische aanval op Oekraïne zijn zeven mensen omgekomen, onder wie twee kinderen. In Kiev vielen zes doden, en in Charkiv viel een dode. Een kleuterschool werd geraakt."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "optimistisch",
-        "definition": "positief en hoopvol"
+        "word": "aanval",
+        "definition": "wanneer iemand of een groep iets met geweld doet tegen een ander"
       },
       {
-        "word": "vakbond",
-        "definition": "een groep werknemers die samenwerkt voor betere rechten"
+        "word": "kinderen",
+        "definition": "jonge mensen, meestal onder de 18 jaar"
       },
       {
-        "word": "onderhandelingen",
-        "definition": "gesprekken om tot een oplossing te komen"
+        "word": "kleuterschool",
+        "definition": "een school voor jonge kinderen, meestal tussen 4 en 6 jaar oud"
       },
       {
-        "word": "oorlog",
-        "definition": "een periode van gewapend conflict"
+        "word": "omgekomen",
+        "definition": "gestorven, overleden"
       },
       {
-        "word": "vrede",
-        "definition": "geen oorlog, rust en harmonie"
+        "word": "geraakt",
+        "definition": "gemaakt contact met; werd getroffen door"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is ___ over de toekomst.",
-        "answer": "optimistisch"
+        "sentence": "Bij de aanval op de stad zijn er helaas veel mensen ___",
+        "answer": "omgekomen"
       },
       {
-        "sentence": "De ___ tussen landen is belangrijk voor vrede.",
-        "answer": "onderhandelingen"
+        "sentence": "De raket trof een ___ waar kinderen nog aan het spelen waren.",
+        "answer": "kleuterschool"
       },
       {
-        "sentence": "Ze willen ___ in de regio.",
-        "answer": "vrede"
+        "word": "Tijdens de ___ zijn veel mensen gewond geraakt.",
+        "answer": "aanval"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar is Vance optimistisch over?",
+      "question": "Waar vond de aanval plaats die in de tekst wordt beschreven?",
       "options": [
-        "Oorlog in Gaza",
-        "Vrede in Gaza",
-        "Een nieuwe oorlog",
-        "Meer conflicten"
+        "Oekraïne",
+        "Rusland",
+        "Verenigde Staten",
+        "Duitsland"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is het tegenovergestelde van oorlog?",
+      "question": "Wat werd getroffen door de aanval volgens de tekst?",
       "options": [
-        "Strijd",
-        "Vrede",
-        "Conflict",
-        "Oorlog"
+        "Een kleuterschool",
+        "Een ziekenhuis",
+        "Een woonwijk",
+        "Een winkelcentrum"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Hoe lang duurde de oorlog in Gaza?",
+      "question": "Hoeveel mensen zijn er omgekomen in de stad Charkiv?",
       "options": [
-        "1 jaar",
-        "2 jaar",
-        "5 jaar",
-        "10 jaar"
+        "1",
+        "6",
+        "7",
+        "2"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Vance is optimistisch over vrede in Gaza.",
-      "isTrue": true
-    },
-    {
-      "statement": "De oorlog in Gaza duurde vijf jaar.",
+      "statement": "De aanval vond plaats in Rusland.",
       "isTrue": false
     },
     {
-      "statement": "Onderhandelingen kunnen leiden tot vrede.",
+      "statement": "Er zijn kinderen omgekomen bij deze aanval.",
       "isTrue": true
+    },
+    {
+      "statement": "Alleen de stad Kiev werd getroffen.",
+      "isTrue": false
     }
   ]
 }

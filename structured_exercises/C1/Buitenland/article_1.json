@@ -3,94 +3,94 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Vance is hoopvol over vrede in Gaza",
+  "title": "Zeven doden na grootschalige Russische aanval op Oekraïne, onder wie twee kinderen",
   "topicNumber": 1,
   "article": {
-    "title": "Vance is hoopvol over vrede in Gaza",
-    "summary": "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de vredesonderhandelingen. Volg hier de laatste ontwikkelingen."
+    "title": "Zeven doden na grootschalige Russische aanval op Oekraïne, onder wie twee kinderen",
+    "summary": "Bij een grootschalige Russische aanval zijn in Kiev zes mensen omgekomen, onder wie twee kinderen. Ook in Charkiv viel een dode. Daar werd een kleuterschool getroffen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "oorlog",
-        "definition": "een gewapend conflict tussen landen of groepen"
+        "word": "aanval",
+        "definition": "militair offensief of gewelddadige actie"
       },
       {
-        "word": "vredesonderhandelingen",
-        "definition": "gesprekken om oorlog te beëindigen en vrede te maken"
+        "word": "omgekomen",
+        "definition": "overleden, gestorven"
       },
       {
-        "word": "staakt-het-vuren",
-        "definition": "een overeenkomst om te stoppen met vechten"
+        "word": "getroffen",
+        "definition": "geraakt, beïnvloed"
       },
       {
-        "word": "doorbraak",
-        "definition": "een belangrijke, positieve verandering in een situatie"
+        "word": "kleuterschool",
+        "definition": "school voor jonge kinderen"
       },
       {
-        "word": "hoopvol",
-        "definition": "optimistisch en vol hoop"
+        "word": "grootschalige",
+        "definition": "op grote schaal, omvangrijk"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De partijen hebben een ___ overeengekomen om de gevechten te stoppen.",
-        "answer": "staakt-het-vuren"
+        "sentence": "Tijdens de oorlog zijn er veel mensen ___ door bombardementen.",
+        "answer": "omgekomen"
       },
       {
-        "sentence": "De onderhandelingen leidden tot een ___ in het conflict.",
-        "answer": "doorbraak"
+        "sentence": "De ___ werd beschadigd door de explosie.",
+        "answer": "kleuterschool"
       },
       {
-        "sentence": "Vance is ___ over de uitkomst van de gesprekken.",
-        "answer": "hoopvol"
+        "sentence": "Een ___ is vaak het doelwit in een conflict.",
+        "answer": "aanval"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Waar vond de grootste deel van de aanval plaats?",
       "options": [
-        "Vrede in Gaza",
+        "Kiev",
+        "Charkiv",
+        "Moskou",
+        "Lviv"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is de betekenis van 'getroffen' in deze context?",
+      "options": [
+        "Getroffen door geluk",
+        "Beschadigd of geraakt",
+        "Volledig verwoest",
+        "Onbeschadigd gebleven"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is het hoofdonderwerp van dit artikel?",
+      "options": [
         "Een sportevenement",
-        "Een kunsttentoonstelling",
-        "Een nieuwe film"
+        "Een internationale conferentie",
+        "Een militaire aanval",
+        "Een economische crisis"
       ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "Wat is een 'staakt-het-vuren'?",
-      "options": [
-        "Een soort wapen",
-        "Een soort dans",
-        "Een soort overeenkomst",
-        "Een soort maaltijd"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Hoe voelt Vance over de onderhandelingen?",
-      "options": [
-        "Boos",
-        "Verdrietig",
-        "Hopelijk",
-        "Bang"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De tekst gaat over vrede in Gaza.",
-      "isTrue": true
-    },
-    {
-      "statement": "Vance is verdrietig over de onderhandelingen.",
+      "statement": "Er waren geen slachtoffers in Charkiv.",
       "isTrue": false
     },
     {
-      "statement": "Er is een doorbraak in de vredesgesprekken.",
+      "statement": "De aanval vond plaats in Oekraïne.",
       "isTrue": true
+    },
+    {
+      "statement": "Alleen militaire doelen werden getroffen.",
+      "isTrue": false
     }
   ]
 }

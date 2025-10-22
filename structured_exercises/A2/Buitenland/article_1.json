@@ -3,94 +3,94 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Vance is hoopvol over vrede in Gaza",
+  "title": "Aanval op Oekraïne",
   "topicNumber": 1,
   "article": {
-    "title": "Vance is hoopvol over vrede in Gaza",
-    "summary": "Na twee jaar oorlog in Gaza is er hoop op vrede. Vance is optimistisch over het staakt-het-vuren. Volg hier het laatste nieuws."
+    "title": "Aanval op Oekraïne",
+    "summary": "Bij een aanval op Oekraïne zijn zeven mensen omgekomen, onder wie twee kinderen. De aanval was in Kiev en Charkiv. In Charkiv werd een kleuterschool getroffen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "vredes",
-        "definition": "geen oorlog, vrede"
+        "word": "aanval",
+        "definition": "een gewelddadige actie tegen iemand of iets"
       },
       {
-        "word": "hoop",
-        "definition": "het gevoel dat iets goeds gaat gebeuren"
+        "word": "omgekomen",
+        "definition": "overleden, gestorven"
       },
       {
-        "word": "onderhandelingen",
-        "definition": "gesprekken om tot een oplossing te komen"
+        "word": "krijgen",
+        "definition": "ontvangen, krijgen"
       },
       {
-        "word": "doorbraak",
-        "definition": "een belangrijke, positieve verandering"
+        "word": "kinderen",
+        "definition": "jonge mensen, jongens en meisjes"
       },
       {
-        "word": "staakt-het-vuren",
-        "definition": "stoppen met vechten, geen vuur meer"
+        "word": "kleuterschool",
+        "definition": "een school voor jonge kinderen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De vredes___ zijn begonnen",
-        "answer": "onderhandelingen"
+        "sentence": "Bij een aanval kunnen mensen ___ komen.",
+        "answer": "omgekomen"
       },
       {
-        "sentence": "Er is een belangrijke door___ in het conflict",
-        "answer": "doorbraak"
+        "sentence": "Kinderen zijn jonge ___ die nog moeten groeien.",
+        "answer": "kinderen"
       },
       {
-        "sentence": "Het staakt-het-vuren wordt ___ gehouden",
-        "answer": "Vance"
+        "sentence": "Een ___ is een plek waar kinderen leren en spelen.",
+        "answer": "kleuterschool"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar is Vance optimistisch over?",
+      "question": "Waar was de aanval?",
       "options": [
-        "De oorlog in Gaza",
-        "Het staakt-het-vuren",
-        "De toekomst van Gaza",
-        "De onderhandelingen"
+        "Kiev",
+        "Charkiv",
+        "Beide steden",
+        "Geen van beide"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het resultaat van de onderhandelingen?",
+      "question": "Wie zijn er omgekomen?",
       "options": [
-        "Een nieuwe oorlog",
-        "Een doorbraak naar vrede",
-        "Meer conflicten",
-        "Geen verandering"
+        "Alleen volwassenen",
+        "Alleen kinderen",
+        "Volwassenen en kinderen",
+        "Niemand"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoe lang duurde de oorlog in Gaza?",
+      "question": "Wat is een kleuterschool?",
       "options": [
-        "1 jaar",
-        "2 jaar",
-        "5 jaar",
-        "10 jaar"
+        "Een soort winkel",
+        "Een school voor jonge kinderen",
+        "Een park",
+        "Een ziekenhuis"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Vance is optimistisch over het staakt-het-vuren.",
+      "statement": "Er vielen doden bij de aanval.",
       "isTrue": true
     },
     {
-      "statement": "De oorlog in Gaza is al 10 jaar aan de gang.",
+      "statement": "Alleen volwassenen zijn omgekomen.",
       "isTrue": false
     },
     {
-      "statement": "Er is een doorbraak in de onderhandelingen.",
-      "isTrue": true
+      "statement": "De aanval was alleen in Kiev.",
+      "isTrue": false
     }
   ]
 }

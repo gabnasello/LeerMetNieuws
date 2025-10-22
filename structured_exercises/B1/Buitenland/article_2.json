@@ -1,96 +1,96 @@
 {
   "id": 5,
   "section": "Buitenland",
-  "topic": "Oorlog in Oekraïne",
+  "topic": "Buitenland",
   "level": "B1",
-  "title": "Oekraïne Oorlog",
+  "title": "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
   "topicNumber": 1,
   "article": {
-    "title": "Oekraïne Oorlog",
-    "summary": "President Zelensky vindt het voorstel van Trump om de oorlog te bevriezen een goed compromis. Volg het laatste nieuws over de oorlog in Oekraïne via de DS Nieuws app."
+    "title": "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
+    "summary": "Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "oorlog",
-        "definition": "een gewapend conflict tussen landen of groepen"
+        "word": "protest",
+        "definition": "demonstratie of actie tegen iets"
       },
       {
-        "word": "bevriezen",
-        "definition": "iets stoppen of pauzeren, zoals een conflict"
+        "word": "beleid",
+        "definition": "manier waarop iemand regeert of beslissingen neemt"
       },
       {
-        "word": "compromis",
-        "definition": "een oplossing waar beide partijen iets toegeven"
+        "word": "Trump",
+        "definition": "de familienaam van de voormalige president van de VS"
       },
       {
-        "word": "voorstel",
-        "definition": "een plan of idee dat wordt voorgesteld"
+        "word": "activisten",
+        "definition": "mensen die actie voeren voor een verandering"
       },
       {
-        "word": "app",
-        "definition": "een applicatie op je telefoon, vaak voor nieuws of sociale media"
+        "word": "pepperspray",
+        "definition": "spray die pijn doet maar niet blijvend schaadt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De twee landen besloten de oorlog te ___",
-        "answer": "bevriezen"
+        "sentence": "Tijdens het ___ tegen het beleid van Trump werden veel mensen gearresteerd.",
+        "answer": "protest"
       },
       {
-        "sentence": "Ze maakten een ___ om het conflict op te lossen.",
-        "answer": "compromis"
+        "sentence": "De politie gebruikte ___ om de menigte uit elkaar te drijven.",
+        "answer": "pepperspray"
       },
       {
-        "sentence": "Ze gebruikten een ___ om het nieuws te volgen.",
-        "answer": "app"
+        "sentence": "___ zijn mensen die vechten voor een betere wereld.",
+        "answer": "Activisten"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'bevriezen' in deze context?",
+      "question": "Wat is pepperspray?",
       "options": [
-        "Het permanent stoppen van de oorlog",
-        "Het tijdelijk pauzeren van de oorlog",
-        "Het versnellen van de oorlog",
-        "Het negeren van de oorlog"
+        "Een soort parfum",
+        "Een soort plant",
+        "Een soort wapen dat de politie gebruikt",
+        "Een soort eten"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar staat 'app' voor in deze tekst?",
+      "question": "Waar is Donald Trump bekend om?",
       "options": [
-        "Een soort voedsel",
-        "Een applicatie op je telefoon",
-        "Een type auto",
-        "Een soort dier"
+        "Hij is een bekende filmster",
+        "Hij is de voormalige president van de Verenigde Staten",
+        "Hij is een professionele tennisser",
+        "Hij is de koning van Nederland"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is een 'compromis'?",
+      "question": "Wat gebeurt er als je pepperspray in je ogen krijgt?",
       "options": [
-        "Een soort wapen",
-        "Een overeenkomst waar beide partijen iets opgeven",
-        "Een type virus",
-        "Een soort auto"
+        "Je gaat ervan niezen",
+        "Je kunt tijdelijk niet goed zien en het doet pijn",
+        "Het heeft geen effect",
+        "Je ogen veranderen van kleur"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Zelensky wil de oorlog helemaal stoppen.",
+      "statement": "Pepperspray kan mensen blind maken.",
       "isTrue": false
     },
     {
-      "statement": "Trump stelde voor de oorlog te bevriezen.",
+      "statement": "Activisten protesteren soms tegen regeringen.",
       "isTrue": true
     },
     {
-      "statement": "De DS Nieuws app geeft updates over de oorlog.",
-      "isTrue": true
+      "statement": "Donald Trump is de huidige president van de Verenigde Staten.",
+      "isTrue": false
     }
   ]
 }

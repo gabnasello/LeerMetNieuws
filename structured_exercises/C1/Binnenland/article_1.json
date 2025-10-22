@@ -1,0 +1,96 @@
+{
+  "id": 11,
+  "section": "Binnenland",
+  "topic": "Binnenland",
+  "level": "C1",
+  "title": "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
+  "topicNumber": 1,
+  "article": {
+    "title": "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
+    "summary": "Het KMI heeft code geel afgekondigd voor het aankomende stormweer. Aan de kust geldt donderdag vanaf 15 uur code oranje."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "afgekondigd",
+        "definition": "officieel bekendgemaakt"
+      },
+      {
+        "word": "aankomende",
+        "definition": "wat binnenkort komt"
+      },
+      {
+        "word": "geldt",
+        "definition": "is van toepassing"
+      },
+      {
+        "word": "vanaf",
+        "definition": "beginnend op"
+      },
+      {
+        "word": "aangekondigd",
+        "definition": "officieel bekendgemaakt"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "De regering heeft een nieuwe wet ___ voor de veiligheid.",
+        "answer": "afgekondigd"
+      },
+      {
+        "sentence": "De storm zal ___ morgen de kust bereiken.",
+        "answer": "aankomende"
+      },
+      {
+        "sentence": "Deze regel ___ voor alle bezoekers van het park.",
+        "answer": "geldt"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat betekent 'afgekondigd' in deze context?",
+      "options": [
+        "Ondertekend",
+        "Afgekondigd",
+        "Gepubliceerd",
+        "Verboden"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Waar geldt code oranje volgens de tekst?",
+      "options": [
+        "In het hele land",
+        "Alleen aan de kust",
+        "In de rest van het land",
+        "Alleen in de hoofdstad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Vanaf wanneer geldt code oranje aan de kust?",
+      "options": [
+        "Vanaf 12:00",
+        "Vanaf 15:00",
+        "Vanaf 18:00",
+        "Vanaf morgenochtend"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Code oranje geldt voor het hele land.",
+      "isTrue": false
+    },
+    {
+      "statement": "Code geel geldt voor het hele land behalve de kust.",
+      "isTrue": false
+    },
+    {
+      "statement": "Code oranje geldt alleen aan de kust vanaf 15:00.",
+      "isTrue": true
+    }
+  ]
+}

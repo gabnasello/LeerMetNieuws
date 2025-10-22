@@ -3,93 +3,93 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Felix Heremans in De Slimste Mens",
+  "title": "Schaakgrootmeester Garry Kasparov verslaat tegenstanders in Antwerpen",
   "topicNumber": 1,
   "article": {
-    "title": "Felix Heremans in De Slimste Mens",
-    "summary": "Acteur Felix Heremans deed mee aan De Slimste Mens. Hij won de eerste aflevering. Hij is de jongste kandidaat ooit in dat programma. Dit is een artikel over hem."
+    "title": "Schaakgrootmeester Garry Kasparov verslaat tegenstanders in Antwerpen",
+    "summary": "Het KMSKA in Antwerpen stond gisteren helemaal in het thema van schaken. Schaakgrootmeester Garry Kasparov nam het er op tegen twintig schakers, onder wie Antwerps burgemeester Els van Doesburg en de Belgische ondernemer Marc Coucke."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "acteur",
-        "definition": "iemand die in films of theater speelt"
+        "word": "schaken",
+        "definition": "een spel dat je op een bord speelt met verschillende soorten stukken"
       },
       {
-        "word": "winnen",
-        "definition": "een spel of wedstrijd winnen"
+        "word": "tegenstanders",
+        "definition": "mensen tegen wie je speelt of strijdt"
       },
       {
-        "word": "kandidaat",
-        "definition": "iemand die meedoet aan een wedstrijd of show"
+        "word": "Antwerpen",
+        "definition": "een grote stad in België"
       },
       {
-        "word": "programma",
-        "definition": "een tv-show of uitzending"
+        "word": "grootmeester",
+        "definition": "iemand die heel erg goed is in iets, vooral in schaken"
       },
       {
-        "word": "jongste",
-        "definition": "de kleinste in leeftijd, het tegenovergestelde van oudste"
+        "word": "onderwerp",
+        "definition": "waar iets over gaat"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is een ___ en speelt in films.",
-        "answer": "acteur"
+        "sentence": "Garry Kasparov is een beroemde ___",
+        "answer": "schaken"
       },
       {
-        "sentence": "Hij hoopte te ___ in de show.",
-        "answer": "winnen"
+        "sentence": "Hij speelde tegen sterke ___ uit verschillende landen.",
+        "answer": "tegenstanders"
       },
       {
-        "sentence": "Hij was een ___ in de tv-show.",
-        "answer": "kandidaat"
+        "sentence": "De wedstrijd vond plaats in de stad ___.",
+        "answer": "Antwerpen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is Felix Heremans?",
+      "question": "Waar ging het artikel over?",
       "options": [
-        "Een acteur",
-        "Een leraar",
-        "Een atleet",
-        "Een muzikant"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "Wat deed hij in de show?",
-      "options": [
-        "Hij won",
-        "Hij verloor",
-        "Hij zong",
-        "Hij danste"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "Wat is 'De Slimste Mens'?",
-      "options": [
-        "Een boek",
-        "Een tv-programma",
-        "Een restaurant",
-        "Een sport"
+        "een voetbalwedstrijd",
+        "een schaakwedstrijd",
+        "een politiek debat",
+        "een kunstexpositie"
       ],
       "correctAnswer": 1
+    },
+    {
+      "question": "Wie is Garry Kasparov?",
+      "options": [
+        "een beroemde schaker",
+        "de burgemeester van Antwerpen",
+        "een Belgische ondernemer",
+        "een kunstschilder"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Waar vond de gebeurtenis plaats?",
+      "options": [
+        "in Antwerpen",
+        "in Brussel",
+        "in Amsterdam",
+        "in Parijs"
+      ],
+      "correctAnswer": 0
     }
   ],
   "trueFalse": [
     {
-      "statement": "Felix Heremans is de jongste kandidaat ooit in De Slimste Mens.",
+      "statement": "Garry Kasparov is een professionele schaker.",
       "isTrue": true
     },
     {
-      "statement": "De Slimste Mens is een boek.",
+      "statement": "De schakers speelden een voetbalwedstrijd.",
       "isTrue": false
     },
     {
-      "statement": "Felix Heremans won de eerste aflevering.",
+      "statement": "Marc Coucke is een van de schakers.",
       "isTrue": true
     }
   ]

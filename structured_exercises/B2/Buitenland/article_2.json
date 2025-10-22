@@ -3,94 +3,94 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Zelensky vindt Trumps voorstel een goed compromis",
+  "title": "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
   "topicNumber": 1,
   "article": {
-    "title": "Zelensky vindt Trumps voorstel een goed compromis",
-    "summary": "Volg de laatste ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws voor updates."
+    "title": "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
+    "summary": "Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "voorstel",
-        "definition": "een plan of idee dat iemand naar voren brengt"
+        "word": "protest",
+        "definition": "een publieke actie om ongenoegen of verzet te uiten"
       },
       {
-        "word": "bevriezen",
-        "definition": "stoppen of laten stilstaan, vooral van actie"
+        "word": "beleid",
+        "definition": "een plan of reeks van regels om iets te besturen"
       },
       {
-        "word": "compromis",
-        "definition": "een oplossing waar beide partijen iets toegeven"
+        "word": "kostuum",
+        "definition": "een set kleding die samen een outfit vormen, vaak voor een specifiek doel"
       },
       {
-        "word": "ontwikkeling",
-        "definition": "gebeurtenis of verandering die plaatsvindt"
+        "word": "beschermen",
+        "definition": "iets of iemand veilig houden en tegen gevaar beschermen"
       },
       {
-        "word": "oorlog",
-        "definition": "een gewapend conflict tussen landen of groepen"
+        "word": "actie",
+        "definition": "een gebeurtenis of activiteit met een bepaald doel"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het voorstel was om de gevechten te ___.",
-        "answer": "bevriezen"
+        "sentence": "Tijdens het ___ tegen het nieuwe beleid, droegen velen een speciaal kostuum.",
+        "answer": "protest"
       },
       {
-        "sentence": "Een ___ kan helpen om een conflict op te lossen.",
-        "answer": "compromis"
+        "sentence": "De politie kon de demonstranten niet ___, omdat ze onherkenbaar waren.",
+        "answer": "identificeren"
       },
       {
-        "sentence": "Er was een nieuwe ___ in het conflict.",
-        "answer": "ontwikkeling"
+        "sentence": "Het nieuwe ___ maakt het moeilijk voor mensen met een laag inkomen.",
+        "answer": "beleid"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'bevriezen' in deze context?",
+      "question": "Waarom droegen sommige demonstranten een kostuum?",
       "options": [
-        "bevriezen betekent doorgaan",
-        "bevriezen betekent stoppen",
-        "bevriezen betekent versnellen",
-        "bevriezen betekent negeren"
+        "Om zich te beschermen tegen traangas",
+        "Om er stijlvol uit te zien",
+        "Omdat het verplicht was",
+        "Ze droegen geen kostuum"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is een 'compromis'?",
+      "question": "Wat was het effect van de kostuums?",
       "options": [
-        "Een soort muziek",
-        "Een soort voedsel",
-        "Een overeenkomst waar beide partijen iets opgeven",
-        "Een soort wapen"
+        "De politie kon hen niet herkennen",
+        "Ze vielen meer op in de menigte",
+        "Ze werden sneller moe van het lopen",
+        "Ze waren beter beschermd tegen kou"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Wat is de toon van het artikel?",
       "options": [
-        "Over koken",
-        "Over sport",
-        "Over politiek en conflict",
-        "Over kunst"
+        "Neutraal en informatief",
+        "Heel kritisch",
+        "Heel positief",
+        "Onverschillig"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Zelensky vindt Trumps voorstel een slecht idee.",
-      "isTrue": false
-    },
-    {
-      "statement": "De tekst gaat over de oorlog in Oekraïne.",
+      "statement": "De activisten droegen kostuums om zich te beschermen tegen pepperspray.",
       "isTrue": true
     },
     {
-      "statement": "Een compromis betekent dat niets verandert.",
+      "statement": "Donald Trump was zelf aanwezig bij dit protest.",
       "isTrue": false
+    },
+    {
+      "statement": "Het artikel suggereert dat de kostuums de actie effectiever maakten.",
+      "isTrue": true
     }
   ]
 }

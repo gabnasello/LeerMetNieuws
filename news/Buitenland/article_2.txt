@@ -1,15 +1,15 @@
 Artikel 2
-Nieuwsupdate: 2025-10-22 12:21 UCT
+Nieuwsupdate: 2025-10-22 15:06 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Zelensky vindt Trumps voorstel om frontlinie te bevriezen “goed compromis”
-Link: https://www.standaard.be/buitenland/zelensky-vindt-trumps-voorstel-om-frontlinie-te-bevriezen-goed-compromis/35173633.html
-Datum: Wed, 22 Oct 2025 10:38:26 GMT
-Samenvatting: Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates.
+Titel: Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”
+Link: https://www.standaard.be/buitenland/opblaaskikkers-leiden-protest-tegen-trump-de-pepperspraybollen-botsen-er-gewoon-af/99313870.html
+Datum: Wed, 22 Oct 2025 12:27:04 GMT
+Samenvatting: Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/ueqpbb-ukraines-president-zelenskiy-visits-washington-d.c./alternates/BASE_SIXTEEN_NINE/Ukraines%20President%20Zelenskiy%20visits%20Washington%20D.C.
-Premium: false
+Afbeelding: https://prod-img.nieuwsblad.be/public/nieuws/bwggt7-us-protests-washington/alternates/BASE_SIXTEEN_NINE/US%20Protests%20Washington
+Premium: true
 ------------------------------------------------------------

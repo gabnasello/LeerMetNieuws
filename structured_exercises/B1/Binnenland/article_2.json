@@ -1,95 +1,95 @@
 {
   "id": 12,
-  "section": "Binnenland",
-  "topic": "Binnenland",
+  "section": "Sport",
+  "topic": "Schaak",
   "level": "B1",
-  "title": "Acteur Felix Heremans wint in tv-quiz",
+  "title": "Schaakgrootmeester Garry Kasparov verslaat twintig tegenstanders in Antwerpen",
   "topicNumber": 1,
   "article": {
-    "title": "Acteur Felix Heremans wint in tv-quiz",
-    "summary": "Acteur Felix Heremans is de jongste winnaar ooit van de tv-quiz 'De slimste mens'. Hij won de eerste aflevering. We spraken met hem in juli."
+    "title": "Schaakgrootmeester Garry Kasparov verslaat twintig tegenstanders in Antwerpen",
+    "summary": "Het KMSKA in Antwerpen stond gisteren helemaal in het thema van schaken. Garry Kasparov speelde tegen twintig schakers, waaronder burgemeester Els van Doesburg en ondernemer Marc Coucke. Kasparov won alle partijen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "acteur",
-        "definition": "iemand die een rol speelt in een film of toneelstuk"
+        "word": "schaken",
+        "definition": "een spel met zwarte en witte stukken op een bord"
       },
       {
-        "word": "winnen",
-        "definition": "een wedstrijd of spel winnen"
+        "word": "tegenstanders",
+        "definition": "mensen die tegen elkaar spelen"
       },
       {
-        "word": "quiz",
-        "definition": "een spel of wedstrijd met vragen"
+        "word": "won",
+        "definition": "heeft gewonnen, is winnaar"
       },
       {
-        "word": "jongste",
-        "definition": "de kleinste in leeftijd"
+        "word": "finalisten",
+        "definition": "deelnemers in de laatste ronde"
       },
       {
-        "word": "aflevering",
-        "definition": "een deel van een serie, bijvoorbeeld op tv"
+        "word": "ondernemer",
+        "definition": "iemand die een bedrijf heeft"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Felix Heremans is een ___.",
-        "answer": "acteur"
+        "sentence": "Garry Kasparov is een beroemde schaak___",
+        "answer": "speler"
       },
       {
-        "sentence": "Hij was de ___ winnaar ooit.",
-        "answer": "jongste"
+        "sentence": "Hij won van alle twintig ___ in Antwerpen.",
+        "answer": "tegenstanders"
       },
       {
-        "sentence": "Hij deed mee aan een ___.",
-        "answer": "quiz"
+        "sentence": "Ook de burgemeester van Antwerpen was een van de ___",
+        "answer": "finalisten"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is Felix Heremans?",
+      "question": "Waar vond het schaaktoernooi plaats?",
       "options": [
-        "Een student",
-        "Een leraar",
-        "Een acteur",
-        "Een atleet"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is 'De slimste mens'?",
-      "options": [
-        "Een boek",
-        "Een film",
-        "Een tv-programma",
-        "Een sport"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Hoe oud is Felix Heremans ongeveer?",
-      "options": [
-        "10 jaar",
-        "20 jaar",
-        "30 jaar",
-        "40 jaar"
+        "In Amsterdam",
+        "In Antwerpen",
+        "In Brussel",
+        "In Gent"
       ],
       "correctAnswer": 1
+    },
+    {
+      "question": "Wie won alle partijen?",
+      "options": [
+        "Els van Doesburg",
+        "Marc Coucke",
+        "Garry Kasparov",
+        "Een onbekende speler"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Hoeveel tegenstanders versloeg Kasparov?",
+      "options": [
+        "Vijf",
+        "Tien",
+        "Twintig",
+        "Dertig"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Felix Heremans is de oudste winnaar.",
-      "isTrue": false
-    },
-    {
-      "statement": "'De slimste mens' is een tv-programma.",
+      "statement": "Garry Kasparov won van alle twintig tegenstanders.",
       "isTrue": true
     },
     {
-      "statement": "Felix Heremans is een acteur.",
+      "statement": "Els van Doesburg is de burgemeester van Amsterdam.",
+      "isTrue": false
+    },
+    {
+      "statement": "Marc Coucke is een Belgische ondernemer.",
       "isTrue": true
     }
   ]

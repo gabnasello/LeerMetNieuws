@@ -3,94 +3,94 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Zelensky vindt Trumps voorstel goed compromis",
+  "title": "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
   "topicNumber": 1,
   "article": {
-    "title": "Zelensky vindt Trumps voorstel goed compromis",
-    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+    "title": "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
+    "summary": "Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "voorstel",
-        "definition": "een idee of plan dat iemand voorstelt"
+        "word": "activisten",
+        "definition": "personen die actief zijn in een beweging of protest"
       },
       {
-        "word": "compromis",
-        "definition": "een oplossing waar beide partijen iets van elkaar krijgen"
+        "word": "opblaasbaar",
+        "definition": "iets dat kan worden opgeblazen of opgepompt"
       },
       {
-        "word": "oorlog",
-        "definition": "een gewapend conflict tussen landen of groepen"
+        "word": "verkleedpakken",
+        "definition": "kostuums of outfits die mensen aantrekken om zich te vermommen"
       },
       {
-        "word": "ontwikkeling",
-        "definition": "een nieuwe gebeurtenis of verandering in een situatie"
+        "word": "prominent",
+        "definition": "opvallend aanwezig of belangrijk"
       },
       {
-        "word": "melding",
-        "definition": "een bericht of waarschuwing dat je iets vertelt"
+        "word": "botsen",
+        "definition": "ergens tegenaan lopen of tegen iets aanbotsen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij heeft een nieuw ___ gedaan om het conflict op te lossen.",
-        "answer": "voorstel"
+        "sentence": "Tijdens de betoging droegen enkele _____ verkleedpakken.",
+        "answer": "activisten"
       },
       {
-        "sentence": "Ze sloten een ___ om het meningsverschil bij te leggen.",
-        "answer": "compromis"
+        "sentence": "De ballonnen zijn _____, dus je kunt ze meenemen.",
+        "answer": "opblaasbaar"
       },
       {
-        "sentence": "De ___ duurt al meer dan twee jaar.",
-        "answer": "oorlog"
+        "sentence": "De agenten _____ tegen de betogers op, wat tot rellen leidde.",
+        "answer": "botsen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Waarom gebruikten de activisten opblaasbare kostuums?",
       "options": [
-        "Een sportevenement",
-        "Een politiek conflict",
-        "Een kunstexpositie",
-        "Een wetenschappelijke doorbraak"
+        "Om zich te vermommen als dieren",
+        "Om zich te beschermen tegen traangas",
+        "Om de aandacht van de media te trekken",
+        "Omdat het feestelijk was"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de kern van Trumps voorstel?",
+      "question": "Wat is een 'pepperspraybol'?",
       "options": [
-        "Een wapenstilstand",
-        "Een volledige overgave",
-        "Geen specifieke actie",
-        "Een gezamenlijke vakantie"
+        "Een soort soep",
+        "Een projectiel met traangas",
+        "Een speciaal soort bal",
+        "Een onderdeel van een wapen"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe reageert Zelensky op het voorstel?",
+      "question": "Waar verwijst 'Rijksdagbrand' naar?",
       "options": [
-        "Hij wijst het meteen af",
-        "Hij noemt het een goed compromis",
-        "Hij eist meer",
-        "Hij negeert het volledig"
+        "De dag dat het Rijk vergadert",
+        "Een historische brand in Duitsland",
+        "Een moderne politieke partij",
+        "Een festival"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Trumps voorstel gaat over een permanente vrede.",
-      "isTrue": false
-    },
-    {
-      "statement": "Zelensky is positief over het voorstel.",
+      "statement": "De activisten droegen opblaasbare kostuums om zich te beschermen.",
       "isTrue": true
     },
     {
-      "statement": "De oorlog is al beëindigd.",
+      "statement": "Trump heeft persoonlijk de opblaasbare figuren ontworpen.",
       "isTrue": false
+    },
+    {
+      "statement": "Het incident met de pepperspraybollen vond plaats in Washington D.C.",
+      "isTrue": true
     }
   ]
 }

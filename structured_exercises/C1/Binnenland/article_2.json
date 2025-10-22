@@ -3,93 +3,93 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Felix Heremans: van 'Putain' naar 'De Slimste Mens'",
+  "title": "Schaken in Antwerpen",
   "topicNumber": 1,
   "article": {
-    "title": "Felix Heremans: van 'Putain' naar 'De Slimste Mens'",
-    "summary": "Acteur Felix Heremans deed mee aan het tv-programma 'De Slimste Mens'. Hij won de eerste aflevering. Hij is de jongste kandidaat ooit in dat programma. We spraken met hem in juli, en nu lees je hier over hem."
+    "title": "Schaken in Antwerpen",
+    "summary": "Het KMSKA in Antwerpen stond gisteren helemaal in het thema van schaken. Schaakgrootmeester Garry Kasparov nam het er op tegen twintig schakers, onder wie Antwerps burgemeester Els van Doesburg en de Belgische ondernemer Marc Coucke."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "acteur",
-        "definition": "iemand die een rol speelt in een film of op het toneel"
+        "word": "schaken",
+        "definition": "een bordspel voor twee spelers"
       },
       {
-        "word": "winnen",
-        "definition": "een wedstrijd of spel winnen"
+        "word": "grootmeester",
+        "definition": "iemand die heel goed is in iets"
       },
       {
-        "word": "kandidaat",
-        "definition": "iemand die meedoet aan een wedstrijd of verkiezing"
+        "word": "titel",
+        "definition": "een naam die iets of iemand krijgt"
       },
       {
-        "word": "programma",
-        "definition": "een tv-programma of uitzending"
+        "word": "finalisten",
+        "definition": "mensen die meedoen aan de laatste ronde van een wedstrijd"
       },
       {
-        "word": "interview",
-        "definition": "een vraaggesprek, vaak voor de media"
+        "word": "ondernemer",
+        "definition": "iemand die een bedrijf heeft"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is een ___ die meedeed aan een tv-programma.",
-        "answer": "acteur"
+        "sentence": "Garry Kasparov is een beroemde schaak___",
+        "answer": "grootmeester"
       },
       {
-        "sentence": "Hij hoopte de eerste aflevering te ___.",
-        "answer": "winnen"
+        "sentence": "De finalisten van het toernooi kregen een speciale ___",
+        "answer": "titel"
       },
       {
-        "sentence": "Hij is de jongste ___ ooit in dat programma.",
-        "answer": "kandidaat"
+        "sentence": "Een ondernemer zoals Marc Coucke richt vaak een ___ op",
+        "answer": "ondernemer"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is Felix Heremans?",
+      "question": "Wat is schaken?",
       "options": [
-        "Een programmamaker",
-        "Een presentator",
-        "Een acteur",
-        "Een journalist"
+        "Een sport",
+        "Een soort kunst",
+        "Een bordspel",
+        "Een muziekstuk"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat deed Felix in de eerste aflevering?",
+      "question": "Waar vond het schaakevenement plaats?",
       "options": [
-        "Hij verloor",
-        "Hij was afwezig",
-        "Hij won",
-        "Hij was tweede"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is bijzonder aan zijn deelname?",
-      "options": [
-        "Hij is de oudste",
-        "Hij is de jongste",
-        "Hij is de sterkste",
-        "Hij is de snelste"
+        "In Brussel",
+        "In het KMSKA",
+        "In een park",
+        "Op school"
       ],
       "correctAnswer": 1
+    },
+    {
+      "question": "Wie is Marc Coucke?",
+      "options": [
+        "Een schaker",
+        "Een kunstenaar",
+        "Een ondernemer",
+        "Een politicus"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Felix Heremans is de jongste kandidaat ooit in 'De Slimste Mens'.",
+      "statement": "Garry Kasparov is een professionele schaker.",
       "isTrue": true
     },
     {
-      "statement": "Felix Heremans verloor de eerste aflevering.",
+      "statement": "Het schaakevenement vond plaats in Brussel.",
       "isTrue": false
     },
     {
-      "statement": "Felix Heremans is een acteur.",
+      "statement": "Marc Coucke is een van de deelnemers aan het schaaktoernooi.",
       "isTrue": true
     }
   ]

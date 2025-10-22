@@ -1,15 +1,15 @@
 Artikel 1
-Nieuwsupdate: 2025-10-22 12:21 UCT
+Nieuwsupdate: 2025-10-22 15:06 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Miljoenen euro’s nooit betaald: Kansspelcommissie kon vorig jaar amper 0,6 procent van boetes innen
-Link: https://www.standaard.be/binnenland/miljoenen-euro-s-nooit-betaald-kansspelcommissie-kon-vorig-jaar-amper-06-procent-van-boetes-innen/99207547.html
-Datum: Wed, 22 Oct 2025 05:52:45 GMT
-Samenvatting: Meer dan 4,6 miljoen euro aan boetes uitgeschreven, amper 27.525 euro geïnd. Het zijn opvallende cijfers in het jaarverslag van de Kansspelcommissie voor 2024. “Op dit moment zijn ze een tandeloze tijger.”
+Titel: KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land
+Link: https://www.standaard.be/binnenland/kmi-waarschuwt-voor-stormweer-donderdag-code-oranje-aan-kust-code-geel-in-rest-van-het-land/99417477.html
+Datum: Wed, 22 Oct 2025 14:42:20 GMT
+Samenvatting: Het KMI heeft code geel afgekondigd voor het aankomende stormweer. Aan de kust geldt donderdag vanaf 15 uur code oranje.
 Auteur: Geen auteur
 Categorie: Binnenland
-Afbeelding: https://prod-img.nieuwsblad.be/public/nieuws/slbj70-gokken-gok-poker-jonas-hanot-joha/alternates/BASE_SIXTEEN_NINE/Gokken%20gok%20poker%20Jonas%20Hanot%20JOHA
-Premium: true
+Afbeelding: https://prod-img.nieuwsblad.be/public/nieuws/dxfl3o-belgian-coast-storm/alternates/BASE_SIXTEEN_NINE/BELGIAN%20COAST%20STORM
+Premium: false
 ------------------------------------------------------------

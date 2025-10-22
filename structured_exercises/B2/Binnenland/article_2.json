@@ -3,93 +3,93 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Felix Heremans wint in 'De slimste mens'",
+  "title": "Schaakgrootmeester Garry Kasparov speelt in Antwerpen tegen twintig finalisten",
   "topicNumber": 1,
   "article": {
-    "title": "Felix Heremans wint in 'De slimste mens'",
-    "summary": "Acteur Felix Heremans won de eerste aflevering van 'De slimste mens'. Hij is de jongste winnaar ooit. Eind juli werd hij al geïnterviewd. Hier lees je het opnieuw."
+    "title": "Schaakgrootmeester Garry Kasparov speelt in Antwerpen tegen twintig finalisten",
+    "summary": "Het KMSKA in Antwerpen stond gisteren helemaal in het thema van schaken. De bekende schaker Garry Kasparov speelde tegen twintig tegenstanders, waaronder de Antwerpse burgemeester Els van Doesburg en de Belgische ondernemer Marc Coucke. Uiteindelijk won Kasparov alle partijen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "acteur",
-        "definition": "iemand die in films of toneel speelt"
+        "word": "schaken",
+        "definition": "een bordspel voor twee spelers waarbij je de stukken van je tegenstander moet slaan"
+      },
+      {
+        "word": "tegenstander",
+        "definition": "iemand die tegen je speelt in een spel of sport"
       },
       {
         "word": "winnen",
-        "definition": "een wedstrijd of spel winnen"
+        "definition": "een spel of wedstrijd winnen, dus niet verliezen"
       },
       {
-        "word": "kandidaat",
-        "definition": "iemand die meedoet aan een wedstrijd"
+        "word": "finalisten",
+        "definition": "deelnemers die tot de finale zijn gekwalificeerd"
       },
       {
-        "word": "aflevering",
-        "definition": "een deel van een serie op tv"
-      },
-      {
-        "word": "geïnterviewd",
-        "definition": "vragen beantwoorden voor een krant of tv"
+        "word": "ondernemer",
+        "definition": "een persoon die een bedrijf of onderneming heeft"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is een ___ in een film.",
-        "answer": "acteur"
+        "sentence": "Garry Kasparov is een beroemde ___ die in Antwerpen tegen twintig mensen speelde.",
+        "answer": "schaker"
       },
       {
-        "sentence": "Ze hoopte de eerste prijs te ___.",
-        "answer": "winnen"
+        "sentence": "Els van Doesburg en Marc Coucke waren twee van de ___ die tegen Kasparov speelden.",
+        "answer": "finalisten"
       },
       {
-        "sentence": "Hij was een ___ in de talentenjacht.",
-        "answer": "kandidaat"
+        "sentence": "Uiteindelijk kon niemand Kasparov ___ en won hij alle partijen.",
+        "answer": "verslaan"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is Felix Heremans?",
+      "question": "Wat is Garry Kasparos zijn beroep?",
       "options": [
-        "Een acteur",
-        "Een presentator",
-        "Een atleet",
-        "Een muzikant"
+        "Tennisser",
+        "Schaker",
+        "Voetballer",
+        "Basketballer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Waar vond het schaakevenement plaats?",
+      "options": [
+        "In Brussel",
+        "In Antwerpen",
+        "In Gent",
+        "In Brugge"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat was de uitslag van de schaakpartijen?",
+      "options": [
+        "Kasparov won alles",
+        "Kasparov verloor alles",
+        "Het werd een gelijkspel",
+        "Alleen de laatste partij werd gewonnen"
       ],
       "correctAnswer": 0
-    },
-    {
-      "question": "Wat is 'De slimste mens'?",
-      "options": [
-        "Een boek",
-        "Een radioprogramma",
-        "Een tv-programma",
-        "Een restaurant"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Hoe oud is Felix Heremans ongeveer?",
-      "options": [
-        "10 jaar",
-        "20 jaar",
-        "30 jaar",
-        "40 jaar"
-      ],
-      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Felix Heremans is de jongste winnaar ooit van 'De slimste mens'.",
+      "statement": "Garry Kasparov is een professionele schaker.",
       "isTrue": true
     },
     {
-      "statement": "De tekst is geschreven voordat 'De slimste mens' werd uitgezonden.",
+      "statement": "De Belgische ondernemer Marc Coucke won zijn partij tegen Kasparov.",
       "isTrue": false
     },
     {
-      "statement": "Felix Heremans is een acteur.",
+      "statement": "Het KMSKA is een museum in Antwerpen.",
       "isTrue": true
     }
   ]

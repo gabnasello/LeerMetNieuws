@@ -3,93 +3,93 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Vance is optimistisch over wapenstilstand in Gaza",
+  "title": "Zeven doden na grootschalige Russische aanval op Oekraïne, onder wie twee kinderen",
   "topicNumber": 1,
   "article": {
-    "title": "Vance is optimistisch over wapenstilstand in Gaza",
-    "summary": "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de vredesonderhandelingen. Volg hier de laatste ontwikkelingen."
+    "title": "Zeven doden na grootschalige Russische aanval op Oekraïne, onder wie twee kinderen",
+    "summary": "Bij een grootschalige Russische aanval zijn in Kiev zes mensen omgekomen, onder wie twee kinderen. Ook in Charkiv viel een dode. Daar werd een kleuterschool getroffen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "optimistisch",
-        "definition": "positief en hoopvol over de toekomst"
+        "word": "aanval",
+        "definition": "een militaire actie tegen een doel"
       },
       {
-        "word": "wapenstilstand",
-        "definition": "een overeenkomst om te stoppen met vechten"
+        "word": "omgekomen",
+        "definition": "overleden, gestorven"
       },
       {
-        "word": "onderhandelingen",
-        "definition": "gesprekken om tot een oplossing te komen"
+        "word": "getroffen",
+        "definition": "geraakt, getroffen door iets (bijv. een bom)"
       },
       {
-        "word": "doorbraak",
-        "definition": "een belangrijke en positieve ontwikkeling"
+        "word": "kleuterschool",
+        "definition": "een school voor jonge kinderen"
       },
       {
-        "word": "vredesonderhandelingen",
-        "definition": "gesprekken om vrede te bereiken"
+        "word": "grootschalige",
+        "definition": "op grote schaal, omvangrijk"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij voelde zich ___ over de uitkomst.",
-        "answer": "optimistisch"
+        "sentence": "In de oorlog zijn veel mensen ___ door bombardementen.",
+        "answer": "omgekomen"
       },
       {
-        "sentence": "De partijen kwamen overeen een ___ te sluiten.",
-        "answer": "wapenstilstand"
+        "sentence": "De ___ werd beschadigd door een bom.",
+        "answer": "kleuterschool"
       },
       {
-        "sentence": "De ___ leidde tot een oplossing.",
-        "answer": "doorbraak"
+        "sentence": "De aanval was ___ en trof veel gebieden.",
+        "answer": "grootschalige"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar is Vance optimistisch over?",
+      "question": "Waar vond de aanval plaats?",
       "options": [
-        "het weer",
-        "de wapenstilstand",
-        "een sportevenement",
-        "zijn vakantie"
+        "Kiev",
+        "Charkiv",
+        "Moskou",
+        "Berlijn"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat betekent het woord 'doorbraak' in deze context?",
+      "question": "Wat werd er getroffen in Charkiv?",
       "options": [
-        "een doorgebroken raam",
-        "een belangrijke positieve ontwikkeling",
-        "een sportterm",
-        "een soort voedsel"
+        "Een ziekenhuis",
+        "Een woonwijk",
+        "Een school",
+        "Een fabriek"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Waarom zijn de onderhandelingen belangrijk?",
+      "question": "Hoeveel mensen stierven in totaal?",
       "options": [
-        "Ze zijn niet belangrijk",
-        "Ze kunnen leiden tot meer vrede",
-        "Ze gaan alleen over sport",
-        "Ze zijn geheim"
+        "5",
+        "6",
+        "7",
+        "8"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Vance is optimistisch over de wapenstilstand.",
+      "statement": "Er vielen alleen doden in Kiev.",
+      "isTrue": false
+    },
+    {
+      "statement": "Ook in Charkiv vielen doden door de aanval.",
       "isTrue": true
     },
     {
-      "statement": "De oorlog in Gaza duurt al meer dan twee jaar.",
-      "isTrue": true
-    },
-    {
-      "statement": "Er zijn geen onderhandelingen geweest.",
+      "statement": "Er werden alleen militaire doelen getroffen.",
       "isTrue": false
     }
   ]

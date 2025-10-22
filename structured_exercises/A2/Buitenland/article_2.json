@@ -3,93 +3,93 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Oorlog in Oekraïne: nieuws en updates",
+  "title": "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
   "topicNumber": 1,
   "article": {
-    "title": "Oorlog in Oekraïne: nieuws en updates",
-    "summary": "Volg hier alle nieuwe ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+    "title": "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
+    "summary": "Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "oorlog",
-        "definition": "een situatie waarin landen of groepen tegen elkaar vechten"
+        "word": "protest",
+        "definition": "een actie om te laten zien dat je het ergens niet mee eens bent"
       },
       {
-        "word": "ontwikkeling",
-        "definition": "iets dat nieuw is of verandert"
+        "word": "activisten",
+        "definition": "mensen die actie voeren voor een bepaald doel, vaak een politiek of sociaal doel"
       },
       {
-        "word": "app",
-        "definition": "een programma op je telefoon of computer"
+        "word": "kostuum",
+        "definition": "een speciaal pak dat je aantrekt, vaak voor een feest of om je te verkleden"
       },
       {
-        "word": "melding",
-        "definition": "een bericht dat je iets vertelt"
+        "word": "pepperspray",
+        "definition": "een spuitbus met een scherpe vloeistof die de ogen irriteert, gebruikt door politie soms"
       },
       {
-        "word": "updates",
-        "definition": "nieuwe informatie over iets"
+        "word": "botsen",
+        "definition": "tegen elkaar aan komen, vaak met kracht"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Er is een nieuwe ___ in de oorlog.",
-        "answer": "ontwikkeling"
+        "sentence": "Tijdens het ___ droegen veel mensen maskers.",
+        "answer": "protest"
       },
       {
-        "sentence": "Download de ___ om meldingen te krijgen.",
-        "answer": "app"
+        "sentence": "De politie gebruikte ___ om de menigte uiteen te drijven.",
+        "answer": "pepperspray"
       },
       {
-        "sentence": "Krijg een ___ wanneer er belangrijk nieuws is.",
-        "answer": "melding"
+        "sentence": "Twee mensen liepen tegen elkaar op, ze ___ tegen elkaar.",
+        "answer": "botsen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat de oorlog over?",
+      "question": "Waarom droegen sommige mensen een kostuum?",
       "options": [
-        "Een spel",
-        "Een feest",
-        "Een conflict tussen landen",
-        "Een soort muziek"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een app?",
-      "options": [
-        "Een soort dier",
-        "Een programma op je telefoon",
-        "Een soort eten",
-        "Een auto"
+        "Om zich te beschermen tegen pepperspray",
+        "Omdat het feest was",
+        "Omdat ze wilden dansen",
+        "Ze waren verkleed als dier"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat betekent 'updates'?",
+      "question": "Wat is pepperspray?",
       "options": [
-        "Oude informatie",
-        "Nieuwe informatie",
-        "Een soort game",
-        "Een sport"
+        "Een soort parfum",
+        "Een soort medicijn",
+        "Een spuitbus met irritante vloeistof",
+        "Een soort verkleedkostuum"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat gebeurde er met de pepperspray?",
+      "options": [
+        "Het werd opgegeten",
+        "Het verdampte in de lucht",
+        "Het werd afgebeten door de activisten",
+        "Het ketste af op de kostuums"
+      ],
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "Een oorlog is wanneer mensen samen feesten.",
-      "isTrue": false
-    },
-    {
-      "statement": "Een app is iets op je telefoon.",
+      "statement": "De activisten droegen kostuums om zich te beschermen.",
       "isTrue": true
     },
     {
-      "statement": "Updates zijn oude informatie die niet meer geldig is.",
+      "statement": "Pepperspray kan door kleding heen komen.",
+      "isTrue": true
+    },
+    {
+      "statement": "De protesten waren alleen tegen Donald Trump.",
       "isTrue": false
     }
   ]

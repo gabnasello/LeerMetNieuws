@@ -26,574 +26,576 @@ export interface Exercise {
 export const exercises: Exercise[] = [
 {
     id: 1,
-    section: "Binnenland",
+    section: "Buitenland",
+    topic: "Buitenland",
     level: "B1",
-    title: "Werknemers gevangenis moeten e-mailtekst verwijderen",
+    title: "Zeven doden na Russische aanval Oekraïne",
     topicNumber: 1,
     article: {
-      title: "Werknemers gevangenis moeten e-mailtekst verwijderen",
-      summary: "De personeelsleden van de Belgische gevangenissen moeten een bericht uit hun e-mailhandtekening verwijderen. In dat bericht werd geklaagd over te veel gevangenen. De ministerraad heeft dit gevraagd."
+      title: "Zeven doden na Russische aanval Oekraïne",
+      summary: "Bij een Russische aanval op Oekraïne zijn zeven mensen omgekomen, onder wie twee kinderen. In Kiev vielen zes doden, en in Charkiv viel een dode. Een kleuterschool werd geraakt."
     },
     vocabulary: {
       words: [
         {
-          word: "gevangenis",
-          definition: "Een plaats waar mensen die de wet hebben overtreden, worden vastgehouden."
+          word: "aanval",
+          definition: "wanneer iemand of een groep iets met geweld doet tegen een ander"
         },
         {
-          word: "e-mailhandtekening",
-          definition: "De tekst die automatisch onderaan een e-mailbericht wordt geplaatst."
+          word: "kinderen",
+          definition: "jonge mensen, meestal onder de 18 jaar"
         },
         {
-          word: "ministerraad",
-          definition: "De groep van ministers die samen de regering vormen."
+          word: "kleuterschool",
+          definition: "een school voor jonge kinderen, meestal tussen 4 en 6 jaar oud"
         },
         {
-          word: "verwijderen",
-          definition: "Iets weghalen of er niet meer bij hebben."
+          word: "omgekomen",
+          definition: "gestorven, overleden"
         },
         {
-          word: "klagen",
-          definition: "Zeggen dat je niet tevreden bent, meestal over iets dat vervelend is."
+          word: "geraakt",
+          definition: "gemaakt contact met; werd getroffen door"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De werknemers moeten de e-mailtekst ___",
-          answer: "verwijderen"
+          sentence: "Bij de aanval op de stad zijn er helaas veel mensen ___",
+          answer: "omgekomen"
         },
         {
-          sentence: "De ministerraad heeft dit ___",
-          answer: "gevraagd"
+          sentence: "De raket trof een ___ waar kinderen nog aan het spelen waren.",
+          answer: "kleuterschool"
         },
         {
-          sentence: "Er wordt veel ___ over de situatie in de gevangenissen",
-          answer: "geklaagd"
+          word: "Tijdens de ___ zijn veel mensen gewond geraakt.",
+          answer: "aanval"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar verwijderen de werknemers de e-mailtekst uit?",
+        question: "Waar vond de aanval plaats die in de tekst wordt beschreven?",
         options: [
-          "Uit hun e-mailhandtekening",
-          "Uit een boek",
-          "Van de ministerraad",
-          "Uit de gevangenis"
-        ],
-        correctAnswer: 0
-      },
-      {
-        question: "Wat is de rol van de ministerraad in dit verhaal?",
-        options: [
-          "Ze hebben de tekst geschreven",
-          "Ze hebben gevraagd de tekst te verwijderen",
-          "Ze zijn de gevangenen",
-          "Ze hebben de tekst goedgekeurd"
+          "Oekraïne",
+          "Rusland",
+          "Verenigde Staten",
+          "Duitsland"
         ],
         correctAnswer: 1
       },
       {
-        question: "Waarover werd er geklaagd in het bericht?",
+        question: "Wat werd getroffen door de aanval volgens de tekst?",
         options: [
-          "Over te veel gevangenen",
-          "Over te weinig gevangenen",
-          "Over de ministerraad",
-          "Over de e-mailhandtekening"
+          "Een kleuterschool",
+          "Een ziekenhuis",
+          "Een woonwijk",
+          "Een winkelcentrum"
         ],
-        correctAnswer: 0
+        correctAnswer: 1
+      },
+      {
+        question: "Hoeveel mensen zijn er omgekomen in de stad Charkiv?",
+        options: [
+          "1",
+          "6",
+          "7",
+          "2"
+        ],
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De werknemers moeten de e-mailtekst toevoegen aan hun e-mail.",
+        statement: "De aanval vond plaats in Rusland.",
         isTrue: false
       },
       {
-        statement: "De ministerraad heeft gevraagd om het bericht te verwijderen.",
+        statement: "Er zijn kinderen omgekomen bij deze aanval.",
         isTrue: true
       },
       {
-        statement: "Het bericht klaagde over te weinig gevangenen.",
+        statement: "Alleen de stad Kiev werd getroffen.",
         isTrue: false
       }
     ]
   },
 {
     id: 2,
-    section: "Binnenland",
+    section: "Buitenland",
+    topic: "Buitenland",
     level: "B1",
-    title: "Fietsers en wandelaars: Waarom ruziën? Met een beetje beleefdheid is er veel op te lossen.",
+    title: "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
     topicNumber: 1,
     article: {
-      title: "Fietsers en wandelaars: Waarom ruziën? Met een beetje beleefdheid is er veel op te lossen.",
-      summary: "Fietsers en wandelaars hebben soms problemen met elkaar. Veel mensen herkennen dit. Ze vertellen over hun ergernissen. Dit artikel laat een selectie van die reacties zien."
+      title: "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
+      summary: "Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”"
     },
     vocabulary: {
       words: [
         {
-          word: "fietsers",
-          definition: "personen die fietsen"
+          word: "protest",
+          definition: "demonstratie of actie tegen iets"
         },
         {
-          word: "wandelaars",
-          definition: "personen die wandelen"
+          word: "beleid",
+          definition: "manier waarop iemand regeert of beslissingen neemt"
         },
         {
-          word: "ruzie",
-          definition: "onenigheid of conflict"
+          word: "Trump",
+          definition: "de familienaam van de voormalige president van de VS"
         },
         {
-          word: "beleefdheid",
-          definition: "het beleefd zijn; vriendelijkheid"
+          word: "activisten",
+          definition: "mensen die actie voeren voor een verandering"
         },
         {
-          word: "oplossen",
-          definition: "iets oplossen; een probleem verhelpen"
+          word: "pepperspray",
+          definition: "spray die pijn doet maar niet blijvend schaadt"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Fietsers en wandelaars maken soms ___ over elkaars gedrag.",
-          answer: "ruzies"
+          sentence: "Tijdens het ___ tegen het beleid van Trump werden veel mensen gearresteerd.",
+          answer: "protest"
         },
         {
-          sentence: "Met een beetje ___ kun je al veel problemen voorkomen.",
-          answer: "beleefdheid"
+          sentence: "De politie gebruikte ___ om de menigte uit elkaar te drijven.",
+          answer: "pepperspray"
         },
         {
-          sentence: "Samen kunnen we dit probleem ___ door beter naar elkaar te luisteren.",
-          answer: "oplossen"
+          sentence: "___ zijn mensen die vechten voor een betere wereld.",
+          answer: "Activisten"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat helpt om ruzies tussen fietsers en wandelaars te voorkomen?",
+        question: "Wat is pepperspray?",
         options: [
-          "Meer fietsen",
-          "Meer wandelen",
-          "Beleefdheid tonen",
-          "Harder praten"
+          "Een soort parfum",
+          "Een soort plant",
+          "Een soort wapen dat de politie gebruikt",
+          "Een soort eten"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waarom maken fietsers en wandelaars soms ruzie?",
+        question: "Waar is Donald Trump bekend om?",
         options: [
-          "Ze verstaan elkaar niet",
-          "Ze willen allebei voorrang",
-          "Ze hebben haast",
-          "Ze hebben andere doelen"
+          "Hij is een bekende filmster",
+          "Hij is de voormalige president van de Verenigde Staten",
+          "Hij is een professionele tennisser",
+          "Hij is de koning van Nederland"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is een voorbeeld van beleefdheid in het verkeer?",
+        question: "Wat gebeurt er als je pepperspray in je ogen krijgt?",
         options: [
-          "Snel inhalen",
-          "Niet groeten",
-          "Iemand voor laten gaan",
-          "Op de telefoon kijken"
+          "Je gaat ervan niezen",
+          "Je kunt tijdelijk niet goed zien en het doet pijn",
+          "Het heeft geen effect",
+          "Je ogen veranderen van kleur"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Fietsers en wandelaars hebben altijd dezelfde doelen.",
+        statement: "Pepperspray kan mensen blind maken.",
         isTrue: false
       },
       {
-        statement: "Beleefdheid kan helpen om conflicten te voorkomen.",
+        statement: "Activisten protesteren soms tegen regeringen.",
         isTrue: true
       },
       {
-        statement: "Ruzie is altijd de schuld van de fietser.",
+        statement: "Donald Trump is de huidige president van de Verenigde Staten.",
         isTrue: false
       }
     ]
   },
 {
     id: 3,
-    section: "Buitenland",
-    topic: "Buitenland",
+    section: "Binnenland",
+    topic: "Binnenland",
     level: "B1",
-    title: "Vance is optimistisch over vrede in Gaza",
+    title: "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
     topicNumber: 1,
     article: {
-      title: "Vance is optimistisch over vrede in Gaza",
-      summary: "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de vredesonderhandelingen. Vance is hier optimistisch over."
+      title: "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
+      summary: "Het KMI heeft code geel afgekondigd voor het aankomende stormweer. Aan de kust geldt donderdag vanaf 15 uur code oranje."
     },
     vocabulary: {
       words: [
         {
-          word: "optimistisch",
-          definition: "positief en hoopvol"
+          word: "KMI",
+          definition: "Koninklijk Meteorologisch Instituut, het nationale weeralarm"
         },
         {
-          word: "vakbond",
-          definition: "een groep werknemers die samenwerkt voor betere rechten"
+          word: "afgekondigd",
+          definition: "officieel bekendgemaakt"
         },
         {
-          word: "onderhandelingen",
-          definition: "gesprekken om tot een oplossing te komen"
+          word: "stormweer",
+          definition: "weer met veel wind en storm"
         },
         {
-          word: "oorlog",
-          definition: "een periode van gewapend conflict"
+          word: "geldt",
+          definition: "is van kracht, is geldig"
         },
         {
-          word: "vrede",
-          definition: "geen oorlog, rust en harmonie"
+          word: "oranje",
+          definition: "de kleur oranje, hier gebruikt als code voor ernstige weersomstandigheden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij is ___ over de toekomst.",
-          answer: "optimistisch"
+          sentence: "Het KMI heeft code ___ afgekondigd voor het stormweer.",
+          answer: "geel"
         },
         {
-          sentence: "De ___ tussen landen is belangrijk voor vrede.",
-          answer: "onderhandelingen"
+          sentence: "Aan de kust geldt donderdag vanaf 15 uur code ___.",
+          answer: "oranje"
         },
         {
-          sentence: "Ze willen ___ in de regio.",
-          answer: "vrede"
+          sentence: "Het KMI is het instituut dat de weeralarm ___.",
+          answer: "afgekondigd"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar is Vance optimistisch over?",
+        question: "Wat betekent 'afgekondigd' in deze context?",
         options: [
-          "Oorlog in Gaza",
-          "Vrede in Gaza",
-          "Een nieuwe oorlog",
-          "Meer conflicten"
+          "officieel bekendgemaakt",
+          "verloren",
+          "verborgen",
+          "afgebroken"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Wat is het tegenovergestelde van oorlog?",
+        question: "Wat betekent 'geldt' in deze zin?",
         options: [
-          "Strijd",
-          "Vrede",
-          "Conflict",
-          "Oorlog"
+          "is geldig",
+          "verloren is",
+          "verdiend wordt",
+          "gevaarlijk is"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Hoe lang duurde de oorlog in Gaza?",
+        question: "Wat is de 'code oranje'?",
         options: [
-          "1 jaar",
-          "2 jaar",
-          "5 jaar",
-          "10 jaar"
+          "Een weeralarm voor zeer gevaarlijk weer",
+          "Een feestelijke code",
+          "Een soort fruit",
+          "Een sportevenement"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Vance is optimistisch over vrede in Gaza.",
-        isTrue: true
-      },
-      {
-        statement: "De oorlog in Gaza duurde vijf jaar.",
+        statement: "Het KMI heeft code groen afgekondigd voor het stormweer.",
         isTrue: false
       },
       {
-        statement: "Onderhandelingen kunnen leiden tot vrede.",
+        statement: "Aan de kust geldt donderdag vanaf 15 uur code oranje.",
         isTrue: true
+      },
+      {
+        statement: "Code oranje betekent dat er geen gevaar is.",
+        isTrue: false
       }
     ]
   },
 {
     id: 4,
-    section: "Buitenland",
-    topic: "Oorlog in Oekraïne",
+    section: "Sport",
+    topic: "Schaak",
     level: "B1",
-    title: "Oekraïne Oorlog",
+    title: "Schaakgrootmeester Garry Kasparov verslaat twintig tegenstanders in Antwerpen",
     topicNumber: 1,
     article: {
-      title: "Oekraïne Oorlog",
-      summary: "President Zelensky vindt het voorstel van Trump om de oorlog te bevriezen een goed compromis. Volg het laatste nieuws over de oorlog in Oekraïne via de DS Nieuws app."
+      title: "Schaakgrootmeester Garry Kasparov verslaat twintig tegenstanders in Antwerpen",
+      summary: "Het KMSKA in Antwerpen stond gisteren helemaal in het thema van schaken. Garry Kasparov speelde tegen twintig schakers, waaronder burgemeester Els van Doesburg en ondernemer Marc Coucke. Kasparov won alle partijen."
     },
     vocabulary: {
       words: [
         {
-          word: "oorlog",
-          definition: "een gewapend conflict tussen landen of groepen"
+          word: "schaken",
+          definition: "een spel met zwarte en witte stukken op een bord"
         },
         {
-          word: "bevriezen",
-          definition: "iets stoppen of pauzeren, zoals een conflict"
+          word: "tegenstanders",
+          definition: "mensen die tegen elkaar spelen"
         },
         {
-          word: "compromis",
-          definition: "een oplossing waar beide partijen iets toegeven"
+          word: "won",
+          definition: "heeft gewonnen, is winnaar"
         },
         {
-          word: "voorstel",
-          definition: "een plan of idee dat wordt voorgesteld"
+          word: "finalisten",
+          definition: "deelnemers in de laatste ronde"
         },
         {
-          word: "app",
-          definition: "een applicatie op je telefoon, vaak voor nieuws of sociale media"
+          word: "ondernemer",
+          definition: "iemand die een bedrijf heeft"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De twee landen besloten de oorlog te ___",
-          answer: "bevriezen"
+          sentence: "Garry Kasparov is een beroemde schaak___",
+          answer: "speler"
         },
         {
-          sentence: "Ze maakten een ___ om het conflict op te lossen.",
-          answer: "compromis"
+          sentence: "Hij won van alle twintig ___ in Antwerpen.",
+          answer: "tegenstanders"
         },
         {
-          sentence: "Ze gebruikten een ___ om het nieuws te volgen.",
-          answer: "app"
+          sentence: "Ook de burgemeester van Antwerpen was een van de ___",
+          answer: "finalisten"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'bevriezen' in deze context?",
+        question: "Waar vond het schaaktoernooi plaats?",
         options: [
-          "Het permanent stoppen van de oorlog",
-          "Het tijdelijk pauzeren van de oorlog",
-          "Het versnellen van de oorlog",
-          "Het negeren van de oorlog"
+          "In Amsterdam",
+          "In Antwerpen",
+          "In Brussel",
+          "In Gent"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wie won alle partijen?",
+        options: [
+          "Els van Doesburg",
+          "Marc Coucke",
+          "Garry Kasparov",
+          "Een onbekende speler"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waar staat 'app' voor in deze tekst?",
+        question: "Hoeveel tegenstanders versloeg Kasparov?",
         options: [
-          "Een soort voedsel",
-          "Een applicatie op je telefoon",
-          "Een type auto",
-          "Een soort dier"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is een 'compromis'?",
-        options: [
-          "Een soort wapen",
-          "Een overeenkomst waar beide partijen iets opgeven",
-          "Een type virus",
-          "Een soort auto"
+          "Vijf",
+          "Tien",
+          "Twintig",
+          "Dertig"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Zelensky wil de oorlog helemaal stoppen.",
-        isTrue: false
-      },
-      {
-        statement: "Trump stelde voor de oorlog te bevriezen.",
+        statement: "Garry Kasparov won van alle twintig tegenstanders.",
         isTrue: true
       },
       {
-        statement: "De DS Nieuws app geeft updates over de oorlog.",
+        statement: "Els van Doesburg is de burgemeester van Amsterdam.",
+        isTrue: false
+      },
+      {
+        statement: "Marc Coucke is een Belgische ondernemer.",
         isTrue: true
       }
     ]
   },
 {
     id: 5,
-    section: "Binnenland",
-    topic: "Binnenland",
-    level: "B1",
-    title: "Kansspelcommissie kon weinig boetes innen",
+    section: "Buitenland",
+    topic: "Buitenland",
+    level: "C1",
+    title: "Zeven doden na grootschalige Russische aanval op Oekraïne, onder wie twee kinderen",
     topicNumber: 1,
     article: {
-      title: "Kansspelcommissie kon weinig boetes innen",
-      summary: "De Kansspelcommissie heeft in 2024 veel boetes uitgeschreven, maar weinig geld binnengekregen. Het is een organisatie zonder tanden."
+      title: "Zeven doden na grootschalige Russische aanval op Oekraïne, onder wie twee kinderen",
+      summary: "Bij een grootschalige Russische aanval zijn in Kiev zes mensen omgekomen, onder wie twee kinderen. Ook in Charkiv viel een dode. Daar werd een kleuterschool getroffen."
     },
     vocabulary: {
       words: [
         {
-          word: "commissie",
-          definition: "een groep mensen die samenwerkt"
+          word: "aanval",
+          definition: "militair offensief of gewelddadige actie"
         },
         {
-          word: "boetes",
-          definition: "geld dat je moet betalen als straf"
+          word: "omgekomen",
+          definition: "overleden, gestorven"
         },
         {
-          word: "innen",
-          definition: "binnenhalen of ontvangen"
+          word: "getroffen",
+          definition: "geraakt, beïnvloed"
         },
         {
-          word: "tand",
-          definition: "een hard ding in je mond om mee te kauwen"
+          word: "kleuterschool",
+          definition: "school voor jonge kinderen"
         },
         {
-          word: "weinig",
-          definition: "niet veel"
+          word: "grootschalige",
+          definition: "op grote schaal, omvangrijk"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De commissie kon de boetes niet ___",
-          answer: "innen"
+          sentence: "Tijdens de oorlog zijn er veel mensen ___ door bombardementen.",
+          answer: "omgekomen"
         },
         {
-          sentence: "Hij heeft een ___ gelachen, dus hij is blij.",
-          answer: "tand"
+          sentence: "De ___ werd beschadigd door de explosie.",
+          answer: "kleuterschool"
         },
         {
-          sentence: "Er is ___ water in de fles.",
-          answer: "weinig"
+          sentence: "Een ___ is vaak het doelwit in een conflict.",
+          answer: "aanval"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de Kansspelcommissie?",
+        question: "Waar vond de grootste deel van de aanval plaats?",
         options: [
-          "Een soort school",
-          "Een soort winkel",
-          "Een soort commissie",
-          "Een soort auto"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is een boete?",
-        options: [
-          "Een soort beloning",
-          "Een soort straf",
-          "Een soort spel",
-          "Een soort tand"
+          "Kiev",
+          "Charkiv",
+          "Moskou",
+          "Lviv"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat betekent 'innen'?",
+        question: "Wat is de betekenis van 'getroffen' in deze context?",
         options: [
-          "Buiten krijgen",
-          "Binnen krijgen",
-          "Buiten halen",
-          "Binnen halen"
+          "Getroffen door geluk",
+          "Beschadigd of geraakt",
+          "Volledig verwoest",
+          "Onbeschadigd gebleven"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is het hoofdonderwerp van dit artikel?",
+        options: [
+          "Een sportevenement",
+          "Een internationale conferentie",
+          "Een militaire aanval",
+          "Een economische crisis"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De Kansspelcommissie heeft veel boetes uitgeschreven.",
-        isTrue: true
-      },
-      {
-        statement: "De Kansspelcommissie heeft alle boetes binnengekregen.",
+        statement: "Er waren geen slachtoffers in Charkiv.",
         isTrue: false
       },
       {
-        statement: "Een tandeloze tijger heeft geen tanden.",
+        statement: "De aanval vond plaats in Oekraïne.",
         isTrue: true
+      },
+      {
+        statement: "Alleen militaire doelen werden getroffen.",
+        isTrue: false
       }
     ]
   },
 {
     id: 6,
-    section: "Binnenland",
-    topic: "Binnenland",
-    level: "B1",
-    title: "Acteur Felix Heremans wint in tv-quiz",
+    section: "Buitenland",
+    topic: "Buitenland",
+    level: "C1",
+    title: "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
     topicNumber: 1,
     article: {
-      title: "Acteur Felix Heremans wint in tv-quiz",
-      summary: "Acteur Felix Heremans is de jongste winnaar ooit van de tv-quiz 'De slimste mens'. Hij won de eerste aflevering. We spraken met hem in juli."
+      title: "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
+      summary: "Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”"
     },
     vocabulary: {
       words: [
         {
-          word: "acteur",
-          definition: "iemand die een rol speelt in een film of toneelstuk"
+          word: "activisten",
+          definition: "personen die actief zijn in een beweging of protest"
         },
         {
-          word: "winnen",
-          definition: "een wedstrijd of spel winnen"
+          word: "opblaasbaar",
+          definition: "iets dat kan worden opgeblazen of opgepompt"
         },
         {
-          word: "quiz",
-          definition: "een spel of wedstrijd met vragen"
+          word: "verkleedpakken",
+          definition: "kostuums of outfits die mensen aantrekken om zich te vermommen"
         },
         {
-          word: "jongste",
-          definition: "de kleinste in leeftijd"
+          word: "prominent",
+          definition: "opvallend aanwezig of belangrijk"
         },
         {
-          word: "aflevering",
-          definition: "een deel van een serie, bijvoorbeeld op tv"
+          word: "botsen",
+          definition: "ergens tegenaan lopen of tegen iets aanbotsen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Felix Heremans is een ___.",
-          answer: "acteur"
+          sentence: "Tijdens de betoging droegen enkele _____ verkleedpakken.",
+          answer: "activisten"
         },
         {
-          sentence: "Hij was de ___ winnaar ooit.",
-          answer: "jongste"
+          sentence: "De ballonnen zijn _____, dus je kunt ze meenemen.",
+          answer: "opblaasbaar"
         },
         {
-          sentence: "Hij deed mee aan een ___.",
-          answer: "quiz"
+          sentence: "De agenten _____ tegen de betogers op, wat tot rellen leidde.",
+          answer: "botsen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is Felix Heremans?",
+        question: "Waarom gebruikten de activisten opblaasbare kostuums?",
         options: [
-          "Een student",
-          "Een leraar",
-          "Een acteur",
-          "Een atleet"
+          "Om zich te vermommen als dieren",
+          "Om zich te beschermen tegen traangas",
+          "Om de aandacht van de media te trekken",
+          "Omdat het feestelijk was"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is 'De slimste mens'?",
+        question: "Wat is een 'pepperspraybol'?",
         options: [
-          "Een boek",
-          "Een film",
-          "Een tv-programma",
-          "Een sport"
+          "Een soort soep",
+          "Een projectiel met traangas",
+          "Een speciaal soort bal",
+          "Een onderdeel van een wapen"
         ],
         correctAnswer: 2
       },
       {
-        question: "Hoe oud is Felix Heremans ongeveer?",
+        question: "Waar verwijst 'Rijksdagbrand' naar?",
         options: [
-          "10 jaar",
-          "20 jaar",
-          "30 jaar",
-          "40 jaar"
+          "De dag dat het Rijk vergadert",
+          "Een historische brand in Duitsland",
+          "Een moderne politieke partij",
+          "Een festival"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Felix Heremans is de oudste winnaar.",
-        isTrue: false
-      },
-      {
-        statement: "'De slimste mens' is een tv-programma.",
+        statement: "De activisten droegen opblaasbare kostuums om zich te beschermen.",
         isTrue: true
       },
       {
-        statement: "Felix Heremans is een acteur.",
+        statement: "Trump heeft persoonlijk de opblaasbare figuren ontworpen.",
+        isTrue: false
+      },
+      {
+        statement: "Het incident met de pepperspraybollen vond plaats in Washington D.C.",
         isTrue: true
       }
     ]
@@ -601,94 +603,95 @@ export const exercises: Exercise[] = [
 {
     id: 7,
     section: "Binnenland",
+    topic: "Binnenland",
     level: "C1",
-    title: "Medewerkers gevangenis moeten klacht over overbevolking uit e-mail verwijderen",
+    title: "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
     topicNumber: 1,
     article: {
-      title: "Medewerkers gevangenis moeten klacht over overbeveling uit e-mail verwijderen",
-      summary: "De Belgische regering vraagt aan personeel in gevangenissen om een klacht over overbeveling te verwijderen uit hun e-mailhandtekening. Dit is een belangrijk onderwerp omdat overbeveling in gevangenissen een groot probleem is."
+      title: "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
+      summary: "Het KMI heeft code geel afgekondigd voor het aankomende stormweer. Aan de kust geldt donderdag vanaf 15 uur code oranje."
     },
     vocabulary: {
       words: [
         {
-          word: "gevangenis",
-          definition: "Een plaats waar mensen worden vastgehouden als straf voor een misdaad."
+          word: "afgekondigd",
+          definition: "officieel bekendgemaakt"
         },
         {
-          word: "overbevolking",
-          definition: "Wanneer er te veel mensen in een ruimte zijn, waardoor het oncomfortabel of ongezond wordt."
+          word: "aankomende",
+          definition: "wat binnenkort komt"
         },
         {
-          word: "klacht",
-          definition: "Een formele uiting van ontevredenheid of een probleem."
+          word: "geldt",
+          definition: "is van toepassing"
         },
         {
-          word: "e-mailhandtekening",
-          definition: "De tekst die automatisch onderaan een e-mailbericht wordt geplaatst, vaak met contactgegevens."
+          word: "vanaf",
+          definition: "beginnend op"
         },
         {
-          word: "verwijderen",
-          definition: "Iets weghalen of verwijderen zodat het niet langer aanwezig is."
+          word: "aangekondigd",
+          definition: "officieel bekendgemaakt"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De overbevolking in de ___ is zorgwekkend.",
-          answer: "gevangenis"
+          sentence: "De regering heeft een nieuwe wet ___ voor de veiligheid.",
+          answer: "afgekondigd"
         },
         {
-          sentence: "Hij diende een ___ in wegens de slechte service.",
-          answer: "klacht"
+          sentence: "De storm zal ___ morgen de kust bereiken.",
+          answer: "aankomende"
         },
         {
-          sentence: "Kun je die oude foto ___ van je telefoon?",
-          answer: "verwijderen"
+          sentence: "Deze regel ___ voor alle bezoekers van het park.",
+          answer: "geldt"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is overbevolking?",
+        question: "Wat betekent 'afgekondigd' in deze context?",
         options: [
-          "Een soort ziekte",
-          "Te veel mensen in een kleine ruimte",
-          "Een nieuw soort technologie",
-          "Een feestelijke gebeurtenis"
+          "Ondertekend",
+          "Afgekondigd",
+          "Gepubliceerd",
+          "Verboden"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat betekent 'verwijderen'?",
+        question: "Waar geldt code oranje volgens de tekst?",
         options: [
-          "Toevoegen",
-          "Wegdoen",
-          "Verbergen",
-          "Repareren"
+          "In het hele land",
+          "Alleen aan de kust",
+          "In de rest van het land",
+          "Alleen in de hoofdstad"
         ],
         correctAnswer: 1
       },
       {
-        question: "Waarom vraagt de regering aan gevangenispersoneel om de klacht te verwijderen?",
+        question: "Vanaf wanneer geldt code oranje aan de kust?",
         options: [
-          "Omdat het niet waar is",
-          "Omdat het slecht voor het imago is",
-          "Omdat het personeel ermee moet leren omgaan",
-          "Omdat het een officieel document moet worden"
+          "Vanaf 12:00",
+          "Vanaf 15:00",
+          "Vanaf 18:00",
+          "Vanaf morgenochtend"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Overbevolking is een probleem in gevangenissen.",
-        isTrue: true
-      },
-      {
-        statement: "Een e-mailhandtekening kan geen klachten bevatten.",
+        statement: "Code oranje geldt voor het hele land.",
         isTrue: false
       },
       {
-        statement: "De Belgische regering onderneemt actie tegen overbevolking.",
+        statement: "Code geel geldt voor het hele land behalve de kust.",
+        isTrue: false
+      },
+      {
+        statement: "Code oranje geldt alleen aan de kust vanaf 15:00.",
         isTrue: true
       }
     ]
@@ -696,103 +699,96 @@ export const exercises: Exercise[] = [
 {
     id: 8,
     section: "Binnenland",
+    topic: "Binnenland",
     level: "C1",
-    title: "Waarom ruziën? Met een beetje hoffelijkheid los je veel op.",
+    title: "Schaken in Antwerpen",
     topicNumber: 1,
     article: {
-      title: "Waarom ruziën? Met een beetje hoffelijkheid los je veel op.",
-      summary: "Fietsers en voetgangers hebben vaak conflicten. Maar met een beetje beleefdheid kunnen ze veel problemen voorkomen. Veel lezers erkennen dit en delen voorbeelden van ergernissen en oplossingen."
+      title: "Schaken in Antwerpen",
+      summary: "Het KMSKA in Antwerpen stond gisteren helemaal in het thema van schaken. Schaakgrootmeester Garry Kasparov nam het er op tegen twintig schakers, onder wie Antwerps burgemeester Els van Doesburg en de Belgische ondernemer Marc Coucke."
     },
     vocabulary: {
       words: [
         {
-          word: "conflict",
-          definition: "een meningsverschil of botsing tussen mensen"
+          word: "schaken",
+          definition: "een bordspel voor twee spelers"
         },
         {
-          word: "hoffelijkheid",
-          definition: "beleefd en respectvol gedrag"
+          word: "grootmeester",
+          definition: "iemand die heel goed is in iets"
         },
         {
-          word: "voorkomen",
-          definition: "ervoor zorgen dat iets niet gebeurt"
+          word: "titel",
+          definition: "een naam die iets of iemand krijgt"
         },
         {
-          word: "ergernis",
-          definition: "irritatie of ergernis"
+          word: "finalisten",
+          definition: "mensen die meedoen aan de laatste ronde van een wedstrijd"
         },
         {
-          word: "oplossing",
-          definition: "manier om een probleem op te lossen"
+          word: "ondernemer",
+          definition: "iemand die een bedrijf heeft"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Een ___ kan escaleren als mensen niet communiceren.",
-          answer: "conflict"
+          sentence: "Garry Kasparov is een beroemde schaak___",
+          answer: "grootmeester"
         },
         {
-          sentence: "___ is belangrijk in elke interactie.",
-          answer: "Hoffelijkheid"
+          sentence: "De finalisten van het toernooi kregen een speciale ___",
+          answer: "titel"
         },
         {
-          sentence: "Het is beter om problemen te ___ dan ze te negeren.",
-          answer: "voorkomen"
-        },
-        {
-          sentence: "Constante ___ kan tot ruzies leiden.",
-          answer: "ergernis"
-        },
-        {
-          sentence: "Een goede ___ lost veel problemen op.",
-          answer: "oplossing"
+          sentence: "Een ondernemer zoals Marc Coucke richt vaak een ___ op",
+          answer: "ondernemer"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is het tegenovergestelde van hoffelijkheid?",
+        question: "Wat is schaken?",
         options: [
-          "Onbeleefdheid",
-          "Luidruchtigheid",
-          "Onverschilligheid",
-          "Onbeschoftheid"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat helpt om een conflict op te lossen?",
-        options: [
-          "Harder praten",
-          "Weigeren te luisteren",
-          "Samenwerken",
-          "Eigenbelang eerst"
+          "Een sport",
+          "Een soort kunst",
+          "Een bordspel",
+          "Een muziekstuk"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waarom is hoffelijkheid belangrijk?",
+        question: "Waar vond het schaakevenement plaats?",
         options: [
-          "Het is verplicht",
-          "Het maakt anderen boos",
-          "Het creëert harmonie",
-          "Het kost te veel moeite"
+          "In Brussel",
+          "In het KMSKA",
+          "In een park",
+          "Op school"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wie is Marc Coucke?",
+        options: [
+          "Een schaker",
+          "Een kunstenaar",
+          "Een ondernemer",
+          "Een politicus"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Conflicten zijn altijd negatief.",
-        isTrue: false
-      },
-      {
-        statement: "Hoffelijkheid kan conflicten voorkomen.",
+        statement: "Garry Kasparov is een professionele schaker.",
         isTrue: true
       },
       {
-        statement: "Samenwerken leidt altijd tot ruzies.",
+        statement: "Het schaakevenement vond plaats in Brussel.",
         isTrue: false
+      },
+      {
+        statement: "Marc Coucke is een van de deelnemers aan het schaaktoernooi.",
+        isTrue: true
       }
     ]
   },
@@ -800,95 +796,95 @@ export const exercises: Exercise[] = [
     id: 9,
     section: "Buitenland",
     topic: "Buitenland",
-    level: "C1",
-    title: "Vance is hoopvol over vrede in Gaza",
+    level: "A2",
+    title: "Aanval op Oekraïne",
     topicNumber: 1,
     article: {
-      title: "Vance is hoopvol over vrede in Gaza",
-      summary: "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de vredesonderhandelingen. Volg hier de laatste ontwikkelingen."
+      title: "Aanval op Oekraïne",
+      summary: "Bij een aanval op Oekraïne zijn zeven mensen omgekomen, onder wie twee kinderen. De aanval was in Kiev en Charkiv. In Charkiv werd een kleuterschool getroffen."
     },
     vocabulary: {
       words: [
         {
-          word: "oorlog",
-          definition: "een gewapend conflict tussen landen of groepen"
+          word: "aanval",
+          definition: "een gewelddadige actie tegen iemand of iets"
         },
         {
-          word: "vredesonderhandelingen",
-          definition: "gesprekken om oorlog te beëindigen en vrede te maken"
+          word: "omgekomen",
+          definition: "overleden, gestorven"
         },
         {
-          word: "staakt-het-vuren",
-          definition: "een overeenkomst om te stoppen met vechten"
+          word: "krijgen",
+          definition: "ontvangen, krijgen"
         },
         {
-          word: "doorbraak",
-          definition: "een belangrijke, positieve verandering in een situatie"
+          word: "kinderen",
+          definition: "jonge mensen, jongens en meisjes"
         },
         {
-          word: "hoopvol",
-          definition: "optimistisch en vol hoop"
+          word: "kleuterschool",
+          definition: "een school voor jonge kinderen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De partijen hebben een ___ overeengekomen om de gevechten te stoppen.",
-          answer: "staakt-het-vuren"
+          sentence: "Bij een aanval kunnen mensen ___ komen.",
+          answer: "omgekomen"
         },
         {
-          sentence: "De onderhandelingen leidden tot een ___ in het conflict.",
-          answer: "doorbraak"
+          sentence: "Kinderen zijn jonge ___ die nog moeten groeien.",
+          answer: "kinderen"
         },
         {
-          sentence: "Vance is ___ over de uitkomst van de gesprekken.",
-          answer: "hoopvol"
+          sentence: "Een ___ is een plek waar kinderen leren en spelen.",
+          answer: "kleuterschool"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat de tekst over?",
+        question: "Waar was de aanval?",
         options: [
-          "Vrede in Gaza",
-          "Een sportevenement",
-          "Een kunsttentoonstelling",
-          "Een nieuwe film"
-        ],
-        correctAnswer: 0
-      },
-      {
-        question: "Wat is een 'staakt-het-vuren'?",
-        options: [
-          "Een soort wapen",
-          "Een soort dans",
-          "Een soort overeenkomst",
-          "Een soort maaltijd"
+          "Kiev",
+          "Charkiv",
+          "Beide steden",
+          "Geen van beide"
         ],
         correctAnswer: 2
       },
       {
-        question: "Hoe voelt Vance over de onderhandelingen?",
+        question: "Wie zijn er omgekomen?",
         options: [
-          "Boos",
-          "Verdrietig",
-          "Hopelijk",
-          "Bang"
+          "Alleen volwassenen",
+          "Alleen kinderen",
+          "Volwassenen en kinderen",
+          "Niemand"
         ],
         correctAnswer: 2
+      },
+      {
+        question: "Wat is een kleuterschool?",
+        options: [
+          "Een soort winkel",
+          "Een school voor jonge kinderen",
+          "Een park",
+          "Een ziekenhuis"
+        ],
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De tekst gaat over vrede in Gaza.",
+        statement: "Er vielen doden bij de aanval.",
         isTrue: true
       },
       {
-        statement: "Vance is verdrietig over de onderhandelingen.",
+        statement: "Alleen volwassenen zijn omgekomen.",
         isTrue: false
       },
       {
-        statement: "Er is een doorbraak in de vredesgesprekken.",
-        isTrue: true
+        statement: "De aanval was alleen in Kiev.",
+        isTrue: false
       }
     ]
   },
@@ -896,578 +892,100 @@ export const exercises: Exercise[] = [
     id: 10,
     section: "Buitenland",
     topic: "Buitenland",
-    level: "C1",
-    title: "Zelensky vindt Trumps voorstel goed compromis",
+    level: "A2",
+    title: "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
     topicNumber: 1,
     article: {
-      title: "Zelensky vindt Trumps voorstel goed compromis",
-      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+      title: "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
+      summary: "Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”"
     },
     vocabulary: {
       words: [
         {
-          word: "voorstel",
-          definition: "een idee of plan dat iemand voorstelt"
+          word: "protest",
+          definition: "een actie om te laten zien dat je het ergens niet mee eens bent"
         },
         {
-          word: "compromis",
-          definition: "een oplossing waar beide partijen iets van elkaar krijgen"
+          word: "activisten",
+          definition: "mensen die actie voeren voor een bepaald doel, vaak een politiek of sociaal doel"
         },
         {
-          word: "oorlog",
-          definition: "een gewapend conflict tussen landen of groepen"
+          word: "kostuum",
+          definition: "een speciaal pak dat je aantrekt, vaak voor een feest of om je te verkleden"
         },
         {
-          word: "ontwikkeling",
-          definition: "een nieuwe gebeurtenis of verandering in een situatie"
+          word: "pepperspray",
+          definition: "een spuitbus met een scherpe vloeistof die de ogen irriteert, gebruikt door politie soms"
         },
         {
-          word: "melding",
-          definition: "een bericht of waarschuwing dat je iets vertelt"
+          word: "botsen",
+          definition: "tegen elkaar aan komen, vaak met kracht"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij heeft een nieuw ___ gedaan om het conflict op te lossen.",
-          answer: "voorstel"
+          sentence: "Tijdens het ___ droegen veel mensen maskers.",
+          answer: "protest"
         },
         {
-          sentence: "Ze sloten een ___ om het meningsverschil bij te leggen.",
-          answer: "compromis"
+          sentence: "De politie gebruikte ___ om de menigte uiteen te drijven.",
+          answer: "pepperspray"
         },
         {
-          sentence: "De ___ duurt al meer dan twee jaar.",
-          answer: "oorlog"
+          sentence: "Twee mensen liepen tegen elkaar op, ze ___ tegen elkaar.",
+          answer: "botsen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat de tekst over?",
+        question: "Waarom droegen sommige mensen een kostuum?",
         options: [
-          "Een sportevenement",
-          "Een politiek conflict",
-          "Een kunstexpositie",
-          "Een wetenschappelijke doorbraak"
+          "Om zich te beschermen tegen pepperspray",
+          "Omdat het feest was",
+          "Omdat ze wilden dansen",
+          "Ze waren verkleed als dier"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is de kern van Trumps voorstel?",
+        question: "Wat is pepperspray?",
         options: [
-          "Een wapenstilstand",
-          "Een volledige overgave",
-          "Geen specifieke actie",
-          "Een gezamenlijke vakantie"
+          "Een soort parfum",
+          "Een soort medicijn",
+          "Een spuitbus met irritante vloeistof",
+          "Een soort verkleedkostuum"
         ],
-        correctAnswer: 0
+        correctAnswer: 3
       },
       {
-        question: "Hoe reageert Zelensky op het voorstel?",
+        question: "Wat gebeurde er met de pepperspray?",
         options: [
-          "Hij wijst het meteen af",
-          "Hij noemt het een goed compromis",
-          "Hij eist meer",
-          "Hij negeert het volledig"
+          "Het werd opgegeten",
+          "Het verdampte in de lucht",
+          "Het werd afgebeten door de activisten",
+          "Het ketste af op de kostuums"
         ],
-        correctAnswer: 1
+        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "Trumps voorstel gaat over een permanente vrede.",
-        isTrue: false
-      },
-      {
-        statement: "Zelensky is positief over het voorstel.",
+        statement: "De activisten droegen kostuums om zich te beschermen.",
         isTrue: true
       },
       {
-        statement: "De oorlog is al beëindigd.",
+        statement: "Pepperspray kan door kleding heen komen.",
+        isTrue: true
+      },
+      {
+        statement: "De protesten waren alleen tegen Donald Trump.",
         isTrue: false
       }
     ]
   },
 {
     id: 11,
-    section: "Binnenland",
-    topic: "Binnenland",
-    level: "C1",
-    title: "Felix Heremans: van 'Putain' naar 'De Slimste Mens'",
-    topicNumber: 1,
-    article: {
-      title: "Felix Heremans: van 'Putain' naar 'De Slimste Mens'",
-      summary: "Acteur Felix Heremans deed mee aan het tv-programma 'De Slimste Mens'. Hij won de eerste aflevering. Hij is de jongste kandidaat ooit in dat programma. We spraken met hem in juli, en nu lees je hier over hem."
-    },
-    vocabulary: {
-      words: [
-        {
-          word: "acteur",
-          definition: "iemand die een rol speelt in een film of op het toneel"
-        },
-        {
-          word: "winnen",
-          definition: "een wedstrijd of spel winnen"
-        },
-        {
-          word: "kandidaat",
-          definition: "iemand die meedoet aan een wedstrijd of verkiezing"
-        },
-        {
-          word: "programma",
-          definition: "een tv-programma of uitzending"
-        },
-        {
-          word: "interview",
-          definition: "een vraaggesprek, vaak voor de media"
-        }
-      ],
-      fillInBlanks: [
-        {
-          sentence: "Hij is een ___ die meedeed aan een tv-programma.",
-          answer: "acteur"
-        },
-        {
-          sentence: "Hij hoopte de eerste aflevering te ___.",
-          answer: "winnen"
-        },
-        {
-          sentence: "Hij is de jongste ___ ooit in dat programma.",
-          answer: "kandidaat"
-        }
-      ]
-    },
-    multipleChoice: [
-      {
-        question: "Wat is Felix Heremans?",
-        options: [
-          "Een programmamaker",
-          "Een presentator",
-          "Een acteur",
-          "Een journalist"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat deed Felix in de eerste aflevering?",
-        options: [
-          "Hij verloor",
-          "Hij was afwezig",
-          "Hij won",
-          "Hij was tweede"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is bijzonder aan zijn deelname?",
-        options: [
-          "Hij is de oudste",
-          "Hij is de jongste",
-          "Hij is de sterkste",
-          "Hij is de snelste"
-        ],
-        correctAnswer: 1
-      }
-    ],
-    trueFalse: [
-      {
-        statement: "Felix Heremans is de jongste kandidaat ooit in 'De Slimste Mens'.",
-        isTrue: true
-      },
-      {
-        statement: "Felix Heremans verloor de eerste aflevering.",
-        isTrue: false
-      },
-      {
-        statement: "Felix Heremans is een acteur.",
-        isTrue: true
-      }
-    ]
-  },
-{
-    id: 12,
-    section: "Binnenland",
-    level: "A2",
-    title: "Werknemers in de gevangenis mogen niet klagen over te veel gevangenen",
-    topicNumber: 1,
-    article: {
-      title: "Werknemers in de gevangenis mogen niet klagen over te veel gevangenen",
-      summary: "De Belgische regering zegt tegen personeel in gevangenissen: jullie mogen niet meer zeggen dat er te veel gevangenen zijn. Die boodschap moet weg uit jullie e-mail handtekening."
-    },
-    vocabulary: {
-      words: [
-        {
-          word: "werknemers",
-          definition: "mensen die werken voor een bedrijf"
-        },
-        {
-          word: "gevangenis",
-          definition: "een plaats waar mensen worden vastgehouden als straf"
-        },
-        {
-          word: "klagen",
-          definition: "zeggen dat je niet blij bent met iets"
-        },
-        {
-          word: "over",
-          definition: "bovenop of erboven"
-        },
-        {
-          word: "te veel",
-          definition: "meer dan nodig is"
-        }
-      ],
-      fillInBlanks: [
-        {
-          sentence: "De werknemers mogen niet ___ over hun werk.",
-          answer: "klagen"
-        },
-        {
-          sentence: "Er zijn te ___ gevangenen in de gevangenis.",
-          answer: "veel"
-        },
-        {
-          sentence: "De regering wil dat de boodschap ___ uit de e-mail.",
-          answer: "verdwijnt"
-        }
-      ]
-    },
-    multipleChoice: [
-      {
-        question: "Wat mogen de werknemers niet doen?",
-        options: [
-          "Klagen over te veel gevangenen",
-          "Lachen met collega's",
-          "Eten tijdens het werk",
-          "Naar huis gaan vroeg"
-        ],
-        correctAnswer: 0
-      },
-      {
-        question: "Wat zegt de Belgische regering tegen het personeel?",
-        options: [
-          "Jullie mogen niet klagen over te veel gevangenen",
-          "Jullie moeten harder werken",
-          "Jullie moeten meer uren maken",
-          "Jullie moeten minder geld vragen"
-        ],
-        correctAnswer: 0
-      },
-      {
-        question: "Wat moet er gebeuren met de boodschap in de e-mail?",
-        options: [
-          "Die moet verdwijnen",
-          "Die moet groter worden",
-          "Die moet blijven",
-          "Die moet veranderen"
-        ],
-        correctAnswer: 0
-      }
-    ],
-    trueFalse: [
-      {
-        statement: "De werknemers mogen klagen over te veel gevangenen.",
-        isTrue: false
-      },
-      {
-        statement: "De Belgische regering wil dat de boodschap verdwijnt uit de e-mail.",
-        isTrue: true
-      },
-      {
-        statement: "De werknemers mogen blijven werken in de gevangenis.",
-        isTrue: true
-      }
-    ]
-  },
-{
-    id: 13,
-    section: "Binnenland",
-    level: "A2",
-    title: "Ruzie tussen fietsers en wandelaars: Waarom ruzie maken? Met vriendelijkheid los je veel problemen op.",
-    topicNumber: 1,
-    article: {
-      title: "Ruzie tussen fietsers en wandelaars: Waarom ruzie maken? Met vriendelijkheid los je veel problemen op.",
-      summary: "Soms zijn fietsers en wandelaars boos op elkaar. Maar waarom? Het is beter om vriendelijk te zijn. Dan los je veel problemen op."
-    },
-    vocabulary: {
-      words: [
-        {
-          word: "ruzie",
-          definition: "een situatie waarin mensen ruzie hebben"
-        },
-        {
-          word: "vriendelijkheid",
-          definition: "vriendelijk zijn; aardig zijn tegen anderen"
-        },
-        {
-          word: "problemen",
-          definition: "moeilijke situaties die moeten worden opgelost"
-        },
-        {
-          word: "oplossen",
-          definition: "iets fixen; een oplossing vinden"
-        },
-        {
-          word: "wandelaars",
-          definition: "mensen die wandelen, meestal in de natuur"
-        }
-      ],
-      fillInBlanks: [
-        {
-          sentence: "Fietsers en wandelaars hebben soms ___ met elkaar.",
-          answer: "ruzie"
-        },
-        {
-          sentence: "Met vriendelijkheid kun je veel ___ oplossen.",
-          answer: "problemen"
-        },
-        {
-          sentence: "___ is een goed voorbeeld van hoe je problemen kunt oplossen.",
-          answer: "Vriendelijkheid"
-        }
-      ]
-    },
-    multipleChoice: [
-      {
-        question: "Waarom is het belangrijk om vriendelijk te zijn?",
-        options: [
-          "Omdat het makkelijker is",
-          "Omdat ruzie gevaarlijk is",
-          "Omdat vriendelijkheid problemen oplost",
-          "Omdat het sneller gaat"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is een voorbeeld van vriendelijkheid?",
-        options: [
-          "Iemand uitschelden",
-          "Iemand helpen met zijn fiets",
-          "Negeren",
-          "Hard weglopen"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat doen wandelaars vooral?",
-        options: [
-          "Fietsen",
-          "Auto rijden",
-          "Wandelen",
-          "Zwemmen"
-        ],
-        correctAnswer: 2
-      }
-    ],
-    trueFalse: [
-      {
-        statement: "Fietsers en wandelaars zijn altijd vriendelijk.",
-        isTrue: false
-      },
-      {
-        statement: "Vriendelijkheid kan problemen oplossen.",
-        isTrue: true
-      },
-      {
-        statement: "Ruzie is beter dan vriendelijkheid.",
-        isTrue: false
-      }
-    ]
-  },
-{
-    id: 14,
-    section: "Buitenland",
-    topic: "Buitenland",
-    level: "A2",
-    title: "Vance is hoopvol over vrede in Gaza",
-    topicNumber: 1,
-    article: {
-      title: "Vance is hoopvol over vrede in Gaza",
-      summary: "Na twee jaar oorlog in Gaza is er hoop op vrede. Vance is optimistisch over het staakt-het-vuren. Volg hier het laatste nieuws."
-    },
-    vocabulary: {
-      words: [
-        {
-          word: "vredes",
-          definition: "geen oorlog, vrede"
-        },
-        {
-          word: "hoop",
-          definition: "het gevoel dat iets goeds gaat gebeuren"
-        },
-        {
-          word: "onderhandelingen",
-          definition: "gesprekken om tot een oplossing te komen"
-        },
-        {
-          word: "doorbraak",
-          definition: "een belangrijke, positieve verandering"
-        },
-        {
-          word: "staakt-het-vuren",
-          definition: "stoppen met vechten, geen vuur meer"
-        }
-      ],
-      fillInBlanks: [
-        {
-          sentence: "De vredes___ zijn begonnen",
-          answer: "onderhandelingen"
-        },
-        {
-          sentence: "Er is een belangrijke door___ in het conflict",
-          answer: "doorbraak"
-        },
-        {
-          sentence: "Het staakt-het-vuren wordt ___ gehouden",
-          answer: "Vance"
-        }
-      ]
-    },
-    multipleChoice: [
-      {
-        question: "Waar is Vance optimistisch over?",
-        options: [
-          "De oorlog in Gaza",
-          "Het staakt-het-vuren",
-          "De toekomst van Gaza",
-          "De onderhandelingen"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is het resultaat van de onderhandelingen?",
-        options: [
-          "Een nieuwe oorlog",
-          "Een doorbraak naar vrede",
-          "Meer conflicten",
-          "Geen verandering"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Hoe lang duurde de oorlog in Gaza?",
-        options: [
-          "1 jaar",
-          "2 jaar",
-          "5 jaar",
-          "10 jaar"
-        ],
-        correctAnswer: 2
-      }
-    ],
-    trueFalse: [
-      {
-        statement: "Vance is optimistisch over het staakt-het-vuren.",
-        isTrue: true
-      },
-      {
-        statement: "De oorlog in Gaza is al 10 jaar aan de gang.",
-        isTrue: false
-      },
-      {
-        statement: "Er is een doorbraak in de onderhandelingen.",
-        isTrue: true
-      }
-    ]
-  },
-{
-    id: 15,
-    section: "Buitenland",
-    topic: "Buitenland",
-    level: "A2",
-    title: "Oorlog in Oekraïne: nieuws en updates",
-    topicNumber: 1,
-    article: {
-      title: "Oorlog in Oekraïne: nieuws en updates",
-      summary: "Volg hier alle nieuwe ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
-    },
-    vocabulary: {
-      words: [
-        {
-          word: "oorlog",
-          definition: "een situatie waarin landen of groepen tegen elkaar vechten"
-        },
-        {
-          word: "ontwikkeling",
-          definition: "iets dat nieuw is of verandert"
-        },
-        {
-          word: "app",
-          definition: "een programma op je telefoon of computer"
-        },
-        {
-          word: "melding",
-          definition: "een bericht dat je iets vertelt"
-        },
-        {
-          word: "updates",
-          definition: "nieuwe informatie over iets"
-        }
-      ],
-      fillInBlanks: [
-        {
-          sentence: "Er is een nieuwe ___ in de oorlog.",
-          answer: "ontwikkeling"
-        },
-        {
-          sentence: "Download de ___ om meldingen te krijgen.",
-          answer: "app"
-        },
-        {
-          sentence: "Krijg een ___ wanneer er belangrijk nieuws is.",
-          answer: "melding"
-        }
-      ]
-    },
-    multipleChoice: [
-      {
-        question: "Waar gaat de oorlog over?",
-        options: [
-          "Een spel",
-          "Een feest",
-          "Een conflict tussen landen",
-          "Een soort muziek"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is een app?",
-        options: [
-          "Een soort dier",
-          "Een programma op je telefoon",
-          "Een soort eten",
-          "Een auto"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat betekent 'updates'?",
-        options: [
-          "Oude informatie",
-          "Nieuwe informatie",
-          "Een soort game",
-          "Een sport"
-        ],
-        correctAnswer: 1
-      }
-    ],
-    trueFalse: [
-      {
-        statement: "Een oorlog is wanneer mensen samen feesten.",
-        isTrue: false
-      },
-      {
-        statement: "Een app is iets op je telefoon.",
-        isTrue: true
-      },
-      {
-        statement: "Updates zijn oude informatie die niet meer geldig is.",
-        isTrue: false
-      }
-    ]
-  },
-{
-    id: 16,
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
@@ -1563,671 +1081,481 @@ export const exercises: Exercise[] = [
     ]
   },
 {
-    id: 17,
+    id: 12,
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Felix Heremans in De Slimste Mens",
+    title: "Schaakgrootmeester Garry Kasparov verslaat tegenstanders in Antwerpen",
     topicNumber: 1,
     article: {
-      title: "Felix Heremans in De Slimste Mens",
-      summary: "Acteur Felix Heremans deed mee aan De Slimste Mens. Hij won de eerste aflevering. Hij is de jongste kandidaat ooit in dat programma. Dit is een artikel over hem."
+      title: "Schaakgrootmeester Garry Kasparov verslaat tegenstanders in Antwerpen",
+      summary: "Het KMSKA in Antwerpen stond gisteren helemaal in het thema van schaken. Schaakgrootmeester Garry Kasparov nam het er op tegen twintig schakers, onder wie Antwerps burgemeester Els van Doesburg en de Belgische ondernemer Marc Coucke."
     },
     vocabulary: {
       words: [
         {
-          word: "acteur",
-          definition: "iemand die in films of theater speelt"
+          word: "schaken",
+          definition: "een spel dat je op een bord speelt met verschillende soorten stukken"
         },
         {
-          word: "winnen",
-          definition: "een spel of wedstrijd winnen"
+          word: "tegenstanders",
+          definition: "mensen tegen wie je speelt of strijdt"
         },
         {
-          word: "kandidaat",
-          definition: "iemand die meedoet aan een wedstrijd of show"
+          word: "Antwerpen",
+          definition: "een grote stad in België"
         },
         {
-          word: "programma",
-          definition: "een tv-show of uitzending"
+          word: "grootmeester",
+          definition: "iemand die heel erg goed is in iets, vooral in schaken"
         },
         {
-          word: "jongste",
-          definition: "de kleinste in leeftijd, het tegenovergestelde van oudste"
+          word: "onderwerp",
+          definition: "waar iets over gaat"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij is een ___ en speelt in films.",
-          answer: "acteur"
+          sentence: "Garry Kasparov is een beroemde ___",
+          answer: "schaken"
         },
         {
-          sentence: "Hij hoopte te ___ in de show.",
-          answer: "winnen"
+          sentence: "Hij speelde tegen sterke ___ uit verschillende landen.",
+          answer: "tegenstanders"
         },
         {
-          sentence: "Hij was een ___ in de tv-show.",
-          answer: "kandidaat"
+          sentence: "De wedstrijd vond plaats in de stad ___.",
+          answer: "Antwerpen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is Felix Heremans?",
+        question: "Waar ging het artikel over?",
         options: [
-          "Een acteur",
-          "Een leraar",
-          "Een atleet",
-          "Een muzikant"
-        ],
-        correctAnswer: 0
-      },
-      {
-        question: "Wat deed hij in de show?",
-        options: [
-          "Hij won",
-          "Hij verloor",
-          "Hij zong",
-          "Hij danste"
-        ],
-        correctAnswer: 0
-      },
-      {
-        question: "Wat is 'De Slimste Mens'?",
-        options: [
-          "Een boek",
-          "Een tv-programma",
-          "Een restaurant",
-          "Een sport"
+          "een voetbalwedstrijd",
+          "een schaakwedstrijd",
+          "een politiek debat",
+          "een kunstexpositie"
         ],
         correctAnswer: 1
+      },
+      {
+        question: "Wie is Garry Kasparov?",
+        options: [
+          "een beroemde schaker",
+          "de burgemeester van Antwerpen",
+          "een Belgische ondernemer",
+          "een kunstschilder"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Waar vond de gebeurtenis plaats?",
+        options: [
+          "in Antwerpen",
+          "in Brussel",
+          "in Amsterdam",
+          "in Parijs"
+        ],
+        correctAnswer: 0
       }
     ],
     trueFalse: [
       {
-        statement: "Felix Heremans is de jongste kandidaat ooit in De Slimste Mens.",
+        statement: "Garry Kasparov is een professionele schaker.",
         isTrue: true
       },
       {
-        statement: "De Slimste Mens is een boek.",
+        statement: "De schakers speelden een voetbalwedstrijd.",
         isTrue: false
       },
       {
-        statement: "Felix Heremans won de eerste aflevering.",
+        statement: "Marc Coucke is een van de schakers.",
         isTrue: true
       }
     ]
   },
 {
-    id: 18,
-    section: "Binnenland",
+    id: 13,
+    section: "Buitenland",
+    topic: "Buitenland",
     level: "B2",
-    title: "Overbevolking in gevangenissen: personeel mag niet klagen in e-mails",
+    title: "Zeven doden na grootschalige Russische aanval op Oekraïne, onder wie twee kinderen",
     topicNumber: 1,
     article: {
-      title: "Overbeplakt: Titel is gewijzigd voor privacy",
-      summary: "Artikelinhoud is samengevat voor oefening"
+      title: "Zeven doden na grootschalige Russische aanval op Oekraïne, onder wie twee kinderen",
+      summary: "Bij een grootschalige Russische aanval zijn in Kiev zes mensen omgekomen, onder wie twee kinderen. Ook in Charkiv viel een dode. Daar werd een kleuterschool getroffen."
     },
     vocabulary: {
       words: [
         {
-          word: "overbevolking",
-          definition: "te veel mensen in een beperkte ruimte"
+          word: "aanval",
+          definition: "een militaire actie tegen een doel"
         },
         {
-          word: "gevangenis",
-          definition: "een plaats waar mensen worden vastgehouden als straf"
+          word: "omgekomen",
+          definition: "overleden, gestorven"
         },
         {
-          word: "ministerraad",
-          definition: "een groep ministers die samen besluiten nemen"
+          word: "getroffen",
+          definition: "geraakt, getroffen door iets (bijv. een bom)"
         },
         {
-          word: "e-mailhandtekening",
-          definition: "de tekst onderaan een e-mail met contactgegevens"
+          word: "kleuterschool",
+          definition: "een school voor jonge kinderen"
         },
         {
-          word: "verwijderen",
-          definition: "weghalen of wissen"
+          word: "grootschalige",
+          definition: "op grote schaal, omvangrijk"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De gevangenis heeft last van ___",
-          answer: "overbevolking"
+          sentence: "In de oorlog zijn veel mensen ___ door bombardementen.",
+          answer: "omgekomen"
         },
         {
-          sentence: "De ministerraad vroeg om de ___ aan te passen",
-          answer: "e-mailhandtekening"
+          sentence: "De ___ werd beschadigd door een bom.",
+          answer: "kleuterschool"
         },
         {
-          sentence: "Het personeel moet de tekst ___",
-          answer: "verwijderen"
+          sentence: "De aanval was ___ en trof veel gebieden.",
+          answer: "grootschalige"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom moet het personeel de tekst verwijderen?",
+        question: "Waar vond de aanval plaats?",
         options: [
-          "Omdat de ministerraad het vraagt",
-          "Omdat de tekst te lang is",
-          "Omdat de tekst onjuist is",
-          "Omdat de tekst geheim is"
+          "Kiev",
+          "Charkiv",
+          "Moskou",
+          "Berlijn"
         ],
-        correctAnswer: 0
+        correctAnswer: 1
       },
       {
-        question: "Wat is de gevolgen van overbevolking in gevangenissen?",
+        question: "Wat werd er getroffen in Charkiv?",
         options: [
-          "Meer conflicten onder gevangenen",
-          "Minder privacy voor gevangenen",
-          "Meer werkdruk voor personeel",
-          "Alle bovenstaande"
+          "Een ziekenhuis",
+          "Een woonwijk",
+          "Een school",
+          "Een fabriek"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is de rol van de ministerraad?",
+        question: "Hoeveel mensen stierven in totaal?",
         options: [
-          "Beslissen over gevangenissen",
-          "Adviseren over e-mailgebruik",
-          "Controleren van personeelshandelingen",
-          "Geen van bovenstaande"
+          "5",
+          "6",
+          "7",
+          "8"
         ],
-        correctAnswer: 0
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De e-mailhandtekening mocht blijven staan.",
+        statement: "Er vielen alleen doden in Kiev.",
         isTrue: false
       },
       {
-        statement: "Overbevolking is een probleem in gevangenissen.",
+        statement: "Ook in Charkiv vielen doden door de aanval.",
         isTrue: true
       },
       {
-        statement: "Alleen de ministerraad mag over dit onderwerp communiceren.",
-        isTrue: true
-      }
-    ]
-  },
-{
-    id: 19,
-    section: "Binnenland",
-    level: "B2",
-    title: "Waarom zijn fietsers en voetgangers ontevreden? Met een beetje beleefdheid is er veel op te lossen.",
-    topicNumber: 1,
-    article: {
-      title: "Waarom zijn fietsers en voetgangers ontevreden? Met een beetje beleefdheid is er veel op te lossen.",
-      summary: "Fietsers en voetgangers zijn al lang ontevreden. Maar veel lezers herkennen dit en vertellen over hun ergernissen. Dit is een selectie van hun verhalen."
-    },
-    vocabulary: {
-      words: [
-        {
-          word: "ontevreden",
-          definition: "niet tevreden, niet blij met de situatie"
-        },
-        {
-          word: "oplossen",
-          definition: "een probleem of conflict wegwerken"
-        },
-        {
-          word: "beleefdheid",
-          definition: "beleefd zijn, vriendelijk en respectvol zijn"
-        },
-        {
-          word: "herkennen",
-          definition: "iets of iemand (weer)zien en weten wat of wie het is"
-        },
-        {
-          word: "ergernis",
-          definition: "een gevoel van irritatie of frustratie"
-        }
-      ],
-      fillInBlanks: [
-        {
-          sentence: "Veel mensen zijn ontevreden omdat ze zich niet ___ voelen.",
-          answer: "gehoord"
-        },
-        {
-          sentence: "Met een beetje meer ___, kunnen veel problemen worden opgelost.",
-          answer: "beleefdheid"
-        },
-        {
-          sentence: "Als je een conflict ___, los je het op.",
-          answer: "oplost"
-        }
-      ]
-    },
-    multipleChoice: [
-      {
-        question: "Waarom zijn fietsers en voetgangers ontevreden?",
-        options: [
-          "Omdat er te weinig fietspaden zijn",
-          "Omdat ze zich niet gehoord voelen",
-          "Omdat er te veel auto's zijn",
-          "Omdat het weer slecht is"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat helpt om problemen op te lossen?",
-        options: [
-          "Meer auto's bouwen",
-          "Meer geld uitgeven",
-          "Meer beleefdheid",
-          "Meer klagen"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Hoe voelen veel mensen zich volgens de tekst?",
-        options: [
-          "Tevreden",
-          "Ongehoord",
-          "Vrolijk",
-          "Verdwaald"
-        ],
-        correctAnswer: 1
-      }
-    ],
-    trueFalse: [
-      {
-        statement: "Fietsers en voetgangers zijn over het algemeen tevreden.",
-        isTrue: false
-      },
-      {
-        statement: "Beleefdheid kan helpen om problemen op te lossen.",
-        isTrue: true
-      },
-      {
-        statement: "De meeste lezers hebben geen last van ergernissen in het verkeer.",
+        statement: "Er werden alleen militaire doelen getroffen.",
         isTrue: false
       }
     ]
   },
 {
-    id: 20,
+    id: 14,
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Vance is optimistisch over wapenstilstand in Gaza",
+    title: "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
     topicNumber: 1,
     article: {
-      title: "Vance is optimistisch over wapenstilstand in Gaza",
-      summary: "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de vredesonderhandelingen. Volg hier de laatste ontwikkelingen."
+      title: "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
+      summary: "Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”"
     },
     vocabulary: {
       words: [
         {
-          word: "optimistisch",
-          definition: "positief en hoopvol over de toekomst"
+          word: "protest",
+          definition: "een publieke actie om ongenoegen of verzet te uiten"
         },
         {
-          word: "wapenstilstand",
-          definition: "een overeenkomst om te stoppen met vechten"
+          word: "beleid",
+          definition: "een plan of reeks van regels om iets te besturen"
         },
         {
-          word: "onderhandelingen",
-          definition: "gesprekken om tot een oplossing te komen"
+          word: "kostuum",
+          definition: "een set kleding die samen een outfit vormen, vaak voor een specifiek doel"
         },
         {
-          word: "doorbraak",
-          definition: "een belangrijke en positieve ontwikkeling"
+          word: "beschermen",
+          definition: "iets of iemand veilig houden en tegen gevaar beschermen"
         },
         {
-          word: "vredesonderhandelingen",
-          definition: "gesprekken om vrede te bereiken"
+          word: "actie",
+          definition: "een gebeurtenis of activiteit met een bepaald doel"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij voelde zich ___ over de uitkomst.",
-          answer: "optimistisch"
+          sentence: "Tijdens het ___ tegen het nieuwe beleid, droegen velen een speciaal kostuum.",
+          answer: "protest"
         },
         {
-          sentence: "De partijen kwamen overeen een ___ te sluiten.",
-          answer: "wapenstilstand"
+          sentence: "De politie kon de demonstranten niet ___, omdat ze onherkenbaar waren.",
+          answer: "identificeren"
         },
         {
-          sentence: "De ___ leidde tot een oplossing.",
-          answer: "doorbraak"
+          sentence: "Het nieuwe ___ maakt het moeilijk voor mensen met een laag inkomen.",
+          answer: "beleid"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar is Vance optimistisch over?",
+        question: "Waarom droegen sommige demonstranten een kostuum?",
         options: [
-          "het weer",
-          "de wapenstilstand",
-          "een sportevenement",
-          "zijn vakantie"
+          "Om zich te beschermen tegen traangas",
+          "Om er stijlvol uit te zien",
+          "Omdat het verplicht was",
+          "Ze droegen geen kostuum"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat betekent het woord 'doorbraak' in deze context?",
+        question: "Wat was het effect van de kostuums?",
         options: [
-          "een doorgebroken raam",
-          "een belangrijke positieve ontwikkeling",
-          "een sportterm",
-          "een soort voedsel"
+          "De politie kon hen niet herkennen",
+          "Ze vielen meer op in de menigte",
+          "Ze werden sneller moe van het lopen",
+          "Ze waren beter beschermd tegen kou"
         ],
         correctAnswer: 1
       },
       {
-        question: "Waarom zijn de onderhandelingen belangrijk?",
+        question: "Wat is de toon van het artikel?",
         options: [
-          "Ze zijn niet belangrijk",
-          "Ze kunnen leiden tot meer vrede",
-          "Ze gaan alleen over sport",
-          "Ze zijn geheim"
+          "Neutraal en informatief",
+          "Heel kritisch",
+          "Heel positief",
+          "Onverschillig"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Vance is optimistisch over de wapenstilstand.",
+        statement: "De activisten droegen kostuums om zich te beschermen tegen pepperspray.",
         isTrue: true
       },
       {
-        statement: "De oorlog in Gaza duurt al meer dan twee jaar.",
-        isTrue: true
-      },
-      {
-        statement: "Er zijn geen onderhandelingen geweest.",
+        statement: "Donald Trump was zelf aanwezig bij dit protest.",
         isTrue: false
+      },
+      {
+        statement: "Het artikel suggereert dat de kostuums de actie effectiever maakten.",
+        isTrue: true
       }
     ]
   },
 {
-    id: 21,
-    section: "Buitenland",
-    topic: "Buitenland",
-    level: "B2",
-    title: "Zelensky vindt Trumps voorstel een goed compromis",
-    topicNumber: 1,
-    article: {
-      title: "Zelensky vindt Trumps voorstel een goed compromis",
-      summary: "Volg de laatste ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws voor updates."
-    },
-    vocabulary: {
-      words: [
-        {
-          word: "voorstel",
-          definition: "een plan of idee dat iemand naar voren brengt"
-        },
-        {
-          word: "bevriezen",
-          definition: "stoppen of laten stilstaan, vooral van actie"
-        },
-        {
-          word: "compromis",
-          definition: "een oplossing waar beide partijen iets toegeven"
-        },
-        {
-          word: "ontwikkeling",
-          definition: "gebeurtenis of verandering die plaatsvindt"
-        },
-        {
-          word: "oorlog",
-          definition: "een gewapend conflict tussen landen of groepen"
-        }
-      ],
-      fillInBlanks: [
-        {
-          sentence: "Het voorstel was om de gevechten te ___.",
-          answer: "bevriezen"
-        },
-        {
-          sentence: "Een ___ kan helpen om een conflict op te lossen.",
-          answer: "compromis"
-        },
-        {
-          sentence: "Er was een nieuwe ___ in het conflict.",
-          answer: "ontwikkeling"
-        }
-      ]
-    },
-    multipleChoice: [
-      {
-        question: "Wat betekent 'bevriezen' in deze context?",
-        options: [
-          "bevriezen betekent doorgaan",
-          "bevriezen betekent stoppen",
-          "bevriezen betekent versnellen",
-          "bevriezen betekent negeren"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is een 'compromis'?",
-        options: [
-          "Een soort muziek",
-          "Een soort voedsel",
-          "Een overeenkomst waar beide partijen iets opgeven",
-          "Een soort wapen"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Waar gaat de tekst over?",
-        options: [
-          "Over koken",
-          "Over sport",
-          "Over politiek en conflict",
-          "Over kunst"
-        ],
-        correctAnswer: 2
-      }
-    ],
-    trueFalse: [
-      {
-        statement: "Zelensky vindt Trumps voorstel een slecht idee.",
-        isTrue: false
-      },
-      {
-        statement: "De tekst gaat over de oorlog in Oekraïne.",
-        isTrue: true
-      },
-      {
-        statement: "Een compromis betekent dat niets verandert.",
-        isTrue: false
-      }
-    ]
-  },
-{
-    id: 22,
+    id: 15,
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Binnenland",
+    title: "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
     topicNumber: 1,
     article: {
-      title: "Grote boetes voor gokken, maar weinig betaald",
-      summary: "De Kansspelcommissie heeft in 2024 veel boetes uitgeschreven, maar weinig van dit geld is daadwerkelijk betaald. Dit komt doordat het voor veel mensen moeilijk is om de hoge boetes te betalen. Hierdoor heeft de commissie minder geld binnengekregen dan verwacht."
+      title: "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
+      summary: "Het KMI heeft code geel afgekondigd voor het aankomende stormweer. Aan de kust geldt donderdag vanaf 15 uur code oranje."
     },
     vocabulary: {
       words: [
         {
-          word: "boetes",
-          definition: "Geld dat je moet betalen als straf voor iets wat niet mag"
+          word: "KMI",
+          definition: "Koninklijk Meteorologisch Instituut"
         },
         {
-          word: "betalen",
-          definition: "Geld geven voor iets wat je koopt of voor een dienst"
+          word: "stormweer",
+          definition: "weer met veel wind, regen of storm"
         },
         {
-          word: "moeilijk",
-          definition: "Niet gemakkelijk, veel moeite kostend"
+          word: "code",
+          definition: "een soort waarschuwing of signaal"
         },
         {
-          word: "hoge",
-          definition: "Veel, groot, boven een normaal niveau"
+          word: "oranje",
+          definition: "een kleur, hier een code voor gevaar"
         },
         {
-          word: "mensen",
-          definition: "Meerdere personen, de groep personen in het algemeen"
+          word: "geel",
+          definition: "een kleur, hier een code voor minder gevaar"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Sommige mensen kunnen hun ___ niet betalen.",
-          answer: "boetes"
+          sentence: "Het KMI heeft een speciale ___ uitgegeven voor het weer.",
+          answer: "code"
         },
         {
-          sentence: "Het is ___ voor hem om alleen naar school te gaan.",
-          answer: "moeilijk"
+          sentence: "Aan de kust geldt code ___ vanaf 15 uur.",
+          answer: "oranje"
         },
         {
-          sentence: "De prijs voor deze auto is te ___ voor mij.",
-          answer: "hoge"
+          sentence: "In de rest van het land geldt code ___ .",
+          answer: "geel"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom heeft de Kansspelcommissie weinig geld binnengekregen?",
+        question: "Wat betekent 'code oranje'?",
         options: [
-          "Omdat ze te veel boetes uitgeschreven heeft",
-          "Omdat veel mensen de boetes niet kunnen betalen",
-          "Omdat ze stopte met innen",
-          "Omdat er geen boetes zijn uitgeschreven"
+          "Er is geen gevaar",
+          "Wees voorzichtig, er is gevaar",
+          "Er is extreem gevaar",
+          "De code is niet geldig"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Waar geldt code geel?",
+        options: [
+          "Alleen aan de kust",
+          "In de rest van het land",
+          "Alleen in het buitenland",
+          "Overal in België"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wanneer gaat de code in?",
+        options: [
+          "Vanaf 15 uur",
+          "Alleen in de ochtend",
+          "De hele dag",
+          "Alleen na 15 uur"
         ],
         correctAnswer: 1
-      },
-      {
-        question: "Wat is een voorbeeld van iets dat 'hoog' is?",
-        options: [
-          "Een diepe kuil",
-          "Een korte persoon",
-          "Een hoge berg",
-          "Een warme dag"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat betekent 'betalen' in deze context?",
-        options: [
-          "Geld ontvangen",
-          "Geld uitgeven",
-          "Geld geven voor een dienst of product",
-          "Geld weigeren"
-        ],
-        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De Kansspelcommissie heeft veel geld binnengekregen in 2024.",
-        isTrue: false
-      },
-      {
-        statement: "Het is moeilijk voor sommige mensen om boetes te betalen.",
+        statement: "Code oranje betekent dat er extreem gevaar is.",
         isTrue: true
       },
       {
-        statement: "De Kansspelcommissie heeft alleen boetes uitgeschreven voor lage bedragen.",
+        statement: "Code geel geldt alleen aan de kust.",
         isTrue: false
+      },
+      {
+        statement: "De waarschuwing geldt vanaf 15 uur.",
+        isTrue: true
       }
     ]
   },
 {
-    id: 23,
+    id: 16,
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Felix Heremans wint in 'De slimste mens'",
+    title: "Schaakgrootmeester Garry Kasparov speelt in Antwerpen tegen twintig finalisten",
     topicNumber: 1,
     article: {
-      title: "Felix Heremans wint in 'De slimste mens'",
-      summary: "Acteur Felix Heremans won de eerste aflevering van 'De slimste mens'. Hij is de jongste winnaar ooit. Eind juli werd hij al geïnterviewd. Hier lees je het opnieuw."
+      title: "Schaakgrootmeester Garry Kasparov speelt in Antwerpen tegen twintig finalisten",
+      summary: "Het KMSKA in Antwerpen stond gisteren helemaal in het thema van schaken. De bekende schaker Garry Kasparov speelde tegen twintig tegenstanders, waaronder de Antwerpse burgemeester Els van Doesburg en de Belgische ondernemer Marc Coucke. Uiteindelijk won Kasparov alle partijen."
     },
     vocabulary: {
       words: [
         {
-          word: "acteur",
-          definition: "iemand die in films of toneel speelt"
+          word: "schaken",
+          definition: "een bordspel voor twee spelers waarbij je de stukken van je tegenstander moet slaan"
+        },
+        {
+          word: "tegenstander",
+          definition: "iemand die tegen je speelt in een spel of sport"
         },
         {
           word: "winnen",
-          definition: "een wedstrijd of spel winnen"
+          definition: "een spel of wedstrijd winnen, dus niet verliezen"
         },
         {
-          word: "kandidaat",
-          definition: "iemand die meedoet aan een wedstrijd"
+          word: "finalisten",
+          definition: "deelnemers die tot de finale zijn gekwalificeerd"
         },
         {
-          word: "aflevering",
-          definition: "een deel van een serie op tv"
-        },
-        {
-          word: "geïnterviewd",
-          definition: "vragen beantwoorden voor een krant of tv"
+          word: "ondernemer",
+          definition: "een persoon die een bedrijf of onderneming heeft"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij is een ___ in een film.",
-          answer: "acteur"
+          sentence: "Garry Kasparov is een beroemde ___ die in Antwerpen tegen twintig mensen speelde.",
+          answer: "schaker"
         },
         {
-          sentence: "Ze hoopte de eerste prijs te ___.",
-          answer: "winnen"
+          sentence: "Els van Doesburg en Marc Coucke waren twee van de ___ die tegen Kasparov speelden.",
+          answer: "finalisten"
         },
         {
-          sentence: "Hij was een ___ in de talentenjacht.",
-          answer: "kandidaat"
+          sentence: "Uiteindelijk kon niemand Kasparov ___ en won hij alle partijen.",
+          answer: "verslaan"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is Felix Heremans?",
+        question: "Wat is Garry Kasparos zijn beroep?",
         options: [
-          "Een acteur",
-          "Een presentator",
-          "Een atleet",
-          "Een muzikant"
+          "Tennisser",
+          "Schaker",
+          "Voetballer",
+          "Basketballer"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Waar vond het schaakevenement plaats?",
+        options: [
+          "In Brussel",
+          "In Antwerpen",
+          "In Gent",
+          "In Brugge"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat was de uitslag van de schaakpartijen?",
+        options: [
+          "Kasparov won alles",
+          "Kasparov verloor alles",
+          "Het werd een gelijkspel",
+          "Alleen de laatste partij werd gewonnen"
         ],
         correctAnswer: 0
-      },
-      {
-        question: "Wat is 'De slimste mens'?",
-        options: [
-          "Een boek",
-          "Een radioprogramma",
-          "Een tv-programma",
-          "Een restaurant"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Hoe oud is Felix Heremans ongeveer?",
-        options: [
-          "10 jaar",
-          "20 jaar",
-          "30 jaar",
-          "40 jaar"
-        ],
-        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Felix Heremans is de jongste winnaar ooit van 'De slimste mens'.",
+        statement: "Garry Kasparov is een professionele schaker.",
         isTrue: true
       },
       {
-        statement: "De tekst is geschreven voordat 'De slimste mens' werd uitgezonden.",
+        statement: "De Belgische ondernemer Marc Coucke won zijn partij tegen Kasparov.",
         isTrue: false
       },
       {
-        statement: "Felix Heremans is een acteur.",
+        statement: "Het KMSKA is een museum in Antwerpen.",
         isTrue: true
       }
     ]
