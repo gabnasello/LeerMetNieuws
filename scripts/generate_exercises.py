@@ -42,6 +42,10 @@ def query_openrouter(messages, max_tokens=1200, retries=5, backoff=2):
 
 
 # ---------- COMBINED FUNCTION ----------
+import re
+import json
+import random
+
 def generate_simplified_and_exercises(level, section, topic_number, title, summary):
     messages = [
         {
@@ -58,22 +62,22 @@ def generate_simplified_and_exercises(level, section, topic_number, title, summa
             "content": f"""
 Herschrijf de titel en samenvatting in natuurlijk en begrijpelijk Nederlands op niveau {level}.
 De zinnen hoeven niet kort te zijn, maar moeten qua woordenschat, grammatica en structuur passen bij niveau {level}.
-Beperk je niet tot extreem simpele taal; gebruik wat natuurlijk klinkt op dat niveau.
-Zorg voor natuurlijk taalgebruik dat authentiek aanvoelt voor dit niveau - niet kunstmatig vereenvoudigd.
+Gebruik natuurlijk klinkende taal die authentiek aanvoelt voor dit niveau.
 
 Maak vervolgens taalactiviteiten op basis van de vereenvoudigde tekst:
 
-1. Kies **exact 5 woorden** die letterlijk voorkomen in de vereenvoudigde titel of samenvatting.
+1. Kies **precies 5 woorden** die letterlijk voorkomen in de vereenvoudigde titel of samenvatting.
+   - Gebruik de woorden exact zoals ze in de tekst staan (niet verbogen of afgeleid).
    - Geen enkel woord mag afkomstig zijn van buiten de vereenvoudigde titel of samenvatting.
-   - Gebruik de woorden zoals ze in de tekst voorkomen (niet verbogen of afgeleid).
-   - Voeg per woord een korte, passende definitie toe in natuurlijk Nederlands voor niveau {level}.
+   - Voor elk woord:
+       - Geef een korte definitie in eenvoudig Nederlands op niveau {level}.
+       - Maak direct daarna één zin met een invul-leegte (___) waarin dat woord ontbreekt.
+         De zin moet natuurlijk en grammaticaal correct zijn.
+       - Voeg ook een veld "answer" toe met het juiste woord.
 
-2. Maak **3 fill-in-the-blank-zinnen** met uitsluitend de 5 woorden van punt 1.
-   - De oplossing van elke zin moet een woord zijn uit de gekozen 5 woorden van punt 1.
+2. Maak **3 meerkeuzevragen** over de betekenis van de vereenvoudigde tekst.
 
-3. Maak **3 meerkeuzevragen** over de betekenis van de vereenvoudigde tekst.
-
-4. Maak **3 waar/niet waar-stellingen** over de inhoud van de tekst.
+3. Maak **3 waar/niet waar-stellingen** over de inhoud van de tekst.
 
 Geef de uitvoer als **één geldig JSON-object** met exact deze structuur:
 
@@ -90,16 +94,36 @@ Geef de uitvoer als **één geldig JSON-object** met exact deze structuur:
   }},
   "vocabulary": {{
     "words": [
-      {{"word": "woord1", "definition": "definitie1"}},
-      {{"word": "woord2", "definition": "definitie2"}},
-      {{"word": "woord3", "definition": "definitie3"}},
-      {{"word": "woord4", "definition": "definitie4"}},
-      {{"word": "woord5", "definition": "definitie5"}}
-    ],
-    "fillInBlanks": [
-      {{"sentence": "Zin met ___", "answer": "woord"}},
-      {{"sentence": "Zin met ___", "answer": "woord"}},
-      {{"sentence": "Zin met ___", "answer": "woord"}}
+      {{
+        "word": "woord1",
+        "definition": "definitie1",
+        "sentence": "Zin met ___",
+        "answer": "woord1"
+      }},
+      {{
+        "word": "woord2",
+        "definition": "definitie2",
+        "sentence": "Zin met ___",
+        "answer": "woord2"
+      }},
+      {{
+        "word": "woord3",
+        "definition": "definitie3",
+        "sentence": "Zin met ___",
+        "answer": "woord3"
+      }},
+      {{
+        "word": "woord4",
+        "definition": "definitie4",
+        "sentence": "Zin met ___",
+        "answer": "woord4"
+      }},
+      {{
+        "word": "woord5",
+        "definition": "definitie5",
+        "sentence": "Zin met ___",
+        "answer": "woord5"
+      }}
     ]
   }},
   "multipleChoice": [
@@ -135,21 +159,29 @@ Samenvatting: {summary}
     response = query_openrouter(messages)
     try:
         json_match = re.search(r"\{[\s\S]*\}", response)
-        if json_match:
-            data = json.loads(json_match.group(0))
+        if not json_match:
+            print("⚠️ Geen JSON gevonden in de uitvoer.")
+            return {}
 
-            # Force section and topic values to match the input section
-            data["section"] = section
-            data["topic"] = section
+        data = json.loads(json_match.group(0))
+        data["section"] = section
+        data["topic"] = section
 
-            return data
+        # ✅ Add fillInBlanks dynamically
+        words = data.get("vocabulary", {}).get("words", [])
+        if len(words) >= 3:
+            sampled = random.sample(words, 3)
+            data["vocabulary"]["fillInBlanks"] = [
+                {"sentence": w["sentence"], "answer": w["answer"]} for w in sampled
+            ]
+        else:
+            data["vocabulary"]["fillInBlanks"] = []
 
-        print("⚠️ Geen JSON gevonden in de uitvoer.")
-        return {}
+        return data
+
     except json.JSONDecodeError:
         print(f"⚠️ Ongeldige JSON voor niveau {level}.")
         return {}
-
 
 # ---------- MAIN SCRIPT ----------
 def main():
