@@ -8,8 +8,8 @@ import requests
 API_KEY = os.getenv("OPENROUTER_API_KEY")
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
-# LEVELS = ["B1", "A2", "B2", "C1"]
-LEVELS = ["B1"]
+LEVELS = ["B1", "A2", "B2", "C1"]
+#LEVELS = ["B1"]
 
 
 # ---------- API CALL WITH RETRIES ----------
@@ -21,8 +21,8 @@ def query_openrouter(messages, max_tokens=1200, retries=5, backoff=2):
         "X-Title": "Dutch Exercises Generator"
     }
     payload = {
-        #"model": "deepseek/deepseek-chat-v3.1:free",
-        "model": "deepseek/deepseek-r1-0528:free",
+        "model": "deepseek/deepseek-chat-v3.1:free",
+        #"model": "deepseek/deepseek-r1-0528:free",
         "messages": messages,
         "max_tokens": max_tokens,
         "temperature": 0.4,
