@@ -3,93 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Zeven doden na grootschalige Russische aanval op Oekraïne, onder wie twee kinderen",
+  "title": "Witte Huis krijgt nieuwe vleugel",
   "topicNumber": 1,
   "article": {
-    "title": "Zeven doden na grootschalige Russische aanval op Oekraïne, onder wie twee kinderen",
-    "summary": "Bij een grootschalige Russische aanval zijn in Kiev zes mensen omgekomen, onder wie twee kinderen. Ook in Charkiv viel een dode. Daar werd een kleuterschool getroffen."
+    "title": "Witte Huis krijgt nieuwe vleugel",
+    "summary": "De oostvleugel van het Witte Huis wordt volledig afgebroken. Er komt een nieuwe vleugel voor in de plaats. President Trump heeft dit plan goedgekeurd. De werkzaamheden zijn onmiddellijk begonnen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "aanval",
-        "definition": "een militaire actie tegen een doel"
+        "word": "afgebroken",
+        "definition": "gesloopt, verwijderd of weggehaald",
+        "sentence": "Het oude gebouw werd volledig ___ en vervangen door een modern gebouw.",
+        "answer": "afgebroken"
       },
       {
-        "word": "omgekomen",
-        "definition": "overleden, gestorven"
+        "word": "vleugel",
+        "definition": "een deel van een gebouw, vaak met een eigen functie",
+        "sentence": "Het nieuwe ziekenhuis heeft een speciale ___ voor kinderafdeling.",
+        "answer": "vleugel"
       },
       {
-        "word": "getroffen",
-        "definition": "geraakt, getroffen door iets (bijv. een bom)"
+        "word": "goedgekeurd",
+        "definition": "officieel akkoord, goedgekeurd",
+        "sentence": "Het bouwplan is door de gemeente ___ en kan nu starten.",
+        "answer": "goedgekeurd"
       },
       {
-        "word": "kleuterschool",
-        "definition": "een school voor jonge kinderen"
+        "word": "Witte",
+        "definition": "een kleur, tegenover zwart",
+        "sentence": "Hij droeg een ___ overhemd met een donkere das.",
+        "answer": "Witte"
       },
       {
-        "word": "grootschalige",
-        "definition": "op grote schaal, omvangrijk"
+        "word": "Huis",
+        "definition": "een gebouw om in te wonen, woning",
+        "sentence": "Het nieuwe ___ heeft vijf slaapkamers en een grote tuin.",
+        "answer": "Huis"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "In de oorlog zijn veel mensen ___ door bombardementen.",
-        "answer": "omgekomen"
+        "sentence": "Het oude gebouw werd volledig ___ en vervangen door een modern gebouw.",
+        "answer": "afgebroken"
       },
       {
-        "sentence": "De ___ werd beschadigd door een bom.",
-        "answer": "kleuterschool"
+        "sentence": "Hij droeg een ___ overhemd met een donkere das.",
+        "answer": "Witte"
       },
       {
-        "sentence": "De aanval was ___ en trof veel gebieden.",
-        "answer": "grootschalige"
+        "sentence": "Het nieuwe ziekenhuis heeft een speciale ___ voor kinderafdeling.",
+        "answer": "vleugel"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar vond de aanval plaats?",
+      "question": "Wat wordt er met de oostvleugel van het Witte Huis gedaan?",
       "options": [
-        "Kiev",
-        "Charkiv",
-        "Moskou",
-        "Berlijn"
+        "Het wordt gerenoveerd",
+        "Het wordt volledig afgebroken",
+        "Het wordt uitgebreid",
+        "Het wordt verplaatst"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat werd er getroffen in Charkiv?",
+      "question": "Wat is de reden voor deze actie volgens het artikel?",
       "options": [
-        "Een ziekenhuis",
-        "Een woonwijk",
-        "Een school",
-        "Een fabriek"
+        "Er is geen specifieke reden vermeld",
+        "Om plaats te maken voor een nieuw gebouw",
+        "Omdat het gebouw verouderd is",
+        "Vanwege veiligheidsredenen"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Hoeveel mensen stierven in totaal?",
+      "question": "Wie heeft deze beslissing goedgekeurd?",
       "options": [
-        "5",
-        "6",
-        "7",
-        "8"
+        "De gemeente",
+        "President Trump",
+        "De architect",
+        "De burgemeester"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Er vielen alleen doden in Kiev.",
+      "statement": "De oostvleugel van het Witte Huis wordt gerenoveerd in plaats van volledig afgebroken.",
       "isTrue": false
     },
     {
-      "statement": "Ook in Charkiv vielen doden door de aanval.",
+      "statement": "President Trump heeft het plan goedgekeurd om de oostvleugel af te breken.",
       "isTrue": true
     },
     {
-      "statement": "Er werden alleen militaire doelen getroffen.",
+      "statement": "De werkzaamheden om de oostvleugel af te breken zijn nog niet begonnen.",
       "isTrue": false
     }
   ]

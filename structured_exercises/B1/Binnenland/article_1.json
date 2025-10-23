@@ -3,94 +3,104 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
+  "title": "Vervuiling in de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
   "topicNumber": 1,
   "article": {
-    "title": "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
-    "summary": "Het KMI heeft code geel afgekondigd voor het aankomende stormweer. Aan de kust geldt donderdag vanaf 15 uur code oranje."
+    "title": "Vervuiling in de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
+    "summary": "Al sinds eind juli is bekend dat de Maas vervuild wordt met een schimmeldodend middel. Maar de bron is nog steeds niet bekend. Zelfs de Nederlandse ambassadeur bemoeit zich met deze zaak."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "KMI",
-        "definition": "Koninklijk Meteorologisch Instituut, het nationale weeralarm"
+        "word": "Vervuiling",
+        "definition": "Als iets vies of giftig wordt gemaakt, bijvoorbeeld water of lucht.",
+        "sentence": "De fabriek veroorzaakte veel ___ in de rivier.",
+        "answer": "vervuiling"
       },
       {
-        "word": "afgekondigd",
-        "definition": "officieel bekendgemaakt"
+        "word": "Mysterie",
+        "definition": "Iets dat onbekend of geheim is en niet meteen duidelijk is.",
+        "sentence": "Waarom hij vertrok, bleef een ___ voor iedereen.",
+        "answer": "mysterie"
       },
       {
-        "word": "stormweer",
-        "definition": "weer met veel wind en storm"
+        "word": "Ambassadeur",
+        "definition": "Een persoon die zijn land vertegenwoordigt in een ander land.",
+        "sentence": "De ___ van Frankrijk woonde de bijeenkomst bij.",
+        "answer": "ambassadeur"
       },
       {
-        "word": "geldt",
-        "definition": "is van kracht, is geldig"
+        "word": "Mengt",
+        "definition": "Iets actief betrekken of ermee bemoeien.",
+        "sentence": "Hij ___ zich in de discussie, ook al kent hij de feiten niet.",
+        "answer": "mengt"
       },
       {
-        "word": "oranje",
-        "definition": "de kleur oranje, hier gebruikt als code voor ernstige weersomstandigheden"
+        "word": "Bekend",
+        "definition": "Iets of iemand waarvan je informatie hebt en die je kent.",
+        "sentence": "Het is ___ dat hij vaak te laat komt.",
+        "answer": "bekend"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het KMI heeft code ___ afgekondigd voor het stormweer.",
-        "answer": "geel"
+        "sentence": "Waarom hij vertrok, bleef een ___ voor iedereen.",
+        "answer": "mysterie"
       },
       {
-        "sentence": "Aan de kust geldt donderdag vanaf 15 uur code ___.",
-        "answer": "oranje"
+        "sentence": "De ___ van Frankrijk woonde de bijeenkomst bij.",
+        "answer": "ambassadeur"
       },
       {
-        "sentence": "Het KMI is het instituut dat de weeralarm ___.",
-        "answer": "afgekondigd"
+        "sentence": "Hij ___ zich in de discussie, ook al kent hij de feiten niet.",
+        "answer": "mengt"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'afgekondigd' in deze context?",
+      "question": "Wat is de belangrijkste oorzaak van de vervuiling in de Maas?",
       "options": [
-        "officieel bekendgemaakt",
-        "verloren",
-        "verborgen",
-        "afgebroken"
+        "Industrieel afval",
+        "Landbouwchemicaliën",
+        "Onbekende bron",
+        "Huishoudelijk afval"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de rol van de Nederlandse ambassadeur in deze kwestie?",
+      "options": [
+        "Geen rol",
+        "Ondersteunt de onderzoeken",
+        "Vertoont desinteresse",
+        "Leidt de onderzoeken"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat betekent 'geldt' in deze zin?",
+      "question": "Sinds wanneer is de vervuiling van de Maas bekend?",
       "options": [
-        "is geldig",
-        "verloren is",
-        "verdiend wordt",
-        "gevaarlijk is"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is de 'code oranje'?",
-      "options": [
-        "Een weeralarm voor zeer gevaarlijk weer",
-        "Een feestelijke code",
-        "Een soort fruit",
-        "Een sportevenement"
+        "Sinds januari 2023",
+        "Sinds juli 2023",
+        "Sinds december 2022",
+        "Sinds mei 2023"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het KMI heeft code groen afgekondigd voor het stormweer.",
-      "isTrue": false
-    },
-    {
-      "statement": "Aan de kust geldt donderdag vanaf 15 uur code oranje.",
+      "statement": "De bron van de vervuiling in de Maas is nog steeds niet bekend.",
       "isTrue": true
     },
     {
-      "statement": "Code oranje betekent dat er geen gevaar is.",
+      "statement": "De Nederlandse ambassadeur heeft zich niet met de zaak bemoeid.",
       "isTrue": false
+    },
+    {
+      "statement": "De vervuiling werd veroorzaakt door een schimmeldodend middel.",
+      "isTrue": true
     }
   ]
 }

@@ -3,93 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
+  "title": "Hamas probeert macht terug te krijgen in Gaza",
   "topicNumber": 1,
   "article": {
-    "title": "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
-    "summary": "Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”"
+    "title": "Hamas probeert macht terug te krijgen in Gaza",
+    "summary": "Met hulp van een vaag vredesplan van Donald Trump probeert Hamas opnieuw de macht te krijgen in Gaza. Israël kan voorlopig alleen toekijken hoe Hamas gewelddadig optreedt tegen milities, bendes en critici."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "protest",
-        "definition": "een actie om te laten zien dat je het ergens niet mee eens bent"
+        "word": "macht",
+        "definition": "kracht of controle over iets",
+        "sentence": "Hamas wil de ___ in Gaza hebben.",
+        "answer": "macht"
       },
       {
-        "word": "activisten",
-        "definition": "mensen die actie voeren voor een bepaald doel, vaak een politiek of sociaal doel"
+        "word": "plan",
+        "definition": "een idee of methode om iets te doen",
+        "sentence": "Het vredes___ is nog niet duidelijk.",
+        "answer": "plan"
       },
       {
-        "word": "kostuum",
-        "definition": "een speciaal pak dat je aantrekt, vaak voor een feest of om je te verkleden"
+        "word": "optreden",
+        "definition": "handelen of iets doen, vaak in een moeilijke situatie",
+        "sentence": "De politie moet ___ tegen criminelen.",
+        "answer": "optreden"
       },
       {
-        "word": "pepperspray",
-        "definition": "een spuitbus met een scherpe vloeistof die de ogen irriteert, gebruikt door politie soms"
+        "word": "krijgen",
+        "definition": "iets ontvangen of verkrijgen",
+        "sentence": "Hij wil zijn boek terug ___.",
+        "answer": "krijgen"
       },
       {
-        "word": "botsen",
-        "definition": "tegen elkaar aan komen, vaak met kracht"
+        "word": "tegen",
+        "definition": "in oppositie of tegenover iets",
+        "sentence": "Hij is ___ het plan.",
+        "answer": "tegen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Tijdens het ___ droegen veel mensen maskers.",
-        "answer": "protest"
+        "sentence": "Hamas wil de ___ in Gaza hebben.",
+        "answer": "macht"
       },
       {
-        "sentence": "De politie gebruikte ___ om de menigte uiteen te drijven.",
-        "answer": "pepperspray"
+        "sentence": "Hij is ___ het plan.",
+        "answer": "tegen"
       },
       {
-        "sentence": "Twee mensen liepen tegen elkaar op, ze ___ tegen elkaar.",
-        "answer": "botsen"
+        "sentence": "De politie moet ___ tegen criminelen.",
+        "answer": "optreden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom droegen sommige mensen een kostuum?",
+      "question": "Waarom wil Hamas de macht in Gaza?",
       "options": [
-        "Om zich te beschermen tegen pepperspray",
-        "Omdat het feest was",
-        "Omdat ze wilden dansen",
-        "Ze waren verkleed als dier"
+        "Omdat het daar veel geld heeft",
+        "Omdat het daar populair is",
+        "Om de bevolking te helpen",
+        "Om andere groepen te controleren"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
-      "question": "Wat is pepperspray?",
+      "question": "Wat is het resultaat van het vredesplan van Donald Trump voor Hamas?",
       "options": [
-        "Een soort parfum",
-        "Een soort medicijn",
-        "Een spuitbus met irritante vloeistof",
-        "Een soort verkleedkostuum"
+        "Hamas krijgt meer geld",
+        "Hamas wordt populairder",
+        "Hamas kan makkelijker de macht grijpen",
+        "Hamas moet zich overgeven"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat gebeurde er met de pepperspray?",
+      "question": "Hoe reageert Israël op de situatie in Gaza?",
       "options": [
-        "Het werd opgegeten",
-        "Het verdampte in de lucht",
-        "Het werd afgebeten door de activisten",
-        "Het ketste af op de kostuums"
+        "Het stuurt meer soldaten",
+        "Het doet niets en kijkt toe",
+        "Het onderhandelt met Hamas",
+        "Het steunt andere groepen"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De activisten droegen kostuums om zich te beschermen.",
+      "statement": "Hamas probeert de macht in Gaza te krijgen met geweld.",
       "isTrue": true
     },
     {
-      "statement": "Pepperspray kan door kleding heen komen.",
-      "isTrue": true
+      "statement": "Het vredesplan van Donald Trump is heel duidelijk voor iedereen.",
+      "isTrue": false
     },
     {
-      "statement": "De protesten waren alleen tegen Donald Trump.",
+      "statement": "Israël helpt Hamas om de macht te krijgen in Gaza.",
       "isTrue": false
     }
   ]

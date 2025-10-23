@@ -29,94 +29,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Zeven doden na Russische aanval Oekraïne",
+    title: "Witte Huis krijgt nieuwe vleugel",
     topicNumber: 1,
     article: {
-      title: "Zeven doden na Russische aanval Oekraïne",
-      summary: "Bij een Russische aanval op Oekraïne zijn zeven mensen omgekomen, onder wie twee kinderen. In Kiev vielen zes doden, en in Charkiv viel een dode. Een kleuterschool werd geraakt."
+      title: "Witte Huis krijgt nieuwe vleugel",
+      summary: "In het Witte Huis wordt een deel gesloopt. Er komt een nieuwe vleugel bij. Dat heeft de Amerikaanse president gezegd. De nieuwe vleugel wordt een grote zaal voor feesten en bijeenkomsten."
     },
     vocabulary: {
       words: [
         {
-          word: "aanval",
-          definition: "wanneer iemand of een groep iets met geweld doet tegen een ander"
+          word: "Witte",
+          definition: "helder of schoon, maar hier onderdeel van de naam 'Witte Huis'",
+          sentence: "Het ___ Huis is de werkplek van de president.",
+          answer: "Witte"
         },
         {
-          word: "kinderen",
-          definition: "jonge mensen, meestal onder de 18 jaar"
+          word: "Huis",
+          definition: "een gebouw waar mensen in wonen",
+          sentence: "Het Witte ___ is de woning van de president.",
+          answer: "Huis"
         },
         {
-          word: "kleuterschool",
-          definition: "een school voor jonge kinderen, meestal tussen 4 en 6 jaar oud"
+          word: "gesloopt",
+          definition: "afgebroken, kapot gemaakt",
+          sentence: "Het oude gebouw werd ___ om plaats te maken voor iets nieuws.",
+          answer: "gesloopt"
         },
         {
-          word: "omgekomen",
-          definition: "gestorven, overleden"
+          word: "vleugel",
+          definition: "een deel van een gebouw",
+          sentence: "De nieuwe ___ zal gebruikt worden voor grote bijeenkomsten.",
+          answer: "vleugel"
         },
         {
-          word: "geraakt",
-          definition: "gemaakt contact met; werd getroffen door"
+          word: "gezegd",
+          definition: "uitgesproken, vermeld",
+          sentence: "De president heeft dit zelf ___ tijdens een persconferentie.",
+          answer: "gezegd"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Bij de aanval op de stad zijn er helaas veel mensen ___",
-          answer: "omgekomen"
+          sentence: "De president heeft dit zelf ___ tijdens een persconferentie.",
+          answer: "gezegd"
         },
         {
-          sentence: "De raket trof een ___ waar kinderen nog aan het spelen waren.",
-          answer: "kleuterschool"
+          sentence: "Het Witte ___ is de woning van de president.",
+          answer: "Huis"
         },
         {
-          word: "Tijdens de ___ zijn veel mensen gewond geraakt.",
-          answer: "aanval"
+          sentence: "Het oude gebouw werd ___ om plaats te maken voor iets nieuws.",
+          answer: "gesloopt"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar vond de aanval plaats die in de tekst wordt beschreven?",
+        question: "Wat wordt er gebouwd in het Witte Huis?",
         options: [
-          "Oekraïne",
-          "Rusland",
-          "Verenigde Staten",
-          "Duitsland"
+          "Een nieuwe keuken",
+          "Een nieuwe slaapkamer",
+          "Een nieuwe vleugel",
+          "Een nieuwe garage"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Waarom wordt de oude vleugel gesloopt?",
+        options: [
+          "Omdat het te oud is",
+          "Omdat de president meer ruimte wil",
+          "Omdat er brand was geweest",
+          "Omdat er een nieuw model is"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat werd getroffen door de aanval volgens de tekst?",
+        question: "Wie heeft dit nieuws bekendgemaakt?",
         options: [
-          "Een kleuterschool",
-          "Een ziekenhuis",
-          "Een woonwijk",
-          "Een winkelcentrum"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Hoeveel mensen zijn er omgekomen in de stad Charkiv?",
-        options: [
-          "1",
-          "6",
-          "7",
-          "2"
+          "De koning van Engeland",
+          "De president van Amerika",
+          "De burgemeester van Washington",
+          "De eerste dame"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De aanval vond plaats in Rusland.",
-        isTrue: false
-      },
-      {
-        statement: "Er zijn kinderen omgekomen bij deze aanval.",
+        statement: "De oostvleugel van het Witte Huis wordt gesloopt.",
         isTrue: true
       },
       {
-        statement: "Alleen de stad Kiev werd getroffen.",
+        statement: "De nieuwe vleugel wordt een kleine studeerkamer.",
         isTrue: false
+      },
+      {
+        statement: "President Trump heeft dit nieuws zelf verteld.",
+        isTrue: true
       }
     ]
   },
@@ -125,93 +135,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
+    title: "Hamas wil weer de baas zijn in Gaza, maar Israël laat dat niet toe",
     topicNumber: 1,
     article: {
-      title: "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
-      summary: "Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”"
+      title: "Hamas wil weer de baas zijn in Gaza, maar Israël laat dat niet toe",
+      summary: "Hamas wil weer de macht in Gaza, maar Israël probeert dat te voorkomen. Met hulp van een onduidelijk vredesplan van Donald Trump probeert Hamas zijn oude positie terug te krijgen. Israël kan voorlopig alleen toekijken hoe het milities, bendes en critici met geweld wegduwt."
     },
     vocabulary: {
       words: [
         {
-          word: "protest",
-          definition: "demonstratie of actie tegen iets"
+          word: "baas",
+          definition: "iemand die de leiding heeft",
+          sentence: "De ___ bepaalt wat er gebeurt.",
+          answer: "baas"
         },
         {
-          word: "beleid",
-          definition: "manier waarop iemand regeert of beslissingen neemt"
+          word: "macht",
+          definition: "kracht om iets te doen of te bepalen",
+          sentence: "Hij heeft veel ___ in deze organisatie.",
+          answer: "macht"
         },
         {
-          word: "Trump",
-          definition: "de familienaam van de voormalige president van de VS"
+          word: "milities",
+          definition: "groepen gewapende mensen, vaak niet officieel",
+          sentence: "De ___ vochten tegen het leger.",
+          answer: "milities"
         },
         {
-          word: "activisten",
-          definition: "mensen die actie voeren voor een verandering"
+          word: "bendes",
+          definition: "groepen criminelen die samenwerken",
+          sentence: "De ___ overvallen winkels en huizen.",
+          answer: "bendes"
         },
         {
-          word: "pepperspray",
-          definition: "spray die pijn doet maar niet blijvend schaadt"
+          word: "vredesplan",
+          definition: "een plan om vrede te bereiken, vaak door onderhandeling",
+          sentence: "Het ___ werd ondertekend door beide partijen.",
+          answer: "vredesplan"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Tijdens het ___ tegen het beleid van Trump werden veel mensen gearresteerd.",
-          answer: "protest"
+          sentence: "De ___ vochten tegen het leger.",
+          answer: "milities"
         },
         {
-          sentence: "De politie gebruikte ___ om de menigte uit elkaar te drijven.",
-          answer: "pepperspray"
+          sentence: "Het ___ werd ondertekend door beide partijen.",
+          answer: "vredesplan"
         },
         {
-          sentence: "___ zijn mensen die vechten voor een betere wereld.",
-          answer: "Activisten"
+          sentence: "De ___ bepaalt wat er gebeurt.",
+          answer: "baas"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is pepperspray?",
+        question: "Wat wil Hamas opnieuw doen in Gaza?",
         options: [
-          "Een soort parfum",
-          "Een soort plant",
-          "Een soort wapen dat de politie gebruikt",
-          "Een soort eten"
+          "De baas zijn",
+          "Niets doen",
+          "Samenzweren met Israël",
+          "Vrede sluiten"
         ],
-        correctAnswer: 2
+        correctAnswer: 0
       },
       {
-        question: "Waar is Donald Trump bekend om?",
+        question: "Hoe reageert Israël op de acties van Hamas?",
         options: [
-          "Hij is een bekende filmster",
-          "Hij is de voormalige president van de Verenigde Staten",
-          "Hij is een professionele tennisser",
-          "Hij is de koning van Nederland"
+          "Het doet niets en kijkt toe",
+          "Het valt aan met milities",
+          "Het ondersteunt Hamas",
+          "Het accepteert het vredesplan"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat gebeurt er als je pepperspray in je ogen krijgt?",
+        question: "Wat is een gevolg van het vredesplan?",
         options: [
-          "Je gaat ervan niezen",
-          "Je kunt tijdelijk niet goed zien en het doet pijn",
-          "Het heeft geen effect",
-          "Je ogen veranderen van kleur"
+          "Hamas wordt sterker",
+          "Israël valt aan",
+          "Israël wordt zwakker",
+          "Gaza wordt onafhankelijk"
         ],
-        correctAnswer: 1
+        correctAnswer: 0
       }
     ],
     trueFalse: [
       {
-        statement: "Pepperspray kan mensen blind maken.",
-        isTrue: false
-      },
-      {
-        statement: "Activisten protesteren soms tegen regeringen.",
+        statement: "Hamas probeert opnieuw de macht in Gaza te grijpen.",
         isTrue: true
       },
       {
-        statement: "Donald Trump is de huidige president van de Verenigde Staten.",
+        statement: "Israël steunt Hamas in deze poging.",
+        isTrue: false
+      },
+      {
+        statement: "Het vredesplan van Donald Trump is erg duidelijk voor beide partijen.",
         isTrue: false
       }
     ]
@@ -221,190 +241,210 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
+    title: "Vervuiling in de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
     topicNumber: 1,
     article: {
-      title: "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
-      summary: "Het KMI heeft code geel afgekondigd voor het aankomende stormweer. Aan de kust geldt donderdag vanaf 15 uur code oranje."
+      title: "Vervuiling in de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
+      summary: "Al sinds eind juli is bekend dat de Maas vervuild wordt met een schimmeldodend middel. Maar de bron is nog steeds niet bekend. Zelfs de Nederlandse ambassadeur bemoeit zich met deze zaak."
     },
     vocabulary: {
       words: [
         {
-          word: "KMI",
-          definition: "Koninklijk Meteorologisch Instituut, het nationale weeralarm"
+          word: "Vervuiling",
+          definition: "Als iets vies of giftig wordt gemaakt, bijvoorbeeld water of lucht.",
+          sentence: "De fabriek veroorzaakte veel ___ in de rivier.",
+          answer: "vervuiling"
         },
         {
-          word: "afgekondigd",
-          definition: "officieel bekendgemaakt"
+          word: "Mysterie",
+          definition: "Iets dat onbekend of geheim is en niet meteen duidelijk is.",
+          sentence: "Waarom hij vertrok, bleef een ___ voor iedereen.",
+          answer: "mysterie"
         },
         {
-          word: "stormweer",
-          definition: "weer met veel wind en storm"
+          word: "Ambassadeur",
+          definition: "Een persoon die zijn land vertegenwoordigt in een ander land.",
+          sentence: "De ___ van Frankrijk woonde de bijeenkomst bij.",
+          answer: "ambassadeur"
         },
         {
-          word: "geldt",
-          definition: "is van kracht, is geldig"
+          word: "Mengt",
+          definition: "Iets actief betrekken of ermee bemoeien.",
+          sentence: "Hij ___ zich in de discussie, ook al kent hij de feiten niet.",
+          answer: "mengt"
         },
         {
-          word: "oranje",
-          definition: "de kleur oranje, hier gebruikt als code voor ernstige weersomstandigheden"
+          word: "Bekend",
+          definition: "Iets of iemand waarvan je informatie hebt en die je kent.",
+          sentence: "Het is ___ dat hij vaak te laat komt.",
+          answer: "bekend"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het KMI heeft code ___ afgekondigd voor het stormweer.",
-          answer: "geel"
+          sentence: "Waarom hij vertrok, bleef een ___ voor iedereen.",
+          answer: "mysterie"
         },
         {
-          sentence: "Aan de kust geldt donderdag vanaf 15 uur code ___.",
-          answer: "oranje"
+          sentence: "De ___ van Frankrijk woonde de bijeenkomst bij.",
+          answer: "ambassadeur"
         },
         {
-          sentence: "Het KMI is het instituut dat de weeralarm ___.",
-          answer: "afgekondigd"
+          sentence: "Hij ___ zich in de discussie, ook al kent hij de feiten niet.",
+          answer: "mengt"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'afgekondigd' in deze context?",
+        question: "Wat is de belangrijkste oorzaak van de vervuiling in de Maas?",
         options: [
-          "officieel bekendgemaakt",
-          "verloren",
-          "verborgen",
-          "afgebroken"
+          "Industrieel afval",
+          "Landbouwchemicaliën",
+          "Onbekende bron",
+          "Huishoudelijk afval"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is de rol van de Nederlandse ambassadeur in deze kwestie?",
+        options: [
+          "Geen rol",
+          "Ondersteunt de onderzoeken",
+          "Vertoont desinteresse",
+          "Leidt de onderzoeken"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat betekent 'geldt' in deze zin?",
+        question: "Sinds wanneer is de vervuiling van de Maas bekend?",
         options: [
-          "is geldig",
-          "verloren is",
-          "verdiend wordt",
-          "gevaarlijk is"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is de 'code oranje'?",
-        options: [
-          "Een weeralarm voor zeer gevaarlijk weer",
-          "Een feestelijke code",
-          "Een soort fruit",
-          "Een sportevenement"
+          "Sinds januari 2023",
+          "Sinds juli 2023",
+          "Sinds december 2022",
+          "Sinds mei 2023"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Het KMI heeft code groen afgekondigd voor het stormweer.",
-        isTrue: false
-      },
-      {
-        statement: "Aan de kust geldt donderdag vanaf 15 uur code oranje.",
+        statement: "De bron van de vervuiling in de Maas is nog steeds niet bekend.",
         isTrue: true
       },
       {
-        statement: "Code oranje betekent dat er geen gevaar is.",
+        statement: "De Nederlandse ambassadeur heeft zich niet met de zaak bemoeid.",
         isTrue: false
+      },
+      {
+        statement: "De vervuiling werd veroorzaakt door een schimmeldodend middel.",
+        isTrue: true
       }
     ]
   },
 {
     id: 4,
-    section: "Sport",
-    topic: "Schaak",
+    section: "Binnenland",
+    topic: "Binnenland",
     level: "B1",
-    title: "Schaakgrootmeester Garry Kasparov verslaat twintig tegenstanders in Antwerpen",
+    title: "Ronsenaars maken zich zorgen over hoge PFAS-waarden in bloed",
     topicNumber: 1,
     article: {
-      title: "Schaakgrootmeester Garry Kasparov verslaat twintig tegenstanders in Antwerpen",
-      summary: "Het KMSKA in Antwerpen stond gisteren helemaal in het thema van schaken. Garry Kasparov speelde tegen twintig schakers, waaronder burgemeester Els van Doesburg en ondernemer Marc Coucke. Kasparov won alle partijen."
+      title: "Ronsenaars maken zich zorgen over hoge PFAS-waarden in bloed",
+      summary: "Steeds meer inwoners van Ronse laten hun bloed onderzoeken op PFAS en krijgen hoge waarden. Het stadsbestuur wil een groot bloedonderzoek. Ondertussen spelen kinderen op vervuilde grond."
     },
     vocabulary: {
       words: [
         {
-          word: "schaken",
-          definition: "een spel met zwarte en witte stukken op een bord"
+          word: "Ronsenaars",
+          definition: "Mensen die in de stad Ronse wonen",
+          sentence: "De ___ maken zich zorgen over PFAS in hun bloed.",
+          answer: "Ronsenaars"
         },
         {
-          word: "tegenstanders",
-          definition: "mensen die tegen elkaar spelen"
+          word: "PFAS",
+          definition: "Een groep van chemische stoffen die schadelijk zijn voor de gezondheid",
+          sentence: "Er zitten te hoge ___ waarden in het bloed van de Ronsenaars.",
+          answer: "PFAS"
         },
         {
-          word: "won",
-          definition: "heeft gewonnen, is winnaar"
+          word: "bloed",
+          definition: "De rode vloeistof die door je lichaam stroomt",
+          sentence: "Ze laten hun ___ testen op PFAS-waarden.",
+          answer: "bloed"
         },
         {
-          word: "finalisten",
-          definition: "deelnemers in de laatste ronde"
+          word: "stadsbestuur",
+          definition: "De groep mensen die de stad bestuurt",
+          sentence: "Het ___ wil een groot onderzoek doen.",
+          answer: "stadsbestuur"
         },
         {
-          word: "ondernemer",
-          definition: "iemand die een bedrijf heeft"
+          word: "kinderen",
+          definition: "Jonge mensen, meestal onder de 18 jaar",
+          sentence: "De ___ spelen op de vervuilde grond.",
+          answer: "kinderen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Garry Kasparov is een beroemde schaak___",
-          answer: "speler"
+          sentence: "Het ___ wil een groot onderzoek doen.",
+          answer: "stadsbestuur"
         },
         {
-          sentence: "Hij won van alle twintig ___ in Antwerpen.",
-          answer: "tegenstanders"
+          sentence: "Ze laten hun ___ testen op PFAS-waarden.",
+          answer: "bloed"
         },
         {
-          sentence: "Ook de burgemeester van Antwerpen was een van de ___",
-          answer: "finalisten"
+          sentence: "De ___ maken zich zorgen over PFAS in hun bloed.",
+          answer: "Ronsenaars"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar vond het schaaktoernooi plaats?",
+        question: "Wat is PFAS?",
         options: [
-          "In Amsterdam",
-          "In Antwerpen",
-          "In Brussel",
-          "In Gent"
+          "Een soort medicijn",
+          "Een chemische stof",
+          "Een soort plant",
+          "Een dier"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wie won alle partijen?",
+        question: "Wat wil het stadsbestuur doen?",
         options: [
-          "Els van Doesburg",
-          "Marc Coucke",
-          "Garry Kasparov",
-          "Een onbekende speler"
+          "Niets",
+          "De stad evacueren",
+          "Een groot bloedonderzoek organiseren",
+          "Meer PFAS gebruiken"
         ],
         correctAnswer: 2
       },
       {
-        question: "Hoeveel tegenstanders versloeg Kasparov?",
+        question: "Waar spelen de kinderen?",
         options: [
-          "Vijf",
-          "Tien",
-          "Twintig",
-          "Dertig"
+          "In een park",
+          "Op vervuilde grond",
+          "Binnen in huis",
+          "In een museum"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Garry Kasparov won van alle twintig tegenstanders.",
-        isTrue: true
-      },
-      {
-        statement: "Els van Doesburg is de burgemeester van Amsterdam.",
+        statement: "PFAS is goed voor de gezondheid.",
         isTrue: false
       },
       {
-        statement: "Marc Coucke is een Belgische ondernemer.",
+        statement: "Het stadsbestuur wil een groot onderzoek doen.",
         isTrue: true
+      },
+      {
+        statement: "Kunnen kinderen veilig spelen op de vervuilde grond?",
+        isTrue: false
       }
     ]
   },
@@ -413,93 +453,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Zeven doden na grootschalige Russische aanval op Oekraïne, onder wie twee kinderen",
+    title: "Oostvleugel Witte Huis wordt nu toch volledig gesloopt voor bouw nieuwe balzaal: “Dit is Trumps presidentschap in één foto”",
     topicNumber: 1,
     article: {
-      title: "Zeven doden na grootschalige Russische aanval op Oekraïne, onder wie twee kinderen",
-      summary: "Bij een grootschalige Russische aanval zijn in Kiev zes mensen omgekomen, onder wie twee kinderen. Ook in Charkiv viel een dode. Daar werd een kleuterschool getroffen."
+      title: "Oostvleugel Witte Huis wordt nu toch volledig gesloopt voor bouw nieuwe balzaal: “Dit is Trumps presidentschap in één foto”",
+      summary: "De oostvleugel van het Witte Huis wordt volledig met de grond gelijk gemaakt om plaats te maken voor Donald Trumps nieuwe balzaal. Dat heeft de Amerikaanse president woensdag gezegd."
     },
     vocabulary: {
       words: [
         {
-          word: "aanval",
-          definition: "militair offensief of gewelddadige actie"
+          word: "gesloopt",
+          definition: "afgebroken, verwoest",
+          sentence: "Het oude gebouw werd uiteindelijk ___ om plaats te maken voor een nieuw project.",
+          answer: "gesloopt"
         },
         {
-          word: "omgekomen",
-          definition: "overleden, gestorven"
+          word: "balzaal",
+          definition: "een grote zaal die gebruikt wordt voor feesten en dansfeesten",
+          sentence: "Het koninklijk paleis heeft een grote ___ waar galadiners worden gehouden.",
+          answer: "balzaal"
         },
         {
-          word: "getroffen",
-          definition: "geraakt, beïnvloed"
+          word: "presidentschap",
+          definition: "de periode waarin iemand president is",
+          sentence: "Zijn ___ werd gekenmerkt door vele controverses.",
+          answer: "presidentschap"
         },
         {
-          word: "kleuterschool",
-          definition: "school voor jonge kinderen"
+          word: "oostvleugel",
+          definition: "het oostelijke deel van een gebouw",
+          sentence: "De ___ van het paleis brandde volledig uit.",
+          answer: "oostvleugel"
         },
         {
-          word: "grootschalige",
-          definition: "op grote schaal, omvangrijk"
+          word: "Witte Huis",
+          definition: "de officiële residentie en werkplaats van de president van de Verenigde Staten",
+          sentence: "Het ___ is gelegen in Washington D.C.",
+          answer: "Witte Huis"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Tijdens de oorlog zijn er veel mensen ___ door bombardementen.",
-          answer: "omgekomen"
+          sentence: "De ___ van het paleis brandde volledig uit.",
+          answer: "oostvleugel"
         },
         {
-          sentence: "De ___ werd beschadigd door de explosie.",
-          answer: "kleuterschool"
+          sentence: "Het ___ is gelegen in Washington D.C.",
+          answer: "Witte Huis"
         },
         {
-          sentence: "Een ___ is vaak het doelwit in een conflict.",
-          answer: "aanval"
+          sentence: "Het oude gebouw werd uiteindelijk ___ om plaats te maken voor een nieuw project.",
+          answer: "gesloopt"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar vond de grootste deel van de aanval plaats?",
+        question: "Wat wordt er met de oostvleugel van het Witte Huis gedaan?",
         options: [
-          "Kiev",
-          "Charkiv",
-          "Moskou",
-          "Lviv"
+          "Het wordt gerenoveerd",
+          "Het wordt gesloopt",
+          "Het wordt verplaatst",
+          "Het blijft onveranderd"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is de betekenis van 'getroffen' in deze context?",
+        question: "Waarom wordt de oostvleugel gesloopt volgens de tekst?",
         options: [
-          "Getroffen door geluk",
-          "Beschadigd of geraakt",
-          "Volledig verwoest",
-          "Onbeschadigd gebleven"
+          "Om plaats te maken voor een nieuw kantoor",
+          "Om plaats te maken voor een nieuwe balzaal",
+          "Omdat het gebouw onveilig was geworden",
+          "Omdat Trump niet van de oude architectuur hield"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Wat is het hoofdonderwerp van dit artikel?",
+        question: "Wie heeft dit besluit aangekondigd?",
         options: [
-          "Een sportevenement",
-          "Een internationale conferentie",
-          "Een militaire aanval",
-          "Een economische crisis"
+          "De Amerikaanse president",
+          "De burgemeester van Washington",
+          "De First Lady",
+          "De minister van Binnenlandse Zaken"
         ],
-        correctAnswer: 3
+        correctAnswer: 0
       }
     ],
     trueFalse: [
       {
-        statement: "Er waren geen slachtoffers in Charkiv.",
+        statement: "De oostvleugel van het Witte Huis wordt gerenoveerd in plaats van gesloopt.",
         isTrue: false
       },
       {
-        statement: "De aanval vond plaats in Oekraïne.",
+        statement: "Donald Trump heeft aangekondigd dat de oostvleugel wordt gesloopt om plaats te maken voor een nieuwe balzaal.",
         isTrue: true
       },
       {
-        statement: "Alleen militaire doelen werden getroffen.",
+        statement: "De oostvleugel is al gesloopt voordat Trump president werd.",
         isTrue: false
       }
     ]
@@ -509,93 +559,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
+    title: "Hamas probeert in Gaza het laken naar zich toe te trekken, met dank aan een vaag vredesbestand",
     topicNumber: 1,
     article: {
-      title: "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
-      summary: "Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”"
+      title: "Hamas probeert in Gaza het laken naar zich toe te trekken, met dank aan een vaag vredesbestand",
+      summary: "Geholpen door de vaagheid in het bestand dat Donald Trump opgelegd heeft, probeert Hamas zijn oude machtspositie te herwinnen. Israël kan voorlopig alleen toekijken hoe het milities, bendes en critici gewelddadig wegduwt."
     },
     vocabulary: {
       words: [
         {
-          word: "activisten",
-          definition: "personen die actief zijn in een beweging of protest"
+          word: "vaag",
+          definition: "niet duidelijk of precies",
+          sentence: "De instructies waren erg ___, wat tot verwarring leidde.",
+          answer: "vaag"
         },
         {
-          word: "opblaasbaar",
-          definition: "iets dat kan worden opgeblazen of opgepompt"
+          word: "bestand",
+          definition: "een bestand of verzameling van informatie",
+          sentence: "Hij bewaarde het belangrijke ___ op zijn computer voor later gebruik.",
+          answer: "bestand"
         },
         {
-          word: "verkleedpakken",
-          definition: "kostuums of outfits die mensen aantrekken om zich te vermommen"
+          word: "milities",
+          definition: "milities, gewapende groepen van burgers",
+          sentence: "De ___ namen de controle over de stad over na hevige gevechten.",
+          answer: "milities"
         },
         {
-          word: "prominent",
-          definition: "opvallend aanwezig of belangrijk"
+          word: "bendes",
+          definition: "criminele groepen of bendes",
+          sentence: "De politie arresteerde verschillende ___ die betrokken waren bij de illegale handel.",
+          answer: "bendes"
         },
         {
-          word: "botsen",
-          definition: "ergens tegenaan lopen of tegen iets aanbotsen"
+          word: "wegduwt",
+          definition: "duwen of verwijderen, vaak met kracht",
+          sentence: "Hij probeerde de indringer te ___ van zijn eigendom.",
+          answer: "wegduwt"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Tijdens de betoging droegen enkele _____ verkleedpakken.",
-          answer: "activisten"
+          sentence: "Hij probeerde de indringer te ___ van zijn eigendom.",
+          answer: "wegduwt"
         },
         {
-          sentence: "De ballonnen zijn _____, dus je kunt ze meenemen.",
-          answer: "opblaasbaar"
+          sentence: "De politie arresteerde verschillende ___ die betrokken waren bij de illegale handel.",
+          answer: "bendes"
         },
         {
-          sentence: "De agenten _____ tegen de betogers op, wat tot rellen leidde.",
-          answer: "botsen"
+          sentence: "De ___ namen de controle over de stad over na hevige gevechten.",
+          answer: "milities"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom gebruikten de activisten opblaasbare kostuums?",
+        question: "Waarom is Hamas in het voordeel door het vredesbestand?",
         options: [
-          "Om zich te vermommen als dieren",
-          "Om zich te beschermen tegen traangas",
-          "Om de aandacht van de media te trekken",
-          "Omdat het feestelijk was"
+          "Omdat het bestand specifiek is",
+          "Omdat het bestand vaag is en ruimte biedt",
+          "Omdat Israël het bestand steunt",
+          "Omdat het bestand niet bestaat"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Wat is een 'pepperspraybol'?",
+        question: "Wat is een gevolg van de situatie voor Israël?",
         options: [
-          "Een soort soep",
-          "Een projectiel met traangas",
-          "Een speciaal soort bal",
-          "Een onderdeel van een wapen"
+          "Israël kan direct ingrijpen",
+          "Israël kan alleen toekijken",
+          "Israël verliest grondgebied",
+          "Israël wordt gesteund door de VN"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Waar verwijst 'Rijksdagbrand' naar?",
+        question: "Hoe reageert Hamas op de situatie?",
         options: [
-          "De dag dat het Rijk vergadert",
-          "Een historische brand in Duitsland",
-          "Een moderne politieke partij",
-          "Een festival"
+          "Het accepteert de situatie",
+          "Het probeert de controle terug te winnen",
+          "Het valt andere landen aan",
+          "Het negeert de situatie volledig"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De activisten droegen opblaasbare kostuums om zich te beschermen.",
+        statement: "Het vredesbestand is opgelegd door Donald Trump.",
         isTrue: true
       },
       {
-        statement: "Trump heeft persoonlijk de opblaasbare figuren ontworpen.",
+        statement: "Hamas heeft als enige doel om Israël te vernietigen.",
         isTrue: false
       },
       {
-        statement: "Het incident met de pepperspraybollen vond plaats in Washington D.C.",
+        statement: "Israël kan op dit moment alleen toekijken.",
         isTrue: true
       }
     ]
@@ -605,94 +665,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
+    title: "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
     topicNumber: 1,
     article: {
-      title: "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
-      summary: "Het KMI heeft code geel afgekondigd voor het aankomende stormweer. Aan de kust geldt donderdag vanaf 15 uur code oranje."
+      title: "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
+      summary: "Al van eind juli weten we dat de Maas vervuild wordt met een schimmeldodend middel. Maar nog steeds is de bron niet bekend. Zelfs de Nederlandse ambassadeur liet zich in met de zaak."
     },
     vocabulary: {
       words: [
         {
-          word: "afgekondigd",
-          definition: "officieel bekendgemaakt"
+          word: "Vervuiling",
+          definition: "De aanwezigheid van schadelijke of ongewenste stoffen in het milieu",
+          sentence: "De industriële ___ heeft geleid tot een verslechtering van de waterkwaliteit.",
+          answer: "vervuiling"
         },
         {
-          word: "aankomende",
-          definition: "wat binnenkort komt"
+          word: "Midden",
+          definition: "Een term met meerdere betekenissen; hier gebruikt in de context 'in het midden van' of 'centraal in'",
+          sentence: "De stad ligt ___ in een dichtbevolkte regio.",
+          answer: "midden"
         },
         {
-          word: "geldt",
-          definition: "is van toepassing"
+          word: "Bron",
+          definition: "De oorsprong of oorzaak van iets; in deze context, de oorsprong van de vervuiling",
+          sentence: "Ondanks onderzoek blijft de exacte ___ van het lek onbekend.",
+          answer: "bron"
         },
         {
-          word: "vanaf",
-          definition: "beginnend op"
+          word: "Ambassadeur",
+          definition: "Een officiële vertegenwoordiger van een land in een ander land",
+          sentence: "De ___ heeft een ontmoeting met de minister van Milieu.",
+          answer: "ambassadeur"
         },
         {
-          word: "aangekondigd",
-          definition: "officieel bekendgemaakt"
+          word: "Zaak",
+          definition: "Een zaak of situatie; vaak gebruikt in formele of juridische context",
+          sentence: "De ___ zal worden behandeld door het Hooggerechtshof.",
+          answer: "zaak"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De regering heeft een nieuwe wet ___ voor de veiligheid.",
-          answer: "afgekondigd"
+          sentence: "De industriële ___ heeft geleid tot een verslechtering van de waterkwaliteit.",
+          answer: "vervuiling"
         },
         {
-          sentence: "De storm zal ___ morgen de kust bereiken.",
-          answer: "aankomende"
+          sentence: "De ___ heeft een ontmoeting met de minister van Milieu.",
+          answer: "ambassadeur"
         },
         {
-          sentence: "Deze regel ___ voor alle bezoekers van het park.",
-          answer: "geldt"
+          sentence: "De stad ligt ___ in een dichtbevolkte regio.",
+          answer: "midden"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'afgekondigd' in deze context?",
+        question: "Wat is de voornaamste oorzaak van de vervuiling in de Maas?",
         options: [
-          "Ondertekend",
-          "Afgekondigd",
-          "Gepubliceerd",
-          "Verboden"
+          "Industrieel afval",
+          "Landbouwchemicaliën",
+          "Een onbekende bron",
+          "Stedelijk rioolwater"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Welke functie heeft de Nederlandse ambassadeur in deze context?",
+        options: [
+          "Hij onderzoekt de vervuiling",
+          "Hij bemiddelt in het conflict",
+          "Hij is verantwoordelijk voor de vervuiling",
+          "Hij negeert de situatie"
         ],
         correctAnswer: 1
       },
       {
-        question: "Waar geldt code oranje volgens de tekst?",
+        question: "Wat is de houding van de Nederlandse overheid ten opzichte van deze kwestie?",
         options: [
-          "In het hele land",
-          "Alleen aan de kust",
-          "In de rest van het land",
-          "Alleen in de hoofdstad"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Vanaf wanneer geldt code oranje aan de kust?",
-        options: [
-          "Vanaf 12:00",
-          "Vanaf 15:00",
-          "Vanaf 18:00",
-          "Vanaf morgenochtend"
+          "Ze negeert het volledig",
+          "Ze werkt samen met andere landen",
+          "Ze accepteert alle verantwoordelijkheid",
+          "Ze ontkent enige betrokkenheid"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Code oranje geldt voor het hele land.",
+        statement: "De vervuiling van de Maas is al volledig opgehelderd.",
         isTrue: false
       },
       {
-        statement: "Code geel geldt voor het hele land behalve de kust.",
-        isTrue: false
-      },
-      {
-        statement: "Code oranje geldt alleen aan de kust vanaf 15:00.",
+        statement: "De Nederlandse ambassadeur is betrokken bij de zaak.",
         isTrue: true
+      },
+      {
+        statement: "De bron van de vervuiling is een industriële lekkage.",
+        isTrue: false
       }
     ]
   },
@@ -701,93 +771,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Schaken in Antwerpen",
+    title: "Ronsenaars ontredderd over hoge PFAS-waarden in bloed: 'Eerst dachten we dat onze kinderen geen risico liepen: hoe kan dit nu?'",
     topicNumber: 1,
     article: {
-      title: "Schaken in Antwerpen",
-      summary: "Het KMSKA in Antwerpen stond gisteren helemaal in het thema van schaken. Schaakgrootmeester Garry Kasparov nam het er op tegen twintig schakers, onder wie Antwerps burgemeester Els van Doesburg en de Belgische ondernemer Marc Coucke."
+      title: "Ronsenaars ontredderd over hoge PFAS-waarden in bloed: 'Eerst dachten we dat onze kinderen geen risico liepen: hoe kan dit nu?'",
+      summary: "Steeds meer Ronsenaars laten hun bloed op PFAS-waarden testen en krijgen verontrustend hoge resultaten terug. Het stadsbestuur zit met de handen in het haar en wil een grootschalig bloedonderzoek. 'De grond rond de beek moet gesaneerd worden, maar intussen spelen scouts vrolijk rond op vergiftigde grond.'"
     },
     vocabulary: {
       words: [
         {
-          word: "schaken",
-          definition: "een bordspel voor twee spelers"
+          word: "ontredderd",
+          definition: "In verwarring, overstuur, niet meer weten wat te doen",
+          sentence: "De bewoners waren ___ door het onverwachte nieuws over de PFAS-waarden.",
+          answer: "ontredderd"
         },
         {
-          word: "grootmeester",
-          definition: "iemand die heel goed is in iets"
+          word: "gesaneerd",
+          definition: "Gereinigd, vrijgemaakt van schadelijke stoffen of verontreiniging",
+          sentence: "De grond moet grondig worden ___ om het weer veilig te maken.",
+          answer: "gesaneerd"
         },
         {
-          word: "titel",
-          definition: "een naam die iets of iemand krijgt"
+          word: "vrolijk",
+          definition: "Blij, opgewekt, met plezier",
+          sentence: "Ondanks de zorgen, probeerden ze ___ verder te gaan met hun dagelijkse activiteiten.",
+          answer: "vrolijk"
         },
         {
-          word: "finalisten",
-          definition: "mensen die meedoen aan de laatste ronde van een wedstrijd"
+          word: "vergiftigde",
+          definition: "Vergiftigd, vol gifstoffen die schadelijk zijn",
+          sentence: "Ze besefte niet dat ze op een stuk grond aan het spelen was dat was ___ met chemicaliën.",
+          answer: "vergiftigde"
         },
         {
-          word: "ondernemer",
-          definition: "iemand die een bedrijf heeft"
+          word: "verontreinigd",
+          definition: "Vervuild, niet meer puur of schoon, vaak door chemische stoffen",
+          sentence: "De bodem was zo ___ dat er niets meer kon groeien.",
+          answer: "verontreinigd"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Garry Kasparov is een beroemde schaak___",
-          answer: "grootmeester"
+          sentence: "Ze besefte niet dat ze op een stuk grond aan het spelen was dat was ___ met chemicaliën.",
+          answer: "vergiftigde"
         },
         {
-          sentence: "De finalisten van het toernooi kregen een speciale ___",
-          answer: "titel"
+          sentence: "De bodem was zo ___ dat er niets meer kon groeien.",
+          answer: "verontreinigd"
         },
         {
-          sentence: "Een ondernemer zoals Marc Coucke richt vaak een ___ op",
-          answer: "ondernemer"
+          sentence: "De bewoners waren ___ door het onverwachte nieuws over de PFAS-waarden.",
+          answer: "ontredderd"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is schaken?",
+        question: "Waarom zijn de inwoners van Ronse zo bezorgd over hun bloedtestresultaten?",
         options: [
-          "Een sport",
-          "Een soort kunst",
-          "Een bordspel",
-          "Een muziekstuk"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Waar vond het schaakevenement plaats?",
-        options: [
-          "In Brussel",
-          "In het KMSKA",
-          "In een park",
-          "Op school"
+          "Omdat ze een feest plannen",
+          "Omdat ze hoge PFAS-waarden ontvingen",
+          "Omdat ze een nieuwe sport ontdekten",
+          "Omdat ze te veel gefrituurd voedsel aten"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wie is Marc Coucke?",
+        question: "Wat is de reactie van het stadsbestuur op de situatie?",
         options: [
-          "Een schaker",
-          "Een kunstenaar",
-          "Een ondernemer",
-          "Een politicus"
+          "Ze organiseren een festival",
+          "Ze overwegen een grootschalig bloedonderzoek",
+          "Ze negeren de problemen",
+          "Ze verhuizen naar een andere stad"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
+      },
+      {
+        question: "Waar wordt de grond rond de beek genoemd?",
+        options: [
+          "Gezond en veilig",
+          "Volledig steriel",
+          "Vrij van alle chemicaliën",
+          "Vervuild met PFAS en andere stoffen"
+        ],
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Garry Kasparov is een professionele schaker.",
-        isTrue: true
-      },
-      {
-        statement: "Het schaakevenement vond plaats in Brussel.",
+        statement: "De scouts die op de grond spelen, zijn zich bewust van de PFAS-verontreiniging.",
         isTrue: false
       },
       {
-        statement: "Marc Coucke is een van de deelnemers aan het schaaktoernooi.",
+        statement: "Het stadsbestuur heeft meteen actie ondernomen door een grootschalig bloedonderzoek te starten.",
+        isTrue: true
+      },
+      {
+        statement: "De bewoners van Ronse waren niet verrast door de testresultaten, omdat ze altijd al vermoedden dat er iets mis was.",
         isTrue: true
       }
     ]
@@ -797,93 +877,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Aanval op Oekraïne",
+    title: "Witte Huis krijgt nieuwe balzaal",
     topicNumber: 1,
     article: {
-      title: "Aanval op Oekraïne",
-      summary: "Bij een aanval op Oekraïne zijn zeven mensen omgekomen, onder wie twee kinderen. De aanval was in Kiev en Charkiv. In Charkiv werd een kleuterschool getroffen."
+      title: "Witte Huis krijgt nieuwe balzaal",
+      summary: "Het Witte Huis is het huis van de president van de Verenigde Staten. Er komt een nieuwe balzaal in het Witte Huis. De oostvleugel wordt afgebroken. President Trump heeft dit gezegd."
     },
     vocabulary: {
       words: [
         {
-          word: "aanval",
-          definition: "een gewelddadige actie tegen iemand of iets"
+          word: "Witte",
+          definition: "helder of doorzichtig, ook een kleur",
+          sentence: "Sneeuw is ___ en koud.",
+          answer: "Witte"
         },
         {
-          word: "omgekomen",
-          definition: "overleden, gestorven"
+          word: "Huis",
+          definition: "een gebouw waar mensen in wonen",
+          sentence: "Mijn ___ staat in Amsterdam.",
+          answer: "Huis"
         },
         {
-          word: "krijgen",
-          definition: "ontvangen, krijgen"
+          word: "balzaal",
+          definition: "een grote zaal waar mensen kunnen dansen",
+          sentence: "Op het feest was er een grote ___ voor dansen.",
+          answer: "balzaal"
         },
         {
-          word: "kinderen",
-          definition: "jonge mensen, jongens en meisjes"
+          word: "president",
+          definition: "de leider van een land",
+          sentence: "De ___ van de Verenigde Staten woont in het Witte Huis.",
+          answer: "president"
         },
         {
-          word: "kleuterschool",
-          definition: "een school voor jonge kinderen"
+          word: "gezegd",
+          definition: "het verleden deelwoord van zeggen, wat betekent dat je iets met woorden uitdrukt",
+          sentence: "Hij heeft ___ dat hij morgen komt.",
+          answer: "gezegd"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Bij een aanval kunnen mensen ___ komen.",
-          answer: "omgekomen"
+          sentence: "Op het feest was er een grote ___ voor dansen.",
+          answer: "balzaal"
         },
         {
-          sentence: "Kinderen zijn jonge ___ die nog moeten groeien.",
-          answer: "kinderen"
+          sentence: "Hij heeft ___ dat hij morgen komt.",
+          answer: "gezegd"
         },
         {
-          sentence: "Een ___ is een plek waar kinderen leren en spelen.",
-          answer: "kleuterschool"
+          sentence: "Mijn ___ staat in Amsterdam.",
+          answer: "Huis"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar was de aanval?",
+        question: "Waar is het Witte Huis?",
         options: [
-          "Kiev",
-          "Charkiv",
-          "Beide steden",
-          "Geen van beide"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wie zijn er omgekomen?",
-        options: [
-          "Alleen volwassenen",
-          "Alleen kinderen",
-          "Volwassenen en kinderen",
-          "Niemand"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is een kleuterschool?",
-        options: [
-          "Een soort winkel",
-          "Een school voor jonge kinderen",
-          "Een park",
-          "Een ziekenhuis"
+          "In Nederland",
+          "In Amerika",
+          "In China",
+          "In Japan"
         ],
         correctAnswer: 1
+      },
+      {
+        question: "Wie woont in het Witte Huis?",
+        options: [
+          "De minister",
+          "De koning",
+          "De president",
+          "De leraar"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat gebeurt er met de oostvleugel?",
+        options: [
+          "Het wordt geverfd",
+          "Het wordt verkocht",
+          "Het wordt afgebroken",
+          "Het wordt groter gemaakt"
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Er vielen doden bij de aanval.",
-        isTrue: true
-      },
-      {
-        statement: "Alleen volwassenen zijn omgekomen.",
+        statement: "Het Witte Huis is in Nederland.",
         isTrue: false
       },
       {
-        statement: "De aanval was alleen in Kiev.",
+        statement: "De president woont in het Witte Huis.",
+        isTrue: true
+      },
+      {
+        statement: "De oostvleugel wordt groter gemaakt.",
         isTrue: false
       }
     ]
@@ -893,93 +983,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
+    title: "Hamas probeert macht terug te krijgen in Gaza",
     topicNumber: 1,
     article: {
-      title: "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
-      summary: "Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”"
+      title: "Hamas probeert macht terug te krijgen in Gaza",
+      summary: "Met hulp van een vaag vredesplan van Donald Trump probeert Hamas opnieuw de macht te krijgen in Gaza. Israël kan voorlopig alleen toekijken hoe Hamas gewelddadig optreedt tegen milities, bendes en critici."
     },
     vocabulary: {
       words: [
         {
-          word: "protest",
-          definition: "een actie om te laten zien dat je het ergens niet mee eens bent"
+          word: "macht",
+          definition: "kracht of controle over iets",
+          sentence: "Hamas wil de ___ in Gaza hebben.",
+          answer: "macht"
         },
         {
-          word: "activisten",
-          definition: "mensen die actie voeren voor een bepaald doel, vaak een politiek of sociaal doel"
+          word: "plan",
+          definition: "een idee of methode om iets te doen",
+          sentence: "Het vredes___ is nog niet duidelijk.",
+          answer: "plan"
         },
         {
-          word: "kostuum",
-          definition: "een speciaal pak dat je aantrekt, vaak voor een feest of om je te verkleden"
+          word: "optreden",
+          definition: "handelen of iets doen, vaak in een moeilijke situatie",
+          sentence: "De politie moet ___ tegen criminelen.",
+          answer: "optreden"
         },
         {
-          word: "pepperspray",
-          definition: "een spuitbus met een scherpe vloeistof die de ogen irriteert, gebruikt door politie soms"
+          word: "krijgen",
+          definition: "iets ontvangen of verkrijgen",
+          sentence: "Hij wil zijn boek terug ___.",
+          answer: "krijgen"
         },
         {
-          word: "botsen",
-          definition: "tegen elkaar aan komen, vaak met kracht"
+          word: "tegen",
+          definition: "in oppositie of tegenover iets",
+          sentence: "Hij is ___ het plan.",
+          answer: "tegen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Tijdens het ___ droegen veel mensen maskers.",
-          answer: "protest"
+          sentence: "Hamas wil de ___ in Gaza hebben.",
+          answer: "macht"
         },
         {
-          sentence: "De politie gebruikte ___ om de menigte uiteen te drijven.",
-          answer: "pepperspray"
+          sentence: "Hij is ___ het plan.",
+          answer: "tegen"
         },
         {
-          sentence: "Twee mensen liepen tegen elkaar op, ze ___ tegen elkaar.",
-          answer: "botsen"
+          sentence: "De politie moet ___ tegen criminelen.",
+          answer: "optreden"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom droegen sommige mensen een kostuum?",
+        question: "Waarom wil Hamas de macht in Gaza?",
         options: [
-          "Om zich te beschermen tegen pepperspray",
-          "Omdat het feest was",
-          "Omdat ze wilden dansen",
-          "Ze waren verkleed als dier"
+          "Omdat het daar veel geld heeft",
+          "Omdat het daar populair is",
+          "Om de bevolking te helpen",
+          "Om andere groepen te controleren"
         ],
-        correctAnswer: 1
+        correctAnswer: 4
       },
       {
-        question: "Wat is pepperspray?",
+        question: "Wat is het resultaat van het vredesplan van Donald Trump voor Hamas?",
         options: [
-          "Een soort parfum",
-          "Een soort medicijn",
-          "Een spuitbus met irritante vloeistof",
-          "Een soort verkleedkostuum"
+          "Hamas krijgt meer geld",
+          "Hamas wordt populairder",
+          "Hamas kan makkelijker de macht grijpen",
+          "Hamas moet zich overgeven"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat gebeurde er met de pepperspray?",
+        question: "Hoe reageert Israël op de situatie in Gaza?",
         options: [
-          "Het werd opgegeten",
-          "Het verdampte in de lucht",
-          "Het werd afgebeten door de activisten",
-          "Het ketste af op de kostuums"
+          "Het stuurt meer soldaten",
+          "Het doet niets en kijkt toe",
+          "Het onderhandelt met Hamas",
+          "Het steunt andere groepen"
         ],
-        correctAnswer: 4
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De activisten droegen kostuums om zich te beschermen.",
+        statement: "Hamas probeert de macht in Gaza te krijgen met geweld.",
         isTrue: true
       },
       {
-        statement: "Pepperspray kan door kleding heen komen.",
-        isTrue: true
+        statement: "Het vredesplan van Donald Trump is heel duidelijk voor iedereen.",
+        isTrue: false
       },
       {
-        statement: "De protesten waren alleen tegen Donald Trump.",
+        statement: "Israël helpt Hamas om de macht te krijgen in Gaza.",
         isTrue: false
       }
     ]
@@ -989,94 +1089,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Veel boetes voor gokken niet betaald",
+    title: "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
     topicNumber: 1,
     article: {
-      title: "Veel boetes voor gokken niet betaald",
-      summary: "De Kansspelcommissie heeft in 2024 veel boetes uitgeschreven, maar veel boetes zijn niet betaald. Van de 4,6 miljoen euro aan boetes is slechts 0,6 procent betaald. De Kansspelcommissie is als een tijger zonder tanden."
+      title: "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
+      summary: "Al van eind juli weten we dat de Maas vervuild wordt met een schimmeldodend middel. Maar nog steeds is de bron niet bekend. Zelfs de Nederlandse ambassadeur liet zich in met de zaak."
     },
     vocabulary: {
       words: [
         {
-          word: "boetes",
-          definition: "geld dat je moet betalen als straf"
+          word: "Vervuiling",
+          definition: "Als iets vies of giftig wordt gemaakt.",
+          sentence: "De fabriek veroorzaakt veel vervuiling in de rivier.",
+          answer: "Vervuiling"
         },
         {
-          word: "betaald",
-          definition: "het geld is gegeven voor iets"
+          word: "Mysterie",
+          definition: "Iets dat niet bekend is of moeilijk te begrijpen.",
+          sentence: "Waarom hij vertrok is nog een mysterie voor ons.",
+          answer: "Mysterie"
         },
         {
-          word: "gokken",
-          definition: "spelen om geld te winnen of verliezen"
+          word: "Ambassadeur",
+          definition: "Een persoon die zijn land vertegenwoordigt in een ander land.",
+          sentence: "De ambassadeur van Frankrijk bezocht ons land.",
+          answer: "Ambassadeur"
         },
         {
-          word: "tand",
-          definition: "hard, wit ding in je mond"
+          word: "Mengt",
+          definition: "Iets door elkaar halen of erbij betrekken.",
+          sentence: "Hij mengt zich altijd in gesprekken die hem niet aangaan.",
+          answer: "Mengt"
         },
         {
-          word: "tijger",
-          definition: "een groot, geel met zwart gestreept dier"
+          word: "Schimmeldodend",
+          definition: "Iets dat schimmels doodt.",
+          sentence: "Dit schimmeldodend middel is niet goed voor het water.",
+          answer: "Schimmeldodend"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Als je niet betaalt, krijg je een ___.",
-          answer: "boete"
+          sentence: "De fabriek veroorzaakt veel vervuiling in de rivier.",
+          answer: "Vervuiling"
         },
         {
-          sentence: "Een ___ is een gevaarlijk dier.",
-          answer: "tijger"
+          sentence: "Waarom hij vertrok is nog een mysterie voor ons.",
+          answer: "Mysterie"
         },
         {
-          sentence: "Gokken kan verslavend zijn, net als een ___.",
-          answer: "tijger"
+          sentence: "Hij mengt zich altijd in gesprekken die hem niet aangaan.",
+          answer: "Mengt"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de Kansspelcommissie?",
+        question: "Wat betekent het als de Maas vervuild is?",
         options: [
-          "Een soort bank",
-          "Een groep die toezicht houdt op gokken",
-          "Een soort dierentuin",
-          "Een soort restaurant"
+          "De Maas is erg schoon",
+          "De Maas is vuil en gevaarlijk",
+          "De Maas is bevroren",
+          "De Maas is ondiep"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is een 'tandeloze tijger'?",
+        question: "Wat is een schimmeldodend middel?",
         options: [
-          "Een dier zonder tanden",
-          "Iemand die er niet gevaarlijk uitziet",
-          "Een dier dat niet kan bijten",
-          "Alle bovenstaande"
+          "Een middel dat schimmels eet",
+          "Een middel dat schimmels doodmaakt",
+          "Een middel dat schimmels kweekt",
+          "Een middel dat niets met schimmels doet"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Waar gaat de tekst over?",
+        question: "Wat doet de Nederlandse ambassadeur?",
         options: [
-          "Over een echte tijger",
-          "Over geld en boetes",
-          "Over een commissie die geen tanden heeft",
-          "Over de opbrengst van boetes"
+          "Hij gaat op vakantie",
+          "Hij maakt zich druk om de zaak",
+          "Hij negeert de zaak",
+          "Hij verhuist naar een ander land"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De Kansspelcommissie heeft in 2024 veel boetes geïnd.",
+        statement: "De bron van de vervuiling is al bekend.",
         isTrue: false
       },
       {
-        statement: "Een tijger zonder tanden kan niet bijten.",
+        statement: "Een ambassadeur vertegenwoordigt zijn land in een ander land.",
         isTrue: true
       },
       {
-        statement: "De Kansspelcommissie is net een sterke leeuw.",
-        isTrue: false
+        statement: "Schimmels kunnen gevaarlijk zijn voor de gezondheid.",
+        isTrue: true
       }
     ]
   },
@@ -1085,94 +1195,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Schaakgrootmeester Garry Kasparov verslaat tegenstanders in Antwerpen",
+    title: "Ronsenaars maken zich zorgen over PFAS in bloed",
     topicNumber: 1,
     article: {
-      title: "Schaakgrootmeester Garry Kasparov verslaat tegenstanders in Antwerpen",
-      summary: "Het KMSKA in Antwerpen stond gisteren helemaal in het thema van schaken. Schaakgrootmeester Garry Kasparov nam het er op tegen twintig schakers, onder wie Antwerps burgemeester Els van Doesburg en de Belgische ondernemer Marc Coucke."
+      title: "Ronsenaars maken zich zorgen over PFAS in bloed",
+      summary: "Steeds meer mensen in Ronse laten hun bloed testen op PFAS en krijgen hoge waarden. Het stadsbestuur wil een groot bloedonderzoek doen. Ondertussen spelen kinderen op grond met PFAS."
     },
     vocabulary: {
       words: [
         {
-          word: "schaken",
-          definition: "een spel dat je op een bord speelt met verschillende soorten stukken"
+          word: "bloed",
+          definition: "de rode vloeistof die door je lichaam stroomt",
+          sentence: "De dokter onderzoekt het ___ van de patiënt.",
+          answer: "bloed"
         },
         {
-          word: "tegenstanders",
-          definition: "mensen tegen wie je speelt of strijdt"
+          word: "testen",
+          definition: "controleren of iets goed of slecht is",
+          sentence: "De arts wil het bloed ___ op PFAS.",
+          answer: "testen"
         },
         {
-          word: "Antwerpen",
-          definition: "een grote stad in België"
+          word: "hoge",
+          definition: "veel of sterk, niet laag",
+          sentence: "De temperatuur was erg ___ in de zomer.",
+          answer: "hoge"
         },
         {
-          word: "grootmeester",
-          definition: "iemand die heel erg goed is in iets, vooral in schaken"
+          word: "bestuur",
+          definition: "de groep mensen die de leiding heeft",
+          sentence: "Het ___ van de stad moet een beslissing nemen.",
+          answer: "bestuur"
         },
         {
-          word: "onderwerp",
-          definition: "waar iets over gaat"
+          word: "spelen",
+          definition: "leuke dingen doen voor plezier",
+          sentence: "Kinderen willen graag buiten ___ in de tuin.",
+          answer: "spelen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Garry Kasparov is een beroemde ___",
-          answer: "schaken"
+          sentence: "Kinderen willen graag buiten ___ in de tuin.",
+          answer: "spelen"
         },
         {
-          sentence: "Hij speelde tegen sterke ___ uit verschillende landen.",
-          answer: "tegenstanders"
+          sentence: "De dokter onderzoekt het ___ van de patiënt.",
+          answer: "bloed"
         },
         {
-          sentence: "De wedstrijd vond plaats in de stad ___.",
-          answer: "Antwerpen"
+          sentence: "Het ___ van de stad moet een beslissing nemen.",
+          answer: "bestuur"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar ging het artikel over?",
+        question: "Waar gaat het artikel over?",
         options: [
-          "een voetbalwedstrijd",
-          "een schaakwedstrijd",
-          "een politiek debat",
-          "een kunstexpositie"
+          "Het weer in België",
+          "De gezondheid van mensen in Ronse",
+          "De nieuwe speeltuin in Ronse",
+          "De prijs van brood"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wie is Garry Kasparov?",
+        question: "Wat wil het stadsbestuur doen?",
         options: [
-          "een beroemde schaker",
-          "de burgemeester van Antwerpen",
-          "een Belgische ondernemer",
-          "een kunstschilder"
+          "Niets",
+          "Meer bomen planten",
+          "Een groot bloedonderzoek houden",
+          "Meer speeltuinen bouwen"
         ],
-        correctAnswer: 0
+        correctAnswer: 2
       },
       {
-        question: "Waar vond de gebeurtenis plaats?",
+        question: "Waar zijn de kinderen aan het spelen?",
         options: [
-          "in Antwerpen",
-          "in Brussel",
-          "in Amsterdam",
-          "in Parijs"
+          "Op verontreinigde grond",
+          "In een museum",
+          "Op school",
+          "Thuis"
         ],
         correctAnswer: 0
       }
     ],
     trueFalse: [
       {
-        statement: "Garry Kasparov is een professionele schaker.",
-        isTrue: true
-      },
-      {
-        statement: "De schakers speelden een voetbalwedstrijd.",
+        statement: "Het bloed van de mensen in Ronse is getest en is veilig.",
         isTrue: false
       },
       {
-        statement: "Marc Coucke is een van de schakers.",
+        statement: "Het stadsbestuur van Ronse wil een groot bloedonderzoek doen.",
         isTrue: true
+      },
+      {
+        statement: "Kinderen spelen op schone grond zonder PFAS.",
+        isTrue: false
       }
     ]
   },
@@ -1181,93 +1301,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Zeven doden na grootschalige Russische aanval op Oekraïne, onder wie twee kinderen",
+    title: "Witte Huis krijgt nieuwe vleugel",
     topicNumber: 1,
     article: {
-      title: "Zeven doden na grootschalige Russische aanval op Oekraïne, onder wie twee kinderen",
-      summary: "Bij een grootschalige Russische aanval zijn in Kiev zes mensen omgekomen, onder wie twee kinderen. Ook in Charkiv viel een dode. Daar werd een kleuterschool getroffen."
+      title: "Witte Huis krijgt nieuwe vleugel",
+      summary: "De oostvleugel van het Witte Huis wordt volledig afgebroken. Er komt een nieuwe vleugel voor in de plaats. President Trump heeft dit plan goedgekeurd. De werkzaamheden zijn onmiddellijk begonnen."
     },
     vocabulary: {
       words: [
         {
-          word: "aanval",
-          definition: "een militaire actie tegen een doel"
+          word: "afgebroken",
+          definition: "gesloopt, verwijderd of weggehaald",
+          sentence: "Het oude gebouw werd volledig ___ en vervangen door een modern gebouw.",
+          answer: "afgebroken"
         },
         {
-          word: "omgekomen",
-          definition: "overleden, gestorven"
+          word: "vleugel",
+          definition: "een deel van een gebouw, vaak met een eigen functie",
+          sentence: "Het nieuwe ziekenhuis heeft een speciale ___ voor kinderafdeling.",
+          answer: "vleugel"
         },
         {
-          word: "getroffen",
-          definition: "geraakt, getroffen door iets (bijv. een bom)"
+          word: "goedgekeurd",
+          definition: "officieel akkoord, goedgekeurd",
+          sentence: "Het bouwplan is door de gemeente ___ en kan nu starten.",
+          answer: "goedgekeurd"
         },
         {
-          word: "kleuterschool",
-          definition: "een school voor jonge kinderen"
+          word: "Witte",
+          definition: "een kleur, tegenover zwart",
+          sentence: "Hij droeg een ___ overhemd met een donkere das.",
+          answer: "Witte"
         },
         {
-          word: "grootschalige",
-          definition: "op grote schaal, omvangrijk"
+          word: "Huis",
+          definition: "een gebouw om in te wonen, woning",
+          sentence: "Het nieuwe ___ heeft vijf slaapkamers en een grote tuin.",
+          answer: "Huis"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "In de oorlog zijn veel mensen ___ door bombardementen.",
-          answer: "omgekomen"
+          sentence: "Het oude gebouw werd volledig ___ en vervangen door een modern gebouw.",
+          answer: "afgebroken"
         },
         {
-          sentence: "De ___ werd beschadigd door een bom.",
-          answer: "kleuterschool"
+          sentence: "Hij droeg een ___ overhemd met een donkere das.",
+          answer: "Witte"
         },
         {
-          sentence: "De aanval was ___ en trof veel gebieden.",
-          answer: "grootschalige"
+          sentence: "Het nieuwe ziekenhuis heeft een speciale ___ voor kinderafdeling.",
+          answer: "vleugel"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar vond de aanval plaats?",
+        question: "Wat wordt er met de oostvleugel van het Witte Huis gedaan?",
         options: [
-          "Kiev",
-          "Charkiv",
-          "Moskou",
-          "Berlijn"
+          "Het wordt gerenoveerd",
+          "Het wordt volledig afgebroken",
+          "Het wordt uitgebreid",
+          "Het wordt verplaatst"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat werd er getroffen in Charkiv?",
+        question: "Wat is de reden voor deze actie volgens het artikel?",
         options: [
-          "Een ziekenhuis",
-          "Een woonwijk",
-          "Een school",
-          "Een fabriek"
+          "Er is geen specifieke reden vermeld",
+          "Om plaats te maken voor een nieuw gebouw",
+          "Omdat het gebouw verouderd is",
+          "Vanwege veiligheidsredenen"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Hoeveel mensen stierven in totaal?",
+        question: "Wie heeft deze beslissing goedgekeurd?",
         options: [
-          "5",
-          "6",
-          "7",
-          "8"
+          "De gemeente",
+          "President Trump",
+          "De architect",
+          "De burgemeester"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Er vielen alleen doden in Kiev.",
+        statement: "De oostvleugel van het Witte Huis wordt gerenoveerd in plaats van volledig afgebroken.",
         isTrue: false
       },
       {
-        statement: "Ook in Charkiv vielen doden door de aanval.",
+        statement: "President Trump heeft het plan goedgekeurd om de oostvleugel af te breken.",
         isTrue: true
       },
       {
-        statement: "Er werden alleen militaire doelen getroffen.",
+        statement: "De werkzaamheden om de oostvleugel af te breken zijn nog niet begonnen.",
         isTrue: false
       }
     ]
@@ -1277,93 +1407,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
+    title: "Hamas probeert opnieuw de macht te grijpen in Gaza",
     topicNumber: 1,
     article: {
-      title: "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
-      summary: "Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”"
+      title: "Hamas probeert opnieuw de macht te grijpen in Gaza",
+      summary: "Met hulp van een vaag vredesbestand van Donald Trump, probeert Hamas zijn oude machtspositie te herwinnen. Israël kan voorlopig alleen toekijken hoe het milities, bendes en critici gewelddadig wegduwt."
     },
     vocabulary: {
       words: [
         {
-          word: "protest",
-          definition: "een publieke actie om ongenoegen of verzet te uiten"
+          word: "machtspositie",
+          definition: "De positie waarin iemand macht heeft of controle uitoefent",
+          sentence: "In een conflict willen groepen vaak de ___ veroveren.",
+          answer: "machtspositie"
         },
         {
-          word: "beleid",
-          definition: "een plan of reeks van regels om iets te besturen"
+          word: "vredesbestand",
+          definition: "Een overeenkomst of regeling die vrede moet bewaren",
+          sentence: "Een ___ kan helpen om geweld te stoppen, maar soms werkt het niet.",
+          answer: "vredesbestand"
         },
         {
-          word: "kostuum",
-          definition: "een set kleding die samen een outfit vormen, vaak voor een specifiek doel"
+          word: "milities",
+          definition: "Groepen gewapende mensen die vaak onofficieel vechten",
+          sentence: "Sommige ___ vechten voor een bepaalde regio of ideaal.",
+          answer: "milities"
         },
         {
-          word: "beschermen",
-          definition: "iets of iemand veilig houden en tegen gevaar beschermen"
+          word: "wegduwt",
+          definition: "Iets of iemand ergens vandaan duwen, vaak met kracht",
+          sentence: "Een sterke natie kan een kleinere groep ___, maar dat lost niet alles op.",
+          answer: "wegduwt"
         },
         {
-          word: "actie",
-          definition: "een gebeurtenis of activiteit met een bepaald doel"
+          word: "laken",
+          description: "Een oudere of formele term voor een bedoeken; hier figuurlijk gebruikt voor macht of controle",
+          sentence: "In onderhandelingen probeert elke partij het ___ naar zich toe te trekken.",
+          answer: "laken"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Tijdens het ___ tegen het nieuwe beleid, droegen velen een speciaal kostuum.",
-          answer: "protest"
+          sentence: "In een conflict willen groepen vaak de ___ veroveren.",
+          answer: "machtspositie"
         },
         {
-          sentence: "De politie kon de demonstranten niet ___, omdat ze onherkenbaar waren.",
-          answer: "identificeren"
+          sentence: "Een sterke natie kan een kleinere groep ___, maar dat lost niet alles op.",
+          answer: "wegduwt"
         },
         {
-          sentence: "Het nieuwe ___ maakt het moeilijk voor mensen met een laag inkomen.",
-          answer: "beleid"
+          sentence: "Sommige ___ vechten voor een bepaalde regio of ideaal.",
+          answer: "milities"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom droegen sommige demonstranten een kostuum?",
+        question: "Wat is een 'vredesbestand'?",
         options: [
-          "Om zich te beschermen tegen traangas",
-          "Om er stijlvol uit te zien",
-          "Omdat het verplicht was",
-          "Ze droegen geen kostuum"
+          "Een soort wapen",
+          "Een overeenkomst om het geweld te stoppen",
+          "Een internationaal verdrag",
+          "Een feestelijke bijeenkomst"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat was het effect van de kostuums?",
+        question: "Wat betekent 'de macht herwinnen'?",
         options: [
-          "De politie kon hen niet herkennen",
-          "Ze vielen meer op in de menigte",
-          "Ze werden sneller moe van het lopen",
-          "Ze waren beter beschermd tegen kou"
+          "De macht verliezen",
+          "De macht opnieuw krijgen",
+          "De macht overdragen",
+          "De macht negeren"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is de toon van het artikel?",
+        question: "Wat zijn 'milities'?",
         options: [
-          "Neutraal en informatief",
-          "Heel kritisch",
-          "Heel positief",
-          "Onverschillig"
+          "Militaire eenheden",
+          "Onofficiële gewapende groepen",
+          "Politieke partijen",
+          "Sportteams"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De activisten droegen kostuums om zich te beschermen tegen pepperspray.",
-        isTrue: true
-      },
-      {
-        statement: "Donald Trump was zelf aanwezig bij dit protest.",
+        statement: "Een vredesbestand zorgt altijd voor permanente vrede.",
         isTrue: false
       },
       {
-        statement: "Het artikel suggereert dat de kostuums de actie effectiever maakten.",
+        statement: "Milities kunnen bijdragen aan onrust in een regio.",
+        isTrue: true
+      },
+      {
+        statement: "Het wegduwen van groepen lost de onderliggende problemen niet op.",
         isTrue: true
       }
     ]
@@ -1373,93 +1513,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
+    title: "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
     topicNumber: 1,
     article: {
-      title: "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
-      summary: "Het KMI heeft code geel afgekondigd voor het aankomende stormweer. Aan de kust geldt donderdag vanaf 15 uur code oranje."
+      title: "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
+      summary: "Al van eind juli weten we dat de Maas vervuild wordt met een schimmeldodend middel. Maar nog steeds is de bron niet bekend. Zelfs de Nederlandse ambassadeur liet zich in met de zaak."
     },
     vocabulary: {
       words: [
         {
-          word: "KMI",
-          definition: "Koninklijk Meteorologisch Instituut"
+          word: "maatregel",
+          definition: "iets wat je doet om een probleem op te lossen",
+          sentence: "De regering nam een belangrijke ___ om de vervuiling te stoppen.",
+          answer: "maatregel"
         },
         {
-          word: "stormweer",
-          definition: "weer met veel wind, regen of storm"
+          word: "veroorlaken",
+          definition: "iets dat de oorzaak is van iets, bijvoorbeeld een probleem",
+          sentence: "Industrieel afval kan ___ dat rivieren vervuild raken.",
+          answer: "veroorlaken"
         },
         {
-          word: "code",
-          definition: "een soort waarschuwing of signaal"
+          word: "onderzoeken",
+          definition: "proberen meer te weten te komen over iets, door het te bestuderen",
+          sentence: "Wetenschappers willen de waterkwaliteit ___ om deze te verbeteren.",
+          answer: "onderzoeken"
         },
         {
-          word: "oranje",
-          definition: "een kleur, hier een code voor gevaar"
+          word: "samenwerken",
+          definition: "samen met anderen werken aan een gemeenschappelijk doel",
+          sentence: "Verschillende landen moeten ___ om grensoverschrijdende vervuiling aan te pakken.",
+          answer: "samenwerken"
         },
         {
-          word: "geel",
-          definition: "een kleur, hier een code voor minder gevaar"
+          word: "aanpakken",
+          definition: "iets actief doen om een probleem op te lossen",
+          sentence: "De overheid moet de crisis ___ voordat het erger wordt.",
+          answer: "aanpakken"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het KMI heeft een speciale ___ uitgegeven voor het weer.",
-          answer: "code"
+          sentence: "De overheid moet de crisis ___ voordat het erger wordt.",
+          answer: "aanpakken"
         },
         {
-          sentence: "Aan de kust geldt code ___ vanaf 15 uur.",
-          answer: "oranje"
+          sentence: "Industrieel afval kan ___ dat rivieren vervuild raken.",
+          answer: "veroorlaken"
         },
         {
-          sentence: "In de rest van het land geldt code ___ .",
-          answer: "geel"
+          sentence: "Verschillende landen moeten ___ om grensoverschrijdende vervuiling aan te pakken.",
+          answer: "samenwerken"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'code oranje'?",
+        question: "Wat is een van de oorzaken van de vervuiling in de Maas?",
         options: [
-          "Er is geen gevaar",
-          "Wees voorzichtig, er is gevaar",
-          "Er is extreem gevaar",
-          "De code is niet geldig"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Waar geldt code geel?",
-        options: [
-          "Alleen aan de kust",
-          "In de rest van het land",
-          "Alleen in het buitenland",
-          "Overal in België"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wanneer gaat de code in?",
-        options: [
-          "Vanaf 15 uur",
-          "Alleen in de ochtend",
-          "De hele dag",
-          "Alleen na 15 uur"
+          "Industrieel afval",
+          "Natuurlijke sedimenten",
+          "Overmatige regenval",
+          "Geen van bovenstaande"
         ],
         correctAnswer: 1
+      },
+      {
+        question: "Wat is het hoofddoel van het onderzoek naar de Maas?",
+        options: [
+          "De vervuiling stoppen",
+          "De bron van de vervuiling vinden",
+          "De Maas volledig reinigen",
+          "Toerisme bevorderen"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is de rol van de Nederlandse ambassadeur in deze kwestie?",
+        options: [
+          "Hij leidt het onderzoek",
+          "Hij ondersteunt de samenwerking",
+          "Hij negeert de situatie",
+          "Hij maakt de vervuiling erger"
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Code oranje betekent dat er extreem gevaar is.",
-        isTrue: true
-      },
-      {
-        statement: "Code geel geldt alleen aan de kust.",
+        statement: "De bron van de vervuiling in de Maas is al bekend.",
         isTrue: false
       },
       {
-        statement: "De waarschuwing geldt vanaf 15 uur.",
+        statement: "Nederland werkt alleen om de Maas te zuiveren.",
+        isTrue: false
+      },
+      {
+        statement: "Internationale samenwerking is betrokken bij deze kwestie.",
         isTrue: true
       }
     ]
@@ -1469,94 +1619,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Schaakgrootmeester Garry Kasparov speelt in Antwerpen tegen twintig finalisten",
+    title: "Ronsenaars ontredderd over hoge PFAS-waarden in bloed: Eerst dachten zij dat hun kinderen geen risico liepen",
     topicNumber: 1,
     article: {
-      title: "Schaakgrootmeester Garry Kasparov speelt in Antwerpen tegen twintig finalisten",
-      summary: "Het KMSKA in Antwerpen stond gisteren helemaal in het thema van schaken. De bekende schaker Garry Kasparov speelde tegen twintig tegenstanders, waaronder de Antwerpse burgemeester Els van Doesburg en de Belgische ondernemer Marc Coucke. Uiteindelijk won Kasparov alle partijen."
+      title: "Ronsenaars ontredderd over hoge PFAS-waarden in bloed: Eerst dachten zij dat hun kinderen geen risico liepen",
+      summary: "Steeds meer Ronsenaars laten hun bloed op PFAS-waarden testen en krijgen verontrustend hoge resultaten terug. Het stadsbestuur zit met de handen in het haar en wil een grootschalig bloedonderzoek. De grond rond de beek moet gesaneerd worden, maar intussen spelen scouts vrolijk rond op vergiftigde grond."
     },
     vocabulary: {
       words: [
         {
-          word: "schaken",
-          definition: "een bordspel voor twee spelers waarbij je de stukken van je tegenstander moet slaan"
+          word: "ontredderd",
+          definition: "in verwarring, niet weten wat te doen",
+          sentence: "Na het ontslag voelde ze zich helemaal ___ en wist niet wat haar volgende stap moest zijn.",
+          answer: "ontredderd"
         },
         {
-          word: "tegenstander",
-          definition: "iemand die tegen je speelt in een spel of sport"
+          word: "risico",
+          definition: "gevaar of kans op iets negatiefs",
+          sentence: "Roken brengt een groot gezondheids___ met zich mee.",
+          answer: "risico"
         },
         {
-          word: "winnen",
-          definition: "een spel of wedstrijd winnen, dus niet verliezen"
+          word: "vergiftigde",
+          definition: "vergiftigd, vergift is binnengekregen",
+          sentence: "De ___ grond maakte het onmogelijk om er groenten te verbouwen.",
+          answer: "vergiftigde"
         },
         {
-          word: "finalisten",
-          definition: "deelnemers die tot de finale zijn gekwalificeerd"
+          word: "gesaneerd",
+          definition: "schoon en vrijgemaakt van vervuiling",
+          sentence: "Na de sanering was de bodem volledig ___ en veilig voor gebruik.",
+          answer: "gesaneerd"
         },
         {
-          word: "ondernemer",
-          definition: "een persoon die een bedrijf of onderneming heeft"
+          word: "grootschalig",
+          definition: "op grote schaal, met veel deelnemers of gebieden",
+          sentence: "De overheid startte een ___ onderzoek naar de waterkwaliteit in de regio.",
+          answer: "grootschalig"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Garry Kasparov is een beroemde ___ die in Antwerpen tegen twintig mensen speelde.",
-          answer: "schaker"
+          sentence: "Roken brengt een groot gezondheids___ met zich mee.",
+          answer: "risico"
         },
         {
-          sentence: "Els van Doesburg en Marc Coucke waren twee van de ___ die tegen Kasparov speelden.",
-          answer: "finalisten"
+          sentence: "De overheid startte een ___ onderzoek naar de waterkwaliteit in de regio.",
+          answer: "grootschalig"
         },
         {
-          sentence: "Uiteindelijk kon niemand Kasparov ___ en won hij alle partijen.",
-          answer: "verslaan"
+          sentence: "Na het ontslag voelde ze zich helemaal ___ en wist niet wat haar volgende stap moest zijn.",
+          answer: "ontredderd"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is Garry Kasparos zijn beroep?",
+        question: "Wat betekent het als de grond 'gesaneerd' moet worden?",
         options: [
-          "Tennisser",
-          "Schaker",
-          "Voetballer",
-          "Basketballer"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Waar vond het schaakevenement plaats?",
-        options: [
-          "In Brussel",
-          "In Antwerpen",
-          "In Gent",
-          "In Brugge"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat was de uitslag van de schaakpartijen?",
-        options: [
-          "Kasparov won alles",
-          "Kasparov verloor alles",
-          "Het werd een gelijkspel",
-          "Alleen de laatste partij werd gewonnen"
+          "Het moet schoongemaakt worden",
+          "Het moet bewaterd worden",
+          "Het moet bemest worden",
+          "Het moet bebouwd worden"
         ],
         correctAnswer: 0
+      },
+      {
+        question: "Waarom zijn de Ronsenaars ontredderd volgens de tekst?",
+        options: [
+          "Omdat hun kinderen ziek werden",
+          "Omdat ze niet wisten dat er een risico was",
+          "Omdat de grond al gesaneerd was",
+          "Omdat de scouts niet meer mochten spelen"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is de hoofdgedachte van de samenvatting?",
+        options: [
+          "Scouts spelen op giftige grond",
+          "Bloedonderzoeken tonen hoge PFAS-waarden",
+          "Het stadsbestuur weet het niet meer",
+          "De gemeente wil de beek saneren"
+        ],
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Garry Kasparov is een professionele schaker.",
-        isTrue: true
-      },
-      {
-        statement: "De Belgische ondernemer Marc Coucke won zijn partij tegen Kasparov.",
+        statement: "De Ronsenaars zijn blij met de testresultaten.",
         isTrue: false
       },
       {
-        statement: "Het KMSKA is een museum in Antwerpen.",
+        statement: "Het stadsbestuur onderneemt actie door een groot onderzoek te starten.",
         isTrue: true
+      },
+      {
+        statement: "Scouts spelen op de vergiftigde grond, wat als een veilige situatie wordt beschouwd.",
+        isTrue: false
       }
     ]
   }

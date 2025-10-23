@@ -1,96 +1,106 @@
 {
-  "id": 13,
+  "id": 14,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Schaakgrootmeester Garry Kasparov verslaat tegenstanders in Antwerpen",
+  "title": "Ronsenaars maken zich zorgen over PFAS in bloed",
   "topicNumber": 1,
   "article": {
-    "title": "Schaakgrootmeester Garry Kasparov verslaat tegenstanders in Antwerpen",
-    "summary": "Het KMSKA in Antwerpen stond gisteren helemaal in het thema van schaken. Schaakgrootmeester Garry Kasparov nam het er op tegen twintig schakers, onder wie Antwerps burgemeester Els van Doesburg en de Belgische ondernemer Marc Coucke."
+    "title": "Ronsenaars maken zich zorgen over PFAS in bloed",
+    "summary": "Steeds meer mensen in Ronse laten hun bloed testen op PFAS en krijgen hoge waarden. Het stadsbestuur wil een groot bloedonderzoek doen. Ondertussen spelen kinderen op grond met PFAS."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "schaken",
-        "definition": "een spel dat je op een bord speelt met verschillende soorten stukken"
+        "word": "bloed",
+        "definition": "de rode vloeistof die door je lichaam stroomt",
+        "sentence": "De dokter onderzoekt het ___ van de patiënt.",
+        "answer": "bloed"
       },
       {
-        "word": "tegenstanders",
-        "definition": "mensen tegen wie je speelt of strijdt"
+        "word": "testen",
+        "definition": "controleren of iets goed of slecht is",
+        "sentence": "De arts wil het bloed ___ op PFAS.",
+        "answer": "testen"
       },
       {
-        "word": "Antwerpen",
-        "definition": "een grote stad in België"
+        "word": "hoge",
+        "definition": "veel of sterk, niet laag",
+        "sentence": "De temperatuur was erg ___ in de zomer.",
+        "answer": "hoge"
       },
       {
-        "word": "grootmeester",
-        "definition": "iemand die heel erg goed is in iets, vooral in schaken"
+        "word": "bestuur",
+        "definition": "de groep mensen die de leiding heeft",
+        "sentence": "Het ___ van de stad moet een beslissing nemen.",
+        "answer": "bestuur"
       },
       {
-        "word": "onderwerp",
-        "definition": "waar iets over gaat"
+        "word": "spelen",
+        "definition": "leuke dingen doen voor plezier",
+        "sentence": "Kinderen willen graag buiten ___ in de tuin.",
+        "answer": "spelen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Garry Kasparov is een beroemde ___",
-        "answer": "schaken"
+        "sentence": "Kinderen willen graag buiten ___ in de tuin.",
+        "answer": "spelen"
       },
       {
-        "sentence": "Hij speelde tegen sterke ___ uit verschillende landen.",
-        "answer": "tegenstanders"
+        "sentence": "De dokter onderzoekt het ___ van de patiënt.",
+        "answer": "bloed"
       },
       {
-        "sentence": "De wedstrijd vond plaats in de stad ___.",
-        "answer": "Antwerpen"
+        "sentence": "Het ___ van de stad moet een beslissing nemen.",
+        "answer": "bestuur"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar ging het artikel over?",
+      "question": "Waar gaat het artikel over?",
       "options": [
-        "een voetbalwedstrijd",
-        "een schaakwedstrijd",
-        "een politiek debat",
-        "een kunstexpositie"
+        "Het weer in België",
+        "De gezondheid van mensen in Ronse",
+        "De nieuwe speeltuin in Ronse",
+        "De prijs van brood"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wie is Garry Kasparov?",
+      "question": "Wat wil het stadsbestuur doen?",
       "options": [
-        "een beroemde schaker",
-        "de burgemeester van Antwerpen",
-        "een Belgische ondernemer",
-        "een kunstschilder"
+        "Niets",
+        "Meer bomen planten",
+        "Een groot bloedonderzoek houden",
+        "Meer speeltuinen bouwen"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
-      "question": "Waar vond de gebeurtenis plaats?",
+      "question": "Waar zijn de kinderen aan het spelen?",
       "options": [
-        "in Antwerpen",
-        "in Brussel",
-        "in Amsterdam",
-        "in Parijs"
+        "Op verontreinigde grond",
+        "In een museum",
+        "Op school",
+        "Thuis"
       ],
       "correctAnswer": 0
     }
   ],
   "trueFalse": [
     {
-      "statement": "Garry Kasparov is een professionele schaker.",
-      "isTrue": true
-    },
-    {
-      "statement": "De schakers speelden een voetbalwedstrijd.",
+      "statement": "Het bloed van de mensen in Ronse is getest en is veilig.",
       "isTrue": false
     },
     {
-      "statement": "Marc Coucke is een van de schakers.",
+      "statement": "Het stadsbestuur van Ronse wil een groot bloedonderzoek doen.",
       "isTrue": true
+    },
+    {
+      "statement": "Kinderen spelen op schone grond zonder PFAS.",
+      "isTrue": false
     }
   ]
 }

@@ -3,94 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Zeven doden na Russische aanval Oekraïne",
+  "title": "Witte Huis krijgt nieuwe vleugel",
   "topicNumber": 1,
   "article": {
-    "title": "Zeven doden na Russische aanval Oekraïne",
-    "summary": "Bij een Russische aanval op Oekraïne zijn zeven mensen omgekomen, onder wie twee kinderen. In Kiev vielen zes doden, en in Charkiv viel een dode. Een kleuterschool werd geraakt."
+    "title": "Witte Huis krijgt nieuwe vleugel",
+    "summary": "In het Witte Huis wordt een deel gesloopt. Er komt een nieuwe vleugel bij. Dat heeft de Amerikaanse president gezegd. De nieuwe vleugel wordt een grote zaal voor feesten en bijeenkomsten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "aanval",
-        "definition": "wanneer iemand of een groep iets met geweld doet tegen een ander"
+        "word": "Witte",
+        "definition": "helder of schoon, maar hier onderdeel van de naam 'Witte Huis'",
+        "sentence": "Het ___ Huis is de werkplek van de president.",
+        "answer": "Witte"
       },
       {
-        "word": "kinderen",
-        "definition": "jonge mensen, meestal onder de 18 jaar"
+        "word": "Huis",
+        "definition": "een gebouw waar mensen in wonen",
+        "sentence": "Het Witte ___ is de woning van de president.",
+        "answer": "Huis"
       },
       {
-        "word": "kleuterschool",
-        "definition": "een school voor jonge kinderen, meestal tussen 4 en 6 jaar oud"
+        "word": "gesloopt",
+        "definition": "afgebroken, kapot gemaakt",
+        "sentence": "Het oude gebouw werd ___ om plaats te maken voor iets nieuws.",
+        "answer": "gesloopt"
       },
       {
-        "word": "omgekomen",
-        "definition": "gestorven, overleden"
+        "word": "vleugel",
+        "definition": "een deel van een gebouw",
+        "sentence": "De nieuwe ___ zal gebruikt worden voor grote bijeenkomsten.",
+        "answer": "vleugel"
       },
       {
-        "word": "geraakt",
-        "definition": "gemaakt contact met; werd getroffen door"
+        "word": "gezegd",
+        "definition": "uitgesproken, vermeld",
+        "sentence": "De president heeft dit zelf ___ tijdens een persconferentie.",
+        "answer": "gezegd"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Bij de aanval op de stad zijn er helaas veel mensen ___",
-        "answer": "omgekomen"
+        "sentence": "De president heeft dit zelf ___ tijdens een persconferentie.",
+        "answer": "gezegd"
       },
       {
-        "sentence": "De raket trof een ___ waar kinderen nog aan het spelen waren.",
-        "answer": "kleuterschool"
+        "sentence": "Het Witte ___ is de woning van de president.",
+        "answer": "Huis"
       },
       {
-        "word": "Tijdens de ___ zijn veel mensen gewond geraakt.",
-        "answer": "aanval"
+        "sentence": "Het oude gebouw werd ___ om plaats te maken voor iets nieuws.",
+        "answer": "gesloopt"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar vond de aanval plaats die in de tekst wordt beschreven?",
+      "question": "Wat wordt er gebouwd in het Witte Huis?",
       "options": [
-        "Oekraïne",
-        "Rusland",
-        "Verenigde Staten",
-        "Duitsland"
+        "Een nieuwe keuken",
+        "Een nieuwe slaapkamer",
+        "Een nieuwe vleugel",
+        "Een nieuwe garage"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Waarom wordt de oude vleugel gesloopt?",
+      "options": [
+        "Omdat het te oud is",
+        "Omdat de president meer ruimte wil",
+        "Omdat er brand was geweest",
+        "Omdat er een nieuw model is"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat werd getroffen door de aanval volgens de tekst?",
+      "question": "Wie heeft dit nieuws bekendgemaakt?",
       "options": [
-        "Een kleuterschool",
-        "Een ziekenhuis",
-        "Een woonwijk",
-        "Een winkelcentrum"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Hoeveel mensen zijn er omgekomen in de stad Charkiv?",
-      "options": [
-        "1",
-        "6",
-        "7",
-        "2"
+        "De koning van Engeland",
+        "De president van Amerika",
+        "De burgemeester van Washington",
+        "De eerste dame"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De aanval vond plaats in Rusland.",
-      "isTrue": false
-    },
-    {
-      "statement": "Er zijn kinderen omgekomen bij deze aanval.",
+      "statement": "De oostvleugel van het Witte Huis wordt gesloopt.",
       "isTrue": true
     },
     {
-      "statement": "Alleen de stad Kiev werd getroffen.",
+      "statement": "De nieuwe vleugel wordt een kleine studeerkamer.",
       "isTrue": false
+    },
+    {
+      "statement": "President Trump heeft dit nieuws zelf verteld.",
+      "isTrue": true
     }
   ]
 }

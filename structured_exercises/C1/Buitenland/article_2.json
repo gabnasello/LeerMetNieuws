@@ -3,93 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
+  "title": "Hamas probeert in Gaza het laken naar zich toe te trekken, met dank aan een vaag vredesbestand",
   "topicNumber": 1,
   "article": {
-    "title": "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
-    "summary": "Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”"
+    "title": "Hamas probeert in Gaza het laken naar zich toe te trekken, met dank aan een vaag vredesbestand",
+    "summary": "Geholpen door de vaagheid in het bestand dat Donald Trump opgelegd heeft, probeert Hamas zijn oude machtspositie te herwinnen. Israël kan voorlopig alleen toekijken hoe het milities, bendes en critici gewelddadig wegduwt."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "activisten",
-        "definition": "personen die actief zijn in een beweging of protest"
+        "word": "vaag",
+        "definition": "niet duidelijk of precies",
+        "sentence": "De instructies waren erg ___, wat tot verwarring leidde.",
+        "answer": "vaag"
       },
       {
-        "word": "opblaasbaar",
-        "definition": "iets dat kan worden opgeblazen of opgepompt"
+        "word": "bestand",
+        "definition": "een bestand of verzameling van informatie",
+        "sentence": "Hij bewaarde het belangrijke ___ op zijn computer voor later gebruik.",
+        "answer": "bestand"
       },
       {
-        "word": "verkleedpakken",
-        "definition": "kostuums of outfits die mensen aantrekken om zich te vermommen"
+        "word": "milities",
+        "definition": "milities, gewapende groepen van burgers",
+        "sentence": "De ___ namen de controle over de stad over na hevige gevechten.",
+        "answer": "milities"
       },
       {
-        "word": "prominent",
-        "definition": "opvallend aanwezig of belangrijk"
+        "word": "bendes",
+        "definition": "criminele groepen of bendes",
+        "sentence": "De politie arresteerde verschillende ___ die betrokken waren bij de illegale handel.",
+        "answer": "bendes"
       },
       {
-        "word": "botsen",
-        "definition": "ergens tegenaan lopen of tegen iets aanbotsen"
+        "word": "wegduwt",
+        "definition": "duwen of verwijderen, vaak met kracht",
+        "sentence": "Hij probeerde de indringer te ___ van zijn eigendom.",
+        "answer": "wegduwt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Tijdens de betoging droegen enkele _____ verkleedpakken.",
-        "answer": "activisten"
+        "sentence": "Hij probeerde de indringer te ___ van zijn eigendom.",
+        "answer": "wegduwt"
       },
       {
-        "sentence": "De ballonnen zijn _____, dus je kunt ze meenemen.",
-        "answer": "opblaasbaar"
+        "sentence": "De politie arresteerde verschillende ___ die betrokken waren bij de illegale handel.",
+        "answer": "bendes"
       },
       {
-        "sentence": "De agenten _____ tegen de betogers op, wat tot rellen leidde.",
-        "answer": "botsen"
+        "sentence": "De ___ namen de controle over de stad over na hevige gevechten.",
+        "answer": "milities"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom gebruikten de activisten opblaasbare kostuums?",
+      "question": "Waarom is Hamas in het voordeel door het vredesbestand?",
       "options": [
-        "Om zich te vermommen als dieren",
-        "Om zich te beschermen tegen traangas",
-        "Om de aandacht van de media te trekken",
-        "Omdat het feestelijk was"
+        "Omdat het bestand specifiek is",
+        "Omdat het bestand vaag is en ruimte biedt",
+        "Omdat Israël het bestand steunt",
+        "Omdat het bestand niet bestaat"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is een 'pepperspraybol'?",
+      "question": "Wat is een gevolg van de situatie voor Israël?",
       "options": [
-        "Een soort soep",
-        "Een projectiel met traangas",
-        "Een speciaal soort bal",
-        "Een onderdeel van een wapen"
+        "Israël kan direct ingrijpen",
+        "Israël kan alleen toekijken",
+        "Israël verliest grondgebied",
+        "Israël wordt gesteund door de VN"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Waar verwijst 'Rijksdagbrand' naar?",
+      "question": "Hoe reageert Hamas op de situatie?",
       "options": [
-        "De dag dat het Rijk vergadert",
-        "Een historische brand in Duitsland",
-        "Een moderne politieke partij",
-        "Een festival"
+        "Het accepteert de situatie",
+        "Het probeert de controle terug te winnen",
+        "Het valt andere landen aan",
+        "Het negeert de situatie volledig"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De activisten droegen opblaasbare kostuums om zich te beschermen.",
+      "statement": "Het vredesbestand is opgelegd door Donald Trump.",
       "isTrue": true
     },
     {
-      "statement": "Trump heeft persoonlijk de opblaasbare figuren ontworpen.",
+      "statement": "Hamas heeft als enige doel om Israël te vernietigen.",
       "isTrue": false
     },
     {
-      "statement": "Het incident met de pepperspraybollen vond plaats in Washington D.C.",
+      "statement": "Israël kan op dit moment alleen toekijken.",
       "isTrue": true
     }
   ]

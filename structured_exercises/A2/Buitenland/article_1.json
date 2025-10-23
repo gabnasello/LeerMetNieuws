@@ -3,93 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Aanval op Oekraïne",
+  "title": "Witte Huis krijgt nieuwe balzaal",
   "topicNumber": 1,
   "article": {
-    "title": "Aanval op Oekraïne",
-    "summary": "Bij een aanval op Oekraïne zijn zeven mensen omgekomen, onder wie twee kinderen. De aanval was in Kiev en Charkiv. In Charkiv werd een kleuterschool getroffen."
+    "title": "Witte Huis krijgt nieuwe balzaal",
+    "summary": "Het Witte Huis is het huis van de president van de Verenigde Staten. Er komt een nieuwe balzaal in het Witte Huis. De oostvleugel wordt afgebroken. President Trump heeft dit gezegd."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "aanval",
-        "definition": "een gewelddadige actie tegen iemand of iets"
+        "word": "Witte",
+        "definition": "helder of doorzichtig, ook een kleur",
+        "sentence": "Sneeuw is ___ en koud.",
+        "answer": "Witte"
       },
       {
-        "word": "omgekomen",
-        "definition": "overleden, gestorven"
+        "word": "Huis",
+        "definition": "een gebouw waar mensen in wonen",
+        "sentence": "Mijn ___ staat in Amsterdam.",
+        "answer": "Huis"
       },
       {
-        "word": "krijgen",
-        "definition": "ontvangen, krijgen"
+        "word": "balzaal",
+        "definition": "een grote zaal waar mensen kunnen dansen",
+        "sentence": "Op het feest was er een grote ___ voor dansen.",
+        "answer": "balzaal"
       },
       {
-        "word": "kinderen",
-        "definition": "jonge mensen, jongens en meisjes"
+        "word": "president",
+        "definition": "de leider van een land",
+        "sentence": "De ___ van de Verenigde Staten woont in het Witte Huis.",
+        "answer": "president"
       },
       {
-        "word": "kleuterschool",
-        "definition": "een school voor jonge kinderen"
+        "word": "gezegd",
+        "definition": "het verleden deelwoord van zeggen, wat betekent dat je iets met woorden uitdrukt",
+        "sentence": "Hij heeft ___ dat hij morgen komt.",
+        "answer": "gezegd"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Bij een aanval kunnen mensen ___ komen.",
-        "answer": "omgekomen"
+        "sentence": "Op het feest was er een grote ___ voor dansen.",
+        "answer": "balzaal"
       },
       {
-        "sentence": "Kinderen zijn jonge ___ die nog moeten groeien.",
-        "answer": "kinderen"
+        "sentence": "Hij heeft ___ dat hij morgen komt.",
+        "answer": "gezegd"
       },
       {
-        "sentence": "Een ___ is een plek waar kinderen leren en spelen.",
-        "answer": "kleuterschool"
+        "sentence": "Mijn ___ staat in Amsterdam.",
+        "answer": "Huis"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar was de aanval?",
+      "question": "Waar is het Witte Huis?",
       "options": [
-        "Kiev",
-        "Charkiv",
-        "Beide steden",
-        "Geen van beide"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wie zijn er omgekomen?",
-      "options": [
-        "Alleen volwassenen",
-        "Alleen kinderen",
-        "Volwassenen en kinderen",
-        "Niemand"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een kleuterschool?",
-      "options": [
-        "Een soort winkel",
-        "Een school voor jonge kinderen",
-        "Een park",
-        "Een ziekenhuis"
+        "In Nederland",
+        "In Amerika",
+        "In China",
+        "In Japan"
       ],
       "correctAnswer": 1
+    },
+    {
+      "question": "Wie woont in het Witte Huis?",
+      "options": [
+        "De minister",
+        "De koning",
+        "De president",
+        "De leraar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat gebeurt er met de oostvleugel?",
+      "options": [
+        "Het wordt geverfd",
+        "Het wordt verkocht",
+        "Het wordt afgebroken",
+        "Het wordt groter gemaakt"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Er vielen doden bij de aanval.",
-      "isTrue": true
-    },
-    {
-      "statement": "Alleen volwassenen zijn omgekomen.",
+      "statement": "Het Witte Huis is in Nederland.",
       "isTrue": false
     },
     {
-      "statement": "De aanval was alleen in Kiev.",
+      "statement": "De president woont in het Witte Huis.",
+      "isTrue": true
+    },
+    {
+      "statement": "De oostvleugel wordt groter gemaakt.",
       "isTrue": false
     }
   ]

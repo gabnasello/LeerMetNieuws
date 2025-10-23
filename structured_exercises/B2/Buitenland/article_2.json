@@ -3,93 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
+  "title": "Hamas probeert opnieuw de macht te grijpen in Gaza",
   "topicNumber": 1,
   "article": {
-    "title": "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
-    "summary": "Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”"
+    "title": "Hamas probeert opnieuw de macht te grijpen in Gaza",
+    "summary": "Met hulp van een vaag vredesbestand van Donald Trump, probeert Hamas zijn oude machtspositie te herwinnen. Israël kan voorlopig alleen toekijken hoe het milities, bendes en critici gewelddadig wegduwt."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "protest",
-        "definition": "een publieke actie om ongenoegen of verzet te uiten"
+        "word": "machtspositie",
+        "definition": "De positie waarin iemand macht heeft of controle uitoefent",
+        "sentence": "In een conflict willen groepen vaak de ___ veroveren.",
+        "answer": "machtspositie"
       },
       {
-        "word": "beleid",
-        "definition": "een plan of reeks van regels om iets te besturen"
+        "word": "vredesbestand",
+        "definition": "Een overeenkomst of regeling die vrede moet bewaren",
+        "sentence": "Een ___ kan helpen om geweld te stoppen, maar soms werkt het niet.",
+        "answer": "vredesbestand"
       },
       {
-        "word": "kostuum",
-        "definition": "een set kleding die samen een outfit vormen, vaak voor een specifiek doel"
+        "word": "milities",
+        "definition": "Groepen gewapende mensen die vaak onofficieel vechten",
+        "sentence": "Sommige ___ vechten voor een bepaalde regio of ideaal.",
+        "answer": "milities"
       },
       {
-        "word": "beschermen",
-        "definition": "iets of iemand veilig houden en tegen gevaar beschermen"
+        "word": "wegduwt",
+        "definition": "Iets of iemand ergens vandaan duwen, vaak met kracht",
+        "sentence": "Een sterke natie kan een kleinere groep ___, maar dat lost niet alles op.",
+        "answer": "wegduwt"
       },
       {
-        "word": "actie",
-        "definition": "een gebeurtenis of activiteit met een bepaald doel"
+        "word": "laken",
+        "description": "Een oudere of formele term voor een bedoeken; hier figuurlijk gebruikt voor macht of controle",
+        "sentence": "In onderhandelingen probeert elke partij het ___ naar zich toe te trekken.",
+        "answer": "laken"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Tijdens het ___ tegen het nieuwe beleid, droegen velen een speciaal kostuum.",
-        "answer": "protest"
+        "sentence": "In een conflict willen groepen vaak de ___ veroveren.",
+        "answer": "machtspositie"
       },
       {
-        "sentence": "De politie kon de demonstranten niet ___, omdat ze onherkenbaar waren.",
-        "answer": "identificeren"
+        "sentence": "Een sterke natie kan een kleinere groep ___, maar dat lost niet alles op.",
+        "answer": "wegduwt"
       },
       {
-        "sentence": "Het nieuwe ___ maakt het moeilijk voor mensen met een laag inkomen.",
-        "answer": "beleid"
+        "sentence": "Sommige ___ vechten voor een bepaalde regio of ideaal.",
+        "answer": "milities"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom droegen sommige demonstranten een kostuum?",
+      "question": "Wat is een 'vredesbestand'?",
       "options": [
-        "Om zich te beschermen tegen traangas",
-        "Om er stijlvol uit te zien",
-        "Omdat het verplicht was",
-        "Ze droegen geen kostuum"
+        "Een soort wapen",
+        "Een overeenkomst om het geweld te stoppen",
+        "Een internationaal verdrag",
+        "Een feestelijke bijeenkomst"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat was het effect van de kostuums?",
+      "question": "Wat betekent 'de macht herwinnen'?",
       "options": [
-        "De politie kon hen niet herkennen",
-        "Ze vielen meer op in de menigte",
-        "Ze werden sneller moe van het lopen",
-        "Ze waren beter beschermd tegen kou"
+        "De macht verliezen",
+        "De macht opnieuw krijgen",
+        "De macht overdragen",
+        "De macht negeren"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is de toon van het artikel?",
+      "question": "Wat zijn 'milities'?",
       "options": [
-        "Neutraal en informatief",
-        "Heel kritisch",
-        "Heel positief",
-        "Onverschillig"
+        "Militaire eenheden",
+        "Onofficiële gewapende groepen",
+        "Politieke partijen",
+        "Sportteams"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De activisten droegen kostuums om zich te beschermen tegen pepperspray.",
-      "isTrue": true
-    },
-    {
-      "statement": "Donald Trump was zelf aanwezig bij dit protest.",
+      "statement": "Een vredesbestand zorgt altijd voor permanente vrede.",
       "isTrue": false
     },
     {
-      "statement": "Het artikel suggereert dat de kostuums de actie effectiever maakten.",
+      "statement": "Milities kunnen bijdragen aan onrust in een regio.",
+      "isTrue": true
+    },
+    {
+      "statement": "Het wegduwen van groepen lost de onderliggende problemen niet op.",
       "isTrue": true
     }
   ]

@@ -3,93 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
+  "title": "Hamas wil weer de baas zijn in Gaza, maar Israël laat dat niet toe",
   "topicNumber": 1,
   "article": {
-    "title": "Opblaaskikkers leiden protest tegen Trump: “De pepperspraybollen botsen er gewoon af”",
-    "summary": "Bij het protest tegen het beleid van Donald Trump lopen activisten in opblaasbare verkleedpakken steeds prominenter in beeld. “Trump wil zijn Rijksdagbrand. Hij krijgt een eenhoornkostuum.”"
+    "title": "Hamas wil weer de baas zijn in Gaza, maar Israël laat dat niet toe",
+    "summary": "Hamas wil weer de macht in Gaza, maar Israël probeert dat te voorkomen. Met hulp van een onduidelijk vredesplan van Donald Trump probeert Hamas zijn oude positie terug te krijgen. Israël kan voorlopig alleen toekijken hoe het milities, bendes en critici met geweld wegduwt."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "protest",
-        "definition": "demonstratie of actie tegen iets"
+        "word": "baas",
+        "definition": "iemand die de leiding heeft",
+        "sentence": "De ___ bepaalt wat er gebeurt.",
+        "answer": "baas"
       },
       {
-        "word": "beleid",
-        "definition": "manier waarop iemand regeert of beslissingen neemt"
+        "word": "macht",
+        "definition": "kracht om iets te doen of te bepalen",
+        "sentence": "Hij heeft veel ___ in deze organisatie.",
+        "answer": "macht"
       },
       {
-        "word": "Trump",
-        "definition": "de familienaam van de voormalige president van de VS"
+        "word": "milities",
+        "definition": "groepen gewapende mensen, vaak niet officieel",
+        "sentence": "De ___ vochten tegen het leger.",
+        "answer": "milities"
       },
       {
-        "word": "activisten",
-        "definition": "mensen die actie voeren voor een verandering"
+        "word": "bendes",
+        "definition": "groepen criminelen die samenwerken",
+        "sentence": "De ___ overvallen winkels en huizen.",
+        "answer": "bendes"
       },
       {
-        "word": "pepperspray",
-        "definition": "spray die pijn doet maar niet blijvend schaadt"
+        "word": "vredesplan",
+        "definition": "een plan om vrede te bereiken, vaak door onderhandeling",
+        "sentence": "Het ___ werd ondertekend door beide partijen.",
+        "answer": "vredesplan"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Tijdens het ___ tegen het beleid van Trump werden veel mensen gearresteerd.",
-        "answer": "protest"
+        "sentence": "De ___ vochten tegen het leger.",
+        "answer": "milities"
       },
       {
-        "sentence": "De politie gebruikte ___ om de menigte uit elkaar te drijven.",
-        "answer": "pepperspray"
+        "sentence": "Het ___ werd ondertekend door beide partijen.",
+        "answer": "vredesplan"
       },
       {
-        "sentence": "___ zijn mensen die vechten voor een betere wereld.",
-        "answer": "Activisten"
+        "sentence": "De ___ bepaalt wat er gebeurt.",
+        "answer": "baas"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is pepperspray?",
+      "question": "Wat wil Hamas opnieuw doen in Gaza?",
       "options": [
-        "Een soort parfum",
-        "Een soort plant",
-        "Een soort wapen dat de politie gebruikt",
-        "Een soort eten"
+        "De baas zijn",
+        "Niets doen",
+        "Samenzweren met Israël",
+        "Vrede sluiten"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
-      "question": "Waar is Donald Trump bekend om?",
+      "question": "Hoe reageert Israël op de acties van Hamas?",
       "options": [
-        "Hij is een bekende filmster",
-        "Hij is de voormalige president van de Verenigde Staten",
-        "Hij is een professionele tennisser",
-        "Hij is de koning van Nederland"
+        "Het doet niets en kijkt toe",
+        "Het valt aan met milities",
+        "Het ondersteunt Hamas",
+        "Het accepteert het vredesplan"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat gebeurt er als je pepperspray in je ogen krijgt?",
+      "question": "Wat is een gevolg van het vredesplan?",
       "options": [
-        "Je gaat ervan niezen",
-        "Je kunt tijdelijk niet goed zien en het doet pijn",
-        "Het heeft geen effect",
-        "Je ogen veranderen van kleur"
+        "Hamas wordt sterker",
+        "Israël valt aan",
+        "Israël wordt zwakker",
+        "Gaza wordt onafhankelijk"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ],
   "trueFalse": [
     {
-      "statement": "Pepperspray kan mensen blind maken.",
-      "isTrue": false
-    },
-    {
-      "statement": "Activisten protesteren soms tegen regeringen.",
+      "statement": "Hamas probeert opnieuw de macht in Gaza te grijpen.",
       "isTrue": true
     },
     {
-      "statement": "Donald Trump is de huidige president van de Verenigde Staten.",
+      "statement": "Israël steunt Hamas in deze poging.",
+      "isTrue": false
+    },
+    {
+      "statement": "Het vredesplan van Donald Trump is erg duidelijk voor beide partijen.",
       "isTrue": false
     }
   ]

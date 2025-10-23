@@ -3,94 +3,104 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Veel boetes voor gokken niet betaald",
+  "title": "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
   "topicNumber": 1,
   "article": {
-    "title": "Veel boetes voor gokken niet betaald",
-    "summary": "De Kansspelcommissie heeft in 2024 veel boetes uitgeschreven, maar veel boetes zijn niet betaald. Van de 4,6 miljoen euro aan boetes is slechts 0,6 procent betaald. De Kansspelcommissie is als een tijger zonder tanden."
+    "title": "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
+    "summary": "Al van eind juli weten we dat de Maas vervuild wordt met een schimmeldodend middel. Maar nog steeds is de bron niet bekend. Zelfs de Nederlandse ambassadeur liet zich in met de zaak."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "boetes",
-        "definition": "geld dat je moet betalen als straf"
+        "word": "Vervuiling",
+        "definition": "Als iets vies of giftig wordt gemaakt.",
+        "sentence": "De fabriek veroorzaakt veel vervuiling in de rivier.",
+        "answer": "Vervuiling"
       },
       {
-        "word": "betaald",
-        "definition": "het geld is gegeven voor iets"
+        "word": "Mysterie",
+        "definition": "Iets dat niet bekend is of moeilijk te begrijpen.",
+        "sentence": "Waarom hij vertrok is nog een mysterie voor ons.",
+        "answer": "Mysterie"
       },
       {
-        "word": "gokken",
-        "definition": "spelen om geld te winnen of verliezen"
+        "word": "Ambassadeur",
+        "definition": "Een persoon die zijn land vertegenwoordigt in een ander land.",
+        "sentence": "De ambassadeur van Frankrijk bezocht ons land.",
+        "answer": "Ambassadeur"
       },
       {
-        "word": "tand",
-        "definition": "hard, wit ding in je mond"
+        "word": "Mengt",
+        "definition": "Iets door elkaar halen of erbij betrekken.",
+        "sentence": "Hij mengt zich altijd in gesprekken die hem niet aangaan.",
+        "answer": "Mengt"
       },
       {
-        "word": "tijger",
-        "definition": "een groot, geel met zwart gestreept dier"
+        "word": "Schimmeldodend",
+        "definition": "Iets dat schimmels doodt.",
+        "sentence": "Dit schimmeldodend middel is niet goed voor het water.",
+        "answer": "Schimmeldodend"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Als je niet betaalt, krijg je een ___.",
-        "answer": "boete"
+        "sentence": "De fabriek veroorzaakt veel vervuiling in de rivier.",
+        "answer": "Vervuiling"
       },
       {
-        "sentence": "Een ___ is een gevaarlijk dier.",
-        "answer": "tijger"
+        "sentence": "Waarom hij vertrok is nog een mysterie voor ons.",
+        "answer": "Mysterie"
       },
       {
-        "sentence": "Gokken kan verslavend zijn, net als een ___.",
-        "answer": "tijger"
+        "sentence": "Hij mengt zich altijd in gesprekken die hem niet aangaan.",
+        "answer": "Mengt"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de Kansspelcommissie?",
+      "question": "Wat betekent het als de Maas vervuild is?",
       "options": [
-        "Een soort bank",
-        "Een groep die toezicht houdt op gokken",
-        "Een soort dierentuin",
-        "Een soort restaurant"
+        "De Maas is erg schoon",
+        "De Maas is vuil en gevaarlijk",
+        "De Maas is bevroren",
+        "De Maas is ondiep"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is een 'tandeloze tijger'?",
+      "question": "Wat is een schimmeldodend middel?",
       "options": [
-        "Een dier zonder tanden",
-        "Iemand die er niet gevaarlijk uitziet",
-        "Een dier dat niet kan bijten",
-        "Alle bovenstaande"
+        "Een middel dat schimmels eet",
+        "Een middel dat schimmels doodmaakt",
+        "Een middel dat schimmels kweekt",
+        "Een middel dat niets met schimmels doet"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Wat doet de Nederlandse ambassadeur?",
       "options": [
-        "Over een echte tijger",
-        "Over geld en boetes",
-        "Over een commissie die geen tanden heeft",
-        "Over de opbrengst van boetes"
+        "Hij gaat op vakantie",
+        "Hij maakt zich druk om de zaak",
+        "Hij negeert de zaak",
+        "Hij verhuist naar een ander land"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Kansspelcommissie heeft in 2024 veel boetes geïnd.",
+      "statement": "De bron van de vervuiling is al bekend.",
       "isTrue": false
     },
     {
-      "statement": "Een tijger zonder tanden kan niet bijten.",
+      "statement": "Een ambassadeur vertegenwoordigt zijn land in een ander land.",
       "isTrue": true
     },
     {
-      "statement": "De Kansspelcommissie is net een sterke leeuw.",
-      "isTrue": false
+      "statement": "Schimmels kunnen gevaarlijk zijn voor de gezondheid.",
+      "isTrue": true
     }
   ]
 }

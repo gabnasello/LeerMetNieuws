@@ -1,96 +1,106 @@
 {
-  "id": 14,
+  "id": 15,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Schaakgrootmeester Garry Kasparov speelt in Antwerpen tegen twintig finalisten",
+  "title": "Ronsenaars ontredderd over hoge PFAS-waarden in bloed: Eerst dachten zij dat hun kinderen geen risico liepen",
   "topicNumber": 1,
   "article": {
-    "title": "Schaakgrootmeester Garry Kasparov speelt in Antwerpen tegen twintig finalisten",
-    "summary": "Het KMSKA in Antwerpen stond gisteren helemaal in het thema van schaken. De bekende schaker Garry Kasparov speelde tegen twintig tegenstanders, waaronder de Antwerpse burgemeester Els van Doesburg en de Belgische ondernemer Marc Coucke. Uiteindelijk won Kasparov alle partijen."
+    "title": "Ronsenaars ontredderd over hoge PFAS-waarden in bloed: Eerst dachten zij dat hun kinderen geen risico liepen",
+    "summary": "Steeds meer Ronsenaars laten hun bloed op PFAS-waarden testen en krijgen verontrustend hoge resultaten terug. Het stadsbestuur zit met de handen in het haar en wil een grootschalig bloedonderzoek. De grond rond de beek moet gesaneerd worden, maar intussen spelen scouts vrolijk rond op vergiftigde grond."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "schaken",
-        "definition": "een bordspel voor twee spelers waarbij je de stukken van je tegenstander moet slaan"
+        "word": "ontredderd",
+        "definition": "in verwarring, niet weten wat te doen",
+        "sentence": "Na het ontslag voelde ze zich helemaal ___ en wist niet wat haar volgende stap moest zijn.",
+        "answer": "ontredderd"
       },
       {
-        "word": "tegenstander",
-        "definition": "iemand die tegen je speelt in een spel of sport"
+        "word": "risico",
+        "definition": "gevaar of kans op iets negatiefs",
+        "sentence": "Roken brengt een groot gezondheids___ met zich mee.",
+        "answer": "risico"
       },
       {
-        "word": "winnen",
-        "definition": "een spel of wedstrijd winnen, dus niet verliezen"
+        "word": "vergiftigde",
+        "definition": "vergiftigd, vergift is binnengekregen",
+        "sentence": "De ___ grond maakte het onmogelijk om er groenten te verbouwen.",
+        "answer": "vergiftigde"
       },
       {
-        "word": "finalisten",
-        "definition": "deelnemers die tot de finale zijn gekwalificeerd"
+        "word": "gesaneerd",
+        "definition": "schoon en vrijgemaakt van vervuiling",
+        "sentence": "Na de sanering was de bodem volledig ___ en veilig voor gebruik.",
+        "answer": "gesaneerd"
       },
       {
-        "word": "ondernemer",
-        "definition": "een persoon die een bedrijf of onderneming heeft"
+        "word": "grootschalig",
+        "definition": "op grote schaal, met veel deelnemers of gebieden",
+        "sentence": "De overheid startte een ___ onderzoek naar de waterkwaliteit in de regio.",
+        "answer": "grootschalig"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Garry Kasparov is een beroemde ___ die in Antwerpen tegen twintig mensen speelde.",
-        "answer": "schaker"
+        "sentence": "Roken brengt een groot gezondheids___ met zich mee.",
+        "answer": "risico"
       },
       {
-        "sentence": "Els van Doesburg en Marc Coucke waren twee van de ___ die tegen Kasparov speelden.",
-        "answer": "finalisten"
+        "sentence": "De overheid startte een ___ onderzoek naar de waterkwaliteit in de regio.",
+        "answer": "grootschalig"
       },
       {
-        "sentence": "Uiteindelijk kon niemand Kasparov ___ en won hij alle partijen.",
-        "answer": "verslaan"
+        "sentence": "Na het ontslag voelde ze zich helemaal ___ en wist niet wat haar volgende stap moest zijn.",
+        "answer": "ontredderd"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is Garry Kasparos zijn beroep?",
+      "question": "Wat betekent het als de grond 'gesaneerd' moet worden?",
       "options": [
-        "Tennisser",
-        "Schaker",
-        "Voetballer",
-        "Basketballer"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Waar vond het schaakevenement plaats?",
-      "options": [
-        "In Brussel",
-        "In Antwerpen",
-        "In Gent",
-        "In Brugge"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat was de uitslag van de schaakpartijen?",
-      "options": [
-        "Kasparov won alles",
-        "Kasparov verloor alles",
-        "Het werd een gelijkspel",
-        "Alleen de laatste partij werd gewonnen"
+        "Het moet schoongemaakt worden",
+        "Het moet bewaterd worden",
+        "Het moet bemest worden",
+        "Het moet bebouwd worden"
       ],
       "correctAnswer": 0
+    },
+    {
+      "question": "Waarom zijn de Ronsenaars ontredderd volgens de tekst?",
+      "options": [
+        "Omdat hun kinderen ziek werden",
+        "Omdat ze niet wisten dat er een risico was",
+        "Omdat de grond al gesaneerd was",
+        "Omdat de scouts niet meer mochten spelen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is de hoofdgedachte van de samenvatting?",
+      "options": [
+        "Scouts spelen op giftige grond",
+        "Bloedonderzoeken tonen hoge PFAS-waarden",
+        "Het stadsbestuur weet het niet meer",
+        "De gemeente wil de beek saneren"
+      ],
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Garry Kasparov is een professionele schaker.",
-      "isTrue": true
-    },
-    {
-      "statement": "De Belgische ondernemer Marc Coucke won zijn partij tegen Kasparov.",
+      "statement": "De Ronsenaars zijn blij met de testresultaten.",
       "isTrue": false
     },
     {
-      "statement": "Het KMSKA is een museum in Antwerpen.",
+      "statement": "Het stadsbestuur onderneemt actie door een groot onderzoek te starten.",
       "isTrue": true
+    },
+    {
+      "statement": "Scouts spelen op de vergiftigde grond, wat als een veilige situatie wordt beschouwd.",
+      "isTrue": false
     }
   ]
 }

@@ -1,96 +1,106 @@
 {
-  "id": 11,
+  "id": 12,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
+  "title": "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
   "topicNumber": 1,
   "article": {
-    "title": "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
-    "summary": "Het KMI heeft code geel afgekondigd voor het aankomende stormweer. Aan de kust geldt donderdag vanaf 15 uur code oranje."
+    "title": "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
+    "summary": "Al van eind juli weten we dat de Maas vervuild wordt met een schimmeldodend middel. Maar nog steeds is de bron niet bekend. Zelfs de Nederlandse ambassadeur liet zich in met de zaak."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "afgekondigd",
-        "definition": "officieel bekendgemaakt"
+        "word": "Vervuiling",
+        "definition": "De aanwezigheid van schadelijke of ongewenste stoffen in het milieu",
+        "sentence": "De industriële ___ heeft geleid tot een verslechtering van de waterkwaliteit.",
+        "answer": "vervuiling"
       },
       {
-        "word": "aankomende",
-        "definition": "wat binnenkort komt"
+        "word": "Midden",
+        "definition": "Een term met meerdere betekenissen; hier gebruikt in de context 'in het midden van' of 'centraal in'",
+        "sentence": "De stad ligt ___ in een dichtbevolkte regio.",
+        "answer": "midden"
       },
       {
-        "word": "geldt",
-        "definition": "is van toepassing"
+        "word": "Bron",
+        "definition": "De oorsprong of oorzaak van iets; in deze context, de oorsprong van de vervuiling",
+        "sentence": "Ondanks onderzoek blijft de exacte ___ van het lek onbekend.",
+        "answer": "bron"
       },
       {
-        "word": "vanaf",
-        "definition": "beginnend op"
+        "word": "Ambassadeur",
+        "definition": "Een officiële vertegenwoordiger van een land in een ander land",
+        "sentence": "De ___ heeft een ontmoeting met de minister van Milieu.",
+        "answer": "ambassadeur"
       },
       {
-        "word": "aangekondigd",
-        "definition": "officieel bekendgemaakt"
+        "word": "Zaak",
+        "definition": "Een zaak of situatie; vaak gebruikt in formele of juridische context",
+        "sentence": "De ___ zal worden behandeld door het Hooggerechtshof.",
+        "answer": "zaak"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De regering heeft een nieuwe wet ___ voor de veiligheid.",
-        "answer": "afgekondigd"
+        "sentence": "De industriële ___ heeft geleid tot een verslechtering van de waterkwaliteit.",
+        "answer": "vervuiling"
       },
       {
-        "sentence": "De storm zal ___ morgen de kust bereiken.",
-        "answer": "aankomende"
+        "sentence": "De ___ heeft een ontmoeting met de minister van Milieu.",
+        "answer": "ambassadeur"
       },
       {
-        "sentence": "Deze regel ___ voor alle bezoekers van het park.",
-        "answer": "geldt"
+        "sentence": "De stad ligt ___ in een dichtbevolkte regio.",
+        "answer": "midden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'afgekondigd' in deze context?",
+      "question": "Wat is de voornaamste oorzaak van de vervuiling in de Maas?",
       "options": [
-        "Ondertekend",
-        "Afgekondigd",
-        "Gepubliceerd",
-        "Verboden"
+        "Industrieel afval",
+        "Landbouwchemicaliën",
+        "Een onbekende bron",
+        "Stedelijk rioolwater"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Welke functie heeft de Nederlandse ambassadeur in deze context?",
+      "options": [
+        "Hij onderzoekt de vervuiling",
+        "Hij bemiddelt in het conflict",
+        "Hij is verantwoordelijk voor de vervuiling",
+        "Hij negeert de situatie"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waar geldt code oranje volgens de tekst?",
+      "question": "Wat is de houding van de Nederlandse overheid ten opzichte van deze kwestie?",
       "options": [
-        "In het hele land",
-        "Alleen aan de kust",
-        "In de rest van het land",
-        "Alleen in de hoofdstad"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Vanaf wanneer geldt code oranje aan de kust?",
-      "options": [
-        "Vanaf 12:00",
-        "Vanaf 15:00",
-        "Vanaf 18:00",
-        "Vanaf morgenochtend"
+        "Ze negeert het volledig",
+        "Ze werkt samen met andere landen",
+        "Ze accepteert alle verantwoordelijkheid",
+        "Ze ontkent enige betrokkenheid"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Code oranje geldt voor het hele land.",
+      "statement": "De vervuiling van de Maas is al volledig opgehelderd.",
       "isTrue": false
     },
     {
-      "statement": "Code geel geldt voor het hele land behalve de kust.",
-      "isTrue": false
-    },
-    {
-      "statement": "Code oranje geldt alleen aan de kust vanaf 15:00.",
+      "statement": "De Nederlandse ambassadeur is betrokken bij de zaak.",
       "isTrue": true
+    },
+    {
+      "statement": "De bron van de vervuiling is een industriële lekkage.",
+      "isTrue": false
     }
   ]
 }

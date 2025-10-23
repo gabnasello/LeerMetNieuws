@@ -3,93 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Zeven doden na grootschalige Russische aanval op Oekraïne, onder wie twee kinderen",
+  "title": "Oostvleugel Witte Huis wordt nu toch volledig gesloopt voor bouw nieuwe balzaal: “Dit is Trumps presidentschap in één foto”",
   "topicNumber": 1,
   "article": {
-    "title": "Zeven doden na grootschalige Russische aanval op Oekraïne, onder wie twee kinderen",
-    "summary": "Bij een grootschalige Russische aanval zijn in Kiev zes mensen omgekomen, onder wie twee kinderen. Ook in Charkiv viel een dode. Daar werd een kleuterschool getroffen."
+    "title": "Oostvleugel Witte Huis wordt nu toch volledig gesloopt voor bouw nieuwe balzaal: “Dit is Trumps presidentschap in één foto”",
+    "summary": "De oostvleugel van het Witte Huis wordt volledig met de grond gelijk gemaakt om plaats te maken voor Donald Trumps nieuwe balzaal. Dat heeft de Amerikaanse president woensdag gezegd."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "aanval",
-        "definition": "militair offensief of gewelddadige actie"
+        "word": "gesloopt",
+        "definition": "afgebroken, verwoest",
+        "sentence": "Het oude gebouw werd uiteindelijk ___ om plaats te maken voor een nieuw project.",
+        "answer": "gesloopt"
       },
       {
-        "word": "omgekomen",
-        "definition": "overleden, gestorven"
+        "word": "balzaal",
+        "definition": "een grote zaal die gebruikt wordt voor feesten en dansfeesten",
+        "sentence": "Het koninklijk paleis heeft een grote ___ waar galadiners worden gehouden.",
+        "answer": "balzaal"
       },
       {
-        "word": "getroffen",
-        "definition": "geraakt, beïnvloed"
+        "word": "presidentschap",
+        "definition": "de periode waarin iemand president is",
+        "sentence": "Zijn ___ werd gekenmerkt door vele controverses.",
+        "answer": "presidentschap"
       },
       {
-        "word": "kleuterschool",
-        "definition": "school voor jonge kinderen"
+        "word": "oostvleugel",
+        "definition": "het oostelijke deel van een gebouw",
+        "sentence": "De ___ van het paleis brandde volledig uit.",
+        "answer": "oostvleugel"
       },
       {
-        "word": "grootschalige",
-        "definition": "op grote schaal, omvangrijk"
+        "word": "Witte Huis",
+        "definition": "de officiële residentie en werkplaats van de president van de Verenigde Staten",
+        "sentence": "Het ___ is gelegen in Washington D.C.",
+        "answer": "Witte Huis"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Tijdens de oorlog zijn er veel mensen ___ door bombardementen.",
-        "answer": "omgekomen"
+        "sentence": "De ___ van het paleis brandde volledig uit.",
+        "answer": "oostvleugel"
       },
       {
-        "sentence": "De ___ werd beschadigd door de explosie.",
-        "answer": "kleuterschool"
+        "sentence": "Het ___ is gelegen in Washington D.C.",
+        "answer": "Witte Huis"
       },
       {
-        "sentence": "Een ___ is vaak het doelwit in een conflict.",
-        "answer": "aanval"
+        "sentence": "Het oude gebouw werd uiteindelijk ___ om plaats te maken voor een nieuw project.",
+        "answer": "gesloopt"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar vond de grootste deel van de aanval plaats?",
+      "question": "Wat wordt er met de oostvleugel van het Witte Huis gedaan?",
       "options": [
-        "Kiev",
-        "Charkiv",
-        "Moskou",
-        "Lviv"
+        "Het wordt gerenoveerd",
+        "Het wordt gesloopt",
+        "Het wordt verplaatst",
+        "Het blijft onveranderd"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is de betekenis van 'getroffen' in deze context?",
+      "question": "Waarom wordt de oostvleugel gesloopt volgens de tekst?",
       "options": [
-        "Getroffen door geluk",
-        "Beschadigd of geraakt",
-        "Volledig verwoest",
-        "Onbeschadigd gebleven"
+        "Om plaats te maken voor een nieuw kantoor",
+        "Om plaats te maken voor een nieuwe balzaal",
+        "Omdat het gebouw onveilig was geworden",
+        "Omdat Trump niet van de oude architectuur hield"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is het hoofdonderwerp van dit artikel?",
+      "question": "Wie heeft dit besluit aangekondigd?",
       "options": [
-        "Een sportevenement",
-        "Een internationale conferentie",
-        "Een militaire aanval",
-        "Een economische crisis"
+        "De Amerikaanse president",
+        "De burgemeester van Washington",
+        "De First Lady",
+        "De minister van Binnenlandse Zaken"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     }
   ],
   "trueFalse": [
     {
-      "statement": "Er waren geen slachtoffers in Charkiv.",
+      "statement": "De oostvleugel van het Witte Huis wordt gerenoveerd in plaats van gesloopt.",
       "isTrue": false
     },
     {
-      "statement": "De aanval vond plaats in Oekraïne.",
+      "statement": "Donald Trump heeft aangekondigd dat de oostvleugel wordt gesloopt om plaats te maken voor een nieuwe balzaal.",
       "isTrue": true
     },
     {
-      "statement": "Alleen militaire doelen werden getroffen.",
+      "statement": "De oostvleugel is al gesloopt voordat Trump president werd.",
       "isTrue": false
     }
   ]

@@ -1,95 +1,105 @@
 {
-  "id": 10,
+  "id": 11,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
+  "title": "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
   "topicNumber": 1,
   "article": {
-    "title": "KMI waarschuwt voor stormweer donderdag: code oranje aan kust, code geel in rest van het land",
-    "summary": "Het KMI heeft code geel afgekondigd voor het aankomende stormweer. Aan de kust geldt donderdag vanaf 15 uur code oranje."
+    "title": "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
+    "summary": "Al van eind juli weten we dat de Maas vervuild wordt met een schimmeldodend middel. Maar nog steeds is de bron niet bekend. Zelfs de Nederlandse ambassadeur liet zich in met de zaak."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "KMI",
-        "definition": "Koninklijk Meteorologisch Instituut"
+        "word": "maatregel",
+        "definition": "iets wat je doet om een probleem op te lossen",
+        "sentence": "De regering nam een belangrijke ___ om de vervuiling te stoppen.",
+        "answer": "maatregel"
       },
       {
-        "word": "stormweer",
-        "definition": "weer met veel wind, regen of storm"
+        "word": "veroorlaken",
+        "definition": "iets dat de oorzaak is van iets, bijvoorbeeld een probleem",
+        "sentence": "Industrieel afval kan ___ dat rivieren vervuild raken.",
+        "answer": "veroorlaken"
       },
       {
-        "word": "code",
-        "definition": "een soort waarschuwing of signaal"
+        "word": "onderzoeken",
+        "definition": "proberen meer te weten te komen over iets, door het te bestuderen",
+        "sentence": "Wetenschappers willen de waterkwaliteit ___ om deze te verbeteren.",
+        "answer": "onderzoeken"
       },
       {
-        "word": "oranje",
-        "definition": "een kleur, hier een code voor gevaar"
+        "word": "samenwerken",
+        "definition": "samen met anderen werken aan een gemeenschappelijk doel",
+        "sentence": "Verschillende landen moeten ___ om grensoverschrijdende vervuiling aan te pakken.",
+        "answer": "samenwerken"
       },
       {
-        "word": "geel",
-        "definition": "een kleur, hier een code voor minder gevaar"
+        "word": "aanpakken",
+        "definition": "iets actief doen om een probleem op te lossen",
+        "sentence": "De overheid moet de crisis ___ voordat het erger wordt.",
+        "answer": "aanpakken"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het KMI heeft een speciale ___ uitgegeven voor het weer.",
-        "answer": "code"
+        "sentence": "De overheid moet de crisis ___ voordat het erger wordt.",
+        "answer": "aanpakken"
       },
       {
-        "sentence": "Aan de kust geldt code ___ vanaf 15 uur.",
-        "answer": "oranje"
+        "sentence": "Industrieel afval kan ___ dat rivieren vervuild raken.",
+        "answer": "veroorlaken"
       },
       {
-        "sentence": "In de rest van het land geldt code ___ .",
-        "answer": "geel"
+        "sentence": "Verschillende landen moeten ___ om grensoverschrijdende vervuiling aan te pakken.",
+        "answer": "samenwerken"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'code oranje'?",
+      "question": "Wat is een van de oorzaken van de vervuiling in de Maas?",
       "options": [
-        "Er is geen gevaar",
-        "Wees voorzichtig, er is gevaar",
-        "Er is extreem gevaar",
-        "De code is niet geldig"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Waar geldt code geel?",
-      "options": [
-        "Alleen aan de kust",
-        "In de rest van het land",
-        "Alleen in het buitenland",
-        "Overal in België"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wanneer gaat de code in?",
-      "options": [
-        "Vanaf 15 uur",
-        "Alleen in de ochtend",
-        "De hele dag",
-        "Alleen na 15 uur"
+        "Industrieel afval",
+        "Natuurlijke sedimenten",
+        "Overmatige regenval",
+        "Geen van bovenstaande"
       ],
       "correctAnswer": 1
+    },
+    {
+      "question": "Wat is het hoofddoel van het onderzoek naar de Maas?",
+      "options": [
+        "De vervuiling stoppen",
+        "De bron van de vervuiling vinden",
+        "De Maas volledig reinigen",
+        "Toerisme bevorderen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de rol van de Nederlandse ambassadeur in deze kwestie?",
+      "options": [
+        "Hij leidt het onderzoek",
+        "Hij ondersteunt de samenwerking",
+        "Hij negeert de situatie",
+        "Hij maakt de vervuiling erger"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Code oranje betekent dat er extreem gevaar is.",
-      "isTrue": true
-    },
-    {
-      "statement": "Code geel geldt alleen aan de kust.",
+      "statement": "De bron van de vervuiling in de Maas is al bekend.",
       "isTrue": false
     },
     {
-      "statement": "De waarschuwing geldt vanaf 15 uur.",
+      "statement": "Nederland werkt alleen om de Maas te zuiveren.",
+      "isTrue": false
+    },
+    {
+      "statement": "Internationale samenwerking is betrokken bij deze kwestie.",
       "isTrue": true
     }
   ]

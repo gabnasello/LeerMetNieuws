@@ -1,95 +1,105 @@
 {
-  "id": 15,
+  "id": 16,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Schaken in Antwerpen",
+  "title": "Ronsenaars ontredderd over hoge PFAS-waarden in bloed: 'Eerst dachten we dat onze kinderen geen risico liepen: hoe kan dit nu?'",
   "topicNumber": 1,
   "article": {
-    "title": "Schaken in Antwerpen",
-    "summary": "Het KMSKA in Antwerpen stond gisteren helemaal in het thema van schaken. Schaakgrootmeester Garry Kasparov nam het er op tegen twintig schakers, onder wie Antwerps burgemeester Els van Doesburg en de Belgische ondernemer Marc Coucke."
+    "title": "Ronsenaars ontredderd over hoge PFAS-waarden in bloed: 'Eerst dachten we dat onze kinderen geen risico liepen: hoe kan dit nu?'",
+    "summary": "Steeds meer Ronsenaars laten hun bloed op PFAS-waarden testen en krijgen verontrustend hoge resultaten terug. Het stadsbestuur zit met de handen in het haar en wil een grootschalig bloedonderzoek. 'De grond rond de beek moet gesaneerd worden, maar intussen spelen scouts vrolijk rond op vergiftigde grond.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "schaken",
-        "definition": "een bordspel voor twee spelers"
+        "word": "ontredderd",
+        "definition": "In verwarring, overstuur, niet meer weten wat te doen",
+        "sentence": "De bewoners waren ___ door het onverwachte nieuws over de PFAS-waarden.",
+        "answer": "ontredderd"
       },
       {
-        "word": "grootmeester",
-        "definition": "iemand die heel goed is in iets"
+        "word": "gesaneerd",
+        "definition": "Gereinigd, vrijgemaakt van schadelijke stoffen of verontreiniging",
+        "sentence": "De grond moet grondig worden ___ om het weer veilig te maken.",
+        "answer": "gesaneerd"
       },
       {
-        "word": "titel",
-        "definition": "een naam die iets of iemand krijgt"
+        "word": "vrolijk",
+        "definition": "Blij, opgewekt, met plezier",
+        "sentence": "Ondanks de zorgen, probeerden ze ___ verder te gaan met hun dagelijkse activiteiten.",
+        "answer": "vrolijk"
       },
       {
-        "word": "finalisten",
-        "definition": "mensen die meedoen aan de laatste ronde van een wedstrijd"
+        "word": "vergiftigde",
+        "definition": "Vergiftigd, vol gifstoffen die schadelijk zijn",
+        "sentence": "Ze besefte niet dat ze op een stuk grond aan het spelen was dat was ___ met chemicaliën.",
+        "answer": "vergiftigde"
       },
       {
-        "word": "ondernemer",
-        "definition": "iemand die een bedrijf heeft"
+        "word": "verontreinigd",
+        "definition": "Vervuild, niet meer puur of schoon, vaak door chemische stoffen",
+        "sentence": "De bodem was zo ___ dat er niets meer kon groeien.",
+        "answer": "verontreinigd"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Garry Kasparov is een beroemde schaak___",
-        "answer": "grootmeester"
+        "sentence": "Ze besefte niet dat ze op een stuk grond aan het spelen was dat was ___ met chemicaliën.",
+        "answer": "vergiftigde"
       },
       {
-        "sentence": "De finalisten van het toernooi kregen een speciale ___",
-        "answer": "titel"
+        "sentence": "De bodem was zo ___ dat er niets meer kon groeien.",
+        "answer": "verontreinigd"
       },
       {
-        "sentence": "Een ondernemer zoals Marc Coucke richt vaak een ___ op",
-        "answer": "ondernemer"
+        "sentence": "De bewoners waren ___ door het onverwachte nieuws over de PFAS-waarden.",
+        "answer": "ontredderd"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is schaken?",
+      "question": "Waarom zijn de inwoners van Ronse zo bezorgd over hun bloedtestresultaten?",
       "options": [
-        "Een sport",
-        "Een soort kunst",
-        "Een bordspel",
-        "Een muziekstuk"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Waar vond het schaakevenement plaats?",
-      "options": [
-        "In Brussel",
-        "In het KMSKA",
-        "In een park",
-        "Op school"
+        "Omdat ze een feest plannen",
+        "Omdat ze hoge PFAS-waarden ontvingen",
+        "Omdat ze een nieuwe sport ontdekten",
+        "Omdat ze te veel gefrituurd voedsel aten"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wie is Marc Coucke?",
+      "question": "Wat is de reactie van het stadsbestuur op de situatie?",
       "options": [
-        "Een schaker",
-        "Een kunstenaar",
-        "Een ondernemer",
-        "Een politicus"
+        "Ze organiseren een festival",
+        "Ze overwegen een grootschalig bloedonderzoek",
+        "Ze negeren de problemen",
+        "Ze verhuizen naar een andere stad"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
+    },
+    {
+      "question": "Waar wordt de grond rond de beek genoemd?",
+      "options": [
+        "Gezond en veilig",
+        "Volledig steriel",
+        "Vrij van alle chemicaliën",
+        "Vervuild met PFAS en andere stoffen"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Garry Kasparov is een professionele schaker.",
-      "isTrue": true
-    },
-    {
-      "statement": "Het schaakevenement vond plaats in Brussel.",
+      "statement": "De scouts die op de grond spelen, zijn zich bewust van de PFAS-verontreiniging.",
       "isTrue": false
     },
     {
-      "statement": "Marc Coucke is een van de deelnemers aan het schaaktoernooi.",
+      "statement": "Het stadsbestuur heeft meteen actie ondernomen door een grootschalig bloedonderzoek te starten.",
+      "isTrue": true
+    },
+    {
+      "statement": "De bewoners van Ronse waren niet verrast door de testresultaten, omdat ze altijd al vermoedden dat er iets mis was.",
       "isTrue": true
     }
   ]

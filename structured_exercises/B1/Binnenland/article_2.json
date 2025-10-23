@@ -1,96 +1,106 @@
 {
-  "id": 12,
-  "section": "Sport",
-  "topic": "Schaak",
+  "id": 13,
+  "section": "Binnenland",
+  "topic": "Binnenland",
   "level": "B1",
-  "title": "Schaakgrootmeester Garry Kasparov verslaat twintig tegenstanders in Antwerpen",
+  "title": "Ronsenaars maken zich zorgen over hoge PFAS-waarden in bloed",
   "topicNumber": 1,
   "article": {
-    "title": "Schaakgrootmeester Garry Kasparov verslaat twintig tegenstanders in Antwerpen",
-    "summary": "Het KMSKA in Antwerpen stond gisteren helemaal in het thema van schaken. Garry Kasparov speelde tegen twintig schakers, waaronder burgemeester Els van Doesburg en ondernemer Marc Coucke. Kasparov won alle partijen."
+    "title": "Ronsenaars maken zich zorgen over hoge PFAS-waarden in bloed",
+    "summary": "Steeds meer inwoners van Ronse laten hun bloed onderzoeken op PFAS en krijgen hoge waarden. Het stadsbestuur wil een groot bloedonderzoek. Ondertussen spelen kinderen op vervuilde grond."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "schaken",
-        "definition": "een spel met zwarte en witte stukken op een bord"
+        "word": "Ronsenaars",
+        "definition": "Mensen die in de stad Ronse wonen",
+        "sentence": "De ___ maken zich zorgen over PFAS in hun bloed.",
+        "answer": "Ronsenaars"
       },
       {
-        "word": "tegenstanders",
-        "definition": "mensen die tegen elkaar spelen"
+        "word": "PFAS",
+        "definition": "Een groep van chemische stoffen die schadelijk zijn voor de gezondheid",
+        "sentence": "Er zitten te hoge ___ waarden in het bloed van de Ronsenaars.",
+        "answer": "PFAS"
       },
       {
-        "word": "won",
-        "definition": "heeft gewonnen, is winnaar"
+        "word": "bloed",
+        "definition": "De rode vloeistof die door je lichaam stroomt",
+        "sentence": "Ze laten hun ___ testen op PFAS-waarden.",
+        "answer": "bloed"
       },
       {
-        "word": "finalisten",
-        "definition": "deelnemers in de laatste ronde"
+        "word": "stadsbestuur",
+        "definition": "De groep mensen die de stad bestuurt",
+        "sentence": "Het ___ wil een groot onderzoek doen.",
+        "answer": "stadsbestuur"
       },
       {
-        "word": "ondernemer",
-        "definition": "iemand die een bedrijf heeft"
+        "word": "kinderen",
+        "definition": "Jonge mensen, meestal onder de 18 jaar",
+        "sentence": "De ___ spelen op de vervuilde grond.",
+        "answer": "kinderen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Garry Kasparov is een beroemde schaak___",
-        "answer": "speler"
+        "sentence": "Het ___ wil een groot onderzoek doen.",
+        "answer": "stadsbestuur"
       },
       {
-        "sentence": "Hij won van alle twintig ___ in Antwerpen.",
-        "answer": "tegenstanders"
+        "sentence": "Ze laten hun ___ testen op PFAS-waarden.",
+        "answer": "bloed"
       },
       {
-        "sentence": "Ook de burgemeester van Antwerpen was een van de ___",
-        "answer": "finalisten"
+        "sentence": "De ___ maken zich zorgen over PFAS in hun bloed.",
+        "answer": "Ronsenaars"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar vond het schaaktoernooi plaats?",
+      "question": "Wat is PFAS?",
       "options": [
-        "In Amsterdam",
-        "In Antwerpen",
-        "In Brussel",
-        "In Gent"
+        "Een soort medicijn",
+        "Een chemische stof",
+        "Een soort plant",
+        "Een dier"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wie won alle partijen?",
+      "question": "Wat wil het stadsbestuur doen?",
       "options": [
-        "Els van Doesburg",
-        "Marc Coucke",
-        "Garry Kasparov",
-        "Een onbekende speler"
+        "Niets",
+        "De stad evacueren",
+        "Een groot bloedonderzoek organiseren",
+        "Meer PFAS gebruiken"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoeveel tegenstanders versloeg Kasparov?",
+      "question": "Waar spelen de kinderen?",
       "options": [
-        "Vijf",
-        "Tien",
-        "Twintig",
-        "Dertig"
+        "In een park",
+        "Op vervuilde grond",
+        "Binnen in huis",
+        "In een museum"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Garry Kasparov won van alle twintig tegenstanders.",
-      "isTrue": true
-    },
-    {
-      "statement": "Els van Doesburg is de burgemeester van Amsterdam.",
+      "statement": "PFAS is goed voor de gezondheid.",
       "isTrue": false
     },
     {
-      "statement": "Marc Coucke is een Belgische ondernemer.",
+      "statement": "Het stadsbestuur wil een groot onderzoek doen.",
       "isTrue": true
+    },
+    {
+      "statement": "Kunnen kinderen veilig spelen op de vervuilde grond?",
+      "isTrue": false
     }
   ]
 }
