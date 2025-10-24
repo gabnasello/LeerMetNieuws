@@ -2,14 +2,15 @@ import os
 import re
 import json
 import time
+import random
 import requests
 
 # ---------- CONFIGURATION ----------
 API_KEY = os.getenv("OPENROUTER_API_KEY")
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
-LEVELS = ["B1", "A2", "B2", "C1"]
-#LEVELS = ["B1"]
+LEVELS = ["B1", "A2", "B2", "C1", "A1"]
+# LEVELS = ["B1"]
 
 
 # ---------- API CALL WITH RETRIES ----------
@@ -22,7 +23,6 @@ def query_openrouter(messages, max_tokens=1200, retries=5, backoff=2):
     }
     payload = {
         "model": "deepseek/deepseek-chat-v3.1:free",
-        #"model": "deepseek/deepseek-r1-0528:free",
         "messages": messages,
         "max_tokens": max_tokens,
         "temperature": 0.4,
@@ -41,11 +41,7 @@ def query_openrouter(messages, max_tokens=1200, retries=5, backoff=2):
     raise RuntimeError("❌ Meerdere keren mislukt vanwege snelheidslimiet.")
 
 
-# ---------- COMBINED FUNCTION ----------
-import re
-import json
-import random
-
+# ---------- MAIN GENERATOR FUNCTION ----------
 def generate_simplified_and_exercises(level, section, topic_number, title, summary):
     messages = [
         {
@@ -53,7 +49,6 @@ def generate_simplified_and_exercises(level, section, topic_number, title, summa
             "content": (
                 "Je bent een ervaren NT2-docent (Nederlands als tweede taal) die oefenmateriaal maakt "
                 "voor anderstaligen op verschillende ERK-niveaus (CEFR). "
-                "Je begrijpt goed welke grammatica, woordenschat en zinslengte bij elk niveau hoort. "
                 "Gebruik correcte spelling en grammatica, en geef uitsluitend geldige JSON-uitvoer."
             )
         },
@@ -61,25 +56,27 @@ def generate_simplified_and_exercises(level, section, topic_number, title, summa
             "role": "user",
             "content": f"""
 Herschrijf de titel en samenvatting in natuurlijk en begrijpelijk Nederlands op niveau {level}.
-De zinnen hoeven niet kort te zijn, maar moeten qua woordenschat, grammatica en structuur passen bij niveau {level}.
 Gebruik natuurlijk klinkende taal die authentiek aanvoelt voor dit niveau.
 
 Maak vervolgens taalactiviteiten op basis van de vereenvoudigde tekst:
 
-1. Kies **precies 5 woorden** die letterlijk voorkomen in de vereenvoudigde titel of samenvatting.
+1. Kies **8 woorden** die letterlijk voorkomen in de vereenvoudigde titel of samenvatting.
    - Gebruik de woorden exact zoals ze in de tekst staan (niet verbogen of afgeleid).
    - Geen enkel woord mag afkomstig zijn van buiten de vereenvoudigde titel of samenvatting.
    - Voor elk woord:
        - Geef een korte definitie in eenvoudig Nederlands op niveau {level}.
-       - Maak direct daarna één zin met een invul-leegte (___) waarin dat woord ontbreekt.
-         De zin moet natuurlijk en grammaticaal correct zijn.
-       - Voeg ook een veld "answer" toe met het juiste woord.
+       - Maak één zin met een invul-leegte (___) waarin dat woord ontbreekt.
+       - Voeg een veld "answer" toe met het juiste woord.
 
-2. Maak **3 meerkeuzevragen** over de betekenis van de vereenvoudigde tekst.
+2. Maak **precies 3 meerkeuzevragen** over de betekenis van de vereenvoudigde tekst.
+   - Elke vraag moet 4 antwoordopties hebben.
+   - Voeg het juiste antwoord toe als numerieke index (1 t/m 4).
 
-3. Maak **3 waar/niet waar-stellingen** over de inhoud van de tekst.
+3. Maak **precies 3 waar/niet waar-stellingen** over de inhoud van de tekst.
+   - Elke stelling moet realistisch klinken.
+   - Gebruik de sleutel "isTrue": true of false.
 
-Geef de uitvoer als **één geldig JSON-object** met exact deze structuur:
+Geef de uitvoer als **één geldig JSON-object** met exact deze structuur (zonder uitleg erbuiten):
 
 {{
   "id": 1,
@@ -100,29 +97,12 @@ Geef de uitvoer als **één geldig JSON-object** met exact deze structuur:
         "sentence": "Zin met ___",
         "answer": "woord1"
       }},
+      ...
       {{
-        "word": "woord2",
-        "definition": "definitie2",
+        "word": "woord8",
+        "definition": "definitie8",
         "sentence": "Zin met ___",
-        "answer": "woord2"
-      }},
-      {{
-        "word": "woord3",
-        "definition": "definitie3",
-        "sentence": "Zin met ___",
-        "answer": "woord3"
-      }},
-      {{
-        "word": "woord4",
-        "definition": "definitie4",
-        "sentence": "Zin met ___",
-        "answer": "woord4"
-      }},
-      {{
-        "word": "woord5",
-        "definition": "definitie5",
-        "sentence": "Zin met ___",
-        "answer": "woord5"
+        "answer": "woord8"
       }}
     ]
   }},
@@ -167,10 +147,26 @@ Samenvatting: {summary}
         data["section"] = section
         data["topic"] = section
 
-        # ✅ Add fillInBlanks dynamically
+        # ---------- FILTER & SELECT WORDS ----------
         words = data.get("vocabulary", {}).get("words", [])
-        if len(words) >= 3:
-            sampled = random.sample(words, 3)
+        simplified_text = (
+            f"{data.get('article', {}).get('title', '')} "
+            f"{data.get('article', {}).get('summary', '')}"
+        ).lower()
+
+        filtered_words = [
+            w for w in words if w["word"].lower() in simplified_text
+        ]
+
+        # Keep at most 5 words (random if more)
+        if len(filtered_words) > 5:
+            filtered_words = random.sample(filtered_words, 5)
+
+        data["vocabulary"]["words"] = filtered_words
+
+        # ---------- ADD FILL-IN-BLANKS ----------
+        if len(filtered_words) >= 3:
+            sampled = random.sample(filtered_words, 3)
             data["vocabulary"]["fillInBlanks"] = [
                 {"sentence": w["sentence"], "answer": w["answer"]} for w in sampled
             ]
@@ -182,6 +178,7 @@ Samenvatting: {summary}
     except json.JSONDecodeError:
         print(f"⚠️ Ongeldige JSON voor niveau {level}.")
         return {}
+
 
 # ---------- MAIN SCRIPT ----------
 def main():
