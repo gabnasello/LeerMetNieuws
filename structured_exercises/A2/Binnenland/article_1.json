@@ -1,106 +1,106 @@
 {
-  "id": 10,
+  "id": 14,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
+  "title": "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
   "topicNumber": 1,
   "article": {
-    "title": "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
-    "summary": "Al van eind juli weten we dat de Maas vervuild wordt met een schimmeldodend middel. Maar nog steeds is de bron niet bekend. Zelfs de Nederlandse ambassadeur liet zich in met de zaak."
+    "title": "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
+    "summary": "De strijd tegen Russische corruptie leidt zelfs tot in het Vlinderpaleis. Op het spel staat een eerbetoon aan Sergej Magnitski en een Antwerps appartement waarvan wordt aangenomen dat het aangekocht is met geld van de beruchte fraudezaak."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Vervuiling",
-        "definition": "Als iets vies of giftig wordt gemaakt.",
-        "sentence": "De fabriek veroorzaakt veel vervuiling in de rivier.",
-        "answer": "Vervuiling"
+        "word": "strijd",
+        "definition": "een hevige ruzie of een gevecht, vaak voor een belangrijk doel",
+        "sentence": "De twee landen voerden een lange ___ om het land.",
+        "answer": "strijd"
       },
       {
-        "word": "Mysterie",
-        "definition": "Iets dat niet bekend is of moeilijk te begrijpen.",
-        "sentence": "Waarom hij vertrok is nog een mysterie voor ons.",
-        "answer": "Mysterie"
+        "word": "corruptie",
+        "definition": "wanneer mensen in de macht misbruik maken van hun positie, bijvoorbeeld door geld te stelen",
+        "sentence": "De politicus werd beschuldigd van ___ en moest aftreden.",
+        "answer": "corruptie"
       },
       {
-        "word": "Ambassadeur",
-        "definition": "Een persoon die zijn land vertegenwoordigt in een ander land.",
-        "sentence": "De ambassadeur van Frankrijk bezocht ons land.",
-        "answer": "Ambassadeur"
+        "word": "aangenomen",
+        "definition": "verondersteld, niet zeker",
+        "sentence": "Het is ___ dat het gebouw al honderden jaren oud is.",
+        "answer": "aangenomen"
       },
       {
-        "word": "Mengt",
-        "definition": "Iets door elkaar halen of erbij betrekken.",
-        "sentence": "Hij mengt zich altijd in gesprekken die hem niet aangaan.",
-        "answer": "Mengt"
+        "word": "erfenis",
+        "definition": "iets wat wordt achtergelaten voor de toekomst, zoals geld of een gebouw",
+        "sentence": "De oude vrouw liet haar volledige ___ aan haar kleindochter.",
+        "answer": "erfenis"
       },
       {
-        "word": "Schimmeldodend",
-        "definition": "Iets dat schimmels doodt.",
-        "sentence": "Dit schimmeldodend middel is niet goed voor het water.",
-        "answer": "Schimmeldodend"
+        "word": "fraude",
+        "definition": "een vorm van bedrog, vaak met geld of informatie",
+        "sentence": "De man pleegde ___ door valse informatie op te geven.",
+        "answer": "fraude"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De fabriek veroorzaakt veel vervuiling in de rivier.",
-        "answer": "Vervuiling"
+        "sentence": "Het is ___ dat het gebouw al honderden jaren oud is.",
+        "answer": "aangenomen"
       },
       {
-        "sentence": "Waarom hij vertrok is nog een mysterie voor ons.",
-        "answer": "Mysterie"
+        "sentence": "De oude vrouw liet haar volledige ___ aan haar kleindochter.",
+        "answer": "erfenis"
       },
       {
-        "sentence": "Hij mengt zich altijd in gesprekken die hem niet aangaan.",
-        "answer": "Mengt"
+        "sentence": "De twee landen voerden een lange ___ om het land.",
+        "answer": "strijd"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het als de Maas vervuild is?",
+      "question": "Waar gaat het artikel vooral over?",
       "options": [
-        "De Maas is erg schoon",
-        "De Maas is vuil en gevaarlijk",
-        "De Maas is bevroren",
-        "De Maas is ondiep"
+        "Over een nieuwe wet in België",
+        "Over een internationaal sportevenement",
+        "Over de aankoop van een appartement met gestolen geld",
+        "Over de prijs van een appartement in Antwerpen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is het Vlinderpaleis?",
+      "options": [
+        "Een oud museum in Rusland",
+        "Een beroemd hotel in Moskou",
+        "Een gebouw in Antwerpen",
+        "Een type bloem"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is een schimmeldodend middel?",
+      "question": "Waarom is Sergej Magnitski belangrijk voor dit verhaal?",
       "options": [
-        "Een middel dat schimmels eet",
-        "Een middel dat schimmels doodmaakt",
-        "Een middel dat schimmels kweekt",
-        "Een middel dat niets met schimmels doet"
+        "Hij is de eigenaar van het appartement",
+        "Hij is een Russische sporter",
+        "Hij is een symbolische figuur in de strijd tegen corruptie",
+        "Hij is de president van Rusland"
       ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat doet de Nederlandse ambassadeur?",
-      "options": [
-        "Hij gaat op vakantie",
-        "Hij maakt zich druk om de zaak",
-        "Hij negeert de zaak",
-        "Hij verhuist naar een ander land"
-      ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De bron van de vervuiling is al bekend.",
+      "statement": "Het Vlinderpaleis is een gebouw in Antwerpen.",
       "isTrue": false
     },
     {
-      "statement": "Een ambassadeur vertegenwoordigt zijn land in een ander land.",
+      "statement": "Het appartement in Antwerpen is betaald met geld van de fraudezaak.",
       "isTrue": true
     },
     {
-      "statement": "Schimmels kunnen gevaarlijk zijn voor de gezondheid.",
-      "isTrue": true
+      "statement": "Sergej Magnitski is nog steeds in leven en woont in het Vlinderpaleis.",
+      "isTrue": false
     }
   ]
 }

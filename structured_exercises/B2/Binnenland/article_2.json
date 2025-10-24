@@ -1,105 +1,105 @@
 {
-  "id": 15,
+  "id": 23,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Ronsenaars ontredderd over hoge PFAS-waarden in bloed: Eerst dachten zij dat hun kinderen geen risico liepen",
+  "title": "De kerk in België: achteruitgang maar ook hoop",
   "topicNumber": 1,
   "article": {
-    "title": "Ronsenaars ontredderd over hoge PFAS-waarden in bloed: Eerst dachten zij dat hun kinderen geen risico liepen",
-    "summary": "Steeds meer Ronsenaars laten hun bloed op PFAS-waarden testen en krijgen verontrustend hoge resultaten terug. Het stadsbestuur zit met de handen in het haar en wil een grootschalig bloedonderzoek. De grond rond de beek moet gesaneerd worden, maar intussen spelen scouts vrolijk rond op vergiftigde grond."
+    "title": "De kerk in België: achteruitgang maar ook hoop",
+    "summary": "Het aantal kerkelijke huwelijken en uitvaarten is sterk gedaald, en ook het aantal kerkgangers is verminderd. Toch ziet godsdienstleraar Bart Willemen tekenen van hoop: jongeren zoeken naar zingeving en godsdienst wordt weer een optie."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "ontredderd",
-        "definition": "in verwarring, niet weten wat te doen",
-        "sentence": "Na het ontslag voelde ze zich helemaal ___ en wist niet wat haar volgende stap moest zijn.",
-        "answer": "ontredderd"
+        "word": "kerk",
+        "definition": "een gebouw waar mensen samenkomen voor religieuze diensten",
+        "sentence": "De ___ is een plek waar mensen samenkomen om te bidden.",
+        "answer": "kerk"
       },
       {
-        "word": "risico",
-        "definition": "gevaar of kans op iets negatiefs",
-        "sentence": "Roken brengt een groot gezondheids___ met zich mee.",
-        "answer": "risico"
+        "word": "huwelijk",
+        "definition": "een ceremonie waarbij twee mensen met elkaar trouwen",
+        "sentence": "Het ___ is een feestelijke gebeurtenis waar families samenkomen.",
+        "answer": "huwelijk"
       },
       {
-        "word": "vergiftigde",
-        "definition": "vergiftigd, vergift is binnengekregen",
-        "sentence": "De ___ grond maakte het onmogelijk om er groenten te verbouwen.",
-        "answer": "vergiftigde"
+        "word": "uitvaart",
+        "definition": "een ceremonie waarbij een overleden persoon wordt herdacht",
+        "sentence": "Tijdens een ___ komen mensen samen om afscheid te nemen.",
+        "answer": "uitvaart"
       },
       {
-        "word": "gesaneerd",
-        "definition": "schoon en vrijgemaakt van vervuiling",
-        "sentence": "Na de sanering was de bodem volledig ___ en veilig voor gebruik.",
-        "answer": "gesaneerd"
+        "word": "zingeving",
+        "definition": "de zoektocht naar betekenis en doel in het leven",
+        "sentence": "Veel mensen zoeken naar ___ in hun leven om gelukkig te zijn.",
+        "answer": "zingeving"
       },
       {
-        "word": "grootschalig",
-        "definition": "op grote schaal, met veel deelnemers of gebieden",
-        "sentence": "De overheid startte een ___ onderzoek naar de waterkwaliteit in de regio.",
-        "answer": "grootschalig"
+        "word": "God",
+        "definition": "in veel religies, het hoogste wezen dat wordt aanbeden",
+        "sentence": "Sommige mensen bidden tot ___ voor steun en guidance.",
+        "answer": "God"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Roken brengt een groot gezondheids___ met zich mee.",
-        "answer": "risico"
+        "sentence": "Tijdens een ___ komen mensen samen om afscheid te nemen.",
+        "answer": "uitvaart"
       },
       {
-        "sentence": "De overheid startte een ___ onderzoek naar de waterkwaliteit in de regio.",
-        "answer": "grootschalig"
+        "sentence": "Veel mensen zoeken naar ___ in hun leven om gelukkig te zijn.",
+        "answer": "zingeving"
       },
       {
-        "sentence": "Na het ontslag voelde ze zich helemaal ___ en wist niet wat haar volgende stap moest zijn.",
-        "answer": "ontredderd"
+        "sentence": "Sommige mensen bidden tot ___ voor steun en guidance.",
+        "answer": "God"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het als de grond 'gesaneerd' moet worden?",
+      "question": "Waarom is het aantal kerkelijke huwelijken gedaald?",
       "options": [
-        "Het moet schoongemaakt worden",
-        "Het moet bewaterd worden",
-        "Het moet bemest worden",
-        "Het moet bebouwd worden"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "Waarom zijn de Ronsenaars ontredderd volgens de tekst?",
-      "options": [
-        "Omdat hun kinderen ziek werden",
-        "Omdat ze niet wisten dat er een risico was",
-        "Omdat de grond al gesaneerd was",
-        "Omdat de scouts niet meer mochten spelen"
+        "Mensen geloven niet langer in God",
+        "Mensen geven de voorkeur aan een burgerlijk huwelijk",
+        "Kerken zijn gesloten wegens onderhoud",
+        "De pandemie heeft ceremonies beperkt"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is de hoofdgedachte van de samenvatting?",
+      "question": "Wat is een teken van hoop volgens Bart Willemen?",
       "options": [
-        "Scouts spelen op giftige grond",
-        "Bloedonderzoeken tonen hoge PFAS-waarden",
-        "Het stadsbestuur weet het niet meer",
-        "De gemeente wil de beek saneren"
+        "Kerken worden voller tijdens feestdagen",
+        "Jongeren zoeken actief naar zingeving",
+        "Meer mensen bezoeken wekelijks de mis",
+        "Religieuze boeken worden meer verkocht"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is een 'uitvaart'?",
+      "options": [
+        "Een huwelijksceremonie in de kerk",
+        "Een herdenking voor iemand die overleden is",
+        "Een feest voor een nieuwe baby",
+        "Een religieuze feestdag"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Ronsenaars zijn blij met de testresultaten.",
+      "statement": "Het aantal kerkelijke huwelijken is gestegen in België.",
       "isTrue": false
     },
     {
-      "statement": "Het stadsbestuur onderneemt actie door een groot onderzoek te starten.",
+      "statement": "Bart Willemen ziet dat jongeren meer interesse tonen in godsdienst.",
       "isTrue": true
     },
     {
-      "statement": "Scouts spelen op de vergiftigde grond, wat als een veilige situatie wordt beschouwd.",
+      "statement": "Alle kerken in België zijn gesloten vanwege achteruitgang.",
       "isTrue": false
     }
   ]

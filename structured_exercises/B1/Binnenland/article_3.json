@@ -1,0 +1,106 @@
+{
+  "id": 17,
+  "section": "Binnenland",
+  "topic": "Binnenland",
+  "level": "B1",
+  "title": "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
+  "topicNumber": 1,
+  "article": {
+    "title": "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
+    "summary": "De PFAS-waarden in het bloed bij sommige Ronsenaars blijken vier tot acht keer hoger te liggen dan de Europese veiligheidsnorm. “Dit afdoen als te complex en niet zo gevaarlijk is onethisch”, zegt de Deense expert Philippe Grandjean."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "expert",
+        "definition": "een deskundige of iemand die veel weet over een onderwerp",
+        "sentence": "De ___ gaf uitleg over de situatie.",
+        "answer": "expert"
+      },
+      {
+        "word": "hoge",
+        "definition": "groot in hoeveelheid of niveau, veel meer dan normaal",
+        "sentence": "Er was een ___ concentratie van de stoffen in het bloed.",
+        "answer": "hoge"
+      },
+      {
+        "word": "blijkt",
+        "definition": "wat duidelijk wordt uit de situatie of uit onderzoek",
+        "sentence": "Het ___ dat er veel problemen zijn.",
+        "answer": "blijkt"
+      },
+      {
+        "word": "veiligheidsnorm",
+        "definition": "een regel die zegt wat veilig is en wat niet",
+        "sentence": "De ___ wordt vaak opgesteld door experts.",
+        "answer": "veiligheidsnorm"
+      },
+      {
+        "word": "onethisch",
+        "definition": "niet ethisch, niet moreel correct, niet volgens de regels van goed gedrag",
+        "sentence": "Het is ___ om iemand opzettelijk te kwetsen.",
+        "answer": "onethisch"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Er was een ___ concentratie van de stoffen in het bloed.",
+        "answer": "hoge"
+      },
+      {
+        "sentence": "Het ___ dat er veel problemen zijn.",
+        "answer": "blijkt"
+      },
+      {
+        "sentence": "De ___ gaf uitleg over de situatie.",
+        "answer": "expert"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat is de rol van Philippe Grandjean in dit artikel?",
+      "options": [
+        "Hij is een journalist",
+        "Hij is de Deense expert",
+        "Hij is een inwoner van Ronse",
+        "Hij is de Europese voorzitter"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Waar gaat het artikel over?",
+      "options": [
+        "Over een feest in Ronse",
+        "Over een sportevenement",
+        "Over de PFAS-waarden in het bloed van mensen in Ronse",
+        "Over een nieuwe diersoort"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de houding van de expert naar de situatie?",
+      "options": [
+        "Hij vindt het niet belangrijk",
+        "Hij noemt het onethisch om het probleem te negeren",
+        "Hij vindt het een goede zaak",
+        "Hij is er blij mee"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "De PFAS-waarden in Ronse zijn lager dan de Europese norm.",
+      "isTrue": false
+    },
+    {
+      "statement": "Philippe Grandjean is de Deense expert die commentaar geeft.",
+      "isTrue": true
+    },
+    {
+      "statement": "Het artikel zegt dat PFAS geen effect heeft op het lichaam.",
+      "isTrue": false
+    }
+  ]
+}

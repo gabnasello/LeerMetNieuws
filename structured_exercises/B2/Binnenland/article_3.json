@@ -1,0 +1,106 @@
+{
+  "id": 19,
+  "section": "Binnenland",
+  "topic": "Binnenland",
+  "level": "B2",
+  "title": "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
+  "topicNumber": 1,
+  "article": {
+    "title": "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
+    "summary": "De PFAS-waarden in het bloed bij sommige Ronsenaars blijken vier tot acht keer hoger te liggen dan de Europese veiligheidsnorm. “Dit afdoen als te complex en niet zo gevaarlijk is onethisch”, zegt de Deense expert Philippe Grandjean."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "bloed",
+        "definition": "De rode vloeistof in je lichaam die zuurstof vervoert.",
+        "sentence": "Het onderzoek richtte zich op de concentraties in het ___.",
+        "answer": "bloed"
+      },
+      {
+        "word": "expert",
+        "definition": "Iemand die veel kennis heeft over een bepaald onderwerp.",
+        "sentence": "De ___ uit Denemarken gaf uitleg over de risico's.",
+        "answer": "expert"
+      },
+      {
+        "word": "effect",
+        "definition": "Het resultaat of gevolg van een actie of gebeurtenis.",
+        "sentence": "De stoffen kunnen een negatief ___ hebben op de gezondheid.",
+        "answer": "effect"
+      },
+      {
+        "word": "ethisch",
+        "definition": "Ethisch, moreel juist of verantwoord.",
+        "sentence": "Het is niet ___ om gevaarlijke situaties te negeren.",
+        "answer": "ethisch"
+      },
+      {
+        "word": "onderzoek",
+        "definition": "Een studie of onderzoek om iets te leren of te bewijzen.",
+        "sentence": "Het ___ toont aan dat de waarden te hoog zijn.",
+        "answer": "onderzoek"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Het is niet ___ om gevaarlijke situaties te negeren.",
+        "answer": "ethisch"
+      },
+      {
+        "sentence": "De stoffen kunnen een negatief ___ hebben op de gezondheid.",
+        "answer": "effect"
+      },
+      {
+        "sentence": "Het onderzoek richtte zich op de concentraties in het ___.",
+        "answer": "bloed"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Waarom worden de PFAS-waarden in Ronse onderzocht?",
+      "options": [
+        "Omdat er te veel PFAS in het bloed zit",
+        "Omdat de stad erom vraagt",
+        "Omdat de normen in Europa veranderd zijn",
+        "Omdat er geen probleem is"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Wat is de rol van Philippe Grandjean in dit artikel?",
+      "options": [
+        "Hij is een getroffen inwoner van Ronse",
+        "Hij is de Deense expert die commentaar geeft",
+        "Hij is de Belgische milieuminister",
+        "Hij is de arts die de testen uitvoerde"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is de kern van de boodschap volgens het artikel?",
+      "options": [
+        "PFAS zijn onschadelijk en de situatie is complex",
+        "De situatie is complex, maar het is onethisch om het gevaar te negeren",
+        "Ethische kwesties zijn niet belangrijk bij milieuproblemen",
+        "Ronse heeft de hoogste PFAS-waarden ter wereld"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "De PFAS-waarden in Ronse zijn lager dan de Europese norm.",
+      "isTrue": false
+    },
+    {
+      "statement": "Philippe Grandjean is de Deense expert die commentaar geeft.",
+      "isTrue": true
+    },
+    {
+      "statement": "Het artikel stelt dat de situatie in Ronse niet problematisch is.",
+      "isTrue": false
+    }
+  ]
+}

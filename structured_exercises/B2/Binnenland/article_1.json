@@ -1,106 +1,106 @@
 {
-  "id": 11,
+  "id": 15,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
+  "title": "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
   "topicNumber": 1,
   "article": {
-    "title": "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
-    "summary": "Al van eind juli weten we dat de Maas vervuild wordt met een schimmeldodend middel. Maar nog steeds is de bron niet bekend. Zelfs de Nederlandse ambassadeur liet zich in met de zaak."
+    "title": "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
+    "summary": "De strijd tegen Russische corruptie leidt zelfs tot in het Vlinderpaleis. Op het spel staat een eerbetoon aan Sergej Magnitski en een Antwerps appartement waarvan wordt aangenomen dat het aangekocht is met geld van de beruchte fraudezaak."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "maatregel",
-        "definition": "iets wat je doet om een probleem op te lossen",
-        "sentence": "De regering nam een belangrijke ___ om de vervuiling te stoppen.",
-        "answer": "maatregel"
+        "word": "strijd",
+        "definition": "Een conflict of gevecht tussen groepen mensen",
+        "sentence": "De politieke ___ in dat land duurt al jaren.",
+        "answer": "strijd"
       },
       {
-        "word": "veroorlaken",
-        "definition": "iets dat de oorzaak is van iets, bijvoorbeeld een probleem",
-        "sentence": "Industrieel afval kan ___ dat rivieren vervuild raken.",
-        "answer": "veroorlaken"
+        "word": "corruptie",
+        "definition": "Het misbruik van macht voor persoonlijk gewin",
+        "sentence": "Er is veel ___ in de regering van dat land.",
+        "answer": "corruptie"
       },
       {
-        "word": "onderzoeken",
-        "definition": "proberen meer te weten te komen over iets, door het te bestuderen",
-        "sentence": "Wetenschappers willen de waterkwaliteit ___ om deze te verbeteren.",
-        "answer": "onderzoeken"
+        "word": "aangenomen",
+        "definition": "Wordt verondersteld of verondersteld",
+        "sentence": "Het wordt ___ dat het gebouw in de 18e eeuw is gebouwd.",
+        "answer": "aangenomen"
       },
       {
-        "word": "samenwerken",
-        "definition": "samen met anderen werken aan een gemeenschappelijk doel",
-        "sentence": "Verschillende landen moeten ___ om grensoverschrijdende vervuiling aan te pakken.",
-        "answer": "samenwerken"
+        "word": "fraudezaak",
+        "definition": "Een strafrechtelijk onderzoek naar oplichting of bedrog",
+        "sentence": "Hij is verdacht van betrokkenheid bij een grote ___.",
+        "answer": "fraudezaak"
       },
       {
-        "word": "aanpakken",
-        "definition": "iets actief doen om een probleem op te lossen",
-        "sentence": "De overheid moet de crisis ___ voordat het erger wordt.",
-        "answer": "aanpakken"
+        "word": "aangekocht",
+        "definition": "Gekocht, verleden tijd van aankopen",
+        "sentence": "Het schilderij werd ___ op een veiling.",
+        "answer": "aangekocht"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De overheid moet de crisis ___ voordat het erger wordt.",
-        "answer": "aanpakken"
+        "sentence": "Het schilderij werd ___ op een veiling.",
+        "answer": "aangekocht"
       },
       {
-        "sentence": "Industrieel afval kan ___ dat rivieren vervuild raken.",
-        "answer": "veroorlaken"
+        "sentence": "Hij is verdacht van betrokkenheid bij een grote ___.",
+        "answer": "fraudezaak"
       },
       {
-        "sentence": "Verschillende landen moeten ___ om grensoverschrijdende vervuiling aan te pakken.",
-        "answer": "samenwerken"
+        "sentence": "De politieke ___ in dat land duurt al jaren.",
+        "answer": "strijd"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een van de oorzaken van de vervuiling in de Maas?",
+      "question": "Waarom is het appartement in Antwerpen belangrijk?",
       "options": [
-        "Industrieel afval",
-        "Natuurlijke sedimenten",
-        "Overmatige regenval",
-        "Geen van bovenstaande"
+        "Het is een geschenk aan Sergej Magnitski.",
+        "Het is gekocht met geld uit een fraudezaak.",
+        "Het is een toeristische attractie.",
+        "Het is een monument voor de stad Antwerpen."
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is het hoofddoel van het onderzoek naar de Maas?",
+      "question": "Wat is het Vlinderpaleis?",
       "options": [
-        "De vervuiling stoppen",
-        "De bron van de vervuiling vinden",
-        "De Maas volledig reinigen",
-        "Toerisme bevorderen"
+        "Een gebouw in Antwerpen",
+        "Een schilderij in een museum",
+        "Een metafoor voor fragiliteit",
+        "Een type gebouw in Rusland"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
-      "question": "Wat is de rol van de Nederlandse ambassadeur in deze kwestie?",
+      "question": "Wat is de rol van Sergej Magnitski in deze context?",
       "options": [
-        "Hij leidt het onderzoek",
-        "Hij ondersteunt de samenwerking",
-        "Hij negeert de situatie",
-        "Hij maakt de vervuiling erger"
+        "Hij is de eigenaar van het appartement.",
+        "Hij is een slachtoffer van corruptie.",
+        "Hij is een politicus die tegen corruptie vecht.",
+        "Hij is een kunstenaar die over corruptie schildert."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De bron van de vervuiling in de Maas is al bekend.",
-      "isTrue": false
-    },
-    {
-      "statement": "Nederland werkt alleen om de Maas te zuiveren.",
-      "isTrue": false
-    },
-    {
-      "statement": "Internationale samenwerking is betrokken bij deze kwestie.",
+      "statement": "Het appartement in Antwerpen is aangekocht met geld uit de fraudezaak.",
       "isTrue": true
+    },
+    {
+      "statement": "Sergej Magnitski is de eigenaar van het Vlinderpaleis.",
+      "isTrue": false
+    },
+    {
+      "statement": "De strijd tegen corruptie is alleen gericht op Russische officials.",
+      "isTrue": false
     }
   ]
 }

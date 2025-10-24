@@ -1,0 +1,106 @@
+{
+  "id": 8,
+  "section": "Buitenland",
+  "topic": "Buitenland",
+  "level": "C1",
+  "title": "Als het gaat om defensie, is Europa bereid eigen regels wat op te rekken",
+  "topicNumber": 1,
+  "article": {
+    "title": "Als het gaat om defensie, is Europa bereid eigen regels wat op te rekken",
+    "summary": "Europa haalt de hinderpalen voor defensie-investeringen één voor één weg. Op de Europese top stond behalve de Russische tegoeden ook het pad om een turbo te zetten op de militaire paraatheid centraal."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "defensie",
+        "definition": "het geheel van militaire middelen en strategieën om een land te beschermen",
+        "sentence": "De defensie van het land is sterk verbeterd de laatste jaren.",
+        "answer": "defensie"
+      },
+      {
+        "word": "regels",
+        "definition": "afspraken of wetten waar men zich aan moet houden",
+        "sentence": "De nieuwe regels zorgen voor meer duidelijkheid in de sector.",
+        "answer": "regels"
+      },
+      {
+        "word": "op te rekken",
+        "definition": "iets flexibeler of ruimer maken",
+        "sentence": "Soms moet je de regels een beetje op te rekken om vooruitgang te boeken.",
+        "answer": "op te rekken"
+      },
+      {
+        "word": "hinderpalen",
+        "definition": "obstakels of belemmeringen die vooruitgang in de weg staan",
+        "sentence": "Er zijn nog een aantal hinderpalen voordat we kunnen starten.",
+        "answer": "hinderpalen"
+      },
+      {
+        "word": "tegoeden",
+        "definition": "rechten op of vordering op iets, vaak financieel",
+        "sentence": "De tegoeden van de klant zijn nog niet vrijgegeven.",
+        "answer": "tegoeden"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "De nieuwe regels zorgen voor meer duidelijkheid in de sector.",
+        "answer": "regels"
+      },
+      {
+        "sentence": "De tegoeden van de klant zijn nog niet vrijgegeven.",
+        "answer": "tegoeden"
+      },
+      {
+        "sentence": "Er zijn nog een aantal hinderpalen voordat we kunnen starten.",
+        "answer": "hinderpalen"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat is de kern van de Europese defensiestrategie volgens de tekst?",
+      "options": [
+        "Volledige militarisatie",
+        "Samenwerking met niet-EU-landen",
+        "Het wegnemen van belemmeringen en investeren in paraatheid",
+        "Vervanging van de NAVO"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat betekent 'op te rekken' in deze context?",
+      "options": [
+        "De regels volledig negeren",
+        "De regels soepeler of ruimer interpreteren",
+        "De regels volledig afschaffen",
+        "Nieuwe regels invoeren"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is een 'hinderpaal' in de tekst?",
+      "options": [
+        "Een fysieke barrière",
+        "Een wettelijke of procedurele belemmering",
+        "Een militair obstakel",
+        "Een economische sanctie"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "De Europese defensiestrategie richt zich puur op het versterken van de eigen militaire capaciteit.",
+      "isTrue": false
+    },
+    {
+      "statement": "Naast de kwestie van Russische tegoeden, is er ook aandacht voor het versnellen van militaire paraatheid.",
+      "isTrue": true
+    },
+    {
+      "statement": "De tekst suggereert dat Europa al zijn defensieproblemen heeft opgelost.",
+      "isTrue": false
+    }
+  ]
+}

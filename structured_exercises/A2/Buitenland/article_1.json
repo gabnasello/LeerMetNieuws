@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Witte Huis krijgt nieuwe balzaal",
+  "title": "Trump heeft nieuwe problemen in Washington",
   "topicNumber": 1,
   "article": {
-    "title": "Witte Huis krijgt nieuwe balzaal",
-    "summary": "Het Witte Huis is het huis van de president van de Verenigde Staten. Er komt een nieuwe balzaal in het Witte Huis. De oostvleugel wordt afgebroken. President Trump heeft dit gezegd."
+    "title": "Trump heeft nieuwe problemen in Washington",
+    "summary": "Donald Trump heeft nieuwe problemen in de Amerikaanse politiek na nieuwe aanklachten. Dit is belangrijk voor de buitenlandse betrekkingen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Witte",
-        "definition": "helder of doorzichtig, ook een kleur",
-        "sentence": "Sneeuw is ___ en koud.",
-        "answer": "Witte"
+        "word": "Trump",
+        "definition": "de familienaam van de voormalige president van de Verenigde Staten",
+        "sentence": "___ heeft nieuwe problemen in Washington.",
+        "answer": "Trump"
       },
       {
-        "word": "Huis",
-        "definition": "een gebouw waar mensen in wonen",
-        "sentence": "Mijn ___ staat in Amsterdam.",
-        "answer": "Huis"
+        "word": "Washington",
+        "definition": "de hoofdstad van de Verenigde Staten",
+        "sentence": "Hij heeft een huis in ___.",
+        "answer": "Washington"
       },
       {
-        "word": "balzaal",
-        "definition": "een grote zaal waar mensen kunnen dansen",
-        "sentence": "Op het feest was er een grote ___ voor dansen.",
-        "answer": "balzaal"
+        "word": "aanklachten",
+        "definition": "officiële beschuldigingen van misdrijven",
+        "sentence": "Hij kreeg nieuwe ___ in de rechtszaak.",
+        "answer": "aanklachten"
       },
       {
-        "word": "president",
-        "definition": "de leider van een land",
-        "sentence": "De ___ van de Verenigde Staten woont in het Witte Huis.",
-        "answer": "president"
+        "word": "politiek",
+        "definition": "alles wat met het bestuur van een land te maken heeft",
+        "sentence": "Hij is actief in de ___ van het land.",
+        "answer": "politiek"
       },
       {
-        "word": "gezegd",
-        "definition": "het verleden deelwoord van zeggen, wat betekent dat je iets met woorden uitdrukt",
-        "sentence": "Hij heeft ___ dat hij morgen komt.",
-        "answer": "gezegd"
+        "word": "buitenland",
+        "definition": "andere landen, niet het eigen land",
+        "sentence": "Hij reist veel naar het ___ voor werk.",
+        "answer": "buitenland"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Op het feest was er een grote ___ voor dansen.",
-        "answer": "balzaal"
+        "sentence": "Hij heeft een huis in ___.",
+        "answer": "Washington"
       },
       {
-        "sentence": "Hij heeft ___ dat hij morgen komt.",
-        "answer": "gezegd"
+        "sentence": "___ heeft nieuwe problemen in Washington.",
+        "answer": "Trump"
       },
       {
-        "sentence": "Mijn ___ staat in Amsterdam.",
-        "answer": "Huis"
+        "sentence": "Hij is actief in de ___ van het land.",
+        "answer": "politiek"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar is het Witte Huis?",
+      "question": "Waar is de man actief in de politiek?",
       "options": [
-        "In Nederland",
-        "In Amerika",
-        "In China",
-        "In Japan"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wie woont in het Witte Huis?",
-      "options": [
-        "De minister",
-        "De koning",
-        "De president",
-        "De leraar"
+        "Duitsland",
+        "Nederland",
+        "Verenigde Staten",
+        "China"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat gebeurt er met de oostvleugel?",
+      "question": "Wat is de hoofdstad van de Verenigde Staten?",
       "options": [
-        "Het wordt geverfd",
-        "Het wordt verkocht",
-        "Het wordt afgebroken",
-        "Het wordt groter gemaakt"
+        "Amsterdam",
+        "Washington",
+        "Brussel",
+        "Parijs"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is een aanklacht?",
+      "options": [
+        "Een soort sport",
+        "Een nieuwe wet",
+        "Een officiële beschuldiging",
+        "Een soort fruit"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het Witte Huis is in Nederland.",
+      "statement": "Trump is de president van Nederland.",
       "isTrue": false
     },
     {
-      "statement": "De president woont in het Witte Huis.",
+      "statement": "Washington is een stad in Amerika.",
       "isTrue": true
     },
     {
-      "statement": "De oostvleugel wordt groter gemaakt.",
+      "statement": "Politiek gaat alleen over verkiezingen.",
       "isTrue": false
     }
   ]

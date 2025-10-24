@@ -1,105 +1,105 @@
 {
-  "id": 12,
+  "id": 16,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
+  "title": "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
   "topicNumber": 1,
   "article": {
-    "title": "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
-    "summary": "Al van eind juli weten we dat de Maas vervuild wordt met een schimmeldodend middel. Maar nog steeds is de bron niet bekend. Zelfs de Nederlandse ambassadeur liet zich in met de zaak."
+    "title": "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
+    "summary": "De strijd tegen Russische corruptie leidt zelfs tot in het Vlinderpaleis. Op het spel staat een eerbetoon aan Sergej Magnitski en een Antwerps appartement waarvan wordt aangenomen dat het aangekocht is met geld van de beruchte fraudezaak."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Vervuiling",
-        "definition": "De aanwezigheid van schadelijke of ongewenste stoffen in het milieu",
-        "sentence": "De industriële ___ heeft geleid tot een verslechtering van de waterkwaliteit.",
-        "answer": "vervuiling"
+        "word": "strijd",
+        "definition": "een hevige, langdurige strijd of conflict",
+        "sentence": "De politieke ___ in het land leidde tot grote spanningen.",
+        "answer": "strijd"
       },
       {
-        "word": "Midden",
-        "definition": "Een term met meerdere betekenissen; hier gebruikt in de context 'in het midden van' of 'centraal in'",
-        "sentence": "De stad ligt ___ in een dichtbevolkte regio.",
-        "answer": "midden"
+        "word": "corruptie",
+        "definition": "het misbruik van macht voor persoonlijk gewin",
+        "sentence": "Wijdverspreide ___ ondermijnt het vertrouwen in de overheid.",
+        "answer": "corruptie"
       },
       {
-        "word": "Bron",
-        "definition": "De oorsprong of oorzaak van iets; in deze context, de oorsprong van de vervuiling",
-        "sentence": "Ondanks onderzoek blijft de exacte ___ van het lek onbekend.",
-        "answer": "bron"
+        "word": "aangenomen",
+        "definition": "verondersteld, aangenomen (van een feit of situatie)",
+        "sentence": "Het werd ___ dat de zaak al gesloten was.",
+        "answer": "aangenomen"
       },
       {
-        "word": "Ambassadeur",
-        "definition": "Een officiële vertegenwoordiger van een land in een ander land",
-        "sentence": "De ___ heeft een ontmoeting met de minister van Milieu.",
-        "answer": "ambassadeur"
+        "word": "aangekocht",
+        "definition": "verleden deelwoord van aankopen; gekocht",
+        "sentence": "Hij heeft het huis ___ via een online veiling.",
+        "answer": "aangekocht"
       },
       {
-        "word": "Zaak",
-        "definition": "Een zaak of situatie; vaak gebruikt in formele of juridische context",
-        "sentence": "De ___ zal worden behandeld door het Hooggerechtshof.",
-        "answer": "zaak"
+        "word": "berucht",
+        "definition": "berucht; bekend om slechte redenen",
+        "sentence": "De straat is ___ vanwege de vele inbraken.",
+        "answer": "berucht"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De industriële ___ heeft geleid tot een verslechtering van de waterkwaliteit.",
-        "answer": "vervuiling"
+        "sentence": "De straat is ___ vanwege de vele inbraken.",
+        "answer": "berucht"
       },
       {
-        "sentence": "De ___ heeft een ontmoeting met de minister van Milieu.",
-        "answer": "ambassadeur"
+        "sentence": "Hij heeft het huis ___ via een online veiling.",
+        "answer": "aangekocht"
       },
       {
-        "sentence": "De stad ligt ___ in een dichtbevolkte regio.",
-        "answer": "midden"
+        "sentence": "De politieke ___ in het land leidde tot grote spanningen.",
+        "answer": "strijd"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de voornaamste oorzaak van de vervuiling in de Maas?",
+      "question": "Waar refereert 'Vlinderpaleis' primair naar in deze context?",
       "options": [
-        "Industrieel afval",
-        "Landbouwchemicaliën",
-        "Een onbekende bron",
-        "Stedelijk rioolwater"
+        "Een operagebouw",
+        "Een metafoor voor fragiliteit",
+        "Een bekend café in Antwerpen",
+        "Een type kunstwerk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is de hoofdgedachte van de samenvatting?",
+      "options": [
+        "De strijd tegen corruptie is geconcentreerd in één specifiek gebouw.",
+        "Antwerpen is het centrum van de wereldwijde anti-corruptie inspanningen.",
+        "Een eerbetoon en een aankoop zijn symbolisch voor de bredere corruptiebestrijding.",
+        "Sergei Magnitski is de eigenaar van het appartement in Antwerpen."
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Welke functie heeft de Nederlandse ambassadeur in deze context?",
+      "question": "Wat impliceert de tekst over de aankoop van het appartement?",
       "options": [
-        "Hij onderzoekt de vervuiling",
-        "Hij bemiddelt in het conflict",
-        "Hij is verantwoordelijk voor de vervuiling",
-        "Hij negeert de situatie"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is de houding van de Nederlandse overheid ten opzichte van deze kwestie?",
-      "options": [
-        "Ze negeert het volledig",
-        "Ze werkt samen met andere landen",
-        "Ze accepteert alle verantwoordelijkheid",
-        "Ze ontkent enige betrokkenheid"
+        "Het werd officieel bevestigd door de Russische overheid.",
+        "Het was een direct resultaat van de fraudezaak.",
+        "Het was in handen van een onbekende magnaat.",
+        "Het werd alleen aangenomen, niet bewezen."
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De vervuiling van de Maas is al volledig opgehelderd.",
+      "statement": "Het Vlinderpaleis is de locatie waar de corruptie plaatsvond.",
       "isTrue": false
     },
     {
-      "statement": "De Nederlandse ambassadeur is betrokken bij de zaak.",
+      "statement": "De fraudezaak is direct gerelateerd aan de aankoop van het Antwerpse appartement.",
       "isTrue": true
     },
     {
-      "statement": "De bron van de vervuiling is een industriële lekkage.",
+      "statement": "Sergei Magnitski is de eigenaar van het appartement in Antwerpen.",
       "isTrue": false
     }
   ]

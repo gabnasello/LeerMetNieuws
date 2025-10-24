@@ -1,0 +1,106 @@
+{
+  "id": 6,
+  "section": "Buitenland",
+  "topic": "Buitenland",
+  "level": "A2",
+  "title": "Europa maakt defensie sterker",
+  "topicNumber": 1,
+  "article": {
+    "title": "Europa maakt defensie sterker",
+    "summary": "Europa wil de defensie verbeteren. Er komen nieuwe regels om dit te bereiken. Er is meer geld voor defensie. Ook werken landen beter samen."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "Europa",
+        "definition": "een werelddeel met veel landen",
+        "sentence": "___ is een groot gebied met veel landen.",
+        "answer": "Europa"
+      },
+      {
+        "word": "maakt",
+        "definition": "doet, creëert",
+        "sentence": "Hij ___ een plan voor zijn huis.",
+        "answer": "maakt"
+      },
+      {
+        "word": "sterker",
+        "definition": "meer kracht hebben",
+        "sentence": "Na het sporten voel ik me ___ dan daarvoor.",
+        "answer": "sterker"
+      },
+      {
+        "word": "wil",
+        "definition": "heeft als plan, wil iets doen",
+        "sentence": "Hij ___ graag een nieuwe auto kopen.",
+        "answer": "wil"
+      },
+      {
+        "word": "veranderen",
+        "definition": "anders maken, veranderen",
+        "sentence": "We moeten onze plannen ___ omdat het regent.",
+        "answer": "veranderen"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Hij ___ graag een nieuwe auto kopen.",
+        "answer": "wil"
+      },
+      {
+        "sentence": "___ is een groot gebied met veel landen.",
+        "answer": "Europa"
+      },
+      {
+        "sentence": "Hij ___ een plan voor zijn huis.",
+        "answer": "maakt"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Waarom wil Europa de defensie verbeteren?",
+      "options": [
+        "Omdat het verplicht is",
+        "Omdat er een grote oorlog dreigt",
+        "Omdat ze meer macht willen",
+        "Omdat ze zich veiliger willen voelen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Hoe helpt samenwerking tussen landen?",
+      "options": [
+        "Het maakt problemen groter",
+        "Het lost problemen samen op",
+        "Het zorgt voor meer werk",
+        "Het is altijd moeilijk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is een voordeel van sterkere defensie?",
+      "options": [
+        "Landen kunnen dan meer vechten",
+        "Het kost meer geld voor iedereen",
+        "Landen voelen zich veiliger",
+        "Er is minder aandacht voor armoede"
+      ],
+      "correctAnswer": 2
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Europa wil de defensie sterker maken door nieuwe regels.",
+      "isTrue": true
+    },
+    {
+      "statement": "Er is minder geld beschikbaar voor defensie na de veranderingen.",
+      "isTrue": false
+    },
+    {
+      "statement": "Landen werken minder samen na de veranderingen.",
+      "isTrue": false
+    }
+  ]
+}

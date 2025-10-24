@@ -1,105 +1,105 @@
 {
-  "id": 7,
+  "id": 11,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Hamas probeert opnieuw de macht te grijpen in Gaza",
+  "title": "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
   "topicNumber": 1,
   "article": {
-    "title": "Hamas probeert opnieuw de macht te grijpen in Gaza",
-    "summary": "Met hulp van een vaag vredesbestand van Donald Trump, probeert Hamas zijn oude machtspositie te herwinnen. Israël kan voorlopig alleen toekijken hoe het milities, bendes en critici gewelddadig wegduwt."
+    "title": "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
+    "summary": "Argentinië houdt de adem in. Van de parlementsverkiezingen zondag hangt af of de excentrieke president Javier Milei zijn ultraliberale hervormingen een nieuwe impuls kan geven, met steun van de VS. Maar de slabakkende economie en tal van schandalen doen de president ster tanen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "machtspositie",
-        "definition": "De positie waarin iemand macht heeft of controle uitoefent",
-        "sentence": "In een conflict willen groepen vaak de ___ veroveren.",
-        "answer": "machtspositie"
+        "word": "verkiezingen",
+        "definition": "een officiële verkiezing waarbij mensen stemmen voor hun vertegenwoordigers",
+        "sentence": "De uitslag van de ___ zal bepalen wie de nieuwe leider wordt.",
+        "answer": "verkiezingen"
       },
       {
-        "word": "vredesbestand",
-        "definition": "Een overeenkomst of regeling die vrede moet bewaren",
-        "sentence": "Een ___ kan helpen om geweld te stoppen, maar soms werkt het niet.",
-        "answer": "vredesbestand"
+        "word": "president",
+        "definition": "het staatshoofd van een republiek die de regering leidt",
+        "sentence": "De ___ van het land hield een belangrijke toespraak over de toekomst.",
+        "answer": "president"
       },
       {
-        "word": "milities",
-        "definition": "Groepen gewapende mensen die vaak onofficieel vechten",
-        "sentence": "Sommige ___ vechten voor een bepaalde regio of ideaal.",
-        "answer": "milities"
+        "word": "economie",
+        "definition": "het geheel van de economische activiteiten in een land of gebied",
+        "sentence": "De ___ van het land is sterk afhankelijk van de export van grondstoffen.",
+        "answer": "economie"
       },
       {
-        "word": "wegduwt",
-        "definition": "Iets of iemand ergens vandaan duwen, vaak met kracht",
-        "sentence": "Een sterke natie kan een kleinere groep ___, maar dat lost niet alles op.",
-        "answer": "wegduwt"
+        "word": "steun",
+        "definition": "hulp of bijstand, zowel financieel als moreel",
+        "sentence": "Het plan kreeg brede ___ van verschillende politieke partijen.",
+        "answer": "steun"
       },
       {
-        "word": "laken",
-        "description": "Een oudere of formele term voor een bedoeken; hier figuurlijk gebruikt voor macht of controle",
-        "sentence": "In onderhandelingen probeert elke partij het ___ naar zich toe te trekken.",
-        "answer": "laken"
+        "word": "schandalen",
+        "definition": "gebeurtenissen die schokkend of schandalig zijn en vaak leiden tot publieke verontwaardiging",
+        "sentence": "De reeks van ___ zorgde voor veel onrust onder de bevolking.",
+        "answer": "schandalen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "In een conflict willen groepen vaak de ___ veroveren.",
-        "answer": "machtspositie"
+        "sentence": "De uitslag van de ___ zal bepalen wie de nieuwe leider wordt.",
+        "answer": "verkiezingen"
       },
       {
-        "sentence": "Een sterke natie kan een kleinere groep ___, maar dat lost niet alles op.",
-        "answer": "wegduwt"
+        "sentence": "Het plan kreeg brede ___ van verschillende politieke partijen.",
+        "answer": "steun"
       },
       {
-        "sentence": "Sommige ___ vechten voor een bepaalde regio of ideaal.",
-        "answer": "milities"
+        "sentence": "De ___ van het land is sterk afhankelijk van de export van grondstoffen.",
+        "answer": "economie"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een 'vredesbestand'?",
+      "question": "Wat hangt er af van de uitslag van de parlementsverkiezingen in Argentinië?",
       "options": [
-        "Een soort wapen",
-        "Een overeenkomst om het geweld te stoppen",
-        "Een internationaal verdrag",
-        "Een feestelijke bijeenkomst"
+        "Of president Milei zijn hervormingen kan doorzetten",
+        "Of de economie zal verbeteren",
+        "Of de VS zal ingrijpen",
+        "Of er nieuwe verkiezingen komen"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat betekent 'de macht herwinnen'?",
+      "question": "Waarom is de situatie voor president Milei volgens de tekst onzeker?",
       "options": [
-        "De macht verliezen",
-        "De macht opnieuw krijgen",
-        "De macht overdragen",
-        "De macht negeren"
+        "Omdat de economie slecht presteert en er schandalen zijn",
+        "Omdat de VS hem niet steunt",
+        "Omdat zijn partij geen meerderheid heeft",
+        "Omdat de verkiezingen niet doorgaan"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat zijn 'milities'?",
+      "question": "Wat is een gevolg van de economische problemen in Argentinië?",
       "options": [
-        "Militaire eenheden",
-        "Onofficiële gewapende groepen",
-        "Politieke partijen",
-        "Sportteams"
+        "President Mileis populariteit daalt",
+        "De VS biedt meer steun",
+        "Er komen nieuwe verkiezingen",
+        "De economie herstelt snel"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Een vredesbestand zorgt altijd voor permanente vrede.",
-      "isTrue": false
-    },
-    {
-      "statement": "Milities kunnen bijdragen aan onrust in een regio.",
+      "statement": "De verkiezingen in Argentinië bepalen of president Milei zijn plannen kan uitvoeren.",
       "isTrue": true
     },
     {
-      "statement": "Het wegduwen van groepen lost de onderliggende problemen niet op.",
+      "statement": "President Milei krijgt steun van de VS, ongeacht de verkiezingsuitslag.",
+      "isTrue": false
+    },
+    {
+      "statement": "De economische problemen en schandalen verzwakken de positie van president Milei.",
       "isTrue": true
     }
   ]

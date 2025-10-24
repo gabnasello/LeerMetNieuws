@@ -1,0 +1,106 @@
+{
+  "id": 7,
+  "section": "Buitenland",
+  "topic": "Buitenland",
+  "level": "B2",
+  "title": "Als het gaat om defensie, is Europa bereid eigen regels wat op te rekken",
+  "topicNumber": 1,
+  "article": {
+    "title": "Als het gaat om defensie, is Europa bereid eigen regels wat op te rekken",
+    "summary": "Europa haalt de hinderpalen voor defensie-investeringen één voor één weg. Op de Europese top stond behalve de Russische tegoeden ook het pad om een turbo te zetten op de militaire paraatheid centraal."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "defensie",
+        "definition": "het geheel van middelen en mensen die een land beschermen tegen aanvallen van buitenaf",
+        "sentence": "Het ministerie van ___ is verantwoordelijk voor de veiligheid van het land.",
+        "answer": "defensie"
+      },
+      {
+        "word": "Europa",
+        "definition": "het werelddeel dat ten westen van Azië en ten noorden van Afrika ligt, en waaronder de Europese Unie valt",
+        "sentence": "___ is een continent met veel verschillende culturen en talen.",
+        "answer": "Europa"
+      },
+      {
+        "word": "regels",
+        "definition": "afspraken of voorschriften die zeggen hoe iets moet worden gedaan",
+        "sentence": "Volgens de ___ van dit spel moet je eerst gooien met de dobbelsteen.",
+        "answer": "regels"
+      },
+      {
+        "word": "hinderpalen",
+        "definition": "problemen of obstakels die iets moeilijk of onmogelijk maken",
+        "sentence": "Er waren te veel ___ om het project op tijd af te ronden.",
+        "answer": "hinderpalen"
+      },
+      {
+        "word": "investeringen",
+        "definition": "geld dat in een project of activiteit wordt gestopt om het te laten groeien of verbeteren",
+        "sentence": "De ___ in nieuwe technologie bracht het bedrijf veel winst.",
+        "answer": "investeringen"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Er waren te veel ___ om het project op tijd af te ronden.",
+        "answer": "hinderpalen"
+      },
+      {
+        "sentence": "De ___ in nieuwe technologie bracht het bedrijf veel winst.",
+        "answer": "investeringen"
+      },
+      {
+        "sentence": "Het ministerie van ___ is verantwoordelijk voor de veiligheid van het land.",
+        "answer": "defensie"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat betekent 'defensie' in deze context?",
+      "options": [
+        "sport",
+        "bescherming",
+        "aanval",
+        "onderhandeling"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is een 'hindernis'?",
+      "options": [
+        "een soort voedsel",
+        "een obstakel",
+        "een feestdag",
+        "een snelweg"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Waar staat 'Europa' voor in deze tekst?",
+      "options": [
+        "een planeet",
+        "een automerk",
+        "een continent",
+        "een rivier"
+      ],
+      "correctAnswer": 2
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Europa wil meer investeren in defensie.",
+      "isTrue": true
+    },
+    {
+      "statement": "Nederland heeft de meeste hinderpalen voor defensie.",
+      "isTrue": false
+    },
+    {
+      "statement": "De Europese top besprak alleen Russische tegoeden.",
+      "isTrue": false
+    }
+  ]
+}

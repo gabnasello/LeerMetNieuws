@@ -1,0 +1,106 @@
+{
+  "id": 18,
+  "section": "Binnenland",
+  "topic": "Binnenland",
+  "level": "A2",
+  "title": "Hoge PFAS-waarden in Ronse: wat betekent dit?",
+  "topicNumber": 1,
+  "article": {
+    "title": "Hoge PFAS-waarden in Ronse: wat betekent dit?",
+    "summary": "In Ronse zijn de PFAS-waarden in het bloed bij sommige mensen veel hoger dan de Europese norm. Dit is niet goed voor de gezondheid. Een expert uit Denemarken legt uit wat PFAS zijn en waarom we voorzichtig moeten zijn."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "hoger",
+        "definition": "meer dan normaal of dan iets anders",
+        "sentence": "De temperatuur is ___ dan gisteren.",
+        "answer": "hoger"
+      },
+      {
+        "word": "niet",
+        "definition": "geen of het tegenovergestelde van ja",
+        "sentence": "Ik heb ___ genoeg tijd om te wachten.",
+        "answer": "niet"
+      },
+      {
+        "word": "goed",
+        "definition": "goed of positief, niet slecht",
+        "sentence": "Het is ___ om elke dag fruit te eten.",
+        "answer": "goed"
+      },
+      {
+        "word": "kunnen",
+        "definition": "in staat zijn om iets te doen",
+        "sentence": "Kinderen ___ zonder hulp oversteken?",
+        "answer": "kunnen"
+      },
+      {
+        "word": "moeten",
+        "definition": "verplicht zijn of noodzakelijk hebben",
+        "sentence": "We ___ op tijd vertrekken om de bus te halen.",
+        "answer": "moeten"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Ik heb ___ genoeg tijd om te wachten.",
+        "answer": "niet"
+      },
+      {
+        "sentence": "Het is ___ om elke dag fruit te eten.",
+        "answer": "goed"
+      },
+      {
+        "sentence": "Kinderen ___ zonder hulp oversteken?",
+        "answer": "kunnen"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat betekent 'hoger' in de tekst?",
+      "options": [
+        "minder",
+        "hoger",
+        "hetzelfde",
+        "lager"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Waarom is PFAS niet goed voor de gezondheid?",
+      "options": [
+        "Het is duur",
+        "Het is moeilijk uit te spreken",
+        "Het kan ziek maken",
+        "Het is een soort voedsel"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat adviseert de expert?",
+      "options": [
+        "Niets doen",
+        "Meer PFAS gebruiken",
+        "Meer onderzoek doen",
+        "Stoppen met ademen"
+      ],
+      "correctAnswer": 3
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "De PFAS-waarden in Ronse zijn voor iedereen laag.",
+      "isTrue": false
+    },
+    {
+      "statement": "PFAS kan schadelijk zijn voor de gezondheid.",
+      "isTrue": true
+    },
+    {
+      "statement": "De expert uit Denemarken zegt dat PFAS niet gevaarlijk is.",
+      "isTrue": false
+    }
+  ]
+}

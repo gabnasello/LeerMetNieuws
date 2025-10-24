@@ -1,105 +1,105 @@
 {
-  "id": 9,
+  "id": 13,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Vervuiling in de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
+  "title": "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
   "topicNumber": 1,
   "article": {
-    "title": "Vervuiling in de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
-    "summary": "Al sinds eind juli is bekend dat de Maas vervuild wordt met een schimmeldodend middel. Maar de bron is nog steeds niet bekend. Zelfs de Nederlandse ambassadeur bemoeit zich met deze zaak."
+    "title": "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
+    "summary": "De strijd tegen Russische corruptie leidt zelfs tot in het Vlinderpaleis. Op het spel staat een eerbetoon aan Sergej Magnitski en een Antwerps appartement waarvan wordt aangenomen dat het aangekocht is met geld van de beruchte fraudezaak."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Vervuiling",
-        "definition": "Als iets vies of giftig wordt gemaakt, bijvoorbeeld water of lucht.",
-        "sentence": "De fabriek veroorzaakte veel ___ in de rivier.",
-        "answer": "vervuiling"
+        "word": "strijd",
+        "definition": "een gevecht of conflict",
+        "sentence": "De politie was betrokken bij een ___ met demonstranten.",
+        "answer": "strijd"
       },
       {
-        "word": "Mysterie",
-        "definition": "Iets dat onbekend of geheim is en niet meteen duidelijk is.",
-        "sentence": "Waarom hij vertrok, bleef een ___ voor iedereen.",
-        "answer": "mysterie"
+        "word": "corruptie",
+        "definition": "wanneer mensen in macht misbruik maken voor persoonlijk gewin",
+        "sentence": "De regering voert een campagne tegen ___ in de overheid.",
+        "answer": "corruptie"
       },
       {
-        "word": "Ambassadeur",
-        "definition": "Een persoon die zijn land vertegenwoordigt in een ander land.",
-        "sentence": "De ___ van Frankrijk woonde de bijeenkomst bij.",
-        "answer": "ambassadeur"
+        "word": "aangenomen",
+        "definition": "verondersteld of aangenomen",
+        "sentence": "Het wordt ___ dat het geld uit criminele activiteiten komt.",
+        "answer": "aangenomen"
       },
       {
-        "word": "Mengt",
-        "definition": "Iets actief betrekken of ermee bemoeien.",
-        "sentence": "Hij ___ zich in de discussie, ook al kent hij de feiten niet.",
-        "answer": "mengt"
+        "word": "fraudezaak",
+        "definition": "een juridisch geval van bedrog of oplichting",
+        "sentence": "Hij werd gearresteerd in verband met een grote ___.",
+        "answer": "fraudezaak"
       },
       {
-        "word": "Bekend",
-        "definition": "Iets of iemand waarvan je informatie hebt en die je kent.",
-        "sentence": "Het is ___ dat hij vaak te laat komt.",
-        "answer": "bekend"
+        "word": "Vlinderpaleis",
+        "definition": "een specifiek gebouw of locatie, vaak met een bijnaam",
+        "sentence": "Het ___ is een bekend gebouw in Antwerpen.",
+        "answer": "Vlinderpaleis"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Waarom hij vertrok, bleef een ___ voor iedereen.",
-        "answer": "mysterie"
+        "sentence": "Hij werd gearresteerd in verband met een grote ___.",
+        "answer": "fraudezaak"
       },
       {
-        "sentence": "De ___ van Frankrijk woonde de bijeenkomst bij.",
-        "answer": "ambassadeur"
+        "sentence": "De regering voert een campagne tegen ___ in de overheid.",
+        "answer": "corruptie"
       },
       {
-        "sentence": "Hij ___ zich in de discussie, ook al kent hij de feiten niet.",
-        "answer": "mengt"
+        "sentence": "Het ___ is een bekend gebouw in Antwerpen.",
+        "answer": "Vlinderpaleis"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de belangrijkste oorzaak van de vervuiling in de Maas?",
+      "question": "Wat is het Vlinderpaleis?",
       "options": [
-        "Industrieel afval",
-        "Landbouwchemicaliën",
-        "Onbekende bron",
-        "Huishoudelijk afval"
+        "Een museum in Brussel",
+        "Een gebouw in Antwerpen",
+        "Een park in Gent",
+        "Een straat in Brugge"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Waar gaat het artikel over?",
+      "options": [
+        "Een nieuwe diersoort",
+        "Internationale diplomatie",
+        "Corruptie en fraude",
+        "De bouw van een paleis"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van de Nederlandse ambassadeur in deze kwestie?",
+      "question": "Wie was Sergej Magnitski?",
       "options": [
-        "Geen rol",
-        "Ondersteunt de onderzoeken",
-        "Vertoont desinteresse",
-        "Leidt de onderzoeken"
+        "Een Russische kunstenaar",
+        "Een Nederlands politicus",
+        "Een Belgische politieagent",
+        "Een Russische advocaat en klokkenluider"
       ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Sinds wanneer is de vervuiling van de Maas bekend?",
-      "options": [
-        "Sinds januari 2023",
-        "Sinds juli 2023",
-        "Sinds december 2022",
-        "Sinds mei 2023"
-      ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De bron van de vervuiling in de Maas is nog steeds niet bekend.",
+      "statement": "Het Vlinderpaleis is een gebouw in Antwerpen.",
       "isTrue": true
     },
     {
-      "statement": "De Nederlandse ambassadeur heeft zich niet met de zaak bemoeid.",
+      "statement": "Sergej Magnitski was een Belgische politicus.",
       "isTrue": false
     },
     {
-      "statement": "De vervuiling werd veroorzaakt door een schimmeldodend middel.",
+      "statement": "Het artikel beschrijft een verband tussen corruptie en een appartement in Antwerpen.",
       "isTrue": true
     }
   ]

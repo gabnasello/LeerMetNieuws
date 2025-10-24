@@ -1,105 +1,105 @@
 {
-  "id": 6,
+  "id": 10,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Hamas probeert macht terug te krijgen in Gaza",
+  "title": "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
   "topicNumber": 1,
   "article": {
-    "title": "Hamas probeert macht terug te krijgen in Gaza",
-    "summary": "Met hulp van een vaag vredesplan van Donald Trump probeert Hamas opnieuw de macht te krijgen in Gaza. Israël kan voorlopig alleen toekijken hoe Hamas gewelddadig optreedt tegen milities, bendes en critici."
+    "title": "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
+    "summary": "Argentinië houdt de adem in. Van de parlementsverkiezingen zondag hangt af of de excentrieke president Javier Milei zijn ultraliberale hervormingen een nieuwe impuls kan geven, met steun van de VS. Maar de slabakkende economie en tal van schandalen doen de president ster tanen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "macht",
-        "definition": "kracht of controle over iets",
-        "sentence": "Hamas wil de ___ in Gaza hebben.",
-        "answer": "macht"
+        "word": "winnen",
+        "definition": "een spel of wedstrijd winnen, of iets krijgen wat je wil",
+        "sentence": "Hij hoopte de loterij te ___ en een nieuwe auto.",
+        "answer": "winnen"
       },
       {
-        "word": "plan",
-        "definition": "een idee of methode om iets te doen",
-        "sentence": "Het vredes___ is nog niet duidelijk.",
-        "answer": "plan"
+        "word": "tussentijdse",
+        "definition": "tussen twee momenten in, bijvoorbeeld tussen twee verkiezingen in",
+        "sentence": "De ___ verkiezingen zijn belangrijk voor de politieke partijen.",
+        "answer": "tussentijdse"
       },
       {
-        "word": "optreden",
-        "definition": "handelen of iets doen, vaak in een moeilijke situatie",
-        "sentence": "De politie moet ___ tegen criminelen.",
-        "answer": "optreden"
+        "word": "verkiezingen",
+        "definition": "een verkiezing is een stemming waarbij mensen beslissen wie de leider wordt",
+        "sentence": "Tijdens de ___ stemmen mensen op hun favoriete kandidaat.",
+        "answer": "verkiezingen"
       },
       {
-        "word": "krijgen",
-        "definition": "iets ontvangen of verkrijgen",
-        "sentence": "Hij wil zijn boek terug ___.",
-        "answer": "krijgen"
+        "word": "economie",
+        "definition": "de economie is het systeem van geld en handel in een land",
+        "sentence": "De ___ van het land gaat slecht, waardoor mensen minder geld hebben.",
+        "answer": "economie"
       },
       {
-        "word": "tegen",
-        "definition": "in oppositie of tegenover iets",
-        "sentence": "Hij is ___ het plan.",
-        "answer": "tegen"
+        "word": "scandale",
+        "definition": "een schandaal is een slechte gebeurtenis die mensen boos maakt, vaak over iets dat fout is gedaan",
+        "sentence": "De politicus raakte betrokken bij een groot ___ en moest aftreden.",
+        "answer": "scandale"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hamas wil de ___ in Gaza hebben.",
-        "answer": "macht"
+        "sentence": "De ___ verkiezingen zijn belangrijk voor de politieke partijen.",
+        "answer": "tussentijdse"
       },
       {
-        "sentence": "Hij is ___ het plan.",
-        "answer": "tegen"
+        "sentence": "De politicus raakte betrokken bij een groot ___ en moest aftreden.",
+        "answer": "scandale"
       },
       {
-        "sentence": "De politie moet ___ tegen criminelen.",
-        "answer": "optreden"
+        "sentence": "De ___ van het land gaat slecht, waardoor mensen minder geld hebben.",
+        "answer": "economie"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom wil Hamas de macht in Gaza?",
+      "question": "Wat is de belangrijkste reden dat president Milei hervormingen wil doorvoeren?",
       "options": [
-        "Omdat het daar veel geld heeft",
-        "Omdat het daar populair is",
-        "Om de bevolking te helpen",
-        "Om andere groepen te controleren"
+        "Om de economie te verbeteren",
+        "Omdat de Verenigde Naties dat vragen",
+        "Omdat hij populair wil zijn",
+        "Omdat er verkiezingen aankomen"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 0
     },
     {
-      "question": "Wat is het resultaat van het vredesplan van Donald Trump voor Hamas?",
+      "question": "Wat is een gevolg van de slechte economie in Argentinië?",
       "options": [
-        "Hamas krijgt meer geld",
-        "Hamas wordt populairder",
-        "Hamas kan makkelijker de macht grijpen",
-        "Hamas moet zich overgeven"
+        "Mensen hebben minder geld om uit te geven",
+        "President Milei wordt populairder",
+        "Er zijn meer internationale handel",
+        "De Verenigde Naties geven meer steun"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     },
     {
-      "question": "Hoe reageert Israël op de situatie in Gaza?",
+      "question": "Waarom zijn de tussentijdse verkiezingen belangrijk volgens de tekst?",
       "options": [
-        "Het stuurt meer soldaten",
-        "Het doet niets en kijkt toe",
-        "Het onderhandelt met Hamas",
-        "Het steunt andere groepen"
+        "Ze bepalen of Milei's hervormingen doorgaan",
+        "Ze zijn elke week gepland",
+        "Ze veroorzaken meer schandalen",
+        "Ze maken de economie sterker"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     }
   ],
   "trueFalse": [
     {
-      "statement": "Hamas probeert de macht in Gaza te krijgen met geweld.",
-      "isTrue": true
-    },
-    {
-      "statement": "Het vredesplan van Donald Trump is heel duidelijk voor iedereen.",
+      "statement": "President Milei krijgt steun van de Verenigde Naties voor zijn hervormingen.",
       "isTrue": false
     },
     {
-      "statement": "Israël helpt Hamas om de macht te krijgen in Gaza.",
+      "statement": "De economie van Argentinië gaat momenteel slecht, wat de regering moeilijk maakt.",
+      "isTrue": true
+    },
+    {
+      "statement": "President Milei is populair en heeft geen problemen volgens de tekst.",
       "isTrue": false
     }
   ]

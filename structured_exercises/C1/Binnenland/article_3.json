@@ -1,0 +1,106 @@
+{
+  "id": 20,
+  "section": "Binnenland",
+  "topic": "Binnenland",
+  "level": "C1",
+  "title": "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
+  "topicNumber": 1,
+  "article": {
+    "title": "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
+    "summary": "De PFAS-waarden in het bloed bij sommige Ronsenaars blijken vier tot acht keer hoger te liggen dan de Europese veiligheidsnorm. “Dit afdoen als te complex en niet zo gevaarlijk is onethisch”, zegt de Deense expert Philippe Grandjean."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "Ronse",
+        "definition": "Een stad in België, vooral bekend omwille van de PFAS-contaminatie.",
+        "sentence": "De stad ___ ligt in Vlaanderen en heeft te maken met PFAS-vervuiling.",
+        "answer": "Ronse"
+      },
+      {
+        "word": "blijkt",
+        "definition": "Wordt duidelijk of komt aan het licht, vaak door onderzoek.",
+        "sentence": "Het ___ dat de PFAS-waarden veel hoger zijn dan gedacht.",
+        "answer": "blijkt"
+      },
+      {
+        "word": "afdoen",
+        "definition": "Iets als onbelangrijk of niet serieus beschouwen.",
+        "sentence": "Het is niet correct om PFAS-vervuiling simpelweg ___ als een klein probleem.",
+        "answer": "afdoen"
+      },
+      {
+        "word": "onethisch",
+        "definition": "Niet in overeenstemming met morele principes of professionele ethiek.",
+        "sentence": "Het is ___ om gevaarlijke situaties te negeren wanneer mensen in gevaar zijn.",
+        "answer": "onethisch"
+      },
+      {
+        "word": "expert",
+        "definition": "Iemand met gespecialiseerde kennis of ervaring in een bepaald gebied.",
+        "sentence": "De Deense ___ heeft uitgebreid onderzoek gedaan naar PFAS.",
+        "answer": "expert"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "De Deense ___ heeft uitgebreid onderzoek gedaan naar PFAS.",
+        "answer": "expert"
+      },
+      {
+        "sentence": "De stad ___ ligt in Vlaanderen en heeft te maken met PFAS-vervuiling.",
+        "answer": "Ronse"
+      },
+      {
+        "sentence": "Het is niet correct om PFAS-vervuiling simpelweg ___ als een klein probleem.",
+        "answer": "afdoen"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat is de rol van Philippe Grandjean in de krantenkop?",
+      "options": [
+        "Hij is een getroffen inwoner van Ronse",
+        "Hij is de burgemeester van Ronse",
+        "Hij is een Deense expert op het gebied van PFAS",
+        "Hij is de Europese commissaris voor Milieu"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Waarom wordt de situatie in Ronse als 'onethisch' beschouwd?",
+      "options": [
+        "Omdat er te weinig PFAS in het water zit",
+        "Omdat bewoners niet geïnformeerd werden over de risico's",
+        "Omdat de PFAS-waarden binnen de norm vallen",
+        "Omdat PFAS niet schadelijk is voor de gezondheid"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is een van de gevolgen van hoge PFAS-waarden zoals in Ronse?",
+      "options": [
+        "Het zorgt voor betere drinkwaterkwaliteit",
+        "Het kan leiden tot strengere Europese regelgeving",
+        "Het heeft geen effect op de volksgezondheid",
+        "Het verlaagt de Europese veiligheidsnorm"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "De PFAS-waarden in Ronse zijn lager dan de Europese norm.",
+      "isTrue": false
+    },
+    {
+      "statement": "Philippe Grandjean is een Deense onderzoeker.",
+      "isTrue": true
+    },
+    {
+      "statement": "De tekst beschrijft dat PFAS alleen effect heeft op het bloed.",
+      "isTrue": false
+    }
+  ]
+}

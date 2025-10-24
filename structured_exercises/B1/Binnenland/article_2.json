@@ -1,105 +1,105 @@
 {
-  "id": 13,
+  "id": 21,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Ronsenaars maken zich zorgen over hoge PFAS-waarden in bloed",
+  "title": "Minder mensen gaan naar de kerk",
   "topicNumber": 1,
   "article": {
-    "title": "Ronsenaars maken zich zorgen over hoge PFAS-waarden in bloed",
-    "summary": "Steeds meer inwoners van Ronse laten hun bloed onderzoeken op PFAS en krijgen hoge waarden. Het stadsbestuur wil een groot bloedonderzoek. Ondertussen spelen kinderen op vervuilde grond."
+    "title": "Minder mensen gaan naar de kerk",
+    "summary": "Steeds minder mensen in België gaan naar de kerk. Veel minder mensen kiezen voor een kerkelijk huwelijk of begrafenis. Toch zijn er ook tekenen dat jongeren weer meer nadenken over geloof en zingeving."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Ronsenaars",
-        "definition": "Mensen die in de stad Ronse wonen",
-        "sentence": "De ___ maken zich zorgen over PFAS in hun bloed.",
-        "answer": "Ronsenaars"
+        "word": "kerk",
+        "definition": "een gebouw waar mensen samenkomen voor christelijke religieuze diensten",
+        "sentence": "Elke zondag gaan veel mensen naar de ___ om te bidden.",
+        "answer": "kerk"
       },
       {
-        "word": "PFAS",
-        "definition": "Een groep van chemische stoffen die schadelijk zijn voor de gezondheid",
-        "sentence": "Er zitten te hoge ___ waarden in het bloed van de Ronsenaars.",
-        "answer": "PFAS"
+        "word": "huwelijk",
+        "definition": "de officiële ceremonie waarbij twee mensen met elkaar trouwen",
+        "sentence": "Het ___ vond plaats in een mooie tuin, niet in een kerk.",
+        "answer": "huwelijk"
       },
       {
-        "word": "bloed",
-        "definition": "De rode vloeistof die door je lichaam stroomt",
-        "sentence": "Ze laten hun ___ testen op PFAS-waarden.",
-        "answer": "bloed"
+        "word": "begrafenis",
+        "definition": "een ceremonie waarbij iemand die overleden is, wordt herdacht en begraven",
+        "sentence": "Na de ___ ging iedereen nog iets drinken om de overledene te eren.",
+        "answer": "begrafenis"
       },
       {
-        "word": "stadsbestuur",
-        "definition": "De groep mensen die de stad bestuurt",
-        "sentence": "Het ___ wil een groot onderzoek doen.",
-        "answer": "stadsbestuur"
+        "word": "geloof",
+        "definition": "het vertrouwen in iets dat je niet kunt zien of bewijzen, vaak in een god",
+        "sentence": "Zijn ___ is erg belangrijk voor hem, hij bidt elke dag.",
+        "answer": "geloof"
       },
       {
-        "word": "kinderen",
-        "definition": "Jonge mensen, meestal onder de 18 jaar",
-        "sentence": "De ___ spelen op de vervuilde grond.",
-        "answer": "kinderen"
+        "word": "jongeren",
+        "definition": "mensen die nog niet volwassen zijn, vaak tussen de 12 en 18 jaar oud",
+        "sentence": "De ___ in onze buurt organiseren vaak een voetbaltoernooi.",
+        "answer": "jongeren"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ wil een groot onderzoek doen.",
-        "answer": "stadsbestuur"
+        "sentence": "Elke zondag gaan veel mensen naar de ___ om te bidden.",
+        "answer": "kerk"
       },
       {
-        "sentence": "Ze laten hun ___ testen op PFAS-waarden.",
-        "answer": "bloed"
+        "sentence": "De ___ in onze buurt organiseren vaak een voetbaltoernooi.",
+        "answer": "jongeren"
       },
       {
-        "sentence": "De ___ maken zich zorgen over PFAS in hun bloed.",
-        "answer": "Ronsenaars"
+        "sentence": "Zijn ___ is erg belangrijk voor hem, hij bidt elke dag.",
+        "answer": "geloof"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is PFAS?",
+      "question": "Waar is dit artikel vooral over?",
       "options": [
-        "Een soort medicijn",
-        "Een chemische stof",
-        "Een soort plant",
-        "Een dier"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat wil het stadsbestuur doen?",
-      "options": [
-        "Niets",
-        "De stad evacueren",
-        "Een groot bloedonderzoek organiseren",
-        "Meer PFAS gebruiken"
+        "Sport",
+        "Kunst",
+        "Religie",
+        "Politiek"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar spelen de kinderen?",
+      "question": "Wat is er aan het veranderen volgens de tekst?",
       "options": [
-        "In een park",
-        "Op vervuilde grond",
-        "Binnen in huis",
-        "In een museum"
+        "Mensen gaan minder vaak naar de kerk",
+        "Mensen gaan vaker naar de kerk",
+        "Mensen worden ouder",
+        "Kerkgebouwen worden gesloopt"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
+    },
+    {
+      "question": "Wat is een teken van hoop volgens de tekst?",
+      "options": [
+        "Meer ouderen gaan naar de kerk",
+        "Mensen trouwen alleen nog in de kerk",
+        "Jongeren zoeken naar zingeving",
+        "Kerkdiensten worden afgeschaft"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "PFAS is goed voor de gezondheid.",
-      "isTrue": false
-    },
-    {
-      "statement": "Het stadsbestuur wil een groot onderzoek doen.",
+      "statement": "Steeds minder mensen in België gaan naar de kerk.",
       "isTrue": true
     },
     {
-      "statement": "Kunnen kinderen veilig spelen op de vervuilde grond?",
+      "statement": "Alleen oudere mensen zijn nog religieus.",
+      "isTrue": false
+    },
+    {
+      "statement": "Jongeren zijn helemaal niet geïnteresseerd in geloof of zingeving.",
       "isTrue": false
     }
   ]

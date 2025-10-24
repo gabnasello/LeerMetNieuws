@@ -1,106 +1,106 @@
 {
-  "id": 16,
+  "id": 24,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Ronsenaars ontredderd over hoge PFAS-waarden in bloed: 'Eerst dachten we dat onze kinderen geen risico liepen: hoe kan dit nu?'",
+  "title": "De kerk in België: achteruitgang maar ook tekenen van hoop",
   "topicNumber": 1,
   "article": {
-    "title": "Ronsenaars ontredderd over hoge PFAS-waarden in bloed: 'Eerst dachten we dat onze kinderen geen risico liepen: hoe kan dit nu?'",
-    "summary": "Steeds meer Ronsenaars laten hun bloed op PFAS-waarden testen en krijgen verontrustend hoge resultaten terug. Het stadsbestuur zit met de handen in het haar en wil een grootschalig bloedonderzoek. 'De grond rond de beek moet gesaneerd worden, maar intussen spelen scouts vrolijk rond op vergiftigde grond.'"
+    "title": "De kerk in België: achteruitgang maar ook tekenen van hoop",
+    "summary": "Amper een op de tien huwelijken is nog kerkelijk, net als bijna een op de drie uitvaarten. Ook het aantal kerkgangers is nog maar eens teruggezakt. Toch ziet godsdienstleraar Bart Willemen tekenen van hoop: 'Jongeren zoeken naar zingeving en godsdienst is weer een optie.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "ontredderd",
-        "definition": "In verwarring, overstuur, niet meer weten wat te doen",
-        "sentence": "De bewoners waren ___ door het onverwachte nieuws over de PFAS-waarden.",
-        "answer": "ontredderd"
+        "word": "kerkelijk",
+        "definition": "relating to or connected with the church",
+        "sentence": "Het huwelijk werd op een ___ manier gevierd, met een priester die de ceremonie leidde.",
+        "answer": "kerkelijk"
       },
       {
-        "word": "gesaneerd",
-        "definition": "Gereinigd, vrijgemaakt van schadelijke stoffen of verontreiniging",
-        "sentence": "De grond moet grondig worden ___ om het weer veilig te maken.",
-        "answer": "gesaneerd"
+        "word": "uitvaart",
+        "definition": "a funeral or funeral ceremony",
+        "sentence": "De familie kwam bijeen voor de ___ van hun geliefde, waar ze afscheid konden nemen.",
+        "answer": "uitvaart"
       },
       {
-        "word": "vrolijk",
-        "definition": "Blij, opgewekt, met plezier",
-        "sentence": "Ondanks de zorgen, probeerden ze ___ verder te gaan met hun dagelijkse activiteiten.",
-        "answer": "vrolijk"
+        "word": "kerkgangers",
+        "definition": "people who attend church services",
+        "sentence": "De ___ van de lokale parochie komen elke zondag samen voor de mis.",
+        "answer": "kerkgangers"
       },
       {
-        "word": "vergiftigde",
-        "definition": "Vergiftigd, vol gifstoffen die schadelijk zijn",
-        "sentence": "Ze besefte niet dat ze op een stuk grond aan het spelen was dat was ___ met chemicaliën.",
-        "answer": "vergiftigde"
+        "word": "zingeving",
+        "definition": "the search for meaning and purpose in life",
+        "sentence": "Veel jongeren zijn op zoek naar ___ in hun leven, wat leidt tot een hernieuwde interesse in spiritualiteit.",
+        "answer": "zingeving"
       },
       {
-        "word": "verontreinigd",
-        "definition": "Vervuild, niet meer puur of schoon, vaak door chemische stoffen",
-        "sentence": "De bodem was zo ___ dat er niets meer kon groeien.",
-        "answer": "verontreinigd"
+        "word": "optie",
+        "definition": "an option or choice",
+        "sentence": "Voor velen is religie geen ___ meer, maar iets dat ze actief nastreven.",
+        "answer": "optie"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze besefte niet dat ze op een stuk grond aan het spelen was dat was ___ met chemicaliën.",
-        "answer": "vergiftigde"
+        "sentence": "Voor velen is religie geen ___ meer, maar iets dat ze actief nastreven.",
+        "answer": "optie"
       },
       {
-        "sentence": "De bodem was zo ___ dat er niets meer kon groeien.",
-        "answer": "verontreinigd"
+        "sentence": "Veel jongeren zijn op zoek naar ___ in hun leven, wat leidt tot een hernieuwde interesse in spiritualiteit.",
+        "answer": "zingeving"
       },
       {
-        "sentence": "De bewoners waren ___ door het onverwachte nieuws over de PFAS-waarden.",
-        "answer": "ontredderd"
+        "sentence": "De familie kwam bijeen voor de ___ van hun geliefde, waar ze afscheid konden nemen.",
+        "answer": "uitvaart"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom zijn de inwoners van Ronse zo bezorgd over hun bloedtestresultaten?",
+      "question": "Wat is de huidige trend in kerkelijke huwelijken in België?",
       "options": [
-        "Omdat ze een feest plannen",
-        "Omdat ze hoge PFAS-waarden ontvingen",
-        "Omdat ze een nieuwe sport ontdekten",
-        "Omdat ze te veel gefrituurd voedsel aten"
+        "Ze zijn toegenomen",
+        "Ze zijn stabiel gebleven",
+        "Ze zijn sterk afgenomen",
+        "Ze zijn volledig verdwenen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de reactie van het stadsbestuur op de situatie?",
+      "question": "Wat is een van de tekenen van hoop volgens Bart Willemen?",
       "options": [
-        "Ze organiseren een festival",
-        "Ze overwegen een grootschalig bloedonderzoek",
-        "Ze negeren de problemen",
-        "Ze verhuizen naar een andere stad"
+        "Kerkbezoek stijgt snel",
+        "Ouderen keren terug naar de kerk",
+        "Jongeren zoeken zingeving",
+        "Kerken sluiten massaal"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Waar wordt de grond rond de beek genoemd?",
+      "question": "Wat is de huidige situatie van kerkgangers in België?",
       "options": [
-        "Gezond en veilig",
-        "Volledig steriel",
-        "Vrij van alle chemicaliën",
-        "Vervuild met PFAS en andere stoffen"
+        "Hun aantal is stabiel",
+        "Hun aantal neemt licht toe",
+        "Hun aantal is drastisch gedaald",
+        "Hun aantal is niet bekend"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De scouts die op de grond spelen, zijn zich bewust van de PFAS-verontreiniging.",
+      "statement": "Het aantal kerkelijke huwelijken in België is groter dan niet-kerkelijke.",
       "isTrue": false
     },
     {
-      "statement": "Het stadsbestuur heeft meteen actie ondernomen door een grootschalig bloedonderzoek te starten.",
-      "isTrue": true
+      "statement": "Bart Willemen ziet alleen maar achteruitgang voor de kerk in België.",
+      "isTrue": false
     },
     {
-      "statement": "De bewoners van Ronse waren niet verrast door de testresultaten, omdat ze altijd al vermoedden dat er iets mis was.",
-      "isTrue": true
+      "statement": "Jongeren zoeken helemaal niet naar zingeving, volgens Bart Willemen.",
+      "isTrue": false
     }
   ]
 }

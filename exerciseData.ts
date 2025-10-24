@@ -29,103 +29,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Witte Huis krijgt nieuwe vleugel",
+    title: "Man klaagt politie Washington D.C. aan na arrestatie bij protest met muziek van Star Wars",
     topicNumber: 1,
     article: {
-      title: "Witte Huis krijgt nieuwe vleugel",
-      summary: "In het Witte Huis wordt een deel gesloopt. Er komt een nieuwe vleugel bij. Dat heeft de Amerikaanse president gezegd. De nieuwe vleugel wordt een grote zaal voor feesten en bijeenkomsten."
+      title: "Man klaagt politie Washington D.C. aan na arrestatie bij protest met muziek van Star Wars",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "Witte",
-          definition: "helder of schoon, maar hier onderdeel van de naam 'Witte Huis'",
-          sentence: "Het ___ Huis is de werkplek van de president.",
-          answer: "Witte"
+          word: "politie",
+          definition: "De mensen die de wet handhaven en voor veiligheid zorgen.",
+          sentence: "De ___ kwam snel naar het protest.",
+          answer: "politie"
         },
         {
-          word: "Huis",
-          definition: "een gebouw waar mensen in wonen",
-          sentence: "Het Witte ___ is de woning van de president.",
-          answer: "Huis"
+          word: "aan",
+          definition: "Het voorzetsel dat richting of doel aangeeft.",
+          sentence: "Hij schreef een brief ___ de directeur.",
+          answer: "aan"
         },
         {
-          word: "gesloopt",
-          definition: "afgebroken, kapot gemaakt",
-          sentence: "Het oude gebouw werd ___ om plaats te maken voor iets nieuws.",
-          answer: "gesloopt"
+          word: "klaagt",
+          definition: "Iets aanklagen of een klacht indienen.",
+          sentence: "Hij ___ de politie aan vanwege onterechte arrestatie.",
+          answer: "klaagt"
         },
         {
-          word: "vleugel",
-          definition: "een deel van een gebouw",
-          sentence: "De nieuwe ___ zal gebruikt worden voor grote bijeenkomsten.",
-          answer: "vleugel"
+          word: "na",
+          definition: "Na een bepaalde tijd of gebeurtenis.",
+          sentence: "___ de vakantie begon het nieuwe schooljaar.",
+          answer: "Na"
         },
         {
-          word: "gezegd",
-          definition: "uitgesproken, vermeld",
-          sentence: "De president heeft dit zelf ___ tijdens een persconferentie.",
-          answer: "gezegd"
+          word: "muziek",
+          definition: "Klanken en tonen die samen muziek vormen.",
+          sentence: "De ___ maakte iedereen vrolijk.",
+          answer: "muziek"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De president heeft dit zelf ___ tijdens een persconferentie.",
-          answer: "gezegd"
+          sentence: "De ___ kwam snel naar het protest.",
+          answer: "politie"
         },
         {
-          sentence: "Het Witte ___ is de woning van de president.",
-          answer: "Huis"
+          sentence: "Hij ___ de politie aan vanwege onterechte arrestatie.",
+          answer: "klaagt"
         },
         {
-          sentence: "Het oude gebouw werd ___ om plaats te maken voor iets nieuws.",
-          answer: "gesloopt"
+          sentence: "De ___ maakte iedereen vrolijk.",
+          answer: "muziek"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat wordt er gebouwd in het Witte Huis?",
+        question: "Waar gaat de tekst over?",
         options: [
-          "Een nieuwe keuken",
-          "Een nieuwe slaapkamer",
-          "Een nieuwe vleugel",
-          "Een nieuwe garage"
+          "Een protest tegen politie",
+          "Een nieuwe film",
+          "Een man die klaagt",
+          "Een muziekstuk"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Wat is de rol van de politie in de tekst?",
+        options: [
+          "Ze zijn degenen die worden aangeklaagd",
+          "Ze spelen een instrument",
+          "Ze arresteren iemand",
+          "Ze dansen op de muziek"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Wat voor soort muziek wordt genoemd?",
+        options: [
+          "Rockmuziek",
+          "Jazzmuziek",
+          "Muziek van Star Wars",
+          "Klassieke muziek"
         ],
         correctAnswer: 2
-      },
-      {
-        question: "Waarom wordt de oude vleugel gesloopt?",
-        options: [
-          "Omdat het te oud is",
-          "Omdat de president meer ruimte wil",
-          "Omdat er brand was geweest",
-          "Omdat er een nieuw model is"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wie heeft dit nieuws bekendgemaakt?",
-        options: [
-          "De koning van Engeland",
-          "De president van Amerika",
-          "De burgemeester van Washington",
-          "De eerste dame"
-        ],
-        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De oostvleugel van het Witte Huis wordt gesloopt.",
+        statement: "De man klaagt de politie aan omdat hij werd gearresteerd.",
         isTrue: true
       },
       {
-        statement: "De nieuwe vleugel wordt een kleine studeerkamer.",
-        isTrue: false
+        statement: "De muziek van Star Wars werd gespeeld tijdens het protest.",
+        isTrue: true
       },
       {
-        statement: "President Trump heeft dit nieuws zelf verteld.",
+        statement: "Donald Trump wordt genoemd in de tekst.",
         isTrue: true
       }
     ]
@@ -135,209 +135,209 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Hamas wil weer de baas zijn in Gaza, maar Israël laat dat niet toe",
+    title: "Argentijnse verkiezingen bepalen toekomst president Milei",
     topicNumber: 1,
     article: {
-      title: "Hamas wil weer de baas zijn in Gaza, maar Israël laat dat niet toe",
-      summary: "Hamas wil weer de macht in Gaza, maar Israël probeert dat te voorkomen. Met hulp van een onduidelijk vredesplan van Donald Trump probeert Hamas zijn oude positie terug te krijgen. Israël kan voorlopig alleen toekijken hoe het milities, bendes en critici met geweld wegduwt."
+      title: "Argentijnse verkiezingen bepalen toekomst president Milei",
+      summary: "Argentinië houdt de adem in. Van de parlementsverkiezingen zondag hangt af of de excentrieke president Javier Milei zijn ultraliberale hervormingen een nieuwe impuls kan geven, met steun van de VS. Maar de slabakkende economie en tal van schandalen doen de president tanen."
     },
     vocabulary: {
       words: [
         {
-          word: "baas",
-          definition: "iemand die de leiding heeft",
-          sentence: "De ___ bepaalt wat er gebeurt.",
-          answer: "baas"
+          word: "president",
+          definition: "De leider van een land",
+          sentence: "De ___ van Argentinië heet Javier Milei.",
+          answer: "president"
         },
         {
-          word: "macht",
-          definition: "kracht om iets te doen of te bepalen",
-          sentence: "Hij heeft veel ___ in deze organisatie.",
-          answer: "macht"
+          word: "verkiezingen",
+          definition: "Het kiezen van nieuwe leiders door te stemmen",
+          sentence: "Op zondag zijn er ___ in Argentinië.",
+          answer: "verkiezingen"
         },
         {
-          word: "milities",
-          definition: "groepen gewapende mensen, vaak niet officieel",
-          sentence: "De ___ vochten tegen het leger.",
-          answer: "milities"
+          word: "regering",
+          definition: "De groep mensen die een land bestuurt",
+          sentence: "De ___ van Argentinië heeft veel problemen.",
+          answer: "regering"
         },
         {
-          word: "bendes",
-          definition: "groepen criminelen die samenwerken",
-          sentence: "De ___ overvallen winkels en huizen.",
-          answer: "bendes"
+          word: "steun",
+          definition: "Hulp of ondersteuning",
+          sentence: "De president krijgt internationale ___ voor zijn plannen.",
+          answer: "steun"
         },
         {
-          word: "vredesplan",
-          definition: "een plan om vrede te bereiken, vaak door onderhandeling",
-          sentence: "Het ___ werd ondertekend door beide partijen.",
-          answer: "vredesplan"
+          word: "scandalen",
+          definition: "Slechte gebeurtenissen waarbij regels worden gebroken",
+          sentence: "Er zijn veel ___ die de regering beschadigen.",
+          answer: "scandalen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ vochten tegen het leger.",
-          answer: "milities"
+          sentence: "Er zijn veel ___ die de regering beschadigen.",
+          answer: "scandalen"
         },
         {
-          sentence: "Het ___ werd ondertekend door beide partijen.",
-          answer: "vredesplan"
+          sentence: "Op zondag zijn er ___ in Argentinië.",
+          answer: "verkiezingen"
         },
         {
-          sentence: "De ___ bepaalt wat er gebeurt.",
-          answer: "baas"
+          sentence: "De ___ van Argentinië heet Javier Milei.",
+          answer: "president"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat wil Hamas opnieuw doen in Gaza?",
+        question: "Waarom zijn de verkiezingen in Argentinië belangrijk?",
         options: [
-          "De baas zijn",
-          "Niets doen",
-          "Samenzweren met Israël",
-          "Vrede sluiten"
+          "Ze bepalen of president Milei meer macht krijgt voor zijn plannen.",
+          "Ze zijn alleen voor lokale bestuurders, niet voor de president.",
+          "Ze gaan alleen over economische kwesties, niet over politiek.",
+          "Ze zijn vooral symbolisch en hebben weinig echte impact."
         ],
         correctAnswer: 0
       },
       {
-        question: "Hoe reageert Israël op de acties van Hamas?",
+        question: "Wat is een gevolg van de economische problemen in Argentinië?",
         options: [
-          "Het doet niets en kijkt toe",
-          "Het valt aan met milities",
-          "Het ondersteunt Hamas",
-          "Het accepteert het vredesplan"
+          "President Milei verliest populariteit en steun.",
+          "De economie verbetert snel en iedereen is gelukkig.",
+          "De Verenigde Naties sturen hulp om de economie te stabiliseren.",
+          "President Milei wordt nog populairder door zijn aanpak van de crisis."
         ],
-        correctAnswer: 1
+        correctAnswer: 0
       },
       {
-        question: "Wat is een gevolg van het vredesplan?",
+        question: "Hoe reageert de internationale gemeenschap op president Milei's beleid?",
         options: [
-          "Hamas wordt sterker",
-          "Israël valt aan",
-          "Israël wordt zwakker",
-          "Gaza wordt onafhankelijk"
+          "Landen zoals de VS geven hem steun voor zijn hervormingen.",
+          "Alle landen keuren zijn beleid af en stoppen met handel.",
+          "De VN stuurt troepen om de regering over te nemen.",
+          "Geen enkel land bemoeit zich met Argentinië's binnenlandse politiek."
         ],
         correctAnswer: 0
       }
     ],
     trueFalse: [
       {
-        statement: "Hamas probeert opnieuw de macht in Gaza te grijpen.",
+        statement: "President Milei van Argentinië geniet nog brede steun van de bevolking.",
+        isTrue: false
+      },
+      {
+        statement: "De verkiezingen van zondag kunnen de positie van president Milei versterken.",
         isTrue: true
       },
       {
-        statement: "Israël steunt Hamas in deze poging.",
-        isTrue: false
-      },
-      {
-        statement: "Het vredesplan van Donald Trump is erg duidelijk voor beide partijen.",
-        isTrue: false
+        statement: "Scandalen en economische problemen hebben de positie van Milei verzwakt.",
+        isTrue: true
       }
     ]
   },
 {
     id: 3,
-    section: "Binnenland",
-    topic: "Binnenland",
+    section: "Buitenland",
+    topic: "Buitenland",
     level: "B1",
-    title: "Vervuiling in de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
+    title: "Als het om defensie gaat, is Europa bereid eigen regels aan te passen",
     topicNumber: 1,
     article: {
-      title: "Vervuiling in de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
-      summary: "Al sinds eind juli is bekend dat de Maas vervuild wordt met een schimmeldodend middel. Maar de bron is nog steeds niet bekend. Zelfs de Nederlandse ambassadeur bemoeit zich met deze zaak."
+      title: "Als het om defensie gaat, is Europa bereid eigen regels aan te passen",
+      summary: "Europa maakt het makkelijker om te investeren in defensie. Tijdens een Europese top stond het verbeteren van de militaire paraatheid centraal."
     },
     vocabulary: {
       words: [
         {
-          word: "Vervuiling",
-          definition: "Als iets vies of giftig wordt gemaakt, bijvoorbeeld water of lucht.",
-          sentence: "De fabriek veroorzaakte veel ___ in de rivier.",
-          answer: "vervuiling"
+          word: "gaat",
+          definition: "betekent 'doet' of 'is bezig met' in deze context",
+          sentence: "Hij ___ van start tot finish zonder te stoppen.",
+          answer: "gaat"
         },
         {
-          word: "Mysterie",
-          definition: "Iets dat onbekend of geheim is en niet meteen duidelijk is.",
-          sentence: "Waarom hij vertrok, bleef een ___ voor iedereen.",
-          answer: "mysterie"
+          word: "regels",
+          definition: "afspraken of regels die gevolgd moeten worden",
+          sentence: "In dit spel zijn er strikte ___ die gevolgd moeten worden.",
+          answer: "regels"
         },
         {
-          word: "Ambassadeur",
-          definition: "Een persoon die zijn land vertegenwoordigt in een ander land.",
-          sentence: "De ___ van Frankrijk woonde de bijeenkomst bij.",
-          answer: "ambassadeur"
+          word: "Europa",
+          definition: "het continent Europa, of de Europese Unie",
+          sentence: "___ is een continent met veel verschillende landen en culturen.",
+          answer: "Europa"
         },
         {
-          word: "Mengt",
-          definition: "Iets actief betrekken of ermee bemoeien.",
-          sentence: "Hij ___ zich in de discussie, ook al kent hij de feiten niet.",
-          answer: "mengt"
+          word: "eigen",
+          definition: "iets dat van jezelf is, persoonlijk",
+          sentence: "Hij heeft zijn ___ kamer altijd netjes en schoon.",
+          answer: "eigen"
         },
         {
-          word: "Bekend",
-          definition: "Iets of iemand waarvan je informatie hebt en die je kent.",
-          sentence: "Het is ___ dat hij vaak te laat komt.",
-          answer: "bekend"
+          word: "aant",
+          definition: "afkorting van 'aan het', gebruikt in informele taal",
+          sentence: "Hij is aant werken aan zijn nieuwe project voor school.",
+          answer: "aant"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Waarom hij vertrok, bleef een ___ voor iedereen.",
-          answer: "mysterie"
+          sentence: "___ is een continent met veel verschillende landen en culturen.",
+          answer: "Europa"
         },
         {
-          sentence: "De ___ van Frankrijk woonde de bijeenkomst bij.",
-          answer: "ambassadeur"
+          sentence: "Hij heeft zijn ___ kamer altijd netjes en schoon.",
+          answer: "eigen"
         },
         {
-          sentence: "Hij ___ zich in de discussie, ook al kent hij de feiten niet.",
-          answer: "mengt"
+          sentence: "Hij ___ van start tot finish zonder te stoppen.",
+          answer: "gaat"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de belangrijkste oorzaak van de vervuiling in de Maas?",
+        question: "Wat betekent 'Europa is bereid eigen regels aan te passen'?",
         options: [
-          "Industrieel afval",
-          "Landbouwchemicaliën",
-          "Onbekende bron",
-          "Huishoudelijk afval"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is de rol van de Nederlandse ambassadeur in deze kwestie?",
-        options: [
-          "Geen rol",
-          "Ondersteunt de onderzoeken",
-          "Vertoont desinteresse",
-          "Leidt de onderzoeken"
+          "Europa wil nieuwe regels maken",
+          "Europa gaat zijn bestaande regels veranderen",
+          "Europa wil zijn eigen regels volgen",
+          "Europa wil geen regels meer hebben"
         ],
         correctAnswer: 1
       },
       {
-        question: "Sinds wanneer is de vervuiling van de Maas bekend?",
+        question: "Waar gaat de tekst vooral over?",
         options: [
-          "Sinds januari 2023",
-          "Sinds juli 2023",
-          "Sinds december 2022",
-          "Sinds mei 2023"
+          "Over een sportevenement",
+          "Over Europese politiek en defensie",
+          "Over een Europese vakantie",
+          "Over nieuwe Europese regels voor bedrijven"
         ],
         correctAnswer: 1
+      },
+      {
+        question: "Waarom wil Europa de regels aanpassen?",
+        options: [
+          "Om sterker te worden in defensie",
+          "Om minder regels te hebben",
+          "Om andere landen te helpen",
+          "Om nieuwe technologie te ontwikkelen"
+        ],
+        correctAnswer: 0
       }
     ],
     trueFalse: [
       {
-        statement: "De bron van de vervuiling in de Maas is nog steeds niet bekend.",
+        statement: "Europa wil zijn defensie sterker maken door regels aan te passen.",
         isTrue: true
       },
       {
-        statement: "De Nederlandse ambassadeur heeft zich niet met de zaak bemoeid.",
+        statement: "De tekst zegt dat Europa geen regels meer wil hebben voor defensie.",
         isTrue: false
       },
       {
-        statement: "De vervuiling werd veroorzaakt door een schimmeldodend middel.",
+        statement: "Europa is van plan om de militaire paraatheid te verbeteren.",
         isTrue: true
       }
     ]
@@ -347,527 +347,527 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Ronsenaars maken zich zorgen over hoge PFAS-waarden in bloed",
+    title: "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
     topicNumber: 1,
     article: {
-      title: "Ronsenaars maken zich zorgen over hoge PFAS-waarden in bloed",
-      summary: "Steeds meer inwoners van Ronse laten hun bloed onderzoeken op PFAS en krijgen hoge waarden. Het stadsbestuur wil een groot bloedonderzoek. Ondertussen spelen kinderen op vervuilde grond."
+      title: "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
+      summary: "De strijd tegen Russische corruptie leidt zelfs tot in het Vlinderpaleis. Op het spel staat een eerbetoon aan Sergej Magnitski en een Antwerps appartement waarvan wordt aangenomen dat het aangekocht is met geld van de beruchte fraudezaak."
     },
     vocabulary: {
       words: [
         {
-          word: "Ronsenaars",
-          definition: "Mensen die in de stad Ronse wonen",
-          sentence: "De ___ maken zich zorgen over PFAS in hun bloed.",
-          answer: "Ronsenaars"
+          word: "strijd",
+          definition: "een gevecht of conflict",
+          sentence: "De politie was betrokken bij een ___ met demonstranten.",
+          answer: "strijd"
         },
         {
-          word: "PFAS",
-          definition: "Een groep van chemische stoffen die schadelijk zijn voor de gezondheid",
-          sentence: "Er zitten te hoge ___ waarden in het bloed van de Ronsenaars.",
-          answer: "PFAS"
+          word: "corruptie",
+          definition: "wanneer mensen in macht misbruik maken voor persoonlijk gewin",
+          sentence: "De regering voert een campagne tegen ___ in de overheid.",
+          answer: "corruptie"
         },
         {
-          word: "bloed",
-          definition: "De rode vloeistof die door je lichaam stroomt",
-          sentence: "Ze laten hun ___ testen op PFAS-waarden.",
-          answer: "bloed"
+          word: "aangenomen",
+          definition: "verondersteld of aangenomen",
+          sentence: "Het wordt ___ dat het geld uit criminele activiteiten komt.",
+          answer: "aangenomen"
         },
         {
-          word: "stadsbestuur",
-          definition: "De groep mensen die de stad bestuurt",
-          sentence: "Het ___ wil een groot onderzoek doen.",
-          answer: "stadsbestuur"
+          word: "fraudezaak",
+          definition: "een juridisch geval van bedrog of oplichting",
+          sentence: "Hij werd gearresteerd in verband met een grote ___.",
+          answer: "fraudezaak"
         },
         {
-          word: "kinderen",
-          definition: "Jonge mensen, meestal onder de 18 jaar",
-          sentence: "De ___ spelen op de vervuilde grond.",
-          answer: "kinderen"
+          word: "Vlinderpaleis",
+          definition: "een specifiek gebouw of locatie, vaak met een bijnaam",
+          sentence: "Het ___ is een bekend gebouw in Antwerpen.",
+          answer: "Vlinderpaleis"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het ___ wil een groot onderzoek doen.",
-          answer: "stadsbestuur"
+          sentence: "Hij werd gearresteerd in verband met een grote ___.",
+          answer: "fraudezaak"
         },
         {
-          sentence: "Ze laten hun ___ testen op PFAS-waarden.",
-          answer: "bloed"
+          sentence: "De regering voert een campagne tegen ___ in de overheid.",
+          answer: "corruptie"
         },
         {
-          sentence: "De ___ maken zich zorgen over PFAS in hun bloed.",
-          answer: "Ronsenaars"
+          sentence: "Het ___ is een bekend gebouw in Antwerpen.",
+          answer: "Vlinderpaleis"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is PFAS?",
+        question: "Wat is het Vlinderpaleis?",
         options: [
-          "Een soort medicijn",
-          "Een chemische stof",
-          "Een soort plant",
-          "Een dier"
+          "Een museum in Brussel",
+          "Een gebouw in Antwerpen",
+          "Een park in Gent",
+          "Een straat in Brugge"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat wil het stadsbestuur doen?",
+        question: "Waar gaat het artikel over?",
         options: [
-          "Niets",
-          "De stad evacueren",
-          "Een groot bloedonderzoek organiseren",
-          "Meer PFAS gebruiken"
+          "Een nieuwe diersoort",
+          "Internationale diplomatie",
+          "Corruptie en fraude",
+          "De bouw van een paleis"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waar spelen de kinderen?",
+        question: "Wie was Sergej Magnitski?",
         options: [
-          "In een park",
-          "Op vervuilde grond",
-          "Binnen in huis",
-          "In een museum"
-        ],
-        correctAnswer: 1
-      }
-    ],
-    trueFalse: [
-      {
-        statement: "PFAS is goed voor de gezondheid.",
-        isTrue: false
-      },
-      {
-        statement: "Het stadsbestuur wil een groot onderzoek doen.",
-        isTrue: true
-      },
-      {
-        statement: "Kunnen kinderen veilig spelen op de vervuilde grond?",
-        isTrue: false
-      }
-    ]
-  },
-{
-    id: 5,
-    section: "Buitenland",
-    topic: "Buitenland",
-    level: "C1",
-    title: "Oostvleugel Witte Huis wordt nu toch volledig gesloopt voor bouw nieuwe balzaal: “Dit is Trumps presidentschap in één foto”",
-    topicNumber: 1,
-    article: {
-      title: "Oostvleugel Witte Huis wordt nu toch volledig gesloopt voor bouw nieuwe balzaal: “Dit is Trumps presidentschap in één foto”",
-      summary: "De oostvleugel van het Witte Huis wordt volledig met de grond gelijk gemaakt om plaats te maken voor Donald Trumps nieuwe balzaal. Dat heeft de Amerikaanse president woensdag gezegd."
-    },
-    vocabulary: {
-      words: [
-        {
-          word: "gesloopt",
-          definition: "afgebroken, verwoest",
-          sentence: "Het oude gebouw werd uiteindelijk ___ om plaats te maken voor een nieuw project.",
-          answer: "gesloopt"
-        },
-        {
-          word: "balzaal",
-          definition: "een grote zaal die gebruikt wordt voor feesten en dansfeesten",
-          sentence: "Het koninklijk paleis heeft een grote ___ waar galadiners worden gehouden.",
-          answer: "balzaal"
-        },
-        {
-          word: "presidentschap",
-          definition: "de periode waarin iemand president is",
-          sentence: "Zijn ___ werd gekenmerkt door vele controverses.",
-          answer: "presidentschap"
-        },
-        {
-          word: "oostvleugel",
-          definition: "het oostelijke deel van een gebouw",
-          sentence: "De ___ van het paleis brandde volledig uit.",
-          answer: "oostvleugel"
-        },
-        {
-          word: "Witte Huis",
-          definition: "de officiële residentie en werkplaats van de president van de Verenigde Staten",
-          sentence: "Het ___ is gelegen in Washington D.C.",
-          answer: "Witte Huis"
-        }
-      ],
-      fillInBlanks: [
-        {
-          sentence: "De ___ van het paleis brandde volledig uit.",
-          answer: "oostvleugel"
-        },
-        {
-          sentence: "Het ___ is gelegen in Washington D.C.",
-          answer: "Witte Huis"
-        },
-        {
-          sentence: "Het oude gebouw werd uiteindelijk ___ om plaats te maken voor een nieuw project.",
-          answer: "gesloopt"
-        }
-      ]
-    },
-    multipleChoice: [
-      {
-        question: "Wat wordt er met de oostvleugel van het Witte Huis gedaan?",
-        options: [
-          "Het wordt gerenoveerd",
-          "Het wordt gesloopt",
-          "Het wordt verplaatst",
-          "Het blijft onveranderd"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Waarom wordt de oostvleugel gesloopt volgens de tekst?",
-        options: [
-          "Om plaats te maken voor een nieuw kantoor",
-          "Om plaats te maken voor een nieuwe balzaal",
-          "Omdat het gebouw onveilig was geworden",
-          "Omdat Trump niet van de oude architectuur hield"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wie heeft dit besluit aangekondigd?",
-        options: [
-          "De Amerikaanse president",
-          "De burgemeester van Washington",
-          "De First Lady",
-          "De minister van Binnenlandse Zaken"
-        ],
-        correctAnswer: 0
-      }
-    ],
-    trueFalse: [
-      {
-        statement: "De oostvleugel van het Witte Huis wordt gerenoveerd in plaats van gesloopt.",
-        isTrue: false
-      },
-      {
-        statement: "Donald Trump heeft aangekondigd dat de oostvleugel wordt gesloopt om plaats te maken voor een nieuwe balzaal.",
-        isTrue: true
-      },
-      {
-        statement: "De oostvleugel is al gesloopt voordat Trump president werd.",
-        isTrue: false
-      }
-    ]
-  },
-{
-    id: 6,
-    section: "Buitenland",
-    topic: "Buitenland",
-    level: "C1",
-    title: "Hamas probeert in Gaza het laken naar zich toe te trekken, met dank aan een vaag vredesbestand",
-    topicNumber: 1,
-    article: {
-      title: "Hamas probeert in Gaza het laken naar zich toe te trekken, met dank aan een vaag vredesbestand",
-      summary: "Geholpen door de vaagheid in het bestand dat Donald Trump opgelegd heeft, probeert Hamas zijn oude machtspositie te herwinnen. Israël kan voorlopig alleen toekijken hoe het milities, bendes en critici gewelddadig wegduwt."
-    },
-    vocabulary: {
-      words: [
-        {
-          word: "vaag",
-          definition: "niet duidelijk of precies",
-          sentence: "De instructies waren erg ___, wat tot verwarring leidde.",
-          answer: "vaag"
-        },
-        {
-          word: "bestand",
-          definition: "een bestand of verzameling van informatie",
-          sentence: "Hij bewaarde het belangrijke ___ op zijn computer voor later gebruik.",
-          answer: "bestand"
-        },
-        {
-          word: "milities",
-          definition: "milities, gewapende groepen van burgers",
-          sentence: "De ___ namen de controle over de stad over na hevige gevechten.",
-          answer: "milities"
-        },
-        {
-          word: "bendes",
-          definition: "criminele groepen of bendes",
-          sentence: "De politie arresteerde verschillende ___ die betrokken waren bij de illegale handel.",
-          answer: "bendes"
-        },
-        {
-          word: "wegduwt",
-          definition: "duwen of verwijderen, vaak met kracht",
-          sentence: "Hij probeerde de indringer te ___ van zijn eigendom.",
-          answer: "wegduwt"
-        }
-      ],
-      fillInBlanks: [
-        {
-          sentence: "Hij probeerde de indringer te ___ van zijn eigendom.",
-          answer: "wegduwt"
-        },
-        {
-          sentence: "De politie arresteerde verschillende ___ die betrokken waren bij de illegale handel.",
-          answer: "bendes"
-        },
-        {
-          sentence: "De ___ namen de controle over de stad over na hevige gevechten.",
-          answer: "milities"
-        }
-      ]
-    },
-    multipleChoice: [
-      {
-        question: "Waarom is Hamas in het voordeel door het vredesbestand?",
-        options: [
-          "Omdat het bestand specifiek is",
-          "Omdat het bestand vaag is en ruimte biedt",
-          "Omdat Israël het bestand steunt",
-          "Omdat het bestand niet bestaat"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is een gevolg van de situatie voor Israël?",
-        options: [
-          "Israël kan direct ingrijpen",
-          "Israël kan alleen toekijken",
-          "Israël verliest grondgebied",
-          "Israël wordt gesteund door de VN"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Hoe reageert Hamas op de situatie?",
-        options: [
-          "Het accepteert de situatie",
-          "Het probeert de controle terug te winnen",
-          "Het valt andere landen aan",
-          "Het negeert de situatie volledig"
-        ],
-        correctAnswer: 1
-      }
-    ],
-    trueFalse: [
-      {
-        statement: "Het vredesbestand is opgelegd door Donald Trump.",
-        isTrue: true
-      },
-      {
-        statement: "Hamas heeft als enige doel om Israël te vernietigen.",
-        isTrue: false
-      },
-      {
-        statement: "Israël kan op dit moment alleen toekijken.",
-        isTrue: true
-      }
-    ]
-  },
-{
-    id: 7,
-    section: "Binnenland",
-    topic: "Binnenland",
-    level: "C1",
-    title: "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
-    topicNumber: 1,
-    article: {
-      title: "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
-      summary: "Al van eind juli weten we dat de Maas vervuild wordt met een schimmeldodend middel. Maar nog steeds is de bron niet bekend. Zelfs de Nederlandse ambassadeur liet zich in met de zaak."
-    },
-    vocabulary: {
-      words: [
-        {
-          word: "Vervuiling",
-          definition: "De aanwezigheid van schadelijke of ongewenste stoffen in het milieu",
-          sentence: "De industriële ___ heeft geleid tot een verslechtering van de waterkwaliteit.",
-          answer: "vervuiling"
-        },
-        {
-          word: "Midden",
-          definition: "Een term met meerdere betekenissen; hier gebruikt in de context 'in het midden van' of 'centraal in'",
-          sentence: "De stad ligt ___ in een dichtbevolkte regio.",
-          answer: "midden"
-        },
-        {
-          word: "Bron",
-          definition: "De oorsprong of oorzaak van iets; in deze context, de oorsprong van de vervuiling",
-          sentence: "Ondanks onderzoek blijft de exacte ___ van het lek onbekend.",
-          answer: "bron"
-        },
-        {
-          word: "Ambassadeur",
-          definition: "Een officiële vertegenwoordiger van een land in een ander land",
-          sentence: "De ___ heeft een ontmoeting met de minister van Milieu.",
-          answer: "ambassadeur"
-        },
-        {
-          word: "Zaak",
-          definition: "Een zaak of situatie; vaak gebruikt in formele of juridische context",
-          sentence: "De ___ zal worden behandeld door het Hooggerechtshof.",
-          answer: "zaak"
-        }
-      ],
-      fillInBlanks: [
-        {
-          sentence: "De industriële ___ heeft geleid tot een verslechtering van de waterkwaliteit.",
-          answer: "vervuiling"
-        },
-        {
-          sentence: "De ___ heeft een ontmoeting met de minister van Milieu.",
-          answer: "ambassadeur"
-        },
-        {
-          sentence: "De stad ligt ___ in een dichtbevolkte regio.",
-          answer: "midden"
-        }
-      ]
-    },
-    multipleChoice: [
-      {
-        question: "Wat is de voornaamste oorzaak van de vervuiling in de Maas?",
-        options: [
-          "Industrieel afval",
-          "Landbouwchemicaliën",
-          "Een onbekende bron",
-          "Stedelijk rioolwater"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Welke functie heeft de Nederlandse ambassadeur in deze context?",
-        options: [
-          "Hij onderzoekt de vervuiling",
-          "Hij bemiddelt in het conflict",
-          "Hij is verantwoordelijk voor de vervuiling",
-          "Hij negeert de situatie"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is de houding van de Nederlandse overheid ten opzichte van deze kwestie?",
-        options: [
-          "Ze negeert het volledig",
-          "Ze werkt samen met andere landen",
-          "Ze accepteert alle verantwoordelijkheid",
-          "Ze ontkent enige betrokkenheid"
-        ],
-        correctAnswer: 1
-      }
-    ],
-    trueFalse: [
-      {
-        statement: "De vervuiling van de Maas is al volledig opgehelderd.",
-        isTrue: false
-      },
-      {
-        statement: "De Nederlandse ambassadeur is betrokken bij de zaak.",
-        isTrue: true
-      },
-      {
-        statement: "De bron van de vervuiling is een industriële lekkage.",
-        isTrue: false
-      }
-    ]
-  },
-{
-    id: 8,
-    section: "Binnenland",
-    topic: "Binnenland",
-    level: "C1",
-    title: "Ronsenaars ontredderd over hoge PFAS-waarden in bloed: 'Eerst dachten we dat onze kinderen geen risico liepen: hoe kan dit nu?'",
-    topicNumber: 1,
-    article: {
-      title: "Ronsenaars ontredderd over hoge PFAS-waarden in bloed: 'Eerst dachten we dat onze kinderen geen risico liepen: hoe kan dit nu?'",
-      summary: "Steeds meer Ronsenaars laten hun bloed op PFAS-waarden testen en krijgen verontrustend hoge resultaten terug. Het stadsbestuur zit met de handen in het haar en wil een grootschalig bloedonderzoek. 'De grond rond de beek moet gesaneerd worden, maar intussen spelen scouts vrolijk rond op vergiftigde grond.'"
-    },
-    vocabulary: {
-      words: [
-        {
-          word: "ontredderd",
-          definition: "In verwarring, overstuur, niet meer weten wat te doen",
-          sentence: "De bewoners waren ___ door het onverwachte nieuws over de PFAS-waarden.",
-          answer: "ontredderd"
-        },
-        {
-          word: "gesaneerd",
-          definition: "Gereinigd, vrijgemaakt van schadelijke stoffen of verontreiniging",
-          sentence: "De grond moet grondig worden ___ om het weer veilig te maken.",
-          answer: "gesaneerd"
-        },
-        {
-          word: "vrolijk",
-          definition: "Blij, opgewekt, met plezier",
-          sentence: "Ondanks de zorgen, probeerden ze ___ verder te gaan met hun dagelijkse activiteiten.",
-          answer: "vrolijk"
-        },
-        {
-          word: "vergiftigde",
-          definition: "Vergiftigd, vol gifstoffen die schadelijk zijn",
-          sentence: "Ze besefte niet dat ze op een stuk grond aan het spelen was dat was ___ met chemicaliën.",
-          answer: "vergiftigde"
-        },
-        {
-          word: "verontreinigd",
-          definition: "Vervuild, niet meer puur of schoon, vaak door chemische stoffen",
-          sentence: "De bodem was zo ___ dat er niets meer kon groeien.",
-          answer: "verontreinigd"
-        }
-      ],
-      fillInBlanks: [
-        {
-          sentence: "Ze besefte niet dat ze op een stuk grond aan het spelen was dat was ___ met chemicaliën.",
-          answer: "vergiftigde"
-        },
-        {
-          sentence: "De bodem was zo ___ dat er niets meer kon groeien.",
-          answer: "verontreinigd"
-        },
-        {
-          sentence: "De bewoners waren ___ door het onverwachte nieuws over de PFAS-waarden.",
-          answer: "ontredderd"
-        }
-      ]
-    },
-    multipleChoice: [
-      {
-        question: "Waarom zijn de inwoners van Ronse zo bezorgd over hun bloedtestresultaten?",
-        options: [
-          "Omdat ze een feest plannen",
-          "Omdat ze hoge PFAS-waarden ontvingen",
-          "Omdat ze een nieuwe sport ontdekten",
-          "Omdat ze te veel gefrituurd voedsel aten"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is de reactie van het stadsbestuur op de situatie?",
-        options: [
-          "Ze organiseren een festival",
-          "Ze overwegen een grootschalig bloedonderzoek",
-          "Ze negeren de problemen",
-          "Ze verhuizen naar een andere stad"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Waar wordt de grond rond de beek genoemd?",
-        options: [
-          "Gezond en veilig",
-          "Volledig steriel",
-          "Vrij van alle chemicaliën",
-          "Vervuild met PFAS en andere stoffen"
+          "Een Russische kunstenaar",
+          "Een Nederlands politicus",
+          "Een Belgische politieagent",
+          "Een Russische advocaat en klokkenluider"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De scouts die op de grond spelen, zijn zich bewust van de PFAS-verontreiniging.",
-        isTrue: false
-      },
-      {
-        statement: "Het stadsbestuur heeft meteen actie ondernomen door een grootschalig bloedonderzoek te starten.",
+        statement: "Het Vlinderpaleis is een gebouw in Antwerpen.",
         isTrue: true
       },
       {
-        statement: "De bewoners van Ronse waren niet verrast door de testresultaten, omdat ze altijd al vermoedden dat er iets mis was.",
+        statement: "Sergej Magnitski was een Belgische politicus.",
+        isTrue: false
+      },
+      {
+        statement: "Het artikel beschrijft een verband tussen corruptie en een appartement in Antwerpen.",
+        isTrue: true
+      }
+    ]
+  },
+{
+    id: 5,
+    section: "Binnenland",
+    topic: "Binnenland",
+    level: "B1",
+    title: "Minder mensen gaan naar de kerk",
+    topicNumber: 1,
+    article: {
+      title: "Minder mensen gaan naar de kerk",
+      summary: "Steeds minder mensen in België gaan naar de kerk. Veel minder mensen kiezen voor een kerkelijk huwelijk of begrafenis. Toch zijn er ook tekenen dat jongeren weer meer nadenken over geloof en zingeving."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "kerk",
+          definition: "een gebouw waar mensen samenkomen voor christelijke religieuze diensten",
+          sentence: "Elke zondag gaan veel mensen naar de ___ om te bidden.",
+          answer: "kerk"
+        },
+        {
+          word: "huwelijk",
+          definition: "de officiële ceremonie waarbij twee mensen met elkaar trouwen",
+          sentence: "Het ___ vond plaats in een mooie tuin, niet in een kerk.",
+          answer: "huwelijk"
+        },
+        {
+          word: "begrafenis",
+          definition: "een ceremonie waarbij iemand die overleden is, wordt herdacht en begraven",
+          sentence: "Na de ___ ging iedereen nog iets drinken om de overledene te eren.",
+          answer: "begrafenis"
+        },
+        {
+          word: "geloof",
+          definition: "het vertrouwen in iets dat je niet kunt zien of bewijzen, vaak in een god",
+          sentence: "Zijn ___ is erg belangrijk voor hem, hij bidt elke dag.",
+          answer: "geloof"
+        },
+        {
+          word: "jongeren",
+          definition: "mensen die nog niet volwassen zijn, vaak tussen de 12 en 18 jaar oud",
+          sentence: "De ___ in onze buurt organiseren vaak een voetbaltoernooi.",
+          answer: "jongeren"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "Elke zondag gaan veel mensen naar de ___ om te bidden.",
+          answer: "kerk"
+        },
+        {
+          sentence: "De ___ in onze buurt organiseren vaak een voetbaltoernooi.",
+          answer: "jongeren"
+        },
+        {
+          sentence: "Zijn ___ is erg belangrijk voor hem, hij bidt elke dag.",
+          answer: "geloof"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Waar is dit artikel vooral over?",
+        options: [
+          "Sport",
+          "Kunst",
+          "Religie",
+          "Politiek"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is er aan het veranderen volgens de tekst?",
+        options: [
+          "Mensen gaan minder vaak naar de kerk",
+          "Mensen gaan vaker naar de kerk",
+          "Mensen worden ouder",
+          "Kerkgebouwen worden gesloopt"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Wat is een teken van hoop volgens de tekst?",
+        options: [
+          "Meer ouderen gaan naar de kerk",
+          "Mensen trouwen alleen nog in de kerk",
+          "Jongeren zoeken naar zingeving",
+          "Kerkdiensten worden afgeschaft"
+        ],
+        correctAnswer: 2
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "Steeds minder mensen in België gaan naar de kerk.",
+        isTrue: true
+      },
+      {
+        statement: "Alleen oudere mensen zijn nog religieus.",
+        isTrue: false
+      },
+      {
+        statement: "Jongeren zijn helemaal niet geïnteresseerd in geloof of zingeving.",
+        isTrue: false
+      }
+    ]
+  },
+{
+    id: 6,
+    section: "Binnenland",
+    topic: "Binnenland",
+    level: "B1",
+    title: "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
+    topicNumber: 1,
+    article: {
+      title: "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
+      summary: "De PFAS-waarden in het bloed bij sommige Ronsenaars blijken vier tot acht keer hoger te liggen dan de Europese veiligheidsnorm. “Dit afdoen als te complex en niet zo gevaarlijk is onethisch”, zegt de Deense expert Philippe Grandjean."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "expert",
+          definition: "een deskundige of iemand die veel weet over een onderwerp",
+          sentence: "De ___ gaf uitleg over de situatie.",
+          answer: "expert"
+        },
+        {
+          word: "hoge",
+          definition: "groot in hoeveelheid of niveau, veel meer dan normaal",
+          sentence: "Er was een ___ concentratie van de stoffen in het bloed.",
+          answer: "hoge"
+        },
+        {
+          word: "blijkt",
+          definition: "wat duidelijk wordt uit de situatie of uit onderzoek",
+          sentence: "Het ___ dat er veel problemen zijn.",
+          answer: "blijkt"
+        },
+        {
+          word: "veiligheidsnorm",
+          definition: "een regel die zegt wat veilig is en wat niet",
+          sentence: "De ___ wordt vaak opgesteld door experts.",
+          answer: "veiligheidsnorm"
+        },
+        {
+          word: "onethisch",
+          definition: "niet ethisch, niet moreel correct, niet volgens de regels van goed gedrag",
+          sentence: "Het is ___ om iemand opzettelijk te kwetsen.",
+          answer: "onethisch"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "Er was een ___ concentratie van de stoffen in het bloed.",
+          answer: "hoge"
+        },
+        {
+          sentence: "Het ___ dat er veel problemen zijn.",
+          answer: "blijkt"
+        },
+        {
+          sentence: "De ___ gaf uitleg over de situatie.",
+          answer: "expert"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Wat is de rol van Philippe Grandjean in dit artikel?",
+        options: [
+          "Hij is een journalist",
+          "Hij is de Deense expert",
+          "Hij is een inwoner van Ronse",
+          "Hij is de Europese voorzitter"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Waar gaat het artikel over?",
+        options: [
+          "Over een feest in Ronse",
+          "Over een sportevenement",
+          "Over de PFAS-waarden in het bloed van mensen in Ronse",
+          "Over een nieuwe diersoort"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is de houding van de expert naar de situatie?",
+        options: [
+          "Hij vindt het niet belangrijk",
+          "Hij noemt het onethisch om het probleem te negeren",
+          "Hij vindt het een goede zaak",
+          "Hij is er blij mee"
+        ],
+        correctAnswer: 1
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "De PFAS-waarden in Ronse zijn lager dan de Europese norm.",
+        isTrue: false
+      },
+      {
+        statement: "Philippe Grandjean is de Deense expert die commentaar geeft.",
+        isTrue: true
+      },
+      {
+        statement: "Het artikel zegt dat PFAS geen effect heeft op het lichaam.",
+        isTrue: false
+      }
+    ]
+  },
+{
+    id: 7,
+    section: "Buitenland",
+    topic: "Buitenland",
+    level: "C1",
+    title: "Man klaagt politie Washington D.C. aan na arrestatie bij protest met muziek van Star Wars",
+    topicNumber: 1,
+    article: {
+      title: "Man klaagt politie Washington D.C. aan na arrestatie bij protest met muziek van Star Wars",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "ampt",
+          definition: "een persoon die een ambt bekleedt, vaak in politieke context",
+          sentence: "De minister is een belangrijk ___ in de regering.",
+          answer: "ambtsdrager"
+        },
+        {
+          word: "wereldwijd",
+          definition: "over de hele wereld, op globale schaal",
+          sentence: "Klimaatverandering is een ___ probleem.",
+          answer: "wereldwijd"
+        },
+        {
+          word: "veranderingen",
+          definition: "processen of gebeurtenissen waarbij iets verandert",
+          sentence: "De nieuwe wet zal grote ___ teweegbrengen.",
+          answer: "veranderingen"
+        },
+        {
+          word: "protest",
+          definition: "een publieke uiting van afkeuring of verzet, vaak tegen beleid",
+          sentence: "Het ___ werd vreedzaam gehouden.",
+          answer: "protest"
+        },
+        {
+          word: "aanklacht",
+          definition: "een formele beschuldiging, vaak in juridische context",
+          sentence: "Hij diende een ___ in tegen de verzekeringsmaatschappij.",
+          answer: "aanklacht"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "Het ___ werd vreedzaam gehouden.",
+          answer: "protest"
+        },
+        {
+          sentence: "De nieuwe wet zal grote ___ teweegbrengen.",
+          answer: "veranderingen"
+        },
+        {
+          sentence: "De minister is een belangrijk ___ in de regering.",
+          answer: "ambtsdrager"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Waarom klaagt de man de politie aan?",
+        options: [
+          "Omdat hij onterecht is gearresteerd",
+          "Omdat hij een vergunning had voor de muziek",
+          "Omdat de politie geweld gebruikte",
+          "Omdat hij de muziek te luid speelde"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is de hoofdreden van de aanklacht volgens de tekst?",
+        options: [
+          "De politie heeft onrechtmatig gehandeld tijdens de arrestatie",
+          "De man was een politieagent in burger",
+          "De protesten waren tegen het Star Wars-beleid",
+          "De man wilde met pensioen gaan"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Welk aspect van de gebeurtenis kreeg internationale aandacht?",
+        options: [
+          "Het gebruik van Star Wars-muziek bij het protest",
+          "De samenwerking tussen de politie en de demonstranten",
+          "De locatie van het protest, namelijk Washington D.C.",
+          "De aanklacht wegens oneigenlijk politieoptreden"
+        ],
+        correctAnswer: 3
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "De man werd gearresteerd omdat hij Star Wars-muziek draaide in plaats van vanwege het protest zelf.",
+        isTrue: false
+      },
+      {
+        statement: "De aanklacht richt zich op het optreden van de politie tijdens de arrestatie.",
+        isTrue: true
+      },
+      {
+        statement: "Donald Trump is de huidige president van de Verenigde Staten.",
+        isTrue: false
+      }
+    ]
+  },
+{
+    id: 8,
+    section: "Buitenland",
+    topic: "Buitenland",
+    level: "C1",
+    title: "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
+    topicNumber: 1,
+    article: {
+      title: "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
+      summary: "Argentinië houdt de adem in. Van de parlementsverkiezingen zondag hangt af of de excentrieke president Javier Milei zijn ultraliberale hervormingen een nieuwe impuls kan geven, met steun van de VS. Maar de slabakkende economie en tal van schandalen doen de president ster tanen."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "verkiezingen",
+          definition: "Een proces waarbij mensen stemmen om hun vertegenwoordigers of leiders te kiezen.",
+          sentence: "De uitslag van de verkiezingen zal de politieke koers van het land bepalen.",
+          answer: "verkiezingen"
+        },
+        {
+          word: "economie",
+          definition: "Het systeem van geld, handel en industrie van een land of regio.",
+          sentence: "De economie van het land is aan het krimpen door de hoge inflatie.",
+          answer: "economie"
+        },
+        {
+          word: "president",
+          definition: "Het staatshoofd van een republiek, verantwoordelijk voor het uitvoeren van wetten en het leiden van de regering.",
+          sentence: "De president hield een toespraak over de nieuwe beleidsmaatregelen.",
+          answer: "president"
+        },
+        {
+          word: "parlementsverkiezingen",
+          definition: "Verkiezingen waarbij de leden van het parlement worden gekozen, die wetten maken en de regering controleren.",
+          sentence: "De uitslag van de parlementsverkiezingen zal de machtsverhouding in het congres bepalen.",
+          answer: "parlementsverkiezingen"
+        },
+        {
+          word: "scandale",
+          definition: "Een schandaal; een gebeurtenis of situatie die schokkend of schadelijk is voor de betrokkenen.",
+          sentence: "Het recente schandaal rond de minister heeft de regering in verlegenheid gebracht.",
+          answer: "scandale"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "De economie van het land is aan het krimpen door de hoge inflatie.",
+          answer: "economie"
+        },
+        {
+          sentence: "De uitslag van de verkiezingen zal de politieke koers van het land bepalen.",
+          answer: "verkiezingen"
+        },
+        {
+          sentence: "De uitslag van de parlementsverkiezingen zal de machtsverhouding in het congres bepalen.",
+          answer: "parlementsverkiezingen"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Wat is de belangrijkste reden voor het belang van de verkiezingen in Argentinië?",
+        options: [
+          "Om de president te kiezen",
+          "Om de economische situatie te verbeteren",
+          "Om de politieke macht van Milei en zijn partij te bepalen",
+          "Om internationale steun te verkrijgen"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Welk effect heeft de economische situatie op de populariteit van Milei?",
+        options: [
+          "Het versterkt zijn positie",
+          "Het heeft geen effect",
+          "Het verzwakt zijn positie",
+          "Het maakt de bevolking rijker"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is een gevolg van de schandalen in de regering-Milei?",
+        options: [
+          "Meer internationale steun",
+          "Verminderde geloofwaardigheid van de regering",
+          "Vroegtijdige verkiezingen",
+          "Versterking van de economie"
+        ],
+        correctAnswer: 1
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "De verkiezingen in Argentinië bepalen alleen de president.",
+        isTrue: false
+      },
+      {
+        statement: "De economische situatie heeft invloed op de populariteit van de regering.",
+        isTrue: true
+      },
+      {
+        statement: "Internationale steun is voor Milei een belangrijk thema in deze context.",
         isTrue: true
       }
     ]
@@ -876,210 +876,210 @@ export const exercises: Exercise[] = [
     id: 9,
     section: "Buitenland",
     topic: "Buitenland",
-    level: "A2",
-    title: "Witte Huis krijgt nieuwe balzaal",
+    level: "C1",
+    title: "Als het gaat om defensie, is Europa bereid eigen regels wat op te rekken",
     topicNumber: 1,
     article: {
-      title: "Witte Huis krijgt nieuwe balzaal",
-      summary: "Het Witte Huis is het huis van de president van de Verenigde Staten. Er komt een nieuwe balzaal in het Witte Huis. De oostvleugel wordt afgebroken. President Trump heeft dit gezegd."
+      title: "Als het gaat om defensie, is Europa bereid eigen regels wat op te rekken",
+      summary: "Europa haalt de hinderpalen voor defensie-investeringen één voor één weg. Op de Europese top stond behalve de Russische tegoeden ook het pad om een turbo te zetten op de militaire paraatheid centraal."
     },
     vocabulary: {
       words: [
         {
-          word: "Witte",
-          definition: "helder of doorzichtig, ook een kleur",
-          sentence: "Sneeuw is ___ en koud.",
-          answer: "Witte"
+          word: "defensie",
+          definition: "het geheel van militaire middelen en strategieën om een land te beschermen",
+          sentence: "De defensie van het land is sterk verbeterd de laatste jaren.",
+          answer: "defensie"
         },
         {
-          word: "Huis",
-          definition: "een gebouw waar mensen in wonen",
-          sentence: "Mijn ___ staat in Amsterdam.",
-          answer: "Huis"
+          word: "regels",
+          definition: "afspraken of wetten waar men zich aan moet houden",
+          sentence: "De nieuwe regels zorgen voor meer duidelijkheid in de sector.",
+          answer: "regels"
         },
         {
-          word: "balzaal",
-          definition: "een grote zaal waar mensen kunnen dansen",
-          sentence: "Op het feest was er een grote ___ voor dansen.",
-          answer: "balzaal"
+          word: "op te rekken",
+          definition: "iets flexibeler of ruimer maken",
+          sentence: "Soms moet je de regels een beetje op te rekken om vooruitgang te boeken.",
+          answer: "op te rekken"
         },
         {
-          word: "president",
-          definition: "de leider van een land",
-          sentence: "De ___ van de Verenigde Staten woont in het Witte Huis.",
-          answer: "president"
+          word: "hinderpalen",
+          definition: "obstakels of belemmeringen die vooruitgang in de weg staan",
+          sentence: "Er zijn nog een aantal hinderpalen voordat we kunnen starten.",
+          answer: "hinderpalen"
         },
         {
-          word: "gezegd",
-          definition: "het verleden deelwoord van zeggen, wat betekent dat je iets met woorden uitdrukt",
-          sentence: "Hij heeft ___ dat hij morgen komt.",
-          answer: "gezegd"
+          word: "tegoeden",
+          definition: "rechten op of vordering op iets, vaak financieel",
+          sentence: "De tegoeden van de klant zijn nog niet vrijgegeven.",
+          answer: "tegoeden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Op het feest was er een grote ___ voor dansen.",
-          answer: "balzaal"
+          sentence: "De nieuwe regels zorgen voor meer duidelijkheid in de sector.",
+          answer: "regels"
         },
         {
-          sentence: "Hij heeft ___ dat hij morgen komt.",
-          answer: "gezegd"
+          sentence: "De tegoeden van de klant zijn nog niet vrijgegeven.",
+          answer: "tegoeden"
         },
         {
-          sentence: "Mijn ___ staat in Amsterdam.",
-          answer: "Huis"
+          sentence: "Er zijn nog een aantal hinderpalen voordat we kunnen starten.",
+          answer: "hinderpalen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar is het Witte Huis?",
+        question: "Wat is de kern van de Europese defensiestrategie volgens de tekst?",
         options: [
-          "In Nederland",
-          "In Amerika",
-          "In China",
-          "In Japan"
+          "Volledige militarisatie",
+          "Samenwerking met niet-EU-landen",
+          "Het wegnemen van belemmeringen en investeren in paraatheid",
+          "Vervanging van de NAVO"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat betekent 'op te rekken' in deze context?",
+        options: [
+          "De regels volledig negeren",
+          "De regels soepeler of ruimer interpreteren",
+          "De regels volledig afschaffen",
+          "Nieuwe regels invoeren"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wie woont in het Witte Huis?",
+        question: "Wat is een 'hinderpaal' in de tekst?",
         options: [
-          "De minister",
-          "De koning",
-          "De president",
-          "De leraar"
+          "Een fysieke barrière",
+          "Een wettelijke of procedurele belemmering",
+          "Een militair obstakel",
+          "Een economische sanctie"
         ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat gebeurt er met de oostvleugel?",
-        options: [
-          "Het wordt geverfd",
-          "Het wordt verkocht",
-          "Het wordt afgebroken",
-          "Het wordt groter gemaakt"
-        ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Het Witte Huis is in Nederland.",
+        statement: "De Europese defensiestrategie richt zich puur op het versterken van de eigen militaire capaciteit.",
         isTrue: false
       },
       {
-        statement: "De president woont in het Witte Huis.",
+        statement: "Naast de kwestie van Russische tegoeden, is er ook aandacht voor het versnellen van militaire paraatheid.",
         isTrue: true
       },
       {
-        statement: "De oostvleugel wordt groter gemaakt.",
+        statement: "De tekst suggereert dat Europa al zijn defensieproblemen heeft opgelost.",
         isTrue: false
       }
     ]
   },
 {
     id: 10,
-    section: "Buitenland",
-    topic: "Buitenland",
-    level: "A2",
-    title: "Hamas probeert macht terug te krijgen in Gaza",
+    section: "Binnenland",
+    topic: "Binnenland",
+    level: "C1",
+    title: "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
     topicNumber: 1,
     article: {
-      title: "Hamas probeert macht terug te krijgen in Gaza",
-      summary: "Met hulp van een vaag vredesplan van Donald Trump probeert Hamas opnieuw de macht te krijgen in Gaza. Israël kan voorlopig alleen toekijken hoe Hamas gewelddadig optreedt tegen milities, bendes en critici."
+      title: "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
+      summary: "De strijd tegen Russische corruptie leidt zelfs tot in het Vlinderpaleis. Op het spel staat een eerbetoon aan Sergej Magnitski en een Antwerps appartement waarvan wordt aangenomen dat het aangekocht is met geld van de beruchte fraudezaak."
     },
     vocabulary: {
       words: [
         {
-          word: "macht",
-          definition: "kracht of controle over iets",
-          sentence: "Hamas wil de ___ in Gaza hebben.",
-          answer: "macht"
+          word: "strijd",
+          definition: "een hevige, langdurige strijd of conflict",
+          sentence: "De politieke ___ in het land leidde tot grote spanningen.",
+          answer: "strijd"
         },
         {
-          word: "plan",
-          definition: "een idee of methode om iets te doen",
-          sentence: "Het vredes___ is nog niet duidelijk.",
-          answer: "plan"
+          word: "corruptie",
+          definition: "het misbruik van macht voor persoonlijk gewin",
+          sentence: "Wijdverspreide ___ ondermijnt het vertrouwen in de overheid.",
+          answer: "corruptie"
         },
         {
-          word: "optreden",
-          definition: "handelen of iets doen, vaak in een moeilijke situatie",
-          sentence: "De politie moet ___ tegen criminelen.",
-          answer: "optreden"
+          word: "aangenomen",
+          definition: "verondersteld, aangenomen (van een feit of situatie)",
+          sentence: "Het werd ___ dat de zaak al gesloten was.",
+          answer: "aangenomen"
         },
         {
-          word: "krijgen",
-          definition: "iets ontvangen of verkrijgen",
-          sentence: "Hij wil zijn boek terug ___.",
-          answer: "krijgen"
+          word: "aangekocht",
+          definition: "verleden deelwoord van aankopen; gekocht",
+          sentence: "Hij heeft het huis ___ via een online veiling.",
+          answer: "aangekocht"
         },
         {
-          word: "tegen",
-          definition: "in oppositie of tegenover iets",
-          sentence: "Hij is ___ het plan.",
-          answer: "tegen"
+          word: "berucht",
+          definition: "berucht; bekend om slechte redenen",
+          sentence: "De straat is ___ vanwege de vele inbraken.",
+          answer: "berucht"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hamas wil de ___ in Gaza hebben.",
-          answer: "macht"
+          sentence: "De straat is ___ vanwege de vele inbraken.",
+          answer: "berucht"
         },
         {
-          sentence: "Hij is ___ het plan.",
-          answer: "tegen"
+          sentence: "Hij heeft het huis ___ via een online veiling.",
+          answer: "aangekocht"
         },
         {
-          sentence: "De politie moet ___ tegen criminelen.",
-          answer: "optreden"
+          sentence: "De politieke ___ in het land leidde tot grote spanningen.",
+          answer: "strijd"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom wil Hamas de macht in Gaza?",
+        question: "Waar refereert 'Vlinderpaleis' primair naar in deze context?",
         options: [
-          "Omdat het daar veel geld heeft",
-          "Omdat het daar populair is",
-          "Om de bevolking te helpen",
-          "Om andere groepen te controleren"
-        ],
-        correctAnswer: 4
-      },
-      {
-        question: "Wat is het resultaat van het vredesplan van Donald Trump voor Hamas?",
-        options: [
-          "Hamas krijgt meer geld",
-          "Hamas wordt populairder",
-          "Hamas kan makkelijker de macht grijpen",
-          "Hamas moet zich overgeven"
+          "Een operagebouw",
+          "Een metafoor voor fragiliteit",
+          "Een bekend café in Antwerpen",
+          "Een type kunstwerk"
         ],
         correctAnswer: 3
       },
       {
-        question: "Hoe reageert Israël op de situatie in Gaza?",
+        question: "Wat is de hoofdgedachte van de samenvatting?",
         options: [
-          "Het stuurt meer soldaten",
-          "Het doet niets en kijkt toe",
-          "Het onderhandelt met Hamas",
-          "Het steunt andere groepen"
+          "De strijd tegen corruptie is geconcentreerd in één specifiek gebouw.",
+          "Antwerpen is het centrum van de wereldwijde anti-corruptie inspanningen.",
+          "Een eerbetoon en een aankoop zijn symbolisch voor de bredere corruptiebestrijding.",
+          "Sergei Magnitski is de eigenaar van het appartement in Antwerpen."
         ],
         correctAnswer: 2
+      },
+      {
+        question: "Wat impliceert de tekst over de aankoop van het appartement?",
+        options: [
+          "Het werd officieel bevestigd door de Russische overheid.",
+          "Het was een direct resultaat van de fraudezaak.",
+          "Het was in handen van een onbekende magnaat.",
+          "Het werd alleen aangenomen, niet bewezen."
+        ],
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Hamas probeert de macht in Gaza te krijgen met geweld.",
-        isTrue: true
-      },
-      {
-        statement: "Het vredesplan van Donald Trump is heel duidelijk voor iedereen.",
+        statement: "Het Vlinderpaleis is de locatie waar de corruptie plaatsvond.",
         isTrue: false
       },
       {
-        statement: "Israël helpt Hamas om de macht te krijgen in Gaza.",
+        statement: "De fraudezaak is direct gerelateerd aan de aankoop van het Antwerpse appartement.",
+        isTrue: true
+      },
+      {
+        statement: "Sergei Magnitski is de eigenaar van het appartement in Antwerpen.",
         isTrue: false
       }
     ]
@@ -1088,105 +1088,105 @@ export const exercises: Exercise[] = [
     id: 11,
     section: "Binnenland",
     topic: "Binnenland",
-    level: "A2",
-    title: "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
+    level: "C1",
+    title: "De kerk in België: achteruitgang maar ook tekenen van hoop",
     topicNumber: 1,
     article: {
-      title: "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
-      summary: "Al van eind juli weten we dat de Maas vervuild wordt met een schimmeldodend middel. Maar nog steeds is de bron niet bekend. Zelfs de Nederlandse ambassadeur liet zich in met de zaak."
+      title: "De kerk in België: achteruitgang maar ook tekenen van hoop",
+      summary: "Amper een op de tien huwelijken is nog kerkelijk, net als bijna een op de drie uitvaarten. Ook het aantal kerkgangers is nog maar eens teruggezakt. Toch ziet godsdienstleraar Bart Willemen tekenen van hoop: 'Jongeren zoeken naar zingeving en godsdienst is weer een optie.'"
     },
     vocabulary: {
       words: [
         {
-          word: "Vervuiling",
-          definition: "Als iets vies of giftig wordt gemaakt.",
-          sentence: "De fabriek veroorzaakt veel vervuiling in de rivier.",
-          answer: "Vervuiling"
+          word: "kerkelijk",
+          definition: "relating to or connected with the church",
+          sentence: "Het huwelijk werd op een ___ manier gevierd, met een priester die de ceremonie leidde.",
+          answer: "kerkelijk"
         },
         {
-          word: "Mysterie",
-          definition: "Iets dat niet bekend is of moeilijk te begrijpen.",
-          sentence: "Waarom hij vertrok is nog een mysterie voor ons.",
-          answer: "Mysterie"
+          word: "uitvaart",
+          definition: "a funeral or funeral ceremony",
+          sentence: "De familie kwam bijeen voor de ___ van hun geliefde, waar ze afscheid konden nemen.",
+          answer: "uitvaart"
         },
         {
-          word: "Ambassadeur",
-          definition: "Een persoon die zijn land vertegenwoordigt in een ander land.",
-          sentence: "De ambassadeur van Frankrijk bezocht ons land.",
-          answer: "Ambassadeur"
+          word: "kerkgangers",
+          definition: "people who attend church services",
+          sentence: "De ___ van de lokale parochie komen elke zondag samen voor de mis.",
+          answer: "kerkgangers"
         },
         {
-          word: "Mengt",
-          definition: "Iets door elkaar halen of erbij betrekken.",
-          sentence: "Hij mengt zich altijd in gesprekken die hem niet aangaan.",
-          answer: "Mengt"
+          word: "zingeving",
+          definition: "the search for meaning and purpose in life",
+          sentence: "Veel jongeren zijn op zoek naar ___ in hun leven, wat leidt tot een hernieuwde interesse in spiritualiteit.",
+          answer: "zingeving"
         },
         {
-          word: "Schimmeldodend",
-          definition: "Iets dat schimmels doodt.",
-          sentence: "Dit schimmeldodend middel is niet goed voor het water.",
-          answer: "Schimmeldodend"
+          word: "optie",
+          definition: "an option or choice",
+          sentence: "Voor velen is religie geen ___ meer, maar iets dat ze actief nastreven.",
+          answer: "optie"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De fabriek veroorzaakt veel vervuiling in de rivier.",
-          answer: "Vervuiling"
+          sentence: "Voor velen is religie geen ___ meer, maar iets dat ze actief nastreven.",
+          answer: "optie"
         },
         {
-          sentence: "Waarom hij vertrok is nog een mysterie voor ons.",
-          answer: "Mysterie"
+          sentence: "Veel jongeren zijn op zoek naar ___ in hun leven, wat leidt tot een hernieuwde interesse in spiritualiteit.",
+          answer: "zingeving"
         },
         {
-          sentence: "Hij mengt zich altijd in gesprekken die hem niet aangaan.",
-          answer: "Mengt"
+          sentence: "De familie kwam bijeen voor de ___ van hun geliefde, waar ze afscheid konden nemen.",
+          answer: "uitvaart"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent het als de Maas vervuild is?",
+        question: "Wat is de huidige trend in kerkelijke huwelijken in België?",
         options: [
-          "De Maas is erg schoon",
-          "De Maas is vuil en gevaarlijk",
-          "De Maas is bevroren",
-          "De Maas is ondiep"
+          "Ze zijn toegenomen",
+          "Ze zijn stabiel gebleven",
+          "Ze zijn sterk afgenomen",
+          "Ze zijn volledig verdwenen"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat is een schimmeldodend middel?",
+        question: "Wat is een van de tekenen van hoop volgens Bart Willemen?",
         options: [
-          "Een middel dat schimmels eet",
-          "Een middel dat schimmels doodmaakt",
-          "Een middel dat schimmels kweekt",
-          "Een middel dat niets met schimmels doet"
+          "Kerkbezoek stijgt snel",
+          "Ouderen keren terug naar de kerk",
+          "Jongeren zoeken zingeving",
+          "Kerken sluiten massaal"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat doet de Nederlandse ambassadeur?",
+        question: "Wat is de huidige situatie van kerkgangers in België?",
         options: [
-          "Hij gaat op vakantie",
-          "Hij maakt zich druk om de zaak",
-          "Hij negeert de zaak",
-          "Hij verhuist naar een ander land"
+          "Hun aantal is stabiel",
+          "Hun aantal neemt licht toe",
+          "Hun aantal is drastisch gedaald",
+          "Hun aantal is niet bekend"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De bron van de vervuiling is al bekend.",
+        statement: "Het aantal kerkelijke huwelijken in België is groter dan niet-kerkelijke.",
         isTrue: false
       },
       {
-        statement: "Een ambassadeur vertegenwoordigt zijn land in een ander land.",
-        isTrue: true
+        statement: "Bart Willemen ziet alleen maar achteruitgang voor de kerk in België.",
+        isTrue: false
       },
       {
-        statement: "Schimmels kunnen gevaarlijk zijn voor de gezondheid.",
-        isTrue: true
+        statement: "Jongeren zoeken helemaal niet naar zingeving, volgens Bart Willemen.",
+        isTrue: false
       }
     ]
   },
@@ -1194,104 +1194,104 @@ export const exercises: Exercise[] = [
     id: 12,
     section: "Binnenland",
     topic: "Binnenland",
-    level: "A2",
-    title: "Ronsenaars maken zich zorgen over PFAS in bloed",
+    level: "C1",
+    title: "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
     topicNumber: 1,
     article: {
-      title: "Ronsenaars maken zich zorgen over PFAS in bloed",
-      summary: "Steeds meer mensen in Ronse laten hun bloed testen op PFAS en krijgen hoge waarden. Het stadsbestuur wil een groot bloedonderzoek doen. Ondertussen spelen kinderen op grond met PFAS."
+      title: "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
+      summary: "De PFAS-waarden in het bloed bij sommige Ronsenaars blijken vier tot acht keer hoger te liggen dan de Europese veiligheidsnorm. “Dit afdoen als te complex en niet zo gevaarlijk is onethisch”, zegt de Deense expert Philippe Grandjean."
     },
     vocabulary: {
       words: [
         {
-          word: "bloed",
-          definition: "de rode vloeistof die door je lichaam stroomt",
-          sentence: "De dokter onderzoekt het ___ van de patiënt.",
-          answer: "bloed"
+          word: "Ronse",
+          definition: "Een stad in België, vooral bekend omwille van de PFAS-contaminatie.",
+          sentence: "De stad ___ ligt in Vlaanderen en heeft te maken met PFAS-vervuiling.",
+          answer: "Ronse"
         },
         {
-          word: "testen",
-          definition: "controleren of iets goed of slecht is",
-          sentence: "De arts wil het bloed ___ op PFAS.",
-          answer: "testen"
+          word: "blijkt",
+          definition: "Wordt duidelijk of komt aan het licht, vaak door onderzoek.",
+          sentence: "Het ___ dat de PFAS-waarden veel hoger zijn dan gedacht.",
+          answer: "blijkt"
         },
         {
-          word: "hoge",
-          definition: "veel of sterk, niet laag",
-          sentence: "De temperatuur was erg ___ in de zomer.",
-          answer: "hoge"
+          word: "afdoen",
+          definition: "Iets als onbelangrijk of niet serieus beschouwen.",
+          sentence: "Het is niet correct om PFAS-vervuiling simpelweg ___ als een klein probleem.",
+          answer: "afdoen"
         },
         {
-          word: "bestuur",
-          definition: "de groep mensen die de leiding heeft",
-          sentence: "Het ___ van de stad moet een beslissing nemen.",
-          answer: "bestuur"
+          word: "onethisch",
+          definition: "Niet in overeenstemming met morele principes of professionele ethiek.",
+          sentence: "Het is ___ om gevaarlijke situaties te negeren wanneer mensen in gevaar zijn.",
+          answer: "onethisch"
         },
         {
-          word: "spelen",
-          definition: "leuke dingen doen voor plezier",
-          sentence: "Kinderen willen graag buiten ___ in de tuin.",
-          answer: "spelen"
+          word: "expert",
+          definition: "Iemand met gespecialiseerde kennis of ervaring in een bepaald gebied.",
+          sentence: "De Deense ___ heeft uitgebreid onderzoek gedaan naar PFAS.",
+          answer: "expert"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Kinderen willen graag buiten ___ in de tuin.",
-          answer: "spelen"
+          sentence: "De Deense ___ heeft uitgebreid onderzoek gedaan naar PFAS.",
+          answer: "expert"
         },
         {
-          sentence: "De dokter onderzoekt het ___ van de patiënt.",
-          answer: "bloed"
+          sentence: "De stad ___ ligt in Vlaanderen en heeft te maken met PFAS-vervuiling.",
+          answer: "Ronse"
         },
         {
-          sentence: "Het ___ van de stad moet een beslissing nemen.",
-          answer: "bestuur"
+          sentence: "Het is niet correct om PFAS-vervuiling simpelweg ___ als een klein probleem.",
+          answer: "afdoen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat het artikel over?",
+        question: "Wat is de rol van Philippe Grandjean in de krantenkop?",
         options: [
-          "Het weer in België",
-          "De gezondheid van mensen in Ronse",
-          "De nieuwe speeltuin in Ronse",
-          "De prijs van brood"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat wil het stadsbestuur doen?",
-        options: [
-          "Niets",
-          "Meer bomen planten",
-          "Een groot bloedonderzoek houden",
-          "Meer speeltuinen bouwen"
+          "Hij is een getroffen inwoner van Ronse",
+          "Hij is de burgemeester van Ronse",
+          "Hij is een Deense expert op het gebied van PFAS",
+          "Hij is de Europese commissaris voor Milieu"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waar zijn de kinderen aan het spelen?",
+        question: "Waarom wordt de situatie in Ronse als 'onethisch' beschouwd?",
         options: [
-          "Op verontreinigde grond",
-          "In een museum",
-          "Op school",
-          "Thuis"
+          "Omdat er te weinig PFAS in het water zit",
+          "Omdat bewoners niet geïnformeerd werden over de risico's",
+          "Omdat de PFAS-waarden binnen de norm vallen",
+          "Omdat PFAS niet schadelijk is voor de gezondheid"
         ],
-        correctAnswer: 0
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is een van de gevolgen van hoge PFAS-waarden zoals in Ronse?",
+        options: [
+          "Het zorgt voor betere drinkwaterkwaliteit",
+          "Het kan leiden tot strengere Europese regelgeving",
+          "Het heeft geen effect op de volksgezondheid",
+          "Het verlaagt de Europese veiligheidsnorm"
+        ],
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Het bloed van de mensen in Ronse is getest en is veilig.",
+        statement: "De PFAS-waarden in Ronse zijn lager dan de Europese norm.",
         isTrue: false
       },
       {
-        statement: "Het stadsbestuur van Ronse wil een groot bloedonderzoek doen.",
+        statement: "Philippe Grandjean is een Deense onderzoeker.",
         isTrue: true
       },
       {
-        statement: "Kinderen spelen op schone grond zonder PFAS.",
+        statement: "De tekst beschrijft dat PFAS alleen effect heeft op het bloed.",
         isTrue: false
       }
     ]
@@ -1300,104 +1300,104 @@ export const exercises: Exercise[] = [
     id: 13,
     section: "Buitenland",
     topic: "Buitenland",
-    level: "B2",
-    title: "Witte Huis krijgt nieuwe vleugel",
+    level: "A2",
+    title: "Trump heeft nieuwe problemen in Washington",
     topicNumber: 1,
     article: {
-      title: "Witte Huis krijgt nieuwe vleugel",
-      summary: "De oostvleugel van het Witte Huis wordt volledig afgebroken. Er komt een nieuwe vleugel voor in de plaats. President Trump heeft dit plan goedgekeurd. De werkzaamheden zijn onmiddellijk begonnen."
+      title: "Trump heeft nieuwe problemen in Washington",
+      summary: "Donald Trump heeft nieuwe problemen in de Amerikaanse politiek na nieuwe aanklachten. Dit is belangrijk voor de buitenlandse betrekkingen."
     },
     vocabulary: {
       words: [
         {
-          word: "afgebroken",
-          definition: "gesloopt, verwijderd of weggehaald",
-          sentence: "Het oude gebouw werd volledig ___ en vervangen door een modern gebouw.",
-          answer: "afgebroken"
+          word: "Trump",
+          definition: "de familienaam van de voormalige president van de Verenigde Staten",
+          sentence: "___ heeft nieuwe problemen in Washington.",
+          answer: "Trump"
         },
         {
-          word: "vleugel",
-          definition: "een deel van een gebouw, vaak met een eigen functie",
-          sentence: "Het nieuwe ziekenhuis heeft een speciale ___ voor kinderafdeling.",
-          answer: "vleugel"
+          word: "Washington",
+          definition: "de hoofdstad van de Verenigde Staten",
+          sentence: "Hij heeft een huis in ___.",
+          answer: "Washington"
         },
         {
-          word: "goedgekeurd",
-          definition: "officieel akkoord, goedgekeurd",
-          sentence: "Het bouwplan is door de gemeente ___ en kan nu starten.",
-          answer: "goedgekeurd"
+          word: "aanklachten",
+          definition: "officiële beschuldigingen van misdrijven",
+          sentence: "Hij kreeg nieuwe ___ in de rechtszaak.",
+          answer: "aanklachten"
         },
         {
-          word: "Witte",
-          definition: "een kleur, tegenover zwart",
-          sentence: "Hij droeg een ___ overhemd met een donkere das.",
-          answer: "Witte"
+          word: "politiek",
+          definition: "alles wat met het bestuur van een land te maken heeft",
+          sentence: "Hij is actief in de ___ van het land.",
+          answer: "politiek"
         },
         {
-          word: "Huis",
-          definition: "een gebouw om in te wonen, woning",
-          sentence: "Het nieuwe ___ heeft vijf slaapkamers en een grote tuin.",
-          answer: "Huis"
+          word: "buitenland",
+          definition: "andere landen, niet het eigen land",
+          sentence: "Hij reist veel naar het ___ voor werk.",
+          answer: "buitenland"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het oude gebouw werd volledig ___ en vervangen door een modern gebouw.",
-          answer: "afgebroken"
+          sentence: "Hij heeft een huis in ___.",
+          answer: "Washington"
         },
         {
-          sentence: "Hij droeg een ___ overhemd met een donkere das.",
-          answer: "Witte"
+          sentence: "___ heeft nieuwe problemen in Washington.",
+          answer: "Trump"
         },
         {
-          sentence: "Het nieuwe ziekenhuis heeft een speciale ___ voor kinderafdeling.",
-          answer: "vleugel"
+          sentence: "Hij is actief in de ___ van het land.",
+          answer: "politiek"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat wordt er met de oostvleugel van het Witte Huis gedaan?",
+        question: "Waar is de man actief in de politiek?",
         options: [
-          "Het wordt gerenoveerd",
-          "Het wordt volledig afgebroken",
-          "Het wordt uitgebreid",
-          "Het wordt verplaatst"
+          "Duitsland",
+          "Nederland",
+          "Verenigde Staten",
+          "China"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is de hoofdstad van de Verenigde Staten?",
+        options: [
+          "Amsterdam",
+          "Washington",
+          "Brussel",
+          "Parijs"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is de reden voor deze actie volgens het artikel?",
+        question: "Wat is een aanklacht?",
         options: [
-          "Er is geen specifieke reden vermeld",
-          "Om plaats te maken voor een nieuw gebouw",
-          "Omdat het gebouw verouderd is",
-          "Vanwege veiligheidsredenen"
+          "Een soort sport",
+          "Een nieuwe wet",
+          "Een officiële beschuldiging",
+          "Een soort fruit"
         ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wie heeft deze beslissing goedgekeurd?",
-        options: [
-          "De gemeente",
-          "President Trump",
-          "De architect",
-          "De burgemeester"
-        ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De oostvleugel van het Witte Huis wordt gerenoveerd in plaats van volledig afgebroken.",
+        statement: "Trump is de president van Nederland.",
         isTrue: false
       },
       {
-        statement: "President Trump heeft het plan goedgekeurd om de oostvleugel af te breken.",
+        statement: "Washington is een stad in Amerika.",
         isTrue: true
       },
       {
-        statement: "De werkzaamheden om de oostvleugel af te breken zijn nog niet begonnen.",
+        statement: "Politiek gaat alleen over verkiezingen.",
         isTrue: false
       }
     ]
@@ -1406,211 +1406,211 @@ export const exercises: Exercise[] = [
     id: 14,
     section: "Buitenland",
     topic: "Buitenland",
-    level: "B2",
-    title: "Hamas probeert opnieuw de macht te grijpen in Gaza",
+    level: "A2",
+    title: "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
     topicNumber: 1,
     article: {
-      title: "Hamas probeert opnieuw de macht te grijpen in Gaza",
-      summary: "Met hulp van een vaag vredesbestand van Donald Trump, probeert Hamas zijn oude machtspositie te herwinnen. Israël kan voorlopig alleen toekijken hoe het milities, bendes en critici gewelddadig wegduwt."
+      title: "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
+      summary: "Argentinië houdt de adem in. Van de parlementsverkiezingen zondag hangt af of de excentrieke president Javier Milei zijn ultraliberale hervormingen een nieuwe impuls kan geven, met steun van de VS. Maar de slabakkende economie en tal van schandalen doen de president ster tanen."
     },
     vocabulary: {
       words: [
         {
-          word: "machtspositie",
-          definition: "De positie waarin iemand macht heeft of controle uitoefent",
-          sentence: "In een conflict willen groepen vaak de ___ veroveren.",
-          answer: "machtspositie"
+          word: "winnen",
+          definition: "een spel of wedstrijd winnen, of iets krijgen wat je wil",
+          sentence: "Hij hoopte de loterij te ___ en een nieuwe auto.",
+          answer: "winnen"
         },
         {
-          word: "vredesbestand",
-          definition: "Een overeenkomst of regeling die vrede moet bewaren",
-          sentence: "Een ___ kan helpen om geweld te stoppen, maar soms werkt het niet.",
-          answer: "vredesbestand"
+          word: "tussentijdse",
+          definition: "tussen twee momenten in, bijvoorbeeld tussen twee verkiezingen in",
+          sentence: "De ___ verkiezingen zijn belangrijk voor de politieke partijen.",
+          answer: "tussentijdse"
         },
         {
-          word: "milities",
-          definition: "Groepen gewapende mensen die vaak onofficieel vechten",
-          sentence: "Sommige ___ vechten voor een bepaalde regio of ideaal.",
-          answer: "milities"
+          word: "verkiezingen",
+          definition: "een verkiezing is een stemming waarbij mensen beslissen wie de leider wordt",
+          sentence: "Tijdens de ___ stemmen mensen op hun favoriete kandidaat.",
+          answer: "verkiezingen"
         },
         {
-          word: "wegduwt",
-          definition: "Iets of iemand ergens vandaan duwen, vaak met kracht",
-          sentence: "Een sterke natie kan een kleinere groep ___, maar dat lost niet alles op.",
-          answer: "wegduwt"
+          word: "economie",
+          definition: "de economie is het systeem van geld en handel in een land",
+          sentence: "De ___ van het land gaat slecht, waardoor mensen minder geld hebben.",
+          answer: "economie"
         },
         {
-          word: "laken",
-          description: "Een oudere of formele term voor een bedoeken; hier figuurlijk gebruikt voor macht of controle",
-          sentence: "In onderhandelingen probeert elke partij het ___ naar zich toe te trekken.",
-          answer: "laken"
+          word: "scandale",
+          definition: "een schandaal is een slechte gebeurtenis die mensen boos maakt, vaak over iets dat fout is gedaan",
+          sentence: "De politicus raakte betrokken bij een groot ___ en moest aftreden.",
+          answer: "scandale"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "In een conflict willen groepen vaak de ___ veroveren.",
-          answer: "machtspositie"
+          sentence: "De ___ verkiezingen zijn belangrijk voor de politieke partijen.",
+          answer: "tussentijdse"
         },
         {
-          sentence: "Een sterke natie kan een kleinere groep ___, maar dat lost niet alles op.",
-          answer: "wegduwt"
+          sentence: "De politicus raakte betrokken bij een groot ___ en moest aftreden.",
+          answer: "scandale"
         },
         {
-          sentence: "Sommige ___ vechten voor een bepaalde regio of ideaal.",
-          answer: "milities"
+          sentence: "De ___ van het land gaat slecht, waardoor mensen minder geld hebben.",
+          answer: "economie"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is een 'vredesbestand'?",
+        question: "Wat is de belangrijkste reden dat president Milei hervormingen wil doorvoeren?",
         options: [
-          "Een soort wapen",
-          "Een overeenkomst om het geweld te stoppen",
-          "Een internationaal verdrag",
-          "Een feestelijke bijeenkomst"
+          "Om de economie te verbeteren",
+          "Omdat de Verenigde Naties dat vragen",
+          "Omdat hij populair wil zijn",
+          "Omdat er verkiezingen aankomen"
         ],
-        correctAnswer: 1
+        correctAnswer: 0
       },
       {
-        question: "Wat betekent 'de macht herwinnen'?",
+        question: "Wat is een gevolg van de slechte economie in Argentinië?",
         options: [
-          "De macht verliezen",
-          "De macht opnieuw krijgen",
-          "De macht overdragen",
-          "De macht negeren"
+          "Mensen hebben minder geld om uit te geven",
+          "President Milei wordt populairder",
+          "Er zijn meer internationale handel",
+          "De Verenigde Naties geven meer steun"
         ],
-        correctAnswer: 1
+        correctAnswer: 0
       },
       {
-        question: "Wat zijn 'milities'?",
+        question: "Waarom zijn de tussentijdse verkiezingen belangrijk volgens de tekst?",
         options: [
-          "Militaire eenheden",
-          "Onofficiële gewapende groepen",
-          "Politieke partijen",
-          "Sportteams"
+          "Ze bepalen of Milei's hervormingen doorgaan",
+          "Ze zijn elke week gepland",
+          "Ze veroorzaken meer schandalen",
+          "Ze maken de economie sterker"
         ],
-        correctAnswer: 1
+        correctAnswer: 0
       }
     ],
     trueFalse: [
       {
-        statement: "Een vredesbestand zorgt altijd voor permanente vrede.",
+        statement: "President Milei krijgt steun van de Verenigde Naties voor zijn hervormingen.",
         isTrue: false
       },
       {
-        statement: "Milities kunnen bijdragen aan onrust in een regio.",
+        statement: "De economie van Argentinië gaat momenteel slecht, wat de regering moeilijk maakt.",
         isTrue: true
       },
       {
-        statement: "Het wegduwen van groepen lost de onderliggende problemen niet op.",
-        isTrue: true
+        statement: "President Milei is populair en heeft geen problemen volgens de tekst.",
+        isTrue: false
       }
     ]
   },
 {
     id: 15,
-    section: "Binnenland",
-    topic: "Binnenland",
-    level: "B2",
-    title: "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
+    section: "Buitenland",
+    topic: "Buitenland",
+    level: "A2",
+    title: "Europa maakt defensie sterker",
     topicNumber: 1,
     article: {
-      title: "Vervuiling van de Maas blijft een mysterie, Nederlandse ambassadeur mengt zich",
-      summary: "Al van eind juli weten we dat de Maas vervuild wordt met een schimmeldodend middel. Maar nog steeds is de bron niet bekend. Zelfs de Nederlandse ambassadeur liet zich in met de zaak."
+      title: "Europa maakt defensie sterker",
+      summary: "Europa wil de defensie verbeteren. Er komen nieuwe regels om dit te bereiken. Er is meer geld voor defensie. Ook werken landen beter samen."
     },
     vocabulary: {
       words: [
         {
-          word: "maatregel",
-          definition: "iets wat je doet om een probleem op te lossen",
-          sentence: "De regering nam een belangrijke ___ om de vervuiling te stoppen.",
-          answer: "maatregel"
+          word: "Europa",
+          definition: "een werelddeel met veel landen",
+          sentence: "___ is een groot gebied met veel landen.",
+          answer: "Europa"
         },
         {
-          word: "veroorlaken",
-          definition: "iets dat de oorzaak is van iets, bijvoorbeeld een probleem",
-          sentence: "Industrieel afval kan ___ dat rivieren vervuild raken.",
-          answer: "veroorlaken"
+          word: "maakt",
+          definition: "doet, creëert",
+          sentence: "Hij ___ een plan voor zijn huis.",
+          answer: "maakt"
         },
         {
-          word: "onderzoeken",
-          definition: "proberen meer te weten te komen over iets, door het te bestuderen",
-          sentence: "Wetenschappers willen de waterkwaliteit ___ om deze te verbeteren.",
-          answer: "onderzoeken"
+          word: "sterker",
+          definition: "meer kracht hebben",
+          sentence: "Na het sporten voel ik me ___ dan daarvoor.",
+          answer: "sterker"
         },
         {
-          word: "samenwerken",
-          definition: "samen met anderen werken aan een gemeenschappelijk doel",
-          sentence: "Verschillende landen moeten ___ om grensoverschrijdende vervuiling aan te pakken.",
-          answer: "samenwerken"
+          word: "wil",
+          definition: "heeft als plan, wil iets doen",
+          sentence: "Hij ___ graag een nieuwe auto kopen.",
+          answer: "wil"
         },
         {
-          word: "aanpakken",
-          definition: "iets actief doen om een probleem op te lossen",
-          sentence: "De overheid moet de crisis ___ voordat het erger wordt.",
-          answer: "aanpakken"
+          word: "veranderen",
+          definition: "anders maken, veranderen",
+          sentence: "We moeten onze plannen ___ omdat het regent.",
+          answer: "veranderen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De overheid moet de crisis ___ voordat het erger wordt.",
-          answer: "aanpakken"
+          sentence: "Hij ___ graag een nieuwe auto kopen.",
+          answer: "wil"
         },
         {
-          sentence: "Industrieel afval kan ___ dat rivieren vervuild raken.",
-          answer: "veroorlaken"
+          sentence: "___ is een groot gebied met veel landen.",
+          answer: "Europa"
         },
         {
-          sentence: "Verschillende landen moeten ___ om grensoverschrijdende vervuiling aan te pakken.",
-          answer: "samenwerken"
+          sentence: "Hij ___ een plan voor zijn huis.",
+          answer: "maakt"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is een van de oorzaken van de vervuiling in de Maas?",
+        question: "Waarom wil Europa de defensie verbeteren?",
         options: [
-          "Industrieel afval",
-          "Natuurlijke sedimenten",
-          "Overmatige regenval",
-          "Geen van bovenstaande"
+          "Omdat het verplicht is",
+          "Omdat er een grote oorlog dreigt",
+          "Omdat ze meer macht willen",
+          "Omdat ze zich veiliger willen voelen"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Hoe helpt samenwerking tussen landen?",
+        options: [
+          "Het maakt problemen groter",
+          "Het lost problemen samen op",
+          "Het zorgt voor meer werk",
+          "Het is altijd moeilijk"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is het hoofddoel van het onderzoek naar de Maas?",
+        question: "Wat is een voordeel van sterkere defensie?",
         options: [
-          "De vervuiling stoppen",
-          "De bron van de vervuiling vinden",
-          "De Maas volledig reinigen",
-          "Toerisme bevorderen"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is de rol van de Nederlandse ambassadeur in deze kwestie?",
-        options: [
-          "Hij leidt het onderzoek",
-          "Hij ondersteunt de samenwerking",
-          "Hij negeert de situatie",
-          "Hij maakt de vervuiling erger"
+          "Landen kunnen dan meer vechten",
+          "Het kost meer geld voor iedereen",
+          "Landen voelen zich veiliger",
+          "Er is minder aandacht voor armoede"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De bron van de vervuiling in de Maas is al bekend.",
-        isTrue: false
-      },
-      {
-        statement: "Nederland werkt alleen om de Maas te zuiveren.",
-        isTrue: false
-      },
-      {
-        statement: "Internationale samenwerking is betrokken bij deze kwestie.",
+        statement: "Europa wil de defensie sterker maken door nieuwe regels.",
         isTrue: true
+      },
+      {
+        statement: "Er is minder geld beschikbaar voor defensie na de veranderingen.",
+        isTrue: false
+      },
+      {
+        statement: "Landen werken minder samen na de veranderingen.",
+        isTrue: false
       }
     ]
   },
@@ -1618,104 +1618,952 @@ export const exercises: Exercise[] = [
     id: 16,
     section: "Binnenland",
     topic: "Binnenland",
-    level: "B2",
-    title: "Ronsenaars ontredderd over hoge PFAS-waarden in bloed: Eerst dachten zij dat hun kinderen geen risico liepen",
+    level: "A2",
+    title: "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
     topicNumber: 1,
     article: {
-      title: "Ronsenaars ontredderd over hoge PFAS-waarden in bloed: Eerst dachten zij dat hun kinderen geen risico liepen",
-      summary: "Steeds meer Ronsenaars laten hun bloed op PFAS-waarden testen en krijgen verontrustend hoge resultaten terug. Het stadsbestuur zit met de handen in het haar en wil een grootschalig bloedonderzoek. De grond rond de beek moet gesaneerd worden, maar intussen spelen scouts vrolijk rond op vergiftigde grond."
+      title: "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
+      summary: "De strijd tegen Russische corruptie leidt zelfs tot in het Vlinderpaleis. Op het spel staat een eerbetoon aan Sergej Magnitski en een Antwerps appartement waarvan wordt aangenomen dat het aangekocht is met geld van de beruchte fraudezaak."
     },
     vocabulary: {
       words: [
         {
-          word: "ontredderd",
-          definition: "in verwarring, niet weten wat te doen",
-          sentence: "Na het ontslag voelde ze zich helemaal ___ en wist niet wat haar volgende stap moest zijn.",
-          answer: "ontredderd"
+          word: "strijd",
+          definition: "een hevige ruzie of een gevecht, vaak voor een belangrijk doel",
+          sentence: "De twee landen voerden een lange ___ om het land.",
+          answer: "strijd"
         },
         {
-          word: "risico",
-          definition: "gevaar of kans op iets negatiefs",
-          sentence: "Roken brengt een groot gezondheids___ met zich mee.",
-          answer: "risico"
+          word: "corruptie",
+          definition: "wanneer mensen in de macht misbruik maken van hun positie, bijvoorbeeld door geld te stelen",
+          sentence: "De politicus werd beschuldigd van ___ en moest aftreden.",
+          answer: "corruptie"
         },
         {
-          word: "vergiftigde",
-          definition: "vergiftigd, vergift is binnengekregen",
-          sentence: "De ___ grond maakte het onmogelijk om er groenten te verbouwen.",
-          answer: "vergiftigde"
+          word: "aangenomen",
+          definition: "verondersteld, niet zeker",
+          sentence: "Het is ___ dat het gebouw al honderden jaren oud is.",
+          answer: "aangenomen"
         },
         {
-          word: "gesaneerd",
-          definition: "schoon en vrijgemaakt van vervuiling",
-          sentence: "Na de sanering was de bodem volledig ___ en veilig voor gebruik.",
-          answer: "gesaneerd"
+          word: "erfenis",
+          definition: "iets wat wordt achtergelaten voor de toekomst, zoals geld of een gebouw",
+          sentence: "De oude vrouw liet haar volledige ___ aan haar kleindochter.",
+          answer: "erfenis"
         },
         {
-          word: "grootschalig",
-          definition: "op grote schaal, met veel deelnemers of gebieden",
-          sentence: "De overheid startte een ___ onderzoek naar de waterkwaliteit in de regio.",
-          answer: "grootschalig"
+          word: "fraude",
+          definition: "een vorm van bedrog, vaak met geld of informatie",
+          sentence: "De man pleegde ___ door valse informatie op te geven.",
+          answer: "fraude"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Roken brengt een groot gezondheids___ met zich mee.",
-          answer: "risico"
+          sentence: "Het is ___ dat het gebouw al honderden jaren oud is.",
+          answer: "aangenomen"
         },
         {
-          sentence: "De overheid startte een ___ onderzoek naar de waterkwaliteit in de regio.",
-          answer: "grootschalig"
+          sentence: "De oude vrouw liet haar volledige ___ aan haar kleindochter.",
+          answer: "erfenis"
         },
         {
-          sentence: "Na het ontslag voelde ze zich helemaal ___ en wist niet wat haar volgende stap moest zijn.",
-          answer: "ontredderd"
+          sentence: "De twee landen voerden een lange ___ om het land.",
+          answer: "strijd"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent het als de grond 'gesaneerd' moet worden?",
+        question: "Waar gaat het artikel vooral over?",
         options: [
-          "Het moet schoongemaakt worden",
-          "Het moet bewaterd worden",
-          "Het moet bemest worden",
-          "Het moet bebouwd worden"
+          "Over een nieuwe wet in België",
+          "Over een internationaal sportevenement",
+          "Over de aankoop van een appartement met gestolen geld",
+          "Over de prijs van een appartement in Antwerpen"
         ],
-        correctAnswer: 0
+        correctAnswer: 2
       },
       {
-        question: "Waarom zijn de Ronsenaars ontredderd volgens de tekst?",
+        question: "Wat is het Vlinderpaleis?",
         options: [
-          "Omdat hun kinderen ziek werden",
-          "Omdat ze niet wisten dat er een risico was",
-          "Omdat de grond al gesaneerd was",
-          "Omdat de scouts niet meer mochten spelen"
+          "Een oud museum in Rusland",
+          "Een beroemd hotel in Moskou",
+          "Een gebouw in Antwerpen",
+          "Een type bloem"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is de hoofdgedachte van de samenvatting?",
+        question: "Waarom is Sergej Magnitski belangrijk voor dit verhaal?",
         options: [
-          "Scouts spelen op giftige grond",
-          "Bloedonderzoeken tonen hoge PFAS-waarden",
-          "Het stadsbestuur weet het niet meer",
-          "De gemeente wil de beek saneren"
+          "Hij is de eigenaar van het appartement",
+          "Hij is een Russische sporter",
+          "Hij is een symbolische figuur in de strijd tegen corruptie",
+          "Hij is de president van Rusland"
+        ],
+        correctAnswer: 2
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "Het Vlinderpaleis is een gebouw in Antwerpen.",
+        isTrue: false
+      },
+      {
+        statement: "Het appartement in Antwerpen is betaald met geld van de fraudezaak.",
+        isTrue: true
+      },
+      {
+        statement: "Sergej Magnitski is nog steeds in leven en woont in het Vlinderpaleis.",
+        isTrue: false
+      }
+    ]
+  },
+{
+    id: 17,
+    section: "Binnenland",
+    topic: "Binnenland",
+    level: "A2",
+    title: "De kerk verandert in België",
+    topicNumber: 1,
+    article: {
+      title: "De kerk verandert in België",
+      summary: "Steeds minder mensen huwen in de kerk of kiezen voor een kerkelijke uitvaart. Het aantal kerkgangers is ook gedaald. Toch ziet een godsdienstleraar tekenen van hoop: jongeren zijn op zoek naar zingeving en zien godsdienst als een optie."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "kerk",
+          definition: "een gebouw waar mensen samenkomen voor religieuze diensten",
+          sentence: "De ___ is open op zondag voor de mis.",
+          answer: "kerk"
+        },
+        {
+          word: "huwen",
+          definition: "trouwen, een huwelijk aangaan",
+          sentence: "Ze ___ in de kerk met hun familie en vrienden.",
+          answer: "huwen"
+        },
+        {
+          word: "uitvaart",
+          definition: "een ceremonie of dienst na iemands overlijden, vaak in een kerk",
+          sentence: "De ___ werd gehouden in de parochiekerk.",
+          answer: "uitvaart"
+        },
+        {
+          word: "leraar",
+          definition: "iemand die lesgeeft, bijvoorbeeld op school",
+          sentence: "De godsdienst___ helpt studenten bij het leren over religie.",
+          answer: "leraar"
+        },
+        {
+          word: "optie",
+          definition: "een keuze of mogelijkheid",
+          sentence: "Voor veel jongeren is geloof een serieuze ___ in hun leven.",
+          answer: "optie"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "De ___ is open op zondag voor de mis.",
+          answer: "kerk"
+        },
+        {
+          sentence: "De godsdienst___ helpt studenten bij het leren over religie.",
+          answer: "leraar"
+        },
+        {
+          sentence: "De ___ werd gehouden in de parochiekerk.",
+          answer: "uitvaart"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Waar gaat dit artikel vooral over?",
+        options: [
+          "Koken met champignons",
+          "De klimaatverandering in België",
+          "Veranderingen in de kerk in België",
+          "Hoe je een tuin kunt onderhouden"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is een 'uitvaart'?",
+        options: [
+          "Een feestmaal",
+          "Een sportwedstrijd",
+          "Een herdenking na een overlijden",
+          "Een soort feestmuziek"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Waarom noemt de auteur 'leraar'?",
+        options: [
+          "Omdat de persoon lesgeeft over God",
+          "Omdat het een bijnaam is",
+          "Omdat hij studenten helpt met hun huiswerk",
+          "Omdat hij een sportcoach is"
+        ],
+        correctAnswer: 0
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "De kerk in België wordt steeds populairder.",
+        isTrue: false
+      },
+      {
+        statement: "Jongeren zijn helemaal niet geïnteresseerd in godsdienst.",
+        isTrue: false
+      },
+      {
+        statement: "Een leraar kan lesgeven over godsdienst.",
+        isTrue: true
+      }
+    ]
+  },
+{
+    id: 18,
+    section: "Binnenland",
+    topic: "Binnenland",
+    level: "A2",
+    title: "Hoge PFAS-waarden in Ronse: wat betekent dit?",
+    topicNumber: 1,
+    article: {
+      title: "Hoge PFAS-waarden in Ronse: wat betekent dit?",
+      summary: "In Ronse zijn de PFAS-waarden in het bloed bij sommige mensen veel hoger dan de Europese norm. Dit is niet goed voor de gezondheid. Een expert uit Denemarken legt uit wat PFAS zijn en waarom we voorzichtig moeten zijn."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "hoger",
+          definition: "meer dan normaal of dan iets anders",
+          sentence: "De temperatuur is ___ dan gisteren.",
+          answer: "hoger"
+        },
+        {
+          word: "niet",
+          definition: "geen of het tegenovergestelde van ja",
+          sentence: "Ik heb ___ genoeg tijd om te wachten.",
+          answer: "niet"
+        },
+        {
+          word: "goed",
+          definition: "goed of positief, niet slecht",
+          sentence: "Het is ___ om elke dag fruit te eten.",
+          answer: "goed"
+        },
+        {
+          word: "kunnen",
+          definition: "in staat zijn om iets te doen",
+          sentence: "Kinderen ___ zonder hulp oversteken?",
+          answer: "kunnen"
+        },
+        {
+          word: "moeten",
+          definition: "verplicht zijn of noodzakelijk hebben",
+          sentence: "We ___ op tijd vertrekken om de bus te halen.",
+          answer: "moeten"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "Ik heb ___ genoeg tijd om te wachten.",
+          answer: "niet"
+        },
+        {
+          sentence: "Het is ___ om elke dag fruit te eten.",
+          answer: "goed"
+        },
+        {
+          sentence: "Kinderen ___ zonder hulp oversteken?",
+          answer: "kunnen"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Wat betekent 'hoger' in de tekst?",
+        options: [
+          "minder",
+          "hoger",
+          "hetzelfde",
+          "lager"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Waarom is PFAS niet goed voor de gezondheid?",
+        options: [
+          "Het is duur",
+          "Het is moeilijk uit te spreken",
+          "Het kan ziek maken",
+          "Het is een soort voedsel"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat adviseert de expert?",
+        options: [
+          "Niets doen",
+          "Meer PFAS gebruiken",
+          "Meer onderzoek doen",
+          "Stoppen met ademen"
+        ],
+        correctAnswer: 3
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "De PFAS-waarden in Ronse zijn voor iedereen laag.",
+        isTrue: false
+      },
+      {
+        statement: "PFAS kan schadelijk zijn voor de gezondheid.",
+        isTrue: true
+      },
+      {
+        statement: "De expert uit Denemarken zegt dat PFAS niet gevaarlijk is.",
+        isTrue: false
+      }
+    ]
+  },
+{
+    id: 19,
+    section: "Buitenland",
+    topic: "Buitenland",
+    level: "B2",
+    title: "Man klaagt politie Washington D.C. aan na arrestatie bij protest met muziek van Star Wars",
+    topicNumber: 1,
+    article: {
+      title: "Man klaagt politie Washington D.C. aan na arrestatie bij protest met muziek van Star Wars",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "aan",
+          definition: "naar, in de richting van",
+          sentence: "Hij gaf het boek ___ zijn vriend.",
+          answer: "aan"
+        },
+        {
+          word: "klaagt",
+          definition: "maakt een formele klacht over, meestal over een probleem",
+          sentence: "De klant ___ de winkel omdat het product defect was.",
+          answer: "klaagt"
+        },
+        {
+          word: "politie",
+          definition: "de officiële organisatie die de wet handhaaft en de openbare orde bewaakt",
+          sentence: "De ___ kwam snel toen we belden over het lawaaierige feest.",
+          answer: "politie"
+        },
+        {
+          word: "Washington",
+          definition: "de hoofdstad van de Verenigde Staten, of de staat in het noordwesten van de VS",
+          sentence: "Vorig jaar bezocht ik ___ D.C. voor een conferentie.",
+          answer: "Washington"
+        },
+        {
+          word: "protest",
+          definition: "een publieke demonstratie om ongenoegen of verzet tegen iets te uiten",
+          sentence: "Het ___ tegen de nieuwe wet trok duizenden mensen.",
+          answer: "protest"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "Vorig jaar bezocht ik ___ D.C. voor een conferentie.",
+          answer: "Washington"
+        },
+        {
+          sentence: "Hij gaf het boek ___ zijn vriend.",
+          answer: "aan"
+        },
+        {
+          sentence: "Het ___ tegen de nieuwe wet trok duizenden mensen.",
+          answer: "protest"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Waarom klaagt de man de politie aan?",
+        options: [
+          "Omdat hij de muziek niet mocht spelen",
+          "Omdat hij onterecht is gearresteerd",
+          "Omdat de politie te hardhandig was",
+          "Omdat hij meer publiciteit wil"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is de hoofdstad van de Verenigde Staten?",
+        options: [
+          "New York",
+          "Los Angeles",
+          "Washington D.C.",
+          "Chicago"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat is 'Star Wars' in deze context?",
+        options: [
+          "Een bekende filmreeks",
+          "Een politieoperatie",
+          "Een type muziek",
+          "Een sportevenement"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De Ronsenaars zijn blij met de testresultaten.",
+        statement: "De man werd gearresteerd omdat hij muziek speelde.",
         isTrue: false
       },
       {
-        statement: "Het stadsbestuur onderneemt actie door een groot onderzoek te starten.",
+        statement: "De protesten vonden plaats in Washington D.C.",
         isTrue: true
       },
       {
-        statement: "Scouts spelen op de vergiftigde grond, wat als een veilige situatie wordt beschouwd.",
+        statement: "Donald Trump is de huidige president van de Verenigde Staten.",
+        isTrue: false
+      }
+    ]
+  },
+{
+    id: 20,
+    section: "Buitenland",
+    topic: "Buitenland",
+    level: "B2",
+    title: "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
+    topicNumber: 1,
+    article: {
+      title: "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
+      summary: "Argentinië houdt de adem in. Van de parlementsverkiezingen zondag hangt af of de excentrieke president Javier Milei zijn ultraliberale hervormingen een nieuwe impuls kan geven, met steun van de VS. Maar de slabakkende economie en tal van schandalen doen de president ster tanen."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "verkiezingen",
+          definition: "een officiële verkiezing waarbij mensen stemmen voor hun vertegenwoordigers",
+          sentence: "De uitslag van de ___ zal bepalen wie de nieuwe leider wordt.",
+          answer: "verkiezingen"
+        },
+        {
+          word: "president",
+          definition: "het staatshoofd van een republiek die de regering leidt",
+          sentence: "De ___ van het land hield een belangrijke toespraak over de toekomst.",
+          answer: "president"
+        },
+        {
+          word: "economie",
+          definition: "het geheel van de economische activiteiten in een land of gebied",
+          sentence: "De ___ van het land is sterk afhankelijk van de export van grondstoffen.",
+          answer: "economie"
+        },
+        {
+          word: "steun",
+          definition: "hulp of bijstand, zowel financieel als moreel",
+          sentence: "Het plan kreeg brede ___ van verschillende politieke partijen.",
+          answer: "steun"
+        },
+        {
+          word: "schandalen",
+          definition: "gebeurtenissen die schokkend of schandalig zijn en vaak leiden tot publieke verontwaardiging",
+          sentence: "De reeks van ___ zorgde voor veel onrust onder de bevolking.",
+          answer: "schandalen"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "De uitslag van de ___ zal bepalen wie de nieuwe leider wordt.",
+          answer: "verkiezingen"
+        },
+        {
+          sentence: "Het plan kreeg brede ___ van verschillende politieke partijen.",
+          answer: "steun"
+        },
+        {
+          sentence: "De ___ van het land is sterk afhankelijk van de export van grondstoffen.",
+          answer: "economie"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Wat hangt er af van de uitslag van de parlementsverkiezingen in Argentinië?",
+        options: [
+          "Of president Milei zijn hervormingen kan doorzetten",
+          "Of de economie zal verbeteren",
+          "Of de VS zal ingrijpen",
+          "Of er nieuwe verkiezingen komen"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Waarom is de situatie voor president Milei volgens de tekst onzeker?",
+        options: [
+          "Omdat de economie slecht presteert en er schandalen zijn",
+          "Omdat de VS hem niet steunt",
+          "Omdat zijn partij geen meerderheid heeft",
+          "Omdat de verkiezingen niet doorgaan"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is een gevolg van de economische problemen in Argentinië?",
+        options: [
+          "President Mileis populariteit daalt",
+          "De VS biedt meer steun",
+          "Er komen nieuwe verkiezingen",
+          "De economie herstelt snel"
+        ],
+        correctAnswer: 1
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "De verkiezingen in Argentinië bepalen of president Milei zijn plannen kan uitvoeren.",
+        isTrue: true
+      },
+      {
+        statement: "President Milei krijgt steun van de VS, ongeacht de verkiezingsuitslag.",
+        isTrue: false
+      },
+      {
+        statement: "De economische problemen en schandalen verzwakken de positie van president Milei.",
+        isTrue: true
+      }
+    ]
+  },
+{
+    id: 21,
+    section: "Buitenland",
+    topic: "Buitenland",
+    level: "B2",
+    title: "Als het gaat om defensie, is Europa bereid eigen regels wat op te rekken",
+    topicNumber: 1,
+    article: {
+      title: "Als het gaat om defensie, is Europa bereid eigen regels wat op te rekken",
+      summary: "Europa haalt de hinderpalen voor defensie-investeringen één voor één weg. Op de Europese top stond behalve de Russische tegoeden ook het pad om een turbo te zetten op de militaire paraatheid centraal."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "defensie",
+          definition: "het geheel van middelen en mensen die een land beschermen tegen aanvallen van buitenaf",
+          sentence: "Het ministerie van ___ is verantwoordelijk voor de veiligheid van het land.",
+          answer: "defensie"
+        },
+        {
+          word: "Europa",
+          definition: "het werelddeel dat ten westen van Azië en ten noorden van Afrika ligt, en waaronder de Europese Unie valt",
+          sentence: "___ is een continent met veel verschillende culturen en talen.",
+          answer: "Europa"
+        },
+        {
+          word: "regels",
+          definition: "afspraken of voorschriften die zeggen hoe iets moet worden gedaan",
+          sentence: "Volgens de ___ van dit spel moet je eerst gooien met de dobbelsteen.",
+          answer: "regels"
+        },
+        {
+          word: "hinderpalen",
+          definition: "problemen of obstakels die iets moeilijk of onmogelijk maken",
+          sentence: "Er waren te veel ___ om het project op tijd af te ronden.",
+          answer: "hinderpalen"
+        },
+        {
+          word: "investeringen",
+          definition: "geld dat in een project of activiteit wordt gestopt om het te laten groeien of verbeteren",
+          sentence: "De ___ in nieuwe technologie bracht het bedrijf veel winst.",
+          answer: "investeringen"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "Er waren te veel ___ om het project op tijd af te ronden.",
+          answer: "hinderpalen"
+        },
+        {
+          sentence: "De ___ in nieuwe technologie bracht het bedrijf veel winst.",
+          answer: "investeringen"
+        },
+        {
+          sentence: "Het ministerie van ___ is verantwoordelijk voor de veiligheid van het land.",
+          answer: "defensie"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Wat betekent 'defensie' in deze context?",
+        options: [
+          "sport",
+          "bescherming",
+          "aanval",
+          "onderhandeling"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is een 'hindernis'?",
+        options: [
+          "een soort voedsel",
+          "een obstakel",
+          "een feestdag",
+          "een snelweg"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Waar staat 'Europa' voor in deze tekst?",
+        options: [
+          "een planeet",
+          "een automerk",
+          "een continent",
+          "een rivier"
+        ],
+        correctAnswer: 2
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "Europa wil meer investeren in defensie.",
+        isTrue: true
+      },
+      {
+        statement: "Nederland heeft de meeste hinderpalen voor defensie.",
+        isTrue: false
+      },
+      {
+        statement: "De Europese top besprak alleen Russische tegoeden.",
+        isTrue: false
+      }
+    ]
+  },
+{
+    id: 22,
+    section: "Binnenland",
+    topic: "Binnenland",
+    level: "B2",
+    title: "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
+    topicNumber: 1,
+    article: {
+      title: "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
+      summary: "De strijd tegen Russische corruptie leidt zelfs tot in het Vlinderpaleis. Op het spel staat een eerbetoon aan Sergej Magnitski en een Antwerps appartement waarvan wordt aangenomen dat het aangekocht is met geld van de beruchte fraudezaak."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "strijd",
+          definition: "Een conflict of gevecht tussen groepen mensen",
+          sentence: "De politieke ___ in dat land duurt al jaren.",
+          answer: "strijd"
+        },
+        {
+          word: "corruptie",
+          definition: "Het misbruik van macht voor persoonlijk gewin",
+          sentence: "Er is veel ___ in de regering van dat land.",
+          answer: "corruptie"
+        },
+        {
+          word: "aangenomen",
+          definition: "Wordt verondersteld of verondersteld",
+          sentence: "Het wordt ___ dat het gebouw in de 18e eeuw is gebouwd.",
+          answer: "aangenomen"
+        },
+        {
+          word: "fraudezaak",
+          definition: "Een strafrechtelijk onderzoek naar oplichting of bedrog",
+          sentence: "Hij is verdacht van betrokkenheid bij een grote ___.",
+          answer: "fraudezaak"
+        },
+        {
+          word: "aangekocht",
+          definition: "Gekocht, verleden tijd van aankopen",
+          sentence: "Het schilderij werd ___ op een veiling.",
+          answer: "aangekocht"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "Het schilderij werd ___ op een veiling.",
+          answer: "aangekocht"
+        },
+        {
+          sentence: "Hij is verdacht van betrokkenheid bij een grote ___.",
+          answer: "fraudezaak"
+        },
+        {
+          sentence: "De politieke ___ in dat land duurt al jaren.",
+          answer: "strijd"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Waarom is het appartement in Antwerpen belangrijk?",
+        options: [
+          "Het is een geschenk aan Sergej Magnitski.",
+          "Het is gekocht met geld uit een fraudezaak.",
+          "Het is een toeristische attractie.",
+          "Het is een monument voor de stad Antwerpen."
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is het Vlinderpaleis?",
+        options: [
+          "Een gebouw in Antwerpen",
+          "Een schilderij in een museum",
+          "Een metafoor voor fragiliteit",
+          "Een type gebouw in Rusland"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Wat is de rol van Sergej Magnitski in deze context?",
+        options: [
+          "Hij is de eigenaar van het appartement.",
+          "Hij is een slachtoffer van corruptie.",
+          "Hij is een politicus die tegen corruptie vecht.",
+          "Hij is een kunstenaar die over corruptie schildert."
+        ],
+        correctAnswer: 1
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "Het appartement in Antwerpen is aangekocht met geld uit de fraudezaak.",
+        isTrue: true
+      },
+      {
+        statement: "Sergej Magnitski is de eigenaar van het Vlinderpaleis.",
+        isTrue: false
+      },
+      {
+        statement: "De strijd tegen corruptie is alleen gericht op Russische officials.",
+        isTrue: false
+      }
+    ]
+  },
+{
+    id: 23,
+    section: "Binnenland",
+    topic: "Binnenland",
+    level: "B2",
+    title: "De kerk in België: achteruitgang maar ook hoop",
+    topicNumber: 1,
+    article: {
+      title: "De kerk in België: achteruitgang maar ook hoop",
+      summary: "Het aantal kerkelijke huwelijken en uitvaarten is sterk gedaald, en ook het aantal kerkgangers is verminderd. Toch ziet godsdienstleraar Bart Willemen tekenen van hoop: jongeren zoeken naar zingeving en godsdienst wordt weer een optie."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "kerk",
+          definition: "een gebouw waar mensen samenkomen voor religieuze diensten",
+          sentence: "De ___ is een plek waar mensen samenkomen om te bidden.",
+          answer: "kerk"
+        },
+        {
+          word: "huwelijk",
+          definition: "een ceremonie waarbij twee mensen met elkaar trouwen",
+          sentence: "Het ___ is een feestelijke gebeurtenis waar families samenkomen.",
+          answer: "huwelijk"
+        },
+        {
+          word: "uitvaart",
+          definition: "een ceremonie waarbij een overleden persoon wordt herdacht",
+          sentence: "Tijdens een ___ komen mensen samen om afscheid te nemen.",
+          answer: "uitvaart"
+        },
+        {
+          word: "zingeving",
+          definition: "de zoektocht naar betekenis en doel in het leven",
+          sentence: "Veel mensen zoeken naar ___ in hun leven om gelukkig te zijn.",
+          answer: "zingeving"
+        },
+        {
+          word: "God",
+          definition: "in veel religies, het hoogste wezen dat wordt aanbeden",
+          sentence: "Sommige mensen bidden tot ___ voor steun en guidance.",
+          answer: "God"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "Tijdens een ___ komen mensen samen om afscheid te nemen.",
+          answer: "uitvaart"
+        },
+        {
+          sentence: "Veel mensen zoeken naar ___ in hun leven om gelukkig te zijn.",
+          answer: "zingeving"
+        },
+        {
+          sentence: "Sommige mensen bidden tot ___ voor steun en guidance.",
+          answer: "God"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Waarom is het aantal kerkelijke huwelijken gedaald?",
+        options: [
+          "Mensen geloven niet langer in God",
+          "Mensen geven de voorkeur aan een burgerlijk huwelijk",
+          "Kerken zijn gesloten wegens onderhoud",
+          "De pandemie heeft ceremonies beperkt"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is een teken van hoop volgens Bart Willemen?",
+        options: [
+          "Kerken worden voller tijdens feestdagen",
+          "Jongeren zoeken actief naar zingeving",
+          "Meer mensen bezoeken wekelijks de mis",
+          "Religieuze boeken worden meer verkocht"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is een 'uitvaart'?",
+        options: [
+          "Een huwelijksceremonie in de kerk",
+          "Een herdenking voor iemand die overleden is",
+          "Een feest voor een nieuwe baby",
+          "Een religieuze feestdag"
+        ],
+        correctAnswer: 1
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "Het aantal kerkelijke huwelijken is gestegen in België.",
+        isTrue: false
+      },
+      {
+        statement: "Bart Willemen ziet dat jongeren meer interesse tonen in godsdienst.",
+        isTrue: true
+      },
+      {
+        statement: "Alle kerken in België zijn gesloten vanwege achteruitgang.",
+        isTrue: false
+      }
+    ]
+  },
+{
+    id: 24,
+    section: "Binnenland",
+    topic: "Binnenland",
+    level: "B2",
+    title: "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
+    topicNumber: 1,
+    article: {
+      title: "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
+      summary: "De PFAS-waarden in het bloed bij sommige Ronsenaars blijken vier tot acht keer hoger te liggen dan de Europese veiligheidsnorm. “Dit afdoen als te complex en niet zo gevaarlijk is onethisch”, zegt de Deense expert Philippe Grandjean."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "bloed",
+          definition: "De rode vloeistof in je lichaam die zuurstof vervoert.",
+          sentence: "Het onderzoek richtte zich op de concentraties in het ___.",
+          answer: "bloed"
+        },
+        {
+          word: "expert",
+          definition: "Iemand die veel kennis heeft over een bepaald onderwerp.",
+          sentence: "De ___ uit Denemarken gaf uitleg over de risico's.",
+          answer: "expert"
+        },
+        {
+          word: "effect",
+          definition: "Het resultaat of gevolg van een actie of gebeurtenis.",
+          sentence: "De stoffen kunnen een negatief ___ hebben op de gezondheid.",
+          answer: "effect"
+        },
+        {
+          word: "ethisch",
+          definition: "Ethisch, moreel juist of verantwoord.",
+          sentence: "Het is niet ___ om gevaarlijke situaties te negeren.",
+          answer: "ethisch"
+        },
+        {
+          word: "onderzoek",
+          definition: "Een studie of onderzoek om iets te leren of te bewijzen.",
+          sentence: "Het ___ toont aan dat de waarden te hoog zijn.",
+          answer: "onderzoek"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "Het is niet ___ om gevaarlijke situaties te negeren.",
+          answer: "ethisch"
+        },
+        {
+          sentence: "De stoffen kunnen een negatief ___ hebben op de gezondheid.",
+          answer: "effect"
+        },
+        {
+          sentence: "Het onderzoek richtte zich op de concentraties in het ___.",
+          answer: "bloed"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Waarom worden de PFAS-waarden in Ronse onderzocht?",
+        options: [
+          "Omdat er te veel PFAS in het bloed zit",
+          "Omdat de stad erom vraagt",
+          "Omdat de normen in Europa veranderd zijn",
+          "Omdat er geen probleem is"
+        ],
+        correctAnswer: 0
+      },
+      {
+        question: "Wat is de rol van Philippe Grandjean in dit artikel?",
+        options: [
+          "Hij is een getroffen inwoner van Ronse",
+          "Hij is de Deense expert die commentaar geeft",
+          "Hij is de Belgische milieuminister",
+          "Hij is de arts die de testen uitvoerde"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is de kern van de boodschap volgens het artikel?",
+        options: [
+          "PFAS zijn onschadelijk en de situatie is complex",
+          "De situatie is complex, maar het is onethisch om het gevaar te negeren",
+          "Ethische kwesties zijn niet belangrijk bij milieuproblemen",
+          "Ronse heeft de hoogste PFAS-waarden ter wereld"
+        ],
+        correctAnswer: 1
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "De PFAS-waarden in Ronse zijn lager dan de Europese norm.",
+        isTrue: false
+      },
+      {
+        statement: "Philippe Grandjean is de Deense expert die commentaar geeft.",
+        isTrue: true
+      },
+      {
+        statement: "Het artikel stelt dat de situatie in Ronse niet problematisch is.",
         isTrue: false
       }
     ]

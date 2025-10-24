@@ -1,106 +1,106 @@
 {
-  "id": 5,
+  "id": 9,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Hamas wil weer de baas zijn in Gaza, maar Israël laat dat niet toe",
+  "title": "Argentijnse verkiezingen bepalen toekomst president Milei",
   "topicNumber": 1,
   "article": {
-    "title": "Hamas wil weer de baas zijn in Gaza, maar Israël laat dat niet toe",
-    "summary": "Hamas wil weer de macht in Gaza, maar Israël probeert dat te voorkomen. Met hulp van een onduidelijk vredesplan van Donald Trump probeert Hamas zijn oude positie terug te krijgen. Israël kan voorlopig alleen toekijken hoe het milities, bendes en critici met geweld wegduwt."
+    "title": "Argentijnse verkiezingen bepalen toekomst president Milei",
+    "summary": "Argentinië houdt de adem in. Van de parlementsverkiezingen zondag hangt af of de excentrieke president Javier Milei zijn ultraliberale hervormingen een nieuwe impuls kan geven, met steun van de VS. Maar de slabakkende economie en tal van schandalen doen de president tanen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "baas",
-        "definition": "iemand die de leiding heeft",
-        "sentence": "De ___ bepaalt wat er gebeurt.",
-        "answer": "baas"
+        "word": "president",
+        "definition": "De leider van een land",
+        "sentence": "De ___ van Argentinië heet Javier Milei.",
+        "answer": "president"
       },
       {
-        "word": "macht",
-        "definition": "kracht om iets te doen of te bepalen",
-        "sentence": "Hij heeft veel ___ in deze organisatie.",
-        "answer": "macht"
+        "word": "verkiezingen",
+        "definition": "Het kiezen van nieuwe leiders door te stemmen",
+        "sentence": "Op zondag zijn er ___ in Argentinië.",
+        "answer": "verkiezingen"
       },
       {
-        "word": "milities",
-        "definition": "groepen gewapende mensen, vaak niet officieel",
-        "sentence": "De ___ vochten tegen het leger.",
-        "answer": "milities"
+        "word": "regering",
+        "definition": "De groep mensen die een land bestuurt",
+        "sentence": "De ___ van Argentinië heeft veel problemen.",
+        "answer": "regering"
       },
       {
-        "word": "bendes",
-        "definition": "groepen criminelen die samenwerken",
-        "sentence": "De ___ overvallen winkels en huizen.",
-        "answer": "bendes"
+        "word": "steun",
+        "definition": "Hulp of ondersteuning",
+        "sentence": "De president krijgt internationale ___ voor zijn plannen.",
+        "answer": "steun"
       },
       {
-        "word": "vredesplan",
-        "definition": "een plan om vrede te bereiken, vaak door onderhandeling",
-        "sentence": "Het ___ werd ondertekend door beide partijen.",
-        "answer": "vredesplan"
+        "word": "scandalen",
+        "definition": "Slechte gebeurtenissen waarbij regels worden gebroken",
+        "sentence": "Er zijn veel ___ die de regering beschadigen.",
+        "answer": "scandalen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ vochten tegen het leger.",
-        "answer": "milities"
+        "sentence": "Er zijn veel ___ die de regering beschadigen.",
+        "answer": "scandalen"
       },
       {
-        "sentence": "Het ___ werd ondertekend door beide partijen.",
-        "answer": "vredesplan"
+        "sentence": "Op zondag zijn er ___ in Argentinië.",
+        "answer": "verkiezingen"
       },
       {
-        "sentence": "De ___ bepaalt wat er gebeurt.",
-        "answer": "baas"
+        "sentence": "De ___ van Argentinië heet Javier Milei.",
+        "answer": "president"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat wil Hamas opnieuw doen in Gaza?",
+      "question": "Waarom zijn de verkiezingen in Argentinië belangrijk?",
       "options": [
-        "De baas zijn",
-        "Niets doen",
-        "Samenzweren met Israël",
-        "Vrede sluiten"
+        "Ze bepalen of president Milei meer macht krijgt voor zijn plannen.",
+        "Ze zijn alleen voor lokale bestuurders, niet voor de president.",
+        "Ze gaan alleen over economische kwesties, niet over politiek.",
+        "Ze zijn vooral symbolisch en hebben weinig echte impact."
       ],
       "correctAnswer": 0
     },
     {
-      "question": "Hoe reageert Israël op de acties van Hamas?",
+      "question": "Wat is een gevolg van de economische problemen in Argentinië?",
       "options": [
-        "Het doet niets en kijkt toe",
-        "Het valt aan met milities",
-        "Het ondersteunt Hamas",
-        "Het accepteert het vredesplan"
+        "President Milei verliest populariteit en steun.",
+        "De economie verbetert snel en iedereen is gelukkig.",
+        "De Verenigde Naties sturen hulp om de economie te stabiliseren.",
+        "President Milei wordt nog populairder door zijn aanpak van de crisis."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
-      "question": "Wat is een gevolg van het vredesplan?",
+      "question": "Hoe reageert de internationale gemeenschap op president Milei's beleid?",
       "options": [
-        "Hamas wordt sterker",
-        "Israël valt aan",
-        "Israël wordt zwakker",
-        "Gaza wordt onafhankelijk"
+        "Landen zoals de VS geven hem steun voor zijn hervormingen.",
+        "Alle landen keuren zijn beleid af en stoppen met handel.",
+        "De VN stuurt troepen om de regering over te nemen.",
+        "Geen enkel land bemoeit zich met Argentinië's binnenlandse politiek."
       ],
       "correctAnswer": 0
     }
   ],
   "trueFalse": [
     {
-      "statement": "Hamas probeert opnieuw de macht in Gaza te grijpen.",
+      "statement": "President Milei van Argentinië geniet nog brede steun van de bevolking.",
+      "isTrue": false
+    },
+    {
+      "statement": "De verkiezingen van zondag kunnen de positie van president Milei versterken.",
       "isTrue": true
     },
     {
-      "statement": "Israël steunt Hamas in deze poging.",
-      "isTrue": false
-    },
-    {
-      "statement": "Het vredesplan van Donald Trump is erg duidelijk voor beide partijen.",
-      "isTrue": false
+      "statement": "Scandalen en economische problemen hebben de positie van Milei verzwakt.",
+      "isTrue": true
     }
   ]
 }

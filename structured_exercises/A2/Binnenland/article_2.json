@@ -1,106 +1,106 @@
 {
-  "id": 14,
+  "id": 22,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Ronsenaars maken zich zorgen over PFAS in bloed",
+  "title": "De kerk verandert in België",
   "topicNumber": 1,
   "article": {
-    "title": "Ronsenaars maken zich zorgen over PFAS in bloed",
-    "summary": "Steeds meer mensen in Ronse laten hun bloed testen op PFAS en krijgen hoge waarden. Het stadsbestuur wil een groot bloedonderzoek doen. Ondertussen spelen kinderen op grond met PFAS."
+    "title": "De kerk verandert in België",
+    "summary": "Steeds minder mensen huwen in de kerk of kiezen voor een kerkelijke uitvaart. Het aantal kerkgangers is ook gedaald. Toch ziet een godsdienstleraar tekenen van hoop: jongeren zijn op zoek naar zingeving en zien godsdienst als een optie."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "bloed",
-        "definition": "de rode vloeistof die door je lichaam stroomt",
-        "sentence": "De dokter onderzoekt het ___ van de patiënt.",
-        "answer": "bloed"
+        "word": "kerk",
+        "definition": "een gebouw waar mensen samenkomen voor religieuze diensten",
+        "sentence": "De ___ is open op zondag voor de mis.",
+        "answer": "kerk"
       },
       {
-        "word": "testen",
-        "definition": "controleren of iets goed of slecht is",
-        "sentence": "De arts wil het bloed ___ op PFAS.",
-        "answer": "testen"
+        "word": "huwen",
+        "definition": "trouwen, een huwelijk aangaan",
+        "sentence": "Ze ___ in de kerk met hun familie en vrienden.",
+        "answer": "huwen"
       },
       {
-        "word": "hoge",
-        "definition": "veel of sterk, niet laag",
-        "sentence": "De temperatuur was erg ___ in de zomer.",
-        "answer": "hoge"
+        "word": "uitvaart",
+        "definition": "een ceremonie of dienst na iemands overlijden, vaak in een kerk",
+        "sentence": "De ___ werd gehouden in de parochiekerk.",
+        "answer": "uitvaart"
       },
       {
-        "word": "bestuur",
-        "definition": "de groep mensen die de leiding heeft",
-        "sentence": "Het ___ van de stad moet een beslissing nemen.",
-        "answer": "bestuur"
+        "word": "leraar",
+        "definition": "iemand die lesgeeft, bijvoorbeeld op school",
+        "sentence": "De godsdienst___ helpt studenten bij het leren over religie.",
+        "answer": "leraar"
       },
       {
-        "word": "spelen",
-        "definition": "leuke dingen doen voor plezier",
-        "sentence": "Kinderen willen graag buiten ___ in de tuin.",
-        "answer": "spelen"
+        "word": "optie",
+        "definition": "een keuze of mogelijkheid",
+        "sentence": "Voor veel jongeren is geloof een serieuze ___ in hun leven.",
+        "answer": "optie"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Kinderen willen graag buiten ___ in de tuin.",
-        "answer": "spelen"
+        "sentence": "De ___ is open op zondag voor de mis.",
+        "answer": "kerk"
       },
       {
-        "sentence": "De dokter onderzoekt het ___ van de patiënt.",
-        "answer": "bloed"
+        "sentence": "De godsdienst___ helpt studenten bij het leren over religie.",
+        "answer": "leraar"
       },
       {
-        "sentence": "Het ___ van de stad moet een beslissing nemen.",
-        "answer": "bestuur"
+        "sentence": "De ___ werd gehouden in de parochiekerk.",
+        "answer": "uitvaart"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat het artikel over?",
+      "question": "Waar gaat dit artikel vooral over?",
       "options": [
-        "Het weer in België",
-        "De gezondheid van mensen in Ronse",
-        "De nieuwe speeltuin in Ronse",
-        "De prijs van brood"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat wil het stadsbestuur doen?",
-      "options": [
-        "Niets",
-        "Meer bomen planten",
-        "Een groot bloedonderzoek houden",
-        "Meer speeltuinen bouwen"
+        "Koken met champignons",
+        "De klimaatverandering in België",
+        "Veranderingen in de kerk in België",
+        "Hoe je een tuin kunt onderhouden"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar zijn de kinderen aan het spelen?",
+      "question": "Wat is een 'uitvaart'?",
       "options": [
-        "Op verontreinigde grond",
-        "In een museum",
-        "Op school",
-        "Thuis"
+        "Een feestmaal",
+        "Een sportwedstrijd",
+        "Een herdenking na een overlijden",
+        "Een soort feestmuziek"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Waarom noemt de auteur 'leraar'?",
+      "options": [
+        "Omdat de persoon lesgeeft over God",
+        "Omdat het een bijnaam is",
+        "Omdat hij studenten helpt met hun huiswerk",
+        "Omdat hij een sportcoach is"
       ],
       "correctAnswer": 0
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het bloed van de mensen in Ronse is getest en is veilig.",
+      "statement": "De kerk in België wordt steeds populairder.",
       "isTrue": false
     },
     {
-      "statement": "Het stadsbestuur van Ronse wil een groot bloedonderzoek doen.",
+      "statement": "Jongeren zijn helemaal niet geïnteresseerd in godsdienst.",
+      "isTrue": false
+    },
+    {
+      "statement": "Een leraar kan lesgeven over godsdienst.",
       "isTrue": true
-    },
-    {
-      "statement": "Kinderen spelen op schone grond zonder PFAS.",
-      "isTrue": false
     }
   ]
 }

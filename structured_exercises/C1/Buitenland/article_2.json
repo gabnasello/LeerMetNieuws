@@ -1,105 +1,105 @@
 {
-  "id": 8,
+  "id": 12,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Hamas probeert in Gaza het laken naar zich toe te trekken, met dank aan een vaag vredesbestand",
+  "title": "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
   "topicNumber": 1,
   "article": {
-    "title": "Hamas probeert in Gaza het laken naar zich toe te trekken, met dank aan een vaag vredesbestand",
-    "summary": "Geholpen door de vaagheid in het bestand dat Donald Trump opgelegd heeft, probeert Hamas zijn oude machtspositie te herwinnen. Israël kan voorlopig alleen toekijken hoe het milities, bendes en critici gewelddadig wegduwt."
+    "title": "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
+    "summary": "Argentinië houdt de adem in. Van de parlementsverkiezingen zondag hangt af of de excentrieke president Javier Milei zijn ultraliberale hervormingen een nieuwe impuls kan geven, met steun van de VS. Maar de slabakkende economie en tal van schandalen doen de president ster tanen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "vaag",
-        "definition": "niet duidelijk of precies",
-        "sentence": "De instructies waren erg ___, wat tot verwarring leidde.",
-        "answer": "vaag"
+        "word": "verkiezingen",
+        "definition": "Een proces waarbij mensen stemmen om hun vertegenwoordigers of leiders te kiezen.",
+        "sentence": "De uitslag van de verkiezingen zal de politieke koers van het land bepalen.",
+        "answer": "verkiezingen"
       },
       {
-        "word": "bestand",
-        "definition": "een bestand of verzameling van informatie",
-        "sentence": "Hij bewaarde het belangrijke ___ op zijn computer voor later gebruik.",
-        "answer": "bestand"
+        "word": "economie",
+        "definition": "Het systeem van geld, handel en industrie van een land of regio.",
+        "sentence": "De economie van het land is aan het krimpen door de hoge inflatie.",
+        "answer": "economie"
       },
       {
-        "word": "milities",
-        "definition": "milities, gewapende groepen van burgers",
-        "sentence": "De ___ namen de controle over de stad over na hevige gevechten.",
-        "answer": "milities"
+        "word": "president",
+        "definition": "Het staatshoofd van een republiek, verantwoordelijk voor het uitvoeren van wetten en het leiden van de regering.",
+        "sentence": "De president hield een toespraak over de nieuwe beleidsmaatregelen.",
+        "answer": "president"
       },
       {
-        "word": "bendes",
-        "definition": "criminele groepen of bendes",
-        "sentence": "De politie arresteerde verschillende ___ die betrokken waren bij de illegale handel.",
-        "answer": "bendes"
+        "word": "parlementsverkiezingen",
+        "definition": "Verkiezingen waarbij de leden van het parlement worden gekozen, die wetten maken en de regering controleren.",
+        "sentence": "De uitslag van de parlementsverkiezingen zal de machtsverhouding in het congres bepalen.",
+        "answer": "parlementsverkiezingen"
       },
       {
-        "word": "wegduwt",
-        "definition": "duwen of verwijderen, vaak met kracht",
-        "sentence": "Hij probeerde de indringer te ___ van zijn eigendom.",
-        "answer": "wegduwt"
+        "word": "scandale",
+        "definition": "Een schandaal; een gebeurtenis of situatie die schokkend of schadelijk is voor de betrokkenen.",
+        "sentence": "Het recente schandaal rond de minister heeft de regering in verlegenheid gebracht.",
+        "answer": "scandale"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij probeerde de indringer te ___ van zijn eigendom.",
-        "answer": "wegduwt"
+        "sentence": "De economie van het land is aan het krimpen door de hoge inflatie.",
+        "answer": "economie"
       },
       {
-        "sentence": "De politie arresteerde verschillende ___ die betrokken waren bij de illegale handel.",
-        "answer": "bendes"
+        "sentence": "De uitslag van de verkiezingen zal de politieke koers van het land bepalen.",
+        "answer": "verkiezingen"
       },
       {
-        "sentence": "De ___ namen de controle over de stad over na hevige gevechten.",
-        "answer": "milities"
+        "sentence": "De uitslag van de parlementsverkiezingen zal de machtsverhouding in het congres bepalen.",
+        "answer": "parlementsverkiezingen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom is Hamas in het voordeel door het vredesbestand?",
+      "question": "Wat is de belangrijkste reden voor het belang van de verkiezingen in Argentinië?",
       "options": [
-        "Omdat het bestand specifiek is",
-        "Omdat het bestand vaag is en ruimte biedt",
-        "Omdat Israël het bestand steunt",
-        "Omdat het bestand niet bestaat"
+        "Om de president te kiezen",
+        "Om de economische situatie te verbeteren",
+        "Om de politieke macht van Milei en zijn partij te bepalen",
+        "Om internationale steun te verkrijgen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is een gevolg van de situatie voor Israël?",
+      "question": "Welk effect heeft de economische situatie op de populariteit van Milei?",
       "options": [
-        "Israël kan direct ingrijpen",
-        "Israël kan alleen toekijken",
-        "Israël verliest grondgebied",
-        "Israël wordt gesteund door de VN"
+        "Het versterkt zijn positie",
+        "Het heeft geen effect",
+        "Het verzwakt zijn positie",
+        "Het maakt de bevolking rijker"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe reageert Hamas op de situatie?",
+      "question": "Wat is een gevolg van de schandalen in de regering-Milei?",
       "options": [
-        "Het accepteert de situatie",
-        "Het probeert de controle terug te winnen",
-        "Het valt andere landen aan",
-        "Het negeert de situatie volledig"
+        "Meer internationale steun",
+        "Verminderde geloofwaardigheid van de regering",
+        "Vroegtijdige verkiezingen",
+        "Versterking van de economie"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het vredesbestand is opgelegd door Donald Trump.",
-      "isTrue": true
-    },
-    {
-      "statement": "Hamas heeft als enige doel om Israël te vernietigen.",
+      "statement": "De verkiezingen in Argentinië bepalen alleen de president.",
       "isTrue": false
     },
     {
-      "statement": "Israël kan op dit moment alleen toekijken.",
+      "statement": "De economische situatie heeft invloed op de populariteit van de regering.",
+      "isTrue": true
+    },
+    {
+      "statement": "Internationale steun is voor Milei een belangrijk thema in deze context.",
       "isTrue": true
     }
   ]

@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Witte Huis krijgt nieuwe vleugel",
+  "title": "Man klaagt politie Washington D.C. aan na arrestatie bij protest met muziek van Star Wars",
   "topicNumber": 1,
   "article": {
-    "title": "Witte Huis krijgt nieuwe vleugel",
-    "summary": "In het Witte Huis wordt een deel gesloopt. Er komt een nieuwe vleugel bij. Dat heeft de Amerikaanse president gezegd. De nieuwe vleugel wordt een grote zaal voor feesten en bijeenkomsten."
+    "title": "Man klaagt politie Washington D.C. aan na arrestatie bij protest met muziek van Star Wars",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Witte",
-        "definition": "helder of schoon, maar hier onderdeel van de naam 'Witte Huis'",
-        "sentence": "Het ___ Huis is de werkplek van de president.",
-        "answer": "Witte"
+        "word": "politie",
+        "definition": "De mensen die de wet handhaven en voor veiligheid zorgen.",
+        "sentence": "De ___ kwam snel naar het protest.",
+        "answer": "politie"
       },
       {
-        "word": "Huis",
-        "definition": "een gebouw waar mensen in wonen",
-        "sentence": "Het Witte ___ is de woning van de president.",
-        "answer": "Huis"
+        "word": "aan",
+        "definition": "Het voorzetsel dat richting of doel aangeeft.",
+        "sentence": "Hij schreef een brief ___ de directeur.",
+        "answer": "aan"
       },
       {
-        "word": "gesloopt",
-        "definition": "afgebroken, kapot gemaakt",
-        "sentence": "Het oude gebouw werd ___ om plaats te maken voor iets nieuws.",
-        "answer": "gesloopt"
+        "word": "klaagt",
+        "definition": "Iets aanklagen of een klacht indienen.",
+        "sentence": "Hij ___ de politie aan vanwege onterechte arrestatie.",
+        "answer": "klaagt"
       },
       {
-        "word": "vleugel",
-        "definition": "een deel van een gebouw",
-        "sentence": "De nieuwe ___ zal gebruikt worden voor grote bijeenkomsten.",
-        "answer": "vleugel"
+        "word": "na",
+        "definition": "Na een bepaalde tijd of gebeurtenis.",
+        "sentence": "___ de vakantie begon het nieuwe schooljaar.",
+        "answer": "Na"
       },
       {
-        "word": "gezegd",
-        "definition": "uitgesproken, vermeld",
-        "sentence": "De president heeft dit zelf ___ tijdens een persconferentie.",
-        "answer": "gezegd"
+        "word": "muziek",
+        "definition": "Klanken en tonen die samen muziek vormen.",
+        "sentence": "De ___ maakte iedereen vrolijk.",
+        "answer": "muziek"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De president heeft dit zelf ___ tijdens een persconferentie.",
-        "answer": "gezegd"
+        "sentence": "De ___ kwam snel naar het protest.",
+        "answer": "politie"
       },
       {
-        "sentence": "Het Witte ___ is de woning van de president.",
-        "answer": "Huis"
+        "sentence": "Hij ___ de politie aan vanwege onterechte arrestatie.",
+        "answer": "klaagt"
       },
       {
-        "sentence": "Het oude gebouw werd ___ om plaats te maken voor iets nieuws.",
-        "answer": "gesloopt"
+        "sentence": "De ___ maakte iedereen vrolijk.",
+        "answer": "muziek"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat wordt er gebouwd in het Witte Huis?",
+      "question": "Waar gaat de tekst over?",
       "options": [
-        "Een nieuwe keuken",
-        "Een nieuwe slaapkamer",
-        "Een nieuwe vleugel",
-        "Een nieuwe garage"
+        "Een protest tegen politie",
+        "Een nieuwe film",
+        "Een man die klaagt",
+        "Een muziekstuk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Wat is de rol van de politie in de tekst?",
+      "options": [
+        "Ze zijn degenen die worden aangeklaagd",
+        "Ze spelen een instrument",
+        "Ze arresteren iemand",
+        "Ze dansen op de muziek"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Wat voor soort muziek wordt genoemd?",
+      "options": [
+        "Rockmuziek",
+        "Jazzmuziek",
+        "Muziek van Star Wars",
+        "Klassieke muziek"
       ],
       "correctAnswer": 2
-    },
-    {
-      "question": "Waarom wordt de oude vleugel gesloopt?",
-      "options": [
-        "Omdat het te oud is",
-        "Omdat de president meer ruimte wil",
-        "Omdat er brand was geweest",
-        "Omdat er een nieuw model is"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wie heeft dit nieuws bekendgemaakt?",
-      "options": [
-        "De koning van Engeland",
-        "De president van Amerika",
-        "De burgemeester van Washington",
-        "De eerste dame"
-      ],
-      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De oostvleugel van het Witte Huis wordt gesloopt.",
+      "statement": "De man klaagt de politie aan omdat hij werd gearresteerd.",
       "isTrue": true
     },
     {
-      "statement": "De nieuwe vleugel wordt een kleine studeerkamer.",
-      "isTrue": false
+      "statement": "De muziek van Star Wars werd gespeeld tijdens het protest.",
+      "isTrue": true
     },
     {
-      "statement": "President Trump heeft dit nieuws zelf verteld.",
+      "statement": "Donald Trump wordt genoemd in de tekst.",
       "isTrue": true
     }
   ]

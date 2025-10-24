@@ -1,0 +1,106 @@
+{
+  "id": 5,
+  "section": "Buitenland",
+  "topic": "Buitenland",
+  "level": "B1",
+  "title": "Als het om defensie gaat, is Europa bereid eigen regels aan te passen",
+  "topicNumber": 1,
+  "article": {
+    "title": "Als het om defensie gaat, is Europa bereid eigen regels aan te passen",
+    "summary": "Europa maakt het makkelijker om te investeren in defensie. Tijdens een Europese top stond het verbeteren van de militaire paraatheid centraal."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "gaat",
+        "definition": "betekent 'doet' of 'is bezig met' in deze context",
+        "sentence": "Hij ___ van start tot finish zonder te stoppen.",
+        "answer": "gaat"
+      },
+      {
+        "word": "regels",
+        "definition": "afspraken of regels die gevolgd moeten worden",
+        "sentence": "In dit spel zijn er strikte ___ die gevolgd moeten worden.",
+        "answer": "regels"
+      },
+      {
+        "word": "Europa",
+        "definition": "het continent Europa, of de Europese Unie",
+        "sentence": "___ is een continent met veel verschillende landen en culturen.",
+        "answer": "Europa"
+      },
+      {
+        "word": "eigen",
+        "definition": "iets dat van jezelf is, persoonlijk",
+        "sentence": "Hij heeft zijn ___ kamer altijd netjes en schoon.",
+        "answer": "eigen"
+      },
+      {
+        "word": "aant",
+        "definition": "afkorting van 'aan het', gebruikt in informele taal",
+        "sentence": "Hij is aant werken aan zijn nieuwe project voor school.",
+        "answer": "aant"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "___ is een continent met veel verschillende landen en culturen.",
+        "answer": "Europa"
+      },
+      {
+        "sentence": "Hij heeft zijn ___ kamer altijd netjes en schoon.",
+        "answer": "eigen"
+      },
+      {
+        "sentence": "Hij ___ van start tot finish zonder te stoppen.",
+        "answer": "gaat"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat betekent 'Europa is bereid eigen regels aan te passen'?",
+      "options": [
+        "Europa wil nieuwe regels maken",
+        "Europa gaat zijn bestaande regels veranderen",
+        "Europa wil zijn eigen regels volgen",
+        "Europa wil geen regels meer hebben"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Waar gaat de tekst vooral over?",
+      "options": [
+        "Over een sportevenement",
+        "Over Europese politiek en defensie",
+        "Over een Europese vakantie",
+        "Over nieuwe Europese regels voor bedrijven"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Waarom wil Europa de regels aanpassen?",
+      "options": [
+        "Om sterker te worden in defensie",
+        "Om minder regels te hebben",
+        "Om andere landen te helpen",
+        "Om nieuwe technologie te ontwikkelen"
+      ],
+      "correctAnswer": 0
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Europa wil zijn defensie sterker maken door regels aan te passen.",
+      "isTrue": true
+    },
+    {
+      "statement": "De tekst zegt dat Europa geen regels meer wil hebben voor defensie.",
+      "isTrue": false
+    },
+    {
+      "statement": "Europa is van plan om de militaire paraatheid te verbeteren.",
+      "isTrue": true
+    }
+  ]
+}
