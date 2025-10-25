@@ -1,0 +1,106 @@
+{
+  "id": 8,
+  "section": "Buitenland",
+  "topic": "Buitenland",
+  "level": "A1",
+  "title": "Jared Kushner: Amerikaanse adviseur in het Midden-Oosten",
+  "topicNumber": 1,
+  "article": {
+    "title": "Jared Kushner: Amerikaanse adviseur in het Midden-Oosten",
+    "summary": "Jared Kushner is de schoonzoon van de Amerikaanse president Trump. Hij hielp met vredesgesprekken in het Midden-Oosten en gebruikte zijn zakelijke ervaring."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "Kushner",
+        "definition": "Een achternaam",
+        "sentence": "Jared ___ is de schoonzoon van Trump.",
+        "answer": "Kushner"
+      },
+      {
+        "word": "Midden-Oosten",
+        "definition": "Een gebied op de wereld met veel landen zoals Israël en Iran",
+        "sentence": "Het ___ is een gebied met veel verschillende culturen.",
+        "answer": "Midden-Oosten"
+      },
+      {
+        "word": "Jared",
+        "definition": "Een mannelijke voornaam",
+        "sentence": "___ Kushner is de schoonzoon van Trump.",
+        "answer": "Jared"
+      },
+      {
+        "word": "zakelijk",
+        "definition": "Iets wat met geld of bedrijven te maken heeft",
+        "sentence": "Hij heeft een ___ plan om geld te verdienen.",
+        "answer": "zakelijk"
+      },
+      {
+        "word": "Trump",
+        "definition": "De achternaam van de voormalige Amerikaanse president",
+        "sentence": "___ was de president van Amerika.",
+        "answer": "Trump"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "___ was de president van Amerika.",
+        "answer": "Trump"
+      },
+      {
+        "sentence": "Jared ___ is de schoonzoon van Trump.",
+        "answer": "Kushner"
+      },
+      {
+        "sentence": "Hij heeft een ___ plan om geld te verdienen.",
+        "answer": "zakelijk"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat is de rol van Jared Kushner in deze tekst?",
+      "options": [
+        "Hij is een kok",
+        "Hij is een leraar",
+        "Hij is een adviseur voor vrede",
+        "Hij is een sporter"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat betekent 'schoonzoon'?",
+      "options": [
+        "Een soort hond",
+        "De man van je dochter",
+        "Een soort auto",
+        "Een soort fruit"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Waar gaat de tekst over?",
+      "options": [
+        "Over koken",
+        "Over reizen",
+        "Over vredesgesprekken en een persoon",
+        "Over sporten"
+      ],
+      "correctAnswer": 3
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Jared Kushner is de schoonzoon van Trump.",
+      "isTrue": true
+    },
+    {
+      "statement": "Jared Kushner is een professionele voetballer.",
+      "isTrue": false
+    },
+    {
+      "statement": "Jared Kushner heeft ervaring met zakelijke zaken.",
+      "isTrue": true
+    }
+  ]
+}

@@ -3,104 +3,104 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
+  "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
   "topicNumber": 1,
   "article": {
-    "title": "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
-    "summary": "De PFAS-waarden in het bloed bij sommige Ronsenaars blijken vier tot acht keer hoger te liggen dan de Europese veiligheidsnorm. “Dit afdoen als te complex en niet zo gevaarlijk is onethisch”, zegt de Deense expert Philippe Grandjean."
+    "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
+    "summary": "Het Engels is oppermachtig aan de universiteit. Dat biedt kansen, maar het knelt en wringt ook. 'Zelfs op een congres over Franse vertaalwetenschap is de voertaal Engels.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "bloed",
-        "definition": "De rode vloeistof in je lichaam die zuurstof vervoert.",
-        "sentence": "Het onderzoek richtte zich op de concentraties in het ___.",
-        "answer": "bloed"
+        "word": "gestreden",
+        "definition": "Gevochten of hard gewerkt voor iets",
+        "sentence": "De soldaten hebben lang ___ voor hun vrijheid.",
+        "answer": "gestreden"
       },
       {
-        "word": "expert",
-        "definition": "Iemand die veel kennis heeft over een bepaald onderwerp.",
-        "sentence": "De ___ uit Denemarken gaf uitleg over de risico's.",
-        "answer": "expert"
+        "word": "kansen",
+        "definition": "Mogelijkheden of gunstige gelegenheden",
+        "sentence": "Hij heeft veel ___ op die baan.",
+        "answer": "kansen"
       },
       {
-        "word": "effect",
-        "definition": "Het resultaat of gevolg van een actie of gebeurtenis.",
-        "sentence": "De stoffen kunnen een negatief ___ hebben op de gezondheid.",
-        "answer": "effect"
+        "word": "oppermachtig",
+        "definition": "Zeer machtig of overheersend",
+        "sentence": "Het leger was ___ in de regio.",
+        "answer": "oppermachtig"
       },
       {
-        "word": "ethisch",
-        "definition": "Ethisch, moreel juist of verantwoord.",
-        "sentence": "Het is niet ___ om gevaarlijke situaties te negeren.",
-        "answer": "ethisch"
+        "word": "universiteit",
+        "definition": "Een instelling voor hoger onderwijs en onderzoek",
+        "sentence": "Hij studeert aan de ___ van Amsterdam.",
+        "answer": "universiteit"
       },
       {
-        "word": "onderzoek",
-        "definition": "Een studie of onderzoek om iets te leren of te bewijzen.",
-        "sentence": "Het ___ toont aan dat de waarden te hoog zijn.",
-        "answer": "onderzoek"
+        "word": "wringt",
+        "definition": "Zit niet lekker of schuurt",
+        "sentence": "Deze broek ___ aan mijn benen.",
+        "answer": "wringt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het is niet ___ om gevaarlijke situaties te negeren.",
-        "answer": "ethisch"
+        "sentence": "Het leger was ___ in de regio.",
+        "answer": "oppermachtig"
       },
       {
-        "sentence": "De stoffen kunnen een negatief ___ hebben op de gezondheid.",
-        "answer": "effect"
+        "sentence": "Deze broek ___ aan mijn benen.",
+        "answer": "wringt"
       },
       {
-        "sentence": "Het onderzoek richtte zich op de concentraties in het ___.",
-        "answer": "bloed"
+        "sentence": "De soldaten hebben lang ___ voor hun vrijheid.",
+        "answer": "gestreden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom worden de PFAS-waarden in Ronse onderzocht?",
+      "question": "Wat betekent 'verengelsing' in deze context?",
       "options": [
-        "Omdat er te veel PFAS in het bloed zit",
-        "Omdat de stad erom vraagt",
-        "Omdat de normen in Europa veranderd zijn",
-        "Omdat er geen probleem is"
+        "Vervanging van de Nederlandse taal",
+        "Overheersing van de Engelse taal",
+        "Een feestelijke gebeurtenis",
+        "Een type muziek"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van Philippe Grandjean in dit artikel?",
+      "question": "Waar verwijst 'knelt' naar in de tekst?",
       "options": [
-        "Hij is een getroffen inwoner van Ronse",
-        "Hij is de Deense expert die commentaar geeft",
-        "Hij is de Belgische milieuminister",
-        "Hij is de arts die de testen uitvoerde"
+        "Het is een synoniem voor 'past'",
+        "Het betekent dat iets te strak zit",
+        "Het is een type Nederlandse dans",
+        "Het is een plaatsnaam"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de kern van de boodschap volgens het artikel?",
+      "question": "Wat is het hoofdonderwerp van de artikel?",
       "options": [
-        "PFAS zijn onschadelijk en de situatie is complex",
-        "De situatie is complex, maar het is onethisch om het gevaar te negeren",
-        "Ethische kwesties zijn niet belangrijk bij milieuproblemen",
-        "Ronse heeft de hoogste PFAS-waarden ter wereld"
+        "De geschiedenis van Nederland",
+        "De opkomst van Engels in academische settings",
+        "Hoe je een congres organiseert",
+        "De voordelen van tweetaligheid"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De PFAS-waarden in Ronse zijn lager dan de Europese norm.",
+      "statement": "De auteur is tegen enige vorm van Engels gebruik.",
       "isTrue": false
     },
     {
-      "statement": "Philippe Grandjean is de Deense expert die commentaar geeft.",
+      "statement": "Het artikel suggereert dat verengelsing zowel kansen als problemen biedt.",
       "isTrue": true
     },
     {
-      "statement": "Het artikel stelt dat de situatie in Ronse niet problematisch is.",
-      "isTrue": false
+      "statement": "De titel impliceert dat mensen niet genoeg geven om het Nederlands te beschermen.",
+      "isTrue": true
     }
   ]
 }

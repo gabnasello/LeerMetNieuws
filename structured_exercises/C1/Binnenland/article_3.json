@@ -3,103 +3,103 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
+  "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
   "topicNumber": 1,
   "article": {
-    "title": "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
-    "summary": "De PFAS-waarden in het bloed bij sommige Ronsenaars blijken vier tot acht keer hoger te liggen dan de Europese veiligheidsnorm. “Dit afdoen als te complex en niet zo gevaarlijk is onethisch”, zegt de Deense expert Philippe Grandjean."
+    "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
+    "summary": "Het Engels is oppermachtig aan de universiteit. Dat biedt kansen, maar het knelt en wringt ook. “Zelfs op een congres over Franse vertaalwetenschap is de voertaal Engels.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Ronse",
-        "definition": "Een stad in België, vooral bekend omwille van de PFAS-contaminatie.",
-        "sentence": "De stad ___ ligt in Vlaanderen en heeft te maken met PFAS-vervuiling.",
-        "answer": "Ronse"
+        "word": "congres",
+        "definition": "Grote bijeenkomst of conferentie over een onderwerp",
+        "sentence": "Het internationale ___ trok veel bezoekers.",
+        "answer": "congres"
       },
       {
-        "word": "blijkt",
-        "definition": "Wordt duidelijk of komt aan het licht, vaak door onderzoek.",
-        "sentence": "Het ___ dat de PFAS-waarden veel hoger zijn dan gedacht.",
-        "answer": "blijkt"
+        "word": "knelt",
+        "definition": "Zit niet lekker, wringt of is moeilijk",
+        "sentence": "Het besluit ___ nog steeds.",
+        "answer": "knelt"
       },
       {
-        "word": "afdoen",
-        "definition": "Iets als onbelangrijk of niet serieus beschouwen.",
-        "sentence": "Het is niet correct om PFAS-vervuiling simpelweg ___ als een klein probleem.",
-        "answer": "afdoen"
+        "word": "gestreden",
+        "definition": "Gevochten of hard gewerkt voor iets",
+        "sentence": "De activisten hebben jarenlang ___ voor dierenrechten.",
+        "answer": "gestreden"
       },
       {
-        "word": "onethisch",
-        "definition": "Niet in overeenstemming met morele principes of professionele ethiek.",
-        "sentence": "Het is ___ om gevaarlijke situaties te negeren wanneer mensen in gevaar zijn.",
-        "answer": "onethisch"
+        "word": "kansen",
+        "definition": "Gunstige mogelijkheden of gelegenheden",
+        "sentence": "Hij zag de nieuwe baan als grote ___.",
+        "answer": "kansen"
       },
       {
-        "word": "expert",
-        "definition": "Iemand met gespecialiseerde kennis of ervaring in een bepaald gebied.",
-        "sentence": "De Deense ___ heeft uitgebreid onderzoek gedaan naar PFAS.",
-        "answer": "expert"
+        "word": "verengelsing",
+        "definition": "Het overnemen van de Engelse taal in plaats van de eigen taal",
+        "sentence": "De ___ van het onderwijs zorgt voor discussie.",
+        "answer": "verengelsing"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De Deense ___ heeft uitgebreid onderzoek gedaan naar PFAS.",
-        "answer": "expert"
+        "sentence": "Het internationale ___ trok veel bezoekers.",
+        "answer": "congres"
       },
       {
-        "sentence": "De stad ___ ligt in Vlaanderen en heeft te maken met PFAS-vervuiling.",
-        "answer": "Ronse"
+        "sentence": "Hij zag de nieuwe baan als grote ___.",
+        "answer": "kansen"
       },
       {
-        "sentence": "Het is niet correct om PFAS-vervuiling simpelweg ___ als een klein probleem.",
-        "answer": "afdoen"
+        "sentence": "De activisten hebben jarenlang ___ voor dierenrechten.",
+        "answer": "gestreden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de rol van Philippe Grandjean in de krantenkop?",
+      "question": "Wat betekent 'verengelsing' in deze context?",
       "options": [
-        "Hij is een getroffen inwoner van Ronse",
-        "Hij is de burgemeester van Ronse",
-        "Hij is een Deense expert op het gebied van PFAS",
-        "Hij is de Europese commissaris voor Milieu"
+        "Vernederlandsing",
+        "Vernietiging",
+        "Verengelsing",
+        "Verbetering"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is het hoofdthema van de tekst?",
+      "options": [
+        "De opkomst van het Nederlands",
+        "De dominantie van het Engels",
+        "De vernietiging van talen",
+        "De geschiedenis van Europa"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom wordt de situatie in Ronse als 'onethisch' beschouwd?",
+      "question": "Wat is de houding van de auteur?",
       "options": [
-        "Omdat er te weinig PFAS in het water zit",
-        "Omdat bewoners niet geïnformeerd werden over de risico's",
-        "Omdat de PFAS-waarden binnen de norm vallen",
-        "Omdat PFAS niet schadelijk is voor de gezondheid"
+        "Neutraal en onverschillig",
+        "Kritisch en bezorgd",
+        "Enthousiast en positief",
+        "Boos en agressief"
       ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is een van de gevolgen van hoge PFAS-waarden zoals in Ronse?",
-      "options": [
-        "Het zorgt voor betere drinkwaterkwaliteit",
-        "Het kan leiden tot strengere Europese regelgeving",
-        "Het heeft geen effect op de volksgezondheid",
-        "Het verlaagt de Europese veiligheidsnorm"
-      ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De PFAS-waarden in Ronse zijn lager dan de Europese norm.",
+      "statement": "De auteur is tegen het gebruik van Engels in het onderwijs.",
       "isTrue": false
     },
     {
-      "statement": "Philippe Grandjean is een Deense onderzoeker.",
+      "statement": "Het artikel suggereert dat verengelsing een onomkeerbaar proces is.",
       "isTrue": true
     },
     {
-      "statement": "De tekst beschrijft dat PFAS alleen effect heeft op het bloed.",
+      "statement": "De auteur gelooft dat niemand zich zorgen maakt over verengelsing.",
       "isTrue": false
     }
   ]

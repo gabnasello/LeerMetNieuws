@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Man klaagt politie Washington D.C. aan na arrestatie bij protest met muziek van Star Wars",
+  "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
   "topicNumber": 1,
   "article": {
-    "title": "Man klaagt politie Washington D.C. aan na arrestatie bij protest met muziek van Star Wars",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
+    "summary": "New York is niet zoals de rest van de VS. Minder dan ooit, nu in tijden van Trump met Zohran Mamdani een onervaren socialistische moslim wellicht de volgende burgemeester wordt. Tot hoop én afgrijzen van zijn eigen partijgenoten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "politie",
-        "definition": "De mensen die de wet handhaven en voor veiligheid zorgen.",
-        "sentence": "De ___ kwam snel naar het protest.",
-        "answer": "politie"
+        "word": "afgrijzen",
+        "definition": "Heel erg schrikken van iets",
+        "sentence": "Hij schrok zich ___ van het enge nieuws.",
+        "answer": "afgrijzen"
       },
       {
-        "word": "aan",
-        "definition": "Het voorzetsel dat richting of doel aangeeft.",
-        "sentence": "Hij schreef een brief ___ de directeur.",
-        "answer": "aan"
+        "word": "partijgenoten",
+        "definition": "Mensen die in dezelfde politieke partij zitten",
+        "sentence": "Hij werkt samen met zijn ___ aan een nieuw plan.",
+        "answer": "partijgenoten"
       },
       {
-        "word": "klaagt",
-        "definition": "Iets aanklagen of een klacht indienen.",
-        "sentence": "Hij ___ de politie aan vanwege onterechte arrestatie.",
-        "answer": "klaagt"
+        "word": "moslim",
+        "definition": "Iemand die de islamitische godsdienst volgt",
+        "sentence": "Een ___ gelooft in de islamitische godsdienst.",
+        "answer": "moslim"
       },
       {
-        "word": "na",
-        "definition": "Na een bepaalde tijd of gebeurtenis.",
-        "sentence": "___ de vakantie begon het nieuwe schooljaar.",
-        "answer": "Na"
+        "word": "hoop",
+        "definition": "De hoop dat iets goed gaat komen",
+        "sentence": "Ik heb veel ___ dat het goed komt.",
+        "answer": "hoop"
       },
       {
-        "word": "muziek",
-        "definition": "Klanken en tonen die samen muziek vormen.",
-        "sentence": "De ___ maakte iedereen vrolijk.",
-        "answer": "muziek"
+        "word": "New York",
+        "definition": "Een grote stad in Amerika",
+        "sentence": "___ is een bekende stad in de Verenigde Staten.",
+        "answer": "New York"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ kwam snel naar het protest.",
-        "answer": "politie"
+        "sentence": "Een ___ gelooft in de islamitische godsdienst.",
+        "answer": "moslim"
       },
       {
-        "sentence": "Hij ___ de politie aan vanwege onterechte arrestatie.",
-        "answer": "klaagt"
+        "sentence": "Hij werkt samen met zijn ___ aan een nieuw plan.",
+        "answer": "partijgenoten"
       },
       {
-        "sentence": "De ___ maakte iedereen vrolijk.",
-        "answer": "muziek"
+        "sentence": "___ is een bekende stad in de Verenigde Staten.",
+        "answer": "New York"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Wat is de hoofdstad van de Verenigde Staten?",
       "options": [
-        "Een protest tegen politie",
-        "Een nieuwe film",
-        "Een man die klaagt",
-        "Een muziekstuk"
+        "Washington D.C.",
+        "New York",
+        "Los Angeles",
+        "Chicago"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van de politie in de tekst?",
+      "question": "Wat betekent 'onervaren'?",
       "options": [
-        "Ze zijn degenen die worden aangeklaagd",
-        "Ze spelen een instrument",
-        "Ze arresteren iemand",
-        "Ze dansen op de muziek"
+        "Iemand met weinig ervaring",
+        "Iemand die heel erg oud is",
+        "Iemand die heel snel rent",
+        "Iemand die veel geld heeft"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
-      "question": "Wat voor soort muziek wordt genoemd?",
+      "question": "Wat is de religie van een moslim?",
       "options": [
-        "Rockmuziek",
-        "Jazzmuziek",
-        "Muziek van Star Wars",
-        "Klassieke muziek"
+        "Islam",
+        "Christendom",
+        "Boeddhisme",
+        "Hindoeïsme"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De man klaagt de politie aan omdat hij werd gearresteerd.",
+      "statement": "New York is de hoofdstad van de Verenigde Staten.",
+      "isTrue": false
+    },
+    {
+      "statement": "Een moslim is iemand die de islamitische godsdienst volgt.",
       "isTrue": true
     },
     {
-      "statement": "De muziek van Star Wars werd gespeeld tijdens het protest.",
-      "isTrue": true
-    },
-    {
-      "statement": "Donald Trump wordt genoemd in de tekst.",
-      "isTrue": true
+      "statement": "Zohran Mamdani is de burgemeester van New York.",
+      "isTrue": false
     }
   ]
 }

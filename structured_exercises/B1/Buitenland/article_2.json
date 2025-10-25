@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Argentijnse verkiezingen bepalen toekomst president Milei",
+  "title": "Auteur Marijn Kruk over het succes van de PVV in Nederland: 'Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint'",
   "topicNumber": 1,
   "article": {
-    "title": "Argentijnse verkiezingen bepalen toekomst president Milei",
-    "summary": "Argentinië houdt de adem in. Van de parlementsverkiezingen zondag hangt af of de excentrieke president Javier Milei zijn ultraliberale hervormingen een nieuwe impuls kan geven, met steun van de VS. Maar de slabakkende economie en tal van schandalen doen de president tanen."
+    "title": "Auteur Marijn Kruk over het succes van de PVV in Nederland: 'Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint'",
+    "summary": "De eerste Nederlandse regering met PVV-ministers draaide uit op een fiasco. Toch wenkt een volgende verkiezingstriomf voor Geert Wilders. Auteur Marijn Kruk schrikt niet: 'Radicaal-rechts heeft de strijd in dit land met 10-0 gewonnen.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "president",
-        "definition": "De leider van een land",
-        "sentence": "De ___ van Argentinië heet Javier Milei.",
-        "answer": "president"
+        "word": "radicaal",
+        "definition": "zeer extreem, tot het uiterste gaand",
+        "sentence": "Hij heeft ___ andere ideeën.",
+        "answer": "radicaal"
       },
       {
-        "word": "verkiezingen",
-        "definition": "Het kiezen van nieuwe leiders door te stemmen",
-        "sentence": "Op zondag zijn er ___ in Argentinië.",
-        "answer": "verkiezingen"
+        "word": "minister",
+        "definition": "een belangrijk persoon in de regering",
+        "sentence": "De ___ van Onderwijs geeft een toespraak.",
+        "answer": "minister"
       },
       {
-        "word": "regering",
-        "definition": "De groep mensen die een land bestuurt",
-        "sentence": "De ___ van Argentinië heeft veel problemen.",
-        "answer": "regering"
+        "word": "wereld",
+        "definition": "alle landen en mensen samen, de aarde",
+        "sentence": "Hij bekijkt de ___ vanuit een ander perspectief.",
+        "answer": "wereld"
       },
       {
-        "word": "steun",
-        "definition": "Hulp of ondersteuning",
-        "sentence": "De president krijgt internationale ___ voor zijn plannen.",
-        "answer": "steun"
+        "word": "verkiezing",
+        "definition": "een stemming waarbij mensen kiezen wie hun vertegenwoordiger wordt",
+        "sentence": "De uitslag van de ___ is bekend.",
+        "answer": "verkiezing"
       },
       {
-        "word": "scandalen",
-        "definition": "Slechte gebeurtenissen waarbij regels worden gebroken",
-        "sentence": "Er zijn veel ___ die de regering beschadigen.",
-        "answer": "scandalen"
+        "word": "fiasco",
+        "definition": "een grote mislukking, iets dat heel fout gaat",
+        "sentence": "Het plan werd een ___.",
+        "answer": "fiasco"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Er zijn veel ___ die de regering beschadigen.",
-        "answer": "scandalen"
+        "sentence": "Het plan werd een ___.",
+        "answer": "fiasco"
       },
       {
-        "sentence": "Op zondag zijn er ___ in Argentinië.",
-        "answer": "verkiezingen"
+        "sentence": "De ___ van Onderwijs geeft een toespraak.",
+        "answer": "minister"
       },
       {
-        "sentence": "De ___ van Argentinië heet Javier Milei.",
-        "answer": "president"
+        "sentence": "Hij heeft ___ andere ideeën.",
+        "answer": "radicaal"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom zijn de verkiezingen in Argentinië belangrijk?",
+      "question": "Wat betekent 'fiasco' in deze context?",
       "options": [
-        "Ze bepalen of president Milei meer macht krijgt voor zijn plannen.",
-        "Ze zijn alleen voor lokale bestuurders, niet voor de president.",
-        "Ze gaan alleen over economische kwesties, niet over politiek.",
-        "Ze zijn vooral symbolisch en hebben weinig echte impact."
+        "een groot succes",
+        "een complete mislukking",
+        "een soort dans",
+        "een nieuwe start"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is een gevolg van de economische problemen in Argentinië?",
+      "question": "Waar staat PVV voor?",
       "options": [
-        "President Milei verliest populariteit en steun.",
-        "De economie verbetert snel en iedereen is gelukkig.",
-        "De Verenigde Naties sturen hulp om de economie te stabiliseren.",
-        "President Milei wordt nog populairder door zijn aanpak van de crisis."
+        "Partij voor de Vrijheid",
+        "Partij voor de Vrede",
+        "Partij van de Vrijheid",
+        "Partij voor de Vrijheid en Democratie"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 4
     },
     {
-      "question": "Hoe reageert de internationale gemeenschap op president Milei's beleid?",
+      "question": "Wat is de rol van een minister?",
       "options": [
-        "Landen zoals de VS geven hem steun voor zijn hervormingen.",
-        "Alle landen keuren zijn beleid af en stoppen met handel.",
-        "De VN stuurt troepen om de regering over te nemen.",
-        "Geen enkel land bemoeit zich met Argentinië's binnenlandse politiek."
+        "De regering van een land leiden",
+        "Alleen wetten maken",
+        "Zorgen voor sportevenementen",
+        "De koning adviseren"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "President Milei van Argentinië geniet nog brede steun van de bevolking.",
-      "isTrue": false
-    },
-    {
-      "statement": "De verkiezingen van zondag kunnen de positie van president Milei versterken.",
+      "statement": "Geert Wilders is de minister-president van Nederland.",
       "isTrue": true
     },
     {
-      "statement": "Scandalen en economische problemen hebben de positie van Milei verzwakt.",
+      "statement": "Een fiasco is een kleine fout zonder gevolgen.",
+      "isTrue": false
+    },
+    {
+      "statement": "Radicaal-rechts heeft in Nederland de verkiezingen gewonnen.",
       "isTrue": true
     }
   ]

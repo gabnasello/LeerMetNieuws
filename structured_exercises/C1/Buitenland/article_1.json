@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Man klaagt politie Washington D.C. aan na arrestatie bij protest met muziek van Star Wars",
+  "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
   "topicNumber": 1,
   "article": {
-    "title": "Man klaagt politie Washington D.C. aan na arrestatie bij protest met muziek van Star Wars",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
+    "summary": "New York is niet zoals de rest van de VS. Minder dan ooit, nu in tijden van Trump met Zohran Mamdani een onervaren socialistische moslim wellicht de volgende burgemeester wordt. Tot hoop én afgrijzen van zijn eigen partijgenoten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "ampt",
-        "definition": "een persoon die een ambt bekleedt, vaak in politieke context",
-        "sentence": "De minister is een belangrijk ___ in de regering.",
-        "answer": "ambtsdrager"
+        "word": "betaalbaar",
+        "definition": "Niet te duur, goedkoop genoeg om te kunnen betalen.",
+        "sentence": "De woning was gelukkig ___.",
+        "answer": "betaalbaar"
       },
       {
-        "word": "wereldwijd",
-        "definition": "over de hele wereld, op globale schaal",
-        "sentence": "Klimaatverandering is een ___ probleem.",
-        "answer": "wereldwijd"
+        "word": "kandidaat",
+        "definition": "Iemand die meedoet aan een verkiezing of sollicitatie.",
+        "sentence": "De ___ voor het burgemeesterschap heeft veel steun.",
+        "answer": "kandidaat"
       },
       {
-        "word": "veranderingen",
-        "definition": "processen of gebeurtenissen waarbij iets verandert",
-        "sentence": "De nieuwe wet zal grote ___ teweegbrengen.",
-        "answer": "veranderingen"
+        "word": "socialistisch",
+        "definition": "Betrekking hebbend op socialisme, een politieke stroming die streeft naar gelijkheid.",
+        "sentence": "Hij heeft een ___ wereldbeeld.",
+        "answer": "socialistisch"
       },
       {
-        "word": "protest",
-        "definition": "een publieke uiting van afkeuring of verzet, vaak tegen beleid",
-        "sentence": "Het ___ werd vreedzaam gehouden.",
-        "answer": "protest"
+        "word": "onervaren",
+        "definition": "Nog niet veel ervaring hebbend, nog niet geoefend.",
+        "sentence": "Hij was een ___ spreker.",
+        "answer": "onervaren"
       },
       {
-        "word": "aanklacht",
-        "definition": "een formele beschuldiging, vaak in juridische context",
-        "sentence": "Hij diende een ___ in tegen de verzekeringsmaatschappij.",
-        "answer": "aanklacht"
+        "word": "moslim",
+        "definition": "Iemand die de islamitische religie aanhangt.",
+        "sentence": "Hij is een toegewijde ___.",
+        "answer": "moslim"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ werd vreedzaam gehouden.",
-        "answer": "protest"
+        "sentence": "Hij heeft een ___ wereldbeeld.",
+        "answer": "socialistisch"
       },
       {
-        "sentence": "De nieuwe wet zal grote ___ teweegbrengen.",
-        "answer": "veranderingen"
+        "sentence": "Hij is een toegewijde ___.",
+        "answer": "moslim"
       },
       {
-        "sentence": "De minister is een belangrijk ___ in de regering.",
-        "answer": "ambtsdrager"
+        "sentence": "De woning was gelukkig ___.",
+        "answer": "betaalbaar"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom klaagt de man de politie aan?",
+      "question": "Wat is de belangrijkste reden dat Zohran Mamdani opvalt in de New Yorkse politiek?",
       "options": [
-        "Omdat hij onterecht is gearresteerd",
-        "Omdat hij een vergunning had voor de muziek",
-        "Omdat de politie geweld gebruikte",
-        "Omdat hij de muziek te luid speelde"
+        "Hij is een socialist",
+        "Hij is een moslim",
+        "Hij is een onervaren kandidaat",
+        "Hij komt van buiten de VS"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
-      "question": "Wat is de hoofdreden van de aanklacht volgens de tekst?",
+      "question": "Hoe reageren zijn partijgenoten op zijn kandidatuur?",
       "options": [
-        "De politie heeft onrechtmatig gehandeld tijdens de arrestatie",
-        "De man was een politieagent in burger",
-        "De protesten waren tegen het Star Wars-beleid",
-        "De man wilde met pensioen gaan"
+        "Ze zijn enthousiast en ondersteunend",
+        "Ze zijn neutraal en afwachtend",
+        "Ze zijn afwijzend en kritisch",
+        "Ze zijn hoopvol maar ook bezorgd"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 4
     },
     {
-      "question": "Welk aspect van de gebeurtenis kreeg internationale aandacht?",
+      "question": "Wat is de situatie in New York in vergelijking met de rest van de VS volgens de tekst?",
       "options": [
-        "Het gebruik van Star Wars-muziek bij het protest",
-        "De samenwerking tussen de politie en de demonstranten",
-        "De locatie van het protest, namelijk Washington D.C.",
-        "De aanklacht wegens oneigenlijk politieoptreden"
+        "Het is hetzelfde",
+        "Het is compleet anders",
+        "Het is minder representatief",
+        "Het is meer progressief"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De man werd gearresteerd omdat hij Star Wars-muziek draaide in plaats van vanwege het protest zelf.",
+      "statement": "Zohran Mamdani is een ervaren politicus die al lang burgemeester is van New York.",
       "isTrue": false
     },
     {
-      "statement": "De aanklacht richt zich op het optreden van de politie tijdens de arrestatie.",
+      "statement": "New York wordt voorgesteld als een uitzondering binnen de Verenigde Staten.",
       "isTrue": true
     },
     {
-      "statement": "Donald Trump is de huidige president van de Verenigde Staten.",
+      "statement": "De reacties op Mamdani's kandidatuur zijn unaniem positief binnen zijn partij.",
       "isTrue": false
     }
   ]

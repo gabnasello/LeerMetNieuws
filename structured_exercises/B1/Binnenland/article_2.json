@@ -1,106 +1,106 @@
 {
-  "id": 21,
+  "id": 22,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Minder mensen gaan naar de kerk",
+  "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
   "topicNumber": 1,
   "article": {
-    "title": "Minder mensen gaan naar de kerk",
-    "summary": "Steeds minder mensen in België gaan naar de kerk. Veel minder mensen kiezen voor een kerkelijk huwelijk of begrafenis. Toch zijn er ook tekenen dat jongeren weer meer nadenken over geloof en zingeving."
+    "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
+    "summary": "Gent wil de Vlasmarkt asfalteren, al is niet iedereen daar gelukkig mee. Tegenstanders willen de kinderkopjes laten erkennen als erfgoed. Want niets is zo Gents als het vermogen om pittoresk struikelgevaar te romantiseren."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "kerk",
-        "definition": "een gebouw waar mensen samenkomen voor christelijke religieuze diensten",
-        "sentence": "Elke zondag gaan veel mensen naar de ___ om te bidden.",
-        "answer": "kerk"
+        "word": "tegenstanders",
+        "definition": "mensen die het niet eens zijn met een plan of idee en ertegen zijn",
+        "sentence": "De ___ van het plan vrezen voor hogere kosten.",
+        "answer": "tegenstanders"
       },
       {
-        "word": "huwelijk",
-        "definition": "de officiële ceremonie waarbij twee mensen met elkaar trouwen",
-        "sentence": "Het ___ vond plaats in een mooie tuin, niet in een kerk.",
-        "answer": "huwelijk"
+        "word": "erfgoed",
+        "definition": "iets wat uit het verleden is overgebleven en dat we willen behouden voor de toekomst",
+        "sentence": "Het kasteel is een belangrijk stuk ___ voor ons land.",
+        "answer": "erfgoed"
       },
       {
-        "word": "begrafenis",
-        "definition": "een ceremonie waarbij iemand die overleden is, wordt herdacht en begraven",
-        "sentence": "Na de ___ ging iedereen nog iets drinken om de overledene te eren.",
-        "answer": "begrafenis"
+        "word": "pittoresk",
+        "definition": "mooi en schilderachtig, vaak op een ouderwetse of charmante manier",
+        "sentence": "Het dorpje was erg ___ met zijn kleine huisjes en bloemen.",
+        "answer": "pittoresk"
       },
       {
-        "word": "geloof",
-        "definition": "het vertrouwen in iets dat je niet kunt zien of bewijzen, vaak in een god",
-        "sentence": "Zijn ___ is erg belangrijk voor hem, hij bidt elke dag.",
-        "answer": "geloof"
+        "word": "asfalteren",
+        "definition": "een laag asfalt aanbrengen, meestal om een weg te maken of te repareren",
+        "sentence": "De gemeente wil de straat ___ voor een betere ondergrond.",
+        "answer": "asfalteren"
       },
       {
-        "word": "jongeren",
-        "definition": "mensen die nog niet volwassen zijn, vaak tussen de 12 en 18 jaar oud",
-        "sentence": "De ___ in onze buurt organiseren vaak een voetbaltoernooi.",
-        "answer": "jongeren"
+        "word": "romantiseren",
+        "definition": "iets mooier of romantischer voorstellen dan het in werkelijkheid is",
+        "sentence": "Soms ___ mensen het verleden te veel en vergeten de moeilijkheden.",
+        "answer": "romantiseren"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Elke zondag gaan veel mensen naar de ___ om te bidden.",
-        "answer": "kerk"
+        "sentence": "Het dorpje was erg ___ met zijn kleine huisjes en bloemen.",
+        "answer": "pittoresk"
       },
       {
-        "sentence": "De ___ in onze buurt organiseren vaak een voetbaltoernooi.",
-        "answer": "jongeren"
+        "sentence": "Het kasteel is een belangrijk stuk ___ voor ons land.",
+        "answer": "erfgoed"
       },
       {
-        "sentence": "Zijn ___ is erg belangrijk voor hem, hij bidt elke dag.",
-        "answer": "geloof"
+        "sentence": "De ___ van het plan vrezen voor hogere kosten.",
+        "answer": "tegenstanders"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar is dit artikel vooral over?",
+      "question": "Waarom wil Gent de Vlasmarkt asfalteren?",
       "options": [
-        "Sport",
-        "Kunst",
-        "Religie",
-        "Politiek"
+        "Omdat kasseien gevaarlijk zijn voor fietsers",
+        "Omdat kasseien te duur zijn in onderhoud",
+        "Omdat asfalteren beter is voor rolstoelgebruikers",
+        "Omdat de stad moderne ondergronden wil testen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is er aan het veranderen volgens de tekst?",
+      "question": "Wat is een belangrijk punt van de tegenstanders?",
       "options": [
-        "Mensen gaan minder vaak naar de kerk",
-        "Mensen gaan vaker naar de kerk",
-        "Mensen worden ouder",
-        "Kerkgebouwen worden gesloopt"
+        "Kasseien zijn goedkoop in onderhoud",
+        "Kasseien zijn een belangrijk stuk erfgoed",
+        "Asfalteren is slecht voor het milieu",
+        "Asfalteren is alleen nodig voor auto's"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is een teken van hoop volgens de tekst?",
+      "question": "Hoe beschrijft de auteur de kasseien in Gent?",
       "options": [
-        "Meer ouderen gaan naar de kerk",
-        "Mensen trouwen alleen nog in de kerk",
-        "Jongeren zoeken naar zingeving",
-        "Kerkdiensten worden afgeschaft"
+        "Als een gevaar dat vermeden moet worden",
+        "Als een pittoresk en romantisch element",
+        "Als een historisch element zonder nut",
+        "Als een symbool van moderniteit"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Steeds minder mensen in België gaan naar de kerk.",
+      "statement": "Gent wil de Vlasmarkt asfalteren omdat het een moderne stad wil zijn.",
       "isTrue": true
     },
     {
-      "statement": "Alleen oudere mensen zijn nog religieus.",
+      "statement": "De tegenstanders willen de kasseien verwijderen om plaats te maken voor groene zones.",
       "isTrue": false
     },
     {
-      "statement": "Jongeren zijn helemaal niet geïnteresseerd in geloof of zingeving.",
-      "isTrue": false
+      "statement": "Een van de argumenten voor asfalteren is betere toegankelijkheid voor rolstoelgebruikers.",
+      "isTrue": true
     }
   ]
 }

@@ -3,104 +3,104 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
+  "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
   "topicNumber": 1,
   "article": {
-    "title": "Deense expert over de hoge PFAS-waarden in Ronse: “PFAS hebben een effect op je hele lichaam”",
-    "summary": "De PFAS-waarden in het bloed bij sommige Ronsenaars blijken vier tot acht keer hoger te liggen dan de Europese veiligheidsnorm. “Dit afdoen als te complex en niet zo gevaarlijk is onethisch”, zegt de Deense expert Philippe Grandjean."
+    "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
+    "summary": "Het Engels is oppermachtig aan de universiteit. Dat biedt kansen, maar het knelt en wringt ook. 'Zelfs op een congres over Franse vertaalwetenschap is de voertaal Engels.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "expert",
-        "definition": "een deskundige of iemand die veel weet over een onderwerp",
-        "sentence": "De ___ gaf uitleg over de situatie.",
-        "answer": "expert"
+        "word": "biedt",
+        "definition": "geeft, aanbiedt, mogelijk maakt",
+        "sentence": "De nieuwe supermarkt ___ veel keuze aan de klanten.",
+        "answer": "biedt"
       },
       {
-        "word": "hoge",
-        "definition": "groot in hoeveelheid of niveau, veel meer dan normaal",
-        "sentence": "Er was een ___ concentratie van de stoffen in het bloed.",
-        "answer": "hoge"
+        "word": "knelt",
+        "definition": "zit strak, knelt, is niet comfortabel",
+        "sentence": "Deze schoen ___ een beetje bij mijn tenen.",
+        "answer": "knelt"
       },
       {
-        "word": "blijkt",
-        "definition": "wat duidelijk wordt uit de situatie of uit onderzoek",
-        "sentence": "Het ___ dat er veel problemen zijn.",
-        "answer": "blijkt"
+        "word": "oppermachtig",
+        "definition": "heel erg machtig, de baas zijn",
+        "sentence": "De leeuw is de ___ heerser van de savanne.",
+        "answer": "oppermachtig"
       },
       {
-        "word": "veiligheidsnorm",
-        "definition": "een regel die zegt wat veilig is en wat niet",
-        "sentence": "De ___ wordt vaak opgesteld door experts.",
-        "answer": "veiligheidsnorm"
+        "word": "wringt",
+        "definition": "zit strak, schuurt, is ongemakkelijk",
+        "sentence": "Deze broek ___ een beetje bij mijn knieën.",
+        "answer": "wringt"
       },
       {
-        "word": "onethisch",
-        "definition": "niet ethisch, niet moreel correct, niet volgens de regels van goed gedrag",
-        "sentence": "Het is ___ om iemand opzettelijk te kwetsen.",
-        "answer": "onethisch"
+        "word": "gestreden",
+        "definition": "gevochten, hard gewerkt voor iets",
+        "sentence": "De soldaten hebben lang ___ voor hun vrijheid.",
+        "answer": "gestreden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Er was een ___ concentratie van de stoffen in het bloed.",
-        "answer": "hoge"
+        "sentence": "Deze broek ___ een beetje bij mijn knieën.",
+        "answer": "wringt"
       },
       {
-        "sentence": "Het ___ dat er veel problemen zijn.",
-        "answer": "blijkt"
+        "sentence": "Deze schoen ___ een beetje bij mijn tenen.",
+        "answer": "knelt"
       },
       {
-        "sentence": "De ___ gaf uitleg over de situatie.",
-        "answer": "expert"
+        "sentence": "De soldaten hebben lang ___ voor hun vrijheid.",
+        "answer": "gestreden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de rol van Philippe Grandjean in dit artikel?",
+      "question": "Wat betekent 'verengelsing' in deze context?",
       "options": [
-        "Hij is een journalist",
-        "Hij is de Deense expert",
-        "Hij is een inwoner van Ronse",
-        "Hij is de Europese voorzitter"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Waar gaat het artikel over?",
-      "options": [
-        "Over een feest in Ronse",
-        "Over een sportevenement",
-        "Over de PFAS-waarden in het bloed van mensen in Ronse",
-        "Over een nieuwe diersoort"
+        "Het verbieden van Engelse woorden",
+        "Het overnemen van Engelse taal en cultuur",
+        "Het verliezen van een oorlog",
+        "Het vieren van een Engelse feestdag"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de houding van de expert naar de situatie?",
+      "question": "Waarom wordt gezegd dat 'niemand wakker ligt' van verengelsing?",
       "options": [
-        "Hij vindt het niet belangrijk",
-        "Hij noemt het onethisch om het probleem te negeren",
-        "Hij vindt het een goede zaak",
-        "Hij is er blij mee"
+        "Omdat het niet belangrijk genoeg is",
+        "Omdat mensen te moe zijn",
+        "Omdat het een geheim is",
+        "Omdat het alleen in Nederland gebeurt"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is een voorbeeld van 'oppermachtig' zijn?",
+      "options": [
+        "De koning is oppermachtig in zijn land.",
+        "De student is oppermachtig in de klas.",
+        "De hond is oppermachtig in het park.",
+        "De leraar is oppermachtig over de taal."
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De PFAS-waarden in Ronse zijn lager dan de Europese norm.",
-      "isTrue": false
-    },
-    {
-      "statement": "Philippe Grandjean is de Deense expert die commentaar geeft.",
+      "statement": "Verengelsing betekent dat de Engelse taal de Nederlandse taal vervangt.",
       "isTrue": true
     },
     {
-      "statement": "Het artikel zegt dat PFAS geen effect heeft op het lichaam.",
+      "statement": "Niemand ligt wakker van verengelsing omdat het geen probleem is.",
       "isTrue": false
+    },
+    {
+      "statement": "Engels is de voertaal op een congres over Franse vertaalwetenschap.",
+      "isTrue": true
     }
   ]
 }

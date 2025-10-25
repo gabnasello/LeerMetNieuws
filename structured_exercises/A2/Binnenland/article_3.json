@@ -3,103 +3,103 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Hoge PFAS-waarden in Ronse: wat betekent dit?",
+  "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
   "topicNumber": 1,
   "article": {
-    "title": "Hoge PFAS-waarden in Ronse: wat betekent dit?",
-    "summary": "In Ronse zijn de PFAS-waarden in het bloed bij sommige mensen veel hoger dan de Europese norm. Dit is niet goed voor de gezondheid. Een expert uit Denemarken legt uit wat PFAS zijn en waarom we voorzichtig moeten zijn."
+    "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
+    "summary": "Het Engels is oppermachtig aan de universiteit. Dat biedt kansen, maar het knelt en wringt ook. 'Zelfs op een congres over Franse vertaalwetenschap is de voertaal Engels.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "hoger",
-        "definition": "meer dan normaal of dan iets anders",
-        "sentence": "De temperatuur is ___ dan gisteren.",
-        "answer": "hoger"
+        "word": "kansen",
+        "definition": "Mogelijkheden of goede kansen op iets.",
+        "sentence": "Hij heeft veel ___ op die baan.",
+        "answer": "kansen"
       },
       {
-        "word": "niet",
-        "definition": "geen of het tegenovergestelde van ja",
-        "sentence": "Ik heb ___ genoeg tijd om te wachten.",
-        "answer": "niet"
+        "word": "gestreden",
+        "definition": "Gevochten of hard gewerkt voor iets.",
+        "sentence": "Ze hebben jarenlang ___ voor hun rechten.",
+        "answer": "gestreden"
       },
       {
-        "word": "goed",
-        "definition": "goed of positief, niet slecht",
-        "sentence": "Het is ___ om elke dag fruit te eten.",
-        "answer": "goed"
+        "word": "knelt",
+        "definition": "Iets dat strak zit of niet comfortabel is.",
+        "sentence": "Deze schoen ___ een beetje.",
+        "answer": "knelt"
       },
       {
-        "word": "kunnen",
-        "definition": "in staat zijn om iets te doen",
-        "sentence": "Kinderen ___ zonder hulp oversteken?",
-        "answer": "kunnen"
+        "word": "congres",
+        "definition": "Een grote bijeenkomst voor een bepaald onderwerp.",
+        "sentence": "Hij sprak op het ___ over klimaatverandering.",
+        "answer": "congres"
       },
       {
-        "word": "moeten",
-        "definition": "verplicht zijn of noodzakelijk hebben",
-        "sentence": "We ___ op tijd vertrekken om de bus te halen.",
-        "answer": "moeten"
+        "word": "oppermachtig",
+        "definition": "Heel erg machtig of de baas zijn.",
+        "sentence": "De leeuw is de ___ heerser van de jungle.",
+        "answer": "oppermachtig"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ik heb ___ genoeg tijd om te wachten.",
-        "answer": "niet"
+        "sentence": "De leeuw is de ___ heerser van de jungle.",
+        "answer": "oppermachtig"
       },
       {
-        "sentence": "Het is ___ om elke dag fruit te eten.",
-        "answer": "goed"
+        "sentence": "Ze hebben jarenlang ___ voor hun rechten.",
+        "answer": "gestreden"
       },
       {
-        "sentence": "Kinderen ___ zonder hulp oversteken?",
-        "answer": "kunnen"
+        "sentence": "Deze schoen ___ een beetje.",
+        "answer": "knelt"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'hoger' in de tekst?",
+      "question": "Waar gaat de tekst vooral over?",
       "options": [
-        "minder",
-        "hoger",
-        "hetzelfde",
-        "lager"
+        "Koken en eten",
+        "De Nederlandse taal",
+        "Engelse woorden in het Nederlands",
+        "Sport en gezondheid"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is 'verengelsing'?",
+      "options": [
+        "Een soort plant",
+        "Een type dans",
+        "Het gebruik van Engelse woorden in het Nederlands",
+        "Een oude traditie"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is de houding van mensen volgens de tekst?",
+      "options": [
+        "Ze zijn boos over verengelsing",
+        "Ze maken zich er geen zorgen over",
+        "Ze willen meer verengelsing",
+        "Ze negeren het volledig"
       ],
       "correctAnswer": 2
-    },
-    {
-      "question": "Waarom is PFAS niet goed voor de gezondheid?",
-      "options": [
-        "Het is duur",
-        "Het is moeilijk uit te spreken",
-        "Het kan ziek maken",
-        "Het is een soort voedsel"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat adviseert de expert?",
-      "options": [
-        "Niets doen",
-        "Meer PFAS gebruiken",
-        "Meer onderzoek doen",
-        "Stoppen met ademen"
-      ],
-      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De PFAS-waarden in Ronse zijn voor iedereen laag.",
+      "statement": "Nederlanders vechten tegen verengelsing.",
       "isTrue": false
     },
     {
-      "statement": "PFAS kan schadelijk zijn voor de gezondheid.",
+      "statement": "Engels is de voertaal op sommige congressen.",
       "isTrue": true
     },
     {
-      "statement": "De expert uit Denemarken zegt dat PFAS niet gevaarlijk is.",
+      "statement": "Iedereen maakt zich zorgen over verengelsing.",
       "isTrue": false
     }
   ]

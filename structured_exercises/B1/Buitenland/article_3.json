@@ -1,106 +1,106 @@
 {
-  "id": 5,
+  "id": 6,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Als het om defensie gaat, is Europa bereid eigen regels aan te passen",
+  "title": "Amerikaanse diplomaat in het Midden-Oosten",
   "topicNumber": 1,
   "article": {
-    "title": "Als het om defensie gaat, is Europa bereid eigen regels aan te passen",
-    "summary": "Europa maakt het makkelijker om te investeren in defensie. Tijdens een Europese top stond het verbeteren van de militaire paraatheid centraal."
+    "title": "Amerikaanse diplomaat in het Midden-Oosten",
+    "summary": "Een Amerikaanse diplomaat werkt aan vredesgesprekken in het Midden-Oosten. Hij gebruikt zijn contacten en ervaring om partijen samen te brengen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "gaat",
-        "definition": "betekent 'doet' of 'is bezig met' in deze context",
-        "sentence": "Hij ___ van start tot finish zonder te stoppen.",
-        "answer": "gaat"
+        "word": "contacten",
+        "definition": "mensen die je kent en die je kunnen helpen",
+        "sentence": "Hij heeft goede ___ in de politieke wereld.",
+        "answer": "contacten"
       },
       {
-        "word": "regels",
-        "definition": "afspraken of regels die gevolgd moeten worden",
-        "sentence": "In dit spel zijn er strikte ___ die gevolgd moeten worden.",
-        "answer": "regels"
+        "word": "samen",
+        "definition": "gezamenlijk, met elkaar",
+        "sentence": "Ze werken ___ aan een oplossing.",
+        "answer": "samen"
       },
       {
-        "word": "Europa",
-        "definition": "het continent Europa, of de Europese Unie",
-        "sentence": "___ is een continent met veel verschillende landen en culturen.",
-        "answer": "Europa"
+        "word": "diplomaat",
+        "definition": "iemand die namens een land in het buitenland werkt",
+        "sentence": "De ___ reist vaak naar andere landen voor werk.",
+        "answer": "diplomaat"
       },
       {
-        "word": "eigen",
-        "definition": "iets dat van jezelf is, persoonlijk",
-        "sentence": "Hij heeft zijn ___ kamer altijd netjes en schoon.",
-        "answer": "eigen"
+        "word": "partijen",
+        "definition": "groepen of landen die betrokken zijn bij een situatie",
+        "sentence": "De verschillende ___ in het conflict moeten samenwerken.",
+        "answer": "partijen"
       },
       {
-        "word": "aant",
-        "definition": "afkorting van 'aan het', gebruikt in informele taal",
-        "sentence": "Hij is aant werken aan zijn nieuwe project voor school.",
-        "answer": "aant"
+        "word": "ervaring",
+        "definition": "kennis en vaardigheden die je opdoet door dingen mee te maken",
+        "sentence": "Zijn ___ in diplomatie is erg groot.",
+        "answer": "ervaring"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is een continent met veel verschillende landen en culturen.",
-        "answer": "Europa"
+        "sentence": "De ___ reist vaak naar andere landen voor werk.",
+        "answer": "diplomaat"
       },
       {
-        "sentence": "Hij heeft zijn ___ kamer altijd netjes en schoon.",
-        "answer": "eigen"
+        "sentence": "De verschillende ___ in het conflict moeten samenwerken.",
+        "answer": "partijen"
       },
       {
-        "sentence": "Hij ___ van start tot finish zonder te stoppen.",
-        "answer": "gaat"
+        "sentence": "Zijn ___ in diplomatie is erg groot.",
+        "answer": "ervaring"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'Europa is bereid eigen regels aan te passen'?",
+      "question": "Wat doet de diplomaat in deze tekst?",
       "options": [
-        "Europa wil nieuwe regels maken",
-        "Europa gaat zijn bestaande regels veranderen",
-        "Europa wil zijn eigen regels volgen",
-        "Europa wil geen regels meer hebben"
+        "Hij speelt voetbal",
+        "Hij koopt een huis",
+        "Hij werkt aan vredesgesprekken",
+        "Hij reist voor zijn plezier"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Waar gaat de tekst vooral over?",
+      "question": "Waarom is de diplomaat goed in zijn werk?",
       "options": [
-        "Over een sportevenement",
-        "Over Europese politiek en defensie",
-        "Over een Europese vakantie",
-        "Over nieuwe Europese regels voor bedrijven"
+        "Hij is sterk",
+        "Hij heeft veel contacten",
+        "Hij is heel rijk",
+        "Hij woont in een groot huis"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Waarom wil Europa de regels aanpassen?",
+      "question": "Wat is het doel van de diplomaat?",
       "options": [
-        "Om sterker te worden in defensie",
-        "Om minder regels te hebben",
-        "Om andere landen te helpen",
-        "Om nieuwe technologie te ontwikkelen"
+        "Om te winnen met voetbal",
+        "Om partijen samen te brengen",
+        "Om alleen te werken",
+        "Om te stoppen met werken"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Europa wil zijn defensie sterker maken door regels aan te passen.",
-      "isTrue": true
-    },
-    {
-      "statement": "De tekst zegt dat Europa geen regels meer wil hebben voor defensie.",
+      "statement": "De diplomaat werkt alleen.",
       "isTrue": false
     },
     {
-      "statement": "Europa is van plan om de militaire paraatheid te verbeteren.",
+      "statement": "De diplomaat gebruikt zijn contacten om partijen samen te brengen.",
       "isTrue": true
+    },
+    {
+      "statement": "De diplomaat wil dat partijen tegen elkaar vechten.",
+      "isTrue": false
     }
   ]
 }

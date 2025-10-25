@@ -1,0 +1,106 @@
+{
+  "id": 21,
+  "section": "Binnenland",
+  "topic": "Binnenland",
+  "level": "A1",
+  "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
+  "topicNumber": 1,
+  "article": {
+    "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
+    "summary": "Het Engels is oppermachtig aan de universiteit. Dat biedt kansen, maar het knelt en wringt ook. 'Zelfs op een congres over Franse vertaalwetenschap is de voertaal Engels.'"
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "gestreden",
+        "definition": "gevochten, hard gewerkt",
+        "sentence": "Hij heeft veel ___ voor zijn rechten.",
+        "answer": "gestreden"
+      },
+      {
+        "word": "congres",
+        "definition": "grote bijeenkomst voor een onderwerp",
+        "sentence": "Het ___ duurt drie dagen.",
+        "answer": "congres"
+      },
+      {
+        "word": "knelt",
+        "definition": "zit niet lekker, voelt niet goed",
+        "sentence": "Deze schoen ___.",
+        "answer": "knelt"
+      },
+      {
+        "word": "verengelsing",
+        "definition": "het gebruik van steeds meer Engelse woorden",
+        "sentence": "De ___ is duidelijk op deze universiteit.",
+        "answer": "verengelsing"
+      },
+      {
+        "word": "universiteit",
+        "definition": "school voor volwassenen, universiteit",
+        "sentence": "Hij studeert aan de ___.",
+        "answer": "universiteit"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Het ___ duurt drie dagen.",
+        "answer": "congres"
+      },
+      {
+        "sentence": "Hij studeert aan de ___.",
+        "answer": "universiteit"
+      },
+      {
+        "sentence": "Hij heeft veel ___ voor zijn rechten.",
+        "answer": "gestreden"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat betekent 'verengelsing'?",
+      "options": [
+        "Het gebruik van Engelse woorden",
+        "Een feest in Engeland",
+        "Een soort sport",
+        "Een oude taal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Waar staat 'kansen' voor in deze tekst?",
+      "options": [
+        "Kansen om te winnen",
+        "Kansen om te leren",
+        "Kansen om te slagen",
+        "Kansen om te groeien"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is een 'congres'?",
+      "options": [
+        "Een groot gebouw",
+        "Een feest met muziek",
+        "Een grote bijeenkomst over een onderwerp",
+        "Een sportwedstrijd"
+      ],
+      "correctAnswer": 3
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Verengelsing betekent dat Engels de enige taal wordt.",
+      "isTrue": false
+    },
+    {
+      "statement": "Een congres is een grote bijeenkomst.",
+      "isTrue": true
+    },
+    {
+      "statement": "Niemand geeft om verengelsing, dus het is niet erg.",
+      "isTrue": false
+    }
+  ]
+}

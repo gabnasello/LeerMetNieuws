@@ -1,105 +1,105 @@
 {
-  "id": 22,
+  "id": 23,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "De kerk verandert in België",
+  "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
   "topicNumber": 1,
   "article": {
-    "title": "De kerk verandert in België",
-    "summary": "Steeds minder mensen huwen in de kerk of kiezen voor een kerkelijke uitvaart. Het aantal kerkgangers is ook gedaald. Toch ziet een godsdienstleraar tekenen van hoop: jongeren zijn op zoek naar zingeving en zien godsdienst als een optie."
+    "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
+    "summary": "Gent wil de Vlasmarkt asfalteren, maar niet iedereen is daar blij mee. Tegenstanders willen de kinderkopjes laten erkennen als erfgoed. Want niets is zo Gents als het vermogen om pittoresk struikelgevaar te romantiseren."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "kerk",
-        "definition": "een gebouw waar mensen samenkomen voor religieuze diensten",
-        "sentence": "De ___ is open op zondag voor de mis.",
-        "answer": "kerk"
+        "word": "erfgoed",
+        "definition": "iets van cultureel of historisch belang dat bewaard wordt",
+        "sentence": "Het oude gebouw is nu ___ en wordt beschermd.",
+        "answer": "erfgoed"
       },
       {
-        "word": "huwen",
-        "definition": "trouwen, een huwelijk aangaan",
-        "sentence": "Ze ___ in de kerk met hun familie en vrienden.",
-        "answer": "huwen"
+        "word": "nostalgie",
+        "definition": "het verlangen naar iets uit het verleden",
+        "sentence": "Veel mensen hebben ___ naar de jaren negentig.",
+        "answer": "nostalgie"
       },
       {
-        "word": "uitvaart",
-        "definition": "een ceremonie of dienst na iemands overlijden, vaak in een kerk",
-        "sentence": "De ___ werd gehouden in de parochiekerk.",
-        "answer": "uitvaart"
+        "word": "emotie",
+        "definition": "een gevoel, zoals blijdschap of verdriet",
+        "sentence": "Hij sprak met veel ___ over zijn jeugd.",
+        "answer": "emotie"
       },
       {
-        "word": "leraar",
-        "definition": "iemand die lesgeeft, bijvoorbeeld op school",
-        "sentence": "De godsdienst___ helpt studenten bij het leren over religie.",
-        "answer": "leraar"
+        "word": "pittoresk",
+        "definition": "mooi en charmant op een ouderwetse manier",
+        "sentence": "Het kleine dorpje was erg ___ met zijn oude huisjes.",
+        "answer": "pittoresk"
       },
       {
-        "word": "optie",
-        "definition": "een keuze of mogelijkheid",
-        "sentence": "Voor veel jongeren is geloof een serieuze ___ in hun leven.",
-        "answer": "optie"
+        "word": "struikelgevaar",
+        "definition": "het gevaar dat je over iets struikelt en valt",
+        "sentence": "Op gladde stenen is er veel ___ voor ouderen.",
+        "answer": "struikelgevaar"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ is open op zondag voor de mis.",
-        "answer": "kerk"
+        "sentence": "Het oude gebouw is nu ___ en wordt beschermd.",
+        "answer": "erfgoed"
       },
       {
-        "sentence": "De godsdienst___ helpt studenten bij het leren over religie.",
-        "answer": "leraar"
+        "sentence": "Op gladde stenen is er veel ___ voor ouderen.",
+        "answer": "struikelgevaar"
       },
       {
-        "sentence": "De ___ werd gehouden in de parochiekerk.",
-        "answer": "uitvaart"
+        "sentence": "Het kleine dorpje was erg ___ met zijn oude huisjes.",
+        "answer": "pittoresk"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat dit artikel vooral over?",
+      "question": "Waarom wil Gent de Vlasmarkt asfalteren?",
       "options": [
-        "Koken met champignons",
-        "De klimaatverandering in België",
-        "Veranderingen in de kerk in België",
-        "Hoe je een tuin kunt onderhouden"
+        "Omdat de stenen te oud zijn",
+        "Voor de veiligheid van voetgangers",
+        "Omdat er te veel verkeer is",
+        "Omdat niemand van kasseien houdt"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een 'uitvaart'?",
+      "question": "Wat is 'pittoresk' volgens de tekst?",
       "options": [
-        "Een feestmaal",
-        "Een sportwedstrijd",
-        "Een herdenking na een overlijden",
-        "Een soort feestmuziek"
+        "Iets dat gevaarlijk is",
+        "Iets dat mooi en charmant is",
+        "Iets dat nieuw is",
+        "Iets dat saai is"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom noemt de auteur 'leraar'?",
+      "question": "Wat willen tegenstanders van de asfaltering?",
       "options": [
-        "Omdat de persoon lesgeeft over God",
-        "Omdat het een bijnaam is",
-        "Omdat hij studenten helpt met hun huiswerk",
-        "Omdat hij een sportcoach is"
+        "Niets, ze zijn het ermee eens",
+        "De kasseien behouden als erfgoed",
+        "Meer asfalt in de stad",
+        "Alleen asfalt voor auto's"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De kerk in België wordt steeds populairder.",
+      "statement": "Gent wil de Vlasmarkt asfalteren om het veiliger te maken.",
+      "isTrue": true
+    },
+    {
+      "statement": "Iedereen in Gent is blij met de asfaltering.",
       "isTrue": false
     },
     {
-      "statement": "Jongeren zijn helemaal niet geïnteresseerd in godsdienst.",
-      "isTrue": false
-    },
-    {
-      "statement": "Een leraar kan lesgeven over godsdienst.",
+      "statement": "Kasseien kunnen gevaarlijk zijn om op te lopen.",
       "isTrue": true
     }
   ]

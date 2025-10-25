@@ -3,103 +3,103 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
+  "title": "Begint de linkse revolutie in Sint-Gillis? ‘Het is ook een vorm van lifestyle’",
   "topicNumber": 1,
   "article": {
-    "title": "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
-    "summary": "De strijd tegen Russische corruptie leidt zelfs tot in het Vlinderpaleis. Op het spel staat een eerbetoon aan Sergej Magnitski en een Antwerps appartement waarvan wordt aangenomen dat het aangekocht is met geld van de beruchte fraudezaak."
+    "title": "Begint de linkse revolutie in Sint-Gillis? ‘Het is ook een vorm van lifestyle’",
+    "summary": "Is extreemlinks in Brussel een gevaar voor de openbare orde, of vooral een vorm van idealistische folklore? In Sint-Gillis groeit een beweging die zijn verontwaardiging koppelt aan oude revolutionaire symboliek. ‘De kwaadheid over Gaza en het klimaat biedt vruchtbare grond voor extremisme.’"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "strijd",
-        "definition": "een gevecht of conflict",
-        "sentence": "De politie was betrokken bij een ___ met demonstranten.",
-        "answer": "strijd"
+        "word": "linkse",
+        "definition": "betreft politieke ideeën die verandering en gelijkheid willen",
+        "sentence": "Sommige politieke groepen worden ___ genoemd.",
+        "answer": "linkse"
       },
       {
-        "word": "corruptie",
-        "definition": "wanneer mensen in macht misbruik maken voor persoonlijk gewin",
-        "sentence": "De regering voert een campagne tegen ___ in de overheid.",
-        "answer": "corruptie"
+        "word": "revolutie",
+        "definition": "een grote en snelle verandering in de maatschappij",
+        "sentence": "Soms is er een ___ nodig voor grote veranderingen.",
+        "answer": "revolutie"
       },
       {
-        "word": "aangenomen",
-        "definition": "verondersteld of aangenomen",
-        "sentence": "Het wordt ___ dat het geld uit criminele activiteiten komt.",
-        "answer": "aangenomen"
+        "word": "kwaadheid",
+        "definition": "het gevoel van boos zijn",
+        "sentence": "Zijn ___ was duidelijk na het zien van het onrecht.",
+        "answer": "kwaadheid"
       },
       {
-        "word": "fraudezaak",
-        "definition": "een juridisch geval van bedrog of oplichting",
-        "sentence": "Hij werd gearresteerd in verband met een grote ___.",
-        "answer": "fraudezaak"
+        "word": "koppelt",
+        "definition": "verbindt of verbindt twee dingen met elkaar",
+        "sentence": "Hij ___ zijn ervaring met theorie uit boeken.",
+        "answer": "koppelt"
       },
       {
-        "word": "Vlinderpaleis",
-        "definition": "een specifiek gebouw of locatie, vaak met een bijnaam",
-        "sentence": "Het ___ is een bekend gebouw in Antwerpen.",
-        "answer": "Vlinderpaleis"
+        "word": "verontwaardiging",
+        "definition": "sterke gevoel van boosheid over iets onrechtvaardigs",
+        "sentence": "Veel mensen voelen ___ over de situatie in Gaza.",
+        "answer": "verontwaardiging"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij werd gearresteerd in verband met een grote ___.",
-        "answer": "fraudezaak"
+        "sentence": "Sommige politieke groepen worden ___ genoemd.",
+        "answer": "linkse"
       },
       {
-        "sentence": "De regering voert een campagne tegen ___ in de overheid.",
-        "answer": "corruptie"
+        "sentence": "Soms is er een ___ nodig voor grote veranderingen.",
+        "answer": "revolutie"
       },
       {
-        "sentence": "Het ___ is een bekend gebouw in Antwerpen.",
-        "answer": "Vlinderpaleis"
+        "sentence": "Zijn ___ was duidelijk na het zien van het onrecht.",
+        "answer": "kwaadheid"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is het Vlinderpaleis?",
+      "question": "Wat betekent ‘kwaadheid’ in deze context?",
       "options": [
-        "Een museum in Brussel",
-        "Een gebouw in Antwerpen",
-        "Een park in Gent",
-        "Een straat in Brugge"
+        "Boosheid",
+        "Vrolijkheid",
+        "Verdriet",
+        "Verwarring"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waar gaat het artikel over?",
+      "question": "Waarom wordt er gesproken over ‘symboliek’ in de tekst?",
       "options": [
-        "Een nieuwe diersoort",
-        "Internationale diplomatie",
-        "Corruptie en fraude",
-        "De bouw van een paleis"
+        "Omdat het over oude symbolen gaat",
+        "Omdat het over toekomstige plannen gaat",
+        "Omdat het over eten en drinken gaat",
+        "Omdat het over sport gaat"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wie was Sergej Magnitski?",
+      "question": "Wat is een voorbeeld van ‘extremisme’?",
       "options": [
-        "Een Russische kunstenaar",
-        "Een Nederlands politicus",
-        "Een Belgische politieagent",
-        "Een Russische advocaat en klokkenluider"
+        "Iemand die anderen pijn doet voor zijn ideeën",
+        "Iemand die altijd lacht",
+        "Iemand die goed kan dansen",
+        "Iemand die veel leest"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het Vlinderpaleis is een gebouw in Antwerpen.",
-      "isTrue": true
-    },
-    {
-      "statement": "Sergej Magnitski was een Belgische politicus.",
+      "statement": "De tekst gaat alleen over gevaar door extremisme.",
       "isTrue": false
     },
     {
-      "statement": "Het artikel beschrijft een verband tussen corruptie en een appartement in Antwerpen.",
+      "statement": "Sint-Gillis is een plaats in Brussel.",
+      "isTrue": true
+    },
+    {
+      "statement": "De tekst suggereert dat klimaat en Gaza tot extremisme leiden.",
       "isTrue": true
     }
   ]

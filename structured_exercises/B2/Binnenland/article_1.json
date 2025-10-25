@@ -1,106 +1,106 @@
 {
-  "id": 15,
+  "id": 14,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
+  "title": "Begint de linkse revolutie in Sint-Gillis? 'Het is ook een vorm van lifestyle'",
   "topicNumber": 1,
   "article": {
-    "title": "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
-    "summary": "De strijd tegen Russische corruptie leidt zelfs tot in het Vlinderpaleis. Op het spel staat een eerbetoon aan Sergej Magnitski en een Antwerps appartement waarvan wordt aangenomen dat het aangekocht is met geld van de beruchte fraudezaak."
+    "title": "Begint de linkse revolutie in Sint-Gillis? 'Het is ook een vorm van lifestyle'",
+    "summary": "Is extreemlinks in Brussel een gevaar voor de openbare orde, of vooral een vorm van idealistische folklore? In Sint-Gillis groeit een beweging die zijn verontwaardiging koppelt aan oude revolutionaire symboliek. 'De kwaadheid over Gaza en het klimaat biedt vruchtbare grond voor extremisme.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "strijd",
-        "definition": "Een conflict of gevecht tussen groepen mensen",
-        "sentence": "De politieke ___ in dat land duurt al jaren.",
-        "answer": "strijd"
+        "word": "linkse",
+        "definition": "Betreft politieke groeperingen die sociaal en economisch gelijkheid willen.",
+        "sentence": "De ___ politieke partij wil meer geld voor onderwijs.",
+        "answer": "linkse"
       },
       {
-        "word": "corruptie",
-        "definition": "Het misbruik van macht voor persoonlijk gewin",
-        "sentence": "Er is veel ___ in de regering van dat land.",
-        "answer": "corruptie"
+        "word": "verontwaardiging",
+        "definition": "Een gevoel van boosheid of ongenoegen over iets wat onrechtvaardig is.",
+        "sentence": "Zijn ___ over het beleid was duidelijk in zijn speech.",
+        "answer": "verontwaardiging"
       },
       {
-        "word": "aangenomen",
-        "definition": "Wordt verondersteld of verondersteld",
-        "sentence": "Het wordt ___ dat het gebouw in de 18e eeuw is gebouwd.",
-        "answer": "aangenomen"
+        "word": "revolutie",
+        "definition": "Een snelle en grote verandering in de maatschappij of politiek.",
+        "sentence": "De Franse ___ bracht grote veranderingen in de samenleving.",
+        "answer": "revolutie"
       },
       {
-        "word": "fraudezaak",
-        "definition": "Een strafrechtelijk onderzoek naar oplichting of bedrog",
-        "sentence": "Hij is verdacht van betrokkenheid bij een grote ___.",
-        "answer": "fraudezaak"
+        "word": "extremisme",
+        "definition": "Het hanteren van extreme opvattingen of acties, vaak politiek of sociaal.",
+        "sentence": "Radicale groepen kunnen leiden tot gevaarlijk ___.",
+        "answer": "extremisme"
       },
       {
-        "word": "aangekocht",
-        "definition": "Gekocht, verleden tijd van aankopen",
-        "sentence": "Het schilderij werd ___ op een veiling.",
-        "answer": "aangekocht"
+        "word": "beweging",
+        "definition": "Een groep mensen die samenwerkt voor een gemeenschappelijk doel.",
+        "sentence": "De arbeiders___ organiseerde een protest vorige week.",
+        "answer": "beweging"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het schilderij werd ___ op een veiling.",
-        "answer": "aangekocht"
+        "sentence": "Radicale groepen kunnen leiden tot gevaarlijk ___.",
+        "answer": "extremisme"
       },
       {
-        "sentence": "Hij is verdacht van betrokkenheid bij een grote ___.",
-        "answer": "fraudezaak"
+        "sentence": "Zijn ___ over het beleid was duidelijk in zijn speech.",
+        "answer": "verontwaardiging"
       },
       {
-        "sentence": "De politieke ___ in dat land duurt al jaren.",
-        "answer": "strijd"
+        "sentence": "De Franse ___ bracht grote veranderingen in de samenleving.",
+        "answer": "revolutie"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom is het appartement in Antwerpen belangrijk?",
+      "question": "Waar verwijst 'Sint-Gillis' in deze context naar?",
       "options": [
-        "Het is een geschenk aan Sergej Magnitski.",
-        "Het is gekocht met geld uit een fraudezaak.",
-        "Het is een toeristische attractie.",
-        "Het is een monument voor de stad Antwerpen."
+        "Een persoon",
+        "Een soort voedsel",
+        "Een plaats in Brussel",
+        "Een historisch figuur"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is het Vlinderpaleis?",
+      "question": "Wat is 'symboliek' in deze tekst?",
       "options": [
-        "Een gebouw in Antwerpen",
-        "Een schilderij in een museum",
-        "Een metafoor voor fragiliteit",
-        "Een type gebouw in Rusland"
+        "Een soort voedsel",
+        "Een type muziek",
+        "Het gebruik van symbolen",
+        "Een economisch systeem"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de rol van Sergej Magnitski in deze context?",
+      "question": "Wat wordt bedoeld met 'extremisme' in deze context?",
       "options": [
-        "Hij is de eigenaar van het appartement.",
-        "Hij is een slachtoffer van corruptie.",
-        "Hij is een politicus die tegen corruptie vecht.",
-        "Hij is een kunstenaar die over corruptie schildert."
+        "Een soort sport",
+        "Een vorm van extreme politieke opvattingen",
+        "Een economisch systeem",
+        "Een type kunst"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het appartement in Antwerpen is aangekocht met geld uit de fraudezaak.",
+      "statement": "Sint-Gillis is een plaats in Brussel.",
       "isTrue": true
     },
     {
-      "statement": "Sergej Magnitski is de eigenaar van het Vlinderpaleis.",
+      "statement": "Extremisme verwijst hier naar een politieke partij.",
       "isTrue": false
     },
     {
-      "statement": "De strijd tegen corruptie is alleen gericht op Russische officials.",
-      "isTrue": false
+      "statement": "De tekst beschrijft zowel gevaar als culturele aspecten van de beweging.",
+      "isTrue": true
     }
   ]
 }

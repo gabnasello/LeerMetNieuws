@@ -1,106 +1,106 @@
 {
-  "id": 24,
+  "id": 25,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "De kerk in België: achteruitgang maar ook tekenen van hoop",
+  "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
   "topicNumber": 1,
   "article": {
-    "title": "De kerk in België: achteruitgang maar ook tekenen van hoop",
-    "summary": "Amper een op de tien huwelijken is nog kerkelijk, net als bijna een op de drie uitvaarten. Ook het aantal kerkgangers is nog maar eens teruggezakt. Toch ziet godsdienstleraar Bart Willemen tekenen van hoop: 'Jongeren zoeken naar zingeving en godsdienst is weer een optie.'"
+    "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
+    "summary": "Gent wil de Vlasmarkt asfalteren, maar niet iedereen is daar gelukkig mee. Tegenstanders willen de kinderkopjes laten erkennen als erfgoed. Want niets is zo Gents als het vermogen om pittoresk struikelgevaar te romantiseren."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "kerkelijk",
-        "definition": "relating to or connected with the church",
-        "sentence": "Het huwelijk werd op een ___ manier gevierd, met een priester die de ceremonie leidde.",
-        "answer": "kerkelijk"
+        "word": "struikelgevaar",
+        "definition": "het risico om te struikelen, bijvoorbeeld door een ongelijke ondergrond",
+        "sentence": "Deze weg heeft veel ___ door de losse stenen.",
+        "answer": "struikelgevaar"
       },
       {
-        "word": "uitvaart",
-        "definition": "a funeral or funeral ceremony",
-        "sentence": "De familie kwam bijeen voor de ___ van hun geliefde, waar ze afscheid konden nemen.",
-        "answer": "uitvaart"
+        "word": "emotie",
+        "definition": "een gevoel, zoals blijdschap, verdriet of boosheid",
+        "sentence": "Hij sprak met veel ___ in zijn stem.",
+        "answer": "emotie"
       },
       {
-        "word": "kerkgangers",
-        "definition": "people who attend church services",
-        "sentence": "De ___ van de lokale parochie komen elke zondag samen voor de mis.",
-        "answer": "kerkgangers"
+        "word": "kasseien",
+        "definition": "ronde stenen die vroeger vaak werden gebruikt om straten te plaveien",
+        "sentence": "De oude straat was geplaveid met grote, ronde ___.",
+        "answer": "kasseien"
       },
       {
-        "word": "zingeving",
-        "definition": "the search for meaning and purpose in life",
-        "sentence": "Veel jongeren zijn op zoek naar ___ in hun leven, wat leidt tot een hernieuwde interesse in spiritualiteit.",
-        "answer": "zingeving"
+        "word": "pittoresk",
+        "definition": "schilderachtig, mooi en charmant om te zien, vaak op een traditionele manier",
+        "sentence": "Het dorpje was ___ met zijn kleine huisjes en bloemen.",
+        "answer": "pittoresk"
       },
       {
-        "word": "optie",
-        "definition": "an option or choice",
-        "sentence": "Voor velen is religie geen ___ meer, maar iets dat ze actief nastreven.",
-        "answer": "optie"
+        "word": "romantiseren",
+        "definition": "iets of een situatie idealiseren, mooier maken dan het in werkelijkheid is",
+        "sentence": "We moeten het verleden niet ___; het leven was toen ook hard.",
+        "answer": "romantiseren"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Voor velen is religie geen ___ meer, maar iets dat ze actief nastreven.",
-        "answer": "optie"
+        "sentence": "Deze weg heeft veel ___ door de losse stenen.",
+        "answer": "struikelgevaar"
       },
       {
-        "sentence": "Veel jongeren zijn op zoek naar ___ in hun leven, wat leidt tot een hernieuwde interesse in spiritualiteit.",
-        "answer": "zingeving"
+        "sentence": "De oude straat was geplaveid met grote, ronde ___.",
+        "answer": "kasseien"
       },
       {
-        "sentence": "De familie kwam bijeen voor de ___ van hun geliefde, waar ze afscheid konden nemen.",
-        "answer": "uitvaart"
+        "sentence": "Hij sprak met veel ___ in zijn stem.",
+        "answer": "emotie"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de huidige trend in kerkelijke huwelijken in België?",
+      "question": "Waarom wil Gent de Vlasmarkt asfalteren?",
       "options": [
-        "Ze zijn toegenomen",
-        "Ze zijn stabiel gebleven",
-        "Ze zijn sterk afgenomen",
-        "Ze zijn volledig verdwenen"
+        "Om het historische uiterlijk te behouden",
+        "Om de verkeersveiligheid te verbeteren",
+        "Om toeristen aan te trekken",
+        "Om kosten te besparen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een van de tekenen van hoop volgens Bart Willemen?",
+      "question": "Wat is een belangrijk argument van tegenstanders tegen asfalteren?",
       "options": [
-        "Kerkbezoek stijgt snel",
-        "Ouderen keren terug naar de kerk",
-        "Jongeren zoeken zingeving",
-        "Kerken sluiten massaal"
+        "Asfalt is duurder dan kasseien",
+        "Kasseien zijn een stuk cultureel erfgoed",
+        "Asfalt is slecht voor het milieu",
+        "Kasseien zijn comfortabeler om op te fietsen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de huidige situatie van kerkgangers in België?",
+      "question": "Wat beschrijft de tekst over de stad Gent?",
       "options": [
-        "Hun aantal is stabiel",
-        "Hun aantal neemt licht toe",
-        "Hun aantal is drastisch gedaald",
-        "Hun aantal is niet bekend"
+        "Het is een stad zonder geschiedenis",
+        "Het is een stad die alleen naar de toekomst kijkt",
+        "Het is een stad die zijn verleden koestert en beschermt",
+        "Het is een stad die comfort boven esthetiek stelt"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het aantal kerkelijke huwelijken in België is groter dan niet-kerkelijke.",
+      "statement": "De stad Gent wil de Vlasmarkt asfalteren omwille van de verkeersveiligheid.",
+      "isTrue": true
+    },
+    {
+      "statement": "Alle inwoners van Gent zijn tegen het asfalteren van de Vlasmarkt.",
       "isTrue": false
     },
     {
-      "statement": "Bart Willemen ziet alleen maar achteruitgang voor de kerk in België.",
-      "isTrue": false
-    },
-    {
-      "statement": "Jongeren zoeken helemaal niet naar zingeving, volgens Bart Willemen.",
-      "isTrue": false
+      "statement": "Kasseien worden beschouwd als een vorm van cultureel erfgoed.",
+      "isTrue": true
     }
   ]
 }

@@ -1,0 +1,106 @@
+{
+  "id": 26,
+  "section": "Binnenland",
+  "topic": "Binnenland",
+  "level": "A1",
+  "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
+  "topicNumber": 1,
+  "article": {
+    "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
+    "summary": "Gent wil de Vlasmarkt asfalteren. Sommige mensen zijn hier niet blij mee. Tegenstanders willen de kasseien bewaren als erfgoed. Want niets is zo Gents als het vermogen om pittoresk struikelgevaar te romantiseren."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "struikelgevaar",
+        "definition": "gevaar om te vallen of te struikelen",
+        "sentence": "Let op voor ___ op deze weg!",
+        "answer": "struikelgevaar"
+      },
+      {
+        "word": "pittoresk",
+        "definition": "mooi en charmant, vaak op een ouderwetse manier",
+        "sentence": "Het dorpje is heel ___ met zijn oude huisjes.",
+        "answer": "pittoresk"
+      },
+      {
+        "word": "wil",
+        "definition": "willen, wensen",
+        "sentence": "Hij ___ graag naar de film.",
+        "answer": "wil"
+      },
+      {
+        "word": "bewaren",
+        "definition": "iets bewaren, niet weggooien",
+        "sentence": "Ik wil deze foto's ___ in een album.",
+        "answer": "bewaren"
+      },
+      {
+        "word": "romantiseren",
+        "definition": "iets mooier of romantischer voorstellen dan het is",
+        "sentence": "Hij probeert het harde werk te ___ in zijn verhaal.",
+        "answer": "romantiseren"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Hij ___ graag naar de film.",
+        "answer": "wil"
+      },
+      {
+        "sentence": "Het dorpje is heel ___ met zijn oude huisjes.",
+        "answer": "pittoresk"
+      },
+      {
+        "sentence": "Hij probeert het harde werk te ___ in zijn verhaal.",
+        "answer": "romantiseren"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Waarom wil Gent de Vlasmarkt asfalteren?",
+      "options": [
+        "Omdat het mooi is",
+        "Omdat het gevaarlijk is",
+        "Omdat het goedkoop is",
+        "Omdat niemand het gebruikt"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat betekent 'erfgoed' in deze tekst?",
+      "options": [
+        "Een soort eten",
+        "Een soort muziek",
+        "Iets van culturele waarde uit het verleden",
+        "Een soort sport"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is een voorbeeld van pittoresk in de tekst?",
+      "options": [
+        "De kasseien",
+        "Een snelweg",
+        "Een modern gebouw",
+        "Een lege straat"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Gent wil de kasseien verwijderen omdat ze te gevaarlijk zijn.",
+      "isTrue": true
+    },
+    {
+      "statement": "Iedereen in Gent is blij met het asfalteren.",
+      "isTrue": false
+    },
+    {
+      "statement": "Kasseien kunnen gevaarlijk zijn om op te lopen.",
+      "isTrue": true
+    }
+  ]
+}

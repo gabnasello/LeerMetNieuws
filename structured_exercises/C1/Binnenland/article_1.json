@@ -1,105 +1,105 @@
 {
-  "id": 16,
+  "id": 15,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
+  "title": "Begint de linkse revolutie in Sint-Gillis? 'Het is ook een vorm van lifestyle'",
   "topicNumber": 1,
   "article": {
-    "title": "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
-    "summary": "De strijd tegen Russische corruptie leidt zelfs tot in het Vlinderpaleis. Op het spel staat een eerbetoon aan Sergej Magnitski en een Antwerps appartement waarvan wordt aangenomen dat het aangekocht is met geld van de beruchte fraudezaak."
+    "title": "Begint de linkse revolutie in Sint-Gillis? 'Het is ook een vorm van lifestyle'",
+    "summary": "Is extreemlinks in Brussel een gevaar voor de openbare orde, of vooral een vorm van idealistische folklore? In Sint-Gillis groeit een beweging die zijn verontwaardiging koppelt aan oude revolutionaire symboliek. 'De kwaadheid over Gaza en het klimaat biedt vruchtbare grond voor extremisme.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "strijd",
-        "definition": "een hevige, langdurige strijd of conflict",
-        "sentence": "De politieke ___ in het land leidde tot grote spanningen.",
-        "answer": "strijd"
+        "word": "koppelt",
+        "definition": "Verbindt of verbindt twee dingen",
+        "sentence": "De groep ___ hun acties aan oude idealen.",
+        "answer": "koppelt"
       },
       {
-        "word": "corruptie",
-        "definition": "het misbruik van macht voor persoonlijk gewin",
-        "sentence": "Wijdverspreide ___ ondermijnt het vertrouwen in de overheid.",
-        "answer": "corruptie"
+        "word": "revolutie",
+        "definition": "Een radicale verandering, vaak politiek of sociaal",
+        "sentence": "De beweging hoopt op een sociale ___ .",
+        "answer": "revolutie"
       },
       {
-        "word": "aangenomen",
-        "definition": "verondersteld, aangenomen (van een feit of situatie)",
-        "sentence": "Het werd ___ dat de zaak al gesloten was.",
-        "answer": "aangenomen"
+        "word": "Sint-Gillis",
+        "definition": "Een gemeente in Brussel, België",
+        "sentence": "In ___ vindt de beweging veel steun.",
+        "answer": "Sint-Gillis"
       },
       {
-        "word": "aangekocht",
-        "definition": "verleden deelwoord van aankopen; gekocht",
-        "sentence": "Hij heeft het huis ___ via een online veiling.",
-        "answer": "aangekocht"
+        "word": "revolutionaire",
+        "definition": "Betreffende grote verandering, vaak politiek",
+        "sentence": "De groep gebruikt oude ___ symboliek.",
+        "answer": "revolutionaire"
       },
       {
-        "word": "berucht",
-        "definition": "berucht; bekend om slechte redenen",
-        "sentence": "De straat is ___ vanwege de vele inbraken.",
-        "answer": "berucht"
+        "word": "symboliek",
+        "definition": "Het gebruik van symbolen om ideeën te representeren",
+        "sentence": "De ___ van de beweging is krachtig.",
+        "answer": "symboliek"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De straat is ___ vanwege de vele inbraken.",
-        "answer": "berucht"
+        "sentence": "In ___ vindt de beweging veel steun.",
+        "answer": "Sint-Gillis"
       },
       {
-        "sentence": "Hij heeft het huis ___ via een online veiling.",
-        "answer": "aangekocht"
+        "sentence": "De groep ___ hun acties aan oude idealen.",
+        "answer": "koppelt"
       },
       {
-        "sentence": "De politieke ___ in het land leidde tot grote spanningen.",
-        "answer": "strijd"
+        "sentence": "De ___ van de beweging is krachtig.",
+        "answer": "symboliek"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar refereert 'Vlinderpaleis' primair naar in deze context?",
+      "question": "Wat is de voornaamste reden voor de groei van de linkse beweging in Sint-Gillis?",
       "options": [
-        "Een operagebouw",
-        "Een metafoor voor fragiliteit",
-        "Een bekend café in Antwerpen",
-        "Een type kunstwerk"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat is de hoofdgedachte van de samenvatting?",
-      "options": [
-        "De strijd tegen corruptie is geconcentreerd in één specifiek gebouw.",
-        "Antwerpen is het centrum van de wereldwijde anti-corruptie inspanningen.",
-        "Een eerbetoon en een aankoop zijn symbolisch voor de bredere corruptiebestrijding.",
-        "Sergei Magnitski is de eigenaar van het appartement in Antwerpen."
+        "Economische crisis",
+        "Sociale ongelijkheid",
+        "Politieke repressie",
+        "Culturele diversiteit"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat impliceert de tekst over de aankoop van het appartement?",
+      "question": "Hoe karakteriseert de auteur de beweging in Sint-Gillis?",
       "options": [
-        "Het werd officieel bevestigd door de Russische overheid.",
-        "Het was een direct resultaat van de fraudezaak.",
-        "Het was in handen van een onbekende magnaat.",
-        "Het werd alleen aangenomen, niet bewezen."
+        "Als een gevaar voor de openbare orde",
+        "Als een vorm van folklore",
+        "Als een politieke partij",
+        "Als een religieuze groep"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is een belangrijk element in de symboliek van de beweging?",
+      "options": [
+        "Moderne technologie",
+        "Oude revolutionaire symbolen",
+        "Sportevenementen",
+        "Kunstuitingen"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het Vlinderpaleis is de locatie waar de corruptie plaatsvond.",
-      "isTrue": false
-    },
-    {
-      "statement": "De fraudezaak is direct gerelateerd aan de aankoop van het Antwerpse appartement.",
+      "statement": "De beweging in Sint-Gillis wordt vooral gedreven door jonge activisten.",
       "isTrue": true
     },
     {
-      "statement": "Sergei Magnitski is de eigenaar van het appartement in Antwerpen.",
+      "statement": "De kwaadheid over Gaza en het klimaat zijn de enige redenen voor de beweging.",
+      "isTrue": false
+    },
+    {
+      "statement": "Sint-Gillis is een stad in Nederland.",
       "isTrue": false
     }
   ]

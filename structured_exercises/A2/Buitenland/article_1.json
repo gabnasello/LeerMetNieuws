@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Trump heeft nieuwe problemen in Washington",
+  "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
   "topicNumber": 1,
   "article": {
-    "title": "Trump heeft nieuwe problemen in Washington",
-    "summary": "Donald Trump heeft nieuwe problemen in de Amerikaanse politiek na nieuwe aanklachten. Dit is belangrijk voor de buitenlandse betrekkingen."
+    "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
+    "summary": "New York is niet zoals de rest van de VS. Minder dan ooit, nu in tijden van Trump met Zohran Mamdani, een onervaren socialistische moslim wellicht de volgende burgemeester wordt. Tot hoop en afgrijzen van zijn eigen partijgenoten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Trump",
-        "definition": "de familienaam van de voormalige president van de Verenigde Staten",
-        "sentence": "___ heeft nieuwe problemen in Washington.",
-        "answer": "Trump"
+        "word": "socialist",
+        "definition": "iemand die gelooft in gelijkheid en eerlijkheid voor iedereen",
+        "sentence": "De ___ wil gratis onderwijs voor iedereen.",
+        "answer": "socialist"
       },
       {
-        "word": "Washington",
-        "definition": "de hoofdstad van de Verenigde Staten",
-        "sentence": "Hij heeft een huis in ___.",
-        "answer": "Washington"
+        "word": "moslim",
+        "definition": "iemand die gelooft in de islamitische godsdienst",
+        "sentence": "De ___ gelooft in één God en de profeet Mohammed.",
+        "answer": "moslim"
       },
       {
-        "word": "aanklachten",
-        "definition": "officiële beschuldigingen van misdrijven",
-        "sentence": "Hij kreeg nieuwe ___ in de rechtszaak.",
-        "answer": "aanklachten"
+        "word": "kandidaat",
+        "definition": "iemand die meedoet aan een verkiezing om een baan of prijs te winnen",
+        "sentence": "De ___ voor burgemeester heeft veel steun.",
+        "answer": "kandidaat"
       },
       {
-        "word": "politiek",
-        "definition": "alles wat met het bestuur van een land te maken heeft",
-        "sentence": "Hij is actief in de ___ van het land.",
-        "answer": "politiek"
+        "word": "partij",
+        "definition": "een groep mensen die samenwerkt voor een doel, vooral in de politiek",
+        "sentence": "Hij is lid van een politieke ___.",
+        "answer": "partij"
       },
       {
-        "word": "buitenland",
-        "definition": "andere landen, niet het eigen land",
-        "sentence": "Hij reist veel naar het ___ voor werk.",
-        "answer": "buitenland"
+        "word": "hoop",
+        "definition": "het gevoel dat iets goeds gaat gebeuren, iets waar je naar uitkijkt",
+        "sentence": "Ik heb veel ___ voor de toekomst.",
+        "answer": "hoop"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij heeft een huis in ___.",
-        "answer": "Washington"
+        "sentence": "Ik heb veel ___ voor de toekomst.",
+        "answer": "hoop"
       },
       {
-        "sentence": "___ heeft nieuwe problemen in Washington.",
-        "answer": "Trump"
+        "sentence": "De ___ gelooft in één God en de profeet Mohammed.",
+        "answer": "moslim"
       },
       {
-        "sentence": "Hij is actief in de ___ van het land.",
-        "answer": "politiek"
+        "sentence": "De ___ wil gratis onderwijs voor iedereen.",
+        "answer": "socialist"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar is de man actief in de politiek?",
+      "question": "Wie is Zohran Mamdani?",
       "options": [
-        "Duitsland",
-        "Nederland",
-        "Verenigde Staten",
-        "China"
+        "Een bekende zanger",
+        "Een professionele basketballer",
+        "Een politieke kandidaat",
+        "Een bekende acteur"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "question": "Wat is de hoofdstad van de Verenigde Staten?",
       "options": [
-        "Amsterdam",
-        "Washington",
-        "Brussel",
-        "Parijs"
+        "New York",
+        "Los Angeles",
+        "Washington D.C.",
+        "Chicago"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is een aanklacht?",
+      "question": "Wat betekent 'afschuw'?",
       "options": [
-        "Een soort sport",
-        "Een nieuwe wet",
-        "Een officiële beschuldiging",
-        "Een soort fruit"
+        "Een groot gevoel van geluk",
+        "Een sterk gevoel van afkeer of walging",
+        "Een soort van dans",
+        "Een oud woord voor vriendschap"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Trump is de president van Nederland.",
-      "isTrue": false
-    },
-    {
-      "statement": "Washington is een stad in Amerika.",
+      "statement": "Zohran Mamdani is een socialistische moslim.",
       "isTrue": true
     },
     {
-      "statement": "Politiek gaat alleen over verkiezingen.",
+      "statement": "New York is de hoofdstad van de Verenigde Staten.",
       "isTrue": false
+    },
+    {
+      "statement": "Zohran Mamdani is lid van een politieke partij.",
+      "isTrue": true
     }
   ]
 }

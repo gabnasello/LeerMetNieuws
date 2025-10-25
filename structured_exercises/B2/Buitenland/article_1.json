@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Man klaagt politie Washington D.C. aan na arrestatie bij protest met muziek van Star Wars",
+  "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
   "topicNumber": 1,
   "article": {
-    "title": "Man klaagt politie Washington D.C. aan na arrestatie bij protest met muziek van Star Wars",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
+    "summary": "New York is niet zoals de rest van de VS. Minder dan ooit, nu in tijden van Trump met Zohran Mamdani een onervaren socialistische moslim wellicht de volgende burgemeester wordt. Tot hoop én afgrijzen van zijn eigen partijgenoten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "aan",
-        "definition": "naar, in de richting van",
-        "sentence": "Hij gaf het boek ___ zijn vriend.",
-        "answer": "aan"
+        "word": "partijgenoten",
+        "definition": "mensen die bij dezelfde politieke partij horen",
+        "sentence": "De ___ steunden het plan van hun leider.",
+        "answer": "partijgenoten"
       },
       {
-        "word": "klaagt",
-        "definition": "maakt een formele klacht over, meestal over een probleem",
-        "sentence": "De klant ___ de winkel omdat het product defect was.",
-        "answer": "klaagt"
+        "word": "onervaren",
+        "definition": "geen of weinig ervaring hebbend",
+        "sentence": "De ___ kok maakte fouten met het recept.",
+        "answer": "onervaren"
       },
       {
-        "word": "politie",
-        "definition": "de officiële organisatie die de wet handhaaft en de openbare orde bewaakt",
-        "sentence": "De ___ kwam snel toen we belden over het lawaaierige feest.",
-        "answer": "politie"
+        "word": "hoop",
+        "definition": "het gevoel dat iets goed zal gaan",
+        "sentence": "Er is veel ___ op betere tijden.",
+        "answer": "hoop"
       },
       {
-        "word": "Washington",
-        "definition": "de hoofdstad van de Verenigde Staten, of de staat in het noordwesten van de VS",
-        "sentence": "Vorig jaar bezocht ik ___ D.C. voor een conferentie.",
-        "answer": "Washington"
+        "word": "kandidaat",
+        "definition": "iemand die meedoet aan een verkiezing of sollicitatie",
+        "sentence": "De ___ voor burgemeester hield een toespraak.",
+        "answer": "kandidaat"
       },
       {
-        "word": "protest",
-        "definition": "een publieke demonstratie om ongenoegen of verzet tegen iets te uiten",
-        "sentence": "Het ___ tegen de nieuwe wet trok duizenden mensen.",
-        "answer": "protest"
+        "word": "betaalbaar",
+        "definition": "niet te duur, goedkoop genoeg",
+        "sentence": "We zoeken een ___ hotel voor onze vakantie.",
+        "answer": "betaalbaar"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Vorig jaar bezocht ik ___ D.C. voor een conferentie.",
-        "answer": "Washington"
+        "sentence": "We zoeken een ___ hotel voor onze vakantie.",
+        "answer": "betaalbaar"
       },
       {
-        "sentence": "Hij gaf het boek ___ zijn vriend.",
-        "answer": "aan"
+        "sentence": "De ___ steunden het plan van hun leider.",
+        "answer": "partijgenoten"
       },
       {
-        "sentence": "Het ___ tegen de nieuwe wet trok duizenden mensen.",
-        "answer": "protest"
+        "sentence": "Er is veel ___ op betere tijden.",
+        "answer": "hoop"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom klaagt de man de politie aan?",
+      "question": "Wat is de hoofdfocus van de tekst?",
       "options": [
-        "Omdat hij de muziek niet mocht spelen",
-        "Omdat hij onterecht is gearresteerd",
-        "Omdat de politie te hardhandig was",
-        "Omdat hij meer publiciteit wil"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is de hoofdstad van de Verenigde Staten?",
-      "options": [
-        "New York",
-        "Los Angeles",
-        "Washington D.C.",
-        "Chicago"
+        "Koken",
+        "Sport",
+        "Politiek",
+        "Muziek"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is 'Star Wars' in deze context?",
+      "question": "Wat is de rol van Zohran Mamdani in de tekst?",
       "options": [
-        "Een bekende filmreeks",
-        "Een politieoperatie",
-        "Een type muziek",
-        "Een sportevenement"
+        "Hij is een chef-kok",
+        "Hij is een professionele atleet",
+        "Hij is een politieke kandidaat",
+        "Hij is een muzikant"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is de houding van de partijgenoten in de tekst?",
+      "options": [
+        "Ze zijn heel enthousiast",
+        "Ze zijn neutraal",
+        "Ze zijn erg boos",
+        "Ze hebben gemengde gevoelens van hoop en afgrijzen"
+      ],
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "De man werd gearresteerd omdat hij muziek speelde.",
+      "statement": "New York is vergelijkbaar met de rest van de Verenigde Staten.",
       "isTrue": false
     },
     {
-      "statement": "De protesten vonden plaats in Washington D.C.",
+      "statement": "Zohran Mamdani is een ervaren politicus.",
+      "isTrue": false
+    },
+    {
+      "statement": "Sommige partijgenoten hebben negatieve gevoelens over de situatie.",
       "isTrue": true
-    },
-    {
-      "statement": "Donald Trump is de huidige president van de Verenigde Staten.",
-      "isTrue": false
     }
   ]
 }

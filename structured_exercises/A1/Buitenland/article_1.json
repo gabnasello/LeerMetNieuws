@@ -1,0 +1,106 @@
+{
+  "id": 5,
+  "section": "Buitenland",
+  "topic": "Buitenland",
+  "level": "A1",
+  "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
+  "topicNumber": 1,
+  "article": {
+    "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
+    "summary": "New York is niet zoals de rest van de VS. Minder dan ooit, nu in tijden van Trump met Zohran Mamdani een onervaren socialistische moslim wellicht de volgende burgemeester wordt. Tot hoop én afgrijzen van zijn eigen partijgenoten."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "burgemeester",
+        "definition": "De leider van een stad of gemeente.",
+        "sentence": "Hij wil de nieuwe ___ worden van de stad.",
+        "answer": "burgemeester"
+      },
+      {
+        "word": "kandidaat",
+        "definition": "Iemand die probeert gekozen te worden.",
+        "sentence": "Hij is de ___ voor de verkiezing.",
+        "answer": "kandidaat"
+      },
+      {
+        "word": "betaalbaar",
+        "definition": "Niet te duur, goedkoop genoeg.",
+        "sentence": "Hij wil woningen ___ maken voor iedereen.",
+        "answer": "betaalbaar"
+      },
+      {
+        "word": "moslim",
+        "definition": "Iemand die de islam volgt.",
+        "sentence": "Hij is een ___ en bidt elke dag.",
+        "answer": "moslim"
+      },
+      {
+        "word": "partijgenoten",
+        "definition": "Mensen die bij dezelfde politieke groep horen.",
+        "sentence": "Sommige ___ steunen hem niet.",
+        "answer": "partijgenoten"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Sommige ___ steunen hem niet.",
+        "answer": "partijgenoten"
+      },
+      {
+        "sentence": "Hij is de ___ voor de verkiezing.",
+        "answer": "kandidaat"
+      },
+      {
+        "sentence": "Hij wil woningen ___ maken voor iedereen.",
+        "answer": "betaalbaar"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Wat wil de kandidaat doen voor New York?",
+      "options": [
+        "Het duurder maken",
+        "Het betaalbaar houden",
+        "Er niets aan doen",
+        "Het kleiner maken"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Hoe voelen sommige partijgenoten over hem?",
+      "options": [
+        "Ze zijn blij",
+        "Ze zijn neutraal",
+        "Ze zijn boos",
+        "Ze zijn enthousiast"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is zijn religie?",
+      "options": [
+        "Christen",
+        "Boeddhist",
+        "Moslim",
+        "Hindoe"
+      ],
+      "correctAnswer": 3
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "New York is hetzelfde als de rest van de VS.",
+      "isTrue": false
+    },
+    {
+      "statement": "Zohran Mamdani is de burgemeester van New York.",
+      "isTrue": false
+    },
+    {
+      "statement": "Sommige partijgenoten hebben afgrijzen van hem.",
+      "isTrue": true
+    }
+  ]
+}

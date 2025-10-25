@@ -3,103 +3,97 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
+  "title": "Auteur Marijn Kruk over het succes van de PVV in Nederland: 'Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint'",
   "topicNumber": 1,
   "article": {
-    "title": "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
-    "summary": "Argentinië houdt de adem in. Van de parlementsverkiezingen zondag hangt af of de excentrieke president Javier Milei zijn ultraliberale hervormingen een nieuwe impuls kan geven, met steun van de VS. Maar de slabakkende economie en tal van schandalen doen de president ster tanen."
+    "title": "Auteur Marijn Kruk over het succes van de PVV in Nederland: 'Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint'",
+    "summary": "De eerste Nederlandse regering met PVV-ministers draaide uit op een fiasco. Toch wenkt een volgende verkiezingstriomf voor Geert Wilders. Auteur Marijn Kruk schrikt niet: 'Radicaal-rechts heeft de strijd in dit land met 10-0 gewonnen.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "winnen",
-        "definition": "een spel of wedstrijd winnen, of iets krijgen wat je wil",
-        "sentence": "Hij hoopte de loterij te ___ en een nieuwe auto.",
-        "answer": "winnen"
+        "word": "auteur",
+        "definition": "iemand die een artikel of boek schrijft",
+        "sentence": "De ___ van dit boek is bekend.",
+        "answer": "auteur"
       },
       {
-        "word": "tussentijdse",
-        "definition": "tussen twee momenten in, bijvoorbeeld tussen twee verkiezingen in",
-        "sentence": "De ___ verkiezingen zijn belangrijk voor de politieke partijen.",
-        "answer": "tussentijdse"
+        "word": "succes",
+        "definition": "als iets goed gaat of goed afloopt",
+        "sentence": "Hij had veel ___ met zijn nieuwe baan.",
+        "answer": "succes"
       },
       {
-        "word": "verkiezingen",
-        "definition": "een verkiezing is een stemming waarbij mensen beslissen wie de leider wordt",
-        "sentence": "Tijdens de ___ stemmen mensen op hun favoriete kandidaat.",
-        "answer": "verkiezingen"
+        "word": "regering",
+        "definition": "de groep mensen die een land bestuurt",
+        "sentence": "De nieuwe ___ bestaat uit ministers van verschillende partijen.",
+        "answer": "regering"
       },
       {
-        "word": "economie",
-        "definition": "de economie is het systeem van geld en handel in een land",
-        "sentence": "De ___ van het land gaat slecht, waardoor mensen minder geld hebben.",
-        "answer": "economie"
-      },
-      {
-        "word": "scandale",
-        "definition": "een schandaal is een slechte gebeurtenis die mensen boos maakt, vaak over iets dat fout is gedaan",
-        "sentence": "De politicus raakte betrokken bij een groot ___ en moest aftreden.",
-        "answer": "scandale"
+        "word": "verkiezingstriomf",
+        "definition": "een grote overwinning bij verkiezingen",
+        "sentence": "De partij vierde een grote ___.",
+        "answer": "verkiektionstriomf"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ verkiezingen zijn belangrijk voor de politieke partijen.",
-        "answer": "tussentijdse"
+        "sentence": "De nieuwe ___ bestaat uit ministers van verschillende partijen.",
+        "answer": "regering"
       },
       {
-        "sentence": "De politicus raakte betrokken bij een groot ___ en moest aftreden.",
-        "answer": "scandale"
+        "sentence": "De partij vierde een grote ___.",
+        "answer": "verkiektionstriomf"
       },
       {
-        "sentence": "De ___ van het land gaat slecht, waardoor mensen minder geld hebben.",
-        "answer": "economie"
+        "sentence": "Hij had veel ___ met zijn nieuwe baan.",
+        "answer": "succes"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de belangrijkste reden dat president Milei hervormingen wil doorvoeren?",
+      "question": "Wat betekent 'verkiezingstriomf'?",
       "options": [
-        "Om de economie te verbeteren",
-        "Omdat de Verenigde Naties dat vragen",
-        "Omdat hij populair wil zijn",
-        "Omdat er verkiezingen aankomen"
+        "een soort feest",
+        "een grote overwinning bij verkiezingen",
+        "een nieuwe regering",
+        "een moeilijke verkiezing"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is een gevolg van de slechte economie in Argentinië?",
+      "question": "Waar gaat de tekst over?",
       "options": [
-        "Mensen hebben minder geld om uit te geven",
-        "President Milei wordt populairder",
-        "Er zijn meer internationale handel",
-        "De Verenigde Naties geven meer steun"
+        "Over sport in Nederland",
+        "Over een Nederlandse auteur",
+        "Over de Nederlandse politiek en verkiezingen",
+        "Over de Nederlandse koning"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
-      "question": "Waarom zijn de tussentijdse verkiezingen belangrijk volgens de tekst?",
+      "question": "Waarom is de auteur niet verrast door de winst van Wilders?",
       "options": [
-        "Ze bepalen of Milei's hervormingen doorgaan",
-        "Ze zijn elke week gepland",
-        "Ze veroorzaken meer schandalen",
-        "Ze maken de economie sterker"
+        "Omdat Wilders altijd wint",
+        "Omdat de auteur niet van politiek houdt",
+        "Omdat veel mensen de wereld zien zoals Wilders",
+        "Omdat Wilders de enige kandidaat was"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "President Milei krijgt steun van de Verenigde Naties voor zijn hervormingen.",
+      "statement": "De eerste regering met PVV-ministers was een groot succes.",
       "isTrue": false
     },
     {
-      "statement": "De economie van Argentinië gaat momenteel slecht, wat de regering moeilijk maakt.",
+      "statement": "Geert Wilders is de leider van de PVV.",
       "isTrue": true
     },
     {
-      "statement": "President Milei is populair en heeft geen problemen volgens de tekst.",
+      "statement": "De auteur Marijn Kruk is boos over de verkiezingsuitslag.",
       "isTrue": false
     }
   ]

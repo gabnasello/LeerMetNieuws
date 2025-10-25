@@ -1,106 +1,106 @@
 {
-  "id": 23,
+  "id": 24,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "De kerk in België: achteruitgang maar ook hoop",
+  "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
   "topicNumber": 1,
   "article": {
-    "title": "De kerk in België: achteruitgang maar ook hoop",
-    "summary": "Het aantal kerkelijke huwelijken en uitvaarten is sterk gedaald, en ook het aantal kerkgangers is verminderd. Toch ziet godsdienstleraar Bart Willemen tekenen van hoop: jongeren zoeken naar zingeving en godsdienst wordt weer een optie."
+    "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
+    "summary": "Gent wil de Vlasmarkt asfalteren, al is niet iedereen daar gelukkig mee. Tegenstanders willen de kinderkopjes laten erkennen als erfgoed. Want niets is zo Gents als het vermogen om pittoresk struikelgevaar te romantiseren."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "kerk",
-        "definition": "een gebouw waar mensen samenkomen voor religieuze diensten",
-        "sentence": "De ___ is een plek waar mensen samenkomen om te bidden.",
-        "answer": "kerk"
+        "word": "erfgoed",
+        "definition": "cultureel of natuurlijk erfgoed dat bewaard moet worden",
+        "sentence": "Sommige inwoners zien de straat als een stukje ___ dat beschermd moet worden.",
+        "answer": "erfgoed"
       },
       {
-        "word": "huwelijk",
-        "definition": "een ceremonie waarbij twee mensen met elkaar trouwen",
-        "sentence": "Het ___ is een feestelijke gebeurtenis waar families samenkomen.",
-        "answer": "huwelijk"
+        "word": "struikelgevaar",
+        "definition": "gevaar dat iemand struikelt, bijvoorbeeld door een oneffen ondergrond",
+        "sentence": "De oude stenen veroorzaken ___ voor oudere inwoners.",
+        "answer": "struikelgevaar"
       },
       {
-        "word": "uitvaart",
-        "definition": "een ceremonie waarbij een overleden persoon wordt herdacht",
-        "sentence": "Tijdens een ___ komen mensen samen om afscheid te nemen.",
-        "answer": "uitvaart"
+        "word": "romantiseren",
+        "definition": "iets of iemand idealiseren door vooral de positieve kanten te zien",
+        "sentence": "Critici zeggen dat het gevaar wordt ___ en dat de straat veiliger moet.",
+        "answer": "romantiseren"
       },
       {
-        "word": "zingeving",
-        "definition": "de zoektocht naar betekenis en doel in het leven",
-        "sentence": "Veel mensen zoeken naar ___ in hun leven om gelukkig te zijn.",
-        "answer": "zingeving"
+        "word": "asfalteren",
+        "definition": "een ondergrond bedekken met asfalt, een stevig en glad materiaal",
+        "sentence": "De gemeente wil de straat ___ voor een betere ondergrond.",
+        "answer": "asfalteren"
       },
       {
-        "word": "God",
-        "definition": "in veel religies, het hoogste wezen dat wordt aanbeden",
-        "sentence": "Sommige mensen bidden tot ___ voor steun en guidance.",
-        "answer": "God"
+        "word": "kasseien",
+        "definition": "oude straatstenen die vaak gebruikt worden in historische straten",
+        "sentence": "De Vlasmarkt is geplaveid met oude ___ die glimmen in de zon.",
+        "answer": "kasseien"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Tijdens een ___ komen mensen samen om afscheid te nemen.",
-        "answer": "uitvaart"
+        "sentence": "Sommige inwoners zien de straat als een stukje ___ dat beschermd moet worden.",
+        "answer": "erfgoed"
       },
       {
-        "sentence": "Veel mensen zoeken naar ___ in hun leven om gelukkig te zijn.",
-        "answer": "zingeving"
+        "sentence": "De oude stenen veroorzaken ___ voor oudere inwoners.",
+        "answer": "struikelgevaar"
       },
       {
-        "sentence": "Sommige mensen bidden tot ___ voor steun en guidance.",
-        "answer": "God"
+        "sentence": "De gemeente wil de straat ___ voor een betere ondergrond.",
+        "answer": "asfalteren"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom is het aantal kerkelijke huwelijken gedaald?",
+      "question": "Waarom wil Gent de Vlasmarkt asfalteren?",
       "options": [
-        "Mensen geloven niet langer in God",
-        "Mensen geven de voorkeur aan een burgerlijk huwelijk",
-        "Kerken zijn gesloten wegens onderhoud",
-        "De pandemie heeft ceremonies beperkt"
+        "Omdat de stenen te oud zijn",
+        "Om de straat veiliger en toegankelijker te maken",
+        "Omdat er te weinig toeristen komen",
+        "Omdat asfalteren goedkoper is"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is een teken van hoop volgens Bart Willemen?",
+      "question": "Wat is een belangrijk argument van de tegenstanders?",
       "options": [
-        "Kerken worden voller tijdens feestdagen",
-        "Jongeren zoeken actief naar zingeving",
-        "Meer mensen bezoeken wekelijks de mis",
-        "Religieuze boeken worden meer verkocht"
+        "Asfalt is slecht voor het milieu",
+        "Kasseien zijn deel van het cultureel erfgoed",
+        "Asfalteren is te duur voor de stad",
+        "De Vlasmarkt is niet geschikt voor auto's"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is een 'uitvaart'?",
+      "question": "Wat is een gevolg van kasseien als ondergrond?",
       "options": [
-        "Een huwelijksceremonie in de kerk",
-        "Een herdenking voor iemand die overleden is",
-        "Een feest voor een nieuwe baby",
-        "Een religieuze feestdag"
+        "Ze zijn erg duurzaam en gaan lang mee",
+        "Ze zijn glad als ze nat worden",
+        "Ze zijn niet geschikt voor rolstoelgebruikers",
+        "Ze veroorzaken meer verkeerslawaai"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het aantal kerkelijke huwelijken is gestegen in België.",
-      "isTrue": false
-    },
-    {
-      "statement": "Bart Willemen ziet dat jongeren meer interesse tonen in godsdienst.",
+      "statement": "Gent wil de Vlasmarkt asfalteren om het struikelgevaar te verminderen.",
       "isTrue": true
     },
     {
-      "statement": "Alle kerken in België zijn gesloten vanwege achteruitgang.",
+      "statement": "Alle inwoners van Gent zijn tegen het asfalteren van de Vlasmarkt.",
       "isTrue": false
+    },
+    {
+      "statement": "De kasseien op de Vlasmarkt worden door sommige mensen gezien als belangrijk erfgoed.",
+      "isTrue": true
     }
   ]
 }

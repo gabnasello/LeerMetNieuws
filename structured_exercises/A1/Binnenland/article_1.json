@@ -1,0 +1,106 @@
+{
+  "id": 16,
+  "section": "Binnenland",
+  "topic": "Binnenland",
+  "level": "A1",
+  "title": "Begint de linkse revolutie in Sint-Gillis?",
+  "topicNumber": 1,
+  "article": {
+    "title": "Begint de linkse revolutie in Sint-Gillis?",
+    "summary": "Is extreemlinks in Brussel een gevaar voor de openbare orde, of vooral een vorm van idealistische folklore? In Sint-Gillis groeit een beweging die zijn verontwaardiging koppelt aan oude revolutionaire symboliek. De kwaadheid over Gaza en het klimaat biedt vruchtbare grond voor extremisme."
+  },
+  "vocabulary": {
+    "words": [
+      {
+        "word": "extreemlinks",
+        "definition": "heel erg links, radicaal",
+        "sentence": "De groep was ___ en wilde snel veranderen.",
+        "answer": "extreemlinks"
+      },
+      {
+        "word": "Sint-Gillis",
+        "definition": "een plaats in Brussel",
+        "sentence": "___ is een bekende wijk.",
+        "answer": "Sint-Gillis"
+      },
+      {
+        "word": "revolutie",
+        "definition": "een grote verandering, vaak met geweld",
+        "sentence": "De ___ in dat land bracht veel verandering.",
+        "answer": "revolutie"
+      },
+      {
+        "word": "symboliek",
+        "definition": "het gebruik van symbolen, beeldspraak",
+        "sentence": "De ___ in de kunst was mooi.",
+        "answer": "symboliek"
+      },
+      {
+        "word": "gevaar",
+        "definition": "iets dat gevaarlijk is, risico",
+        "sentence": "Er is een ___ voor de gezondheid.",
+        "answer": "gevaar"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "De ___ in dat land bracht veel verandering.",
+        "answer": "revolutie"
+      },
+      {
+        "sentence": "De groep was ___ en wilde snel veranderen.",
+        "answer": "extreemlinks"
+      },
+      {
+        "sentence": "De ___ in de kunst was mooi.",
+        "answer": "symboliek"
+      }
+    ]
+  },
+  "multipleChoice": [
+    {
+      "question": "Waar gaat de tekst over?",
+      "options": [
+        "Koken",
+        "Sport",
+        "Politiek",
+        "Muziek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is Sint-Gillis?",
+      "options": [
+        "Een stad",
+        "Een rivier",
+        "Een wijk in Brussel",
+        "Een berg"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Is extreemlinks gevaarlijk?",
+      "options": [
+        "Ja, altijd",
+        "Nee, nooit",
+        "Soms, het hangt af",
+        "Alleen in de winter"
+      ],
+      "correctAnswer": 3
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "Sint-Gillis is een plaats in Brussel.",
+      "isTrue": true
+    },
+    {
+      "statement": "Extreemlinks betekent heel rechts.",
+      "isTrue": false
+    },
+    {
+      "statement": "De tekst gaat over politiek.",
+      "isTrue": true
+    }
+  ]
+}
