@@ -1,15 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-10-25 04:27 UCT
+Nieuwsupdate: 2025-10-25 15:50 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: “We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker”
-Link: https://www.standaard.be/binnenland/we-hebben-zo-hard-gestreden-voor-het-nederlands-maar-van-de-verengelsing-ligt-niemand-wakker/99839574.html
-Datum: Fri, 24 Oct 2025 21:59:00 GMT
-Samenvatting: Het Engels is oppermachtig aan de universiteit. Dat biedt kansen, maar het knelt en wringt ook. “Zelfs op een congres over Franse vertaalwetenschap is de voertaal Engels.”
+Titel: Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht
+Link: https://www.standaard.be/binnenland/oosterweel-bypass-opent-op-de-antwerpse-ring-veel-verkeershinder-verwacht/100102059.html
+Datum: Sat, 25 Oct 2025 09:24:00 GMT
+Samenvatting: Op de Antwerpse Ring is afgelopen nacht een tijdelijk stuk snelweg geopend, parallel met het viaduct van Merksem ter hoogte van de AFAS-Dome. De belangrijke stap in de Oosterweelwerken belooft veel verkeershinder met zich mee te brengen.
 Auteur: Geen auteur
 Categorie: Binnenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/fpqk8q-aula06.jpg/alternates/BASE_SIXTEEN_NINE/Aula06.jpg
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/9qzba1-939.jpeg/alternates/BASE_SIXTEEN_NINE/939.jpeg
+Premium: false
 ------------------------------------------------------------

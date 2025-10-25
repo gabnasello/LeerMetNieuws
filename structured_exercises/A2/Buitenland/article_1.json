@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
+  "title": "Japanse toerist overleden na val van Pantheon in Rome",
   "topicNumber": 1,
   "article": {
-    "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
-    "summary": "New York is niet zoals de rest van de VS. Minder dan ooit, nu in tijden van Trump met Zohran Mamdani, een onervaren socialistische moslim wellicht de volgende burgemeester wordt. Tot hoop en afgrijzen van zijn eigen partijgenoten."
+    "title": "Japanse toerist overleden na val van Pantheon in Rome",
+    "summary": "Een 69-jarige toerist uit Japan is vrijdagavond van een muur van het Pantheon in de Italiaanse hoofdstad Rome gevallen. Hij overleed ter plaatse."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "socialist",
-        "definition": "iemand die gelooft in gelijkheid en eerlijkheid voor iedereen",
-        "sentence": "De ___ wil gratis onderwijs voor iedereen.",
-        "answer": "socialist"
+        "word": "p",
+        "definition": "dit is een letter, deel van een woord",
+        "sentence": "Het woord 'muur' begint met een ___.",
+        "answer": "p"
       },
       {
-        "word": "moslim",
-        "definition": "iemand die gelooft in de islamitische godsdienst",
-        "sentence": "De ___ gelooft in één God en de profeet Mohammed.",
-        "answer": "moslim"
+        "word": "val",
+        "definition": "naar beneden gaan, vallen",
+        "sentence": "Hij maakte een ___ van de muur.",
+        "answer": "val"
       },
       {
-        "word": "kandidaat",
-        "definition": "iemand die meedoet aan een verkiezing om een baan of prijs te winnen",
-        "sentence": "De ___ voor burgemeester heeft veel steun.",
-        "answer": "kandidaat"
+        "word": "m",
+        "definition": "een letter van het alfabet",
+        "sentence": "De letter ___ is de dertiende letter.",
+        "answer": "m"
       },
       {
-        "word": "partij",
-        "definition": "een groep mensen die samenwerkt voor een doel, vooral in de politiek",
-        "sentence": "Hij is lid van een politieke ___.",
-        "answer": "partij"
+        "word": "overleed",
+        "definition": "niet meer leven, dood gaan",
+        "sentence": "Helaas is hij ___ na het ongeluk.",
+        "answer": "overleed"
       },
       {
-        "word": "hoop",
-        "definition": "het gevoel dat iets goeds gaat gebeuren, iets waar je naar uitkijkt",
-        "sentence": "Ik heb veel ___ voor de toekomst.",
-        "answer": "hoop"
+        "word": "r",
+        "definition": "een letter in het alfabet",
+        "sentence": "De laatste letter van 'val' is de ___.",
+        "answer": "r"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ik heb veel ___ voor de toekomst.",
-        "answer": "hoop"
+        "sentence": "De letter ___ is de dertiende letter.",
+        "answer": "m"
       },
       {
-        "sentence": "De ___ gelooft in één God en de profeet Mohammed.",
-        "answer": "moslim"
+        "sentence": "Hij maakte een ___ van de muur.",
+        "answer": "val"
       },
       {
-        "sentence": "De ___ wil gratis onderwijs voor iedereen.",
-        "answer": "socialist"
+        "sentence": "De laatste letter van 'val' is de ___.",
+        "answer": "r"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wie is Zohran Mamdani?",
+      "question": "Waar kwam de toerist vandaan?",
       "options": [
-        "Een bekende zanger",
-        "Een professionele basketballer",
-        "Een politieke kandidaat",
-        "Een bekende acteur"
+        "Nederland",
+        "Duitsland",
+        "Japan",
+        "Italië"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is de hoofdstad van de Verenigde Staten?",
+      "question": "Wat is de hoofdstad van Italië?",
       "options": [
-        "New York",
-        "Los Angeles",
-        "Washington D.C.",
-        "Chicago"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat betekent 'afschuw'?",
-      "options": [
-        "Een groot gevoel van geluk",
-        "Een sterk gevoel van afkeer of walging",
-        "Een soort van dans",
-        "Een oud woord voor vriendschap"
+        "Parijs",
+        "Rome",
+        "Amsterdam",
+        "Berlijn"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Wat gebeurde er met de man?",
+      "options": [
+        "Hij is gezond",
+        "Hij is vertrokken",
+        "Hij is overleden",
+        "Hij is aan het werk"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Zohran Mamdani is een socialistische moslim.",
-      "isTrue": true
-    },
-    {
-      "statement": "New York is de hoofdstad van de Verenigde Staten.",
+      "statement": "De toerist kwam uit Nederland.",
       "isTrue": false
     },
     {
-      "statement": "Zohran Mamdani is lid van een politieke partij.",
+      "statement": "De man is overleden na de val.",
       "isTrue": true
+    },
+    {
+      "statement": "Rome is de hoofdstad van Duitsland.",
+      "isTrue": false
     }
   ]
 }

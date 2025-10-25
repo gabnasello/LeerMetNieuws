@@ -29,103 +29,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
+    title: "Japanse toerist overleden na val van Pantheon in Rome",
     topicNumber: 1,
     article: {
-      title: "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
-      summary: "New York is niet zoals de rest van de VS. Minder dan ooit, nu in tijden van Trump met Zohran Mamdani een onervaren socialistische moslim wellicht de volgende burgemeester wordt. Tot hoop én afgrijzen van zijn eigen partijgenoten."
+      title: "Japanse toerist overleden na val van Pantheon in Rome",
+      summary: "Een 69-jarige toerist uit Japan is vrijdagavond van een muur van het Pantheon in de Italiaanse hoofdstad Rome gevallen. Hij overleed ter plaatse."
     },
     vocabulary: {
       words: [
         {
-          word: "afgrijzen",
-          definition: "Heel erg schrikken van iets",
-          sentence: "Hij schrok zich ___ van het enge nieuws.",
-          answer: "afgrijzen"
+          word: "Pantheon",
+          definition: "een oud, rond gebouw in Rome met een grote koepel",
+          sentence: "Het ___ is een beroemd monument in Rome.",
+          answer: "Pantheon"
         },
         {
-          word: "partijgenoten",
-          definition: "Mensen die in dezelfde politieke partij zitten",
-          sentence: "Hij werkt samen met zijn ___ aan een nieuw plan.",
-          answer: "partijgenoten"
+          word: "hoofdstad",
+          definition: "de belangrijkste stad van een land, waar de regering zit",
+          sentence: "Amsterdam is de ___ van Nederland.",
+          answer: "hoofdstad"
         },
         {
-          word: "moslim",
-          definition: "Iemand die de islamitische godsdienst volgt",
-          sentence: "Een ___ gelooft in de islamitische godsdienst.",
-          answer: "moslim"
+          word: "muur",
+          definition: "een stevige wand van steen of hout, vaak van een gebouw",
+          sentence: "Hij viel van de ___ en raakte gewond.",
+          answer: "muur"
         },
         {
-          word: "hoop",
-          definition: "De hoop dat iets goed gaat komen",
-          sentence: "Ik heb veel ___ dat het goed komt.",
-          answer: "hoop"
+          word: "toerist",
+          definition: "iemand die op vakantie is in een ander land",
+          sentence: "De ___ nam veel foto's tijdens zijn reis.",
+          answer: "toerist"
         },
         {
-          word: "New York",
-          definition: "Een grote stad in Amerika",
-          sentence: "___ is een bekende stad in de Verenigde Staten.",
-          answer: "New York"
+          word: "hoofdstad",
+          definition: "de belangrijkste stad van een land, waar de regering zit",
+          sentence: "Rome is de ___ van Italië.",
+          answer: "hoofdstad"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Een ___ gelooft in de islamitische godsdienst.",
-          answer: "moslim"
+          sentence: "Het ___ is een beroemd monument in Rome.",
+          answer: "Pantheon"
         },
         {
-          sentence: "Hij werkt samen met zijn ___ aan een nieuw plan.",
-          answer: "partijgenoten"
+          sentence: "De ___ nam veel foto's tijdens zijn reis.",
+          answer: "toerist"
         },
         {
-          sentence: "___ is een bekende stad in de Verenigde Staten.",
-          answer: "New York"
+          sentence: "Rome is de ___ van Italië.",
+          answer: "hoofdstad"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de hoofdstad van de Verenigde Staten?",
+        question: "Waar bevindt het Pantheon zich?",
         options: [
-          "Washington D.C.",
-          "New York",
-          "Los Angeles",
-          "Chicago"
+          "Londen",
+          "Rome",
+          "Parijs",
+          "Berlijn"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat betekent 'onervaren'?",
+        question: "Wat is de hoofdstad van Italië?",
         options: [
-          "Iemand met weinig ervaring",
-          "Iemand die heel erg oud is",
-          "Iemand die heel snel rent",
-          "Iemand die veel geld heeft"
+          "Milaan",
+          "Venetië",
+          "Rome",
+          "Napels"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wat is de religie van een moslim?",
+        question: "Wat betekent 'overleden'?",
         options: [
-          "Islam",
-          "Christendom",
-          "Boeddhisme",
-          "Hindoeïsme"
+          "verhuisd",
+          "gestorven",
+          "verdwenen",
+          "gewond"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "New York is de hoofdstad van de Verenigde Staten.",
-        isTrue: false
-      },
-      {
-        statement: "Een moslim is iemand die de islamitische godsdienst volgt.",
+        statement: "De toerist overleed ter plaatse.",
         isTrue: true
       },
       {
-        statement: "Zohran Mamdani is de burgemeester van New York.",
+        statement: "Het ongeluk vond plaats in Rome, Italië.",
+        isTrue: true
+      },
+      {
+        statement: "De toerist was afkomstig uit Duitsland.",
         isTrue: false
       }
     ]
@@ -135,103 +135,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Auteur Marijn Kruk over het succes van de PVV in Nederland: 'Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint'",
+    title: "Amerikaanse drones controleren staakt-het-vuren in Gaza",
     topicNumber: 1,
     article: {
-      title: "Auteur Marijn Kruk over het succes van de PVV in Nederland: 'Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint'",
-      summary: "De eerste Nederlandse regering met PVV-ministers draaide uit op een fiasco. Toch wenkt een volgende verkiezingstriomf voor Geert Wilders. Auteur Marijn Kruk schrikt niet: 'Radicaal-rechts heeft de strijd in dit land met 10-0 gewonnen.'"
+      title: "Amerikaanse drones controleren staakt-het-vuren in Gaza",
+      summary: "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen."
     },
     vocabulary: {
       words: [
         {
-          word: "radicaal",
-          definition: "zeer extreem, tot het uiterste gaand",
-          sentence: "Hij heeft ___ andere ideeën.",
-          answer: "radicaal"
+          word: "staakt-het-vuren",
+          definition: "een afspraak om te stoppen met vechten voor een bepaalde tijd",
+          sentence: "Het ___ is van kracht sinds gisteren.",
+          answer: "staakt-het-vuren"
         },
         {
-          word: "minister",
-          definition: "een belangrijk persoon in de regering",
-          sentence: "De ___ van Onderwijs geeft een toespraak.",
-          answer: "minister"
+          word: "doorbraak",
+          definition: "een belangrijke oplossing of succes na moeilijkheden",
+          sentence: "De onderhandelingen leiden tot een ___ in het conflict.",
+          answer: "doorbraak"
         },
         {
-          word: "wereld",
-          definition: "alle landen en mensen samen, de aarde",
-          sentence: "Hij bekijkt de ___ vanuit een ander perspectief.",
-          answer: "wereld"
+          word: "controleren",
+          definition: "in de gaten houden of bepalen wat er gebeurt",
+          sentence: "Drones ___ het gebied om te zorgen voor veiligheid.",
+          answer: "controleren"
         },
         {
-          word: "verkiezing",
-          definition: "een stemming waarbij mensen kiezen wie hun vertegenwoordiger wordt",
-          sentence: "De uitslag van de ___ is bekend.",
-          answer: "verkiezing"
+          word: "ontwikkelingen",
+          definition: "nieuwe dingen die gebeuren of veranderen",
+          sentence: "Volg de laatste ___ in dit nieuwsbericht.",
+          answer: "ontwikkelingen"
         },
         {
-          word: "fiasco",
-          definition: "een grote mislukking, iets dat heel fout gaat",
-          sentence: "Het plan werd een ___.",
-          answer: "fiasco"
+          word: "oorlog",
+          definition: "een periode van gewapend conflict tussen landen of groepen",
+          sentence: "De ___ in Gaza duurt al twee jaar.",
+          answer: "oorlog"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het plan werd een ___.",
-          answer: "fiasco"
+          sentence: "De onderhandelingen leiden tot een ___ in het conflict.",
+          answer: "doorbraak"
         },
         {
-          sentence: "De ___ van Onderwijs geeft een toespraak.",
-          answer: "minister"
+          sentence: "Het ___ is van kracht sinds gisteren.",
+          answer: "staakt-het-vuren"
         },
         {
-          sentence: "Hij heeft ___ andere ideeën.",
-          answer: "radicaal"
+          sentence: "Volg de laatste ___ in dit nieuwsbericht.",
+          answer: "ontwikkelingen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'fiasco' in deze context?",
+        question: "Waarom worden drones ingezet in Gaza?",
         options: [
-          "een groot succes",
-          "een complete mislukking",
-          "een soort dans",
-          "een nieuwe start"
+          "Om feestjes te filmen",
+          "Om het staakt-het-vuren te controleren",
+          "Om nieuwe speelgoed te testen",
+          "Om de oorlog te beginnen"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waar staat PVV voor?",
+        question: "Wat is het resultaat van de onderhandelingen?",
         options: [
-          "Partij voor de Vrijheid",
-          "Partij voor de Vrede",
-          "Partij van de Vrijheid",
-          "Partij voor de Vrijheid en Democratie"
+          "Er is geen resultaat",
+          "Er is een nieuwe oorlog begonnen",
+          "Er is een doorbraak bereikt",
+          "Er is niets gebeurd"
         ],
-        correctAnswer: 4
+        correctAnswer: 3
       },
       {
-        question: "Wat is de rol van een minister?",
+        question: "Hoe lang duurt de oorlog in Gaza al?",
         options: [
-          "De regering van een land leiden",
-          "Alleen wetten maken",
-          "Zorgen voor sportevenementen",
-          "De koning adviseren"
+          "1 maand",
+          "2 jaar",
+          "5 jaar",
+          "10 jaar"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Geert Wilders is de minister-president van Nederland.",
+        statement: "Drones worden gebruikt om het staakt-het-vuren te controleren.",
         isTrue: true
       },
       {
-        statement: "Een fiasco is een kleine fout zonder gevolgen.",
+        statement: "De oorlog in Gaza is net begonnen.",
         isTrue: false
       },
       {
-        statement: "Radicaal-rechts heeft in Nederland de verkiezingen gewonnen.",
+        statement: "Er is een doorbraak in de vredesonderhandelingen.",
         isTrue: true
       }
     ]
@@ -241,104 +241,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Amerikaanse diplomaat in het Midden-Oosten",
+    title: "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
     topicNumber: 1,
     article: {
-      title: "Amerikaanse diplomaat in het Midden-Oosten",
-      summary: "Een Amerikaanse diplomaat werkt aan vredesgesprekken in het Midden-Oosten. Hij gebruikt zijn contacten en ervaring om partijen samen te brengen."
+      title: "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
+      summary: "De 68-jarige Catherine Connally is de nieuwe president van Ierland. Ze stond al lang aan de leiding in de peilingen. Haar rivaal Heather Humphreys van de regeringspartij Fine Gael heeft haar nederlaag toegegeven."
     },
     vocabulary: {
       words: [
         {
-          word: "contacten",
-          definition: "mensen die je kent en die je kunnen helpen",
-          sentence: "Hij heeft goede ___ in de politieke wereld.",
-          answer: "contacten"
+          word: "president",
+          definition: "het hoofd van een land, de leider",
+          sentence: "De ___ van de Verenigde Staten is Joe Biden.",
+          answer: "president"
         },
         {
-          word: "samen",
-          definition: "gezamenlijk, met elkaar",
-          sentence: "Ze werken ___ aan een oplossing.",
-          answer: "samen"
+          word: "rivaal",
+          definition: "iemand die tegen je is, een tegenstander",
+          sentence: "De twee atleten waren echte ___ in de race.",
+          answer: "rivaal"
         },
         {
-          word: "diplomaat",
-          definition: "iemand die namens een land in het buitenland werkt",
-          sentence: "De ___ reist vaak naar andere landen voor werk.",
-          answer: "diplomaat"
+          word: "erkent",
+          definition: "geeft toe of bevestigt",
+          sentence: "Hij ___ dat hij een fout heeft gemaakt.",
+          answer: "erkent"
         },
         {
-          word: "partijen",
-          definition: "groepen of landen die betrokken zijn bij een situatie",
-          sentence: "De verschillende ___ in het conflict moeten samenwerken.",
-          answer: "partijen"
+          word: "nederlaag",
+          definition: "het verliezen van een wedstrijd of strijd",
+          sentence: "Na de zware ___ voelde het team zich down.",
+          answer: "nederlaag"
         },
         {
-          word: "ervaring",
-          definition: "kennis en vaardigheden die je opdoet door dingen mee te maken",
-          sentence: "Zijn ___ in diplomatie is erg groot.",
-          answer: "ervaring"
+          word: "regeringspartij",
+          definition: "een politieke groep die aan de macht is",
+          sentence: "De ___ heeft veel zetels in het parlement.",
+          answer: "regeringspartij"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ reist vaak naar andere landen voor werk.",
-          answer: "diplomaat"
+          sentence: "Hij ___ dat hij een fout heeft gemaakt.",
+          answer: "erkent"
         },
         {
-          sentence: "De verschillende ___ in het conflict moeten samenwerken.",
-          answer: "partijen"
+          sentence: "De twee atleten waren echte ___ in de race.",
+          answer: "rivaal"
         },
         {
-          sentence: "Zijn ___ in diplomatie is erg groot.",
-          answer: "ervaring"
+          sentence: "Na de zware ___ voelde het team zich down.",
+          answer: "nederlaag"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat doet de diplomaat in deze tekst?",
+        question: "Wat betekent 'president' in de context van de tekst?",
         options: [
-          "Hij speelt voetbal",
-          "Hij koopt een huis",
-          "Hij werkt aan vredesgesprekken",
-          "Hij reist voor zijn plezier"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Waarom is de diplomaat goed in zijn werk?",
-        options: [
-          "Hij is sterk",
-          "Hij heeft veel contacten",
-          "Hij is heel rijk",
-          "Hij woont in een groot huis"
+          "een soort dokter",
+          "de leider van een land",
+          "een type auto",
+          "een beroemde filmster"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is het doel van de diplomaat?",
+        question: "Waarom erkende Heather Humphreys haar nederlaag volgens de tekst?",
         options: [
-          "Om te winnen met voetbal",
-          "Om partijen samen te brengen",
-          "Om alleen te werken",
-          "Om te stoppen met werken"
+          "Omdat ze ziek was",
+          "Omdat ze de verkiezing verloor",
+          "Omdat ze een nieuwe baan kreeg",
+          "Omdat ze de verkiezing won"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is de rol van Catherine Connally in Ierland?",
+        options: [
+          "Ze is een student",
+          "Ze is de nieuwe president",
+          "Ze is een beroemde zanger",
+          "Ze is de leider van een klein dorp"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De diplomaat werkt alleen.",
-        isTrue: false
-      },
-      {
-        statement: "De diplomaat gebruikt zijn contacten om partijen samen te brengen.",
+        statement: "Catherine Connally is de nieuwe president van Ierland.",
         isTrue: true
       },
       {
-        statement: "De diplomaat wil dat partijen tegen elkaar vechten.",
+        statement: "Heather Humphreys won de verkiezingen.",
         isTrue: false
+      },
+      {
+        statement: "Catherine Connally stond al lang aan de leiding in de peilingen.",
+        isTrue: true
       }
     ]
   },
@@ -347,103 +347,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Begint de linkse revolutie in Sint-Gillis? ‘Het is ook een vorm van lifestyle’",
+    title: "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
     topicNumber: 1,
     article: {
-      title: "Begint de linkse revolutie in Sint-Gillis? ‘Het is ook een vorm van lifestyle’",
-      summary: "Is extreemlinks in Brussel een gevaar voor de openbare orde, of vooral een vorm van idealistische folklore? In Sint-Gillis groeit een beweging die zijn verontwaardiging koppelt aan oude revolutionaire symboliek. ‘De kwaadheid over Gaza en het klimaat biedt vruchtbare grond voor extremisme.’"
+      title: "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
+      summary: "Het KMI waarschuwt opnieuw voor slecht weer. De overheid heeft het nummer 1722 geactiveerd, dat mensen kunnen bellen bij storm- en waterschade."
     },
     vocabulary: {
       words: [
         {
-          word: "linkse",
-          definition: "betreft politieke ideeën die verandering en gelijkheid willen",
-          sentence: "Sommige politieke groepen worden ___ genoemd.",
-          answer: "linkse"
+          word: "storm",
+          definition: "een zware wind met regen of sneeuw",
+          sentence: "Er komt een ___ met veel wind.",
+          answer: "storm"
         },
         {
-          word: "revolutie",
-          definition: "een grote en snelle verandering in de maatschappij",
-          sentence: "Soms is er een ___ nodig voor grote veranderingen.",
-          answer: "revolutie"
+          word: "waarschuwt",
+          definition: "waarschuwen, een waarschuwing geven",
+          sentence: "Het KMI ___ voor gevaarlijk weer.",
+          answer: "waarschuwt"
         },
         {
-          word: "kwaadheid",
-          definition: "het gevoel van boos zijn",
-          sentence: "Zijn ___ was duidelijk na het zien van het onrecht.",
-          answer: "kwaadheid"
+          word: "schade",
+          definition: "schade, wat kapot of beschadigd is",
+          sentence: "Door de storm was er veel ___ aan huizen.",
+          answer: "schade"
         },
         {
-          word: "koppelt",
-          definition: "verbindt of verbindt twee dingen met elkaar",
-          sentence: "Hij ___ zijn ervaring met theorie uit boeken.",
-          answer: "koppelt"
+          word: "overheid",
+          definition: "de organisatie die een land of stad bestuurt",
+          sentence: "De ___ heeft een noodnummer gemaakt.",
+          answer: "overheid"
         },
         {
-          word: "verontwaardiging",
-          definition: "sterke gevoel van boosheid over iets onrechtvaardigs",
-          sentence: "Veel mensen voelen ___ over de situatie in Gaza.",
-          answer: "verontwaardiging"
+          word: "KMI",
+          definition: "Koninklijk Meteorologisch Instituut, het weerinstituut",
+          sentence: "Het ___ waarschuwt voor slecht weer.",
+          answer: "KMI"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Sommige politieke groepen worden ___ genoemd.",
-          answer: "linkse"
+          sentence: "Het ___ waarschuwt voor slecht weer.",
+          answer: "KMI"
         },
         {
-          sentence: "Soms is er een ___ nodig voor grote veranderingen.",
-          answer: "revolutie"
+          sentence: "Er komt een ___ met veel wind.",
+          answer: "storm"
         },
         {
-          sentence: "Zijn ___ was duidelijk na het zien van het onrecht.",
-          answer: "kwaadheid"
+          sentence: "De ___ heeft een noodnummer gemaakt.",
+          answer: "overheid"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent ‘kwaadheid’ in deze context?",
+        question: "Wat doet het KMI bij slecht weer?",
         options: [
-          "Boosheid",
-          "Vrolijkheid",
-          "Verdriet",
-          "Verwarring"
+          "Ze geven een waarschuwing",
+          "Ze sluiten alle scholen",
+          "Ze organiseren een feest",
+          "Ze zeggen niets"
         ],
         correctAnswer: 1
       },
       {
-        question: "Waarom wordt er gesproken over ‘symboliek’ in de tekst?",
+        question: "Waarvoor is het nummer 1722 bedoeld?",
         options: [
-          "Omdat het over oude symbolen gaat",
-          "Omdat het over toekomstige plannen gaat",
-          "Omdat het over eten en drinken gaat",
-          "Omdat het over sport gaat"
+          "Voor het bestellen van pizza",
+          "Voor het melden van verkeersongelukken",
+          "Voor hulp bij stormschade",
+          "Alleen voor politie en brandweer"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wat is een voorbeeld van ‘extremisme’?",
+        question: "Waar staat KMI voor?",
         options: [
-          "Iemand die anderen pijn doet voor zijn ideeën",
-          "Iemand die altijd lacht",
-          "Iemand die goed kan dansen",
-          "Iemand die veel leest"
+          "Koninklijke Meteo Informatie",
+          "Koninklijk Meteorologisch Instituut",
+          "Koninklijke Meteorologische Instelling",
+          "Koninklijke Weer Informatie"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De tekst gaat alleen over gevaar door extremisme.",
+        statement: "Het KMI geeft alleen waarschuwingen voor sneeuw.",
         isTrue: false
       },
       {
-        statement: "Sint-Gillis is een plaats in Brussel.",
+        statement: "Het nummer 1722 is bedoeld voor alle soorten schade.",
         isTrue: true
       },
       {
-        statement: "De tekst suggereert dat klimaat en Gaza tot extremisme leiden.",
+        statement: "De overheid heeft het nummer 1722 geactiveerd voor stormschade.",
         isTrue: true
       }
     ]
@@ -559,104 +559,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
+    title: "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
     topicNumber: 1,
     article: {
-      title: "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
-      summary: "Het Engels is oppermachtig aan de universiteit. Dat biedt kansen, maar het knelt en wringt ook. 'Zelfs op een congres over Franse vertaalwetenschap is de voertaal Engels.'"
+      title: "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
+      summary: "Op de Antwerpse Ring is afgelopen nacht een tijdelijk stuk snelweg geopend, parallel met het viaduct van Merksem ter hoogte van de AFAS-Dome. De belangrijke stap in de Oosterweelwerken belooft veel verkeershinder met zich mee te brengen."
     },
     vocabulary: {
       words: [
         {
-          word: "biedt",
-          definition: "geeft, aanbiedt, mogelijk maakt",
-          sentence: "De nieuwe supermarkt ___ veel keuze aan de klanten.",
-          answer: "biedt"
+          word: "verwacht",
+          definition: "denkt dat iets gaat gebeuren",
+          sentence: "We ___ veel bezoekers op het festival.",
+          answer: "verwacht"
         },
         {
-          word: "knelt",
-          definition: "zit strak, knelt, is niet comfortabel",
-          sentence: "Deze schoen ___ een beetje bij mijn tenen.",
-          answer: "knelt"
+          word: "opent",
+          definition: "begint te werken of beschikbaar wordt",
+          sentence: "Het nieuwe winkelcentrum ___ volgende week.",
+          answer: "opent"
         },
         {
-          word: "oppermachtig",
-          definition: "heel erg machtig, de baas zijn",
-          sentence: "De leeuw is de ___ heerser van de savanne.",
-          answer: "oppermachtig"
+          word: "stap",
+          definition: "een actie of deel van een proces",
+          sentence: "De eerste ___ in het plan is voltooid.",
+          answer: "stap"
         },
         {
-          word: "wringt",
-          definition: "zit strak, schuurt, is ongemakkelijk",
-          sentence: "Deze broek ___ een beetje bij mijn knieën.",
-          answer: "wringt"
+          word: "ring",
+          definition: "een rondweg om een stad",
+          sentence: "De Antwerpse ___ is erg druk tijdens de spits.",
+          answer: "ring"
         },
         {
-          word: "gestreden",
-          definition: "gevochten, hard gewerkt voor iets",
-          sentence: "De soldaten hebben lang ___ voor hun vrijheid.",
-          answer: "gestreden"
+          word: "werken",
+          definition: "activiteiten om iets te bouwen of repareren",
+          sentence: "De ___ aan de nieuwe brug zijn bijna klaar.",
+          answer: "werken"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Deze broek ___ een beetje bij mijn knieën.",
-          answer: "wringt"
+          sentence: "De Antwerpse ___ is erg druk tijdens de spits.",
+          answer: "ring"
         },
         {
-          sentence: "Deze schoen ___ een beetje bij mijn tenen.",
-          answer: "knelt"
+          sentence: "We ___ veel bezoekers op het festival.",
+          answer: "verwacht"
         },
         {
-          sentence: "De soldaten hebben lang ___ voor hun vrijheid.",
-          answer: "gestreden"
+          sentence: "De ___ aan de nieuwe brug zijn bijna klaar.",
+          answer: "werken"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'verengelsing' in deze context?",
+        question: "Waarom is er veel verkeershinder op de Antwerpse Ring?",
         options: [
-          "Het verbieden van Engelse woorden",
-          "Het overnemen van Engelse taal en cultuur",
-          "Het verliezen van een oorlog",
-          "Het vieren van een Engelse feestdag"
+          "Omdat er een feest is",
+          "Omdat er een nieuwe weg is geopend",
+          "Omdat er veel sneeuw ligt",
+          "Omdat er een voetbalwedstrijd is"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waarom wordt gezegd dat 'niemand wakker ligt' van verengelsing?",
+        question: "Wat is de Oosterweelverbinding?",
         options: [
-          "Omdat het niet belangrijk genoeg is",
-          "Omdat mensen te moe zijn",
-          "Omdat het een geheim is",
-          "Omdat het alleen in Nederland gebeurt"
+          "Een nieuwe tunnel",
+          "Een nieuwe brug",
+          "Een reeks van bouwwerken",
+          "Een groot station"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wat is een voorbeeld van 'oppermachtig' zijn?",
+        question: "Wanneer werd het nieuwe stuk weg geopend?",
         options: [
-          "De koning is oppermachtig in zijn land.",
-          "De student is oppermachtig in de klas.",
-          "De hond is oppermachtig in het park.",
-          "De leraar is oppermachtig over de taal."
+          "Vorige week",
+          "Afgelopen nacht",
+          "Over een maand",
+          "Vroeger"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Verengelsing betekent dat de Engelse taal de Nederlandse taal vervangt.",
-        isTrue: true
-      },
-      {
-        statement: "Niemand ligt wakker van verengelsing omdat het geen probleem is.",
+        statement: "De Oosterweelwerken zijn volledig klaar.",
         isTrue: false
       },
       {
-        statement: "Engels is de voertaal op een congres over Franse vertaalwetenschap.",
+        statement: "Het nieuwe stuk weg ligt parallel aan het viaduct van Merksem.",
         isTrue: true
+      },
+      {
+        statement: "De Antwerpse Ring is nu gesloten voor alle verkeer.",
+        isTrue: false
       }
     ]
   },
@@ -665,104 +665,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
+    title: "Japanse toerist overleden na val van Pantheon in Rome",
     topicNumber: 1,
     article: {
-      title: "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
-      summary: "New York is niet zoals de rest van de VS. Minder dan ooit, nu in tijden van Trump met Zohran Mamdani een onervaren socialistische moslim wellicht de volgende burgemeester wordt. Tot hoop én afgrijzen van zijn eigen partijgenoten."
+      title: "Japanse toerist overleden na val van Pantheon in Rome",
+      summary: "Een toerist uit Japan viel van het Pantheon in Rome en overleed."
     },
     vocabulary: {
       words: [
         {
-          word: "burgemeester",
-          definition: "De leider van een stad of gemeente.",
-          sentence: "Hij wil de nieuwe ___ worden van de stad.",
-          answer: "burgemeester"
+          word: "val",
+          definition: "naar beneden gaan",
+          sentence: "Hij maakte een ___ van het gebouw.",
+          answer: "val"
         },
         {
-          word: "kandidaat",
-          definition: "Iemand die probeert gekozen te worden.",
-          sentence: "Hij is de ___ voor de verkiezing.",
-          answer: "kandidaat"
+          word: "overleden",
+          definition: "niet meer leven",
+          sentence: "Hij is ___ na het ongeluk.",
+          answer: "overleden"
         },
         {
-          word: "betaalbaar",
-          definition: "Niet te duur, goedkoop genoeg.",
-          sentence: "Hij wil woningen ___ maken voor iedereen.",
-          answer: "betaalbaar"
+          word: "Pantheon",
+          definition: "een oud gebouw",
+          sentence: "Hij viel van het ___.",
+          answer: "Pantheon"
         },
         {
-          word: "moslim",
-          definition: "Iemand die de islam volgt.",
-          sentence: "Hij is een ___ en bidt elke dag.",
-          answer: "moslim"
+          word: "Rome",
+          definition: "een stad in Italië",
+          sentence: "Het Pantheon staat in ___.",
+          answer: "Rome"
         },
         {
-          word: "partijgenoten",
-          definition: "Mensen die bij dezelfde politieke groep horen.",
-          sentence: "Sommige ___ steunen hem niet.",
-          answer: "partijgenoten"
+          word: "toerist",
+          definition: "iemand die op reis is",
+          sentence: "De ___ komt uit Japan.",
+          answer: "toerist"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Sommige ___ steunen hem niet.",
-          answer: "partijgenoten"
+          sentence: "De ___ komt uit Japan.",
+          answer: "toerist"
         },
         {
-          sentence: "Hij is de ___ voor de verkiezing.",
-          answer: "kandidaat"
+          sentence: "Hij maakte een ___ van het gebouw.",
+          answer: "val"
         },
         {
-          sentence: "Hij wil woningen ___ maken voor iedereen.",
-          answer: "betaalbaar"
+          sentence: "Hij viel van het ___.",
+          answer: "Pantheon"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat wil de kandidaat doen voor New York?",
+        question: "Waar komt de toerist vandaan?",
         options: [
-          "Het duurder maken",
-          "Het betaalbaar houden",
-          "Er niets aan doen",
-          "Het kleiner maken"
+          "Italië",
+          "Japan",
+          "Frankrijk",
+          "Duitsland"
         ],
         correctAnswer: 2
       },
       {
-        question: "Hoe voelen sommige partijgenoten over hem?",
+        question: "Wat is het Pantheon?",
         options: [
-          "Ze zijn blij",
-          "Ze zijn neutraal",
-          "Ze zijn boos",
-          "Ze zijn enthousiast"
+          "een park",
+          "een gebouw",
+          "een rivier",
+          "een dier"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Wat is zijn religie?",
+        question: "Wat overkwam de toerist?",
         options: [
-          "Christen",
-          "Boeddhist",
-          "Moslim",
-          "Hindoe"
+          "Hij at iets.",
+          "Hij viel.",
+          "Hij ging winkelen.",
+          "Hij sliep."
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "New York is hetzelfde als de rest van de VS.",
+        statement: "De toerist komt uit Italië.",
         isTrue: false
       },
       {
-        statement: "Zohran Mamdani is de burgemeester van New York.",
-        isTrue: false
-      },
-      {
-        statement: "Sommige partijgenoten hebben afgrijzen van hem.",
+        statement: "De man viel van het Pantheon.",
         isTrue: true
+      },
+      {
+        statement: "Hij overleed in het ziekenhuis.",
+        isTrue: false
       }
     ]
   },
@@ -771,103 +771,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Auteur Marijn Kruk over het succes van de PVV in Nederland",
+    title: "Amerikaanse drones controleren staakt-het-vuren in Gaza",
     topicNumber: 1,
     article: {
-      title: "Auteur Marijn Kruk over het succes van de PVV in Nederland",
-      summary: "De eerste Nederlandse regering met PVV-ministers draaide uit op een fiasco. Toch wenkt een volgende verkiezingstriomf voor Geert Wilders. Auteur Marijn Kruk schrikt niet: “Radicaal-rechts heeft de strijd in dit land met 10-0 gewonnen.”"
+      title: "Amerikaanse drones controleren staakt-het-vuren in Gaza",
+      summary: "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen."
     },
     vocabulary: {
       words: [
         {
-          word: "land",
-          definition: "een gebied met een eigen regering, zoals Nederland of België",
-          sentence: "Nederland is een mooi ___ om in te wonen.",
-          answer: "land"
+          word: "controleren",
+          definition: "kijken of iets goed gaat",
+          sentence: "Zij ___ het staakt-het-vuren.",
+          answer: "controleren"
         },
         {
-          word: "regering",
-          definition: "de groep mensen die een land bestuurt",
-          sentence: "De ___ maakt belangrijke beslissingen voor het land.",
-          answer: "regering"
+          word: "onderhandelingen",
+          definition: "gesprekken om tot een oplossing te komen",
+          sentence: "De ___ zijn belangrijk voor vrede.",
+          answer: "onderhandelingen"
         },
         {
-          word: "minister",
-          definition: "iemand met een hoge functie in de regering",
-          sentence: "De ___ van Onderwijs bezocht onze school.",
-          answer: "minister"
+          word: "staakt-het-vuren",
+          definition: "stoppen met schieten",
+          sentence: "Het ___ is belangrijk voor vrede.",
+          answer: "staakt-het-vuren"
         },
         {
-          word: "succes",
-          definition: "iets dat goed gaat of goed afloopt",
-          sentence: "Hij had veel ___ met zijn nieuwe baan.",
-          answer: "succes"
+          word: "Amerikaanse",
+          definition: "komt uit Amerika",
+          sentence: "De ___ drone vliegt in de lucht.",
+          answer: "Amerikaanse"
         },
         {
-          word: "verkiezing",
-          definition: "een stemming om te kiezen wie de leider wordt",
-          sentence: "Tijdens de ___ stemmen mensen voor hun favoriete partij.",
-          answer: "verkiezing"
+          word: "drones",
+          definition: "vliegende machines zonder piloot",
+          sentence: "De ___ zijn in de lucht.",
+          answer: "drones"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ maakt belangrijke beslissingen voor het land.",
-          answer: "regering"
+          sentence: "Het ___ is belangrijk voor vrede.",
+          answer: "staakt-het-vuren"
         },
         {
-          sentence: "Hij had veel ___ met zijn nieuwe baan.",
-          answer: "succes"
+          sentence: "De ___ zijn in de lucht.",
+          answer: "drones"
         },
         {
-          sentence: "Nederland is een mooi ___ om in te wonen.",
-          answer: "land"
+          sentence: "De ___ zijn belangrijk voor vrede.",
+          answer: "onderhandelingen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'regering' in het Nederlands?",
+        question: "Wat controleren de drones?",
         options: [
-          "een soort auto",
-          "de baas van een land",
-          "een sportteam",
-          "een soort eten"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is een 'verkiezing'?",
-        options: [
-          "een feestdag",
-          "een soort spel",
-          "een stemming om een nieuwe leider te kiezen",
-          "een soort muziek"
+          "het weer",
+          "de vrede",
+          "het staakt-het-vuren",
+          "de oorlog"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat betekent 'winnen' in deze context?",
+        question: "Waar vindt het staakt-het-vuren plaats?",
         options: [
-          "verliezen",
-          "een wedstrijd winnen",
-          "een boek lezen",
-          "zingen"
+          "in Gaza",
+          "in Amerika",
+          "in de lucht",
+          "in een gebouw"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is het resultaat van de onderhandelingen?",
+        options: [
+          "meer oorlog",
+          "een doorbraak",
+          "een drone",
+          "geen resultaat"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De auteur heet Marijn Kruk.",
+        statement: "Drones controleren het staakt-het-vuren in Gaza.",
         isTrue: true
       },
       {
-        statement: "Geert Wilders is een minister in de nieuwe regering.",
+        statement: "De onderhandelingen zijn in Amerika.",
         isTrue: false
       },
       {
-        statement: "PVV is de naam van een politieke partij in Nederland.",
+        statement: "Er is een doorbraak in de onderhandelingen over vrede.",
         isTrue: true
       }
     ]
@@ -877,103 +877,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Jared Kushner: Amerikaanse adviseur in het Midden-Oosten",
+    title: "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
     topicNumber: 1,
     article: {
-      title: "Jared Kushner: Amerikaanse adviseur in het Midden-Oosten",
-      summary: "Jared Kushner is de schoonzoon van de Amerikaanse president Trump. Hij hielp met vredesgesprekken in het Midden-Oosten en gebruikte zijn zakelijke ervaring."
+      title: "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
+      summary: "Catherine Connolly wordt de nieuwe president van Ierland. Haar tegenstander heeft de verkiezing verloren. Catherine Connolly is de nieuwe president."
     },
     vocabulary: {
       words: [
         {
-          word: "Kushner",
-          definition: "Een achternaam",
-          sentence: "Jared ___ is de schoonzoon van Trump.",
-          answer: "Kushner"
+          word: "wordt",
+          definition: "veranderen naar een nieuwe staat",
+          sentence: "Zij ___ de nieuwe leider.",
+          answer: "wordt"
         },
         {
-          word: "Midden-Oosten",
-          definition: "Een gebied op de wereld met veel landen zoals Israël en Iran",
-          sentence: "Het ___ is een gebied met veel verschillende culturen.",
-          answer: "Midden-Oosten"
+          word: "rivaal",
+          definition: "iemand met wie je strijdt",
+          sentence: "Hij was mijn ___ in de wedstrijd.",
+          answer: "rivaal"
         },
         {
-          word: "Jared",
-          definition: "Een mannelijke voornaam",
-          sentence: "___ Kushner is de schoonzoon van Trump.",
-          answer: "Jared"
+          word: "heeft",
+          definition: "hebben, in bezit hebben",
+          sentence: "Zij ___ een mooi huis.",
+          answer: "heeft"
         },
         {
-          word: "zakelijk",
-          definition: "Iets wat met geld of bedrijven te maken heeft",
-          sentence: "Hij heeft een ___ plan om geld te verdienen.",
-          answer: "zakelijk"
+          word: "nederlaag",
+          definition: "verliezen van een strijd",
+          sentence: "Na de ___ gaf hij op.",
+          answer: "nederlaag"
         },
         {
-          word: "Trump",
-          definition: "De achternaam van de voormalige Amerikaanse president",
-          sentence: "___ was de president van Amerika.",
-          answer: "Trump"
+          word: "van",
+          definition: "een voorzetsel dat bezit of herkomst aangeeft",
+          sentence: "De hoofdstad ___ Nederland is Amsterdam.",
+          answer: "van"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "___ was de president van Amerika.",
-          answer: "Trump"
+          sentence: "De hoofdstad ___ Nederland is Amsterdam.",
+          answer: "van"
         },
         {
-          sentence: "Jared ___ is de schoonzoon van Trump.",
-          answer: "Kushner"
+          sentence: "Zij ___ de nieuwe leider.",
+          answer: "wordt"
         },
         {
-          sentence: "Hij heeft een ___ plan om geld te verdienen.",
-          answer: "zakelijk"
+          sentence: "Na de ___ gaf hij op.",
+          answer: "nederlaag"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de rol van Jared Kushner in deze tekst?",
+        question: "Wie is Catherine Connolly?",
         options: [
-          "Hij is een kok",
-          "Hij is een leraar",
-          "Hij is een adviseur voor vrede",
-          "Hij is een sporter"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat betekent 'schoonzoon'?",
-        options: [
-          "Een soort hond",
-          "De man van je dochter",
-          "Een soort auto",
-          "Een soort fruit"
+          "Een actrice",
+          "De nieuwe president van Ierland",
+          "Een Nederlandse politicus",
+          "Een leraar"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waar gaat de tekst over?",
+        question: "Wat betekent 'erkent'?",
         options: [
-          "Over koken",
-          "Over reizen",
-          "Over vredesgesprekken en een persoon",
-          "Over sporten"
+          "Verliest",
+          "Geeft toe",
+          "Wint",
+          "Is blij"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is een 'rivaal'?",
+        options: [
+          "Een vriend",
+          "Iemand met wie je strijdt",
+          "Een buurman",
+          "Een soort voedsel"
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Jared Kushner is de schoonzoon van Trump.",
+        statement: "Catherine Connolly is de nieuwe president van Ierland.",
         isTrue: true
       },
       {
-        statement: "Jared Kushner is een professionele voetballer.",
+        statement: "Heather Humphreys heeft de verkiezing gewonnen.",
         isTrue: false
       },
       {
-        statement: "Jared Kushner heeft ervaring met zakelijke zaken.",
+        statement: "Catherine Connolly wordt de nieuwe president.",
         isTrue: true
       }
     ]
@@ -983,104 +983,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Begint de linkse revolutie in Sint-Gillis?",
+    title: "Noodnummer 1722 voor storm- en waterschade",
     topicNumber: 1,
     article: {
-      title: "Begint de linkse revolutie in Sint-Gillis?",
-      summary: "Is extreemlinks in Brussel een gevaar voor de openbare orde, of vooral een vorm van idealistische folklore? In Sint-Gillis groeit een beweging die zijn verontwaardiging koppelt aan oude revolutionaire symboliek. De kwaadheid over Gaza en het klimaat biedt vruchtbare grond voor extremisme."
+      title: "Noodnummer 1722 voor storm- en waterschade",
+      summary: "Het KMI waarschuwt voor slecht weer. Het nummer 1722 is voor meldingen over storm en water."
     },
     vocabulary: {
       words: [
         {
-          word: "extreemlinks",
-          definition: "heel erg links, radicaal",
-          sentence: "De groep was ___ en wilde snel veranderen.",
-          answer: "extreemlinks"
+          word: "nummer",
+          definition: "een reeks cijfers",
+          sentence: "Bel dit ___ als je hulp nodig hebt.",
+          answer: "nummer"
         },
         {
-          word: "Sint-Gillis",
-          definition: "een plaats in Brussel",
-          sentence: "___ is een bekende wijk.",
-          answer: "Sint-Gillis"
+          word: "storm",
+          definition: "heel slecht weer met veel wind",
+          sentence: "Er komt een ___ met harde wind.",
+          answer: "storm"
         },
         {
-          word: "revolutie",
-          definition: "een grote verandering, vaak met geweld",
-          sentence: "De ___ in dat land bracht veel verandering.",
-          answer: "revolutie"
+          word: "water",
+          definition: "de vloeistof die we drinken",
+          sentence: "Na de regen staat er ___ op straat.",
+          answer: "water"
         },
         {
-          word: "symboliek",
-          definition: "het gebruik van symbolen, beeldspraak",
-          sentence: "De ___ in de kunst was mooi.",
-          answer: "symboliek"
+          word: "KMI",
+          definition: "het instituut dat het weer voorspelt",
+          sentence: "Het ___ waarschuwt voor slecht weer.",
+          answer: "KMI"
         },
         {
-          word: "gevaar",
-          definition: "iets dat gevaarlijk is, risico",
-          sentence: "Er is een ___ voor de gezondheid.",
-          answer: "gevaar"
+          word: "waarschuwt",
+          definition: "zegt dat er gevaar is",
+          sentence: "De politie ___ voor gevaar.",
+          answer: "waarschuwt"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ in dat land bracht veel verandering.",
-          answer: "revolutie"
+          sentence: "Er komt een ___ met harde wind.",
+          answer: "storm"
         },
         {
-          sentence: "De groep was ___ en wilde snel veranderen.",
-          answer: "extreemlinks"
+          sentence: "Bel dit ___ als je hulp nodig hebt.",
+          answer: "nummer"
         },
         {
-          sentence: "De ___ in de kunst was mooi.",
-          answer: "symboliek"
+          sentence: "De politie ___ voor gevaar.",
+          answer: "waarschuwt"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat de tekst over?",
+        question: "Wat betekent het woord 'storm'?",
         options: [
-          "Koken",
-          "Sport",
-          "Politiek",
-          "Muziek"
+          "een soort dier",
+          "heel slecht weer met veel wind",
+          "een apparaat om mee te koken",
+          "een grote groep mensen"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Wat is Sint-Gillis?",
+        question: "Waar staat 'KMI' voor?",
         options: [
-          "Een stad",
-          "Een rivier",
-          "Een wijk in Brussel",
-          "Een berg"
+          "Koninklijk Meteorologisch Instituut",
+          "Koninklijke Maaltijd Informatie",
+          "Kleine Mobiele Installatie",
+          "Korte Mooie Interventie"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Is extreemlinks gevaarlijk?",
+        question: "Waarom heeft de overheid 1722 geactiveerd?",
         options: [
-          "Ja, altijd",
-          "Nee, nooit",
-          "Soms, het hangt af",
-          "Alleen in de winter"
+          "omdat het een lekker recept is",
+          "omdat ze willen dat mensen kunnen bellen bij schade door storm of water",
+          "omdat ze een verjaardag vieren",
+          "omdat ze een nieuwe wet maken"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Sint-Gillis is een plaats in Brussel.",
-        isTrue: true
-      },
-      {
-        statement: "Extreemlinks betekent heel rechts.",
+        statement: "Het KMI waarschuwt voor slecht weer, dus het is veilig om naar buiten te gaan.",
         isTrue: false
       },
       {
-        statement: "De tekst gaat over politiek.",
+        statement: "Je kunt bellen naar 1722 als je schade hebt door storm of water.",
         isTrue: true
+      },
+      {
+        statement: "De overheid heeft 1722 niet geactiveerd, dus je kunt niet bellen.",
+        isTrue: false
       }
     ]
   },
@@ -1089,103 +1089,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
+    title: "Vrouw belt 112 en wil iemand helpen",
     topicNumber: 1,
     article: {
-      title: "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
-      summary: "Gent wil de Vlasmarkt asfalteren. Sommige mensen zijn hier niet blij mee. Tegenstanders willen de kasseien bewaren als erfgoed. Want niets is zo Gents als het vermogen om pittoresk struikelgevaar te romantiseren."
+      title: "Vrouw belt 112 en wil iemand helpen",
+      summary: "Een vrouw belt 112 omdat ze een gewonde man wil helpen in het Zoniënwoud. Maar de hulpdienst spreekt alleen Nederlands. De vrouw is Frans-talig en verstaat het Nederlands niet goed. Dit is een probleem."
     },
     vocabulary: {
       words: [
         {
-          word: "struikelgevaar",
-          definition: "gevaar om te vallen of te struikelen",
-          sentence: "Let op voor ___ op deze weg!",
-          answer: "struikelgevaar"
+          word: "belt",
+          definition: "telefoneert, maakt een telefoongesprek",
+          sentence: "Ze ___ naar de hulpdienst.",
+          answer: "belt"
         },
         {
-          word: "pittoresk",
-          definition: "mooi en charmant, vaak op een ouderwetse manier",
-          sentence: "Het dorpje is heel ___ met zijn oude huisjes.",
-          answer: "pittoresk"
+          word: "probleem",
+          definition: "een situatie die moeilijkheid of zorg veroorzaakt",
+          sentence: "Het ___ is dat ze elkaar niet verstaan.",
+          answer: "probleem"
         },
         {
-          word: "wil",
-          definition: "willen, wensen",
-          sentence: "Hij ___ graag naar de film.",
-          answer: "wil"
+          word: "Nederlands",
+          definition: "de officiële taal van Nederland en Vlaanderen",
+          sentence: "Spreekt u ook ___?",
+          answer: "Nederlands"
         },
         {
-          word: "bewaren",
-          definition: "iets bewaren, niet weggooien",
-          sentence: "Ik wil deze foto's ___ in een album.",
-          answer: "bewaren"
+          word: "vrouw",
+          definition: "een mens van het vrouwelijk geslacht",
+          sentence: "De ___ belt naar 112.",
+          answer: "vrouw"
         },
         {
-          word: "romantiseren",
-          definition: "iets mooier of romantischer voorstellen dan het is",
-          sentence: "Hij probeert het harde werk te ___ in zijn verhaal.",
-          answer: "romantiseren"
+          word: "spreekt",
+          definition: "praat, uit woorden",
+          sentence: "Hij ___ alleen Nederlands.",
+          answer: "spreekt"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij ___ graag naar de film.",
-          answer: "wil"
+          sentence: "De ___ belt naar 112.",
+          answer: "vrouw"
         },
         {
-          sentence: "Het dorpje is heel ___ met zijn oude huisjes.",
-          answer: "pittoresk"
+          sentence: "Het ___ is dat ze elkaar niet verstaan.",
+          answer: "probleem"
         },
         {
-          sentence: "Hij probeert het harde werk te ___ in zijn verhaal.",
-          answer: "romantiseren"
+          sentence: "Spreekt u ook ___?",
+          answer: "Nederlands"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom wil Gent de Vlasmarkt asfalteren?",
+        question: "Waarom belt de vrouw naar 112?",
         options: [
-          "Omdat het mooi is",
-          "Omdat het gevaarlijk is",
-          "Omdat het goedkoop is",
-          "Omdat niemand het gebruikt"
+          "Om een pizza te bestellen",
+          "Omdat ze een gewonde man wil helpen",
+          "Om te klagen over het weer",
+          "Om haar moeder te feliciteren"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat betekent 'erfgoed' in deze tekst?",
+        question: "Wat is het probleem in de situatie?",
         options: [
-          "Een soort eten",
-          "Een soort muziek",
-          "Iets van culturele waarde uit het verleden",
-          "Een soort sport"
+          "De vrouw heeft honger",
+          "De vrouw en de hulpdienst spreken verschillende talen",
+          "De vrouw is verdwaald in de stad",
+          "De man is niet gewond"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Wat is een voorbeeld van pittoresk in de tekst?",
+        question: "Wat is de oplossing volgens de tekst?",
         options: [
-          "De kasseien",
-          "Een snelweg",
-          "Een modern gebouw",
-          "Een lege straat"
+          "De vrouw moet Chinees leren",
+          "De hulpdienst moet Engels spreken",
+          "Iedereen moet Nederlands leren",
+          "Er is geen oplossing genoemd"
         ],
-        correctAnswer: 1
+        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "Gent wil de kasseien verwijderen omdat ze te gevaarlijk zijn.",
+        statement: "De vrouw belt naar 112 omdat ze hulp nodig heeft.",
         isTrue: true
       },
       {
-        statement: "Iedereen in Gent is blij met het asfalteren.",
+        statement: "De vrouw en de hulpdienst spreken beide vloeiend Nederlands.",
         isTrue: false
       },
       {
-        statement: "Kasseien kunnen gevaarlijk zijn om op te lopen.",
+        statement: "De man is gewond in het Zoniënwoud.",
         isTrue: true
       }
     ]
@@ -1195,104 +1195,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
+    title: "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
     topicNumber: 1,
     article: {
-      title: "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
-      summary: "Het Engels is oppermachtig aan de universiteit. Dat biedt kansen, maar het knelt en wringt ook. 'Zelfs op een congres over Franse vertaalwetenschap is de voertaal Engels.'"
+      title: "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
+      summary: "Op de Antwerpse Ring is afgelopen nacht een tijdelijk stuk snelweg geopend, parallel met het viaduct van Merksem ter hoogte van de AFAS-Dome. De belangrijke stap in de Oosterweelwerken belooft veel verkeershinder met zich mee te brengen."
     },
     vocabulary: {
       words: [
         {
-          word: "gestreden",
-          definition: "gevochten, hard gewerkt",
-          sentence: "Hij heeft veel ___ voor zijn rechten.",
-          answer: "gestreden"
+          word: "is",
+          definition: "zijn (tegenwoordige tijd)",
+          sentence: "Hij ___ mijn vriend.",
+          answer: "is"
         },
         {
-          word: "congres",
-          definition: "grote bijeenkomst voor een onderwerp",
-          sentence: "Het ___ duurt drie dagen.",
-          answer: "congres"
+          word: "de",
+          definition: "een bepaald lidwoord",
+          sentence: "Ik zie ___ man.",
+          answer: "de"
         },
         {
-          word: "knelt",
-          definition: "zit niet lekker, voelt niet goed",
-          sentence: "Deze schoen ___.",
-          answer: "knelt"
+          word: "de",
+          definition: "bepaald lidwoord",
+          sentence: "Ik zie ___ man.",
+          answer: "de"
         },
         {
-          word: "verengelsing",
-          definition: "het gebruik van steeds meer Engelse woorden",
-          sentence: "De ___ is duidelijk op deze universiteit.",
-          answer: "verengelsing"
+          word: "op",
+          definition: "boven iets",
+          sentence: "De kat slaapt ___ de tafel.",
+          answer: "op"
         },
         {
-          word: "universiteit",
-          definition: "school voor volwassenen, universiteit",
-          sentence: "Hij studeert aan de ___.",
-          answer: "universiteit"
+          word: "een",
+          definition: "een (onbepaald)",
+          sentence: "Ik heb ___ huis.",
+          answer: "een"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het ___ duurt drie dagen.",
-          answer: "congres"
+          sentence: "Hij ___ mijn vriend.",
+          answer: "is"
         },
         {
-          sentence: "Hij studeert aan de ___.",
-          answer: "universiteit"
+          sentence: "Ik heb ___ huis.",
+          answer: "een"
         },
         {
-          sentence: "Hij heeft veel ___ voor zijn rechten.",
-          answer: "gestreden"
+          sentence: "De kat slaapt ___ de tafel.",
+          answer: "op"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'verengelsing'?",
+        question: "Waar gaat dit artikel over?",
         options: [
-          "Het gebruik van Engelse woorden",
-          "Een feest in Engeland",
-          "Een soort sport",
-          "Een oude taal"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Waar staat 'kansen' voor in deze tekst?",
-        options: [
-          "Kansen om te winnen",
-          "Kansen om te leren",
-          "Kansen om te slagen",
-          "Kansen om te groeien"
+          "Een nieuwe dierentuin",
+          "Een nieuwe brug",
+          "Een nieuwe weg",
+          "Een nieuwe tunnel"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is een 'congres'?",
+        question: "Waar is de nieuwe weg?",
         options: [
-          "Een groot gebouw",
-          "Een feest met muziek",
-          "Een grote bijeenkomst over een onderwerp",
-          "Een sportwedstrijd"
+          "In Brussel",
+          "In Antwerpen",
+          "In Gent",
+          "In Brugge"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is het effect van de nieuwe weg?",
+        options: [
+          "Minder verkeer",
+          "Meer verkeer",
+          "Minder files",
+          "Meer files"
+        ],
+        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "Verengelsing betekent dat Engels de enige taal wordt.",
-        isTrue: false
-      },
-      {
-        statement: "Een congres is een grote bijeenkomst.",
+        statement: "De nieuwe weg is in Antwerpen.",
         isTrue: true
       },
       {
-        statement: "Niemand geeft om verengelsing, dus het is niet erg.",
+        statement: "De nieuwe weg is in Brussel.",
         isTrue: false
+      },
+      {
+        statement: "De nieuwe weg veroorzaakt meer verkeer.",
+        isTrue: true
       }
     ]
   },
@@ -1301,103 +1301,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
+    title: "Japanse toerist overleden na val van Pantheon in Rome",
     topicNumber: 1,
     article: {
-      title: "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
-      summary: "New York is niet zoals de rest van de VS. Minder dan ooit, nu in tijden van Trump met Zohran Mamdani een onervaren socialistische moslim wellicht de volgende burgemeester wordt. Tot hoop én afgrijzen van zijn eigen partijgenoten."
+      title: "Japanse toerist overleden na val van Pantheon in Rome",
+      summary: "Een 69-jarige toerist uit Japan is vrijdagavond van een muur van het Pantheon in de Italiaanse hoofdstad Rome gevallen. Hij overleed ter plaatse."
     },
     vocabulary: {
       words: [
         {
-          word: "betaalbaar",
-          definition: "Niet te duur, goedkoop genoeg om te kunnen betalen.",
-          sentence: "De woning was gelukkig ___.",
-          answer: "betaalbaar"
+          word: "val",
+          definition: "naar beneden gaan door zwaartekracht; een ongeluk",
+          sentence: "De ___ van de trap veroorzaakte zijn verwondingen.",
+          answer: "val"
         },
         {
-          word: "kandidaat",
-          definition: "Iemand die meedoet aan een verkiezing of sollicitatie.",
-          sentence: "De ___ voor het burgemeesterschap heeft veel steun.",
-          answer: "kandidaat"
+          word: "ter plaatse",
+          definition: "op dezelfde locatie; niet elders",
+          sentence: "Hij overleed ___, zonder naar een ziekenhuis te gaan.",
+          answer: "ter plaatse"
         },
         {
-          word: "socialistisch",
-          definition: "Betrekking hebbend op socialisme, een politieke stroming die streeft naar gelijkheid.",
-          sentence: "Hij heeft een ___ wereldbeeld.",
-          answer: "socialistisch"
+          word: "hoofdstad",
+          definition: "de belangrijkste stad van een land, vaak waar de regering zit",
+          sentence: "Rome is de ___ van Italië.",
+          answer: "hoofdstad"
         },
         {
-          word: "onervaren",
-          definition: "Nog niet veel ervaring hebbend, nog niet geoefend.",
-          sentence: "Hij was een ___ spreker.",
-          answer: "onervaren"
+          word: "toerist",
+          definition: "iemand die een plaats bezoekt voor plezier of ontspanning",
+          sentence: "De ___ nam deel aan een georganiseerde excursie.",
+          answer: "toerist"
         },
         {
-          word: "moslim",
-          definition: "Iemand die de islamitische religie aanhangt.",
-          sentence: "Hij is een toegewijde ___.",
-          answer: "moslim"
+          word: "Rome",
+          definition: "de hoofdstad van Italië, bekend om zijn geschiedenis",
+          sentence: "___ trekt miljoenen toeristen per jaar.",
+          answer: "Rome"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij heeft een ___ wereldbeeld.",
-          answer: "socialistisch"
+          sentence: "___ trekt miljoenen toeristen per jaar.",
+          answer: "Rome"
         },
         {
-          sentence: "Hij is een toegewijde ___.",
-          answer: "moslim"
+          sentence: "Hij overleed ___, zonder naar een ziekenhuis te gaan.",
+          answer: "ter plaatse"
         },
         {
-          sentence: "De woning was gelukkig ___.",
-          answer: "betaalbaar"
+          sentence: "De ___ van de trap veroorzaakte zijn verwondingen.",
+          answer: "val"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de belangrijkste reden dat Zohran Mamdani opvalt in de New Yorkse politiek?",
+        question: "Waar bevindt het Pantheon zich?",
         options: [
-          "Hij is een socialist",
-          "Hij is een moslim",
-          "Hij is een onervaren kandidaat",
-          "Hij komt van buiten de VS"
+          "Parijs",
+          "Londen",
+          "Rome",
+          "Berlijn"
         ],
-        correctAnswer: 4
+        correctAnswer: 3
       },
       {
-        question: "Hoe reageren zijn partijgenoten op zijn kandidatuur?",
+        question: "Wat is de nationaliteit van de overledene?",
         options: [
-          "Ze zijn enthousiast en ondersteunend",
-          "Ze zijn neutraal en afwachtend",
-          "Ze zijn afwijzend en kritisch",
-          "Ze zijn hoopvol maar ook bezorgd"
+          "Italiaans",
+          "Amerikaans",
+          "Japans",
+          "Duits"
         ],
-        correctAnswer: 4
+        correctAnswer: 3
       },
       {
-        question: "Wat is de situatie in New York in vergelijking met de rest van de VS volgens de tekst?",
+        question: "Hoe overleed de toerist?",
         options: [
-          "Het is hetzelfde",
-          "Het is compleet anders",
-          "Het is minder representatief",
-          "Het is meer progressief"
+          "Door een auto-ongeluk",
+          "Door ziekte",
+          "Door een val",
+          "Door ouderdom"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Zohran Mamdani is een ervaren politicus die al lang burgemeester is van New York.",
+        statement: "De toerist overleed in een ziekenhuis.",
         isTrue: false
       },
       {
-        statement: "New York wordt voorgesteld als een uitzondering binnen de Verenigde Staten.",
+        statement: "Het incident vond plaats in Rome.",
         isTrue: true
       },
       {
-        statement: "De reacties op Mamdani's kandidatuur zijn unaniem positief binnen zijn partij.",
+        statement: "De toerist overleefde de val.",
         isTrue: false
       }
     ]
@@ -1407,104 +1407,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
+    title: "Amerikaanse drones controleren staakt-het-vuren in Gaza",
     topicNumber: 1,
     article: {
-      title: "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
-      summary: "Argentinië houdt de adem in. Van de parlementsverkiezingen zondag hangt af of de excentrieke president Javier Milei zijn ultraliberale hervormingen een nieuwe impuls kan geven, met steun van de VS. Maar de slabakkende economie en tal van schandalen doen de president ster tanen."
+      title: "Amerikaanse drones controleren staakt-het-vuren in Gaza",
+      summary: "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen."
     },
     vocabulary: {
       words: [
         {
-          word: "verkiezingen",
-          definition: "Een proces waarbij mensen stemmen om hun vertegenwoordigers of leiders te kiezen.",
-          sentence: "De uitslag van de verkiezingen zal de politieke koers van het land bepalen.",
-          answer: "verkiezingen"
+          word: "controleren",
+          definition: "toezicht houden op, monitoren",
+          sentence: "Vredeshandhavers ___ de naleving van de overeenkomst.",
+          answer: "controleren"
         },
         {
-          word: "economie",
-          definition: "Het systeem van geld, handel en industrie van een land of regio.",
-          sentence: "De economie van het land is aan het krimpen door de hoge inflatie.",
-          answer: "economie"
+          word: "onderhandelingen",
+          definition: "besprekingen met als doel een overeenkomst te bereiken",
+          sentence: "De ___ verlopen moeizaam maar zijn veelbelovend.",
+          answer: "onderhandelingen"
         },
         {
-          word: "president",
-          definition: "Het staatshoofd van een republiek, verantwoordelijk voor het uitvoeren van wetten en het leiden van de regering.",
-          sentence: "De president hield een toespraak over de nieuwe beleidsmaatregelen.",
-          answer: "president"
+          word: "staakt-het-vuren",
+          definition: "een (tijdelijke) stopzetting van gevechtshandelingen",
+          sentence: "Een ___ is vaak de eerste stap naar vrede.",
+          answer: "staakt-het-vuren"
         },
         {
-          word: "parlementsverkiezingen",
-          definition: "Verkiezingen waarbij de leden van het parlement worden gekozen, die wetten maken en de regering controleren.",
-          sentence: "De uitslag van de parlementsverkiezingen zal de machtsverhouding in het congres bepalen.",
-          answer: "parlementsverkiezingen"
+          word: "doorbraak",
+          definition: "een belangrijke positieve ontwikkeling of oplossing",
+          sentence: "Een diplomatieke ___ kan het conflict helpen oplossen.",
+          answer: "doorbraak"
         },
         {
-          word: "scandale",
-          definition: "Een schandaal; een gebeurtenis of situatie die schokkend of schadelijk is voor de betrokkenen.",
-          sentence: "Het recente schandaal rond de minister heeft de regering in verlegenheid gebracht.",
-          answer: "scandale"
+          word: "oorlog",
+          definition: "georganiseerd gewapend conflict tussen staten of groepen",
+          sentence: "De ___ heeft veel levens geëist en schade aangericht.",
+          answer: "oorlog"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De economie van het land is aan het krimpen door de hoge inflatie.",
-          answer: "economie"
+          sentence: "De ___ heeft veel levens geëist en schade aangericht.",
+          answer: "oorlog"
         },
         {
-          sentence: "De uitslag van de verkiezingen zal de politieke koers van het land bepalen.",
-          answer: "verkiezingen"
+          sentence: "Vredeshandhavers ___ de naleving van de overeenkomst.",
+          answer: "controleren"
         },
         {
-          sentence: "De uitslag van de parlementsverkiezingen zal de machtsverhouding in het congres bepalen.",
-          answer: "parlementsverkiezingen"
+          sentence: "De ___ verlopen moeizaam maar zijn veelbelovend.",
+          answer: "onderhandelingen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de belangrijkste reden voor het belang van de verkiezingen in Argentinië?",
+        question: "Wat is het hoofddoel van een staakt-het-vuren?",
         options: [
-          "Om de president te kiezen",
-          "Om de economische situatie te verbeteren",
-          "Om de politieke macht van Milei en zijn partij te bepalen",
-          "Om internationale steun te verkrijgen"
+          "Het permanent beëindigen van alle gevechten",
+          "Het tijdelijk stoppen van gevechten om humanitaire redenen",
+          "Het vergroten van het grondgebied van een partij",
+          "Het voorbereiden van een nieuwe offensief"
         ],
         correctAnswer: 2
       },
       {
-        question: "Welk effect heeft de economische situatie op de populariteit van Milei?",
+        question: "Hoe worden drones vaak ingezet in conflictgebieden?",
         options: [
-          "Het versterkt zijn positie",
-          "Het heeft geen effect",
-          "Het verzwakt zijn positie",
-          "Het maakt de bevolking rijker"
+          "Alleen voor het verzamelen van inlichtingen",
+          "Voor zowel verkenningsmissies als gerichte aanvallen",
+          "Uitsluitend voor het afleveren van humanitaire hulp",
+          "Voor het monitoren van wapenhandel"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een gevolg van de schandalen in de regering-Milei?",
+        question: "Wat is een belangrijk aandachtspunt bij vredesonderhandelingen?",
         options: [
-          "Meer internationale steun",
-          "Verminderde geloofwaardigheid van de regering",
-          "Vroegtijdige verkiezingen",
-          "Versterking van de economie"
+          "De garantie dat alle partijen zich aan de afspraken houden",
+          "De keuze van de onderhandelaars hun kledingstijl",
+          "De locatie waar de onderhandelingen plaatsvinden",
+          "De keuze van de taal waarin onderhandeld wordt"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De verkiezingen in Argentinië bepalen alleen de president.",
+        statement: "Een staakt-het-vuren is altijd permanent en wordt nooit geschonden.",
         isTrue: false
       },
       {
-        statement: "De economische situatie heeft invloed op de populariteit van de regering.",
+        statement: "Drones kunnen worden gebruikt om naleving van een staakt-het-vuren te monitoren.",
         isTrue: true
       },
       {
-        statement: "Internationale steun is voor Milei een belangrijk thema in deze context.",
-        isTrue: true
+        statement: "Vredesonderhandelingen leiden nooit tot een doorbraak en zijn daarom tijdverspilling.",
+        isTrue: false
       }
     ]
   },
@@ -1513,103 +1513,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Als het gaat om defensie, is Europa bereid eigen regels wat op te rekken",
+    title: "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
     topicNumber: 1,
     article: {
-      title: "Als het gaat om defensie, is Europa bereid eigen regels wat op te rekken",
-      summary: "Europa haalt de hinderpalen voor defensie-investeringen één voor één weg. Op de Europese top stond behalve de Russische tegoeden ook het pad om een turbo te zetten op de militaire paraatheid centraal."
+      title: "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
+      summary: "De 68-jarige Catherine Connolly is op weg naar het presidentschap van Ierland. Ze lag al ruim op kop in de peilingen en zaterdagnamiddag heeft haar rivaal in de presidentsverkiezingen, de 62-jarige Heather Humphreys van de centrumrechtse regeringspartij Fine Gael, haar verkiezingsnederlaag toegegeven."
     },
     vocabulary: {
       words: [
         {
-          word: "defensie",
-          definition: "het geheel van militaire middelen en strategieën om een land te beschermen",
-          sentence: "De defensie van het land is sterk verbeterd de laatste jaren.",
-          answer: "defensie"
+          word: "rivaal",
+          definition: "iemand die met een ander concurreert of strijdt om hetzelfde doel",
+          sentence: "Zij waren eens elkaars grootste ___ in het bedrijfsleven.",
+          answer: "rivaal"
         },
         {
-          word: "regels",
-          definition: "afspraken of wetten waar men zich aan moet houden",
-          sentence: "De nieuwe regels zorgen voor meer duidelijkheid in de sector.",
-          answer: "regels"
+          word: "nederlaag",
+          definition: "het verliezen van een strijd of conflict",
+          sentence: "De terugtrekking was een strategische beslissing, geen ___.",
+          answer: "nederlaag"
         },
         {
-          word: "op te rekken",
-          definition: "iets flexibeler of ruimer maken",
-          sentence: "Soms moet je de regels een beetje op te rekken om vooruitgang te boeken.",
-          answer: "op te rekken"
+          word: "peilingen",
+          definition: "onderzoeken of enquêtes die de publieke opinie meten",
+          sentence: "Volgens de laatste ___ staat de partij sterk.",
+          answer: "peilingen"
         },
         {
-          word: "hinderpalen",
-          definition: "obstakels of belemmeringen die vooruitgang in de weg staan",
-          sentence: "Er zijn nog een aantal hinderpalen voordat we kunnen starten.",
-          answer: "hinderpalen"
+          word: "verkiezingen",
+          definition: "het proces waarbij mensen stemmen om leiders of vertegenwoordigers te kiezen",
+          sentence: "De algemene ___ zijn over een maand.",
+          answer: "verkiezingen"
         },
         {
-          word: "tegoeden",
-          definition: "rechten op of vordering op iets, vaak financieel",
-          sentence: "De tegoeden van de klant zijn nog niet vrijgegeven.",
-          answer: "tegoeden"
+          word: "presidentschap",
+          definition: "het ambt of de functie van president",
+          sentence: "Na de verkiezingen zal hij het ___ overnemen.",
+          answer: "presidentschap"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De nieuwe regels zorgen voor meer duidelijkheid in de sector.",
-          answer: "regels"
+          sentence: "De terugtrekking was een strategische beslissing, geen ___.",
+          answer: "nederlaag"
         },
         {
-          sentence: "De tegoeden van de klant zijn nog niet vrijgegeven.",
-          answer: "tegoeden"
+          sentence: "Zij waren eens elkaars grootste ___ in het bedrijfsleven.",
+          answer: "rivaal"
         },
         {
-          sentence: "Er zijn nog een aantal hinderpalen voordat we kunnen starten.",
-          answer: "hinderpalen"
+          sentence: "De algemene ___ zijn over een maand.",
+          answer: "verkiezingen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de kern van de Europese defensiestrategie volgens de tekst?",
+        question: "Wat betekent het als een politicus zijn nederlaag erkent?",
         options: [
-          "Volledige militarisatie",
-          "Samenwerking met niet-EU-landen",
-          "Het wegnemen van belemmeringen en investeren in paraatheid",
-          "Vervanging van de NAVO"
+          "Hij geeft toe dat hij verloren heeft.",
+          "Hij viert zijn overwinning.",
+          "Hij weigert het resultaat te accepteren.",
+          "Hij negeert de uitslag volledig."
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Welke rol speelt Heather Humphreys in deze context?",
+        options: [
+          "Ze is de winnaar van de verkiezingen.",
+          "Ze is de verliezende kandidaat.",
+          "Ze is de zittende president van Ierland.",
+          "Ze is een internationale waarnemer."
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat betekent 'op te rekken' in deze context?",
+        question: "Wat geeft de uitslag van de peilingen aan over Catherine Connolly's kans?",
         options: [
-          "De regels volledig negeren",
-          "De regels soepeler of ruimer interpreteren",
-          "De regels volledig afschaffen",
-          "Nieuwe regels invoeren"
+          "Ze staat er zeer zwak voor.",
+          "Ze heeft een kleine kans om te winnen.",
+          "Ze heeft een zeer grote kans om te winnen.",
+          "Ze heeft al gewonnen, de uitslag is definitief."
         ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is een 'hinderpaal' in de tekst?",
-        options: [
-          "Een fysieke barrière",
-          "Een wettelijke of procedurele belemmering",
-          "Een militair obstakel",
-          "Een economische sanctie"
-        ],
-        correctAnswer: 1
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De Europese defensiestrategie richt zich puur op het versterken van de eigen militaire capaciteit.",
+        statement: "Catherine Connolly is de enige kandidaat in de presidentsverkiezingen.",
         isTrue: false
       },
       {
-        statement: "Naast de kwestie van Russische tegoeden, is er ook aandacht voor het versnellen van militaire paraatheid.",
+        statement: "Heather Humphreys heeft haar nederlaag toegegeven tijdens de verkiezingen.",
         isTrue: true
       },
       {
-        statement: "De tekst suggereert dat Europa al zijn defensieproblemen heeft opgelost.",
+        statement: "Catherine Connolly is de huidige president van Ierland.",
         isTrue: false
       }
     ]
@@ -1619,104 +1619,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Begint de linkse revolutie in Sint-Gillis? 'Het is ook een vorm van lifestyle'",
+    title: "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
     topicNumber: 1,
     article: {
-      title: "Begint de linkse revolutie in Sint-Gillis? 'Het is ook een vorm van lifestyle'",
-      summary: "Is extreemlinks in Brussel een gevaar voor de openbare orde, of vooral een vorm van idealistische folklore? In Sint-Gillis groeit een beweging die zijn verontwaardiging koppelt aan oude revolutionaire symboliek. 'De kwaadheid over Gaza en het klimaat biedt vruchtbare grond voor extremisme.'"
+      title: "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
+      summary: "Het KMI waarschuwt opnieuw voor slecht weer. De overheid heeft het nummer 1722 geactiveerd, dat mensen kunnen bellen bij storm- en waterschade."
     },
     vocabulary: {
       words: [
         {
-          word: "koppelt",
-          definition: "Verbindt of verbindt twee dingen",
-          sentence: "De groep ___ hun acties aan oude idealen.",
-          answer: "koppelt"
+          word: "overheid",
+          definition: "De overheid is de organisatie die een land of gebied bestuurt.",
+          sentence: "De ___ heeft besloten om extra maatregelen te nemen.",
+          answer: "overheid"
         },
         {
-          word: "revolutie",
-          definition: "Een radicale verandering, vaak politiek of sociaal",
-          sentence: "De beweging hoopt op een sociale ___ .",
-          answer: "revolutie"
+          word: "geactiveerd",
+          definition: "In werking gesteld of geactiveerd.",
+          sentence: "Het noodnummer werd ___ zodat mensen snel hulp kunnen vragen.",
+          answer: "geactiveerd"
         },
         {
-          word: "Sint-Gillis",
-          definition: "Een gemeente in Brussel, België",
-          sentence: "In ___ vindt de beweging veel steun.",
-          answer: "Sint-Gillis"
+          word: "nummer",
+          definition: "Een reeks cijfers die iets identificeert, zoals een telefoonnummer.",
+          sentence: "Welk ___ moet ik bellen in geval van nood?",
+          answer: "nummer"
         },
         {
-          word: "revolutionaire",
-          definition: "Betreffende grote verandering, vaak politiek",
-          sentence: "De groep gebruikt oude ___ symboliek.",
-          answer: "revolutionaire"
+          word: "bellen",
+          definition: "Iemand telefonisch contacteren.",
+          sentence: "Je kunt de politie ___ als je hulp nodig hebt.",
+          answer: "bellen"
         },
         {
-          word: "symboliek",
-          definition: "Het gebruik van symbolen om ideeën te representeren",
-          sentence: "De ___ van de beweging is krachtig.",
-          answer: "symboliek"
+          word: "weer",
+          definition: "De toestand van de atmosfeer, zoals regen of zonneschijn.",
+          sentence: "Het ___ wordt morgen beter, volgens de voorspelling.",
+          answer: "weer"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "In ___ vindt de beweging veel steun.",
-          answer: "Sint-Gillis"
+          sentence: "De ___ heeft besloten om extra maatregelen te nemen.",
+          answer: "overheid"
         },
         {
-          sentence: "De groep ___ hun acties aan oude idealen.",
-          answer: "koppelt"
+          sentence: "Je kunt de politie ___ als je hulp nodig hebt.",
+          answer: "bellen"
         },
         {
-          sentence: "De ___ van de beweging is krachtig.",
-          answer: "symboliek"
+          sentence: "Het noodnummer werd ___ zodat mensen snel hulp kunnen vragen.",
+          answer: "geactiveerd"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de voornaamste reden voor de groei van de linkse beweging in Sint-Gillis?",
+        question: "Wat betekent 'geactiveerd' in deze context?",
         options: [
-          "Economische crisis",
-          "Sociale ongelijkheid",
-          "Politieke repressie",
-          "Culturele diversiteit"
+          "Verwijderd",
+          "Opgeschort",
+          "In werking gesteld",
+          "Verboden"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Hoe karakteriseert de auteur de beweging in Sint-Gillis?",
+        question: "Waarom heeft de overheid het nummer 1722 geactiveerd?",
         options: [
-          "Als een gevaar voor de openbare orde",
-          "Als een vorm van folklore",
-          "Als een politieke partij",
-          "Als een religieuze groep"
+          "Om mensen te informeren over het weer",
+          "Om financiële steun aan te bieden",
+          "Om hulp te bieden bij stormschade",
+          "Om feesten te organiseren"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Wat is een belangrijk element in de symboliek van de beweging?",
+        question: "Wat is de hoofdgedachte van de tekst?",
         options: [
-          "Moderne technologie",
-          "Oude revolutionaire symbolen",
-          "Sportevenementen",
-          "Kunstuitingen"
+          "Het weer wordt steeds onvoorspelbaarder",
+          "Mensen moeten beter voorbereid zijn op stormen",
+          "De overheid biedt een hulplijn voor stormschade",
+          "Het KMI geeft altijd correcte waarschuwingen"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De beweging in Sint-Gillis wordt vooral gedreven door jonge activisten.",
+        statement: "Het KMI waarschuwt voor zware buien en veel wind, wat duidt op een storm.",
         isTrue: true
       },
       {
-        statement: "De kwaadheid over Gaza en het klimaat zijn de enige redenen voor de beweging.",
+        statement: "Het nummer 1722 is bedoeld voor financiële donaties na een storm.",
         isTrue: false
       },
       {
-        statement: "Sint-Gillis is een stad in Nederland.",
-        isTrue: false
+        statement: "Mensen kunnen bellen naar 1722 voor hulp bij waterschade.",
+        isTrue: true
       }
     ]
   },
@@ -1725,104 +1725,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
+    title: "Franstalige vrouw belt hulpdiensten omdat ze gewonde man wil helpen in Zoniënwoud, maar mag enkel Nederlands spreken",
     topicNumber: 1,
     article: {
-      title: "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
-      summary: "Gent wil de Vlasmarkt asfalteren, maar niet iedereen is daar gelukkig mee. Tegenstanders willen de kinderkopjes laten erkennen als erfgoed. Want niets is zo Gents als het vermogen om pittoresk struikelgevaar te romantiseren."
+      title: "Franstalige vrouw belt hulpdiensten omdat ze gewonde man wil helpen in Zoniënwoud, maar mag enkel Nederlands spreken",
+      summary: "Een Franstalige vrouw wilde afgelopen week een gewonde man in het Zoniënwoud helpen, maar toen ze de 112 belde, kreeg ze te horen dat ze enkel in het Nederlands gehoord kon worden. “Een schandalige situatie”, zegt de burgemeester van Watermaal-Bosvoorde."
     },
     vocabulary: {
       words: [
         {
-          word: "struikelgevaar",
-          definition: "het risico om te struikelen, bijvoorbeeld door een ongelijke ondergrond",
-          sentence: "Deze weg heeft veel ___ door de losse stenen.",
-          answer: "struikelgevaar"
+          word: "schandalige",
+          definition: "ergerlijk en onacceptabel",
+          sentence: "De burgemeester noemde het een ___ situatie.",
+          answer: "schandalige"
         },
         {
-          word: "emotie",
-          definition: "een gevoel, zoals blijdschap, verdriet of boosheid",
-          sentence: "Hij sprak met veel ___ in zijn stem.",
-          answer: "emotie"
+          word: "Zoniënwoud",
+          definition: "een bosgebied in België",
+          sentence: "Het incident gebeurde in het ___.",
+          answer: "Zoniënwoud"
         },
         {
-          word: "kasseien",
-          definition: "ronde stenen die vroeger vaak werden gebruikt om straten te plaveien",
-          sentence: "De oude straat was geplaveid met grote, ronde ___.",
-          answer: "kasseien"
+          word: "belde",
+          definition: "telefonisch contact opnemen",
+          sentence: "Ze ___ naar 112 voor assistentie.",
+          answer: "belde"
         },
         {
-          word: "pittoresk",
-          definition: "schilderachtig, mooi en charmant om te zien, vaak op een traditionele manier",
-          sentence: "Het dorpje was ___ met zijn kleine huisjes en bloemen.",
-          answer: "pittoresk"
+          word: "hulpdiensten",
+          definition: "organisaties die hulp bieden, zoals politie of ambulance",
+          sentence: "Ze belde de ___ om assistentie te vragen.",
+          answer: "hulpdiensten"
         },
         {
-          word: "romantiseren",
-          definition: "iets of een situatie idealiseren, mooier maken dan het in werkelijkheid is",
-          sentence: "We moeten het verleden niet ___; het leven was toen ook hard.",
-          answer: "romantiseren"
+          word: "enkel",
+          definition: "alleen, uitsluitend",
+          sentence: "Ze mocht ___ Nederlands spreken, niet Frans.",
+          answer: "enkel"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Deze weg heeft veel ___ door de losse stenen.",
-          answer: "struikelgevaar"
+          sentence: "Het incident gebeurde in het ___.",
+          answer: "Zoniënwoud"
         },
         {
-          sentence: "De oude straat was geplaveid met grote, ronde ___.",
-          answer: "kasseien"
+          sentence: "Ze belde de ___ om assistentie te vragen.",
+          answer: "hulpdiensten"
         },
         {
-          sentence: "Hij sprak met veel ___ in zijn stem.",
-          answer: "emotie"
+          sentence: "Ze ___ naar 112 voor assistentie.",
+          answer: "belde"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom wil Gent de Vlasmarkt asfalteren?",
+        question: "Waarom belde de vrouw naar de hulpdiensten?",
         options: [
-          "Om het historische uiterlijk te behouden",
-          "Om de verkeersveiligheid te verbeteren",
-          "Om toeristen aan te trekken",
-          "Om kosten te besparen"
+          "Om een pizza te bestellen",
+          "Om een gewonde man te helpen",
+          "Om te klagen over het weer",
+          "Om een taxi te bellen"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een belangrijk argument van tegenstanders tegen asfalteren?",
+        question: "Wat was de reactie van de burgemeester?",
         options: [
-          "Asfalt is duurder dan kasseien",
-          "Kasseien zijn een stuk cultureel erfgoed",
-          "Asfalt is slecht voor het milieu",
-          "Kasseien zijn comfortabeler om op te fietsen"
+          "Hij prees de vrouw",
+          "Hij noemde de situatie schandalig",
+          "Hij bood aan om te vertalen",
+          "Hij belde de politie onmiddellijk"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat beschrijft de tekst over de stad Gent?",
+        question: "Waar bevond het incident zich?",
         options: [
-          "Het is een stad zonder geschiedenis",
-          "Het is een stad die alleen naar de toekomst kijkt",
-          "Het is een stad die zijn verleden koestert en beschermt",
-          "Het is een stad die comfort boven esthetiek stelt"
+          "In een supermarkt",
+          "In het Zoniënwoud",
+          "Aan het strand",
+          "In een bibliotheek"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De stad Gent wil de Vlasmarkt asfalteren omwille van de verkeersveiligheid.",
-        isTrue: true
-      },
-      {
-        statement: "Alle inwoners van Gent zijn tegen het asfalteren van de Vlasmarkt.",
+        statement: "De vrouw sprak vloeiend Nederlands.",
         isTrue: false
       },
       {
-        statement: "Kasseien worden beschouwd als een vorm van cultureel erfgoed.",
+        statement: "De hulpdiensten boden alleen ondersteuning in het Nederlands aan.",
         isTrue: true
+      },
+      {
+        statement: "De burgemeester vond de situatie acceptabel.",
+        isTrue: false
       }
     ]
   },
@@ -1831,104 +1831,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
+    title: "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
     topicNumber: 1,
     article: {
-      title: "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
-      summary: "Het Engels is oppermachtig aan de universiteit. Dat biedt kansen, maar het knelt en wringt ook. “Zelfs op een congres over Franse vertaalwetenschap is de voertaal Engels.”"
+      title: "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
+      summary: "Op de Antwerpse Ring is afgelopen nacht een tijdelijk stuk snelweg geopend, parallel met het viaduct van Merksem ter hoogte van de AFAS-Dome. De belangrijke stap in de Oosterweelwerken belooft veel verkeershinder met zich mee te brengen."
     },
     vocabulary: {
       words: [
         {
-          word: "congres",
-          definition: "Grote bijeenkomst of conferentie over een onderwerp",
-          sentence: "Het internationale ___ trok veel bezoekers.",
-          answer: "congres"
+          word: "bypass",
+          definition: "Een alternatieve route of omleiding, vaak tijdelijk.",
+          sentence: "De nieuwe ___ helpt om het verkeer tijdens de werken te beheren.",
+          answer: "bypass"
         },
         {
-          word: "knelt",
-          definition: "Zit niet lekker, wringt of is moeilijk",
-          sentence: "Het besluit ___ nog steeds.",
-          answer: "knelt"
+          word: "viaduct",
+          definition: "Een brug of overbrugging voor verkeer, meestal boven een weg of water.",
+          sentence: "Het nieuwe ___ verbindt twee delen van de ringweg.",
+          answer: "viaduct"
         },
         {
-          word: "gestreden",
-          definition: "Gevochten of hard gewerkt voor iets",
-          sentence: "De activisten hebben jarenlang ___ voor dierenrechten.",
-          answer: "gestreden"
+          word: "Oosterweel",
+          definition: "Verwijst naar de Oosterweelverbinding, een groot infrastructuurproject in Antwerpen.",
+          sentence: "De ___ verbinding is een belangrijk onderdeel van het verkeersplan.",
+          answer: "Oosterweel"
         },
         {
-          word: "kansen",
-          definition: "Gunstige mogelijkheden of gelegenheden",
-          sentence: "Hij zag de nieuwe baan als grote ___.",
-          answer: "kansen"
+          word: "ring",
+          definition: "Kort voor ringweg, een hoofdweg die rond een stad loopt.",
+          sentence: "De Antwerpse ___ is vaak druk tijdens de spits.",
+          answer: "ring"
         },
         {
-          word: "verengelsing",
-          definition: "Het overnemen van de Engelse taal in plaats van de eigen taal",
-          sentence: "De ___ van het onderwijs zorgt voor discussie.",
-          answer: "verengelsing"
+          word: "belooft",
+          definition: "Geeft een toezegging of verwachting aan, vaak met enige zekerheid.",
+          sentence: "De nieuwe route ___ een vlotte doorstroom.",
+          answer: "belooft"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het internationale ___ trok veel bezoekers.",
-          answer: "congres"
+          sentence: "De nieuwe route ___ een vlotte doorstroom.",
+          answer: "belooft"
         },
         {
-          sentence: "Hij zag de nieuwe baan als grote ___.",
-          answer: "kansen"
+          sentence: "De nieuwe ___ helpt om het verkeer tijdens de werken te beheren.",
+          answer: "bypass"
         },
         {
-          sentence: "De activisten hebben jarenlang ___ voor dierenrechten.",
-          answer: "gestreden"
+          sentence: "Het nieuwe ___ verbindt twee delen van de ringweg.",
+          answer: "viaduct"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'verengelsing' in deze context?",
+        question: "Wat is de hoofdlocatie van de nieuwe Oosterweel-bypass?",
         options: [
-          "Vernederlandsing",
-          "Vernietiging",
-          "Verengelsing",
-          "Verbetering"
+          "Antwerpen-Centrum",
+          "Het Antwerpse havengebied",
+          "De Antwerpse Ringweg",
+          "Het viaduct van Merksem"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is het hoofdthema van de tekst?",
+        question: "Wat is een direct gevolg van de opening van de bypass?",
         options: [
-          "De opkomst van het Nederlands",
-          "De dominantie van het Engels",
-          "De vernietiging van talen",
-          "De geschiedenis van Europa"
+          "Volledige sluiting van de ringweg",
+          "Minder verkeer in het centrum",
+          "Verhoogde verkeersdoorstroom elders",
+          "Enkel vertraging tijdens de spits"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Wat is de houding van de auteur?",
+        question: "Welk element is een onderdeel van de Oosterweelwerken?",
         options: [
-          "Neutraal en onverschillig",
-          "Kritisch en bezorgd",
-          "Enthousiast en positief",
-          "Boos en agressief"
+          "De nieuwe Antwerpse metro",
+          "De verbreding van de E19",
+          "Het viaduct bij Merksem",
+          "De heraanleg van het Sportpaleis"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De auteur is tegen het gebruik van Engels in het onderwijs.",
+        statement: "De Oosterweel-bypass is permanent en zal niet worden afgebroken na de werken.",
         isTrue: false
       },
       {
-        statement: "Het artikel suggereert dat verengelsing een onomkeerbaar proces is.",
+        statement: "De verkeershinder is vooral te verwachten tijdens de ochtendspits.",
         isTrue: true
       },
       {
-        statement: "De auteur gelooft dat niemand zich zorgen maakt over verengelsing.",
-        isTrue: false
+        statement: "Het viaduct van Merksem is een onderdeel van de Oosterweelverbinding.",
+        isTrue: true
       }
     ]
   },
@@ -1937,104 +1937,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
+    title: "Japanse toerist overleden na val van Pantheon in Rome",
     topicNumber: 1,
     article: {
-      title: "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
-      summary: "New York is niet zoals de rest van de VS. Minder dan ooit, nu in tijden van Trump met Zohran Mamdani, een onervaren socialistische moslim wellicht de volgende burgemeester wordt. Tot hoop en afgrijzen van zijn eigen partijgenoten."
+      title: "Japanse toerist overleden na val van Pantheon in Rome",
+      summary: "Een 69-jarige toerist uit Japan is vrijdagavond van een muur van het Pantheon in de Italiaanse hoofdstad Rome gevallen. Hij overleed ter plaatse."
     },
     vocabulary: {
       words: [
         {
-          word: "socialist",
-          definition: "iemand die gelooft in gelijkheid en eerlijkheid voor iedereen",
-          sentence: "De ___ wil gratis onderwijs voor iedereen.",
-          answer: "socialist"
+          word: "p",
+          definition: "dit is een letter, deel van een woord",
+          sentence: "Het woord 'muur' begint met een ___.",
+          answer: "p"
         },
         {
-          word: "moslim",
-          definition: "iemand die gelooft in de islamitische godsdienst",
-          sentence: "De ___ gelooft in één God en de profeet Mohammed.",
-          answer: "moslim"
+          word: "val",
+          definition: "naar beneden gaan, vallen",
+          sentence: "Hij maakte een ___ van de muur.",
+          answer: "val"
         },
         {
-          word: "kandidaat",
-          definition: "iemand die meedoet aan een verkiezing om een baan of prijs te winnen",
-          sentence: "De ___ voor burgemeester heeft veel steun.",
-          answer: "kandidaat"
+          word: "m",
+          definition: "een letter van het alfabet",
+          sentence: "De letter ___ is de dertiende letter.",
+          answer: "m"
         },
         {
-          word: "partij",
-          definition: "een groep mensen die samenwerkt voor een doel, vooral in de politiek",
-          sentence: "Hij is lid van een politieke ___.",
-          answer: "partij"
+          word: "overleed",
+          definition: "niet meer leven, dood gaan",
+          sentence: "Helaas is hij ___ na het ongeluk.",
+          answer: "overleed"
         },
         {
-          word: "hoop",
-          definition: "het gevoel dat iets goeds gaat gebeuren, iets waar je naar uitkijkt",
-          sentence: "Ik heb veel ___ voor de toekomst.",
-          answer: "hoop"
+          word: "r",
+          definition: "een letter in het alfabet",
+          sentence: "De laatste letter van 'val' is de ___.",
+          answer: "r"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Ik heb veel ___ voor de toekomst.",
-          answer: "hoop"
+          sentence: "De letter ___ is de dertiende letter.",
+          answer: "m"
         },
         {
-          sentence: "De ___ gelooft in één God en de profeet Mohammed.",
-          answer: "moslim"
+          sentence: "Hij maakte een ___ van de muur.",
+          answer: "val"
         },
         {
-          sentence: "De ___ wil gratis onderwijs voor iedereen.",
-          answer: "socialist"
+          sentence: "De laatste letter van 'val' is de ___.",
+          answer: "r"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wie is Zohran Mamdani?",
+        question: "Waar kwam de toerist vandaan?",
         options: [
-          "Een bekende zanger",
-          "Een professionele basketballer",
-          "Een politieke kandidaat",
-          "Een bekende acteur"
+          "Nederland",
+          "Duitsland",
+          "Japan",
+          "Italië"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is de hoofdstad van de Verenigde Staten?",
+        question: "Wat is de hoofdstad van Italië?",
         options: [
-          "New York",
-          "Los Angeles",
-          "Washington D.C.",
-          "Chicago"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat betekent 'afschuw'?",
-        options: [
-          "Een groot gevoel van geluk",
-          "Een sterk gevoel van afkeer of walging",
-          "Een soort van dans",
-          "Een oud woord voor vriendschap"
+          "Parijs",
+          "Rome",
+          "Amsterdam",
+          "Berlijn"
         ],
         correctAnswer: 2
+      },
+      {
+        question: "Wat gebeurde er met de man?",
+        options: [
+          "Hij is gezond",
+          "Hij is vertrokken",
+          "Hij is overleden",
+          "Hij is aan het werk"
+        ],
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Zohran Mamdani is een socialistische moslim.",
-        isTrue: true
-      },
-      {
-        statement: "New York is de hoofdstad van de Verenigde Staten.",
+        statement: "De toerist kwam uit Nederland.",
         isTrue: false
       },
       {
-        statement: "Zohran Mamdani is lid van een politieke partij.",
+        statement: "De man is overleden na de val.",
         isTrue: true
+      },
+      {
+        statement: "Rome is de hoofdstad van Duitsland.",
+        isTrue: false
       }
     ]
   },
@@ -2043,97 +2043,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Auteur Marijn Kruk over het succes van de PVV in Nederland: 'Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint'",
+    title: "Amerikaanse drones controleren staakt-het-vuren in Gaza",
     topicNumber: 1,
     article: {
-      title: "Auteur Marijn Kruk over het succes van de PVV in Nederland: 'Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint'",
-      summary: "De eerste Nederlandse regering met PVV-ministers draaide uit op een fiasco. Toch wenkt een volgende verkiezingstriomf voor Geert Wilders. Auteur Marijn Kruk schrikt niet: 'Radicaal-rechts heeft de strijd in dit land met 10-0 gewonnen.'"
+      title: "Amerikaanse drones controleren staakt-het-vuren in Gaza",
+      summary: "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen."
     },
     vocabulary: {
       words: [
         {
-          word: "auteur",
-          definition: "iemand die een artikel of boek schrijft",
-          sentence: "De ___ van dit boek is bekend.",
-          answer: "auteur"
+          word: "drones",
+          definition: "vliegende machines zonder piloot",
+          sentence: "De ___ zijn in de lucht.",
+          answer: "drones"
         },
         {
-          word: "succes",
-          definition: "als iets goed gaat of goed afloopt",
-          sentence: "Hij had veel ___ met zijn nieuwe baan.",
-          answer: "succes"
+          word: "onderhandelingen",
+          definition: "gesprekken om tot een oplossing te komen",
+          sentence: "De ___ zijn belangrijk voor vrede.",
+          answer: "onderhandelingen"
         },
         {
-          word: "regering",
-          definition: "de groep mensen die een land bestuurt",
-          sentence: "De nieuwe ___ bestaat uit ministers van verschillende partijen.",
-          answer: "regering"
+          word: "controleren",
+          definition: "kijken of alles goed gaat",
+          sentence: "Ze ___ het staakt-het-vuren.",
+          answer: "controleren"
         },
         {
-          word: "verkiezingstriomf",
-          definition: "een grote overwinning bij verkiezingen",
-          sentence: "De partij vierde een grote ___.",
-          answer: "verkiektionstriomf"
+          word: "staakt-het-vuren",
+          definition: "stoppen met schieten",
+          sentence: "Het ___ is belangrijk voor vrede.",
+          answer: "staakt-het-vuren"
+        },
+        {
+          word: "doorbraak",
+          definition: "een belangrijke stap vooruit",
+          sentence: "Er is een ___ in de gesprekken.",
+          answer: "doorbraak"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De nieuwe ___ bestaat uit ministers van verschillende partijen.",
-          answer: "regering"
+          sentence: "De ___ zijn in de lucht.",
+          answer: "drones"
         },
         {
-          sentence: "De partij vierde een grote ___.",
-          answer: "verkiektionstriomf"
+          sentence: "Ze ___ het staakt-het-vuren.",
+          answer: "controleren"
         },
         {
-          sentence: "Hij had veel ___ met zijn nieuwe baan.",
-          answer: "succes"
+          sentence: "De ___ zijn belangrijk voor vrede.",
+          answer: "onderhandelingen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'verkiezingstriomf'?",
+        question: "Waar kijken de drones naar?",
         options: [
-          "een soort feest",
-          "een grote overwinning bij verkiezingen",
-          "een nieuwe regering",
-          "een moeilijke verkiezing"
+          "Naar de maan",
+          "Naar het staakt-het-vuren",
+          "Naar de vogels",
+          "Naar de zon"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waar gaat de tekst over?",
+        question: "Wat gebeurt er na twee jaar oorlog?",
         options: [
-          "Over sport in Nederland",
-          "Over een Nederlandse auteur",
-          "Over de Nederlandse politiek en verkiezingen",
-          "Over de Nederlandse koning"
+          "Er is nog steeds oorlog",
+          "Er is een doorbraak in de onderhandelingen",
+          "Er is een groot feest",
+          "Er is een nieuwe oorlog"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Waarom is de auteur niet verrast door de winst van Wilders?",
+        question: "Waar is Gaza?",
         options: [
-          "Omdat Wilders altijd wint",
-          "Omdat de auteur niet van politiek houdt",
-          "Omdat veel mensen de wereld zien zoals Wilders",
-          "Omdat Wilders de enige kandidaat was"
+          "In Europa",
+          "In Azië",
+          "In het Midden-Oosten",
+          "In Afrika"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De eerste regering met PVV-ministers was een groot succes.",
-        isTrue: false
-      },
-      {
-        statement: "Geert Wilders is de leider van de PVV.",
+        statement: "Amerikaanse drones controleren het staakt-het-vuren in Gaza.",
         isTrue: true
       },
       {
-        statement: "De auteur Marijn Kruk is boos over de verkiezingsuitslag.",
+        statement: "Na twee jaar oorlog is er nog geen doorbraak in de onderhandelingen.",
+        isTrue: false
+      },
+      {
+        statement: "Gaza is een plaats in Amerika.",
         isTrue: false
       }
     ]
@@ -2143,104 +2149,92 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Kusiner versterkt vrede in Midden-Oosten",
+    title: "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
     topicNumber: 1,
     article: {
-      title: "Kusiner versterkt vrede in Midden-Oosten",
-      summary: "Een familielid van de Amerikaanse president helpt bij vredesonderhandelingen in het Midden-Oosten. Hij gebruikt zijn persoonlijke contacten en zakelijke ervaring om overeenkomsten te maken die vrede en handel bevorderen."
+      title: "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
+      summary: "De 68-jarige Catherine Connolly is de nieuwe president van Ierland. Ze kreeg veel stemmen en haar tegenstander Heather Humphreys heeft de verkiezing verloren."
     },
     vocabulary: {
       words: [
         {
-          word: "Handel",
-          definition: "De activiteit van kopen en verkopen van goederen",
-          sentence: "Internationale ___ brengt welvaart voor vele landen.",
-          answer: "handel"
+          word: "president",
+          definition: "De leider van een land",
+          sentence: "De ___ van het land is belangrijk.",
+          answer: "president"
         },
         {
-          word: "Kusin",
-          definition: "Een familielid, zoals een broer of zus, maar dan van een ouder",
-          sentence: "Mijn ___ helpt me vaak met mijn huiswerk.",
-          answer: "kusin"
+          word: "tegenstander",
+          definition: "Iemand die tegen je is in een wedstrijd of verkiezing",
+          sentence: "Zijn ___ was erg sterk, maar hij won toch.",
+          answer: "tegenstander"
         },
         {
-          word: "Vrede",
-          definition: "Geen oorlog of conflict, rust en harmonie",
-          sentence: "Na de storm heerst er weer ___ in het land.",
-          answer: "vrede"
-        },
-        {
-          word: "Midden-Oosten",
-          definition: "Een gebied op de wereldkaart, ongeveer van Egypte tot Iran",
-          sentence: "Het ___ staat bekend om zijn olie.",
-          answer: "Midden-Oosten"
-        },
-        {
-          word: "Helpt",
-          definition: "Geeft assistentie of ondersteuning",
-          sentence: "Hij ___ zijn moeder in de keuken.",
-          answer: "helpt"
+          word: "erkent",
+          definition: "Toegeven of toegeven dat iets waar is",
+          sentence: "Hij ___ dat hij fout zat.",
+          answer: "erkent"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Internationale ___ brengt welvaart voor vele landen.",
-          answer: "handel"
+          sentence: "Zijn ___ was erg sterk, maar hij won toch.",
+          answer: "tegenstander"
         },
         {
-          sentence: "Hij ___ zijn moeder in de keuken.",
-          answer: "helpt"
+          sentence: "Hij ___ dat hij fout zat.",
+          answer: "erkent"
         },
         {
-          sentence: "Het ___ staat bekend om zijn olie.",
-          answer: "Midden-Oosten"
+          sentence: "De ___ van het land is belangrijk.",
+          answer: "president"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'versterkt' in deze context?",
+        question: "Wie is de nieuwe president van Ierland?",
         options: [
-          "Verzwakt",
-          "Versterkt",
-          "Vernietigt",
-          "Vergeet"
+          "Catherine Connolly",
+          "Heather Humphreys",
+          "Een andere persoon",
+          "Nog iemand anders"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Waar helpt de persoon in de tekst mee?",
+        question: "Wat deed Heather Humphreys na de verkiezingen?",
         options: [
-          "Koken",
-          "Vechten",
-          "Vredesonderhandelingen",
-          "Winkelen"
+          "Ze gaf haar nederlaag toe",
+          "Ze werd de nieuwe president",
+          "Ze verhuisde naar een ander land",
+          "Ze stopte met politiek"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Wat is een belangrijk resultaat van deze inspanningen?",
+        question: "Hoe voelde Catherine Connelly na de overwinning?",
         options: [
-          "Meer oorlog",
-          "Meer handel",
-          "Meer eenzaamheid",
-          "Meer armoede"
+          "Ze was heel blij",
+          "Ze was verdrietig",
+          "Ze was boos",
+          "Ze was verward"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De persoon in de tekst gebruikt zijn zakelijke ervaring om overeenkomsten te maken.",
+        statement: "Catherine Connolly is de nieuwe president van Ierland.",
         isTrue: true
       },
       {
-        statement: "Het doel van de inspanningen is om oorlog te veroorzaken.",
+        statement: "Heather Humphreys won de verkiezingen.",
         isTrue: false
       },
       {
-        statement: "De persoon werkt alleen in één klein land.",
-        isTrue: false
+        statement: "Catherine Connolly is ouder dan Heather Humphreys.",
+        isTrue: true
       }
     ]
   },
@@ -2249,104 +2243,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
+    title: "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
     topicNumber: 1,
     article: {
-      title: "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
-      summary: "De strijd tegen Russische corruptie leidt zelfs tot in het Vlinderpaleis. Op het spel staat een eerbetoon aan Sergej Magnitski en een Antwerps appartement waarvan wordt aangenomen dat het aangekocht is met geld van de beruchte fraudezaak."
+      title: "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
+      summary: "Het KMI waarschuwt opnieuw voor slecht weer. De overheid heeft het nummer 1722 geactiveerd, dat mensen kunnen bellen bij storm- en waterschade."
     },
     vocabulary: {
       words: [
         {
-          word: "strijd",
-          definition: "een hevige ruzie of een gevecht, vaak voor een belangrijk doel",
-          sentence: "De twee landen voerden een lange ___ om het land.",
-          answer: "strijd"
+          word: "schade",
+          definition: "Schade is wat kapot gaat, bijvoorbeeld door een ongeluk.",
+          sentence: "Na de storm was er veel ___ aan huizen.",
+          answer: "schade"
         },
         {
-          word: "corruptie",
-          definition: "wanneer mensen in de macht misbruik maken van hun positie, bijvoorbeeld door geld te stelen",
-          sentence: "De politicus werd beschuldigd van ___ en moest aftreden.",
-          answer: "corruptie"
+          word: "KMI",
+          definition: "Het KMI is het Koninklijk Meteorologisch Instituut. Het geeft weerberichten.",
+          sentence: "Het ___ waarschuwt voor slecht weer.",
+          answer: "KMI"
         },
         {
-          word: "aangenomen",
-          definition: "verondersteld, niet zeker",
-          sentence: "Het is ___ dat het gebouw al honderden jaren oud is.",
-          answer: "aangenomen"
+          word: "bellen",
+          definition: "Bellen is telefoneren, iemand opbellen.",
+          sentence: "Je kunt ___ naar 1722 als je schade hebt.",
+          answer: "bellen"
         },
         {
-          word: "erfenis",
-          definition: "iets wat wordt achtergelaten voor de toekomst, zoals geld of een gebouw",
-          sentence: "De oude vrouw liet haar volledige ___ aan haar kleindochter.",
-          answer: "erfenis"
+          word: "overheid",
+          definition: "De overheid is de regering van een land. Ze maakt regels en beslist over veel dingen.",
+          sentence: "De ___ heeft een noodnummer gemaakt.",
+          answer: "overheid"
         },
         {
-          word: "fraude",
-          definition: "een vorm van bedrog, vaak met geld of informatie",
-          sentence: "De man pleegde ___ door valse informatie op te geven.",
-          answer: "fraude"
+          word: "mensen",
+          definition: "Mensen zijn personen, zoals jij en ik.",
+          sentence: "Alle ___ moeten voorzichtig zijn bij storm.",
+          answer: "mensen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het is ___ dat het gebouw al honderden jaren oud is.",
-          answer: "aangenomen"
+          sentence: "Alle ___ moeten voorzichtig zijn bij storm.",
+          answer: "mensen"
         },
         {
-          sentence: "De oude vrouw liet haar volledige ___ aan haar kleindochter.",
-          answer: "erfenis"
+          sentence: "Het ___ waarschuwt voor slecht weer.",
+          answer: "KMI"
         },
         {
-          sentence: "De twee landen voerden een lange ___ om het land.",
-          answer: "strijd"
+          sentence: "Je kunt ___ naar 1722 als je schade hebt.",
+          answer: "bellen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat het artikel vooral over?",
+        question: "Wat is het nummer 1722?",
         options: [
-          "Over een nieuwe wet in België",
-          "Over een internationaal sportevenement",
-          "Over de aankoop van een appartement met gestolen geld",
-          "Over de prijs van een appartement in Antwerpen"
+          "Een gewoon telefoonnummer",
+          "Een noodnummer voor stormschade",
+          "Een nummer voor een pizza",
+          "Een code voor de supermarkt"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is het Vlinderpaleis?",
+        question: "Waar is het nummer 1722 voor?",
         options: [
-          "Een oud museum in Rusland",
-          "Een beroemd hotel in Moskou",
-          "Een gebouw in Antwerpen",
-          "Een type bloem"
+          "Voor feestjes en feestdagen",
+          "Voor als je iemand mist",
+          "Voor als je hulp nodig hebt bij storm of waterschade",
+          "Voor als je een nieuwe auto wilt kopen"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Waarom is Sergej Magnitski belangrijk voor dit verhaal?",
+        question: "Wie heeft het nummer 1722 gemaakt?",
         options: [
-          "Hij is de eigenaar van het appartement",
-          "Hij is een Russische sporter",
-          "Hij is een symbolische figuur in de strijd tegen corruptie",
-          "Hij is de president van Rusland"
+          "De bakker",
+          "De politie",
+          "De brandweer",
+          "De overheid"
         ],
-        correctAnswer: 2
+        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "Het Vlinderpaleis is een gebouw in Antwerpen.",
-        isTrue: false
-      },
-      {
-        statement: "Het appartement in Antwerpen is betaald met geld van de fraudezaak.",
+        statement: "Het KMI geeft weerberichten en waarschuwingen.",
         isTrue: true
       },
       {
-        statement: "Sergej Magnitski is nog steeds in leven en woont in het Vlinderpaleis.",
+        statement: "Je kunt 1722 bellen als je honger hebt.",
         isTrue: false
+      },
+      {
+        statement: "De overheid heeft het nummer 1722 gemaakt voor stormschade.",
+        isTrue: true
       }
     ]
   },
@@ -2355,104 +2349,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
+    title: "Franstalige vrouw belt hulpdiensten om gewonde man te helpen",
     topicNumber: 1,
     article: {
-      title: "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
-      summary: "Gent wil de Vlasmarkt asfalteren, maar niet iedereen is daar blij mee. Tegenstanders willen de kinderkopjes laten erkennen als erfgoed. Want niets is zo Gents als het vermogen om pittoresk struikelgevaar te romantiseren."
+      title: "Franstalige vrouw belt hulpdiensten om gewonde man te helpen",
+      summary: "Een Franstalige vrouw wilde een gewonde man in het Zoniënwoud helpen, maar bij het bellen van 112 kreeg ze te horen dat ze alleen in het Nederlands geholpen kon worden. De burgemeester noemt dit een schandalige situatie."
     },
     vocabulary: {
       words: [
         {
-          word: "erfgoed",
-          definition: "iets van cultureel of historisch belang dat bewaard wordt",
-          sentence: "Het oude gebouw is nu ___ en wordt beschermd.",
-          answer: "erfgoed"
+          word: "Franstalige",
+          definition: "iemand die Frans spreekt",
+          sentence: "De ___ vrouw spreekt Frans.",
+          answer: "Franstalige"
         },
         {
-          word: "nostalgie",
-          definition: "het verlangen naar iets uit het verleden",
-          sentence: "Veel mensen hebben ___ naar de jaren negentig.",
-          answer: "nostalgie"
+          word: "bellen",
+          definition: "telefoneren, iemand opbellen",
+          sentence: "Ze moest ___ om hulp te vragen.",
+          answer: "bellen"
         },
         {
-          word: "emotie",
-          definition: "een gevoel, zoals blijdschap of verdriet",
-          sentence: "Hij sprak met veel ___ over zijn jeugd.",
-          answer: "emotie"
+          word: "situatie",
+          definition: "de toestand of omstandigheid op een bepaald moment",
+          sentence: "De ___ was verwarrend voor de vrouw.",
+          answer: "situatie"
         },
         {
-          word: "pittoresk",
-          definition: "mooi en charmant op een ouderwetse manier",
-          sentence: "Het kleine dorpje was erg ___ met zijn oude huisjes.",
-          answer: "pittoresk"
+          word: "Burgemeester",
+          definition: "de leider van een stad of gemeente",
+          sentence: "De ___ van de stad gaf een verklaring.",
+          answer: "Burgemeester"
         },
         {
-          word: "struikelgevaar",
-          definition: "het gevaar dat je over iets struikelt en valt",
-          sentence: "Op gladde stenen is er veel ___ voor ouderen.",
-          answer: "struikelgevaar"
+          word: "Nederlands",
+          definition: "de taal die in Nederland en Vlaanderen gesproken wordt",
+          sentence: "Ze moest ___ spreken, maar ze kon het niet.",
+          answer: "Nederlands"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het oude gebouw is nu ___ en wordt beschermd.",
-          answer: "erfgoed"
+          sentence: "Ze moest ___ spreken, maar ze kon het niet.",
+          answer: "Nederlands"
         },
         {
-          sentence: "Op gladde stenen is er veel ___ voor ouderen.",
-          answer: "struikelgevaar"
+          sentence: "Ze moest ___ om hulp te vragen.",
+          answer: "bellen"
         },
         {
-          sentence: "Het kleine dorpje was erg ___ met zijn oude huisjes.",
-          answer: "pittoresk"
+          sentence: "De ___ van de stad gaf een verklaring.",
+          answer: "Burgemeester"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom wil Gent de Vlasmarkt asfalteren?",
+        question: "Waarom belde de vrouw de hulpdiensten?",
         options: [
-          "Omdat de stenen te oud zijn",
-          "Voor de veiligheid van voetgangers",
-          "Omdat er te veel verkeer is",
-          "Omdat niemand van kasseien houdt"
+          "Om een feest te organiseren",
+          "Om een gewonde man te helpen",
+          "Om te oefenen met Nederlands",
+          "Om de burgemeester te spreken"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is 'pittoresk' volgens de tekst?",
+        question: "Wat was het probleem met de taal?",
         options: [
-          "Iets dat gevaarlijk is",
-          "Iets dat mooi en charmant is",
-          "Iets dat nieuw is",
-          "Iets dat saai is"
+          "Ze sprak te luid",
+          "Ze sprak alleen Frans",
+          "De telefoon was kapot",
+          "Niemand wilde haar helpen"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat willen tegenstanders van de asfaltering?",
+        question: "Wat vond de burgemeester van deze situatie?",
         options: [
-          "Niets, ze zijn het ermee eens",
-          "De kasseien behouden als erfgoed",
-          "Meer asfalt in de stad",
-          "Alleen asfalt voor auto's"
+          "Hij vond het leuk",
+          "Hij vond het een schandaal",
+          "Hij vond het een feest",
+          "Hij vond het gewoon"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Gent wil de Vlasmarkt asfalteren om het veiliger te maken.",
-        isTrue: true
-      },
-      {
-        statement: "Iedereen in Gent is blij met de asfaltering.",
+        statement: "De vrouw kon de gewonde man niet helpen omdat ze hem niet kon vinden.",
         isTrue: false
       },
       {
-        statement: "Kasseien kunnen gevaarlijk zijn om op te lopen.",
+        statement: "De hulpdiensten spraken alleen Nederlands, wat de vrouw niet kon.",
         isTrue: true
+      },
+      {
+        statement: "De burgemeester was blij met de situatie.",
+        isTrue: false
       }
     ]
   },
@@ -2461,104 +2455,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
+    title: "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
     topicNumber: 1,
     article: {
-      title: "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
-      summary: "Het Engels is oppermachtig aan de universiteit. Dat biedt kansen, maar het knelt en wringt ook. 'Zelfs op een congres over Franse vertaalwetenschap is de voertaal Engels.'"
+      title: "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
+      summary: "Op de Antwerpse Ring is afgelopen nacht een tijdelijk stuk snelweg geopend, parallel met het viaduct van Merksem ter hoogte van de AFAS-Dome. De belangrijke stap in de Oosterweelwerken belooft veel verkeershinder met zich mee te brengen."
     },
     vocabulary: {
       words: [
         {
-          word: "kansen",
-          definition: "Mogelijkheden of goede kansen op iets.",
-          sentence: "Hij heeft veel ___ op die baan.",
-          answer: "kansen"
+          word: "Bypass",
+          definition: "Een weg die het verkeer om iets heen leidt.",
+          sentence: "De ___ helpt om het verkeer sneller te laten gaan.",
+          answer: "Bypass"
         },
         {
-          word: "gestreden",
-          definition: "Gevochten of hard gewerkt voor iets.",
-          sentence: "Ze hebben jarenlang ___ voor hun rechten.",
-          answer: "gestreden"
+          word: "Viaduct",
+          definition: "Een brug voor verkeer, vaak boven een weg.",
+          sentence: "Het ___ is hoog en lang.",
+          answer: "Viaduct"
         },
         {
-          word: "knelt",
-          definition: "Iets dat strak zit of niet comfortabel is.",
-          sentence: "Deze schoen ___ een beetje.",
-          answer: "knelt"
+          word: "Belooft",
+          definition: "Iets wat wordt aangezegd of toegezegd.",
+          sentence: "Hij ___ dat hij komt, maar hij is er nog niet.",
+          answer: "Belooft"
         },
         {
-          word: "congres",
-          definition: "Een grote bijeenkomst voor een bepaald onderwerp.",
-          sentence: "Hij sprak op het ___ over klimaatverandering.",
-          answer: "congres"
+          word: "Stap",
+          definition: "Een actie of deel van een plan.",
+          sentence: "De eerste ___ is het moeilijkst.",
+          answer: "Stap"
         },
         {
-          word: "oppermachtig",
-          definition: "Heel erg machtig of de baas zijn.",
-          sentence: "De leeuw is de ___ heerser van de jungle.",
-          answer: "oppermachtig"
+          word: "Mee",
+          definition: "Samen of erbij.",
+          sentence: "Kom je ___ naar het feest?",
+          answer: "Mee"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De leeuw is de ___ heerser van de jungle.",
-          answer: "oppermachtig"
+          sentence: "Het ___ is hoog en lang.",
+          answer: "Viaduct"
         },
         {
-          sentence: "Ze hebben jarenlang ___ voor hun rechten.",
-          answer: "gestreden"
+          sentence: "De ___ helpt om het verkeer sneller te laten gaan.",
+          answer: "Bypass"
         },
         {
-          sentence: "Deze schoen ___ een beetje.",
-          answer: "knelt"
+          sentence: "De eerste ___ is het moeilijkst.",
+          answer: "Stap"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat de tekst vooral over?",
+        question: "Waar is de nieuwe weg geopend?",
         options: [
-          "Koken en eten",
-          "De Nederlandse taal",
-          "Engelse woorden in het Nederlands",
-          "Sport en gezondheid"
+          "In Brussel",
+          "In Antwerpen",
+          "Op de Antwerpse Ring",
+          "Bij de AFAS-Dome"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is 'verengelsing'?",
+        question: "Wat is een viaduct?",
         options: [
-          "Een soort plant",
-          "Een type dans",
-          "Het gebruik van Engelse woorden in het Nederlands",
-          "Een oude traditie"
+          "Een soort brug",
+          "Een soort auto",
+          "Een soort fiets",
+          "Een soort gebouw"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Wat is de houding van mensen volgens de tekst?",
+        question: "Wat betekent 'belooft' in deze tekst?",
         options: [
-          "Ze zijn boos over verengelsing",
-          "Ze maken zich er geen zorgen over",
-          "Ze willen meer verengelsing",
-          "Ze negeren het volledig"
+          "Het is een belofte",
+          "Het is een feest",
+          "Het is een soort",
+          "Het is een type"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Nederlanders vechten tegen verengelsing.",
-        isTrue: false
-      },
-      {
-        statement: "Engels is de voertaal op sommige congressen.",
+        statement: "De nieuwe weg is in Antwerpen.",
         isTrue: true
       },
       {
-        statement: "Iedereen maakt zich zorgen over verengelsing.",
+        statement: "Het viaduct is een gebouw.",
         isTrue: false
+      },
+      {
+        statement: "De nieuwe weg brengt verkeershinder mee.",
+        isTrue: true
       }
     ]
   },
@@ -2567,103 +2561,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
+    title: "Japanse toerist overleden na val van Pantheon in Rome",
     topicNumber: 1,
     article: {
-      title: "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
-      summary: "New York is niet zoals de rest van de VS. Minder dan ooit, nu in tijden van Trump met Zohran Mamdani een onervaren socialistische moslim wellicht de volgende burgemeester wordt. Tot hoop én afgrijzen van zijn eigen partijgenoten."
+      title: "Japanse toerist overleden na val van Pantheon in Rome",
+      summary: "Een 69-jarige toerist uit Japan is vrijdagavond van een muur van het Pantheon in de Italiaanse hoofdstad Rome gevallen. Hij overleed ter plaatse."
     },
     vocabulary: {
       words: [
         {
-          word: "partijgenoten",
-          definition: "mensen die bij dezelfde politieke partij horen",
-          sentence: "De ___ steunden het plan van hun leider.",
-          answer: "partijgenoten"
+          word: "is",
+          definition: "zijn, de tegenwoordige tijd van zijn",
+          sentence: "Hij ___ nu in het ziekenhuis.",
+          answer: "is"
         },
         {
-          word: "onervaren",
-          definition: "geen of weinig ervaring hebbend",
-          sentence: "De ___ kok maakte fouten met het recept.",
-          answer: "onervaren"
+          word: "Pantheon",
+          definition: "een oud gebouw in Rome, oorspronkelijk een tempel",
+          sentence: "Het ___ is een populaire attractie voor bezoekers.",
+          answer: "Pantheon"
         },
         {
-          word: "hoop",
-          definition: "het gevoel dat iets goed zal gaan",
-          sentence: "Er is veel ___ op betere tijden.",
-          answer: "hoop"
+          word: "muur",
+          definition: "een stevige structuur van steen of hout die ruimtes scheidt",
+          sentence: "Hij viel van de ___ en raakte gewond.",
+          answer: "muur"
         },
         {
-          word: "kandidaat",
-          definition: "iemand die meedoet aan een verkiezing of sollicitatie",
-          sentence: "De ___ voor burgemeester hield een toespraak.",
-          answer: "kandidaat"
+          word: "val",
+          definition: "naar beneden gaan, vallen",
+          sentence: "De ___ van de trap was pijnlijk.",
+          answer: "val"
         },
         {
-          word: "betaalbaar",
-          definition: "niet te duur, goedkoop genoeg",
-          sentence: "We zoeken een ___ hotel voor onze vakantie.",
-          answer: "betaalbaar"
+          word: "ter plaatse",
+          definition: "op dezelfde plek waar iets gebeurt",
+          sentence: "De politie arriveerde en handelde ___.",
+          answer: "ter plaatse"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "We zoeken een ___ hotel voor onze vakantie.",
-          answer: "betaalbaar"
+          sentence: "Het ___ is een populaire attractie voor bezoekers.",
+          answer: "Pantheon"
         },
         {
-          sentence: "De ___ steunden het plan van hun leider.",
-          answer: "partijgenoten"
+          sentence: "Hij viel van de ___ en raakte gewond.",
+          answer: "muur"
         },
         {
-          sentence: "Er is veel ___ op betere tijden.",
-          answer: "hoop"
+          sentence: "De ___ van de trap was pijnlijk.",
+          answer: "val"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de hoofdfocus van de tekst?",
+        question: "Waar vond het incident plaats?",
         options: [
-          "Koken",
-          "Sport",
-          "Politiek",
-          "Muziek"
+          "Rome",
+          "Parijs",
+          "Madrid",
+          "Londen"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Wat is de rol van Zohran Mamdani in de tekst?",
+        question: "Wat is het Pantheon?",
         options: [
-          "Hij is een chef-kok",
-          "Hij is een professionele atleet",
-          "Hij is een politieke kandidaat",
-          "Hij is een muzikant"
+          "Een historisch gebouw",
+          "Een soort voedsel",
+          "Een sportteam",
+          "Een rivier"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Wat is de houding van de partijgenoten in de tekst?",
+        question: "Hoe oud was de toerist?",
         options: [
-          "Ze zijn heel enthousiast",
-          "Ze zijn neutraal",
-          "Ze zijn erg boos",
-          "Ze hebben gemengde gevoelens van hoop en afgrijzen"
+          "69 jaar",
+          "70 jaar",
+          "68 jaar",
+          "71 jaar"
         ],
-        correctAnswer: 4
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "New York is vergelijkbaar met de rest van de Verenigde Staten.",
+        statement: "De toerist overleefde het incident.",
         isTrue: false
       },
       {
-        statement: "Zohran Mamdani is een ervaren politicus.",
-        isTrue: false
+        statement: "Het incident vond plaats in Rome, Italië.",
+        isTrue: true
       },
       {
-        statement: "Sommige partijgenoten hebben negatieve gevoelens over de situatie.",
+        statement: "De toerist was afkomstig uit Japan.",
         isTrue: true
       }
     ]
@@ -2673,104 +2667,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Auteur Marijn Kruk over het succes van de PVV in Nederland: “Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint”",
+    title: "Amerikaanse drones controleren staakt-het-vuren in Gaza",
     topicNumber: 1,
     article: {
-      title: "Auteur Marijn Kruk over het succes van de PVV in Nederland: “Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint”",
-      summary: "De eerste Nederlandse regering met PVV-ministers draaide uit op een fiasco. Toch wenkt een volgende verkiezingstriomf voor Geert Wilders. Auteur Marijn Kruk schrikt niet: “Radicaal-rechts heeft de strijd in dit land met 10-0 gewonnen.”"
+      title: "Amerikaanse drones controleren staakt-het-vuren in Gaza",
+      summary: "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen."
     },
     vocabulary: {
       words: [
         {
-          word: "auteur",
-          definition: "schrijver van een tekst of boek",
-          sentence: "De ___ van dit artikel is Marijn Kruk.",
-          answer: "auteur"
+          word: "drones",
+          definition: "Onbemande vliegtuigjes die op afstand bestuurd worden",
+          sentence: "De Verenigde Staten gebruiken ___ om de situatie in Gaza te observeren.",
+          answer: "drones"
         },
         {
-          word: "wereld",
-          definition: "de aarde en alles erop, of een grote groep mensen",
-          sentence: "Hij bekijkt de ___ door de ogen van Wilders.",
-          answer: "wereld"
+          word: "controleren",
+          definition: "Controleren of toezicht houden op iets",
+          sentence: "Vredeshandhavers willen ___ of het staakt-het-vuren wordt nageleefd.",
+          answer: "controleren"
         },
         {
-          word: "succes",
-          definition: "het bereiken van een goed resultaat",
-          sentence: "Het ___ van de PVV verraste veel mensen.",
-          answer: "succes"
+          word: "staakt-het-vuren",
+          definition: "Een afspraak om te stoppen met vechten voor een bepaalde tijd",
+          sentence: "Een ___ is een belangrijke eerste stap naar vrede.",
+          answer: "staakt-het-vuren"
         },
         {
-          word: "verkiezingstriomf",
-          definition: "een grote overwinning in een verkiezing",
-          sentence: "Wilders behaalde een ___.",
-          answer: "verkiezingstriomf"
+          word: "doorbraak",
+          definition: "Een belangrijke, plotselinge vooruitgang",
+          sentence: "De vredesonderhandelingen hebben geleid tot een belangrijke ___ in het conflict.",
+          answer: "doorbraak"
         },
         {
-          word: "regering",
-          definition: "een groep mensen die een land bestuurt",
-          sentence: "De nieuwe ___ heeft veel plannen.",
-          answer: "regering"
+          word: "onderhandelingen",
+          definition: "Gesprekken voeren om tot een overeenkomst te komen",
+          sentence: "De ___ tussen de landen zijn nog steeds aan de gang.",
+          answer: "onderhandelingen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ van dit artikel is Marijn Kruk.",
-          answer: "auteur"
+          sentence: "Vredeshandhavers willen ___ of het staakt-het-vuren wordt nageleefd.",
+          answer: "controleren"
         },
         {
-          sentence: "Wilders behaalde een ___.",
-          answer: "verkiezingstriomf"
+          sentence: "Een ___ is een belangrijke eerste stap naar vrede.",
+          answer: "staakt-het-vuren"
         },
         {
-          sentence: "De nieuwe ___ heeft veel plannen.",
-          answer: "regering"
+          sentence: "De ___ tussen de landen zijn nog steeds aan de gang.",
+          answer: "onderhandelingen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarover schrijft auteur Marijn Kruk?",
+        question: "Wat is het hoofddoel van de inzet van drones in Gaza volgens de tekst?",
         options: [
-          "Over reizen",
-          "Over de Nederlandse politiek",
-          "Over koken",
-          "Over sport"
+          "Het beëindigen van de oorlog",
+          "Het controleren van het staakt-het-vuren",
+          "Het voeren van aanvallen",
+          "Het verzamelen van informatie voor toekomstige onderhandelingen"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de houding van Marijn Kruk naar de PVV?",
+        question: "Wat is de huidige status van de vredesonderhandelingen volgens de tekst?",
         options: [
-          "Ze is erg positief",
-          "Ze is neutraal",
-          "Ze is kritisch",
-          "Ze is enthousiast"
+          "Ze zijn volledig vastgelopen",
+          "Ze zijn onlangs succesvol afgerond",
+          "Er is een belangrijke doorbraak",
+          "Er is geen overeenkomst in zicht"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat was het resultaat van de eerste regering met PVV-ministers?",
+        question: "Welke rol spelen de Verenigde Staten volgens de tekst in dit proces?",
         options: [
-          "Het was een groot succes",
-          "Het was een fiasco",
-          "Het was onbelangrijk",
-          "Het was een overwinning"
+          "Ze leiden de vijandelijke aanvallen",
+          "Ze observeren en controleren de situatie",
+          "Ze bemiddelen tussen de partijen",
+          "Ze verzorgen humanitaire hulp"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Geert Wilders is de leider van de PVV.",
-        isTrue: true
-      },
-      {
-        statement: "De PVV is een linkse partij.",
+        statement: "De onderhandelingen zijn volledig afgerond en hebben geleid tot een permanent staakt-het-vuren.",
         isTrue: false
       },
       {
-        statement: "Marijn Kruk is de schrijver van het artikel.",
+        statement: "De Verenigde Staten maken gebruik van drones om de naleving van het staakt-het-vuren te controleren.",
         isTrue: true
+      },
+      {
+        statement: "Het conflict in Gaza is volledig opgelost door de inzet van internationale drones.",
+        isTrue: false
       }
     ]
   },
@@ -2885,104 +2879,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Begint de linkse revolutie in Sint-Gillis? 'Het is ook een vorm van lifestyle'",
+    title: "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
     topicNumber: 1,
     article: {
-      title: "Begint de linkse revolutie in Sint-Gillis? 'Het is ook een vorm van lifestyle'",
-      summary: "Is extreemlinks in Brussel een gevaar voor de openbare orde, of vooral een vorm van idealistische folklore? In Sint-Gillis groeit een beweging die zijn verontwaardiging koppelt aan oude revolutionaire symboliek. 'De kwaadheid over Gaza en het klimaat biedt vruchtbare grond voor extremisme.'"
+      title: "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
+      summary: "Het KMI waarschuwt opnieuw voor slecht weer. De overheid heeft het nummer 1722 geactiveerd, dat mensen kunnen bellen bij storm- en waterschade."
     },
     vocabulary: {
       words: [
         {
-          word: "linkse",
-          definition: "Betreft politieke groeperingen die sociaal en economisch gelijkheid willen.",
-          sentence: "De ___ politieke partij wil meer geld voor onderwijs.",
-          answer: "linkse"
+          word: "storm",
+          definition: "Hevig weer met veel wind en regen",
+          sentence: "De ___ veroorzaakte schade aan daken.",
+          answer: "storm"
         },
         {
-          word: "verontwaardiging",
-          definition: "Een gevoel van boosheid of ongenoegen over iets wat onrechtvaardig is.",
-          sentence: "Zijn ___ over het beleid was duidelijk in zijn speech.",
-          answer: "verontwaardiging"
+          word: "KMI",
+          definition: "Koninklijk Meteorologisch Instituut; een organisatie die het weer voorspelt",
+          sentence: "Het ___ geeft weerwaarschuwingen.",
+          answer: "KMI"
         },
         {
-          word: "revolutie",
-          definition: "Een snelle en grote verandering in de maatschappij of politiek.",
-          sentence: "De Franse ___ bracht grote veranderingen in de samenleving.",
-          answer: "revolutie"
+          word: "schade",
+          definition: "Beschadiging; iets dat kapot is gemaakt",
+          sentence: "De storm veroorzaakte veel ___ aan huizen.",
+          answer: "schade"
         },
         {
-          word: "extremisme",
-          definition: "Het hanteren van extreme opvattingen of acties, vaak politiek of sociaal.",
-          sentence: "Radicale groepen kunnen leiden tot gevaarlijk ___.",
-          answer: "extremisme"
+          word: "geactiveerd",
+          definition: "In werking gesteld; actief gemaakt",
+          sentence: "Het noodnummer is ___ na het stormbericht.",
+          answer: "geactiveerd"
         },
         {
-          word: "beweging",
-          definition: "Een groep mensen die samenwerkt voor een gemeenschappelijk doel.",
-          sentence: "De arbeiders___ organiseerde een protest vorige week.",
-          answer: "beweging"
+          word: "bellen",
+          definition: "Telefoneren; iemand opbellen",
+          sentence: "Mensen kunnen ___ naar 1722 voor hulp.",
+          answer: "bellen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Radicale groepen kunnen leiden tot gevaarlijk ___.",
-          answer: "extremisme"
+          sentence: "Het ___ geeft weerwaarschuwingen.",
+          answer: "KMI"
         },
         {
-          sentence: "Zijn ___ over het beleid was duidelijk in zijn speech.",
-          answer: "verontwaardiging"
+          sentence: "De ___ veroorzaakte schade aan daken.",
+          answer: "storm"
         },
         {
-          sentence: "De Franse ___ bracht grote veranderingen in de samenleving.",
-          answer: "revolutie"
+          sentence: "Het noodnummer is ___ na het stormbericht.",
+          answer: "geactiveerd"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar verwijst 'Sint-Gillis' in deze context naar?",
+        question: "Wat is het KMI?",
         options: [
-          "Een persoon",
+          "Een sportclub",
+          "Een weervoorspeller",
           "Een soort voedsel",
-          "Een plaats in Brussel",
-          "Een historisch figuur"
+          "Een type auto"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat betekent 'geactiveerd' in deze context?",
+        options: [
+          "Verwijderd",
+          "Vernietigd",
+          "In werking gesteld",
+          "Vergeten"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is 'symboliek' in deze tekst?",
+        question: "Waarom is het belangrijk om 1722 te bellen bij waterschade?",
         options: [
-          "Een soort voedsel",
-          "Een type muziek",
-          "Het gebruik van symbolen",
-          "Een economisch systeem"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat wordt bedoeld met 'extremisme' in deze context?",
-        options: [
-          "Een soort sport",
-          "Een vorm van extreme politieke opvattingen",
-          "Een economisch systeem",
-          "Een type kunst"
+          "Om een pizza te bestellen",
+          "Om professionele hulp te krijgen",
+          "Om te klagen over buren",
+          "Om de storm te stoppen"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Sint-Gillis is een plaats in Brussel.",
-        isTrue: true
-      },
-      {
-        statement: "Extremisme verwijst hier naar een politieke partij.",
+        statement: "Het KMI geeft alleen waarschuwingen voor zonneschijn.",
         isTrue: false
       },
       {
-        statement: "De tekst beschrijft zowel gevaar als culturele aspecten van de beweging.",
+        statement: "1722 is een telefoonnummer voor noodhulp bij storm of waterschade.",
         isTrue: true
+      },
+      {
+        statement: "De overheid heeft het nummer 1722 afgeschaft.",
+        isTrue: false
       }
     ]
   },
@@ -2991,103 +2985,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
+    title: "Franstalige vrouw belt 112 in Zoniënwoud, maar mag enkel Nederlands spreken",
     topicNumber: 1,
     article: {
-      title: "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
-      summary: "Gent wil de Vlasmarkt asfalteren, al is niet iedereen daar gelukkig mee. Tegenstanders willen de kinderkopjes laten erkennen als erfgoed. Want niets is zo Gents als het vermogen om pittoresk struikelgevaar te romantiseren."
+      title: "Franstalige vrouw belt 112 in Zoniënwoud, maar mag enkel Nederlands spreken",
+      summary: "Een Franstalige vrouw wilde een gewonde man in het Zoniënwoud helpen, maar kreeg te horen dat ze enkel in het Nederlands geholpen kon worden. Dit gebeurde nadat ze 112 belde. De burgemeester van Watermaal-Bosvoorde noemt het een schandalige situatie."
     },
     vocabulary: {
       words: [
         {
-          word: "erfgoed",
-          definition: "cultureel of natuurlijk erfgoed dat bewaard moet worden",
-          sentence: "Sommige inwoners zien de straat als een stukje ___ dat beschermd moet worden.",
-          answer: "erfgoed"
+          word: "wilde",
+          definition: "de verleden tijd van 'willen', wat betekent dat iemand iets graag wil doen",
+          sentence: "De vrouw ___ de gewonde man helpen, maar ze kon niet.",
+          answer: "wilde"
         },
         {
-          word: "struikelgevaar",
-          definition: "gevaar dat iemand struikelt, bijvoorbeeld door een oneffen ondergrond",
-          sentence: "De oude stenen veroorzaken ___ voor oudere inwoners.",
-          answer: "struikelgevaar"
+          word: "enkel",
+          definition: "alleen maar, niets meer dan",
+          sentence: "Ze mocht ___ Nederlands spreken.",
+          answer: "enkel"
         },
         {
-          word: "romantiseren",
-          definition: "iets of iemand idealiseren door vooral de positieve kanten te zien",
-          sentence: "Critici zeggen dat het gevaar wordt ___ en dat de straat veiliger moet.",
-          answer: "romantiseren"
+          word: "Nederlands",
+          definition: "de officiële taal van Nederland en Vlaanderen, ook bekend als Hollands",
+          sentence: "Ze kreeg geen hulp omdat ze geen ___ sprak.",
+          answer: "Nederlands"
         },
         {
-          word: "asfalteren",
-          definition: "een ondergrond bedekken met asfalt, een stevig en glad materiaal",
-          sentence: "De gemeente wil de straat ___ voor een betere ondergrond.",
-          answer: "asfalteren"
+          word: "geholpen",
+          definition: "het voltooid deelwoord van 'helpen', wat betekent dat iemand assistentie gaf",
+          sentence: "De vrouw had graag ___ willen worden, maar het mocht niet.",
+          answer: "geholpen"
         },
         {
-          word: "kasseien",
-          definition: "oude straatstenen die vaak gebruikt worden in historische straten",
-          sentence: "De Vlasmarkt is geplaveid met oude ___ die glimmen in de zon.",
-          answer: "kasseien"
+          word: "Franstalige",
+          definition: "iemand die Frans spreekt als moedertaal",
+          sentence: "De ___ vrouw kon zich niet in het Nederlands uitdrukken.",
+          answer: "Franstalige"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Sommige inwoners zien de straat als een stukje ___ dat beschermd moet worden.",
-          answer: "erfgoed"
+          sentence: "Ze mocht ___ Nederlands spreken.",
+          answer: "enkel"
         },
         {
-          sentence: "De oude stenen veroorzaken ___ voor oudere inwoners.",
-          answer: "struikelgevaar"
+          sentence: "De ___ vrouw kon zich niet in het Nederlands uitdrukken.",
+          answer: "Franstalige"
         },
         {
-          sentence: "De gemeente wil de straat ___ voor een betere ondergrond.",
-          answer: "asfalteren"
+          sentence: "De vrouw had graag ___ willen worden, maar het mocht niet.",
+          answer: "geholpen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom wil Gent de Vlasmarkt asfalteren?",
+        question: "Wat wilde de Franstalige vrouw doen in het Zoniënwoud?",
         options: [
-          "Omdat de stenen te oud zijn",
-          "Om de straat veiliger en toegankelijker te maken",
-          "Omdat er te weinig toeristen komen",
-          "Omdat asfalteren goedkoper is"
+          "Een wandeling maken",
+          "Een gewonde man helpen",
+          "De burgemeester bellen",
+          "Frans spreken"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een belangrijk argument van de tegenstanders?",
+        question: "Waarom noemde de burgemeester de situatie schandalig?",
         options: [
-          "Asfalt is slecht voor het milieu",
-          "Kasseien zijn deel van het cultureel erfgoed",
-          "Asfalteren is te duur voor de stad",
-          "De Vlasmarkt is niet geschikt voor auto's"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is een gevolg van kasseien als ondergrond?",
-        options: [
-          "Ze zijn erg duurzaam en gaan lang mee",
-          "Ze zijn glad als ze nat worden",
-          "Ze zijn niet geschikt voor rolstoelgebruikers",
-          "Ze veroorzaken meer verkeerslawaai"
+          "Omdat de vrouw niet mocht wandelen",
+          "Omdat de vrouw in het Frans mocht praten",
+          "Omdat de hulpdienst alleen Nederlands accepteert",
+          "Omdat de vrouw niet wilde helpen"
         ],
         correctAnswer: 3
+      },
+      {
+        question: "Wat was het resultaat van de telefoontje naar 112?",
+        options: [
+          "De vrouw kreeg hulp in het Frans",
+          "De vrouw kreeg geen hulp",
+          "De vrouw werd naar de burgemeester doorverbonden",
+          "De vrouw kreeg een beloning"
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Gent wil de Vlasmarkt asfalteren om het struikelgevaar te verminderen.",
+        statement: "De Franstalige vrouw kon de gewonde man niet helpen omdat ze geen Nederlands sprak.",
         isTrue: true
       },
       {
-        statement: "Alle inwoners van Gent zijn tegen het asfalteren van de Vlasmarkt.",
+        statement: "De burgemeester van Watermaal-Bosvoorde vond dat de hulpdienst de vrouw in het Frans moest helpen.",
         isTrue: false
       },
       {
-        statement: "De kasseien op de Vlasmarkt worden door sommige mensen gezien als belangrijk erfgoed.",
+        statement: "De vrouw belde 112 om iemand anders te helpen, niet voor zichzelf.",
         isTrue: true
       }
     ]
@@ -3097,104 +3091,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
+    title: "Oosterweel-verbinding opent in Antwerpen: veel verkeershinder verwacht",
     topicNumber: 1,
     article: {
-      title: "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
-      summary: "Het Engels is oppermachtig aan de universiteit. Dat biedt kansen, maar het knelt en wringt ook. 'Zelfs op een congres over Franse vertaalwetenschap is de voertaal Engels.'"
+      title: "Oosterweel-verbinding opent in Antwerpen: veel verkeershinder verwacht",
+      summary: "Op de Antwerpse Ring is een nieuw stuk snelweg geopend. Dit is een belangrijke stap in de Oosterweelwerken. Er wordt veel verkeershinder verwacht."
     },
     vocabulary: {
       words: [
         {
-          word: "gestreden",
-          definition: "Gevochten of hard gewerkt voor iets",
-          sentence: "De soldaten hebben lang ___ voor hun vrijheid.",
-          answer: "gestreden"
+          word: "Ring",
+          definition: "een grote weg die rond een stad loopt",
+          sentence: "De ___ van Antwerpen is erg druk.",
+          answer: "Ring"
         },
         {
-          word: "kansen",
-          definition: "Mogelijkheden of gunstige gelegenheden",
-          sentence: "Hij heeft veel ___ op die baan.",
-          answer: "kansen"
+          word: "snelweg",
+          definition: "een brede weg waarop snel gereden mag worden",
+          sentence: "De nieuwe ___ is nu open voor het verkeer.",
+          answer: "snelweg"
         },
         {
-          word: "oppermachtig",
-          definition: "Zeer machtig of overheersend",
-          sentence: "Het leger was ___ in de regio.",
-          answer: "oppermachtig"
+          word: "Antwerpen",
+          definition: "een grote stad in België",
+          sentence: "___ is een stad met veel geschiedenis.",
+          answer: "Antwerpen"
         },
         {
-          word: "universiteit",
-          definition: "Een instelling voor hoger onderwijs en onderzoek",
-          sentence: "Hij studeert aan de ___ van Amsterdam.",
-          answer: "universiteit"
+          word: "verkeershinder",
+          definition: "problemen die het verkeer veroorzaakt, zoals files of vertragingen",
+          sentence: "Door de wegwerkzaamheden is er veel ___.",
+          answer: "verkeershinder"
         },
         {
-          word: "wringt",
-          definition: "Zit niet lekker of schuurt",
-          sentence: "Deze broek ___ aan mijn benen.",
-          answer: "wringt"
+          word: "Oosterweelwerken",
+          definition: "een groot bouwproject in Antwerpen met wegen en tunnels",
+          sentence: "De ___ zijn bijna klaar.",
+          answer: "Oosterweelwerken"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het leger was ___ in de regio.",
-          answer: "oppermachtig"
+          sentence: "___ is een stad met veel geschiedenis.",
+          answer: "Antwerpen"
         },
         {
-          sentence: "Deze broek ___ aan mijn benen.",
-          answer: "wringt"
+          sentence: "De nieuwe ___ is nu open voor het verkeer.",
+          answer: "snelweg"
         },
         {
-          sentence: "De soldaten hebben lang ___ voor hun vrijheid.",
-          answer: "gestreden"
+          sentence: "De ___ van Antwerpen is erg druk.",
+          answer: "Ring"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'verengelsing' in deze context?",
+        question: "Wat is de Oosterweelverbinding?",
         options: [
-          "Vervanging van de Nederlandse taal",
-          "Overheersing van de Engelse taal",
-          "Een feestelijke gebeurtenis",
-          "Een type muziek"
+          "Een nieuwe fietspad",
+          "Een grote weg",
+          "Een treinstation",
+          "Een voetbalstadion"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waar verwijst 'knelt' naar in de tekst?",
+        question: "Waar bevindt de nieuwe snelweg zich?",
         options: [
-          "Het is een synoniem voor 'past'",
-          "Het betekent dat iets te strak zit",
-          "Het is een type Nederlandse dans",
-          "Het is een plaatsnaam"
+          "In Brussel",
+          "In Antwerpen",
+          "In Gent",
+          "In Brussel"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is het hoofdonderwerp van de artikel?",
+        question: "Wat is het gevolg van de opening van de nieuwe weg?",
         options: [
-          "De geschiedenis van Nederland",
-          "De opkomst van Engels in academische settings",
-          "Hoe je een congres organiseert",
-          "De voordelen van tweetaligheid"
+          "Minder verkeer",
+          "Meer verkeershinder",
+          "Minder files",
+          "Geen effect"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De auteur is tegen enige vorm van Engels gebruik.",
+        statement: "De nieuwe snelweg is aangelegd in Brussel.",
         isTrue: false
       },
       {
-        statement: "Het artikel suggereert dat verengelsing zowel kansen als problemen biedt.",
+        statement: "De Oosterweelwerken zijn een groot bouwproject in Antwerpen.",
         isTrue: true
       },
       {
-        statement: "De titel impliceert dat mensen niet genoeg geven om het Nederlands te beschermen.",
-        isTrue: true
+        statement: "De nieuwe weg veroorzaakt minder verkeer.",
+        isTrue: false
       }
     ]
   }

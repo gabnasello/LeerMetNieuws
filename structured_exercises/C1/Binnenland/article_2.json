@@ -1,106 +1,106 @@
 {
-  "id": 25,
+  "id": 28,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
+  "title": "Franstalige vrouw belt hulpdiensten omdat ze gewonde man wil helpen in Zoniënwoud, maar mag enkel Nederlands spreken",
   "topicNumber": 1,
   "article": {
-    "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
-    "summary": "Gent wil de Vlasmarkt asfalteren, maar niet iedereen is daar gelukkig mee. Tegenstanders willen de kinderkopjes laten erkennen als erfgoed. Want niets is zo Gents als het vermogen om pittoresk struikelgevaar te romantiseren."
+    "title": "Franstalige vrouw belt hulpdiensten omdat ze gewonde man wil helpen in Zoniënwoud, maar mag enkel Nederlands spreken",
+    "summary": "Een Franstalige vrouw wilde afgelopen week een gewonde man in het Zoniënwoud helpen, maar toen ze de 112 belde, kreeg ze te horen dat ze enkel in het Nederlands gehoord kon worden. “Een schandalige situatie”, zegt de burgemeester van Watermaal-Bosvoorde."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "struikelgevaar",
-        "definition": "het risico om te struikelen, bijvoorbeeld door een ongelijke ondergrond",
-        "sentence": "Deze weg heeft veel ___ door de losse stenen.",
-        "answer": "struikelgevaar"
+        "word": "schandalige",
+        "definition": "ergerlijk en onacceptabel",
+        "sentence": "De burgemeester noemde het een ___ situatie.",
+        "answer": "schandalige"
       },
       {
-        "word": "emotie",
-        "definition": "een gevoel, zoals blijdschap, verdriet of boosheid",
-        "sentence": "Hij sprak met veel ___ in zijn stem.",
-        "answer": "emotie"
+        "word": "Zoniënwoud",
+        "definition": "een bosgebied in België",
+        "sentence": "Het incident gebeurde in het ___.",
+        "answer": "Zoniënwoud"
       },
       {
-        "word": "kasseien",
-        "definition": "ronde stenen die vroeger vaak werden gebruikt om straten te plaveien",
-        "sentence": "De oude straat was geplaveid met grote, ronde ___.",
-        "answer": "kasseien"
+        "word": "belde",
+        "definition": "telefonisch contact opnemen",
+        "sentence": "Ze ___ naar 112 voor assistentie.",
+        "answer": "belde"
       },
       {
-        "word": "pittoresk",
-        "definition": "schilderachtig, mooi en charmant om te zien, vaak op een traditionele manier",
-        "sentence": "Het dorpje was ___ met zijn kleine huisjes en bloemen.",
-        "answer": "pittoresk"
+        "word": "hulpdiensten",
+        "definition": "organisaties die hulp bieden, zoals politie of ambulance",
+        "sentence": "Ze belde de ___ om assistentie te vragen.",
+        "answer": "hulpdiensten"
       },
       {
-        "word": "romantiseren",
-        "definition": "iets of een situatie idealiseren, mooier maken dan het in werkelijkheid is",
-        "sentence": "We moeten het verleden niet ___; het leven was toen ook hard.",
-        "answer": "romantiseren"
+        "word": "enkel",
+        "definition": "alleen, uitsluitend",
+        "sentence": "Ze mocht ___ Nederlands spreken, niet Frans.",
+        "answer": "enkel"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Deze weg heeft veel ___ door de losse stenen.",
-        "answer": "struikelgevaar"
+        "sentence": "Het incident gebeurde in het ___.",
+        "answer": "Zoniënwoud"
       },
       {
-        "sentence": "De oude straat was geplaveid met grote, ronde ___.",
-        "answer": "kasseien"
+        "sentence": "Ze belde de ___ om assistentie te vragen.",
+        "answer": "hulpdiensten"
       },
       {
-        "sentence": "Hij sprak met veel ___ in zijn stem.",
-        "answer": "emotie"
+        "sentence": "Ze ___ naar 112 voor assistentie.",
+        "answer": "belde"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom wil Gent de Vlasmarkt asfalteren?",
+      "question": "Waarom belde de vrouw naar de hulpdiensten?",
       "options": [
-        "Om het historische uiterlijk te behouden",
-        "Om de verkeersveiligheid te verbeteren",
-        "Om toeristen aan te trekken",
-        "Om kosten te besparen"
+        "Om een pizza te bestellen",
+        "Om een gewonde man te helpen",
+        "Om te klagen over het weer",
+        "Om een taxi te bellen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een belangrijk argument van tegenstanders tegen asfalteren?",
+      "question": "Wat was de reactie van de burgemeester?",
       "options": [
-        "Asfalt is duurder dan kasseien",
-        "Kasseien zijn een stuk cultureel erfgoed",
-        "Asfalt is slecht voor het milieu",
-        "Kasseien zijn comfortabeler om op te fietsen"
+        "Hij prees de vrouw",
+        "Hij noemde de situatie schandalig",
+        "Hij bood aan om te vertalen",
+        "Hij belde de politie onmiddellijk"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat beschrijft de tekst over de stad Gent?",
+      "question": "Waar bevond het incident zich?",
       "options": [
-        "Het is een stad zonder geschiedenis",
-        "Het is een stad die alleen naar de toekomst kijkt",
-        "Het is een stad die zijn verleden koestert en beschermt",
-        "Het is een stad die comfort boven esthetiek stelt"
+        "In een supermarkt",
+        "In het Zoniënwoud",
+        "Aan het strand",
+        "In een bibliotheek"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De stad Gent wil de Vlasmarkt asfalteren omwille van de verkeersveiligheid.",
-      "isTrue": true
-    },
-    {
-      "statement": "Alle inwoners van Gent zijn tegen het asfalteren van de Vlasmarkt.",
+      "statement": "De vrouw sprak vloeiend Nederlands.",
       "isTrue": false
     },
     {
-      "statement": "Kasseien worden beschouwd als een vorm van cultureel erfgoed.",
+      "statement": "De hulpdiensten boden alleen ondersteuning in het Nederlands aan.",
       "isTrue": true
+    },
+    {
+      "statement": "De burgemeester vond de situatie acceptabel.",
+      "isTrue": false
     }
   ]
 }

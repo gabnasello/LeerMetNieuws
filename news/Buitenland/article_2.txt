@@ -1,15 +1,15 @@
 Artikel 2
-Nieuwsupdate: 2025-10-25 04:27 UCT
+Nieuwsupdate: 2025-10-25 15:50 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Auteur Marijn Kruk over het succes van de PVV in Nederland: “Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint”
-Link: https://www.standaard.be/buitenland/auteur-marijn-kruk-over-het-succes-van-de-pvv-in-nederland-iedereen-bekijkt-de-wereld-intussen-zoals-wilders.-dan-moet-je-niet-verbaasd-zijn-dat-hij-wint/99961799.html
-Datum: Fri, 24 Oct 2025 21:59:00 GMT
-Samenvatting: De eerste Nederlandse regering met PVV-ministers draaide uit op een fiasco. Toch wenkt een volgende verkiezingstriomf voor Geert Wilders. Auteur Marijn Kruk schrikt niet: “Radicaal-rechts heeft de strijd in dit land met 10-0 gewonnen.”
+Titel: Amerikaanse drones controleren staakt-het-vuren in Gaza
+Link: https://www.standaard.be/buitenland/amerikaanse-drones-controleren-staakt-het-vuren-in-gaza/35173881.html
+Datum: Sat, 25 Oct 2025 13:57:26 GMT
+Samenvatting: Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/oiw0l0-h002-marijnkruk-october-24-2025-dvdb-2585.jpg/alternates/BASE_SIXTEEN_NINE/H002_MarijnKruk_October%2024%202025_DvdB_2585.jpg
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/3duc2i-mideast-wars-rubio/alternates/BASE_SIXTEEN_NINE/Mideast%20Wars%20Rubio
+Premium: false
 ------------------------------------------------------------

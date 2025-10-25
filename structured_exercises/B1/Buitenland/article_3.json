@@ -1,106 +1,106 @@
 {
-  "id": 6,
+  "id": 8,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Amerikaanse diplomaat in het Midden-Oosten",
+  "title": "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
   "topicNumber": 1,
   "article": {
-    "title": "Amerikaanse diplomaat in het Midden-Oosten",
-    "summary": "Een Amerikaanse diplomaat werkt aan vredesgesprekken in het Midden-Oosten. Hij gebruikt zijn contacten en ervaring om partijen samen te brengen."
+    "title": "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
+    "summary": "De 68-jarige Catherine Connally is de nieuwe president van Ierland. Ze stond al lang aan de leiding in de peilingen. Haar rivaal Heather Humphreys van de regeringspartij Fine Gael heeft haar nederlaag toegegeven."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "contacten",
-        "definition": "mensen die je kent en die je kunnen helpen",
-        "sentence": "Hij heeft goede ___ in de politieke wereld.",
-        "answer": "contacten"
+        "word": "president",
+        "definition": "het hoofd van een land, de leider",
+        "sentence": "De ___ van de Verenigde Staten is Joe Biden.",
+        "answer": "president"
       },
       {
-        "word": "samen",
-        "definition": "gezamenlijk, met elkaar",
-        "sentence": "Ze werken ___ aan een oplossing.",
-        "answer": "samen"
+        "word": "rivaal",
+        "definition": "iemand die tegen je is, een tegenstander",
+        "sentence": "De twee atleten waren echte ___ in de race.",
+        "answer": "rivaal"
       },
       {
-        "word": "diplomaat",
-        "definition": "iemand die namens een land in het buitenland werkt",
-        "sentence": "De ___ reist vaak naar andere landen voor werk.",
-        "answer": "diplomaat"
+        "word": "erkent",
+        "definition": "geeft toe of bevestigt",
+        "sentence": "Hij ___ dat hij een fout heeft gemaakt.",
+        "answer": "erkent"
       },
       {
-        "word": "partijen",
-        "definition": "groepen of landen die betrokken zijn bij een situatie",
-        "sentence": "De verschillende ___ in het conflict moeten samenwerken.",
-        "answer": "partijen"
+        "word": "nederlaag",
+        "definition": "het verliezen van een wedstrijd of strijd",
+        "sentence": "Na de zware ___ voelde het team zich down.",
+        "answer": "nederlaag"
       },
       {
-        "word": "ervaring",
-        "definition": "kennis en vaardigheden die je opdoet door dingen mee te maken",
-        "sentence": "Zijn ___ in diplomatie is erg groot.",
-        "answer": "ervaring"
+        "word": "regeringspartij",
+        "definition": "een politieke groep die aan de macht is",
+        "sentence": "De ___ heeft veel zetels in het parlement.",
+        "answer": "regeringspartij"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ reist vaak naar andere landen voor werk.",
-        "answer": "diplomaat"
+        "sentence": "Hij ___ dat hij een fout heeft gemaakt.",
+        "answer": "erkent"
       },
       {
-        "sentence": "De verschillende ___ in het conflict moeten samenwerken.",
-        "answer": "partijen"
+        "sentence": "De twee atleten waren echte ___ in de race.",
+        "answer": "rivaal"
       },
       {
-        "sentence": "Zijn ___ in diplomatie is erg groot.",
-        "answer": "ervaring"
+        "sentence": "Na de zware ___ voelde het team zich down.",
+        "answer": "nederlaag"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat doet de diplomaat in deze tekst?",
+      "question": "Wat betekent 'president' in de context van de tekst?",
       "options": [
-        "Hij speelt voetbal",
-        "Hij koopt een huis",
-        "Hij werkt aan vredesgesprekken",
-        "Hij reist voor zijn plezier"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Waarom is de diplomaat goed in zijn werk?",
-      "options": [
-        "Hij is sterk",
-        "Hij heeft veel contacten",
-        "Hij is heel rijk",
-        "Hij woont in een groot huis"
+        "een soort dokter",
+        "de leider van een land",
+        "een type auto",
+        "een beroemde filmster"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het doel van de diplomaat?",
+      "question": "Waarom erkende Heather Humphreys haar nederlaag volgens de tekst?",
       "options": [
-        "Om te winnen met voetbal",
-        "Om partijen samen te brengen",
-        "Om alleen te werken",
-        "Om te stoppen met werken"
+        "Omdat ze ziek was",
+        "Omdat ze de verkiezing verloor",
+        "Omdat ze een nieuwe baan kreeg",
+        "Omdat ze de verkiezing won"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de rol van Catherine Connally in Ierland?",
+      "options": [
+        "Ze is een student",
+        "Ze is de nieuwe president",
+        "Ze is een beroemde zanger",
+        "Ze is de leider van een klein dorp"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De diplomaat werkt alleen.",
-      "isTrue": false
-    },
-    {
-      "statement": "De diplomaat gebruikt zijn contacten om partijen samen te brengen.",
+      "statement": "Catherine Connally is de nieuwe president van Ierland.",
       "isTrue": true
     },
     {
-      "statement": "De diplomaat wil dat partijen tegen elkaar vechten.",
+      "statement": "Heather Humphreys won de verkiezingen.",
       "isTrue": false
+    },
+    {
+      "statement": "Catherine Connally stond al lang aan de leiding in de peilingen.",
+      "isTrue": true
     }
   ]
 }

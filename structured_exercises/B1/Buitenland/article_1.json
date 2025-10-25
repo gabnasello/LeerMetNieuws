@@ -1,105 +1,105 @@
 {
-  "id": 1,
+  "id": 3,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
+  "title": "Japanse toerist overleden na val van Pantheon in Rome",
   "topicNumber": 1,
   "article": {
-    "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
-    "summary": "New York is niet zoals de rest van de VS. Minder dan ooit, nu in tijden van Trump met Zohran Mamdani een onervaren socialistische moslim wellicht de volgende burgemeester wordt. Tot hoop én afgrijzen van zijn eigen partijgenoten."
+    "title": "Japanse toerist overleden na val van Pantheon in Rome",
+    "summary": "Een 69-jarige toerist uit Japan is vrijdagavond van een muur van het Pantheon in de Italiaanse hoofdstad Rome gevallen. Hij overleed ter plaatse."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "afgrijzen",
-        "definition": "Heel erg schrikken van iets",
-        "sentence": "Hij schrok zich ___ van het enge nieuws.",
-        "answer": "afgrijzen"
+        "word": "Pantheon",
+        "definition": "een oud, rond gebouw in Rome met een grote koepel",
+        "sentence": "Het ___ is een beroemd monument in Rome.",
+        "answer": "Pantheon"
       },
       {
-        "word": "partijgenoten",
-        "definition": "Mensen die in dezelfde politieke partij zitten",
-        "sentence": "Hij werkt samen met zijn ___ aan een nieuw plan.",
-        "answer": "partijgenoten"
+        "word": "hoofdstad",
+        "definition": "de belangrijkste stad van een land, waar de regering zit",
+        "sentence": "Amsterdam is de ___ van Nederland.",
+        "answer": "hoofdstad"
       },
       {
-        "word": "moslim",
-        "definition": "Iemand die de islamitische godsdienst volgt",
-        "sentence": "Een ___ gelooft in de islamitische godsdienst.",
-        "answer": "moslim"
+        "word": "muur",
+        "definition": "een stevige wand van steen of hout, vaak van een gebouw",
+        "sentence": "Hij viel van de ___ en raakte gewond.",
+        "answer": "muur"
       },
       {
-        "word": "hoop",
-        "definition": "De hoop dat iets goed gaat komen",
-        "sentence": "Ik heb veel ___ dat het goed komt.",
-        "answer": "hoop"
+        "word": "toerist",
+        "definition": "iemand die op vakantie is in een ander land",
+        "sentence": "De ___ nam veel foto's tijdens zijn reis.",
+        "answer": "toerist"
       },
       {
-        "word": "New York",
-        "definition": "Een grote stad in Amerika",
-        "sentence": "___ is een bekende stad in de Verenigde Staten.",
-        "answer": "New York"
+        "word": "hoofdstad",
+        "definition": "de belangrijkste stad van een land, waar de regering zit",
+        "sentence": "Rome is de ___ van Italië.",
+        "answer": "hoofdstad"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Een ___ gelooft in de islamitische godsdienst.",
-        "answer": "moslim"
+        "sentence": "Het ___ is een beroemd monument in Rome.",
+        "answer": "Pantheon"
       },
       {
-        "sentence": "Hij werkt samen met zijn ___ aan een nieuw plan.",
-        "answer": "partijgenoten"
+        "sentence": "De ___ nam veel foto's tijdens zijn reis.",
+        "answer": "toerist"
       },
       {
-        "sentence": "___ is een bekende stad in de Verenigde Staten.",
-        "answer": "New York"
+        "sentence": "Rome is de ___ van Italië.",
+        "answer": "hoofdstad"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdstad van de Verenigde Staten?",
+      "question": "Waar bevindt het Pantheon zich?",
       "options": [
-        "Washington D.C.",
-        "New York",
-        "Los Angeles",
-        "Chicago"
+        "Londen",
+        "Rome",
+        "Parijs",
+        "Berlijn"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'onervaren'?",
+      "question": "Wat is de hoofdstad van Italië?",
       "options": [
-        "Iemand met weinig ervaring",
-        "Iemand die heel erg oud is",
-        "Iemand die heel snel rent",
-        "Iemand die veel geld heeft"
+        "Milaan",
+        "Venetië",
+        "Rome",
+        "Napels"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de religie van een moslim?",
+      "question": "Wat betekent 'overleden'?",
       "options": [
-        "Islam",
-        "Christendom",
-        "Boeddhisme",
-        "Hindoeïsme"
+        "verhuisd",
+        "gestorven",
+        "verdwenen",
+        "gewond"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "New York is de hoofdstad van de Verenigde Staten.",
-      "isTrue": false
-    },
-    {
-      "statement": "Een moslim is iemand die de islamitische godsdienst volgt.",
+      "statement": "De toerist overleed ter plaatse.",
       "isTrue": true
     },
     {
-      "statement": "Zohran Mamdani is de burgemeester van New York.",
+      "statement": "Het ongeluk vond plaats in Rome, Italië.",
+      "isTrue": true
+    },
+    {
+      "statement": "De toerist was afkomstig uit Duitsland.",
       "isTrue": false
     }
   ]

@@ -1,105 +1,105 @@
 {
-  "id": 4,
+  "id": 5,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
+  "title": "Japanse toerist overleden na val van Pantheon in Rome",
   "topicNumber": 1,
   "article": {
-    "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
-    "summary": "New York is niet zoals de rest van de VS. Minder dan ooit, nu in tijden van Trump met Zohran Mamdani een onervaren socialistische moslim wellicht de volgende burgemeester wordt. Tot hoop én afgrijzen van zijn eigen partijgenoten."
+    "title": "Japanse toerist overleden na val van Pantheon in Rome",
+    "summary": "Een 69-jarige toerist uit Japan is vrijdagavond van een muur van het Pantheon in de Italiaanse hoofdstad Rome gevallen. Hij overleed ter plaatse."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "betaalbaar",
-        "definition": "Niet te duur, goedkoop genoeg om te kunnen betalen.",
-        "sentence": "De woning was gelukkig ___.",
-        "answer": "betaalbaar"
+        "word": "val",
+        "definition": "naar beneden gaan door zwaartekracht; een ongeluk",
+        "sentence": "De ___ van de trap veroorzaakte zijn verwondingen.",
+        "answer": "val"
       },
       {
-        "word": "kandidaat",
-        "definition": "Iemand die meedoet aan een verkiezing of sollicitatie.",
-        "sentence": "De ___ voor het burgemeesterschap heeft veel steun.",
-        "answer": "kandidaat"
+        "word": "ter plaatse",
+        "definition": "op dezelfde locatie; niet elders",
+        "sentence": "Hij overleed ___, zonder naar een ziekenhuis te gaan.",
+        "answer": "ter plaatse"
       },
       {
-        "word": "socialistisch",
-        "definition": "Betrekking hebbend op socialisme, een politieke stroming die streeft naar gelijkheid.",
-        "sentence": "Hij heeft een ___ wereldbeeld.",
-        "answer": "socialistisch"
+        "word": "hoofdstad",
+        "definition": "de belangrijkste stad van een land, vaak waar de regering zit",
+        "sentence": "Rome is de ___ van Italië.",
+        "answer": "hoofdstad"
       },
       {
-        "word": "onervaren",
-        "definition": "Nog niet veel ervaring hebbend, nog niet geoefend.",
-        "sentence": "Hij was een ___ spreker.",
-        "answer": "onervaren"
+        "word": "toerist",
+        "definition": "iemand die een plaats bezoekt voor plezier of ontspanning",
+        "sentence": "De ___ nam deel aan een georganiseerde excursie.",
+        "answer": "toerist"
       },
       {
-        "word": "moslim",
-        "definition": "Iemand die de islamitische religie aanhangt.",
-        "sentence": "Hij is een toegewijde ___.",
-        "answer": "moslim"
+        "word": "Rome",
+        "definition": "de hoofdstad van Italië, bekend om zijn geschiedenis",
+        "sentence": "___ trekt miljoenen toeristen per jaar.",
+        "answer": "Rome"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij heeft een ___ wereldbeeld.",
-        "answer": "socialistisch"
+        "sentence": "___ trekt miljoenen toeristen per jaar.",
+        "answer": "Rome"
       },
       {
-        "sentence": "Hij is een toegewijde ___.",
-        "answer": "moslim"
+        "sentence": "Hij overleed ___, zonder naar een ziekenhuis te gaan.",
+        "answer": "ter plaatse"
       },
       {
-        "sentence": "De woning was gelukkig ___.",
-        "answer": "betaalbaar"
+        "sentence": "De ___ van de trap veroorzaakte zijn verwondingen.",
+        "answer": "val"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de belangrijkste reden dat Zohran Mamdani opvalt in de New Yorkse politiek?",
+      "question": "Waar bevindt het Pantheon zich?",
       "options": [
-        "Hij is een socialist",
-        "Hij is een moslim",
-        "Hij is een onervaren kandidaat",
-        "Hij komt van buiten de VS"
+        "Parijs",
+        "Londen",
+        "Rome",
+        "Berlijn"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 3
     },
     {
-      "question": "Hoe reageren zijn partijgenoten op zijn kandidatuur?",
+      "question": "Wat is de nationaliteit van de overledene?",
       "options": [
-        "Ze zijn enthousiast en ondersteunend",
-        "Ze zijn neutraal en afwachtend",
-        "Ze zijn afwijzend en kritisch",
-        "Ze zijn hoopvol maar ook bezorgd"
+        "Italiaans",
+        "Amerikaans",
+        "Japans",
+        "Duits"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de situatie in New York in vergelijking met de rest van de VS volgens de tekst?",
+      "question": "Hoe overleed de toerist?",
       "options": [
-        "Het is hetzelfde",
-        "Het is compleet anders",
-        "Het is minder representatief",
-        "Het is meer progressief"
+        "Door een auto-ongeluk",
+        "Door ziekte",
+        "Door een val",
+        "Door ouderdom"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Zohran Mamdani is een ervaren politicus die al lang burgemeester is van New York.",
+      "statement": "De toerist overleed in een ziekenhuis.",
       "isTrue": false
     },
     {
-      "statement": "New York wordt voorgesteld als een uitzondering binnen de Verenigde Staten.",
+      "statement": "Het incident vond plaats in Rome.",
       "isTrue": true
     },
     {
-      "statement": "De reacties op Mamdani's kandidatuur zijn unaniem positief binnen zijn partij.",
+      "statement": "De toerist overleefde de val.",
       "isTrue": false
     }
   ]

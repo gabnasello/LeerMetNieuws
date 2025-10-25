@@ -1,106 +1,106 @@
 {
-  "id": 14,
+  "id": 16,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
+  "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
   "topicNumber": 1,
   "article": {
-    "title": "Strijd tegen Russische corruptie leidt naar Antwerps appartement",
-    "summary": "De strijd tegen Russische corruptie leidt zelfs tot in het Vlinderpaleis. Op het spel staat een eerbetoon aan Sergej Magnitski en een Antwerps appartement waarvan wordt aangenomen dat het aangekocht is met geld van de beruchte fraudezaak."
+    "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
+    "summary": "Het KMI waarschuwt opnieuw voor slecht weer. De overheid heeft het nummer 1722 geactiveerd, dat mensen kunnen bellen bij storm- en waterschade."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "strijd",
-        "definition": "een hevige ruzie of een gevecht, vaak voor een belangrijk doel",
-        "sentence": "De twee landen voerden een lange ___ om het land.",
-        "answer": "strijd"
+        "word": "schade",
+        "definition": "Schade is wat kapot gaat, bijvoorbeeld door een ongeluk.",
+        "sentence": "Na de storm was er veel ___ aan huizen.",
+        "answer": "schade"
       },
       {
-        "word": "corruptie",
-        "definition": "wanneer mensen in de macht misbruik maken van hun positie, bijvoorbeeld door geld te stelen",
-        "sentence": "De politicus werd beschuldigd van ___ en moest aftreden.",
-        "answer": "corruptie"
+        "word": "KMI",
+        "definition": "Het KMI is het Koninklijk Meteorologisch Instituut. Het geeft weerberichten.",
+        "sentence": "Het ___ waarschuwt voor slecht weer.",
+        "answer": "KMI"
       },
       {
-        "word": "aangenomen",
-        "definition": "verondersteld, niet zeker",
-        "sentence": "Het is ___ dat het gebouw al honderden jaren oud is.",
-        "answer": "aangenomen"
+        "word": "bellen",
+        "definition": "Bellen is telefoneren, iemand opbellen.",
+        "sentence": "Je kunt ___ naar 1722 als je schade hebt.",
+        "answer": "bellen"
       },
       {
-        "word": "erfenis",
-        "definition": "iets wat wordt achtergelaten voor de toekomst, zoals geld of een gebouw",
-        "sentence": "De oude vrouw liet haar volledige ___ aan haar kleindochter.",
-        "answer": "erfenis"
+        "word": "overheid",
+        "definition": "De overheid is de regering van een land. Ze maakt regels en beslist over veel dingen.",
+        "sentence": "De ___ heeft een noodnummer gemaakt.",
+        "answer": "overheid"
       },
       {
-        "word": "fraude",
-        "definition": "een vorm van bedrog, vaak met geld of informatie",
-        "sentence": "De man pleegde ___ door valse informatie op te geven.",
-        "answer": "fraude"
+        "word": "mensen",
+        "definition": "Mensen zijn personen, zoals jij en ik.",
+        "sentence": "Alle ___ moeten voorzichtig zijn bij storm.",
+        "answer": "mensen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het is ___ dat het gebouw al honderden jaren oud is.",
-        "answer": "aangenomen"
+        "sentence": "Alle ___ moeten voorzichtig zijn bij storm.",
+        "answer": "mensen"
       },
       {
-        "sentence": "De oude vrouw liet haar volledige ___ aan haar kleindochter.",
-        "answer": "erfenis"
+        "sentence": "Het ___ waarschuwt voor slecht weer.",
+        "answer": "KMI"
       },
       {
-        "sentence": "De twee landen voerden een lange ___ om het land.",
-        "answer": "strijd"
+        "sentence": "Je kunt ___ naar 1722 als je schade hebt.",
+        "answer": "bellen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat het artikel vooral over?",
+      "question": "Wat is het nummer 1722?",
       "options": [
-        "Over een nieuwe wet in België",
-        "Over een internationaal sportevenement",
-        "Over de aankoop van een appartement met gestolen geld",
-        "Over de prijs van een appartement in Antwerpen"
+        "Een gewoon telefoonnummer",
+        "Een noodnummer voor stormschade",
+        "Een nummer voor een pizza",
+        "Een code voor de supermarkt"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het Vlinderpaleis?",
+      "question": "Waar is het nummer 1722 voor?",
       "options": [
-        "Een oud museum in Rusland",
-        "Een beroemd hotel in Moskou",
-        "Een gebouw in Antwerpen",
-        "Een type bloem"
+        "Voor feestjes en feestdagen",
+        "Voor als je iemand mist",
+        "Voor als je hulp nodig hebt bij storm of waterschade",
+        "Voor als je een nieuwe auto wilt kopen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Waarom is Sergej Magnitski belangrijk voor dit verhaal?",
+      "question": "Wie heeft het nummer 1722 gemaakt?",
       "options": [
-        "Hij is de eigenaar van het appartement",
-        "Hij is een Russische sporter",
-        "Hij is een symbolische figuur in de strijd tegen corruptie",
-        "Hij is de president van Rusland"
+        "De bakker",
+        "De politie",
+        "De brandweer",
+        "De overheid"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het Vlinderpaleis is een gebouw in Antwerpen.",
-      "isTrue": false
-    },
-    {
-      "statement": "Het appartement in Antwerpen is betaald met geld van de fraudezaak.",
+      "statement": "Het KMI geeft weerberichten en waarschuwingen.",
       "isTrue": true
     },
     {
-      "statement": "Sergej Magnitski is nog steeds in leven en woont in het Vlinderpaleis.",
+      "statement": "Je kunt 1722 bellen als je honger hebt.",
       "isTrue": false
+    },
+    {
+      "statement": "De overheid heeft het nummer 1722 gemaakt voor stormschade.",
+      "isTrue": true
     }
   ]
 }

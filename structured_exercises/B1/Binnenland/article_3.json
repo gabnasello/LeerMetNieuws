@@ -1,106 +1,106 @@
 {
-  "id": 17,
+  "id": 22,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
+  "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
   "topicNumber": 1,
   "article": {
-    "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
-    "summary": "Het Engels is oppermachtig aan de universiteit. Dat biedt kansen, maar het knelt en wringt ook. 'Zelfs op een congres over Franse vertaalwetenschap is de voertaal Engels.'"
+    "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
+    "summary": "Op de Antwerpse Ring is afgelopen nacht een tijdelijk stuk snelweg geopend, parallel met het viaduct van Merksem ter hoogte van de AFAS-Dome. De belangrijke stap in de Oosterweelwerken belooft veel verkeershinder met zich mee te brengen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "biedt",
-        "definition": "geeft, aanbiedt, mogelijk maakt",
-        "sentence": "De nieuwe supermarkt ___ veel keuze aan de klanten.",
-        "answer": "biedt"
+        "word": "verwacht",
+        "definition": "denkt dat iets gaat gebeuren",
+        "sentence": "We ___ veel bezoekers op het festival.",
+        "answer": "verwacht"
       },
       {
-        "word": "knelt",
-        "definition": "zit strak, knelt, is niet comfortabel",
-        "sentence": "Deze schoen ___ een beetje bij mijn tenen.",
-        "answer": "knelt"
+        "word": "opent",
+        "definition": "begint te werken of beschikbaar wordt",
+        "sentence": "Het nieuwe winkelcentrum ___ volgende week.",
+        "answer": "opent"
       },
       {
-        "word": "oppermachtig",
-        "definition": "heel erg machtig, de baas zijn",
-        "sentence": "De leeuw is de ___ heerser van de savanne.",
-        "answer": "oppermachtig"
+        "word": "stap",
+        "definition": "een actie of deel van een proces",
+        "sentence": "De eerste ___ in het plan is voltooid.",
+        "answer": "stap"
       },
       {
-        "word": "wringt",
-        "definition": "zit strak, schuurt, is ongemakkelijk",
-        "sentence": "Deze broek ___ een beetje bij mijn knieën.",
-        "answer": "wringt"
+        "word": "ring",
+        "definition": "een rondweg om een stad",
+        "sentence": "De Antwerpse ___ is erg druk tijdens de spits.",
+        "answer": "ring"
       },
       {
-        "word": "gestreden",
-        "definition": "gevochten, hard gewerkt voor iets",
-        "sentence": "De soldaten hebben lang ___ voor hun vrijheid.",
-        "answer": "gestreden"
+        "word": "werken",
+        "definition": "activiteiten om iets te bouwen of repareren",
+        "sentence": "De ___ aan de nieuwe brug zijn bijna klaar.",
+        "answer": "werken"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Deze broek ___ een beetje bij mijn knieën.",
-        "answer": "wringt"
+        "sentence": "De Antwerpse ___ is erg druk tijdens de spits.",
+        "answer": "ring"
       },
       {
-        "sentence": "Deze schoen ___ een beetje bij mijn tenen.",
-        "answer": "knelt"
+        "sentence": "We ___ veel bezoekers op het festival.",
+        "answer": "verwacht"
       },
       {
-        "sentence": "De soldaten hebben lang ___ voor hun vrijheid.",
-        "answer": "gestreden"
+        "sentence": "De ___ aan de nieuwe brug zijn bijna klaar.",
+        "answer": "werken"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'verengelsing' in deze context?",
+      "question": "Waarom is er veel verkeershinder op de Antwerpse Ring?",
       "options": [
-        "Het verbieden van Engelse woorden",
-        "Het overnemen van Engelse taal en cultuur",
-        "Het verliezen van een oorlog",
-        "Het vieren van een Engelse feestdag"
+        "Omdat er een feest is",
+        "Omdat er een nieuwe weg is geopend",
+        "Omdat er veel sneeuw ligt",
+        "Omdat er een voetbalwedstrijd is"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom wordt gezegd dat 'niemand wakker ligt' van verengelsing?",
+      "question": "Wat is de Oosterweelverbinding?",
       "options": [
-        "Omdat het niet belangrijk genoeg is",
-        "Omdat mensen te moe zijn",
-        "Omdat het een geheim is",
-        "Omdat het alleen in Nederland gebeurt"
+        "Een nieuwe tunnel",
+        "Een nieuwe brug",
+        "Een reeks van bouwwerken",
+        "Een groot station"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is een voorbeeld van 'oppermachtig' zijn?",
+      "question": "Wanneer werd het nieuwe stuk weg geopend?",
       "options": [
-        "De koning is oppermachtig in zijn land.",
-        "De student is oppermachtig in de klas.",
-        "De hond is oppermachtig in het park.",
-        "De leraar is oppermachtig over de taal."
+        "Vorige week",
+        "Afgelopen nacht",
+        "Over een maand",
+        "Vroeger"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Verengelsing betekent dat de Engelse taal de Nederlandse taal vervangt.",
-      "isTrue": true
-    },
-    {
-      "statement": "Niemand ligt wakker van verengelsing omdat het geen probleem is.",
+      "statement": "De Oosterweelwerken zijn volledig klaar.",
       "isTrue": false
     },
     {
-      "statement": "Engels is de voertaal op een congres over Franse vertaalwetenschap.",
+      "statement": "Het nieuwe stuk weg ligt parallel aan het viaduct van Merksem.",
       "isTrue": true
+    },
+    {
+      "statement": "De Antwerpse Ring is nu gesloten voor alle verkeer.",
+      "isTrue": false
     }
   ]
 }

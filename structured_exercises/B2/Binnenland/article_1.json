@@ -1,106 +1,106 @@
 {
-  "id": 14,
+  "id": 18,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Begint de linkse revolutie in Sint-Gillis? 'Het is ook een vorm van lifestyle'",
+  "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
   "topicNumber": 1,
   "article": {
-    "title": "Begint de linkse revolutie in Sint-Gillis? 'Het is ook een vorm van lifestyle'",
-    "summary": "Is extreemlinks in Brussel een gevaar voor de openbare orde, of vooral een vorm van idealistische folklore? In Sint-Gillis groeit een beweging die zijn verontwaardiging koppelt aan oude revolutionaire symboliek. 'De kwaadheid over Gaza en het klimaat biedt vruchtbare grond voor extremisme.'"
+    "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
+    "summary": "Het KMI waarschuwt opnieuw voor slecht weer. De overheid heeft het nummer 1722 geactiveerd, dat mensen kunnen bellen bij storm- en waterschade."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "linkse",
-        "definition": "Betreft politieke groeperingen die sociaal en economisch gelijkheid willen.",
-        "sentence": "De ___ politieke partij wil meer geld voor onderwijs.",
-        "answer": "linkse"
+        "word": "storm",
+        "definition": "Hevig weer met veel wind en regen",
+        "sentence": "De ___ veroorzaakte schade aan daken.",
+        "answer": "storm"
       },
       {
-        "word": "verontwaardiging",
-        "definition": "Een gevoel van boosheid of ongenoegen over iets wat onrechtvaardig is.",
-        "sentence": "Zijn ___ over het beleid was duidelijk in zijn speech.",
-        "answer": "verontwaardiging"
+        "word": "KMI",
+        "definition": "Koninklijk Meteorologisch Instituut; een organisatie die het weer voorspelt",
+        "sentence": "Het ___ geeft weerwaarschuwingen.",
+        "answer": "KMI"
       },
       {
-        "word": "revolutie",
-        "definition": "Een snelle en grote verandering in de maatschappij of politiek.",
-        "sentence": "De Franse ___ bracht grote veranderingen in de samenleving.",
-        "answer": "revolutie"
+        "word": "schade",
+        "definition": "Beschadiging; iets dat kapot is gemaakt",
+        "sentence": "De storm veroorzaakte veel ___ aan huizen.",
+        "answer": "schade"
       },
       {
-        "word": "extremisme",
-        "definition": "Het hanteren van extreme opvattingen of acties, vaak politiek of sociaal.",
-        "sentence": "Radicale groepen kunnen leiden tot gevaarlijk ___.",
-        "answer": "extremisme"
+        "word": "geactiveerd",
+        "definition": "In werking gesteld; actief gemaakt",
+        "sentence": "Het noodnummer is ___ na het stormbericht.",
+        "answer": "geactiveerd"
       },
       {
-        "word": "beweging",
-        "definition": "Een groep mensen die samenwerkt voor een gemeenschappelijk doel.",
-        "sentence": "De arbeiders___ organiseerde een protest vorige week.",
-        "answer": "beweging"
+        "word": "bellen",
+        "definition": "Telefoneren; iemand opbellen",
+        "sentence": "Mensen kunnen ___ naar 1722 voor hulp.",
+        "answer": "bellen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Radicale groepen kunnen leiden tot gevaarlijk ___.",
-        "answer": "extremisme"
+        "sentence": "Het ___ geeft weerwaarschuwingen.",
+        "answer": "KMI"
       },
       {
-        "sentence": "Zijn ___ over het beleid was duidelijk in zijn speech.",
-        "answer": "verontwaardiging"
+        "sentence": "De ___ veroorzaakte schade aan daken.",
+        "answer": "storm"
       },
       {
-        "sentence": "De Franse ___ bracht grote veranderingen in de samenleving.",
-        "answer": "revolutie"
+        "sentence": "Het noodnummer is ___ na het stormbericht.",
+        "answer": "geactiveerd"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar verwijst 'Sint-Gillis' in deze context naar?",
+      "question": "Wat is het KMI?",
       "options": [
-        "Een persoon",
+        "Een sportclub",
+        "Een weervoorspeller",
         "Een soort voedsel",
-        "Een plaats in Brussel",
-        "Een historisch figuur"
+        "Een type auto"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat betekent 'geactiveerd' in deze context?",
+      "options": [
+        "Verwijderd",
+        "Vernietigd",
+        "In werking gesteld",
+        "Vergeten"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is 'symboliek' in deze tekst?",
+      "question": "Waarom is het belangrijk om 1722 te bellen bij waterschade?",
       "options": [
-        "Een soort voedsel",
-        "Een type muziek",
-        "Het gebruik van symbolen",
-        "Een economisch systeem"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat wordt bedoeld met 'extremisme' in deze context?",
-      "options": [
-        "Een soort sport",
-        "Een vorm van extreme politieke opvattingen",
-        "Een economisch systeem",
-        "Een type kunst"
+        "Om een pizza te bestellen",
+        "Om professionele hulp te krijgen",
+        "Om te klagen over buren",
+        "Om de storm te stoppen"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Sint-Gillis is een plaats in Brussel.",
-      "isTrue": true
-    },
-    {
-      "statement": "Extremisme verwijst hier naar een politieke partij.",
+      "statement": "Het KMI geeft alleen waarschuwingen voor zonneschijn.",
       "isTrue": false
     },
     {
-      "statement": "De tekst beschrijft zowel gevaar als culturele aspecten van de beweging.",
+      "statement": "1722 is een telefoonnummer voor noodhulp bij storm of waterschade.",
       "isTrue": true
+    },
+    {
+      "statement": "De overheid heeft het nummer 1722 afgeschaft.",
+      "isTrue": false
     }
   ]
 }

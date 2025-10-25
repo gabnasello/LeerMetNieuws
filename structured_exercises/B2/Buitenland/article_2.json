@@ -1,106 +1,106 @@
 {
-  "id": 11,
+  "id": 13,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Auteur Marijn Kruk over het succes van de PVV in Nederland: “Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint”",
+  "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
   "topicNumber": 1,
   "article": {
-    "title": "Auteur Marijn Kruk over het succes van de PVV in Nederland: “Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint”",
-    "summary": "De eerste Nederlandse regering met PVV-ministers draaide uit op een fiasco. Toch wenkt een volgende verkiezingstriomf voor Geert Wilders. Auteur Marijn Kruk schrikt niet: “Radicaal-rechts heeft de strijd in dit land met 10-0 gewonnen.”"
+    "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
+    "summary": "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "auteur",
-        "definition": "schrijver van een tekst of boek",
-        "sentence": "De ___ van dit artikel is Marijn Kruk.",
-        "answer": "auteur"
+        "word": "drones",
+        "definition": "Onbemande vliegtuigjes die op afstand bestuurd worden",
+        "sentence": "De Verenigde Staten gebruiken ___ om de situatie in Gaza te observeren.",
+        "answer": "drones"
       },
       {
-        "word": "wereld",
-        "definition": "de aarde en alles erop, of een grote groep mensen",
-        "sentence": "Hij bekijkt de ___ door de ogen van Wilders.",
-        "answer": "wereld"
+        "word": "controleren",
+        "definition": "Controleren of toezicht houden op iets",
+        "sentence": "Vredeshandhavers willen ___ of het staakt-het-vuren wordt nageleefd.",
+        "answer": "controleren"
       },
       {
-        "word": "succes",
-        "definition": "het bereiken van een goed resultaat",
-        "sentence": "Het ___ van de PVV verraste veel mensen.",
-        "answer": "succes"
+        "word": "staakt-het-vuren",
+        "definition": "Een afspraak om te stoppen met vechten voor een bepaalde tijd",
+        "sentence": "Een ___ is een belangrijke eerste stap naar vrede.",
+        "answer": "staakt-het-vuren"
       },
       {
-        "word": "verkiezingstriomf",
-        "definition": "een grote overwinning in een verkiezing",
-        "sentence": "Wilders behaalde een ___.",
-        "answer": "verkiezingstriomf"
+        "word": "doorbraak",
+        "definition": "Een belangrijke, plotselinge vooruitgang",
+        "sentence": "De vredesonderhandelingen hebben geleid tot een belangrijke ___ in het conflict.",
+        "answer": "doorbraak"
       },
       {
-        "word": "regering",
-        "definition": "een groep mensen die een land bestuurt",
-        "sentence": "De nieuwe ___ heeft veel plannen.",
-        "answer": "regering"
+        "word": "onderhandelingen",
+        "definition": "Gesprekken voeren om tot een overeenkomst te komen",
+        "sentence": "De ___ tussen de landen zijn nog steeds aan de gang.",
+        "answer": "onderhandelingen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ van dit artikel is Marijn Kruk.",
-        "answer": "auteur"
+        "sentence": "Vredeshandhavers willen ___ of het staakt-het-vuren wordt nageleefd.",
+        "answer": "controleren"
       },
       {
-        "sentence": "Wilders behaalde een ___.",
-        "answer": "verkiezingstriomf"
+        "sentence": "Een ___ is een belangrijke eerste stap naar vrede.",
+        "answer": "staakt-het-vuren"
       },
       {
-        "sentence": "De nieuwe ___ heeft veel plannen.",
-        "answer": "regering"
+        "sentence": "De ___ tussen de landen zijn nog steeds aan de gang.",
+        "answer": "onderhandelingen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarover schrijft auteur Marijn Kruk?",
+      "question": "Wat is het hoofddoel van de inzet van drones in Gaza volgens de tekst?",
       "options": [
-        "Over reizen",
-        "Over de Nederlandse politiek",
-        "Over koken",
-        "Over sport"
+        "Het beëindigen van de oorlog",
+        "Het controleren van het staakt-het-vuren",
+        "Het voeren van aanvallen",
+        "Het verzamelen van informatie voor toekomstige onderhandelingen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de houding van Marijn Kruk naar de PVV?",
+      "question": "Wat is de huidige status van de vredesonderhandelingen volgens de tekst?",
       "options": [
-        "Ze is erg positief",
-        "Ze is neutraal",
-        "Ze is kritisch",
-        "Ze is enthousiast"
+        "Ze zijn volledig vastgelopen",
+        "Ze zijn onlangs succesvol afgerond",
+        "Er is een belangrijke doorbraak",
+        "Er is geen overeenkomst in zicht"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat was het resultaat van de eerste regering met PVV-ministers?",
+      "question": "Welke rol spelen de Verenigde Staten volgens de tekst in dit proces?",
       "options": [
-        "Het was een groot succes",
-        "Het was een fiasco",
-        "Het was onbelangrijk",
-        "Het was een overwinning"
+        "Ze leiden de vijandelijke aanvallen",
+        "Ze observeren en controleren de situatie",
+        "Ze bemiddelen tussen de partijen",
+        "Ze verzorgen humanitaire hulp"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Geert Wilders is de leider van de PVV.",
-      "isTrue": true
-    },
-    {
-      "statement": "De PVV is een linkse partij.",
+      "statement": "De onderhandelingen zijn volledig afgerond en hebben geleid tot een permanent staakt-het-vuren.",
       "isTrue": false
     },
     {
-      "statement": "Marijn Kruk is de schrijver van het artikel.",
+      "statement": "De Verenigde Staten maken gebruik van drones om de naleving van het staakt-het-vuren te controleren.",
       "isTrue": true
+    },
+    {
+      "statement": "Het conflict in Gaza is volledig opgelost door de inzet van internationale drones.",
+      "isTrue": false
     }
   ]
 }

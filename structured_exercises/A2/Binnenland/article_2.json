@@ -1,106 +1,106 @@
 {
-  "id": 23,
+  "id": 26,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
+  "title": "Franstalige vrouw belt hulpdiensten om gewonde man te helpen",
   "topicNumber": 1,
   "article": {
-    "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
-    "summary": "Gent wil de Vlasmarkt asfalteren, maar niet iedereen is daar blij mee. Tegenstanders willen de kinderkopjes laten erkennen als erfgoed. Want niets is zo Gents als het vermogen om pittoresk struikelgevaar te romantiseren."
+    "title": "Franstalige vrouw belt hulpdiensten om gewonde man te helpen",
+    "summary": "Een Franstalige vrouw wilde een gewonde man in het Zoniënwoud helpen, maar bij het bellen van 112 kreeg ze te horen dat ze alleen in het Nederlands geholpen kon worden. De burgemeester noemt dit een schandalige situatie."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "erfgoed",
-        "definition": "iets van cultureel of historisch belang dat bewaard wordt",
-        "sentence": "Het oude gebouw is nu ___ en wordt beschermd.",
-        "answer": "erfgoed"
+        "word": "Franstalige",
+        "definition": "iemand die Frans spreekt",
+        "sentence": "De ___ vrouw spreekt Frans.",
+        "answer": "Franstalige"
       },
       {
-        "word": "nostalgie",
-        "definition": "het verlangen naar iets uit het verleden",
-        "sentence": "Veel mensen hebben ___ naar de jaren negentig.",
-        "answer": "nostalgie"
+        "word": "bellen",
+        "definition": "telefoneren, iemand opbellen",
+        "sentence": "Ze moest ___ om hulp te vragen.",
+        "answer": "bellen"
       },
       {
-        "word": "emotie",
-        "definition": "een gevoel, zoals blijdschap of verdriet",
-        "sentence": "Hij sprak met veel ___ over zijn jeugd.",
-        "answer": "emotie"
+        "word": "situatie",
+        "definition": "de toestand of omstandigheid op een bepaald moment",
+        "sentence": "De ___ was verwarrend voor de vrouw.",
+        "answer": "situatie"
       },
       {
-        "word": "pittoresk",
-        "definition": "mooi en charmant op een ouderwetse manier",
-        "sentence": "Het kleine dorpje was erg ___ met zijn oude huisjes.",
-        "answer": "pittoresk"
+        "word": "Burgemeester",
+        "definition": "de leider van een stad of gemeente",
+        "sentence": "De ___ van de stad gaf een verklaring.",
+        "answer": "Burgemeester"
       },
       {
-        "word": "struikelgevaar",
-        "definition": "het gevaar dat je over iets struikelt en valt",
-        "sentence": "Op gladde stenen is er veel ___ voor ouderen.",
-        "answer": "struikelgevaar"
+        "word": "Nederlands",
+        "definition": "de taal die in Nederland en Vlaanderen gesproken wordt",
+        "sentence": "Ze moest ___ spreken, maar ze kon het niet.",
+        "answer": "Nederlands"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het oude gebouw is nu ___ en wordt beschermd.",
-        "answer": "erfgoed"
+        "sentence": "Ze moest ___ spreken, maar ze kon het niet.",
+        "answer": "Nederlands"
       },
       {
-        "sentence": "Op gladde stenen is er veel ___ voor ouderen.",
-        "answer": "struikelgevaar"
+        "sentence": "Ze moest ___ om hulp te vragen.",
+        "answer": "bellen"
       },
       {
-        "sentence": "Het kleine dorpje was erg ___ met zijn oude huisjes.",
-        "answer": "pittoresk"
+        "sentence": "De ___ van de stad gaf een verklaring.",
+        "answer": "Burgemeester"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom wil Gent de Vlasmarkt asfalteren?",
+      "question": "Waarom belde de vrouw de hulpdiensten?",
       "options": [
-        "Omdat de stenen te oud zijn",
-        "Voor de veiligheid van voetgangers",
-        "Omdat er te veel verkeer is",
-        "Omdat niemand van kasseien houdt"
+        "Om een feest te organiseren",
+        "Om een gewonde man te helpen",
+        "Om te oefenen met Nederlands",
+        "Om de burgemeester te spreken"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is 'pittoresk' volgens de tekst?",
+      "question": "Wat was het probleem met de taal?",
       "options": [
-        "Iets dat gevaarlijk is",
-        "Iets dat mooi en charmant is",
-        "Iets dat nieuw is",
-        "Iets dat saai is"
+        "Ze sprak te luid",
+        "Ze sprak alleen Frans",
+        "De telefoon was kapot",
+        "Niemand wilde haar helpen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat willen tegenstanders van de asfaltering?",
+      "question": "Wat vond de burgemeester van deze situatie?",
       "options": [
-        "Niets, ze zijn het ermee eens",
-        "De kasseien behouden als erfgoed",
-        "Meer asfalt in de stad",
-        "Alleen asfalt voor auto's"
+        "Hij vond het leuk",
+        "Hij vond het een schandaal",
+        "Hij vond het een feest",
+        "Hij vond het gewoon"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Gent wil de Vlasmarkt asfalteren om het veiliger te maken.",
-      "isTrue": true
-    },
-    {
-      "statement": "Iedereen in Gent is blij met de asfaltering.",
+      "statement": "De vrouw kon de gewonde man niet helpen omdat ze hem niet kon vinden.",
       "isTrue": false
     },
     {
-      "statement": "Kasseien kunnen gevaarlijk zijn om op te lopen.",
+      "statement": "De hulpdiensten spraken alleen Nederlands, wat de vrouw niet kon.",
       "isTrue": true
+    },
+    {
+      "statement": "De burgemeester was blij met de situatie.",
+      "isTrue": false
     }
   ]
 }

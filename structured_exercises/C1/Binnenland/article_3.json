@@ -1,106 +1,106 @@
 {
-  "id": 20,
+  "id": 24,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
+  "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
   "topicNumber": 1,
   "article": {
-    "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
-    "summary": "Het Engels is oppermachtig aan de universiteit. Dat biedt kansen, maar het knelt en wringt ook. “Zelfs op een congres over Franse vertaalwetenschap is de voertaal Engels.”"
+    "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
+    "summary": "Op de Antwerpse Ring is afgelopen nacht een tijdelijk stuk snelweg geopend, parallel met het viaduct van Merksem ter hoogte van de AFAS-Dome. De belangrijke stap in de Oosterweelwerken belooft veel verkeershinder met zich mee te brengen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "congres",
-        "definition": "Grote bijeenkomst of conferentie over een onderwerp",
-        "sentence": "Het internationale ___ trok veel bezoekers.",
-        "answer": "congres"
+        "word": "bypass",
+        "definition": "Een alternatieve route of omleiding, vaak tijdelijk.",
+        "sentence": "De nieuwe ___ helpt om het verkeer tijdens de werken te beheren.",
+        "answer": "bypass"
       },
       {
-        "word": "knelt",
-        "definition": "Zit niet lekker, wringt of is moeilijk",
-        "sentence": "Het besluit ___ nog steeds.",
-        "answer": "knelt"
+        "word": "viaduct",
+        "definition": "Een brug of overbrugging voor verkeer, meestal boven een weg of water.",
+        "sentence": "Het nieuwe ___ verbindt twee delen van de ringweg.",
+        "answer": "viaduct"
       },
       {
-        "word": "gestreden",
-        "definition": "Gevochten of hard gewerkt voor iets",
-        "sentence": "De activisten hebben jarenlang ___ voor dierenrechten.",
-        "answer": "gestreden"
+        "word": "Oosterweel",
+        "definition": "Verwijst naar de Oosterweelverbinding, een groot infrastructuurproject in Antwerpen.",
+        "sentence": "De ___ verbinding is een belangrijk onderdeel van het verkeersplan.",
+        "answer": "Oosterweel"
       },
       {
-        "word": "kansen",
-        "definition": "Gunstige mogelijkheden of gelegenheden",
-        "sentence": "Hij zag de nieuwe baan als grote ___.",
-        "answer": "kansen"
+        "word": "ring",
+        "definition": "Kort voor ringweg, een hoofdweg die rond een stad loopt.",
+        "sentence": "De Antwerpse ___ is vaak druk tijdens de spits.",
+        "answer": "ring"
       },
       {
-        "word": "verengelsing",
-        "definition": "Het overnemen van de Engelse taal in plaats van de eigen taal",
-        "sentence": "De ___ van het onderwijs zorgt voor discussie.",
-        "answer": "verengelsing"
+        "word": "belooft",
+        "definition": "Geeft een toezegging of verwachting aan, vaak met enige zekerheid.",
+        "sentence": "De nieuwe route ___ een vlotte doorstroom.",
+        "answer": "belooft"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het internationale ___ trok veel bezoekers.",
-        "answer": "congres"
+        "sentence": "De nieuwe route ___ een vlotte doorstroom.",
+        "answer": "belooft"
       },
       {
-        "sentence": "Hij zag de nieuwe baan als grote ___.",
-        "answer": "kansen"
+        "sentence": "De nieuwe ___ helpt om het verkeer tijdens de werken te beheren.",
+        "answer": "bypass"
       },
       {
-        "sentence": "De activisten hebben jarenlang ___ voor dierenrechten.",
-        "answer": "gestreden"
+        "sentence": "Het nieuwe ___ verbindt twee delen van de ringweg.",
+        "answer": "viaduct"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'verengelsing' in deze context?",
+      "question": "Wat is de hoofdlocatie van de nieuwe Oosterweel-bypass?",
       "options": [
-        "Vernederlandsing",
-        "Vernietiging",
-        "Verengelsing",
-        "Verbetering"
+        "Antwerpen-Centrum",
+        "Het Antwerpse havengebied",
+        "De Antwerpse Ringweg",
+        "Het viaduct van Merksem"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is het hoofdthema van de tekst?",
+      "question": "Wat is een direct gevolg van de opening van de bypass?",
       "options": [
-        "De opkomst van het Nederlands",
-        "De dominantie van het Engels",
-        "De vernietiging van talen",
-        "De geschiedenis van Europa"
+        "Volledige sluiting van de ringweg",
+        "Minder verkeer in het centrum",
+        "Verhoogde verkeersdoorstroom elders",
+        "Enkel vertraging tijdens de spits"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de houding van de auteur?",
+      "question": "Welk element is een onderdeel van de Oosterweelwerken?",
       "options": [
-        "Neutraal en onverschillig",
-        "Kritisch en bezorgd",
-        "Enthousiast en positief",
-        "Boos en agressief"
+        "De nieuwe Antwerpse metro",
+        "De verbreding van de E19",
+        "Het viaduct bij Merksem",
+        "De heraanleg van het Sportpaleis"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De auteur is tegen het gebruik van Engels in het onderwijs.",
+      "statement": "De Oosterweel-bypass is permanent en zal niet worden afgebroken na de werken.",
       "isTrue": false
     },
     {
-      "statement": "Het artikel suggereert dat verengelsing een onomkeerbaar proces is.",
+      "statement": "De verkeershinder is vooral te verwachten tijdens de ochtendspits.",
       "isTrue": true
     },
     {
-      "statement": "De auteur gelooft dat niemand zich zorgen maakt over verengelsing.",
-      "isTrue": false
+      "statement": "Het viaduct van Merksem is een onderdeel van de Oosterweelverbinding.",
+      "isTrue": true
     }
   ]
 }

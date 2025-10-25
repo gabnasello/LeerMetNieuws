@@ -1,99 +1,105 @@
 {
-  "id": 10,
+  "id": 11,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Auteur Marijn Kruk over het succes van de PVV in Nederland: 'Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint'",
+  "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
   "topicNumber": 1,
   "article": {
-    "title": "Auteur Marijn Kruk over het succes van de PVV in Nederland: 'Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint'",
-    "summary": "De eerste Nederlandse regering met PVV-ministers draaide uit op een fiasco. Toch wenkt een volgende verkiezingstriomf voor Geert Wilders. Auteur Marijn Kruk schrikt niet: 'Radicaal-rechts heeft de strijd in dit land met 10-0 gewonnen.'"
+    "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
+    "summary": "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "auteur",
-        "definition": "iemand die een artikel of boek schrijft",
-        "sentence": "De ___ van dit boek is bekend.",
-        "answer": "auteur"
+        "word": "drones",
+        "definition": "vliegende machines zonder piloot",
+        "sentence": "De ___ zijn in de lucht.",
+        "answer": "drones"
       },
       {
-        "word": "succes",
-        "definition": "als iets goed gaat of goed afloopt",
-        "sentence": "Hij had veel ___ met zijn nieuwe baan.",
-        "answer": "succes"
+        "word": "onderhandelingen",
+        "definition": "gesprekken om tot een oplossing te komen",
+        "sentence": "De ___ zijn belangrijk voor vrede.",
+        "answer": "onderhandelingen"
       },
       {
-        "word": "regering",
-        "definition": "de groep mensen die een land bestuurt",
-        "sentence": "De nieuwe ___ bestaat uit ministers van verschillende partijen.",
-        "answer": "regering"
+        "word": "controleren",
+        "definition": "kijken of alles goed gaat",
+        "sentence": "Ze ___ het staakt-het-vuren.",
+        "answer": "controleren"
       },
       {
-        "word": "verkiezingstriomf",
-        "definition": "een grote overwinning bij verkiezingen",
-        "sentence": "De partij vierde een grote ___.",
-        "answer": "verkiektionstriomf"
+        "word": "staakt-het-vuren",
+        "definition": "stoppen met schieten",
+        "sentence": "Het ___ is belangrijk voor vrede.",
+        "answer": "staakt-het-vuren"
+      },
+      {
+        "word": "doorbraak",
+        "definition": "een belangrijke stap vooruit",
+        "sentence": "Er is een ___ in de gesprekken.",
+        "answer": "doorbraak"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De nieuwe ___ bestaat uit ministers van verschillende partijen.",
-        "answer": "regering"
+        "sentence": "De ___ zijn in de lucht.",
+        "answer": "drones"
       },
       {
-        "sentence": "De partij vierde een grote ___.",
-        "answer": "verkiektionstriomf"
+        "sentence": "Ze ___ het staakt-het-vuren.",
+        "answer": "controleren"
       },
       {
-        "sentence": "Hij had veel ___ met zijn nieuwe baan.",
-        "answer": "succes"
+        "sentence": "De ___ zijn belangrijk voor vrede.",
+        "answer": "onderhandelingen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'verkiezingstriomf'?",
+      "question": "Waar kijken de drones naar?",
       "options": [
-        "een soort feest",
-        "een grote overwinning bij verkiezingen",
-        "een nieuwe regering",
-        "een moeilijke verkiezing"
+        "Naar de maan",
+        "Naar het staakt-het-vuren",
+        "Naar de vogels",
+        "Naar de zon"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Wat gebeurt er na twee jaar oorlog?",
       "options": [
-        "Over sport in Nederland",
-        "Over een Nederlandse auteur",
-        "Over de Nederlandse politiek en verkiezingen",
-        "Over de Nederlandse koning"
+        "Er is nog steeds oorlog",
+        "Er is een doorbraak in de onderhandelingen",
+        "Er is een groot feest",
+        "Er is een nieuwe oorlog"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Waarom is de auteur niet verrast door de winst van Wilders?",
+      "question": "Waar is Gaza?",
       "options": [
-        "Omdat Wilders altijd wint",
-        "Omdat de auteur niet van politiek houdt",
-        "Omdat veel mensen de wereld zien zoals Wilders",
-        "Omdat Wilders de enige kandidaat was"
+        "In Europa",
+        "In Azië",
+        "In het Midden-Oosten",
+        "In Afrika"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De eerste regering met PVV-ministers was een groot succes.",
-      "isTrue": false
-    },
-    {
-      "statement": "Geert Wilders is de leider van de PVV.",
+      "statement": "Amerikaanse drones controleren het staakt-het-vuren in Gaza.",
       "isTrue": true
     },
     {
-      "statement": "De auteur Marijn Kruk is boos over de verkiezingsuitslag.",
+      "statement": "Na twee jaar oorlog is er nog geen doorbraak in de onderhandelingen.",
+      "isTrue": false
+    },
+    {
+      "statement": "Gaza is een plaats in Amerika.",
       "isTrue": false
     }
   ]

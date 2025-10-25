@@ -1,105 +1,105 @@
 {
-  "id": 9,
+  "id": 12,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Auteur Marijn Kruk over het succes van de PVV in Nederland: 'Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint'",
+  "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
   "topicNumber": 1,
   "article": {
-    "title": "Auteur Marijn Kruk over het succes van de PVV in Nederland: 'Iedereen bekijkt de wereld intussen zoals Wilders. Dan moet je niet verbaasd zijn dat hij wint'",
-    "summary": "De eerste Nederlandse regering met PVV-ministers draaide uit op een fiasco. Toch wenkt een volgende verkiezingstriomf voor Geert Wilders. Auteur Marijn Kruk schrikt niet: 'Radicaal-rechts heeft de strijd in dit land met 10-0 gewonnen.'"
+    "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
+    "summary": "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "radicaal",
-        "definition": "zeer extreem, tot het uiterste gaand",
-        "sentence": "Hij heeft ___ andere ideeën.",
-        "answer": "radicaal"
+        "word": "staakt-het-vuren",
+        "definition": "een afspraak om te stoppen met vechten voor een bepaalde tijd",
+        "sentence": "Het ___ is van kracht sinds gisteren.",
+        "answer": "staakt-het-vuren"
       },
       {
-        "word": "minister",
-        "definition": "een belangrijk persoon in de regering",
-        "sentence": "De ___ van Onderwijs geeft een toespraak.",
-        "answer": "minister"
+        "word": "doorbraak",
+        "definition": "een belangrijke oplossing of succes na moeilijkheden",
+        "sentence": "De onderhandelingen leiden tot een ___ in het conflict.",
+        "answer": "doorbraak"
       },
       {
-        "word": "wereld",
-        "definition": "alle landen en mensen samen, de aarde",
-        "sentence": "Hij bekijkt de ___ vanuit een ander perspectief.",
-        "answer": "wereld"
+        "word": "controleren",
+        "definition": "in de gaten houden of bepalen wat er gebeurt",
+        "sentence": "Drones ___ het gebied om te zorgen voor veiligheid.",
+        "answer": "controleren"
       },
       {
-        "word": "verkiezing",
-        "definition": "een stemming waarbij mensen kiezen wie hun vertegenwoordiger wordt",
-        "sentence": "De uitslag van de ___ is bekend.",
-        "answer": "verkiezing"
+        "word": "ontwikkelingen",
+        "definition": "nieuwe dingen die gebeuren of veranderen",
+        "sentence": "Volg de laatste ___ in dit nieuwsbericht.",
+        "answer": "ontwikkelingen"
       },
       {
-        "word": "fiasco",
-        "definition": "een grote mislukking, iets dat heel fout gaat",
-        "sentence": "Het plan werd een ___.",
-        "answer": "fiasco"
+        "word": "oorlog",
+        "definition": "een periode van gewapend conflict tussen landen of groepen",
+        "sentence": "De ___ in Gaza duurt al twee jaar.",
+        "answer": "oorlog"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het plan werd een ___.",
-        "answer": "fiasco"
+        "sentence": "De onderhandelingen leiden tot een ___ in het conflict.",
+        "answer": "doorbraak"
       },
       {
-        "sentence": "De ___ van Onderwijs geeft een toespraak.",
-        "answer": "minister"
+        "sentence": "Het ___ is van kracht sinds gisteren.",
+        "answer": "staakt-het-vuren"
       },
       {
-        "sentence": "Hij heeft ___ andere ideeën.",
-        "answer": "radicaal"
+        "sentence": "Volg de laatste ___ in dit nieuwsbericht.",
+        "answer": "ontwikkelingen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'fiasco' in deze context?",
+      "question": "Waarom worden drones ingezet in Gaza?",
       "options": [
-        "een groot succes",
-        "een complete mislukking",
-        "een soort dans",
-        "een nieuwe start"
+        "Om feestjes te filmen",
+        "Om het staakt-het-vuren te controleren",
+        "Om nieuwe speelgoed te testen",
+        "Om de oorlog te beginnen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar staat PVV voor?",
+      "question": "Wat is het resultaat van de onderhandelingen?",
       "options": [
-        "Partij voor de Vrijheid",
-        "Partij voor de Vrede",
-        "Partij van de Vrijheid",
-        "Partij voor de Vrijheid en Democratie"
+        "Er is geen resultaat",
+        "Er is een nieuwe oorlog begonnen",
+        "Er is een doorbraak bereikt",
+        "Er is niets gebeurd"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de rol van een minister?",
+      "question": "Hoe lang duurt de oorlog in Gaza al?",
       "options": [
-        "De regering van een land leiden",
-        "Alleen wetten maken",
-        "Zorgen voor sportevenementen",
-        "De koning adviseren"
+        "1 maand",
+        "2 jaar",
+        "5 jaar",
+        "10 jaar"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Geert Wilders is de minister-president van Nederland.",
+      "statement": "Drones worden gebruikt om het staakt-het-vuren te controleren.",
       "isTrue": true
     },
     {
-      "statement": "Een fiasco is een kleine fout zonder gevolgen.",
+      "statement": "De oorlog in Gaza is net begonnen.",
       "isTrue": false
     },
     {
-      "statement": "Radicaal-rechts heeft in Nederland de verkiezingen gewonnen.",
+      "statement": "Er is een doorbraak in de vredesonderhandelingen.",
       "isTrue": true
     }
   ]

@@ -1,105 +1,105 @@
 {
-  "id": 3,
+  "id": 4,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
+  "title": "Japanse toerist overleden na val van Pantheon in Rome",
   "topicNumber": 1,
   "article": {
-    "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
-    "summary": "New York is niet zoals de rest van de VS. Minder dan ooit, nu in tijden van Trump met Zohran Mamdani een onervaren socialistische moslim wellicht de volgende burgemeester wordt. Tot hoop én afgrijzen van zijn eigen partijgenoten."
+    "title": "Japanse toerist overleden na val van Pantheon in Rome",
+    "summary": "Een 69-jarige toerist uit Japan is vrijdagavond van een muur van het Pantheon in de Italiaanse hoofdstad Rome gevallen. Hij overleed ter plaatse."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "partijgenoten",
-        "definition": "mensen die bij dezelfde politieke partij horen",
-        "sentence": "De ___ steunden het plan van hun leider.",
-        "answer": "partijgenoten"
+        "word": "is",
+        "definition": "zijn, de tegenwoordige tijd van zijn",
+        "sentence": "Hij ___ nu in het ziekenhuis.",
+        "answer": "is"
       },
       {
-        "word": "onervaren",
-        "definition": "geen of weinig ervaring hebbend",
-        "sentence": "De ___ kok maakte fouten met het recept.",
-        "answer": "onervaren"
+        "word": "Pantheon",
+        "definition": "een oud gebouw in Rome, oorspronkelijk een tempel",
+        "sentence": "Het ___ is een populaire attractie voor bezoekers.",
+        "answer": "Pantheon"
       },
       {
-        "word": "hoop",
-        "definition": "het gevoel dat iets goed zal gaan",
-        "sentence": "Er is veel ___ op betere tijden.",
-        "answer": "hoop"
+        "word": "muur",
+        "definition": "een stevige structuur van steen of hout die ruimtes scheidt",
+        "sentence": "Hij viel van de ___ en raakte gewond.",
+        "answer": "muur"
       },
       {
-        "word": "kandidaat",
-        "definition": "iemand die meedoet aan een verkiezing of sollicitatie",
-        "sentence": "De ___ voor burgemeester hield een toespraak.",
-        "answer": "kandidaat"
+        "word": "val",
+        "definition": "naar beneden gaan, vallen",
+        "sentence": "De ___ van de trap was pijnlijk.",
+        "answer": "val"
       },
       {
-        "word": "betaalbaar",
-        "definition": "niet te duur, goedkoop genoeg",
-        "sentence": "We zoeken een ___ hotel voor onze vakantie.",
-        "answer": "betaalbaar"
+        "word": "ter plaatse",
+        "definition": "op dezelfde plek waar iets gebeurt",
+        "sentence": "De politie arriveerde en handelde ___.",
+        "answer": "ter plaatse"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "We zoeken een ___ hotel voor onze vakantie.",
-        "answer": "betaalbaar"
+        "sentence": "Het ___ is een populaire attractie voor bezoekers.",
+        "answer": "Pantheon"
       },
       {
-        "sentence": "De ___ steunden het plan van hun leider.",
-        "answer": "partijgenoten"
+        "sentence": "Hij viel van de ___ en raakte gewond.",
+        "answer": "muur"
       },
       {
-        "sentence": "Er is veel ___ op betere tijden.",
-        "answer": "hoop"
+        "sentence": "De ___ van de trap was pijnlijk.",
+        "answer": "val"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdfocus van de tekst?",
+      "question": "Waar vond het incident plaats?",
       "options": [
-        "Koken",
-        "Sport",
-        "Politiek",
-        "Muziek"
+        "Rome",
+        "Parijs",
+        "Madrid",
+        "Londen"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van Zohran Mamdani in de tekst?",
+      "question": "Wat is het Pantheon?",
       "options": [
-        "Hij is een chef-kok",
-        "Hij is een professionele atleet",
-        "Hij is een politieke kandidaat",
-        "Hij is een muzikant"
+        "Een historisch gebouw",
+        "Een soort voedsel",
+        "Een sportteam",
+        "Een rivier"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de houding van de partijgenoten in de tekst?",
+      "question": "Hoe oud was de toerist?",
       "options": [
-        "Ze zijn heel enthousiast",
-        "Ze zijn neutraal",
-        "Ze zijn erg boos",
-        "Ze hebben gemengde gevoelens van hoop en afgrijzen"
+        "69 jaar",
+        "70 jaar",
+        "68 jaar",
+        "71 jaar"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "New York is vergelijkbaar met de rest van de Verenigde Staten.",
+      "statement": "De toerist overleefde het incident.",
       "isTrue": false
     },
     {
-      "statement": "Zohran Mamdani is een ervaren politicus.",
-      "isTrue": false
+      "statement": "Het incident vond plaats in Rome, Italië.",
+      "isTrue": true
     },
     {
-      "statement": "Sommige partijgenoten hebben negatieve gevoelens over de situatie.",
+      "statement": "De toerist was afkomstig uit Japan.",
       "isTrue": true
     }
   ]

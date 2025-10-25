@@ -3,104 +3,92 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Kusiner versterkt vrede in Midden-Oosten",
+  "title": "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
   "topicNumber": 1,
   "article": {
-    "title": "Kusiner versterkt vrede in Midden-Oosten",
-    "summary": "Een familielid van de Amerikaanse president helpt bij vredesonderhandelingen in het Midden-Oosten. Hij gebruikt zijn persoonlijke contacten en zakelijke ervaring om overeenkomsten te maken die vrede en handel bevorderen."
+    "title": "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
+    "summary": "De 68-jarige Catherine Connolly is de nieuwe president van Ierland. Ze kreeg veel stemmen en haar tegenstander Heather Humphreys heeft de verkiezing verloren."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Handel",
-        "definition": "De activiteit van kopen en verkopen van goederen",
-        "sentence": "Internationale ___ brengt welvaart voor vele landen.",
-        "answer": "handel"
+        "word": "president",
+        "definition": "De leider van een land",
+        "sentence": "De ___ van het land is belangrijk.",
+        "answer": "president"
       },
       {
-        "word": "Kusin",
-        "definition": "Een familielid, zoals een broer of zus, maar dan van een ouder",
-        "sentence": "Mijn ___ helpt me vaak met mijn huiswerk.",
-        "answer": "kusin"
+        "word": "tegenstander",
+        "definition": "Iemand die tegen je is in een wedstrijd of verkiezing",
+        "sentence": "Zijn ___ was erg sterk, maar hij won toch.",
+        "answer": "tegenstander"
       },
       {
-        "word": "Vrede",
-        "definition": "Geen oorlog of conflict, rust en harmonie",
-        "sentence": "Na de storm heerst er weer ___ in het land.",
-        "answer": "vrede"
-      },
-      {
-        "word": "Midden-Oosten",
-        "definition": "Een gebied op de wereldkaart, ongeveer van Egypte tot Iran",
-        "sentence": "Het ___ staat bekend om zijn olie.",
-        "answer": "Midden-Oosten"
-      },
-      {
-        "word": "Helpt",
-        "definition": "Geeft assistentie of ondersteuning",
-        "sentence": "Hij ___ zijn moeder in de keuken.",
-        "answer": "helpt"
+        "word": "erkent",
+        "definition": "Toegeven of toegeven dat iets waar is",
+        "sentence": "Hij ___ dat hij fout zat.",
+        "answer": "erkent"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Internationale ___ brengt welvaart voor vele landen.",
-        "answer": "handel"
+        "sentence": "Zijn ___ was erg sterk, maar hij won toch.",
+        "answer": "tegenstander"
       },
       {
-        "sentence": "Hij ___ zijn moeder in de keuken.",
-        "answer": "helpt"
+        "sentence": "Hij ___ dat hij fout zat.",
+        "answer": "erkent"
       },
       {
-        "sentence": "Het ___ staat bekend om zijn olie.",
-        "answer": "Midden-Oosten"
+        "sentence": "De ___ van het land is belangrijk.",
+        "answer": "president"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'versterkt' in deze context?",
+      "question": "Wie is de nieuwe president van Ierland?",
       "options": [
-        "Verzwakt",
-        "Versterkt",
-        "Vernietigt",
-        "Vergeet"
+        "Catherine Connolly",
+        "Heather Humphreys",
+        "Een andere persoon",
+        "Nog iemand anders"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Waar helpt de persoon in de tekst mee?",
+      "question": "Wat deed Heather Humphreys na de verkiezingen?",
       "options": [
-        "Koken",
-        "Vechten",
-        "Vredesonderhandelingen",
-        "Winkelen"
+        "Ze gaf haar nederlaag toe",
+        "Ze werd de nieuwe president",
+        "Ze verhuisde naar een ander land",
+        "Ze stopte met politiek"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is een belangrijk resultaat van deze inspanningen?",
+      "question": "Hoe voelde Catherine Connelly na de overwinning?",
       "options": [
-        "Meer oorlog",
-        "Meer handel",
-        "Meer eenzaamheid",
-        "Meer armoede"
+        "Ze was heel blij",
+        "Ze was verdrietig",
+        "Ze was boos",
+        "Ze was verward"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De persoon in de tekst gebruikt zijn zakelijke ervaring om overeenkomsten te maken.",
+      "statement": "Catherine Connolly is de nieuwe president van Ierland.",
       "isTrue": true
     },
     {
-      "statement": "Het doel van de inspanningen is om oorlog te veroorzaken.",
+      "statement": "Heather Humphreys won de verkiezingen.",
       "isTrue": false
     },
     {
-      "statement": "De persoon werkt alleen in één klein land.",
-      "isTrue": false
+      "statement": "Catherine Connolly is ouder dan Heather Humphreys.",
+      "isTrue": true
     }
   ]
 }

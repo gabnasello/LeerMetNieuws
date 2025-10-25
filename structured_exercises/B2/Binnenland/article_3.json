@@ -1,106 +1,106 @@
 {
-  "id": 19,
+  "id": 23,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
+  "title": "Oosterweel-verbinding opent in Antwerpen: veel verkeershinder verwacht",
   "topicNumber": 1,
   "article": {
-    "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
-    "summary": "Het Engels is oppermachtig aan de universiteit. Dat biedt kansen, maar het knelt en wringt ook. 'Zelfs op een congres over Franse vertaalwetenschap is de voertaal Engels.'"
+    "title": "Oosterweel-verbinding opent in Antwerpen: veel verkeershinder verwacht",
+    "summary": "Op de Antwerpse Ring is een nieuw stuk snelweg geopend. Dit is een belangrijke stap in de Oosterweelwerken. Er wordt veel verkeershinder verwacht."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "gestreden",
-        "definition": "Gevochten of hard gewerkt voor iets",
-        "sentence": "De soldaten hebben lang ___ voor hun vrijheid.",
-        "answer": "gestreden"
+        "word": "Ring",
+        "definition": "een grote weg die rond een stad loopt",
+        "sentence": "De ___ van Antwerpen is erg druk.",
+        "answer": "Ring"
       },
       {
-        "word": "kansen",
-        "definition": "Mogelijkheden of gunstige gelegenheden",
-        "sentence": "Hij heeft veel ___ op die baan.",
-        "answer": "kansen"
+        "word": "snelweg",
+        "definition": "een brede weg waarop snel gereden mag worden",
+        "sentence": "De nieuwe ___ is nu open voor het verkeer.",
+        "answer": "snelweg"
       },
       {
-        "word": "oppermachtig",
-        "definition": "Zeer machtig of overheersend",
-        "sentence": "Het leger was ___ in de regio.",
-        "answer": "oppermachtig"
+        "word": "Antwerpen",
+        "definition": "een grote stad in België",
+        "sentence": "___ is een stad met veel geschiedenis.",
+        "answer": "Antwerpen"
       },
       {
-        "word": "universiteit",
-        "definition": "Een instelling voor hoger onderwijs en onderzoek",
-        "sentence": "Hij studeert aan de ___ van Amsterdam.",
-        "answer": "universiteit"
+        "word": "verkeershinder",
+        "definition": "problemen die het verkeer veroorzaakt, zoals files of vertragingen",
+        "sentence": "Door de wegwerkzaamheden is er veel ___.",
+        "answer": "verkeershinder"
       },
       {
-        "word": "wringt",
-        "definition": "Zit niet lekker of schuurt",
-        "sentence": "Deze broek ___ aan mijn benen.",
-        "answer": "wringt"
+        "word": "Oosterweelwerken",
+        "definition": "een groot bouwproject in Antwerpen met wegen en tunnels",
+        "sentence": "De ___ zijn bijna klaar.",
+        "answer": "Oosterweelwerken"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het leger was ___ in de regio.",
-        "answer": "oppermachtig"
+        "sentence": "___ is een stad met veel geschiedenis.",
+        "answer": "Antwerpen"
       },
       {
-        "sentence": "Deze broek ___ aan mijn benen.",
-        "answer": "wringt"
+        "sentence": "De nieuwe ___ is nu open voor het verkeer.",
+        "answer": "snelweg"
       },
       {
-        "sentence": "De soldaten hebben lang ___ voor hun vrijheid.",
-        "answer": "gestreden"
+        "sentence": "De ___ van Antwerpen is erg druk.",
+        "answer": "Ring"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'verengelsing' in deze context?",
+      "question": "Wat is de Oosterweelverbinding?",
       "options": [
-        "Vervanging van de Nederlandse taal",
-        "Overheersing van de Engelse taal",
-        "Een feestelijke gebeurtenis",
-        "Een type muziek"
+        "Een nieuwe fietspad",
+        "Een grote weg",
+        "Een treinstation",
+        "Een voetbalstadion"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar verwijst 'knelt' naar in de tekst?",
+      "question": "Waar bevindt de nieuwe snelweg zich?",
       "options": [
-        "Het is een synoniem voor 'past'",
-        "Het betekent dat iets te strak zit",
-        "Het is een type Nederlandse dans",
-        "Het is een plaatsnaam"
+        "In Brussel",
+        "In Antwerpen",
+        "In Gent",
+        "In Brussel"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het hoofdonderwerp van de artikel?",
+      "question": "Wat is het gevolg van de opening van de nieuwe weg?",
       "options": [
-        "De geschiedenis van Nederland",
-        "De opkomst van Engels in academische settings",
-        "Hoe je een congres organiseert",
-        "De voordelen van tweetaligheid"
+        "Minder verkeer",
+        "Meer verkeershinder",
+        "Minder files",
+        "Geen effect"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De auteur is tegen enige vorm van Engels gebruik.",
+      "statement": "De nieuwe snelweg is aangelegd in Brussel.",
       "isTrue": false
     },
     {
-      "statement": "Het artikel suggereert dat verengelsing zowel kansen als problemen biedt.",
+      "statement": "De Oosterweelwerken zijn een groot bouwproject in Antwerpen.",
       "isTrue": true
     },
     {
-      "statement": "De titel impliceert dat mensen niet genoeg geven om het Nederlands te beschermen.",
-      "isTrue": true
+      "statement": "De nieuwe weg veroorzaakt minder verkeer.",
+      "isTrue": false
     }
   ]
 }

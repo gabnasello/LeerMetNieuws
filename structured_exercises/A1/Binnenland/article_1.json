@@ -1,106 +1,106 @@
 {
-  "id": 16,
+  "id": 15,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Begint de linkse revolutie in Sint-Gillis?",
+  "title": "Noodnummer 1722 voor storm- en waterschade",
   "topicNumber": 1,
   "article": {
-    "title": "Begint de linkse revolutie in Sint-Gillis?",
-    "summary": "Is extreemlinks in Brussel een gevaar voor de openbare orde, of vooral een vorm van idealistische folklore? In Sint-Gillis groeit een beweging die zijn verontwaardiging koppelt aan oude revolutionaire symboliek. De kwaadheid over Gaza en het klimaat biedt vruchtbare grond voor extremisme."
+    "title": "Noodnummer 1722 voor storm- en waterschade",
+    "summary": "Het KMI waarschuwt voor slecht weer. Het nummer 1722 is voor meldingen over storm en water."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "extreemlinks",
-        "definition": "heel erg links, radicaal",
-        "sentence": "De groep was ___ en wilde snel veranderen.",
-        "answer": "extreemlinks"
+        "word": "nummer",
+        "definition": "een reeks cijfers",
+        "sentence": "Bel dit ___ als je hulp nodig hebt.",
+        "answer": "nummer"
       },
       {
-        "word": "Sint-Gillis",
-        "definition": "een plaats in Brussel",
-        "sentence": "___ is een bekende wijk.",
-        "answer": "Sint-Gillis"
+        "word": "storm",
+        "definition": "heel slecht weer met veel wind",
+        "sentence": "Er komt een ___ met harde wind.",
+        "answer": "storm"
       },
       {
-        "word": "revolutie",
-        "definition": "een grote verandering, vaak met geweld",
-        "sentence": "De ___ in dat land bracht veel verandering.",
-        "answer": "revolutie"
+        "word": "water",
+        "definition": "de vloeistof die we drinken",
+        "sentence": "Na de regen staat er ___ op straat.",
+        "answer": "water"
       },
       {
-        "word": "symboliek",
-        "definition": "het gebruik van symbolen, beeldspraak",
-        "sentence": "De ___ in de kunst was mooi.",
-        "answer": "symboliek"
+        "word": "KMI",
+        "definition": "het instituut dat het weer voorspelt",
+        "sentence": "Het ___ waarschuwt voor slecht weer.",
+        "answer": "KMI"
       },
       {
-        "word": "gevaar",
-        "definition": "iets dat gevaarlijk is, risico",
-        "sentence": "Er is een ___ voor de gezondheid.",
-        "answer": "gevaar"
+        "word": "waarschuwt",
+        "definition": "zegt dat er gevaar is",
+        "sentence": "De politie ___ voor gevaar.",
+        "answer": "waarschuwt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ in dat land bracht veel verandering.",
-        "answer": "revolutie"
+        "sentence": "Er komt een ___ met harde wind.",
+        "answer": "storm"
       },
       {
-        "sentence": "De groep was ___ en wilde snel veranderen.",
-        "answer": "extreemlinks"
+        "sentence": "Bel dit ___ als je hulp nodig hebt.",
+        "answer": "nummer"
       },
       {
-        "sentence": "De ___ in de kunst was mooi.",
-        "answer": "symboliek"
+        "sentence": "De politie ___ voor gevaar.",
+        "answer": "waarschuwt"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Wat betekent het woord 'storm'?",
       "options": [
-        "Koken",
-        "Sport",
-        "Politiek",
-        "Muziek"
+        "een soort dier",
+        "heel slecht weer met veel wind",
+        "een apparaat om mee te koken",
+        "een grote groep mensen"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is Sint-Gillis?",
+      "question": "Waar staat 'KMI' voor?",
       "options": [
-        "Een stad",
-        "Een rivier",
-        "Een wijk in Brussel",
-        "Een berg"
+        "Koninklijk Meteorologisch Instituut",
+        "Koninklijke Maaltijd Informatie",
+        "Kleine Mobiele Installatie",
+        "Korte Mooie Interventie"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Is extreemlinks gevaarlijk?",
+      "question": "Waarom heeft de overheid 1722 geactiveerd?",
       "options": [
-        "Ja, altijd",
-        "Nee, nooit",
-        "Soms, het hangt af",
-        "Alleen in de winter"
+        "omdat het een lekker recept is",
+        "omdat ze willen dat mensen kunnen bellen bij schade door storm of water",
+        "omdat ze een verjaardag vieren",
+        "omdat ze een nieuwe wet maken"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Sint-Gillis is een plaats in Brussel.",
-      "isTrue": true
-    },
-    {
-      "statement": "Extreemlinks betekent heel rechts.",
+      "statement": "Het KMI waarschuwt voor slecht weer, dus het is veilig om naar buiten te gaan.",
       "isTrue": false
     },
     {
-      "statement": "De tekst gaat over politiek.",
+      "statement": "Je kunt bellen naar 1722 als je schade hebt door storm of water.",
       "isTrue": true
+    },
+    {
+      "statement": "De overheid heeft 1722 niet geactiveerd, dus je kunt niet bellen.",
+      "isTrue": false
     }
   ]
 }

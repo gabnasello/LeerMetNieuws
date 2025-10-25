@@ -1,106 +1,106 @@
 {
-  "id": 21,
+  "id": 20,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
+  "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
   "topicNumber": 1,
   "article": {
-    "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
-    "summary": "Het Engels is oppermachtig aan de universiteit. Dat biedt kansen, maar het knelt en wringt ook. 'Zelfs op een congres over Franse vertaalwetenschap is de voertaal Engels.'"
+    "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
+    "summary": "Op de Antwerpse Ring is afgelopen nacht een tijdelijk stuk snelweg geopend, parallel met het viaduct van Merksem ter hoogte van de AFAS-Dome. De belangrijke stap in de Oosterweelwerken belooft veel verkeershinder met zich mee te brengen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "gestreden",
-        "definition": "gevochten, hard gewerkt",
-        "sentence": "Hij heeft veel ___ voor zijn rechten.",
-        "answer": "gestreden"
+        "word": "is",
+        "definition": "zijn (tegenwoordige tijd)",
+        "sentence": "Hij ___ mijn vriend.",
+        "answer": "is"
       },
       {
-        "word": "congres",
-        "definition": "grote bijeenkomst voor een onderwerp",
-        "sentence": "Het ___ duurt drie dagen.",
-        "answer": "congres"
+        "word": "de",
+        "definition": "een bepaald lidwoord",
+        "sentence": "Ik zie ___ man.",
+        "answer": "de"
       },
       {
-        "word": "knelt",
-        "definition": "zit niet lekker, voelt niet goed",
-        "sentence": "Deze schoen ___.",
-        "answer": "knelt"
+        "word": "de",
+        "definition": "bepaald lidwoord",
+        "sentence": "Ik zie ___ man.",
+        "answer": "de"
       },
       {
-        "word": "verengelsing",
-        "definition": "het gebruik van steeds meer Engelse woorden",
-        "sentence": "De ___ is duidelijk op deze universiteit.",
-        "answer": "verengelsing"
+        "word": "op",
+        "definition": "boven iets",
+        "sentence": "De kat slaapt ___ de tafel.",
+        "answer": "op"
       },
       {
-        "word": "universiteit",
-        "definition": "school voor volwassenen, universiteit",
-        "sentence": "Hij studeert aan de ___.",
-        "answer": "universiteit"
+        "word": "een",
+        "definition": "een (onbepaald)",
+        "sentence": "Ik heb ___ huis.",
+        "answer": "een"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ duurt drie dagen.",
-        "answer": "congres"
+        "sentence": "Hij ___ mijn vriend.",
+        "answer": "is"
       },
       {
-        "sentence": "Hij studeert aan de ___.",
-        "answer": "universiteit"
+        "sentence": "Ik heb ___ huis.",
+        "answer": "een"
       },
       {
-        "sentence": "Hij heeft veel ___ voor zijn rechten.",
-        "answer": "gestreden"
+        "sentence": "De kat slaapt ___ de tafel.",
+        "answer": "op"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'verengelsing'?",
+      "question": "Waar gaat dit artikel over?",
       "options": [
-        "Het gebruik van Engelse woorden",
-        "Een feest in Engeland",
-        "Een soort sport",
-        "Een oude taal"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Waar staat 'kansen' voor in deze tekst?",
-      "options": [
-        "Kansen om te winnen",
-        "Kansen om te leren",
-        "Kansen om te slagen",
-        "Kansen om te groeien"
+        "Een nieuwe dierentuin",
+        "Een nieuwe brug",
+        "Een nieuwe weg",
+        "Een nieuwe tunnel"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is een 'congres'?",
+      "question": "Waar is de nieuwe weg?",
       "options": [
-        "Een groot gebouw",
-        "Een feest met muziek",
-        "Een grote bijeenkomst over een onderwerp",
-        "Een sportwedstrijd"
+        "In Brussel",
+        "In Antwerpen",
+        "In Gent",
+        "In Brugge"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is het effect van de nieuwe weg?",
+      "options": [
+        "Minder verkeer",
+        "Meer verkeer",
+        "Minder files",
+        "Meer files"
+      ],
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "Verengelsing betekent dat Engels de enige taal wordt.",
-      "isTrue": false
-    },
-    {
-      "statement": "Een congres is een grote bijeenkomst.",
+      "statement": "De nieuwe weg is in Antwerpen.",
       "isTrue": true
     },
     {
-      "statement": "Niemand geeft om verengelsing, dus het is niet erg.",
+      "statement": "De nieuwe weg is in Brussel.",
       "isTrue": false
+    },
+    {
+      "statement": "De nieuwe weg veroorzaakt meer verkeer.",
+      "isTrue": true
     }
   ]
 }

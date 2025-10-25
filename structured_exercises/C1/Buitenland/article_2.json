@@ -1,106 +1,106 @@
 {
-  "id": 12,
+  "id": 14,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
+  "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
   "topicNumber": 1,
   "article": {
-    "title": "Zonder winst in tussentijdse verkiezingen in Argentinië is het einde verhaal voor Milei en zijn libertaire beleid",
-    "summary": "Argentinië houdt de adem in. Van de parlementsverkiezingen zondag hangt af of de excentrieke president Javier Milei zijn ultraliberale hervormingen een nieuwe impuls kan geven, met steun van de VS. Maar de slabakkende economie en tal van schandalen doen de president ster tanen."
+    "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
+    "summary": "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "verkiezingen",
-        "definition": "Een proces waarbij mensen stemmen om hun vertegenwoordigers of leiders te kiezen.",
-        "sentence": "De uitslag van de verkiezingen zal de politieke koers van het land bepalen.",
-        "answer": "verkiezingen"
+        "word": "controleren",
+        "definition": "toezicht houden op, monitoren",
+        "sentence": "Vredeshandhavers ___ de naleving van de overeenkomst.",
+        "answer": "controleren"
       },
       {
-        "word": "economie",
-        "definition": "Het systeem van geld, handel en industrie van een land of regio.",
-        "sentence": "De economie van het land is aan het krimpen door de hoge inflatie.",
-        "answer": "economie"
+        "word": "onderhandelingen",
+        "definition": "besprekingen met als doel een overeenkomst te bereiken",
+        "sentence": "De ___ verlopen moeizaam maar zijn veelbelovend.",
+        "answer": "onderhandelingen"
       },
       {
-        "word": "president",
-        "definition": "Het staatshoofd van een republiek, verantwoordelijk voor het uitvoeren van wetten en het leiden van de regering.",
-        "sentence": "De president hield een toespraak over de nieuwe beleidsmaatregelen.",
-        "answer": "president"
+        "word": "staakt-het-vuren",
+        "definition": "een (tijdelijke) stopzetting van gevechtshandelingen",
+        "sentence": "Een ___ is vaak de eerste stap naar vrede.",
+        "answer": "staakt-het-vuren"
       },
       {
-        "word": "parlementsverkiezingen",
-        "definition": "Verkiezingen waarbij de leden van het parlement worden gekozen, die wetten maken en de regering controleren.",
-        "sentence": "De uitslag van de parlementsverkiezingen zal de machtsverhouding in het congres bepalen.",
-        "answer": "parlementsverkiezingen"
+        "word": "doorbraak",
+        "definition": "een belangrijke positieve ontwikkeling of oplossing",
+        "sentence": "Een diplomatieke ___ kan het conflict helpen oplossen.",
+        "answer": "doorbraak"
       },
       {
-        "word": "scandale",
-        "definition": "Een schandaal; een gebeurtenis of situatie die schokkend of schadelijk is voor de betrokkenen.",
-        "sentence": "Het recente schandaal rond de minister heeft de regering in verlegenheid gebracht.",
-        "answer": "scandale"
+        "word": "oorlog",
+        "definition": "georganiseerd gewapend conflict tussen staten of groepen",
+        "sentence": "De ___ heeft veel levens geëist en schade aangericht.",
+        "answer": "oorlog"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De economie van het land is aan het krimpen door de hoge inflatie.",
-        "answer": "economie"
+        "sentence": "De ___ heeft veel levens geëist en schade aangericht.",
+        "answer": "oorlog"
       },
       {
-        "sentence": "De uitslag van de verkiezingen zal de politieke koers van het land bepalen.",
-        "answer": "verkiezingen"
+        "sentence": "Vredeshandhavers ___ de naleving van de overeenkomst.",
+        "answer": "controleren"
       },
       {
-        "sentence": "De uitslag van de parlementsverkiezingen zal de machtsverhouding in het congres bepalen.",
-        "answer": "parlementsverkiezingen"
+        "sentence": "De ___ verlopen moeizaam maar zijn veelbelovend.",
+        "answer": "onderhandelingen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de belangrijkste reden voor het belang van de verkiezingen in Argentinië?",
+      "question": "Wat is het hoofddoel van een staakt-het-vuren?",
       "options": [
-        "Om de president te kiezen",
-        "Om de economische situatie te verbeteren",
-        "Om de politieke macht van Milei en zijn partij te bepalen",
-        "Om internationale steun te verkrijgen"
+        "Het permanent beëindigen van alle gevechten",
+        "Het tijdelijk stoppen van gevechten om humanitaire redenen",
+        "Het vergroten van het grondgebied van een partij",
+        "Het voorbereiden van een nieuwe offensief"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Welk effect heeft de economische situatie op de populariteit van Milei?",
+      "question": "Hoe worden drones vaak ingezet in conflictgebieden?",
       "options": [
-        "Het versterkt zijn positie",
-        "Het heeft geen effect",
-        "Het verzwakt zijn positie",
-        "Het maakt de bevolking rijker"
+        "Alleen voor het verzamelen van inlichtingen",
+        "Voor zowel verkenningsmissies als gerichte aanvallen",
+        "Uitsluitend voor het afleveren van humanitaire hulp",
+        "Voor het monitoren van wapenhandel"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een gevolg van de schandalen in de regering-Milei?",
+      "question": "Wat is een belangrijk aandachtspunt bij vredesonderhandelingen?",
       "options": [
-        "Meer internationale steun",
-        "Verminderde geloofwaardigheid van de regering",
-        "Vroegtijdige verkiezingen",
-        "Versterking van de economie"
+        "De garantie dat alle partijen zich aan de afspraken houden",
+        "De keuze van de onderhandelaars hun kledingstijl",
+        "De locatie waar de onderhandelingen plaatsvinden",
+        "De keuze van de taal waarin onderhandeld wordt"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De verkiezingen in Argentinië bepalen alleen de president.",
+      "statement": "Een staakt-het-vuren is altijd permanent en wordt nooit geschonden.",
       "isTrue": false
     },
     {
-      "statement": "De economische situatie heeft invloed op de populariteit van de regering.",
+      "statement": "Drones kunnen worden gebruikt om naleving van een staakt-het-vuren te monitoren.",
       "isTrue": true
     },
     {
-      "statement": "Internationale steun is voor Milei een belangrijk thema in deze context.",
-      "isTrue": true
+      "statement": "Vredesonderhandelingen leiden nooit tot een doorbraak en zijn daarom tijdverspilling.",
+      "isTrue": false
     }
   ]
 }

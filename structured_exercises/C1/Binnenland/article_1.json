@@ -1,106 +1,106 @@
 {
-  "id": 15,
+  "id": 19,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Begint de linkse revolutie in Sint-Gillis? 'Het is ook een vorm van lifestyle'",
+  "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
   "topicNumber": 1,
   "article": {
-    "title": "Begint de linkse revolutie in Sint-Gillis? 'Het is ook een vorm van lifestyle'",
-    "summary": "Is extreemlinks in Brussel een gevaar voor de openbare orde, of vooral een vorm van idealistische folklore? In Sint-Gillis groeit een beweging die zijn verontwaardiging koppelt aan oude revolutionaire symboliek. 'De kwaadheid over Gaza en het klimaat biedt vruchtbare grond voor extremisme.'"
+    "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
+    "summary": "Het KMI waarschuwt opnieuw voor slecht weer. De overheid heeft het nummer 1722 geactiveerd, dat mensen kunnen bellen bij storm- en waterschade."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "koppelt",
-        "definition": "Verbindt of verbindt twee dingen",
-        "sentence": "De groep ___ hun acties aan oude idealen.",
-        "answer": "koppelt"
+        "word": "overheid",
+        "definition": "De overheid is de organisatie die een land of gebied bestuurt.",
+        "sentence": "De ___ heeft besloten om extra maatregelen te nemen.",
+        "answer": "overheid"
       },
       {
-        "word": "revolutie",
-        "definition": "Een radicale verandering, vaak politiek of sociaal",
-        "sentence": "De beweging hoopt op een sociale ___ .",
-        "answer": "revolutie"
+        "word": "geactiveerd",
+        "definition": "In werking gesteld of geactiveerd.",
+        "sentence": "Het noodnummer werd ___ zodat mensen snel hulp kunnen vragen.",
+        "answer": "geactiveerd"
       },
       {
-        "word": "Sint-Gillis",
-        "definition": "Een gemeente in Brussel, België",
-        "sentence": "In ___ vindt de beweging veel steun.",
-        "answer": "Sint-Gillis"
+        "word": "nummer",
+        "definition": "Een reeks cijfers die iets identificeert, zoals een telefoonnummer.",
+        "sentence": "Welk ___ moet ik bellen in geval van nood?",
+        "answer": "nummer"
       },
       {
-        "word": "revolutionaire",
-        "definition": "Betreffende grote verandering, vaak politiek",
-        "sentence": "De groep gebruikt oude ___ symboliek.",
-        "answer": "revolutionaire"
+        "word": "bellen",
+        "definition": "Iemand telefonisch contacteren.",
+        "sentence": "Je kunt de politie ___ als je hulp nodig hebt.",
+        "answer": "bellen"
       },
       {
-        "word": "symboliek",
-        "definition": "Het gebruik van symbolen om ideeën te representeren",
-        "sentence": "De ___ van de beweging is krachtig.",
-        "answer": "symboliek"
+        "word": "weer",
+        "definition": "De toestand van de atmosfeer, zoals regen of zonneschijn.",
+        "sentence": "Het ___ wordt morgen beter, volgens de voorspelling.",
+        "answer": "weer"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "In ___ vindt de beweging veel steun.",
-        "answer": "Sint-Gillis"
+        "sentence": "De ___ heeft besloten om extra maatregelen te nemen.",
+        "answer": "overheid"
       },
       {
-        "sentence": "De groep ___ hun acties aan oude idealen.",
-        "answer": "koppelt"
+        "sentence": "Je kunt de politie ___ als je hulp nodig hebt.",
+        "answer": "bellen"
       },
       {
-        "sentence": "De ___ van de beweging is krachtig.",
-        "answer": "symboliek"
+        "sentence": "Het noodnummer werd ___ zodat mensen snel hulp kunnen vragen.",
+        "answer": "geactiveerd"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de voornaamste reden voor de groei van de linkse beweging in Sint-Gillis?",
+      "question": "Wat betekent 'geactiveerd' in deze context?",
       "options": [
-        "Economische crisis",
-        "Sociale ongelijkheid",
-        "Politieke repressie",
-        "Culturele diversiteit"
+        "Verwijderd",
+        "Opgeschort",
+        "In werking gesteld",
+        "Verboden"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Hoe karakteriseert de auteur de beweging in Sint-Gillis?",
+      "question": "Waarom heeft de overheid het nummer 1722 geactiveerd?",
       "options": [
-        "Als een gevaar voor de openbare orde",
-        "Als een vorm van folklore",
-        "Als een politieke partij",
-        "Als een religieuze groep"
+        "Om mensen te informeren over het weer",
+        "Om financiële steun aan te bieden",
+        "Om hulp te bieden bij stormschade",
+        "Om feesten te organiseren"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is een belangrijk element in de symboliek van de beweging?",
+      "question": "Wat is de hoofdgedachte van de tekst?",
       "options": [
-        "Moderne technologie",
-        "Oude revolutionaire symbolen",
-        "Sportevenementen",
-        "Kunstuitingen"
+        "Het weer wordt steeds onvoorspelbaarder",
+        "Mensen moeten beter voorbereid zijn op stormen",
+        "De overheid biedt een hulplijn voor stormschade",
+        "Het KMI geeft altijd correcte waarschuwingen"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De beweging in Sint-Gillis wordt vooral gedreven door jonge activisten.",
+      "statement": "Het KMI waarschuwt voor zware buien en veel wind, wat duidt op een storm.",
       "isTrue": true
     },
     {
-      "statement": "De kwaadheid over Gaza en het klimaat zijn de enige redenen voor de beweging.",
+      "statement": "Het nummer 1722 is bedoeld voor financiële donaties na een storm.",
       "isTrue": false
     },
     {
-      "statement": "Sint-Gillis is een stad in Nederland.",
-      "isTrue": false
+      "statement": "Mensen kunnen bellen naar 1722 voor hulp bij waterschade.",
+      "isTrue": true
     }
   ]
 }

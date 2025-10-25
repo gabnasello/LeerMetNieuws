@@ -1,106 +1,106 @@
 {
-  "id": 5,
+  "id": 1,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
+  "title": "Japanse toerist overleden na val van Pantheon in Rome",
   "topicNumber": 1,
   "article": {
-    "title": "De socialistische moslim die New York betaalbaar wil maken: in het spoor van kandidaat-burgemeester Zohran Mamdani",
-    "summary": "New York is niet zoals de rest van de VS. Minder dan ooit, nu in tijden van Trump met Zohran Mamdani een onervaren socialistische moslim wellicht de volgende burgemeester wordt. Tot hoop én afgrijzen van zijn eigen partijgenoten."
+    "title": "Japanse toerist overleden na val van Pantheon in Rome",
+    "summary": "Een toerist uit Japan viel van het Pantheon in Rome en overleed."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "burgemeester",
-        "definition": "De leider van een stad of gemeente.",
-        "sentence": "Hij wil de nieuwe ___ worden van de stad.",
-        "answer": "burgemeester"
+        "word": "val",
+        "definition": "naar beneden gaan",
+        "sentence": "Hij maakte een ___ van het gebouw.",
+        "answer": "val"
       },
       {
-        "word": "kandidaat",
-        "definition": "Iemand die probeert gekozen te worden.",
-        "sentence": "Hij is de ___ voor de verkiezing.",
-        "answer": "kandidaat"
+        "word": "overleden",
+        "definition": "niet meer leven",
+        "sentence": "Hij is ___ na het ongeluk.",
+        "answer": "overleden"
       },
       {
-        "word": "betaalbaar",
-        "definition": "Niet te duur, goedkoop genoeg.",
-        "sentence": "Hij wil woningen ___ maken voor iedereen.",
-        "answer": "betaalbaar"
+        "word": "Pantheon",
+        "definition": "een oud gebouw",
+        "sentence": "Hij viel van het ___.",
+        "answer": "Pantheon"
       },
       {
-        "word": "moslim",
-        "definition": "Iemand die de islam volgt.",
-        "sentence": "Hij is een ___ en bidt elke dag.",
-        "answer": "moslim"
+        "word": "Rome",
+        "definition": "een stad in Italië",
+        "sentence": "Het Pantheon staat in ___.",
+        "answer": "Rome"
       },
       {
-        "word": "partijgenoten",
-        "definition": "Mensen die bij dezelfde politieke groep horen.",
-        "sentence": "Sommige ___ steunen hem niet.",
-        "answer": "partijgenoten"
+        "word": "toerist",
+        "definition": "iemand die op reis is",
+        "sentence": "De ___ komt uit Japan.",
+        "answer": "toerist"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Sommige ___ steunen hem niet.",
-        "answer": "partijgenoten"
+        "sentence": "De ___ komt uit Japan.",
+        "answer": "toerist"
       },
       {
-        "sentence": "Hij is de ___ voor de verkiezing.",
-        "answer": "kandidaat"
+        "sentence": "Hij maakte een ___ van het gebouw.",
+        "answer": "val"
       },
       {
-        "sentence": "Hij wil woningen ___ maken voor iedereen.",
-        "answer": "betaalbaar"
+        "sentence": "Hij viel van het ___.",
+        "answer": "Pantheon"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat wil de kandidaat doen voor New York?",
+      "question": "Waar komt de toerist vandaan?",
       "options": [
-        "Het duurder maken",
-        "Het betaalbaar houden",
-        "Er niets aan doen",
-        "Het kleiner maken"
+        "Italië",
+        "Japan",
+        "Frankrijk",
+        "Duitsland"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoe voelen sommige partijgenoten over hem?",
+      "question": "Wat is het Pantheon?",
       "options": [
-        "Ze zijn blij",
-        "Ze zijn neutraal",
-        "Ze zijn boos",
-        "Ze zijn enthousiast"
+        "een park",
+        "een gebouw",
+        "een rivier",
+        "een dier"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is zijn religie?",
+      "question": "Wat overkwam de toerist?",
       "options": [
-        "Christen",
-        "Boeddhist",
-        "Moslim",
-        "Hindoe"
+        "Hij at iets.",
+        "Hij viel.",
+        "Hij ging winkelen.",
+        "Hij sliep."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "New York is hetzelfde als de rest van de VS.",
+      "statement": "De toerist komt uit Italië.",
       "isTrue": false
     },
     {
-      "statement": "Zohran Mamdani is de burgemeester van New York.",
-      "isTrue": false
-    },
-    {
-      "statement": "Sommige partijgenoten hebben afgrijzen van hem.",
+      "statement": "De man viel van het Pantheon.",
       "isTrue": true
+    },
+    {
+      "statement": "Hij overleed in het ziekenhuis.",
+      "isTrue": false
     }
   ]
 }

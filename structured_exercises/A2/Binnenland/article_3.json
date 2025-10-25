@@ -1,106 +1,106 @@
 {
-  "id": 18,
+  "id": 21,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
+  "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
   "topicNumber": 1,
   "article": {
-    "title": "We hebben zo hard gestreden voor het Nederlands, maar van de verengelsing ligt niemand wakker",
-    "summary": "Het Engels is oppermachtig aan de universiteit. Dat biedt kansen, maar het knelt en wringt ook. 'Zelfs op een congres over Franse vertaalwetenschap is de voertaal Engels.'"
+    "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
+    "summary": "Op de Antwerpse Ring is afgelopen nacht een tijdelijk stuk snelweg geopend, parallel met het viaduct van Merksem ter hoogte van de AFAS-Dome. De belangrijke stap in de Oosterweelwerken belooft veel verkeershinder met zich mee te brengen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "kansen",
-        "definition": "Mogelijkheden of goede kansen op iets.",
-        "sentence": "Hij heeft veel ___ op die baan.",
-        "answer": "kansen"
+        "word": "Bypass",
+        "definition": "Een weg die het verkeer om iets heen leidt.",
+        "sentence": "De ___ helpt om het verkeer sneller te laten gaan.",
+        "answer": "Bypass"
       },
       {
-        "word": "gestreden",
-        "definition": "Gevochten of hard gewerkt voor iets.",
-        "sentence": "Ze hebben jarenlang ___ voor hun rechten.",
-        "answer": "gestreden"
+        "word": "Viaduct",
+        "definition": "Een brug voor verkeer, vaak boven een weg.",
+        "sentence": "Het ___ is hoog en lang.",
+        "answer": "Viaduct"
       },
       {
-        "word": "knelt",
-        "definition": "Iets dat strak zit of niet comfortabel is.",
-        "sentence": "Deze schoen ___ een beetje.",
-        "answer": "knelt"
+        "word": "Belooft",
+        "definition": "Iets wat wordt aangezegd of toegezegd.",
+        "sentence": "Hij ___ dat hij komt, maar hij is er nog niet.",
+        "answer": "Belooft"
       },
       {
-        "word": "congres",
-        "definition": "Een grote bijeenkomst voor een bepaald onderwerp.",
-        "sentence": "Hij sprak op het ___ over klimaatverandering.",
-        "answer": "congres"
+        "word": "Stap",
+        "definition": "Een actie of deel van een plan.",
+        "sentence": "De eerste ___ is het moeilijkst.",
+        "answer": "Stap"
       },
       {
-        "word": "oppermachtig",
-        "definition": "Heel erg machtig of de baas zijn.",
-        "sentence": "De leeuw is de ___ heerser van de jungle.",
-        "answer": "oppermachtig"
+        "word": "Mee",
+        "definition": "Samen of erbij.",
+        "sentence": "Kom je ___ naar het feest?",
+        "answer": "Mee"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De leeuw is de ___ heerser van de jungle.",
-        "answer": "oppermachtig"
+        "sentence": "Het ___ is hoog en lang.",
+        "answer": "Viaduct"
       },
       {
-        "sentence": "Ze hebben jarenlang ___ voor hun rechten.",
-        "answer": "gestreden"
+        "sentence": "De ___ helpt om het verkeer sneller te laten gaan.",
+        "answer": "Bypass"
       },
       {
-        "sentence": "Deze schoen ___ een beetje.",
-        "answer": "knelt"
+        "sentence": "De eerste ___ is het moeilijkst.",
+        "answer": "Stap"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat de tekst vooral over?",
+      "question": "Waar is de nieuwe weg geopend?",
       "options": [
-        "Koken en eten",
-        "De Nederlandse taal",
-        "Engelse woorden in het Nederlands",
-        "Sport en gezondheid"
+        "In Brussel",
+        "In Antwerpen",
+        "Op de Antwerpse Ring",
+        "Bij de AFAS-Dome"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is 'verengelsing'?",
+      "question": "Wat is een viaduct?",
       "options": [
-        "Een soort plant",
-        "Een type dans",
-        "Het gebruik van Engelse woorden in het Nederlands",
-        "Een oude traditie"
+        "Een soort brug",
+        "Een soort auto",
+        "Een soort fiets",
+        "Een soort gebouw"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de houding van mensen volgens de tekst?",
+      "question": "Wat betekent 'belooft' in deze tekst?",
       "options": [
-        "Ze zijn boos over verengelsing",
-        "Ze maken zich er geen zorgen over",
-        "Ze willen meer verengelsing",
-        "Ze negeren het volledig"
+        "Het is een belofte",
+        "Het is een feest",
+        "Het is een soort",
+        "Het is een type"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Nederlanders vechten tegen verengelsing.",
-      "isTrue": false
-    },
-    {
-      "statement": "Engels is de voertaal op sommige congressen.",
+      "statement": "De nieuwe weg is in Antwerpen.",
       "isTrue": true
     },
     {
-      "statement": "Iedereen maakt zich zorgen over verengelsing.",
+      "statement": "Het viaduct is een gebouw.",
       "isTrue": false
+    },
+    {
+      "statement": "De nieuwe weg brengt verkeershinder mee.",
+      "isTrue": true
     }
   ]
 }

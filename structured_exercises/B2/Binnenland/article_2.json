@@ -1,105 +1,105 @@
 {
-  "id": 24,
+  "id": 27,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
+  "title": "Franstalige vrouw belt 112 in Zoniënwoud, maar mag enkel Nederlands spreken",
   "topicNumber": 1,
   "article": {
-    "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
-    "summary": "Gent wil de Vlasmarkt asfalteren, al is niet iedereen daar gelukkig mee. Tegenstanders willen de kinderkopjes laten erkennen als erfgoed. Want niets is zo Gents als het vermogen om pittoresk struikelgevaar te romantiseren."
+    "title": "Franstalige vrouw belt 112 in Zoniënwoud, maar mag enkel Nederlands spreken",
+    "summary": "Een Franstalige vrouw wilde een gewonde man in het Zoniënwoud helpen, maar kreeg te horen dat ze enkel in het Nederlands geholpen kon worden. Dit gebeurde nadat ze 112 belde. De burgemeester van Watermaal-Bosvoorde noemt het een schandalige situatie."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "erfgoed",
-        "definition": "cultureel of natuurlijk erfgoed dat bewaard moet worden",
-        "sentence": "Sommige inwoners zien de straat als een stukje ___ dat beschermd moet worden.",
-        "answer": "erfgoed"
+        "word": "wilde",
+        "definition": "de verleden tijd van 'willen', wat betekent dat iemand iets graag wil doen",
+        "sentence": "De vrouw ___ de gewonde man helpen, maar ze kon niet.",
+        "answer": "wilde"
       },
       {
-        "word": "struikelgevaar",
-        "definition": "gevaar dat iemand struikelt, bijvoorbeeld door een oneffen ondergrond",
-        "sentence": "De oude stenen veroorzaken ___ voor oudere inwoners.",
-        "answer": "struikelgevaar"
+        "word": "enkel",
+        "definition": "alleen maar, niets meer dan",
+        "sentence": "Ze mocht ___ Nederlands spreken.",
+        "answer": "enkel"
       },
       {
-        "word": "romantiseren",
-        "definition": "iets of iemand idealiseren door vooral de positieve kanten te zien",
-        "sentence": "Critici zeggen dat het gevaar wordt ___ en dat de straat veiliger moet.",
-        "answer": "romantiseren"
+        "word": "Nederlands",
+        "definition": "de officiële taal van Nederland en Vlaanderen, ook bekend als Hollands",
+        "sentence": "Ze kreeg geen hulp omdat ze geen ___ sprak.",
+        "answer": "Nederlands"
       },
       {
-        "word": "asfalteren",
-        "definition": "een ondergrond bedekken met asfalt, een stevig en glad materiaal",
-        "sentence": "De gemeente wil de straat ___ voor een betere ondergrond.",
-        "answer": "asfalteren"
+        "word": "geholpen",
+        "definition": "het voltooid deelwoord van 'helpen', wat betekent dat iemand assistentie gaf",
+        "sentence": "De vrouw had graag ___ willen worden, maar het mocht niet.",
+        "answer": "geholpen"
       },
       {
-        "word": "kasseien",
-        "definition": "oude straatstenen die vaak gebruikt worden in historische straten",
-        "sentence": "De Vlasmarkt is geplaveid met oude ___ die glimmen in de zon.",
-        "answer": "kasseien"
+        "word": "Franstalige",
+        "definition": "iemand die Frans spreekt als moedertaal",
+        "sentence": "De ___ vrouw kon zich niet in het Nederlands uitdrukken.",
+        "answer": "Franstalige"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Sommige inwoners zien de straat als een stukje ___ dat beschermd moet worden.",
-        "answer": "erfgoed"
+        "sentence": "Ze mocht ___ Nederlands spreken.",
+        "answer": "enkel"
       },
       {
-        "sentence": "De oude stenen veroorzaken ___ voor oudere inwoners.",
-        "answer": "struikelgevaar"
+        "sentence": "De ___ vrouw kon zich niet in het Nederlands uitdrukken.",
+        "answer": "Franstalige"
       },
       {
-        "sentence": "De gemeente wil de straat ___ voor een betere ondergrond.",
-        "answer": "asfalteren"
+        "sentence": "De vrouw had graag ___ willen worden, maar het mocht niet.",
+        "answer": "geholpen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom wil Gent de Vlasmarkt asfalteren?",
+      "question": "Wat wilde de Franstalige vrouw doen in het Zoniënwoud?",
       "options": [
-        "Omdat de stenen te oud zijn",
-        "Om de straat veiliger en toegankelijker te maken",
-        "Omdat er te weinig toeristen komen",
-        "Omdat asfalteren goedkoper is"
+        "Een wandeling maken",
+        "Een gewonde man helpen",
+        "De burgemeester bellen",
+        "Frans spreken"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een belangrijk argument van de tegenstanders?",
+      "question": "Waarom noemde de burgemeester de situatie schandalig?",
       "options": [
-        "Asfalt is slecht voor het milieu",
-        "Kasseien zijn deel van het cultureel erfgoed",
-        "Asfalteren is te duur voor de stad",
-        "De Vlasmarkt is niet geschikt voor auto's"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een gevolg van kasseien als ondergrond?",
-      "options": [
-        "Ze zijn erg duurzaam en gaan lang mee",
-        "Ze zijn glad als ze nat worden",
-        "Ze zijn niet geschikt voor rolstoelgebruikers",
-        "Ze veroorzaken meer verkeerslawaai"
+        "Omdat de vrouw niet mocht wandelen",
+        "Omdat de vrouw in het Frans mocht praten",
+        "Omdat de hulpdienst alleen Nederlands accepteert",
+        "Omdat de vrouw niet wilde helpen"
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "Wat was het resultaat van de telefoontje naar 112?",
+      "options": [
+        "De vrouw kreeg hulp in het Frans",
+        "De vrouw kreeg geen hulp",
+        "De vrouw werd naar de burgemeester doorverbonden",
+        "De vrouw kreeg een beloning"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Gent wil de Vlasmarkt asfalteren om het struikelgevaar te verminderen.",
+      "statement": "De Franstalige vrouw kon de gewonde man niet helpen omdat ze geen Nederlands sprak.",
       "isTrue": true
     },
     {
-      "statement": "Alle inwoners van Gent zijn tegen het asfalteren van de Vlasmarkt.",
+      "statement": "De burgemeester van Watermaal-Bosvoorde vond dat de hulpdienst de vrouw in het Frans moest helpen.",
       "isTrue": false
     },
     {
-      "statement": "De kasseien op de Vlasmarkt worden door sommige mensen gezien als belangrijk erfgoed.",
+      "statement": "De vrouw belde 112 om iemand anders te helpen, niet voor zichzelf.",
       "isTrue": true
     }
   ]

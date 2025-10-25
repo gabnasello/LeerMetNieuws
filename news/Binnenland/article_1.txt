@@ -1,15 +1,15 @@
 Artikel 1
-Nieuwsupdate: 2025-10-25 04:27 UCT
+Nieuwsupdate: 2025-10-25 15:50 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Begint de linkse revolutie in Sint-Gillis? “Het is ook een vorm van lifestyle”
-Link: https://www.standaard.be/binnenland/begint-de-linkse-revolutie-in-sint-gillis-het-is-ook-een-vorm-van-lifestyle/99984110.html
-Datum: Fri, 24 Oct 2025 21:59:00 GMT
-Samenvatting: Is extreemlinks in Brussel een gevaar voor de openbare orde, of vooral een vorm van idealistische folklore? In Sint-Gillis groeit een beweging die zijn verontwaardiging koppelt aan oude revolutionaire symboliek. “De kwaadheid over Gaza en het klimaat biedt vruchtbare grond voor extremisme.”
+Titel: Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind
+Link: https://www.standaard.be/binnenland/noodnummer-1722-voor-storm-en-waterschade-geactiveerd-kmi-waarschuwt-voor-buien-en-veel-wind/100132043.html
+Datum: Sat, 25 Oct 2025 15:15:21 GMT
+Samenvatting: Het KMI waarschuwt opnieuw voor slecht weer. De overheid heeft het nummer 1722 geactiveerd, dat mensen kunnen bellen bij storm- en waterschade.
 Auteur: Geen auteur
 Categorie: Binnenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/yq07zg-extreemlinks-stgilles-02-kristofvadino-l1007451.jpg/alternates/BASE_SIXTEEN_NINE/ExtreemLinks_StGilles_02_KristofVadino_L1007451.jpg
-Premium: true
+Afbeelding: https://prod-img.gva.be/public/incoming/qkvo4m-belgium-dilbeek-weather-clouds/alternates/BASE_SIXTEEN_NINE/BELGIUM%20DILBEEK%20WEATHER%20CLOUDS
+Premium: false
 ------------------------------------------------------------

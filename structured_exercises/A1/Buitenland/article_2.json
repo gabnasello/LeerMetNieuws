@@ -1,105 +1,105 @@
 {
-  "id": 12,
+  "id": 10,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Auteur Marijn Kruk over het succes van de PVV in Nederland",
+  "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
   "topicNumber": 1,
   "article": {
-    "title": "Auteur Marijn Kruk over het succes van de PVV in Nederland",
-    "summary": "De eerste Nederlandse regering met PVV-ministers draaide uit op een fiasco. Toch wenkt een volgende verkiezingstriomf voor Geert Wilders. Auteur Marijn Kruk schrikt niet: “Radicaal-rechts heeft de strijd in dit land met 10-0 gewonnen.”"
+    "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
+    "summary": "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "land",
-        "definition": "een gebied met een eigen regering, zoals Nederland of België",
-        "sentence": "Nederland is een mooi ___ om in te wonen.",
-        "answer": "land"
+        "word": "controleren",
+        "definition": "kijken of iets goed gaat",
+        "sentence": "Zij ___ het staakt-het-vuren.",
+        "answer": "controleren"
       },
       {
-        "word": "regering",
-        "definition": "de groep mensen die een land bestuurt",
-        "sentence": "De ___ maakt belangrijke beslissingen voor het land.",
-        "answer": "regering"
+        "word": "onderhandelingen",
+        "definition": "gesprekken om tot een oplossing te komen",
+        "sentence": "De ___ zijn belangrijk voor vrede.",
+        "answer": "onderhandelingen"
       },
       {
-        "word": "minister",
-        "definition": "iemand met een hoge functie in de regering",
-        "sentence": "De ___ van Onderwijs bezocht onze school.",
-        "answer": "minister"
+        "word": "staakt-het-vuren",
+        "definition": "stoppen met schieten",
+        "sentence": "Het ___ is belangrijk voor vrede.",
+        "answer": "staakt-het-vuren"
       },
       {
-        "word": "succes",
-        "definition": "iets dat goed gaat of goed afloopt",
-        "sentence": "Hij had veel ___ met zijn nieuwe baan.",
-        "answer": "succes"
+        "word": "Amerikaanse",
+        "definition": "komt uit Amerika",
+        "sentence": "De ___ drone vliegt in de lucht.",
+        "answer": "Amerikaanse"
       },
       {
-        "word": "verkiezing",
-        "definition": "een stemming om te kiezen wie de leider wordt",
-        "sentence": "Tijdens de ___ stemmen mensen voor hun favoriete partij.",
-        "answer": "verkiezing"
+        "word": "drones",
+        "definition": "vliegende machines zonder piloot",
+        "sentence": "De ___ zijn in de lucht.",
+        "answer": "drones"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ maakt belangrijke beslissingen voor het land.",
-        "answer": "regering"
+        "sentence": "Het ___ is belangrijk voor vrede.",
+        "answer": "staakt-het-vuren"
       },
       {
-        "sentence": "Hij had veel ___ met zijn nieuwe baan.",
-        "answer": "succes"
+        "sentence": "De ___ zijn in de lucht.",
+        "answer": "drones"
       },
       {
-        "sentence": "Nederland is een mooi ___ om in te wonen.",
-        "answer": "land"
+        "sentence": "De ___ zijn belangrijk voor vrede.",
+        "answer": "onderhandelingen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'regering' in het Nederlands?",
+      "question": "Wat controleren de drones?",
       "options": [
-        "een soort auto",
-        "de baas van een land",
-        "een sportteam",
-        "een soort eten"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een 'verkiezing'?",
-      "options": [
-        "een feestdag",
-        "een soort spel",
-        "een stemming om een nieuwe leider te kiezen",
-        "een soort muziek"
+        "het weer",
+        "de vrede",
+        "het staakt-het-vuren",
+        "de oorlog"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat betekent 'winnen' in deze context?",
+      "question": "Waar vindt het staakt-het-vuren plaats?",
       "options": [
-        "verliezen",
-        "een wedstrijd winnen",
-        "een boek lezen",
-        "zingen"
+        "in Gaza",
+        "in Amerika",
+        "in de lucht",
+        "in een gebouw"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is het resultaat van de onderhandelingen?",
+      "options": [
+        "meer oorlog",
+        "een doorbraak",
+        "een drone",
+        "geen resultaat"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De auteur heet Marijn Kruk.",
+      "statement": "Drones controleren het staakt-het-vuren in Gaza.",
       "isTrue": true
     },
     {
-      "statement": "Geert Wilders is een minister in de nieuwe regering.",
+      "statement": "De onderhandelingen zijn in Amerika.",
       "isTrue": false
     },
     {
-      "statement": "PVV is de naam van een politieke partij in Nederland.",
+      "statement": "Er is een doorbraak in de onderhandelingen over vrede.",
       "isTrue": true
     }
   ]

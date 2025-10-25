@@ -1,105 +1,105 @@
 {
-  "id": 26,
+  "id": 25,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
+  "title": "Vrouw belt 112 en wil iemand helpen",
   "topicNumber": 1,
   "article": {
-    "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
-    "summary": "Gent wil de Vlasmarkt asfalteren. Sommige mensen zijn hier niet blij mee. Tegenstanders willen de kasseien bewaren als erfgoed. Want niets is zo Gents als het vermogen om pittoresk struikelgevaar te romantiseren."
+    "title": "Vrouw belt 112 en wil iemand helpen",
+    "summary": "Een vrouw belt 112 omdat ze een gewonde man wil helpen in het Zoniënwoud. Maar de hulpdienst spreekt alleen Nederlands. De vrouw is Frans-talig en verstaat het Nederlands niet goed. Dit is een probleem."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "struikelgevaar",
-        "definition": "gevaar om te vallen of te struikelen",
-        "sentence": "Let op voor ___ op deze weg!",
-        "answer": "struikelgevaar"
+        "word": "belt",
+        "definition": "telefoneert, maakt een telefoongesprek",
+        "sentence": "Ze ___ naar de hulpdienst.",
+        "answer": "belt"
       },
       {
-        "word": "pittoresk",
-        "definition": "mooi en charmant, vaak op een ouderwetse manier",
-        "sentence": "Het dorpje is heel ___ met zijn oude huisjes.",
-        "answer": "pittoresk"
+        "word": "probleem",
+        "definition": "een situatie die moeilijkheid of zorg veroorzaakt",
+        "sentence": "Het ___ is dat ze elkaar niet verstaan.",
+        "answer": "probleem"
       },
       {
-        "word": "wil",
-        "definition": "willen, wensen",
-        "sentence": "Hij ___ graag naar de film.",
-        "answer": "wil"
+        "word": "Nederlands",
+        "definition": "de officiële taal van Nederland en Vlaanderen",
+        "sentence": "Spreekt u ook ___?",
+        "answer": "Nederlands"
       },
       {
-        "word": "bewaren",
-        "definition": "iets bewaren, niet weggooien",
-        "sentence": "Ik wil deze foto's ___ in een album.",
-        "answer": "bewaren"
+        "word": "vrouw",
+        "definition": "een mens van het vrouwelijk geslacht",
+        "sentence": "De ___ belt naar 112.",
+        "answer": "vrouw"
       },
       {
-        "word": "romantiseren",
-        "definition": "iets mooier of romantischer voorstellen dan het is",
-        "sentence": "Hij probeert het harde werk te ___ in zijn verhaal.",
-        "answer": "romantiseren"
+        "word": "spreekt",
+        "definition": "praat, uit woorden",
+        "sentence": "Hij ___ alleen Nederlands.",
+        "answer": "spreekt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij ___ graag naar de film.",
-        "answer": "wil"
+        "sentence": "De ___ belt naar 112.",
+        "answer": "vrouw"
       },
       {
-        "sentence": "Het dorpje is heel ___ met zijn oude huisjes.",
-        "answer": "pittoresk"
+        "sentence": "Het ___ is dat ze elkaar niet verstaan.",
+        "answer": "probleem"
       },
       {
-        "sentence": "Hij probeert het harde werk te ___ in zijn verhaal.",
-        "answer": "romantiseren"
+        "sentence": "Spreekt u ook ___?",
+        "answer": "Nederlands"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom wil Gent de Vlasmarkt asfalteren?",
+      "question": "Waarom belt de vrouw naar 112?",
       "options": [
-        "Omdat het mooi is",
-        "Omdat het gevaarlijk is",
-        "Omdat het goedkoop is",
-        "Omdat niemand het gebruikt"
+        "Om een pizza te bestellen",
+        "Omdat ze een gewonde man wil helpen",
+        "Om te klagen over het weer",
+        "Om haar moeder te feliciteren"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'erfgoed' in deze tekst?",
+      "question": "Wat is het probleem in de situatie?",
       "options": [
-        "Een soort eten",
-        "Een soort muziek",
-        "Iets van culturele waarde uit het verleden",
-        "Een soort sport"
+        "De vrouw heeft honger",
+        "De vrouw en de hulpdienst spreken verschillende talen",
+        "De vrouw is verdwaald in de stad",
+        "De man is niet gewond"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is een voorbeeld van pittoresk in de tekst?",
+      "question": "Wat is de oplossing volgens de tekst?",
       "options": [
-        "De kasseien",
-        "Een snelweg",
-        "Een modern gebouw",
-        "Een lege straat"
+        "De vrouw moet Chinees leren",
+        "De hulpdienst moet Engels spreken",
+        "Iedereen moet Nederlands leren",
+        "Er is geen oplossing genoemd"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "Gent wil de kasseien verwijderen omdat ze te gevaarlijk zijn.",
+      "statement": "De vrouw belt naar 112 omdat ze hulp nodig heeft.",
       "isTrue": true
     },
     {
-      "statement": "Iedereen in Gent is blij met het asfalteren.",
+      "statement": "De vrouw en de hulpdienst spreken beide vloeiend Nederlands.",
       "isTrue": false
     },
     {
-      "statement": "Kasseien kunnen gevaarlijk zijn om op te lopen.",
+      "statement": "De man is gewond in het Zoniënwoud.",
       "isTrue": true
     }
   ]

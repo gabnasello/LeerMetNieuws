@@ -1,105 +1,105 @@
 {
-  "id": 8,
+  "id": 6,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Jared Kushner: Amerikaanse adviseur in het Midden-Oosten",
+  "title": "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
   "topicNumber": 1,
   "article": {
-    "title": "Jared Kushner: Amerikaanse adviseur in het Midden-Oosten",
-    "summary": "Jared Kushner is de schoonzoon van de Amerikaanse president Trump. Hij hielp met vredesgesprekken in het Midden-Oosten en gebruikte zijn zakelijke ervaring."
+    "title": "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
+    "summary": "Catherine Connolly wordt de nieuwe president van Ierland. Haar tegenstander heeft de verkiezing verloren. Catherine Connolly is de nieuwe president."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Kushner",
-        "definition": "Een achternaam",
-        "sentence": "Jared ___ is de schoonzoon van Trump.",
-        "answer": "Kushner"
+        "word": "wordt",
+        "definition": "veranderen naar een nieuwe staat",
+        "sentence": "Zij ___ de nieuwe leider.",
+        "answer": "wordt"
       },
       {
-        "word": "Midden-Oosten",
-        "definition": "Een gebied op de wereld met veel landen zoals Israël en Iran",
-        "sentence": "Het ___ is een gebied met veel verschillende culturen.",
-        "answer": "Midden-Oosten"
+        "word": "rivaal",
+        "definition": "iemand met wie je strijdt",
+        "sentence": "Hij was mijn ___ in de wedstrijd.",
+        "answer": "rivaal"
       },
       {
-        "word": "Jared",
-        "definition": "Een mannelijke voornaam",
-        "sentence": "___ Kushner is de schoonzoon van Trump.",
-        "answer": "Jared"
+        "word": "heeft",
+        "definition": "hebben, in bezit hebben",
+        "sentence": "Zij ___ een mooi huis.",
+        "answer": "heeft"
       },
       {
-        "word": "zakelijk",
-        "definition": "Iets wat met geld of bedrijven te maken heeft",
-        "sentence": "Hij heeft een ___ plan om geld te verdienen.",
-        "answer": "zakelijk"
+        "word": "nederlaag",
+        "definition": "verliezen van een strijd",
+        "sentence": "Na de ___ gaf hij op.",
+        "answer": "nederlaag"
       },
       {
-        "word": "Trump",
-        "definition": "De achternaam van de voormalige Amerikaanse president",
-        "sentence": "___ was de president van Amerika.",
-        "answer": "Trump"
+        "word": "van",
+        "definition": "een voorzetsel dat bezit of herkomst aangeeft",
+        "sentence": "De hoofdstad ___ Nederland is Amsterdam.",
+        "answer": "van"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ was de president van Amerika.",
-        "answer": "Trump"
+        "sentence": "De hoofdstad ___ Nederland is Amsterdam.",
+        "answer": "van"
       },
       {
-        "sentence": "Jared ___ is de schoonzoon van Trump.",
-        "answer": "Kushner"
+        "sentence": "Zij ___ de nieuwe leider.",
+        "answer": "wordt"
       },
       {
-        "sentence": "Hij heeft een ___ plan om geld te verdienen.",
-        "answer": "zakelijk"
+        "sentence": "Na de ___ gaf hij op.",
+        "answer": "nederlaag"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de rol van Jared Kushner in deze tekst?",
+      "question": "Wie is Catherine Connolly?",
       "options": [
-        "Hij is een kok",
-        "Hij is een leraar",
-        "Hij is een adviseur voor vrede",
-        "Hij is een sporter"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat betekent 'schoonzoon'?",
-      "options": [
-        "Een soort hond",
-        "De man van je dochter",
-        "Een soort auto",
-        "Een soort fruit"
+        "Een actrice",
+        "De nieuwe president van Ierland",
+        "Een Nederlandse politicus",
+        "Een leraar"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Wat betekent 'erkent'?",
       "options": [
-        "Over koken",
-        "Over reizen",
-        "Over vredesgesprekken en een persoon",
-        "Over sporten"
+        "Verliest",
+        "Geeft toe",
+        "Wint",
+        "Is blij"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is een 'rivaal'?",
+      "options": [
+        "Een vriend",
+        "Iemand met wie je strijdt",
+        "Een buurman",
+        "Een soort voedsel"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Jared Kushner is de schoonzoon van Trump.",
+      "statement": "Catherine Connolly is de nieuwe president van Ierland.",
       "isTrue": true
     },
     {
-      "statement": "Jared Kushner is een professionele voetballer.",
+      "statement": "Heather Humphreys heeft de verkiezing gewonnen.",
       "isTrue": false
     },
     {
-      "statement": "Jared Kushner heeft ervaring met zakelijke zaken.",
+      "statement": "Catherine Connolly wordt de nieuwe president.",
       "isTrue": true
     }
   ]

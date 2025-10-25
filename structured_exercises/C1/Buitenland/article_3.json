@@ -1,105 +1,105 @@
 {
-  "id": 8,
+  "id": 9,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Als het gaat om defensie, is Europa bereid eigen regels wat op te rekken",
+  "title": "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
   "topicNumber": 1,
   "article": {
-    "title": "Als het gaat om defensie, is Europa bereid eigen regels wat op te rekken",
-    "summary": "Europa haalt de hinderpalen voor defensie-investeringen één voor één weg. Op de Europese top stond behalve de Russische tegoeden ook het pad om een turbo te zetten op de militaire paraatheid centraal."
+    "title": "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
+    "summary": "De 68-jarige Catherine Connolly is op weg naar het presidentschap van Ierland. Ze lag al ruim op kop in de peilingen en zaterdagnamiddag heeft haar rivaal in de presidentsverkiezingen, de 62-jarige Heather Humphreys van de centrumrechtse regeringspartij Fine Gael, haar verkiezingsnederlaag toegegeven."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "defensie",
-        "definition": "het geheel van militaire middelen en strategieën om een land te beschermen",
-        "sentence": "De defensie van het land is sterk verbeterd de laatste jaren.",
-        "answer": "defensie"
+        "word": "rivaal",
+        "definition": "iemand die met een ander concurreert of strijdt om hetzelfde doel",
+        "sentence": "Zij waren eens elkaars grootste ___ in het bedrijfsleven.",
+        "answer": "rivaal"
       },
       {
-        "word": "regels",
-        "definition": "afspraken of wetten waar men zich aan moet houden",
-        "sentence": "De nieuwe regels zorgen voor meer duidelijkheid in de sector.",
-        "answer": "regels"
+        "word": "nederlaag",
+        "definition": "het verliezen van een strijd of conflict",
+        "sentence": "De terugtrekking was een strategische beslissing, geen ___.",
+        "answer": "nederlaag"
       },
       {
-        "word": "op te rekken",
-        "definition": "iets flexibeler of ruimer maken",
-        "sentence": "Soms moet je de regels een beetje op te rekken om vooruitgang te boeken.",
-        "answer": "op te rekken"
+        "word": "peilingen",
+        "definition": "onderzoeken of enquêtes die de publieke opinie meten",
+        "sentence": "Volgens de laatste ___ staat de partij sterk.",
+        "answer": "peilingen"
       },
       {
-        "word": "hinderpalen",
-        "definition": "obstakels of belemmeringen die vooruitgang in de weg staan",
-        "sentence": "Er zijn nog een aantal hinderpalen voordat we kunnen starten.",
-        "answer": "hinderpalen"
+        "word": "verkiezingen",
+        "definition": "het proces waarbij mensen stemmen om leiders of vertegenwoordigers te kiezen",
+        "sentence": "De algemene ___ zijn over een maand.",
+        "answer": "verkiezingen"
       },
       {
-        "word": "tegoeden",
-        "definition": "rechten op of vordering op iets, vaak financieel",
-        "sentence": "De tegoeden van de klant zijn nog niet vrijgegeven.",
-        "answer": "tegoeden"
+        "word": "presidentschap",
+        "definition": "het ambt of de functie van president",
+        "sentence": "Na de verkiezingen zal hij het ___ overnemen.",
+        "answer": "presidentschap"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De nieuwe regels zorgen voor meer duidelijkheid in de sector.",
-        "answer": "regels"
+        "sentence": "De terugtrekking was een strategische beslissing, geen ___.",
+        "answer": "nederlaag"
       },
       {
-        "sentence": "De tegoeden van de klant zijn nog niet vrijgegeven.",
-        "answer": "tegoeden"
+        "sentence": "Zij waren eens elkaars grootste ___ in het bedrijfsleven.",
+        "answer": "rivaal"
       },
       {
-        "sentence": "Er zijn nog een aantal hinderpalen voordat we kunnen starten.",
-        "answer": "hinderpalen"
+        "sentence": "De algemene ___ zijn over een maand.",
+        "answer": "verkiezingen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de kern van de Europese defensiestrategie volgens de tekst?",
+      "question": "Wat betekent het als een politicus zijn nederlaag erkent?",
       "options": [
-        "Volledige militarisatie",
-        "Samenwerking met niet-EU-landen",
-        "Het wegnemen van belemmeringen en investeren in paraatheid",
-        "Vervanging van de NAVO"
+        "Hij geeft toe dat hij verloren heeft.",
+        "Hij viert zijn overwinning.",
+        "Hij weigert het resultaat te accepteren.",
+        "Hij negeert de uitslag volledig."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Welke rol speelt Heather Humphreys in deze context?",
+      "options": [
+        "Ze is de winnaar van de verkiezingen.",
+        "Ze is de verliezende kandidaat.",
+        "Ze is de zittende president van Ierland.",
+        "Ze is een internationale waarnemer."
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'op te rekken' in deze context?",
+      "question": "Wat geeft de uitslag van de peilingen aan over Catherine Connolly's kans?",
       "options": [
-        "De regels volledig negeren",
-        "De regels soepeler of ruimer interpreteren",
-        "De regels volledig afschaffen",
-        "Nieuwe regels invoeren"
+        "Ze staat er zeer zwak voor.",
+        "Ze heeft een kleine kans om te winnen.",
+        "Ze heeft een zeer grote kans om te winnen.",
+        "Ze heeft al gewonnen, de uitslag is definitief."
       ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is een 'hinderpaal' in de tekst?",
-      "options": [
-        "Een fysieke barrière",
-        "Een wettelijke of procedurele belemmering",
-        "Een militair obstakel",
-        "Een economische sanctie"
-      ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Europese defensiestrategie richt zich puur op het versterken van de eigen militaire capaciteit.",
+      "statement": "Catherine Connolly is de enige kandidaat in de presidentsverkiezingen.",
       "isTrue": false
     },
     {
-      "statement": "Naast de kwestie van Russische tegoeden, is er ook aandacht voor het versnellen van militaire paraatheid.",
+      "statement": "Heather Humphreys heeft haar nederlaag toegegeven tijdens de verkiezingen.",
       "isTrue": true
     },
     {
-      "statement": "De tekst suggereert dat Europa al zijn defensieproblemen heeft opgelost.",
+      "statement": "Catherine Connolly is de huidige president van Ierland.",
       "isTrue": false
     }
   ]

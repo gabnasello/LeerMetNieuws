@@ -1,105 +1,105 @@
 {
-  "id": 13,
+  "id": 17,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Begint de linkse revolutie in Sint-Gillis? ‘Het is ook een vorm van lifestyle’",
+  "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
   "topicNumber": 1,
   "article": {
-    "title": "Begint de linkse revolutie in Sint-Gillis? ‘Het is ook een vorm van lifestyle’",
-    "summary": "Is extreemlinks in Brussel een gevaar voor de openbare orde, of vooral een vorm van idealistische folklore? In Sint-Gillis groeit een beweging die zijn verontwaardiging koppelt aan oude revolutionaire symboliek. ‘De kwaadheid over Gaza en het klimaat biedt vruchtbare grond voor extremisme.’"
+    "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
+    "summary": "Het KMI waarschuwt opnieuw voor slecht weer. De overheid heeft het nummer 1722 geactiveerd, dat mensen kunnen bellen bij storm- en waterschade."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "linkse",
-        "definition": "betreft politieke ideeën die verandering en gelijkheid willen",
-        "sentence": "Sommige politieke groepen worden ___ genoemd.",
-        "answer": "linkse"
+        "word": "storm",
+        "definition": "een zware wind met regen of sneeuw",
+        "sentence": "Er komt een ___ met veel wind.",
+        "answer": "storm"
       },
       {
-        "word": "revolutie",
-        "definition": "een grote en snelle verandering in de maatschappij",
-        "sentence": "Soms is er een ___ nodig voor grote veranderingen.",
-        "answer": "revolutie"
+        "word": "waarschuwt",
+        "definition": "waarschuwen, een waarschuwing geven",
+        "sentence": "Het KMI ___ voor gevaarlijk weer.",
+        "answer": "waarschuwt"
       },
       {
-        "word": "kwaadheid",
-        "definition": "het gevoel van boos zijn",
-        "sentence": "Zijn ___ was duidelijk na het zien van het onrecht.",
-        "answer": "kwaadheid"
+        "word": "schade",
+        "definition": "schade, wat kapot of beschadigd is",
+        "sentence": "Door de storm was er veel ___ aan huizen.",
+        "answer": "schade"
       },
       {
-        "word": "koppelt",
-        "definition": "verbindt of verbindt twee dingen met elkaar",
-        "sentence": "Hij ___ zijn ervaring met theorie uit boeken.",
-        "answer": "koppelt"
+        "word": "overheid",
+        "definition": "de organisatie die een land of stad bestuurt",
+        "sentence": "De ___ heeft een noodnummer gemaakt.",
+        "answer": "overheid"
       },
       {
-        "word": "verontwaardiging",
-        "definition": "sterke gevoel van boosheid over iets onrechtvaardigs",
-        "sentence": "Veel mensen voelen ___ over de situatie in Gaza.",
-        "answer": "verontwaardiging"
+        "word": "KMI",
+        "definition": "Koninklijk Meteorologisch Instituut, het weerinstituut",
+        "sentence": "Het ___ waarschuwt voor slecht weer.",
+        "answer": "KMI"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Sommige politieke groepen worden ___ genoemd.",
-        "answer": "linkse"
+        "sentence": "Het ___ waarschuwt voor slecht weer.",
+        "answer": "KMI"
       },
       {
-        "sentence": "Soms is er een ___ nodig voor grote veranderingen.",
-        "answer": "revolutie"
+        "sentence": "Er komt een ___ met veel wind.",
+        "answer": "storm"
       },
       {
-        "sentence": "Zijn ___ was duidelijk na het zien van het onrecht.",
-        "answer": "kwaadheid"
+        "sentence": "De ___ heeft een noodnummer gemaakt.",
+        "answer": "overheid"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent ‘kwaadheid’ in deze context?",
+      "question": "Wat doet het KMI bij slecht weer?",
       "options": [
-        "Boosheid",
-        "Vrolijkheid",
-        "Verdriet",
-        "Verwarring"
+        "Ze geven een waarschuwing",
+        "Ze sluiten alle scholen",
+        "Ze organiseren een feest",
+        "Ze zeggen niets"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waarom wordt er gesproken over ‘symboliek’ in de tekst?",
+      "question": "Waarvoor is het nummer 1722 bedoeld?",
       "options": [
-        "Omdat het over oude symbolen gaat",
-        "Omdat het over toekomstige plannen gaat",
-        "Omdat het over eten en drinken gaat",
-        "Omdat het over sport gaat"
+        "Voor het bestellen van pizza",
+        "Voor het melden van verkeersongelukken",
+        "Voor hulp bij stormschade",
+        "Alleen voor politie en brandweer"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is een voorbeeld van ‘extremisme’?",
+      "question": "Waar staat KMI voor?",
       "options": [
-        "Iemand die anderen pijn doet voor zijn ideeën",
-        "Iemand die altijd lacht",
-        "Iemand die goed kan dansen",
-        "Iemand die veel leest"
+        "Koninklijke Meteo Informatie",
+        "Koninklijk Meteorologisch Instituut",
+        "Koninklijke Meteorologische Instelling",
+        "Koninklijke Weer Informatie"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De tekst gaat alleen over gevaar door extremisme.",
+      "statement": "Het KMI geeft alleen waarschuwingen voor sneeuw.",
       "isTrue": false
     },
     {
-      "statement": "Sint-Gillis is een plaats in Brussel.",
+      "statement": "Het nummer 1722 is bedoeld voor alle soorten schade.",
       "isTrue": true
     },
     {
-      "statement": "De tekst suggereert dat klimaat en Gaza tot extremisme leiden.",
+      "statement": "De overheid heeft het nummer 1722 geactiveerd voor stormschade.",
       "isTrue": true
     }
   ]
