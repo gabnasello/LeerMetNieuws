@@ -9,7 +9,7 @@ import requests
 API_KEY = os.getenv("OPENROUTER_API_KEY")
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
-LEVELS = ["B1", "A2", "B2", "C1", "A1"]
+LEVELS = ["A1", "A2", "B1", "B2", "C1"]
 # LEVELS = ["B1"]
 
 
@@ -43,6 +43,41 @@ def query_openrouter(messages, max_tokens=1200, retries=5, backoff=2):
 
 # ---------- MAIN GENERATOR FUNCTION ----------
 def generate_simplified_and_exercises(level, section, topic_number, title, summary):
+    # Level-specific rewriting guidelines
+    level_guidelines = {
+        "A1": (
+            "- Gebruik zeer eenvoudige zinnen (max. 8-10 woorden).\n"
+            "- Gebruik alleen basiswoordenschat (bijv. eten, wonen, familie, werk, school).\n"
+            "- Vermijd samengestelde zinnen, bijvoeglijke naamwoorden en moeilijke woorden.\n"
+            "- Schrijf in de tegenwoordige tijd.\n"
+            "- Gebruik korte en directe formuleringen, alsof je met een beginner praat."
+        ),
+        "A2": (
+            "- Gebruik eenvoudige zinnen met soms een voegwoord (zoals 'en', 'maar', 'omdat').\n"
+            "- Gebruik frequente woorden over dagelijks leven.\n"
+            "- Vermijd passieve vormen en idiomatische uitdrukkingen.\n"
+            "- Houd zinnen kort en concreet."
+        ),
+        "B1": (
+            "- Gebruik gewone spreektaal met af en toe een samengestelde zin.\n"
+            "- Gebruik een neutrale, informatieve toon.\n"
+            "- Beperk abstracte of formele woorden.\n"
+            "- Schrijf alsof de lezer een krantenartikel op eenvoudig niveau begrijpt."
+        ),
+        "B2": (
+            "- Gebruik natuurlijk Nederlands met een mix van korte en langere zinnen.\n"
+            "- Mag matig abstracte of beschouwende taal bevatten.\n"
+            "- Gebruik correcte grammatica, inclusief bijzinnen.\n"
+            "- Houd het toegankelijk, maar niet kinderlijk."
+        ),
+        "C1": (
+            "- Gebruik vloeiend en natuurlijk Nederlands zoals in kwaliteitsmedia.\n"
+            "- Je mag nuances, synoniemen en complexere structuren gebruiken.\n"
+            "- Gebruik correcte formele grammatica en precieze woordkeuze.\n"
+            "- Houd de toon academisch maar begrijpelijk."
+        ),
+    }
+
     messages = [
         {
             "role": "system",
@@ -56,7 +91,9 @@ def generate_simplified_and_exercises(level, section, topic_number, title, summa
             "role": "user",
             "content": f"""
 Herschrijf de titel en samenvatting in natuurlijk en begrijpelijk Nederlands op niveau {level}.
-Gebruik natuurlijk klinkende taal die authentiek aanvoelt voor dit niveau.
+Volg de onderstaande richtlijnen voor dit niveau:
+
+{level_guidelines[level]}
 
 Maak vervolgens taalactiviteiten op basis van de vereenvoudigde tekst:
 
