@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Japanse toerist overleden na val van Pantheon in Rome",
+  "title": "Miljardair geeft veel geld aan Trump voor soldaten",
   "topicNumber": 1,
   "article": {
-    "title": "Japanse toerist overleden na val van Pantheon in Rome",
-    "summary": "Een 69-jarige toerist uit Japan is vrijdagavond van een muur van het Pantheon in de Italiaanse hoofdstad Rome gevallen. Hij overleed ter plaatse."
+    "title": "Miljardair geeft veel geld aan Trump voor soldaten",
+    "summary": "Donald Trump krijgt veel geld van een rijke man. Het geld is voor soldaten. Dit gebeurt in Amerika."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "p",
-        "definition": "dit is een letter, deel van een woord",
-        "sentence": "Het woord 'muur' begint met een ___.",
-        "answer": "p"
+        "word": "geld",
+        "definition": "wat je gebruikt om dingen te kopen, zoals euro's of dollars",
+        "sentence": "Hij geeft veel ___ aan Trump voor soldaten.",
+        "answer": "geld"
       },
       {
-        "word": "val",
-        "definition": "naar beneden gaan, vallen",
-        "sentence": "Hij maakte een ___ van de muur.",
-        "answer": "val"
+        "word": "krijgt",
+        "definition": "ontvangt, krijgt iets",
+        "sentence": "Trump ___ het geld van de miljardair.",
+        "answer": "krijgt"
       },
       {
-        "word": "m",
-        "definition": "een letter van het alfabet",
-        "sentence": "De letter ___ is de dertiende letter.",
-        "answer": "m"
+        "word": "Amerika",
+        "definition": "een groot land, ook Verenigde Staten genoemd",
+        "sentence": "Deze gebeurtenis vindt plaats in ___.",
+        "answer": "Amerika"
       },
       {
-        "word": "overleed",
-        "definition": "niet meer leven, dood gaan",
-        "sentence": "Helaas is hij ___ na het ongeluk.",
-        "answer": "overleed"
+        "word": "gebeurt",
+        "definition": "iets dat plaatsvindt of gebeurt",
+        "sentence": "Wat ___ er in dit verhaal?",
+        "answer": "gebeurt"
       },
       {
-        "word": "r",
-        "definition": "een letter in het alfabet",
-        "sentence": "De laatste letter van 'val' is de ___.",
-        "answer": "r"
+        "word": "Trump",
+        "definition": "de familienaam van de voormalige president van Amerika",
+        "sentence": "___ krijgt veel geld van de miljardair.",
+        "answer": "Trump"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De letter ___ is de dertiende letter.",
-        "answer": "m"
+        "sentence": "___ krijgt veel geld van de miljardair.",
+        "answer": "Trump"
       },
       {
-        "sentence": "Hij maakte een ___ van de muur.",
-        "answer": "val"
+        "sentence": "Hij geeft veel ___ aan Trump voor soldaten.",
+        "answer": "geld"
       },
       {
-        "sentence": "De laatste letter van 'val' is de ___.",
-        "answer": "r"
+        "sentence": "Deze gebeurtenis vindt plaats in ___.",
+        "answer": "Amerika"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar kwam de toerist vandaan?",
+      "question": "Waarom geeft de miljardair geld aan Trump?",
       "options": [
-        "Nederland",
-        "Duitsland",
-        "Japan",
-        "Italië"
+        "Om soldaten te betalen",
+        "Om rijk te worden",
+        "Om president te worden",
+        "Om naar Europa te reizen"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de hoofdstad van Italië?",
+      "question": "Waar vindt deze gebeurtenis plaats?",
       "options": [
-        "Parijs",
-        "Rome",
-        "Amsterdam",
-        "Berlijn"
+        "In Amerika",
+        "In Nederland",
+        "In China",
+        "In Rusland"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat gebeurde er met de man?",
+      "question": "Wie is de man die het geld geeft?",
       "options": [
-        "Hij is gezond",
-        "Hij is vertrokken",
-        "Hij is overleden",
-        "Hij is aan het werk"
+        "De miljardair",
+        "De president van Amerika",
+        "De soldaat",
+        "De leraar"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De toerist kwam uit Nederland.",
-      "isTrue": false
-    },
-    {
-      "statement": "De man is overleden na de val.",
+      "statement": "De miljardair geeft geld aan Trump voor soldaten.",
       "isTrue": true
     },
     {
-      "statement": "Rome is de hoofdstad van Duitsland.",
+      "statement": "Deze gebeurtenis vindt plaats in Nederland.",
+      "isTrue": false
+    },
+    {
+      "statement": "Trump ontvangt het geld voor zichzelf.",
       "isTrue": false
     }
   ]

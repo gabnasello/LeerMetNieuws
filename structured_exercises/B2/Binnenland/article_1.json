@@ -1,9 +1,9 @@
 {
-  "id": 18,
+  "id": 13,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
+  "title": "Noodnummer 1722",
   "topicNumber": 1,
   "article": {
     "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
@@ -12,94 +12,94 @@
   "vocabulary": {
     "words": [
       {
+        "word": "overheid",
+        "definition": "De organisatie die een land, stad of gemeente bestuurt.",
+        "sentence": "De ___ waarschuwt voor gevaarlijk weer.",
+        "answer": "overheid"
+      },
+      {
         "word": "storm",
-        "definition": "Hevig weer met veel wind en regen",
-        "sentence": "De ___ veroorzaakte schade aan daken.",
+        "definition": "Een periode met zeer slecht weer, vaak met veel wind en regen.",
+        "sentence": "Er raasde een zware ___ over het land.",
         "answer": "storm"
       },
       {
-        "word": "KMI",
-        "definition": "Koninklijk Meteorologisch Instituut; een organisatie die het weer voorspelt",
-        "sentence": "Het ___ geeft weerwaarschuwingen.",
-        "answer": "KMI"
-      },
-      {
-        "word": "schade",
-        "definition": "Beschadiging; iets dat kapot is gemaakt",
-        "sentence": "De storm veroorzaakte veel ___ aan huizen.",
-        "answer": "schade"
-      },
-      {
         "word": "geactiveerd",
-        "definition": "In werking gesteld; actief gemaakt",
-        "sentence": "Het noodnummer is ___ na het stormbericht.",
+        "definition": "In werking gesteld of aangezet.",
+        "sentence": "De hulplijn werd ___ na de storm.",
         "answer": "geactiveerd"
       },
       {
-        "word": "bellen",
-        "definition": "Telefoneren; iemand opbellen",
-        "sentence": "Mensen kunnen ___ naar 1722 voor hulp.",
-        "answer": "bellen"
+        "word": "waarschuwt",
+        "definition": "Iemand waarschuwen betekent zeggen dat er gevaar of iets slechts kan komen.",
+        "sentence": "Het KMI ___ voor zware regen.",
+        "answer": "waarschuwt"
+      },
+      {
+        "word": "KMI",
+        "definition": "Het Koninklijk Meteorologisch Instituut, een Belgische overheidsinstelling die het weer voorspelt.",
+        "sentence": "Het ___ waarschuwde voor zware stormen.",
+        "answer": "KMI"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ geeft weerwaarschuwingen.",
-        "answer": "KMI"
+        "sentence": "De ___ waarschuwt voor gevaarlijk weer.",
+        "answer": "overheid"
       },
       {
-        "sentence": "De ___ veroorzaakte schade aan daken.",
+        "sentence": "Er raasde een zware ___ over het land.",
         "answer": "storm"
       },
       {
-        "sentence": "Het noodnummer is ___ na het stormbericht.",
+        "sentence": "De hulplijn werd ___ na de storm.",
         "answer": "geactiveerd"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is het KMI?",
+      "question": "Wat is de rol van het KMI in deze situatie?",
       "options": [
-        "Een sportclub",
-        "Een weervoorspeller",
-        "Een soort voedsel",
-        "Een type auto"
+        "Ze organiseren evacuaties",
+        "Ze voorspellen het weer en geven waarschuwingen",
+        "Ze herstellen elektriciteitsnetten",
+        "Ze bieden financiële steun aan slachtoffers"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'geactiveerd' in deze context?",
+      "question": "Waarom heeft de overheid het nummer 1722 geactiveerd?",
       "options": [
-        "Verwijderd",
-        "Vernietigd",
-        "In werking gesteld",
-        "Vergeten"
+        "Om feestelijke evenementen aan te kondigen",
+        "Om mensen te helpen bij stormschade",
+        "Om weersvoorspellingen te geven",
+        "Om nieuwsbulletins uit te zenden"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Waarom is het belangrijk om 1722 te bellen bij waterschade?",
+      "question": "Wat is een gevolg van een zware storm?",
       "options": [
-        "Om een pizza te bestellen",
-        "Om professionele hulp te krijgen",
-        "Om te klagen over buren",
-        "Om de storm te stoppen"
+        "Mensen gaan meer binnen sporten",
+        "Schade aan gebouwen en infrastructuur",
+        "Alle voorspellingen worden onmiddellijk gestopt",
+        "De temperatuur stijgt snel"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het KMI geeft alleen waarschuwingen voor zonneschijn.",
+      "statement": "Het KMI geeft alleen waarschuwingen voor sneeuw.",
       "isTrue": false
     },
     {
-      "statement": "1722 is een telefoonnummer voor noodhulp bij storm of waterschade.",
+      "statement": "Mensen kunnen 1722 bellen voor hulp na stormschade.",
       "isTrue": true
     },
     {
-      "statement": "De overheid heeft het nummer 1722 afgeschaft.",
+      "statement": "De overheid heeft het nummer 1722 gedeactiveerd na de storm.",
       "isTrue": false
     }
   ]

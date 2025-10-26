@@ -1,105 +1,105 @@
 {
-  "id": 23,
+  "id": 18,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Oosterweel-verbinding opent in Antwerpen: veel verkeershinder verwacht",
+  "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
   "topicNumber": 1,
   "article": {
-    "title": "Oosterweel-verbinding opent in Antwerpen: veel verkeershinder verwacht",
-    "summary": "Op de Antwerpse Ring is een nieuw stuk snelweg geopend. Dit is een belangrijke stap in de Oosterweelwerken. Er wordt veel verkeershinder verwacht."
+    "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
+    "summary": "Op de Antwerpse Ring is afgelopen nacht een tijdelijk stuk snelweg geopend, parallel met het viaduct van Merksem ter hoogte van de AFAS-Dome. De belangrijke stap in de Oosterweelwerken belooft veel verkeershinder met zich mee te brengen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Ring",
-        "definition": "een grote weg die rond een stad loopt",
-        "sentence": "De ___ van Antwerpen is erg druk.",
-        "answer": "Ring"
+        "word": "stap",
+        "definition": "een actie of deel van een proces",
+        "sentence": "De eerste ___ in het project is voltooid.",
+        "answer": "stap"
       },
       {
-        "word": "snelweg",
-        "definition": "een brede weg waarop snel gereden mag worden",
-        "sentence": "De nieuwe ___ is nu open voor het verkeer.",
-        "answer": "snelweg"
+        "word": "belooft",
+        "definition": "zegt dat iets zal gebeuren of verwacht wordt",
+        "sentence": "De coach ___ zijn team een overwinning.",
+        "answer": "belooft"
       },
       {
-        "word": "Antwerpen",
-        "definition": "een grote stad in België",
-        "sentence": "___ is een stad met veel geschiedenis.",
-        "answer": "Antwerpen"
+        "word": "viaduct",
+        "definition": "een brug waar een weg of spoor over gaat",
+        "sentence": "Het nieuwe ___ verbindt de twee stadsdelen.",
+        "answer": "viaduct"
       },
       {
-        "word": "verkeershinder",
-        "definition": "problemen die het verkeer veroorzaakt, zoals files of vertragingen",
-        "sentence": "Door de wegwerkzaamheden is er veel ___.",
-        "answer": "verkeershinder"
+        "word": "ring",
+        "definition": "een rondweg of rondweg rond een stad",
+        "sentence": "De Antwerpse ___ maakt deel uit van het stadswegennet.",
+        "answer": "ring"
       },
       {
-        "word": "Oosterweelwerken",
-        "definition": "een groot bouwproject in Antwerpen met wegen en tunnels",
-        "sentence": "De ___ zijn bijna klaar.",
-        "answer": "Oosterweelwerken"
+        "word": "parallel",
+        "definition": "naast elkaar, in dezelfde richting",
+        "sentence": "Deze weg loopt ___ aan de snelweg.",
+        "answer": "parallel"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is een stad met veel geschiedenis.",
-        "answer": "Antwerpen"
+        "sentence": "De coach ___ zijn team een overwinning.",
+        "answer": "belooft"
       },
       {
-        "sentence": "De nieuwe ___ is nu open voor het verkeer.",
-        "answer": "snelweg"
+        "sentence": "De Antwerpse ___ maakt deel uit van het stadswegennet.",
+        "answer": "ring"
       },
       {
-        "sentence": "De ___ van Antwerpen is erg druk.",
-        "answer": "Ring"
+        "sentence": "Het nieuwe ___ verbindt de twee stadsdelen.",
+        "answer": "viaduct"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de Oosterweelverbinding?",
+      "question": "Wat is het hoofdonderwerp van dit nieuwsbericht?",
       "options": [
-        "Een nieuwe fietspad",
-        "Een grote weg",
-        "Een treinstation",
-        "Een voetbalstadion"
+        "De opening van een nieuwe winkel",
+        "De aanleg van een tijdelijke snelweg",
+        "De vernieuwing van het Antwerpse stadscentrum",
+        "De verkeersproblemen in heel België"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar bevindt de nieuwe snelweg zich?",
+      "question": "Waarom is deze gebeurtenis belangrijk voor Antwerpen?",
       "options": [
-        "In Brussel",
-        "In Antwerpen",
-        "In Gent",
-        "In Brussel"
+        "Het maakt de stad mooier",
+        "Het vermindert het verkeer in de stad",
+        "Het is een belangrijke stap in een groot infrastructuurproject",
+        "Het betekent het einde van alle Oosterweelwerken"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is het gevolg van de opening van de nieuwe weg?",
+      "question": "Wat is het effect van deze opening op korte termijn?",
       "options": [
-        "Minder verkeer",
-        "Meer verkeershinder",
-        "Minder files",
-        "Geen effect"
+        "Er zal minder verkeer zijn",
+        "Er wordt een nieuw park gebouwd",
+        "Het zal meer verkeershinder veroorzaken",
+        "De ringweg wordt permanent gesloten"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De nieuwe snelweg is aangelegd in Brussel.",
+      "statement": "Het nieuwe wegdeel is permanent en vervangt de bestaande ringweg.",
       "isTrue": false
     },
     {
-      "statement": "De Oosterweelwerken zijn een groot bouwproject in Antwerpen.",
+      "statement": "De opening van deze weg vindt plaats tijdens de nacht om hinder te beperken.",
       "isTrue": true
     },
     {
-      "statement": "De nieuwe weg veroorzaakt minder verkeer.",
+      "statement": "De Oosterweelwerken zijn volledig afgerond met deze stap.",
       "isTrue": false
     }
   ]

@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Japanse toerist overleden na val van Pantheon in Rome",
+  "title": "Man geeft veel geld aan Trump",
   "topicNumber": 1,
   "article": {
-    "title": "Japanse toerist overleden na val van Pantheon in Rome",
-    "summary": "Een toerist uit Japan viel van het Pantheon in Rome en overleed."
+    "title": "Man geeft veel geld aan Trump",
+    "summary": "Een rijke man geeft veel geld aan Trump. Trump gebruikt het geld voor zijn werk."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "val",
-        "definition": "naar beneden gaan",
-        "sentence": "Hij maakte een ___ van het gebouw.",
-        "answer": "val"
+        "word": "geeft",
+        "definition": "om aan iemand iets te geven",
+        "sentence": "Hij ___ een cadeau aan zijn vriend.",
+        "answer": "geeft"
       },
       {
-        "word": "overleden",
-        "definition": "niet meer leven",
-        "sentence": "Hij is ___ na het ongeluk.",
-        "answer": "overleden"
+        "word": "aan",
+        "definition": "naar iemand of iets toe",
+        "sentence": "Hij loopt ___ het huis.",
+        "answer": "aan"
       },
       {
-        "word": "Pantheon",
-        "definition": "een oud gebouw",
-        "sentence": "Hij viel van het ___.",
-        "answer": "Pantheon"
+        "word": "geld",
+        "definition": "wat je gebruikt om dingen te kopen",
+        "sentence": "Hij heeft veel ___ in zijn portemonnee.",
+        "answer": "geld"
       },
       {
-        "word": "Rome",
-        "definition": "een stad in Italië",
-        "sentence": "Het Pantheon staat in ___.",
-        "answer": "Rome"
+        "word": "man",
+        "definition": "een persoon die mannelijk is",
+        "sentence": "De ___ werkt hard.",
+        "answer": "man"
       },
       {
-        "word": "toerist",
-        "definition": "iemand die op reis is",
-        "sentence": "De ___ komt uit Japan.",
-        "answer": "toerist"
+        "word": "werk",
+        "definition": "wat je doet om geld te verdienen",
+        "sentence": "Mijn ___ is heel interessant.",
+        "answer": "werk"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ komt uit Japan.",
-        "answer": "toerist"
+        "sentence": "Hij loopt ___ het huis.",
+        "answer": "aan"
       },
       {
-        "sentence": "Hij maakte een ___ van het gebouw.",
-        "answer": "val"
+        "sentence": "Hij ___ een cadeau aan zijn vriend.",
+        "answer": "geeft"
       },
       {
-        "sentence": "Hij viel van het ___.",
-        "answer": "Pantheon"
+        "sentence": "Mijn ___ is heel interessant.",
+        "answer": "werk"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar komt de toerist vandaan?",
+      "question": "Waar gebruikt Trump het geld voor?",
       "options": [
-        "Italië",
-        "Japan",
-        "Frankrijk",
-        "Duitsland"
+        "Om eten te kopen",
+        "Om soldaten te betalen",
+        "Om een huis te bouwen",
+        "Om naar de maan te gaan"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het Pantheon?",
+      "question": "Wie geeft het geld aan Trump?",
       "options": [
-        "een park",
-        "een gebouw",
-        "een rivier",
-        "een dier"
+        "Een bekende acteur",
+        "Een rijke man",
+        "Een jonge student",
+        "Een oude vrouw"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat overkwam de toerist?",
+      "question": "Wat is het resultaat van de donatie?",
       "options": [
-        "Hij at iets.",
-        "Hij viel.",
-        "Hij ging winkelen.",
-        "Hij sliep."
+        "Trump koopt een auto",
+        "Trump gebruikt het voor zijn werk",
+        "Trump geeft het aan iemand anders",
+        "Trump verliest het geld"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De toerist komt uit Italië.",
+      "statement": "De man die geld geeft is een vrouw.",
       "isTrue": false
     },
     {
-      "statement": "De man viel van het Pantheon.",
+      "statement": "Trump gebruikt het geld om soldaten te betalen.",
       "isTrue": true
     },
     {
-      "statement": "Hij overleed in het ziekenhuis.",
+      "statement": "De man geeft het geld aan een kind.",
       "isTrue": false
     }
   ]

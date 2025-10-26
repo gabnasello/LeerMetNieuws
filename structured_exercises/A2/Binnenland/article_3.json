@@ -1,5 +1,5 @@
 {
-  "id": 21,
+  "id": 16,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
@@ -7,100 +7,100 @@
   "topicNumber": 1,
   "article": {
     "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
-    "summary": "Op de Antwerpse Ring is afgelopen nacht een tijdelijk stuk snelweg geopend, parallel met het viaduct van Merksem ter hoogte van de AFAS-Dome. De belangrijke stap in de Oosterweelwerken belooft veel verkeershinder met zich mee te brengen."
+    "summary": "Op de Antwerpse Ring is afgelopen nacht een tijdelijk stuk snelweg geopend, parallel met het viaduct van Merksem ter hoogte van het AFAS-Dome. De belangrijke stap in de Oosterweelwerken belooft veel verkeershinder met zich mee te brengen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Bypass",
-        "definition": "Een weg die het verkeer om iets heen leidt.",
-        "sentence": "De ___ helpt om het verkeer sneller te laten gaan.",
-        "answer": "Bypass"
+        "word": "verkeershinder",
+        "definition": "problemen voor het verkeer, zoals files of vertragingen",
+        "sentence": "Er is veel ___ op de ring.",
+        "answer": "verkeershinder"
       },
       {
-        "word": "Viaduct",
-        "definition": "Een brug voor verkeer, vaak boven een weg.",
-        "sentence": "Het ___ is hoog en lang.",
-        "answer": "Viaduct"
+        "word": "belooft",
+        "definition": "zegt dat iets gaat gebeuren",
+        "sentence": "De weg ___ veel verkeer.",
+        "answer": "belooft"
       },
       {
-        "word": "Belooft",
-        "definition": "Iets wat wordt aangezegd of toegezegd.",
-        "sentence": "Hij ___ dat hij komt, maar hij is er nog niet.",
-        "answer": "Belooft"
+        "word": "snelweg",
+        "definition": "een grote weg waar auto's snel kunnen rijden",
+        "sentence": "De nieuwe ___ is sinds gisteren open.",
+        "answer": "snelweg"
       },
       {
-        "word": "Stap",
-        "definition": "Een actie of deel van een plan.",
-        "sentence": "De eerste ___ is het moeilijkst.",
-        "answer": "Stap"
+        "word": "AFAS-Dome",
+        "definition": "de naam van een groot gebouw in Antwerpen",
+        "sentence": "Het ___ is een bekend gebouw.",
+        "answer": "AFAS-Dome"
       },
       {
-        "word": "Mee",
-        "definition": "Samen of erbij.",
-        "sentence": "Kom je ___ naar het feest?",
-        "answer": "Mee"
+        "word": "viaduct",
+        "definition": "een brug waar auto's overheen rijden",
+        "sentence": "Het ___ is hoog boven de grond.",
+        "answer": "viaduct"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ is hoog en lang.",
-        "answer": "Viaduct"
+        "sentence": "De nieuwe ___ is sinds gisteren open.",
+        "answer": "snelweg"
       },
       {
-        "sentence": "De ___ helpt om het verkeer sneller te laten gaan.",
-        "answer": "Bypass"
+        "sentence": "Het ___ is hoog boven de grond.",
+        "answer": "viaduct"
       },
       {
-        "sentence": "De eerste ___ is het moeilijkst.",
-        "answer": "Stap"
+        "sentence": "De weg ___ veel verkeer.",
+        "answer": "belooft"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar is de nieuwe weg geopend?",
+      "question": "Wat is de 'Oosterweel-bypass'?",
       "options": [
-        "In Brussel",
-        "In Antwerpen",
-        "Op de Antwerpse Ring",
-        "Bij de AFAS-Dome"
+        "Een soort auto",
+        "Een soort fiets",
+        "Een soort weg",
+        "Een soort gebouw"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is een viaduct?",
+      "question": "Waar is de nieuwe snelweg geopend?",
       "options": [
-        "Een soort brug",
-        "Een soort auto",
-        "Een soort fiets",
-        "Een soort gebouw"
+        "In Brussel",
+        "In Antwerpen",
+        "In Gent",
+        "In Brugge"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'belooft' in deze tekst?",
+      "question": "Wat is het gevolg van de nieuwe weg?",
       "options": [
-        "Het is een belofte",
-        "Het is een feest",
-        "Het is een soort",
-        "Het is een type"
+        "Minder verkeer",
+        "Meer verkeer",
+        "Minder lawaai",
+        "Meer lawaai"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De nieuwe weg is in Antwerpen.",
-      "isTrue": true
-    },
-    {
-      "statement": "Het viaduct is een gebouw.",
+      "statement": "De Oosterweel-bypass is een nieuwe tunnel.",
       "isTrue": false
     },
     {
-      "statement": "De nieuwe weg brengt verkeershinder mee.",
+      "statement": "De nieuwe weg veroorzaakt veel verkeershinder.",
       "isTrue": true
+    },
+    {
+      "statement": "Het project is al helemaal klaar.",
+      "isTrue": false
     }
   ]
 }

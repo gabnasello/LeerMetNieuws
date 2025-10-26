@@ -1,5 +1,5 @@
 {
-  "id": 28,
+  "id": 23,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
@@ -7,15 +7,27 @@
   "topicNumber": 1,
   "article": {
     "title": "Franstalige vrouw belt hulpdiensten omdat ze gewonde man wil helpen in Zoniënwoud, maar mag enkel Nederlands spreken",
-    "summary": "Een Franstalige vrouw wilde afgelopen week een gewonde man in het Zoniënwoud helpen, maar toen ze de 112 belde, kreeg ze te horen dat ze enkel in het Nederlands gehoord kon worden. “Een schandalige situatie”, zegt de burgemeester van Watermaal-Bosvoorde."
+    "summary": "Een Franstalige vrouw wilde afgelopen week een gewonde man in het Zoniënwoud helpen, maar toen ze de 112 belde, kreeg ze te horen dat ze enkel in het Nederlands geholpen kon worden. “Een schandalige situatie”, zegt de burgemeester van Watermaal-Bosvoorde."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "schandalige",
-        "definition": "ergerlijk en onacceptabel",
-        "sentence": "De burgemeester noemde het een ___ situatie.",
-        "answer": "schandalige"
+        "word": "belde",
+        "definition": "telefonisch contact opnemen",
+        "sentence": "Ze ___ naar de hulpdiensten voor assistentie.",
+        "answer": "belde"
+      },
+      {
+        "word": "enkel",
+        "definition": "alleen of uitsluitend",
+        "sentence": "Ze mocht ___ Nederlands spreken met de hulpdienst.",
+        "answer": "enkel"
+      },
+      {
+        "word": "Franstalige",
+        "definition": "iemand die Frans spreekt als moedertaal",
+        "sentence": "De ___ vrouw kon geen Nederlands spreken.",
+        "answer": "Franstalige"
       },
       {
         "word": "Zoniënwoud",
@@ -24,83 +36,71 @@
         "answer": "Zoniënwoud"
       },
       {
-        "word": "belde",
-        "definition": "telefonisch contact opnemen",
-        "sentence": "Ze ___ naar 112 voor assistentie.",
-        "answer": "belde"
-      },
-      {
-        "word": "hulpdiensten",
-        "definition": "organisaties die hulp bieden, zoals politie of ambulance",
-        "sentence": "Ze belde de ___ om assistentie te vragen.",
-        "answer": "hulpdiensten"
-      },
-      {
-        "word": "enkel",
-        "definition": "alleen, uitsluitend",
-        "sentence": "Ze mocht ___ Nederlands spreken, niet Frans.",
-        "answer": "enkel"
+        "word": "Nederlands",
+        "definition": "de officiële taal in Vlaanderen en Nederland",
+        "sentence": "Ze kreeg te horen dat ze enkel in het ___ mocht communiceren.",
+        "answer": "Nederlands"
       }
     ],
     "fillInBlanks": [
       {
+        "sentence": "Ze mocht ___ Nederlands spreken met de hulpdienst.",
+        "answer": "enkel"
+      },
+      {
+        "sentence": "Ze ___ naar de hulpdiensten voor assistentie.",
+        "answer": "belde"
+      },
+      {
         "sentence": "Het incident gebeurde in het ___.",
         "answer": "Zoniënwoud"
-      },
-      {
-        "sentence": "Ze belde de ___ om assistentie te vragen.",
-        "answer": "hulpdiensten"
-      },
-      {
-        "sentence": "Ze ___ naar 112 voor assistentie.",
-        "answer": "belde"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom belde de vrouw naar de hulpdiensten?",
+      "question": "Waarom belde de vrouw de hulpdiensten?",
       "options": [
         "Om een pizza te bestellen",
-        "Om een gewonde man te helpen",
-        "Om te klagen over het weer",
-        "Om een taxi te bellen"
+        "Omdat ze een gewonde man wilde helpen",
+        "Om de burgemeester te spreken",
+        "Omdat ze verdwaald was"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat was de reactie van de burgemeester?",
+      "question": "Wat was de reactie van de burgemeester op de situatie?",
       "options": [
-        "Hij prees de vrouw",
-        "Hij noemde de situatie schandalig",
-        "Hij bood aan om te vertalen",
-        "Hij belde de politie onmiddellijk"
+        "Hij vond het prima",
+        "Hij noemde het een schandalige situatie",
+        "Hij belde de vrouw zelf",
+        "Hij vond het een goede zaak"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar bevond het incident zich?",
+      "question": "In welke taal mocht de vrouw communiceren met de hulpdiensten?",
       "options": [
-        "In een supermarkt",
-        "In het Zoniënwoud",
-        "Aan het strand",
-        "In een bibliotheek"
+        "Alleen in het Frans",
+        "Alleen in het Engels",
+        "Alleen in het Nederlands",
+        "In elke taal"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De vrouw sprak vloeiend Nederlands.",
+      "statement": "De vrouw kon vrijuit in het Frans communiceren met de hulpdiensten.",
       "isTrue": false
     },
     {
-      "statement": "De hulpdiensten boden alleen ondersteuning in het Nederlands aan.",
+      "statement": "De burgemeester van Watermaal-Bosvoorde reageerde positief op de situatie.",
+      "isTrue": false
+    },
+    {
+      "statement": "Het incident vond plaats in het Zoniënwoud.",
       "isTrue": true
-    },
-    {
-      "statement": "De burgemeester vond de situatie acceptabel.",
-      "isTrue": false
     }
   ]
 }

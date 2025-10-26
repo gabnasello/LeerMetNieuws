@@ -1,106 +1,106 @@
 {
-  "id": 12,
+  "id": 7,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
+  "title": "Wij zijn nog altijd boos: tienduizenden mensen komen een jaar na dodelijke overstromingen in Valencia op straat",
   "topicNumber": 1,
   "article": {
-    "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
-    "summary": "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen."
+    "title": "Wij zijn nog altijd boos: tienduizend mensen komen een jaar na dodelijke overstromingen in Valencia op straat",
+    "summary": "Tienduizenden mensen hebben in Valencia deelgenomen aan een protestmars, een jaar na de dodelijke overstromingen in de regio."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "staakt-het-vuren",
-        "definition": "een afspraak om te stoppen met vechten voor een bepaalde tijd",
-        "sentence": "Het ___ is van kracht sinds gisteren.",
-        "answer": "staakt-het-vuren"
+        "word": "zijn",
+        "definition": "het werkwoord dat een staat of eigenschap aangeeft",
+        "sentence": "Ik ___ erg moe vandaag.",
+        "answer": "ben"
       },
       {
-        "word": "doorbraak",
-        "definition": "een belangrijke oplossing of succes na moeilijkheden",
-        "sentence": "De onderhandelingen leiden tot een ___ in het conflict.",
-        "answer": "doorbraak"
+        "word": "wij",
+        "definition": "verwijst naar de mensen die aan het woord zijn, vaak in een groep",
+        "sentence": "___ gaan samen naar het park.",
+        "answer": "Wij"
       },
       {
-        "word": "controleren",
-        "definition": "in de gaten houden of bepalen wat er gebeurt",
-        "sentence": "Drones ___ het gebied om te zorgen voor veiligheid.",
-        "answer": "controleren"
+        "word": "Valencia",
+        "definition": "een stad in Spanje, bekend om zijn geschiedenis",
+        "sentence": "___ is een mooie stad in Spanje.",
+        "answer": "Valencia"
       },
       {
-        "word": "ontwikkelingen",
-        "definition": "nieuwe dingen die gebeuren of veranderen",
-        "sentence": "Volg de laatste ___ in dit nieuwsbericht.",
-        "answer": "ontwikkelingen"
+        "word": "nog",
+        "definition": "tot nu toe of tot dit moment",
+        "sentence": "Heb je ___ niet gegeten?",
+        "answer": "al"
       },
       {
-        "word": "oorlog",
-        "definition": "een periode van gewapend conflict tussen landen of groepen",
-        "sentence": "De ___ in Gaza duurt al twee jaar.",
-        "answer": "oorlog"
+        "word": "altijd",
+        "definition": "op elk moment, zonder uitzondering",
+        "sentence": "Hij is ___ op tijd voor meetings.",
+        "answer": "altijd"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De onderhandelingen leiden tot een ___ in het conflict.",
-        "answer": "doorbraak"
+        "sentence": "Ik ___ erg moe vandaag.",
+        "answer": "ben"
       },
       {
-        "sentence": "Het ___ is van kracht sinds gisteren.",
-        "answer": "staakt-het-vuren"
+        "sentence": "Hij is ___ op tijd voor meetings.",
+        "answer": "altijd"
       },
       {
-        "sentence": "Volg de laatste ___ in dit nieuwsbericht.",
-        "answer": "ontwikkelingen"
+        "sentence": "___ is een mooie stad in Spanje.",
+        "answer": "Valencia"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom worden drones ingezet in Gaza?",
+      "question": "Waar vond de protestmars plaats?",
       "options": [
-        "Om feestjes te filmen",
-        "Om het staakt-het-vuren te controleren",
-        "Om nieuwe speelgoed te testen",
-        "Om de oorlog te beginnen"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is het resultaat van de onderhandelingen?",
-      "options": [
-        "Er is geen resultaat",
-        "Er is een nieuwe oorlog begonnen",
-        "Er is een doorbraak bereikt",
-        "Er is niets gebeurd"
+        "Amsterdam",
+        "Parijs",
+        "Valencia",
+        "Brussel"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Hoe lang duurt de oorlog in Gaza al?",
+      "question": "Wat was de reden voor de protestmars?",
       "options": [
-        "1 maand",
-        "2 jaar",
-        "5 jaar",
-        "10 jaar"
+        "Tegen de regering",
+        "Tegen klimaatverandering",
+        "Herdenking van overstromingen",
+        "Voor meer geld"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
+    },
+    {
+      "question": "Hoeveel mensen deden mee aan de protestmars?",
+      "options": [
+        "Honderden",
+        "Duizenden",
+        "Tienduizenden",
+        "Miljoenen"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Drones worden gebruikt om het staakt-het-vuren te controleren.",
-      "isTrue": true
-    },
-    {
-      "statement": "De oorlog in Gaza is net begonnen.",
+      "statement": "De protestmars vond plaats in Amsterdam.",
       "isTrue": false
     },
     {
-      "statement": "Er is een doorbraak in de vredesonderhandelingen.",
+      "statement": "De overstromingen in Valencia vonden een jaar geleden plaats.",
       "isTrue": true
+    },
+    {
+      "statement": "Tienduizenden mensen protesteerden tegen de overstromingen.",
+      "isTrue": false
     }
   ]
 }

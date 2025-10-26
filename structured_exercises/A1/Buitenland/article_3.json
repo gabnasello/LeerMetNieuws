@@ -1,92 +1,92 @@
 {
-  "id": 6,
+  "id": 4,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
+  "title": "Catherine Connolly wint verkiezing in Ierland",
   "topicNumber": 1,
   "article": {
-    "title": "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
-    "summary": "Catherine Connolly wordt de nieuwe president van Ierland. Haar tegenstander heeft de verkiezing verloren. Catherine Connolly is de nieuwe president."
+    "title": "Catherine Connolly wint verkiezing in Ierland",
+    "summary": "Catherine Connolly is de nieuwe president van Ierland. Ze won de verkiezingen met 63 procent van de stemmen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "wordt",
-        "definition": "veranderen naar een nieuwe staat",
-        "sentence": "Zij ___ de nieuwe leider.",
-        "answer": "wordt"
+        "word": "president",
+        "definition": "Een leider van een land",
+        "sentence": "De ___ van het land is belangrijk.",
+        "answer": "president"
       },
       {
-        "word": "rivaal",
-        "definition": "iemand met wie je strijdt",
-        "sentence": "Hij was mijn ___ in de wedstrijd.",
-        "answer": "rivaal"
+        "word": "stemmen",
+        "definition": "Je stem geven aan iemand",
+        "sentence": "We gaan morgen ___ voor de nieuwe president.",
+        "answer": "stemmen"
       },
       {
-        "word": "heeft",
-        "definition": "hebben, in bezit hebben",
-        "sentence": "Zij ___ een mooi huis.",
-        "answer": "heeft"
+        "word": "verkiezing",
+        "definition": "Een moment waarop mensen kiezen wie de leider wordt",
+        "sentence": "De ___ was vorige week.",
+        "answer": "verkiezing"
       },
       {
-        "word": "nederlaag",
-        "definition": "verliezen van een strijd",
-        "sentence": "Na de ___ gaf hij op.",
-        "answer": "nederlaag"
+        "word": "Ierland",
+        "definition": "Een land in Europa",
+        "sentence": "___ is een land met veel groene natuur.",
+        "answer": "Ierland"
       },
       {
-        "word": "van",
-        "definition": "een voorzetsel dat bezit of herkomst aangeeft",
-        "sentence": "De hoofdstad ___ Nederland is Amsterdam.",
-        "answer": "van"
+        "word": "nieuwe",
+        "definition": "Niet oud, pas gemaakt of gekomen",
+        "sentence": "Ze is de ___ president van Ierland.",
+        "answer": "nieuwe"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De hoofdstad ___ Nederland is Amsterdam.",
-        "answer": "van"
+        "sentence": "We gaan morgen ___ voor de nieuwe president.",
+        "answer": "stemmen"
       },
       {
-        "sentence": "Zij ___ de nieuwe leider.",
-        "answer": "wordt"
+        "sentence": "De ___ van het land is belangrijk.",
+        "answer": "president"
       },
       {
-        "sentence": "Na de ___ gaf hij op.",
-        "answer": "nederlaag"
+        "sentence": "De ___ was vorige week.",
+        "answer": "verkiezing"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wie is Catherine Connolly?",
+      "question": "Wat is een president?",
       "options": [
-        "Een actrice",
-        "De nieuwe president van Ierland",
-        "Een Nederlandse politicus",
-        "Een leraar"
+        "Een soort dier",
+        "Een leider van een land",
+        "Een soort eten",
+        "Een sport"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'erkent'?",
+      "question": "Waar is Ierland?",
       "options": [
-        "Verliest",
-        "Geeft toe",
-        "Wint",
-        "Is blij"
+        "In Afrika",
+        "In Azië",
+        "In Europa",
+        "In Zuid-Amerika"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is een 'rivaal'?",
+      "question": "Wat betekent 'winnen' in deze context?",
       "options": [
-        "Een vriend",
-        "Iemand met wie je strijdt",
-        "Een buurman",
-        "Een soort voedsel"
+        "Verliezen",
+        "Kopen",
+        "Winnen",
+        "Maken"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
@@ -95,11 +95,11 @@
       "isTrue": true
     },
     {
-      "statement": "Heather Humphreys heeft de verkiezing gewonnen.",
+      "statement": "Catherine Connolly is de nieuwe president van Frankrijk.",
       "isTrue": false
     },
     {
-      "statement": "Catherine Connolly wordt de nieuwe president.",
+      "statement": "Catherine Connolly won de verkiezingen met 63 procent van de stemmen.",
       "isTrue": true
     }
   ]

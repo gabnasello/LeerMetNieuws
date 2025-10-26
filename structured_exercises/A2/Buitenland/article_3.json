@@ -1,80 +1,92 @@
 {
-  "id": 7,
+  "id": 5,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
+  "title": "Catherine Connolly wint Ierse presidentsverkiezingen",
   "topicNumber": 1,
   "article": {
-    "title": "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
-    "summary": "De 68-jarige Catherine Connolly is de nieuwe president van Ierland. Ze kreeg veel stemmen en haar tegenstander Heather Humphreys heeft de verkiezing verloren."
+    "title": "Catherine Connolly wint Ierse presidentsverkiezingen",
+    "summary": "De 68-jarige Catherine Connolly wordt de nieuwe president van Ierland. Ze heeft de presidentsverkiezingen gewonnen met meer dan 63 procent van de stemmen, zo blijkt uit de officiële resultaten."
   },
   "vocabulary": {
     "words": [
       {
         "word": "president",
-        "definition": "De leider van een land",
-        "sentence": "De ___ van het land is belangrijk.",
+        "definition": "iemand die aan het hoofd staat van een land of organisatie",
+        "sentence": "De ___ van de Verenigde Staten is Joe Biden.",
         "answer": "president"
       },
       {
-        "word": "tegenstander",
-        "definition": "Iemand die tegen je is in een wedstrijd of verkiezing",
-        "sentence": "Zijn ___ was erg sterk, maar hij won toch.",
-        "answer": "tegenstander"
+        "word": "stemmen",
+        "definition": "je stem geven aan een kandidaat",
+        "sentence": "Veel mensen gaan ___ tijdens verkiezingen.",
+        "answer": "stemmen"
       },
       {
-        "word": "erkent",
-        "definition": "Toegeven of toegeven dat iets waar is",
-        "sentence": "Hij ___ dat hij fout zat.",
-        "answer": "erkent"
+        "word": "resultaten",
+        "definition": "de uitkomsten of gegevens van iets",
+        "sentence": "De ___ van het onderzoek zijn bekend.",
+        "answer": "resultaten"
+      },
+      {
+        "word": "verkiezingen",
+        "definition": "een verkiezing waarbij mensen stemmen voor een kandidaat",
+        "sentence": "De ___ zijn volgende week.",
+        "answer": "verkiezingen"
+      },
+      {
+        "word": "nieuwe",
+        "definition": "het tegenovergestelde van oud",
+        "sentence": "Dit is een ___ boek.",
+        "answer": "nieuwe"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Zijn ___ was erg sterk, maar hij won toch.",
-        "answer": "tegenstander"
+        "sentence": "Dit is een ___ boek.",
+        "answer": "nieuwe"
       },
       {
-        "sentence": "Hij ___ dat hij fout zat.",
-        "answer": "erkent"
+        "sentence": "De ___ van het onderzoek zijn bekend.",
+        "answer": "resultaten"
       },
       {
-        "sentence": "De ___ van het land is belangrijk.",
-        "answer": "president"
+        "sentence": "Veel mensen gaan ___ tijdens verkiezingen.",
+        "answer": "stemmen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wie is de nieuwe president van Ierland?",
+      "question": "Wie is Catherine Connolly?",
       "options": [
-        "Catherine Connolly",
-        "Heather Humphreys",
-        "Een andere persoon",
-        "Nog iemand anders"
+        "Een student",
+        "Een leraar",
+        "De nieuwe president van Ierland",
+        "Een beroemde schrijver"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat deed Heather Humphreys na de verkiezingen?",
+      "question": "Hoeveel procent van de stemmen won ze?",
       "options": [
-        "Ze gaf haar nederlaag toe",
-        "Ze werd de nieuwe president",
-        "Ze verhuisde naar een ander land",
-        "Ze stopte met politiek"
+        "Minder dan 50%",
+        "Ongeveer 60%",
+        "Meer dan 63%",
+        "Precies 63%"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Hoe voelde Catherine Connelly na de overwinning?",
+      "question": "Wat is haar leeftijd?",
       "options": [
-        "Ze was heel blij",
-        "Ze was verdrietig",
-        "Ze was boos",
-        "Ze was verward"
+        "45 jaar",
+        "68 jaar",
+        "70 jaar",
+        "75 jaar"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
@@ -83,11 +95,11 @@
       "isTrue": true
     },
     {
-      "statement": "Heather Humphreys won de verkiezingen.",
+      "statement": "Ze won met 50 procent van de stemmen.",
       "isTrue": false
     },
     {
-      "statement": "Catherine Connolly is ouder dan Heather Humphreys.",
+      "statement": "De resultaten zijn officieel bekend.",
       "isTrue": true
     }
   ]

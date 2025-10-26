@@ -1,5 +1,5 @@
 {
-  "id": 17,
+  "id": 12,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
@@ -12,94 +12,94 @@
   "vocabulary": {
     "words": [
       {
-        "word": "storm",
-        "definition": "een zware wind met regen of sneeuw",
-        "sentence": "Er komt een ___ met veel wind.",
-        "answer": "storm"
-      },
-      {
-        "word": "waarschuwt",
-        "definition": "waarschuwen, een waarschuwing geven",
-        "sentence": "Het KMI ___ voor gevaarlijk weer.",
-        "answer": "waarschuwt"
+        "word": "KMI",
+        "definition": "Koninklijk Meteorologisch Instituut, zij geven weersverwachtingen.",
+        "sentence": "Het ___ waarschuwt voor zwaar weer.",
+        "answer": "KMI"
       },
       {
         "word": "schade",
-        "definition": "schade, wat kapot of beschadigd is",
-        "sentence": "Door de storm was er veel ___ aan huizen.",
+        "definition": "Schade is wat kapot of beschadigd is.",
+        "sentence": "Na de ___ moesten we herstellen.",
         "answer": "schade"
       },
       {
-        "word": "overheid",
-        "definition": "de organisatie die een land of stad bestuurt",
-        "sentence": "De ___ heeft een noodnummer gemaakt.",
-        "answer": "overheid"
+        "word": "bellen",
+        "definition": "Telefoneren, iemand opbellen.",
+        "sentence": "Je kunt ___ naar 1722 voor hulp.",
+        "answer": "bellen"
       },
       {
-        "word": "KMI",
-        "definition": "Koninklijk Meteorologisch Instituut, het weerinstituut",
-        "sentence": "Het ___ waarschuwt voor slecht weer.",
-        "answer": "KMI"
+        "word": "storm",
+        "definition": "Hevig weer met veel wind en regen.",
+        "sentence": "De ___ veroorzaakte veel schade.",
+        "answer": "storm"
+      },
+      {
+        "word": "nummer",
+        "definition": "Een reeks cijfers die iets identificeert, zoals een telefoonnummer.",
+        "sentence": "Welk ___ moet ik bellen bij nood?",
+        "answer": "nummer"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ waarschuwt voor slecht weer.",
-        "answer": "KMI"
-      },
-      {
-        "sentence": "Er komt een ___ met veel wind.",
+        "sentence": "De ___ veroorzaakte veel schade.",
         "answer": "storm"
       },
       {
-        "sentence": "De ___ heeft een noodnummer gemaakt.",
-        "answer": "overheid"
+        "sentence": "Na de ___ moesten we herstellen.",
+        "answer": "schade"
+      },
+      {
+        "sentence": "Het ___ waarschuwt voor zwaar weer.",
+        "answer": "KMI"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat doet het KMI bij slecht weer?",
+      "question": "Waarom heeft de overheid nummer 1722 geactiveerd?",
       "options": [
-        "Ze geven een waarschuwing",
-        "Ze sluiten alle scholen",
-        "Ze organiseren een feest",
-        "Ze zeggen niets"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Waarvoor is het nummer 1722 bedoeld?",
-      "options": [
-        "Voor het bestellen van pizza",
-        "Voor het melden van verkeersongelukken",
-        "Voor hulp bij stormschade",
-        "Alleen voor politie en brandweer"
+        "Voor het melden van leuke nieuwtjes",
+        "Voor het aanvragen van een paspoort",
+        "Voor hulp bij storm- en waterschade",
+        "Voor het bestellen van eten"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Waar staat KMI voor?",
+      "question": "Wat doet het KMI tijdens slecht weer?",
       "options": [
-        "Koninklijke Meteo Informatie",
-        "Koninklijk Meteorologisch Instituut",
-        "Koninklijke Meteorologische Instelling",
-        "Koninklijke Weer Informatie"
+        "Ze sluiten hun deuren en blijven thuis",
+        "Ze geven waarschuwingen en advies aan het publiek",
+        "Ze organiseren een buurtfeest in de regen",
+        "Ze stoppen met werken en wachten op de zon"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Wat is een gevolg van een storm?",
+      "options": [
+        "Mensen krijgen een nieuwe auto van de gemeente",
+        "Er vallen geen blaadjes meer van bomen",
+        "Schade aan huizen en wegen door wind en water",
+        "Iedereen krijgt een gratis ticket naar de zon"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het KMI geeft alleen waarschuwingen voor sneeuw.",
+      "statement": "Het KMI waarschuwt alleen voor zonnig weer.",
       "isTrue": false
     },
     {
-      "statement": "Het nummer 1722 is bedoeld voor alle soorten schade.",
-      "isTrue": true
+      "statement": "Nummer 1722 is een telefoonnummer voor vragen over dieren in de tuin.",
+      "isTrue": false
     },
     {
-      "statement": "De overheid heeft het nummer 1722 geactiveerd voor stormschade.",
+      "statement": "Je kunt bellen naar 1722 als je schade hebt door een storm.",
       "isTrue": true
     }
   ]

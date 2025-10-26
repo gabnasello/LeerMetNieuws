@@ -1,5 +1,5 @@
 {
-  "id": 20,
+  "id": 15,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
@@ -12,81 +12,81 @@
   "vocabulary": {
     "words": [
       {
-        "word": "is",
-        "definition": "zijn (tegenwoordige tijd)",
-        "sentence": "Hij ___ mijn vriend.",
-        "answer": "is"
+        "word": "ring",
+        "definition": "een rondweg of cirkel",
+        "sentence": "De auto rijdt op de ___ .",
+        "answer": "ring"
       },
       {
-        "word": "de",
-        "definition": "een bepaald lidwoord",
-        "sentence": "Ik zie ___ man.",
-        "answer": "de"
+        "word": "opent",
+        "definition": "begint of start",
+        "sentence": "Het nieuwe ___ vandaag.",
+        "answer": "opent"
       },
       {
-        "word": "de",
-        "definition": "bepaald lidwoord",
-        "sentence": "Ik zie ___ man.",
-        "answer": "de"
+        "word": "Antwerpse",
+        "definition": "van de stad Antwerpen",
+        "sentence": "De ___ ring is druk.",
+        "answer": "Antwerpse"
       },
       {
-        "word": "op",
-        "definition": "boven iets",
-        "sentence": "De kat slaapt ___ de tafel.",
-        "answer": "op"
+        "word": "belooft",
+        "definition": "belooft of zegt dat iets zal gebeuren",
+        "sentence": "Hij ___ veel verkeer.",
+        "answer": "belooft"
       },
       {
-        "word": "een",
-        "definition": "een (onbepaald)",
-        "sentence": "Ik heb ___ huis.",
-        "answer": "een"
+        "word": "verkeer",
+        "definition": "het verplaatsen van auto's en voertuigen",
+        "sentence": "Het ___ staat stil.",
+        "answer": "verkeer"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij ___ mijn vriend.",
-        "answer": "is"
+        "sentence": "Het ___ staat stil.",
+        "answer": "verkeer"
       },
       {
-        "sentence": "Ik heb ___ huis.",
-        "answer": "een"
+        "sentence": "De ___ ring is druk.",
+        "answer": "Antwerpse"
       },
       {
-        "sentence": "De kat slaapt ___ de tafel.",
-        "answer": "op"
+        "sentence": "Hij ___ veel verkeer.",
+        "answer": "belooft"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat dit artikel over?",
+      "question": "Waar is de nieuwe weg geopend?",
       "options": [
-        "Een nieuwe dierentuin",
-        "Een nieuwe brug",
-        "Een nieuwe weg",
-        "Een nieuwe tunnel"
+        "Op de Antwerpse ring",
+        "In het centrum van Brussel",
+        "Aan de kust",
+        "In een park"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is het effect van de nieuwe opening?",
+      "options": [
+        "Het veroorzaakt veel verkeer",
+        "Het maakt de weg leeg",
+        "Het stopt alle auto's",
+        "Het maakt niets uit"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is de 'stap' in de context?",
+      "options": [
+        "Een dansbeweging",
+        "Een trede op een ladder",
+        "Een belangrijke gebeurtenis in het project",
+        "Een soort dier"
       ],
       "correctAnswer": 3
-    },
-    {
-      "question": "Waar is de nieuwe weg?",
-      "options": [
-        "In Brussel",
-        "In Antwerpen",
-        "In Gent",
-        "In Brugge"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is het effect van de nieuwe weg?",
-      "options": [
-        "Minder verkeer",
-        "Meer verkeer",
-        "Minder files",
-        "Meer files"
-      ],
-      "correctAnswer": 4
     }
   ],
   "trueFalse": [
@@ -95,11 +95,11 @@
       "isTrue": true
     },
     {
-      "statement": "De nieuwe weg is in Brussel.",
+      "statement": "Het nieuwe wegdeel is gesloten.",
       "isTrue": false
     },
     {
-      "statement": "De nieuwe weg veroorzaakt meer verkeer.",
+      "statement": "De opening zorgt voor veel verkeer.",
       "isTrue": true
     }
   ]

@@ -1,105 +1,105 @@
 {
-  "id": 13,
+  "id": 8,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
+  "title": "Wij zijn nog altijd boos: tienduizenden mensen komen een jaar na dodelijke overstromingen in Valencia op straat",
   "topicNumber": 1,
   "article": {
-    "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
-    "summary": "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen."
+    "title": "Wij zijn nog altijd boos: tienduizenden mensen komen een jaar na dodelijke overstromingen in Valencia op straat",
+    "summary": "Tienduizenden mensen hebben in Valencia deelgenomen aan een protestmars, een jaar na de dodelijke overstromingen in de regio."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "drones",
-        "definition": "Onbemande vliegtuigjes die op afstand bestuurd worden",
-        "sentence": "De Verenigde Staten gebruiken ___ om de situatie in Gaza te observeren.",
-        "answer": "drones"
+        "word": "straat",
+        "definition": "een weg in een stad of dorp, meestal met huizen eraan",
+        "sentence": "Ze liepen over de ___ om hun stem te laten horen.",
+        "answer": "straat"
       },
       {
-        "word": "controleren",
-        "definition": "Controleren of toezicht houden op iets",
-        "sentence": "Vredeshandhavers willen ___ of het staakt-het-vuren wordt nageleefd.",
-        "answer": "controleren"
+        "word": "boos",
+        "definition": "een sterk gevoel van ergernis of woede hebben",
+        "sentence": "Ze voelen zich ___ omdat er niet genoeg is gedaan.",
+        "answer": "boos"
       },
       {
-        "word": "staakt-het-vuren",
-        "definition": "Een afspraak om te stoppen met vechten voor een bepaalde tijd",
-        "sentence": "Een ___ is een belangrijke eerste stap naar vrede.",
-        "answer": "staakt-het-vuren"
+        "word": "nog",
+        "definition": "geeft aan dat iets continuert of nog steeds het geval is",
+        "sentence": "We zijn ___ steeds boos over wat er is gebeurd.",
+        "answer": "nog"
       },
       {
-        "word": "doorbraak",
-        "definition": "Een belangrijke, plotselinge vooruitgang",
-        "sentence": "De vredesonderhandelingen hebben geleid tot een belangrijke ___ in het conflict.",
-        "answer": "doorbraak"
+        "word": "Valencia",
+        "definition": "een stad in Spanje, waar de overstromingen plaatsvonden",
+        "sentence": "In ___ vonden de dodelijke overstromingen plaats.",
+        "answer": "Valencia"
       },
       {
-        "word": "onderhandelingen",
-        "definition": "Gesprekken voeren om tot een overeenkomst te komen",
-        "sentence": "De ___ tussen de landen zijn nog steeds aan de gang.",
-        "answer": "onderhandelingen"
+        "word": "wij",
+        "definition": "verwijst naar een groep mensen waar de spreker toe behoort",
+        "sentence": "___ gaan de straat op om te protesteren.",
+        "answer": "wij"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Vredeshandhavers willen ___ of het staakt-het-vuren wordt nageleefd.",
-        "answer": "controleren"
+        "sentence": "Ze voelen zich ___ omdat er niet genoeg is gedaan.",
+        "answer": "boos"
       },
       {
-        "sentence": "Een ___ is een belangrijke eerste stap naar vrede.",
-        "answer": "staakt-het-vuren"
+        "sentence": "We zijn ___ steeds boos over wat er is gebeurd.",
+        "answer": "nog"
       },
       {
-        "sentence": "De ___ tussen de landen zijn nog steeds aan de gang.",
-        "answer": "onderhandelingen"
+        "sentence": "In ___ vonden de dodelijke overstromingen plaats.",
+        "answer": "Valencia"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is het hoofddoel van de inzet van drones in Gaza volgens de tekst?",
+      "question": "Waarom protesteerden de mensen in Valencia?",
       "options": [
-        "Het beëindigen van de oorlog",
-        "Het controleren van het staakt-het-vuren",
-        "Het voeren van aanvallen",
-        "Het verzamelen van informatie voor toekomstige onderhandelingen"
+        "Omdat er te veel regen was",
+        "Omdat ze ontevreden zijn over de hulp na de overstromingen",
+        "Omdat ze een feest wilden vieren",
+        "Omdat de straten nog nat waren"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de huidige status van de vredesonderhandelingen volgens de tekst?",
+      "question": "Wat is de rol van de overheid volgens het artikel?",
       "options": [
-        "Ze zijn volledig vastgelopen",
-        "Ze zijn onlangs succesvol afgerond",
-        "Er is een belangrijke doorbraak",
-        "Er is geen overeenkomst in zicht"
+        "Ze hebben alles perfect opgelost",
+        "Ze hebben niets gedaan sinds de overstromingen",
+        "Ze hebben genoeg gedaan, maar de mensen willen meer",
+        "Ze hebben de overstromingen veroorzaakt"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Welke rol spelen de Verenigde Staten volgens de tekst in dit proces?",
+      "question": "Hoe lang geleden vonden de overstromingen plaats?",
       "options": [
-        "Ze leiden de vijandelijke aanvallen",
-        "Ze observeren en controleren de situatie",
-        "Ze bemiddelen tussen de partijen",
-        "Ze verzorgen humanitaire hulp"
+        "Vijf jaar geleden",
+        "Twee weken geleden",
+        "Vorig jaar",
+        "Tien jaar geleden"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De onderhandelingen zijn volledig afgerond en hebben geleid tot een permanent staakt-het-vuren.",
+      "statement": "De overstromingen in Valencia veroorzaakten alleen materiële schade.",
       "isTrue": false
     },
     {
-      "statement": "De Verenigde Staten maken gebruik van drones om de naleving van het staakt-het-vuren te controleren.",
+      "statement": "De protestmars vond plaats om de overheid tot actie aan te zetten.",
       "isTrue": true
     },
     {
-      "statement": "Het conflict in Gaza is volledig opgelost door de inzet van internationale drones.",
+      "statement": "Valencia is de hoofdstad van Spanje.",
       "isTrue": false
     }
   ]

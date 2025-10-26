@@ -1,59 +1,59 @@
 {
-  "id": 25,
+  "id": 20,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Vrouw belt 112 en wil iemand helpen",
+  "title": "Vrouw belt 112 in het Nederlands",
   "topicNumber": 1,
   "article": {
-    "title": "Vrouw belt 112 en wil iemand helpen",
-    "summary": "Een vrouw belt 112 omdat ze een gewonde man wil helpen in het Zoniënwoud. Maar de hulpdienst spreekt alleen Nederlands. De vrouw is Frans-talig en verstaat het Nederlands niet goed. Dit is een probleem."
+    "title": "Vrouw belt 112 in het Nederlands",
+    "summary": "Een vrouw belt 112 omdat ze een gewonde man wil helpen. Maar ze mag alleen Nederlands spreken."
   },
   "vocabulary": {
     "words": [
       {
+        "word": "wil",
+        "definition": "heeft de wens of intentie om iets te doen",
+        "sentence": "Hij ___ een nieuwe fiets kopen.",
+        "answer": "wil"
+      },
+      {
         "word": "belt",
-        "definition": "telefoneert, maakt een telefoongesprek",
-        "sentence": "Ze ___ naar de hulpdienst.",
+        "definition": "gebruikt de telefoon om iemand te bellen",
+        "sentence": "Hij ___ zijn moeder als hij hulp nodig heeft.",
         "answer": "belt"
       },
       {
-        "word": "probleem",
-        "definition": "een situatie die moeilijkheid of zorg veroorzaakt",
-        "sentence": "Het ___ is dat ze elkaar niet verstaan.",
-        "answer": "probleem"
+        "word": "helpen",
+        "definition": "iemand assisteren of ondersteunen",
+        "sentence": "Ik wil je graag ___ met je huiswerk.",
+        "answer": "helpen"
+      },
+      {
+        "word": "man",
+        "definition": "een volwassen persoon van het mannelijk geslacht",
+        "sentence": "Die ___ werkt in een groot kantoor.",
+        "answer": "man"
       },
       {
         "word": "Nederlands",
         "definition": "de officiële taal van Nederland en Vlaanderen",
-        "sentence": "Spreekt u ook ___?",
+        "sentence": "In België spreken veel mensen ___.",
         "answer": "Nederlands"
-      },
-      {
-        "word": "vrouw",
-        "definition": "een mens van het vrouwelijk geslacht",
-        "sentence": "De ___ belt naar 112.",
-        "answer": "vrouw"
-      },
-      {
-        "word": "spreekt",
-        "definition": "praat, uit woorden",
-        "sentence": "Hij ___ alleen Nederlands.",
-        "answer": "spreekt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ belt naar 112.",
-        "answer": "vrouw"
+        "sentence": "Hij ___ een nieuwe fiets kopen.",
+        "answer": "wil"
       },
       {
-        "sentence": "Het ___ is dat ze elkaar niet verstaan.",
-        "answer": "probleem"
+        "sentence": "Die ___ werkt in een groot kantoor.",
+        "answer": "man"
       },
       {
-        "sentence": "Spreekt u ook ___?",
-        "answer": "Nederlands"
+        "sentence": "Ik wil je graag ___ met je huiswerk.",
+        "answer": "helpen"
       }
     ]
   },
@@ -61,45 +61,45 @@
     {
       "question": "Waarom belt de vrouw naar 112?",
       "options": [
-        "Om een pizza te bestellen",
+        "Omdat ze een feest organiseert",
         "Omdat ze een gewonde man wil helpen",
-        "Om te klagen over het weer",
-        "Om haar moeder te feliciteren"
+        "Omdat ze haar kat kwijt is",
+        "Omdat ze Nederlands wil oefenen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het probleem in de situatie?",
+      "question": "Wat is de hoofdtaal in Vlaanderen?",
       "options": [
-        "De vrouw heeft honger",
-        "De vrouw en de hulpdienst spreken verschillende talen",
-        "De vrouw is verdwaald in de stad",
-        "De man is niet gewond"
+        "Frans",
+        "Duits",
+        "Nederlands",
+        "Engels"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de oplossing volgens de tekst?",
+      "question": "Wat is de situatie volgens de burgemeester?",
       "options": [
-        "De vrouw moet Chinees leren",
-        "De hulpdienst moet Engels spreken",
-        "Iedereen moet Nederlands leren",
-        "Er is geen oplossing genoemd"
+        "Een geweldige dag",
+        "Een schandalige situatie",
+        "Een rustige nacht",
+        "Een grote feest"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De vrouw belt naar 112 omdat ze hulp nodig heeft.",
+      "statement": "De vrouw belt 112 omdat ze een gewonde man wil helpen.",
       "isTrue": true
     },
     {
-      "statement": "De vrouw en de hulpdienst spreken beide vloeiend Nederlands.",
+      "statement": "De vrouw mag alleen Engels spreken met 112.",
       "isTrue": false
     },
     {
-      "statement": "De man is gewond in het Zoniënwoud.",
+      "statement": "De burgemeester vindt de situatie schandalig.",
       "isTrue": true
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "id": 16,
+  "id": 11,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
@@ -12,95 +12,95 @@
   "vocabulary": {
     "words": [
       {
-        "word": "schade",
-        "definition": "Schade is wat kapot gaat, bijvoorbeeld door een ongeluk.",
-        "sentence": "Na de storm was er veel ___ aan huizen.",
-        "answer": "schade"
-      },
-      {
-        "word": "KMI",
-        "definition": "Het KMI is het Koninklijk Meteorologisch Instituut. Het geeft weerberichten.",
-        "sentence": "Het ___ waarschuwt voor slecht weer.",
-        "answer": "KMI"
+        "word": "water",
+        "definition": "Water is een vloeistof die we drinken of die uit de kraan komt.",
+        "sentence": "Na de regen staat er ___ op de straten.",
+        "answer": "water"
       },
       {
         "word": "bellen",
-        "definition": "Bellen is telefoneren, iemand opbellen.",
-        "sentence": "Je kunt ___ naar 1722 als je schade hebt.",
+        "definition": "Bellen betekent telefoneren of iemand opbellen.",
+        "sentence": "Je kunt ___ naar 1722 voor hulp.",
         "answer": "bellen"
       },
       {
+        "word": "KMI",
+        "definition": "Het KMI is een instituut dat het weer voorspelt.",
+        "sentence": "Het ___ waarschuwt voor zwaar weer.",
+        "answer": "KMI"
+      },
+      {
         "word": "overheid",
-        "definition": "De overheid is de regering van een land. Ze maakt regels en beslist over veel dingen.",
-        "sentence": "De ___ heeft een noodnummer gemaakt.",
+        "definition": "De overheid is de regering van een land.",
+        "sentence": "De ___ beslist over nieuwe regels.",
         "answer": "overheid"
       },
       {
-        "word": "mensen",
-        "definition": "Mensen zijn personen, zoals jij en ik.",
-        "sentence": "Alle ___ moeten voorzichtig zijn bij storm.",
-        "answer": "mensen"
+        "word": "nummer",
+        "definition": "Een nummer is een getal of een telefoonnummer.",
+        "sentence": "Bel dit ___ bij een noodgeval.",
+        "answer": "nummer"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Alle ___ moeten voorzichtig zijn bij storm.",
-        "answer": "mensen"
-      },
-      {
-        "sentence": "Het ___ waarschuwt voor slecht weer.",
+        "sentence": "Het ___ waarschuwt voor zwaar weer.",
         "answer": "KMI"
       },
       {
-        "sentence": "Je kunt ___ naar 1722 als je schade hebt.",
-        "answer": "bellen"
+        "sentence": "Na de regen staat er ___ op de straten.",
+        "answer": "water"
+      },
+      {
+        "sentence": "Bel dit ___ bij een noodgeval.",
+        "answer": "nummer"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is het nummer 1722?",
+      "question": "Wat is het telefoonnummer 1722 voor?",
       "options": [
-        "Een gewoon telefoonnummer",
-        "Een noodnummer voor stormschade",
-        "Een nummer voor een pizza",
-        "Een code voor de supermarkt"
+        "Voor het bestellen van pizza",
+        "Voor het melden van stormschade",
+        "Voor het bellen van de politie",
+        "Voor het maken van een afspraak"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar is het nummer 1722 voor?",
+      "question": "Wat doet het KMI?",
       "options": [
-        "Voor feestjes en feestdagen",
-        "Voor als je iemand mist",
-        "Voor als je hulp nodig hebt bij storm of waterschade",
-        "Voor als je een nieuwe auto wilt kopen"
+        "Het voorspelt het weer",
+        "Het repareert schade",
+        "Het maakt nieuwe wetten",
+        "Het stuurt hulpverleners"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wie heeft het nummer 1722 gemaakt?",
+      "question": "Waarom heeft de overheid het nummer 1722 geactiveerd?",
       "options": [
-        "De bakker",
-        "De politie",
-        "De brandweer",
-        "De overheid"
+        "Om mensen te helpen bij verkeersongelukken",
+        "Om mensen te helpen bij stormschade",
+        "Om nieuwe wetten aan te kondigen",
+        "Om feestjes te organiseren"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het KMI geeft weerberichten en waarschuwingen.",
-      "isTrue": true
-    },
-    {
-      "statement": "Je kunt 1722 bellen als je honger hebt.",
+      "statement": "Het KMI waarschuwt alleen voor mooi weer.",
       "isTrue": false
     },
     {
-      "statement": "De overheid heeft het nummer 1722 gemaakt voor stormschade.",
+      "statement": "Je kunt bellen naar 1722 als je schade hebt door een storm.",
       "isTrue": true
+    },
+    {
+      "statement": "De overheid heeft het nummer 1722 gemaakt voor feestjes.",
+      "isTrue": false
     }
   ]
 }

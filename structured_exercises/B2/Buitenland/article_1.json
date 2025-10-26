@@ -1,105 +1,105 @@
 {
-  "id": 4,
+  "id": 3,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Japanse toerist overleden na val van Pantheon in Rome",
+  "title": "Miljardair Timothy Mellon stopte Trump 130 miljoen toe om soldaten te betalen",
   "topicNumber": 1,
   "article": {
-    "title": "Japanse toerist overleden na val van Pantheon in Rome",
-    "summary": "Een 69-jarige toerist uit Japan is vrijdagavond van een muur van het Pantheon in de Italiaanse hoofdstad Rome gevallen. Hij overleed ter plaatse."
+    "title": "Miljardair Timothy Mellon stopte Trump 130 miljoen toe om soldaten te betalen",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "is",
-        "definition": "zijn, de tegenwoordige tijd van zijn",
-        "sentence": "Hij ___ nu in het ziekenhuis.",
-        "answer": "is"
+        "word": "miljardair",
+        "definition": "iemand die meer dan een miljard euro bezit",
+        "sentence": "Een ___ heeft veel geld.",
+        "answer": "miljardair"
       },
       {
-        "word": "Pantheon",
-        "definition": "een oud gebouw in Rome, oorspronkelijk een tempel",
-        "sentence": "Het ___ is een populaire attractie voor bezoekers.",
-        "answer": "Pantheon"
+        "word": "Trump",
+        "definition": "familienaam van de voormalige Amerikaanse president",
+        "sentence": "Donald ___ was president van 2017 tot 2021.",
+        "answer": "Trump"
       },
       {
-        "word": "muur",
-        "definition": "een stevige structuur van steen of hout die ruimtes scheidt",
-        "sentence": "Hij viel van de ___ en raakte gewond.",
-        "answer": "muur"
+        "word": "stopte",
+        "definition": "gaf, schonk (verleden tijd van stoppen of geven)",
+        "sentence": "Hij ___ geld aan een goed doel.",
+        "answer": "stopte"
       },
       {
-        "word": "val",
-        "definition": "naar beneden gaan, vallen",
-        "sentence": "De ___ van de trap was pijnlijk.",
-        "answer": "val"
+        "word": "om",
+        "definition": "omdat, met als doel",
+        "sentence": "Hij spaart geld ___ een nieuwe auto te kopen.",
+        "answer": "om"
       },
       {
-        "word": "ter plaatse",
-        "definition": "op dezelfde plek waar iets gebeurt",
-        "sentence": "De politie arriveerde en handelde ___.",
-        "answer": "ter plaatse"
+        "word": "soldaten",
+        "definition": "mensen die in het leger vechten",
+        "sentence": "De ___ verdedigen het land.",
+        "answer": "soldaten"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ is een populaire attractie voor bezoekers.",
-        "answer": "Pantheon"
+        "sentence": "Donald ___ was president van 2017 tot 2021.",
+        "answer": "Trump"
       },
       {
-        "sentence": "Hij viel van de ___ en raakte gewond.",
-        "answer": "muur"
+        "sentence": "Een ___ heeft veel geld.",
+        "answer": "miljardair"
       },
       {
-        "sentence": "De ___ van de trap was pijnlijk.",
-        "answer": "val"
+        "sentence": "De ___ verdedigen het land.",
+        "answer": "soldaten"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar vond het incident plaats?",
+      "question": "Wat is de hoofdreden dat Timothy Mellon geld doneerde aan Trump?",
       "options": [
-        "Rome",
-        "Parijs",
-        "Madrid",
-        "Londen"
+        "Om soldaten te betalen",
+        "Om een nieuw huis te kopen",
+        "Om een politieke campagne te steunen",
+        "Om een feest te organiseren"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is het Pantheon?",
+      "question": "Welk effect heeft Trumps presidentschap op de wereld?",
       "options": [
-        "Een historisch gebouw",
-        "Een soort voedsel",
-        "Een sportteam",
-        "Een rivier"
+        "Het verandert niets",
+        "Het veroorzaakt veel veranderingen",
+        "Het maakt iedereen gelukkig",
+        "Het zorgt voor economische groei"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe oud was de toerist?",
+      "question": "Wat is de rol van soldaten in deze context?",
       "options": [
-        "69 jaar",
-        "70 jaar",
-        "68 jaar",
-        "71 jaar"
+        "Ze worden betaald door de donatie",
+        "Ze vechten in een oorlog",
+        "Ze zijn politieke leiders",
+        "Ze organiseren feesten"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De toerist overleefde het incident.",
-      "isTrue": false
-    },
-    {
-      "statement": "Het incident vond plaats in Rome, Italië.",
+      "statement": "Timothy Mellon is een miljardair die geld gaf aan Trump.",
       "isTrue": true
     },
     {
-      "statement": "De toerist was afkomstig uit Japan.",
+      "statement": "Trump gebruikte het geld om soldaten te betalen voor een feest.",
+      "isTrue": false
+    },
+    {
+      "statement": "De donatie beïnvloedt de wereldpolitiek.",
       "isTrue": true
     }
   ]

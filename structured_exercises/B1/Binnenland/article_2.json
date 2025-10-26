@@ -1,105 +1,105 @@
 {
-  "id": 22,
+  "id": 21,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
+  "title": "Franstalige vrouw belt hulpdiensten voor gewonde man in Zoniënwoud maar mag enkel Nederlands spreken",
   "topicNumber": 1,
   "article": {
-    "title": "Gent wil de Vlasmarkt asfalteren: “Kasseien zijn een zaak van emotie en nostalgie, maar ook van verkeersveiligheid”",
-    "summary": "Gent wil de Vlasmarkt asfalteren, al is niet iedereen daar gelukkig mee. Tegenstanders willen de kinderkopjes laten erkennen als erfgoed. Want niets is zo Gents als het vermogen om pittoresk struikelgevaar te romantiseren."
+    "title": "Franstalige vrouw belt hulpdiensten voor gewonde man in Zoniënwoud maar mag enkel Nederlands spreken",
+    "summary": "Een Franstalige vrouw wilde afgelopen week een gewonde man in het Zoniënwoud helpen, maar toen ze de 112 belde, kreeg ze te horen dat ze enkel in het Nederlands geholpen kon worden. De burgemeester van Watermaal-Bosvoorde noemt dit een schandalige situatie."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "tegenstanders",
-        "definition": "mensen die het niet eens zijn met een plan of idee en ertegen zijn",
-        "sentence": "De ___ van het plan vrezen voor hogere kosten.",
-        "answer": "tegenstanders"
+        "word": "schandalige",
+        "definition": "iets wat erg oneerlijk of onacceptabel is",
+        "sentence": "De situatie was ___ volgens de burgemeester.",
+        "answer": "schandalige"
       },
       {
-        "word": "erfgoed",
-        "definition": "iets wat uit het verleden is overgebleven en dat we willen behouden voor de toekomst",
-        "sentence": "Het kasteel is een belangrijk stuk ___ voor ons land.",
-        "answer": "erfgoed"
+        "word": "belde",
+        "definition": "telefonisch contact gemaakt, verleden tijd van bellen",
+        "sentence": "Ze ___ 112 om hulp te vragen.",
+        "answer": "belde"
       },
       {
-        "word": "pittoresk",
-        "definition": "mooi en schilderachtig, vaak op een ouderwetse of charmante manier",
-        "sentence": "Het dorpje was erg ___ met zijn kleine huisjes en bloemen.",
-        "answer": "pittoresk"
+        "word": "hulpdiensten",
+        "definition": "organisaties die hulp bieden, zoals politie of brandweer",
+        "sentence": "Mensen bellen de ___ wanneer er een probleem is.",
+        "answer": "hulpdiensten"
       },
       {
-        "word": "asfalteren",
-        "definition": "een laag asfalt aanbrengen, meestal om een weg te maken of te repareren",
-        "sentence": "De gemeente wil de straat ___ voor een betere ondergrond.",
-        "answer": "asfalteren"
+        "word": "Nederlands",
+        "definition": "de taal die in Nederland en België gesproken wordt",
+        "sentence": "Ze spraken ___ met elkaar.",
+        "answer": "Nederlands"
       },
       {
-        "word": "romantiseren",
-        "definition": "iets mooier of romantischer voorstellen dan het in werkelijkheid is",
-        "sentence": "Soms ___ mensen het verleden te veel en vergeten de moeilijkheden.",
-        "answer": "romantiseren"
+        "word": "gewonde",
+        "definition": "iemand die pijn heeft door een verwonding",
+        "sentence": "De man was een ___ na zijn val.",
+        "answer": "gewonde"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het dorpje was erg ___ met zijn kleine huisjes en bloemen.",
-        "answer": "pittoresk"
+        "sentence": "Ze spraken ___ met elkaar.",
+        "answer": "Nederlands"
       },
       {
-        "sentence": "Het kasteel is een belangrijk stuk ___ voor ons land.",
-        "answer": "erfgoed"
+        "sentence": "Ze ___ 112 om hulp te vragen.",
+        "answer": "belde"
       },
       {
-        "sentence": "De ___ van het plan vrezen voor hogere kosten.",
-        "answer": "tegenstanders"
+        "sentence": "De situatie was ___ volgens de burgemeester.",
+        "answer": "schandalige"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom wil Gent de Vlasmarkt asfalteren?",
+      "question": "Waarom belde de vrouw naar de hulpdiensten?",
       "options": [
-        "Omdat kasseien gevaarlijk zijn voor fietsers",
-        "Omdat kasseien te duur zijn in onderhoud",
-        "Omdat asfalteren beter is voor rolstoelgebruikers",
-        "Omdat de stad moderne ondergronden wil testen"
+        "Om een taxi te bestellen",
+        "Om te oefenen met Nederlands",
+        "Omdat ze een gewonde man wilde helpen",
+        "Om te klagen over het weer"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is de reactie van de burgemeester?",
+      "options": [
+        "Hij vindt het geweldig",
+        "Hij zegt dat het een schande is",
+        "Hij wil meer bomen planten",
+        "Hij vindt het niet belangrijk"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een belangrijk punt van de tegenstanders?",
+      "question": "Wat was het probleem met de taal?",
       "options": [
-        "Kasseien zijn goedkoop in onderhoud",
-        "Kasseien zijn een belangrijk stuk erfgoed",
-        "Asfalteren is slecht voor het milieu",
-        "Asfalteren is alleen nodig voor auto's"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Hoe beschrijft de auteur de kasseien in Gent?",
-      "options": [
-        "Als een gevaar dat vermeden moet worden",
-        "Als een pittoresk en romantisch element",
-        "Als een historisch element zonder nut",
-        "Als een symbool van moderniteit"
+        "De vrouw sprak te luid",
+        "De hulpdienst sprak alleen Nederlands",
+        "De vrouw sprak alleen Frans",
+        "De hulpdienst was gesloten"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Gent wil de Vlasmarkt asfalteren omdat het een moderne stad wil zijn.",
-      "isTrue": true
-    },
-    {
-      "statement": "De tegenstanders willen de kasseien verwijderen om plaats te maken voor groene zones.",
+      "statement": "De vrouw kon de gewonde man niet helpen omdat ze geen Nederlands sprak.",
       "isTrue": false
     },
     {
-      "statement": "Een van de argumenten voor asfalteren is betere toegankelijkheid voor rolstoelgebruikers.",
+      "statement": "De burgemeester vindt de situatie onacceptabel.",
+      "isTrue": true
+    },
+    {
+      "statement": "De hulpdienst weigerde de vrouw te helpen in het Frans.",
       "isTrue": true
     }
   ]

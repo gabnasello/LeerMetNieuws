@@ -1,106 +1,106 @@
 {
-  "id": 7,
+  "id": 6,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Als het gaat om defensie, is Europa bereid eigen regels wat op te rekken",
+  "title": "Catherine Connolly wint Ierse presidentsverkiezingen",
   "topicNumber": 1,
   "article": {
-    "title": "Als het gaat om defensie, is Europa bereid eigen regels wat op te rekken",
-    "summary": "Europa haalt de hinderpalen voor defensie-investeringen één voor één weg. Op de Europese top stond behalve de Russische tegoeden ook het pad om een turbo te zetten op de militaire paraatheid centraal."
+    "title": "Catherine Connolly wint Ierse presidentsverkiezingen",
+    "summary": "De 68-jarige Catherine Connolly wordt de nieuwe president van Ierland. Ze heeft de presidentsverkiezingen gewonnen met meer dan 63 procent van de stemmen, zo blijkt uit de officiële resultaten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "defensie",
-        "definition": "het geheel van middelen en mensen die een land beschermen tegen aanvallen van buitenaf",
-        "sentence": "Het ministerie van ___ is verantwoordelijk voor de veiligheid van het land.",
-        "answer": "defensie"
+        "word": "president",
+        "definition": "Het staatshoofd van een republiek",
+        "sentence": "De nieuwe ___ van Ierland is Catherine Connolly.",
+        "answer": "president"
       },
       {
-        "word": "Europa",
-        "definition": "het werelddeel dat ten westen van Azië en ten noorden van Afrika ligt, en waaronder de Europese Unie valt",
-        "sentence": "___ is een continent met veel verschillende culturen en talen.",
-        "answer": "Europa"
+        "word": "verkiezing",
+        "definition": "Zie 'verkiezingen'; dit is het enkelvoud",
+        "sentence": "De presidentsverkiezing was een spannende race.",
+        "answer": "verkiezing"
       },
       {
-        "word": "regels",
-        "definition": "afspraken of voorschriften die zeggen hoe iets moet worden gedaan",
-        "sentence": "Volgens de ___ van dit spel moet je eerst gooien met de dobbelsteen.",
-        "answer": "regels"
+        "word": "resultaten",
+        "definition": "De uitkomsten of gevolgen van iets",
+        "sentence": "De verkiezings-___ zijn bekend gemaakt.",
+        "answer": "resultaten"
       },
       {
-        "word": "hinderpalen",
-        "definition": "problemen of obstakels die iets moeilijk of onmogelijk maken",
-        "sentence": "Er waren te veel ___ om het project op tijd af te ronden.",
-        "answer": "hinderpalen"
+        "word": "officiële",
+        "definition": "Iets wat formeel en openbaar is",
+        "sentence": "De ___ resultaten bevestigen haar overwinning.",
+        "answer": "officiële"
       },
       {
-        "word": "investeringen",
-        "definition": "geld dat in een project of activiteit wordt gestopt om het te laten groeien of verbeteren",
-        "sentence": "De ___ in nieuwe technologie bracht het bedrijf veel winst.",
-        "answer": "investeringen"
+        "word": "stemmen",
+        "definition": "Het uitbrengen van een stem, of de stemmen zelf",
+        "sentence": "Zij kreeg de meeste ___ in de verkiezing.",
+        "answer": "stemmen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Er waren te veel ___ om het project op tijd af te ronden.",
-        "answer": "hinderpalen"
+        "sentence": "De nieuwe ___ van Ierland is Catherine Connolly.",
+        "answer": "president"
       },
       {
-        "sentence": "De ___ in nieuwe technologie bracht het bedrijf veel winst.",
-        "answer": "investeringen"
+        "sentence": "De ___ resultaten bevestigen haar overwinning.",
+        "answer": "officiële"
       },
       {
-        "sentence": "Het ministerie van ___ is verantwoordelijk voor de veiligheid van het land.",
-        "answer": "defensie"
+        "sentence": "De presidentsverkiezing was een spannende race.",
+        "answer": "verkiezing"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'defensie' in deze context?",
+      "question": "Wat heeft Catherine Connolly gewonnen?",
       "options": [
-        "sport",
-        "bescherming",
-        "aanval",
-        "onderhandeling"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is een 'hindernis'?",
-      "options": [
-        "een soort voedsel",
-        "een obstakel",
-        "een feestdag",
-        "een snelweg"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Waar staat 'Europa' voor in deze tekst?",
-      "options": [
-        "een planeet",
-        "een automerk",
-        "een continent",
-        "een rivier"
+        "De Nobelprijs",
+        "De presidentsverkiezingen",
+        "Een sportwedstrijd",
+        "Een loterij"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Hoe oud is Catherine Connolly?",
+      "options": [
+        "50 jaar",
+        "60 jaar",
+        "68 jaar",
+        "70 jaar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is de officiële uitslag van de verkiezingen?",
+      "options": [
+        "Onbekend",
+        "Nog niet bekend",
+        "Catherine won met 63%",
+        "Ze verloor met 37%"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Europa wil meer investeren in defensie.",
+      "statement": "Catherine Connolly is de nieuwe president van Ierland.",
       "isTrue": true
     },
     {
-      "statement": "Nederland heeft de meeste hinderpalen voor defensie.",
+      "statement": "Catherine Connolly is 70 jaar oud.",
       "isTrue": false
     },
     {
-      "statement": "De Europese top besprak alleen Russische tegoeden.",
-      "isTrue": false
+      "statement": "De verkiezingsresultaten zijn officieel bevestigd.",
+      "isTrue": true
     }
   ]
 }

@@ -1,105 +1,105 @@
 {
-  "id": 14,
+  "id": 9,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
+  "title": "“Wij zijn nog altijd boos”: tienduizenden mensen komen een jaar na dodelijke overstromingen in Valencia op straat",
   "topicNumber": 1,
   "article": {
-    "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
-    "summary": "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen."
+    "title": "“Wij zijn nog altijd boos”: tienduizenden mensen komen een jaar na dodelijke overstromingen in Valencia op straat",
+    "summary": "Tienduizenden mensen hebben in Valencia deelgenomen aan een protestmars, een jaar na de dodelijke overstromingen in de regio."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "controleren",
-        "definition": "toezicht houden op, monitoren",
-        "sentence": "Vredeshandhavers ___ de naleving van de overeenkomst.",
-        "answer": "controleren"
+        "word": "a",
+        "definition": "Onbepaald lidwoord voor een enkelvoudig zelfstandig naamwoord.",
+        "sentence": "De overstroming was ___ direct gevolg van extreme regenval.",
+        "answer": "a"
       },
       {
-        "word": "onderhandelingen",
-        "definition": "besprekingen met als doel een overeenkomst te bereiken",
-        "sentence": "De ___ verlopen moeizaam maar zijn veelbelovend.",
-        "answer": "onderhandelingen"
+        "word": "op",
+        "definition": "Voorzetsel dat onder andere locatie of richting aangeeft.",
+        "sentence": "De demonstranten kwamen bijeen ___ het centrale plein.",
+        "answer": "op"
       },
       {
-        "word": "staakt-het-vuren",
-        "definition": "een (tijdelijke) stopzetting van gevechtshandelingen",
-        "sentence": "Een ___ is vaak de eerste stap naar vrede.",
-        "answer": "staakt-het-vuren"
+        "word": "na",
+        "definition": "Geeft een volgorde in tijd aan, ofwel 'later dan'.",
+        "sentence": "Het protest vond plaats ___ jaar na de ramp.",
+        "answer": "na"
       },
       {
-        "word": "doorbraak",
-        "definition": "een belangrijke positieve ontwikkeling of oplossing",
-        "sentence": "Een diplomatieke ___ kan het conflict helpen oplossen.",
-        "answer": "doorbraak"
+        "word": "dodelijke",
+        "definition": "Betrekking hebbend op of veroorzakend van de dood.",
+        "sentence": "De overstromingen hadden ___ gevolgen voor de gemeenschap.",
+        "answer": "dodelijke"
       },
       {
-        "word": "oorlog",
-        "definition": "georganiseerd gewapend conflict tussen staten of groepen",
-        "sentence": "De ___ heeft veel levens geëist en schade aangericht.",
-        "answer": "oorlog"
+        "word": "zijn",
+        "definition": "Koppelwerkwoord dat een toestand of eigenschap uitdrukt.",
+        "sentence": "Zij ___ verantwoordelijk voor de organisatie van de demonstratie.",
+        "answer": "zijn"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ heeft veel levens geëist en schade aangericht.",
-        "answer": "oorlog"
+        "sentence": "Het protest vond plaats ___ jaar na de ramp.",
+        "answer": "na"
       },
       {
-        "sentence": "Vredeshandhavers ___ de naleving van de overeenkomst.",
-        "answer": "controleren"
+        "sentence": "Zij ___ verantwoordelijk voor de organisatie van de demonstratie.",
+        "answer": "zijn"
       },
       {
-        "sentence": "De ___ verlopen moeizaam maar zijn veelbelovend.",
-        "answer": "onderhandelingen"
+        "sentence": "De demonstranten kwamen bijeen ___ het centrale plein.",
+        "answer": "op"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is het hoofddoel van een staakt-het-vuren?",
+      "question": "Waarom kwamen de mensen in Valencia bijeen op straat?",
       "options": [
-        "Het permanent beëindigen van alle gevechten",
-        "Het tijdelijk stoppen van gevechten om humanitaire redenen",
-        "Het vergroten van het grondgebied van een partij",
-        "Het voorbereiden van een nieuwe offensief"
+        "Om een feest te vieren",
+        "Om te protesteren tegen onvoldoende klimaatactie",
+        "Om de overstromingen te herdenken",
+        "Om nieuwe wetten te eisen tegen immigratie"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoe worden drones vaak ingezet in conflictgebieden?",
+      "question": "Wat is de tijdsaanduiding in de titel 'een jaar na'?",
       "options": [
-        "Alleen voor het verzamelen van inlichtingen",
-        "Voor zowel verkenningsmissies als gerichte aanvallen",
-        "Uitsluitend voor het afleveren van humanitaire hulp",
-        "Voor het monitoren van wapenhandel"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een belangrijk aandachtspunt bij vredesonderhandelingen?",
-      "options": [
-        "De garantie dat alle partijen zich aan de afspraken houden",
-        "De keuze van de onderhandelaars hun kledingstijl",
-        "De locatie waar de onderhandelingen plaatsvinden",
-        "De keuze van de taal waarin onderhandeld wordt"
+        "Precies een jaar later",
+        "Meer dan een jaar later",
+        "Minder dan een jaar later",
+        "Onbekend"
       ],
       "correctAnswer": 1
+    },
+    {
+      "question": "Wat impliceert het woord 'nog' in de titel?",
+      "options": [
+        "De woede is recent ontstaan",
+        "De woede is onverminderd aanwezig",
+        "De woede is al overgegaan",
+        "De woede is onrealistisch"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Een staakt-het-vuren is altijd permanent en wordt nooit geschonden.",
-      "isTrue": false
-    },
-    {
-      "statement": "Drones kunnen worden gebruikt om naleving van een staakt-het-vuren te monitoren.",
+      "statement": "De protesten in Valencia waren gericht tegen de nationale regering.",
       "isTrue": true
     },
     {
-      "statement": "Vredesonderhandelingen leiden nooit tot een doorbraak en zijn daarom tijdverspilling.",
+      "statement": "De overstromingen vonden plaats precies een jaar voor de protesten.",
+      "isTrue": true
+    },
+    {
+      "statement": "De demonstranten eisten onmiddellijke financiële compensatie voor alle slachtoffers.",
       "isTrue": false
     }
   ]

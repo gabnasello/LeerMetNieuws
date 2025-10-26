@@ -1,5 +1,5 @@
 {
-  "id": 24,
+  "id": 19,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
@@ -12,95 +12,95 @@
   "vocabulary": {
     "words": [
       {
-        "word": "bypass",
-        "definition": "Een alternatieve route of omleiding, vaak tijdelijk.",
-        "sentence": "De nieuwe ___ helpt om het verkeer tijdens de werken te beheren.",
-        "answer": "bypass"
-      },
-      {
-        "word": "viaduct",
-        "definition": "Een brug of overbrugging voor verkeer, meestal boven een weg of water.",
-        "sentence": "Het nieuwe ___ verbindt twee delen van de ringweg.",
-        "answer": "viaduct"
-      },
-      {
-        "word": "Oosterweel",
-        "definition": "Verwijst naar de Oosterweelverbinding, een groot infrastructuurproject in Antwerpen.",
-        "sentence": "De ___ verbinding is een belangrijk onderdeel van het verkeersplan.",
-        "answer": "Oosterweel"
-      },
-      {
-        "word": "ring",
-        "definition": "Kort voor ringweg, een hoofdweg die rond een stad loopt.",
-        "sentence": "De Antwerpse ___ is vaak druk tijdens de spits.",
-        "answer": "ring"
+        "word": "opent",
+        "definition": "begint beschikbaar te zijn, gaat open",
+        "sentence": "Het nieuwe winkelcentrum ___ vandaag officieel zijn deuren.",
+        "answer": "opent"
       },
       {
         "word": "belooft",
-        "definition": "Geeft een toezegging of verwachting aan, vaak met enige zekerheid.",
-        "sentence": "De nieuwe route ___ een vlotte doorstroom.",
+        "definition": "zegt toe, geeft de verwachting",
+        "sentence": "De coach ___ zijn team een overwinning.",
         "answer": "belooft"
+      },
+      {
+        "word": "ring",
+        "definition": "een rondweg of rondweg rond een stad",
+        "sentence": "De Antwerpse ___ is een belangrijke verkeersader.",
+        "answer": "ring"
+      },
+      {
+        "word": "parallel",
+        "definition": "naast elkaar, op gelijke afstand",
+        "sentence": "De nieuwe weg loopt ___ aan de bestaande.",
+        "answer": "parallel"
+      },
+      {
+        "word": "stap",
+        "definition": "een actie of handeling in een proces",
+        "sentence": "De volgende ___ in het project is cruciaal.",
+        "answer": "stap"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De nieuwe route ___ een vlotte doorstroom.",
-        "answer": "belooft"
+        "sentence": "Het nieuwe winkelcentrum ___ vandaag officieel zijn deuren.",
+        "answer": "opent"
       },
       {
-        "sentence": "De nieuwe ___ helpt om het verkeer tijdens de werken te beheren.",
-        "answer": "bypass"
+        "sentence": "De nieuwe weg loopt ___ aan de bestaande.",
+        "answer": "parallel"
       },
       {
-        "sentence": "Het nieuwe ___ verbindt twee delen van de ringweg.",
-        "answer": "viaduct"
+        "sentence": "De volgende ___ in het project is cruciaal.",
+        "answer": "stap"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdlocatie van de nieuwe Oosterweel-bypass?",
+      "question": "Waarom is de nieuwe wegopening in Antwerpen belangrijk?",
       "options": [
-        "Antwerpen-Centrum",
-        "Het Antwerpse havengebied",
-        "De Antwerpse Ringweg",
-        "Het viaduct van Merksem"
+        "Het vermindert verkeer onmiddellijk",
+        "Het biedt een alternatieve route tijdens werken",
+        "Het is alleen voor openbaar vervoer",
+        "Het verbindt twee verre steden"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is een direct gevolg van de opening van de bypass?",
+      "question": "Wat is het hoofddoel van de Oosterweelwerken?",
       "options": [
-        "Volledige sluiting van de ringweg",
-        "Minder verkeer in het centrum",
-        "Verhoogde verkeersdoorstroom elders",
-        "Enkel vertraging tijdens de spits"
+        "Vervangen van alle bestaande bruggen",
+        "Verbeteren van de verkeersdoorstroming",
+        "Vergroten van de havencapaciteit alleen",
+        "Enkel de bouw van een nieuw station"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Welk element is een onderdeel van de Oosterweelwerken?",
+      "question": "Hoe beïnvloedt de opening het lokale verkeer?",
       "options": [
-        "De nieuwe Antwerpse metro",
-        "De verbreding van de E19",
-        "Het viaduct bij Merksem",
-        "De heraanleg van het Sportpaleis"
+        "Het vermindert files onmiddellijk",
+        "Het heeft geen enkel effect",
+        "Het veroorzaakt vertragingen door de werken",
+        "Het maakt de ring volledig autovrij"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Oosterweel-bypass is permanent en zal niet worden afgebroken na de werken.",
+      "statement": "De Oosterweelwerken zijn volledig voltooid met de opening van dit wegsegment.",
       "isTrue": false
     },
     {
-      "statement": "De verkeershinder is vooral te verwachten tijdens de ochtendspits.",
+      "statement": "De nieuwe wegopening heeft als doel verkeer tijdelijk te verleiden tijdens verdere werken.",
       "isTrue": true
     },
     {
-      "statement": "Het viaduct van Merksem is een onderdeel van de Oosterweelverbinding.",
-      "isTrue": true
+      "statement": "De ring van Antwerpen wordt volledig gesloten voor alle verkeer na deze opening.",
+      "isTrue": false
     }
   ]
 }

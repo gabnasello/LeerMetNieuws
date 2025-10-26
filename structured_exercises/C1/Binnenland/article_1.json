@@ -1,5 +1,5 @@
 {
-  "id": 19,
+  "id": 14,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
@@ -12,94 +12,94 @@
   "vocabulary": {
     "words": [
       {
-        "word": "overheid",
-        "definition": "De overheid is de organisatie die een land of gebied bestuurt.",
-        "sentence": "De ___ heeft besloten om extra maatregelen te nemen.",
-        "answer": "overheid"
-      },
-      {
         "word": "geactiveerd",
-        "definition": "In werking gesteld of geactiveerd.",
-        "sentence": "Het noodnummer werd ___ zodat mensen snel hulp kunnen vragen.",
+        "definition": "in werking gesteld; actief gemaakt",
+        "sentence": "De overheid heeft het noodnummer ___ voor vragen over stormschade.",
         "answer": "geactiveerd"
       },
       {
+        "word": "storm",
+        "definition": "een weerssysteem met zeer harde wind, vaak met regen of sneeuw",
+        "sentence": "Tijdens de ___ raakten veel bomen ontworteld.",
+        "answer": "storm"
+      },
+      {
+        "word": "schade",
+        "definition": "schade; wat kapot of beschadigd is geraakt",
+        "sentence": "Er was veel ___ aan huizen na de storm.",
+        "answer": "schade"
+      },
+      {
         "word": "nummer",
-        "definition": "Een reeks cijfers die iets identificeert, zoals een telefoonnummer.",
-        "sentence": "Welk ___ moet ik bellen in geval van nood?",
+        "definition": "een getal; in deze context een telefoonnummer",
+        "sentence": "Bel dit ___ voor hulp bij waterschade.",
         "answer": "nummer"
       },
       {
-        "word": "bellen",
-        "definition": "Iemand telefonisch contacteren.",
-        "sentence": "Je kunt de politie ___ als je hulp nodig hebt.",
-        "answer": "bellen"
-      },
-      {
-        "word": "weer",
-        "definition": "De toestand van de atmosfeer, zoals regen of zonneschijn.",
-        "sentence": "Het ___ wordt morgen beter, volgens de voorspelling.",
-        "answer": "weer"
+        "word": "KMI",
+        "definition": "Koninklijk Meteorologisch Instituut; de organisatie die weersvoorspellingen doet",
+        "sentence": "Het ___ heeft een waarschuwing uitgegeven voor zware buien.",
+        "answer": "KMI"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ heeft besloten om extra maatregelen te nemen.",
-        "answer": "overheid"
-      },
-      {
-        "sentence": "Je kunt de politie ___ als je hulp nodig hebt.",
-        "answer": "bellen"
-      },
-      {
-        "sentence": "Het noodnummer werd ___ zodat mensen snel hulp kunnen vragen.",
+        "sentence": "De overheid heeft het noodnummer ___ voor vragen over stormschade.",
         "answer": "geactiveerd"
+      },
+      {
+        "sentence": "Tijdens de ___ raakten veel bomen ontworteld.",
+        "answer": "storm"
+      },
+      {
+        "sentence": "Bel dit ___ voor hulp bij waterschade.",
+        "answer": "nummer"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'geactiveerd' in deze context?",
+      "question": "Wat is de rol van het KMI in deze situatie?",
       "options": [
-        "Verwijderd",
-        "Opgeschort",
-        "In werking gesteld",
-        "Verboden"
+        "Het geeft weerswaarschuwingen.",
+        "Het repareert schade na stormen.",
+        "Het maakt films over het weer.",
+        "Het leidt evacuaties."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Waarom heeft de overheid het nummer 1722 geactiveerd?",
+      "question": "Waarom heeft de overheid nummer 1722 geactiveerd?",
       "options": [
-        "Om mensen te informeren over het weer",
-        "Om financiële steun aan te bieden",
-        "Om hulp te bieden bij stormschade",
-        "Om feesten te organiseren"
+        "Om feestelijkheden aan te kondigen.",
+        "Om mensen te helpen bij storm- en waterschade.",
+        "Om weersvoorspellingen te doen.",
+        "Om nieuwe wetten te maken."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de hoofdgedachte van de tekst?",
+      "question": "Wat is een gevolg van zware regen volgens de tekst?",
       "options": [
-        "Het weer wordt steeds onvoorspelbaarder",
-        "Mensen moeten beter voorbereid zijn op stormen",
-        "De overheid biedt een hulplijn voor stormschade",
-        "Het KMI geeft altijd correcte waarschuwingen"
+        "Mensen dansen in de regen.",
+        "Schade aan huizen en wegen.",
+        "De zon begint te schijnen.",
+        "Mensen vergeten het nummer."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het KMI waarschuwt voor zware buien en veel wind, wat duidt op een storm.",
-      "isTrue": true
-    },
-    {
-      "statement": "Het nummer 1722 is bedoeld voor financiële donaties na een storm.",
+      "statement": "Het KMI heeft geen rol in weerswaarschuwingen.",
       "isTrue": false
     },
     {
-      "statement": "Mensen kunnen bellen naar 1722 voor hulp bij waterschade.",
+      "statement": "Nummer 1722 is alleen voor branden.",
+      "isTrue": false
+    },
+    {
+      "statement": "De overheid heeft nummer 1722 geactiveerd voor hulp bij stormschade.",
       "isTrue": true
     }
   ]

@@ -1,106 +1,106 @@
 {
-  "id": 27,
+  "id": 22,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Franstalige vrouw belt 112 in Zoniënwoud, maar mag enkel Nederlands spreken",
+  "title": "Franstalige vrouw belt hulpdiensten omdat ze gewonde man wil helpen in Zoniënwoud, maar mag enkel Nederlands spreken",
   "topicNumber": 1,
   "article": {
-    "title": "Franstalige vrouw belt 112 in Zoniënwoud, maar mag enkel Nederlands spreken",
-    "summary": "Een Franstalige vrouw wilde een gewonde man in het Zoniënwoud helpen, maar kreeg te horen dat ze enkel in het Nederlands geholpen kon worden. Dit gebeurde nadat ze 112 belde. De burgemeester van Watermaal-Bosvoorde noemt het een schandalige situatie."
+    "title": "Franstalige vrouw belt hulpdiensten omdat ze gewonde man wil helpen in Zoniënwoud, maar mag enkel Nederlands spreken",
+    "summary": "Een Franstalige vrouw wilde afgelopen week een gewonde man in het Zoniënwoud helpen, maar toen ze de 112 belde, kreeg ze te horen dat ze enkel in het Nederlands geholpen kon worden. 'Een schandalige situatie', zegt de burgemeester van Watermaal-Bosvoorde."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "wilde",
-        "definition": "de verleden tijd van 'willen', wat betekent dat iemand iets graag wil doen",
-        "sentence": "De vrouw ___ de gewonde man helpen, maar ze kon niet.",
-        "answer": "wilde"
+        "word": "hulpdiensten",
+        "definition": "organisaties die hulp bieden, zoals politie of ambulance",
+        "sentence": "Ze belde de ___ omdat iemand gewond was.",
+        "answer": "hulpdiensten"
       },
       {
-        "word": "enkel",
-        "definition": "alleen maar, niets meer dan",
-        "sentence": "Ze mocht ___ Nederlands spreken.",
-        "answer": "enkel"
+        "word": "horen",
+        "definition": "iets met je oren waarnemen",
+        "sentence": "Ze kon de instructies niet ___ door de chaos.",
+        "answer": "horen"
       },
       {
         "word": "Nederlands",
-        "definition": "de officiële taal van Nederland en Vlaanderen, ook bekend als Hollands",
-        "sentence": "Ze kreeg geen hulp omdat ze geen ___ sprak.",
+        "definition": "de officiële taal van Nederland en Vlaanderen",
+        "sentence": "Ze mocht alleen ___ spreken met de hulpdienst.",
         "answer": "Nederlands"
       },
       {
-        "word": "geholpen",
-        "definition": "het voltooid deelwoord van 'helpen', wat betekent dat iemand assistentie gaf",
-        "sentence": "De vrouw had graag ___ willen worden, maar het mocht niet.",
-        "answer": "geholpen"
+        "word": "helpen",
+        "definition": "assisteren of bijstaan",
+        "sentence": "Ze wilde de gewonde man ___.",
+        "answer": "helpen"
       },
       {
-        "word": "Franstalige",
-        "definition": "iemand die Frans spreekt als moedertaal",
-        "sentence": "De ___ vrouw kon zich niet in het Nederlands uitdrukken.",
-        "answer": "Franstalige"
+        "word": "schandalige",
+        "definition": "ergerlijk, onacceptabel",
+        "sentence": "De burgemeester noemde het een ___ situatie.",
+        "answer": "schandalige"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze mocht ___ Nederlands spreken.",
-        "answer": "enkel"
+        "sentence": "Ze belde de ___ omdat iemand gewond was.",
+        "answer": "hulpdiensten"
       },
       {
-        "sentence": "De ___ vrouw kon zich niet in het Nederlands uitdrukken.",
-        "answer": "Franstalige"
+        "sentence": "Ze kon de instructies niet ___ door de chaos.",
+        "answer": "horen"
       },
       {
-        "sentence": "De vrouw had graag ___ willen worden, maar het mocht niet.",
-        "answer": "geholpen"
+        "sentence": "Ze wilde de gewonde man ___.",
+        "answer": "helpen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat wilde de Franstalige vrouw doen in het Zoniënwoud?",
+      "question": "Wat was de hoofdreden dat de vrouw de hulpdiensten belde?",
       "options": [
-        "Een wandeling maken",
-        "Een gewonde man helpen",
-        "De burgemeester bellen",
-        "Frans spreken"
+        "Ze was verdwaald in het bos",
+        "Ze wilde een gewonde man helpen",
+        "Ze hoorde een schreeuw om hulp",
+        "Ze wilde een klacht indienen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom noemde de burgemeester de situatie schandalig?",
+      "question": "Wat was de reactie van de burgemeester op de situatie?",
       "options": [
-        "Omdat de vrouw niet mocht wandelen",
-        "Omdat de vrouw in het Frans mocht praten",
-        "Omdat de hulpdienst alleen Nederlands accepteert",
-        "Omdat de vrouw niet wilde helpen"
+        "Hij vond het perfect geregeld",
+        "Hij prees de vrouw voor haar moed",
+        "Hij noemde het een schandalige situatie",
+        "Hij beloofde betere training voor hulpverleners"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat was het resultaat van de telefoontje naar 112?",
+      "question": "Welk probleem ontstond er tijdens het telefoongesprek?",
       "options": [
-        "De vrouw kreeg hulp in het Frans",
-        "De vrouw kreeg geen hulp",
-        "De vrouw werd naar de burgemeester doorverbonden",
-        "De vrouw kreeg een beloning"
+        "De vrouw sprak geen Nederlands",
+        "De hulpdienst was overbelast",
+        "De telefoonverbinding was slecht",
+        "De vrouw was te emotioneel om duidelijk te spreken"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Franstalige vrouw kon de gewonde man niet helpen omdat ze geen Nederlands sprak.",
-      "isTrue": true
-    },
-    {
-      "statement": "De burgemeester van Watermaal-Bosvoorde vond dat de hulpdienst de vrouw in het Frans moest helpen.",
+      "statement": "De vrouw kon de gewonde man niet helpen omdat ze geen Nederlands sprak.",
       "isTrue": false
     },
     {
-      "statement": "De vrouw belde 112 om iemand anders te helpen, niet voor zichzelf.",
+      "statement": "De burgemeester van Watermaal-Bosvoorde vond de situatie onacceptabel.",
       "isTrue": true
+    },
+    {
+      "statement": "De hulpdiensten weigerden Engels of Frans te spreken uit principe.",
+      "isTrue": false
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": 15,
+  "id": 10,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
@@ -7,100 +7,100 @@
   "topicNumber": 1,
   "article": {
     "title": "Noodnummer 1722 voor storm- en waterschade",
-    "summary": "Het KMI waarschuwt voor slecht weer. Het nummer 1722 is voor meldingen over storm en water."
+    "summary": "Het KMI waarschuwt voor slecht weer. Mensen kunnen bellen naar 1722 voor hulp bij storm- en waterschade."
   },
   "vocabulary": {
     "words": [
       {
+        "word": "hulp",
+        "definition": "Assistentie, ondersteuning als je het nodig hebt.",
+        "sentence": "Vraag ___ als je niet weet wat je moet doen.",
+        "answer": "hulp"
+      },
+      {
         "word": "nummer",
-        "definition": "een reeks cijfers",
-        "sentence": "Bel dit ___ als je hulp nodig hebt.",
+        "definition": "Een getal, zoals je telefoonnummer.",
+        "sentence": "Welk ___ moet ik bellen voor hulp?",
         "answer": "nummer"
       },
       {
-        "word": "storm",
-        "definition": "heel slecht weer met veel wind",
-        "sentence": "Er komt een ___ met harde wind.",
-        "answer": "storm"
-      },
-      {
-        "word": "water",
-        "definition": "de vloeistof die we drinken",
-        "sentence": "Na de regen staat er ___ op straat.",
-        "answer": "water"
-      },
-      {
         "word": "KMI",
-        "definition": "het instituut dat het weer voorspelt",
-        "sentence": "Het ___ waarschuwt voor slecht weer.",
+        "definition": "Het KMI is een instituut dat het weer voorspelt.",
+        "sentence": "Het ___ zegt dat het gaat regenen.",
         "answer": "KMI"
       },
       {
-        "word": "waarschuwt",
-        "definition": "zegt dat er gevaar is",
-        "sentence": "De politie ___ voor gevaar.",
-        "answer": "waarschuwt"
+        "word": "water",
+        "definition": "Een natte stof die je drinkt of die uit de lucht valt.",
+        "sentence": "Na veel regen staat er ___ op straat.",
+        "answer": "water"
+      },
+      {
+        "word": "storm",
+        "definition": "Heel harde wind met veel regen.",
+        "sentence": "Tijdens een ___ kunnen bomen omvallen.",
+        "answer": "storm"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Er komt een ___ met harde wind.",
+        "sentence": "Tijdens een ___ kunnen bomen omvallen.",
         "answer": "storm"
       },
       {
-        "sentence": "Bel dit ___ als je hulp nodig hebt.",
-        "answer": "nummer"
+        "sentence": "Het ___ zegt dat het gaat regenen.",
+        "answer": "KMI"
       },
       {
-        "sentence": "De politie ___ voor gevaar.",
-        "answer": "waarschuwt"
+        "sentence": "Na veel regen staat er ___ op straat.",
+        "answer": "water"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het woord 'storm'?",
+      "question": "Wat doet het KMI?",
       "options": [
-        "een soort dier",
-        "heel slecht weer met veel wind",
-        "een apparaat om mee te koken",
-        "een grote groep mensen"
+        "Ze maken eten klaar",
+        "Ze voorspellen het weer",
+        "Ze repareren auto's",
+        "Ze geven medische hulp"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar staat 'KMI' voor?",
+      "question": "Wat is 1722?",
       "options": [
-        "Koninklijk Meteorologisch Instituut",
-        "Koninklijke Maaltijd Informatie",
-        "Kleine Mobiele Installatie",
-        "Korte Mooie Interventie"
+        "Een telefoonnummer voor hulp",
+        "Een adres van een restaurant",
+        "Een code voor een computer",
+        "Een type van auto"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waarom heeft de overheid 1722 geactiveerd?",
+      "question": "Wat is schade?",
       "options": [
-        "omdat het een lekker recept is",
-        "omdat ze willen dat mensen kunnen bellen bij schade door storm of water",
-        "omdat ze een verjaardag vieren",
-        "omdat ze een nieuwe wet maken"
+        "Een soort van eten",
+        "Een type van kleding",
+        "Schade is wat kapot is",
+        "Een soort van sport"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het KMI waarschuwt voor slecht weer, dus het is veilig om naar buiten te gaan.",
-      "isTrue": false
-    },
-    {
-      "statement": "Je kunt bellen naar 1722 als je schade hebt door storm of water.",
+      "statement": "Het KMI waarschuwt voor slecht weer.",
       "isTrue": true
     },
     {
-      "statement": "De overheid heeft 1722 niet geactiveerd, dus je kunt niet bellen.",
+      "statement": "Het nummer 1722 is voor feestelijke evenementen.",
       "isTrue": false
+    },
+    {
+      "statement": "Mensen kunnen bellen naar 1722 voor hulp bij storm- en waterschade.",
+      "isTrue": true
     }
   ]
 }
