@@ -43,7 +43,12 @@ def query_openrouter(messages, max_tokens=1200, retries=5, backoff=2):
 
 # ---------- MAIN GENERATOR FUNCTION ----------
 def generate_simplified_and_exercises(level, section, topic_number, title, summary):
-    # Level-specific rewriting guidelines
+    """
+    Generate simplified Dutch news text and exercises using DeepSeek as a language model.
+    Ensures multiple-choice answers are consistently 1-based indexed (1–4).
+    """
+
+    # ---------------------- LEVEL GUIDELINES ----------------------
     level_guidelines = {
         "A1": (
             "- Gebruik zeer eenvoudige zinnen (max. 8-10 woorden).\n"
@@ -78,6 +83,7 @@ def generate_simplified_and_exercises(level, section, topic_number, title, summa
         ),
     }
 
+    # ---------------------- PROMPT MESSAGES ----------------------
     messages = [
         {
             "role": "system",
@@ -107,7 +113,7 @@ Maak vervolgens taalactiviteiten op basis van de vereenvoudigde tekst:
 
 2. Maak **precies 3 meerkeuzevragen** over de betekenis van de vereenvoudigde tekst.
    - Elke vraag moet 4 antwoordopties hebben.
-   - Voeg het juiste antwoord toe als numerieke index (1 t/m 4).
+   - Voeg het juiste antwoord toe als numerieke index **1 t/m 4 (A1-indexering, waarbij 1 de eerste optie is)**.
 
 3. Maak **precies 3 waar/niet waar-stellingen** over de inhoud van de tekst.
    - Elke stelling moet realistisch klinken.
@@ -173,7 +179,9 @@ Samenvatting: {summary}
         }
     ]
 
+    # ---------------------- QUERY THE MODEL ----------------------
     response = query_openrouter(messages)
+
     try:
         json_match = re.search(r"\{[\s\S]*\}", response)
         if not json_match:
@@ -184,16 +192,33 @@ Samenvatting: {summary}
         data["section"] = section
         data["topic"] = section
 
-        # ---------- FILTER & SELECT WORDS ----------
+        # ---------------------- ENSURE A1 INDEXING ----------------------
+        mc_list = data.get("multipleChoice", [])
+        if mc_list:
+            answers = []
+            for q in mc_list:
+                val = q.get("correctAnswer")
+                try:
+                    answers.append(int(val))
+                except (TypeError, ValueError):
+                    continue
+
+            # Detect if zero-based indexing is used
+            if any(a == 0 for a in answers):
+                for q in mc_list:
+                    try:
+                        q["correctAnswer"] = int(q["correctAnswer"]) + 1
+                    except (TypeError, ValueError):
+                        pass
+
+        # ---------------------- FILTER VOCABULARY WORDS ----------------------
         words = data.get("vocabulary", {}).get("words", [])
         simplified_text = (
             f"{data.get('article', {}).get('title', '')} "
             f"{data.get('article', {}).get('summary', '')}"
         ).lower()
 
-        filtered_words = [
-            w for w in words if w["word"].lower() in simplified_text
-        ]
+        filtered_words = [w for w in words if w["word"].lower() in simplified_text]
 
         # Keep at most 5 words (random if more)
         if len(filtered_words) > 5:
@@ -201,11 +226,12 @@ Samenvatting: {summary}
 
         data["vocabulary"]["words"] = filtered_words
 
-        # ---------- ADD FILL-IN-BLANKS ----------
+        # ---------------------- ADD FILL-IN-BLANKS ----------------------
         if len(filtered_words) >= 3:
             sampled = random.sample(filtered_words, 3)
             data["vocabulary"]["fillInBlanks"] = [
-                {"sentence": w["sentence"], "answer": w["answer"]} for w in sampled
+                {"sentence": w["sentence"], "answer": w["answer"]}
+                for w in sampled
             ]
         else:
             data["vocabulary"]["fillInBlanks"] = []
