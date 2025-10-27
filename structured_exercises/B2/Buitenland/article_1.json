@@ -1,105 +1,105 @@
 {
-  "id": 3,
+  "id": 4,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Miljardair Timothy Mellon stopte Trump 130 miljoen toe om soldaten te betalen",
+  "title": "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambiteurs",
   "topicNumber": 1,
   "article": {
-    "title": "Miljardair Timothy Mellon stopte Trump 130 miljoen toe om soldaten te betalen",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambiteurs",
+    "summary": "Na één maand begint de shutdown de Amerikanen zwaar te raken, niet alleen onbetaalde ambtenaren, maar ook bijvoorbeeld de steuntrekkers. Worden wel netjes verder betaald: immigratie-agenten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "miljardair",
-        "definition": "iemand die meer dan een miljard euro bezit",
-        "sentence": "Een ___ heeft veel geld.",
-        "answer": "miljardair"
+        "word": "agenten",
+        "definition": "Officiële personen die een bepaalde taak uitvoeren, vaak voor de overheid",
+        "sentence": "De immigratie-___ moeten doorwerken, ook zonder loon.",
+        "answer": "agenten"
       },
       {
-        "word": "Trump",
-        "definition": "familienaam van de voormalige Amerikaanse president",
-        "sentence": "Donald ___ was president van 2017 tot 2021.",
-        "answer": "Trump"
+        "word": "immigratie",
+        "definition": "Het proces van immigreren, oftewel het zich vestigen in een ander land",
+        "sentence": "De ___ -agenten controleren wie het land binnenkomt.",
+        "answer": "immigratie"
       },
       {
-        "word": "stopte",
-        "definition": "gaf, schonk (verleden tijd van stoppen of geven)",
-        "sentence": "Hij ___ geld aan een goed doel.",
-        "answer": "stopte"
+        "word": "ambtenaren",
+        "definition": "Mensen die werken voor de overheid",
+        "sentence": "De ___ werken voor de overheid en zijn nu thuis zonder loon.",
+        "answer": "ambtenaren"
       },
       {
-        "word": "om",
-        "definition": "omdat, met als doel",
-        "sentence": "Hij spaart geld ___ een nieuwe auto te kopen.",
-        "answer": "om"
+        "word": "Amerikanen",
+        "definition": "De inwoners van de Verenigde Staten",
+        "sentence": "De ___ worden hard geraakt door de shutdown, vooral de armsten.",
+        "answer": "Amerikanen"
       },
       {
-        "word": "soldaten",
-        "definition": "mensen die in het leger vechten",
-        "sentence": "De ___ verdedigen het land.",
-        "answer": "soldaten"
+        "word": "shutdown",
+        "definition": "Een stopzetting of onderbreking, vaak van overheidsdiensten",
+        "sentence": "De ___ duurt al weken en veel ambtenaren krijgen geen salaris.",
+        "answer": "shutdown"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Donald ___ was president van 2017 tot 2021.",
-        "answer": "Trump"
+        "sentence": "De ___ duurt al weken en veel ambtenaren krijgen geen salaris.",
+        "answer": "shutdown"
       },
       {
-        "sentence": "Een ___ heeft veel geld.",
-        "answer": "miljardair"
+        "sentence": "De ___ werken voor de overheid en zijn nu thuis zonder loon.",
+        "answer": "ambtenaren"
       },
       {
-        "sentence": "De ___ verdedigen het land.",
-        "answer": "soldaten"
+        "sentence": "De immigratie-___ moeten doorwerken, ook zonder loon.",
+        "answer": "agenten"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdreden dat Timothy Mellon geld doneerde aan Trump?",
+      "question": "Wat is een 'shutdown' in deze context?",
       "options": [
-        "Om soldaten te betalen",
-        "Om een nieuw huis te kopen",
-        "Om een politieke campagne te steunen",
-        "Om een feest te organiseren"
+        "Een feestelijke gebeurtenis",
+        "Een grote stroomuitval",
+        "Het tijdelijk stilleggen van overheidsdiensten",
+        "Een nieuwe regeringsvorm"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Welk effect heeft Trumps presidentschap op de wereld?",
+      "question": "Waarom worden de immigratie-agenten wel betaald?",
       "options": [
-        "Het verandert niets",
-        "Het veroorzaakt veel veranderingen",
-        "Het maakt iedereen gelukkig",
-        "Het zorgt voor economische groei"
+        "Omdat ze voor Trump werken",
+        "Omdat ze als essentiële werknemers worden beschouwd",
+        "Omdat ze een protest hebben georganiseerd",
+        "Omdat ze niet voor de overheid werken"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van soldaten in deze context?",
+      "question": "Wat is de rol van Trump in de shutdown?",
       "options": [
-        "Ze worden betaald door de donatie",
-        "Ze vechten in een oorlog",
-        "Ze zijn politieke leiders",
-        "Ze organiseren feesten"
+        "Hij probeert het op te lossen",
+        "Hij is de directe oorzaak ervan",
+        "Hij is op vakantie tijdens de crisis",
+        "Hij heeft er geen weet van"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Timothy Mellon is een miljardair die geld gaf aan Trump.",
-      "isTrue": true
-    },
-    {
-      "statement": "Trump gebruikte het geld om soldaten te betalen voor een feest.",
+      "statement": "De shutdown raakt alleen ambtenaren, niet de gewone burger.",
       "isTrue": false
     },
     {
-      "statement": "De donatie beïnvloedt de wereldpolitiek.",
+      "statement": "Immigratie-agenten worden niet betaald tijdens de shutdown.",
+      "isTrue": false
+    },
+    {
+      "statement": "Steuntrekkers worden indirect getroffen door de shutdown.",
       "isTrue": true
     }
   ]

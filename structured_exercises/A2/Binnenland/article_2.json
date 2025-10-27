@@ -1,105 +1,105 @@
 {
-  "id": 26,
+  "id": 25,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Franstalige vrouw belt hulpdiensten om gewonde man te helpen",
+  "title": "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
   "topicNumber": 1,
   "article": {
-    "title": "Franstalige vrouw belt hulpdiensten om gewonde man te helpen",
-    "summary": "Een Franstalige vrouw wilde een gewonde man in het Zoniënwoud helpen, maar bij het bellen van 112 kreeg ze te horen dat ze alleen in het Nederlands geholpen kon worden. De burgemeester noemt dit een schandalige situatie."
+    "title": "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
+    "summary": "Meer agenten klussen bij, en dat leidt soms tot mistoestanden. Minister van Binnenlandse Zaken Bernard Quintin (MR) wil de regels aanscherpen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Franstalige",
-        "definition": "iemand die Frans spreekt",
-        "sentence": "De ___ vrouw spreekt Frans.",
-        "answer": "Franstalige"
+        "word": "regels",
+        "definition": "afspraken die je moet volgen",
+        "sentence": "De nieuwe ___ zijn strenger dan voorheen.",
+        "answer": "regels"
       },
       {
-        "word": "bellen",
-        "definition": "telefoneren, iemand opbellen",
-        "sentence": "Ze moest ___ om hulp te vragen.",
-        "answer": "bellen"
+        "word": "politiemensen",
+        "definition": "mensen die werken voor de politie",
+        "sentence": "De ___ helpen bij ongelukken.",
+        "answer": "politiemensen"
       },
       {
-        "word": "situatie",
-        "definition": "de toestand of omstandigheid op een bepaald moment",
-        "sentence": "De ___ was verwarrend voor de vrouw.",
-        "answer": "situatie"
+        "word": "vechtpartij",
+        "definition": "een gevecht, vaak tussen meerdere personen",
+        "sentence": "Er was een ___ in het park, en de politie moest komen.",
+        "answer": "vechtpartij"
       },
       {
-        "word": "Burgemeester",
-        "definition": "de leider van een stad of gemeente",
-        "sentence": "De ___ van de stad gaf een verklaring.",
-        "answer": "Burgemeester"
+        "word": "mistoestanden",
+        "definition": "situaties die niet goed of eerlijk zijn",
+        "sentence": "Er zijn ___ in dat bedrijf door slechte leiding.",
+        "answer": "mistoestanden"
       },
       {
-        "word": "Nederlands",
-        "definition": "de taal die in Nederland en Vlaanderen gesproken wordt",
-        "sentence": "Ze moest ___ spreken, maar ze kon het niet.",
-        "answer": "Nederlands"
+        "word": "klussen",
+        "definition": "werk doen, vaak buiten hun normale baan",
+        "sentence": "Hij wil graag ___ om extra geld te verdienen.",
+        "answer": "klussen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze moest ___ spreken, maar ze kon het niet.",
-        "answer": "Nederlands"
+        "sentence": "De nieuwe ___ zijn strenger dan voorheen.",
+        "answer": "regels"
       },
       {
-        "sentence": "Ze moest ___ om hulp te vragen.",
-        "answer": "bellen"
+        "sentence": "Hij wil graag ___ om extra geld te verdienen.",
+        "answer": "klussen"
       },
       {
-        "sentence": "De ___ van de stad gaf een verklaring.",
-        "answer": "Burgemeester"
+        "sentence": "De ___ helpen bij ongelukken.",
+        "answer": "politiemensen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom belde de vrouw de hulpdiensten?",
+      "question": "Wat wil de minister doen met de regels voor agenten?",
       "options": [
-        "Om een feest te organiseren",
-        "Om een gewonde man te helpen",
-        "Om te oefenen met Nederlands",
-        "Om de burgemeester te spreken"
+        "Niets",
+        "Ze verwijderen",
+        "Ze aanscherpen",
+        "Ze veranderen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Waarom klussen agenten soms bij?",
+      "options": [
+        "Omdat ze niet van hun werk houden",
+        "Omdat ze te weinig verdienen",
+        "Omdat ze te veel werken",
+        "Omdat ze dat leuk vinden"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat was het probleem met de taal?",
+      "question": "Wat is een gevolg van bijklussen voor agenten?",
       "options": [
-        "Ze sprak te luid",
-        "Ze sprak alleen Frans",
-        "De telefoon was kapot",
-        "Niemand wilde haar helpen"
+        "Soms zijn er vechtpartijen",
+        "Ze krijgen altijd een bonus",
+        "Ze worden altijd gepromoveerd",
+        "Ze krijgen nooit problemen"
       ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat vond de burgemeester van deze situatie?",
-      "options": [
-        "Hij vond het leuk",
-        "Hij vond het een schandaal",
-        "Hij vond het een feest",
-        "Hij vond het gewoon"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De vrouw kon de gewonde man niet helpen omdat ze hem niet kon vinden.",
+      "statement": "Agenten klussen bij om minder te werken.",
       "isTrue": false
     },
     {
-      "statement": "De hulpdiensten spraken alleen Nederlands, wat de vrouw niet kon.",
+      "statement": "De minister wil de regels aanscherpen om problemen te voorkomen.",
       "isTrue": true
     },
     {
-      "statement": "De burgemeester was blij met de situatie.",
+      "statement": "Agenten mogen nooit bijklussen volgens de regels.",
       "isTrue": false
     }
   ]

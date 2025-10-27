@@ -1,105 +1,105 @@
 {
-  "id": 19,
+  "id": 23,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
+  "title": "Wat denken de Ronsenaars over al die PFAS? “Ik blijf eten uit mijn moestuin, PFAS of niet”",
   "topicNumber": 1,
   "article": {
-    "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
-    "summary": "Op de Antwerpse Ring is afgelopen nacht een tijdelijk stuk snelweg geopend, parallel met het viaduct van Merksem ter hoogte van de AFAS-Dome. De belangrijke stap in de Oosterweelwerken belooft veel verkeershinder met zich mee te brengen."
+    "title": "Wat denken de Ronsenaars over al die PFAS? “Ik blijf eten uit mijn moestuin, PFAS of niet”",
+    "summary": "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben. “We hopen dat de stad weet waar ze mee bezig is. Zolang we maar niet het nieuwe Zwijndrecht worden.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "opent",
-        "definition": "begint beschikbaar te zijn, gaat open",
-        "sentence": "Het nieuwe winkelcentrum ___ vandaag officieel zijn deuren.",
-        "answer": "opent"
+        "word": "heerst",
+        "definition": "aanwezig is, voorkomt",
+        "sentence": "Er heerst onrust in de stad.",
+        "answer": "heerst"
       },
       {
-        "word": "belooft",
-        "definition": "zegt toe, geeft de verwachting",
-        "sentence": "De coach ___ zijn team een overwinning.",
-        "answer": "belooft"
+        "word": "PFAS",
+        "definition": "een groep van door de mens gemaakte chemicaliën",
+        "sentence": "PFAS zijn schadelijk voor de gezondheid.",
+        "answer": "PFAS"
       },
       {
-        "word": "ring",
-        "definition": "een rondweg of rondweg rond een stad",
-        "sentence": "De Antwerpse ___ is een belangrijke verkeersader.",
-        "answer": "ring"
+        "word": "Ronsenaars",
+        "definition": "inwoners van Ronse",
+        "sentence": "De Ronsenaars maken zich zorgen over hun gezondheid.",
+        "answer": "Ronsenaars"
       },
       {
-        "word": "parallel",
-        "definition": "naast elkaar, op gelijke afstand",
-        "sentence": "De nieuwe weg loopt ___ aan de bestaande.",
-        "answer": "parallel"
+        "word": "Zwijndrecht",
+        "definition": "een gemeente in Nederland, bekend om PFAS-verontreiniging",
+        "sentence": "Zij willen niet het volgende Zwijndrecht worden.",
+        "answer": "Zwijndrecht"
       },
       {
-        "word": "stap",
-        "definition": "een actie of handeling in een proces",
-        "sentence": "De volgende ___ in het project is cruciaal.",
-        "answer": "stap"
+        "word": "onrust",
+        "definition": "gevoel van bezorgdheid of verontrusting",
+        "sentence": "Er is onrust onder de bewoners.",
+        "answer": "onrust"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het nieuwe winkelcentrum ___ vandaag officieel zijn deuren.",
-        "answer": "opent"
+        "sentence": "PFAS zijn schadelijk voor de gezondheid.",
+        "answer": "PFAS"
       },
       {
-        "sentence": "De nieuwe weg loopt ___ aan de bestaande.",
-        "answer": "parallel"
+        "sentence": "De Ronsenaars maken zich zorgen over hun gezondheid.",
+        "answer": "Ronsenaars"
       },
       {
-        "sentence": "De volgende ___ in het project is cruciaal.",
-        "answer": "stap"
+        "sentence": "Er is onrust onder de bewoners.",
+        "answer": "onrust"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom is de nieuwe wegopening in Antwerpen belangrijk?",
+      "question": "Wat betekent de term 'PFAS'?",
       "options": [
-        "Het vermindert verkeer onmiddellijk",
-        "Het biedt een alternatieve route tijdens werken",
-        "Het is alleen voor openbaar vervoer",
-        "Het verbindt twee verre steden"
+        "Een soort groente",
+        "Een type huisdier",
+        "Een groep chemicaliën",
+        "Een stad in België"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is het hoofddoel van de Oosterweelwerken?",
+      "question": "Waarom zijn de bewoners van Ronse bezorgd?",
       "options": [
-        "Vervangen van alle bestaande bruggen",
-        "Verbeteren van de verkeersdoorstroming",
-        "Vergroten van de havencapaciteit alleen",
-        "Enkel de bouw van een nieuw station"
+        "Ze hebben te veel groenten",
+        "Er is een tekort aan water",
+        "Hoge PFAS-waarden in hun bloed",
+        "Er is een nieuwe diersoort ontdekt"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Hoe beïnvloedt de opening het lokale verkeer?",
+      "question": "Wat is de houding van de Ronsenaars tegenover hun situatie?",
       "options": [
-        "Het vermindert files onmiddellijk",
-        "Het heeft geen enkel effect",
-        "Het veroorzaakt vertragingen door de werken",
-        "Het maakt de ring volledig autovrij"
+        "Ze zijn volledig apathisch",
+        "Ze zijn extreem pessimistisch",
+        "Ze zijn voorzichtig optimistisch",
+        "Ze zijn volledig in paniek"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Oosterweelwerken zijn volledig voltooid met de opening van dit wegsegment.",
+      "statement": "De Ronsenaars hebben zeer lage PFAS-waarden in hun bloed.",
       "isTrue": false
     },
     {
-      "statement": "De nieuwe wegopening heeft als doel verkeer tijdelijk te verleiden tijdens verdere werken.",
+      "statement": "De Ronsenaars hopen dat de stad weet waarmee ze bezig is.",
       "isTrue": true
     },
     {
-      "statement": "De ring van Antwerpen wordt volledig gesloten voor alle verkeer na deze opening.",
+      "statement": "Ronse is een stad in Nederland.",
       "isTrue": false
     }
   ]

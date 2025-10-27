@@ -1,105 +1,105 @@
 {
-  "id": 6,
+  "id": 9,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Catherine Connolly wint Ierse presidentsverkiezingen",
+  "title": "Koerdische PKK haalt strijders weg uit Turkije",
   "topicNumber": 1,
   "article": {
-    "title": "Catherine Connolly wint Ierse presidentsverkiezingen",
-    "summary": "De 68-jarige Catherine Connolly wordt de nieuwe president van Ierland. Ze heeft de presidentsverkiezingen gewonnen met meer dan 63 procent van de stemmen, zo blijkt uit de officiële resultaten."
+    "title": "Koerdische PKK haalt strijders weg uit Turkije",
+    "summary": "Turkije en de Koerdische separatisten van de PKK zetten een historische nieuwe stap in hun onderhandelingen. De PKK-strijders zullen zich terugtrekken uit Turkije. Maar het akkoord blijft het resultaat van achterkamertjespolitiek."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "president",
-        "definition": "Het staatshoofd van een republiek",
-        "sentence": "De nieuwe ___ van Ierland is Catherine Connolly.",
-        "answer": "president"
+        "word": "achterkamertjespolitiek",
+        "definition": "politiek die in het geheim plaatsvindt, zonder openheid",
+        "sentence": "De beslissing werd genomen door middel van ___.",
+        "answer": "achterkamertjespolitiek"
       },
       {
-        "word": "verkiezing",
-        "definition": "Zie 'verkiezingen'; dit is het enkelvoud",
-        "sentence": "De presidentsverkiezing was een spannende race.",
-        "answer": "verkiezing"
+        "word": "akkoord",
+        "definition": "overeenkomst tussen partijen",
+        "sentence": "Het politieke ___ werd gisteren ondertekend.",
+        "answer": "akkoord"
       },
       {
-        "word": "resultaten",
-        "definition": "De uitkomsten of gevolgen van iets",
-        "sentence": "De verkiezings-___ zijn bekend gemaakt.",
-        "answer": "resultaten"
+        "word": "terugtrekken",
+        "definition": "ergens weg gaan, zich terugtrekken",
+        "sentence": "Soldaten moeten zich ___ uit gevaarlijke gebieden.",
+        "answer": "terugtrekken"
       },
       {
-        "word": "officiële",
-        "definition": "Iets wat formeel en openbaar is",
-        "sentence": "De ___ resultaten bevestigen haar overwinning.",
-        "answer": "officiële"
+        "word": "akkoord",
+        "definition": "overeenkomst tussen partijen",
+        "sentence": "Beide partijen hebben het ___ ondertekend.",
+        "answer": "akkoord"
       },
       {
-        "word": "stemmen",
-        "definition": "Het uitbrengen van een stem, of de stemmen zelf",
-        "sentence": "Zij kreeg de meeste ___ in de verkiezing.",
-        "answer": "stemmen"
+        "word": "strijders",
+        "definition": "mensen die vechten in een oorlog of conflict",
+        "sentence": "De ___ verdedigen hun land.",
+        "answer": "strijders"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De nieuwe ___ van Ierland is Catherine Connolly.",
-        "answer": "president"
+        "sentence": "Het politieke ___ werd gisteren ondertekend.",
+        "answer": "akkoord"
       },
       {
-        "sentence": "De ___ resultaten bevestigen haar overwinning.",
-        "answer": "officiële"
+        "sentence": "De ___ verdedigen hun land.",
+        "answer": "strijders"
       },
       {
-        "sentence": "De presidentsverkiezing was een spannende race.",
-        "answer": "verkiezing"
+        "sentence": "Soldaten moeten zich ___ uit gevaarlijke gebieden.",
+        "answer": "terugtrekken"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat heeft Catherine Connolly gewonnen?",
+      "question": "Wat betekent het als strijders zich terugtrekken?",
       "options": [
-        "De Nobelprijs",
-        "De presidentsverkiezingen",
-        "Een sportwedstrijd",
-        "Een loterij"
+        "Ze geven zich over",
+        "Ze verlaten het gebied",
+        "Ze vieren feest",
+        "Ze winnen de oorlog"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoe oud is Catherine Connolly?",
+      "question": "Wat is een kenmerk van achterkamertjespolitiek?",
       "options": [
-        "50 jaar",
-        "60 jaar",
-        "68 jaar",
-        "70 jaar"
+        "Het is volledig transparant",
+        "Het gebeurt openbaar",
+        "Het is geheim en niet openbaar",
+        "Het heeft geen effect"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is de officiële uitslag van de verkiezingen?",
+      "question": "Wat is het resultaat van onderhandelingen?",
       "options": [
-        "Onbekend",
-        "Nog niet bekend",
-        "Catherine won met 63%",
-        "Ze verloor met 37%"
+        "Een oorlog",
+        "Een nieuwe wet",
+        "Een overeenkomst",
+        "Een schending van rechten"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Catherine Connolly is de nieuwe president van Ierland.",
-      "isTrue": true
-    },
-    {
-      "statement": "Catherine Connolly is 70 jaar oud.",
+      "statement": "De PKK-strijders blijven in Turkije.",
       "isTrue": false
     },
     {
-      "statement": "De verkiezingsresultaten zijn officieel bevestigd.",
+      "statement": "Het akkoord is het resultaat van openbare onderhandelingen.",
+      "isTrue": false
+    },
+    {
+      "statement": "Turkije en de PKK hebben een nieuwe stap gezet in onderhandelingen.",
       "isTrue": true
     }
   ]

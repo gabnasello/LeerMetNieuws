@@ -1,106 +1,106 @@
 {
-  "id": 18,
+  "id": 22,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
+  "title": "Wat denken de Ronsenaars over al die PFAS?",
   "topicNumber": 1,
   "article": {
-    "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
-    "summary": "Op de Antwerpse Ring is afgelopen nacht een tijdelijk stuk snelweg geopend, parallel met het viaduct van Merksem ter hoogte van de AFAS-Dome. De belangrijke stap in de Oosterweelwerken belooft veel verkeershinder met zich mee te brengen."
+    "title": "Wat denken de Ronsenaars over al die PFAS? “Ik blijf eten uit mijn moestuin, PFAS of niet”",
+    "summary": "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben. “We hopen dat de stad weet waar ze mee bezig is. Zolang we maar niet het nieuwe Zwijndrecht worden.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "stap",
-        "definition": "een actie of deel van een proces",
-        "sentence": "De eerste ___ in het project is voltooid.",
-        "answer": "stap"
+        "word": "worden",
+        "definition": "veranderen in of getransformeerd worden naar",
+        "sentence": "We hopen niet het nieuwe Zwijndrecht te worden.",
+        "answer": "worden"
       },
       {
-        "word": "belooft",
-        "definition": "zegt dat iets zal gebeuren of verwacht wordt",
-        "sentence": "De coach ___ zijn team een overwinning.",
-        "answer": "belooft"
+        "word": "we",
+        "definition": "verwijst naar de groep die spreekt, inclusief de spreker zelf",
+        "sentence": "We blijven eten uit onze eigen tuin, wat er ook gebeurt.",
+        "answer": "we"
       },
       {
-        "word": "viaduct",
-        "definition": "een brug waar een weg of spoor over gaat",
-        "sentence": "Het nieuwe ___ verbindt de twee stadsdelen.",
-        "answer": "viaduct"
+        "word": "maar",
+        "definition": "behalve, met uitzondering van",
+        "sentence": "Het gaat niet om schuld, maar om voorzorg.",
+        "answer": "maar"
       },
       {
-        "word": "ring",
-        "definition": "een rondweg of rondweg rond een stad",
-        "sentence": "De Antwerpse ___ maakt deel uit van het stadswegennet.",
-        "answer": "ring"
+        "word": "heerst",
+        "definition": "bestaat of is aanwezig (van een situatie of gevoel)",
+        "sentence": "Er heerst veel onrust in de stad sinds het nieuws bekend werd.",
+        "answer": "heerst"
       },
       {
-        "word": "parallel",
-        "definition": "naast elkaar, in dezelfde richting",
-        "sentence": "Deze weg loopt ___ aan de snelweg.",
-        "answer": "parallel"
+        "word": "tientallen",
+        "definition": "ongeveer tien tot honderd, een groot aantal",
+        "sentence": "Er werden tientallen mensen getest op PFAS.",
+        "answer": "tientallen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De coach ___ zijn team een overwinning.",
-        "answer": "belooft"
+        "sentence": "Het gaat niet om schuld, maar om voorzorg.",
+        "answer": "maar"
       },
       {
-        "sentence": "De Antwerpse ___ maakt deel uit van het stadswegennet.",
-        "answer": "ring"
+        "sentence": "Er heerst veel onrust in de stad sinds het nieuws bekend werd.",
+        "answer": "heerst"
       },
       {
-        "sentence": "Het nieuwe ___ verbindt de twee stadsdelen.",
-        "answer": "viaduct"
+        "sentence": "We blijven eten uit onze eigen tuin, wat er ook gebeurt.",
+        "answer": "we"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is het hoofdonderwerp van dit nieuwsbericht?",
+      "question": "Waar gaat de tekst vooral over?",
       "options": [
-        "De opening van een nieuwe winkel",
-        "De aanleg van een tijdelijke snelweg",
-        "De vernieuwing van het Antwerpse stadscentrum",
-        "De verkeersproblemen in heel België"
+        "Over PFAS in Ronse",
+        "Over een nieuwe supermarkt",
+        "Over reizen naar Zwijndrecht",
+        "Over politieke veranderingen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is de houding van de bewoners?",
+      "options": [
+        "Ze zijn boos en protesteren",
+        "Ze accepteren het en doen niets",
+        "Ze blijven hun eigen gewoontes volgen",
+        "Ze zijn blij met de situatie"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is het doel van dit artikel?",
+      "options": [
+        "Mensen waarschuwen over PFAS",
+        "Mensen geruststellen over hun voedsel",
+        "Een nieuwe wet aankondigen",
+        "Een restaurant promoten"
       ],
       "correctAnswer": 2
-    },
-    {
-      "question": "Waarom is deze gebeurtenis belangrijk voor Antwerpen?",
-      "options": [
-        "Het maakt de stad mooier",
-        "Het vermindert het verkeer in de stad",
-        "Het is een belangrijke stap in een groot infrastructuurproject",
-        "Het betekent het einde van alle Oosterweelwerken"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat is het effect van deze opening op korte termijn?",
-      "options": [
-        "Er zal minder verkeer zijn",
-        "Er wordt een nieuw park gebouwd",
-        "Het zal meer verkeershinder veroorzaken",
-        "De ringweg wordt permanent gesloten"
-      ],
-      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het nieuwe wegdeel is permanent en vervangt de bestaande ringweg.",
+      "statement": "De bewoners van Ronse zijn gestopt met het eten uit hun eigen tuin.",
       "isTrue": false
     },
     {
-      "statement": "De opening van deze weg vindt plaats tijdens de nacht om hinder te beperken.",
+      "statement": "De stad Ronse neemt maatregelen om de bewoners te beschermen.",
       "isTrue": true
     },
     {
-      "statement": "De Oosterweelwerken zijn volledig afgerond met deze stap.",
-      "isTrue": false
+      "statement": "Zwijndrecht is een voorbeeld van hoe het niet moet, volgens de bewoners.",
+      "isTrue": true
     }
   ]
 }

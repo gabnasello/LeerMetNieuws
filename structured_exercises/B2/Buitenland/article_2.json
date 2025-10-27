@@ -1,106 +1,106 @@
 {
-  "id": 8,
+  "id": 13,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Wij zijn nog altijd boos: tienduizenden mensen komen een jaar na dodelijke overstromingen in Valencia op straat",
+  "title": "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
   "topicNumber": 1,
   "article": {
-    "title": "Wij zijn nog altijd boos: tienduizenden mensen komen een jaar na dodelijke overstromingen in Valencia op straat",
-    "summary": "Tienduizenden mensen hebben in Valencia deelgenomen aan een protestmars, een jaar na de dodelijke overstromingen in de regio."
+    "title": "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
+    "summary": "Volgens toponderhandelaars van China en de VS zijn de “grote lijnen” van een akkoord beklonken. Haalt de dealmaker-in-chief tijdens zijn rondreis in Azië een handelsdeal met China binnen?"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "straat",
-        "definition": "een weg in een stad of dorp, meestal met huizen eraan",
-        "sentence": "Ze liepen over de ___ om hun stem te laten horen.",
-        "answer": "straat"
+        "word": "Xi",
+        "definition": "De achternaam van de Chinese leider Xi Jinping, vaak aangeduid als President Xi.",
+        "sentence": "___ is de leider van China.",
+        "answer": "Xi"
       },
       {
-        "word": "boos",
-        "definition": "een sterk gevoel van ergernis of woede hebben",
-        "sentence": "Ze voelen zich ___ omdat er niet genoeg is gedaan.",
-        "answer": "boos"
+        "word": "tot",
+        "definition": "Tot' kan 'until' of 'to' betekenen, afhankelijk van de context.",
+        "sentence": "Hij werkte ___ hij moest stoppen.",
+        "answer": "tot"
       },
       {
-        "word": "nog",
-        "definition": "geeft aan dat iets continuert of nog steeds het geval is",
-        "sentence": "We zijn ___ steeds boos over wat er is gebeurd.",
-        "answer": "nog"
+        "word": "Azië",
+        "definition": "Het werelddeel ten oosten van Europa, met landen als China en India.",
+        "sentence": "Hij reisde door ___ voor zijn werk.",
+        "answer": "Azië"
       },
       {
-        "word": "Valencia",
-        "definition": "een stad in Spanje, waar de overstromingen plaatsvonden",
-        "sentence": "In ___ vonden de dodelijke overstromingen plaats.",
-        "answer": "Valencia"
+        "word": "Komt",
+        "definition": "Derde persoon enkelvoud van 'komen', wat betekent 'to come' in het Engels.",
+        "sentence": "Hij ___ morgen naar het feest.",
+        "answer": "komt"
       },
       {
-        "word": "wij",
-        "definition": "verwijst naar een groep mensen waar de spreker toe behoort",
-        "sentence": "___ gaan de straat op om te protesteren.",
-        "answer": "wij"
+        "word": "toenadering",
+        "definition": "Het naderbij komen, oftewel het dichter bij elkaar komen, vaak in relaties of politiek.",
+        "sentence": "De ___ tussen de twee landen verraste velen.",
+        "answer": "toenadering"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze voelen zich ___ omdat er niet genoeg is gedaan.",
-        "answer": "boos"
+        "sentence": "De ___ tussen de twee landen verraste velen.",
+        "answer": "toenadering"
       },
       {
-        "sentence": "We zijn ___ steeds boos over wat er is gebeurd.",
-        "answer": "nog"
+        "sentence": "Hij werkte ___ hij moest stoppen.",
+        "answer": "tot"
       },
       {
-        "sentence": "In ___ vonden de dodelijke overstromingen plaats.",
-        "answer": "Valencia"
+        "sentence": "Hij ___ morgen naar het feest.",
+        "answer": "komt"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom protesteerden de mensen in Valencia?",
+      "question": "Waar vond de rondreis van Trump plaats?",
       "options": [
-        "Omdat er te veel regen was",
-        "Omdat ze ontevreden zijn over de hulp na de overstromingen",
-        "Omdat ze een feest wilden vieren",
-        "Omdat de straten nog nat waren"
+        "Europa",
+        "Azië",
+        "Afrika",
+        "Zuid-Amerika"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van de overheid volgens het artikel?",
+      "question": "Wat is een mogelijke uitkomst van Trumps bezoek aan China?",
       "options": [
-        "Ze hebben alles perfect opgelost",
-        "Ze hebben niets gedaan sinds de overstromingen",
-        "Ze hebben genoeg gedaan, maar de mensen willen meer",
-        "Ze hebben de overstromingen veroorzaakt"
+        "Een oorlog",
+        "Een handelsdeal",
+        "Een sportevenement",
+        "Een cultureel festival"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe lang geleden vonden de overstromingen plaats?",
+      "question": "Wie is Xi in deze context?",
       "options": [
-        "Vijf jaar geleden",
-        "Twee weken geleden",
-        "Vorig jaar",
-        "Tien jaar geleden"
+        "De leider van Rusland",
+        "De leider van China",
+        "De leider van India",
+        "De leider van Japan"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De overstromingen in Valencia veroorzaakten alleen materiële schade.",
-      "isTrue": false
-    },
-    {
-      "statement": "De protestmars vond plaats om de overheid tot actie aan te zetten.",
+      "statement": "Trump maakt een reis door Azië.",
       "isTrue": true
     },
     {
-      "statement": "Valencia is de hoofdstad van Spanje.",
+      "statement": "Xi is de leider van Rusland.",
       "isTrue": false
+    },
+    {
+      "statement": "Trump en Xi proberen tot een overeenkomst te komen.",
+      "isTrue": true
     }
   ]
 }

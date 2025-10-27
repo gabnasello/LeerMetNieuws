@@ -1,106 +1,106 @@
 {
-  "id": 7,
+  "id": 12,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Wij zijn nog altijd boos: tienduizenden mensen komen een jaar na dodelijke overstromingen in Valencia op straat",
+  "title": "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
   "topicNumber": 1,
   "article": {
-    "title": "Wij zijn nog altijd boos: tienduizend mensen komen een jaar na dodelijke overstromingen in Valencia op straat",
-    "summary": "Tienduizenden mensen hebben in Valencia deelgenomen aan een protestmars, een jaar na de dodelijke overstromingen in de regio."
+    "title": "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
+    "summary": "Volgens toponderhandelaars van China en de VS zijn de “grote lijnen” van een akkoord beklonken. Haalt de dealmaker-in-chief tijdens zijn rondreis in Azië een handelsdeal met China binnen?"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "zijn",
-        "definition": "het werkwoord dat een staat of eigenschap aangeeft",
-        "sentence": "Ik ___ erg moe vandaag.",
-        "answer": "ben"
+        "word": "volgens",
+        "definition": "zoals door iemand gezegd of geschreven",
+        "sentence": "___ de krant was het een mooie dag.",
+        "answer": "Volgens"
       },
       {
-        "word": "wij",
-        "definition": "verwijst naar de mensen die aan het woord zijn, vaak in een groep",
-        "sentence": "___ gaan samen naar het park.",
-        "answer": "Wij"
+        "word": "rondreis",
+        "definition": "een reis waarbij meerdere plaatsen worden bezocht",
+        "sentence": "Hun ___ door Europa duurde drie weken.",
+        "answer": "rondreis"
       },
       {
-        "word": "Valencia",
-        "definition": "een stad in Spanje, bekend om zijn geschiedenis",
-        "sentence": "___ is een mooie stad in Spanje.",
-        "answer": "Valencia"
+        "word": "tijdens",
+        "definition": "een voorzetsel dat aangeeft dat iets tegelijk met iets anders gebeurt",
+        "sentence": "Hij was aan het werken ___ de vergadering.",
+        "answer": "tijdens"
       },
       {
-        "word": "nog",
-        "definition": "tot nu toe of tot dit moment",
-        "sentence": "Heb je ___ niet gegeten?",
-        "answer": "al"
+        "word": "Komt",
+        "definition": "een werkwoord dat aangeeft wat iemand of iets doet, nu of in de toekomst",
+        "sentence": "___ hij morgen naar school?",
+        "answer": "Komt"
       },
       {
-        "word": "altijd",
-        "definition": "op elk moment, zonder uitzondering",
-        "sentence": "Hij is ___ op tijd voor meetings.",
-        "answer": "altijd"
+        "word": "toenadering",
+        "definition": "het dichter bij elkaar komen, meestal na een conflict",
+        "sentence": "Na het gesprek was er weer ___ tussen de twee.",
+        "answer": "toenadering"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ik ___ erg moe vandaag.",
-        "answer": "ben"
+        "sentence": "Hun ___ door Europa duurde drie weken.",
+        "answer": "rondreis"
       },
       {
-        "sentence": "Hij is ___ op tijd voor meetings.",
-        "answer": "altijd"
+        "sentence": "___ hij morgen naar school?",
+        "answer": "Komt"
       },
       {
-        "sentence": "___ is een mooie stad in Spanje.",
-        "answer": "Valencia"
+        "sentence": "___ de krant was het een mooie dag.",
+        "answer": "Volgens"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar vond de protestmars plaats?",
+      "question": "Waar gaat het artikel vooral over?",
       "options": [
-        "Amsterdam",
-        "Parijs",
-        "Valencia",
-        "Brussel"
+        "Een vakantie van Trump",
+        "Een sportwedstrijd in China",
+        "Onderhandelingen tussen de VS en China",
+        "Een feest in Azië"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat was de reden voor de protestmars?",
+      "question": "Wat is de rol van de toponderhandelaars?",
       "options": [
-        "Tegen de regering",
-        "Tegen klimaatverandering",
-        "Herdenking van overstromingen",
-        "Voor meer geld"
+        "Ze organiseren feesten",
+        "Ze maken internationale afspraken",
+        "Ze geven les op school",
+        "Ze zijn atleten in de Olympische Spelen"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Hoeveel mensen deden mee aan de protestmars?",
+      "question": "Wat is het resultaat van de besprekingen?",
       "options": [
-        "Honderden",
-        "Duizenden",
-        "Tienduizenden",
-        "Miljoenen"
+        "Er is meer oorlog gekomen",
+        "Er zijn nieuwe spelregels gemaakt",
+        "Er is een akkoord bereikt",
+        "Er is niets besloten"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De protestmars vond plaats in Amsterdam.",
-      "isTrue": false
-    },
-    {
-      "statement": "De overstromingen in Valencia vonden een jaar geleden plaats.",
+      "statement": "De tekst gaat over een mogelijke ontmoeting tussen Trump en de leider van China.",
       "isTrue": true
     },
     {
-      "statement": "Tienduizenden mensen protesteerden tegen de overstromingen.",
+      "statement": "Trump heeft al een handelsdeal met China ondertekend tijdens zijn reis.",
       "isTrue": false
+    },
+    {
+      "statement": "Toponderhandelaars hebben de hoofdafspraken van een akkoord vastgelegd.",
+      "isTrue": true
     }
   ]
 }

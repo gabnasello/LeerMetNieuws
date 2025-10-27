@@ -1,106 +1,106 @@
 {
-  "id": 20,
+  "id": 24,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Vrouw belt 112 in het Nederlands",
+  "title": "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
   "topicNumber": 1,
   "article": {
-    "title": "Vrouw belt 112 in het Nederlands",
-    "summary": "Een vrouw belt 112 omdat ze een gewonde man wil helpen. Maar ze mag alleen Nederlands spreken."
+    "title": "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
+    "summary": "Meer agenten klussen bij, en dat leidt soms tot misstanden. Minister van Binnenlandse Zaken Bernard Quintin (MR) wil de regels aanscherpen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "wil",
-        "definition": "heeft de wens of intentie om iets te doen",
-        "sentence": "Hij ___ een nieuwe fiets kopen.",
-        "answer": "wil"
+        "word": "aanscherpen",
+        "definition": "strenger maken, zoals van regels",
+        "sentence": "De minister wil de regels ___ om problemen te voorkomen.",
+        "answer": "aanscherpen"
       },
       {
-        "word": "belt",
-        "definition": "gebruikt de telefoon om iemand te bellen",
-        "sentence": "Hij ___ zijn moeder als hij hulp nodig heeft.",
-        "answer": "belt"
+        "word": "minister",
+        "definition": "een belangrijk persoon in de regering",
+        "sentence": "De ___ van Binnenlandse Zaken maakt nieuwe plannen.",
+        "answer": "minister"
       },
       {
-        "word": "helpen",
-        "definition": "iemand assisteren of ondersteunen",
-        "sentence": "Ik wil je graag ___ met je huiswerk.",
-        "answer": "helpen"
+        "word": "agenten",
+        "definition": "mensen die werken bij de politie",
+        "sentence": "De ___ houden de wijk veilig.",
+        "answer": "agenten"
       },
       {
-        "word": "man",
-        "definition": "een volwassen persoon van het mannelijk geslacht",
-        "sentence": "Die ___ werkt in een groot kantoor.",
-        "answer": "man"
+        "word": "klussen",
+        "definition": "extra werk doen, vaak naast een andere baan",
+        "sentence": "Hij wil graag ___ om meer geld te verdienen.",
+        "answer": "klussen"
       },
       {
-        "word": "Nederlands",
-        "definition": "de officiële taal van Nederland en Vlaanderen",
-        "sentence": "In België spreken veel mensen ___.",
-        "answer": "Nederlands"
+        "word": "politiemensen",
+        "definition": "mannen en vrouwen die bij de politie werken",
+        "sentence": "De ___ hebben een moeilijke taak.",
+        "answer": "politiemensen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij ___ een nieuwe fiets kopen.",
-        "answer": "wil"
+        "sentence": "De ___ van Binnenlandse Zaken maakt nieuwe plannen.",
+        "answer": "minister"
       },
       {
-        "sentence": "Die ___ werkt in een groot kantoor.",
-        "answer": "man"
+        "sentence": "Hij wil graag ___ om meer geld te verdienen.",
+        "answer": "klussen"
       },
       {
-        "sentence": "Ik wil je graag ___ met je huiswerk.",
-        "answer": "helpen"
+        "sentence": "De ___ hebben een moeilijke taak.",
+        "answer": "politiemensen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom belt de vrouw naar 112?",
+      "question": "Waarom wil de minister de regels aanscherpen?",
       "options": [
-        "Omdat ze een feest organiseert",
-        "Omdat ze een gewonde man wil helpen",
-        "Omdat ze haar kat kwijt is",
-        "Omdat ze Nederlands wil oefenen"
+        "Omdat er te weinig agenten zijn",
+        "Omdat er veel misstanden zijn door het bijklussen",
+        "Omdat de agenten geen andere hobby's hebben",
+        "Omdat de minister zelf ook bijklust"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de hoofdtaal in Vlaanderen?",
+      "question": "Wat is 'bijklussen'?",
       "options": [
-        "Frans",
-        "Duits",
-        "Nederlands",
-        "Engels"
+        "Werken als een klusser voor huishoudens",
+        "Werken bij de politie",
+        "Werken naast je gewone baan",
+        "Werken als een spion"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is de situatie volgens de burgemeester?",
+      "question": "Waar gaat dit artikel over?",
       "options": [
-        "Een geweldige dag",
-        "Een schandalige situatie",
-        "Een rustige nacht",
-        "Een grote feest"
+        "Alleen over de agenten die bijklussen",
+        "Alleen over de minister die nieuwe regels maakt",
+        "Over hoe agenten vechten tijdens hun werk",
+        "Over de nieuwe regels en waarom ze nodig zijn"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "De vrouw belt 112 omdat ze een gewonde man wil helpen.",
-      "isTrue": true
-    },
-    {
-      "statement": "De vrouw mag alleen Engels spreken met 112.",
+      "statement": "Alle agenten mogen niet meer bijklussen.",
       "isTrue": false
     },
     {
-      "statement": "De burgemeester vindt de situatie schandalig.",
+      "statement": "De minister wil de regels aanscherpen om problemen te voorkomen.",
       "isTrue": true
+    },
+    {
+      "statement": "Alleen agenten mogen bijklussen, andere mensen niet.",
+      "isTrue": false
     }
   ]
 }

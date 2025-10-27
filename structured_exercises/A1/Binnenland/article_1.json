@@ -1,105 +1,105 @@
 {
-  "id": 10,
+  "id": 15,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Noodnummer 1722 voor storm- en waterschade",
+  "title": "Bouwproject",
   "topicNumber": 1,
   "article": {
-    "title": "Noodnummer 1722 voor storm- en waterschade",
-    "summary": "Het KMI waarschuwt voor slecht weer. Mensen kunnen bellen naar 1722 voor hulp bij storm- en waterschade."
+    "title": "Bouwproject",
+    "summary": "Er komen nieuwe huizen in een dorp. De mensen zijn blij. Maar in de stad is er protest tegen meer bouwen. Wat is wijs?"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "hulp",
-        "definition": "Assistentie, ondersteuning als je het nodig hebt.",
-        "sentence": "Vraag ___ als je niet weet wat je moet doen.",
-        "answer": "hulp"
+        "word": "mensen",
+        "definition": "personen",
+        "sentence": "De ___ zijn vriendelijk.",
+        "answer": "mensen"
       },
       {
-        "word": "nummer",
-        "definition": "Een getal, zoals je telefoonnummer.",
-        "sentence": "Welk ___ moet ik bellen voor hulp?",
-        "answer": "nummer"
+        "word": "dorp",
+        "definition": "een kleine plaats met huizen",
+        "sentence": "Het ___ is rustig en mooi.",
+        "answer": "dorp"
       },
       {
-        "word": "KMI",
-        "definition": "Het KMI is een instituut dat het weer voorspelt.",
-        "sentence": "Het ___ zegt dat het gaat regenen.",
-        "answer": "KMI"
+        "word": "wijs",
+        "definition": "slim en goed",
+        "sentence": "Een ___ persoon denkt na.",
+        "answer": "wijs"
       },
       {
-        "word": "water",
-        "definition": "Een natte stof die je drinkt of die uit de lucht valt.",
-        "sentence": "Na veel regen staat er ___ op straat.",
-        "answer": "water"
+        "word": "Bouwproject",
+        "definition": "een plan om iets te bouwen",
+        "sentence": "Het ___ is klaar.",
+        "answer": "Bouwproject"
       },
       {
-        "word": "storm",
-        "definition": "Heel harde wind met veel regen.",
-        "sentence": "Tijdens een ___ kunnen bomen omvallen.",
-        "answer": "storm"
+        "word": "protest",
+        "definition": "tegen iets zijn",
+        "sentence": "Er is ___ tegen het plan.",
+        "answer": "protest"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Tijdens een ___ kunnen bomen omvallen.",
-        "answer": "storm"
+        "sentence": "Er is ___ tegen het plan.",
+        "answer": "protest"
       },
       {
-        "sentence": "Het ___ zegt dat het gaat regenen.",
-        "answer": "KMI"
+        "sentence": "De ___ zijn vriendelijk.",
+        "answer": "mensen"
       },
       {
-        "sentence": "Na veel regen staat er ___ op straat.",
-        "answer": "water"
+        "sentence": "Een ___ persoon denkt na.",
+        "answer": "wijs"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat doet het KMI?",
+      "question": "Waar is het bouwproject?",
       "options": [
-        "Ze maken eten klaar",
-        "Ze voorspellen het weer",
-        "Ze repareren auto's",
-        "Ze geven medische hulp"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is 1722?",
-      "options": [
-        "Een telefoonnummer voor hulp",
-        "Een adres van een restaurant",
-        "Een code voor een computer",
-        "Een type van auto"
+        "In een dorp",
+        "In een stad",
+        "In een park",
+        "In een school"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is schade?",
+      "question": "Wat doen de mensen in het dorp?",
       "options": [
-        "Een soort van eten",
-        "Een type van kleding",
-        "Schade is wat kapot is",
-        "Een soort van sport"
+        "Ze werken",
+        "Ze wonen",
+        "Ze reizen",
+        "Ze slapen"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is het tegenovergestelde van protest?",
+      "options": [
+        "Steun",
+        "Tegen",
+        "Rust",
+        "Lawaai"
+      ],
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het KMI waarschuwt voor slecht weer.",
+      "statement": "Het bouwproject is in een dorp.",
       "isTrue": true
     },
     {
-      "statement": "Het nummer 1722 is voor feestelijke evenementen.",
+      "statement": "De mensen in de stad zijn blij met het protest.",
       "isTrue": false
     },
     {
-      "statement": "Mensen kunnen bellen naar 1722 voor hulp bij storm- en waterschade.",
+      "statement": "Een wijs persoon denkt na over wonen.",
       "isTrue": true
     }
   ]

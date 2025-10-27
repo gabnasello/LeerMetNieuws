@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
+  "title": "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
   "topicNumber": 1,
   "article": {
-    "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
-    "summary": "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen."
+    "title": "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
+    "summary": "Volgens toponderhandelaars van China en de VS zijn de 'grote lijnen' van een akkoord beklonken. Haalt de dealmaker-in-chief tijdens zijn rondreis in Azië een handelsdeal met China binnen?"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "drones",
-        "definition": "vliegende machines zonder piloot",
-        "sentence": "De ___ zijn in de lucht.",
-        "answer": "drones"
+        "word": "toenadering",
+        "definition": "Het dichter bij elkaar komen, bijvoorbeeld in een relatie",
+        "sentence": "Er was sprake van een ___ tussen de twee landen.",
+        "answer": "toenadering"
       },
       {
-        "word": "onderhandelingen",
-        "definition": "gesprekken om tot een oplossing te komen",
-        "sentence": "De ___ zijn belangrijk voor vrede.",
-        "answer": "onderhandelingen"
+        "word": "VS",
+        "definition": "Verenigde Staten van Amerika",
+        "sentence": "De ___ is een groot land in Noord-Amerika.",
+        "answer": "VS"
       },
       {
-        "word": "controleren",
-        "definition": "kijken of alles goed gaat",
-        "sentence": "Ze ___ het staakt-het-vuren.",
-        "answer": "controleren"
+        "word": "akkoord",
+        "definition": "Overeenkomst, wanneer partijen het eens zijn",
+        "sentence": "Ze zijn tot een ___ gekomen.",
+        "answer": "akkoord"
       },
       {
-        "word": "staakt-het-vuren",
-        "definition": "stoppen met schieten",
-        "sentence": "Het ___ is belangrijk voor vrede.",
-        "answer": "staakt-het-vuren"
+        "word": "Komt",
+        "definition": "Hulpwerkwoord dat aangeeft dat iets in de toekomst gebeurt",
+        "sentence": "___ het morgen regenen?",
+        "answer": "Komt"
       },
       {
-        "word": "doorbraak",
-        "definition": "een belangrijke stap vooruit",
-        "sentence": "Er is een ___ in de gesprekken.",
-        "answer": "doorbraak"
+        "word": "Azië",
+        "definition": "Het werelddeel ten oosten van Europa",
+        "sentence": "China ligt in ___.",
+        "answer": "Azië"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ zijn in de lucht.",
-        "answer": "drones"
+        "sentence": "___ het morgen regenen?",
+        "answer": "Komt"
       },
       {
-        "sentence": "Ze ___ het staakt-het-vuren.",
-        "answer": "controleren"
+        "sentence": "China ligt in ___.",
+        "answer": "Azië"
       },
       {
-        "sentence": "De ___ zijn belangrijk voor vrede.",
-        "answer": "onderhandelingen"
+        "sentence": "Er was sprake van een ___ tussen de twee landen.",
+        "answer": "toenadering"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar kijken de drones naar?",
+      "question": "Wat betekent 'rondreis' in deze context?",
       "options": [
-        "Naar de maan",
-        "Naar het staakt-het-vuren",
-        "Naar de vogels",
-        "Naar de zon"
+        "Een reis waarbij meerdere plaatsen worden bezocht",
+        "Een enkele reis naar één plaats",
+        "Een vakantie thuis",
+        "Een reis naar de maan"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat gebeurt er na twee jaar oorlog?",
+      "question": "Wat is de betekenis van 'akkoord' in deze tekst?",
       "options": [
-        "Er is nog steeds oorlog",
-        "Er is een doorbraak in de onderhandelingen",
-        "Er is een groot feest",
-        "Er is een nieuwe oorlog"
+        "Overeenkomst tussen partijen",
+        "Een muziekstuk",
+        "Een soort gerecht",
+        "Een sportevenement"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Waar is Gaza?",
+      "question": "Waar staat 'VS' voor in deze context?",
       "options": [
-        "In Europa",
-        "In Azië",
-        "In het Midden-Oosten",
-        "In Afrika"
+        "Verenigde Staten",
+        "Vlaamse Stam",
+        "Voetbal Samenwerking",
+        "Vrije Stad"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Amerikaanse drones controleren het staakt-het-vuren in Gaza.",
+      "statement": "Trump bezoekt Azië tijdens zijn reis.",
       "isTrue": true
     },
     {
-      "statement": "Na twee jaar oorlog is er nog geen doorbraak in de onderhandelingen.",
-      "isTrue": false
+      "statement": "China en de VS hebben een akkoord ondertekend.",
+      "isTrue": true
     },
     {
-      "statement": "Gaza is een plaats in Amerika.",
+      "statement": "Trump reist alleen naar China.",
       "isTrue": false
     }
   ]

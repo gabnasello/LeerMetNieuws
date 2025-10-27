@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
+  "title": "Koerdische PKK haalt alle strijders weg uit Turkije",
   "topicNumber": 1,
   "article": {
-    "title": "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
-    "summary": "De 68-jarige Catherine Connally is de nieuwe president van Ierland. Ze stond al lang aan de leiding in de peilingen. Haar rivaal Heather Humphreys van de regeringspartij Fine Gael heeft haar nederlaag toegegeven."
+    "title": "Koerdische PKK haalt alle strijders weg uit Turkije",
+    "summary": "Turkije en de Koerdische PKK hebben een nieuw akkoord. De PKK-strijders zullen zich terugtrekken uit Turkije. Dit is een historische stap in hun onderhandelingen. Maar het akkoord is het resultaat van achterkamertjespolitiek."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "president",
-        "definition": "het hoofd van een land, de leider",
-        "sentence": "De ___ van de Verenigde Staten is Joe Biden.",
-        "answer": "president"
+        "word": "strijders",
+        "definition": "mensen die vechten in een oorlog",
+        "sentence": "De ___ vechten voor een zaak.",
+        "answer": "strijders"
       },
       {
-        "word": "rivaal",
-        "definition": "iemand die tegen je is, een tegenstander",
-        "sentence": "De twee atleten waren echte ___ in de race.",
-        "answer": "rivaal"
+        "word": "stap",
+        "definition": "een actie die je neemt",
+        "sentence": "De eerste ___ is vaak het moeilijkst.",
+        "answer": "stap"
       },
       {
-        "word": "erkent",
-        "definition": "geeft toe of bevestigt",
-        "sentence": "Hij ___ dat hij een fout heeft gemaakt.",
-        "answer": "erkent"
+        "word": "terugtrekken",
+        "definition": "weggaan van een plaats",
+        "sentence": "Soldaten ___ zich uit een gebied.",
+        "answer": "terugtrekken"
       },
       {
-        "word": "nederlaag",
-        "definition": "het verliezen van een wedstrijd of strijd",
-        "sentence": "Na de zware ___ voelde het team zich down.",
-        "answer": "nederlaag"
+        "word": "achterkamertjespolitiek",
+        "definition": "geheime politieke deals",
+        "sentence": "___ gebeurt vaak zonder openbaarheid.",
+        "answer": "achterkamertjespolitiek"
       },
       {
-        "word": "regeringspartij",
-        "definition": "een politieke groep die aan de macht is",
-        "sentence": "De ___ heeft veel zetels in het parlement.",
-        "answer": "regeringspartij"
+        "word": "Turkije",
+        "definition": "een land in Europa en Azië",
+        "sentence": "___ is het land waar de PKK zich terugtrekt.",
+        "answer": "Turkije"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij ___ dat hij een fout heeft gemaakt.",
-        "answer": "erkent"
+        "sentence": "___ is het land waar de PKK zich terugtrekt.",
+        "answer": "Turkije"
       },
       {
-        "sentence": "De twee atleten waren echte ___ in de race.",
-        "answer": "rivaal"
+        "sentence": "___ gebeurt vaak zonder openbaarheid.",
+        "answer": "achterkamertjespolitiek"
       },
       {
-        "sentence": "Na de zware ___ voelde het team zich down.",
-        "answer": "nederlaag"
+        "sentence": "De ___ vechten voor een zaak.",
+        "answer": "strijders"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'president' in de context van de tekst?",
+      "question": "Wat betekent 'terugtrekken' in deze context?",
       "options": [
-        "een soort dokter",
-        "de leider van een land",
-        "een type auto",
-        "een beroemde filmster"
+        "vooruit bewegen",
+        "teruggaan",
+        "stil blijven",
+        "rennen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom erkende Heather Humphreys haar nederlaag volgens de tekst?",
+      "question": "Wat is 'achterkamertjespolitiek'?",
       "options": [
-        "Omdat ze ziek was",
-        "Omdat ze de verkiezing verloor",
-        "Omdat ze een nieuwe baan kreeg",
-        "Omdat ze de verkiezing won"
+        "openbare vergaderingen",
+        "geheime politieke deals",
+        "sportevenementen",
+        "kooklessen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van Catherine Connally in Ierland?",
+      "question": "Waarom is dit akkoord historisch?",
       "options": [
-        "Ze is een student",
-        "Ze is de nieuwe president",
-        "Ze is een beroemde zanger",
-        "Ze is de leider van een klein dorp"
+        "Omdat het nooit eerder is gebeurd",
+        "Omdat het om eten gaat",
+        "Omdat het in de krant staat",
+        "Omdat het niet belangrijk is"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Catherine Connally is de nieuwe president van Ierland.",
-      "isTrue": true
-    },
-    {
-      "statement": "Heather Humphreys won de verkiezingen.",
+      "statement": "De PKK-strijders blijven in Turkije.",
       "isTrue": false
     },
     {
-      "statement": "Catherine Connally stond al lang aan de leiding in de peilingen.",
+      "statement": "Het akkoord is het resultaat van onderhandelingen.",
       "isTrue": true
+    },
+    {
+      "statement": "De PKK is een Turkse organisatie.",
+      "isTrue": false
     }
   ]
 }

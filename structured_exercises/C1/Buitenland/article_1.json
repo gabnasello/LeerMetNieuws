@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Japanse toerist overleden na val van Pantheon in Rome",
+  "title": "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambtenaren",
   "topicNumber": 1,
   "article": {
-    "title": "Japanse toerist overleden na val van Pantheon in Rome",
-    "summary": "Een 69-jarige toerist uit Japan is vrijdagavond van een muur van het Pantheon in de Italiaanse hoofdstad Rome gevallen. Hij overleed ter plaatse."
+    "title": "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambtenaren",
+    "summary": "Na één maand begint de shutdown de Amerikanen zwaar te raken – niet alleen onbetaalde ambtenaren, maar bijvoorbeeld ook steuntrekkers. Worden wél netjes verder betaald: immigratie-agenten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "val",
-        "definition": "naar beneden gaan door zwaartekracht; een ongeluk",
-        "sentence": "De ___ van de trap veroorzaakte zijn verwondingen.",
-        "answer": "val"
+        "word": "niet",
+        "definition": "Ontkenning; het tegenovergestelde van 'wel'",
+        "sentence": "De ambtenaren worden ___ betaald, wat tot onvrede leidt.",
+        "answer": "niet"
       },
       {
-        "word": "ter plaatse",
-        "definition": "op dezelfde locatie; niet elders",
-        "sentence": "Hij overleed ___, zonder naar een ziekenhuis te gaan.",
-        "answer": "ter plaatse"
+        "word": "worden",
+        "definition": "Een werkwoord, hier gebruikt in de betekenis van 'zijn' of 'worden'",
+        "sentence": "De agenten ___ nog steeds betaald, ook al werken ze niet.",
+        "answer": "worden"
       },
       {
-        "word": "hoofdstad",
-        "definition": "de belangrijkste stad van een land, vaak waar de regering zit",
-        "sentence": "Rome is de ___ van Italië.",
-        "answer": "hoofdstad"
+        "word": "betaald",
+        "definition": "Geld ontvangen voor geleverd werk",
+        "sentence": "Sommige werknemers worden nog steeds ___ tijdens de shutdown.",
+        "answer": "betaald"
       },
       {
-        "word": "toerist",
-        "definition": "iemand die een plaats bezoekt voor plezier of ontspanning",
-        "sentence": "De ___ nam deel aan een georganiseerde excursie.",
-        "answer": "toerist"
+        "word": "immigratie",
+        "definition": "Het proces van immigratie, oftewel immigratie",
+        "sentence": "De ___-agenten blijven werken ondanks de shutdown.",
+        "answer": "immigratie"
       },
       {
-        "word": "Rome",
-        "definition": "de hoofdstad van Italië, bekend om zijn geschiedenis",
-        "sentence": "___ trekt miljoenen toeristen per jaar.",
-        "answer": "Rome"
+        "word": "ambtenaren",
+        "definition": "Personen die werken voor de overheid",
+        "sentence": "De ___ wachten op hun salaris tijdens de shutdown.",
+        "answer": "ambtenaren"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ trekt miljoenen toeristen per jaar.",
-        "answer": "Rome"
+        "sentence": "De ___ wachten op hun salaris tijdens de shutdown.",
+        "answer": "ambtenaren"
       },
       {
-        "sentence": "Hij overleed ___, zonder naar een ziekenhuis te gaan.",
-        "answer": "ter plaatse"
+        "sentence": "De ambtenaren worden ___ betaald, wat tot onvrede leidt.",
+        "answer": "niet"
       },
       {
-        "sentence": "De ___ van de trap veroorzaakte zijn verwondingen.",
-        "answer": "val"
+        "sentence": "De agenten ___ nog steeds betaald, ook al werken ze niet.",
+        "answer": "worden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar bevindt het Pantheon zich?",
+      "question": "Wat is een 'shutdown' in de context van de overheid?",
       "options": [
-        "Parijs",
-        "Londen",
-        "Rome",
-        "Berlijn"
+        "Een feestelijke sluiting",
+        "Een tijdelijke sluiting door gebrek aan budget",
+        "Een permanente sluiting van diensten",
+        "Een soort van belastingverlaging"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wie wordt er specifiek genoemd als 'wel' betaald tijdens de shutdown?",
+      "options": [
+        "Alle ambtenaren",
+        "Alleen de hoogst genote ambtenaren",
+        "De immigratie-agenten",
+        "De steuntrekkers"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is de nationaliteit van de overledene?",
+      "question": "Wat voor effect heeft de shutdown op de meeste ambtenaren?",
       "options": [
-        "Italiaans",
-        "Amerikaans",
-        "Japans",
-        "Duits"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Hoe overleed de toerist?",
-      "options": [
-        "Door een auto-ongeluk",
-        "Door ziekte",
-        "Door een val",
-        "Door ouderdom"
+        "Ze krijgen een bonus",
+        "Ze worden ontslagen",
+        "Ze worden niet meer betaald",
+        "Ze krijgen extra verlof"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De toerist overleed in een ziekenhuis.",
+      "statement": "De shutdown treft alleen ambtenaren, en geen andere groepen.",
       "isTrue": false
     },
     {
-      "statement": "Het incident vond plaats in Rome.",
+      "statement": "Immigratie-agenten worden nog steeds betaald tijdens de shutdown.",
       "isTrue": true
     },
     {
-      "statement": "De toerist overleefde de val.",
+      "statement": "De shutdown duurt al meer dan een maand, maar heeft nog geen gevolgen.",
       "isTrue": false
     }
   ]

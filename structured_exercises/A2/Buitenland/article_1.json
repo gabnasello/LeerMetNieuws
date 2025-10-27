@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Miljardair geeft veel geld aan Trump voor soldaten",
+  "title": "Amerikaanse shutdown: wat zijn de gevolgen?",
   "topicNumber": 1,
   "article": {
-    "title": "Miljardair geeft veel geld aan Trump voor soldaten",
-    "summary": "Donald Trump krijgt veel geld van een rijke man. Het geld is voor soldaten. Dit gebeurt in Amerika."
+    "title": "Amerikaanse shutdown: wat zijn de gevolgen?",
+    "summary": "Na een maand begint de shutdown Amerikaanse burgers hard te raken. Niet alleen onbetaalde ambtenaren, maar ook anderen zoals steuntrekkers worden geraakt. Echter, sommige groepen zoals immigratie-agenten worden wel doorbetaald."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geld",
-        "definition": "wat je gebruikt om dingen te kopen, zoals euro's of dollars",
-        "sentence": "Hij geeft veel ___ aan Trump voor soldaten.",
-        "answer": "geld"
+        "word": "agenten",
+        "definition": "mensen die werken voor veiligheid of handhaving",
+        "sentence": "De ___ houden zich bezig met immigratiecontroles.",
+        "answer": "agenten"
       },
       {
-        "word": "krijgt",
-        "definition": "ontvangt, krijgt iets",
-        "sentence": "Trump ___ het geld van de miljardair.",
-        "answer": "krijgt"
+        "word": "steuntrekkers",
+        "definition": "mensen die geld krijgen van de overheid voor levensonderhoud",
+        "sentence": "Ook ___ hebben last van de shutdown.",
+        "answer": "steuntrekkers"
       },
       {
-        "word": "Amerika",
-        "definition": "een groot land, ook Verenigde Staten genoemd",
-        "sentence": "Deze gebeurtenis vindt plaats in ___.",
-        "answer": "Amerika"
+        "word": "shutdown",
+        "definition": "een situatie waarin de overheid tijdelijk stopt met werken",
+        "sentence": "De ___ duurt al heel lang.",
+        "answer": "shutdown"
       },
       {
-        "word": "gebeurt",
-        "definition": "iets dat plaatsvindt of gebeurt",
-        "sentence": "Wat ___ er in dit verhaal?",
-        "answer": "gebeurt"
+        "word": "immigratie",
+        "definition": "het komen naar een nieuw land om daar te wonen",
+        "sentence": "___ is een belangrijk onderwerp in de politiek.",
+        "answer": "immigratie"
       },
       {
-        "word": "Trump",
-        "definition": "de familienaam van de voormalige president van Amerika",
-        "sentence": "___ krijgt veel geld van de miljardair.",
-        "answer": "Trump"
+        "word": "gevolgen",
+        "definition": "de resultaten of effecten van iets",
+        "sentence": "Wat zijn de ___ van de shutdown?",
+        "answer": "gevolgen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ krijgt veel geld van de miljardair.",
-        "answer": "Trump"
+        "sentence": "___ is een belangrijk onderwerp in de politiek.",
+        "answer": "immigratie"
       },
       {
-        "sentence": "Hij geeft veel ___ aan Trump voor soldaten.",
-        "answer": "geld"
+        "sentence": "Wat zijn de ___ van de shutdown?",
+        "answer": "gevolgen"
       },
       {
-        "sentence": "Deze gebeurtenis vindt plaats in ___.",
-        "answer": "Amerika"
+        "sentence": "De ___ duurt al heel lang.",
+        "answer": "shutdown"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom geeft de miljardair geld aan Trump?",
+      "question": "Wie worden het meest geraakt door de shutdown?",
       "options": [
-        "Om soldaten te betalen",
-        "Om rijk te worden",
-        "Om president te worden",
-        "Om naar Europa te reizen"
+        "Alleen ambtenaren",
+        "Alleen mensen die steun krijgen",
+        "Alleen immigratie-agenten",
+        "Zowel ambtenaren als anderen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
-      "question": "Waar vindt deze gebeurtenis plaats?",
+      "question": "Wat is een gevolg van de shutdown?",
       "options": [
-        "In Amerika",
-        "In Nederland",
-        "In China",
-        "In Rusland"
+        "Ambtenaren krijgen direct geen salaris meer",
+        "Steuntrekkers krijgen geen geld meer",
+        "Immigratie-agenten worden ontslagen",
+        "De overheid stopt helemaal met werken"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wie is de man die het geld geeft?",
+      "question": "Waarom worden sommige groepen wel doorbetaald?",
       "options": [
-        "De miljardair",
-        "De president van Amerika",
-        "De soldaat",
-        "De leraar"
+        "Omdat ze niet belangrijk zijn",
+        "Omdat hun werk essentieel is voor de samenleving",
+        "Omdat de overheid hen vergeet",
+        "Omdat ze niet voor de overheid werken"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De miljardair geeft geld aan Trump voor soldaten.",
+      "statement": "De shutdown duurt nu een maand.",
       "isTrue": true
     },
     {
-      "statement": "Deze gebeurtenis vindt plaats in Nederland.",
+      "statement": "Steuntrekkers worden niet geraakt door de shutdown.",
       "isTrue": false
     },
     {
-      "statement": "Trump ontvangt het geld voor zichzelf.",
-      "isTrue": false
+      "statement": "Immigratie-agenten worden wel doorbetaald tijdens de shutdown.",
+      "isTrue": true
     }
   ]
 }

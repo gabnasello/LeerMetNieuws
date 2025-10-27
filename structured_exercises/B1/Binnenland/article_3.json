@@ -1,106 +1,106 @@
 {
-  "id": 17,
+  "id": 21,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
+  "title": "Wat denken de Ronsenaars over al die PFAS? “Ik blijf eten uit mijn moestuin, PFAS of niet”",
   "topicNumber": 1,
   "article": {
-    "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
-    "summary": "Op de Antwerpse Ring is afgelopen nacht een tijdelijk stuk snelweg geopend, parallel met het viaduct van Merksem ter hoogte van de AFAS-Dome. De belangrijke stap in de Oosterweelwerken belooft veel verkeershinder met zich mee te brengen."
+    "title": "Wat denken de Ronsenaars over al die PFAS? “Ik blijf eten uit mijn moestuin, PFAS of niet”",
+    "summary": "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben. “We hopen dat de stad weet waar ze mee bezig is. Zolang we maar niet het nieuwe Zwijndrecht worden.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "belooft",
-        "definition": "zegt of toezegt dat iets gaat gebeuren",
-        "sentence": "De gemeente ___ een nieuwe speeltuin aan te leggen.",
-        "answer": "belooft"
+        "word": "worden",
+        "definition": "zijn, veranderen in",
+        "sentence": "Zolang we maar niet het nieuwe Zwijndrecht worden.",
+        "answer": "worden"
       },
       {
-        "word": "ring",
-        "definition": "een rondweg om een stad heen",
-        "sentence": "De Antwerpse ___ ligt rond de stad.",
-        "answer": "ring"
+        "word": "heerst",
+        "definition": "is aanwezig, gebeurt veel",
+        "sentence": "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben.",
+        "answer": "heerst"
       },
       {
-        "word": "tijdelijk",
-        "definition": "niet voor altijd, maar voor een tijdje",
-        "sentence": "Dit is een ___ oplossing tot de nieuwe brug klaar is.",
-        "answer": "tijdelijk"
+        "word": "weet",
+        "definition": "kent, heeft kennis van",
+        "sentence": "“We hopen dat de stad weet waar ze mee bezig is.”",
+        "answer": "weet"
       },
       {
-        "word": "op",
-        "definition": "niet dicht, toegankelijk",
-        "sentence": "De winkel is ___ van 9 tot 18 uur.",
-        "answer": "open"
+        "word": "hebben",
+        "definition": "in bezit zijn van, hebben",
+        "sentence": "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben.",
+        "answer": "hebben"
       },
       {
-        "word": "stap",
-        "definition": "een actie die je zet, of een deel van een plan",
-        "sentence": "De volgende ___ in het plan is de bouw van de tunnel.",
-        "answer": "stap"
+        "word": "zolang",
+        "definition": "gedurende de tijd dat, onder de voorwaarde dat",
+        "sentence": "Zolang we maar niet het nieuwe Zwijndrecht worden.",
+        "answer": "zolang"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Dit is een ___ oplossing tot de nieuwe brug klaar is.",
-        "answer": "tijdelijk"
+        "sentence": "Zolang we maar niet het nieuwe Zwijndrecht worden.",
+        "answer": "worden"
       },
       {
-        "sentence": "De Antwerpse ___ ligt rond de stad.",
-        "answer": "ring"
+        "sentence": "Zolang we maar niet het nieuwe Zwijndrecht worden.",
+        "answer": "zolang"
       },
       {
-        "sentence": "De volgende ___ in het plan is de bouw van de tunnel.",
-        "answer": "stap"
+        "sentence": "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben.",
+        "answer": "hebben"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'tijdelijk' in deze context?",
+      "question": "Waar gaat het artikel vooral over?",
       "options": [
-        "voor altijd",
-        "voor een korte tijd",
-        "gemaakt van goud",
-        "heel groot"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is 'verkeershinder'?",
-      "options": [
-        "een soort auto",
-        "een weg die niet vlak is",
-        "problemen in het verkeer",
-        "een hele snelle trein"
+        "Over reizen naar andere landen",
+        "Over gezond eten uit de tuin",
+        "Over een stad met veel PFAS in het bloed",
+        "Over sporten in Ronse"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Waar gaat de nieuwe weg vooral om?",
+      "question": "Wat is de houding van de bewoners volgens het artikel?",
       "options": [
-        "minder verkeershinder",
-        "meer auto's in de stad",
-        "meer verkeershinder",
-        "een nieuwe stad"
+        "Ze zijn erg bang en stoppen met alles",
+        "Ze vertrouwen op de stad en blijven normaal leven",
+        "Ze willen de stad verlaten",
+        "Ze negeren het probleem volledig"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de belangrijkste boodschap van de titel?",
+      "options": [
+        "Gezondheid is niet belangrijk",
+        "Ronse is een gevaarlijke stad",
+        "Ondanks problemen, het leven gaat door",
+        "Iedereen moet nu Zwijndrecht worden"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De nieuwe weg in Antwerpen zorgt voor meer verkeershinder.",
-      "isTrue": true
-    },
-    {
-      "statement": "De ringweg in Antwerpen is gesloten voor altijd.",
+      "statement": "De bewoners van Ronse hebben allemaal erg hoge PFAS-waarden.",
       "isTrue": false
     },
     {
-      "statement": "De aanleg van de Oosterweelverbinding gebeurt in stappen.",
+      "statement": "De bewoners hopen dat de stad weet wat het doet.",
       "isTrue": true
+    },
+    {
+      "statement": "De bewoners willen net zoals in Zwijndrecht worden.",
+      "isTrue": false
     }
   ]
 }

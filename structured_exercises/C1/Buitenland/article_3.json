@@ -1,106 +1,106 @@
 {
-  "id": 9,
+  "id": 10,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
+  "title": "Koerdische PKK haalt alle strijders weg uit Turkije",
   "topicNumber": 1,
   "article": {
-    "title": "Catherine Connolly wordt president van Ierland, rivaal erkent nederlaag",
-    "summary": "De 68-jarige Catherine Connolly is op weg naar het presidentschap van Ierland. Ze lag al ruim op kop in de peilingen en zaterdagnamiddag heeft haar rivaal in de presidentsverkiezingen, de 62-jarige Heather Humphreys van de centrumrechtse regeringspartij Fine Gael, haar verkiezingsnederlaag toegegeven."
+    "title": "Koerdische PKK haalt alle strijders weg uit Turkije",
+    "summary": "Turkije en de Koerdische separatisten van de PKK zetten een historische nieuwe stap in hun onderhandelingen. De PKK-strijders zullen zich terugtrekken uit Turkije. Maar het akkoord blijft het resultaat van achterkamertjespolitiek."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "rivaal",
-        "definition": "iemand die met een ander concurreert of strijdt om hetzelfde doel",
-        "sentence": "Zij waren eens elkaars grootste ___ in het bedrijfsleven.",
-        "answer": "rivaal"
+        "word": "historische",
+        "definition": "betrekking hebbend op of behorend tot de geschiedenis",
+        "sentence": "Deze overeenkomst markeert een ___ mijlpaal in de betrekkingen.",
+        "answer": "historische"
       },
       {
-        "word": "nederlaag",
-        "definition": "het verliezen van een strijd of conflict",
-        "sentence": "De terugtrekking was een strategische beslissing, geen ___.",
-        "answer": "nederlaag"
+        "word": "achterkamertjespolitiek",
+        "definition": "politieke besluitvorming die plaatsvindt in besloten kringen, zonder transparantie",
+        "sentence": "Critici noemden het beleid een vorm van ___.",
+        "answer": "achterkamertjespolitiek"
       },
       {
-        "word": "peilingen",
-        "definition": "onderzoeken of enquêtes die de publieke opinie meten",
-        "sentence": "Volgens de laatste ___ staat de partij sterk.",
-        "answer": "peilingen"
+        "word": "terugtrekken",
+        "definition": "zich terugtrekken of teruggaan naar een eerdere positie",
+        "sentence": "De troepen zullen zich ___ uit de betwiste regio.",
+        "answer": "terugtrekken"
       },
       {
-        "word": "verkiezingen",
-        "definition": "het proces waarbij mensen stemmen om leiders of vertegenwoordigers te kiezen",
-        "sentence": "De algemene ___ zijn over een maand.",
-        "answer": "verkiezingen"
+        "word": "akkoord",
+        "definition": "overeenkomst tussen partijen, vaak na onderhandelingen",
+        "sentence": "Het vredes___ werd ondertekend na maanden van onderhandelingen.",
+        "answer": "akkoord"
       },
       {
-        "word": "presidentschap",
-        "definition": "het ambt of de functie van president",
-        "sentence": "Na de verkiezingen zal hij het ___ overnemen.",
-        "answer": "presidentschap"
+        "word": "akkoord",
+        "definition": "overeenkomst tussen partijen over bepaalde kwesties",
+        "sentence": "Het politieke ___ werd unaniem goedgekeurd.",
+        "answer": "akkoord"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De terugtrekking was een strategische beslissing, geen ___.",
-        "answer": "nederlaag"
+        "sentence": "Het vredes___ werd ondertekend na maanden van onderhandelingen.",
+        "answer": "akkoord"
       },
       {
-        "sentence": "Zij waren eens elkaars grootste ___ in het bedrijfsleven.",
-        "answer": "rivaal"
+        "sentence": "Het politieke ___ werd unaniem goedgekeurd.",
+        "answer": "akkoord"
       },
       {
-        "sentence": "De algemene ___ zijn over een maand.",
-        "answer": "verkiezingen"
+        "sentence": "Deze overeenkomst markeert een ___ mijlpaal in de betrekkingen.",
+        "answer": "historische"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het als een politicus zijn nederlaag erkent?",
+      "question": "Wat betekent 'terugtrekken' in deze context?",
       "options": [
-        "Hij geeft toe dat hij verloren heeft.",
-        "Hij viert zijn overwinning.",
-        "Hij weigert het resultaat te accepteren.",
-        "Hij negeert de uitslag volledig."
+        "vooruitgaan",
+        "terugkeren",
+        "evacueren",
+        "zich terugtrekken"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
-      "question": "Welke rol speelt Heather Humphreys in deze context?",
+      "question": "Welk woord beschrijft het tegenovergestelde van openlijke diplomatie?",
       "options": [
-        "Ze is de winnaar van de verkiezingen.",
-        "Ze is de verliezende kandidaat.",
-        "Ze is de zittende president van Ierland.",
-        "Ze is een internationale waarnemer."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat geeft de uitslag van de peilingen aan over Catherine Connolly's kans?",
-      "options": [
-        "Ze staat er zeer zwak voor.",
-        "Ze heeft een kleine kans om te winnen.",
-        "Ze heeft een zeer grote kans om te winnen.",
-        "Ze heeft al gewonnen, de uitslag is definitief."
+        "transparantie",
+        "onderhandeling",
+        "achterkamertjespolitiek",
+        "internationale samenwerking"
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "Wat kenmerkt een 'historische' gebeurtenis?",
+      "options": [
+        "Het is onbeduidend en snel vergeten.",
+        "Het heeft grote gevolgen voor de toekomst.",
+        "Het is een alledaagse gebeurtenis.",
+        "Het is alleen lokaal belangrijk."
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Catherine Connolly is de enige kandidaat in de presidentsverkiezingen.",
+      "statement": "De PKK-strijders keren terug naar Turkije na de onderhandelingen.",
       "isTrue": false
     },
     {
-      "statement": "Heather Humphreys heeft haar nederlaag toegegeven tijdens de verkiezingen.",
+      "statement": "Het akkoord is het resultaat van achterkamertjespolitiek, wat betekent dat het niet transparant is.",
       "isTrue": true
     },
     {
-      "statement": "Catherine Connolly is de huidige president van Ierland.",
-      "isTrue": false
+      "statement": "De onderhandelingen vonden plaats zonder internationale bemiddeling.",
+      "isTrue": true
     }
   ]
 }

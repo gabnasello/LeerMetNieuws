@@ -1,105 +1,105 @@
 {
-  "id": 11,
+  "id": 16,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
+  "title": "Bouwgrond in Deinze: bewoners blij, bestuur niet",
   "topicNumber": 1,
   "article": {
-    "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
-    "summary": "Het KMI waarschuwt opnieuw voor slecht weer. De overheid heeft het nummer 1722 geactiveerd, dat mensen kunnen bellen bij storm- en waterschade."
+    "title": "Bouwgrond in Deinze: bewoners blij, bestuur niet",
+    "summary": "In Deinze is er veel nieuwe bouwgrond, maar het bestuur is niet blij. De bewoners zijn wel blij. Willen Vlamingen echt meer bouwen of blijven ze dromen over een groot huis met een tuin? Dit protest moet stoppen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "water",
-        "definition": "Water is een vloeistof die we drinken of die uit de kraan komt.",
-        "sentence": "Na de regen staat er ___ op de straten.",
-        "answer": "water"
+        "word": "protest",
+        "definition": "iets zeggen of doen omdat je het niet eens bent met iets",
+        "sentence": "Er was veel ___ tegen het nieuwe plan.",
+        "answer": "protest"
       },
       {
-        "word": "bellen",
-        "definition": "Bellen betekent telefoneren of iemand opbellen.",
-        "sentence": "Je kunt ___ naar 1722 voor hulp.",
-        "answer": "bellen"
+        "word": "bewoners",
+        "definition": "mensen die in een plaats wonen",
+        "sentence": "De ___ van de nieuwe wijk zijn heel tevreden.",
+        "answer": "bewoners"
       },
       {
-        "word": "KMI",
-        "definition": "Het KMI is een instituut dat het weer voorspelt.",
-        "sentence": "Het ___ waarschuwt voor zwaar weer.",
-        "answer": "KMI"
+        "word": "Vlamingen",
+        "definition": "mensen die in Vlaanderen wonen",
+        "sentence": "Veel ___ willen een eigen huis met een tuin.",
+        "answer": "Vlamingen"
       },
       {
-        "word": "overheid",
-        "definition": "De overheid is de regering van een land.",
-        "sentence": "De ___ beslist over nieuwe regels.",
-        "answer": "overheid"
+        "word": "huis",
+        "definition": "plaats waar iemand woont",
+        "sentence": "Het ___ heeft drie slaapkamers en een grote tuin.",
+        "answer": "huis"
       },
       {
-        "word": "nummer",
-        "definition": "Een nummer is een getal of een telefoonnummer.",
-        "sentence": "Bel dit ___ bij een noodgeval.",
-        "answer": "nummer"
+        "word": "tuin",
+        "definition": "een stuk grond rond een huis met planten en gras",
+        "sentence": "De kinderen spelen in de ___ .",
+        "answer": "tuin"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ waarschuwt voor zwaar weer.",
-        "answer": "KMI"
+        "sentence": "Veel ___ willen een eigen huis met een tuin.",
+        "answer": "Vlamingen"
       },
       {
-        "sentence": "Na de regen staat er ___ op de straten.",
-        "answer": "water"
+        "sentence": "Er was veel ___ tegen het nieuwe plan.",
+        "answer": "protest"
       },
       {
-        "sentence": "Bel dit ___ bij een noodgeval.",
-        "answer": "nummer"
+        "sentence": "De ___ van de nieuwe wijk zijn heel tevreden.",
+        "answer": "bewoners"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is het telefoonnummer 1722 voor?",
+      "question": "Waarom is het bestuur van Deinze niet blij met de nieuwe bouwgrond?",
       "options": [
-        "Voor het bestellen van pizza",
-        "Voor het melden van stormschade",
-        "Voor het bellen van de politie",
-        "Voor het maken van een afspraak"
+        "Omdat er te veel bewoners zijn",
+        "Omdat ze willen dat er minder wordt gebouwd",
+        "Omdat het veel geld kost",
+        "Omdat ze liever geen verandering willen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat doet het KMI?",
+      "question": "Wat is de wens van veel Vlamingen volgens de tekst?",
       "options": [
-        "Het voorspelt het weer",
-        "Het repareert schade",
-        "Het maakt nieuwe wetten",
-        "Het stuurt hulpverleners"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Waarom heeft de overheid het nummer 1722 geactiveerd?",
-      "options": [
-        "Om mensen te helpen bij verkeersongelukken",
-        "Om mensen te helpen bij stormschade",
-        "Om nieuwe wetten aan te kondigen",
-        "Om feestjes te organiseren"
+        "Een klein appartement in de stad",
+        "Een groot huis met een tuin eromheen",
+        "Geen huis maar een caravan",
+        "Een huis zonder tuin om geld te besparen"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de hoofdgedachte van de tekst?",
+      "options": [
+        "Iedereen moet in een flat gaan wonen",
+        "Bouwen moet stoppen om het milieu te sparen",
+        "Mensen willen ruimte om te wonen, niet alleen maar hoge gebouwen",
+        "De overheid moet alle huizen gratis maken"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het KMI waarschuwt alleen voor mooi weer.",
+      "statement": "De bewoners van Deinze zijn ongelukkig met de nieuwe bouwgrond.",
       "isTrue": false
     },
     {
-      "statement": "Je kunt bellen naar 1722 als je schade hebt door een storm.",
+      "statement": "Vlamingen willen graag een eigen huis met wat ruimte eromheen.",
       "isTrue": true
     },
     {
-      "statement": "De overheid heeft het nummer 1722 gemaakt voor feestjes.",
+      "statement": "Het protest is tegen het bouwen van huizen, dus tegen meer woningen.",
       "isTrue": false
     }
   ]

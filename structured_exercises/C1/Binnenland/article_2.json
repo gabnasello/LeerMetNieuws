@@ -1,106 +1,106 @@
 {
-  "id": 23,
+  "id": 28,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Franstalige vrouw belt hulpdiensten omdat ze gewonde man wil helpen in Zoniënwoud, maar mag enkel Nederlands spreken",
+  "title": "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
   "topicNumber": 1,
   "article": {
-    "title": "Franstalige vrouw belt hulpdiensten omdat ze gewonde man wil helpen in Zoniënwoud, maar mag enkel Nederlands spreken",
-    "summary": "Een Franstalige vrouw wilde afgelopen week een gewonde man in het Zoniënwoud helpen, maar toen ze de 112 belde, kreeg ze te horen dat ze enkel in het Nederlands geholpen kon worden. “Een schandalige situatie”, zegt de burgemeester van Watermaal-Bosvoorde."
+    "title": "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
+    "summary": "Meer agenten klussen bij, en dat leidt soms tot misstanden. Minister van Binnenlandse Zaken Bernard Quintin (MR) wil de regels aanscherpen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "belde",
-        "definition": "telefonisch contact opnemen",
-        "sentence": "Ze ___ naar de hulpdiensten voor assistentie.",
-        "answer": "belde"
+        "word": "aanscherpen",
+        "definition": "Strenger of scherper maken, bijvoorbeeld van regels of wetten",
+        "sentence": "De minister wil de bestaande regels ___ om misstanden tegen te gaan.",
+        "answer": "aanscherpen"
       },
       {
-        "word": "enkel",
-        "definition": "alleen of uitsluitend",
-        "sentence": "Ze mocht ___ Nederlands spreken met de hulpdienst.",
-        "answer": "enkel"
+        "word": "regels",
+        "definition": "Voorschriften of reglementen die moeten worden gevolgd",
+        "sentence": "De minister wil nieuwe ___ introduceren om problemen te voorkomen.",
+        "answer": "regels"
       },
       {
-        "word": "Franstalige",
-        "definition": "iemand die Frans spreekt als moedertaal",
-        "sentence": "De ___ vrouw kon geen Nederlands spreken.",
-        "answer": "Franstalige"
+        "word": "leidt",
+        "definition": "Veroorzaakt of resulteert in (van 'leiden tot')",
+        "sentence": "Onvoldoende toezicht ___ soms tot problemen.",
+        "answer": "leidt"
       },
       {
-        "word": "Zoniënwoud",
-        "definition": "een bosgebied in België",
-        "sentence": "Het incident gebeurde in het ___.",
-        "answer": "Zoniënwoud"
+        "word": "agenten",
+        "definition": "Politieagenten; personen die bij de politie werken",
+        "sentence": "Meer ___ nemen deel aan bijklussen, wat soms leidt tot problemen.",
+        "answer": "agenten"
       },
       {
-        "word": "Nederlands",
-        "definition": "de officiële taal in Vlaanderen en Nederland",
-        "sentence": "Ze kreeg te horen dat ze enkel in het ___ mocht communiceren.",
-        "answer": "Nederlands"
+        "word": "vechtpartij",
+        "definition": "Een fysiek conflict of gevecht tussen personen",
+        "sentence": "Na een ___ onder collega's, worden nieuwe regels overwogen.",
+        "answer": "vechtpartij"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze mocht ___ Nederlands spreken met de hulpdienst.",
-        "answer": "enkel"
+        "sentence": "Meer ___ nemen deel aan bijklussen, wat soms leidt tot problemen.",
+        "answer": "agenten"
       },
       {
-        "sentence": "Ze ___ naar de hulpdiensten voor assistentie.",
-        "answer": "belde"
+        "sentence": "Na een ___ onder collega's, worden nieuwe regels overwogen.",
+        "answer": "vechtpartij"
       },
       {
-        "sentence": "Het incident gebeurde in het ___.",
-        "answer": "Zoniënwoud"
+        "sentence": "De minister wil de bestaande regels ___ om misstanden tegen te gaan.",
+        "answer": "aanscherpen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom belde de vrouw de hulpdiensten?",
+      "question": "Waarom wil de minister de regels aanscherpen?",
       "options": [
-        "Om een pizza te bestellen",
-        "Omdat ze een gewonde man wilde helpen",
-        "Om de burgemeester te spreken",
-        "Omdat ze verdwaald was"
+        "Omdat er te weinig agenten zijn",
+        "Omdat bijklussen soms leidt tot conflicten en problemen",
+        "Omdat de politie niet genoeg betaalt",
+        "Omdat het ministerie nieuwe wetten wil testen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat was de reactie van de burgemeester op de situatie?",
+      "question": "Wat is 'bijklussen' in deze context?",
       "options": [
-        "Hij vond het prima",
-        "Hij noemde het een schandalige situatie",
-        "Hij belde de vrouw zelf",
-        "Hij vond het een goede zaak"
+        "Het schoonmaken van politieauto's na dienst",
+        "Het nemen van extra betaald werk buiten de hoofdbaan om",
+        "Het trainen voor fysieke fitheid",
+        "Het deelnemen aan protestacties"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "In welke taal mocht de vrouw communiceren met de hulpdiensten?",
+      "question": "Wat is de rol van de minister in deze kwestie?",
       "options": [
-        "Alleen in het Frans",
-        "Alleen in het Engels",
-        "Alleen in het Nederlands",
-        "In elke taal"
+        "Hij organiseert wekelijkse vechtpartijen voor teamontwikkeling",
+        "Hij biedt financiële steun aan agenten die bijklussen",
+        "Hij evalueert nieuwe technologie voor politiewerk",
+        "Hij overweegt regels aan te scherpen om misstanden te voorkomen"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "De vrouw kon vrijuit in het Frans communiceren met de hulpdiensten.",
+      "statement": "Bijklussen door politieagenten wordt altijd gesteund door het management.",
       "isTrue": false
     },
     {
-      "statement": "De burgemeester van Watermaal-Bosvoorde reageerde positief op de situatie.",
-      "isTrue": false
-    },
-    {
-      "statement": "Het incident vond plaats in het Zoniënwoud.",
+      "statement": "Het aanscherpen van regels kan helpen om problemen in de toekomst te voorkomen.",
       "isTrue": true
+    },
+    {
+      "statement": "De minister van Binnenlandse Zaken is verantwoordelijk voor het direct aanstellen van politieagenten.",
+      "isTrue": false
     }
   ]
 }

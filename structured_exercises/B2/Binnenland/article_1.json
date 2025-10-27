@@ -1,105 +1,105 @@
 {
-  "id": 13,
+  "id": 17,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Noodnummer 1722",
+  "title": "Was ons budget ongelimiteerd, dan hadden wij ook een vrijstaand huis op den buiten gekocht",
   "topicNumber": 1,
   "article": {
-    "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
-    "summary": "Het KMI waarschuwt opnieuw voor slecht weer. De overheid heeft het nummer 1722 geactiveerd, dat mensen kunnen bellen bij storm- en waterschade."
+    "title": "Was ons budget ongelimiteerd, dan hadden wij ook een vrijstaand huis op den buiten gekocht",
+    "summary": "Nergens in Vlaanderen werd de voorbije jaren zoveel grond aangesneden voor woningen als in Deinze, en tegen de zin van het lokale bestuur in. Maar de bewoners, die zijn er gelukkig. Wil de Vlaming wel een bouwshift, of blijven we dromen van een groot huis in het groen? 'Dat kortzichtig protest tegen hoger bouwen moet stoppen.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "overheid",
-        "definition": "De organisatie die een land, stad of gemeente bestuurt.",
-        "sentence": "De ___ waarschuwt voor gevaarlijk weer.",
-        "answer": "overheid"
+        "word": "Buiten",
+        "definition": "De buitenlucht, buitenhuis, of buiten de stad",
+        "sentence": "We gaan dit weekend naar het ___ om te wandelen.",
+        "answer": "buiten"
       },
       {
-        "word": "storm",
-        "definition": "Een periode met zeer slecht weer, vaak met veel wind en regen.",
-        "sentence": "Er raasde een zware ___ over het land.",
-        "answer": "storm"
+        "word": "vrijstaand",
+        "definition": "Alleenstaand, niet verbonden met andere gebouwen",
+        "sentence": "Ze kochten een ___ huis met een grote tuin.",
+        "answer": "vrijstaand"
       },
       {
-        "word": "geactiveerd",
-        "definition": "In werking gesteld of aangezet.",
-        "sentence": "De hulplijn werd ___ na de storm.",
-        "answer": "geactiveerd"
+        "word": "budget",
+        "definition": "Het beschikbare geld voor een bepaald doel",
+        "sentence": "Het ___ voor het nieuwe project is nog niet goedgekeurd.",
+        "answer": "budget"
       },
       {
-        "word": "waarschuwt",
-        "definition": "Iemand waarschuwen betekent zeggen dat er gevaar of iets slechts kan komen.",
-        "sentence": "Het KMI ___ voor zware regen.",
-        "answer": "waarschuwt"
+        "word": "aangesneden",
+        "definition": "In gebruik genomen of vrijgegeven voor een doel",
+        "sentence": "Er werd veel grond ___ voor nieuwe woningbouw.",
+        "answer": "aangesneken"
       },
       {
-        "word": "KMI",
-        "definition": "Het Koninklijk Meteorologisch Instituut, een Belgische overheidsinstelling die het weer voorspelt.",
-        "sentence": "Het ___ waarschuwde voor zware stormen.",
-        "answer": "KMI"
+        "word": "bewoners",
+        "definition": "Mensen die in een bepaalde plaats of huis wonen",
+        "sentence": "De ___ van de flat organiseerden een feest.",
+        "answer": "bewoners"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ waarschuwt voor gevaarlijk weer.",
-        "answer": "overheid"
+        "sentence": "Ze kochten een ___ huis met een grote tuin.",
+        "answer": "vrijstaand"
       },
       {
-        "sentence": "Er raasde een zware ___ over het land.",
-        "answer": "storm"
+        "sentence": "De ___ van de flat organiseerden een feest.",
+        "answer": "bewoners"
       },
       {
-        "sentence": "De hulplijn werd ___ na de storm.",
-        "answer": "geactiveerd"
+        "sentence": "We gaan dit weekend naar het ___ om te wandelen.",
+        "answer": "buiten"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de rol van het KMI in deze situatie?",
+      "question": "Wat betekent 'aangesneden' in de context van de tekst?",
       "options": [
-        "Ze organiseren evacuaties",
-        "Ze voorspellen het weer en geven waarschuwingen",
-        "Ze herstellen elektriciteitsnetten",
-        "Ze bieden financiële steun aan slachtoffers"
+        "Opengesneden",
+        "Vrijgemaakt",
+        "Voltooid",
+        "Vergeten"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom heeft de overheid het nummer 1722 geactiveerd?",
+      "question": "Waar gaat de tekst vooral over?",
       "options": [
-        "Om feestelijke evenementen aan te kondigen",
-        "Om mensen te helpen bij stormschade",
-        "Om weersvoorspellingen te geven",
-        "Om nieuwsbulletins uit te zenden"
+        "Over het kopen van een huis",
+        "Over een conflict in een gemeente",
+        "Over de voorkeuren van Vlamingen",
+        "Over de prijs van grond"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een gevolg van een zware storm?",
+      "question": "Wat is de houding van de auteur?",
       "options": [
-        "Mensen gaan meer binnen sporten",
-        "Schade aan gebouwen en infrastructuur",
-        "Alle voorspellingen worden onmiddellijk gestopt",
-        "De temperatuur stijgt snel"
+        "Neutraal en informatief",
+        "Kritisch en aanmoedigend",
+        "Helemaal positief",
+        "Helemaal negatief"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het KMI geeft alleen waarschuwingen voor sneeuw.",
+      "statement": "De bewoners van Deinze zijn ongelukkig met de nieuwe woningen.",
       "isTrue": false
     },
     {
-      "statement": "Mensen kunnen 1722 bellen voor hulp na stormschade.",
+      "statement": "De auteur suggereert dat Vlamingen misschien liever dromen over een groot huis dan dat ze een 'bouwshift' willen.",
       "isTrue": true
     },
     {
-      "statement": "De overheid heeft het nummer 1722 gedeactiveerd na de storm.",
+      "statement": "De auteur is tegen hogere bouwprojecten en steunt het protest ertegen.",
       "isTrue": false
     }
   ]

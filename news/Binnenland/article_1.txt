@@ -1,15 +1,15 @@
 Artikel 1
-Nieuwsupdate: 2025-10-26 04:27 UCT
+Nieuwsupdate: 2025-10-27 00:07 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind
-Link: https://www.standaard.be/binnenland/noodnummer-1722-voor-storm-en-waterschade-geactiveerd-kmi-waarschuwt-voor-buien-en-veel-wind/100132043.html
-Datum: Sat, 25 Oct 2025 15:15:21 GMT
-Samenvatting: Het KMI waarschuwt opnieuw voor slecht weer. De overheid heeft het nummer 1722 geactiveerd, dat mensen kunnen bellen bij storm- en waterschade.
+Titel: “Was ons budget ongelimiteerd, dan hadden wij ook een vrijstaand huis op den buiten gekocht”
+Link: https://www.standaard.be/binnenland/was-ons-budget-ongelimiteerd-dan-hadden-wij-ook-een-vrijstaand-huis-op-den-buiten-gekocht/99538165.html
+Datum: Sun, 26 Oct 2025 22:59:00 GMT
+Samenvatting: Nergens in Vlaanderen werd de voorbije jaren zoveel grond aangesneden voor woningen als in Deinze, en tegen de zin van het lokale bestuur in. Maar de bewoners, die zijn er gelukkig. Wil de Vlaming wel een bouwshift, of blijven we dromen van een groot huis in het groen? “Dat kortzichtig protest tegen hoger bouwen moet stoppen.”
 Auteur: Geen auteur
 Categorie: Binnenland
-Afbeelding: https://prod-img.gva.be/public/incoming/qkvo4m-belgium-dilbeek-weather-clouds/alternates/BASE_SIXTEEN_NINE/BELGIUM%20DILBEEK%20WEATHER%20CLOUDS
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/dunp3e-astene-09-jk.jpg/alternates/BASE_SIXTEEN_NINE/ASTENE_09-jk.jpg
+Premium: true
 ------------------------------------------------------------

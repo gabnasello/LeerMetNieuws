@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Japanse toerist overleden na val van Pantheon in Rome",
+  "title": "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambtenaren",
   "topicNumber": 1,
   "article": {
-    "title": "Japanse toerist overleden na val van Pantheon in Rome",
-    "summary": "Een 69-jarige toerist uit Japan is vrijdagavond van een muur van het Pantheon in de Italiaanse hoofdstad Rome gevallen. Hij overleed ter plaatse."
+    "title": "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambtenaren",
+    "summary": "Na één maand begint de shutdown de Amerikanen zwaar te raken – niet alleen onbetaalde ambtenaren, maar bijvoorbeeld ook steuntrekkers. Worden wél netjes verder betaald: immigratie-agenten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Pantheon",
-        "definition": "een oud, rond gebouw in Rome met een grote koepel",
-        "sentence": "Het ___ is een beroemd monument in Rome.",
-        "answer": "Pantheon"
+        "word": "betaald",
+        "definition": "geld ontvangen voor geleverd werk",
+        "sentence": "Sommige werknemers worden nog wel ___.",
+        "answer": "betaald"
       },
       {
-        "word": "hoofdstad",
-        "definition": "de belangrijkste stad van een land, waar de regering zit",
-        "sentence": "Amsterdam is de ___ van Nederland.",
-        "answer": "hoofdstad"
+        "word": "maand",
+        "definition": "een periode van ongeveer 30 dagen",
+        "sentence": "Na een ___ is de situatie ernstig.",
+        "answer": "maand"
       },
       {
-        "word": "muur",
-        "definition": "een stevige wand van steen of hout, vaak van een gebouw",
-        "sentence": "Hij viel van de ___ en raakte gewond.",
-        "answer": "muur"
+        "word": "shutdown",
+        "definition": "tijdelijke sluiting of stopzetting",
+        "sentence": "De ___ duurt al een maand.",
+        "answer": "shutdown"
       },
       {
-        "word": "toerist",
-        "definition": "iemand die op vakantie is in een ander land",
-        "sentence": "De ___ nam veel foto's tijdens zijn reis.",
-        "answer": "toerist"
+        "word": "agenten",
+        "definition": "mensen die voor een organisatie of overheid werken",
+        "sentence": "De immigratie-___ werken nog steeds door.",
+        "answer": "agenten"
       },
       {
-        "word": "hoofdstad",
-        "definition": "de belangrijkste stad van een land, waar de regering zit",
-        "sentence": "Rome is de ___ van Italië.",
-        "answer": "hoofdstad"
+        "word": "immigratie",
+        "definition": "het binnenkomen van mensen in een nieuw land",
+        "sentence": "De ___ agenten zijn gewoon doorbetaald.",
+        "answer": "immigratie"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ is een beroemd monument in Rome.",
-        "answer": "Pantheon"
+        "sentence": "De ___ agenten zijn gewoon doorbetaald.",
+        "answer": "immigratie"
       },
       {
-        "sentence": "De ___ nam veel foto's tijdens zijn reis.",
-        "answer": "toerist"
+        "sentence": "De immigratie-___ werken nog steeds door.",
+        "answer": "agenten"
       },
       {
-        "sentence": "Rome is de ___ van Italië.",
-        "answer": "hoofdstad"
+        "sentence": "De ___ duurt al een maand.",
+        "answer": "shutdown"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar bevindt het Pantheon zich?",
+      "question": "Wat is een 'shutdown' in deze context?",
       "options": [
-        "Londen",
-        "Rome",
-        "Parijs",
-        "Berlijn"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is de hoofdstad van Italië?",
-      "options": [
-        "Milaan",
-        "Venetië",
-        "Rome",
-        "Napels"
+        "Een feest",
+        "Een vakantie",
+        "Een tijdelijke stop",
+        "Een nieuwe start"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat betekent 'overleden'?",
+      "question": "Wie worden er direct geraakt door de shutdown?",
       "options": [
-        "verhuisd",
-        "gestorven",
-        "verdwenen",
-        "gewond"
+        "Alleen politici",
+        "Alleen ambtenaren",
+        "Ook steuntrekkers en anderen",
+        "Alleen buitenlanders"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat gebeurt er met de immigratie-agenten?",
+      "options": [
+        "Ze worden ontslagen",
+        "Ze worden niet betaald",
+        "Ze worden wel doorbetaald",
+        "Ze krijgen een bonus"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De toerist overleed ter plaatse.",
+      "statement": "De shutdown duurt al een maand.",
       "isTrue": true
     },
     {
-      "statement": "Het ongeluk vond plaats in Rome, Italië.",
-      "isTrue": true
-    },
-    {
-      "statement": "De toerist was afkomstig uit Duitsland.",
+      "statement": "Alleen ambtenaren worden geraakt door de shutdown.",
       "isTrue": false
+    },
+    {
+      "statement": "Immigratie-agenten worden nog steeds betaald.",
+      "isTrue": true
     }
   ]
 }

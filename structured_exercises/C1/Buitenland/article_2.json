@@ -1,106 +1,106 @@
 {
-  "id": 9,
+  "id": 14,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "“Wij zijn nog altijd boos”: tienduizenden mensen komen een jaar na dodelijke overstromingen in Valencia op straat",
+  "title": "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
   "topicNumber": 1,
   "article": {
-    "title": "“Wij zijn nog altijd boos”: tienduizenden mensen komen een jaar na dodelijke overstromingen in Valencia op straat",
-    "summary": "Tienduizenden mensen hebben in Valencia deelgenomen aan een protestmars, een jaar na de dodelijke overstromingen in de regio."
+    "title": "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
+    "summary": "Volgens toponderhandelaars van China en de VS zijn de grote lijnen van een akkoord beklonken. Haalt de dealmaker-in-chief tijdens zijn rondreis in Azië een handelsdeal met China binnen?"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "a",
-        "definition": "Onbepaald lidwoord voor een enkelvoudig zelfstandig naamwoord.",
-        "sentence": "De overstroming was ___ direct gevolg van extreme regenval.",
-        "answer": "a"
+        "word": "akkoord",
+        "definition": "Een overeenkomst of afspraak tussen partijen.",
+        "sentence": "Het ___ werd na lang overleg getekend.",
+        "answer": "akkoord"
       },
       {
-        "word": "op",
-        "definition": "Voorzetsel dat onder andere locatie of richting aangeeft.",
-        "sentence": "De demonstranten kwamen bijeen ___ het centrale plein.",
-        "answer": "op"
+        "word": "toenadering",
+        "definition": "Het nader tot elkaar komen, het verbeteren van de relatie.",
+        "sentence": "De ___ tussen de twee landen is duidelijk merkbaar.",
+        "answer": "toenadering"
       },
       {
-        "word": "na",
-        "definition": "Geeft een volgorde in tijd aan, ofwel 'later dan'.",
-        "sentence": "Het protest vond plaats ___ jaar na de ramp.",
-        "answer": "na"
+        "word": "deal",
+        "definition": "Een afspraak of overeenkomst, vaak in zakelijke context.",
+        "sentence": "De ___ werd gesloten na intensieve onderhandelingen.",
+        "answer": "deal"
       },
       {
-        "word": "dodelijke",
-        "definition": "Betrekking hebbend op of veroorzakend van de dood.",
-        "sentence": "De overstromingen hadden ___ gevolgen voor de gemeenschap.",
-        "answer": "dodelijke"
+        "word": "toponderhandelaars",
+        "definition": "De belangrijkste personen die namens een land of organisatie onderhandelen.",
+        "sentence": "De ___ van beide landen hebben een akkoord bereikt.",
+        "answer": "toponderhandelaars"
       },
       {
-        "word": "zijn",
-        "definition": "Koppelwerkwoord dat een toestand of eigenschap uitdrukt.",
-        "sentence": "Zij ___ verantwoordelijk voor de organisatie van de demonstratie.",
-        "answer": "zijn"
+        "word": "rondreis",
+        "definition": "Een reis waarbij men verschillende plaatsen achter elkaar bezoekt.",
+        "sentence": "Tijdens zijn ___ door Azië ontmoette hij verschillende leiders.",
+        "answer": "rondreis"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het protest vond plaats ___ jaar na de ramp.",
-        "answer": "na"
+        "sentence": "Tijdens zijn ___ door Azië ontmoette hij verschillende leiders.",
+        "answer": "rondreis"
       },
       {
-        "sentence": "Zij ___ verantwoordelijk voor de organisatie van de demonstratie.",
-        "answer": "zijn"
+        "sentence": "De ___ van beide landen hebben een akkoord bereikt.",
+        "answer": "toponderhandelaars"
       },
       {
-        "sentence": "De demonstranten kwamen bijeen ___ het centrale plein.",
-        "answer": "op"
+        "sentence": "Het ___ werd na lang overleg getekend.",
+        "answer": "akkoord"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom kwamen de mensen in Valencia bijeen op straat?",
+      "question": "Wat betekent het als een overeenkomst is 'afgerond'?",
       "options": [
-        "Om een feest te vieren",
-        "Om te protesteren tegen onvoldoende klimaatactie",
-        "Om de overstromingen te herdenken",
-        "Om nieuwe wetten te eisen tegen immigratie"
+        "Het is nog in onderhandeling.",
+        "Het is definitief en afgesloten.",
+        "Het is tijdelijk opgeschort.",
+        "Het is alleen mondeling overeengekomen."
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de tijdsaanduiding in de titel 'een jaar na'?",
+      "question": "Wat wordt bedoeld met 'toenadering' in een politieke context?",
       "options": [
-        "Precies een jaar later",
-        "Meer dan een jaar later",
-        "Minder dan een jaar later",
-        "Onbekend"
+        "Het fysiek naderen van een persoon.",
+        "Het aangaan van een romantische relatie.",
+        "Het verbeteren van de diplomatieke relaties tussen landen.",
+        "Het terugtrekken uit een alliantie."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat impliceert het woord 'nog' in de titel?",
+      "question": "Wat is een 'handelsdeal'?",
       "options": [
-        "De woede is recent ontstaan",
-        "De woede is onverminderd aanwezig",
-        "De woede is al overgegaan",
-        "De woede is onrealistisch"
+        "Een financiële transactie tussen individuen.",
+        "Een weddenschap over de handelsmarkt.",
+        "Een overeenkomst tussen landen over de handel van goederen.",
+        "Een gezelschapsspel over economie."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De protesten in Valencia waren gericht tegen de nationale regering.",
-      "isTrue": true
-    },
-    {
-      "statement": "De overstromingen vonden plaats precies een jaar voor de protesten.",
-      "isTrue": true
-    },
-    {
-      "statement": "De demonstranten eisten onmiddellijke financiële compensatie voor alle slachtoffers.",
+      "statement": "De toponderhandelaars van China en de VS hebben een akkoord bereikt dat alle details alvast vastlegt.",
       "isTrue": false
+    },
+    {
+      "statement": "Een rondreis door Azië kan meerdere landen behelsen.",
+      "isTrue": true
+    },
+    {
+      "statement": "Een handelsdeal is altijd formeel en schriftelijk vastgelegd.",
+      "isTrue": true
     }
   ]
 }

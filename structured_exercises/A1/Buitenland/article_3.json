@@ -1,105 +1,105 @@
 {
-  "id": 4,
+  "id": 6,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Catherine Connolly wint verkiezing in Ierland",
+  "title": "PKK strijders gaan weg uit Turkije",
   "topicNumber": 1,
   "article": {
-    "title": "Catherine Connolly wint verkiezing in Ierland",
-    "summary": "Catherine Connolly is de nieuwe president van Ierland. Ze won de verkiezingen met 63 procent van de stemmen."
+    "title": "PKK strijkers gaan weg uit Turkije",
+    "summary": "Turkije en de Koerdische groep PKK hebben een akkoord. De PKK-strijders zullen zich terugtrekken uit Turkije. Dit is een historische stap in de onderhandelingen. Maar het akkoord is het resultaat van politiek overleg achter gesloten deuren."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "president",
-        "definition": "Een leider van een land",
-        "sentence": "De ___ van het land is belangrijk.",
-        "answer": "president"
+        "word": "groep",
+        "definition": "Een aantal mensen bij elkaar.",
+        "sentence": "De ___ gaat samen sporten.",
+        "answer": "groep"
       },
       {
-        "word": "stemmen",
-        "definition": "Je stem geven aan iemand",
-        "sentence": "We gaan morgen ___ voor de nieuwe president.",
-        "answer": "stemmen"
+        "word": "akkoord",
+        "definition": "Een overeenkomst.",
+        "sentence": "Ze hebben een ___ getekend.",
+        "answer": "akkoord"
       },
       {
-        "word": "verkiezing",
-        "definition": "Een moment waarop mensen kiezen wie de leider wordt",
-        "sentence": "De ___ was vorige week.",
-        "answer": "verkiezing"
+        "word": "PKK",
+        "definition": "Een groep mensen.",
+        "sentence": "De ___ is een groep.",
+        "answer": "PKK"
       },
       {
-        "word": "Ierland",
-        "definition": "Een land in Europa",
-        "sentence": "___ is een land met veel groene natuur.",
-        "answer": "Ierland"
+        "word": "weg",
+        "definition": "Niet hier, maar ergens anders.",
+        "sentence": "Hij is ___ van huis.",
+        "answer": "weg"
       },
       {
-        "word": "nieuwe",
-        "definition": "Niet oud, pas gemaakt of gekomen",
-        "sentence": "Ze is de ___ president van Ierland.",
-        "answer": "nieuwe"
+        "word": "strijders",
+        "definition": "Mensen die vechten.",
+        "sentence": "De soldaten zijn ook ___.",
+        "answer": "strijders"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "We gaan morgen ___ voor de nieuwe president.",
-        "answer": "stemmen"
+        "sentence": "De soldaten zijn ook ___.",
+        "answer": "strijders"
       },
       {
-        "sentence": "De ___ van het land is belangrijk.",
-        "answer": "president"
+        "sentence": "Hij is ___ van huis.",
+        "answer": "weg"
       },
       {
-        "sentence": "De ___ was vorige week.",
-        "answer": "verkiezing"
+        "sentence": "De ___ is een groep.",
+        "answer": "PKK"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een president?",
+      "question": "Wat betekent 'strijders'?",
       "options": [
-        "Een soort dier",
-        "Een leider van een land",
+        "Mensen die vechten",
         "Een soort eten",
-        "Een sport"
+        "Een type auto",
+        "Een muziekinstrument"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is 'onderhandelingen'?",
+      "options": [
+        "Een soort dans",
+        "Gesprekken om afspraken te maken",
+        "Een soort game",
+        "Een type schoen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar is Ierland?",
+      "question": "Wat is 'stap'?",
       "options": [
-        "In Afrika",
-        "In Azië",
-        "In Europa",
-        "In Zuid-Amerika"
+        "Een beweging met je voet",
+        "Een soort vogel",
+        "Een soort insect",
+        "Een soort plant"
       ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat betekent 'winnen' in deze context?",
-      "options": [
-        "Verliezen",
-        "Kopen",
-        "Winnen",
-        "Maken"
-      ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Catherine Connolly is de nieuwe president van Ierland.",
+      "statement": "Turkije is een land.",
       "isTrue": true
     },
     {
-      "statement": "Catherine Connolly is de nieuwe president van Frankrijk.",
+      "statement": "PKK is een soort auto.",
       "isTrue": false
     },
     {
-      "statement": "Catherine Connolly won de verkiezingen met 63 procent van de stemmen.",
+      "statement": "Strijders zijn mensen die vechten.",
       "isTrue": true
     }
   ]

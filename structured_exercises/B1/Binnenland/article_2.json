@@ -1,106 +1,106 @@
 {
-  "id": 21,
+  "id": 26,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Franstalige vrouw belt hulpdiensten voor gewonde man in Zoniënwoud maar mag enkel Nederlands spreken",
+  "title": "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
   "topicNumber": 1,
   "article": {
-    "title": "Franstalige vrouw belt hulpdiensten voor gewonde man in Zoniënwoud maar mag enkel Nederlands spreken",
-    "summary": "Een Franstalige vrouw wilde afgelopen week een gewonde man in het Zoniënwoud helpen, maar toen ze de 112 belde, kreeg ze te horen dat ze enkel in het Nederlands geholpen kon worden. De burgemeester van Watermaal-Bosvoorde noemt dit een schandalige situatie."
+    "title": "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
+    "summary": "Meer agenten klussen bij, en dat leidt soms tot mistoestanden. Minister van Binnenlandse Zaken Bernard Quintin (MR) wil de regels aanscherpen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "schandalige",
-        "definition": "iets wat erg oneerlijk of onacceptabel is",
-        "sentence": "De situatie was ___ volgens de burgemeester.",
-        "answer": "schandalige"
+        "word": "politiemensen",
+        "definition": "mensen die werken voor de politie",
+        "sentence": "De ___ werken hard om de stad veilig te houden.",
+        "answer": "politiemensen"
       },
       {
-        "word": "belde",
-        "definition": "telefonisch contact gemaakt, verleden tijd van bellen",
-        "sentence": "Ze ___ 112 om hulp te vragen.",
-        "answer": "belde"
+        "word": "agenten",
+        "definition": "mensen die werken voor de politie",
+        "sentence": "De ___ houden de wijk veilig.",
+        "answer": "agenten"
       },
       {
-        "word": "hulpdiensten",
-        "definition": "organisaties die hulp bieden, zoals politie of brandweer",
-        "sentence": "Mensen bellen de ___ wanneer er een probleem is.",
-        "answer": "hulpdiensten"
+        "word": "minister",
+        "definition": "iemand die een deel van de overheid leidt",
+        "sentence": "De ___ heeft een nieuw plan gemaakt.",
+        "answer": "minister"
       },
       {
-        "word": "Nederlands",
-        "definition": "de taal die in Nederland en België gesproken wordt",
-        "sentence": "Ze spraken ___ met elkaar.",
-        "answer": "Nederlands"
+        "word": "aanscherpen",
+        "definition": "strenger of scherper maken",
+        "sentence": "De regels worden ___ om problemen te voorkomen.",
+        "answer": "aanscherpen"
       },
       {
-        "word": "gewonde",
-        "definition": "iemand die pijn heeft door een verwonding",
-        "sentence": "De man was een ___ na zijn val.",
-        "answer": "gewonde"
+        "word": "klussen",
+        "definition": "bijklussen, extra werken naast hun eigen baan",
+        "sentence": "Sommige mensen ___ om extra geld te verdienen.",
+        "answer": "klussen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze spraken ___ met elkaar.",
-        "answer": "Nederlands"
+        "sentence": "De ___ werken hard om de stad veilig te houden.",
+        "answer": "politiemensen"
       },
       {
-        "sentence": "Ze ___ 112 om hulp te vragen.",
-        "answer": "belde"
+        "sentence": "Sommige mensen ___ om extra geld te verdienen.",
+        "answer": "klussen"
       },
       {
-        "sentence": "De situatie was ___ volgens de burgemeester.",
-        "answer": "schandalige"
+        "sentence": "De ___ heeft een nieuw plan gemaakt.",
+        "answer": "minister"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom belde de vrouw naar de hulpdiensten?",
+      "question": "Waarom wil de minister de regels aanscherpen?",
       "options": [
-        "Om een taxi te bestellen",
-        "Om te oefenen met Nederlands",
-        "Omdat ze een gewonde man wilde helpen",
-        "Om te klagen over het weer"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat is de reactie van de burgemeester?",
-      "options": [
-        "Hij vindt het geweldig",
-        "Hij zegt dat het een schande is",
-        "Hij wil meer bomen planten",
-        "Hij vindt het niet belangrijk"
+        "Omdat er te veel agenten zijn",
+        "Omdat agenten bijklussen en dat soms problemen geeft",
+        "Omdat de agenten niet goed werken",
+        "Omdat de minister het zelf niet weet"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat was het probleem met de taal?",
+      "question": "Wat is het gevolg van de aanscherping van de regels?",
       "options": [
-        "De vrouw sprak te luid",
-        "De hulpdienst sprak alleen Nederlands",
-        "De vrouw sprak alleen Frans",
-        "De hulpdienst was gesloten"
+        "Meer agenten gaan bijklussen",
+        "Minder agenten gaan bijklussen",
+        "Agenten krijgen een hoger salaris",
+        "Er verandert niets"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wie is Bernard Quintin?",
+      "options": [
+        "Een agent die bijklust",
+        "Een minister die de regels aanscherpt",
+        "Iemand die een vechtpartij begint",
+        "Iemand die nieuwe regels maakt"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De vrouw kon de gewonde man niet helpen omdat ze geen Nederlands sprak.",
+      "statement": "Agenten mogen niet bijklussen volgens de nieuwe regels.",
       "isTrue": false
     },
     {
-      "statement": "De burgemeester vindt de situatie onacceptabel.",
+      "statement": "De minister wil de regels aanscherpen omdat bijklussen soms tot problemen leidt.",
       "isTrue": true
     },
     {
-      "statement": "De hulpdienst weigerde de vrouw te helpen in het Frans.",
-      "isTrue": true
+      "statement": "Alle agenten zijn verplicht om bij te klussen naast hun werk.",
+      "isTrue": false
     }
   ]
 }

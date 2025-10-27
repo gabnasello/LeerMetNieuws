@@ -1,105 +1,105 @@
 {
-  "id": 5,
+  "id": 7,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Catherine Connolly wint Ierse presidentsverkiezingen",
+  "title": "PKK strijders verlaten Turkije",
   "topicNumber": 1,
   "article": {
-    "title": "Catherine Connolly wint Ierse presidentsverkiezingen",
-    "summary": "De 68-jarige Catherine Connolly wordt de nieuwe president van Ierland. Ze heeft de presidentsverkiezingen gewonnen met meer dan 63 procent van de stemmen, zo blijkt uit de officiële resultaten."
+    "title": "PKK strijkers verlaten Turkije",
+    "summary": "Turkije en de PKK, een Koerdische groep, hebben een akkoord. PKK-strijders zullen zich terugtrekken uit Turkije. Dit akkoord is het resultaat van onderhandelingen, maar de details zijn onduidelijk."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "president",
-        "definition": "iemand die aan het hoofd staat van een land of organisatie",
-        "sentence": "De ___ van de Verenigde Staten is Joe Biden.",
-        "answer": "president"
+        "word": "Turkije",
+        "definition": "Een land.",
+        "sentence": "___ ligt gedeeltelijk in Europa en Azië.",
+        "answer": "Turkije"
       },
       {
-        "word": "stemmen",
-        "definition": "je stem geven aan een kandidaat",
-        "sentence": "Veel mensen gaan ___ tijdens verkiezingen.",
-        "answer": "stemmen"
+        "word": "strijders",
+        "definition": "Mensen die vechten, vaak in een oorlog.",
+        "sentence": "De ___ vechten voor hun land of idealen.",
+        "answer": "strijders"
       },
       {
-        "word": "resultaten",
-        "definition": "de uitkomsten of gegevens van iets",
-        "sentence": "De ___ van het onderzoek zijn bekend.",
-        "answer": "resultaten"
+        "word": "onderhandelingen",
+        "definition": "Gesprekken om tot een besluit te komen.",
+        "sentence": "De ___ duurden vele uren.",
+        "answer": "onderhandelingen"
       },
       {
-        "word": "verkiezingen",
-        "definition": "een verkiezing waarbij mensen stemmen voor een kandidaat",
-        "sentence": "De ___ zijn volgende week.",
-        "answer": "verkiezingen"
+        "word": "PKK",
+        "definition": "Een politieke of militaire groep.",
+        "sentence": "De ___ vecht voor rechten van Koerden.",
+        "answer": "PKK"
       },
       {
-        "word": "nieuwe",
-        "definition": "het tegenovergestelde van oud",
-        "sentence": "Dit is een ___ boek.",
-        "answer": "nieuwe"
+        "word": "akkoord",
+        "definition": "Een overeenkomst tussen partijen.",
+        "sentence": "Ze hebben een ___ ondertekend om samen te werken.",
+        "answer": "akkoord"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Dit is een ___ boek.",
-        "answer": "nieuwe"
+        "sentence": "De ___ duurden vele uren.",
+        "answer": "onderhandelingen"
       },
       {
-        "sentence": "De ___ van het onderzoek zijn bekend.",
-        "answer": "resultaten"
+        "sentence": "De ___ vecht voor rechten van Koerden.",
+        "answer": "PKK"
       },
       {
-        "sentence": "Veel mensen gaan ___ tijdens verkiezingen.",
-        "answer": "stemmen"
+        "sentence": "Ze hebben een ___ ondertekend om samen te werken.",
+        "answer": "akkoord"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wie is Catherine Connolly?",
+      "question": "Wat betekent 'strijders' in deze context?",
       "options": [
-        "Een student",
-        "Een leraar",
-        "De nieuwe president van Ierland",
-        "Een beroemde schrijver"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Hoeveel procent van de stemmen won ze?",
-      "options": [
-        "Minder dan 50%",
-        "Ongeveer 60%",
-        "Meer dan 63%",
-        "Precies 63%"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat is haar leeftijd?",
-      "options": [
-        "45 jaar",
-        "68 jaar",
-        "70 jaar",
-        "75 jaar"
+        "Een soort sporters",
+        "Mensen die vechten in een conflict",
+        "Een type politicus",
+        "Iemand die ergens tegen is"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de hoofdboodschap van de tekst?",
+      "options": [
+        "Turkije valt een ander land aan",
+        "PKK-strijders verlaten Turkije volledig",
+        "Er wordt een nieuwe sport uitgevonden",
+        "Koffie wordt de nationale drank"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is een gevolg van dit akkoord?",
+      "options": [
+        "Turkije wordt opgedeeld",
+        "De PKK regeert over heel Turkije",
+        "PKK-strijders zijn niet langer in Turkije",
+        "Koffie wordt illegaal in Turkije"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Catherine Connolly is de nieuwe president van Ierland.",
+      "statement": "Turkije en de PKK hebben een akkoord ondertekend.",
       "isTrue": true
     },
     {
-      "statement": "Ze won met 50 procent van de stemmen.",
+      "statement": "De PKK-strijders blijven in Turkije na het akkoord.",
       "isTrue": false
     },
     {
-      "statement": "De resultaten zijn officieel bekend.",
+      "statement": "Het akkoord is het resultaat van onderhandelingen.",
       "isTrue": true
     }
   ]

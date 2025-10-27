@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Man geeft veel geld aan Trump",
+  "title": "Amerikaanse shutdown",
   "topicNumber": 1,
   "article": {
-    "title": "Man geeft veel geld aan Trump",
-    "summary": "Een rijke man geeft veel geld aan Trump. Trump gebruikt het geld voor zijn werk."
+    "title": "Amerikaanse shutdown",
+    "summary": "Na een maand zonder geld begint de situatie moeilijk te worden voor Amerika. Sommige mensen krijgen nog wel geld, anderen niet."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geeft",
-        "definition": "om aan iemand iets te geven",
-        "sentence": "Hij ___ een cadeau aan zijn vriend.",
-        "answer": "geeft"
-      },
-      {
-        "word": "aan",
-        "definition": "naar iemand of iets toe",
-        "sentence": "Hij loopt ___ het huis.",
-        "answer": "aan"
-      },
-      {
         "word": "geld",
-        "definition": "wat je gebruikt om dingen te kopen",
-        "sentence": "Hij heeft veel ___ in zijn portemonnee.",
+        "definition": "wat je gebruikt om iets te kopen, zoals euro's of dollars",
+        "sentence": "In de winkel betaal je met ___.",
         "answer": "geld"
       },
       {
-        "word": "man",
-        "definition": "een persoon die mannelijk is",
-        "sentence": "De ___ werkt hard.",
-        "answer": "man"
+        "word": "maand",
+        "definition": "een periode van tijd, 30 of 31 dagen",
+        "sentence": "Een jaar heeft twaalf ___.",
+        "answer": "maanden"
       },
       {
-        "word": "werk",
-        "definition": "wat je doet om geld te verdienen",
-        "sentence": "Mijn ___ is heel interessant.",
-        "answer": "werk"
+        "word": "anderen",
+        "definition": "andere mensen of dingen",
+        "sentence": "Sommige mensen werken, ___ rusten uit.",
+        "answer": "anderen"
+      },
+      {
+        "word": "krijgen",
+        "definition": "iets ontvangen, krijgen",
+        "sentence": "Ik ___ een cadeau voor mijn verjaardag.",
+        "answer": "krijg"
+      },
+      {
+        "word": "mensen",
+        "definition": "meerdere personen, mannen en vrouwen",
+        "sentence": "Er werken veel ___ in dit gebouw.",
+        "answer": "mensen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij loopt ___ het huis.",
-        "answer": "aan"
+        "sentence": "Ik ___ een cadeau voor mijn verjaardag.",
+        "answer": "krijg"
       },
       {
-        "sentence": "Hij ___ een cadeau aan zijn vriend.",
-        "answer": "geeft"
+        "sentence": "In de winkel betaal je met ___.",
+        "answer": "geld"
       },
       {
-        "sentence": "Mijn ___ is heel interessant.",
-        "answer": "werk"
+        "sentence": "Sommige mensen werken, ___ rusten uit.",
+        "answer": "anderen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gebruikt Trump het geld voor?",
+      "question": "Over welke periode gaat dit artikel?",
       "options": [
-        "Om eten te kopen",
-        "Om soldaten te betalen",
-        "Om een huis te bouwen",
-        "Om naar de maan te gaan"
+        "1 week",
+        "1 maand",
+        "1 jaar",
+        "1 dag"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wie geeft het geld aan Trump?",
+      "question": "Krijgen alle ambtenaren nu geen geld?",
       "options": [
-        "Een bekende acteur",
-        "Een rijke man",
-        "Een jonge student",
-        "Een oude vrouw"
+        "Ja, alle ambtenaren",
+        "Nee, alleen sommige",
+        "Nee, alleen de anderen",
+        "Ja, niemand krijgt geld"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het resultaat van de donatie?",
+      "question": "Gaat het hier om Amerika of Nederland?",
       "options": [
-        "Trump koopt een auto",
-        "Trump gebruikt het voor zijn werk",
-        "Trump geeft het aan iemand anders",
-        "Trump verliest het geld"
+        "Alleen Amerika",
+        "Alleen Nederland",
+        "Beide landen",
+        "Geen van beide"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De man die geld geeft is een vrouw.",
-      "isTrue": false
-    },
-    {
-      "statement": "Trump gebruikt het geld om soldaten te betalen.",
+      "statement": "De shutdown duurt nu een maand.",
       "isTrue": true
     },
     {
-      "statement": "De man geeft het geld aan een kind.",
+      "statement": "Alle ambtenaren krijgen geen geld meer.",
       "isTrue": false
+    },
+    {
+      "statement": "Sommige mensen krijgen nog wel geld.",
+      "isTrue": true
     }
   ]
 }

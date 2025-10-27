@@ -1,106 +1,106 @@
 {
-  "id": 14,
+  "id": 18,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
+  "title": "Was ons budget ongelimiteerd, dan hadden wij ook een vrijstaand huis op den buiten gekocht",
   "topicNumber": 1,
   "article": {
-    "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
-    "summary": "Het KMI waarschuwt opnieuw voor slecht weer. De overheid heeft het nummer 1722 geactiveerd, dat mensen kunnen bellen bij storm- en waterschade."
+    "title": "Was ons budget ongelimiteerd, dan hadden wij ook een vrijstaand huis op den buiten gekocht",
+    "summary": "Nergens in Vlaanderen werd de voorbije jaren zoveel grond aangesneden voor woningen als in Deinze, en tegen de zin van het lokale bestuur in. Maar de bewoners, die zijn er gelukkig. Wil de Vlaming wel een bouwshift, of blijven we dromen van een groot huis in het groen? “Dat kortzichtig protest tegen hoger bouwen moet stoppen.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geactiveerd",
-        "definition": "in werking gesteld; actief gemaakt",
-        "sentence": "De overheid heeft het noodnummer ___ voor vragen over stormschade.",
-        "answer": "geactiveerd"
+        "word": "Vlaming",
+        "definition": "een inwoner van Vlaanderen, het Nederlandstalige deel van België",
+        "sentence": "De gemiddelde ___ houdt van ruimte en groen.",
+        "answer": "Vlaming"
       },
       {
-        "word": "storm",
-        "definition": "een weerssysteem met zeer harde wind, vaak met regen of sneeuw",
-        "sentence": "Tijdens de ___ raakten veel bomen ontworteld.",
-        "answer": "storm"
+        "word": "tegen de zin van",
+        "definition": "tegen de wil of wens van iemand of iets",
+        "sentence": "Hij handelde ___ zijn ouders, die hem verboden hadden om naar het feest te gaan.",
+        "answer": "tegen de zin van"
       },
       {
-        "word": "schade",
-        "definition": "schade; wat kapot of beschadigd is geraakt",
-        "sentence": "Er was veel ___ aan huizen na de storm.",
-        "answer": "schade"
+        "word": "bestuur",
+        "definition": "de groep mensen die een organisatie of gebied leidt en bestuurt",
+        "sentence": "Het stads___ beslist over nieuwe bouwprojecten.",
+        "answer": "bestuur"
       },
       {
-        "word": "nummer",
-        "definition": "een getal; in deze context een telefoonnummer",
-        "sentence": "Bel dit ___ voor hulp bij waterschade.",
-        "answer": "nummer"
+        "word": "bewoners",
+        "definition": "mensen die in een bepaalde plaats of gebouw wonen",
+        "sentence": "De ___ van het nieuwe complex zijn erg tevreden.",
+        "answer": "bewoners"
       },
       {
-        "word": "KMI",
-        "definition": "Koninklijk Meteorologisch Instituut; de organisatie die weersvoorspellingen doet",
-        "sentence": "Het ___ heeft een waarschuwing uitgegeven voor zware buien.",
-        "answer": "KMI"
+        "word": "kortzichtig",
+        "definition": "niet vooruitdenkend, zonder de lange termijn in beschouwing te nemen",
+        "sentence": "Het is ___ om te denken dat we zonder meer bouwen onze problemen oplossen.",
+        "answer": "kortzichtig"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De overheid heeft het noodnummer ___ voor vragen over stormschade.",
-        "answer": "geactiveerd"
+        "sentence": "Het stads___ beslist over nieuwe bouwprojecten.",
+        "answer": "bestuur"
       },
       {
-        "sentence": "Tijdens de ___ raakten veel bomen ontworteld.",
-        "answer": "storm"
+        "sentence": "De gemiddelde ___ houdt van ruimte en groen.",
+        "answer": "Vlaming"
       },
       {
-        "sentence": "Bel dit ___ voor hulp bij waterschade.",
-        "answer": "nummer"
+        "sentence": "Het is ___ om te denken dat we zonder meer bouwen onze problemen oplossen.",
+        "answer": "kortzichtig"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de rol van het KMI in deze situatie?",
+      "question": "Wat betekent 'onlimiteerd' in de context van de titel?",
       "options": [
-        "Het geeft weerswaarschuwingen.",
-        "Het repareert schade na stormen.",
-        "Het maakt films over het weer.",
-        "Het leidt evacuaties."
+        "Zonder beperking",
+        "Zeer duur",
+        "Niet beschikbaar",
+        "Gedeeltelijk beschikbaar"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waarom heeft de overheid nummer 1722 geactiveerd?",
+      "question": "Waarom wordt er gesproken over 'tegen de zin van' het lokale bestuur?",
       "options": [
-        "Om feestelijkheden aan te kondigen.",
-        "Om mensen te helpen bij storm- en waterschade.",
-        "Om weersvoorspellingen te doen.",
-        "Om nieuwe wetten te maken."
+        "Omdat het bestuur de bouw steunde",
+        "Omdat de bewoners tegen waren",
+        "Omdat de grond ongeschikt was",
+        "Omdat de gemeente de ontwikkeling wilde maar de bewoners niet"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     },
     {
-      "question": "Wat is een gevolg van zware regen volgens de tekst?",
+      "question": "Wat is de hoofdgedachte van de samenvatting?",
       "options": [
-        "Mensen dansen in de regen.",
-        "Schade aan huizen en wegen.",
-        "De zon begint te schijnen.",
-        "Mensen vergeten het nummer."
+        "Bouw altijd meer om problemen op te lossen",
+        "Stop met bouwen om groen te sparen",
+        "Bouw hoger om ruimte te besparen, maar niet tegen elke prijs",
+        "Verhuis naar een andere stad als er te veel gebouwd wordt"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het KMI heeft geen rol in weerswaarschuwingen.",
-      "isTrue": false
-    },
-    {
-      "statement": "Nummer 1722 is alleen voor branden.",
-      "isTrue": false
-    },
-    {
-      "statement": "De overheid heeft nummer 1722 geactiveerd voor hulp bij stormschade.",
+      "statement": "De bewoners van Deinze zijn gelukkig met de nieuwe woningen.",
       "isTrue": true
+    },
+    {
+      "statement": "Het lokale bestuur van Deinze was voorstander van de nieuwe bouwprojecten.",
+      "isTrue": false
+    },
+    {
+      "statement": "De auteur pleit voor het stoppen van alle bouwactiviteiten.",
+      "isTrue": false
     }
   ]
 }

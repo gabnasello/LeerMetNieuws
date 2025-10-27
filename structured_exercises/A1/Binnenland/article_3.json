@@ -1,105 +1,105 @@
 {
-  "id": 15,
+  "id": 19,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
+  "title": "Wat denken de Ronsenaars over al die PFAS?",
   "topicNumber": 1,
   "article": {
-    "title": "Oosterweel-bypass opent op de Antwerpse ring: veel verkeershinder verwacht",
-    "summary": "Op de Antwerpse Ring is afgelopen nacht een tijdelijk stuk snelweg geopend, parallel met het viaduct van Merksem ter hoogte van de AFAS-Dome. De belangrijke stap in de Oosterweelwerken belooft veel verkeershinder met zich mee te brengen."
+    "title": "Wat denken de Ronsenaars over al die PFAS?",
+    "summary": "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben. We hopen dat de stad weet waar ze mee bezig is. Zolang we maar niet het nieuwe Zwijndrecht worden."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "ring",
-        "definition": "een rondweg of cirkel",
-        "sentence": "De auto rijdt op de ___ .",
-        "answer": "ring"
+        "word": "denken",
+        "definition": "iets in je hoofd hebben",
+        "sentence": "Wat ___ de mensen in Ronse?",
+        "answer": "denken"
       },
       {
-        "word": "opent",
-        "definition": "begint of start",
-        "sentence": "Het nieuwe ___ vandaag.",
-        "answer": "opent"
+        "word": "Ronsenaars",
+        "definition": "mensen uit Ronse",
+        "sentence": "De ___ zijn bezorgd.",
+        "answer": "Ronsenaars"
       },
       {
-        "word": "Antwerpse",
-        "definition": "van de stad Antwerpen",
-        "sentence": "De ___ ring is druk.",
-        "answer": "Antwerpse"
+        "word": "PFAS",
+        "definition": "een soort chemische stof",
+        "sentence": "Er is veel ___ in Ronse.",
+        "answer": "PFAS"
       },
       {
-        "word": "belooft",
-        "definition": "belooft of zegt dat iets zal gebeuren",
-        "sentence": "Hij ___ veel verkeer.",
-        "answer": "belooft"
+        "word": "stad",
+        "definition": "een plaats waar veel mensen wonen",
+        "sentence": "De ___ van Ronse zoekt oplossingen.",
+        "answer": "stad"
       },
       {
-        "word": "verkeer",
-        "definition": "het verplaatsen van auto's en voertuigen",
-        "sentence": "Het ___ staat stil.",
-        "answer": "verkeer"
+        "word": "worden",
+        "definition": "veranderen in iets anders",
+        "sentence": "We willen niet als Zwijndrecht ___.",
+        "answer": "worden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ staat stil.",
-        "answer": "verkeer"
+        "sentence": "Wat ___ de mensen in Ronse?",
+        "answer": "denken"
       },
       {
-        "sentence": "De ___ ring is druk.",
-        "answer": "Antwerpse"
+        "sentence": "Er is veel ___ in Ronse.",
+        "answer": "PFAS"
       },
       {
-        "sentence": "Hij ___ veel verkeer.",
-        "answer": "belooft"
+        "sentence": "We willen niet als Zwijndrecht ___.",
+        "answer": "worden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar is de nieuwe weg geopend?",
+      "question": "Waarover zijn de mensen in Ronse bezorgd?",
       "options": [
-        "Op de Antwerpse ring",
-        "In het centrum van Brussel",
-        "Aan de kust",
-        "In een park"
+        "Over het weer",
+        "Over hun werk",
+        "Over PFAS in hun bloed",
+        "Over vakantieplannen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is het effect van de nieuwe opening?",
+      "question": "Wat hopen de mensen in Ronse?",
       "options": [
-        "Het veroorzaakt veel verkeer",
-        "Het maakt de weg leeg",
-        "Het stopt alle auto's",
-        "Het maakt niets uit"
+        "Dat het stopt met regenen",
+        "Dat de stad helpt",
+        "Dat ze veel geld winnen",
+        "Dat ze een nieuw huis krijgen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de 'stap' in de context?",
+      "question": "Wat willen de mensen in Ronse niet worden?",
       "options": [
-        "Een dansbeweging",
-        "Een trede op een ladder",
-        "Een belangrijke gebeurtenis in het project",
-        "Een soort dier"
+        "Een nieuwe stad",
+        "Een nieuwe school",
+        "Een nieuwe Zwijndrecht",
+        "Een nieuwe supermarkt"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De nieuwe weg is in Antwerpen.",
-      "isTrue": true
-    },
-    {
-      "statement": "Het nieuwe wegdeel is gesloten.",
+      "statement": "De mensen in Ronse zijn blij met de PFAS.",
       "isTrue": false
     },
     {
-      "statement": "De opening zorgt voor veel verkeer.",
+      "statement": "De stad Ronse wil de mensen helpen.",
+      "isTrue": true
+    },
+    {
+      "statement": "De mensen in Ronse worden net als in Zwijndrecht.",
       "isTrue": true
     }
   ]
