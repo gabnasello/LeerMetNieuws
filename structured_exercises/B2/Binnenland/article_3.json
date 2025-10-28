@@ -1,105 +1,105 @@
 {
-  "id": 22,
+  "id": 24,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Wat denken de Ronsenaars over al die PFAS?",
+  "title": "De warme bakker is steeds vaker een vrouw: “Na tien broden bakken wist ik: hier word ik gelukkig van”",
   "topicNumber": 1,
   "article": {
-    "title": "Wat denken de Ronsenaars over al die PFAS? “Ik blijf eten uit mijn moestuin, PFAS of niet”",
-    "summary": "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben. “We hopen dat de stad weet waar ze mee bezig is. Zolang we maar niet het nieuwe Zwijndrecht worden.”"
+    "title": "De warme bakker is steeds vaker een vrouw: “Na tien broden bakken wist ik: hier word ik gelukkig van”",
+    "summary": "Van een passie voor millefeuille tot ambachtelijke zuurdesembroden, steeds vaker kiezen vrouwen voor een job als bakker of patissier. In verschillende bakkersopleidingen maken ze intussen meer dan de helft van de leerlingen uit. “Vrouwen hebben de finesse sneller in de vingers.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "worden",
-        "definition": "veranderen in of getransformeerd worden naar",
-        "sentence": "We hopen niet het nieuwe Zwijndrecht te worden.",
-        "answer": "worden"
+        "word": "zuurdesem",
+        "definition": "een soort desem dat zuur is en gebruikt wordt om brood te laten rijzen",
+        "sentence": "Het ___ brood had een rijke, zure smaak.",
+        "answer": "zuurdesem"
       },
       {
-        "word": "we",
-        "definition": "verwijst naar de groep die spreekt, inclusief de spreker zelf",
-        "sentence": "We blijven eten uit onze eigen tuin, wat er ook gebeurt.",
-        "answer": "we"
+        "word": "bakker",
+        "definition": "iemand die brood en banket bakt",
+        "sentence": "De ___ staat elke dag vroeg op om vers brood te bakken.",
+        "answer": "bakker"
       },
       {
-        "word": "maar",
-        "definition": "behalve, met uitzondering van",
-        "sentence": "Het gaat niet om schuld, maar om voorzorg.",
-        "answer": "maar"
+        "word": "ambacht",
+        "definition": "een traditioneel handwerk of vakmanschap",
+        "sentence": "Het oude ___ van houtbewerking is nog steeds levend.",
+        "answer": "ambacht"
       },
       {
-        "word": "heerst",
-        "definition": "bestaat of is aanwezig (van een situatie of gevoel)",
-        "sentence": "Er heerst veel onrust in de stad sinds het nieuws bekend werd.",
-        "answer": "heerst"
+        "word": "vrouw",
+        "definition": "een volwassen persoon van het vrouwelijk geslacht",
+        "sentence": "De ___ werkt parttime en zorgt voor de kinderen.",
+        "answer": "vrouw"
       },
       {
-        "word": "tientallen",
-        "definition": "ongeveer tien tot honderd, een groot aantal",
-        "sentence": "Er werden tientallen mensen getest op PFAS.",
-        "answer": "tientallen"
+        "word": "ambachtelijke",
+        "definition": "op de manier van een ambacht, traditioneel en handgemaakt",
+        "sentence": "De ___ producten zijn van hoge kwaliteit.",
+        "answer": "ambachtelijke"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het gaat niet om schuld, maar om voorzorg.",
-        "answer": "maar"
+        "sentence": "De ___ producten zijn van hoge kwaliteit.",
+        "answer": "ambachtelijke"
       },
       {
-        "sentence": "Er heerst veel onrust in de stad sinds het nieuws bekend werd.",
-        "answer": "heerst"
+        "sentence": "Het oude ___ van houtbewerking is nog steeds levend.",
+        "answer": "ambacht"
       },
       {
-        "sentence": "We blijven eten uit onze eigen tuin, wat er ook gebeurt.",
-        "answer": "we"
+        "sentence": "De ___ werkt parttime en zorgt voor de kinderen.",
+        "answer": "vrouw"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat de tekst vooral over?",
+      "question": "Waar komt het woord 'patissier' vandaan?",
       "options": [
-        "Over PFAS in Ronse",
-        "Over een nieuwe supermarkt",
-        "Over reizen naar Zwijndrecht",
-        "Over politieke veranderingen"
+        "Uit het Nederlands",
+        "Uit het Frans",
+        "Uit het Engels",
+        "Uit het Italiaans"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de houding van de bewoners?",
+      "question": "Waarom kiezen meer vrouwen voor een baan als bakker?",
       "options": [
-        "Ze zijn boos en protesteren",
-        "Ze accepteren het en doen niets",
-        "Ze blijven hun eigen gewoontes volgen",
-        "Ze zijn blij met de situatie"
+        "Omdat het goed betaalt",
+        "Omdat ze van koken houden",
+        "Omdat ze fijne motoriek beheersen",
+        "Omdat ze thuis kunnen werken"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is het doel van dit artikel?",
+      "question": "Wat is een 'millefeuille'?",
       "options": [
-        "Mensen waarschuwen over PFAS",
-        "Mensen geruststellen over hun voedsel",
-        "Een nieuwe wet aankondigen",
-        "Een restaurant promoten"
+        "Een soort bloem",
+        "Een soort taart",
+        "Een soort gerecht",
+        "Een soort boek"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De bewoners van Ronse zijn gestopt met het eten uit hun eigen tuin.",
-      "isTrue": false
-    },
-    {
-      "statement": "De stad Ronse neemt maatregelen om de bewoners te beschermen.",
+      "statement": "Vrouwen hebben over het algemeen betere fijne motoriek dan mannen.",
       "isTrue": true
     },
     {
-      "statement": "Zwijndrecht is een voorbeeld van hoe het niet moet, volgens de bewoners.",
+      "statement": "Een patissier is iemand die alleen maar taarten bakt.",
+      "isTrue": false
+    },
+    {
+      "statement": "Zuurdesem is een soort meel dat gebruikt wordt voor brood.",
       "isTrue": true
     }
   ]

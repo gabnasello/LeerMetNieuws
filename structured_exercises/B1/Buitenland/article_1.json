@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambtenaren",
+  "title": "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
   "topicNumber": 1,
   "article": {
-    "title": "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambtenaren",
-    "summary": "Na één maand begint de shutdown de Amerikanen zwaar te raken – niet alleen onbetaalde ambtenaren, maar bijvoorbeeld ook steuntrekkers. Worden wél netjes verder betaald: immigratie-agenten."
+    "title": "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bepopeling in het donker",
+    "summary": "Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "betaald",
-        "definition": "geld ontvangen voor geleverd werk",
-        "sentence": "Sommige werknemers worden nog wel ___.",
-        "answer": "betaald"
+        "word": "bitcoinboys",
+        "definition": "Mensen die veel bezitten van de digitale munt Bitcoin",
+        "sentence": "De ___ waren erg rijk geworden.",
+        "answer": "bitcoinboys"
       },
       {
-        "word": "maand",
-        "definition": "een periode van ongeveer 30 dagen",
-        "sentence": "Na een ___ is de situatie ernstig.",
-        "answer": "maand"
+        "word": "jobs",
+        "definition": "Werk, betaald werk dat je doet",
+        "sentence": "Hij heeft drie ___ tegelijk.",
+        "answer": "jobs"
       },
       {
-        "word": "shutdown",
-        "definition": "tijdelijke sluiting of stopzetting",
-        "sentence": "De ___ duurt al een maand.",
-        "answer": "shutdown"
+        "word": "stroom",
+        "definition": "Elektriciteit die uit het stopcontact komt",
+        "sentence": "Zonder ___ kun je geen lamp aanzetten.",
+        "answer": "stroom"
       },
       {
-        "word": "agenten",
-        "definition": "mensen die voor een organisatie of overheid werken",
-        "sentence": "De immigratie-___ werken nog steeds door.",
-        "answer": "agenten"
+        "word": "megadam",
+        "definition": "Een heel grote dam in een rivier",
+        "sentence": "De nieuwe ___ zorgt voor problemen.",
+        "answer": "megadam"
       },
       {
-        "word": "immigratie",
-        "definition": "het binnenkomen van mensen in een nieuw land",
-        "sentence": "De ___ agenten zijn gewoon doorbetaald.",
-        "answer": "immigratie"
+        "word": "Ethiopische",
+        "definition": "Van of over Ethiopië, een land in Afrika",
+        "sentence": "De ___ keuken is heel pittig.",
+        "answer": "Ethiopische"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ agenten zijn gewoon doorbetaald.",
-        "answer": "immigratie"
+        "sentence": "Hij heeft drie ___ tegelijk.",
+        "answer": "jobs"
       },
       {
-        "sentence": "De immigratie-___ werken nog steeds door.",
-        "answer": "agenten"
+        "sentence": "De ___ keuken is heel pittig.",
+        "answer": "Ethiopische"
       },
       {
-        "sentence": "De ___ duurt al een maand.",
-        "answer": "shutdown"
+        "sentence": "De ___ waren erg rijk geworden.",
+        "answer": "bitcoinboys"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een 'shutdown' in deze context?",
+      "question": "Waar wordt de stroom in dit artikel vooral voor gebruikt?",
       "options": [
-        "Een feest",
-        "Een vakantie",
-        "Een tijdelijke stop",
-        "Een nieuwe start"
+        "Om huizen te verlichten",
+        "Om computers te koelen",
+        "Om bitcoin te delven",
+        "Om drinkwater te zuiveren"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wie worden er direct geraakt door de shutdown?",
+      "question": "Wat is een gevolg van de bitcoinmijnen in Ethiopië?",
       "options": [
-        "Alleen politici",
-        "Alleen ambtenaren",
-        "Ook steuntrekkers en anderen",
-        "Alleen buitenlanders"
+        "Meer jobs voor de lokale bevolking",
+        "Minder stroom voor andere doeleinden",
+        "Meer drinkwater voor iedereen",
+        "Minder immigratie naar andere landen"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat gebeurt er met de immigratie-agenten?",
+      "question": "Wie heeft voordeel van de situatie in Ethiopië?",
       "options": [
-        "Ze worden ontslagen",
-        "Ze worden niet betaald",
-        "Ze worden wel doorbetaald",
-        "Ze krijgen een bonus"
+        "De lokale bevolking",
+        "De Ethiopische overheid",
+        "De bitcoinbedrijven",
+        "De buurlanden van Ethiopië"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De shutdown duurt al een maand.",
+      "statement": "Ethiopië heeft veel stroom door de nieuwe dam.",
       "isTrue": true
     },
     {
-      "statement": "Alleen ambtenaren worden geraakt door de shutdown.",
+      "statement": "De bitcoinbedrijven zorgen voor veel jobs in Ethiopië.",
       "isTrue": false
     },
     {
-      "statement": "Immigratie-agenten worden nog steeds betaald.",
-      "isTrue": true
+      "statement": "De lokale bevolking heeft meer stroom dan voorheen.",
+      "isTrue": false
     }
   ]
 }

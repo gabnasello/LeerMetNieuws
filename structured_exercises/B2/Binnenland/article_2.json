@@ -1,105 +1,105 @@
 {
-  "id": 27,
+  "id": 28,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
+  "title": "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
   "topicNumber": 1,
   "article": {
-    "title": "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
-    "summary": "Meer agenten klussen bij, en dat leidt soms tot misstanden. Minister van Binnenlandse Zaken Bernard Quintin (MR) wil de regels aanscherpen."
+    "title": "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
+    "summary": "AI-modellen zoals ChatGPT maken onze taal vlakker, stelt computerlinguïst Tim Van de Cruys vast. Tegelijk wordt ons eigen taalgevoel misschien nog belangrijker door AI. 'Hoe beter je de taal al beheerst, hoe beter een AI-model voor jou zal werken.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "regels",
-        "definition": "afspraken of voorschriften die gevolgd moeten worden",
-        "sentence": "In dit land gelden andere ___ dan in ons land.",
-        "answer": "regels"
+        "word": "AI",
+        "definition": "Afkorting voor kunstmatige intelligentie; technologie die menselijke intelligentie nabootst.",
+        "sentence": "___ wordt gebruikt in veel moderne toepassingen.",
+        "answer": "AI"
       },
       {
-        "word": "agenten",
-        "definition": "mensen die werken bij de politie",
-        "sentence": "De ___ houden zich bezig met het handhaven van de wet.",
-        "answer": "agenten"
+        "word": "stelt",
+        "definition": "Zet iets neer of presenteert; in deze context betekent het 'beweert' of 'stelt'.",
+        "sentence": "De auteur ___ dat het onderzoek nog loopt.",
+        "answer": "stelt"
       },
       {
-        "word": "klussen",
-        "definition": "klussen, een ander woord voor werken, vaak naast een andere baan",
-        "sentence": "Soms moeten mensen ___ om extra geld te verdienen.",
-        "answer": "klussen"
+        "word": "computerlinguïst",
+        "definition": "Een expert die taal en computerwetenschap combineert.",
+        "sentence": "De ___ onderzocht hoe AI taal kan begrijpen.",
+        "answer": "computerlinguïst"
       },
       {
-        "word": "aanscherpen",
-        "definition": "strenger of scherper maken",
-        "sentence": "De school wil de regels ___ om de veiligheid te verbeteren.",
-        "answer": "aanscherpen"
+        "word": "taal",
+        "definition": "Een systeem van gesproken of geschreven woorden die mensen gebruiken om te communiceren.",
+        "sentence": "De Nederlandse ___ is bekend om zijn complexe grammatica.",
+        "answer": "taal"
       },
       {
-        "word": "minister",
-        "definition": "iemand die de leiding heeft over een deel van de regering",
-        "sentence": "De ___ van Financiën heeft een nieuw plan aangekondigd.",
-        "answer": "minister"
+        "word": "taalgevoel",
+        "definition": "Het natuurlijke gevoel voor wat correct of passend taalgebruik is.",
+        "sentence": "Een goed ___ helpt bij het leren van een nieuwe taal.",
+        "answer": "taalgevoel"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ houden zich bezig met het handhaven van de wet.",
-        "answer": "agenten"
+        "sentence": "De Nederlandse ___ is bekend om zijn complexe grammatica.",
+        "answer": "taal"
       },
       {
-        "sentence": "De ___ van Financiën heeft een nieuw plan aangekondigd.",
-        "answer": "minister"
+        "sentence": "Een goed ___ helpt bij het leren van een nieuwe taal.",
+        "answer": "taalgevoel"
       },
       {
-        "sentence": "De school wil de regels ___ om de veiligheid te verbeteren.",
-        "answer": "aanscherpen"
+        "sentence": "De ___ onderzocht hoe AI taal kan begrijpen.",
+        "answer": "computerlinguïst"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het als regels worden aangescherpt?",
+      "question": "Waarom noemt de auteur AI-modellen zoals ChatGPT 'taalvlakmakers'?",
       "options": [
-        "Ze worden minder streng",
-        "Ze worden duidelijker gemaakt",
-        "Ze worden strenger gemaakt",
-        "Ze worden helemaal verwijderd"
+        "Omdat ze taal letterlijk vlak maken",
+        "Omdat ze taalgebruik minder diepgaand maken",
+        "Omdat ze alleen platte taal produceren",
+        "Omdat ze taal tot simpele structuren reduceren"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat stelt computerlinguïst Tim Van de Cruys over AI en taal?",
+      "options": [
+        "AI maakt taal compleet overbodig",
+        "AI kan taalvaardigheid juist versterken",
+        "AI vervangt alle taalexperts",
+        "AI heeft geen effect op taal"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is een belangrijk gevolg van AI volgens de tekst?",
+      "options": [
+        "Taal wordt overal ter wereld hetzelfde",
+        "Mensen verliezen alle taalvaardigheid",
+        "Goede taalbeheersing wordt nog waardevoller",
+        "AI schrijft binnenkort alle teksten zelf"
       ],
       "correctAnswer": 3
-    },
-    {
-      "question": "Waarom wil de minister de regels aanscherpen?",
-      "options": [
-        "Omdat er te weinig agenten zijn",
-        "Omdat er misstanden zijn door het bijklussen",
-        "Omdat de agenten niet goed kunnen vechten",
-        "Omdat er te veel regels zijn"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een voorbeeld van bijklussen?",
-      "options": [
-        "Een politieagent die in de avonduren als leraar werkt",
-        "Een politieagent die 's nachts als bewaker werkt",
-        "Een politieagent die in het weekend als chauffeur werkt",
-        "Een politieagent die overdag als verkoper werkt"
-      ],
-      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Agenten mogen nooit bijklussen, volgens de nieuwe regels.",
+      "statement": "AI maakt taal compleet overbodig, omdat computers alles kunnen.",
       "isTrue": false
     },
     {
-      "statement": "Het aanscherpen van de regels moet misstanden voorkomen.",
+      "statement": "Hoe beter je de taal al beheerst, hoe beter een AI-model voor jou zal werken.",
       "isTrue": true
     },
     {
-      "statement": "Minister Quintin wil dat agenten stoppen met werken.",
+      "statement": "Computerlinguïstiek is hetzelfde als gewone taalkunde.",
       "isTrue": false
     }
   ]

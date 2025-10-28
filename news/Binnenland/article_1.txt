@@ -1,15 +1,15 @@
 Artikel 1
-Nieuwsupdate: 2025-10-27 00:07 UCT
+Nieuwsupdate: 2025-10-28 04:28 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: “Was ons budget ongelimiteerd, dan hadden wij ook een vrijstaand huis op den buiten gekocht”
-Link: https://www.standaard.be/binnenland/was-ons-budget-ongelimiteerd-dan-hadden-wij-ook-een-vrijstaand-huis-op-den-buiten-gekocht/99538165.html
-Datum: Sun, 26 Oct 2025 22:59:00 GMT
-Samenvatting: Nergens in Vlaanderen werd de voorbije jaren zoveel grond aangesneden voor woningen als in Deinze, en tegen de zin van het lokale bestuur in. Maar de bewoners, die zijn er gelukkig. Wil de Vlaming wel een bouwshift, of blijven we dromen van een groot huis in het groen? “Dat kortzichtig protest tegen hoger bouwen moet stoppen.”
+Titel: Pater Herwig Arts, 90 jaar
+Link: https://www.standaard.be/binnenland/inmemoriam/pater-herwig-arts-90-jaar/100592907.html
+Datum: Tue, 28 Oct 2025 04:06:38 GMT
+Samenvatting: Geboren in 1935, overleden op 24/10/2025.
 Auteur: Geen auteur
-Categorie: Binnenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/dunp3e-astene-09-jk.jpg/alternates/BASE_SIXTEEN_NINE/ASTENE_09-jk.jpg
-Premium: true
+Categorie: Inmemoriam
+Afbeelding: https://prod-img.standaard.be/public/binnenland/inmemoriam/tjuepn-article-gate-img-607344-ds-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_607344-ds-inmemoriam_0
+Premium: false
 ------------------------------------------------------------

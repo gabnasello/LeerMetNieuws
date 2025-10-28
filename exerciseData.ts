@@ -29,104 +29,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambtenaren",
+    title: "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
     topicNumber: 1,
     article: {
-      title: "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambtenaren",
-      summary: "Na één maand begint de shutdown de Amerikanen zwaar te raken – niet alleen onbetaalde ambtenaren, maar bijvoorbeeld ook steuntrekkers. Worden wél netjes verder betaald: immigratie-agenten."
+      title: "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bepopeling in het donker",
+      summary: "Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven."
     },
     vocabulary: {
       words: [
         {
-          word: "betaald",
-          definition: "geld ontvangen voor geleverd werk",
-          sentence: "Sommige werknemers worden nog wel ___.",
-          answer: "betaald"
+          word: "bitcoinboys",
+          definition: "Mensen die veel bezitten van de digitale munt Bitcoin",
+          sentence: "De ___ waren erg rijk geworden.",
+          answer: "bitcoinboys"
         },
         {
-          word: "maand",
-          definition: "een periode van ongeveer 30 dagen",
-          sentence: "Na een ___ is de situatie ernstig.",
-          answer: "maand"
+          word: "jobs",
+          definition: "Werk, betaald werk dat je doet",
+          sentence: "Hij heeft drie ___ tegelijk.",
+          answer: "jobs"
         },
         {
-          word: "shutdown",
-          definition: "tijdelijke sluiting of stopzetting",
-          sentence: "De ___ duurt al een maand.",
-          answer: "shutdown"
+          word: "stroom",
+          definition: "Elektriciteit die uit het stopcontact komt",
+          sentence: "Zonder ___ kun je geen lamp aanzetten.",
+          answer: "stroom"
         },
         {
-          word: "agenten",
-          definition: "mensen die voor een organisatie of overheid werken",
-          sentence: "De immigratie-___ werken nog steeds door.",
-          answer: "agenten"
+          word: "megadam",
+          definition: "Een heel grote dam in een rivier",
+          sentence: "De nieuwe ___ zorgt voor problemen.",
+          answer: "megadam"
         },
         {
-          word: "immigratie",
-          definition: "het binnenkomen van mensen in een nieuw land",
-          sentence: "De ___ agenten zijn gewoon doorbetaald.",
-          answer: "immigratie"
+          word: "Ethiopische",
+          definition: "Van of over Ethiopië, een land in Afrika",
+          sentence: "De ___ keuken is heel pittig.",
+          answer: "Ethiopische"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ agenten zijn gewoon doorbetaald.",
-          answer: "immigratie"
+          sentence: "Hij heeft drie ___ tegelijk.",
+          answer: "jobs"
         },
         {
-          sentence: "De immigratie-___ werken nog steeds door.",
-          answer: "agenten"
+          sentence: "De ___ keuken is heel pittig.",
+          answer: "Ethiopische"
         },
         {
-          sentence: "De ___ duurt al een maand.",
-          answer: "shutdown"
+          sentence: "De ___ waren erg rijk geworden.",
+          answer: "bitcoinboys"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is een 'shutdown' in deze context?",
+        question: "Waar wordt de stroom in dit artikel vooral voor gebruikt?",
         options: [
-          "Een feest",
-          "Een vakantie",
-          "Een tijdelijke stop",
-          "Een nieuwe start"
+          "Om huizen te verlichten",
+          "Om computers te koelen",
+          "Om bitcoin te delven",
+          "Om drinkwater te zuiveren"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wie worden er direct geraakt door de shutdown?",
+        question: "Wat is een gevolg van de bitcoinmijnen in Ethiopië?",
         options: [
-          "Alleen politici",
-          "Alleen ambtenaren",
-          "Ook steuntrekkers en anderen",
-          "Alleen buitenlanders"
+          "Meer jobs voor de lokale bevolking",
+          "Minder stroom voor andere doeleinden",
+          "Meer drinkwater voor iedereen",
+          "Minder immigratie naar andere landen"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Wat gebeurt er met de immigratie-agenten?",
+        question: "Wie heeft voordeel van de situatie in Ethiopië?",
         options: [
-          "Ze worden ontslagen",
-          "Ze worden niet betaald",
-          "Ze worden wel doorbetaald",
-          "Ze krijgen een bonus"
+          "De lokale bevolking",
+          "De Ethiopische overheid",
+          "De bitcoinbedrijven",
+          "De buurlanden van Ethiopië"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De shutdown duurt al een maand.",
+        statement: "Ethiopië heeft veel stroom door de nieuwe dam.",
         isTrue: true
       },
       {
-        statement: "Alleen ambtenaren worden geraakt door de shutdown.",
+        statement: "De bitcoinbedrijven zorgen voor veel jobs in Ethiopië.",
         isTrue: false
       },
       {
-        statement: "Immigratie-agenten worden nog steeds betaald.",
-        isTrue: true
+        statement: "De lokale bevolking heeft meer stroom dan voorheen.",
+        isTrue: false
       }
     ]
   },
@@ -135,104 +135,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
+    title: "Fraude met EU-subsidies: Griekse groep pleegde fraude",
     topicNumber: 1,
     article: {
-      title: "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
-      summary: "Volgens toponderhandelaars van China en de VS zijn de “grote lijnen” van een akkoord beklonken. Haalt de dealmaker-in-chief tijdens zijn rondreis in Azië een handelsdeal met China binnen?"
+      title: "Fraude met EU-subsidies: Griekse groep pleegde fraude",
+      summary: "Een criminele groep in Griekenland heeft de Europese Unie bedrogen voor bijna 20 miljoen euro. Zij logen over het aantal schapen en geiten dat ze hadden, om meer geld te krijgen."
     },
     vocabulary: {
       words: [
         {
-          word: "volgens",
-          definition: "zoals door iemand gezegd of geschreven",
-          sentence: "___ de krant was het een mooie dag.",
-          answer: "Volgens"
+          word: "subsidies",
+          definition: "Financiële steun gegeven door de overheid of een organisatie.",
+          sentence: "De boer ontving ___ van de EU om zijn land te verbeteren.",
+          answer: "subsidies"
         },
         {
-          word: "rondreis",
-          definition: "een reis waarbij meerdere plaatsen worden bezocht",
-          sentence: "Hun ___ door Europa duurde drie weken.",
-          answer: "rondreis"
+          word: "Fraude",
+          definition: "Een vorm van bedrog of misleiding, vaak voor financieel gewin.",
+          sentence: "Hij werd gearresteerd voor zijn rol in de grote ___.",
+          answer: "fraude"
         },
         {
-          word: "tijdens",
-          definition: "een voorzetsel dat aangeeft dat iets tegelijk met iets anders gebeurt",
-          sentence: "Hij was aan het werken ___ de vergadering.",
-          answer: "tijdens"
+          word: "logen",
+          definition: "Niet de waarheid vertellen; het tegenovergestelde van de waarheid spreken.",
+          sentence: "Zij ___ over hun leeftijd om binnen te komen.",
+          answer: "logen"
         },
         {
-          word: "Komt",
-          definition: "een werkwoord dat aangeeft wat iemand of iets doet, nu of in de toekomst",
-          sentence: "___ hij morgen naar school?",
-          answer: "Komt"
+          word: "groep",
+          definition: "Een aantal mensen of dingen bij elkaar.",
+          sentence: "De hele ___ werkte samen aan het project.",
+          answer: "groep"
         },
         {
-          word: "toenadering",
-          definition: "het dichter bij elkaar komen, meestal na een conflict",
-          sentence: "Na het gesprek was er weer ___ tussen de twee.",
-          answer: "toenadering"
+          word: "aantal",
+          definition: "Hoeveel er van iets is; het getal.",
+          sentence: "Het ___ mensen dat kwam opdagen was groot.",
+          answer: "aantal"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hun ___ door Europa duurde drie weken.",
-          answer: "rondreis"
+          sentence: "De boer ontving ___ van de EU om zijn land te verbeteren.",
+          answer: "subsidies"
         },
         {
-          sentence: "___ hij morgen naar school?",
-          answer: "Komt"
+          sentence: "De hele ___ werkte samen aan het project.",
+          answer: "groep"
         },
         {
-          sentence: "___ de krant was het een mooie dag.",
-          answer: "Volgens"
+          sentence: "Hij werd gearresteerd voor zijn rol in de grote ___.",
+          answer: "fraude"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat het artikel vooral over?",
+        question: "Wat was het hoofddoel van de groep in Griekenland?",
         options: [
-          "Een vakantie van Trump",
-          "Een sportwedstrijd in China",
-          "Onderhandelingen tussen de VS en China",
-          "Een feest in Azië"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat is de rol van de toponderhandelaars?",
-        options: [
-          "Ze organiseren feesten",
-          "Ze maken internationale afspraken",
-          "Ze geven les op school",
-          "Ze zijn atleten in de Olympische Spelen"
+          "Meer dieren verzorgen",
+          "Geld stelen van de EU",
+          "Een nieuwe wet aannemen",
+          "Meer boeren helpen"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is het resultaat van de besprekingen?",
+        question: "Hoe pleegde de groep de fraude precies?",
         options: [
-          "Er is meer oorlog gekomen",
-          "Er zijn nieuwe spelregels gemaakt",
-          "Er is een akkoord bereikt",
-          "Er is niets besloten"
+          "Ze verkochten te veel dieren",
+          "Ze logen over het aantal dieren",
+          "Ze stalen geld uit banken",
+          "Ze gaven dieren weg"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is een gevolg van dit soort fraude?",
+        options: [
+          "De EU stopt met alle subsidies",
+          "De EU wordt voorzichtiger met geld",
+          "Dieren krijgen minder eten",
+          "Belastinggeld wordt verspild"
+        ],
+        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "De tekst gaat over een mogelijke ontmoeting tussen Trump en de leider van China.",
-        isTrue: true
-      },
-      {
-        statement: "Trump heeft al een handelsdeal met China ondertekend tijdens zijn reis.",
+        statement: "De groep in Griekenland gaf de Europese Unie te veel dieren.",
         isTrue: false
       },
       {
-        statement: "Toponderhandelaars hebben de hoofdafspraken van een akkoord vastgelegd.",
+        statement: "De groep loog over hoeveel dieren ze hadden om meer geld te krijgen.",
         isTrue: true
+      },
+      {
+        statement: "Dit gebeurde alleen in Griekenland.",
+        isTrue: false
       }
     ]
   },
@@ -241,103 +241,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Koerdische PKK haalt alle strijders weg uit Turkije",
+    title: "Jamaica maakt zich op voor Melissa, de zwaarste orkaan van het jaar",
     topicNumber: 1,
     article: {
-      title: "Koerdische PKK haalt alle strijders weg uit Turkije",
-      summary: "Turkije en de Koerdische PKK hebben een nieuw akkoord. De PKK-strijders zullen zich terugtrekken uit Turkije. Dit is een historische stap in hun onderhandelingen. Maar het akkoord is het resultaat van achterkamertjespolitiek."
+      title: "Jamaica maakt zich op voor Melissa, de zwaarste orkaan van het jaar",
+      summary: "Een ramp lijkt onafwendbaar in Jamaica, nu orkaan Melissa op drie manieren kan toeslaan: met stormvloed, immense regenval en verwoestende wind. Op Haïti en de Dominicaanse Republiek vielen al vier doden."
     },
     vocabulary: {
       words: [
         {
-          word: "strijders",
-          definition: "mensen die vechten in een oorlog",
-          sentence: "De ___ vechten voor een zaak.",
-          answer: "strijders"
+          word: "stormvloed",
+          definition: "Een grote overstroming door de zee die het land binnenstroomt",
+          sentence: "Bij een stormvloed stroomt zeewater het land binnen en veroorzaakt overstromingen.",
+          answer: "stormvloed"
         },
         {
-          word: "stap",
-          definition: "een actie die je neemt",
-          sentence: "De eerste ___ is vaak het moeilijkst.",
-          answer: "stap"
+          word: "regenval",
+          definition: "De hoeveelheid regen die in een bepaalde tijd valt",
+          sentence: "Hevige regenval kan straten blank zetten en huizen onder water zetten.",
+          answer: "regenval"
         },
         {
-          word: "terugtrekken",
-          definition: "weggaan van een plaats",
-          sentence: "Soldaten ___ zich uit een gebied.",
-          answer: "terugtrekken"
+          word: "orkaan",
+          definition: "Een hele zware storm met veel wind en regen",
+          sentence: "Een orkaan kan veel schade veroorzaken met harde wind en veel regen.",
+          answer: "orkaan"
         },
         {
-          word: "achterkamertjespolitiek",
-          definition: "geheime politieke deals",
-          sentence: "___ gebeurt vaak zonder openbaarheid.",
-          answer: "achterkamertjespolitiek"
+          word: "wind",
+          definition: "Bewegende lucht die je voelt maar niet ziet",
+          sentence: "Sterke wind kan takken afbreken en dingen omver blazen.",
+          answer: "wind"
         },
         {
-          word: "Turkije",
-          definition: "een land in Europa en Azië",
-          sentence: "___ is het land waar de PKK zich terugtrekt.",
-          answer: "Turkije"
+          word: "ramp",
+          definition: "Een ernstige gebeurtenis met veel schade en vaak slachtoffers",
+          sentence: "Een natuurramp zoals een orkaan kan hele steden verwoesten.",
+          answer: "ramp"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "___ is het land waar de PKK zich terugtrekt.",
-          answer: "Turkije"
+          sentence: "Bij een stormvloed stroomt zeewater het land binnen en veroorzaakt overstromingen.",
+          answer: "stormvloed"
         },
         {
-          sentence: "___ gebeurt vaak zonder openbaarheid.",
-          answer: "achterkamertjespolitiek"
+          sentence: "Sterke wind kan takken afbreken en dingen omver blazen.",
+          answer: "wind"
         },
         {
-          sentence: "De ___ vechten voor een zaak.",
-          answer: "strijders"
+          sentence: "Een natuurramp zoals een orkaan kan hele steden verwoesten.",
+          answer: "ramp"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'terugtrekken' in deze context?",
+        question: "Wat is een orkaan?",
         options: [
-          "vooruit bewegen",
-          "teruggaan",
-          "stil blijven",
-          "rennen"
+          "Een soort dier",
+          "Een feestdag",
+          "Een zware storm met veel wind",
+          "Een type auto"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Wat is 'achterkamertjespolitiek'?",
+        question: "Waarom is de situatie in Jamaica zorgelijk?",
         options: [
-          "openbare vergaderingen",
-          "geheime politieke deals",
-          "sportevenementen",
-          "kooklessen"
+          "Er is een feest aan de gang",
+          "Er is een voedseltekort",
+          "Orkaan Melissa nadert en kan op drie manieren toeslaan",
+          "De president is afgetreden"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Waarom is dit akkoord historisch?",
+        question: "Wat is al gebeurd in naburige landen?",
         options: [
-          "Omdat het nooit eerder is gebeurd",
-          "Omdat het om eten gaat",
-          "Omdat het in de krant staat",
-          "Omdat het niet belangrijk is"
+          "Er is een orkaan geweest",
+          "Er zijn vier mensen overleden",
+          "Er is een festival gehouden",
+          "Er is niets gebeurd"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De PKK-strijders blijven in Turkije.",
+        statement: "Een orkaan brengt alleen harde wind, geen andere problemen.",
         isTrue: false
       },
       {
-        statement: "Het akkoord is het resultaat van onderhandelingen.",
+        statement: "Er zijn al doden gevallen in Haïti en de Dominicaanse Republiek door de orkaan.",
         isTrue: true
       },
       {
-        statement: "De PKK is een Turkse organisatie.",
+        statement: "Nederland wordt vaak getroffen door orkanen.",
         isTrue: false
       }
     ]
@@ -347,103 +347,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
+    title: "Pater Herwig Arts, 90 jaar",
     topicNumber: 1,
     article: {
-      title: "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
-      summary: "Het KMI waarschuwt opnieuw voor slecht weer. De overheid heeft het nummer 1722 geactiveerd, dat mensen kunnen bellen bij storm- en waterschade."
+      title: "Pater Herwig Arts, 90 jaar",
+      summary: "Pater Herwig Arts is geboren in 1935 en overleden op 24 oktober 2025."
     },
     vocabulary: {
       words: [
         {
-          word: "KMI",
-          definition: "Koninklijk Meteorologisch Instituut, zij geven weersverwachtingen.",
-          sentence: "Het ___ waarschuwt voor zwaar weer.",
-          answer: "KMI"
+          word: "jaar",
+          definition: "een periode van 365 of 366 dagen",
+          sentence: "Hij is 90 ___ oud geworden.",
+          answer: "jaar"
         },
         {
-          word: "schade",
-          definition: "Schade is wat kapot of beschadigd is.",
-          sentence: "Na de ___ moesten we herstellen.",
-          answer: "schade"
+          word: "Arts",
+          definition: "een achternaam, zoals Jansen of De Vries",
+          sentence: "Zijn volledige naam was Herwig ___.",
+          answer: "Arts"
         },
         {
-          word: "bellen",
-          definition: "Telefoneren, iemand opbellen.",
-          sentence: "Je kunt ___ naar 1722 voor hulp.",
-          answer: "bellen"
+          word: "overleden",
+          definition: "niet meer in leven zijn, dood zijn",
+          sentence: "Hij is ___ op 24 oktober 2025.",
+          answer: "overleden"
         },
         {
-          word: "storm",
-          definition: "Hevig weer met veel wind en regen.",
-          sentence: "De ___ veroorzaakte veel schade.",
-          answer: "storm"
+          word: "Herwig",
+          definition: "een mannelijke voornaam",
+          sentence: "___ was de voornaam van de pater.",
+          answer: "Herwig"
         },
         {
-          word: "nummer",
-          definition: "Een reeks cijfers die iets identificeert, zoals een telefoonnummer.",
-          sentence: "Welk ___ moet ik bellen bij nood?",
-          answer: "nummer"
+          word: "geboren",
+          definition: "het moment dat iemand ter wereld komt",
+          sentence: "Hij werd ___ in het jaar 1935.",
+          answer: "geboren"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ veroorzaakte veel schade.",
-          answer: "storm"
+          sentence: "Hij is ___ op 24 oktober 2025.",
+          answer: "overleden"
         },
         {
-          sentence: "Na de ___ moesten we herstellen.",
-          answer: "schade"
+          sentence: "Hij is 90 ___ oud geworden.",
+          answer: "jaar"
         },
         {
-          sentence: "Het ___ waarschuwt voor zwaar weer.",
-          answer: "KMI"
+          sentence: "Hij werd ___ in het jaar 1935.",
+          answer: "geboren"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom heeft de overheid nummer 1722 geactiveerd?",
+        question: "In welk jaar werd Pater Herwig Arts geboren?",
         options: [
-          "Voor het melden van leuke nieuwtjes",
-          "Voor het aanvragen van een paspoort",
-          "Voor hulp bij storm- en waterschade",
-          "Voor het bestellen van eten"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat doet het KMI tijdens slecht weer?",
-        options: [
-          "Ze sluiten hun deuren en blijven thuis",
-          "Ze geven waarschuwingen en advies aan het publiek",
-          "Ze organiseren een buurtfeest in de regen",
-          "Ze stoppen met werken en wachten op de zon"
+          "1930",
+          "1935",
+          "1940",
+          "1945"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een gevolg van een storm?",
+        question: "In welke maand overleed Pater Herwig Arts?",
         options: [
-          "Mensen krijgen een nieuwe auto van de gemeente",
-          "Er vallen geen blaadjes meer van bomen",
-          "Schade aan huizen en wegen door wind en water",
-          "Iedereen krijgt een gratis ticket naar de zon"
+          "Januari",
+          "Februari",
+          "September",
+          "Oktober"
+        ],
+        correctAnswer: 4
+      },
+      {
+        question: "Hoe oud was Pater Herwig Arts toen hij overleed?",
+        options: [
+          "85 jaar",
+          "89 jaar",
+          "90 jaar",
+          "95 jaar"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Het KMI waarschuwt alleen voor zonnig weer.",
+        statement: "Pater Herwig Arts werd geboren in 1935.",
+        isTrue: true
+      },
+      {
+        statement: "Pater Herwig Arts overleed in de maand december.",
         isTrue: false
       },
       {
-        statement: "Nummer 1722 is een telefoonnummer voor vragen over dieren in de tuin.",
-        isTrue: false
-      },
-      {
-        statement: "Je kunt bellen naar 1722 als je schade hebt door een storm.",
+        statement: "Pater Herwig Arts werd 90 jaar oud.",
         isTrue: true
       }
     ]
@@ -559,103 +559,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Wat denken de Ronsenaars over al die PFAS? “Ik blijf eten uit mijn moestuin, PFAS of niet”",
+    title: "De warme bakker is steeds vaker een vrouw: Na tien broden bakken wist ik: hier word ik gelukkig van",
     topicNumber: 1,
     article: {
-      title: "Wat denken de Ronsenaars over al die PFAS? “Ik blijf eten uit mijn moestuin, PFAS of niet”",
-      summary: "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben. “We hopen dat de stad weet waar ze mee bezig is. Zolang we maar niet het nieuwe Zwijndrecht worden.”"
+      title: "De warme bakker is steeds vaker een vrouw: Na tien broden bakken wist ik: hier word ik gelukkig van",
+      summary: "Van een passie voor millefeuille tot ambachtelijke zuurdesembroden, steeds vaker kiezen vrouwen voor een job als bakker of patissier. In verschillende bakkersopleidingen maken ze intussen meer dan de helft van de leerlingen uit. Vrouwen hebben de finesse sneller in de vingers."
     },
     vocabulary: {
       words: [
         {
-          word: "worden",
-          definition: "zijn, veranderen in",
-          sentence: "Zolang we maar niet het nieuwe Zwijndrecht worden.",
-          answer: "worden"
+          word: "millefeuille",
+          definition: "een Frans gebakje gemaakt van laagjes bladerdeeg en room",
+          sentence: "Voor het dessert serveerden ze een heerlijke ___.",
+          answer: "millefeuille"
         },
         {
-          word: "heerst",
-          definition: "is aanwezig, gebeurt veel",
-          sentence: "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben.",
-          answer: "heerst"
+          word: "patissier",
+          definition: "iemand die taarten en andere zoete lekkernijen maakt",
+          sentence: "De ___ versierde de taart met bloemen van suiker.",
+          answer: "patissier"
         },
         {
-          word: "weet",
-          definition: "kent, heeft kennis van",
-          sentence: "“We hopen dat de stad weet waar ze mee bezig is.”",
-          answer: "weet"
+          word: "bakker",
+          definition: "iemand die brood en andere gebakken producten maakt",
+          sentence: "De ___ maakt elke ochtend vers brood.",
+          answer: "bakker"
         },
         {
-          word: "hebben",
-          definition: "in bezit zijn van, hebben",
-          sentence: "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben.",
-          answer: "hebben"
+          word: "ambachtelijke",
+          definition: "op een traditionele manier gemaakt, vaak met de hand",
+          sentence: "Deze ___ kaas komt van een kleine boerderij.",
+          answer: "ambachtelijke"
         },
         {
-          word: "zolang",
-          definition: "gedurende de tijd dat, onder de voorwaarde dat",
-          sentence: "Zolang we maar niet het nieuwe Zwijndrecht worden.",
-          answer: "zolang"
+          word: "vrouw",
+          definition: "een volwassen persoon van het vrouwelijk geslacht",
+          sentence: "De ___ werkt parttime in de supermarkt.",
+          answer: "vrouw"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Zolang we maar niet het nieuwe Zwijndrecht worden.",
-          answer: "worden"
+          sentence: "De ___ versierde de taart met bloemen van suiker.",
+          answer: "patissier"
         },
         {
-          sentence: "Zolang we maar niet het nieuwe Zwijndrecht worden.",
-          answer: "zolang"
+          sentence: "Deze ___ kaas komt van een kleine boerderij.",
+          answer: "ambachtelijke"
         },
         {
-          sentence: "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben.",
-          answer: "hebben"
+          sentence: "Voor het dessert serveerden ze een heerlijke ___.",
+          answer: "millefeuille"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat het artikel vooral over?",
+        question: "Waarom kiezen steeds meer vrouwen voor een baan als bakker of patissier?",
         options: [
-          "Over reizen naar andere landen",
-          "Over gezond eten uit de tuin",
-          "Over een stad met veel PFAS in het bloed",
-          "Over sporten in Ronse"
+          "Omdat het goed betaalt",
+          "Omdat ze van koken houden",
+          "Omdat ze kunnen werken met hun handen",
+          "Omdat ze een passie voor zoetigheid hebben"
         ],
-        correctAnswer: 3
+        correctAnswer: 4
       },
       {
-        question: "Wat is de houding van de bewoners volgens het artikel?",
+        question: "Wat is een kenmerk van vrouwelijke leerlingen in bakkersopleidingen?",
         options: [
-          "Ze zijn erg bang en stoppen met alles",
-          "Ze vertrouwen op de stad en blijven normaal leven",
-          "Ze willen de stad verlaten",
-          "Ze negeren het probleem volledig"
+          "Ze zijn ouder dan mannen",
+          "Ze zijn in de meerderheid",
+          "Ze werken alleen parttime",
+          "Ze hebben meer finesse"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de belangrijkste boodschap van de titel?",
+        question: "Wat betekent 'finesse' in dit artikel?",
         options: [
-          "Gezondheid is niet belangrijk",
-          "Ronse is een gevaarlijke stad",
-          "Ondanks problemen, het leven gaat door",
-          "Iedereen moet nu Zwijndrecht worden"
+          "Snelheid",
+          "Kracht",
+          "Behendigheid",
+          "Zorgvuldigheid"
         ],
-        correctAnswer: 3
+        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "De bewoners van Ronse hebben allemaal erg hoge PFAS-waarden.",
-        isTrue: false
-      },
-      {
-        statement: "De bewoners hopen dat de stad weet wat het doet.",
+        statement: "Vrouwen zijn de meerderheid in bakkersopleidingen.",
         isTrue: true
       },
       {
-        statement: "De bewoners willen net zoals in Zwijndrecht worden.",
+        statement: "Mannen hebben meer finesse dan vrouwen.",
+        isTrue: false
+      },
+      {
+        statement: "Een patissier maakt vooral hartige gerechten.",
         isTrue: false
       }
     ]
@@ -665,104 +665,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Amerikaanse shutdown",
+    title: "Bitcoinbedrijven in Ethiopië",
     topicNumber: 1,
     article: {
-      title: "Amerikaanse shutdown",
-      summary: "Na een maand zonder geld begint de situatie moeilijk te worden voor Amerika. Sommige mensen krijgen nog wel geld, anderen niet."
+      title: "Bitcoinbedrijven in Ethiopië",
+      summary: "Bitcoinbedrijven gebruiken stroom in Ethiopië. De mensen daar hebben weinig stroom. Bitcoinbedrijven krijgen goedkope stroom. De gewone mensen hebben problemen."
     },
     vocabulary: {
       words: [
         {
-          word: "geld",
-          definition: "wat je gebruikt om iets te kopen, zoals euro's of dollars",
-          sentence: "In de winkel betaal je met ___.",
-          answer: "geld"
+          word: "stroom",
+          definition: "elektriciteit, energie",
+          sentence: "Zonder ___ kun je geen lamp gebruiken.",
+          answer: "stroom"
         },
         {
-          word: "maand",
-          definition: "een periode van tijd, 30 of 31 dagen",
-          sentence: "Een jaar heeft twaalf ___.",
-          answer: "maanden"
+          word: "bitcoin",
+          definition: "een soort digitaal geld",
+          sentence: "Mensen gebruiken ___ om te betalen.",
+          answer: "bitcoin"
         },
         {
-          word: "anderen",
-          definition: "andere mensen of dingen",
-          sentence: "Sommige mensen werken, ___ rusten uit.",
-          answer: "anderen"
-        },
-        {
-          word: "krijgen",
-          definition: "iets ontvangen, krijgen",
-          sentence: "Ik ___ een cadeau voor mijn verjaardag.",
-          answer: "krijg"
+          word: "weinig",
+          definition: "niet veel, een kleine hoeveelheid",
+          sentence: "Er is ___ voedsel beschikbaar.",
+          answer: "weinig"
         },
         {
           word: "mensen",
-          definition: "meerdere personen, mannen en vrouwen",
-          sentence: "Er werken veel ___ in dit gebouw.",
+          definition: "personen, individuen",
+          sentence: "De ___ in deze stad hebben weinig water.",
           answer: "mensen"
+        },
+        {
+          word: "problemen",
+          definition: "moeilijkheden, uitdagingen",
+          sentence: "Zij hebben grote ___ met de stroom.",
+          answer: "problemen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Ik ___ een cadeau voor mijn verjaardag.",
-          answer: "krijg"
+          sentence: "Mensen gebruiken ___ om te betalen.",
+          answer: "bitcoin"
         },
         {
-          sentence: "In de winkel betaal je met ___.",
-          answer: "geld"
+          sentence: "De ___ in deze stad hebben weinig water.",
+          answer: "mensen"
         },
         {
-          sentence: "Sommige mensen werken, ___ rusten uit.",
-          answer: "anderen"
+          sentence: "Zij hebben grote ___ met de stroom.",
+          answer: "problemen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Over welke periode gaat dit artikel?",
+        question: "Wat gebruiken de bitcoinbedrijven veel?",
         options: [
-          "1 week",
-          "1 maand",
-          "1 jaar",
-          "1 dag"
+          "Water",
+          "Stroom",
+          "Eten",
+          "Geld"
         ],
         correctAnswer: 2
       },
       {
-        question: "Krijgen alle ambtenaren nu geen geld?",
+        question: "Wat hebben de Ethiopische mensen te weinig?",
         options: [
-          "Ja, alle ambtenaren",
-          "Nee, alleen sommige",
-          "Nee, alleen de anderen",
-          "Ja, niemand krijgt geld"
+          "Bitcoin",
+          "Stroom",
+          "Tijd",
+          "Vrienden"
         ],
         correctAnswer: 2
       },
       {
-        question: "Gaat het hier om Amerika of Nederland?",
+        question: "Wat is een groot probleem voor de Ethiopische bevolking?",
         options: [
-          "Alleen Amerika",
-          "Alleen Nederland",
-          "Beide landen",
-          "Geen van beide"
+          "Te veel bitcoinbedrijven",
+          "Te weinig water",
+          "Te veel voedsel",
+          "Te weinig elektriciteit"
         ],
-        correctAnswer: 1
+        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "De shutdown duurt nu een maand.",
+        statement: "Bitcoinbedrijven gebruiken veel stroom in Ethiopië.",
         isTrue: true
       },
       {
-        statement: "Alle ambtenaren krijgen geen geld meer.",
+        statement: "Alle mensen in Ethiopië hebben genoeg water.",
         isTrue: false
       },
       {
-        statement: "Sommige mensen krijgen nog wel geld.",
-        isTrue: true
+        statement: "De bitcoinbedrijven helpen de Ethiopische mensen.",
+        isTrue: false
       }
     ]
   },
@@ -771,103 +771,97 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Amerikaanse drones controleren staakt-het-vuren in Gaza",
+    title: "Fraude met EU-steun",
     topicNumber: 1,
     article: {
-      title: "Amerikaanse drones controleren staakt-het-vuren in Gaza",
-      summary: "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen."
+      title: "Fraude met EU-steun",
+      summary: "Sommige mensen in Griekenland kregen geld van de EU, maar ze logen over hoeveel dieren ze hadden."
     },
     vocabulary: {
       words: [
         {
-          word: "controleren",
-          definition: "kijken of iets goed gaat",
-          sentence: "Zij ___ het staakt-het-vuren.",
-          answer: "controleren"
+          word: "mensen",
+          definition: "personen, meervoud van mens",
+          sentence: "Deze ___ werken samen.",
+          answer: "mensen"
         },
         {
-          word: "onderhandelingen",
-          definition: "gesprekken om tot een oplossing te komen",
-          sentence: "De ___ zijn belangrijk voor vrede.",
-          answer: "onderhandelingen"
+          word: "dieren",
+          definition: "dieren, zoals een hond of kat",
+          sentence: "Ze hebben veel ___ op hun boerderij.",
+          answer: "dieren"
         },
         {
-          word: "staakt-het-vuren",
-          definition: "stoppen met schieten",
-          sentence: "Het ___ is belangrijk voor vrede.",
-          answer: "staakt-het-vuren"
+          word: "geld",
+          definition: "wat je gebruikt om iets te kopen",
+          sentence: "Ze kregen veel ___ van de EU.",
+          answer: "geld"
         },
         {
-          word: "Amerikaanse",
-          definition: "komt uit Amerika",
-          sentence: "De ___ drone vliegt in de lucht.",
-          answer: "Amerikaanse"
-        },
-        {
-          word: "drones",
-          definition: "vliegende machines zonder piloot",
-          sentence: "De ___ zijn in de lucht.",
-          answer: "drones"
+          word: "logen",
+          definition: "niet de waarheid zeggen",
+          sentence: "Ze ___ over het aantal dieren.",
+          answer: "logen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het ___ is belangrijk voor vrede.",
-          answer: "staakt-het-vuren"
+          sentence: "Deze ___ werken samen.",
+          answer: "mensen"
         },
         {
-          sentence: "De ___ zijn in de lucht.",
-          answer: "drones"
+          sentence: "Ze hebben veel ___ op hun boerderij.",
+          answer: "dieren"
         },
         {
-          sentence: "De ___ zijn belangrijk voor vrede.",
-          answer: "onderhandelingen"
+          sentence: "Ze kregen veel ___ van de EU.",
+          answer: "geld"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat controleren de drones?",
+        question: "Waar ging de fraude over?",
         options: [
-          "het weer",
-          "de vrede",
-          "het staakt-het-vuren",
-          "de oorlog"
+          "over reizen",
+          "over eten",
+          "over dieren",
+          "over muziek"
         ],
         correctAnswer: 3
       },
       {
-        question: "Waar vindt het staakt-het-vuren plaats?",
+        question: "Wat deden de mensen in Griekenland?",
         options: [
-          "in Gaza",
-          "in Amerika",
-          "in de lucht",
-          "in een gebouw"
+          "Ze logen over het aantal dieren",
+          "Ze kochten nieuwe dieren",
+          "Ze verkochten hun dieren",
+          "Ze gingen op vakantie"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is het resultaat van de onderhandelingen?",
+        question: "Wat is de EU?",
         options: [
-          "meer oorlog",
-          "een doorbraak",
-          "een drone",
-          "geen resultaat"
+          "Een land",
+          "Een groep van landen",
+          "Een dier",
+          "Een stad"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Drones controleren het staakt-het-vuren in Gaza.",
+        statement: "De mensen in Griekenland hadden te veel dieren.",
         isTrue: true
       },
       {
-        statement: "De onderhandelingen zijn in Amerika.",
+        statement: "De EU gaf de mensen geen geld.",
         isTrue: false
       },
       {
-        statement: "Er is een doorbraak in de onderhandelingen over vrede.",
+        statement: "De mensen logen over hoeveel dieren ze hadden.",
         isTrue: true
       }
     ]
@@ -877,103 +871,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "PKK strijders gaan weg uit Turkije",
+    title: "Orkaan Melissa nadelt naar Jamaica",
     topicNumber: 1,
     article: {
-      title: "PKK strijkers gaan weg uit Turkije",
-      summary: "Turkije en de Koerdische groep PKK hebben een akkoord. De PKK-strijders zullen zich terugtrekken uit Turkije. Dit is een historische stap in de onderhandelingen. Maar het akkoord is het resultaat van politiek overleg achter gesloten deuren."
+      title: "Orkaan Melissa nadelt naar Jamaica",
+      summary: "Orkaan Melissa komt naar Jamaica. De orkaan brengt veel wind en regen. Er is ook gevaar voor overstromingen. Er zijn al doden in andere landen."
     },
     vocabulary: {
       words: [
         {
-          word: "groep",
-          definition: "Een aantal mensen bij elkaar.",
-          sentence: "De ___ gaat samen sporten.",
-          answer: "groep"
+          word: "orkaan",
+          definition: "een hele grote storm met veel wind",
+          sentence: "Een orkaan kan veel schade veroorzaken.",
+          answer: "orkaan"
         },
         {
-          word: "akkoord",
-          definition: "Een overeenkomst.",
-          sentence: "Ze hebben een ___ getekend.",
-          answer: "akkoord"
+          word: "Jamaica",
+          definition: "een land in het Caribisch gebied",
+          sentence: "Jamaica is een eiland in de Caribische Zee.",
+          answer: "Jamaica"
         },
         {
-          word: "PKK",
-          definition: "Een groep mensen.",
-          sentence: "De ___ is een groep.",
-          answer: "PKK"
+          word: "doden",
+          definition: "mensen die zijn overleden",
+          sentence: "Er zijn helaas doden gevallen door de orkaan.",
+          answer: "doden"
         },
         {
-          word: "weg",
-          definition: "Niet hier, maar ergens anders.",
-          sentence: "Hij is ___ van huis.",
-          answer: "weg"
+          word: "land",
+          definition: "een gebied met een eigen regering, zoals Nederland of België",
+          sentence: "Welk land ligt naast Duitsland?",
+          answer: "land"
         },
         {
-          word: "strijders",
-          definition: "Mensen die vechten.",
-          sentence: "De soldaten zijn ook ___.",
-          answer: "strijders"
+          word: "regen",
+          definition: "water dat uit de lucht valt, vaak bij slecht weer",
+          sentence: "De regen viel de hele dag.",
+          answer: "regen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De soldaten zijn ook ___.",
-          answer: "strijders"
+          sentence: "Een orkaan kan veel schade veroorzaken.",
+          answer: "orkaan"
         },
         {
-          sentence: "Hij is ___ van huis.",
-          answer: "weg"
+          sentence: "Er zijn helaas doden gevallen door de orkaan.",
+          answer: "doden"
         },
         {
-          sentence: "De ___ is een groep.",
-          answer: "PKK"
+          sentence: "De regen viel de hele dag.",
+          answer: "regen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'strijders'?",
+        question: "Waar is orkaan Melissa?",
         options: [
-          "Mensen die vechten",
-          "Een soort eten",
-          "Een type auto",
-          "Een muziekinstrument"
+          "Bij Jamaica",
+          "In Nederland",
+          "Op de maan",
+          "In een boek"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is 'onderhandelingen'?",
+        question: "Wat veroorzaakt orkaan Melissa?",
         options: [
-          "Een soort dans",
-          "Gesprekken om afspraken te maken",
-          "Een soort game",
-          "Een type schoen"
+          "Veel wind en regen",
+          "Zonnig weer",
+          "Een lichte bries",
+          "Koude sneeuw"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Wat is 'stap'?",
+        question: "Wat is een gevolg van de orkaan?",
         options: [
-          "Een beweging met je voet",
-          "Een soort vogel",
-          "Een soort insect",
-          "Een soort plant"
+          "Er zijn overstromingen",
+          "De zon schijnt fel",
+          "Het sneeuwt",
+          "Het is erg koud"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Turkije is een land.",
+        statement: "Orkaan Melissa veroorzaakt overstromingen in Jamaica.",
         isTrue: true
       },
       {
-        statement: "PKK is een soort auto.",
+        statement: "Nederland wordt ook getroffen door orkaan Melissa.",
         isTrue: false
       },
       {
-        statement: "Strijders zijn mensen die vechten.",
+        statement: "Er zijn al doden in andere landen door de orkaan.",
         isTrue: true
       }
     ]
@@ -983,103 +977,97 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Bouwproject",
+    title: "Pater Herwig Arts, 90 jaar",
     topicNumber: 1,
     article: {
-      title: "Bouwproject",
-      summary: "Er komen nieuwe huizen in een dorp. De mensen zijn blij. Maar in de stad is er protest tegen meer bouwen. Wat is wijs?"
+      title: "Pater Herwig Arts, 90 jaar",
+      summary: "Geboren in 1935, overleden op 24/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "mensen",
-          definition: "personen",
-          sentence: "De ___ zijn vriendelijk.",
-          answer: "mensen"
+          word: "pater",
+          definition: "een priester in sommige religieuze orden",
+          sentence: "De ___ heeft een lange tijd geleefd.",
+          answer: "pater"
         },
         {
-          word: "dorp",
-          definition: "een kleine plaats met huizen",
-          sentence: "Het ___ is rustig en mooi.",
-          answer: "dorp"
+          word: "jaar",
+          definition: "een periode van 365 dagen",
+          sentence: "Hij is 90 ___ oud.",
+          answer: "jaar"
         },
         {
-          word: "wijs",
-          definition: "slim en goed",
-          sentence: "Een ___ persoon denkt na.",
-          answer: "wijs"
+          word: "geboren",
+          definition: "het begin van het leven",
+          sentence: "Hij is ___ in 1935.",
+          answer: "geboren"
         },
         {
-          word: "Bouwproject",
-          definition: "een plan om iets te bouwen",
-          sentence: "Het ___ is klaar.",
-          answer: "Bouwproject"
-        },
-        {
-          word: "protest",
-          definition: "tegen iets zijn",
-          sentence: "Er is ___ tegen het plan.",
-          answer: "protest"
+          word: "overleden",
+          definition: "niet meer levend, gestorven",
+          sentence: "Hij is ___ op 24 oktober 2025.",
+          answer: "overleden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Er is ___ tegen het plan.",
-          answer: "protest"
+          sentence: "Hij is ___ in 1935.",
+          answer: "geboren"
         },
         {
-          sentence: "De ___ zijn vriendelijk.",
-          answer: "mensen"
+          sentence: "De ___ heeft een lange tijd geleefd.",
+          answer: "pater"
         },
         {
-          sentence: "Een ___ persoon denkt na.",
-          answer: "wijs"
+          sentence: "Hij is ___ op 24 oktober 2025.",
+          answer: "overleden"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar is het bouwproject?",
+        question: "Wat is de geboortedatum van pater Herwig Arts?",
         options: [
-          "In een dorp",
-          "In een stad",
-          "In een park",
-          "In een school"
+          "1935",
+          "1920",
+          "1945",
+          "1900"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat doen de mensen in het dorp?",
+        question: "In welk jaar overleed pater Herwig Arts?",
         options: [
-          "Ze werken",
-          "Ze wonen",
-          "Ze reizen",
-          "Ze slapen"
+          "2025",
+          "2020",
+          "2030",
+          "2015"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Wat is het tegenovergestelde van protest?",
+        question: "Hoe oud werd pater Herwig Arts?",
         options: [
-          "Steun",
-          "Tegen",
-          "Rust",
-          "Lawaai"
+          "90 jaar",
+          "80 jaar",
+          "100 jaar",
+          "85 jaar"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Het bouwproject is in een dorp.",
+        statement: "Pater Herwig Arts is geboren in 1935.",
         isTrue: true
       },
       {
-        statement: "De mensen in de stad zijn blij met het protest.",
+        statement: "Hij overleed in 2020.",
         isTrue: false
       },
       {
-        statement: "Een wijs persoon denkt na over wonen.",
+        statement: "Hij werd 90 jaar oud.",
         isTrue: true
       }
     ]
@@ -1089,104 +1077,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
+    title: "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
     topicNumber: 1,
     article: {
-      title: "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
-      summary: "Meer agenten klussen bij, en dat leidt soms tot misstanden. Minister van Binnenlandse Zaken Bernard Quintin (MR) wil de regels aanscherpen."
+      title: "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
+      summary: "AI-modellen zoals ChatGPT maken onze taal vlakker, stelt computerlinguïst Tim Van de Cruys vast. Tegelijk wordt ons eigen taalgevoel misschien nog belangrijker door AI. 'Hoe beter je de taal al beheerst, hoe beter een AI-model voor jou zal werken.'"
     },
     vocabulary: {
       words: [
         {
-          word: "aanscherpen",
-          definition: "strenger maken, zoals van regels",
-          sentence: "De minister wil de regels ___ om problemen te voorkomen.",
-          answer: "aanscherpen"
+          word: "computer",
+          definition: "een apparaat waarmee je kunt internetten en werken",
+          sentence: "Ik gebruik mijn ___ om te werken.",
+          answer: "computer"
         },
         {
-          word: "minister",
-          definition: "een belangrijk persoon in de regering",
-          sentence: "De ___ van Binnenlandse Zaken maakt nieuwe plannen.",
-          answer: "minister"
+          word: "taal",
+          definition: "de manier waarop mensen met elkaar praten",
+          sentence: "Welke ___ spreek jij het best?",
+          answer: "taal"
         },
         {
-          word: "agenten",
-          definition: "mensen die werken bij de politie",
-          sentence: "De ___ houden de wijk veilig.",
-          answer: "agenten"
+          word: "taalgevoel",
+          definition: "het natuurlijke gevoel voor wat goed of fout is in een taal",
+          sentence: "Zijn ___ is heel goed, hij maakt nooit fouten.",
+          answer: "taalgevoel"
         },
         {
-          word: "klussen",
-          definition: "extra werk doen, vaak naast een andere baan",
-          sentence: "Hij wil graag ___ om meer geld te verdienen.",
-          answer: "klussen"
+          word: "taal",
+          definition: "de manier waarop mensen met elkaar praten",
+          sentence: "In welk land wordt deze ___ gesproken?",
+          answer: "taal"
         },
         {
-          word: "politiemensen",
-          definition: "mannen en vrouwen die bij de politie werken",
-          sentence: "De ___ hebben een moeilijke taak.",
-          answer: "politiemensen"
+          word: "modellen",
+          definition: "versies of soorten van iets, bijvoorbeeld van een computerprogramma",
+          sentence: "De nieuwe ___ van de auto zijn erg populair.",
+          answer: "modellen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ van Binnenlandse Zaken maakt nieuwe plannen.",
-          answer: "minister"
+          sentence: "Welke ___ spreek jij het best?",
+          answer: "taal"
         },
         {
-          sentence: "Hij wil graag ___ om meer geld te verdienen.",
-          answer: "klussen"
+          sentence: "Zijn ___ is heel goed, hij maakt nooit fouten.",
+          answer: "taalgevoel"
         },
         {
-          sentence: "De ___ hebben een moeilijke taak.",
-          answer: "politiemensen"
+          sentence: "De nieuwe ___ van de auto zijn erg populair.",
+          answer: "modellen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom wil de minister de regels aanscherpen?",
+        question: "Wat betekent 'taalgevoel'?",
         options: [
-          "Omdat er te weinig agenten zijn",
-          "Omdat er veel misstanden zijn door het bijklussen",
-          "Omdat de agenten geen andere hobby's hebben",
-          "Omdat de minister zelf ook bijklust"
+          "een soort gevoel",
+          "een soort taal",
+          "een soort computer",
+          "een soort kunst"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is een computer?",
+        options: [
+          "een dier",
+          "een machine",
+          "een gebouw",
+          "een land"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is 'bijklussen'?",
+        question: "Wat is een model?",
         options: [
-          "Werken als een klusser voor huishoudens",
-          "Werken bij de politie",
-          "Werken naast je gewone baan",
-          "Werken als een spion"
+          "een persoon",
+          "een auto",
+          "een soort van iets",
+          "een stad"
         ],
         correctAnswer: 3
-      },
-      {
-        question: "Waar gaat dit artikel over?",
-        options: [
-          "Alleen over de agenten die bijklussen",
-          "Alleen over de minister die nieuwe regels maakt",
-          "Over hoe agenten vechten tijdens hun werk",
-          "Over de nieuwe regels en waarom ze nodig zijn"
-        ],
-        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "Alle agenten mogen niet meer bijklussen.",
-        isTrue: false
-      },
-      {
-        statement: "De minister wil de regels aanscherpen om problemen te voorkomen.",
+        statement: "AI maakt taal eenvoudiger.",
         isTrue: true
       },
       {
-        statement: "Alleen agenten mogen bijklussen, andere mensen niet.",
+        statement: "Taal is alleen voor ouderen.",
         isTrue: false
+      },
+      {
+        statement: "Een computer kan helpen met taal leren.",
+        isTrue: true
       }
     ]
   },
@@ -1195,103 +1183,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Wat denken de Ronsenaars over al die PFAS?",
+    title: "De warme bakker is steeds vaker een vrouw",
     topicNumber: 1,
     article: {
-      title: "Wat denken de Ronsenaars over al die PFAS?",
-      summary: "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben. We hopen dat de stad weet waar ze mee bezig is. Zolang we maar niet het nieuwe Zwijndrecht worden."
+      title: "De warme bakker is steeds vaker een vrouw",
+      summary: "Veel vrouwen werken nu als bakker of patissier. In opleidingen zijn er steeds meer vrouwen. Vrouwen kunnen dit werk goed doen."
     },
     vocabulary: {
       words: [
         {
-          word: "denken",
-          definition: "iets in je hoofd hebben",
-          sentence: "Wat ___ de mensen in Ronse?",
-          answer: "denken"
+          word: "warm",
+          definition: "niet koud, een hoge temperatuur hebbend",
+          sentence: "Het brood is ___ en vers.",
+          answer: "warm"
         },
         {
-          word: "Ronsenaars",
-          definition: "mensen uit Ronse",
-          sentence: "De ___ zijn bezorgd.",
-          answer: "Ronsenaars"
+          word: "werken",
+          definition: "een taak uitvoeren, een job hebben",
+          sentence: "Zij ___ in de keuken.",
+          answer: "werken"
         },
         {
-          word: "PFAS",
-          definition: "een soort chemische stof",
-          sentence: "Er is veel ___ in Ronse.",
-          answer: "PFAS"
+          word: "bakker",
+          definition: "iemand die brood bakt",
+          sentence: "De ___ bakt brood en koek.",
+          answer: "bakker"
         },
         {
-          word: "stad",
-          definition: "een plaats waar veel mensen wonen",
-          sentence: "De ___ van Ronse zoekt oplossingen.",
-          answer: "stad"
+          word: "vak",
+          definition: "een beroep, een soort werk",
+          sentence: "Het bakkers___ leert men op school.",
+          answer: "vak"
         },
         {
-          word: "worden",
-          definition: "veranderen in iets anders",
-          sentence: "We willen niet als Zwijndrecht ___.",
-          answer: "worden"
+          word: "vrouwen",
+          definition: "vrouwelijke personen",
+          sentence: "De ___ werken in de bakkerij.",
+          answer: "vrouwen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Wat ___ de mensen in Ronse?",
-          answer: "denken"
+          sentence: "Zij ___ in de keuken.",
+          answer: "werken"
         },
         {
-          sentence: "Er is veel ___ in Ronse.",
-          answer: "PFAS"
+          sentence: "Het bakkers___ leert men op school.",
+          answer: "vak"
         },
         {
-          sentence: "We willen niet als Zwijndrecht ___.",
-          answer: "worden"
+          sentence: "De ___ werken in de bakkerij.",
+          answer: "vrouwen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarover zijn de mensen in Ronse bezorgd?",
+        question: "Wat betekent 'steeds'?",
         options: [
-          "Over het weer",
-          "Over hun werk",
-          "Over PFAS in hun bloed",
-          "Over vakantieplannen"
+          "snel",
+          "vaak",
+          "steeds vaker",
+          "meer en meer"
         ],
-        correctAnswer: 3
+        correctAnswer: 4
       },
       {
-        question: "Wat hopen de mensen in Ronse?",
+        question: "Wat is een 'bakker'?",
         options: [
-          "Dat het stopt met regenen",
-          "Dat de stad helpt",
-          "Dat ze veel geld winnen",
-          "Dat ze een nieuw huis krijgen"
+          "iemand die brood bakt",
+          "iemand die taarten maakt",
+          "iemand die koffie zet",
+          "iemand die soep kookt"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat doen vrouwen in dit verhaal?",
+        options: [
+          "Ze bakken brood",
+          "Ze werken in bakkerijen",
+          "Ze zijn allemaal moeders",
+          "Ze zijn allemaal leraars"
         ],
         correctAnswer: 2
-      },
-      {
-        question: "Wat willen de mensen in Ronse niet worden?",
-        options: [
-          "Een nieuwe stad",
-          "Een nieuwe school",
-          "Een nieuwe Zwijndrecht",
-          "Een nieuwe supermarkt"
-        ],
-        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De mensen in Ronse zijn blij met de PFAS.",
-        isTrue: false
-      },
-      {
-        statement: "De stad Ronse wil de mensen helpen.",
+        statement: "Vrouwen werken als bakker.",
         isTrue: true
       },
       {
-        statement: "De mensen in Ronse worden net als in Zwijndrecht.",
+        statement: "Alleen mannen zijn bakkers.",
+        isTrue: false
+      },
+      {
+        statement: "Steeds meer vrouwen worden bakker.",
         isTrue: true
       }
     ]
@@ -1301,103 +1289,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambtenaren",
+    title: "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
     topicNumber: 1,
     article: {
-      title: "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambtenaren",
-      summary: "Na één maand begint de shutdown de Amerikanen zwaar te raken – niet alleen onbetaalde ambtenaren, maar bijvoorbeeld ook steuntrekkers. Worden wél netjes verder betaald: immigratie-agenten."
+      title: "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
+      summary: "Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven."
     },
     vocabulary: {
       words: [
         {
-          word: "niet",
-          definition: "Ontkenning; het tegenovergestelde van 'wel'",
-          sentence: "De ambtenaren worden ___ betaald, wat tot onvrede leidt.",
-          answer: "niet"
+          word: "megadam",
+          definition: "Een zeer groot stuwmeer of dam, vaak gebouwd voor waterkracht of waterbeheer.",
+          sentence: "De nieuwe ___ in Ethiopië is een van de grootste in Afrika.",
+          answer: "megadam"
         },
         {
-          word: "worden",
-          definition: "Een werkwoord, hier gebruikt in de betekenis van 'zijn' of 'worden'",
-          sentence: "De agenten ___ nog steeds betaald, ook al werken ze niet.",
-          answer: "worden"
+          word: "jobs",
+          definition: "Werkgelegenheid; betaalde posities of functies binnen een organisatie.",
+          sentence: "Het project heeft weinig nieuwe ___ opgeleverd voor de lokale bevolking.",
+          answer: "jobs"
         },
         {
-          word: "betaald",
-          definition: "Geld ontvangen voor geleverd werk",
-          sentence: "Sommige werknemers worden nog steeds ___ tijdens de shutdown.",
-          answer: "betaald"
+          word: "Addis Abeba",
+          definition: "De hoofdstad van Ethiopië, gelegen in het hoogland van het land.",
+          sentence: "___ is de hoofdstad van Ethiopië en een belangrijk cultureel centrum.",
+          answer: "Addis Abeba"
         },
         {
-          word: "immigratie",
-          definition: "Het proces van immigratie, oftewel immigratie",
-          sentence: "De ___-agenten blijven werken ondanks de shutdown.",
-          answer: "immigratie"
+          word: "drinkbaar",
+          definition: "Geschikt om te drinken; veilig voor consumptie zonder gevaar voor de gezondheid.",
+          sentence: "Het water is niet langer ___ door de vervuiling.",
+          answer: "drinkbaar"
         },
         {
-          word: "ambtenaren",
-          definition: "Personen die werken voor de overheid",
-          sentence: "De ___ wachten op hun salaris tijdens de shutdown.",
-          answer: "ambtenaren"
+          word: "stroom",
+          definition: "Elektriciteit; de stroom van elektrische energie.",
+          sentence: "Veel mensen hebben geen toegang tot ___ in hun huizen.",
+          answer: "stroom"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ wachten op hun salaris tijdens de shutdown.",
-          answer: "ambtenaren"
+          sentence: "De nieuwe ___ in Ethiopië is een van de grootste in Afrika.",
+          answer: "megadam"
         },
         {
-          sentence: "De ambtenaren worden ___ betaald, wat tot onvrede leidt.",
-          answer: "niet"
+          sentence: "Het project heeft weinig nieuwe ___ opgeleverd voor de lokale bevolking.",
+          answer: "jobs"
         },
         {
-          sentence: "De agenten ___ nog steeds betaald, ook al werken ze niet.",
-          answer: "worden"
+          sentence: "Het water is niet langer ___ door de vervuiling.",
+          answer: "drinkbaar"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is een 'shutdown' in de context van de overheid?",
+        question: "Wat is de belangrijkste reden dat bitcoinbedrijven naar Addis Abeba zijn gekomen?",
         options: [
-          "Een feestelijke sluiting",
-          "Een tijdelijke sluiting door gebrek aan budget",
-          "Een permanente sluiting van diensten",
-          "Een soort van belastingverlaging"
+          "Goedkope arbeidskrachten",
+          "Overvloed aan stroom",
+          "Gunstig belastingklimaat",
+          "Goedkope waterkrachtenergie"
+        ],
+        correctAnswer: 4
+      },
+      {
+        question: "Wat is een van de gevolgen voor de lokale bevolking volgens de samenvatting?",
+        options: [
+          "Ze profiteren van de bitcoinhandel",
+          "Ze hebben geen toegang tot drinkbaar water",
+          "Ze krijgen goedkope stroom van de dam",
+          "Ze worden rijk door de bitcoinhandel"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wie wordt er specifiek genoemd als 'wel' betaald tijdens de shutdown?",
+        question: "Wat wordt er gezegd over de bijdrage van deze bedrijven aan Ethiopië?",
         options: [
-          "Alle ambtenaren",
-          "Alleen de hoogst genote ambtenaren",
-          "De immigratie-agenten",
-          "De steuntrekkers"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat voor effect heeft de shutdown op de meeste ambtenaren?",
-        options: [
-          "Ze krijgen een bonus",
-          "Ze worden ontslagen",
-          "Ze worden niet meer betaald",
-          "Ze krijgen extra verlof"
+          "Ze leveren veel banen op",
+          "Ze dragen bij aan de infrastructuur",
+          "Ze leveren amper geld en jobs op",
+          "Ze stimuleren de lokale economie enorm"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De shutdown treft alleen ambtenaren, en geen andere groepen.",
+        statement: "De Ethiopische megadam biedt voornamelijk voordelen voor de lokale bevolking.",
         isTrue: false
       },
       {
-        statement: "Immigratie-agenten worden nog steeds betaald tijdens de shutdown.",
+        statement: "Bitcoinbedrijven in Addis Abeba maken gebruik van goedkope waterkrachtenergie.",
         isTrue: true
       },
       {
-        statement: "De shutdown duurt al meer dan een maand, maar heeft nog geen gevolgen.",
+        statement: "De meerderheid van de Ethiopische bevolking heeft direct profijt van de bitcoinminingactiviteiten.",
         isTrue: false
       }
     ]
@@ -1407,103 +1395,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
+    title: "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
     topicNumber: 1,
     article: {
-      title: "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
-      summary: "Volgens toponderhandelaars van China en de VS zijn de grote lijnen van een akkoord beklonken. Haalt de dealmaker-in-chief tijdens zijn rondreis in Azië een handelsdeal met China binnen?"
+      title: "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
+      summary: "Een georganiseerde misdaadgroep in Griekenland haalde op frauduleuze manier bijna 20 miljoen euro Europese landbouwsubsidies binnen. De verdachten overdreven het aantal dieren waarvoor ze geld aanvroegen."
     },
     vocabulary: {
       words: [
         {
-          word: "akkoord",
-          definition: "Een overeenkomst of afspraak tussen partijen.",
-          sentence: "Het ___ werd na lang overleg getekend.",
-          answer: "akkoord"
+          word: "fraude",
+          definition: "opzettelijke misleiding of bedrog voor financieel gewin",
+          sentence: "De politie ontdekte een grote geval van ___ in de subsidieaanvragen.",
+          answer: "fraude"
         },
         {
-          word: "toenadering",
-          definition: "Het nader tot elkaar komen, het verbeteren van de relatie.",
-          sentence: "De ___ tussen de twee landen is duidelijk merkbaar.",
-          answer: "toenadering"
+          word: "subsidies",
+          definition: "financiële steun van de overheid voor een specifiek doel",
+          sentence: "Boeren kunnen vaak aanspraak maken op ___ voor duurzame landbouw.",
+          answer: "subsidies"
         },
         {
-          word: "deal",
-          definition: "Een afspraak of overeenkomst, vaak in zakelijke context.",
-          sentence: "De ___ werd gesloten na intensieve onderhandelingen.",
-          answer: "deal"
+          word: "verdachten",
+          definition: "personen die worden verdacht van een misdrijf",
+          sentence: "De ___ ontkennen alle aanklachten.",
+          answer: "verdachten"
         },
         {
-          word: "toponderhandelaars",
-          definition: "De belangrijkste personen die namens een land of organisatie onderhandelen.",
-          sentence: "De ___ van beide landen hebben een akkoord bereikt.",
-          answer: "toponderhandelaars"
+          word: "dieren",
+          definition: "levende wezens die niet mens zijn, zoals katten of honden",
+          sentence: "De opvang bood onderdak aan tientallen ___.",
+          answer: "dieren"
         },
         {
-          word: "rondreis",
-          definition: "Een reis waarbij men verschillende plaatsen achter elkaar bezoekt.",
-          sentence: "Tijdens zijn ___ door Azië ontmoette hij verschillende leiders.",
-          answer: "rondreis"
+          word: "misdaad",
+          definition: "een illegale activiteit die strafbaar is",
+          sentence: "Hij is veroordeeld voor zijn rol in de georganiseerde ___.",
+          answer: "misdaad"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Tijdens zijn ___ door Azië ontmoette hij verschillende leiders.",
-          answer: "rondreis"
+          sentence: "De politie ontdekte een grote geval van ___ in de subsidieaanvragen.",
+          answer: "fraude"
         },
         {
-          sentence: "De ___ van beide landen hebben een akkoord bereikt.",
-          answer: "toponderhandelaars"
+          sentence: "De ___ ontkennen alle aanklachten.",
+          answer: "verdachten"
         },
         {
-          sentence: "Het ___ werd na lang overleg getekend.",
-          answer: "akkoord"
+          sentence: "De opvang bood onderdak aan tientallen ___.",
+          answer: "dieren"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent het als een overeenkomst is 'afgerond'?",
+        question: "Wat was het hoofddoel van de frauduleuze activiteiten in Griekenland?",
         options: [
-          "Het is nog in onderhandeling.",
-          "Het is definitief en afgesloten.",
-          "Het is tijdelijk opgeschort.",
-          "Het is alleen mondeling overeengekomen."
+          "Het stelen van landbouwgrond",
+          "Het illegaal verkrijgen van EU-subsidies",
+          "Het opzetten van een nepboerderij",
+          "Het vervalsen van dierenaantallen"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat wordt bedoeld met 'toenadering' in een politieke context?",
+        question: "Hoe probeerden de fraudeurs hun misdaad te verbergen?",
         options: [
-          "Het fysiek naderen van een persoon.",
-          "Het aangaan van een romantische relatie.",
-          "Het verbeteren van de diplomatieke relaties tussen landen.",
-          "Het terugtrekken uit een alliantie."
+          "Door dieren te verbergen",
+          "Door valse documenten te gebruiken",
+          "Door naar het buitenland te vluchten",
+          "Door getuigen te bedreigen"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Wat is een 'handelsdeal'?",
+        question: "Wat was een gevolg van deze fraudezaak?",
         options: [
-          "Een financiële transactie tussen individuen.",
-          "Een weddenschap over de handelsmarkt.",
-          "Een overeenkomst tussen landen over de handel van goederen.",
-          "Een gezelschapsspel over economie."
+          "De EU schafte alle subsidies af",
+          "Griekenland moest miljoenen terugbetalen",
+          "Alle verdachten werden vrijgesproken",
+          "De veestapel in Europa werd gehalveerd"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De toponderhandelaars van China en de VS hebben een akkoord bereikt dat alle details alvast vastlegt.",
-        isTrue: false
-      },
-      {
-        statement: "Een rondreis door Azië kan meerdere landen behelsen.",
+        statement: "De fraude was gericht op het verkrijgen van EU-subsidies voor landbouw.",
         isTrue: true
       },
       {
-        statement: "Een handelsdeal is altijd formeel en schriftelijk vastgelegd.",
+        statement: "Alle verdachten in deze zaak zijn uiteindelijk veroordeeld tot gevangenisstraffen.",
+        isTrue: false
+      },
+      {
+        statement: "Dit incident leidde tot een tijdelijke stopzetting van EU-subsidies aan Griekenland.",
         isTrue: true
       }
     ]
@@ -1513,104 +1501,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Koerdische PKK haalt alle strijders weg uit Turkije",
+    title: "Jamaica maakt zich op voor orkaan Melissa, de zwaarste van het jaar",
     topicNumber: 1,
     article: {
-      title: "Koerdische PKK haalt alle strijders weg uit Turkije",
-      summary: "Turkije en de Koerdische separatisten van de PKK zetten een historische nieuwe stap in hun onderhandelingen. De PKK-strijders zullen zich terugtrekken uit Turkije. Maar het akkoord blijft het resultaat van achterkamertjespolitiek."
+      title: "Jamaica maakt zich op voor orkaan Melissa, de zwaarste van het jaar",
+      summary: "Een ramp lijkt onafwendbaar in Jamaica, nu orkaan Melissa op drie manieren kan toeslaan: met stormvloed, immense regenval en verwoestende wind. Op Haïti en de Dominicaanse Republiek vielen al vier doden."
     },
     vocabulary: {
       words: [
         {
-          word: "historische",
-          definition: "betrekking hebbend op of behorend tot de geschiedenis",
-          sentence: "Deze overeenkomst markeert een ___ mijlpaal in de betrekkingen.",
-          answer: "historische"
+          word: "immense",
+          definition: "Zeer groot of enorm in omvang of hoeveelheid.",
+          sentence: "De storm bracht ___ hoeveelheden regen.",
+          answer: "immense"
         },
         {
-          word: "achterkamertjespolitiek",
-          definition: "politieke besluitvorming die plaatsvindt in besloten kringen, zonder transparantie",
-          sentence: "Critici noemden het beleid een vorm van ___.",
-          answer: "achterkamertjespolitiek"
+          word: "regenval",
+          definition: "De hoeveelheid neerslag die in een bepaalde periode valt.",
+          sentence: "De hevige ___ zorgde voor overstromingen in de stad.",
+          answer: "regenval"
         },
         {
-          word: "terugtrekken",
-          definition: "zich terugtrekken of teruggaan naar een eerdere positie",
-          sentence: "De troepen zullen zich ___ uit de betwiste regio.",
-          answer: "terugtrekken"
+          word: "verwoestende",
+          definition: "Iets dat grote schade of vernieling veroorzaakt.",
+          sentence: "De orkaan had een ___ effect op de kuststad.",
+          answer: "verwoestende"
         },
         {
-          word: "akkoord",
-          definition: "overeenkomst tussen partijen, vaak na onderhandelingen",
-          sentence: "Het vredes___ werd ondertekend na maanden van onderhandelingen.",
-          answer: "akkoord"
+          word: "doden",
+          definition: "Mensen die zijn overleden, meestal als gevolg van een incident.",
+          sentence: "Er vielen verschillende ___ na de aardbeving.",
+          answer: "doden"
         },
         {
-          word: "akkoord",
-          definition: "overeenkomst tussen partijen over bepaalde kwesties",
-          sentence: "Het politieke ___ werd unaniem goedgekeurd.",
-          answer: "akkoord"
+          word: "orkaan",
+          definition: "Een zeer zware storm met extreme windsnelheden, vaak voorkomend in tropische gebieden.",
+          sentence: "De orkaan veroorzaakte veel schade aan de kust.",
+          answer: "orkaan"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het vredes___ werd ondertekend na maanden van onderhandelingen.",
-          answer: "akkoord"
+          sentence: "De orkaan had een ___ effect op de kuststad.",
+          answer: "verwoestende"
         },
         {
-          sentence: "Het politieke ___ werd unaniem goedgekeurd.",
-          answer: "akkoord"
+          sentence: "Er vielen verschillende ___ na de aardbeving.",
+          answer: "doden"
         },
         {
-          sentence: "Deze overeenkomst markeert een ___ mijlpaal in de betrekkingen.",
-          answer: "historische"
+          sentence: "De storm bracht ___ hoeveelheden regen.",
+          answer: "immense"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'terugtrekken' in deze context?",
+        question: "Wat is de belangrijkste dreiging van orkaan Melissa voor Jamaica?",
         options: [
-          "vooruitgaan",
-          "terugkeren",
-          "evacueren",
-          "zich terugtrekken"
-        ],
-        correctAnswer: 4
-      },
-      {
-        question: "Welk woord beschrijft het tegenovergestelde van openlijke diplomatie?",
-        options: [
-          "transparantie",
-          "onderhandeling",
-          "achterkamertjespolitiek",
-          "internationale samenwerking"
+          "Aardverschuivingen",
+          "Tsunami's",
+          "Stormvloed en overstromingen",
+          "Extreme hittegolven"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat kenmerkt een 'historische' gebeurtenis?",
+        question: "Hoeveel doden vielen er reeds in Haïti en de Dominicaanse Republiek als gevolg van orkaan Melissa?",
         options: [
-          "Het is onbeduidend en snel vergeten.",
-          "Het heeft grote gevolgen voor de toekomst.",
-          "Het is een alledaagse gebeurtenis.",
-          "Het is alleen lokaal belangrijk."
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        correctAnswer: 4
+      },
+      {
+        question: "Wat is een van de manieren waarop orkaan Melissa toeslaat volgens de samenvatting?",
+        options: [
+          "Door extreme droogte",
+          "Met zware stormvloed",
+          "Met tornado's",
+          "Door aardbevingen te triggeren"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De PKK-strijders keren terug naar Turkije na de onderhandelingen.",
+        statement: "Orkaan Melissa is de eerste orkaan van het jaar die Jamaica treft.",
         isTrue: false
       },
       {
-        statement: "Het akkoord is het resultaat van achterkamertjespolitiek, wat betekent dat het niet transparant is.",
+        statement: "De storm heeft al doden veroorzaakt in buurlanden.",
         isTrue: true
       },
       {
-        statement: "De onderhandelingen vonden plaats zonder internationale bemiddeling.",
-        isTrue: true
+        statement: "Orkanen kunnen alleen toeslaan met extreme windsnelheden.",
+        isTrue: false
       }
     ]
   },
@@ -1619,104 +1607,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Was ons budget ongelimiteerd, dan hadden wij ook een vrijstaand huis op den buiten gekocht",
+    title: "Pater Herwig Arts, 90 jaar",
     topicNumber: 1,
     article: {
-      title: "Was ons budget ongelimiteerd, dan hadden wij ook een vrijstaand huis op den buiten gekocht",
-      summary: "Nergens in Vlaanderen werd de voorbije jaren zoveel grond aangesneden voor woningen als in Deinze, en tegen de zin van het lokale bestuur in. Maar de bewoners, die zijn er gelukkig. Wil de Vlaming wel een bouwshift, of blijven we dromen van een groot huis in het groen? “Dat kortzichtig protest tegen hoger bouwen moet stoppen.”"
+      title: "Pater Herwig Arts, 90 jaar",
+      summary: "Geboren in 1935, overleden op 24/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "Vlaming",
-          definition: "een inwoner van Vlaanderen, het Nederlandstalige deel van België",
-          sentence: "De gemiddelde ___ houdt van ruimte en groen.",
-          answer: "Vlaming"
+          word: "pater",
+          definition: "een priester of geestelijke, specifiek in een katholieke context",
+          sentence: "De ___ van het klooster leidde de mis.",
+          answer: "pater"
         },
         {
-          word: "tegen de zin van",
-          definition: "tegen de wil of wens van iemand of iets",
-          sentence: "Hij handelde ___ zijn ouders, die hem verboden hadden om naar het feest te gaan.",
-          answer: "tegen de zin van"
+          word: "geboren",
+          definition: "het begin van iemands leven; ter wereld komen",
+          sentence: "Hij werd ___ in 1935.",
+          answer: "geboren"
         },
         {
-          word: "bestuur",
-          definition: "de groep mensen die een organisatie of gebied leidt en bestuurt",
-          sentence: "Het stads___ beslist over nieuwe bouwprojecten.",
-          answer: "bestuur"
+          word: "overleden",
+          definition: "gestorven; niet meer in leven",
+          sentence: "Hij is vorige week ___ na een lang ziekbed.",
+          answer: "overleden"
         },
         {
-          word: "bewoners",
-          definition: "mensen die in een bepaalde plaats of gebouw wonen",
-          sentence: "De ___ van het nieuwe complex zijn erg tevreden.",
-          answer: "bewoners"
+          word: "jaar",
+          definition: "een periode van 365 of 366 dagen, 12 maanden",
+          sentence: "Hij is negentig ___ oud geworden.",
+          answer: "jaar"
         },
         {
-          word: "kortzichtig",
-          definition: "niet vooruitdenkend, zonder de lange termijn in beschouwing te nemen",
-          sentence: "Het is ___ om te denken dat we zonder meer bouwen onze problemen oplossen.",
-          answer: "kortzichtig"
+          word: "overleden",
+          definition: "gestorven; niet meer in leven",
+          sentence: "Hij is helaas gisteren ___.",
+          answer: "overleden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het stads___ beslist over nieuwe bouwprojecten.",
-          answer: "bestuur"
+          sentence: "Hij werd ___ in 1935.",
+          answer: "geboren"
         },
         {
-          sentence: "De gemiddelde ___ houdt van ruimte en groen.",
-          answer: "Vlaming"
+          sentence: "Hij is helaas gisteren ___.",
+          answer: "overleden"
         },
         {
-          sentence: "Het is ___ om te denken dat we zonder meer bouwen onze problemen oplossen.",
-          answer: "kortzichtig"
+          sentence: "Hij is negentig ___ oud geworden.",
+          answer: "jaar"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'onlimiteerd' in de context van de titel?",
+        question: "Wat betekent 'overleden' in deze context?",
         options: [
-          "Zonder beperking",
-          "Zeer duur",
-          "Niet beschikbaar",
-          "Gedeeltelijk beschikbaar"
+          "gestorven",
+          "vernietigd",
+          "vergeten",
+          "gevierd"
         ],
         correctAnswer: 1
       },
       {
-        question: "Waarom wordt er gesproken over 'tegen de zin van' het lokale bestuur?",
+        question: "Hoe oud was Pater Herwig Arts op het moment van overlijden?",
         options: [
-          "Omdat het bestuur de bouw steunde",
-          "Omdat de bewoners tegen waren",
-          "Omdat de grond ongeschikt was",
-          "Omdat de gemeente de ontwikkeling wilde maar de bewoners niet"
+          "90 jaar",
+          "100 jaar",
+          "85 jaar",
+          "95 jaar"
         ],
-        correctAnswer: 4
+        correctAnswer: 1
       },
       {
-        question: "Wat is de hoofdgedachte van de samenvatting?",
+        question: "In welk jaar is Pater Herwig Arts geboren?",
         options: [
-          "Bouw altijd meer om problemen op te lossen",
-          "Stop met bouwen om groen te sparen",
-          "Bouw hoger om ruimte te besparen, maar niet tegen elke prijs",
-          "Verhuis naar een andere stad als er te veel gebouwd wordt"
+          "1935",
+          "1925",
+          "1945",
+          "1930"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De bewoners van Deinze zijn gelukkig met de nieuwe woningen.",
+        statement: "Pater Herwig Arts is in 2025 overleden.",
         isTrue: true
       },
       {
-        statement: "Het lokale bestuur van Deinze was voorstander van de nieuwe bouwprojecten.",
+        statement: "Hij is geboren in 1930.",
         isTrue: false
       },
       {
-        statement: "De auteur pleit voor het stoppen van alle bouwactiviteiten.",
-        isTrue: false
+        statement: "Hij is 90 jaar oud geworden.",
+        isTrue: true
       }
     ]
   },
@@ -1831,103 +1819,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Wat denken de Ronsenaars over al die PFAS? “Ik blijf eten uit mijn moestuin, PFAS of niet”",
+    title: "De warme bakker is steeds vaker een vrouw: “Na tien broden bakken wist ik: hier word ik gelukkig van”",
     topicNumber: 1,
     article: {
-      title: "Wat denken de Ronsenaars over al die PFAS? “Ik blijf eten uit mijn moestuin, PFAS of niet”",
-      summary: "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben. “We hopen dat de stad weet waar ze mee bezig is. Zolang we maar niet het nieuwe Zwijndrecht worden.”"
+      title: "De warme bakker is steeds vaker een vrouw: “Na tien broden bakken wist ik: hier word ik gelukkig van”",
+      summary: "Van een passie voor millefeuille tot ambachtelijke zuurdesembroden, steeds vaker kiezen vrouwen voor een job als bakker of patissier. In verschillende bakkersopleidingen maken ze intussen meer dan de helft van de leerlingen uit. “Vrouwen hebben de finesse sneller in de vingers.”"
     },
     vocabulary: {
       words: [
         {
-          word: "heerst",
-          definition: "aanwezig is, voorkomt",
-          sentence: "Er heerst onrust in de stad.",
-          answer: "heerst"
+          word: "finesse",
+          definition: "de aanwezigheid van stijl, elegantie en precisie in iets",
+          sentence: "De danser beweegt met grote ___.",
+          answer: "finesse"
         },
         {
-          word: "PFAS",
-          definition: "een groep van door de mens gemaakte chemicaliën",
-          sentence: "PFAS zijn schadelijk voor de gezondheid.",
-          answer: "PFAS"
+          word: "vrouw",
+          definition: "een volwassen mens van het vrouwelijk geslacht",
+          sentence: "De ___ werkt parttime in de zorg.",
+          answer: "vrouw"
         },
         {
-          word: "Ronsenaars",
-          definition: "inwoners van Ronse",
-          sentence: "De Ronsenaars maken zich zorgen over hun gezondheid.",
-          answer: "Ronsenaars"
+          word: "bakker",
+          definition: "een persoon die brood en ander gebak bereidt als beroep",
+          sentence: "De ___ werkt vaak in de vroege ochtend.",
+          answer: "bakker"
         },
         {
-          word: "Zwijndrecht",
-          definition: "een gemeente in Nederland, bekend om PFAS-verontreiniging",
-          sentence: "Zij willen niet het volgende Zwijndrecht worden.",
-          answer: "Zwijndrecht"
+          word: "millefeuille",
+          definition: "een Frans gebakje gemaakt van lajes bladerdeeg met crème ertussen, letterlijk vertaald 'duizend lagen'",
+          sentence: "De ___ smaakte hemels met de karamel.",
+          answer: "millefeuille"
         },
         {
-          word: "onrust",
-          definition: "gevoel van bezorgdheid of verontrusting",
-          sentence: "Er is onrust onder de bewoners.",
-          answer: "onrust"
+          word: "ambachtelijke",
+          definition: "gemaakt met traditionele, handmatige methoden in plaats van door machines",
+          sentence: "De ___ kaas was heerlijk bij het brood.",
+          answer: "ambachtelijke"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "PFAS zijn schadelijk voor de gezondheid.",
-          answer: "PFAS"
+          sentence: "De danser beweegt met grote ___.",
+          answer: "finesse"
         },
         {
-          sentence: "De Ronsenaars maken zich zorgen over hun gezondheid.",
-          answer: "Ronsenaars"
+          sentence: "De ___ werkt parttime in de zorg.",
+          answer: "vrouw"
         },
         {
-          sentence: "Er is onrust onder de bewoners.",
-          answer: "onrust"
+          sentence: "De ___ kaas was heerlijk bij het brood.",
+          answer: "ambachtelijke"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent de term 'PFAS'?",
+        question: "Waarom kiezen steeds meer vrouwen voor een baan als bakker of patissier?",
         options: [
-          "Een soort groente",
-          "Een type huisdier",
-          "Een groep chemicaliën",
-          "Een stad in België"
+          "Omdat ze van koken houden.",
+          "Vanwege de creativiteit en precisie die het vak vereist.",
+          "Omdat het werk goed betaalt.",
+          "Omdat ze in een bakkerij zijn opgegroeid."
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat maakt patisserie tot een geschikt vak voor mensen met oog voor detail?",
+        options: [
+          "Het is niet geschikt, het is te chaotisch.",
+          "Omdat je moet kunnen multitasken.",
+          "Omdat het precisiewerk vereist, net als bij een kunstenaar.",
+          "Het is alleen geschikt voor mensen die van zoet houden."
         ],
         correctAnswer: 3
       },
       {
-        question: "Waarom zijn de bewoners van Ronse bezorgd?",
+        question: "Waarom zijn vrouwen volgens de tekst succesvol in patisserie?",
         options: [
-          "Ze hebben te veel groenten",
-          "Er is een tekort aan water",
-          "Hoge PFAS-waarden in hun bloed",
-          "Er is een nieuwe diersoort ontdekt"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat is de houding van de Ronsenaars tegenover hun situatie?",
-        options: [
-          "Ze zijn volledig apathisch",
-          "Ze zijn extreem pessimistisch",
-          "Ze zijn voorzichtig optimistisch",
-          "Ze zijn volledig in paniek"
+          "Ze hebben sterkere spieren.",
+          "Ze zijn niet succesvoller dan mannen.",
+          "Ze hebben een natuurlijk talent voor precisie en geduld.",
+          "Ze werken alleen in teams."
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De Ronsenaars hebben zeer lage PFAS-waarden in hun bloed.",
+        statement: "Vrouwen domineren nu de bakkerijopleidingen.",
         isTrue: false
       },
       {
-        statement: "De Ronsenaars hopen dat de stad weet waarmee ze bezig is.",
+        statement: "Patisserie is een vak dat vooral geduld en creativiteit vereist.",
         isTrue: true
       },
       {
-        statement: "Ronse is een stad in Nederland.",
+        statement: "Mannen hebben over het algemeen meer fysieke kracht, wat nodig is in een bakkerij.",
         isTrue: false
       }
     ]
@@ -1937,104 +1925,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Amerikaanse shutdown: wat zijn de gevolgen?",
+    title: "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
     topicNumber: 1,
     article: {
-      title: "Amerikaanse shutdown: wat zijn de gevolgen?",
-      summary: "Na een maand begint de shutdown Amerikaanse burgers hard te raken. Niet alleen onbetaalde ambtenaren, maar ook anderen zoals steuntrekkers worden geraakt. Echter, sommige groepen zoals immigratie-agenten worden wel doorbetaald."
+      title: "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
+      summary: "Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven."
     },
     vocabulary: {
       words: [
         {
-          word: "agenten",
-          definition: "mensen die werken voor veiligheid of handhaving",
-          sentence: "De ___ houden zich bezig met immigratiecontroles.",
-          answer: "agenten"
+          word: "megadam",
+          definition: "een heel grote dam",
+          sentence: "De ___ is van steen en beton.",
+          answer: "megadam"
         },
         {
-          word: "steuntrekkers",
-          definition: "mensen die geld krijgen van de overheid voor levensonderhoud",
-          sentence: "Ook ___ hebben last van de shutdown.",
-          answer: "steuntrekkers"
+          word: "water",
+          definition: "vloeistof zonder kleur en geur, om te drinken of te gebruiken",
+          sentence: "Schoon ___ is belangrijk voor gezondheid.",
+          answer: "water"
         },
         {
-          word: "shutdown",
-          definition: "een situatie waarin de overheid tijdelijk stopt met werken",
-          sentence: "De ___ duurt al heel lang.",
-          answer: "shutdown"
+          word: "drinkbaar",
+          definition: "geschikt om te drinken",
+          sentence: "Het water is niet ___.",
+          answer: "drinkbaar"
         },
         {
-          word: "immigratie",
-          definition: "het komen naar een nieuw land om daar te wonen",
-          sentence: "___ is een belangrijk onderwerp in de politiek.",
-          answer: "immigratie"
+          word: "bedrijven",
+          definition: "organisaties die producten of diensten verkopen",
+          sentence: "Sommige ___ zijn heel groot en hebben veel werknemers.",
+          answer: "bedrijven"
         },
         {
-          word: "gevolgen",
-          definition: "de resultaten of effecten van iets",
-          sentence: "Wat zijn de ___ van de shutdown?",
-          answer: "gevolgen"
+          word: "bitcoinboys",
+          definition: "mensen die veel met bitcoin bezig zijn",
+          sentence: "De ___ zijn vooral mannen.",
+          answer: "bitcoinboys"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "___ is een belangrijk onderwerp in de politiek.",
-          answer: "immigratie"
+          sentence: "De ___ is van steen en beton.",
+          answer: "megadam"
         },
         {
-          sentence: "Wat zijn de ___ van de shutdown?",
-          answer: "gevolgen"
+          sentence: "Het water is niet ___.",
+          answer: "drinkbaar"
         },
         {
-          sentence: "De ___ duurt al heel lang.",
-          answer: "shutdown"
+          sentence: "Sommige ___ zijn heel groot en hebben veel werknemers.",
+          answer: "bedrijven"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wie worden het meest geraakt door de shutdown?",
+        question: "Wat is een megadam?",
         options: [
-          "Alleen ambtenaren",
-          "Alleen mensen die steun krijgen",
-          "Alleen immigratie-agenten",
-          "Zowel ambtenaren als anderen"
-        ],
-        correctAnswer: 4
-      },
-      {
-        question: "Wat is een gevolg van de shutdown?",
-        options: [
-          "Ambtenaren krijgen direct geen salaris meer",
-          "Steuntrekkers krijgen geen geld meer",
-          "Immigratie-agenten worden ontslagen",
-          "De overheid stopt helemaal met werken"
+          "Een klein stuwmeer",
+          "Een enorme dam",
+          "Een soort computer",
+          "Een Ethiopisch gerecht"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waarom worden sommige groepen wel doorbetaald?",
+        question: "Waarom komen bitcoinbedrijven naar Ethiopië?",
         options: [
-          "Omdat ze niet belangrijk zijn",
-          "Omdat hun werk essentieel is voor de samenleving",
-          "Omdat de overheid hen vergeet",
-          "Omdat ze niet voor de overheid werken"
+          "Om de natuur te beschermen",
+          "Omdat de energie daar heel goedkoop is",
+          "Omdat ze daar vrienden hebben",
+          "Omdat Ethiopië zo mooi is"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is een probleem voor de lokale bevolking?",
+        options: [
+          "Ze hebben te veel stroom",
+          "Ze hebben geen stroom en geen drinkwater",
+          "Ze krijgen te veel geld van de bedrijven",
+          "Ze hebben te veel werk"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De shutdown duurt nu een maand.",
-        isTrue: true
-      },
-      {
-        statement: "Steuntrekkers worden niet geraakt door de shutdown.",
+        statement: "De bitcoinbedrijven helpen de lokale bevolking.",
         isTrue: false
       },
       {
-        statement: "Immigratie-agenten worden wel doorbetaald tijdens de shutdown.",
+        statement: "Ethiopië is een land in Afrika.",
         isTrue: true
+      },
+      {
+        statement: "De megadam geeft stroom aan alle Ethiopiërs.",
+        isTrue: false
       }
     ]
   },
@@ -2043,104 +2031,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
+    title: "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
     topicNumber: 1,
     article: {
-      title: "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
-      summary: "Volgens toponderhandelaars van China en de VS zijn de 'grote lijnen' van een akkoord beklonken. Haalt de dealmaker-in-chief tijdens zijn rondreis in Azië een handelsdeal met China binnen?"
+      title: "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
+      summary: "Een groep in Griekenland heeft bijna 20 miljoen euro aan EU-subsidies gekregen door te frauderen. Zij deden alsof ze veel meer dieren hadden dan in werkelijkheid."
     },
     vocabulary: {
       words: [
         {
-          word: "toenadering",
-          definition: "Het dichter bij elkaar komen, bijvoorbeeld in een relatie",
-          sentence: "Er was sprake van een ___ tussen de twee landen.",
-          answer: "toenadering"
+          word: "meer",
+          definition: "Een grotere hoeveelheid, extra.",
+          sentence: "Hij heeft ___ boeken dan ik, dus zijn kast is voller.",
+          answer: "meer"
         },
         {
-          word: "VS",
-          definition: "Verenigde Staten van Amerika",
-          sentence: "De ___ is een groot land in Noord-Amerika.",
-          answer: "VS"
+          word: "geiten",
+          definition: "Een dier dat melk geeft en op boerderijen leeft.",
+          sentence: "De boer heeft veel ___ die melk geven.",
+          answer: "geiten"
         },
         {
-          word: "akkoord",
-          definition: "Overeenkomst, wanneer partijen het eens zijn",
-          sentence: "Ze zijn tot een ___ gekomen.",
-          answer: "akkoord"
+          word: "schapen",
+          definition: "Een dier met wol dat op boerderijen leeft.",
+          sentence: "De herder heeft veel ___ die hij scheert voor wol.",
+          answer: "schapen"
         },
         {
-          word: "Komt",
-          definition: "Hulpwerkwoord dat aangeeft dat iets in de toekomst gebeurt",
-          sentence: "___ het morgen regenen?",
-          answer: "Komt"
+          word: "alsof",
+          definition: "Een woord om aan te geven dat iets niet echt is, maar alleen lijkt zo.",
+          sentence: "Hij gedraagt zich ___ hij de baas is, maar dat is hij niet.",
+          answer: "alsof"
         },
         {
-          word: "Azië",
-          definition: "Het werelddeel ten oosten van Europa",
-          sentence: "China ligt in ___.",
-          answer: "Azië"
+          word: "subsidies",
+          definition: "Geld dat de overheid geeft voor een bepaald doel.",
+          sentence: "De boer ontvangt ___ van de EU om zijn land te verbeteren.",
+          answer: "subsidies"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "___ het morgen regenen?",
-          answer: "Komt"
+          sentence: "De boer ontvangt ___ van de EU om zijn land te verbeteren.",
+          answer: "subsidies"
         },
         {
-          sentence: "China ligt in ___.",
-          answer: "Azië"
+          sentence: "Hij heeft ___ boeken dan ik, dus zijn kast is voller.",
+          answer: "meer"
         },
         {
-          sentence: "Er was sprake van een ___ tussen de twee landen.",
-          answer: "toenadering"
+          sentence: "De boer heeft veel ___ die melk geven.",
+          answer: "geiten"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'rondreis' in deze context?",
+        question: "Waar ging de fraude over?",
         options: [
-          "Een reis waarbij meerdere plaatsen worden bezocht",
-          "Een enkele reis naar één plaats",
-          "Een vakantie thuis",
-          "Een reis naar de maan"
+          "Over te veel dieren vragen",
+          "Over te weinig dieren vragen",
+          "Over het stelen van dieren",
+          "Over het kopen van dieren"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is de betekenis van 'akkoord' in deze tekst?",
+        question: "Wat is 'subsidies'?",
         options: [
-          "Overeenkomst tussen partijen",
-          "Een muziekstuk",
-          "Een soort gerecht",
-          "Een sportevenement"
+          "Een soort belasting",
+          "Geld van de overheid",
+          "Een soort verzekering",
+          "Een soort lening"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Waar staat 'VS' voor in deze context?",
+        question: "Wat is het tegenovergestelde van 'meer'?",
         options: [
-          "Verenigde Staten",
-          "Vlaamse Stam",
-          "Voetbal Samenwerking",
-          "Vrije Stad"
+          "Minder",
+          "Meer",
+          "Veel",
+          "Weinig"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Trump bezoekt Azië tijdens zijn reis.",
+        statement: "De groep in Griekenland kreeg geld van de EU.",
         isTrue: true
       },
       {
-        statement: "China en de VS hebben een akkoord ondertekend.",
-        isTrue: true
-      },
-      {
-        statement: "Trump reist alleen naar China.",
+        statement: "De dieren waren echt en vielen de groep aan.",
         isTrue: false
+      },
+      {
+        statement: "De groep had minder dieren dan ze zeiden.",
+        isTrue: true
       }
     ]
   },
@@ -2149,104 +2137,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "PKK strijders verlaten Turkije",
+    title: "Orkaan Melissa treft Jamaica",
     topicNumber: 1,
     article: {
-      title: "PKK strijkers verlaten Turkije",
-      summary: "Turkije en de PKK, een Koerdische groep, hebben een akkoord. PKK-strijders zullen zich terugtrekken uit Turkije. Dit akkoord is het resultaat van onderhandelingen, maar de details zijn onduidelijk."
+      title: "Orkaan Melissa treft Jamaica",
+      summary: "Orkaan Melissa brengt veel schade in Jamaica. Er is veel regen en harde wind. Er zijn ook overstromingen. Er zijn al vier doden in buurlanden."
     },
     vocabulary: {
       words: [
         {
-          word: "Turkije",
-          definition: "Een land.",
-          sentence: "___ ligt gedeeltelijk in Europa en Azië.",
-          answer: "Turkije"
+          word: "doden",
+          definition: "mensen die zijn overleden",
+          sentence: "Helaas waren er meerdere doden door de orkaan.",
+          answer: "doden"
         },
         {
-          word: "strijders",
-          definition: "Mensen die vechten, vaak in een oorlog.",
-          sentence: "De ___ vechten voor hun land of idealen.",
-          answer: "strijders"
+          word: "schade",
+          definition: "wat kapot of beschadigd is",
+          sentence: "De storm veroorzaakte veel schade aan huizen en straten.",
+          answer: "schade"
         },
         {
-          word: "onderhandelingen",
-          definition: "Gesprekken om tot een besluit te komen.",
-          sentence: "De ___ duurden vele uren.",
-          answer: "onderhandelingen"
+          word: "buurland",
+          definition: "een land dat naast een ander land ligt",
+          sentence: "Haïti is een buurland van de Dominicaanse Republiek.",
+          answer: "buurland"
         },
         {
-          word: "PKK",
-          definition: "Een politieke of militaire groep.",
-          sentence: "De ___ vecht voor rechten van Koerden.",
-          answer: "PKK"
+          word: "land",
+          definition: "een gebied met eigen regering, zoals Nederland of België",
+          sentence: "Jamaica is een eiland, maar het is ook een land.",
+          answer: "land"
         },
         {
-          word: "akkoord",
-          definition: "Een overeenkomst tussen partijen.",
-          sentence: "Ze hebben een ___ ondertekend om samen te werken.",
-          answer: "akkoord"
+          word: "orkaan",
+          definition: "een hele zware storm met veel wind en regen",
+          sentence: "Een orkaan kan veel schade veroorzaken.",
+          answer: "orkaan"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ duurden vele uren.",
-          answer: "onderhandelingen"
+          sentence: "De storm veroorzaakte veel schade aan huizen en straten.",
+          answer: "schade"
         },
         {
-          sentence: "De ___ vecht voor rechten van Koerden.",
-          answer: "PKK"
+          sentence: "Een orkaan kan veel schade veroorzaken.",
+          answer: "orkaan"
         },
         {
-          sentence: "Ze hebben een ___ ondertekend om samen te werken.",
-          answer: "akkoord"
+          sentence: "Helaas waren er meerdere doden door de orkaan.",
+          answer: "doden"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'strijders' in deze context?",
+        question: "Wat is orkaan Melissa?",
         options: [
-          "Een soort sporters",
-          "Mensen die vechten in een conflict",
-          "Een type politicus",
-          "Iemand die ergens tegen is"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is de hoofdboodschap van de tekst?",
-        options: [
-          "Turkije valt een ander land aan",
-          "PKK-strijders verlaten Turkije volledig",
-          "Er wordt een nieuwe sport uitgevonden",
-          "Koffie wordt de nationale drank"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is een gevolg van dit akkoord?",
-        options: [
-          "Turkije wordt opgedeeld",
-          "De PKK regeert over heel Turkije",
-          "PKK-strijders zijn niet langer in Turkije",
-          "Koffie wordt illegaal in Turkije"
+          "Een soort dier",
+          "Een type auto",
+          "Een zware storm",
+          "Een feestdag"
         ],
         correctAnswer: 3
+      },
+      {
+        question: "Waar heeft orkaan Melissa veel effect gehad?",
+        options: [
+          "Alleen in Jamaica",
+          "Alleen in de Verenigde Staten",
+          "In Jamaica en buurlanden",
+          "Alleen in Europa"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat is een gevolg van de orkaan?",
+        options: [
+          "Mensen verhuizen naar de maan",
+          "Er is veel schade en er zijn doden",
+          "De orkaan brengt alleen regen",
+          "De orkaan zorgt voor feest"
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Turkije en de PKK hebben een akkoord ondertekend.",
-        isTrue: true
-      },
-      {
-        statement: "De PKK-strijders blijven in Turkije na het akkoord.",
+        statement: "Orkaan Melissa veroorzaakt alleen regen.",
         isTrue: false
       },
       {
-        statement: "Het akkoord is het resultaat van onderhandelingen.",
+        statement: "Er zijn meerdere doden gevallen door de orkaan.",
         isTrue: true
+      },
+      {
+        statement: "Orkaan Melissa is een feestelijke gebeurtenis in Jamaica.",
+        isTrue: false
       }
     ]
   },
@@ -2255,104 +2243,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Bouwgrond in Deinze: bewoners blij, bestuur niet",
+    title: "Pater Herwig Arts, 90 jaar",
     topicNumber: 1,
     article: {
-      title: "Bouwgrond in Deinze: bewoners blij, bestuur niet",
-      summary: "In Deinze is er veel nieuwe bouwgrond, maar het bestuur is niet blij. De bewoners zijn wel blij. Willen Vlamingen echt meer bouwen of blijven ze dromen over een groot huis met een tuin? Dit protest moet stoppen."
+      title: "Pater Herwig Arts, 90 jaar",
+      summary: "Geboren in 1935, overleden op 24/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "protest",
-          definition: "iets zeggen of doen omdat je het niet eens bent met iets",
-          sentence: "Er was veel ___ tegen het nieuwe plan.",
-          answer: "protest"
+          word: "Arts",
+          definition: "een achternaam, hier van de persoon",
+          sentence: "Zijn achternaam is ___.",
+          answer: "Arts"
         },
         {
-          word: "bewoners",
-          definition: "mensen die in een plaats wonen",
-          sentence: "De ___ van de nieuwe wijk zijn heel tevreden.",
-          answer: "bewoners"
+          word: "Pater",
+          definition: "een priester, vooral in een klooster",
+          sentence: "De ___ geeft leiding aan de gemeenschap.",
+          answer: "Pater"
         },
         {
-          word: "Vlamingen",
-          definition: "mensen die in Vlaanderen wonen",
-          sentence: "Veel ___ willen een eigen huis met een tuin.",
-          answer: "Vlamingen"
+          word: "1935",
+          definition: "het jaar negentienhonderdvijfendertig",
+          sentence: "Hij is geboren in ___.",
+          answer: "1935"
         },
         {
-          word: "huis",
-          definition: "plaats waar iemand woont",
-          sentence: "Het ___ heeft drie slaapkamers en een grote tuin.",
-          answer: "huis"
+          word: "2025",
+          definition: "het jaar tweeduizendvijfentwintig",
+          sentence: "Hij overleed in ___.",
+          answer: "2025"
         },
         {
-          word: "tuin",
-          definition: "een stuk grond rond een huis met planten en gras",
-          sentence: "De kinderen spelen in de ___ .",
-          answer: "tuin"
+          word: "90",
+          definition: "het getal negentig, hier de leeftijd",
+          sentence: "Hij werd ___ jaar oud.",
+          answer: "90"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Veel ___ willen een eigen huis met een tuin.",
-          answer: "Vlamingen"
+          sentence: "Hij is geboren in ___.",
+          answer: "1935"
         },
         {
-          sentence: "Er was veel ___ tegen het nieuwe plan.",
-          answer: "protest"
+          sentence: "Hij werd ___ jaar oud.",
+          answer: "90"
         },
         {
-          sentence: "De ___ van de nieuwe wijk zijn heel tevreden.",
-          answer: "bewoners"
+          sentence: "Zijn achternaam is ___.",
+          answer: "Arts"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom is het bestuur van Deinze niet blij met de nieuwe bouwgrond?",
+        question: "In welk jaar is Pater Herwig Arts geboren?",
         options: [
-          "Omdat er te veel bewoners zijn",
-          "Omdat ze willen dat er minder wordt gebouwd",
-          "Omdat het veel geld kost",
-          "Omdat ze liever geen verandering willen"
+          "1920",
+          "1935",
+          "1940",
+          "1945"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de wens van veel Vlamingen volgens de tekst?",
+        question: "Hoe oud werd Pater Herwig Arts?",
         options: [
-          "Een klein appartement in de stad",
-          "Een groot huis met een tuin eromheen",
-          "Geen huis maar een caravan",
-          "Een huis zonder tuin om geld te besparen"
+          "80 jaar",
+          "85 jaar",
+          "89 jaar",
+          "90 jaar"
         ],
-        correctAnswer: 2
+        correctAnswer: 4
       },
       {
-        question: "Wat is de hoofdgedachte van de tekst?",
+        question: "Op welke datum overleed Pater Herwig Arts?",
         options: [
-          "Iedereen moet in een flat gaan wonen",
-          "Bouwen moet stoppen om het milieu te sparen",
-          "Mensen willen ruimte om te wonen, niet alleen maar hoge gebouwen",
-          "De overheid moet alle huizen gratis maken"
+          "24 oktober 2025",
+          "24 november 2025",
+          "24 december 2025",
+          "24 januari 2025"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De bewoners van Deinze zijn ongelukkig met de nieuwe bouwgrond.",
-        isTrue: false
-      },
-      {
-        statement: "Vlamingen willen graag een eigen huis met wat ruimte eromheen.",
+        statement: "Pater Herwig Arts is geboren in 1935.",
         isTrue: true
       },
       {
-        statement: "Het protest is tegen het bouwen van huizen, dus tegen meer woningen.",
+        statement: "Hij overleed in het jaar 2024.",
         isTrue: false
+      },
+      {
+        statement: "Hij werd 90 jaar oud.",
+        isTrue: true
       }
     ]
   },
@@ -2361,103 +2349,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
+    title: "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
     topicNumber: 1,
     article: {
-      title: "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
-      summary: "Meer agenten klussen bij, en dat leidt soms tot mistoestanden. Minister van Binnenlandse Zaken Bernard Quintin (MR) wil de regels aanscherpen."
+      title: "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
+      summary: "AI-modellen zoals ChatGPT maken onze taal vlakker, stelt computerlinguïst Tim Van de Cruys vast. Tegelijk wordt ons eigen taalgevoel misschien nog belangrijker door AI. Hoe beter je de taal al beheerst, hoe beter een AI-model voor jou zal werken."
     },
     vocabulary: {
       words: [
         {
-          word: "regels",
-          definition: "afspraken die je moet volgen",
-          sentence: "De nieuwe ___ zijn strenger dan voorheen.",
-          answer: "regels"
+          word: "Helpt",
+          definition: "Helpt betekent dat het ondersteunt of bijdraagt aan iets.",
+          sentence: "Als iemand je ___ bij je huiswerk, wordt het werk makkelijker.",
+          answer: "helpt"
         },
         {
-          word: "politiemensen",
-          definition: "mensen die werken voor de politie",
-          sentence: "De ___ helpen bij ongelukken.",
-          answer: "politiemensen"
+          word: "taal",
+          definition: "Taal is de manier waarop mensen met elkaar communiceren, zoals door te praten of te schrijven.",
+          sentence: "Welke ___ spreek jij het beste? Nederlands, Engels of Spaans?",
+          answer: "taal"
         },
         {
-          word: "vechtpartij",
-          definition: "een gevecht, vaak tussen meerdere personen",
-          sentence: "Er was een ___ in het park, en de politie moest komen.",
-          answer: "vechtpartij"
+          word: "belangrijker",
+          definition: "Belangrijker betekent dat iets meer waarde of betekenis heeft dan iets anders.",
+          sentence: "Is gezondheid ___ dan geld? Ja, want zonder gezondheid kan je niet genieten van geld.",
+          answer: "belangrijker"
         },
         {
-          word: "mistoestanden",
-          definition: "situaties die niet goed of eerlijk zijn",
-          sentence: "Er zijn ___ in dat bedrijf door slechte leiding.",
-          answer: "mistoestanden"
+          word: "is",
+          definition: "Is is een vorm van 'zijn', dat gebruikt wordt om te zeggen wat iets of iemand is.",
+          sentence: "Mijn naam ___ John, en ik kom uit Engeland.",
+          answer: "is"
         },
         {
-          word: "klussen",
-          definition: "werk doen, vaak buiten hun normale baan",
-          sentence: "Hij wil graag ___ om extra geld te verdienen.",
-          answer: "klussen"
+          word: "wordt",
+          definition: "Wordt is een werkwoordsvorm die aangeeft dat iets gebeurt of verandert.",
+          sentence: "Hij ___ elke dag beter in Nederlands na veel oefenen.",
+          answer: "wordt"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De nieuwe ___ zijn strenger dan voorheen.",
-          answer: "regels"
+          sentence: "Hij ___ elke dag beter in Nederlands na veel oefenen.",
+          answer: "wordt"
         },
         {
-          sentence: "Hij wil graag ___ om extra geld te verdienen.",
-          answer: "klussen"
+          sentence: "Als iemand je ___ bij je huiswerk, wordt het werk makkelijker.",
+          answer: "helpt"
         },
         {
-          sentence: "De ___ helpen bij ongelukken.",
-          answer: "politiemensen"
+          sentence: "Welke ___ spreek jij het beste? Nederlands, Engels of Spaans?",
+          answer: "taal"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat wil de minister doen met de regels voor agenten?",
+        question: "Wat betekent het woord 'helpt' in deze context?",
         options: [
-          "Niets",
-          "Ze verwijderen",
-          "Ze aanscherpen",
-          "Ze veranderen"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Waarom klussen agenten soms bij?",
-        options: [
-          "Omdat ze niet van hun werk houden",
-          "Omdat ze te weinig verdienen",
-          "Omdat ze te veel werken",
-          "Omdat ze dat leuk vinden"
+          "Het betekent 'stopt' of 'eindigt'",
+          "Het betekent 'ondersteunt' of 'assisteert'",
+          "Het betekent 'verwondt' of 'beschadigt'",
+          "Het betekent 'vergeet' of 'negeert'"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een gevolg van bijklussen voor agenten?",
+        question: "Waarom is taal belangrijk volgens de tekst?",
         options: [
-          "Soms zijn er vechtpartijen",
-          "Ze krijgen altijd een bonus",
-          "Ze worden altijd gepromoveerd",
-          "Ze krijgen nooit problemen"
+          "Omdat taal alleen voor schrijven wordt gebruikt",
+          "Omdat taal helpt bij communicatie en begrip",
+          "Omdat taal alleen in boeken bestaat",
+          "Omdat taal alleen door computers wordt gebruikt"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
+      },
+      {
+        question: "Hoe beïnvloedt AI onze taalvaardigheid?",
+        options: [
+          "Het maakt taal volledig irrelevant",
+          "Het vermindert onze behoefte om taal te leren",
+          "Het versterkt het belang van goed taalgebruik",
+          "Het heeft helemaal geen effect op taal"
+        ],
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Agenten klussen bij om minder te werken.",
+        statement: "AI maakt taal minder belangrijk voor mensen.",
         isTrue: false
       },
       {
-        statement: "De minister wil de regels aanscherpen om problemen te voorkomen.",
+        statement: "Goede kennis van taal helpt je om AI beter te gebruiken.",
         isTrue: true
       },
       {
-        statement: "Agenten mogen nooit bijklussen volgens de regels.",
+        statement: "AI kan alle talen ter wereld perfect vertalen zonder fouten.",
         isTrue: false
       }
     ]
@@ -2467,91 +2455,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Wat denkt Ronse over PFAS?",
+    title: "De warme bakker is steeds vaker een vrouw",
     topicNumber: 1,
     article: {
-      title: "Wat denkt Ronse over PFAS?",
-      summary: "In Ronse is er onrust omdat veel mensen hoge PFAS-waarden in hun bloed hebben. De mensen hopen dat de stad hun helpt en dat ze niet zoals Zwijndrecht worden."
+      title: "De warme bakker is steeds vaker een vrouw",
+      summary: "Steeds meer vrouwen kiezen voor een baan als bakker of patissier. In veel bakkersopleidingen zijn vrouwen in de meerderheid. Vrouwen hebben vaak een goede aanleg voor dit werk."
     },
     vocabulary: {
       words: [
         {
-          word: "denkt",
-          definition: "heeft een mening over iets",
-          sentence: "Wat ___ de gemeente over dit probleem?",
-          answer: "denkt"
+          word: "bakker",
+          definition: "iemand die brood bakt",
+          sentence: "De ___ maakt brood en taarten.",
+          answer: "bakker"
         },
         {
-          word: "worden",
-          definition: "veranderen in of zijn",
-          sentence: "We willen niet dat onze stad ___ als Zwijndrecht.",
-          answer: "worden"
+          word: "opleiding",
+          definition: "een cursus of studie om iets te leren",
+          sentence: "De ___ tot bakker duurt twee jaar.",
+          answer: "opleiding"
         },
         {
-          word: "niet",
-          definition: "geen, of op een andere manier dan",
-          sentence: "We willen ___ ziek worden van PFAS.",
-          answer: "niet"
+          word: "steeds",
+          definition: "meer en meer, in toenemende mate",
+          sentence: "___ vaker zie je vrouwen in de bakkerij.",
+          answer: "steeds"
+        },
+        {
+          word: "warm",
+          definition: "niet koud, met een hoge temperatuur",
+          sentence: "Het brood is nog ___ als het uit de oven komt.",
+          answer: "warm"
+        },
+        {
+          word: "meerderheid",
+          definition: "het grootste deel, meer dan de helft",
+          sentence: "In de klas is de ___ van de leerlingen vrouw.",
+          answer: "meerderheid"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "We willen niet dat onze stad ___ als Zwijndrecht.",
-          answer: "worden"
+          sentence: "Het brood is nog ___ als het uit de oven komt.",
+          answer: "warm"
         },
         {
-          sentence: "Wat ___ de gemeente over dit probleem?",
-          answer: "denkt"
+          sentence: "In de klas is de ___ van de leerlingen vrouw.",
+          answer: "meerderheid"
         },
         {
-          sentence: "We willen ___ ziek worden van PFAS.",
-          answer: "niet"
+          sentence: "De ___ maakt brood en taarten.",
+          answer: "bakker"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarover is er onrust in Ronse?",
+        question: "Wat betekent 'steeds' in deze context?",
         options: [
-          "Over slecht weer",
-          "Over te veel werk",
-          "Over PFAS in hun bloed",
-          "Over te weinig geld"
+          "nooit",
+          "soms",
+          "steeds vaker",
+          "altijd"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat hopen de Ronsenaars?",
+        question: "Waar gaat de tekst over?",
         options: [
-          "Dat de stad hen helpt",
-          "Dat ze meer geld krijgen",
-          "Dat het warm weer wordt",
-          "Dat ze naar zee gaan"
+          "het weer",
+          "bouwen",
+          "bakkerijen",
+          "reizen"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wat is Zwijndrecht?",
+        question: "Wat is 'meerderheid'?",
         options: [
-          "Een stad in Nederland",
-          "Een soort plant",
-          "Een bekende schilder",
-          "Een rivier in Duitsland"
+          "het kleinste deel",
+          "het grootste deel",
+          "de helft",
+          "een klein beetje"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Ronsenaars hebben allemaal veel PFAS in hun bloed.",
+        statement: "De tekst gaat over bouwen.",
         isTrue: false
       },
       {
-        statement: "De mensen in Ronse hopen dat de stad hen helpt.",
+        statement: "Steeds meer vrouwen werken als bakker.",
         isTrue: true
       },
       {
-        statement: "Zwijndrecht is een stad in Duitsland.",
+        statement: "Een meerderheid is het kleinste deel.",
         isTrue: false
       }
     ]
@@ -2561,104 +2561,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambiteurs",
+    title: "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
     topicNumber: 1,
     article: {
-      title: "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambiteurs",
-      summary: "Na één maand begint de shutdown de Amerikanen zwaar te raken, niet alleen onbetaalde ambtenaren, maar ook bijvoorbeeld de steuntrekkers. Worden wel netjes verder betaald: immigratie-agenten."
+      title: "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
+      summary: "Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven."
     },
     vocabulary: {
       words: [
         {
-          word: "agenten",
-          definition: "Officiële personen die een bepaalde taak uitvoeren, vaak voor de overheid",
-          sentence: "De immigratie-___ moeten doorwerken, ook zonder loon.",
-          answer: "agenten"
+          word: "jobs",
+          definition: "Werkgelegenheid; betaald werk dat iemand heeft.",
+          sentence: "Veel jongeren in de stad kunnen geen ___ vinden die bij hun opleiding past.",
+          answer: "jobs"
         },
         {
-          word: "immigratie",
-          definition: "Het proces van immigreren, oftewel het zich vestigen in een ander land",
-          sentence: "De ___ -agenten controleren wie het land binnenkomt.",
-          answer: "immigratie"
+          word: "energie",
+          definition: "De kracht of capaciteit om werk te verrichten, zoals elektriciteit of kracht.",
+          sentence: "Zonder voldoende ___ kan een land zich niet goed ontwikkelen.",
+          answer: "energie"
         },
         {
-          word: "ambtenaren",
-          definition: "Mensen die werken voor de overheid",
-          sentence: "De ___ werken voor de overheid en zijn nu thuis zonder loon.",
-          answer: "ambtenaren"
+          word: "drinkbaar",
+          definition: "Veilig of geschikt om te drinken (meestal over water).",
+          sentence: "Na de overstroming was het water niet meer ___ en moest het worden gezuiverd.",
+          answer: "drinkbaar"
         },
         {
-          word: "Amerikanen",
-          definition: "De inwoners van de Verenigde Staten",
-          sentence: "De ___ worden hard geraakt door de shutdown, vooral de armsten.",
-          answer: "Amerikanen"
+          word: "bitcoinboys",
+          definition: "Mensen die veel bezitten of handelen in de digitale munt bitcoin.",
+          sentence: "De ___ verdienden veel geld door te handelen in cryptocurrency.",
+          answer: "bitcoinboys"
         },
         {
-          word: "shutdown",
-          definition: "Een stopzetting of onderbreking, vaak van overheidsdiensten",
-          sentence: "De ___ duurt al weken en veel ambtenaren krijgen geen salaris.",
-          answer: "shutdown"
+          word: "megadam",
+          definition: "Een heel groot stuwmeer of dam, vaak gebouwd om energie op te wekken.",
+          sentence: "De nieuwe ___ in Ethiopië voorziet een groot gebied van elektriciteit.",
+          answer: "megadam"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ duurt al weken en veel ambtenaren krijgen geen salaris.",
-          answer: "shutdown"
+          sentence: "Veel jongeren in de stad kunnen geen ___ vinden die bij hun opleiding past.",
+          answer: "jobs"
         },
         {
-          sentence: "De ___ werken voor de overheid en zijn nu thuis zonder loon.",
-          answer: "ambtenaren"
+          sentence: "De ___ verdienden veel geld door te handelen in cryptocurrency.",
+          answer: "bitcoinboys"
         },
         {
-          sentence: "De immigratie-___ moeten doorwerken, ook zonder loon.",
-          answer: "agenten"
+          sentence: "De nieuwe ___ in Ethiopië voorziet een groot gebied van elektriciteit.",
+          answer: "megadam"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is een 'shutdown' in deze context?",
+        question: "Wat is een belangrijk effect van de megadam in Ethiopië op de lokale bevolking?",
         options: [
-          "Een feestelijke gebeurtenis",
-          "Een grote stroomuitval",
-          "Het tijdelijk stilleggen van overheidsdiensten",
-          "Een nieuwe regeringsvorm"
+          "Ze krijgen betere toegang tot elektriciteit en water.",
+          "Ze verliezen hun land en hebben geen stroom.",
+          "Ze beginnen allemaal met bitcoin mining.",
+          "Ze krijgen nieuwe jobs in de bouwsector."
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Waarom komen bitcoinbedrijven naar Addis Abeba?",
+        options: [
+          "Omdat de stad bekend staat om zijn nachtleven.",
+          "Omdat de Ethiopische overheid hen uitnodigt.",
+          "Omdat de stroom daar spotgoedkoop is.",
+          "Omdat de lokale bevolking daarom vraagt."
         ],
         correctAnswer: 3
       },
       {
-        question: "Waarom worden de immigratie-agenten wel betaald?",
+        question: "Wat voor soort energie wekt de megadam vooral op?",
         options: [
-          "Omdat ze voor Trump werken",
-          "Omdat ze als essentiële werknemers worden beschouwd",
-          "Omdat ze een protest hebben georganiseerd",
-          "Omdat ze niet voor de overheid werken"
+          "Zonne-energie",
+          "Windenergie",
+          "Waterkracht",
+          "Kernenergie"
         ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is de rol van Trump in de shutdown?",
-        options: [
-          "Hij probeert het op te lossen",
-          "Hij is de directe oorzaak ervan",
-          "Hij is op vakantie tijdens de crisis",
-          "Hij heeft er geen weet van"
-        ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De shutdown raakt alleen ambtenaren, niet de gewone burger.",
+        statement: "De bitcoinbedrijven in Addis Abeba zorgen voor veel nieuwe banen voor de lokale bevolking.",
         isTrue: false
       },
       {
-        statement: "Immigratie-agenten worden niet betaald tijdens de shutdown.",
-        isTrue: false
-      },
-      {
-        statement: "Steuntrekkers worden indirect getroffen door de shutdown.",
+        statement: "Ethiopiërs die geen stroom hebben, missen ook vaak schoon drinkwater.",
         isTrue: true
+      },
+      {
+        statement: "De megadam levert direct drinkbaar water aan omliggende dorpen.",
+        isTrue: false
       }
     ]
   },
@@ -2667,104 +2667,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
+    title: "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
     topicNumber: 1,
     article: {
-      title: "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
-      summary: "Volgens toponderhandelaars van China en de VS zijn de “grote lijnen” van een akkoord beklonken. Haalt de dealmaker-in-chief tijdens zijn rondreis in Azië een handelsdeal met China binnen?"
+      title: "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
+      summary: "Een criminele groep in Griekenland heeft op fraudeleuze wijze bijna 20 miljoen euro aan EU-subsidies ontvangen. De verdachten logen over het aantal dieren in hun aanvraag."
     },
     vocabulary: {
       words: [
         {
-          word: "Xi",
-          definition: "De achternaam van de Chinese leider Xi Jinping, vaak aangeduid als President Xi.",
-          sentence: "___ is de leider van China.",
-          answer: "Xi"
+          word: "ontvangen",
+          definition: "krijgen, in bezit nemen",
+          sentence: "Ze hebben de subsidie ___, maar dat was niet correct.",
+          answer: "ontvangen"
         },
         {
-          word: "tot",
-          definition: "Tot' kan 'until' of 'to' betekenen, afhankelijk van de context.",
-          sentence: "Hij werkte ___ hij moest stoppen.",
-          answer: "tot"
+          word: "verdachten",
+          definition: "mensen waarvan wordt gedacht dat ze iets fouts hebben gedaan",
+          sentence: "De ___ moeten voor de rechter verschijnen.",
+          answer: "verdachten"
         },
         {
-          word: "Azië",
-          definition: "Het werelddeel ten oosten van Europa, met landen als China en India.",
-          sentence: "Hij reisde door ___ voor zijn werk.",
-          answer: "Azië"
+          word: "Griekenland",
+          definition: "een land in Europa",
+          sentence: "___ is een land met veel eilanden.",
+          answer: "Griekenland"
         },
         {
-          word: "Komt",
-          definition: "Derde persoon enkelvoud van 'komen', wat betekent 'to come' in het Engels.",
-          sentence: "Hij ___ morgen naar het feest.",
-          answer: "komt"
+          word: "subsidies",
+          definition: "financiële steun van de overheid",
+          sentence: "De EU geeft ___ aan landbouwers voor bepaalde projecten.",
+          answer: "subsidies"
         },
         {
-          word: "toenadering",
-          definition: "Het naderbij komen, oftewel het dichter bij elkaar komen, vaak in relaties of politiek.",
-          sentence: "De ___ tussen de twee landen verraste velen.",
-          answer: "toenadering"
+          word: "aanvraag",
+          definition: "een verzoek om iets, vaak schriftelijk",
+          sentence: "Hun ___ voor subsidie werd goedgekeurd.",
+          answer: "aanvraag"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ tussen de twee landen verraste velen.",
-          answer: "toenadering"
+          sentence: "De EU geeft ___ aan landbouwers voor bepaalde projecten.",
+          answer: "subsidies"
         },
         {
-          sentence: "Hij werkte ___ hij moest stoppen.",
-          answer: "tot"
+          sentence: "De ___ moeten voor de rechter verschijnen.",
+          answer: "verdachten"
         },
         {
-          sentence: "Hij ___ morgen naar het feest.",
-          answer: "komt"
+          sentence: "Hun ___ voor subsidie werd goedgekeurd.",
+          answer: "aanvraag"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar vond de rondreis van Trump plaats?",
+        question: "Wat was het hoofddoel van de groep in Griekenland?",
         options: [
-          "Europa",
-          "Azië",
-          "Afrika",
-          "Zuid-Amerika"
+          "Het opzetten van een legale boerderij",
+          "Het krijgen van EU-subsidies door fraude",
+          "Het verminderen van het aantal schapen in Griekenland",
+          "Het openbaar maken van fraude door de overheid"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een mogelijke uitkomst van Trumps bezoek aan China?",
+        question: "Hoe probeerde de groep de subsidie te ontvangen?",
         options: [
-          "Een oorlog",
-          "Een handelsdeal",
-          "Een sportevenement",
-          "Een cultureel festival"
+          "Door een eerlijke aanvraag in te dienen",
+          "Door het aantal dieren te verhogen en te liegen",
+          "Door de subsidie te weigeren na ontvangst",
+          "Door meer dieren te kopen met eigen geld"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wie is Xi in deze context?",
+        question: "Wat is de rol van de Europese Unie in deze situatie?",
         options: [
-          "De leider van Rusland",
-          "De leider van China",
-          "De leider van India",
-          "De leider van Japan"
+          "Het negeren van fraude door boeren",
+          "Het aanbieden van subsidies zonder voorwaarden",
+          "Het controleren en straffen van fraude",
+          "Het sluiten van de organisatie die subsidies beheert"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Trump maakt een reis door Azië.",
-        isTrue: true
-      },
-      {
-        statement: "Xi is de leider van Rusland.",
+        statement: "De groep in Griekenland heeft de subsidie op een eerlijke manier verdiend.",
         isTrue: false
       },
       {
-        statement: "Trump en Xi proberen tot een overeenkomst te komen.",
+        statement: "De Europese Unie biedt subsidies aan voor verschillende doelen, maar er zijn regels.",
         isTrue: true
+      },
+      {
+        statement: "Alle dieren in Griekenland zijn betrokken bij de fraude.",
+        isTrue: false
       }
     ]
   },
@@ -2773,104 +2773,98 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Koerdische PKK haalt strijders weg uit Turkije",
+    title: "Jamaica maakt zich op voor orkaan Melissa",
     topicNumber: 1,
     article: {
-      title: "Koerdische PKK haalt strijders weg uit Turkije",
-      summary: "Turkije en de Koerdische separatisten van de PKK zetten een historische nieuwe stap in hun onderhandelingen. De PKK-strijders zullen zich terugtrekken uit Turkije. Maar het akkoord blijft het resultaat van achterkamertjespolitiek."
+      title: "Jamaica maakt zich op voor orkaan Melissa",
+      summary: "Jamaana bereidt zich voor op de komst van orkaan Melissa, die de zwaarste storm van dit jaar kan worden. De orkaan kan toeslaan met stormvloed, zware regen en zeer harde wind. Alleen al op Haïti en de Dominicaanse Republiek vielen vier doden door de storm."
     },
     vocabulary: {
       words: [
         {
-          word: "achterkamertjespolitiek",
-          definition: "politiek die in het geheim plaatsvindt, zonder openheid",
-          sentence: "De beslissing werd genomen door middel van ___.",
-          answer: "achterkamertjespolitiek"
+          word: "orkaan",
+          definition: "een zeer zware storm met veel wind en regen",
+          sentence: "De orkaan veroorzaakte veel schade aan gebouwen en bomen.",
+          answer: "orkaan"
         },
         {
-          word: "akkoord",
-          definition: "overeenkomst tussen partijen",
-          sentence: "Het politieke ___ werd gisteren ondertekend.",
-          answer: "akkoord"
+          word: "stormvloed",
+          definition: "een snel stijgende watermassa, vaak door een storm",
+          sentence: "De stormvloed overspoelde de straten en huizen langs de kust.",
+          answer: "stormvloed"
         },
         {
-          word: "terugtrekken",
-          definition: "ergens weg gaan, zich terugtrekken",
-          sentence: "Soldaten moeten zich ___ uit gevaarlijke gebieden.",
-          answer: "terugtrekken"
+          word: "wind",
+          definition: "bewegende lucht, vaak sterk tijdens een storm",
+          sentence: "De harde wind blies dakpannen van de huizen en braakt takken af.",
+          answer: "wind"
         },
         {
-          word: "akkoord",
-          definition: "overeenkomst tussen partijen",
-          sentence: "Beide partijen hebben het ___ ondertekend.",
-          answer: "akkoord"
-        },
-        {
-          word: "strijders",
-          definition: "mensen die vechten in een oorlog of conflict",
-          sentence: "De ___ verdedigen hun land.",
-          answer: "strijders"
+          word: "doden",
+          definition: "mensen die zijn overleden",
+          sentence: "Helaas vielen er door de orkaan enkele doden in het gebied.",
+          answer: "doden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het politieke ___ werd gisteren ondertekend.",
-          answer: "akkoord"
+          sentence: "De harde wind blies dakpannen van de huizen en braakt takken af.",
+          answer: "wind"
         },
         {
-          sentence: "De ___ verdedigen hun land.",
-          answer: "strijders"
+          sentence: "De orkaan veroorzaakte veel schade aan gebouwen en bomen.",
+          answer: "orkaan"
         },
         {
-          sentence: "Soldaten moeten zich ___ uit gevaarlijke gebieden.",
-          answer: "terugtrekken"
+          sentence: "De stormvloed overspoelde de straten en huizen langs de kust.",
+          answer: "stormvloed"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent het als strijders zich terugtrekken?",
+        question: "Wat is de belangrijkste reden dat Jamaica zich voorbereidt op orkaan Melissa?",
         options: [
-          "Ze geven zich over",
-          "Ze verlaten het gebied",
-          "Ze vieren feest",
-          "Ze winnen de oorlog"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is een kenmerk van achterkamertjespolitiek?",
-        options: [
-          "Het is volledig transparant",
-          "Het gebeurt openbaar",
-          "Het is geheim en niet openbaar",
-          "Het heeft geen effect"
+          "Vanwege zware regenval",
+          "Omdat het een traditie is",
+          "Omdat de orkaan verwoestend kan zijn",
+          "Omdat er al doden zijn gevallen"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is het resultaat van onderhandelingen?",
+        question: "Welk effect kan orkaan Melissa hebben op Jamaica?",
         options: [
-          "Een oorlog",
-          "Een nieuwe wet",
-          "Een overeenkomst",
-          "Een schending van rechten"
+          "Alleen lichte regen",
+          "Geen effect, het is ver weg",
+          "Stormvloed en veel schade",
+          "Alleen harde wind, zonder problemen"
         ],
         correctAnswer: 3
+      },
+      {
+        question: "Wat is een gevolg van orkaan Melissa in Haïti en de Dominicaanse Republiek?",
+        options: [
+          "Vier doden zijn al gevallen",
+          "Er is geen effect, de orkaan is er niet",
+          "Alleen lichte regen, geen probleem",
+          "De orkaan is daar nog niet aangekomen"
+        ],
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De PKK-strijders blijven in Turkije.",
+        statement: "Orkaan Melissa is de eerste storm van het jaar in Jamaica.",
         isTrue: false
       },
       {
-        statement: "Het akkoord is het resultaat van openbare onderhandelingen.",
-        isTrue: false
-      },
-      {
-        statement: "Turkije en de PKK hebben een nieuwe stap gezet in onderhandelingen.",
+        statement: "Stormvloed is een van de manieren waarop de orkaan toeslaat.",
         isTrue: true
+      },
+      {
+        statement: "Er zijn nog geen doden gevallen door orkaan Melissa.",
+        isTrue: false
       }
     ]
   },
@@ -2879,103 +2873,97 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Was ons budget ongelimiteerd, dan hadden wij ook een vrijstaand huis op den buiten gekocht",
+    title: "Pater Herwig Arts, 90 jaar",
     topicNumber: 1,
     article: {
-      title: "Was ons budget ongelimiteerd, dan hadden wij ook een vrijstaand huis op den buiten gekocht",
-      summary: "Nergens in Vlaanderen werd de voorbije jaren zoveel grond aangesneden voor woningen als in Deinze, en tegen de zin van het lokale bestuur in. Maar de bewoners, die zijn er gelukkig. Wil de Vlaming wel een bouwshift, of blijven we dromen van een groot huis in het groen? 'Dat kortzichtig protest tegen hoger bouwen moet stoppen.'"
+      title: "Pater Herwig Arts, 90 jaar",
+      summary: "Hij werd geboren in 1935 en overleed op 24 oktober 2025."
     },
     vocabulary: {
       words: [
         {
-          word: "Buiten",
-          definition: "De buitenlucht, buitenhuis, of buiten de stad",
-          sentence: "We gaan dit weekend naar het ___ om te wandelen.",
-          answer: "buiten"
+          word: "Pater",
+          definition: "Een pater is een geestelijke in de Katholieke Kerk.",
+          sentence: "De ___ droeg een zwart habijt.",
+          answer: "pater"
         },
         {
-          word: "vrijstaand",
-          definition: "Alleenstaand, niet verbonden met andere gebouwen",
-          sentence: "Ze kochten een ___ huis met een grote tuin.",
-          answer: "vrijstaand"
+          word: "geboren",
+          definition: "Geboren worden betekent dat je leven begint; het is het tegenovergestelde van overlijden.",
+          sentence: "Zij werd ___ in een klein dorp in Nederland.",
+          answer: "geboren"
         },
         {
-          word: "budget",
-          definition: "Het beschikbare geld voor een bepaald doel",
-          sentence: "Het ___ voor het nieuwe project is nog niet goedgekeurd.",
-          answer: "budget"
+          word: "werd",
+          definition: "Werd is de verleden tijd van 'worden', wat 'zijn' of 'geworden' betekent.",
+          sentence: "Hij ___ geboren in een klein dorp.",
+          answer: "werd"
         },
         {
-          word: "aangesneden",
-          definition: "In gebruik genomen of vrijgegeven voor een doel",
-          sentence: "Er werd veel grond ___ voor nieuwe woningbouw.",
-          answer: "aangesneken"
-        },
-        {
-          word: "bewoners",
-          definition: "Mensen die in een bepaalde plaats of huis wonen",
-          sentence: "De ___ van de flat organiseerden een feest.",
-          answer: "bewoners"
+          word: "werd",
+          definition: "Werd is de verleden tijd van 'worden', wat 'geworden' of 'zijn' betekent.",
+          sentence: "Zij ___ geboren in een groot ziekenhuis.",
+          answer: "werd"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Ze kochten een ___ huis met een grote tuin.",
-          answer: "vrijstaand"
+          sentence: "Zij werd ___ in een klein dorp in Nederland.",
+          answer: "geboren"
         },
         {
-          sentence: "De ___ van de flat organiseerden een feest.",
-          answer: "bewoners"
+          sentence: "De ___ droeg een zwart habijt.",
+          answer: "pater"
         },
         {
-          sentence: "We gaan dit weekend naar het ___ om te wandelen.",
-          answer: "buiten"
+          sentence: "Hij ___ geboren in een klein dorp.",
+          answer: "werd"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'aangesneden' in de context van de tekst?",
+        question: "Wat betekent het als iemand is overleden?",
         options: [
-          "Opengesneden",
-          "Vrijgemaakt",
-          "Voltooid",
-          "Vergeten"
+          "Die persoon is op reis",
+          "Die persoon is gestorven",
+          "Die persoon is net geboren",
+          "Die persoon is verhuisd"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waar gaat de tekst vooral over?",
+        question: "Welk woord past bij 'Hij werd geboren'?",
         options: [
-          "Over het kopen van een huis",
-          "Over een conflict in een gemeente",
-          "Over de voorkeuren van Vlamingen",
-          "Over de prijs van grond"
+          "gestorven",
+          "overleden",
+          "geboren",
+          "verhuisd"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Wat is de houding van de auteur?",
+        question: "Wat is de tegenhanger van 'overleden'?",
         options: [
-          "Neutraal en informatief",
-          "Kritisch en aanmoedigend",
-          "Helemaal positief",
-          "Helemaal negatief"
+          "Oud worden",
+          "Geboren worden",
+          "Verhuizen",
+          "Sterven"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De bewoners van Deinze zijn ongelukkig met de nieuwe woningen.",
-        isTrue: false
-      },
-      {
-        statement: "De auteur suggereert dat Vlamingen misschien liever dromen over een groot huis dan dat ze een 'bouwshift' willen.",
+        statement: "Pater Herwig Arts werd geboren in 1935.",
         isTrue: true
       },
       {
-        statement: "De auteur is tegen hogere bouwprojecten en steunt het protest ertegen.",
+        statement: "Hij overleed op 24 oktober 2025.",
+        isTrue: true
+      },
+      {
+        statement: "Hij werd geboren in 2025.",
         isTrue: false
       }
     ]
@@ -2985,103 +2973,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
+    title: "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
     topicNumber: 1,
     article: {
-      title: "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
-      summary: "Meer agenten klussen bij, en dat leidt soms tot misstanden. Minister van Binnenlandse Zaken Bernard Quintin (MR) wil de regels aanscherpen."
+      title: "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
+      summary: "AI-modellen zoals ChatGPT maken onze taal vlakker, stelt computerlinguïst Tim Van de Cruys vast. Tegelijk wordt ons eigen taalgevoel misschien nog belangrijker door AI. 'Hoe beter je de taal al beheerst, hoe beter een AI-model voor jou zal werken.'"
     },
     vocabulary: {
       words: [
         {
-          word: "regels",
-          definition: "afspraken of voorschriften die gevolgd moeten worden",
-          sentence: "In dit land gelden andere ___ dan in ons land.",
-          answer: "regels"
+          word: "AI",
+          definition: "Afkorting voor kunstmatige intelligentie; technologie die menselijke intelligentie nabootst.",
+          sentence: "___ wordt gebruikt in veel moderne toepassingen.",
+          answer: "AI"
         },
         {
-          word: "agenten",
-          definition: "mensen die werken bij de politie",
-          sentence: "De ___ houden zich bezig met het handhaven van de wet.",
-          answer: "agenten"
+          word: "stelt",
+          definition: "Zet iets neer of presenteert; in deze context betekent het 'beweert' of 'stelt'.",
+          sentence: "De auteur ___ dat het onderzoek nog loopt.",
+          answer: "stelt"
         },
         {
-          word: "klussen",
-          definition: "klussen, een ander woord voor werken, vaak naast een andere baan",
-          sentence: "Soms moeten mensen ___ om extra geld te verdienen.",
-          answer: "klussen"
+          word: "computerlinguïst",
+          definition: "Een expert die taal en computerwetenschap combineert.",
+          sentence: "De ___ onderzocht hoe AI taal kan begrijpen.",
+          answer: "computerlinguïst"
         },
         {
-          word: "aanscherpen",
-          definition: "strenger of scherper maken",
-          sentence: "De school wil de regels ___ om de veiligheid te verbeteren.",
-          answer: "aanscherpen"
+          word: "taal",
+          definition: "Een systeem van gesproken of geschreven woorden die mensen gebruiken om te communiceren.",
+          sentence: "De Nederlandse ___ is bekend om zijn complexe grammatica.",
+          answer: "taal"
         },
         {
-          word: "minister",
-          definition: "iemand die de leiding heeft over een deel van de regering",
-          sentence: "De ___ van Financiën heeft een nieuw plan aangekondigd.",
-          answer: "minister"
+          word: "taalgevoel",
+          definition: "Het natuurlijke gevoel voor wat correct of passend taalgebruik is.",
+          sentence: "Een goed ___ helpt bij het leren van een nieuwe taal.",
+          answer: "taalgevoel"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ houden zich bezig met het handhaven van de wet.",
-          answer: "agenten"
+          sentence: "De Nederlandse ___ is bekend om zijn complexe grammatica.",
+          answer: "taal"
         },
         {
-          sentence: "De ___ van Financiën heeft een nieuw plan aangekondigd.",
-          answer: "minister"
+          sentence: "Een goed ___ helpt bij het leren van een nieuwe taal.",
+          answer: "taalgevoel"
         },
         {
-          sentence: "De school wil de regels ___ om de veiligheid te verbeteren.",
-          answer: "aanscherpen"
+          sentence: "De ___ onderzocht hoe AI taal kan begrijpen.",
+          answer: "computerlinguïst"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent het als regels worden aangescherpt?",
+        question: "Waarom noemt de auteur AI-modellen zoals ChatGPT 'taalvlakmakers'?",
         options: [
-          "Ze worden minder streng",
-          "Ze worden duidelijker gemaakt",
-          "Ze worden strenger gemaakt",
-          "Ze worden helemaal verwijderd"
+          "Omdat ze taal letterlijk vlak maken",
+          "Omdat ze taalgebruik minder diepgaand maken",
+          "Omdat ze alleen platte taal produceren",
+          "Omdat ze taal tot simpele structuren reduceren"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat stelt computerlinguïst Tim Van de Cruys over AI en taal?",
+        options: [
+          "AI maakt taal compleet overbodig",
+          "AI kan taalvaardigheid juist versterken",
+          "AI vervangt alle taalexperts",
+          "AI heeft geen effect op taal"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is een belangrijk gevolg van AI volgens de tekst?",
+        options: [
+          "Taal wordt overal ter wereld hetzelfde",
+          "Mensen verliezen alle taalvaardigheid",
+          "Goede taalbeheersing wordt nog waardevoller",
+          "AI schrijft binnenkort alle teksten zelf"
         ],
         correctAnswer: 3
-      },
-      {
-        question: "Waarom wil de minister de regels aanscherpen?",
-        options: [
-          "Omdat er te weinig agenten zijn",
-          "Omdat er misstanden zijn door het bijklussen",
-          "Omdat de agenten niet goed kunnen vechten",
-          "Omdat er te veel regels zijn"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is een voorbeeld van bijklussen?",
-        options: [
-          "Een politieagent die in de avonduren als leraar werkt",
-          "Een politieagent die 's nachts als bewaker werkt",
-          "Een politieagent die in het weekend als chauffeur werkt",
-          "Een politieagent die overdag als verkoper werkt"
-        ],
-        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Agenten mogen nooit bijklussen, volgens de nieuwe regels.",
+        statement: "AI maakt taal compleet overbodig, omdat computers alles kunnen.",
         isTrue: false
       },
       {
-        statement: "Het aanscherpen van de regels moet misstanden voorkomen.",
+        statement: "Hoe beter je de taal al beheerst, hoe beter een AI-model voor jou zal werken.",
         isTrue: true
       },
       {
-        statement: "Minister Quintin wil dat agenten stoppen met werken.",
+        statement: "Computerlinguïstiek is hetzelfde als gewone taalkunde.",
         isTrue: false
       }
     ]
@@ -3091,103 +3079,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Wat denken de Ronsenaars over al die PFAS?",
+    title: "De warme bakker is steeds vaker een vrouw: “Na tien broden bakken wist ik: hier word ik gelukkig van”",
     topicNumber: 1,
     article: {
-      title: "Wat denken de Ronsenaars over al die PFAS? “Ik blijf eten uit mijn moestuin, PFAS of niet”",
-      summary: "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben. “We hopen dat de stad weet waar ze mee bezig is. Zolang we maar niet het nieuwe Zwijndrecht worden.”"
+      title: "De warme bakker is steeds vaker een vrouw: “Na tien broden bakken wist ik: hier word ik gelukkig van”",
+      summary: "Van een passie voor millefeuille tot ambachtelijke zuurdesembroden, steeds vaker kiezen vrouwen voor een job als bakker of patissier. In verschillende bakkersopleidingen maken ze intussen meer dan de helft van de leerlingen uit. “Vrouwen hebben de finesse sneller in de vingers.”"
     },
     vocabulary: {
       words: [
         {
-          word: "worden",
-          definition: "veranderen in of getransformeerd worden naar",
-          sentence: "We hopen niet het nieuwe Zwijndrecht te worden.",
-          answer: "worden"
+          word: "zuurdesem",
+          definition: "een soort desem dat zuur is en gebruikt wordt om brood te laten rijzen",
+          sentence: "Het ___ brood had een rijke, zure smaak.",
+          answer: "zuurdesem"
         },
         {
-          word: "we",
-          definition: "verwijst naar de groep die spreekt, inclusief de spreker zelf",
-          sentence: "We blijven eten uit onze eigen tuin, wat er ook gebeurt.",
-          answer: "we"
+          word: "bakker",
+          definition: "iemand die brood en banket bakt",
+          sentence: "De ___ staat elke dag vroeg op om vers brood te bakken.",
+          answer: "bakker"
         },
         {
-          word: "maar",
-          definition: "behalve, met uitzondering van",
-          sentence: "Het gaat niet om schuld, maar om voorzorg.",
-          answer: "maar"
+          word: "ambacht",
+          definition: "een traditioneel handwerk of vakmanschap",
+          sentence: "Het oude ___ van houtbewerking is nog steeds levend.",
+          answer: "ambacht"
         },
         {
-          word: "heerst",
-          definition: "bestaat of is aanwezig (van een situatie of gevoel)",
-          sentence: "Er heerst veel onrust in de stad sinds het nieuws bekend werd.",
-          answer: "heerst"
+          word: "vrouw",
+          definition: "een volwassen persoon van het vrouwelijk geslacht",
+          sentence: "De ___ werkt parttime en zorgt voor de kinderen.",
+          answer: "vrouw"
         },
         {
-          word: "tientallen",
-          definition: "ongeveer tien tot honderd, een groot aantal",
-          sentence: "Er werden tientallen mensen getest op PFAS.",
-          answer: "tientallen"
+          word: "ambachtelijke",
+          definition: "op de manier van een ambacht, traditioneel en handgemaakt",
+          sentence: "De ___ producten zijn van hoge kwaliteit.",
+          answer: "ambachtelijke"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het gaat niet om schuld, maar om voorzorg.",
-          answer: "maar"
+          sentence: "De ___ producten zijn van hoge kwaliteit.",
+          answer: "ambachtelijke"
         },
         {
-          sentence: "Er heerst veel onrust in de stad sinds het nieuws bekend werd.",
-          answer: "heerst"
+          sentence: "Het oude ___ van houtbewerking is nog steeds levend.",
+          answer: "ambacht"
         },
         {
-          sentence: "We blijven eten uit onze eigen tuin, wat er ook gebeurt.",
-          answer: "we"
+          sentence: "De ___ werkt parttime en zorgt voor de kinderen.",
+          answer: "vrouw"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat de tekst vooral over?",
+        question: "Waar komt het woord 'patissier' vandaan?",
         options: [
-          "Over PFAS in Ronse",
-          "Over een nieuwe supermarkt",
-          "Over reizen naar Zwijndrecht",
-          "Over politieke veranderingen"
+          "Uit het Nederlands",
+          "Uit het Frans",
+          "Uit het Engels",
+          "Uit het Italiaans"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat is de houding van de bewoners?",
+        question: "Waarom kiezen meer vrouwen voor een baan als bakker?",
         options: [
-          "Ze zijn boos en protesteren",
-          "Ze accepteren het en doen niets",
-          "Ze blijven hun eigen gewoontes volgen",
-          "Ze zijn blij met de situatie"
+          "Omdat het goed betaalt",
+          "Omdat ze van koken houden",
+          "Omdat ze fijne motoriek beheersen",
+          "Omdat ze thuis kunnen werken"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is het doel van dit artikel?",
+        question: "Wat is een 'millefeuille'?",
         options: [
-          "Mensen waarschuwen over PFAS",
-          "Mensen geruststellen over hun voedsel",
-          "Een nieuwe wet aankondigen",
-          "Een restaurant promoten"
+          "Een soort bloem",
+          "Een soort taart",
+          "Een soort gerecht",
+          "Een soort boek"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De bewoners van Ronse zijn gestopt met het eten uit hun eigen tuin.",
-        isTrue: false
-      },
-      {
-        statement: "De stad Ronse neemt maatregelen om de bewoners te beschermen.",
+        statement: "Vrouwen hebben over het algemeen betere fijne motoriek dan mannen.",
         isTrue: true
       },
       {
-        statement: "Zwijndrecht is een voorbeeld van hoe het niet moet, volgens de bewoners.",
+        statement: "Een patissier is iemand die alleen maar taarten bakt.",
+        isTrue: false
+      },
+      {
+        statement: "Zuurdesem is een soort meel dat gebruikt wordt voor brood.",
         isTrue: true
       }
     ]

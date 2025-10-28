@@ -1,93 +1,105 @@
 {
-  "id": 20,
+  "id": 22,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Wat denkt Ronse over PFAS?",
+  "title": "De warme bakker is steeds vaker een vrouw",
   "topicNumber": 1,
   "article": {
-    "title": "Wat denkt Ronse over PFAS?",
-    "summary": "In Ronse is er onrust omdat veel mensen hoge PFAS-waarden in hun bloed hebben. De mensen hopen dat de stad hun helpt en dat ze niet zoals Zwijndrecht worden."
+    "title": "De warme bakker is steeds vaker een vrouw",
+    "summary": "Steeds meer vrouwen kiezen voor een baan als bakker of patissier. In veel bakkersopleidingen zijn vrouwen in de meerderheid. Vrouwen hebben vaak een goede aanleg voor dit werk."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "denkt",
-        "definition": "heeft een mening over iets",
-        "sentence": "Wat ___ de gemeente over dit probleem?",
-        "answer": "denkt"
+        "word": "bakker",
+        "definition": "iemand die brood bakt",
+        "sentence": "De ___ maakt brood en taarten.",
+        "answer": "bakker"
       },
       {
-        "word": "worden",
-        "definition": "veranderen in of zijn",
-        "sentence": "We willen niet dat onze stad ___ als Zwijndrecht.",
-        "answer": "worden"
+        "word": "opleiding",
+        "definition": "een cursus of studie om iets te leren",
+        "sentence": "De ___ tot bakker duurt twee jaar.",
+        "answer": "opleiding"
       },
       {
-        "word": "niet",
-        "definition": "geen, of op een andere manier dan",
-        "sentence": "We willen ___ ziek worden van PFAS.",
-        "answer": "niet"
+        "word": "steeds",
+        "definition": "meer en meer, in toenemende mate",
+        "sentence": "___ vaker zie je vrouwen in de bakkerij.",
+        "answer": "steeds"
+      },
+      {
+        "word": "warm",
+        "definition": "niet koud, met een hoge temperatuur",
+        "sentence": "Het brood is nog ___ als het uit de oven komt.",
+        "answer": "warm"
+      },
+      {
+        "word": "meerderheid",
+        "definition": "het grootste deel, meer dan de helft",
+        "sentence": "In de klas is de ___ van de leerlingen vrouw.",
+        "answer": "meerderheid"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "We willen niet dat onze stad ___ als Zwijndrecht.",
-        "answer": "worden"
+        "sentence": "Het brood is nog ___ als het uit de oven komt.",
+        "answer": "warm"
       },
       {
-        "sentence": "Wat ___ de gemeente over dit probleem?",
-        "answer": "denkt"
+        "sentence": "In de klas is de ___ van de leerlingen vrouw.",
+        "answer": "meerderheid"
       },
       {
-        "sentence": "We willen ___ ziek worden van PFAS.",
-        "answer": "niet"
+        "sentence": "De ___ maakt brood en taarten.",
+        "answer": "bakker"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarover is er onrust in Ronse?",
+      "question": "Wat betekent 'steeds' in deze context?",
       "options": [
-        "Over slecht weer",
-        "Over te veel werk",
-        "Over PFAS in hun bloed",
-        "Over te weinig geld"
+        "nooit",
+        "soms",
+        "steeds vaker",
+        "altijd"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat hopen de Ronsenaars?",
+      "question": "Waar gaat de tekst over?",
       "options": [
-        "Dat de stad hen helpt",
-        "Dat ze meer geld krijgen",
-        "Dat het warm weer wordt",
-        "Dat ze naar zee gaan"
+        "het weer",
+        "bouwen",
+        "bakkerijen",
+        "reizen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is Zwijndrecht?",
+      "question": "Wat is 'meerderheid'?",
       "options": [
-        "Een stad in Nederland",
-        "Een soort plant",
-        "Een bekende schilder",
-        "Een rivier in Duitsland"
+        "het kleinste deel",
+        "het grootste deel",
+        "de helft",
+        "een klein beetje"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Ronsenaars hebben allemaal veel PFAS in hun bloed.",
+      "statement": "De tekst gaat over bouwen.",
       "isTrue": false
     },
     {
-      "statement": "De mensen in Ronse hopen dat de stad hen helpt.",
+      "statement": "Steeds meer vrouwen werken als bakker.",
       "isTrue": true
     },
     {
-      "statement": "Zwijndrecht is een stad in Duitsland.",
+      "statement": "Een meerderheid is het kleinste deel.",
       "isTrue": false
     }
   ]

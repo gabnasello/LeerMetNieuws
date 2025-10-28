@@ -1,106 +1,106 @@
 {
-  "id": 16,
+  "id": 17,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Bouwgrond in Deinze: bewoners blij, bestuur niet",
+  "title": "Pater Herwig Arts, 90 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Bouwgrond in Deinze: bewoners blij, bestuur niet",
-    "summary": "In Deinze is er veel nieuwe bouwgrond, maar het bestuur is niet blij. De bewoners zijn wel blij. Willen Vlamingen echt meer bouwen of blijven ze dromen over een groot huis met een tuin? Dit protest moet stoppen."
+    "title": "Pater Herwig Arts, 90 jaar",
+    "summary": "Geboren in 1935, overleden op 24/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "protest",
-        "definition": "iets zeggen of doen omdat je het niet eens bent met iets",
-        "sentence": "Er was veel ___ tegen het nieuwe plan.",
-        "answer": "protest"
+        "word": "Arts",
+        "definition": "een achternaam, hier van de persoon",
+        "sentence": "Zijn achternaam is ___.",
+        "answer": "Arts"
       },
       {
-        "word": "bewoners",
-        "definition": "mensen die in een plaats wonen",
-        "sentence": "De ___ van de nieuwe wijk zijn heel tevreden.",
-        "answer": "bewoners"
+        "word": "Pater",
+        "definition": "een priester, vooral in een klooster",
+        "sentence": "De ___ geeft leiding aan de gemeenschap.",
+        "answer": "Pater"
       },
       {
-        "word": "Vlamingen",
-        "definition": "mensen die in Vlaanderen wonen",
-        "sentence": "Veel ___ willen een eigen huis met een tuin.",
-        "answer": "Vlamingen"
+        "word": "1935",
+        "definition": "het jaar negentienhonderdvijfendertig",
+        "sentence": "Hij is geboren in ___.",
+        "answer": "1935"
       },
       {
-        "word": "huis",
-        "definition": "plaats waar iemand woont",
-        "sentence": "Het ___ heeft drie slaapkamers en een grote tuin.",
-        "answer": "huis"
+        "word": "2025",
+        "definition": "het jaar tweeduizendvijfentwintig",
+        "sentence": "Hij overleed in ___.",
+        "answer": "2025"
       },
       {
-        "word": "tuin",
-        "definition": "een stuk grond rond een huis met planten en gras",
-        "sentence": "De kinderen spelen in de ___ .",
-        "answer": "tuin"
+        "word": "90",
+        "definition": "het getal negentig, hier de leeftijd",
+        "sentence": "Hij werd ___ jaar oud.",
+        "answer": "90"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Veel ___ willen een eigen huis met een tuin.",
-        "answer": "Vlamingen"
+        "sentence": "Hij is geboren in ___.",
+        "answer": "1935"
       },
       {
-        "sentence": "Er was veel ___ tegen het nieuwe plan.",
-        "answer": "protest"
+        "sentence": "Hij werd ___ jaar oud.",
+        "answer": "90"
       },
       {
-        "sentence": "De ___ van de nieuwe wijk zijn heel tevreden.",
-        "answer": "bewoners"
+        "sentence": "Zijn achternaam is ___.",
+        "answer": "Arts"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom is het bestuur van Deinze niet blij met de nieuwe bouwgrond?",
+      "question": "In welk jaar is Pater Herwig Arts geboren?",
       "options": [
-        "Omdat er te veel bewoners zijn",
-        "Omdat ze willen dat er minder wordt gebouwd",
-        "Omdat het veel geld kost",
-        "Omdat ze liever geen verandering willen"
+        "1920",
+        "1935",
+        "1940",
+        "1945"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de wens van veel Vlamingen volgens de tekst?",
+      "question": "Hoe oud werd Pater Herwig Arts?",
       "options": [
-        "Een klein appartement in de stad",
-        "Een groot huis met een tuin eromheen",
-        "Geen huis maar een caravan",
-        "Een huis zonder tuin om geld te besparen"
+        "80 jaar",
+        "85 jaar",
+        "89 jaar",
+        "90 jaar"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     },
     {
-      "question": "Wat is de hoofdgedachte van de tekst?",
+      "question": "Op welke datum overleed Pater Herwig Arts?",
       "options": [
-        "Iedereen moet in een flat gaan wonen",
-        "Bouwen moet stoppen om het milieu te sparen",
-        "Mensen willen ruimte om te wonen, niet alleen maar hoge gebouwen",
-        "De overheid moet alle huizen gratis maken"
+        "24 oktober 2025",
+        "24 november 2025",
+        "24 december 2025",
+        "24 januari 2025"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De bewoners van Deinze zijn ongelukkig met de nieuwe bouwgrond.",
-      "isTrue": false
-    },
-    {
-      "statement": "Vlamingen willen graag een eigen huis met wat ruimte eromheen.",
+      "statement": "Pater Herwig Arts is geboren in 1935.",
       "isTrue": true
     },
     {
-      "statement": "Het protest is tegen het bouwen van huizen, dus tegen meer woningen.",
+      "statement": "Hij overleed in het jaar 2024.",
       "isTrue": false
+    },
+    {
+      "statement": "Hij werd 90 jaar oud.",
+      "isTrue": true
     }
   ]
 }

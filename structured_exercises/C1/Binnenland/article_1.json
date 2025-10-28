@@ -1,106 +1,106 @@
 {
-  "id": 18,
+  "id": 20,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Was ons budget ongelimiteerd, dan hadden wij ook een vrijstaand huis op den buiten gekocht",
+  "title": "Pater Herwig Arts, 90 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Was ons budget ongelimiteerd, dan hadden wij ook een vrijstaand huis op den buiten gekocht",
-    "summary": "Nergens in Vlaanderen werd de voorbije jaren zoveel grond aangesneden voor woningen als in Deinze, en tegen de zin van het lokale bestuur in. Maar de bewoners, die zijn er gelukkig. Wil de Vlaming wel een bouwshift, of blijven we dromen van een groot huis in het groen? “Dat kortzichtig protest tegen hoger bouwen moet stoppen.”"
+    "title": "Pater Herwig Arts, 90 jaar",
+    "summary": "Geboren in 1935, overleden op 24/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Vlaming",
-        "definition": "een inwoner van Vlaanderen, het Nederlandstalige deel van België",
-        "sentence": "De gemiddelde ___ houdt van ruimte en groen.",
-        "answer": "Vlaming"
+        "word": "pater",
+        "definition": "een priester of geestelijke, specifiek in een katholieke context",
+        "sentence": "De ___ van het klooster leidde de mis.",
+        "answer": "pater"
       },
       {
-        "word": "tegen de zin van",
-        "definition": "tegen de wil of wens van iemand of iets",
-        "sentence": "Hij handelde ___ zijn ouders, die hem verboden hadden om naar het feest te gaan.",
-        "answer": "tegen de zin van"
+        "word": "geboren",
+        "definition": "het begin van iemands leven; ter wereld komen",
+        "sentence": "Hij werd ___ in 1935.",
+        "answer": "geboren"
       },
       {
-        "word": "bestuur",
-        "definition": "de groep mensen die een organisatie of gebied leidt en bestuurt",
-        "sentence": "Het stads___ beslist over nieuwe bouwprojecten.",
-        "answer": "bestuur"
+        "word": "overleden",
+        "definition": "gestorven; niet meer in leven",
+        "sentence": "Hij is vorige week ___ na een lang ziekbed.",
+        "answer": "overleden"
       },
       {
-        "word": "bewoners",
-        "definition": "mensen die in een bepaalde plaats of gebouw wonen",
-        "sentence": "De ___ van het nieuwe complex zijn erg tevreden.",
-        "answer": "bewoners"
+        "word": "jaar",
+        "definition": "een periode van 365 of 366 dagen, 12 maanden",
+        "sentence": "Hij is negentig ___ oud geworden.",
+        "answer": "jaar"
       },
       {
-        "word": "kortzichtig",
-        "definition": "niet vooruitdenkend, zonder de lange termijn in beschouwing te nemen",
-        "sentence": "Het is ___ om te denken dat we zonder meer bouwen onze problemen oplossen.",
-        "answer": "kortzichtig"
+        "word": "overleden",
+        "definition": "gestorven; niet meer in leven",
+        "sentence": "Hij is helaas gisteren ___.",
+        "answer": "overleden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het stads___ beslist over nieuwe bouwprojecten.",
-        "answer": "bestuur"
+        "sentence": "Hij werd ___ in 1935.",
+        "answer": "geboren"
       },
       {
-        "sentence": "De gemiddelde ___ houdt van ruimte en groen.",
-        "answer": "Vlaming"
+        "sentence": "Hij is helaas gisteren ___.",
+        "answer": "overleden"
       },
       {
-        "sentence": "Het is ___ om te denken dat we zonder meer bouwen onze problemen oplossen.",
-        "answer": "kortzichtig"
+        "sentence": "Hij is negentig ___ oud geworden.",
+        "answer": "jaar"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'onlimiteerd' in de context van de titel?",
+      "question": "Wat betekent 'overleden' in deze context?",
       "options": [
-        "Zonder beperking",
-        "Zeer duur",
-        "Niet beschikbaar",
-        "Gedeeltelijk beschikbaar"
+        "gestorven",
+        "vernietigd",
+        "vergeten",
+        "gevierd"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waarom wordt er gesproken over 'tegen de zin van' het lokale bestuur?",
+      "question": "Hoe oud was Pater Herwig Arts op het moment van overlijden?",
       "options": [
-        "Omdat het bestuur de bouw steunde",
-        "Omdat de bewoners tegen waren",
-        "Omdat de grond ongeschikt was",
-        "Omdat de gemeente de ontwikkeling wilde maar de bewoners niet"
+        "90 jaar",
+        "100 jaar",
+        "85 jaar",
+        "95 jaar"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de hoofdgedachte van de samenvatting?",
+      "question": "In welk jaar is Pater Herwig Arts geboren?",
       "options": [
-        "Bouw altijd meer om problemen op te lossen",
-        "Stop met bouwen om groen te sparen",
-        "Bouw hoger om ruimte te besparen, maar niet tegen elke prijs",
-        "Verhuis naar een andere stad als er te veel gebouwd wordt"
+        "1935",
+        "1925",
+        "1945",
+        "1930"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De bewoners van Deinze zijn gelukkig met de nieuwe woningen.",
+      "statement": "Pater Herwig Arts is in 2025 overleden.",
       "isTrue": true
     },
     {
-      "statement": "Het lokale bestuur van Deinze was voorstander van de nieuwe bouwprojecten.",
+      "statement": "Hij is geboren in 1930.",
       "isTrue": false
     },
     {
-      "statement": "De auteur pleit voor het stoppen van alle bouwactiviteiten.",
-      "isTrue": false
+      "statement": "Hij is 90 jaar oud geworden.",
+      "isTrue": true
     }
   ]
 }

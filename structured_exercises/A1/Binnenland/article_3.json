@@ -1,105 +1,105 @@
 {
-  "id": 19,
+  "id": 21,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Wat denken de Ronsenaars over al die PFAS?",
+  "title": "De warme bakker is steeds vaker een vrouw",
   "topicNumber": 1,
   "article": {
-    "title": "Wat denken de Ronsenaars over al die PFAS?",
-    "summary": "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben. We hopen dat de stad weet waar ze mee bezig is. Zolang we maar niet het nieuwe Zwijndrecht worden."
+    "title": "De warme bakker is steeds vaker een vrouw",
+    "summary": "Veel vrouwen werken nu als bakker of patissier. In opleidingen zijn er steeds meer vrouwen. Vrouwen kunnen dit werk goed doen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "denken",
-        "definition": "iets in je hoofd hebben",
-        "sentence": "Wat ___ de mensen in Ronse?",
-        "answer": "denken"
+        "word": "warm",
+        "definition": "niet koud, een hoge temperatuur hebbend",
+        "sentence": "Het brood is ___ en vers.",
+        "answer": "warm"
       },
       {
-        "word": "Ronsenaars",
-        "definition": "mensen uit Ronse",
-        "sentence": "De ___ zijn bezorgd.",
-        "answer": "Ronsenaars"
+        "word": "werken",
+        "definition": "een taak uitvoeren, een job hebben",
+        "sentence": "Zij ___ in de keuken.",
+        "answer": "werken"
       },
       {
-        "word": "PFAS",
-        "definition": "een soort chemische stof",
-        "sentence": "Er is veel ___ in Ronse.",
-        "answer": "PFAS"
+        "word": "bakker",
+        "definition": "iemand die brood bakt",
+        "sentence": "De ___ bakt brood en koek.",
+        "answer": "bakker"
       },
       {
-        "word": "stad",
-        "definition": "een plaats waar veel mensen wonen",
-        "sentence": "De ___ van Ronse zoekt oplossingen.",
-        "answer": "stad"
+        "word": "vak",
+        "definition": "een beroep, een soort werk",
+        "sentence": "Het bakkers___ leert men op school.",
+        "answer": "vak"
       },
       {
-        "word": "worden",
-        "definition": "veranderen in iets anders",
-        "sentence": "We willen niet als Zwijndrecht ___.",
-        "answer": "worden"
+        "word": "vrouwen",
+        "definition": "vrouwelijke personen",
+        "sentence": "De ___ werken in de bakkerij.",
+        "answer": "vrouwen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Wat ___ de mensen in Ronse?",
-        "answer": "denken"
+        "sentence": "Zij ___ in de keuken.",
+        "answer": "werken"
       },
       {
-        "sentence": "Er is veel ___ in Ronse.",
-        "answer": "PFAS"
+        "sentence": "Het bakkers___ leert men op school.",
+        "answer": "vak"
       },
       {
-        "sentence": "We willen niet als Zwijndrecht ___.",
-        "answer": "worden"
+        "sentence": "De ___ werken in de bakkerij.",
+        "answer": "vrouwen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarover zijn de mensen in Ronse bezorgd?",
+      "question": "Wat betekent 'steeds'?",
       "options": [
-        "Over het weer",
-        "Over hun werk",
-        "Over PFAS in hun bloed",
-        "Over vakantieplannen"
+        "snel",
+        "vaak",
+        "steeds vaker",
+        "meer en meer"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     },
     {
-      "question": "Wat hopen de mensen in Ronse?",
+      "question": "Wat is een 'bakker'?",
       "options": [
-        "Dat het stopt met regenen",
-        "Dat de stad helpt",
-        "Dat ze veel geld winnen",
-        "Dat ze een nieuw huis krijgen"
+        "iemand die brood bakt",
+        "iemand die taarten maakt",
+        "iemand die koffie zet",
+        "iemand die soep kookt"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat doen vrouwen in dit verhaal?",
+      "options": [
+        "Ze bakken brood",
+        "Ze werken in bakkerijen",
+        "Ze zijn allemaal moeders",
+        "Ze zijn allemaal leraars"
       ],
       "correctAnswer": 2
-    },
-    {
-      "question": "Wat willen de mensen in Ronse niet worden?",
-      "options": [
-        "Een nieuwe stad",
-        "Een nieuwe school",
-        "Een nieuwe Zwijndrecht",
-        "Een nieuwe supermarkt"
-      ],
-      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De mensen in Ronse zijn blij met de PFAS.",
-      "isTrue": false
-    },
-    {
-      "statement": "De stad Ronse wil de mensen helpen.",
+      "statement": "Vrouwen werken als bakker.",
       "isTrue": true
     },
     {
-      "statement": "De mensen in Ronse worden net als in Zwijndrecht.",
+      "statement": "Alleen mannen zijn bakkers.",
+      "isTrue": false
+    },
+    {
+      "statement": "Steeds meer vrouwen worden bakker.",
       "isTrue": true
     }
   ]

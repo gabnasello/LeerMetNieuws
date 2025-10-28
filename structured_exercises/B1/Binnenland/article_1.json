@@ -1,105 +1,105 @@
 {
-  "id": 12,
+  "id": 18,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
+  "title": "Pater Herwig Arts, 90 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Noodnummer 1722 voor storm- en waterschade geactiveerd, KMI waarschuwt voor buien en veel wind",
-    "summary": "Het KMI waarschuwt opnieuw voor slecht weer. De overheid heeft het nummer 1722 geactiveerd, dat mensen kunnen bellen bij storm- en waterschade."
+    "title": "Pater Herwig Arts, 90 jaar",
+    "summary": "Pater Herwig Arts is geboren in 1935 en overleden op 24 oktober 2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "KMI",
-        "definition": "Koninklijk Meteorologisch Instituut, zij geven weersverwachtingen.",
-        "sentence": "Het ___ waarschuwt voor zwaar weer.",
-        "answer": "KMI"
+        "word": "jaar",
+        "definition": "een periode van 365 of 366 dagen",
+        "sentence": "Hij is 90 ___ oud geworden.",
+        "answer": "jaar"
       },
       {
-        "word": "schade",
-        "definition": "Schade is wat kapot of beschadigd is.",
-        "sentence": "Na de ___ moesten we herstellen.",
-        "answer": "schade"
+        "word": "Arts",
+        "definition": "een achternaam, zoals Jansen of De Vries",
+        "sentence": "Zijn volledige naam was Herwig ___.",
+        "answer": "Arts"
       },
       {
-        "word": "bellen",
-        "definition": "Telefoneren, iemand opbellen.",
-        "sentence": "Je kunt ___ naar 1722 voor hulp.",
-        "answer": "bellen"
+        "word": "overleden",
+        "definition": "niet meer in leven zijn, dood zijn",
+        "sentence": "Hij is ___ op 24 oktober 2025.",
+        "answer": "overleden"
       },
       {
-        "word": "storm",
-        "definition": "Hevig weer met veel wind en regen.",
-        "sentence": "De ___ veroorzaakte veel schade.",
-        "answer": "storm"
+        "word": "Herwig",
+        "definition": "een mannelijke voornaam",
+        "sentence": "___ was de voornaam van de pater.",
+        "answer": "Herwig"
       },
       {
-        "word": "nummer",
-        "definition": "Een reeks cijfers die iets identificeert, zoals een telefoonnummer.",
-        "sentence": "Welk ___ moet ik bellen bij nood?",
-        "answer": "nummer"
+        "word": "geboren",
+        "definition": "het moment dat iemand ter wereld komt",
+        "sentence": "Hij werd ___ in het jaar 1935.",
+        "answer": "geboren"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ veroorzaakte veel schade.",
-        "answer": "storm"
+        "sentence": "Hij is ___ op 24 oktober 2025.",
+        "answer": "overleden"
       },
       {
-        "sentence": "Na de ___ moesten we herstellen.",
-        "answer": "schade"
+        "sentence": "Hij is 90 ___ oud geworden.",
+        "answer": "jaar"
       },
       {
-        "sentence": "Het ___ waarschuwt voor zwaar weer.",
-        "answer": "KMI"
+        "sentence": "Hij werd ___ in het jaar 1935.",
+        "answer": "geboren"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom heeft de overheid nummer 1722 geactiveerd?",
+      "question": "In welk jaar werd Pater Herwig Arts geboren?",
       "options": [
-        "Voor het melden van leuke nieuwtjes",
-        "Voor het aanvragen van een paspoort",
-        "Voor hulp bij storm- en waterschade",
-        "Voor het bestellen van eten"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat doet het KMI tijdens slecht weer?",
-      "options": [
-        "Ze sluiten hun deuren en blijven thuis",
-        "Ze geven waarschuwingen en advies aan het publiek",
-        "Ze organiseren een buurtfeest in de regen",
-        "Ze stoppen met werken en wachten op de zon"
+        "1930",
+        "1935",
+        "1940",
+        "1945"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een gevolg van een storm?",
+      "question": "In welke maand overleed Pater Herwig Arts?",
       "options": [
-        "Mensen krijgen een nieuwe auto van de gemeente",
-        "Er vallen geen blaadjes meer van bomen",
-        "Schade aan huizen en wegen door wind en water",
-        "Iedereen krijgt een gratis ticket naar de zon"
+        "Januari",
+        "Februari",
+        "September",
+        "Oktober"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "Hoe oud was Pater Herwig Arts toen hij overleed?",
+      "options": [
+        "85 jaar",
+        "89 jaar",
+        "90 jaar",
+        "95 jaar"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het KMI waarschuwt alleen voor zonnig weer.",
+      "statement": "Pater Herwig Arts werd geboren in 1935.",
+      "isTrue": true
+    },
+    {
+      "statement": "Pater Herwig Arts overleed in de maand december.",
       "isTrue": false
     },
     {
-      "statement": "Nummer 1722 is een telefoonnummer voor vragen over dieren in de tuin.",
-      "isTrue": false
-    },
-    {
-      "statement": "Je kunt bellen naar 1722 als je schade hebt door een storm.",
+      "statement": "Pater Herwig Arts werd 90 jaar oud.",
       "isTrue": true
     }
   ]

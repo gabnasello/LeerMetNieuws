@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "PKK strijders gaan weg uit Turkije",
+  "title": "Orkaan Melissa nadelt naar Jamaica",
   "topicNumber": 1,
   "article": {
-    "title": "PKK strijkers gaan weg uit Turkije",
-    "summary": "Turkije en de Koerdische groep PKK hebben een akkoord. De PKK-strijders zullen zich terugtrekken uit Turkije. Dit is een historische stap in de onderhandelingen. Maar het akkoord is het resultaat van politiek overleg achter gesloten deuren."
+    "title": "Orkaan Melissa nadelt naar Jamaica",
+    "summary": "Orkaan Melissa komt naar Jamaica. De orkaan brengt veel wind en regen. Er is ook gevaar voor overstromingen. Er zijn al doden in andere landen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "groep",
-        "definition": "Een aantal mensen bij elkaar.",
-        "sentence": "De ___ gaat samen sporten.",
-        "answer": "groep"
+        "word": "orkaan",
+        "definition": "een hele grote storm met veel wind",
+        "sentence": "Een orkaan kan veel schade veroorzaken.",
+        "answer": "orkaan"
       },
       {
-        "word": "akkoord",
-        "definition": "Een overeenkomst.",
-        "sentence": "Ze hebben een ___ getekend.",
-        "answer": "akkoord"
+        "word": "Jamaica",
+        "definition": "een land in het Caribisch gebied",
+        "sentence": "Jamaica is een eiland in de Caribische Zee.",
+        "answer": "Jamaica"
       },
       {
-        "word": "PKK",
-        "definition": "Een groep mensen.",
-        "sentence": "De ___ is een groep.",
-        "answer": "PKK"
+        "word": "doden",
+        "definition": "mensen die zijn overleden",
+        "sentence": "Er zijn helaas doden gevallen door de orkaan.",
+        "answer": "doden"
       },
       {
-        "word": "weg",
-        "definition": "Niet hier, maar ergens anders.",
-        "sentence": "Hij is ___ van huis.",
-        "answer": "weg"
+        "word": "land",
+        "definition": "een gebied met een eigen regering, zoals Nederland of België",
+        "sentence": "Welk land ligt naast Duitsland?",
+        "answer": "land"
       },
       {
-        "word": "strijders",
-        "definition": "Mensen die vechten.",
-        "sentence": "De soldaten zijn ook ___.",
-        "answer": "strijders"
+        "word": "regen",
+        "definition": "water dat uit de lucht valt, vaak bij slecht weer",
+        "sentence": "De regen viel de hele dag.",
+        "answer": "regen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De soldaten zijn ook ___.",
-        "answer": "strijders"
+        "sentence": "Een orkaan kan veel schade veroorzaken.",
+        "answer": "orkaan"
       },
       {
-        "sentence": "Hij is ___ van huis.",
-        "answer": "weg"
+        "sentence": "Er zijn helaas doden gevallen door de orkaan.",
+        "answer": "doden"
       },
       {
-        "sentence": "De ___ is een groep.",
-        "answer": "PKK"
+        "sentence": "De regen viel de hele dag.",
+        "answer": "regen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'strijders'?",
+      "question": "Waar is orkaan Melissa?",
       "options": [
-        "Mensen die vechten",
-        "Een soort eten",
-        "Een type auto",
-        "Een muziekinstrument"
+        "Bij Jamaica",
+        "In Nederland",
+        "Op de maan",
+        "In een boek"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is 'onderhandelingen'?",
+      "question": "Wat veroorzaakt orkaan Melissa?",
       "options": [
-        "Een soort dans",
-        "Gesprekken om afspraken te maken",
-        "Een soort game",
-        "Een type schoen"
+        "Veel wind en regen",
+        "Zonnig weer",
+        "Een lichte bries",
+        "Koude sneeuw"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is 'stap'?",
+      "question": "Wat is een gevolg van de orkaan?",
       "options": [
-        "Een beweging met je voet",
-        "Een soort vogel",
-        "Een soort insect",
-        "Een soort plant"
+        "Er zijn overstromingen",
+        "De zon schijnt fel",
+        "Het sneeuwt",
+        "Het is erg koud"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Turkije is een land.",
+      "statement": "Orkaan Melissa veroorzaakt overstromingen in Jamaica.",
       "isTrue": true
     },
     {
-      "statement": "PKK is een soort auto.",
+      "statement": "Nederland wordt ook getroffen door orkaan Melissa.",
       "isTrue": false
     },
     {
-      "statement": "Strijders zijn mensen die vechten.",
+      "statement": "Er zijn al doden in andere landen door de orkaan.",
       "isTrue": true
     }
   ]

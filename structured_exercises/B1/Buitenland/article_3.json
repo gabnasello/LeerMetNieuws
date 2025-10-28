@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Koerdische PKK haalt alle strijders weg uit Turkije",
+  "title": "Jamaica maakt zich op voor Melissa, de zwaarste orkaan van het jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Koerdische PKK haalt alle strijders weg uit Turkije",
-    "summary": "Turkije en de Koerdische PKK hebben een nieuw akkoord. De PKK-strijders zullen zich terugtrekken uit Turkije. Dit is een historische stap in hun onderhandelingen. Maar het akkoord is het resultaat van achterkamertjespolitiek."
+    "title": "Jamaica maakt zich op voor Melissa, de zwaarste orkaan van het jaar",
+    "summary": "Een ramp lijkt onafwendbaar in Jamaica, nu orkaan Melissa op drie manieren kan toeslaan: met stormvloed, immense regenval en verwoestende wind. Op Haïti en de Dominicaanse Republiek vielen al vier doden."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "strijders",
-        "definition": "mensen die vechten in een oorlog",
-        "sentence": "De ___ vechten voor een zaak.",
-        "answer": "strijders"
+        "word": "stormvloed",
+        "definition": "Een grote overstroming door de zee die het land binnenstroomt",
+        "sentence": "Bij een stormvloed stroomt zeewater het land binnen en veroorzaakt overstromingen.",
+        "answer": "stormvloed"
       },
       {
-        "word": "stap",
-        "definition": "een actie die je neemt",
-        "sentence": "De eerste ___ is vaak het moeilijkst.",
-        "answer": "stap"
+        "word": "regenval",
+        "definition": "De hoeveelheid regen die in een bepaalde tijd valt",
+        "sentence": "Hevige regenval kan straten blank zetten en huizen onder water zetten.",
+        "answer": "regenval"
       },
       {
-        "word": "terugtrekken",
-        "definition": "weggaan van een plaats",
-        "sentence": "Soldaten ___ zich uit een gebied.",
-        "answer": "terugtrekken"
+        "word": "orkaan",
+        "definition": "Een hele zware storm met veel wind en regen",
+        "sentence": "Een orkaan kan veel schade veroorzaken met harde wind en veel regen.",
+        "answer": "orkaan"
       },
       {
-        "word": "achterkamertjespolitiek",
-        "definition": "geheime politieke deals",
-        "sentence": "___ gebeurt vaak zonder openbaarheid.",
-        "answer": "achterkamertjespolitiek"
+        "word": "wind",
+        "definition": "Bewegende lucht die je voelt maar niet ziet",
+        "sentence": "Sterke wind kan takken afbreken en dingen omver blazen.",
+        "answer": "wind"
       },
       {
-        "word": "Turkije",
-        "definition": "een land in Europa en Azië",
-        "sentence": "___ is het land waar de PKK zich terugtrekt.",
-        "answer": "Turkije"
+        "word": "ramp",
+        "definition": "Een ernstige gebeurtenis met veel schade en vaak slachtoffers",
+        "sentence": "Een natuurramp zoals een orkaan kan hele steden verwoesten.",
+        "answer": "ramp"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is het land waar de PKK zich terugtrekt.",
-        "answer": "Turkije"
+        "sentence": "Bij een stormvloed stroomt zeewater het land binnen en veroorzaakt overstromingen.",
+        "answer": "stormvloed"
       },
       {
-        "sentence": "___ gebeurt vaak zonder openbaarheid.",
-        "answer": "achterkamertjespolitiek"
+        "sentence": "Sterke wind kan takken afbreken en dingen omver blazen.",
+        "answer": "wind"
       },
       {
-        "sentence": "De ___ vechten voor een zaak.",
-        "answer": "strijders"
+        "sentence": "Een natuurramp zoals een orkaan kan hele steden verwoesten.",
+        "answer": "ramp"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'terugtrekken' in deze context?",
+      "question": "Wat is een orkaan?",
       "options": [
-        "vooruit bewegen",
-        "teruggaan",
-        "stil blijven",
-        "rennen"
+        "Een soort dier",
+        "Een feestdag",
+        "Een zware storm met veel wind",
+        "Een type auto"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is 'achterkamertjespolitiek'?",
+      "question": "Waarom is de situatie in Jamaica zorgelijk?",
       "options": [
-        "openbare vergaderingen",
-        "geheime politieke deals",
-        "sportevenementen",
-        "kooklessen"
+        "Er is een feest aan de gang",
+        "Er is een voedseltekort",
+        "Orkaan Melissa nadert en kan op drie manieren toeslaan",
+        "De president is afgetreden"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Waarom is dit akkoord historisch?",
+      "question": "Wat is al gebeurd in naburige landen?",
       "options": [
-        "Omdat het nooit eerder is gebeurd",
-        "Omdat het om eten gaat",
-        "Omdat het in de krant staat",
-        "Omdat het niet belangrijk is"
+        "Er is een orkaan geweest",
+        "Er zijn vier mensen overleden",
+        "Er is een festival gehouden",
+        "Er is niets gebeurd"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De PKK-strijders blijven in Turkije.",
+      "statement": "Een orkaan brengt alleen harde wind, geen andere problemen.",
       "isTrue": false
     },
     {
-      "statement": "Het akkoord is het resultaat van onderhandelingen.",
+      "statement": "Er zijn al doden gevallen in Haïti en de Dominicaanse Republiek door de orkaan.",
       "isTrue": true
     },
     {
-      "statement": "De PKK is een Turkse organisatie.",
+      "statement": "Nederland wordt vaak getroffen door orkanen.",
       "isTrue": false
     }
   ]

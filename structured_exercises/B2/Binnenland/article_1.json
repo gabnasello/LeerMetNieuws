@@ -1,105 +1,99 @@
 {
-  "id": 17,
+  "id": 19,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Was ons budget ongelimiteerd, dan hadden wij ook een vrijstaand huis op den buiten gekocht",
+  "title": "Pater Herwig Arts, 90 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Was ons budget ongelimiteerd, dan hadden wij ook een vrijstaand huis op den buiten gekocht",
-    "summary": "Nergens in Vlaanderen werd de voorbije jaren zoveel grond aangesneden voor woningen als in Deinze, en tegen de zin van het lokale bestuur in. Maar de bewoners, die zijn er gelukkig. Wil de Vlaming wel een bouwshift, of blijven we dromen van een groot huis in het groen? 'Dat kortzichtig protest tegen hoger bouwen moet stoppen.'"
+    "title": "Pater Herwig Arts, 90 jaar",
+    "summary": "Hij werd geboren in 1935 en overleed op 24 oktober 2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Buiten",
-        "definition": "De buitenlucht, buitenhuis, of buiten de stad",
-        "sentence": "We gaan dit weekend naar het ___ om te wandelen.",
-        "answer": "buiten"
+        "word": "Pater",
+        "definition": "Een pater is een geestelijke in de Katholieke Kerk.",
+        "sentence": "De ___ droeg een zwart habijt.",
+        "answer": "pater"
       },
       {
-        "word": "vrijstaand",
-        "definition": "Alleenstaand, niet verbonden met andere gebouwen",
-        "sentence": "Ze kochten een ___ huis met een grote tuin.",
-        "answer": "vrijstaand"
+        "word": "geboren",
+        "definition": "Geboren worden betekent dat je leven begint; het is het tegenovergestelde van overlijden.",
+        "sentence": "Zij werd ___ in een klein dorp in Nederland.",
+        "answer": "geboren"
       },
       {
-        "word": "budget",
-        "definition": "Het beschikbare geld voor een bepaald doel",
-        "sentence": "Het ___ voor het nieuwe project is nog niet goedgekeurd.",
-        "answer": "budget"
+        "word": "werd",
+        "definition": "Werd is de verleden tijd van 'worden', wat 'zijn' of 'geworden' betekent.",
+        "sentence": "Hij ___ geboren in een klein dorp.",
+        "answer": "werd"
       },
       {
-        "word": "aangesneden",
-        "definition": "In gebruik genomen of vrijgegeven voor een doel",
-        "sentence": "Er werd veel grond ___ voor nieuwe woningbouw.",
-        "answer": "aangesneken"
-      },
-      {
-        "word": "bewoners",
-        "definition": "Mensen die in een bepaalde plaats of huis wonen",
-        "sentence": "De ___ van de flat organiseerden een feest.",
-        "answer": "bewoners"
+        "word": "werd",
+        "definition": "Werd is de verleden tijd van 'worden', wat 'geworden' of 'zijn' betekent.",
+        "sentence": "Zij ___ geboren in een groot ziekenhuis.",
+        "answer": "werd"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze kochten een ___ huis met een grote tuin.",
-        "answer": "vrijstaand"
+        "sentence": "Zij werd ___ in een klein dorp in Nederland.",
+        "answer": "geboren"
       },
       {
-        "sentence": "De ___ van de flat organiseerden een feest.",
-        "answer": "bewoners"
+        "sentence": "De ___ droeg een zwart habijt.",
+        "answer": "pater"
       },
       {
-        "sentence": "We gaan dit weekend naar het ___ om te wandelen.",
-        "answer": "buiten"
+        "sentence": "Hij ___ geboren in een klein dorp.",
+        "answer": "werd"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'aangesneden' in de context van de tekst?",
+      "question": "Wat betekent het als iemand is overleden?",
       "options": [
-        "Opengesneden",
-        "Vrijgemaakt",
-        "Voltooid",
-        "Vergeten"
+        "Die persoon is op reis",
+        "Die persoon is gestorven",
+        "Die persoon is net geboren",
+        "Die persoon is verhuisd"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar gaat de tekst vooral over?",
+      "question": "Welk woord past bij 'Hij werd geboren'?",
       "options": [
-        "Over het kopen van een huis",
-        "Over een conflict in een gemeente",
-        "Over de voorkeuren van Vlamingen",
-        "Over de prijs van grond"
+        "gestorven",
+        "overleden",
+        "geboren",
+        "verhuisd"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de houding van de auteur?",
+      "question": "Wat is de tegenhanger van 'overleden'?",
       "options": [
-        "Neutraal en informatief",
-        "Kritisch en aanmoedigend",
-        "Helemaal positief",
-        "Helemaal negatief"
+        "Oud worden",
+        "Geboren worden",
+        "Verhuizen",
+        "Sterven"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De bewoners van Deinze zijn ongelukkig met de nieuwe woningen.",
-      "isTrue": false
-    },
-    {
-      "statement": "De auteur suggereert dat Vlamingen misschien liever dromen over een groot huis dan dat ze een 'bouwshift' willen.",
+      "statement": "Pater Herwig Arts werd geboren in 1935.",
       "isTrue": true
     },
     {
-      "statement": "De auteur is tegen hogere bouwprojecten en steunt het protest ertegen.",
+      "statement": "Hij overleed op 24 oktober 2025.",
+      "isTrue": true
+    },
+    {
+      "statement": "Hij werd geboren in 2025.",
       "isTrue": false
     }
   ]

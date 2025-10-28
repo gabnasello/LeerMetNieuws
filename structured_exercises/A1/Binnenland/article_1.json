@@ -1,105 +1,99 @@
 {
-  "id": 15,
+  "id": 16,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Bouwproject",
+  "title": "Pater Herwig Arts, 90 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Bouwproject",
-    "summary": "Er komen nieuwe huizen in een dorp. De mensen zijn blij. Maar in de stad is er protest tegen meer bouwen. Wat is wijs?"
+    "title": "Pater Herwig Arts, 90 jaar",
+    "summary": "Geboren in 1935, overleden op 24/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "mensen",
-        "definition": "personen",
-        "sentence": "De ___ zijn vriendelijk.",
-        "answer": "mensen"
+        "word": "pater",
+        "definition": "een priester in sommige religieuze orden",
+        "sentence": "De ___ heeft een lange tijd geleefd.",
+        "answer": "pater"
       },
       {
-        "word": "dorp",
-        "definition": "een kleine plaats met huizen",
-        "sentence": "Het ___ is rustig en mooi.",
-        "answer": "dorp"
+        "word": "jaar",
+        "definition": "een periode van 365 dagen",
+        "sentence": "Hij is 90 ___ oud.",
+        "answer": "jaar"
       },
       {
-        "word": "wijs",
-        "definition": "slim en goed",
-        "sentence": "Een ___ persoon denkt na.",
-        "answer": "wijs"
+        "word": "geboren",
+        "definition": "het begin van het leven",
+        "sentence": "Hij is ___ in 1935.",
+        "answer": "geboren"
       },
       {
-        "word": "Bouwproject",
-        "definition": "een plan om iets te bouwen",
-        "sentence": "Het ___ is klaar.",
-        "answer": "Bouwproject"
-      },
-      {
-        "word": "protest",
-        "definition": "tegen iets zijn",
-        "sentence": "Er is ___ tegen het plan.",
-        "answer": "protest"
+        "word": "overleden",
+        "definition": "niet meer levend, gestorven",
+        "sentence": "Hij is ___ op 24 oktober 2025.",
+        "answer": "overleden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Er is ___ tegen het plan.",
-        "answer": "protest"
+        "sentence": "Hij is ___ in 1935.",
+        "answer": "geboren"
       },
       {
-        "sentence": "De ___ zijn vriendelijk.",
-        "answer": "mensen"
+        "sentence": "De ___ heeft een lange tijd geleefd.",
+        "answer": "pater"
       },
       {
-        "sentence": "Een ___ persoon denkt na.",
-        "answer": "wijs"
+        "sentence": "Hij is ___ op 24 oktober 2025.",
+        "answer": "overleden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar is het bouwproject?",
+      "question": "Wat is de geboortedatum van pater Herwig Arts?",
       "options": [
-        "In een dorp",
-        "In een stad",
-        "In een park",
-        "In een school"
+        "1935",
+        "1920",
+        "1945",
+        "1900"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat doen de mensen in het dorp?",
+      "question": "In welk jaar overleed pater Herwig Arts?",
       "options": [
-        "Ze werken",
-        "Ze wonen",
-        "Ze reizen",
-        "Ze slapen"
+        "2025",
+        "2020",
+        "2030",
+        "2015"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is het tegenovergestelde van protest?",
+      "question": "Hoe oud werd pater Herwig Arts?",
       "options": [
-        "Steun",
-        "Tegen",
-        "Rust",
-        "Lawaai"
+        "90 jaar",
+        "80 jaar",
+        "100 jaar",
+        "85 jaar"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het bouwproject is in een dorp.",
+      "statement": "Pater Herwig Arts is geboren in 1935.",
       "isTrue": true
     },
     {
-      "statement": "De mensen in de stad zijn blij met het protest.",
+      "statement": "Hij overleed in 2020.",
       "isTrue": false
     },
     {
-      "statement": "Een wijs persoon denkt na over wonen.",
+      "statement": "Hij werd 90 jaar oud.",
       "isTrue": true
     }
   ]

@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Amerikaanse shutdown",
+  "title": "Bitcoinbedrijven in Ethiopië",
   "topicNumber": 1,
   "article": {
-    "title": "Amerikaanse shutdown",
-    "summary": "Na een maand zonder geld begint de situatie moeilijk te worden voor Amerika. Sommige mensen krijgen nog wel geld, anderen niet."
+    "title": "Bitcoinbedrijven in Ethiopië",
+    "summary": "Bitcoinbedrijven gebruiken stroom in Ethiopië. De mensen daar hebben weinig stroom. Bitcoinbedrijven krijgen goedkope stroom. De gewone mensen hebben problemen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geld",
-        "definition": "wat je gebruikt om iets te kopen, zoals euro's of dollars",
-        "sentence": "In de winkel betaal je met ___.",
-        "answer": "geld"
+        "word": "stroom",
+        "definition": "elektriciteit, energie",
+        "sentence": "Zonder ___ kun je geen lamp gebruiken.",
+        "answer": "stroom"
       },
       {
-        "word": "maand",
-        "definition": "een periode van tijd, 30 of 31 dagen",
-        "sentence": "Een jaar heeft twaalf ___.",
-        "answer": "maanden"
+        "word": "bitcoin",
+        "definition": "een soort digitaal geld",
+        "sentence": "Mensen gebruiken ___ om te betalen.",
+        "answer": "bitcoin"
       },
       {
-        "word": "anderen",
-        "definition": "andere mensen of dingen",
-        "sentence": "Sommige mensen werken, ___ rusten uit.",
-        "answer": "anderen"
-      },
-      {
-        "word": "krijgen",
-        "definition": "iets ontvangen, krijgen",
-        "sentence": "Ik ___ een cadeau voor mijn verjaardag.",
-        "answer": "krijg"
+        "word": "weinig",
+        "definition": "niet veel, een kleine hoeveelheid",
+        "sentence": "Er is ___ voedsel beschikbaar.",
+        "answer": "weinig"
       },
       {
         "word": "mensen",
-        "definition": "meerdere personen, mannen en vrouwen",
-        "sentence": "Er werken veel ___ in dit gebouw.",
+        "definition": "personen, individuen",
+        "sentence": "De ___ in deze stad hebben weinig water.",
         "answer": "mensen"
+      },
+      {
+        "word": "problemen",
+        "definition": "moeilijkheden, uitdagingen",
+        "sentence": "Zij hebben grote ___ met de stroom.",
+        "answer": "problemen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ik ___ een cadeau voor mijn verjaardag.",
-        "answer": "krijg"
+        "sentence": "Mensen gebruiken ___ om te betalen.",
+        "answer": "bitcoin"
       },
       {
-        "sentence": "In de winkel betaal je met ___.",
-        "answer": "geld"
+        "sentence": "De ___ in deze stad hebben weinig water.",
+        "answer": "mensen"
       },
       {
-        "sentence": "Sommige mensen werken, ___ rusten uit.",
-        "answer": "anderen"
+        "sentence": "Zij hebben grote ___ met de stroom.",
+        "answer": "problemen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Over welke periode gaat dit artikel?",
+      "question": "Wat gebruiken de bitcoinbedrijven veel?",
       "options": [
-        "1 week",
-        "1 maand",
-        "1 jaar",
-        "1 dag"
+        "Water",
+        "Stroom",
+        "Eten",
+        "Geld"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Krijgen alle ambtenaren nu geen geld?",
+      "question": "Wat hebben de Ethiopische mensen te weinig?",
       "options": [
-        "Ja, alle ambtenaren",
-        "Nee, alleen sommige",
-        "Nee, alleen de anderen",
-        "Ja, niemand krijgt geld"
+        "Bitcoin",
+        "Stroom",
+        "Tijd",
+        "Vrienden"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Gaat het hier om Amerika of Nederland?",
+      "question": "Wat is een groot probleem voor de Ethiopische bevolking?",
       "options": [
-        "Alleen Amerika",
-        "Alleen Nederland",
-        "Beide landen",
-        "Geen van beide"
+        "Te veel bitcoinbedrijven",
+        "Te weinig water",
+        "Te veel voedsel",
+        "Te weinig elektriciteit"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "De shutdown duurt nu een maand.",
+      "statement": "Bitcoinbedrijven gebruiken veel stroom in Ethiopië.",
       "isTrue": true
     },
     {
-      "statement": "Alle ambtenaren krijgen geen geld meer.",
+      "statement": "Alle mensen in Ethiopië hebben genoeg water.",
       "isTrue": false
     },
     {
-      "statement": "Sommige mensen krijgen nog wel geld.",
-      "isTrue": true
+      "statement": "De bitcoinbedrijven helpen de Ethiopische mensen.",
+      "isTrue": false
     }
   ]
 }

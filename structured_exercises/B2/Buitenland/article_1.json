@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambiteurs",
+  "title": "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
   "topicNumber": 1,
   "article": {
-    "title": "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambiteurs",
-    "summary": "Na één maand begint de shutdown de Amerikanen zwaar te raken, niet alleen onbetaalde ambtenaren, maar ook bijvoorbeeld de steuntrekkers. Worden wel netjes verder betaald: immigratie-agenten."
+    "title": "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
+    "summary": "Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "agenten",
-        "definition": "Officiële personen die een bepaalde taak uitvoeren, vaak voor de overheid",
-        "sentence": "De immigratie-___ moeten doorwerken, ook zonder loon.",
-        "answer": "agenten"
+        "word": "jobs",
+        "definition": "Werkgelegenheid; betaald werk dat iemand heeft.",
+        "sentence": "Veel jongeren in de stad kunnen geen ___ vinden die bij hun opleiding past.",
+        "answer": "jobs"
       },
       {
-        "word": "immigratie",
-        "definition": "Het proces van immigreren, oftewel het zich vestigen in een ander land",
-        "sentence": "De ___ -agenten controleren wie het land binnenkomt.",
-        "answer": "immigratie"
+        "word": "energie",
+        "definition": "De kracht of capaciteit om werk te verrichten, zoals elektriciteit of kracht.",
+        "sentence": "Zonder voldoende ___ kan een land zich niet goed ontwikkelen.",
+        "answer": "energie"
       },
       {
-        "word": "ambtenaren",
-        "definition": "Mensen die werken voor de overheid",
-        "sentence": "De ___ werken voor de overheid en zijn nu thuis zonder loon.",
-        "answer": "ambtenaren"
+        "word": "drinkbaar",
+        "definition": "Veilig of geschikt om te drinken (meestal over water).",
+        "sentence": "Na de overstroming was het water niet meer ___ en moest het worden gezuiverd.",
+        "answer": "drinkbaar"
       },
       {
-        "word": "Amerikanen",
-        "definition": "De inwoners van de Verenigde Staten",
-        "sentence": "De ___ worden hard geraakt door de shutdown, vooral de armsten.",
-        "answer": "Amerikanen"
+        "word": "bitcoinboys",
+        "definition": "Mensen die veel bezitten of handelen in de digitale munt bitcoin.",
+        "sentence": "De ___ verdienden veel geld door te handelen in cryptocurrency.",
+        "answer": "bitcoinboys"
       },
       {
-        "word": "shutdown",
-        "definition": "Een stopzetting of onderbreking, vaak van overheidsdiensten",
-        "sentence": "De ___ duurt al weken en veel ambtenaren krijgen geen salaris.",
-        "answer": "shutdown"
+        "word": "megadam",
+        "definition": "Een heel groot stuwmeer of dam, vaak gebouwd om energie op te wekken.",
+        "sentence": "De nieuwe ___ in Ethiopië voorziet een groot gebied van elektriciteit.",
+        "answer": "megadam"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ duurt al weken en veel ambtenaren krijgen geen salaris.",
-        "answer": "shutdown"
+        "sentence": "Veel jongeren in de stad kunnen geen ___ vinden die bij hun opleiding past.",
+        "answer": "jobs"
       },
       {
-        "sentence": "De ___ werken voor de overheid en zijn nu thuis zonder loon.",
-        "answer": "ambtenaren"
+        "sentence": "De ___ verdienden veel geld door te handelen in cryptocurrency.",
+        "answer": "bitcoinboys"
       },
       {
-        "sentence": "De immigratie-___ moeten doorwerken, ook zonder loon.",
-        "answer": "agenten"
+        "sentence": "De nieuwe ___ in Ethiopië voorziet een groot gebied van elektriciteit.",
+        "answer": "megadam"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een 'shutdown' in deze context?",
+      "question": "Wat is een belangrijk effect van de megadam in Ethiopië op de lokale bevolking?",
       "options": [
-        "Een feestelijke gebeurtenis",
-        "Een grote stroomuitval",
-        "Het tijdelijk stilleggen van overheidsdiensten",
-        "Een nieuwe regeringsvorm"
+        "Ze krijgen betere toegang tot elektriciteit en water.",
+        "Ze verliezen hun land en hebben geen stroom.",
+        "Ze beginnen allemaal met bitcoin mining.",
+        "Ze krijgen nieuwe jobs in de bouwsector."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Waarom komen bitcoinbedrijven naar Addis Abeba?",
+      "options": [
+        "Omdat de stad bekend staat om zijn nachtleven.",
+        "Omdat de Ethiopische overheid hen uitnodigt.",
+        "Omdat de stroom daar spotgoedkoop is.",
+        "Omdat de lokale bevolking daarom vraagt."
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Waarom worden de immigratie-agenten wel betaald?",
+      "question": "Wat voor soort energie wekt de megadam vooral op?",
       "options": [
-        "Omdat ze voor Trump werken",
-        "Omdat ze als essentiële werknemers worden beschouwd",
-        "Omdat ze een protest hebben georganiseerd",
-        "Omdat ze niet voor de overheid werken"
+        "Zonne-energie",
+        "Windenergie",
+        "Waterkracht",
+        "Kernenergie"
       ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is de rol van Trump in de shutdown?",
-      "options": [
-        "Hij probeert het op te lossen",
-        "Hij is de directe oorzaak ervan",
-        "Hij is op vakantie tijdens de crisis",
-        "Hij heeft er geen weet van"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De shutdown raakt alleen ambtenaren, niet de gewone burger.",
+      "statement": "De bitcoinbedrijven in Addis Abeba zorgen voor veel nieuwe banen voor de lokale bevolking.",
       "isTrue": false
     },
     {
-      "statement": "Immigratie-agenten worden niet betaald tijdens de shutdown.",
-      "isTrue": false
-    },
-    {
-      "statement": "Steuntrekkers worden indirect getroffen door de shutdown.",
+      "statement": "Ethiopiërs die geen stroom hebben, missen ook vaak schoon drinkwater.",
       "isTrue": true
+    },
+    {
+      "statement": "De megadam levert direct drinkbaar water aan omliggende dorpen.",
+      "isTrue": false
     }
   ]
 }

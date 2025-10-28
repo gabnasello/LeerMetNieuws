@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambtenaren",
+  "title": "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
   "topicNumber": 1,
   "article": {
-    "title": "Shutdown doet nu echt pijn, maar niet voor Trumps favoriete ambtenaren",
-    "summary": "Na één maand begint de shutdown de Amerikanen zwaar te raken – niet alleen onbetaalde ambtenaren, maar bijvoorbeeld ook steuntrekkers. Worden wél netjes verder betaald: immigratie-agenten."
+    "title": "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
+    "summary": "Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "niet",
-        "definition": "Ontkenning; het tegenovergestelde van 'wel'",
-        "sentence": "De ambtenaren worden ___ betaald, wat tot onvrede leidt.",
-        "answer": "niet"
+        "word": "megadam",
+        "definition": "Een zeer groot stuwmeer of dam, vaak gebouwd voor waterkracht of waterbeheer.",
+        "sentence": "De nieuwe ___ in Ethiopië is een van de grootste in Afrika.",
+        "answer": "megadam"
       },
       {
-        "word": "worden",
-        "definition": "Een werkwoord, hier gebruikt in de betekenis van 'zijn' of 'worden'",
-        "sentence": "De agenten ___ nog steeds betaald, ook al werken ze niet.",
-        "answer": "worden"
+        "word": "jobs",
+        "definition": "Werkgelegenheid; betaalde posities of functies binnen een organisatie.",
+        "sentence": "Het project heeft weinig nieuwe ___ opgeleverd voor de lokale bevolking.",
+        "answer": "jobs"
       },
       {
-        "word": "betaald",
-        "definition": "Geld ontvangen voor geleverd werk",
-        "sentence": "Sommige werknemers worden nog steeds ___ tijdens de shutdown.",
-        "answer": "betaald"
+        "word": "Addis Abeba",
+        "definition": "De hoofdstad van Ethiopië, gelegen in het hoogland van het land.",
+        "sentence": "___ is de hoofdstad van Ethiopië en een belangrijk cultureel centrum.",
+        "answer": "Addis Abeba"
       },
       {
-        "word": "immigratie",
-        "definition": "Het proces van immigratie, oftewel immigratie",
-        "sentence": "De ___-agenten blijven werken ondanks de shutdown.",
-        "answer": "immigratie"
+        "word": "drinkbaar",
+        "definition": "Geschikt om te drinken; veilig voor consumptie zonder gevaar voor de gezondheid.",
+        "sentence": "Het water is niet langer ___ door de vervuiling.",
+        "answer": "drinkbaar"
       },
       {
-        "word": "ambtenaren",
-        "definition": "Personen die werken voor de overheid",
-        "sentence": "De ___ wachten op hun salaris tijdens de shutdown.",
-        "answer": "ambtenaren"
+        "word": "stroom",
+        "definition": "Elektriciteit; de stroom van elektrische energie.",
+        "sentence": "Veel mensen hebben geen toegang tot ___ in hun huizen.",
+        "answer": "stroom"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ wachten op hun salaris tijdens de shutdown.",
-        "answer": "ambtenaren"
+        "sentence": "De nieuwe ___ in Ethiopië is een van de grootste in Afrika.",
+        "answer": "megadam"
       },
       {
-        "sentence": "De ambtenaren worden ___ betaald, wat tot onvrede leidt.",
-        "answer": "niet"
+        "sentence": "Het project heeft weinig nieuwe ___ opgeleverd voor de lokale bevolking.",
+        "answer": "jobs"
       },
       {
-        "sentence": "De agenten ___ nog steeds betaald, ook al werken ze niet.",
-        "answer": "worden"
+        "sentence": "Het water is niet langer ___ door de vervuiling.",
+        "answer": "drinkbaar"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een 'shutdown' in de context van de overheid?",
+      "question": "Wat is de belangrijkste reden dat bitcoinbedrijven naar Addis Abeba zijn gekomen?",
       "options": [
-        "Een feestelijke sluiting",
-        "Een tijdelijke sluiting door gebrek aan budget",
-        "Een permanente sluiting van diensten",
-        "Een soort van belastingverlaging"
+        "Goedkope arbeidskrachten",
+        "Overvloed aan stroom",
+        "Gunstig belastingklimaat",
+        "Goedkope waterkrachtenergie"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "Wat is een van de gevolgen voor de lokale bevolking volgens de samenvatting?",
+      "options": [
+        "Ze profiteren van de bitcoinhandel",
+        "Ze hebben geen toegang tot drinkbaar water",
+        "Ze krijgen goedkope stroom van de dam",
+        "Ze worden rijk door de bitcoinhandel"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wie wordt er specifiek genoemd als 'wel' betaald tijdens de shutdown?",
+      "question": "Wat wordt er gezegd over de bijdrage van deze bedrijven aan Ethiopië?",
       "options": [
-        "Alle ambtenaren",
-        "Alleen de hoogst genote ambtenaren",
-        "De immigratie-agenten",
-        "De steuntrekkers"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat voor effect heeft de shutdown op de meeste ambtenaren?",
-      "options": [
-        "Ze krijgen een bonus",
-        "Ze worden ontslagen",
-        "Ze worden niet meer betaald",
-        "Ze krijgen extra verlof"
+        "Ze leveren veel banen op",
+        "Ze dragen bij aan de infrastructuur",
+        "Ze leveren amper geld en jobs op",
+        "Ze stimuleren de lokale economie enorm"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De shutdown treft alleen ambtenaren, en geen andere groepen.",
+      "statement": "De Ethiopische megadam biedt voornamelijk voordelen voor de lokale bevolking.",
       "isTrue": false
     },
     {
-      "statement": "Immigratie-agenten worden nog steeds betaald tijdens de shutdown.",
+      "statement": "Bitcoinbedrijven in Addis Abeba maken gebruik van goedkope waterkrachtenergie.",
       "isTrue": true
     },
     {
-      "statement": "De shutdown duurt al meer dan een maand, maar heeft nog geen gevolgen.",
+      "statement": "De meerderheid van de Ethiopische bevolking heeft direct profijt van de bitcoinminingactiviteiten.",
       "isTrue": false
     }
   ]

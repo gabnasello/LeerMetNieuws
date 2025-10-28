@@ -1,105 +1,105 @@
 {
-  "id": 21,
+  "id": 23,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Wat denken de Ronsenaars over al die PFAS? “Ik blijf eten uit mijn moestuin, PFAS of niet”",
+  "title": "De warme bakker is steeds vaker een vrouw: Na tien broden bakken wist ik: hier word ik gelukkig van",
   "topicNumber": 1,
   "article": {
-    "title": "Wat denken de Ronsenaars over al die PFAS? “Ik blijf eten uit mijn moestuin, PFAS of niet”",
-    "summary": "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben. “We hopen dat de stad weet waar ze mee bezig is. Zolang we maar niet het nieuwe Zwijndrecht worden.”"
+    "title": "De warme bakker is steeds vaker een vrouw: Na tien broden bakken wist ik: hier word ik gelukkig van",
+    "summary": "Van een passie voor millefeuille tot ambachtelijke zuurdesembroden, steeds vaker kiezen vrouwen voor een job als bakker of patissier. In verschillende bakkersopleidingen maken ze intussen meer dan de helft van de leerlingen uit. Vrouwen hebben de finesse sneller in de vingers."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "worden",
-        "definition": "zijn, veranderen in",
-        "sentence": "Zolang we maar niet het nieuwe Zwijndrecht worden.",
-        "answer": "worden"
+        "word": "millefeuille",
+        "definition": "een Frans gebakje gemaakt van laagjes bladerdeeg en room",
+        "sentence": "Voor het dessert serveerden ze een heerlijke ___.",
+        "answer": "millefeuille"
       },
       {
-        "word": "heerst",
-        "definition": "is aanwezig, gebeurt veel",
-        "sentence": "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben.",
-        "answer": "heerst"
+        "word": "patissier",
+        "definition": "iemand die taarten en andere zoete lekkernijen maakt",
+        "sentence": "De ___ versierde de taart met bloemen van suiker.",
+        "answer": "patissier"
       },
       {
-        "word": "weet",
-        "definition": "kent, heeft kennis van",
-        "sentence": "“We hopen dat de stad weet waar ze mee bezig is.”",
-        "answer": "weet"
+        "word": "bakker",
+        "definition": "iemand die brood en andere gebakken producten maakt",
+        "sentence": "De ___ maakt elke ochtend vers brood.",
+        "answer": "bakker"
       },
       {
-        "word": "hebben",
-        "definition": "in bezit zijn van, hebben",
-        "sentence": "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben.",
-        "answer": "hebben"
+        "word": "ambachtelijke",
+        "definition": "op een traditionele manier gemaakt, vaak met de hand",
+        "sentence": "Deze ___ kaas komt van een kleine boerderij.",
+        "answer": "ambachtelijke"
       },
       {
-        "word": "zolang",
-        "definition": "gedurende de tijd dat, onder de voorwaarde dat",
-        "sentence": "Zolang we maar niet het nieuwe Zwijndrecht worden.",
-        "answer": "zolang"
+        "word": "vrouw",
+        "definition": "een volwassen persoon van het vrouwelijk geslacht",
+        "sentence": "De ___ werkt parttime in de supermarkt.",
+        "answer": "vrouw"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Zolang we maar niet het nieuwe Zwijndrecht worden.",
-        "answer": "worden"
+        "sentence": "De ___ versierde de taart met bloemen van suiker.",
+        "answer": "patissier"
       },
       {
-        "sentence": "Zolang we maar niet het nieuwe Zwijndrecht worden.",
-        "answer": "zolang"
+        "sentence": "Deze ___ kaas komt van een kleine boerderij.",
+        "answer": "ambachtelijke"
       },
       {
-        "sentence": "In Ronse heerst onrust nu blijkt dat tientallen Ronsenaars zeer hoge PFAS-waarden in hun bloed hebben.",
-        "answer": "hebben"
+        "sentence": "Voor het dessert serveerden ze een heerlijke ___.",
+        "answer": "millefeuille"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat het artikel vooral over?",
+      "question": "Waarom kiezen steeds meer vrouwen voor een baan als bakker of patissier?",
       "options": [
-        "Over reizen naar andere landen",
-        "Over gezond eten uit de tuin",
-        "Over een stad met veel PFAS in het bloed",
-        "Over sporten in Ronse"
+        "Omdat het goed betaalt",
+        "Omdat ze van koken houden",
+        "Omdat ze kunnen werken met hun handen",
+        "Omdat ze een passie voor zoetigheid hebben"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     },
     {
-      "question": "Wat is de houding van de bewoners volgens het artikel?",
+      "question": "Wat is een kenmerk van vrouwelijke leerlingen in bakkersopleidingen?",
       "options": [
-        "Ze zijn erg bang en stoppen met alles",
-        "Ze vertrouwen op de stad en blijven normaal leven",
-        "Ze willen de stad verlaten",
-        "Ze negeren het probleem volledig"
+        "Ze zijn ouder dan mannen",
+        "Ze zijn in de meerderheid",
+        "Ze werken alleen parttime",
+        "Ze hebben meer finesse"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de belangrijkste boodschap van de titel?",
+      "question": "Wat betekent 'finesse' in dit artikel?",
       "options": [
-        "Gezondheid is niet belangrijk",
-        "Ronse is een gevaarlijke stad",
-        "Ondanks problemen, het leven gaat door",
-        "Iedereen moet nu Zwijndrecht worden"
+        "Snelheid",
+        "Kracht",
+        "Behendigheid",
+        "Zorgvuldigheid"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "De bewoners van Ronse hebben allemaal erg hoge PFAS-waarden.",
-      "isTrue": false
-    },
-    {
-      "statement": "De bewoners hopen dat de stad weet wat het doet.",
+      "statement": "Vrouwen zijn de meerderheid in bakkersopleidingen.",
       "isTrue": true
     },
     {
-      "statement": "De bewoners willen net zoals in Zwijndrecht worden.",
+      "statement": "Mannen hebben meer finesse dan vrouwen.",
+      "isTrue": false
+    },
+    {
+      "statement": "Een patissier maakt vooral hartige gerechten.",
       "isTrue": false
     }
   ]

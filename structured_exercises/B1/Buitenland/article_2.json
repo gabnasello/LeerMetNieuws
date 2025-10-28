@@ -1,106 +1,106 @@
 {
-  "id": 12,
+  "id": 13,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
+  "title": "Fraude met EU-subsidies: Griekse groep pleegde fraude",
   "topicNumber": 1,
   "article": {
-    "title": "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
-    "summary": "Volgens toponderhandelaars van China en de VS zijn de “grote lijnen” van een akkoord beklonken. Haalt de dealmaker-in-chief tijdens zijn rondreis in Azië een handelsdeal met China binnen?"
+    "title": "Fraude met EU-subsidies: Griekse groep pleegde fraude",
+    "summary": "Een criminele groep in Griekenland heeft de Europese Unie bedrogen voor bijna 20 miljoen euro. Zij logen over het aantal schapen en geiten dat ze hadden, om meer geld te krijgen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "volgens",
-        "definition": "zoals door iemand gezegd of geschreven",
-        "sentence": "___ de krant was het een mooie dag.",
-        "answer": "Volgens"
+        "word": "subsidies",
+        "definition": "Financiële steun gegeven door de overheid of een organisatie.",
+        "sentence": "De boer ontving ___ van de EU om zijn land te verbeteren.",
+        "answer": "subsidies"
       },
       {
-        "word": "rondreis",
-        "definition": "een reis waarbij meerdere plaatsen worden bezocht",
-        "sentence": "Hun ___ door Europa duurde drie weken.",
-        "answer": "rondreis"
+        "word": "Fraude",
+        "definition": "Een vorm van bedrog of misleiding, vaak voor financieel gewin.",
+        "sentence": "Hij werd gearresteerd voor zijn rol in de grote ___.",
+        "answer": "fraude"
       },
       {
-        "word": "tijdens",
-        "definition": "een voorzetsel dat aangeeft dat iets tegelijk met iets anders gebeurt",
-        "sentence": "Hij was aan het werken ___ de vergadering.",
-        "answer": "tijdens"
+        "word": "logen",
+        "definition": "Niet de waarheid vertellen; het tegenovergestelde van de waarheid spreken.",
+        "sentence": "Zij ___ over hun leeftijd om binnen te komen.",
+        "answer": "logen"
       },
       {
-        "word": "Komt",
-        "definition": "een werkwoord dat aangeeft wat iemand of iets doet, nu of in de toekomst",
-        "sentence": "___ hij morgen naar school?",
-        "answer": "Komt"
+        "word": "groep",
+        "definition": "Een aantal mensen of dingen bij elkaar.",
+        "sentence": "De hele ___ werkte samen aan het project.",
+        "answer": "groep"
       },
       {
-        "word": "toenadering",
-        "definition": "het dichter bij elkaar komen, meestal na een conflict",
-        "sentence": "Na het gesprek was er weer ___ tussen de twee.",
-        "answer": "toenadering"
+        "word": "aantal",
+        "definition": "Hoeveel er van iets is; het getal.",
+        "sentence": "Het ___ mensen dat kwam opdagen was groot.",
+        "answer": "aantal"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hun ___ door Europa duurde drie weken.",
-        "answer": "rondreis"
+        "sentence": "De boer ontving ___ van de EU om zijn land te verbeteren.",
+        "answer": "subsidies"
       },
       {
-        "sentence": "___ hij morgen naar school?",
-        "answer": "Komt"
+        "sentence": "De hele ___ werkte samen aan het project.",
+        "answer": "groep"
       },
       {
-        "sentence": "___ de krant was het een mooie dag.",
-        "answer": "Volgens"
+        "sentence": "Hij werd gearresteerd voor zijn rol in de grote ___.",
+        "answer": "fraude"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat het artikel vooral over?",
+      "question": "Wat was het hoofddoel van de groep in Griekenland?",
       "options": [
-        "Een vakantie van Trump",
-        "Een sportwedstrijd in China",
-        "Onderhandelingen tussen de VS en China",
-        "Een feest in Azië"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat is de rol van de toponderhandelaars?",
-      "options": [
-        "Ze organiseren feesten",
-        "Ze maken internationale afspraken",
-        "Ze geven les op school",
-        "Ze zijn atleten in de Olympische Spelen"
+        "Meer dieren verzorgen",
+        "Geld stelen van de EU",
+        "Een nieuwe wet aannemen",
+        "Meer boeren helpen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het resultaat van de besprekingen?",
+      "question": "Hoe pleegde de groep de fraude precies?",
       "options": [
-        "Er is meer oorlog gekomen",
-        "Er zijn nieuwe spelregels gemaakt",
-        "Er is een akkoord bereikt",
-        "Er is niets besloten"
+        "Ze verkochten te veel dieren",
+        "Ze logen over het aantal dieren",
+        "Ze stalen geld uit banken",
+        "Ze gaven dieren weg"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is een gevolg van dit soort fraude?",
+      "options": [
+        "De EU stopt met alle subsidies",
+        "De EU wordt voorzichtiger met geld",
+        "Dieren krijgen minder eten",
+        "Belastinggeld wordt verspild"
+      ],
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "De tekst gaat over een mogelijke ontmoeting tussen Trump en de leider van China.",
-      "isTrue": true
-    },
-    {
-      "statement": "Trump heeft al een handelsdeal met China ondertekend tijdens zijn reis.",
+      "statement": "De groep in Griekenland gaf de Europese Unie te veel dieren.",
       "isTrue": false
     },
     {
-      "statement": "Toponderhandelaars hebben de hoofdafspraken van een akkoord vastgelegd.",
+      "statement": "De groep loog over hoeveel dieren ze hadden om meer geld te krijgen.",
       "isTrue": true
+    },
+    {
+      "statement": "Dit gebeurde alleen in Griekenland.",
+      "isTrue": false
     }
   ]
 }

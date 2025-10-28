@@ -1,14 +1,15 @@
 Artikel 2
-Nieuwsupdate: 2025-10-27 00:07 UCT
+Nieuwsupdate: 2025-10-28 04:28 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst
-Link: https://www.standaard.be/binnenland/na-vechtpartij-onder-agenten-strengere-regels-voor-bijklussende-politiemensen-op-komst/100276076.html
-Datum: Sun, 26 Oct 2025 22:59:00 GMT
-Samenvatting: Meer agenten klussen bij, en dat leidt soms tot mistoestanden. Minister van Binnenlandse Zaken Bernard Quintin (MR) wil de regels aanscherpen.
+Titel: Helpt AI het Nederlands vooruit of is het de doodgraver ervan?
+Link: https://www.standaard.be/binnenland/helpt-ai-het-nederlands-vooruit-of-is-het-de-doodgraver-ervan/96284169.html
+Datum: Mon, 27 Oct 2025 22:59:00 GMT
+Samenvatting: AI-modellen zoals ChatGPT maken onze taal vlakker, stelt computerlinguïst Tim Van de Cruys vast. Tegelijk wordt ons eigen taalgevoel misschien nog belangrijker door AI. “Hoe beter je de taal al beheerst, hoe beter een AI-model voor jou zal werken.”
 Auteur: Geen auteur
 Categorie: Binnenland
+Afbeelding: https://prod-img.standaard.be/public/nieuws/op233v-timvandecruys008-1.jpg/alternates/BASE_SIXTEEN_NINE/TimVandeCruys008%201.jpg
 Premium: true
 ------------------------------------------------------------

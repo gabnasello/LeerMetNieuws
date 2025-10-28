@@ -1,106 +1,106 @@
 {
-  "id": 11,
+  "id": 12,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
+  "title": "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
   "topicNumber": 1,
   "article": {
-    "title": "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
-    "summary": "Volgens toponderhandelaars van China en de VS zijn de 'grote lijnen' van een akkoord beklonken. Haalt de dealmaker-in-chief tijdens zijn rondreis in Azië een handelsdeal met China binnen?"
+    "title": "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
+    "summary": "Een groep in Griekenland heeft bijna 20 miljoen euro aan EU-subsidies gekregen door te frauderen. Zij deden alsof ze veel meer dieren hadden dan in werkelijkheid."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "toenadering",
-        "definition": "Het dichter bij elkaar komen, bijvoorbeeld in een relatie",
-        "sentence": "Er was sprake van een ___ tussen de twee landen.",
-        "answer": "toenadering"
+        "word": "meer",
+        "definition": "Een grotere hoeveelheid, extra.",
+        "sentence": "Hij heeft ___ boeken dan ik, dus zijn kast is voller.",
+        "answer": "meer"
       },
       {
-        "word": "VS",
-        "definition": "Verenigde Staten van Amerika",
-        "sentence": "De ___ is een groot land in Noord-Amerika.",
-        "answer": "VS"
+        "word": "geiten",
+        "definition": "Een dier dat melk geeft en op boerderijen leeft.",
+        "sentence": "De boer heeft veel ___ die melk geven.",
+        "answer": "geiten"
       },
       {
-        "word": "akkoord",
-        "definition": "Overeenkomst, wanneer partijen het eens zijn",
-        "sentence": "Ze zijn tot een ___ gekomen.",
-        "answer": "akkoord"
+        "word": "schapen",
+        "definition": "Een dier met wol dat op boerderijen leeft.",
+        "sentence": "De herder heeft veel ___ die hij scheert voor wol.",
+        "answer": "schapen"
       },
       {
-        "word": "Komt",
-        "definition": "Hulpwerkwoord dat aangeeft dat iets in de toekomst gebeurt",
-        "sentence": "___ het morgen regenen?",
-        "answer": "Komt"
+        "word": "alsof",
+        "definition": "Een woord om aan te geven dat iets niet echt is, maar alleen lijkt zo.",
+        "sentence": "Hij gedraagt zich ___ hij de baas is, maar dat is hij niet.",
+        "answer": "alsof"
       },
       {
-        "word": "Azië",
-        "definition": "Het werelddeel ten oosten van Europa",
-        "sentence": "China ligt in ___.",
-        "answer": "Azië"
+        "word": "subsidies",
+        "definition": "Geld dat de overheid geeft voor een bepaald doel.",
+        "sentence": "De boer ontvangt ___ van de EU om zijn land te verbeteren.",
+        "answer": "subsidies"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ het morgen regenen?",
-        "answer": "Komt"
+        "sentence": "De boer ontvangt ___ van de EU om zijn land te verbeteren.",
+        "answer": "subsidies"
       },
       {
-        "sentence": "China ligt in ___.",
-        "answer": "Azië"
+        "sentence": "Hij heeft ___ boeken dan ik, dus zijn kast is voller.",
+        "answer": "meer"
       },
       {
-        "sentence": "Er was sprake van een ___ tussen de twee landen.",
-        "answer": "toenadering"
+        "sentence": "De boer heeft veel ___ die melk geven.",
+        "answer": "geiten"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'rondreis' in deze context?",
+      "question": "Waar ging de fraude over?",
       "options": [
-        "Een reis waarbij meerdere plaatsen worden bezocht",
-        "Een enkele reis naar één plaats",
-        "Een vakantie thuis",
-        "Een reis naar de maan"
+        "Over te veel dieren vragen",
+        "Over te weinig dieren vragen",
+        "Over het stelen van dieren",
+        "Over het kopen van dieren"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is de betekenis van 'akkoord' in deze tekst?",
+      "question": "Wat is 'subsidies'?",
       "options": [
-        "Overeenkomst tussen partijen",
-        "Een muziekstuk",
-        "Een soort gerecht",
-        "Een sportevenement"
+        "Een soort belasting",
+        "Geld van de overheid",
+        "Een soort verzekering",
+        "Een soort lening"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Waar staat 'VS' voor in deze context?",
+      "question": "Wat is het tegenovergestelde van 'meer'?",
       "options": [
-        "Verenigde Staten",
-        "Vlaamse Stam",
-        "Voetbal Samenwerking",
-        "Vrije Stad"
+        "Minder",
+        "Meer",
+        "Veel",
+        "Weinig"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Trump bezoekt Azië tijdens zijn reis.",
+      "statement": "De groep in Griekenland kreeg geld van de EU.",
       "isTrue": true
     },
     {
-      "statement": "China en de VS hebben een akkoord ondertekend.",
-      "isTrue": true
-    },
-    {
-      "statement": "Trump reist alleen naar China.",
+      "statement": "De dieren waren echt en vielen de groep aan.",
       "isTrue": false
+    },
+    {
+      "statement": "De groep had minder dieren dan ze zeiden.",
+      "isTrue": true
     }
   ]
 }

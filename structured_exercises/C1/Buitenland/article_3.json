@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Koerdische PKK haalt alle strijders weg uit Turkije",
+  "title": "Jamaica maakt zich op voor orkaan Melissa, de zwaarste van het jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Koerdische PKK haalt alle strijders weg uit Turkije",
-    "summary": "Turkije en de Koerdische separatisten van de PKK zetten een historische nieuwe stap in hun onderhandelingen. De PKK-strijders zullen zich terugtrekken uit Turkije. Maar het akkoord blijft het resultaat van achterkamertjespolitiek."
+    "title": "Jamaica maakt zich op voor orkaan Melissa, de zwaarste van het jaar",
+    "summary": "Een ramp lijkt onafwendbaar in Jamaica, nu orkaan Melissa op drie manieren kan toeslaan: met stormvloed, immense regenval en verwoestende wind. Op Haïti en de Dominicaanse Republiek vielen al vier doden."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "historische",
-        "definition": "betrekking hebbend op of behorend tot de geschiedenis",
-        "sentence": "Deze overeenkomst markeert een ___ mijlpaal in de betrekkingen.",
-        "answer": "historische"
+        "word": "immense",
+        "definition": "Zeer groot of enorm in omvang of hoeveelheid.",
+        "sentence": "De storm bracht ___ hoeveelheden regen.",
+        "answer": "immense"
       },
       {
-        "word": "achterkamertjespolitiek",
-        "definition": "politieke besluitvorming die plaatsvindt in besloten kringen, zonder transparantie",
-        "sentence": "Critici noemden het beleid een vorm van ___.",
-        "answer": "achterkamertjespolitiek"
+        "word": "regenval",
+        "definition": "De hoeveelheid neerslag die in een bepaalde periode valt.",
+        "sentence": "De hevige ___ zorgde voor overstromingen in de stad.",
+        "answer": "regenval"
       },
       {
-        "word": "terugtrekken",
-        "definition": "zich terugtrekken of teruggaan naar een eerdere positie",
-        "sentence": "De troepen zullen zich ___ uit de betwiste regio.",
-        "answer": "terugtrekken"
+        "word": "verwoestende",
+        "definition": "Iets dat grote schade of vernieling veroorzaakt.",
+        "sentence": "De orkaan had een ___ effect op de kuststad.",
+        "answer": "verwoestende"
       },
       {
-        "word": "akkoord",
-        "definition": "overeenkomst tussen partijen, vaak na onderhandelingen",
-        "sentence": "Het vredes___ werd ondertekend na maanden van onderhandelingen.",
-        "answer": "akkoord"
+        "word": "doden",
+        "definition": "Mensen die zijn overleden, meestal als gevolg van een incident.",
+        "sentence": "Er vielen verschillende ___ na de aardbeving.",
+        "answer": "doden"
       },
       {
-        "word": "akkoord",
-        "definition": "overeenkomst tussen partijen over bepaalde kwesties",
-        "sentence": "Het politieke ___ werd unaniem goedgekeurd.",
-        "answer": "akkoord"
+        "word": "orkaan",
+        "definition": "Een zeer zware storm met extreme windsnelheden, vaak voorkomend in tropische gebieden.",
+        "sentence": "De orkaan veroorzaakte veel schade aan de kust.",
+        "answer": "orkaan"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het vredes___ werd ondertekend na maanden van onderhandelingen.",
-        "answer": "akkoord"
+        "sentence": "De orkaan had een ___ effect op de kuststad.",
+        "answer": "verwoestende"
       },
       {
-        "sentence": "Het politieke ___ werd unaniem goedgekeurd.",
-        "answer": "akkoord"
+        "sentence": "Er vielen verschillende ___ na de aardbeving.",
+        "answer": "doden"
       },
       {
-        "sentence": "Deze overeenkomst markeert een ___ mijlpaal in de betrekkingen.",
-        "answer": "historische"
+        "sentence": "De storm bracht ___ hoeveelheden regen.",
+        "answer": "immense"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'terugtrekken' in deze context?",
+      "question": "Wat is de belangrijkste dreiging van orkaan Melissa voor Jamaica?",
       "options": [
-        "vooruitgaan",
-        "terugkeren",
-        "evacueren",
-        "zich terugtrekken"
-      ],
-      "correctAnswer": 4
-    },
-    {
-      "question": "Welk woord beschrijft het tegenovergestelde van openlijke diplomatie?",
-      "options": [
-        "transparantie",
-        "onderhandeling",
-        "achterkamertjespolitiek",
-        "internationale samenwerking"
+        "Aardverschuivingen",
+        "Tsunami's",
+        "Stormvloed en overstromingen",
+        "Extreme hittegolven"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat kenmerkt een 'historische' gebeurtenis?",
+      "question": "Hoeveel doden vielen er reeds in Haïti en de Dominicaanse Republiek als gevolg van orkaan Melissa?",
       "options": [
-        "Het is onbeduidend en snel vergeten.",
-        "Het heeft grote gevolgen voor de toekomst.",
-        "Het is een alledaagse gebeurtenis.",
-        "Het is alleen lokaal belangrijk."
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "Wat is een van de manieren waarop orkaan Melissa toeslaat volgens de samenvatting?",
+      "options": [
+        "Door extreme droogte",
+        "Met zware stormvloed",
+        "Met tornado's",
+        "Door aardbevingen te triggeren"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De PKK-strijders keren terug naar Turkije na de onderhandelingen.",
+      "statement": "Orkaan Melissa is de eerste orkaan van het jaar die Jamaica treft.",
       "isTrue": false
     },
     {
-      "statement": "Het akkoord is het resultaat van achterkamertjespolitiek, wat betekent dat het niet transparant is.",
+      "statement": "De storm heeft al doden veroorzaakt in buurlanden.",
       "isTrue": true
     },
     {
-      "statement": "De onderhandelingen vonden plaats zonder internationale bemiddeling.",
-      "isTrue": true
+      "statement": "Orkanen kunnen alleen toeslaan met extreme windsnelheden.",
+      "isTrue": false
     }
   ]
 }

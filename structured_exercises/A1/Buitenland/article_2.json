@@ -1,105 +1,99 @@
 {
-  "id": 10,
+  "id": 11,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
+  "title": "Fraude met EU-steun",
   "topicNumber": 1,
   "article": {
-    "title": "Amerikaanse drones controleren staakt-het-vuren in Gaza",
-    "summary": "Na twee jaar oorlog in Gaza lijkt er eindelijk een doorbraak te zijn in de onderhandelingen over vrede. Volg hier de laatste ontwikkelingen."
+    "title": "Fraude met EU-steun",
+    "summary": "Sommige mensen in Griekenland kregen geld van de EU, maar ze logen over hoeveel dieren ze hadden."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "controleren",
-        "definition": "kijken of iets goed gaat",
-        "sentence": "Zij ___ het staakt-het-vuren.",
-        "answer": "controleren"
+        "word": "mensen",
+        "definition": "personen, meervoud van mens",
+        "sentence": "Deze ___ werken samen.",
+        "answer": "mensen"
       },
       {
-        "word": "onderhandelingen",
-        "definition": "gesprekken om tot een oplossing te komen",
-        "sentence": "De ___ zijn belangrijk voor vrede.",
-        "answer": "onderhandelingen"
+        "word": "dieren",
+        "definition": "dieren, zoals een hond of kat",
+        "sentence": "Ze hebben veel ___ op hun boerderij.",
+        "answer": "dieren"
       },
       {
-        "word": "staakt-het-vuren",
-        "definition": "stoppen met schieten",
-        "sentence": "Het ___ is belangrijk voor vrede.",
-        "answer": "staakt-het-vuren"
+        "word": "geld",
+        "definition": "wat je gebruikt om iets te kopen",
+        "sentence": "Ze kregen veel ___ van de EU.",
+        "answer": "geld"
       },
       {
-        "word": "Amerikaanse",
-        "definition": "komt uit Amerika",
-        "sentence": "De ___ drone vliegt in de lucht.",
-        "answer": "Amerikaanse"
-      },
-      {
-        "word": "drones",
-        "definition": "vliegende machines zonder piloot",
-        "sentence": "De ___ zijn in de lucht.",
-        "answer": "drones"
+        "word": "logen",
+        "definition": "niet de waarheid zeggen",
+        "sentence": "Ze ___ over het aantal dieren.",
+        "answer": "logen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ is belangrijk voor vrede.",
-        "answer": "staakt-het-vuren"
+        "sentence": "Deze ___ werken samen.",
+        "answer": "mensen"
       },
       {
-        "sentence": "De ___ zijn in de lucht.",
-        "answer": "drones"
+        "sentence": "Ze hebben veel ___ op hun boerderij.",
+        "answer": "dieren"
       },
       {
-        "sentence": "De ___ zijn belangrijk voor vrede.",
-        "answer": "onderhandelingen"
+        "sentence": "Ze kregen veel ___ van de EU.",
+        "answer": "geld"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat controleren de drones?",
+      "question": "Waar ging de fraude over?",
       "options": [
-        "het weer",
-        "de vrede",
-        "het staakt-het-vuren",
-        "de oorlog"
+        "over reizen",
+        "over eten",
+        "over dieren",
+        "over muziek"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Waar vindt het staakt-het-vuren plaats?",
+      "question": "Wat deden de mensen in Griekenland?",
       "options": [
-        "in Gaza",
-        "in Amerika",
-        "in de lucht",
-        "in een gebouw"
+        "Ze logen over het aantal dieren",
+        "Ze kochten nieuwe dieren",
+        "Ze verkochten hun dieren",
+        "Ze gingen op vakantie"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is het resultaat van de onderhandelingen?",
+      "question": "Wat is de EU?",
       "options": [
-        "meer oorlog",
-        "een doorbraak",
-        "een drone",
-        "geen resultaat"
+        "Een land",
+        "Een groep van landen",
+        "Een dier",
+        "Een stad"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Drones controleren het staakt-het-vuren in Gaza.",
+      "statement": "De mensen in Griekenland hadden te veel dieren.",
       "isTrue": true
     },
     {
-      "statement": "De onderhandelingen zijn in Amerika.",
+      "statement": "De EU gaf de mensen geen geld.",
       "isTrue": false
     },
     {
-      "statement": "Er is een doorbraak in de onderhandelingen over vrede.",
+      "statement": "De mensen logen over hoeveel dieren ze hadden.",
       "isTrue": true
     }
   ]

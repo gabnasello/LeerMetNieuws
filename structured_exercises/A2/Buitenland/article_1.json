@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Amerikaanse shutdown: wat zijn de gevolgen?",
+  "title": "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
   "topicNumber": 1,
   "article": {
-    "title": "Amerikaanse shutdown: wat zijn de gevolgen?",
-    "summary": "Na een maand begint de shutdown Amerikaanse burgers hard te raken. Niet alleen onbetaalde ambtenaren, maar ook anderen zoals steuntrekkers worden geraakt. Echter, sommige groepen zoals immigratie-agenten worden wel doorbetaald."
+    "title": "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
+    "summary": "Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "agenten",
-        "definition": "mensen die werken voor veiligheid of handhaving",
-        "sentence": "De ___ houden zich bezig met immigratiecontroles.",
-        "answer": "agenten"
+        "word": "megadam",
+        "definition": "een heel grote dam",
+        "sentence": "De ___ is van steen en beton.",
+        "answer": "megadam"
       },
       {
-        "word": "steuntrekkers",
-        "definition": "mensen die geld krijgen van de overheid voor levensonderhoud",
-        "sentence": "Ook ___ hebben last van de shutdown.",
-        "answer": "steuntrekkers"
+        "word": "water",
+        "definition": "vloeistof zonder kleur en geur, om te drinken of te gebruiken",
+        "sentence": "Schoon ___ is belangrijk voor gezondheid.",
+        "answer": "water"
       },
       {
-        "word": "shutdown",
-        "definition": "een situatie waarin de overheid tijdelijk stopt met werken",
-        "sentence": "De ___ duurt al heel lang.",
-        "answer": "shutdown"
+        "word": "drinkbaar",
+        "definition": "geschikt om te drinken",
+        "sentence": "Het water is niet ___.",
+        "answer": "drinkbaar"
       },
       {
-        "word": "immigratie",
-        "definition": "het komen naar een nieuw land om daar te wonen",
-        "sentence": "___ is een belangrijk onderwerp in de politiek.",
-        "answer": "immigratie"
+        "word": "bedrijven",
+        "definition": "organisaties die producten of diensten verkopen",
+        "sentence": "Sommige ___ zijn heel groot en hebben veel werknemers.",
+        "answer": "bedrijven"
       },
       {
-        "word": "gevolgen",
-        "definition": "de resultaten of effecten van iets",
-        "sentence": "Wat zijn de ___ van de shutdown?",
-        "answer": "gevolgen"
+        "word": "bitcoinboys",
+        "definition": "mensen die veel met bitcoin bezig zijn",
+        "sentence": "De ___ zijn vooral mannen.",
+        "answer": "bitcoinboys"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is een belangrijk onderwerp in de politiek.",
-        "answer": "immigratie"
+        "sentence": "De ___ is van steen en beton.",
+        "answer": "megadam"
       },
       {
-        "sentence": "Wat zijn de ___ van de shutdown?",
-        "answer": "gevolgen"
+        "sentence": "Het water is niet ___.",
+        "answer": "drinkbaar"
       },
       {
-        "sentence": "De ___ duurt al heel lang.",
-        "answer": "shutdown"
+        "sentence": "Sommige ___ zijn heel groot en hebben veel werknemers.",
+        "answer": "bedrijven"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wie worden het meest geraakt door de shutdown?",
+      "question": "Wat is een megadam?",
       "options": [
-        "Alleen ambtenaren",
-        "Alleen mensen die steun krijgen",
-        "Alleen immigratie-agenten",
-        "Zowel ambtenaren als anderen"
-      ],
-      "correctAnswer": 4
-    },
-    {
-      "question": "Wat is een gevolg van de shutdown?",
-      "options": [
-        "Ambtenaren krijgen direct geen salaris meer",
-        "Steuntrekkers krijgen geen geld meer",
-        "Immigratie-agenten worden ontslagen",
-        "De overheid stopt helemaal met werken"
+        "Een klein stuwmeer",
+        "Een enorme dam",
+        "Een soort computer",
+        "Een Ethiopisch gerecht"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom worden sommige groepen wel doorbetaald?",
+      "question": "Waarom komen bitcoinbedrijven naar Ethiopië?",
       "options": [
-        "Omdat ze niet belangrijk zijn",
-        "Omdat hun werk essentieel is voor de samenleving",
-        "Omdat de overheid hen vergeet",
-        "Omdat ze niet voor de overheid werken"
+        "Om de natuur te beschermen",
+        "Omdat de energie daar heel goedkoop is",
+        "Omdat ze daar vrienden hebben",
+        "Omdat Ethiopië zo mooi is"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is een probleem voor de lokale bevolking?",
+      "options": [
+        "Ze hebben te veel stroom",
+        "Ze hebben geen stroom en geen drinkwater",
+        "Ze krijgen te veel geld van de bedrijven",
+        "Ze hebben te veel werk"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De shutdown duurt nu een maand.",
-      "isTrue": true
-    },
-    {
-      "statement": "Steuntrekkers worden niet geraakt door de shutdown.",
+      "statement": "De bitcoinbedrijven helpen de lokale bevolking.",
       "isTrue": false
     },
     {
-      "statement": "Immigratie-agenten worden wel doorbetaald tijdens de shutdown.",
+      "statement": "Ethiopië is een land in Afrika.",
       "isTrue": true
+    },
+    {
+      "statement": "De megadam geeft stroom aan alle Ethiopiërs.",
+      "isTrue": false
     }
   ]
 }

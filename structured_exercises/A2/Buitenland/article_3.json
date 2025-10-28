@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "PKK strijders verlaten Turkije",
+  "title": "Orkaan Melissa treft Jamaica",
   "topicNumber": 1,
   "article": {
-    "title": "PKK strijkers verlaten Turkije",
-    "summary": "Turkije en de PKK, een Koerdische groep, hebben een akkoord. PKK-strijders zullen zich terugtrekken uit Turkije. Dit akkoord is het resultaat van onderhandelingen, maar de details zijn onduidelijk."
+    "title": "Orkaan Melissa treft Jamaica",
+    "summary": "Orkaan Melissa brengt veel schade in Jamaica. Er is veel regen en harde wind. Er zijn ook overstromingen. Er zijn al vier doden in buurlanden."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Turkije",
-        "definition": "Een land.",
-        "sentence": "___ ligt gedeeltelijk in Europa en Azië.",
-        "answer": "Turkije"
+        "word": "doden",
+        "definition": "mensen die zijn overleden",
+        "sentence": "Helaas waren er meerdere doden door de orkaan.",
+        "answer": "doden"
       },
       {
-        "word": "strijders",
-        "definition": "Mensen die vechten, vaak in een oorlog.",
-        "sentence": "De ___ vechten voor hun land of idealen.",
-        "answer": "strijders"
+        "word": "schade",
+        "definition": "wat kapot of beschadigd is",
+        "sentence": "De storm veroorzaakte veel schade aan huizen en straten.",
+        "answer": "schade"
       },
       {
-        "word": "onderhandelingen",
-        "definition": "Gesprekken om tot een besluit te komen.",
-        "sentence": "De ___ duurden vele uren.",
-        "answer": "onderhandelingen"
+        "word": "buurland",
+        "definition": "een land dat naast een ander land ligt",
+        "sentence": "Haïti is een buurland van de Dominicaanse Republiek.",
+        "answer": "buurland"
       },
       {
-        "word": "PKK",
-        "definition": "Een politieke of militaire groep.",
-        "sentence": "De ___ vecht voor rechten van Koerden.",
-        "answer": "PKK"
+        "word": "land",
+        "definition": "een gebied met eigen regering, zoals Nederland of België",
+        "sentence": "Jamaica is een eiland, maar het is ook een land.",
+        "answer": "land"
       },
       {
-        "word": "akkoord",
-        "definition": "Een overeenkomst tussen partijen.",
-        "sentence": "Ze hebben een ___ ondertekend om samen te werken.",
-        "answer": "akkoord"
+        "word": "orkaan",
+        "definition": "een hele zware storm met veel wind en regen",
+        "sentence": "Een orkaan kan veel schade veroorzaken.",
+        "answer": "orkaan"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ duurden vele uren.",
-        "answer": "onderhandelingen"
+        "sentence": "De storm veroorzaakte veel schade aan huizen en straten.",
+        "answer": "schade"
       },
       {
-        "sentence": "De ___ vecht voor rechten van Koerden.",
-        "answer": "PKK"
+        "sentence": "Een orkaan kan veel schade veroorzaken.",
+        "answer": "orkaan"
       },
       {
-        "sentence": "Ze hebben een ___ ondertekend om samen te werken.",
-        "answer": "akkoord"
+        "sentence": "Helaas waren er meerdere doden door de orkaan.",
+        "answer": "doden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'strijders' in deze context?",
+      "question": "Wat is orkaan Melissa?",
       "options": [
-        "Een soort sporters",
-        "Mensen die vechten in een conflict",
-        "Een type politicus",
-        "Iemand die ergens tegen is"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is de hoofdboodschap van de tekst?",
-      "options": [
-        "Turkije valt een ander land aan",
-        "PKK-strijders verlaten Turkije volledig",
-        "Er wordt een nieuwe sport uitgevonden",
-        "Koffie wordt de nationale drank"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een gevolg van dit akkoord?",
-      "options": [
-        "Turkije wordt opgedeeld",
-        "De PKK regeert over heel Turkije",
-        "PKK-strijders zijn niet langer in Turkije",
-        "Koffie wordt illegaal in Turkije"
+        "Een soort dier",
+        "Een type auto",
+        "Een zware storm",
+        "Een feestdag"
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "Waar heeft orkaan Melissa veel effect gehad?",
+      "options": [
+        "Alleen in Jamaica",
+        "Alleen in de Verenigde Staten",
+        "In Jamaica en buurlanden",
+        "Alleen in Europa"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is een gevolg van de orkaan?",
+      "options": [
+        "Mensen verhuizen naar de maan",
+        "Er is veel schade en er zijn doden",
+        "De orkaan brengt alleen regen",
+        "De orkaan zorgt voor feest"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Turkije en de PKK hebben een akkoord ondertekend.",
-      "isTrue": true
-    },
-    {
-      "statement": "De PKK-strijders blijven in Turkije na het akkoord.",
+      "statement": "Orkaan Melissa veroorzaakt alleen regen.",
       "isTrue": false
     },
     {
-      "statement": "Het akkoord is het resultaat van onderhandelingen.",
+      "statement": "Er zijn meerdere doden gevallen door de orkaan.",
       "isTrue": true
+    },
+    {
+      "statement": "Orkaan Melissa is een feestelijke gebeurtenis in Jamaica.",
+      "isTrue": false
     }
   ]
 }

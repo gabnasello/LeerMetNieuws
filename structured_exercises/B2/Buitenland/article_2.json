@@ -1,106 +1,106 @@
 {
-  "id": 13,
+  "id": 14,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
+  "title": "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
   "topicNumber": 1,
   "article": {
-    "title": "Komt Trump tijdens rondreis in Azië tot toenadering met Xi?",
-    "summary": "Volgens toponderhandelaars van China en de VS zijn de “grote lijnen” van een akkoord beklonken. Haalt de dealmaker-in-chief tijdens zijn rondreis in Azië een handelsdeal met China binnen?"
+    "title": "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
+    "summary": "Een criminele groep in Griekenland heeft op fraudeleuze wijze bijna 20 miljoen euro aan EU-subsidies ontvangen. De verdachten logen over het aantal dieren in hun aanvraag."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Xi",
-        "definition": "De achternaam van de Chinese leider Xi Jinping, vaak aangeduid als President Xi.",
-        "sentence": "___ is de leider van China.",
-        "answer": "Xi"
+        "word": "ontvangen",
+        "definition": "krijgen, in bezit nemen",
+        "sentence": "Ze hebben de subsidie ___, maar dat was niet correct.",
+        "answer": "ontvangen"
       },
       {
-        "word": "tot",
-        "definition": "Tot' kan 'until' of 'to' betekenen, afhankelijk van de context.",
-        "sentence": "Hij werkte ___ hij moest stoppen.",
-        "answer": "tot"
+        "word": "verdachten",
+        "definition": "mensen waarvan wordt gedacht dat ze iets fouts hebben gedaan",
+        "sentence": "De ___ moeten voor de rechter verschijnen.",
+        "answer": "verdachten"
       },
       {
-        "word": "Azië",
-        "definition": "Het werelddeel ten oosten van Europa, met landen als China en India.",
-        "sentence": "Hij reisde door ___ voor zijn werk.",
-        "answer": "Azië"
+        "word": "Griekenland",
+        "definition": "een land in Europa",
+        "sentence": "___ is een land met veel eilanden.",
+        "answer": "Griekenland"
       },
       {
-        "word": "Komt",
-        "definition": "Derde persoon enkelvoud van 'komen', wat betekent 'to come' in het Engels.",
-        "sentence": "Hij ___ morgen naar het feest.",
-        "answer": "komt"
+        "word": "subsidies",
+        "definition": "financiële steun van de overheid",
+        "sentence": "De EU geeft ___ aan landbouwers voor bepaalde projecten.",
+        "answer": "subsidies"
       },
       {
-        "word": "toenadering",
-        "definition": "Het naderbij komen, oftewel het dichter bij elkaar komen, vaak in relaties of politiek.",
-        "sentence": "De ___ tussen de twee landen verraste velen.",
-        "answer": "toenadering"
+        "word": "aanvraag",
+        "definition": "een verzoek om iets, vaak schriftelijk",
+        "sentence": "Hun ___ voor subsidie werd goedgekeurd.",
+        "answer": "aanvraag"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ tussen de twee landen verraste velen.",
-        "answer": "toenadering"
+        "sentence": "De EU geeft ___ aan landbouwers voor bepaalde projecten.",
+        "answer": "subsidies"
       },
       {
-        "sentence": "Hij werkte ___ hij moest stoppen.",
-        "answer": "tot"
+        "sentence": "De ___ moeten voor de rechter verschijnen.",
+        "answer": "verdachten"
       },
       {
-        "sentence": "Hij ___ morgen naar het feest.",
-        "answer": "komt"
+        "sentence": "Hun ___ voor subsidie werd goedgekeurd.",
+        "answer": "aanvraag"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar vond de rondreis van Trump plaats?",
+      "question": "Wat was het hoofddoel van de groep in Griekenland?",
       "options": [
-        "Europa",
-        "Azië",
-        "Afrika",
-        "Zuid-Amerika"
+        "Het opzetten van een legale boerderij",
+        "Het krijgen van EU-subsidies door fraude",
+        "Het verminderen van het aantal schapen in Griekenland",
+        "Het openbaar maken van fraude door de overheid"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een mogelijke uitkomst van Trumps bezoek aan China?",
+      "question": "Hoe probeerde de groep de subsidie te ontvangen?",
       "options": [
-        "Een oorlog",
-        "Een handelsdeal",
-        "Een sportevenement",
-        "Een cultureel festival"
+        "Door een eerlijke aanvraag in te dienen",
+        "Door het aantal dieren te verhogen en te liegen",
+        "Door de subsidie te weigeren na ontvangst",
+        "Door meer dieren te kopen met eigen geld"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wie is Xi in deze context?",
+      "question": "Wat is de rol van de Europese Unie in deze situatie?",
       "options": [
-        "De leider van Rusland",
-        "De leider van China",
-        "De leider van India",
-        "De leider van Japan"
+        "Het negeren van fraude door boeren",
+        "Het aanbieden van subsidies zonder voorwaarden",
+        "Het controleren en straffen van fraude",
+        "Het sluiten van de organisatie die subsidies beheert"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Trump maakt een reis door Azië.",
-      "isTrue": true
-    },
-    {
-      "statement": "Xi is de leider van Rusland.",
+      "statement": "De groep in Griekenland heeft de subsidie op een eerlijke manier verdiend.",
       "isTrue": false
     },
     {
-      "statement": "Trump en Xi proberen tot een overeenkomst te komen.",
+      "statement": "De Europese Unie biedt subsidies aan voor verschillende doelen, maar er zijn regels.",
       "isTrue": true
+    },
+    {
+      "statement": "Alle dieren in Griekenland zijn betrokken bij de fraude.",
+      "isTrue": false
     }
   ]
 }

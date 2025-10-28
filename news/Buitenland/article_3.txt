@@ -1,15 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-10-27 00:07 UCT
+Nieuwsupdate: 2025-10-28 04:28 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Koerdische PKK haalt alle strijders weg uit Turkije
-Link: https://www.standaard.be/buitenland/koerdische-pkk-haalt-alle-strijders-weg-uit-turkije/100205333.html
-Datum: Sun, 26 Oct 2025 22:59:00 GMT
-Samenvatting: Turkije en de Koerdische separatisten van de PKK zetten een historische nieuwe stap in hun onderhandelingen. De PKK-strijders zullen zich terugtrekken uit Turkije. Maar het akkoord blijft het resultaat van achterkamertjespolitiek.
+Titel: Jamaica maakt zich op voor Melissa, de zwaarste orkaan van het jaar
+Link: https://www.standaard.be/buitenland/jamaica-maakt-zich-op-voor-melissa-de-zwaarste-orkaan-van-het-jaar/100347163.html
+Datum: Mon, 27 Oct 2025 20:42:32 GMT
+Samenvatting: Een ramp lijkt onafwendbaar in Jamaica, nu orkaan Melissa op drie manieren kan toeslaan: met stormvloed, immense regenval en verwoestende wind. Op Haïti en de Dominicaanse Republiek vielen al vier doden.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/jpmvg9-afp-822k4tn.jpg/alternates/BASE_SIXTEEN_NINE/AFP_822K4TN.jpg
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/fw71h3-573.jpeg/alternates/BASE_SIXTEEN_NINE/573.jpeg
+Premium: false
 ------------------------------------------------------------

@@ -3,104 +3,98 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Koerdische PKK haalt strijders weg uit Turkije",
+  "title": "Jamaica maakt zich op voor orkaan Melissa",
   "topicNumber": 1,
   "article": {
-    "title": "Koerdische PKK haalt strijders weg uit Turkije",
-    "summary": "Turkije en de Koerdische separatisten van de PKK zetten een historische nieuwe stap in hun onderhandelingen. De PKK-strijders zullen zich terugtrekken uit Turkije. Maar het akkoord blijft het resultaat van achterkamertjespolitiek."
+    "title": "Jamaica maakt zich op voor orkaan Melissa",
+    "summary": "Jamaana bereidt zich voor op de komst van orkaan Melissa, die de zwaarste storm van dit jaar kan worden. De orkaan kan toeslaan met stormvloed, zware regen en zeer harde wind. Alleen al op Haïti en de Dominicaanse Republiek vielen vier doden door de storm."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "achterkamertjespolitiek",
-        "definition": "politiek die in het geheim plaatsvindt, zonder openheid",
-        "sentence": "De beslissing werd genomen door middel van ___.",
-        "answer": "achterkamertjespolitiek"
+        "word": "orkaan",
+        "definition": "een zeer zware storm met veel wind en regen",
+        "sentence": "De orkaan veroorzaakte veel schade aan gebouwen en bomen.",
+        "answer": "orkaan"
       },
       {
-        "word": "akkoord",
-        "definition": "overeenkomst tussen partijen",
-        "sentence": "Het politieke ___ werd gisteren ondertekend.",
-        "answer": "akkoord"
+        "word": "stormvloed",
+        "definition": "een snel stijgende watermassa, vaak door een storm",
+        "sentence": "De stormvloed overspoelde de straten en huizen langs de kust.",
+        "answer": "stormvloed"
       },
       {
-        "word": "terugtrekken",
-        "definition": "ergens weg gaan, zich terugtrekken",
-        "sentence": "Soldaten moeten zich ___ uit gevaarlijke gebieden.",
-        "answer": "terugtrekken"
+        "word": "wind",
+        "definition": "bewegende lucht, vaak sterk tijdens een storm",
+        "sentence": "De harde wind blies dakpannen van de huizen en braakt takken af.",
+        "answer": "wind"
       },
       {
-        "word": "akkoord",
-        "definition": "overeenkomst tussen partijen",
-        "sentence": "Beide partijen hebben het ___ ondertekend.",
-        "answer": "akkoord"
-      },
-      {
-        "word": "strijders",
-        "definition": "mensen die vechten in een oorlog of conflict",
-        "sentence": "De ___ verdedigen hun land.",
-        "answer": "strijders"
+        "word": "doden",
+        "definition": "mensen die zijn overleden",
+        "sentence": "Helaas vielen er door de orkaan enkele doden in het gebied.",
+        "answer": "doden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het politieke ___ werd gisteren ondertekend.",
-        "answer": "akkoord"
+        "sentence": "De harde wind blies dakpannen van de huizen en braakt takken af.",
+        "answer": "wind"
       },
       {
-        "sentence": "De ___ verdedigen hun land.",
-        "answer": "strijders"
+        "sentence": "De orkaan veroorzaakte veel schade aan gebouwen en bomen.",
+        "answer": "orkaan"
       },
       {
-        "sentence": "Soldaten moeten zich ___ uit gevaarlijke gebieden.",
-        "answer": "terugtrekken"
+        "sentence": "De stormvloed overspoelde de straten en huizen langs de kust.",
+        "answer": "stormvloed"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het als strijders zich terugtrekken?",
+      "question": "Wat is de belangrijkste reden dat Jamaica zich voorbereidt op orkaan Melissa?",
       "options": [
-        "Ze geven zich over",
-        "Ze verlaten het gebied",
-        "Ze vieren feest",
-        "Ze winnen de oorlog"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een kenmerk van achterkamertjespolitiek?",
-      "options": [
-        "Het is volledig transparant",
-        "Het gebeurt openbaar",
-        "Het is geheim en niet openbaar",
-        "Het heeft geen effect"
+        "Vanwege zware regenval",
+        "Omdat het een traditie is",
+        "Omdat de orkaan verwoestend kan zijn",
+        "Omdat er al doden zijn gevallen"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is het resultaat van onderhandelingen?",
+      "question": "Welk effect kan orkaan Melissa hebben op Jamaica?",
       "options": [
-        "Een oorlog",
-        "Een nieuwe wet",
-        "Een overeenkomst",
-        "Een schending van rechten"
+        "Alleen lichte regen",
+        "Geen effect, het is ver weg",
+        "Stormvloed en veel schade",
+        "Alleen harde wind, zonder problemen"
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "Wat is een gevolg van orkaan Melissa in Haïti en de Dominicaanse Republiek?",
+      "options": [
+        "Vier doden zijn al gevallen",
+        "Er is geen effect, de orkaan is er niet",
+        "Alleen lichte regen, geen probleem",
+        "De orkaan is daar nog niet aangekomen"
+      ],
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De PKK-strijders blijven in Turkije.",
+      "statement": "Orkaan Melissa is de eerste storm van het jaar in Jamaica.",
       "isTrue": false
     },
     {
-      "statement": "Het akkoord is het resultaat van openbare onderhandelingen.",
-      "isTrue": false
-    },
-    {
-      "statement": "Turkije en de PKK hebben een nieuwe stap gezet in onderhandelingen.",
+      "statement": "Stormvloed is een van de manieren waarop de orkaan toeslaat.",
       "isTrue": true
+    },
+    {
+      "statement": "Er zijn nog geen doden gevallen door orkaan Melissa.",
+      "isTrue": false
     }
   ]
 }

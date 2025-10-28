@@ -1,106 +1,106 @@
 {
-  "id": 24,
+  "id": 26,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
+  "title": "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
   "topicNumber": 1,
   "article": {
-    "title": "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
-    "summary": "Meer agenten klussen bij, en dat leidt soms tot misstanden. Minister van Binnenlandse Zaken Bernard Quintin (MR) wil de regels aanscherpen."
+    "title": "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
+    "summary": "AI-modellen zoals ChatGPT maken onze taal vlakker, stelt computerlinguïst Tim Van de Cruys vast. Tegelijk wordt ons eigen taalgevoel misschien nog belangrijker door AI. 'Hoe beter je de taal al beheerst, hoe beter een AI-model voor jou zal werken.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "aanscherpen",
-        "definition": "strenger maken, zoals van regels",
-        "sentence": "De minister wil de regels ___ om problemen te voorkomen.",
-        "answer": "aanscherpen"
+        "word": "computer",
+        "definition": "een apparaat waarmee je kunt internetten en werken",
+        "sentence": "Ik gebruik mijn ___ om te werken.",
+        "answer": "computer"
       },
       {
-        "word": "minister",
-        "definition": "een belangrijk persoon in de regering",
-        "sentence": "De ___ van Binnenlandse Zaken maakt nieuwe plannen.",
-        "answer": "minister"
+        "word": "taal",
+        "definition": "de manier waarop mensen met elkaar praten",
+        "sentence": "Welke ___ spreek jij het best?",
+        "answer": "taal"
       },
       {
-        "word": "agenten",
-        "definition": "mensen die werken bij de politie",
-        "sentence": "De ___ houden de wijk veilig.",
-        "answer": "agenten"
+        "word": "taalgevoel",
+        "definition": "het natuurlijke gevoel voor wat goed of fout is in een taal",
+        "sentence": "Zijn ___ is heel goed, hij maakt nooit fouten.",
+        "answer": "taalgevoel"
       },
       {
-        "word": "klussen",
-        "definition": "extra werk doen, vaak naast een andere baan",
-        "sentence": "Hij wil graag ___ om meer geld te verdienen.",
-        "answer": "klussen"
+        "word": "taal",
+        "definition": "de manier waarop mensen met elkaar praten",
+        "sentence": "In welk land wordt deze ___ gesproken?",
+        "answer": "taal"
       },
       {
-        "word": "politiemensen",
-        "definition": "mannen en vrouwen die bij de politie werken",
-        "sentence": "De ___ hebben een moeilijke taak.",
-        "answer": "politiemensen"
+        "word": "modellen",
+        "definition": "versies of soorten van iets, bijvoorbeeld van een computerprogramma",
+        "sentence": "De nieuwe ___ van de auto zijn erg populair.",
+        "answer": "modellen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ van Binnenlandse Zaken maakt nieuwe plannen.",
-        "answer": "minister"
+        "sentence": "Welke ___ spreek jij het best?",
+        "answer": "taal"
       },
       {
-        "sentence": "Hij wil graag ___ om meer geld te verdienen.",
-        "answer": "klussen"
+        "sentence": "Zijn ___ is heel goed, hij maakt nooit fouten.",
+        "answer": "taalgevoel"
       },
       {
-        "sentence": "De ___ hebben een moeilijke taak.",
-        "answer": "politiemensen"
+        "sentence": "De nieuwe ___ van de auto zijn erg populair.",
+        "answer": "modellen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom wil de minister de regels aanscherpen?",
+      "question": "Wat betekent 'taalgevoel'?",
       "options": [
-        "Omdat er te weinig agenten zijn",
-        "Omdat er veel misstanden zijn door het bijklussen",
-        "Omdat de agenten geen andere hobby's hebben",
-        "Omdat de minister zelf ook bijklust"
+        "een soort gevoel",
+        "een soort taal",
+        "een soort computer",
+        "een soort kunst"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is een computer?",
+      "options": [
+        "een dier",
+        "een machine",
+        "een gebouw",
+        "een land"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is 'bijklussen'?",
+      "question": "Wat is een model?",
       "options": [
-        "Werken als een klusser voor huishoudens",
-        "Werken bij de politie",
-        "Werken naast je gewone baan",
-        "Werken als een spion"
+        "een persoon",
+        "een auto",
+        "een soort van iets",
+        "een stad"
       ],
       "correctAnswer": 3
-    },
-    {
-      "question": "Waar gaat dit artikel over?",
-      "options": [
-        "Alleen over de agenten die bijklussen",
-        "Alleen over de minister die nieuwe regels maakt",
-        "Over hoe agenten vechten tijdens hun werk",
-        "Over de nieuwe regels en waarom ze nodig zijn"
-      ],
-      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "Alle agenten mogen niet meer bijklussen.",
-      "isTrue": false
-    },
-    {
-      "statement": "De minister wil de regels aanscherpen om problemen te voorkomen.",
+      "statement": "AI maakt taal eenvoudiger.",
       "isTrue": true
     },
     {
-      "statement": "Alleen agenten mogen bijklussen, andere mensen niet.",
+      "statement": "Taal is alleen voor ouderen.",
       "isTrue": false
+    },
+    {
+      "statement": "Een computer kan helpen met taal leren.",
+      "isTrue": true
     }
   ]
 }
