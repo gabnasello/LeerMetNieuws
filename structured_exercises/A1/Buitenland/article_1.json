@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Bitcoinbedrijven in Ethiopië",
+  "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
   "topicNumber": 1,
   "article": {
-    "title": "Bitcoinbedrijven in Ethiopië",
-    "summary": "Bitcoinbedrijven gebruiken stroom in Ethiopië. De mensen daar hebben weinig stroom. Bitcoinbedrijven krijgen goedkope stroom. De gewone mensen hebben problemen."
+    "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
+    "summary": "Er zijn nieuwe luchtaanvallen in Gaza. Er zijn 26 doden. Dit is het laatste nieuws."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "stroom",
-        "definition": "elektriciteit, energie",
-        "sentence": "Zonder ___ kun je geen lamp gebruiken.",
-        "answer": "stroom"
+        "word": "Er",
+        "definition": "een woord dat vaak aan het begin van een zin staat om iets aan te duiden",
+        "sentence": "___ zijn 26 doden.",
+        "answer": "Er"
       },
       {
-        "word": "bitcoin",
-        "definition": "een soort digitaal geld",
-        "sentence": "Mensen gebruiken ___ om te betalen.",
-        "answer": "bitcoin"
+        "word": "na",
+        "definition": "na een bepaalde tijd of gebeurtenis",
+        "sentence": "De doden vielen ___ de luchtaanvallen.",
+        "answer": "na"
       },
       {
-        "word": "weinig",
-        "definition": "niet veel, een kleine hoeveelheid",
-        "sentence": "Er is ___ voedsel beschikbaar.",
-        "answer": "weinig"
+        "word": "26",
+        "definition": "het getal tussen 25 en 27",
+        "sentence": "Er zijn ___ doden gevallen.",
+        "answer": "26"
       },
       {
-        "word": "mensen",
-        "definition": "personen, individuen",
-        "sentence": "De ___ in deze stad hebben weinig water.",
-        "answer": "mensen"
+        "word": "doden",
+        "definition": "mensen die niet meer leven",
+        "sentence": "Er zijn 26 ___ na de aanvallen.",
+        "answer": "doden"
       },
       {
-        "word": "problemen",
-        "definition": "moeilijkheden, uitdagingen",
-        "sentence": "Zij hebben grote ___ met de stroom.",
-        "answer": "problemen"
+        "word": "Gaza",
+        "definition": "een plaats in het Midden-Oosten waar veel conflicten zijn",
+        "sentence": "In ___ zijn veel mensen gewond geraakt.",
+        "answer": "Gaza"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Mensen gebruiken ___ om te betalen.",
-        "answer": "bitcoin"
+        "sentence": "Er zijn ___ doden gevallen.",
+        "answer": "26"
       },
       {
-        "sentence": "De ___ in deze stad hebben weinig water.",
-        "answer": "mensen"
+        "sentence": "___ zijn 26 doden.",
+        "answer": "Er"
       },
       {
-        "sentence": "Zij hebben grote ___ met de stroom.",
-        "answer": "problemen"
+        "sentence": "De doden vielen ___ de luchtaanvallen.",
+        "answer": "na"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat gebruiken de bitcoinbedrijven veel?",
+      "question": "Waar gebeurden de luchtaanvallen?",
       "options": [
-        "Water",
-        "Stroom",
-        "Eten",
-        "Geld"
+        "In Gaza",
+        "In Nederland",
+        "In de supermarkt",
+        "Op school"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat hebben de Ethiopische mensen te weinig?",
+      "question": "Hoeveel doden zijn er gemeld?",
       "options": [
-        "Bitcoin",
-        "Stroom",
-        "Tijd",
-        "Vrienden"
+        "26",
+        "10",
+        "50",
+        "100"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is een groot probleem voor de Ethiopische bevolking?",
+      "question": "Wanneer vonden de luchtaanvallen plaats?",
       "options": [
-        "Te veel bitcoinbedrijven",
-        "Te weinig water",
-        "Te veel voedsel",
-        "Te weinig elektriciteit"
+        "Gisteren",
+        "Morgen",
+        "Vorige week",
+        "Over een maand"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Bitcoinbedrijven gebruiken veel stroom in Ethiopië.",
+      "statement": "De luchtaanvallen vonden plaats in Gaza.",
       "isTrue": true
     },
     {
-      "statement": "Alle mensen in Ethiopië hebben genoeg water.",
+      "statement": "Er zijn 100 doden gemeld.",
       "isTrue": false
     },
     {
-      "statement": "De bitcoinbedrijven helpen de Ethiopische mensen.",
-      "isTrue": false
+      "statement": "De aanvallen gebeurden na een eerdere gebeurtenis.",
+      "isTrue": true
     }
   ]
 }

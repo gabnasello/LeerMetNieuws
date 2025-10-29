@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
+  "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
   "topicNumber": 1,
   "article": {
-    "title": "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bepopeling in het donker",
-    "summary": "Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven."
+    "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
+    "summary": "Volg hier de laatste ontwikkelingen in Gaza."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "bitcoinboys",
-        "definition": "Mensen die veel bezitten van de digitale munt Bitcoin",
-        "sentence": "De ___ waren erg rijk geworden.",
-        "answer": "bitcoinboys"
+        "word": "lucht",
+        "definition": "De lucht die we inademen.",
+        "sentence": "De ___ is fris na de regen.",
+        "answer": "lucht"
       },
       {
-        "word": "jobs",
-        "definition": "Werk, betaald werk dat je doet",
-        "sentence": "Hij heeft drie ___ tegelijk.",
-        "answer": "jobs"
+        "word": "na",
+        "definition": "Na een bepaalde tijd of gebeurtenis.",
+        "sentence": "We gaan eten ___ het werk.",
+        "answer": "na"
       },
       {
-        "word": "stroom",
-        "definition": "Elektriciteit die uit het stopcontact komt",
-        "sentence": "Zonder ___ kun je geen lamp aanzetten.",
-        "answer": "stroom"
+        "word": "doden",
+        "definition": "Mensen die zijn overleden.",
+        "sentence": "Er vielen veel ___ bij het ongeluk.",
+        "answer": "doden"
       },
       {
-        "word": "megadam",
-        "definition": "Een heel grote dam in een rivier",
-        "sentence": "De nieuwe ___ zorgt voor problemen.",
-        "answer": "megadam"
+        "word": "aanvallen",
+        "definition": "Een aanval of het aanvallen van iets of iemand.",
+        "sentence": "De soldaten zullen de vijand ___.",
+        "answer": "aanvallen"
       },
       {
-        "word": "Ethiopische",
-        "definition": "Van of over Ethiopië, een land in Afrika",
-        "sentence": "De ___ keuken is heel pittig.",
-        "answer": "Ethiopische"
+        "word": "nieuwe",
+        "definition": "Iets dat net is begonnen of gemaakt.",
+        "sentence": "Ze kocht een ___ auto.",
+        "answer": "nieuwe"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij heeft drie ___ tegelijk.",
-        "answer": "jobs"
+        "sentence": "Ze kocht een ___ auto.",
+        "answer": "nieuwe"
       },
       {
-        "sentence": "De ___ keuken is heel pittig.",
-        "answer": "Ethiopische"
+        "sentence": "De soldaten zullen de vijand ___.",
+        "answer": "aanvallen"
       },
       {
-        "sentence": "De ___ waren erg rijk geworden.",
-        "answer": "bitcoinboys"
+        "sentence": "Er vielen veel ___ bij het ongeluk.",
+        "answer": "doden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar wordt de stroom in dit artikel vooral voor gebruikt?",
+      "question": "Wat betekent 'nieuwe' in deze context?",
       "options": [
-        "Om huizen te verlichten",
-        "Om computers te koelen",
-        "Om bitcoin te delven",
-        "Om drinkwater te zuiveren"
+        "Oude",
+        "Verse",
+        "Recent",
+        "Nieuwe"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     },
     {
-      "question": "Wat is een gevolg van de bitcoinmijnen in Ethiopië?",
+      "question": "Wat is de betekenis van 'volgen' in de samenvatting?",
       "options": [
-        "Meer jobs voor de lokale bevolking",
-        "Minder stroom voor andere doeleinden",
-        "Meer drinkwater voor iedereen",
-        "Minder immigratie naar andere landen"
+        "Negeren",
+        "Volgen",
+        "Ontvangen",
+        "Aanvallen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wie heeft voordeel van de situatie in Ethiopië?",
+      "question": "Waar verwijst 'Gaza' naar?",
       "options": [
-        "De lokale bevolking",
-        "De Ethiopische overheid",
-        "De bitcoinbedrijven",
-        "De buurlanden van Ethiopië"
+        "Een stad",
+        "Een land",
+        "Een regio",
+        "Een persoon"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Ethiopië heeft veel stroom door de nieuwe dam.",
+      "statement": "Er vielen 26 doden na de luchtaanvallen in Gaza.",
       "isTrue": true
     },
     {
-      "statement": "De bitcoinbedrijven zorgen voor veel jobs in Ethiopië.",
+      "statement": "De aanvallen vonden plaats in Nederland.",
       "isTrue": false
     },
     {
-      "statement": "De lokale bevolking heeft meer stroom dan voorheen.",
-      "isTrue": false
+      "statement": "Men kan de ontwikkelingen in Gaza volgen via nieuwsberichten.",
+      "isTrue": true
     }
   ]
 }

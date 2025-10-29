@@ -1,106 +1,106 @@
 {
-  "id": 25,
+  "id": 24,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "De warme bakker is steeds vaker een vrouw: “Na tien broden bakken wist ik: hier word ik gelukkig van”",
+  "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
   "topicNumber": 1,
   "article": {
-    "title": "De warme bakker is steeds vaker een vrouw: “Na tien broden bakken wist ik: hier word ik gelukkig van”",
-    "summary": "Van een passie voor millefeuille tot ambachtelijke zuurdesembroden, steeds vaker kiezen vrouwen voor een job als bakker of patissier. In verschillende bakkersopleidingen maken ze intussen meer dan de helft van de leerlingen uit. “Vrouwen hebben de finesse sneller in de vingers.”"
+    "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
+    "summary": "Het Hof van Cassatie verwerpt het cassatieberoep dat advocaat Hans Rieder en zijn ex-echtgenote hadden ingesteld tegen hun veroordeling wegens belastingontduiking door domiciliefraude."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "finesse",
-        "definition": "de aanwezigheid van stijl, elegantie en precisie in iets",
-        "sentence": "De danser beweegt met grote ___.",
-        "answer": "finesse"
+        "word": "definitief",
+        "definition": "Iets dat eindelijk is beslist en niet meer verandert.",
+        "sentence": "De uitspraak van de rechter is ___, er is geen beroep meer mogelijk.",
+        "answer": "definitief"
       },
       {
-        "word": "vrouw",
-        "definition": "een volwassen mens van het vrouwelijk geslacht",
-        "sentence": "De ___ werkt parttime in de zorg.",
-        "answer": "vrouw"
+        "word": "verwerpt",
+        "definition": "Niet accepteren of goedkeuren; afwijzen.",
+        "sentence": "De rechter ___ het beroep omdat het ongegrond was.",
+        "answer": "verwerpt"
       },
       {
-        "word": "bakker",
-        "definition": "een persoon die brood en ander gebak bereidt als beroep",
-        "sentence": "De ___ werkt vaak in de vroege ochtend.",
-        "answer": "bakker"
+        "word": "domiciliefraude",
+        "definition": "Het frauduleus aangeven van een onjuist adres met als doel belasting te ontduiken.",
+        "sentence": "Het echtpaar werd schuldig bevonden aan ___.",
+        "answer": "domiciliefraude"
       },
       {
-        "word": "millefeuille",
-        "definition": "een Frans gebakje gemaakt van lajes bladerdeeg met crème ertussen, letterlijk vertaald 'duizend lagen'",
-        "sentence": "De ___ smaakte hemels met de karamel.",
-        "answer": "millefeuille"
+        "word": "cassatieberoep",
+        "definition": "Een verzoek aan een hogere rechter om een eerdere uitspraak te herzien.",
+        "sentence": "Het Hof stelt de uitspraak van de lagere rechter niet ___.",
+        "answer": "cassatieberoep"
       },
       {
-        "word": "ambachtelijke",
-        "definition": "gemaakt met traditionele, handmatige methoden in plaats van door machines",
-        "sentence": "De ___ kaas was heerlijk bij het brood.",
-        "answer": "ambachtelijke"
+        "word": "advocaat",
+        "definition": "Een persoon die is opgeleid om juridische bijstand te verlenen.",
+        "sentence": "De ___ verdedigde zijn cliënt met overtuiging.",
+        "answer": "advocaat"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De danser beweegt met grote ___.",
-        "answer": "finesse"
+        "sentence": "Het echtpaar werd schuldig bevonden aan ___.",
+        "answer": "domiciliefraude"
       },
       {
-        "sentence": "De ___ werkt parttime in de zorg.",
-        "answer": "vrouw"
+        "sentence": "De rechter ___ het beroep omdat het ongegrond was.",
+        "answer": "verwerpt"
       },
       {
-        "sentence": "De ___ kaas was heerlijk bij het brood.",
-        "answer": "ambachtelijke"
+        "sentence": "Het Hof stelt de uitspraak van de lagere rechter niet ___.",
+        "answer": "cassatieberoep"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom kiezen steeds meer vrouwen voor een baan als bakker of patissier?",
+      "question": "Wat betekent 'domiciliefraude' in deze context?",
       "options": [
-        "Omdat ze van koken houden.",
-        "Vanwege de creativiteit en precisie die het vak vereist.",
-        "Omdat het werk goed betaalt.",
-        "Omdat ze in een bakkerij zijn opgegroeid."
+        "Het frauduleus veranderen van het woonadres",
+        "Het legaal optimaliseren van belastingen",
+        "Het onbedoeld foutief aangeven van een adres",
+        "Het verbergen van belastingdocumenten"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat maakt patisserie tot een geschikt vak voor mensen met oog voor detail?",
+      "question": "Wat is de rol van het Hof van Cassatie in deze zaak?",
       "options": [
-        "Het is niet geschikt, het is te chaotisch.",
-        "Omdat je moet kunnen multitasken.",
-        "Omdat het precisiewerk vereist, net als bij een kunstenaar.",
-        "Het is alleen geschikt voor mensen die van zoet houden."
+        "Het heeft de zaak heropend",
+        "Het heeft het beroep van de verdachten goedgekeurd",
+        "Het heeft het beroep van de verdachten afgewezen",
+        "Het heeft de zaak geseponeerd"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Waarom zijn vrouwen volgens de tekst succesvol in patisserie?",
+      "question": "Wat is het gevolg van de uitspraak voor Hans Rieder?",
       "options": [
-        "Ze hebben sterkere spieren.",
-        "Ze zijn niet succesvoller dan mannen.",
-        "Ze hebben een natuurlijk talent voor precisie en geduld.",
-        "Ze werken alleen in teams."
+        "Hij wordt vrijgesproken van alle charges",
+        "Hij moet een boete betalen maar komt niet in de cel",
+        "Hij ontvangt een schadevergoeding van de staat",
+        "Zijn straf is definitief en moet worden uitgezeten"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "Vrouwen domineren nu de bakkerijopleidingen.",
+      "statement": "Hans Rieder werd veroordeeld voor het niet declareren van belasting, maar dit werd later herroepen.",
       "isTrue": false
     },
     {
-      "statement": "Patisserie is een vak dat vooral geduld en creativiteit vereist.",
+      "statement": "Het Hof van Cassatie heeft het cassatieberoep van Hans Rieder en zijn ex-echtgenote afgewezen.",
       "isTrue": true
     },
     {
-      "statement": "Mannen hebben over het algemeen meer fysieke kracht, wat nodig is in een bakkerij.",
-      "isTrue": false
+      "statement": "Domiciliefraude is een vorm van belastingontduiking waarbij men zich inschrijft op een onjuist adres.",
+      "isIsTrue": true
     }
   ]
 }

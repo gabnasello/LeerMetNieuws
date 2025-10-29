@@ -1,105 +1,105 @@
 {
-  "id": 20,
+  "id": 19,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Pater Herwig Arts, 90 jaar",
+  "title": "Jacques Vandekerckhove, 92 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Pater Herwig Arts, 90 jaar",
-    "summary": "Geboren in 1935, overleden op 24/10/2025."
+    "title": "Jacques Vandekerckhove, 92 jaar",
+    "summary": "Geboren in 1933, overleden op 26/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "pater",
-        "definition": "een priester of geestelijke, specifiek in een katholieke context",
-        "sentence": "De ___ van het klooster leidde de mis.",
-        "answer": "pater"
+        "word": "Jacques",
+        "definition": "Voornaam van de persoon in de titel.",
+        "sentence": "___ Vandekerckhove was 92 jaar oud.",
+        "answer": "Jacques"
+      },
+      {
+        "word": "1933",
+        "definition": "Het jaar waarin hij geboren is.",
+        "sentence": "Hij werd geboren in het jaar ___.",
+        "answer": "1933"
       },
       {
         "word": "geboren",
-        "definition": "het begin van iemands leven; ter wereld komen",
-        "sentence": "Hij werd ___ in 1935.",
+        "definition": "Geboren zijn, het begin van het leven.",
+        "sentence": "Hij werd ___ in 1933.",
         "answer": "geboren"
       },
       {
         "word": "overleden",
-        "definition": "gestorven; niet meer in leven",
-        "sentence": "Hij is vorige week ___ na een lang ziekbed.",
+        "definition": "Overleden zijn, niet meer leven.",
+        "sentence": "Hij is ___ op 26/10/2025.",
         "answer": "overleden"
       },
       {
-        "word": "jaar",
-        "definition": "een periode van 365 of 366 dagen, 12 maanden",
-        "sentence": "Hij is negentig ___ oud geworden.",
-        "answer": "jaar"
-      },
-      {
-        "word": "overleden",
-        "definition": "gestorven; niet meer in leven",
-        "sentence": "Hij is helaas gisteren ___.",
-        "answer": "overleden"
+        "word": "92",
+        "definition": "Getal dat de leeftijd weergeeft.",
+        "sentence": "Hij was ___ jaar oud.",
+        "answer": "92"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij werd ___ in 1935.",
-        "answer": "geboren"
+        "sentence": "Hij werd geboren in het jaar ___.",
+        "answer": "1933"
       },
       {
-        "sentence": "Hij is helaas gisteren ___.",
+        "sentence": "___ Vandekerckhove was 92 jaar oud.",
+        "answer": "Jacques"
+      },
+      {
+        "sentence": "Hij is ___ op 26/10/2025.",
         "answer": "overleden"
-      },
-      {
-        "sentence": "Hij is negentig ___ oud geworden.",
-        "answer": "jaar"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'overleden' in deze context?",
+      "question": "Wat was de geboortedatum van Jacques Vandekerckhove?",
       "options": [
-        "gestorven",
-        "vernietigd",
-        "vergeten",
-        "gevierd"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Hoe oud was Pater Herwig Arts op het moment van overlijden?",
-      "options": [
-        "90 jaar",
-        "100 jaar",
-        "85 jaar",
-        "95 jaar"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "In welk jaar is Pater Herwig Arts geboren?",
-      "options": [
-        "1935",
-        "1925",
-        "1945",
+        "26/10/2025",
+        "1933",
+        "26/10/1933",
         "1930"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Hoe oud was Jacques Vandekerckhove toen hij overleed?",
+      "options": [
+        "92 jaar",
+        "93 jaar",
+        "91 jaar",
+        "94 jaar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is de achternaam van Jacques?",
+      "options": [
+        "Vandekerckhove",
+        "Vandekerckhoven",
+        "Vandekerkhove",
+        "Vandekerkhove"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Pater Herwig Arts is in 2025 overleden.",
+      "statement": "Jacques Vandekerckhove werd geboren in 1933.",
       "isTrue": true
     },
     {
-      "statement": "Hij is geboren in 1930.",
+      "statement": "Hij overleed op 26/10/2024.",
       "isTrue": false
     },
     {
-      "statement": "Hij is 90 jaar oud geworden.",
+      "statement": "Hij was 92 jaar oud op het moment van overlijden.",
       "isTrue": true
     }
   ]

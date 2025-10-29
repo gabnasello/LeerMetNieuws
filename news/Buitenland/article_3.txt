@@ -1,15 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-10-28 04:28 UCT
+Nieuwsupdate: 2025-10-29 04:31 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Jamaica maakt zich op voor Melissa, de zwaarste orkaan van het jaar
-Link: https://www.standaard.be/buitenland/jamaica-maakt-zich-op-voor-melissa-de-zwaarste-orkaan-van-het-jaar/100347163.html
-Datum: Mon, 27 Oct 2025 20:42:32 GMT
-Samenvatting: Een ramp lijkt onafwendbaar in Jamaica, nu orkaan Melissa op drie manieren kan toeslaan: met stormvloed, immense regenval en verwoestende wind. Op Haïti en de Dominicaanse Republiek vielen al vier doden.
+Titel: Inwoners Al-Fasher worden uitgemoord: in Noord-Soedan ontrolt zich het ergste scenario
+Link: https://www.standaard.be/buitenland/inwoners-al-fasher-worden-uitgemoord-in-noord-soedan-ontrolt-zich-het-ergste-scenario/100784075.html
+Datum: Tue, 28 Oct 2025 22:59:00 GMT
+Samenvatting: Uit getuigenissen, video’s en satellietbeelden blijkt dat rebellen bij de verovering van de Soedanese stad Al-Fasher volledige wijken platbranden en de inwoners uitmoorden. Burgers die proberen te vluchten, worden doodgeschoten of aan bomen opgehangen.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/fw71h3-573.jpeg/alternates/BASE_SIXTEEN_NINE/573.jpeg
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/ik8zdi-afp-824j2we.jpg/alternates/BASE_SIXTEEN_NINE/AFP_824J2WE.jpg
+Premium: true
 ------------------------------------------------------------

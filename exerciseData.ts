@@ -29,104 +29,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
+    title: "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
     topicNumber: 1,
     article: {
-      title: "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bepopeling in het donker",
-      summary: "Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven."
+      title: "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
+      summary: "Volg hier de laatste ontwikkelingen in Gaza."
     },
     vocabulary: {
       words: [
         {
-          word: "bitcoinboys",
-          definition: "Mensen die veel bezitten van de digitale munt Bitcoin",
-          sentence: "De ___ waren erg rijk geworden.",
-          answer: "bitcoinboys"
+          word: "lucht",
+          definition: "De lucht die we inademen.",
+          sentence: "De ___ is fris na de regen.",
+          answer: "lucht"
         },
         {
-          word: "jobs",
-          definition: "Werk, betaald werk dat je doet",
-          sentence: "Hij heeft drie ___ tegelijk.",
-          answer: "jobs"
+          word: "na",
+          definition: "Na een bepaalde tijd of gebeurtenis.",
+          sentence: "We gaan eten ___ het werk.",
+          answer: "na"
         },
         {
-          word: "stroom",
-          definition: "Elektriciteit die uit het stopcontact komt",
-          sentence: "Zonder ___ kun je geen lamp aanzetten.",
-          answer: "stroom"
+          word: "doden",
+          definition: "Mensen die zijn overleden.",
+          sentence: "Er vielen veel ___ bij het ongeluk.",
+          answer: "doden"
         },
         {
-          word: "megadam",
-          definition: "Een heel grote dam in een rivier",
-          sentence: "De nieuwe ___ zorgt voor problemen.",
-          answer: "megadam"
+          word: "aanvallen",
+          definition: "Een aanval of het aanvallen van iets of iemand.",
+          sentence: "De soldaten zullen de vijand ___.",
+          answer: "aanvallen"
         },
         {
-          word: "Ethiopische",
-          definition: "Van of over Ethiopië, een land in Afrika",
-          sentence: "De ___ keuken is heel pittig.",
-          answer: "Ethiopische"
+          word: "nieuwe",
+          definition: "Iets dat net is begonnen of gemaakt.",
+          sentence: "Ze kocht een ___ auto.",
+          answer: "nieuwe"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij heeft drie ___ tegelijk.",
-          answer: "jobs"
+          sentence: "Ze kocht een ___ auto.",
+          answer: "nieuwe"
         },
         {
-          sentence: "De ___ keuken is heel pittig.",
-          answer: "Ethiopische"
+          sentence: "De soldaten zullen de vijand ___.",
+          answer: "aanvallen"
         },
         {
-          sentence: "De ___ waren erg rijk geworden.",
-          answer: "bitcoinboys"
+          sentence: "Er vielen veel ___ bij het ongeluk.",
+          answer: "doden"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar wordt de stroom in dit artikel vooral voor gebruikt?",
+        question: "Wat betekent 'nieuwe' in deze context?",
         options: [
-          "Om huizen te verlichten",
-          "Om computers te koelen",
-          "Om bitcoin te delven",
-          "Om drinkwater te zuiveren"
+          "Oude",
+          "Verse",
+          "Recent",
+          "Nieuwe"
         ],
-        correctAnswer: 3
+        correctAnswer: 4
       },
       {
-        question: "Wat is een gevolg van de bitcoinmijnen in Ethiopië?",
+        question: "Wat is de betekenis van 'volgen' in de samenvatting?",
         options: [
-          "Meer jobs voor de lokale bevolking",
-          "Minder stroom voor andere doeleinden",
-          "Meer drinkwater voor iedereen",
-          "Minder immigratie naar andere landen"
+          "Negeren",
+          "Volgen",
+          "Ontvangen",
+          "Aanvallen"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wie heeft voordeel van de situatie in Ethiopië?",
+        question: "Waar verwijst 'Gaza' naar?",
         options: [
-          "De lokale bevolking",
-          "De Ethiopische overheid",
-          "De bitcoinbedrijven",
-          "De buurlanden van Ethiopië"
+          "Een stad",
+          "Een land",
+          "Een regio",
+          "Een persoon"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Ethiopië heeft veel stroom door de nieuwe dam.",
+        statement: "Er vielen 26 doden na de luchtaanvallen in Gaza.",
         isTrue: true
       },
       {
-        statement: "De bitcoinbedrijven zorgen voor veel jobs in Ethiopië.",
+        statement: "De aanvallen vonden plaats in Nederland.",
         isTrue: false
       },
       {
-        statement: "De lokale bevolking heeft meer stroom dan voorheen.",
-        isTrue: false
+        statement: "Men kan de ontwikkelingen in Gaza volgen via nieuwsberichten.",
+        isTrue: true
       }
     ]
   },
@@ -135,163 +135,57 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Fraude met EU-subsidies: Griekse groep pleegde fraude",
+    title: "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
     topicNumber: 1,
     article: {
-      title: "Fraude met EU-subsidies: Griekse groep pleegde fraude",
-      summary: "Een criminele groep in Griekenland heeft de Europese Unie bedrogen voor bijna 20 miljoen euro. Zij logen over het aantal schapen en geiten dat ze hadden, om meer geld te krijgen."
+      title: "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
+      summary: "Storm Melissa is als een orkaan van categorie vijf aan land gekomen in Jamaica. Voor het Caraïbisch eiland is het de zwaarste storm ooit."
     },
     vocabulary: {
       words: [
         {
-          word: "subsidies",
-          definition: "Financiële steun gegeven door de overheid of een organisatie.",
-          sentence: "De boer ontving ___ van de EU om zijn land te verbeteren.",
-          answer: "subsidies"
+          word: "eiland",
+          definition: "een stuk land omgeven door water, kleiner dan een continent",
+          sentence: "Jamaica is een ___ in de Caraïben.",
+          answer: "eiland"
         },
         {
-          word: "Fraude",
-          definition: "Een vorm van bedrog of misleiding, vaak voor financieel gewin.",
-          sentence: "Hij werd gearresteerd voor zijn rol in de grote ___.",
-          answer: "fraude"
-        },
-        {
-          word: "logen",
-          definition: "Niet de waarheid vertellen; het tegenovergestelde van de waarheid spreken.",
-          sentence: "Zij ___ over hun leeftijd om binnen te komen.",
-          answer: "logen"
-        },
-        {
-          word: "groep",
-          definition: "Een aantal mensen of dingen bij elkaar.",
-          sentence: "De hele ___ werkte samen aan het project.",
-          answer: "groep"
-        },
-        {
-          word: "aantal",
-          definition: "Hoeveel er van iets is; het getal.",
-          sentence: "Het ___ mensen dat kwam opdagen was groot.",
-          answer: "aantal"
-        }
-      ],
-      fillInBlanks: [
-        {
-          sentence: "De boer ontving ___ van de EU om zijn land te verbeteren.",
-          answer: "subsidies"
-        },
-        {
-          sentence: "De hele ___ werkte samen aan het project.",
-          answer: "groep"
-        },
-        {
-          sentence: "Hij werd gearresteerd voor zijn rol in de grote ___.",
-          answer: "fraude"
-        }
-      ]
-    },
-    multipleChoice: [
-      {
-        question: "Wat was het hoofddoel van de groep in Griekenland?",
-        options: [
-          "Meer dieren verzorgen",
-          "Geld stelen van de EU",
-          "Een nieuwe wet aannemen",
-          "Meer boeren helpen"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Hoe pleegde de groep de fraude precies?",
-        options: [
-          "Ze verkochten te veel dieren",
-          "Ze logen over het aantal dieren",
-          "Ze stalen geld uit banken",
-          "Ze gaven dieren weg"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is een gevolg van dit soort fraude?",
-        options: [
-          "De EU stopt met alle subsidies",
-          "De EU wordt voorzichtiger met geld",
-          "Dieren krijgen minder eten",
-          "Belastinggeld wordt verspild"
-        ],
-        correctAnswer: 4
-      }
-    ],
-    trueFalse: [
-      {
-        statement: "De groep in Griekenland gaf de Europese Unie te veel dieren.",
-        isTrue: false
-      },
-      {
-        statement: "De groep loog over hoeveel dieren ze hadden om meer geld te krijgen.",
-        isTrue: true
-      },
-      {
-        statement: "Dit gebeurde alleen in Griekenland.",
-        isTrue: false
-      }
-    ]
-  },
-{
-    id: 3,
-    section: "Buitenland",
-    topic: "Buitenland",
-    level: "B1",
-    title: "Jamaica maakt zich op voor Melissa, de zwaarste orkaan van het jaar",
-    topicNumber: 1,
-    article: {
-      title: "Jamaica maakt zich op voor Melissa, de zwaarste orkaan van het jaar",
-      summary: "Een ramp lijkt onafwendbaar in Jamaica, nu orkaan Melissa op drie manieren kan toeslaan: met stormvloed, immense regenval en verwoestende wind. Op Haïti en de Dominicaanse Republiek vielen al vier doden."
-    },
-    vocabulary: {
-      words: [
-        {
-          word: "stormvloed",
-          definition: "Een grote overstroming door de zee die het land binnenstroomt",
-          sentence: "Bij een stormvloed stroomt zeewater het land binnen en veroorzaakt overstromingen.",
-          answer: "stormvloed"
-        },
-        {
-          word: "regenval",
-          definition: "De hoeveelheid regen die in een bepaalde tijd valt",
-          sentence: "Hevige regenval kan straten blank zetten en huizen onder water zetten.",
-          answer: "regenval"
+          word: "zwaarste",
+          definition: "het meest in gewicht of moeilijkst",
+          sentence: "Dit is de ___ storm die we ooit hebben gezien.",
+          answer: "zwaarste"
         },
         {
           word: "orkaan",
-          definition: "Een hele zware storm met veel wind en regen",
-          sentence: "Een orkaan kan veel schade veroorzaken met harde wind en veel regen.",
+          definition: "een hele sterke storm met veel wind",
+          sentence: "Er komt een ___ aan, dus we moeten voorzichtig zijn.",
           answer: "orkaan"
         },
         {
-          word: "wind",
-          definition: "Bewegende lucht die je voelt maar niet ziet",
-          sentence: "Sterke wind kan takken afbreken en dingen omver blazen.",
-          answer: "wind"
+          word: "categorie",
+          definition: "een groep of type, bijvoorbeeld van een storm",
+          sentence: "Deze storm is van ___ vijf, dus het is heel gevaarlijk.",
+          answer: "categorie"
         },
         {
-          word: "ramp",
-          definition: "Een ernstige gebeurtenis met veel schade en vaak slachtoffers",
-          sentence: "Een natuurramp zoals een orkaan kan hele steden verwoesten.",
-          answer: "ramp"
+          word: "stroom",
+          definition: "elektriciteit die stroomt, of een rivier van water",
+          sentence: "Na de storm was er geen ___ meer in huis.",
+          answer: "stroom"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Bij een stormvloed stroomt zeewater het land binnen en veroorzaakt overstromingen.",
-          answer: "stormvloed"
+          sentence: "Na de storm was er geen ___ meer in huis.",
+          answer: "stroom"
         },
         {
-          sentence: "Sterke wind kan takken afbreken en dingen omver blazen.",
-          answer: "wind"
+          sentence: "Er komt een ___ aan, dus we moeten voorzichtig zijn.",
+          answer: "orkaan"
         },
         {
-          sentence: "Een natuurramp zoals een orkaan kan hele steden verwoesten.",
-          answer: "ramp"
+          sentence: "Deze storm is van ___ vijf, dus het is heel gevaarlijk.",
+          answer: "categorie"
         }
       ]
     },
@@ -300,45 +194,139 @@ export const exercises: Exercise[] = [
         question: "Wat is een orkaan?",
         options: [
           "Een soort dier",
-          "Een feestdag",
-          "Een zware storm met veel wind",
-          "Een type auto"
+          "Een soort auto",
+          "Een soort feest",
+          "Een soort storm"
+        ],
+        correctAnswer: 4
+      },
+      {
+        question: "Waar is de orkaan Melissa ontstaan?",
+        options: [
+          "In Nederland",
+          "In de Verenigde Staten",
+          "In de Atlantische Oceaan",
+          "In de woestijn"
         ],
         correctAnswer: 3
       },
       {
-        question: "Waarom is de situatie in Jamaica zorgelijk?",
+        question: "Wat betekent 'zwaarste' in deze context?",
         options: [
-          "Er is een feest aan de gang",
-          "Er is een voedseltekort",
-          "Orkaan Melissa nadert en kan op drie manieren toeslaan",
-          "De president is afgetreden"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat is al gebeurd in naburige landen?",
-        options: [
-          "Er is een orkaan geweest",
-          "Er zijn vier mensen overleden",
-          "Er is een festival gehouden",
-          "Er is niets gebeurd"
+          "Heel licht",
+          "Heel zwaar",
+          "Heel oud",
+          "Heel nieuw"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Een orkaan brengt alleen harde wind, geen andere problemen.",
-        isTrue: false
-      },
-      {
-        statement: "Er zijn al doden gevallen in Haïti en de Dominicaanse Republiek door de orkaan.",
+        statement: "Orkaan Melissa is de zwaarste storm ooit voor Jamaica.",
         isTrue: true
       },
       {
-        statement: "Nederland wordt vaak getroffen door orkanen.",
+        statement: "De orkaan heeft voor stroomuitval in Nederland gezorgd.",
         isTrue: false
+      },
+      {
+        statement: "Er zijn 530.000 huishoudens op Jamaica zonder stroom door de orkaan.",
+        isTrue: true
+      }
+    ]
+  },
+{
+    id: 3,
+    section: "Buitenland",
+    topic: "Buitenland",
+    level: "B1",
+    title: "Inwoners Al-Fasher worden uitgemoord: in Noord-Soedan ontrolt zich het ergste scenario",
+    topicNumber: 1,
+    article: {
+      title: "Inwoners Al-Fasher worden uitgemoord: in Noord-Soedan ontrolt zich het ergste scenario",
+      summary: "Uit getuigenissen, video’s en satellietbeelden blijkt dat rebellen bij de verovering van de Soedanese stad Al-Fasher volledige wijken platbranden en de inwoners uitmoorden. Burgers die proberen te vluchten, worden doodgeschoten of aan bomen opgehangen."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "inwoners",
+          definition: "mensen die in een stad of land wonen",
+          sentence: "De inwoners van het dorp waren erg vriendelijk.",
+          answer: "inwoners"
+        },
+        {
+          word: "getuigenissen",
+          definition: "officiële verklaringen van wat iemand heeft gezien of meegemaakt",
+          sentence: "De politie nam verschillende ___ op na het incident.",
+          answer: "getuigenissen"
+        },
+        {
+          word: "wijken",
+          definition: "delen van een stad, vaak met hun eigen karakter",
+          sentence: "De oude ___ van de stad zijn vol met geschiedenis.",
+          answer: "wijken"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "De oude ___ van de stad zijn vol met geschiedenis.",
+          answer: "wijken"
+        },
+        {
+          sentence: "De inwoners van het dorp waren erg vriendelijk.",
+          answer: "inwoners"
+        },
+        {
+          sentence: "De politie nam verschillende ___ op na het incident.",
+          answer: "getuigenissen"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Wat is de hoofdstad van Nederland?",
+        options: [
+          "Parijs",
+          "Londen",
+          "Amsterdam",
+          "Brussel"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Hoe noem je iemand die in een bepaald land woont?",
+        options: [
+          "Inwoner",
+          "Bewoner",
+          "Bewoner",
+          "Inwoner"
+        ],
+        correctAnswer: 4
+      },
+      {
+        question: "Wat betekent 'verwoesten'?",
+        options: [
+          "Opbouwen",
+          "Verwoesten",
+          "Herstellen",
+          "Negeren"
+        ],
+        correctAnswer: 2
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "Amsterdam is de hoofdstad van Nederland.",
+        isTrue: true
+      },
+      {
+        statement: "De Eiffeltoren staat in Londen.",
+        isTrue: false
+      },
+      {
+        statement: "Vluchten betekent om snel weg te gaan van gevaar.",
+        isTrue: true
       }
     ]
   },
@@ -347,104 +335,73 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Pater Herwig Arts, 90 jaar",
+    title: "Jacques Vandekerckhove, 92 jaar",
     topicNumber: 1,
     article: {
-      title: "Pater Herwig Arts, 90 jaar",
-      summary: "Pater Herwig Arts is geboren in 1935 en overleden op 24 oktober 2025."
+      title: "Jacques Vandekerckhove, 92 jaar",
+      summary: "Geboren in 1933, overleden op 26/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "jaar",
-          definition: "een periode van 365 of 366 dagen",
-          sentence: "Hij is 90 ___ oud geworden.",
-          answer: "jaar"
-        },
-        {
-          word: "Arts",
-          definition: "een achternaam, zoals Jansen of De Vries",
-          sentence: "Zijn volledige naam was Herwig ___.",
-          answer: "Arts"
+          word: "geboren",
+          definition: "het begin van het leven, wanneer iemand wordt geboren",
+          sentence: "Hij is ___ in 1933.",
+          answer: "geboren"
         },
         {
           word: "overleden",
-          definition: "niet meer in leven zijn, dood zijn",
-          sentence: "Hij is ___ op 24 oktober 2025.",
+          definition: "niet meer levend, gestorven",
+          sentence: "Hij is ___ op 26 oktober 2025.",
           answer: "overleden"
-        },
-        {
-          word: "Herwig",
-          definition: "een mannelijke voornaam",
-          sentence: "___ was de voornaam van de pater.",
-          answer: "Herwig"
-        },
-        {
-          word: "geboren",
-          definition: "het moment dat iemand ter wereld komt",
-          sentence: "Hij werd ___ in het jaar 1935.",
-          answer: "geboren"
         }
       ],
-      fillInBlanks: [
-        {
-          sentence: "Hij is ___ op 24 oktober 2025.",
-          answer: "overleden"
-        },
-        {
-          sentence: "Hij is 90 ___ oud geworden.",
-          answer: "jaar"
-        },
-        {
-          sentence: "Hij werd ___ in het jaar 1935.",
-          answer: "geboren"
-        }
-      ]
+      fillInBlanks: []
     },
     multipleChoice: [
       {
-        question: "In welk jaar werd Pater Herwig Arts geboren?",
+        question: "In welk jaar is Jacques Vandekerckhove geboren?",
         options: [
-          "1930",
-          "1935",
-          "1940",
-          "1945"
+          "1920",
+          "1925",
+          "1933",
+          "1940"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "In welke maand overleed Pater Herwig Arts?",
+        question: "Hoe oud was Jacques Vandekerckhove toen hij overleed?",
         options: [
-          "Januari",
-          "Februari",
-          "September",
-          "Oktober"
-        ],
-        correctAnswer: 4
-      },
-      {
-        question: "Hoe oud was Pater Herwig Arts toen hij overleed?",
-        options: [
-          "85 jaar",
-          "89 jaar",
+          "88 jaar",
           "90 jaar",
+          "92 jaar",
           "95 jaar"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Op welke datum overleed Jacques Vandekerckhove?",
+        options: [
+          "26 oktober 2023",
+          "26 oktober 2024",
+          "26 oktober 2025",
+          "26 oktober 2026"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Pater Herwig Arts werd geboren in 1935.",
-        isTrue: true
-      },
-      {
-        statement: "Pater Herwig Arts overleed in de maand december.",
+        statement: "Jacques Vandekerckhove werd 93 jaar oud.",
         isTrue: false
       },
       {
-        statement: "Pater Herwig Arts werd 90 jaar oud.",
+        statement: "Jacques Vandekerckhove overleed in het jaar 2025.",
         isTrue: true
+      },
+      {
+        statement: "Jacques Vandekerckhove werd geboren in 1930.",
+        isTrue: false
       }
     ]
   },
@@ -453,103 +410,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
+    title: "Adoptie uit buitenland werd ‘gepauzeerd’, maar nu staan er toch weer 35 gezinnen in de wachtrij",
     topicNumber: 1,
     article: {
-      title: "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
-      summary: "Meer agenten klussen bij, en dat leidt soms tot mistoestanden. Minister van Binnenlandse Zaken Bernard Quintin (MR) wil de regels aanscherpen."
+      title: "Adoptie uit buitenland werd ‘gepauzeerd’, maar nu staan er toch weer 35 gezinnen in de wachtrij",
+      summary: "Veertig gezinnen in Vlaanderen zijn bezig met een traject voor buitenlandse adoptie, 35 andere werd beloofd dat ze er nog mogen instappen. En dat terwijl er al sinds eind 2023 een ‘adoptiepauze’ is afgekondigd. “De boodschap is niet helder en dat is lastig”, meent parlementslid Freya Perdaens (N-VA)."
     },
     vocabulary: {
       words: [
         {
-          word: "politiemensen",
-          definition: "mensen die werken voor de politie",
-          sentence: "De ___ werken hard om de stad veilig te houden.",
-          answer: "politiemensen"
+          word: "wachtrij",
+          definition: "Een lijst van mensen die wachten op iets",
+          sentence: "Hij staat in de ___ voor een nieuw huis.",
+          answer: "wachtrij"
         },
         {
-          word: "agenten",
-          definition: "mensen die werken voor de politie",
-          sentence: "De ___ houden de wijk veilig.",
-          answer: "agenten"
+          word: "helder",
+          definition: "Duidelijk, makkelijk te begrijpen",
+          sentence: "De instructies waren erg ___ en gemakkelijk te volgen.",
+          answer: "helder"
         },
         {
-          word: "minister",
-          definition: "iemand die een deel van de overheid leidt",
-          sentence: "De ___ heeft een nieuw plan gemaakt.",
-          answer: "minister"
+          word: "gezin",
+          definition: "Een groep mensen die samenwonen, vaak ouders en kinderen",
+          sentence: "Een ___ bestaat vaak uit ouders en hun kinderen.",
+          answer: "gezin"
         },
         {
-          word: "aanscherpen",
-          definition: "strenger of scherper maken",
-          sentence: "De regels worden ___ om problemen te voorkomen.",
-          answer: "aanscherpen"
+          word: "boodschap",
+          definition: "De inhoud van wat er gezegd wordt, de mededeling",
+          sentence: "De ___ van de leider was duidelijk en motiverend.",
+          answer: "boodschap"
         },
         {
-          word: "klussen",
-          definition: "bijklussen, extra werken naast hun eigen baan",
-          sentence: "Sommige mensen ___ om extra geld te verdienen.",
-          answer: "klussen"
+          word: "gepauzeerd",
+          definition: "Tijdelijk gestopt, niet voor altijd",
+          sentence: "De vergadering werd ___ omdat niet iedereen er was.",
+          answer: "gepauzeerd"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ werken hard om de stad veilig te houden.",
-          answer: "politiemensen"
+          sentence: "De vergadering werd ___ omdat niet iedereen er was.",
+          answer: "gepauzeerd"
         },
         {
-          sentence: "Sommige mensen ___ om extra geld te verdienen.",
-          answer: "klussen"
+          sentence: "Een ___ bestaat vaak uit ouders en hun kinderen.",
+          answer: "gezin"
         },
         {
-          sentence: "De ___ heeft een nieuw plan gemaakt.",
-          answer: "minister"
+          sentence: "Hij staat in de ___ voor een nieuw huis.",
+          answer: "wachtrij"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom wil de minister de regels aanscherpen?",
+        question: "Wat betekent ‘gepauzeerd’ in deze tekst?",
         options: [
-          "Omdat er te veel agenten zijn",
-          "Omdat agenten bijklussen en dat soms problemen geeft",
-          "Omdat de agenten niet goed werken",
-          "Omdat de minister het zelf niet weet"
+          "Voor altijd gestopt",
+          "Tijdelijk gestopt",
+          "Helemaal klaar",
+          "Net begonnen"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is het gevolg van de aanscherping van de regels?",
+        question: "Wat is een ‘wachtrij’?",
         options: [
-          "Meer agenten gaan bijklussen",
-          "Minder agenten gaan bijklussen",
-          "Agenten krijgen een hoger salaris",
-          "Er verandert niets"
+          "Een soort auto",
+          "Een winkelwagen",
+          "Een lijst van wachtenden",
+          "Een snelweg"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Wie is Bernard Quintin?",
+        question: "Waar gaat de tekst over?",
         options: [
-          "Een agent die bijklust",
-          "Een minister die de regels aanscherpt",
-          "Iemand die een vechtpartij begint",
-          "Iemand die nieuwe regels maakt"
+          "Over reizen naar het buitenland",
+          "Over sportevenementen",
+          "Over adoptie en beleid",
+          "Over koken en eten"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Agenten mogen niet bijklussen volgens de nieuwe regels.",
+        statement: "De adoptie uit het buitenland is helemaal gestopt.",
         isTrue: false
       },
       {
-        statement: "De minister wil de regels aanscherpen omdat bijklussen soms tot problemen leidt.",
+        statement: "Er zijn gezinnen in Vlaanderen die willen adopteren uit het buitenland.",
         isTrue: true
       },
       {
-        statement: "Alle agenten zijn verplicht om bij te klussen naast hun werk.",
+        statement: "Er is helemaal geen adoptie meer mogelijk volgens de tekst.",
         isTrue: false
       }
     ]
@@ -559,104 +516,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "De warme bakker is steeds vaker een vrouw: Na tien broden bakken wist ik: hier word ik gelukkig van",
+    title: "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
     topicNumber: 1,
     article: {
-      title: "De warme bakker is steeds vaker een vrouw: Na tien broden bakken wist ik: hier word ik gelukkig van",
-      summary: "Van een passie voor millefeuille tot ambachtelijke zuurdesembroden, steeds vaker kiezen vrouwen voor een job als bakker of patissier. In verschillende bakkersopleidingen maken ze intussen meer dan de helft van de leerlingen uit. Vrouwen hebben de finesse sneller in de vingers."
+      title: "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
+      summary: "Het Hof van Cassatie verwerpt het cassatieberoep dat advocaat Hans Rieder en zijn ex-echtgenote hadden ingesteld tegen hun veroordeling wegens belastingontduiking door domiciliefraude."
     },
     vocabulary: {
       words: [
         {
-          word: "millefeuille",
-          definition: "een Frans gebakje gemaakt van laagjes bladerdeeg en room",
-          sentence: "Voor het dessert serveerden ze een heerlijke ___.",
-          answer: "millefeuille"
+          word: "verwerpt",
+          definition: "weigert, keurt af",
+          sentence: "De rechter ___ het verzoek om vrijspraak.",
+          answer: "verwerpt"
         },
         {
-          word: "patissier",
-          definition: "iemand die taarten en andere zoete lekkernijen maakt",
-          sentence: "De ___ versierde de taart met bloemen van suiker.",
-          answer: "patissier"
+          word: "advocaat",
+          definition: "iemand die anderen helpt met juridische zaken",
+          sentence: "De ___ verdedigt mensen in de rechtbank.",
+          answer: "advocaat"
         },
         {
-          word: "bakker",
-          definition: "iemand die brood en andere gebakken producten maakt",
-          sentence: "De ___ maakt elke ochtend vers brood.",
-          answer: "bakker"
+          word: "definitief",
+          definition: "voorgoed, niet meer veranderbaar",
+          sentence: "Het vonnis is nu ___, er is geen beroep meer mogelijk.",
+          answer: "definitief"
         },
         {
-          word: "ambachtelijke",
-          definition: "op een traditionele manier gemaakt, vaak met de hand",
-          sentence: "Deze ___ kaas komt van een kleine boerderij.",
-          answer: "ambachtelijke"
+          word: "cassatie",
+          definition: "een hoger beroep bij de hoogste rechter",
+          sentence: "De advocaten dienden een verzoek tot ___ in om de uitspraak aan te vechten.",
+          answer: "cassatie"
         },
         {
-          word: "vrouw",
-          definition: "een volwassen persoon van het vrouwelijk geslacht",
-          sentence: "De ___ werkt parttime in de supermarkt.",
-          answer: "vrouw"
+          word: "belastingontduiking",
+          definition: "het niet betalen van belasting, wat illegaal is",
+          sentence: "Hij werd verdacht van ___ en moest voor de rechter komen.",
+          answer: "belastingontduiking"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ versierde de taart met bloemen van suiker.",
-          answer: "patissier"
+          sentence: "De ___ verdedigt mensen in de rechtbank.",
+          answer: "advocaat"
         },
         {
-          sentence: "Deze ___ kaas komt van een kleine boerderij.",
-          answer: "ambachtelijke"
+          sentence: "De rechter ___ het verzoek om vrijspraak.",
+          answer: "verwerpt"
         },
         {
-          sentence: "Voor het dessert serveerden ze een heerlijke ___.",
-          answer: "millefeuille"
+          sentence: "De advocaten dienden een verzoek tot ___ in om de uitspraak aan te vechten.",
+          answer: "cassatie"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom kiezen steeds meer vrouwen voor een baan als bakker of patissier?",
+        question: "Wat is de hoofdgedachte van dit artikel?",
         options: [
-          "Omdat het goed betaalt",
-          "Omdat ze van koken houden",
-          "Omdat ze kunnen werken met hun handen",
-          "Omdat ze een passie voor zoetigheid hebben"
-        ],
-        correctAnswer: 4
-      },
-      {
-        question: "Wat is een kenmerk van vrouwelijke leerlingen in bakkersopleidingen?",
-        options: [
-          "Ze zijn ouder dan mannen",
-          "Ze zijn in de meerderheid",
-          "Ze werken alleen parttime",
-          "Ze hebben meer finesse"
+          "Advocaten kunnen niet worden vervolgd",
+          "Een advocaat en zijn ex-vrouw zijn definitief schuldig bevonden aan belastingontduiking",
+          "Het Hof van Cassatie heeft een nieuwe rechtszaak aangevraagd",
+          "De advocaat heeft zelf de fraude gepleegd"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat betekent 'finesse' in dit artikel?",
+        question: "Wat betekent 'cassatie' in deze context?",
         options: [
-          "Snelheid",
-          "Kracht",
-          "Behendigheid",
-          "Zorgvuldigheid"
+          "Een soort koffie",
+          "Een hoger beroep bij het hoogste gerechtshof",
+          "Een formele excusemail naar de rechter",
+          "De ontbinding van het huwelijk"
         ],
-        correctAnswer: 4
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is de rol van het Hof van Cassatie hier?",
+        options: [
+          "Het organiseert feesten voor medewerkers",
+          "Het bevestigt de echtscheiding van het paar",
+          "Het weigert het verzoek om de zaak te herzien",
+          "Het stelt de advocaat vrij op basis van nieuwe wetten"
+        ],
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Vrouwen zijn de meerderheid in bakkersopleidingen.",
+        statement: "De advocaat en zijn ex-echtgenote zijn allebei schuldig bevonden.",
         isTrue: true
       },
       {
-        statement: "Mannen hebben meer finesse dan vrouwen.",
+        statement: "Het Hof van Cassatie heeft de echtscheiding van het koppel uitgesproken.",
         isTrue: false
       },
       {
-        statement: "Een patissier maakt vooral hartige gerechten.",
-        isTrue: false
+        statement: "De uitspraak van het hof is definitief en kan niet meer worden aangevochten.",
+        isTrue: true
       }
     ]
   },
@@ -665,104 +622,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Bitcoinbedrijven in Ethiopië",
+    title: "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
     topicNumber: 1,
     article: {
-      title: "Bitcoinbedrijven in Ethiopië",
-      summary: "Bitcoinbedrijven gebruiken stroom in Ethiopië. De mensen daar hebben weinig stroom. Bitcoinbedrijven krijgen goedkope stroom. De gewone mensen hebben problemen."
+      title: "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
+      summary: "Er zijn nieuwe luchtaanvallen in Gaza. Er zijn 26 doden. Dit is het laatste nieuws."
     },
     vocabulary: {
       words: [
         {
-          word: "stroom",
-          definition: "elektriciteit, energie",
-          sentence: "Zonder ___ kun je geen lamp gebruiken.",
-          answer: "stroom"
+          word: "Er",
+          definition: "een woord dat vaak aan het begin van een zin staat om iets aan te duiden",
+          sentence: "___ zijn 26 doden.",
+          answer: "Er"
         },
         {
-          word: "bitcoin",
-          definition: "een soort digitaal geld",
-          sentence: "Mensen gebruiken ___ om te betalen.",
-          answer: "bitcoin"
+          word: "na",
+          definition: "na een bepaalde tijd of gebeurtenis",
+          sentence: "De doden vielen ___ de luchtaanvallen.",
+          answer: "na"
         },
         {
-          word: "weinig",
-          definition: "niet veel, een kleine hoeveelheid",
-          sentence: "Er is ___ voedsel beschikbaar.",
-          answer: "weinig"
+          word: "26",
+          definition: "het getal tussen 25 en 27",
+          sentence: "Er zijn ___ doden gevallen.",
+          answer: "26"
         },
         {
-          word: "mensen",
-          definition: "personen, individuen",
-          sentence: "De ___ in deze stad hebben weinig water.",
-          answer: "mensen"
+          word: "doden",
+          definition: "mensen die niet meer leven",
+          sentence: "Er zijn 26 ___ na de aanvallen.",
+          answer: "doden"
         },
         {
-          word: "problemen",
-          definition: "moeilijkheden, uitdagingen",
-          sentence: "Zij hebben grote ___ met de stroom.",
-          answer: "problemen"
+          word: "Gaza",
+          definition: "een plaats in het Midden-Oosten waar veel conflicten zijn",
+          sentence: "In ___ zijn veel mensen gewond geraakt.",
+          answer: "Gaza"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Mensen gebruiken ___ om te betalen.",
-          answer: "bitcoin"
+          sentence: "Er zijn ___ doden gevallen.",
+          answer: "26"
         },
         {
-          sentence: "De ___ in deze stad hebben weinig water.",
-          answer: "mensen"
+          sentence: "___ zijn 26 doden.",
+          answer: "Er"
         },
         {
-          sentence: "Zij hebben grote ___ met de stroom.",
-          answer: "problemen"
+          sentence: "De doden vielen ___ de luchtaanvallen.",
+          answer: "na"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat gebruiken de bitcoinbedrijven veel?",
+        question: "Waar gebeurden de luchtaanvallen?",
         options: [
-          "Water",
-          "Stroom",
-          "Eten",
-          "Geld"
+          "In Gaza",
+          "In Nederland",
+          "In de supermarkt",
+          "Op school"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Wat hebben de Ethiopische mensen te weinig?",
+        question: "Hoeveel doden zijn er gemeld?",
         options: [
-          "Bitcoin",
-          "Stroom",
-          "Tijd",
-          "Vrienden"
+          "26",
+          "10",
+          "50",
+          "100"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Wat is een groot probleem voor de Ethiopische bevolking?",
+        question: "Wanneer vonden de luchtaanvallen plaats?",
         options: [
-          "Te veel bitcoinbedrijven",
-          "Te weinig water",
-          "Te veel voedsel",
-          "Te weinig elektriciteit"
+          "Gisteren",
+          "Morgen",
+          "Vorige week",
+          "Over een maand"
         ],
-        correctAnswer: 4
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Bitcoinbedrijven gebruiken veel stroom in Ethiopië.",
+        statement: "De luchtaanvallen vonden plaats in Gaza.",
         isTrue: true
       },
       {
-        statement: "Alle mensen in Ethiopië hebben genoeg water.",
+        statement: "Er zijn 100 doden gemeld.",
         isTrue: false
       },
       {
-        statement: "De bitcoinbedrijven helpen de Ethiopische mensen.",
-        isTrue: false
+        statement: "De aanvallen gebeurden na een eerdere gebeurtenis.",
+        isTrue: true
       }
     ]
   },
@@ -771,97 +728,91 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Fraude met EU-steun",
+    title: "Orkaan op weg naar Cuba",
     topicNumber: 1,
     article: {
-      title: "Fraude met EU-steun",
-      summary: "Sommige mensen in Griekenland kregen geld van de EU, maar ze logen over hoeveel dieren ze hadden."
+      title: "Orkaan op weg naar Cuba",
+      summary: "Storm Melissa is een orkaan. Hij gaat naar Cuba. Hij is heel sterk."
     },
     vocabulary: {
       words: [
         {
-          word: "mensen",
-          definition: "personen, meervoud van mens",
-          sentence: "Deze ___ werken samen.",
-          answer: "mensen"
+          word: "orkaan",
+          definition: "een hele sterke storm met veel wind",
+          sentence: "Er komt een ___ naar Cuba.",
+          answer: "orkaan"
         },
         {
-          word: "dieren",
-          definition: "dieren, zoals een hond of kat",
-          sentence: "Ze hebben veel ___ op hun boerderij.",
-          answer: "dieren"
+          word: "Cuba",
+          definition: "een land in het Caribisch gebied",
+          sentence: "De orkaan gaat naar ___.",
+          answer: "Cuba"
         },
         {
-          word: "geld",
-          definition: "wat je gebruikt om iets te kopen",
-          sentence: "Ze kregen veel ___ van de EU.",
-          answer: "geld"
-        },
-        {
-          word: "logen",
-          definition: "niet de waarheid zeggen",
-          sentence: "Ze ___ over het aantal dieren.",
-          answer: "logen"
+          word: "Melissa",
+          definition: "de naam van de orkaan",
+          sentence: "De orkaan heet ___.",
+          answer: "Melissa"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Deze ___ werken samen.",
-          answer: "mensen"
+          sentence: "De orkaan heet ___.",
+          answer: "Melissa"
         },
         {
-          sentence: "Ze hebben veel ___ op hun boerderij.",
-          answer: "dieren"
+          sentence: "De orkaan gaat naar ___.",
+          answer: "Cuba"
         },
         {
-          sentence: "Ze kregen veel ___ van de EU.",
-          answer: "geld"
+          sentence: "Er komt een ___ naar Cuba.",
+          answer: "orkaan"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar ging de fraude over?",
+        question: "Waar is orkaan Melissa?",
         options: [
-          "over reizen",
-          "over eten",
-          "over dieren",
-          "over muziek"
+          "In Nederland",
+          "Op de maan",
+          "Op Jamaica",
+          "In een boek"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat deden de mensen in Griekenland?",
+        question: "Wat is er met veel huishoudens gebeurd?",
         options: [
-          "Ze logen over het aantal dieren",
-          "Ze kochten nieuwe dieren",
-          "Ze verkochten hun dieren",
-          "Ze gingen op vakantie"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is de EU?",
-        options: [
-          "Een land",
-          "Een groep van landen",
-          "Een dier",
-          "Een stad"
+          "Ze hebben een nieuwe orkaan",
+          "Ze hebben geen stroom",
+          "Ze zijn verhuisd",
+          "Ze hebben veel gegeten"
         ],
         correctAnswer: 2
+      },
+      {
+        question: "Hoe sterk is orkaan Melissa?",
+        options: [
+          "Categorie 1",
+          "Categorie 2",
+          "Categorie 3",
+          "Categorie 5"
+        ],
+        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "De mensen in Griekenland hadden te veel dieren.",
-        isTrue: true
-      },
-      {
-        statement: "De EU gaf de mensen geen geld.",
+        statement: "Orkaan Melissa is op Cuba.",
         isTrue: false
       },
       {
-        statement: "De mensen logen over hoeveel dieren ze hadden.",
+        statement: "Orkaan Melissa is op Jamaica geweest.",
+        isTrue: true
+      },
+      {
+        statement: "Orkaan Melissa is van categorie 5.",
         isTrue: true
       }
     ]
@@ -871,103 +822,72 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Orkaan Melissa nadelt naar Jamaica",
+    title: "Geweld in Al-Fasher",
     topicNumber: 1,
     article: {
-      title: "Orkaan Melissa nadelt naar Jamaica",
-      summary: "Orkaan Melissa komt naar Jamaica. De orkaan brengt veel wind en regen. Er is ook gevaar voor overstromingen. Er zijn al doden in andere landen."
+      title: "Geweld in Al-Fasher",
+      summary: "Er is veel geweld in Al-Fasher. Mensen worden gedood. Huizen branden af."
     },
     vocabulary: {
       words: [
         {
-          word: "orkaan",
-          definition: "een hele grote storm met veel wind",
-          sentence: "Een orkaan kan veel schade veroorzaken.",
-          answer: "orkaan"
+          word: "Geweld",
+          definition: "iets met veel pijn en schade",
+          sentence: "Er is veel ___ in de stad.",
+          answer: "geweld"
         },
         {
-          word: "Jamaica",
-          definition: "een land in het Caribisch gebied",
-          sentence: "Jamaica is een eiland in de Caribische Zee.",
-          answer: "Jamaica"
-        },
-        {
-          word: "doden",
-          definition: "mensen die zijn overleden",
-          sentence: "Er zijn helaas doden gevallen door de orkaan.",
-          answer: "doden"
-        },
-        {
-          word: "land",
-          definition: "een gebied met een eigen regering, zoals Nederland of België",
-          sentence: "Welk land ligt naast Duitsland?",
-          answer: "land"
-        },
-        {
-          word: "regen",
-          definition: "water dat uit de lucht valt, vaak bij slecht weer",
-          sentence: "De regen viel de hele dag.",
-          answer: "regen"
+          word: "Mensen",
+          definition: "mannen, vrouwen en kinderen",
+          sentence: "De ___ in de stad zijn bang.",
+          answer: "mensen"
         }
       ],
-      fillInBlanks: [
-        {
-          sentence: "Een orkaan kan veel schade veroorzaken.",
-          answer: "orkaan"
-        },
-        {
-          sentence: "Er zijn helaas doden gevallen door de orkaan.",
-          answer: "doden"
-        },
-        {
-          sentence: "De regen viel de hele dag.",
-          answer: "regen"
-        }
-      ]
+      fillInBlanks: []
     },
     multipleChoice: [
       {
-        question: "Waar is orkaan Melissa?",
+        question: "Waar gaat de tekst over?",
         options: [
-          "Bij Jamaica",
-          "In Nederland",
-          "Op de maan",
-          "In een boek"
+          "Een feest in de stad",
+          "Geweld en brand in de stad",
+          "Een veilige plek om te spelen",
+          "Een nieuwe school"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat veroorzaakt orkaan Melissa?",
+        question: "Waar zijn de huizen van?",
         options: [
-          "Veel wind en regen",
-          "Zonnig weer",
-          "Een lichte bries",
-          "Koude sneeuw"
+          "Van ijs",
+          "Van steen",
+          "Van hout",
+          "Van water"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wat is een gevolg van de orkaan?",
+        question: "Wat is veilig?",
         options: [
-          "Er zijn overstromingen",
-          "De zon schijnt fel",
-          "Het sneeuwt",
-          "Het is erg koud"
+          "De stad",
+          "De school",
+          "Het huis",
+          "De boom"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Orkaan Melissa veroorzaakt overstromingen in Jamaica.",
-        isTrue: true
-      },
-      {
-        statement: "Nederland wordt ook getroffen door orkaan Melissa.",
+        statement: "De stad is veilig.",
         isTrue: false
       },
       {
-        statement: "Er zijn al doden in andere landen door de orkaan.",
+        statement: "Er is veel geweld in de stad.",
+        isTrue: true
+      },
+      {
+        statement: "Huis is een plek om te wonen.",
         isTrue: true
       }
     ]
@@ -977,97 +897,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Pater Herwig Arts, 90 jaar",
+    title: "Jacques Vandekerckhove, 92 jaar",
     topicNumber: 1,
     article: {
-      title: "Pater Herwig Arts, 90 jaar",
-      summary: "Geboren in 1935, overleden op 24/10/2025."
+      title: "Jacques Vandekerckhove, 92 jaar",
+      summary: "Hij is geboren in 1933. Hij is overleden op 26/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "pater",
-          definition: "een priester in sommige religieuze orden",
-          sentence: "De ___ heeft een lange tijd geleefd.",
-          answer: "pater"
+          word: "en",
+          definition: "verbindt twee woorden of zinnen",
+          sentence: "Ik heb een pen ___ een boek.",
+          answer: "en"
         },
         {
-          word: "jaar",
-          definition: "een periode van 365 dagen",
-          sentence: "Hij is 90 ___ oud.",
-          answer: "jaar"
+          word: "op",
+          definition: "geeft een dag of datum aan",
+          sentence: "Het feest is ___ zaterdag.",
+          answer: "op"
         },
         {
-          word: "geboren",
-          definition: "het begin van het leven",
-          sentence: "Hij is ___ in 1935.",
-          answer: "geboren"
+          word: "op",
+          definition: "geeft een dag of datum aan",
+          sentence: "We zien elkaar ___ maandag.",
+          answer: "op"
         },
         {
-          word: "overleden",
-          definition: "niet meer levend, gestorven",
-          sentence: "Hij is ___ op 24 oktober 2025.",
-          answer: "overleden"
+          word: "van",
+          definition: "geeft herkomst of materiaal",
+          sentence: "De tafel is gemaakt ___ hout.",
+          answer: "van"
+        },
+        {
+          word: "hij",
+          definition: "verwijst naar een man",
+          sentence: "___ is mijn broer.",
+          answer: "hij"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij is ___ in 1935.",
-          answer: "geboren"
+          sentence: "De tafel is gemaakt ___ hout.",
+          answer: "van"
         },
         {
-          sentence: "De ___ heeft een lange tijd geleefd.",
-          answer: "pater"
+          sentence: "Ik heb een pen ___ een boek.",
+          answer: "en"
         },
         {
-          sentence: "Hij is ___ op 24 oktober 2025.",
-          answer: "overleden"
+          sentence: "We zien elkaar ___ maandag.",
+          answer: "op"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de geboortedatum van pater Herwig Arts?",
+        question: "Wanneer is Jacques Vandekerckhove geboren?",
         options: [
-          "1935",
-          "1920",
-          "1945",
-          "1900"
+          "In 1933",
+          "In 1945",
+          "In 1950",
+          "In 1960"
         ],
         correctAnswer: 1
       },
       {
-        question: "In welk jaar overleed pater Herwig Arts?",
+        question: "Wanneer is hij overleden?",
         options: [
-          "2025",
-          "2020",
-          "2030",
-          "2015"
+          "Op 26/10/2025",
+          "Op 27/10/2025",
+          "Op 28/10/2025",
+          "Op 29/10/2025"
         ],
         correctAnswer: 1
       },
       {
-        question: "Hoe oud werd pater Herwig Arts?",
+        question: "Hoe oud was Jacques Vandekerckhove toen hij overleed?",
         options: [
-          "90 jaar",
-          "80 jaar",
-          "100 jaar",
-          "85 jaar"
+          "92 jaar",
+          "93 jaar",
+          "94 jaar",
+          "95 jaar"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Pater Herwig Arts is geboren in 1935.",
+        statement: "Jacques Vandekerckhove is geboren in 1933.",
         isTrue: true
       },
       {
-        statement: "Hij overleed in 2020.",
+        statement: "Hij is overleden op 25/10/2025.",
         isTrue: false
       },
       {
-        statement: "Hij werd 90 jaar oud.",
+        statement: "Hij was 92 jaar oud.",
         isTrue: true
       }
     ]
@@ -1077,104 +1003,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
+    title: "Adoptie uit buitenland werd gepauzeerd, maar nu staan er toch weer 35 gezinnen in de wachtrij",
     topicNumber: 1,
     article: {
-      title: "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
-      summary: "AI-modellen zoals ChatGPT maken onze taal vlakker, stelt computerlinguïst Tim Van de Cruys vast. Tegelijk wordt ons eigen taalgevoel misschien nog belangrijker door AI. 'Hoe beter je de taal al beheerst, hoe beter een AI-model voor jou zal werken.'"
+      title: "Adoptie uit buitenland werd gepauzeerd, maar nu staan er toch weer 35 gezinnen in de wachtrij",
+      summary: "Veertig gezinnen in Vlaanderen zijn bezig met een traject voor buitenlandse adoptie, 35 andere werd beloofd dat ze er nog mogen instappen. En dat terwijl er al sinds eind 2023 een 'adoptiepauze' is afgekondigd. 'De boodschap is niet helder en dat is lastig', meent parlementslid Freya Perdaens (N-VA)."
     },
     vocabulary: {
       words: [
         {
-          word: "computer",
-          definition: "een apparaat waarmee je kunt internetten en werken",
-          sentence: "Ik gebruik mijn ___ om te werken.",
-          answer: "computer"
+          word: "Vlaanderen",
+          definition: "Een gebied in België waar ze Nederlands spreken",
+          sentence: "___ is een deel van België.",
+          answer: "Vlaanderen"
         },
         {
-          word: "taal",
-          definition: "de manier waarop mensen met elkaar praten",
-          sentence: "Welke ___ spreek jij het best?",
-          answer: "taal"
+          word: "adoptie",
+          definition: "Een kind krijgen dat niet van jezelf is",
+          sentence: "___ is een manier om een kind te krijgen.",
+          answer: "adoptie"
         },
         {
-          word: "taalgevoel",
-          definition: "het natuurlijke gevoel voor wat goed of fout is in een taal",
-          sentence: "Zijn ___ is heel goed, hij maakt nooit fouten.",
-          answer: "taalgevoel"
+          word: "gepauzeerd",
+          definition: "Even gestopt, tijdelijk niet actief",
+          sentence: "Het feest was ___, maar gaat nu verder.",
+          answer: "gepauzeerd"
         },
         {
-          word: "taal",
-          definition: "de manier waarop mensen met elkaar praten",
-          sentence: "In welk land wordt deze ___ gesproken?",
-          answer: "taal"
+          word: "wachtrij",
+          definition: "Een rij of lijst van mensen die wachten",
+          sentence: "Er is een lange ___ voor de attractie.",
+          answer: "wachtrij"
         },
         {
-          word: "modellen",
-          definition: "versies of soorten van iets, bijvoorbeeld van een computerprogramma",
-          sentence: "De nieuwe ___ van de auto zijn erg populair.",
-          answer: "modellen"
+          word: "parlementslid",
+          definition: "Iemand die in het parlement zit en wetten maakt",
+          sentence: "Een ___ praat over nieuwe wetten.",
+          answer: "parlementslid"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Welke ___ spreek jij het best?",
-          answer: "taal"
+          sentence: "___ is een deel van België.",
+          answer: "Vlaanderen"
         },
         {
-          sentence: "Zijn ___ is heel goed, hij maakt nooit fouten.",
-          answer: "taalgevoel"
+          sentence: "Het feest was ___, maar gaat nu verder.",
+          answer: "gepauzeerd"
         },
         {
-          sentence: "De nieuwe ___ van de auto zijn erg populair.",
-          answer: "modellen"
+          sentence: "Er is een lange ___ voor de attractie.",
+          answer: "wachtrij"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'taalgevoel'?",
+        question: "Wat betekent 'gepauzeerd' in deze tekst?",
         options: [
-          "een soort gevoel",
-          "een soort taal",
-          "een soort computer",
-          "een soort kunst"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is een computer?",
-        options: [
-          "een dier",
-          "een machine",
-          "een gebouw",
-          "een land"
+          "Gestopt",
+          "Gepauzeerd",
+          "Vergeten",
+          "Verloren"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een model?",
+        question: "Wat is de rol van een parlementslid in deze tekst?",
         options: [
-          "een persoon",
-          "een auto",
-          "een soort van iets",
-          "een stad"
+          "Kinderen adopteren",
+          "Wetten maken",
+          "In het parlement zitten",
+          "Over adoptie praten"
         ],
-        correctAnswer: 3
+        correctAnswer: 4
+      },
+      {
+        question: "Waar gaat de tekst over?",
+        options: [
+          "Een sportevenement",
+          "Kinderen die adopteren",
+          "Een nieuwe wet",
+          "Vakantie in het buitenland"
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "AI maakt taal eenvoudiger.",
-        isTrue: true
-      },
-      {
-        statement: "Taal is alleen voor ouderen.",
+        statement: "Adoptiepauze betekent dat adoptie helemaal stopt.",
         isTrue: false
       },
       {
-        statement: "Een computer kan helpen met taal leren.",
+        statement: "Sommige gezinnen wachten op adoptie.",
         isTrue: true
+      },
+      {
+        statement: "Alleen mensen in Vlaanderen kunnen adopteren.",
+        isTrue: false
       }
     ]
   },
@@ -1183,103 +1109,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "De warme bakker is steeds vaker een vrouw",
+    title: "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
     topicNumber: 1,
     article: {
-      title: "De warme bakker is steeds vaker een vrouw",
-      summary: "Veel vrouwen werken nu als bakker of patissier. In opleidingen zijn er steeds meer vrouwen. Vrouwen kunnen dit werk goed doen."
+      title: "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
+      summary: "Het Hof van Cassatie verwerpt het cassatieberoep dat advocaat Hans Rieder en zijn ex-echtgenote hadden ingesteld tegen hun veroordeling wegens belastingontduiking door domiciliefraude."
     },
     vocabulary: {
       words: [
         {
-          word: "warm",
-          definition: "niet koud, een hoge temperatuur hebbend",
-          sentence: "Het brood is ___ en vers.",
-          answer: "warm"
+          word: "hof",
+          definition: "een plaats waar rechters werken",
+          sentence: "Het ___ besliste over de zaak.",
+          answer: "hof"
         },
         {
-          word: "werken",
-          definition: "een taak uitvoeren, een job hebben",
-          sentence: "Zij ___ in de keuken.",
-          answer: "werken"
+          word: "ontduiking",
+          definition: "niet betalen wat je moet betalen",
+          sentence: "Hij pleegde ___ om minder te betalen.",
+          answer: "ontduiking"
         },
         {
-          word: "bakker",
-          definition: "iemand die brood bakt",
-          sentence: "De ___ bakt brood en koek.",
-          answer: "bakker"
+          word: "cassatie",
+          definition: "een hoger beroep bij de hoogste rechter",
+          sentence: "Hij vroeg om ___ bij de hoogste rechter.",
+          answer: "cassatie"
         },
         {
-          word: "vak",
-          definition: "een beroep, een soort werk",
-          sentence: "Het bakkers___ leert men op school.",
-          answer: "vak"
+          word: "echtgenote",
+          definition: "de vrouw in een huwelijk",
+          sentence: "Zijn ___ steunde hem niet.",
+          answer: "echtgenote"
         },
         {
-          word: "vrouwen",
-          definition: "vrouwelijke personen",
-          sentence: "De ___ werken in de bakkerij.",
-          answer: "vrouwen"
+          word: "verwerpt",
+          definition: "weigeren of niet accepteren",
+          sentence: "De rechter ___ het verzoek van de man.",
+          answer: "verwerpt"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Zij ___ in de keuken.",
-          answer: "werken"
+          sentence: "De rechter ___ het verzoek van de man.",
+          answer: "verwerpt"
         },
         {
-          sentence: "Het bakkers___ leert men op school.",
-          answer: "vak"
+          sentence: "Het ___ besliste over de zaak.",
+          answer: "hof"
         },
         {
-          sentence: "De ___ werken in de bakkerij.",
-          answer: "vrouwen"
+          sentence: "Hij vroeg om ___ bij de hoogste rechter.",
+          answer: "cassatie"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'steeds'?",
+        question: "Wat is belasting?",
         options: [
-          "snel",
-          "vaak",
-          "steeds vaker",
-          "meer en meer"
+          "Een soort bel",
+          "Een type auto",
+          "Geld dat je aan de overheid betaalt",
+          "Een sport"
         ],
-        correctAnswer: 4
+        correctAnswer: 3
       },
       {
-        question: "Wat is een 'bakker'?",
+        question: "Wat doet een advocaat?",
         options: [
-          "iemand die brood bakt",
-          "iemand die taarten maakt",
-          "iemand die koffie zet",
-          "iemand die soep kookt"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat doen vrouwen in dit verhaal?",
-        options: [
-          "Ze bakken brood",
-          "Ze werken in bakkerijen",
-          "Ze zijn allemaal moeders",
-          "Ze zijn allemaal leraars"
+          "Kookt eten",
+          "Helpt mensen met de wet",
+          "Bestuurt een auto",
+          "Speelt piano"
         ],
         correctAnswer: 2
+      },
+      {
+        question: "Wat is het Hof van Cassatie?",
+        options: [
+          "Een soort hotel",
+          "Een restaurant",
+          "De hoogste rechter in België",
+          "Een sportschool"
+        ],
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Vrouwen werken als bakker.",
+        statement: "Hans Rieder is een advocaat.",
         isTrue: true
       },
       {
-        statement: "Alleen mannen zijn bakkers.",
+        statement: "Het Hof van Cassatie heeft de advocaat vrijgesproken.",
         isTrue: false
       },
       {
-        statement: "Steeds meer vrouwen worden bakker.",
+        statement: "De advocaat en zijn ex-echtgenote zijn veroordeeld.",
         isTrue: true
       }
     ]
@@ -1289,104 +1215,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
+    title: "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
     topicNumber: 1,
     article: {
-      title: "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
-      summary: "Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven."
+      title: "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
+      summary: "Volg hier de laatste ontwikkelingen in Gaza."
     },
     vocabulary: {
       words: [
         {
-          word: "megadam",
-          definition: "Een zeer groot stuwmeer of dam, vaak gebouwd voor waterkracht of waterbeheer.",
-          sentence: "De nieuwe ___ in Ethiopië is een van de grootste in Afrika.",
-          answer: "megadam"
+          word: "Zeker",
+          definition: "Met zekerheid, zonder twijfel.",
+          sentence: "Er is ___ sprake van 26 doden na de luchtaanvallen.",
+          answer: "Zeker"
         },
         {
-          word: "jobs",
-          definition: "Werkgelegenheid; betaalde posities of functies binnen een organisatie.",
-          sentence: "Het project heeft weinig nieuwe ___ opgeleverd voor de lokale bevolking.",
-          answer: "jobs"
+          word: "doden",
+          definition: "Personen die zijn overleden, slachtoffers.",
+          sentence: "Er zijn 26 ___ geregistreerd na de aanval.",
+          answer: "doden"
         },
         {
-          word: "Addis Abeba",
-          definition: "De hoofdstad van Ethiopië, gelegen in het hoogland van het land.",
-          sentence: "___ is de hoofdstad van Ethiopië en een belangrijk cultureel centrum.",
-          answer: "Addis Abeba"
+          word: "luchtaanvallen",
+          definition: "Militaire aanvallen uitgevoerd vanuit de lucht, vaak met vliegtuigen of drones.",
+          sentence: "De ___ veroorzaakten veel schade en slachtoffers.",
+          answer: "luchtaanvallen"
         },
         {
-          word: "drinkbaar",
-          definition: "Geschikt om te drinken; veilig voor consumptie zonder gevaar voor de gezondheid.",
-          sentence: "Het water is niet langer ___ door de vervuiling.",
-          answer: "drinkbaar"
+          word: "Gaza",
+          definition: "Een gebied aan de Middellandse Zee, onderdeel van de Palestijnse gebieden.",
+          sentence: "De situatie in ___ is zeer gespannen.",
+          answer: "Gaza"
         },
         {
-          word: "stroom",
-          definition: "Elektriciteit; de stroom van elektrische energie.",
-          sentence: "Veel mensen hebben geen toegang tot ___ in hun huizen.",
-          answer: "stroom"
+          word: "ontwikkelingen",
+          definition: "Veranderingen of vooruitgangen in een situatie.",
+          sentence: "De laatste ___ wijzen op een escalatie van het conflict.",
+          answer: "ontwikkelingen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De nieuwe ___ in Ethiopië is een van de grootste in Afrika.",
-          answer: "megadam"
+          sentence: "De laatste ___ wijzen op een escalatie van het conflict.",
+          answer: "ontwikkelingen"
         },
         {
-          sentence: "Het project heeft weinig nieuwe ___ opgeleverd voor de lokale bevolking.",
-          answer: "jobs"
+          sentence: "Er zijn 26 ___ geregistreerd na de aanval.",
+          answer: "doden"
         },
         {
-          sentence: "Het water is niet langer ___ door de vervuiling.",
-          answer: "drinkbaar"
+          sentence: "De situatie in ___ is zeer gespannen.",
+          answer: "Gaza"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de belangrijkste reden dat bitcoinbedrijven naar Addis Abeba zijn gekomen?",
+        question: "Wat wordt bedoeld met 'luchtaanvallen' in deze context?",
         options: [
-          "Goedkope arbeidskrachten",
-          "Overvloed aan stroom",
-          "Gunstig belastingklimaat",
-          "Goedkope waterkrachtenergie"
+          "Bombardementen uitgevoerd door vliegtuigen",
+          "Een reeks onderhandelingen tussen landen",
+          "Een soort sportevenement in de lucht",
+          "Een type feestelijke vuurwerkshow"
         ],
-        correctAnswer: 4
+        correctAnswer: 1
       },
       {
-        question: "Wat is een van de gevolgen voor de lokale bevolking volgens de samenvatting?",
+        question: "Wat is de rol van de internationale gemeenschap volgens de tekst?",
         options: [
-          "Ze profiteren van de bitcoinhandel",
-          "Ze hebben geen toegang tot drinkbaar water",
-          "Ze krijgen goedkope stroom van de dam",
-          "Ze worden rijk door de bitcoinhandel"
+          "Ze roept op tot een wapenstilstand.",
+          "Ze voert zelf de luchtaanvallen uit.",
+          "Ze ontkent dat er slachtoffers zijn.",
+          "Ze organiseert feestelijke activiteiten in Gaza."
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Wat wordt er gezegd over de bijdrage van deze bedrijven aan Ethiopië?",
+        question: "Waar verwijst 'Gaza' concreet naar?",
         options: [
-          "Ze leveren veel banen op",
-          "Ze dragen bij aan de infrastructuur",
-          "Ze leveren amper geld en jobs op",
-          "Ze stimuleren de lokale economie enorm"
+          "Een stad in de Palestijnse gebieden.",
+          "Een historische figuur uit de Griekse mythologie.",
+          "Een type wapen gebruikt in de oorlog.",
+          "Een vredesverdrag uit 2023."
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De Ethiopische megadam biedt voornamelijk voordelen voor de lokale bevolking.",
-        isTrue: false
-      },
-      {
-        statement: "Bitcoinbedrijven in Addis Abeba maken gebruik van goedkope waterkrachtenergie.",
+        statement: "De luchtaanvallen hebben geleid tot 26 doden, aldus de berichtgeving.",
         isTrue: true
       },
       {
-        statement: "De meerderheid van de Ethiopische bevolking heeft direct profijt van de bitcoinminingactiviteiten.",
+        statement: "De tekst suggereert dat de situatie in Gaza zich aan het verbeteren is.",
         isTrue: false
+      },
+      {
+        statement: "Internationale organisaties spelen een rol in de aanloop naar deze gebeurtenissen.",
+        isTrue: true
       }
     ]
   },
@@ -1395,103 +1321,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
+    title: "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
     topicNumber: 1,
     article: {
-      title: "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
-      summary: "Een georganiseerde misdaadgroep in Griekenland haalde op frauduleuze manier bijna 20 miljoen euro Europese landbouwsubsidies binnen. De verdachten overdreven het aantal dieren waarvoor ze geld aanvroegen."
+      title: "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
+      summary: "Storm Melissa is als een orkaan van categorie vijf aan land gekomen in Jamaica. Voor het Caraïbisch eiland is het de zwaarste storm ooit."
     },
     vocabulary: {
       words: [
         {
-          word: "fraude",
-          definition: "opzettelijke misleiding of bedrog voor financieel gewin",
-          sentence: "De politie ontdekte een grote geval van ___ in de subsidieaanvragen.",
-          answer: "fraude"
+          word: "orkaan",
+          definition: "een zeer zware storm met extreme windsnelheden",
+          sentence: "De orkaan veroorzaakte enorme schade aan de kust.",
+          answer: "orkaan"
         },
         {
-          word: "subsidies",
-          definition: "financiële steun van de overheid voor een specifiek doel",
-          sentence: "Boeren kunnen vaak aanspraak maken op ___ voor duurzame landbouw.",
-          answer: "subsidies"
+          word: "categorie",
+          definition: "een classificatie of indeling, vaak gebaseerd op bepaalde kenmerken",
+          sentence: "De orkaan werd ingedeeld in de hoogste categorie vanwege de windsnelheid.",
+          answer: "categorie"
         },
         {
-          word: "verdachten",
-          definition: "personen die worden verdacht van een misdrijf",
-          sentence: "De ___ ontkennen alle aanklachten.",
-          answer: "verdachten"
+          word: "eiland",
+          definition: "een landoppervlak dat geheel door water omgeven is",
+          sentence: "Jamaica is een eiland in de Caraïben.",
+          answer: "eiland"
         },
         {
-          word: "dieren",
-          definition: "levende wezens die niet mens zijn, zoals katten of honden",
-          sentence: "De opvang bood onderdak aan tientallen ___.",
-          answer: "dieren"
+          word: "zwaarste",
+          definition: "de meest intense of ernstige in zijn soort",
+          sentence: "Dit was de zwaarste storm in de geschiedenis van het eiland.",
+          answer: "zwaarste"
         },
         {
-          word: "misdaad",
-          definition: "een illegale activiteit die strafbaar is",
-          sentence: "Hij is veroordeeld voor zijn rol in de georganiseerde ___.",
-          answer: "misdaad"
+          word: "ooit",
+          definition: "op enig moment in het verleden of de toekomst; ooit",
+          sentence: "Hebben ze ooit zo'n zware storm meegemaakt?",
+          answer: "ooit"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De politie ontdekte een grote geval van ___ in de subsidieaanvragen.",
-          answer: "fraude"
+          sentence: "Hebben ze ooit zo'n zware storm meegemaakt?",
+          answer: "ooit"
         },
         {
-          sentence: "De ___ ontkennen alle aanklachten.",
-          answer: "verdachten"
+          sentence: "De orkaan werd ingedeeld in de hoogste categorie vanwege de windsnelheid.",
+          answer: "categorie"
         },
         {
-          sentence: "De opvang bood onderdak aan tientallen ___.",
-          answer: "dieren"
+          sentence: "Dit was de zwaarste storm in de geschiedenis van het eiland.",
+          answer: "zwaarste"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat was het hoofddoel van de frauduleuze activiteiten in Griekenland?",
+        question: "Wat betekent het dat een orkaan van categorie vijf is?",
         options: [
-          "Het stelen van landbouwgrond",
-          "Het illegaal verkrijgen van EU-subsidies",
-          "Het opzetten van een nepboerderij",
-          "Het vervalsen van dierenaantallen"
+          "Zeer lichte storm",
+          "Storm met gemiddelde windsnelheid",
+          "Extreem zware storm met vernietigende kracht",
+          "Storm die alleen op zee voorkomt"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Hoe probeerden de fraudeurs hun misdaad te verbergen?",
+        question: "Wat is de impact van orkaan Melissa op Jamaica?",
         options: [
-          "Door dieren te verbergen",
-          "Door valse documenten te gebruiken",
-          "Door naar het buitenland te vluchten",
-          "Door getuigen te bedreigen"
+          "Geen impact, de storm is nog niet gearriveerd",
+          "Alleen lichte regenval, geen echte schade",
+          "Massale stroomuitval: 530.000 huishoudens zonder elektriciteit",
+          "De orkaan veroorzaakt alleen wind, geen andere problemen"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Wat was een gevolg van deze fraudezaak?",
+        question: "Hoe verhoudt orkaan Melissa zich tot eerdere stormen op Jamaica?",
         options: [
-          "De EU schafte alle subsidies af",
-          "Griekenland moest miljoenen terugbetalen",
-          "Alle verdachten werden vrijgesproken",
-          "De veestapel in Europa werd gehalveerd"
+          "Het is de lichtste storm ooit geregistreerd",
+          "Minder ernstig dan voorgaande orkanen, maar meer regen",
+          "De zwaarste storm in de recente geschiedenis van het eiland",
+          "Vergelijkbaar met andere orkanen, geen uitschieters"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De fraude was gericht op het verkrijgen van EU-subsidies voor landbouw.",
+        statement: "Orkaan Melissa is geclassificeerd als categorie vijf, wat de hoogst mogelijke is.",
         isTrue: true
       },
       {
-        statement: "Alle verdachten in deze zaak zijn uiteindelijk veroordeeld tot gevangenisstraffen.",
+        statement: "Jamaica heeft nooit eerder een orkaan meegemaakt, dit is een primeur.",
         isTrue: false
       },
       {
-        statement: "Dit incident leidde tot een tijdelijke stopzetting van EU-subsidies aan Griekenland.",
+        statement: "Naast Jamaica, wordt ook Cuba bedreigd door orkaan Melissa.",
         isTrue: true
       }
     ]
@@ -1501,104 +1427,73 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Jamaica maakt zich op voor orkaan Melissa, de zwaarste van het jaar",
+    title: "Inwoners Al-Fasher worden uitgemoord: in Noord-Soedan ontrolt zich het ergste scenario",
     topicNumber: 1,
     article: {
-      title: "Jamaica maakt zich op voor orkaan Melissa, de zwaarste van het jaar",
-      summary: "Een ramp lijkt onafwendbaar in Jamaica, nu orkaan Melissa op drie manieren kan toeslaan: met stormvloed, immense regenval en verwoestende wind. Op Haïti en de Dominicaanse Republiek vielen al vier doden."
+      title: "Inwoners Al-Fasher worden uitgemoord: in Noord-Soedan ontrolt zich het ergste scenario",
+      summary: "Uit getuigenissen, video’s en satellietbeelden blijkt dat rebellen bij de verovering van de Soedanese stad Al-Fasher volledige wijken platbranden en de inwoners uitmoorden. Burgers die proberen te vluchten, worden doodgeschoten of aan bomen opgehangen."
     },
     vocabulary: {
       words: [
         {
-          word: "immense",
-          definition: "Zeer groot of enorm in omvang of hoeveelheid.",
-          sentence: "De storm bracht ___ hoeveelheden regen.",
-          answer: "immense"
+          word: "burgers",
+          definition: "gewone inwoners van een stad of land, niet de militairen",
+          sentence: "De ___ proberen te vluchten, maar worden vaak tegengehouden.",
+          answer: "burgers"
         },
         {
-          word: "regenval",
-          definition: "De hoeveelheid neerslag die in een bepaalde periode valt.",
-          sentence: "De hevige ___ zorgde voor overstromingen in de stad.",
-          answer: "regenval"
-        },
-        {
-          word: "verwoestende",
-          definition: "Iets dat grote schade of vernieling veroorzaakt.",
-          sentence: "De orkaan had een ___ effect op de kuststad.",
-          answer: "verwoestende"
-        },
-        {
-          word: "doden",
-          definition: "Mensen die zijn overleden, meestal als gevolg van een incident.",
-          sentence: "Er vielen verschillende ___ na de aardbeving.",
-          answer: "doden"
-        },
-        {
-          word: "orkaan",
-          definition: "Een zeer zware storm met extreme windsnelheden, vaak voorkomend in tropische gebieden.",
-          sentence: "De orkaan veroorzaakte veel schade aan de kust.",
-          answer: "orkaan"
+          word: "getuigenissen",
+          definition: "mondelinge of schriftelijke verklaringen van wat iemand heeft meegemaakt",
+          sentence: "De ___ van overlevenden beschrijven gruwelijke taferelen.",
+          answer: "getuigenissen"
         }
       ],
-      fillInBlanks: [
-        {
-          sentence: "De orkaan had een ___ effect op de kuststad.",
-          answer: "verwoestende"
-        },
-        {
-          sentence: "Er vielen verschillende ___ na de aardbeving.",
-          answer: "doden"
-        },
-        {
-          sentence: "De storm bracht ___ hoeveelheden regen.",
-          answer: "immense"
-        }
-      ]
+      fillInBlanks: []
     },
     multipleChoice: [
       {
-        question: "Wat is de belangrijkste dreiging van orkaan Melissa voor Jamaica?",
+        question: "Wat is de rol van satellietbeelden volgens de tekst?",
         options: [
-          "Aardverschuivingen",
-          "Tsunami's",
-          "Stormvloed en overstromingen",
-          "Extreme hittegolven"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Hoeveel doden vielen er reeds in Haïti en de Dominicaanse Republiek als gevolg van orkaan Melissa?",
-        options: [
-          "1",
-          "2",
-          "3",
-          "4"
+          "Ze tonen de vernietiging in realtime.",
+          "Ze worden gebruikt om het weer te voorspellen.",
+          "Ze zijn alleen nuttig voor landbouw.",
+          "Ze bewijzen de misdaden die plaatsvinden."
         ],
         correctAnswer: 4
       },
       {
-        question: "Wat is een van de manieren waarop orkaan Melissa toeslaat volgens de samenvatting?",
+        question: "Hoe reageren de burgers op de situatie in Al-Fasher?",
         options: [
-          "Door extreme droogte",
-          "Met zware stormvloed",
-          "Met tornado's",
-          "Door aardbevingen te triggeren"
+          "Ze blijven thuis en wachten af.",
+          "Ze proberen te vluchten voor het geweld.",
+          "Ze vechten terug tegen de rebellen.",
+          "Ze nemen deel aan de vernietiging."
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is de houding van de rebellen ten opzichte van internationale normen?",
+        options: [
+          "Ze respecteren deze volledig.",
+          "Ze negeren deze volledig en handelen in tegendeel.",
+          "Ze zijn onbekend met deze normen.",
+          "Ze gebruiken deze normen om hun voordeel te behalen."
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Orkaan Melissa is de eerste orkaan van het jaar die Jamaica treft.",
-        isTrue: false
-      },
-      {
-        statement: "De storm heeft al doden veroorzaakt in buurlanden.",
+        statement: "De getuigenissen en video's tonen aan dat de rebellen de stad Al-Fasher volledig hebben vernietigd.",
         isTrue: true
       },
       {
-        statement: "Orkanen kunnen alleen toeslaan met extreme windsnelheden.",
+        statement: "Internationale gemeenschappen hebben effectief ingegrepen en een staakt-het-vuren bewerkstelligd.",
         isTrue: false
+      },
+      {
+        statement: "De burgers die vluchten, worden zonder uitzondering geëxecuteerd of opgehangen aan bomen.",
+        isTrue: true
       }
     ]
   },
@@ -1607,103 +1502,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Pater Herwig Arts, 90 jaar",
+    title: "Jacques Vandekerckhove, 92 jaar",
     topicNumber: 1,
     article: {
-      title: "Pater Herwig Arts, 90 jaar",
-      summary: "Geboren in 1935, overleden op 24/10/2025."
+      title: "Jacques Vandekerckhove, 92 jaar",
+      summary: "Geboren in 1933, overleden op 26/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "pater",
-          definition: "een priester of geestelijke, specifiek in een katholieke context",
-          sentence: "De ___ van het klooster leidde de mis.",
-          answer: "pater"
+          word: "Jacques",
+          definition: "Voornaam van de persoon in de titel.",
+          sentence: "___ Vandekerckhove was 92 jaar oud.",
+          answer: "Jacques"
+        },
+        {
+          word: "1933",
+          definition: "Het jaar waarin hij geboren is.",
+          sentence: "Hij werd geboren in het jaar ___.",
+          answer: "1933"
         },
         {
           word: "geboren",
-          definition: "het begin van iemands leven; ter wereld komen",
-          sentence: "Hij werd ___ in 1935.",
+          definition: "Geboren zijn, het begin van het leven.",
+          sentence: "Hij werd ___ in 1933.",
           answer: "geboren"
         },
         {
           word: "overleden",
-          definition: "gestorven; niet meer in leven",
-          sentence: "Hij is vorige week ___ na een lang ziekbed.",
+          definition: "Overleden zijn, niet meer leven.",
+          sentence: "Hij is ___ op 26/10/2025.",
           answer: "overleden"
         },
         {
-          word: "jaar",
-          definition: "een periode van 365 of 366 dagen, 12 maanden",
-          sentence: "Hij is negentig ___ oud geworden.",
-          answer: "jaar"
-        },
-        {
-          word: "overleden",
-          definition: "gestorven; niet meer in leven",
-          sentence: "Hij is helaas gisteren ___.",
-          answer: "overleden"
+          word: "92",
+          definition: "Getal dat de leeftijd weergeeft.",
+          sentence: "Hij was ___ jaar oud.",
+          answer: "92"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij werd ___ in 1935.",
-          answer: "geboren"
+          sentence: "Hij werd geboren in het jaar ___.",
+          answer: "1933"
         },
         {
-          sentence: "Hij is helaas gisteren ___.",
+          sentence: "___ Vandekerckhove was 92 jaar oud.",
+          answer: "Jacques"
+        },
+        {
+          sentence: "Hij is ___ op 26/10/2025.",
           answer: "overleden"
-        },
-        {
-          sentence: "Hij is negentig ___ oud geworden.",
-          answer: "jaar"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'overleden' in deze context?",
+        question: "Wat was de geboortedatum van Jacques Vandekerckhove?",
         options: [
-          "gestorven",
-          "vernietigd",
-          "vergeten",
-          "gevierd"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Hoe oud was Pater Herwig Arts op het moment van overlijden?",
-        options: [
-          "90 jaar",
-          "100 jaar",
-          "85 jaar",
-          "95 jaar"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "In welk jaar is Pater Herwig Arts geboren?",
-        options: [
-          "1935",
-          "1925",
-          "1945",
+          "26/10/2025",
+          "1933",
+          "26/10/1933",
           "1930"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Hoe oud was Jacques Vandekerckhove toen hij overleed?",
+        options: [
+          "92 jaar",
+          "93 jaar",
+          "91 jaar",
+          "94 jaar"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is de achternaam van Jacques?",
+        options: [
+          "Vandekerckhove",
+          "Vandekerckhoven",
+          "Vandekerkhove",
+          "Vandekerkhove"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Pater Herwig Arts is in 2025 overleden.",
+        statement: "Jacques Vandekerckhove werd geboren in 1933.",
         isTrue: true
       },
       {
-        statement: "Hij is geboren in 1930.",
+        statement: "Hij overleed op 26/10/2024.",
         isTrue: false
       },
       {
-        statement: "Hij is 90 jaar oud geworden.",
+        statement: "Hij was 92 jaar oud op het moment van overlijden.",
         isTrue: true
       }
     ]
@@ -1713,103 +1608,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
+    title: "Adoptie uit buitenland werd ‘gepauzeerd’, maar nu staan er toch weer 35 gezinnen in de wachtrij",
     topicNumber: 1,
     article: {
-      title: "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
-      summary: "Meer agenten klussen bij, en dat leidt soms tot misstanden. Minister van Binnenlandse Zaken Bernard Quintin (MR) wil de regels aanscherpen."
+      title: "Adoptie uit buitenland werd ‘gepauzeerd’, maar nu staan er toch weer 35 gezinnen in de wachtrij",
+      summary: "Veertig gezinnen in Vlaanderen zijn bezig met een traject voor buitenlandse adoptie, 35 andere werd beloofd dat ze er nog mogen instappen. En dat terwijl er al sinds eind 2023 een ‘adoptiepauze’ is afgekondigd. “De boodschap is niet helder en dat is lastig”, meent parlementslid Freya Perdaens (N-VA)."
     },
     vocabulary: {
       words: [
         {
-          word: "aanscherpen",
-          definition: "Strenger of scherper maken, bijvoorbeeld van regels of wetten",
-          sentence: "De minister wil de bestaande regels ___ om misstanden tegen te gaan.",
-          answer: "aanscherpen"
+          word: "Vlaanderen",
+          definition: "Een deel van België, specifiek de Vlaamse Gemeenschap",
+          sentence: "___ is bekend om zijn historische steden.",
+          answer: "Vlaanderen"
         },
         {
-          word: "regels",
-          definition: "Voorschriften of reglementen die moeten worden gevolgd",
-          sentence: "De minister wil nieuwe ___ introduceren om problemen te voorkomen.",
-          answer: "regels"
+          word: "adoptiepauze",
+          definition: "Een tijdelijke stop of onderbreking van adoptieprocessen",
+          sentence: "De ___ gaf ruimte voor beleidsevaluatie.",
+          answer: "adoptiepauze"
         },
         {
-          word: "leidt",
-          definition: "Veroorzaakt of resulteert in (van 'leiden tot')",
-          sentence: "Onvoldoende toezicht ___ soms tot problemen.",
-          answer: "leidt"
+          word: "buitenland",
+          definition: "Andere landen; landen die niet het eigen land zijn",
+          sentence: "Zij reisden naar het ___ voor hun vakantie.",
+          answer: "buitenland"
         },
         {
-          word: "agenten",
-          definition: "Politieagenten; personen die bij de politie werken",
-          sentence: "Meer ___ nemen deel aan bijklussen, wat soms leidt tot problemen.",
-          answer: "agenten"
+          word: "traject",
+          definition: "Het verloop of de reeks van stappen in een proces",
+          sentence: "Het ___ naar herstel was langzaam maar effectief.",
+          answer: "traject"
         },
         {
-          word: "vechtpartij",
-          definition: "Een fysiek conflict of gevecht tussen personen",
-          sentence: "Na een ___ onder collega's, worden nieuwe regels overwogen.",
-          answer: "vechtpartij"
+          word: "wachtrij",
+          definition: "Een rij of lijst van mensen of zaken die wachten op iets, zoals een behandeling of dienst",
+          sentence: "De lange ___ voor de attractie was frustrerend.",
+          answer: "wachtrij"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Meer ___ nemen deel aan bijklussen, wat soms leidt tot problemen.",
-          answer: "agenten"
+          sentence: "___ is bekend om zijn historische steden.",
+          answer: "Vlaanderen"
         },
         {
-          sentence: "Na een ___ onder collega's, worden nieuwe regels overwogen.",
-          answer: "vechtpartij"
+          sentence: "De ___ gaf ruimte voor beleidsevaluatie.",
+          answer: "adoptiepauze"
         },
         {
-          sentence: "De minister wil de bestaande regels ___ om misstanden tegen te gaan.",
-          answer: "aanscherpen"
+          sentence: "Het ___ naar herstel was langzaam maar effectief.",
+          answer: "traject"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom wil de minister de regels aanscherpen?",
+        question: "Wat betekent 'adoptiepauze' in deze context?",
         options: [
-          "Omdat er te weinig agenten zijn",
-          "Omdat bijklussen soms leidt tot conflicten en problemen",
-          "Omdat de politie niet genoeg betaalt",
-          "Omdat het ministerie nieuwe wetten wil testen"
+          "Een permanente stop",
+          "Een tijdelijke onderbreking van adoptieprocessen",
+          "Een versnelling van adoptieprocedures",
+          "Een feestelijke gebeurtenis"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is 'bijklussen' in deze context?",
+        question: "Waarom noemt parlementslid Perdaens de boodschap 'niet helder'?",
         options: [
-          "Het schoonmaken van politieauto's na dienst",
-          "Het nemen van extra betaald werk buiten de hoofdbaan om",
-          "Het trainen voor fysieke fitheid",
-          "Het deelnemen aan protestacties"
+          "Omdat er te veel informatie is",
+          "Omdat de communicatie onduidelijk en verwarrend is",
+          "Omdat de boodschap in een vreemde taal is gesteld",
+          "Omdat de boodschap alleen voor bepaalde groepen is bedoeld"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de rol van de minister in deze kwestie?",
+        question: "Wat is de hoofdgedachte van dit artikel?",
         options: [
-          "Hij organiseert wekelijkse vechtpartijen voor teamontwikkeling",
-          "Hij biedt financiële steun aan agenten die bijklussen",
-          "Hij evalueert nieuwe technologie voor politiewerk",
-          "Hij overweegt regels aan te scherpen om misstanden te voorkomen"
+          "Adoptie is volledig stopgezet",
+          "Adoptie uit het buitenland is hervat ondanks eerdere pauze",
+          "Vlaanderen stopt alle adoptie",
+          "Adoptie is alleen voor grote gezinnen"
         ],
-        correctAnswer: 4
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Bijklussen door politieagenten wordt altijd gesteund door het management.",
+        statement: "De adoptiepauze in Vlaanderen is permanent van kracht.",
         isTrue: false
       },
       {
-        statement: "Het aanscherpen van regels kan helpen om problemen in de toekomst te voorkomen.",
+        statement: "Er staan momenteel gezinnen op een wachtlijst voor adoptie.",
         isTrue: true
       },
       {
-        statement: "De minister van Binnenlandse Zaken is verantwoordelijk voor het direct aanstellen van politieagenten.",
+        statement: "Parlementslid Perdaens vindt de communicatie over adoptie zeer duidelijk.",
         isTrue: false
       }
     ]
@@ -1819,104 +1714,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "De warme bakker is steeds vaker een vrouw: “Na tien broden bakken wist ik: hier word ik gelukkig van”",
+    title: "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
     topicNumber: 1,
     article: {
-      title: "De warme bakker is steeds vaker een vrouw: “Na tien broden bakken wist ik: hier word ik gelukkig van”",
-      summary: "Van een passie voor millefeuille tot ambachtelijke zuurdesembroden, steeds vaker kiezen vrouwen voor een job als bakker of patissier. In verschillende bakkersopleidingen maken ze intussen meer dan de helft van de leerlingen uit. “Vrouwen hebben de finesse sneller in de vingers.”"
+      title: "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
+      summary: "Het Hof van Cassatie verwerpt het cassatieberoep dat advocaat Hans Rieder en zijn ex-echtgenote hadden ingesteld tegen hun veroordeling wegens belastingontduiking door domiciliefraude."
     },
     vocabulary: {
       words: [
         {
-          word: "finesse",
-          definition: "de aanwezigheid van stijl, elegantie en precisie in iets",
-          sentence: "De danser beweegt met grote ___.",
-          answer: "finesse"
+          word: "definitief",
+          definition: "Iets dat eindelijk is beslist en niet meer verandert.",
+          sentence: "De uitspraak van de rechter is ___, er is geen beroep meer mogelijk.",
+          answer: "definitief"
         },
         {
-          word: "vrouw",
-          definition: "een volwassen mens van het vrouwelijk geslacht",
-          sentence: "De ___ werkt parttime in de zorg.",
-          answer: "vrouw"
+          word: "verwerpt",
+          definition: "Niet accepteren of goedkeuren; afwijzen.",
+          sentence: "De rechter ___ het beroep omdat het ongegrond was.",
+          answer: "verwerpt"
         },
         {
-          word: "bakker",
-          definition: "een persoon die brood en ander gebak bereidt als beroep",
-          sentence: "De ___ werkt vaak in de vroege ochtend.",
-          answer: "bakker"
+          word: "domiciliefraude",
+          definition: "Het frauduleus aangeven van een onjuist adres met als doel belasting te ontduiken.",
+          sentence: "Het echtpaar werd schuldig bevonden aan ___.",
+          answer: "domiciliefraude"
         },
         {
-          word: "millefeuille",
-          definition: "een Frans gebakje gemaakt van lajes bladerdeeg met crème ertussen, letterlijk vertaald 'duizend lagen'",
-          sentence: "De ___ smaakte hemels met de karamel.",
-          answer: "millefeuille"
+          word: "cassatieberoep",
+          definition: "Een verzoek aan een hogere rechter om een eerdere uitspraak te herzien.",
+          sentence: "Het Hof stelt de uitspraak van de lagere rechter niet ___.",
+          answer: "cassatieberoep"
         },
         {
-          word: "ambachtelijke",
-          definition: "gemaakt met traditionele, handmatige methoden in plaats van door machines",
-          sentence: "De ___ kaas was heerlijk bij het brood.",
-          answer: "ambachtelijke"
+          word: "advocaat",
+          definition: "Een persoon die is opgeleid om juridische bijstand te verlenen.",
+          sentence: "De ___ verdedigde zijn cliënt met overtuiging.",
+          answer: "advocaat"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De danser beweegt met grote ___.",
-          answer: "finesse"
+          sentence: "Het echtpaar werd schuldig bevonden aan ___.",
+          answer: "domiciliefraude"
         },
         {
-          sentence: "De ___ werkt parttime in de zorg.",
-          answer: "vrouw"
+          sentence: "De rechter ___ het beroep omdat het ongegrond was.",
+          answer: "verwerpt"
         },
         {
-          sentence: "De ___ kaas was heerlijk bij het brood.",
-          answer: "ambachtelijke"
+          sentence: "Het Hof stelt de uitspraak van de lagere rechter niet ___.",
+          answer: "cassatieberoep"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom kiezen steeds meer vrouwen voor een baan als bakker of patissier?",
+        question: "Wat betekent 'domiciliefraude' in deze context?",
         options: [
-          "Omdat ze van koken houden.",
-          "Vanwege de creativiteit en precisie die het vak vereist.",
-          "Omdat het werk goed betaalt.",
-          "Omdat ze in een bakkerij zijn opgegroeid."
+          "Het frauduleus veranderen van het woonadres",
+          "Het legaal optimaliseren van belastingen",
+          "Het onbedoeld foutief aangeven van een adres",
+          "Het verbergen van belastingdocumenten"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Wat maakt patisserie tot een geschikt vak voor mensen met oog voor detail?",
+        question: "Wat is de rol van het Hof van Cassatie in deze zaak?",
         options: [
-          "Het is niet geschikt, het is te chaotisch.",
-          "Omdat je moet kunnen multitasken.",
-          "Omdat het precisiewerk vereist, net als bij een kunstenaar.",
-          "Het is alleen geschikt voor mensen die van zoet houden."
+          "Het heeft de zaak heropend",
+          "Het heeft het beroep van de verdachten goedgekeurd",
+          "Het heeft het beroep van de verdachten afgewezen",
+          "Het heeft de zaak geseponeerd"
         ],
         correctAnswer: 3
       },
       {
-        question: "Waarom zijn vrouwen volgens de tekst succesvol in patisserie?",
+        question: "Wat is het gevolg van de uitspraak voor Hans Rieder?",
         options: [
-          "Ze hebben sterkere spieren.",
-          "Ze zijn niet succesvoller dan mannen.",
-          "Ze hebben een natuurlijk talent voor precisie en geduld.",
-          "Ze werken alleen in teams."
+          "Hij wordt vrijgesproken van alle charges",
+          "Hij moet een boete betalen maar komt niet in de cel",
+          "Hij ontvangt een schadevergoeding van de staat",
+          "Zijn straf is definitief en moet worden uitgezeten"
         ],
-        correctAnswer: 3
+        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "Vrouwen domineren nu de bakkerijopleidingen.",
+        statement: "Hans Rieder werd veroordeeld voor het niet declareren van belasting, maar dit werd later herroepen.",
         isTrue: false
       },
       {
-        statement: "Patisserie is een vak dat vooral geduld en creativiteit vereist.",
+        statement: "Het Hof van Cassatie heeft het cassatieberoep van Hans Rieder en zijn ex-echtgenote afgewezen.",
         isTrue: true
       },
       {
-        statement: "Mannen hebben over het algemeen meer fysieke kracht, wat nodig is in een bakkerij.",
-        isTrue: false
+        statement: "Domiciliefraude is een vorm van belastingontduiking waarbij men zich inschrijft op een onjuist adres.",
+        isIsTrue: true
       }
     ]
   },
@@ -1925,104 +1820,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
+    title: "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
     topicNumber: 1,
     article: {
-      title: "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
-      summary: "Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven."
+      title: "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
+      summary: "Volg hier de laatste ontwikkelingen in Gaza."
     },
     vocabulary: {
       words: [
         {
-          word: "megadam",
-          definition: "een heel grote dam",
-          sentence: "De ___ is van steen en beton.",
-          answer: "megadam"
+          word: "op",
+          definition: "op iets, op een plaats of tijdstip",
+          sentence: "Hij is ___ school.",
+          answer: "op"
         },
         {
-          word: "water",
-          definition: "vloeistof zonder kleur en geur, om te drinken of te gebruiken",
-          sentence: "Schoon ___ is belangrijk voor gezondheid.",
-          answer: "water"
+          word: "Gaza",
+          definition: "een plaats in het Midden-Oosten",
+          sentence: "___ is een stad met veel problemen.",
+          answer: "Gaza"
         },
         {
-          word: "drinkbaar",
-          definition: "geschikt om te drinken",
-          sentence: "Het water is niet ___.",
-          answer: "drinkbaar"
+          word: "doden",
+          definition: "mensen die gestorven zijn",
+          sentence: "Er vielen veel ___ in het conflict.",
+          answer: "doden"
         },
         {
-          word: "bedrijven",
-          definition: "organisaties die producten of diensten verkopen",
-          sentence: "Sommige ___ zijn heel groot en hebben veel werknemers.",
-          answer: "bedrijven"
+          word: "na",
+          definition: "na iets, na een tijd of gebeurtenis",
+          sentence: "We gaan eten ___ het werk.",
+          answer: "na"
         },
         {
-          word: "bitcoinboys",
-          definition: "mensen die veel met bitcoin bezig zijn",
-          sentence: "De ___ zijn vooral mannen.",
-          answer: "bitcoinboys"
+          word: "nieuwe",
+          definition: "vers, nieuw, recent",
+          sentence: "Hij kocht een ___ auto.",
+          answer: "nieuwe"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ is van steen en beton.",
-          answer: "megadam"
+          sentence: "Hij is ___ school.",
+          answer: "op"
         },
         {
-          sentence: "Het water is niet ___.",
-          answer: "drinkbaar"
+          sentence: "___ is een stad met veel problemen.",
+          answer: "Gaza"
         },
         {
-          sentence: "Sommige ___ zijn heel groot en hebben veel werknemers.",
-          answer: "bedrijven"
+          sentence: "Hij kocht een ___ auto.",
+          answer: "nieuwe"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is een megadam?",
+        question: "Wat betekent 'doden' in deze context?",
         options: [
-          "Een klein stuwmeer",
-          "Een enorme dam",
-          "Een soort computer",
-          "Een Ethiopisch gerecht"
+          "mensen die gestorven zijn",
+          "een soort dier",
+          "een soort voedsel",
+          "een soort gebouw"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Waarom komen bitcoinbedrijven naar Ethiopië?",
+        question: "Waar verwijst 'Gaza' naar?",
         options: [
-          "Om de natuur te beschermen",
-          "Omdat de energie daar heel goedkoop is",
-          "Omdat ze daar vrienden hebben",
-          "Omdat Ethiopië zo mooi is"
+          "een stad in Palestina",
+          "een dier",
+          "een soort muziek",
+          "een beroemde persoon"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Wat is een probleem voor de lokale bevolking?",
+        question: "Wat betekent 'luchtaanvallen'?",
         options: [
-          "Ze hebben te veel stroom",
-          "Ze hebben geen stroom en geen drinkwater",
-          "Ze krijgen te veel geld van de bedrijven",
-          "Ze hebben te veel werk"
+          "aanvallen die vanuit de lucht worden uitgevoerd",
+          "een soort feest",
+          "een soort sport",
+          "een soort voertuig"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De bitcoinbedrijven helpen de lokale bevolking.",
-        isTrue: false
-      },
-      {
-        statement: "Ethiopië is een land in Afrika.",
+        statement: "Er vielen 26 doden na de luchtaanvallen.",
         isTrue: true
       },
       {
-        statement: "De megadam geeft stroom aan alle Ethiopiërs.",
+        statement: "Gaza is een stad in Nederland.",
         isTrue: false
+      },
+      {
+        statement: "Luchtaanvallen gebeuren vanuit vliegtuigen.",
+        isTrue: true
       }
     ]
   },
@@ -2031,104 +1926,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
+    title: "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
     topicNumber: 1,
     article: {
-      title: "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
-      summary: "Een groep in Griekenland heeft bijna 20 miljoen euro aan EU-subsidies gekregen door te frauderen. Zij deden alsof ze veel meer dieren hadden dan in werkelijkheid."
+      title: "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
+      summary: "Storm Melissa is als een orkaan van categorie vijf aan land gekomen in Jamaica. Voor het Caraïbisch eiland is het de zwaarste storm ooit."
     },
     vocabulary: {
       words: [
         {
-          word: "meer",
-          definition: "Een grotere hoeveelheid, extra.",
-          sentence: "Hij heeft ___ boeken dan ik, dus zijn kast is voller.",
-          answer: "meer"
+          word: "Caraïbisch",
+          definition: "van of over het Caribisch gebied, een gebied met veel eilanden",
+          sentence: "Jamaica is een land in het Caraïbisch gebied.",
+          answer: "Caraïbisch"
         },
         {
-          word: "geiten",
-          definition: "Een dier dat melk geeft en op boerderijen leeft.",
-          sentence: "De boer heeft veel ___ die melk geven.",
-          answer: "geiten"
+          word: "orkaan",
+          definition: "een hele zware storm met veel wind",
+          sentence: "De orkaan veroorzaakte veel schade.",
+          answer: "orkaan"
         },
         {
-          word: "schapen",
-          definition: "Een dier met wol dat op boerderijen leeft.",
-          sentence: "De herder heeft veel ___ die hij scheert voor wol.",
-          answer: "schapen"
+          word: "categorie",
+          definition: "een soort groep of type",
+          sentence: "De orkaan was van categorie vijf, de hoogste.",
+          answer: "categorie"
         },
         {
-          word: "alsof",
-          definition: "Een woord om aan te geven dat iets niet echt is, maar alleen lijkt zo.",
-          sentence: "Hij gedraagt zich ___ hij de baas is, maar dat is hij niet.",
-          answer: "alsof"
+          word: "storm",
+          definition: "heel slecht weer met veel wind en regen",
+          sentence: "De storm blies bomen omver.",
+          answer: "storm"
         },
         {
-          word: "subsidies",
-          definition: "Geld dat de overheid geeft voor een bepaald doel.",
-          sentence: "De boer ontvangt ___ van de EU om zijn land te verbeteren.",
-          answer: "subsidies"
+          word: "zonder",
+          definition: "niet met, niet in bezit van",
+          sentence: "Veel huizen zijn zonder stroom na de storm.",
+          answer: "zonder"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De boer ontvangt ___ van de EU om zijn land te verbeteren.",
-          answer: "subsidies"
+          sentence: "Jamaica is een land in het Caraïbisch gebied.",
+          answer: "Caraïbisch"
         },
         {
-          sentence: "Hij heeft ___ boeken dan ik, dus zijn kast is voller.",
-          answer: "meer"
+          sentence: "Veel huizen zijn zonder stroom na de storm.",
+          answer: "zonder"
         },
         {
-          sentence: "De boer heeft veel ___ die melk geven.",
-          answer: "geiten"
+          sentence: "De orkaan was van categorie vijf, de hoogste.",
+          answer: "categorie"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar ging de fraude over?",
+        question: "Wat is een orkaan?",
         options: [
-          "Over te veel dieren vragen",
-          "Over te weinig dieren vragen",
-          "Over het stelen van dieren",
-          "Over het kopen van dieren"
+          "Een soort dier",
+          "Een soort feest",
+          "Een hele zware storm",
+          "Een soort auto"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat betekent 'zonder stroom'?",
+        options: [
+          "Er is geen elektriciteit",
+          "Er is veel wind",
+          "Er is veel water",
+          "Er is geen probleem"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is 'subsidies'?",
+        question: "Waar is Jamaica?",
         options: [
-          "Een soort belasting",
-          "Geld van de overheid",
-          "Een soort verzekering",
-          "Een soort lening"
+          "In Azië",
+          "In Europa",
+          "In het Caribisch gebied",
+          "In de woestijn"
         ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is het tegenovergestelde van 'meer'?",
-        options: [
-          "Minder",
-          "Meer",
-          "Veel",
-          "Weinig"
-        ],
-        correctAnswer: 1
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De groep in Griekenland kreeg geld van de EU.",
-        isTrue: true
-      },
-      {
-        statement: "De dieren waren echt en vielen de groep aan.",
+        statement: "Orkaan Melissa is een lichte storm.",
         isTrue: false
       },
       {
-        statement: "De groep had minder dieren dan ze zeiden.",
+        statement: "Jamaica is een eiland in de Caribische Zee.",
         isTrue: true
+      },
+      {
+        statement: "Er zijn geen problemen met elektriciteit na de storm.",
+        isTrue: false
       }
     ]
   },
@@ -2137,104 +2032,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Orkaan Melissa treft Jamaica",
+    title: "Geweld in Al-Fasher, Soedan",
     topicNumber: 1,
     article: {
-      title: "Orkaan Melissa treft Jamaica",
-      summary: "Orkaan Melissa brengt veel schade in Jamaica. Er is veel regen en harde wind. Er zijn ook overstromingen. Er zijn al vier doden in buurlanden."
+      title: "Geweld in Al-Fasher, Soedan",
+      summary: "In Al-Fasher, Soedan is veel geweld. Rebellen vernielen huizen en doden mensen. Mensen die vluchten worden ook gedood. Dit is erg en moet stoppen."
     },
     vocabulary: {
       words: [
         {
-          word: "doden",
-          definition: "mensen die zijn overleden",
-          sentence: "Helaas waren er meerdere doden door de orkaan.",
-          answer: "doden"
+          word: "geweld",
+          definition: "iets met veel kracht of pijn doen",
+          sentence: "___ maakt alles kapot en pijnlijk.",
+          answer: "geweld"
         },
         {
-          word: "schade",
-          definition: "wat kapot of beschadigd is",
-          sentence: "De storm veroorzaakte veel schade aan huizen en straten.",
-          answer: "schade"
+          word: "rebellen",
+          definition: "mensen die tegen een groep vechten",
+          sentence: "De ___ zijn degenen die aanvallen in Soedan.",
+          answer: "rebellen"
         },
         {
-          word: "buurland",
-          definition: "een land dat naast een ander land ligt",
-          sentence: "Haïti is een buurland van de Dominicaanse Republiek.",
-          answer: "buurland"
+          word: "huizen",
+          definition: "plaatsen waar mensen wonen",
+          sentence: "Hun ___ waren kapot na het gevecht.",
+          answer: "huizen"
         },
         {
-          word: "land",
-          definition: "een gebied met eigen regering, zoals Nederland of België",
-          sentence: "Jamaica is een eiland, maar het is ook een land.",
-          answer: "land"
+          word: "vluchten",
+          definition: "weggaan van een gevaarlijke plek",
+          sentence: "Mensen willen ___ uit de stad tijdens de oorlog.",
+          answer: "vluchten"
         },
         {
-          word: "orkaan",
-          definition: "een hele zware storm met veel wind en regen",
-          sentence: "Een orkaan kan veel schade veroorzaken.",
-          answer: "orkaan"
+          word: "mensen",
+          definition: "alle personen, mannen, vrouwen en kinderen",
+          sentence: "Alle ___ moeten veilig zijn, ook in Soedan.",
+          answer: "mensen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De storm veroorzaakte veel schade aan huizen en straten.",
-          answer: "schade"
+          sentence: "Mensen willen ___ uit de stad tijdens de oorlog.",
+          answer: "vluchten"
         },
         {
-          sentence: "Een orkaan kan veel schade veroorzaken.",
-          answer: "orkaan"
+          sentence: "Hun ___ waren kapot na het gevecht.",
+          answer: "huizen"
         },
         {
-          sentence: "Helaas waren er meerdere doden door de orkaan.",
-          answer: "doden"
+          sentence: "De ___ zijn degenen die aanvallen in Soedan.",
+          answer: "rebellen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is orkaan Melissa?",
+        question: "Waar gaat de tekst over?",
         options: [
-          "Een soort dier",
-          "Een type auto",
-          "Een zware storm",
-          "Een feestdag"
+          "Een feest in Soedan",
+          "Een sportwedstrijd",
+          "Een oorlog in Soedan",
+          "Een nieuwe school"
         ],
         correctAnswer: 3
       },
       {
-        question: "Waar heeft orkaan Melissa veel effect gehad?",
+        question: "Wat doen de rebellen?",
         options: [
-          "Alleen in Jamaica",
-          "Alleen in de Verenigde Staten",
-          "In Jamaica en buurlanden",
-          "Alleen in Europa"
+          "Ze helpen mensen",
+          "Ze maken muziek",
+          "Ze vernielen huizen en doden mensen",
+          "Ze bouwen nieuwe huizen"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is een gevolg van de orkaan?",
+        question: "Wat gebeurt er met mensen die vluchten?",
         options: [
-          "Mensen verhuizen naar de maan",
-          "Er is veel schade en er zijn doden",
-          "De orkaan brengt alleen regen",
-          "De orkaan zorgt voor feest"
+          "Ze worden geholpen",
+          "Ze worden gedood",
+          "Ze gaan dansen",
+          "Ze krijgen nieuwe kleren"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Orkaan Melissa veroorzaakt alleen regen.",
-        isTrue: false
-      },
-      {
-        statement: "Er zijn meerdere doden gevallen door de orkaan.",
+        statement: "De stad Al-Fasher is in Soedan.",
         isTrue: true
       },
       {
-        statement: "Orkaan Melissa is een feestelijke gebeurtenis in Jamaica.",
+        statement: "Rebellen helpen alle mensen in Soedan.",
         isTrue: false
+      },
+      {
+        statement: "Veel mensen sterven in deze oorlog.",
+        isTrue: true
       }
     ]
   },
@@ -2243,103 +2138,97 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Pater Herwig Arts, 90 jaar",
+    title: "Jacques Vandekerckhove, 92 jaar",
     topicNumber: 1,
     article: {
-      title: "Pater Herwig Arts, 90 jaar",
-      summary: "Geboren in 1935, overleden op 24/10/2025."
+      title: "Jacques Vandekerckhove, 92 jaar",
+      summary: "Hij is geboren in 1933 en overleden op 26/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "Arts",
-          definition: "een achternaam, hier van de persoon",
-          sentence: "Zijn achternaam is ___.",
-          answer: "Arts"
+          word: "geboren",
+          definition: "het begin van iemands leven; geboren worden",
+          sentence: "Hij is ___ in 1933.",
+          answer: "geboren"
         },
         {
-          word: "Pater",
-          definition: "een priester, vooral in een klooster",
-          sentence: "De ___ geeft leiding aan de gemeenschap.",
-          answer: "Pater"
+          word: "overleden",
+          definition: "niet meer leven; gestorven zijn",
+          sentence: "Hij is ___ op 26/10/2025.",
+          answer: "overleden"
         },
         {
-          word: "1935",
-          definition: "het jaar negentienhonderdvijfendertig",
-          sentence: "Hij is geboren in ___.",
-          answer: "1935"
+          word: "jaar",
+          definition: "een periode van 365 dagen; 12 maanden",
+          sentence: "Hij is 92 ___ oud.",
+          answer: "jaar"
         },
         {
-          word: "2025",
-          definition: "het jaar tweeduizendvijfentwintig",
-          sentence: "Hij overleed in ___.",
-          answer: "2025"
-        },
-        {
-          word: "90",
-          definition: "het getal negentig, hier de leeftijd",
-          sentence: "Hij werd ___ jaar oud.",
-          answer: "90"
+          word: "hij",
+          definition: "een mannelijk persoon; die persoon",
+          sentence: "___ is de man in dit verhaal.",
+          answer: "hij"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij is geboren in ___.",
-          answer: "1935"
+          sentence: "Hij is ___ op 26/10/2025.",
+          answer: "overleden"
         },
         {
-          sentence: "Hij werd ___ jaar oud.",
-          answer: "90"
+          sentence: "Hij is ___ in 1933.",
+          answer: "geboren"
         },
         {
-          sentence: "Zijn achternaam is ___.",
-          answer: "Arts"
+          sentence: "Hij is 92 ___ oud.",
+          answer: "jaar"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "In welk jaar is Pater Herwig Arts geboren?",
+        question: "Wat is de geboortedatum van Jacques?",
         options: [
-          "1920",
-          "1935",
-          "1940",
-          "1945"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Hoe oud werd Pater Herwig Arts?",
-        options: [
-          "80 jaar",
-          "85 jaar",
-          "89 jaar",
-          "90 jaar"
-        ],
-        correctAnswer: 4
-      },
-      {
-        question: "Op welke datum overleed Pater Herwig Arts?",
-        options: [
-          "24 oktober 2025",
-          "24 november 2025",
-          "24 december 2025",
-          "24 januari 2025"
+          "1933",
+          "1923",
+          "1943",
+          "1953"
         ],
         correctAnswer: 1
+      },
+      {
+        question: "Hoe oud was Jacques op het moment van overlijden?",
+        options: [
+          "92 jaar",
+          "93 jaar",
+          "94 jaar",
+          "95 jaar"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "In welke maand overleed Jacques?",
+        options: [
+          "Januari",
+          "Februari",
+          "Oktober",
+          "December"
+        ],
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Pater Herwig Arts is geboren in 1935.",
+        statement: "Jacques overleed in het jaar 2025.",
         isTrue: true
       },
       {
-        statement: "Hij overleed in het jaar 2024.",
+        statement: "Jacques was 91 jaar oud toen hij overleed.",
         isTrue: false
       },
       {
-        statement: "Hij werd 90 jaar oud.",
+        statement: "Jacques werd geboren in de 20e eeuw.",
         isTrue: true
       }
     ]
@@ -2349,103 +2238,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
+    title: "Adoptie uit buitenland werd 'gepauzeerd', maar nu staan er toch weer 35 gezinnen in de wachtrij",
     topicNumber: 1,
     article: {
-      title: "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
-      summary: "AI-modellen zoals ChatGPT maken onze taal vlakker, stelt computerlinguïst Tim Van de Cruys vast. Tegelijk wordt ons eigen taalgevoel misschien nog belangrijker door AI. Hoe beter je de taal al beheerst, hoe beter een AI-model voor jou zal werken."
+      title: "Adoptie uit buitenland werd 'gepauzeerd', maar nu staan er toch weer 35 gezinnen in de wachtrij",
+      summary: "Veertig gezinnen in Vlaanderen zijn bezig met een traject voor buitenlandse adoptie, 35 andere werd beloofd dat ze er nog mogen instappen. En dat terwijl er al sinds eind 2023 een 'adoptiepauze' is afgekondigd. 'De boodschap is niet helder en dat is lastig', meent parlementslid Freya Perdaens (N-VA)."
     },
     vocabulary: {
       words: [
         {
-          word: "Helpt",
-          definition: "Helpt betekent dat het ondersteunt of bijdraagt aan iets.",
-          sentence: "Als iemand je ___ bij je huiswerk, wordt het werk makkelijker.",
-          answer: "helpt"
+          word: "buitenland",
+          definition: "andere landen, niet het eigen land",
+          sentence: "Sommige kinderen komen uit het ___.",
+          answer: "buitenland"
         },
         {
-          word: "taal",
-          definition: "Taal is de manier waarop mensen met elkaar communiceren, zoals door te praten of te schrijven.",
-          sentence: "Welke ___ spreek jij het beste? Nederlands, Engels of Spaans?",
-          answer: "taal"
+          word: "pauze",
+          definition: "een korte stop of onderbreking",
+          sentence: "De adoptie werd even ___ gezet.",
+          answer: "pauze"
         },
         {
-          word: "belangrijker",
-          definition: "Belangrijker betekent dat iets meer waarde of betekenis heeft dan iets anders.",
-          sentence: "Is gezondheid ___ dan geld? Ja, want zonder gezondheid kan je niet genieten van geld.",
-          answer: "belangrijker"
+          word: "parlementslid",
+          definition: "een persoon die in het parlement werkt, de volksvertegenwoordiger",
+          sentence: "Een ___ geeft commentaar op de situatie.",
+          answer: "parlementslid"
         },
         {
-          word: "is",
-          definition: "Is is een vorm van 'zijn', dat gebruikt wordt om te zeggen wat iets of iemand is.",
-          sentence: "Mijn naam ___ John, en ik kom uit Engeland.",
-          answer: "is"
+          word: "boodschap",
+          definition: "een bericht of mededeling",
+          sentence: "De ___ van de overheid was niet duidelijk.",
+          answer: "boodschap"
         },
         {
-          word: "wordt",
-          definition: "Wordt is een werkwoordsvorm die aangeeft dat iets gebeurt of verandert.",
-          sentence: "Hij ___ elke dag beter in Nederlands na veel oefenen.",
-          answer: "wordt"
+          word: "wachtrij",
+          definition: "een lijst of rij van mensen die wachten",
+          sentence: "Er staan veel mensen in de ___ voor adoptie.",
+          answer: "wachtrij"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij ___ elke dag beter in Nederlands na veel oefenen.",
-          answer: "wordt"
+          sentence: "De ___ van de overheid was niet duidelijk.",
+          answer: "boodschap"
         },
         {
-          sentence: "Als iemand je ___ bij je huiswerk, wordt het werk makkelijker.",
-          answer: "helpt"
+          sentence: "Sommige kinderen komen uit het ___.",
+          answer: "buitenland"
         },
         {
-          sentence: "Welke ___ spreek jij het beste? Nederlands, Engels of Spaans?",
-          answer: "taal"
+          sentence: "Er staan veel mensen in de ___ voor adoptie.",
+          answer: "wachtrij"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent het woord 'helpt' in deze context?",
+        question: "Waar ging de adoptiepauze over?",
         options: [
-          "Het betekent 'stopt' of 'eindigt'",
-          "Het betekent 'ondersteunt' of 'assisteert'",
-          "Het betekent 'verwondt' of 'beschadigt'",
-          "Het betekent 'vergeet' of 'negeert'"
+          "Het tijdelijk stoppen van adoptie uit het buitenland",
+          "Het versnellen van adoptieprocedures",
+          "Het helpen van gezinnen in de wachtrij",
+          "Het annuleren van alle adoptieverzoeken"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is de rol van een parlementslid in deze context?",
+        options: [
+          "Het maken van nieuwe wetten",
+          "Het geven van commentaar op situaties",
+          "Het leiden van adoptieprocedures",
+          "Het ondersteunen van adoptiegezinnen financieel"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waarom is taal belangrijk volgens de tekst?",
+        question: "Wat betekent 'wachtrij' in deze tekst?",
         options: [
-          "Omdat taal alleen voor schrijven wordt gebruikt",
-          "Omdat taal helpt bij communicatie en begrip",
-          "Omdat taal alleen in boeken bestaat",
-          "Omdat taal alleen door computers wordt gebruikt"
+          "Een soort van attractie in een pretpark",
+          "Een lange rij mensen die wachten",
+          "Een speciale rij voor adoptiegezinnen",
+          "Een tijdelijke stop van processen"
         ],
         correctAnswer: 2
-      },
-      {
-        question: "Hoe beïnvloedt AI onze taalvaardigheid?",
-        options: [
-          "Het maakt taal volledig irrelevant",
-          "Het vermindert onze behoefte om taal te leren",
-          "Het versterkt het belang van goed taalgebruik",
-          "Het heeft helemaal geen effect op taal"
-        ],
-        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "AI maakt taal minder belangrijk voor mensen.",
+        statement: "Adoptie uit het buitenland is helemaal gestopt in Vlaanderen.",
         isTrue: false
       },
       {
-        statement: "Goede kennis van taal helpt je om AI beter te gebruiken.",
+        statement: "Een parlementslid geeft commentaar op de adoptiepauze.",
         isTrue: true
       },
       {
-        statement: "AI kan alle talen ter wereld perfect vertalen zonder fouten.",
+        statement: "Er zijn nu meer dan 100 gezinnen in de wachtrij voor adoptie.",
         isTrue: false
       }
     ]
@@ -2455,104 +2344,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "De warme bakker is steeds vaker een vrouw",
+    title: "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
     topicNumber: 1,
     article: {
-      title: "De warme bakker is steeds vaker een vrouw",
-      summary: "Steeds meer vrouwen kiezen voor een baan als bakker of patissier. In veel bakkersopleidingen zijn vrouwen in de meerderheid. Vrouwen hebben vaak een goede aanleg voor dit werk."
+      title: "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
+      summary: "Het Hof van Cassatie verwerpt het cassatieberoep dat advocaat Hans Rieder en zijn ex-echtgenote hadden ingesteld tegen hun veroordeling wegens belastingontduiking door domiciliefraude."
     },
     vocabulary: {
       words: [
         {
-          word: "bakker",
-          definition: "iemand die brood bakt",
-          sentence: "De ___ maakt brood en taarten.",
-          answer: "bakker"
+          word: "belasting",
+          definition: "geld dat je moet betalen aan de overheid",
+          sentence: "Mensen moeten ___ betalen als ze geld verdienen.",
+          answer: "belasting"
         },
         {
-          word: "opleiding",
-          definition: "een cursus of studie om iets te leren",
-          sentence: "De ___ tot bakker duurt twee jaar.",
-          answer: "opleiding"
+          word: "ontduiking",
+          definition: "niet betalen wat je moet betalen",
+          sentence: "Hij deed aan ___ om geld te besparen.",
+          answer: "ontduiking"
         },
         {
-          word: "steeds",
-          definition: "meer en meer, in toenemende mate",
-          sentence: "___ vaker zie je vrouwen in de bakkerij.",
-          answer: "steeds"
+          word: "echtgenote",
+          definition: "de vrouw in een huwelijk",
+          sentence: "Zijn ex-___ helpt hem niet meer.",
+          answer: "echtgenote"
         },
         {
-          word: "warm",
-          definition: "niet koud, met een hoge temperatuur",
-          sentence: "Het brood is nog ___ als het uit de oven komt.",
-          answer: "warm"
+          word: "veroordeling",
+          definition: "een uitspraak van de rechter dat iemand schuldig is",
+          sentence: "De rechter gaf een ___ voor zijn daden.",
+          answer: "veroordeling"
         },
         {
-          word: "meerderheid",
-          definition: "het grootste deel, meer dan de helft",
-          sentence: "In de klas is de ___ van de leerlingen vrouw.",
-          answer: "meerderheid"
+          word: "cassatie",
+          definition: "een procedure om een vonnis aan te vechten bij de hoogste rechter",
+          sentence: "Zijn advocaad diende een ___ in.",
+          answer: "cassatie"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het brood is nog ___ als het uit de oven komt.",
-          answer: "warm"
+          sentence: "De rechter gaf een ___ voor zijn daden.",
+          answer: "veroordeling"
         },
         {
-          sentence: "In de klas is de ___ van de leerlingen vrouw.",
-          answer: "meerderheid"
+          sentence: "Hij deed aan ___ om geld te besparen.",
+          answer: "ontduiking"
         },
         {
-          sentence: "De ___ maakt brood en taarten.",
-          answer: "bakker"
+          sentence: "Zijn ex-___ helpt hem niet meer.",
+          answer: "echtgenote"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'steeds' in deze context?",
+        question: "Wat is belastingontduiking?",
         options: [
-          "nooit",
-          "soms",
-          "steeds vaker",
-          "altijd"
+          "Een sport",
+          "Een manier om belasting te vermijden",
+          "Een soort belasting",
+          "Een type feest"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat doet het Hof van Cassatie?",
+        options: [
+          "Bakt brood",
+          "Ziet er mooi uit",
+          "Beslist over juridische zaken",
+          "Doet niets"
         ],
         correctAnswer: 3
       },
       {
-        question: "Waar gaat de tekst over?",
+        question: "Wat is een domicilie?",
         options: [
-          "het weer",
-          "bouwen",
-          "bakkerijen",
-          "reizen"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat is 'meerderheid'?",
-        options: [
-          "het kleinste deel",
-          "het grootste deel",
-          "de helft",
-          "een klein beetje"
+          "Een soort vis",
+          "Een adres waar iemand officieel woont",
+          "Een sportteam",
+          "Een type auto"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De tekst gaat over bouwen.",
-        isTrue: false
-      },
-      {
-        statement: "Steeds meer vrouwen werken als bakker.",
+        statement: "Hans Rieder is een advocaat.",
         isTrue: true
       },
       {
-        statement: "Een meerderheid is het kleinste deel.",
+        statement: "Het Hof van Cassatie heeft de zaak goedgekeurd.",
         isTrue: false
+      },
+      {
+        statement: "Hans Rieder en zijn ex-echtgenote werden veroordeeld.",
+        isTrue: true
       }
     ]
   },
@@ -2561,103 +2450,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
+    title: "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
     topicNumber: 1,
     article: {
-      title: "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
-      summary: "Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven."
+      title: "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
+      summary: "Volg hier de laatste ontwikkelingen in Gaza."
     },
     vocabulary: {
       words: [
         {
-          word: "jobs",
-          definition: "Werkgelegenheid; betaald werk dat iemand heeft.",
-          sentence: "Veel jongeren in de stad kunnen geen ___ vinden die bij hun opleiding past.",
-          answer: "jobs"
+          word: "luchtaanvallen",
+          definition: "Luchtaanvallen zijn aanvallen vanuit de lucht, vaak met vliegtuigen.",
+          sentence: "De ___ veroorzaakten veel schade.",
+          answer: "luchtaanvallen"
         },
         {
-          word: "energie",
-          definition: "De kracht of capaciteit om werk te verrichten, zoals elektriciteit of kracht.",
-          sentence: "Zonder voldoende ___ kan een land zich niet goed ontwikkelen.",
-          answer: "energie"
+          word: "ontwikkelingen",
+          definition: "Ontwikkelingen zijn veranderingen of nieuwe gebeurtenissen.",
+          sentence: "De ___ in de technologie gaan snel.",
+          answer: "ontwikkelingen"
         },
         {
-          word: "drinkbaar",
-          definition: "Veilig of geschikt om te drinken (meestal over water).",
-          sentence: "Na de overstroming was het water niet meer ___ en moest het worden gezuiverd.",
-          answer: "drinkbaar"
+          word: "Zeker",
+          definition: "Zeker betekent zonder twijfel, vast.",
+          sentence: "Het is ___ dat de vergadering doorgaat.",
+          answer: "zeker"
         },
         {
-          word: "bitcoinboys",
-          definition: "Mensen die veel bezitten of handelen in de digitale munt bitcoin.",
-          sentence: "De ___ verdienden veel geld door te handelen in cryptocurrency.",
-          answer: "bitcoinboys"
+          word: "Volg",
+          definition: "Volg betekent hier in de gaten houden of bijhouden.",
+          sentence: "___ je het nieuws over de ontwikkelingen?",
+          answer: "Volg"
         },
         {
-          word: "megadam",
-          definition: "Een heel groot stuwmeer of dam, vaak gebouwd om energie op te wekken.",
-          sentence: "De nieuwe ___ in Ethiopië voorziet een groot gebied van elektriciteit.",
-          answer: "megadam"
+          word: "Gaza",
+          definition: "Gaza is een gebied in het Midden-Oosten, bekend om conflicten.",
+          sentence: "___ wordt vaak genoemd in het nieuws.",
+          answer: "Gaza"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Veel jongeren in de stad kunnen geen ___ vinden die bij hun opleiding past.",
-          answer: "jobs"
+          sentence: "___ wordt vaak genoemd in het nieuws.",
+          answer: "Gaza"
         },
         {
-          sentence: "De ___ verdienden veel geld door te handelen in cryptocurrency.",
-          answer: "bitcoinboys"
+          sentence: "De ___ veroorzaakten veel schade.",
+          answer: "luchtaanvallen"
         },
         {
-          sentence: "De nieuwe ___ in Ethiopië voorziet een groot gebied van elektriciteit.",
-          answer: "megadam"
+          sentence: "Het is ___ dat de vergadering doorgaat.",
+          answer: "zeker"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is een belangrijk effect van de megadam in Ethiopië op de lokale bevolking?",
+        question: "Wat betekent 'luchtaanvallen' in deze context?",
         options: [
-          "Ze krijgen betere toegang tot elektriciteit en water.",
-          "Ze verliezen hun land en hebben geen stroom.",
-          "Ze beginnen allemaal met bitcoin mining.",
-          "Ze krijgen nieuwe jobs in de bouwsector."
+          "Aanvallen vanuit de lucht",
+          "Vluchten die worden aangevallen",
+          "Een soort game",
+          "Een feestelijke gebeurtenis"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Waarom komen bitcoinbedrijven naar Addis Abeba?",
+        question: "Wat wordt er bedoeld met 'Volg hier de laatste ontwikkelingen'?",
         options: [
-          "Omdat de stad bekend staat om zijn nachtleven.",
-          "Omdat de Ethiopische overheid hen uitnodigt.",
-          "Omdat de stroom daar spotgoedkoop is.",
-          "Omdat de lokale bevolking daarom vraagt."
+          "Volg hier de nieuwste updates",
+          "Volg hier de oude gebeurtenissen",
+          "Negeer de gebeurtenissen",
+          "Lees alleen de titel"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Wat voor soort energie wekt de megadam vooral op?",
+        question: "Waar verwijst 'Gaza' naar in deze tekst?",
         options: [
-          "Zonne-energie",
-          "Windenergie",
-          "Waterkracht",
-          "Kernenergie"
+          "Een stad in conflict",
+          "Een feestlocatie",
+          "Een nieuwe technologie",
+          "Een soort voedsel"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De bitcoinbedrijven in Addis Abeba zorgen voor veel nieuwe banen voor de lokale bevolking.",
-        isTrue: false
-      },
-      {
-        statement: "Ethiopiërs die geen stroom hebben, missen ook vaak schoon drinkwater.",
+        statement: "De luchtaanvallen vonden plaats in Gaza.",
         isTrue: true
       },
       {
-        statement: "De megadam levert direct drinkbaar water aan omliggende dorpen.",
+        statement: "Er zijn geen doden gemeld na deze aanvallen.",
+        isTrue: false
+      },
+      {
+        statement: "De ontwikkelingen in Gaza zijn positief.",
         isTrue: false
       }
     ]
@@ -2667,104 +2556,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
+    title: "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
     topicNumber: 1,
     article: {
-      title: "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
-      summary: "Een criminele groep in Griekenland heeft op fraudeleuze wijze bijna 20 miljoen euro aan EU-subsidies ontvangen. De verdachten logen over het aantal dieren in hun aanvraag."
+      title: "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
+      summary: "Storm Melissa is als een orkaan van categorie vijf aan land gekomen in Jamaica. Voor het Caraïbisch eiland is het de zwaarste storm ooit."
     },
     vocabulary: {
       words: [
         {
-          word: "ontvangen",
-          definition: "krijgen, in bezit nemen",
-          sentence: "Ze hebben de subsidie ___, maar dat was niet correct.",
-          answer: "ontvangen"
+          word: "gekomen",
+          definition: "aangekomen, hier zijn",
+          sentence: "Hij is gisteren aangekomen in de stad.",
+          answer: "gekomen"
         },
         {
-          word: "verdachten",
-          definition: "mensen waarvan wordt gedacht dat ze iets fouts hebben gedaan",
-          sentence: "De ___ moeten voor de rechter verschijnen.",
-          answer: "verdachten"
+          word: "orkaan",
+          definition: "een hele zware storm met heel veel wind",
+          sentence: "Een orkaan kan veel schade veroorzaken.",
+          answer: "orkaan"
         },
         {
-          word: "Griekenland",
-          definition: "een land in Europa",
-          sentence: "___ is een land met veel eilanden.",
-          answer: "Griekenland"
+          word: "categorie",
+          definition: "een groep of soort waar iets in past",
+          sentence: "Deze storm is van categorie vijf, dat is de hoogste.",
+          answer: "categorie"
         },
         {
-          word: "subsidies",
-          definition: "financiële steun van de overheid",
-          sentence: "De EU geeft ___ aan landbouwers voor bepaalde projecten.",
-          answer: "subsidies"
+          word: "aan",
+          definition: "op, tegen, in de richting van",
+          sentence: "Hij hing de foto aan de muur.",
+          answer: "aan"
         },
         {
-          word: "aanvraag",
-          definition: "een verzoek om iets, vaak schriftelijk",
-          sentence: "Hun ___ voor subsidie werd goedgekeurd.",
-          answer: "aanvraag"
+          word: "zwaarste",
+          definition: "het meeste gewicht hebbend, het sterkst",
+          sentence: "Dit was de zwaarste storm van het jaar.",
+          answer: "zwaarste"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De EU geeft ___ aan landbouwers voor bepaalde projecten.",
-          answer: "subsidies"
+          sentence: "Hij hing de foto aan de muur.",
+          answer: "aan"
         },
         {
-          sentence: "De ___ moeten voor de rechter verschijnen.",
-          answer: "verdachten"
+          sentence: "Dit was de zwaarste storm van het jaar.",
+          answer: "zwaarste"
         },
         {
-          sentence: "Hun ___ voor subsidie werd goedgekeurd.",
-          answer: "aanvraag"
+          sentence: "Een orkaan kan veel schade veroorzaken.",
+          answer: "orkaan"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat was het hoofddoel van de groep in Griekenland?",
+        question: "Wat betekent het dat een storm van categorie vijf is?",
         options: [
-          "Het opzetten van een legale boerderij",
-          "Het krijgen van EU-subsidies door fraude",
-          "Het verminderen van het aantal schapen in Griekenland",
-          "Het openbaar maken van fraude door de overheid"
+          "Het is de allerzwaarste storm.",
+          "Het is een middelmatige storm.",
+          "Het is een storm met weinig wind.",
+          "Het is een storm die bijna voorbij is."
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Hoe probeerde de groep de subsidie te ontvangen?",
+        question: "Wat is er gebeurd met Jamaica na de orkaan?",
         options: [
-          "Door een eerlijke aanvraag in te dienen",
-          "Door het aantal dieren te verhogen en te liegen",
-          "Door de subsidie te weigeren na ontvangst",
-          "Door meer dieren te kopen met eigen geld"
+          "Het eiland is verwoest en 530.000 huishoudens hebben geen stroom.",
+          "Jamaica is ongeschonden uit de storm gekomen.",
+          "De storm heeft alleen de kust geraakt.",
+          "Jamaica heeft de storm volledig vermeden."
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Wat is de rol van de Europese Unie in deze situatie?",
+        question: "Hoe wordt orkaan Melissa beschreven?",
         options: [
-          "Het negeren van fraude door boeren",
-          "Het aanbieden van subsidies zonder voorwaarden",
-          "Het controleren en straffen van fraude",
-          "Het sluiten van de organisatie die subsidies beheert"
+          "Als de zwaarste storm ooit voor het eiland.",
+          "Als een lichte bries die niets doet.",
+          "Als een storm die alleen op zee blijft.",
+          "Als een storm die al is overgewaaid."
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De groep in Griekenland heeft de subsidie op een eerlijke manier verdiend.",
-        isTrue: false
-      },
-      {
-        statement: "De Europese Unie biedt subsidies aan voor verschillende doelen, maar er zijn regels.",
+        statement: "Orkaan Melissa is de zwaarste storm ooit voor Jamaica.",
         isTrue: true
       },
       {
-        statement: "Alle dieren in Griekenland zijn betrokken bij de fraude.",
+        statement: "Jamaica heeft geen last gehad van de orkaan.",
         isTrue: false
+      },
+      {
+        statement: "Orkaan Melissa is van categorie vijf, de hoogste categorie.",
+        isTrue: true
       }
     ]
   },
@@ -2873,98 +2762,73 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Pater Herwig Arts, 90 jaar",
+    title: "Jacques Vandekerckhove, 92 jaar",
     topicNumber: 1,
     article: {
-      title: "Pater Herwig Arts, 90 jaar",
-      summary: "Hij werd geboren in 1935 en overleed op 24 oktober 2025."
+      title: "Jacques Vandekerckhove, 92 jaar",
+      summary: "Geboren in 1933, overleden op 26/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "Pater",
-          definition: "Een pater is een geestelijke in de Katholieke Kerk.",
-          sentence: "De ___ droeg een zwart habijt.",
-          answer: "pater"
-        },
-        {
-          word: "geboren",
-          definition: "Geboren worden betekent dat je leven begint; het is het tegenovergestelde van overlijden.",
-          sentence: "Zij werd ___ in een klein dorp in Nederland.",
+          word: "Geboren",
+          definition: "Geboren zijn betekent dat je op een bepaalde datum ter wereld bent gekomen.",
+          sentence: "Hij werd ___ in 1933.",
           answer: "geboren"
         },
         {
-          word: "werd",
-          definition: "Werd is de verleden tijd van 'worden', wat 'zijn' of 'geworden' betekent.",
-          sentence: "Hij ___ geboren in een klein dorp.",
-          answer: "werd"
-        },
-        {
-          word: "werd",
-          definition: "Werd is de verleden tijd van 'worden', wat 'geworden' of 'zijn' betekent.",
-          sentence: "Zij ___ geboren in een groot ziekenhuis.",
-          answer: "werd"
+          word: "Overleden",
+          definition: "Overleden zijn betekent dat iemand niet meer leeft.",
+          sentence: "Hij is ___ op 26 oktober 2025.",
+          answer: "overleden"
         }
       ],
-      fillInBlanks: [
-        {
-          sentence: "Zij werd ___ in een klein dorp in Nederland.",
-          answer: "geboren"
-        },
-        {
-          sentence: "De ___ droeg een zwart habijt.",
-          answer: "pater"
-        },
-        {
-          sentence: "Hij ___ geboren in een klein dorp.",
-          answer: "werd"
-        }
-      ]
+      fillInBlanks: []
     },
     multipleChoice: [
       {
-        question: "Wat betekent het als iemand is overleden?",
+        question: "Wat was de geboortedatum van Jacques Vandekerckhove?",
         options: [
-          "Die persoon is op reis",
-          "Die persoon is gestorven",
-          "Die persoon is net geboren",
-          "Die persoon is verhuisd"
+          "26 oktober 1933",
+          "1 januari 1933",
+          "26 oktober 1923",
+          "15 mei 1933"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Welk woord past bij 'Hij werd geboren'?",
+        question: "Hoe oud was Jacques Vandekerckhove toen hij overleed?",
         options: [
-          "gestorven",
-          "overleden",
-          "geboren",
-          "verhuisd"
+          "92 jaar",
+          "93 jaar",
+          "91 jaar",
+          "89 jaar"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Wat is de tegenhanger van 'overleden'?",
+        question: "Waar woonde Jacques Vandekerckhove het grootste deel van zijn leven?",
         options: [
-          "Oud worden",
-          "Geboren worden",
-          "Verhuizen",
-          "Sterven"
+          "In België",
+          "In Nederland",
+          "In Frankrijk",
+          "In Duitsland"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Pater Herwig Arts werd geboren in 1935.",
+        statement: "Jacques Vandekerckhove overleed op 26 oktober 2025.",
         isTrue: true
       },
       {
-        statement: "Hij overleed op 24 oktober 2025.",
-        isTrue: true
-      },
-      {
-        statement: "Hij werd geboren in 2025.",
+        statement: "Jacques Vandekerckhove was 93 jaar oud bij zijn overlijden.",
         isTrue: false
+      },
+      {
+        statement: "Jacques Vandekerckhove werd geboren in 1933.",
+        isTrue: true
       }
     ]
   },
@@ -2973,103 +2837,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
+    title: "Adoptie uit buitenland werd gepauzeerd, maar nu staan er toch weer 35 gezinnen in de wachtrij",
     topicNumber: 1,
     article: {
-      title: "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
-      summary: "AI-modellen zoals ChatGPT maken onze taal vlakker, stelt computerlinguïst Tim Van de Cruys vast. Tegelijk wordt ons eigen taalgevoel misschien nog belangrijker door AI. 'Hoe beter je de taal al beheerst, hoe beter een AI-model voor jou zal werken.'"
+      title: "Adoptie uit buitenland werd gepauzeerd, maar nu staan er toch weer 35 gezinnen in de wachtrij",
+      summary: "Veertig gezinnen in Vlaanderen zijn bezig met een traject voor buitenlandse adoptie, 35 andere werd beloofd dat ze er nog mogen instappen. En dat terwijl er al sinds eind 2023 een adoptiepauze is afgekondigd. De boodschap is niet helder en dat is lastig, meent parlementslid Freya Perdaens (N-VA)."
     },
     vocabulary: {
       words: [
         {
-          word: "AI",
-          definition: "Afkorting voor kunstmatige intelligentie; technologie die menselijke intelligentie nabootst.",
-          sentence: "___ wordt gebruikt in veel moderne toepassingen.",
-          answer: "AI"
+          word: "adoptie",
+          definition: "Het proces waarbij iemand een kind dat niet biologisch van hen is, wettelijk als hun eigen kind aanneemt",
+          sentence: "Adoptie uit het buitenland kan een lang proces zijn.",
+          answer: "adoptie"
         },
         {
-          word: "stelt",
-          definition: "Zet iets neer of presenteert; in deze context betekent het 'beweert' of 'stelt'.",
-          sentence: "De auteur ___ dat het onderzoek nog loopt.",
-          answer: "stelt"
+          word: "buitenland",
+          definition: "Andere landen; landen die niet het eigen land zijn",
+          sentence: "Reizen naar het buitenland vereist vaak een paspoort.",
+          answer: "buitenland"
         },
         {
-          word: "computerlinguïst",
-          definition: "Een expert die taal en computerwetenschap combineert.",
-          sentence: "De ___ onderzocht hoe AI taal kan begrijpen.",
-          answer: "computerlinguïst"
+          word: "lastig",
+          definition: "Moeilijk, vervelend, of ongemakkelijk om mee om te gaan",
+          sentence: "Het vinden van een oplossing was lastig voor het team.",
+          answer: "lastig"
         },
         {
-          word: "taal",
-          definition: "Een systeem van gesproken of geschreven woorden die mensen gebruiken om te communiceren.",
-          sentence: "De Nederlandse ___ is bekend om zijn complexe grammatica.",
-          answer: "taal"
+          word: "wachtrij",
+          definition: "Een lijst of reeks van mensen of dingen die wachten op iets, vaak in een bepaalde volgorde",
+          sentence: "Er was een lange wachtrij voor de attractie.",
+          answer: "wachtrij"
         },
         {
-          word: "taalgevoel",
-          definition: "Het natuurlijke gevoel voor wat correct of passend taalgebruik is.",
-          sentence: "Een goed ___ helpt bij het leren van een nieuwe taal.",
-          answer: "taalgevoel"
+          word: "gezin",
+          definition: "Een groep mensen die samenwonen, meestal ouders en hun kinderen",
+          sentence: "Een groot gezin heeft veel ruimte nodig.",
+          answer: "gezin"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De Nederlandse ___ is bekend om zijn complexe grammatica.",
-          answer: "taal"
+          sentence: "Het vinden van een oplossing was lastig voor het team.",
+          answer: "lastig"
         },
         {
-          sentence: "Een goed ___ helpt bij het leren van een nieuwe taal.",
-          answer: "taalgevoel"
+          sentence: "Er was een lange wachtrij voor de attractie.",
+          answer: "wachtrij"
         },
         {
-          sentence: "De ___ onderzocht hoe AI taal kan begrijpen.",
-          answer: "computerlinguïst"
+          sentence: "Een groot gezin heeft veel ruimte nodig.",
+          answer: "gezin"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom noemt de auteur AI-modellen zoals ChatGPT 'taalvlakmakers'?",
+        question: "Wat betekent de adoptiepauze voor de gezinnen in Vlaanderen?",
         options: [
-          "Omdat ze taal letterlijk vlak maken",
-          "Omdat ze taalgebruik minder diepgaand maken",
-          "Omdat ze alleen platte taal produceren",
-          "Omdat ze taal tot simpele structuren reduceren"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat stelt computerlinguïst Tim Van de Cruys over AI en taal?",
-        options: [
-          "AI maakt taal compleet overbodig",
-          "AI kan taalvaardigheid juist versterken",
-          "AI vervangt alle taalexperts",
-          "AI heeft geen effect op taal"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is een belangrijk gevolg van AI volgens de tekst?",
-        options: [
-          "Taal wordt overal ter wereld hetzelfde",
-          "Mensen verliezen alle taalvaardigheid",
-          "Goede taalbeheersing wordt nog waardevoller",
-          "AI schrijft binnenkort alle teksten zelf"
+          "Ze kunnen helemaal geen adoptie meer aanvragen.",
+          "Ze kunnen doorgaan met hun huidige trajecten.",
+          "Alleen nieuwe aanvragen worden gepauzeerd.",
+          "De pauze is alleen voor adoptie uit specifieke landen."
         ],
         correctAnswer: 3
+      },
+      {
+        question: "Waarom is de situatie volgens het artikel lastig?",
+        options: [
+          "Omdat er te veel gezinnen willen adopteren.",
+          "Omdat de adoptiepauze niet voor iedereen duidelijk is.",
+          "Omdat adoptie uit het buitenland te duur is.",
+          "Omdat de regering niet genoeg ondersteunt."
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is de rol van parlementslid Freya Perdaens in dit artikel?",
+        options: [
+          "Zij heeft de adoptiepauze ingesteld.",
+          "Zij geeft commentaar op de situatie.",
+          "Zij beheert de wachtrij voor adoptie.",
+          "Zij is een van de wachtende ouders."
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "AI maakt taal compleet overbodig, omdat computers alles kunnen.",
+        statement: "De adoptiepauze betekent dat alle adoptieactiviteiten in Vlaanderen zijn gestopt.",
         isTrue: false
       },
       {
-        statement: "Hoe beter je de taal al beheerst, hoe beter een AI-model voor jou zal werken.",
+        statement: "Sommige gezinnen mogen nog steeds beginnen met hun adoptietraject.",
         isTrue: true
       },
       {
-        statement: "Computerlinguïstiek is hetzelfde als gewone taalkunde.",
+        statement: "Parlementslid Freya Perdaens heeft de adoptiepauze ingesteld.",
         isTrue: false
       }
     ]
@@ -3079,103 +2943,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "De warme bakker is steeds vaker een vrouw: “Na tien broden bakken wist ik: hier word ik gelukkig van”",
+    title: "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
     topicNumber: 1,
     article: {
-      title: "De warme bakker is steeds vaker een vrouw: “Na tien broden bakken wist ik: hier word ik gelukkig van”",
-      summary: "Van een passie voor millefeuille tot ambachtelijke zuurdesembroden, steeds vaker kiezen vrouwen voor een job als bakker of patissier. In verschillende bakkersopleidingen maken ze intussen meer dan de helft van de leerlingen uit. “Vrouwen hebben de finesse sneller in de vingers.”"
+      title: "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
+      summary: "Het Hof van Cassatie verwerpt het cassatieberoep dat advocaat Hans Rieder en zijn ex-echtgenote hadden ingesteld tegen hun veroordeling wegens belastingontduiking door domiciliefraude."
     },
     vocabulary: {
       words: [
         {
-          word: "zuurdesem",
-          definition: "een soort desem dat zuur is en gebruikt wordt om brood te laten rijzen",
-          sentence: "Het ___ brood had een rijke, zure smaak.",
-          answer: "zuurdesem"
+          word: "domiciliefraude",
+          definition: "Een vorm van fraude waarbij iemand zijn officiële woonplaats (domicilie) verkeerd voorstelt om belasting te ontduiken.",
+          sentence: "Ze pleegden ___ door zich in te schrijven op een adres waar ze niet woonden.",
+          answer: "domiciliefraude"
         },
         {
-          word: "bakker",
-          definition: "iemand die brood en banket bakt",
-          sentence: "De ___ staat elke dag vroeg op om vers brood te bakken.",
-          answer: "bakker"
+          word: "echtgenote",
+          definition: "De vrouwelijke partner in een huwelijk; de echtgenote.",
+          sentence: "Zijn ex-___ was ook bij de rechtszaak betrokken.",
+          answer: "echtgenote"
         },
         {
-          word: "ambacht",
-          definition: "een traditioneel handwerk of vakmanschap",
-          sentence: "Het oude ___ van houtbewerking is nog steeds levend.",
-          answer: "ambacht"
+          word: "cassatie",
+          definition: "Het verzoek aan een hogere rechter om een eerdere uitspraak te herzien.",
+          sentence: "Het Hof stelde de ___ in, zodat de zaak opnieuw kon worden bekeken.",
+          answer: "cassatie"
         },
         {
-          word: "vrouw",
-          definition: "een volwassen persoon van het vrouwelijk geslacht",
-          sentence: "De ___ werkt parttime en zorgt voor de kinderen.",
-          answer: "vrouw"
+          word: "belastingontduiking",
+          definition: "Het opzettelijk niet betalen van belastingen die je wettelijk moet betalen.",
+          sentence: "Hij werd verdacht van ___ omdat hij zijn inkomsten niet had aangegeven.",
+          answer: "belastingontduiking"
         },
         {
-          word: "ambachtelijke",
-          definition: "op de manier van een ambacht, traditioneel en handgemaakt",
-          sentence: "De ___ producten zijn van hoge kwaliteit.",
-          answer: "ambachtelijke"
+          word: "veroordeling",
+          definition: "De uitspraak van een rechter waarbij iemand schuldig wordt bevonden.",
+          sentence: "De ___ betekende dat hij de gevangenis in moest.",
+          answer: "veroordeling"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ producten zijn van hoge kwaliteit.",
-          answer: "ambachtelijke"
+          sentence: "Het Hof stelde de ___ in, zodat de zaak opnieuw kon worden bekeken.",
+          answer: "cassatie"
         },
         {
-          sentence: "Het oude ___ van houtbewerking is nog steeds levend.",
-          answer: "ambacht"
+          sentence: "Ze pleegden ___ door zich in te schrijven op een adres waar ze niet woonden.",
+          answer: "domiciliefraude"
         },
         {
-          sentence: "De ___ werkt parttime en zorgt voor de kinderen.",
-          answer: "vrouw"
+          sentence: "De ___ betekende dat hij de gevangenis in moest.",
+          answer: "veroordeling"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar komt het woord 'patissier' vandaan?",
+        question: "Wat is de rol van het Hof van Cassatie in deze zaak?",
         options: [
-          "Uit het Nederlands",
-          "Uit het Frans",
-          "Uit het Engels",
-          "Uit het Italiaans"
+          "Het beslist of de zaak opnieuw behandeld wordt.",
+          "Het bevestigt de uitspraak van de lagere rechtbank.",
+          "Het straft de verdachten met een boete.",
+          "Het treedt niet op in deze zaak."
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Waarom kiezen meer vrouwen voor een baan als bakker?",
+        question: "Wat houdt domiciliefraude in?",
         options: [
-          "Omdat het goed betaalt",
-          "Omdat ze van koken houden",
-          "Omdat ze fijne motoriek beheersen",
-          "Omdat ze thuis kunnen werken"
+          "Het frauduleus aangeven van een onjuiste woonplaats.",
+          "Het niet declareren van zakelijke uitgaven.",
+          "Het stelen van iemands identiteitsgegevens.",
+          "Het openen van een bankrekening in het buitenland."
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Wat is een 'millefeuille'?",
+        question: "Wat is de betekenis van 'verwerpt' in juridische taal?",
         options: [
-          "Een soort bloem",
-          "Een soort taart",
-          "Een soort gerecht",
-          "Een soort boek"
+          "Niet goedkeuren, afwijzen.",
+          "Goedkeuren, accepteren.",
+          "Uitstellen voor later.",
+          "Negeren, geen aandacht aan schenken."
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Vrouwen hebben over het algemeen betere fijne motoriek dan mannen.",
+        statement: "De advocaat en zijn ex-echtgenote zijn beiden veroordeeld voor dezelfde misdaad.",
         isTrue: true
       },
       {
-        statement: "Een patissier is iemand die alleen maar taarten bakt.",
+        statement: "Het Hof van Cassatie heeft de eerdere veroordeling volledig ongedaan gemaakt.",
         isTrue: false
       },
       {
-        statement: "Zuurdesem is een soort meel dat gebruikt wordt voor brood.",
+        statement: "De uitspraak van het Hof van Cassatie is bindend en niet meer aanvechtbaar.",
         isTrue: true
       }
     ]

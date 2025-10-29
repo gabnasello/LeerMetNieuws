@@ -3,104 +3,92 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Jamaica maakt zich op voor Melissa, de zwaarste orkaan van het jaar",
+  "title": "Inwoners Al-Fasher worden uitgemoord: in Noord-Soedan ontrolt zich het ergste scenario",
   "topicNumber": 1,
   "article": {
-    "title": "Jamaica maakt zich op voor Melissa, de zwaarste orkaan van het jaar",
-    "summary": "Een ramp lijkt onafwendbaar in Jamaica, nu orkaan Melissa op drie manieren kan toeslaan: met stormvloed, immense regenval en verwoestende wind. Op Haïti en de Dominicaanse Republiek vielen al vier doden."
+    "title": "Inwoners Al-Fasher worden uitgemoord: in Noord-Soedan ontrolt zich het ergste scenario",
+    "summary": "Uit getuigenissen, video’s en satellietbeelden blijkt dat rebellen bij de verovering van de Soedanese stad Al-Fasher volledige wijken platbranden en de inwoners uitmoorden. Burgers die proberen te vluchten, worden doodgeschoten of aan bomen opgehangen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "stormvloed",
-        "definition": "Een grote overstroming door de zee die het land binnenstroomt",
-        "sentence": "Bij een stormvloed stroomt zeewater het land binnen en veroorzaakt overstromingen.",
-        "answer": "stormvloed"
+        "word": "inwoners",
+        "definition": "mensen die in een stad of land wonen",
+        "sentence": "De inwoners van het dorp waren erg vriendelijk.",
+        "answer": "inwoners"
       },
       {
-        "word": "regenval",
-        "definition": "De hoeveelheid regen die in een bepaalde tijd valt",
-        "sentence": "Hevige regenval kan straten blank zetten en huizen onder water zetten.",
-        "answer": "regenval"
+        "word": "getuigenissen",
+        "definition": "officiële verklaringen van wat iemand heeft gezien of meegemaakt",
+        "sentence": "De politie nam verschillende ___ op na het incident.",
+        "answer": "getuigenissen"
       },
       {
-        "word": "orkaan",
-        "definition": "Een hele zware storm met veel wind en regen",
-        "sentence": "Een orkaan kan veel schade veroorzaken met harde wind en veel regen.",
-        "answer": "orkaan"
-      },
-      {
-        "word": "wind",
-        "definition": "Bewegende lucht die je voelt maar niet ziet",
-        "sentence": "Sterke wind kan takken afbreken en dingen omver blazen.",
-        "answer": "wind"
-      },
-      {
-        "word": "ramp",
-        "definition": "Een ernstige gebeurtenis met veel schade en vaak slachtoffers",
-        "sentence": "Een natuurramp zoals een orkaan kan hele steden verwoesten.",
-        "answer": "ramp"
+        "word": "wijken",
+        "definition": "delen van een stad, vaak met hun eigen karakter",
+        "sentence": "De oude ___ van de stad zijn vol met geschiedenis.",
+        "answer": "wijken"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Bij een stormvloed stroomt zeewater het land binnen en veroorzaakt overstromingen.",
-        "answer": "stormvloed"
+        "sentence": "De oude ___ van de stad zijn vol met geschiedenis.",
+        "answer": "wijken"
       },
       {
-        "sentence": "Sterke wind kan takken afbreken en dingen omver blazen.",
-        "answer": "wind"
+        "sentence": "De inwoners van het dorp waren erg vriendelijk.",
+        "answer": "inwoners"
       },
       {
-        "sentence": "Een natuurramp zoals een orkaan kan hele steden verwoesten.",
-        "answer": "ramp"
+        "sentence": "De politie nam verschillende ___ op na het incident.",
+        "answer": "getuigenissen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een orkaan?",
+      "question": "Wat is de hoofdstad van Nederland?",
       "options": [
-        "Een soort dier",
-        "Een feestdag",
-        "Een zware storm met veel wind",
-        "Een type auto"
+        "Parijs",
+        "Londen",
+        "Amsterdam",
+        "Brussel"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Waarom is de situatie in Jamaica zorgelijk?",
+      "question": "Hoe noem je iemand die in een bepaald land woont?",
       "options": [
-        "Er is een feest aan de gang",
-        "Er is een voedseltekort",
-        "Orkaan Melissa nadert en kan op drie manieren toeslaan",
-        "De president is afgetreden"
+        "Inwoner",
+        "Bewoner",
+        "Bewoner",
+        "Inwoner"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     },
     {
-      "question": "Wat is al gebeurd in naburige landen?",
+      "question": "Wat betekent 'verwoesten'?",
       "options": [
-        "Er is een orkaan geweest",
-        "Er zijn vier mensen overleden",
-        "Er is een festival gehouden",
-        "Er is niets gebeurd"
+        "Opbouwen",
+        "Verwoesten",
+        "Herstellen",
+        "Negeren"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Een orkaan brengt alleen harde wind, geen andere problemen.",
-      "isTrue": false
-    },
-    {
-      "statement": "Er zijn al doden gevallen in Haïti en de Dominicaanse Republiek door de orkaan.",
+      "statement": "Amsterdam is de hoofdstad van Nederland.",
       "isTrue": true
     },
     {
-      "statement": "Nederland wordt vaak getroffen door orkanen.",
+      "statement": "De Eiffeltoren staat in Londen.",
       "isTrue": false
+    },
+    {
+      "statement": "Vluchten betekent om snel weg te gaan van gevaar.",
+      "isTrue": true
     }
   ]
 }

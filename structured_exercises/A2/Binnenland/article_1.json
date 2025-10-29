@@ -1,105 +1,99 @@
 {
-  "id": 17,
+  "id": 16,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Pater Herwig Arts, 90 jaar",
+  "title": "Jacques Vandekerckhove, 92 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Pater Herwig Arts, 90 jaar",
-    "summary": "Geboren in 1935, overleden op 24/10/2025."
+    "title": "Jacques Vandekerckhove, 92 jaar",
+    "summary": "Hij is geboren in 1933 en overleden op 26/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Arts",
-        "definition": "een achternaam, hier van de persoon",
-        "sentence": "Zijn achternaam is ___.",
-        "answer": "Arts"
+        "word": "geboren",
+        "definition": "het begin van iemands leven; geboren worden",
+        "sentence": "Hij is ___ in 1933.",
+        "answer": "geboren"
       },
       {
-        "word": "Pater",
-        "definition": "een priester, vooral in een klooster",
-        "sentence": "De ___ geeft leiding aan de gemeenschap.",
-        "answer": "Pater"
+        "word": "overleden",
+        "definition": "niet meer leven; gestorven zijn",
+        "sentence": "Hij is ___ op 26/10/2025.",
+        "answer": "overleden"
       },
       {
-        "word": "1935",
-        "definition": "het jaar negentienhonderdvijfendertig",
-        "sentence": "Hij is geboren in ___.",
-        "answer": "1935"
+        "word": "jaar",
+        "definition": "een periode van 365 dagen; 12 maanden",
+        "sentence": "Hij is 92 ___ oud.",
+        "answer": "jaar"
       },
       {
-        "word": "2025",
-        "definition": "het jaar tweeduizendvijfentwintig",
-        "sentence": "Hij overleed in ___.",
-        "answer": "2025"
-      },
-      {
-        "word": "90",
-        "definition": "het getal negentig, hier de leeftijd",
-        "sentence": "Hij werd ___ jaar oud.",
-        "answer": "90"
+        "word": "hij",
+        "definition": "een mannelijk persoon; die persoon",
+        "sentence": "___ is de man in dit verhaal.",
+        "answer": "hij"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is geboren in ___.",
-        "answer": "1935"
+        "sentence": "Hij is ___ op 26/10/2025.",
+        "answer": "overleden"
       },
       {
-        "sentence": "Hij werd ___ jaar oud.",
-        "answer": "90"
+        "sentence": "Hij is ___ in 1933.",
+        "answer": "geboren"
       },
       {
-        "sentence": "Zijn achternaam is ___.",
-        "answer": "Arts"
+        "sentence": "Hij is 92 ___ oud.",
+        "answer": "jaar"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Pater Herwig Arts geboren?",
+      "question": "Wat is de geboortedatum van Jacques?",
       "options": [
-        "1920",
-        "1935",
-        "1940",
-        "1945"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Hoe oud werd Pater Herwig Arts?",
-      "options": [
-        "80 jaar",
-        "85 jaar",
-        "89 jaar",
-        "90 jaar"
-      ],
-      "correctAnswer": 4
-    },
-    {
-      "question": "Op welke datum overleed Pater Herwig Arts?",
-      "options": [
-        "24 oktober 2025",
-        "24 november 2025",
-        "24 december 2025",
-        "24 januari 2025"
+        "1933",
+        "1923",
+        "1943",
+        "1953"
       ],
       "correctAnswer": 1
+    },
+    {
+      "question": "Hoe oud was Jacques op het moment van overlijden?",
+      "options": [
+        "92 jaar",
+        "93 jaar",
+        "94 jaar",
+        "95 jaar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "In welke maand overleed Jacques?",
+      "options": [
+        "Januari",
+        "Februari",
+        "Oktober",
+        "December"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Pater Herwig Arts is geboren in 1935.",
+      "statement": "Jacques overleed in het jaar 2025.",
       "isTrue": true
     },
     {
-      "statement": "Hij overleed in het jaar 2024.",
+      "statement": "Jacques was 91 jaar oud toen hij overleed.",
       "isTrue": false
     },
     {
-      "statement": "Hij werd 90 jaar oud.",
+      "statement": "Jacques werd geboren in de 20e eeuw.",
       "isTrue": true
     }
   ]

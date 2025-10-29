@@ -1,99 +1,105 @@
 {
-  "id": 16,
+  "id": 15,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Pater Herwig Arts, 90 jaar",
+  "title": "Jacques Vandekerckhove, 92 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Pater Herwig Arts, 90 jaar",
-    "summary": "Geboren in 1935, overleden op 24/10/2025."
+    "title": "Jacques Vandekerckhove, 92 jaar",
+    "summary": "Hij is geboren in 1933. Hij is overleden op 26/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "pater",
-        "definition": "een priester in sommige religieuze orden",
-        "sentence": "De ___ heeft een lange tijd geleefd.",
-        "answer": "pater"
+        "word": "en",
+        "definition": "verbindt twee woorden of zinnen",
+        "sentence": "Ik heb een pen ___ een boek.",
+        "answer": "en"
       },
       {
-        "word": "jaar",
-        "definition": "een periode van 365 dagen",
-        "sentence": "Hij is 90 ___ oud.",
-        "answer": "jaar"
+        "word": "op",
+        "definition": "geeft een dag of datum aan",
+        "sentence": "Het feest is ___ zaterdag.",
+        "answer": "op"
       },
       {
-        "word": "geboren",
-        "definition": "het begin van het leven",
-        "sentence": "Hij is ___ in 1935.",
-        "answer": "geboren"
+        "word": "op",
+        "definition": "geeft een dag of datum aan",
+        "sentence": "We zien elkaar ___ maandag.",
+        "answer": "op"
       },
       {
-        "word": "overleden",
-        "definition": "niet meer levend, gestorven",
-        "sentence": "Hij is ___ op 24 oktober 2025.",
-        "answer": "overleden"
+        "word": "van",
+        "definition": "geeft herkomst of materiaal",
+        "sentence": "De tafel is gemaakt ___ hout.",
+        "answer": "van"
+      },
+      {
+        "word": "hij",
+        "definition": "verwijst naar een man",
+        "sentence": "___ is mijn broer.",
+        "answer": "hij"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is ___ in 1935.",
-        "answer": "geboren"
+        "sentence": "De tafel is gemaakt ___ hout.",
+        "answer": "van"
       },
       {
-        "sentence": "De ___ heeft een lange tijd geleefd.",
-        "answer": "pater"
+        "sentence": "Ik heb een pen ___ een boek.",
+        "answer": "en"
       },
       {
-        "sentence": "Hij is ___ op 24 oktober 2025.",
-        "answer": "overleden"
+        "sentence": "We zien elkaar ___ maandag.",
+        "answer": "op"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de geboortedatum van pater Herwig Arts?",
+      "question": "Wanneer is Jacques Vandekerckhove geboren?",
       "options": [
-        "1935",
-        "1920",
-        "1945",
-        "1900"
+        "In 1933",
+        "In 1945",
+        "In 1950",
+        "In 1960"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "In welk jaar overleed pater Herwig Arts?",
+      "question": "Wanneer is hij overleden?",
       "options": [
-        "2025",
-        "2020",
-        "2030",
-        "2015"
+        "Op 26/10/2025",
+        "Op 27/10/2025",
+        "Op 28/10/2025",
+        "Op 29/10/2025"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Hoe oud werd pater Herwig Arts?",
+      "question": "Hoe oud was Jacques Vandekerckhove toen hij overleed?",
       "options": [
-        "90 jaar",
-        "80 jaar",
-        "100 jaar",
-        "85 jaar"
+        "92 jaar",
+        "93 jaar",
+        "94 jaar",
+        "95 jaar"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Pater Herwig Arts is geboren in 1935.",
+      "statement": "Jacques Vandekerckhove is geboren in 1933.",
       "isTrue": true
     },
     {
-      "statement": "Hij overleed in 2020.",
+      "statement": "Hij is overleden op 25/10/2025.",
       "isTrue": false
     },
     {
-      "statement": "Hij werd 90 jaar oud.",
+      "statement": "Hij was 92 jaar oud.",
       "isTrue": true
     }
   ]

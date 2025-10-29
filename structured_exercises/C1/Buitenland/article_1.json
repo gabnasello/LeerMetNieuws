@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
+  "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
   "topicNumber": 1,
   "article": {
-    "title": "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
-    "summary": "Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven."
+    "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
+    "summary": "Volg hier de laatste ontwikkelingen in Gaza."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "megadam",
-        "definition": "Een zeer groot stuwmeer of dam, vaak gebouwd voor waterkracht of waterbeheer.",
-        "sentence": "De nieuwe ___ in Ethiopië is een van de grootste in Afrika.",
-        "answer": "megadam"
+        "word": "Zeker",
+        "definition": "Met zekerheid, zonder twijfel.",
+        "sentence": "Er is ___ sprake van 26 doden na de luchtaanvallen.",
+        "answer": "Zeker"
       },
       {
-        "word": "jobs",
-        "definition": "Werkgelegenheid; betaalde posities of functies binnen een organisatie.",
-        "sentence": "Het project heeft weinig nieuwe ___ opgeleverd voor de lokale bevolking.",
-        "answer": "jobs"
+        "word": "doden",
+        "definition": "Personen die zijn overleden, slachtoffers.",
+        "sentence": "Er zijn 26 ___ geregistreerd na de aanval.",
+        "answer": "doden"
       },
       {
-        "word": "Addis Abeba",
-        "definition": "De hoofdstad van Ethiopië, gelegen in het hoogland van het land.",
-        "sentence": "___ is de hoofdstad van Ethiopië en een belangrijk cultureel centrum.",
-        "answer": "Addis Abeba"
+        "word": "luchtaanvallen",
+        "definition": "Militaire aanvallen uitgevoerd vanuit de lucht, vaak met vliegtuigen of drones.",
+        "sentence": "De ___ veroorzaakten veel schade en slachtoffers.",
+        "answer": "luchtaanvallen"
       },
       {
-        "word": "drinkbaar",
-        "definition": "Geschikt om te drinken; veilig voor consumptie zonder gevaar voor de gezondheid.",
-        "sentence": "Het water is niet langer ___ door de vervuiling.",
-        "answer": "drinkbaar"
+        "word": "Gaza",
+        "definition": "Een gebied aan de Middellandse Zee, onderdeel van de Palestijnse gebieden.",
+        "sentence": "De situatie in ___ is zeer gespannen.",
+        "answer": "Gaza"
       },
       {
-        "word": "stroom",
-        "definition": "Elektriciteit; de stroom van elektrische energie.",
-        "sentence": "Veel mensen hebben geen toegang tot ___ in hun huizen.",
-        "answer": "stroom"
+        "word": "ontwikkelingen",
+        "definition": "Veranderingen of vooruitgangen in een situatie.",
+        "sentence": "De laatste ___ wijzen op een escalatie van het conflict.",
+        "answer": "ontwikkelingen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De nieuwe ___ in Ethiopië is een van de grootste in Afrika.",
-        "answer": "megadam"
+        "sentence": "De laatste ___ wijzen op een escalatie van het conflict.",
+        "answer": "ontwikkelingen"
       },
       {
-        "sentence": "Het project heeft weinig nieuwe ___ opgeleverd voor de lokale bevolking.",
-        "answer": "jobs"
+        "sentence": "Er zijn 26 ___ geregistreerd na de aanval.",
+        "answer": "doden"
       },
       {
-        "sentence": "Het water is niet langer ___ door de vervuiling.",
-        "answer": "drinkbaar"
+        "sentence": "De situatie in ___ is zeer gespannen.",
+        "answer": "Gaza"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de belangrijkste reden dat bitcoinbedrijven naar Addis Abeba zijn gekomen?",
+      "question": "Wat wordt bedoeld met 'luchtaanvallen' in deze context?",
       "options": [
-        "Goedkope arbeidskrachten",
-        "Overvloed aan stroom",
-        "Gunstig belastingklimaat",
-        "Goedkope waterkrachtenergie"
+        "Bombardementen uitgevoerd door vliegtuigen",
+        "Een reeks onderhandelingen tussen landen",
+        "Een soort sportevenement in de lucht",
+        "Een type feestelijke vuurwerkshow"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is een van de gevolgen voor de lokale bevolking volgens de samenvatting?",
+      "question": "Wat is de rol van de internationale gemeenschap volgens de tekst?",
       "options": [
-        "Ze profiteren van de bitcoinhandel",
-        "Ze hebben geen toegang tot drinkbaar water",
-        "Ze krijgen goedkope stroom van de dam",
-        "Ze worden rijk door de bitcoinhandel"
+        "Ze roept op tot een wapenstilstand.",
+        "Ze voert zelf de luchtaanvallen uit.",
+        "Ze ontkent dat er slachtoffers zijn.",
+        "Ze organiseert feestelijke activiteiten in Gaza."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat wordt er gezegd over de bijdrage van deze bedrijven aan Ethiopië?",
+      "question": "Waar verwijst 'Gaza' concreet naar?",
       "options": [
-        "Ze leveren veel banen op",
-        "Ze dragen bij aan de infrastructuur",
-        "Ze leveren amper geld en jobs op",
-        "Ze stimuleren de lokale economie enorm"
+        "Een stad in de Palestijnse gebieden.",
+        "Een historische figuur uit de Griekse mythologie.",
+        "Een type wapen gebruikt in de oorlog.",
+        "Een vredesverdrag uit 2023."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Ethiopische megadam biedt voornamelijk voordelen voor de lokale bevolking.",
-      "isTrue": false
-    },
-    {
-      "statement": "Bitcoinbedrijven in Addis Abeba maken gebruik van goedkope waterkrachtenergie.",
+      "statement": "De luchtaanvallen hebben geleid tot 26 doden, aldus de berichtgeving.",
       "isTrue": true
     },
     {
-      "statement": "De meerderheid van de Ethiopische bevolking heeft direct profijt van de bitcoinminingactiviteiten.",
+      "statement": "De tekst suggereert dat de situatie in Gaza zich aan het verbeteren is.",
       "isTrue": false
+    },
+    {
+      "statement": "Internationale organisaties spelen een rol in de aanloop naar deze gebeurtenissen.",
+      "isTrue": true
     }
   ]
 }

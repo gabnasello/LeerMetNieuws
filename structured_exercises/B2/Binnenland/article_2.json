@@ -3,103 +3,103 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
+  "title": "Adoptie uit buitenland werd gepauzeerd, maar nu staan er toch weer 35 gezinnen in de wachtrij",
   "topicNumber": 1,
   "article": {
-    "title": "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
-    "summary": "AI-modellen zoals ChatGPT maken onze taal vlakker, stelt computerlinguïst Tim Van de Cruys vast. Tegelijk wordt ons eigen taalgevoel misschien nog belangrijker door AI. 'Hoe beter je de taal al beheerst, hoe beter een AI-model voor jou zal werken.'"
+    "title": "Adoptie uit buitenland werd gepauzeerd, maar nu staan er toch weer 35 gezinnen in de wachtrij",
+    "summary": "Veertig gezinnen in Vlaanderen zijn bezig met een traject voor buitenlandse adoptie, 35 andere werd beloofd dat ze er nog mogen instappen. En dat terwijl er al sinds eind 2023 een adoptiepauze is afgekondigd. De boodschap is niet helder en dat is lastig, meent parlementslid Freya Perdaens (N-VA)."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "AI",
-        "definition": "Afkorting voor kunstmatige intelligentie; technologie die menselijke intelligentie nabootst.",
-        "sentence": "___ wordt gebruikt in veel moderne toepassingen.",
-        "answer": "AI"
+        "word": "adoptie",
+        "definition": "Het proces waarbij iemand een kind dat niet biologisch van hen is, wettelijk als hun eigen kind aanneemt",
+        "sentence": "Adoptie uit het buitenland kan een lang proces zijn.",
+        "answer": "adoptie"
       },
       {
-        "word": "stelt",
-        "definition": "Zet iets neer of presenteert; in deze context betekent het 'beweert' of 'stelt'.",
-        "sentence": "De auteur ___ dat het onderzoek nog loopt.",
-        "answer": "stelt"
+        "word": "buitenland",
+        "definition": "Andere landen; landen die niet het eigen land zijn",
+        "sentence": "Reizen naar het buitenland vereist vaak een paspoort.",
+        "answer": "buitenland"
       },
       {
-        "word": "computerlinguïst",
-        "definition": "Een expert die taal en computerwetenschap combineert.",
-        "sentence": "De ___ onderzocht hoe AI taal kan begrijpen.",
-        "answer": "computerlinguïst"
+        "word": "lastig",
+        "definition": "Moeilijk, vervelend, of ongemakkelijk om mee om te gaan",
+        "sentence": "Het vinden van een oplossing was lastig voor het team.",
+        "answer": "lastig"
       },
       {
-        "word": "taal",
-        "definition": "Een systeem van gesproken of geschreven woorden die mensen gebruiken om te communiceren.",
-        "sentence": "De Nederlandse ___ is bekend om zijn complexe grammatica.",
-        "answer": "taal"
+        "word": "wachtrij",
+        "definition": "Een lijst of reeks van mensen of dingen die wachten op iets, vaak in een bepaalde volgorde",
+        "sentence": "Er was een lange wachtrij voor de attractie.",
+        "answer": "wachtrij"
       },
       {
-        "word": "taalgevoel",
-        "definition": "Het natuurlijke gevoel voor wat correct of passend taalgebruik is.",
-        "sentence": "Een goed ___ helpt bij het leren van een nieuwe taal.",
-        "answer": "taalgevoel"
+        "word": "gezin",
+        "definition": "Een groep mensen die samenwonen, meestal ouders en hun kinderen",
+        "sentence": "Een groot gezin heeft veel ruimte nodig.",
+        "answer": "gezin"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De Nederlandse ___ is bekend om zijn complexe grammatica.",
-        "answer": "taal"
+        "sentence": "Het vinden van een oplossing was lastig voor het team.",
+        "answer": "lastig"
       },
       {
-        "sentence": "Een goed ___ helpt bij het leren van een nieuwe taal.",
-        "answer": "taalgevoel"
+        "sentence": "Er was een lange wachtrij voor de attractie.",
+        "answer": "wachtrij"
       },
       {
-        "sentence": "De ___ onderzocht hoe AI taal kan begrijpen.",
-        "answer": "computerlinguïst"
+        "sentence": "Een groot gezin heeft veel ruimte nodig.",
+        "answer": "gezin"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom noemt de auteur AI-modellen zoals ChatGPT 'taalvlakmakers'?",
+      "question": "Wat betekent de adoptiepauze voor de gezinnen in Vlaanderen?",
       "options": [
-        "Omdat ze taal letterlijk vlak maken",
-        "Omdat ze taalgebruik minder diepgaand maken",
-        "Omdat ze alleen platte taal produceren",
-        "Omdat ze taal tot simpele structuren reduceren"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat stelt computerlinguïst Tim Van de Cruys over AI en taal?",
-      "options": [
-        "AI maakt taal compleet overbodig",
-        "AI kan taalvaardigheid juist versterken",
-        "AI vervangt alle taalexperts",
-        "AI heeft geen effect op taal"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een belangrijk gevolg van AI volgens de tekst?",
-      "options": [
-        "Taal wordt overal ter wereld hetzelfde",
-        "Mensen verliezen alle taalvaardigheid",
-        "Goede taalbeheersing wordt nog waardevoller",
-        "AI schrijft binnenkort alle teksten zelf"
+        "Ze kunnen helemaal geen adoptie meer aanvragen.",
+        "Ze kunnen doorgaan met hun huidige trajecten.",
+        "Alleen nieuwe aanvragen worden gepauzeerd.",
+        "De pauze is alleen voor adoptie uit specifieke landen."
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "Waarom is de situatie volgens het artikel lastig?",
+      "options": [
+        "Omdat er te veel gezinnen willen adopteren.",
+        "Omdat de adoptiepauze niet voor iedereen duidelijk is.",
+        "Omdat adoptie uit het buitenland te duur is.",
+        "Omdat de regering niet genoeg ondersteunt."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de rol van parlementslid Freya Perdaens in dit artikel?",
+      "options": [
+        "Zij heeft de adoptiepauze ingesteld.",
+        "Zij geeft commentaar op de situatie.",
+        "Zij beheert de wachtrij voor adoptie.",
+        "Zij is een van de wachtende ouders."
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "AI maakt taal compleet overbodig, omdat computers alles kunnen.",
+      "statement": "De adoptiepauze betekent dat alle adoptieactiviteiten in Vlaanderen zijn gestopt.",
       "isTrue": false
     },
     {
-      "statement": "Hoe beter je de taal al beheerst, hoe beter een AI-model voor jou zal werken.",
+      "statement": "Sommige gezinnen mogen nog steeds beginnen met hun adoptietraject.",
       "isTrue": true
     },
     {
-      "statement": "Computerlinguïstiek is hetzelfde als gewone taalkunde.",
+      "statement": "Parlementslid Freya Perdaens heeft de adoptiepauze ingesteld.",
       "isTrue": false
     }
   ]

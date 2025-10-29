@@ -1,99 +1,93 @@
 {
-  "id": 11,
+  "id": 10,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Fraude met EU-steun",
+  "title": "Orkaan op weg naar Cuba",
   "topicNumber": 1,
   "article": {
-    "title": "Fraude met EU-steun",
-    "summary": "Sommige mensen in Griekenland kregen geld van de EU, maar ze logen over hoeveel dieren ze hadden."
+    "title": "Orkaan op weg naar Cuba",
+    "summary": "Storm Melissa is een orkaan. Hij gaat naar Cuba. Hij is heel sterk."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "mensen",
-        "definition": "personen, meervoud van mens",
-        "sentence": "Deze ___ werken samen.",
-        "answer": "mensen"
+        "word": "orkaan",
+        "definition": "een hele sterke storm met veel wind",
+        "sentence": "Er komt een ___ naar Cuba.",
+        "answer": "orkaan"
       },
       {
-        "word": "dieren",
-        "definition": "dieren, zoals een hond of kat",
-        "sentence": "Ze hebben veel ___ op hun boerderij.",
-        "answer": "dieren"
+        "word": "Cuba",
+        "definition": "een land in het Caribisch gebied",
+        "sentence": "De orkaan gaat naar ___.",
+        "answer": "Cuba"
       },
       {
-        "word": "geld",
-        "definition": "wat je gebruikt om iets te kopen",
-        "sentence": "Ze kregen veel ___ van de EU.",
-        "answer": "geld"
-      },
-      {
-        "word": "logen",
-        "definition": "niet de waarheid zeggen",
-        "sentence": "Ze ___ over het aantal dieren.",
-        "answer": "logen"
+        "word": "Melissa",
+        "definition": "de naam van de orkaan",
+        "sentence": "De orkaan heet ___.",
+        "answer": "Melissa"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Deze ___ werken samen.",
-        "answer": "mensen"
+        "sentence": "De orkaan heet ___.",
+        "answer": "Melissa"
       },
       {
-        "sentence": "Ze hebben veel ___ op hun boerderij.",
-        "answer": "dieren"
+        "sentence": "De orkaan gaat naar ___.",
+        "answer": "Cuba"
       },
       {
-        "sentence": "Ze kregen veel ___ van de EU.",
-        "answer": "geld"
+        "sentence": "Er komt een ___ naar Cuba.",
+        "answer": "orkaan"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar ging de fraude over?",
+      "question": "Waar is orkaan Melissa?",
       "options": [
-        "over reizen",
-        "over eten",
-        "over dieren",
-        "over muziek"
+        "In Nederland",
+        "Op de maan",
+        "Op Jamaica",
+        "In een boek"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat deden de mensen in Griekenland?",
+      "question": "Wat is er met veel huishoudens gebeurd?",
       "options": [
-        "Ze logen over het aantal dieren",
-        "Ze kochten nieuwe dieren",
-        "Ze verkochten hun dieren",
-        "Ze gingen op vakantie"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is de EU?",
-      "options": [
-        "Een land",
-        "Een groep van landen",
-        "Een dier",
-        "Een stad"
+        "Ze hebben een nieuwe orkaan",
+        "Ze hebben geen stroom",
+        "Ze zijn verhuisd",
+        "Ze hebben veel gegeten"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Hoe sterk is orkaan Melissa?",
+      "options": [
+        "Categorie 1",
+        "Categorie 2",
+        "Categorie 3",
+        "Categorie 5"
+      ],
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "De mensen in Griekenland hadden te veel dieren.",
-      "isTrue": true
-    },
-    {
-      "statement": "De EU gaf de mensen geen geld.",
+      "statement": "Orkaan Melissa is op Cuba.",
       "isTrue": false
     },
     {
-      "statement": "De mensen logen over hoeveel dieren ze hadden.",
+      "statement": "Orkaan Melissa is op Jamaica geweest.",
+      "isTrue": true
+    },
+    {
+      "statement": "Orkaan Melissa is van categorie 5.",
       "isTrue": true
     }
   ]

@@ -1,105 +1,105 @@
 {
-  "id": 24,
+  "id": 23,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "De warme bakker is steeds vaker een vrouw: “Na tien broden bakken wist ik: hier word ik gelukkig van”",
+  "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
   "topicNumber": 1,
   "article": {
-    "title": "De warme bakker is steeds vaker een vrouw: “Na tien broden bakken wist ik: hier word ik gelukkig van”",
-    "summary": "Van een passie voor millefeuille tot ambachtelijke zuurdesembroden, steeds vaker kiezen vrouwen voor een job als bakker of patissier. In verschillende bakkersopleidingen maken ze intussen meer dan de helft van de leerlingen uit. “Vrouwen hebben de finesse sneller in de vingers.”"
+    "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
+    "summary": "Het Hof van Cassatie verwerpt het cassatieberoep dat advocaat Hans Rieder en zijn ex-echtgenote hadden ingesteld tegen hun veroordeling wegens belastingontduiking door domiciliefraude."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "zuurdesem",
-        "definition": "een soort desem dat zuur is en gebruikt wordt om brood te laten rijzen",
-        "sentence": "Het ___ brood had een rijke, zure smaak.",
-        "answer": "zuurdesem"
+        "word": "domiciliefraude",
+        "definition": "Een vorm van fraude waarbij iemand zijn officiële woonplaats (domicilie) verkeerd voorstelt om belasting te ontduiken.",
+        "sentence": "Ze pleegden ___ door zich in te schrijven op een adres waar ze niet woonden.",
+        "answer": "domiciliefraude"
       },
       {
-        "word": "bakker",
-        "definition": "iemand die brood en banket bakt",
-        "sentence": "De ___ staat elke dag vroeg op om vers brood te bakken.",
-        "answer": "bakker"
+        "word": "echtgenote",
+        "definition": "De vrouwelijke partner in een huwelijk; de echtgenote.",
+        "sentence": "Zijn ex-___ was ook bij de rechtszaak betrokken.",
+        "answer": "echtgenote"
       },
       {
-        "word": "ambacht",
-        "definition": "een traditioneel handwerk of vakmanschap",
-        "sentence": "Het oude ___ van houtbewerking is nog steeds levend.",
-        "answer": "ambacht"
+        "word": "cassatie",
+        "definition": "Het verzoek aan een hogere rechter om een eerdere uitspraak te herzien.",
+        "sentence": "Het Hof stelde de ___ in, zodat de zaak opnieuw kon worden bekeken.",
+        "answer": "cassatie"
       },
       {
-        "word": "vrouw",
-        "definition": "een volwassen persoon van het vrouwelijk geslacht",
-        "sentence": "De ___ werkt parttime en zorgt voor de kinderen.",
-        "answer": "vrouw"
+        "word": "belastingontduiking",
+        "definition": "Het opzettelijk niet betalen van belastingen die je wettelijk moet betalen.",
+        "sentence": "Hij werd verdacht van ___ omdat hij zijn inkomsten niet had aangegeven.",
+        "answer": "belastingontduiking"
       },
       {
-        "word": "ambachtelijke",
-        "definition": "op de manier van een ambacht, traditioneel en handgemaakt",
-        "sentence": "De ___ producten zijn van hoge kwaliteit.",
-        "answer": "ambachtelijke"
+        "word": "veroordeling",
+        "definition": "De uitspraak van een rechter waarbij iemand schuldig wordt bevonden.",
+        "sentence": "De ___ betekende dat hij de gevangenis in moest.",
+        "answer": "veroordeling"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ producten zijn van hoge kwaliteit.",
-        "answer": "ambachtelijke"
+        "sentence": "Het Hof stelde de ___ in, zodat de zaak opnieuw kon worden bekeken.",
+        "answer": "cassatie"
       },
       {
-        "sentence": "Het oude ___ van houtbewerking is nog steeds levend.",
-        "answer": "ambacht"
+        "sentence": "Ze pleegden ___ door zich in te schrijven op een adres waar ze niet woonden.",
+        "answer": "domiciliefraude"
       },
       {
-        "sentence": "De ___ werkt parttime en zorgt voor de kinderen.",
-        "answer": "vrouw"
+        "sentence": "De ___ betekende dat hij de gevangenis in moest.",
+        "answer": "veroordeling"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar komt het woord 'patissier' vandaan?",
+      "question": "Wat is de rol van het Hof van Cassatie in deze zaak?",
       "options": [
-        "Uit het Nederlands",
-        "Uit het Frans",
-        "Uit het Engels",
-        "Uit het Italiaans"
+        "Het beslist of de zaak opnieuw behandeld wordt.",
+        "Het bevestigt de uitspraak van de lagere rechtbank.",
+        "Het straft de verdachten met een boete.",
+        "Het treedt niet op in deze zaak."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Waarom kiezen meer vrouwen voor een baan als bakker?",
+      "question": "Wat houdt domiciliefraude in?",
       "options": [
-        "Omdat het goed betaalt",
-        "Omdat ze van koken houden",
-        "Omdat ze fijne motoriek beheersen",
-        "Omdat ze thuis kunnen werken"
+        "Het frauduleus aangeven van een onjuiste woonplaats.",
+        "Het niet declareren van zakelijke uitgaven.",
+        "Het stelen van iemands identiteitsgegevens.",
+        "Het openen van een bankrekening in het buitenland."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is een 'millefeuille'?",
+      "question": "Wat is de betekenis van 'verwerpt' in juridische taal?",
       "options": [
-        "Een soort bloem",
-        "Een soort taart",
-        "Een soort gerecht",
-        "Een soort boek"
+        "Niet goedkeuren, afwijzen.",
+        "Goedkeuren, accepteren.",
+        "Uitstellen voor later.",
+        "Negeren, geen aandacht aan schenken."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Vrouwen hebben over het algemeen betere fijne motoriek dan mannen.",
+      "statement": "De advocaat en zijn ex-echtgenote zijn beiden veroordeeld voor dezelfde misdaad.",
       "isTrue": true
     },
     {
-      "statement": "Een patissier is iemand die alleen maar taarten bakt.",
+      "statement": "Het Hof van Cassatie heeft de eerdere veroordeling volledig ongedaan gemaakt.",
       "isTrue": false
     },
     {
-      "statement": "Zuurdesem is een soort meel dat gebruikt wordt voor brood.",
+      "statement": "De uitspraak van het Hof van Cassatie is bindend en niet meer aanvechtbaar.",
       "isTrue": true
     }
   ]

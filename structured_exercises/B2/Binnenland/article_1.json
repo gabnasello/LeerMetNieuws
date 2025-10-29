@@ -1,100 +1,75 @@
 {
-  "id": 19,
+  "id": 18,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Pater Herwig Arts, 90 jaar",
+  "title": "Jacques Vandekerckhove, 92 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Pater Herwig Arts, 90 jaar",
-    "summary": "Hij werd geboren in 1935 en overleed op 24 oktober 2025."
+    "title": "Jacques Vandekerckhove, 92 jaar",
+    "summary": "Geboren in 1933, overleden op 26/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Pater",
-        "definition": "Een pater is een geestelijke in de Katholieke Kerk.",
-        "sentence": "De ___ droeg een zwart habijt.",
-        "answer": "pater"
-      },
-      {
-        "word": "geboren",
-        "definition": "Geboren worden betekent dat je leven begint; het is het tegenovergestelde van overlijden.",
-        "sentence": "Zij werd ___ in een klein dorp in Nederland.",
+        "word": "Geboren",
+        "definition": "Geboren zijn betekent dat je op een bepaalde datum ter wereld bent gekomen.",
+        "sentence": "Hij werd ___ in 1933.",
         "answer": "geboren"
       },
       {
-        "word": "werd",
-        "definition": "Werd is de verleden tijd van 'worden', wat 'zijn' of 'geworden' betekent.",
-        "sentence": "Hij ___ geboren in een klein dorp.",
-        "answer": "werd"
-      },
-      {
-        "word": "werd",
-        "definition": "Werd is de verleden tijd van 'worden', wat 'geworden' of 'zijn' betekent.",
-        "sentence": "Zij ___ geboren in een groot ziekenhuis.",
-        "answer": "werd"
+        "word": "Overleden",
+        "definition": "Overleden zijn betekent dat iemand niet meer leeft.",
+        "sentence": "Hij is ___ op 26 oktober 2025.",
+        "answer": "overleden"
       }
     ],
-    "fillInBlanks": [
-      {
-        "sentence": "Zij werd ___ in een klein dorp in Nederland.",
-        "answer": "geboren"
-      },
-      {
-        "sentence": "De ___ droeg een zwart habijt.",
-        "answer": "pater"
-      },
-      {
-        "sentence": "Hij ___ geboren in een klein dorp.",
-        "answer": "werd"
-      }
-    ]
+    "fillInBlanks": []
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het als iemand is overleden?",
+      "question": "Wat was de geboortedatum van Jacques Vandekerckhove?",
       "options": [
-        "Die persoon is op reis",
-        "Die persoon is gestorven",
-        "Die persoon is net geboren",
-        "Die persoon is verhuisd"
+        "26 oktober 1933",
+        "1 januari 1933",
+        "26 oktober 1923",
+        "15 mei 1933"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Welk woord past bij 'Hij werd geboren'?",
+      "question": "Hoe oud was Jacques Vandekerckhove toen hij overleed?",
       "options": [
-        "gestorven",
-        "overleden",
-        "geboren",
-        "verhuisd"
+        "92 jaar",
+        "93 jaar",
+        "91 jaar",
+        "89 jaar"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de tegenhanger van 'overleden'?",
+      "question": "Waar woonde Jacques Vandekerckhove het grootste deel van zijn leven?",
       "options": [
-        "Oud worden",
-        "Geboren worden",
-        "Verhuizen",
-        "Sterven"
+        "In België",
+        "In Nederland",
+        "In Frankrijk",
+        "In Duitsland"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Pater Herwig Arts werd geboren in 1935.",
+      "statement": "Jacques Vandekerckhove overleed op 26 oktober 2025.",
       "isTrue": true
     },
     {
-      "statement": "Hij overleed op 24 oktober 2025.",
-      "isTrue": true
-    },
-    {
-      "statement": "Hij werd geboren in 2025.",
+      "statement": "Jacques Vandekerckhove was 93 jaar oud bij zijn overlijden.",
       "isTrue": false
+    },
+    {
+      "statement": "Jacques Vandekerckhove werd geboren in 1933.",
+      "isTrue": true
     }
   ]
 }

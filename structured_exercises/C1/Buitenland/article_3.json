@@ -1,106 +1,75 @@
 {
-  "id": 10,
+  "id": 9,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Jamaica maakt zich op voor orkaan Melissa, de zwaarste van het jaar",
+  "title": "Inwoners Al-Fasher worden uitgemoord: in Noord-Soedan ontrolt zich het ergste scenario",
   "topicNumber": 1,
   "article": {
-    "title": "Jamaica maakt zich op voor orkaan Melissa, de zwaarste van het jaar",
-    "summary": "Een ramp lijkt onafwendbaar in Jamaica, nu orkaan Melissa op drie manieren kan toeslaan: met stormvloed, immense regenval en verwoestende wind. Op Haïti en de Dominicaanse Republiek vielen al vier doden."
+    "title": "Inwoners Al-Fasher worden uitgemoord: in Noord-Soedan ontrolt zich het ergste scenario",
+    "summary": "Uit getuigenissen, video’s en satellietbeelden blijkt dat rebellen bij de verovering van de Soedanese stad Al-Fasher volledige wijken platbranden en de inwoners uitmoorden. Burgers die proberen te vluchten, worden doodgeschoten of aan bomen opgehangen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "immense",
-        "definition": "Zeer groot of enorm in omvang of hoeveelheid.",
-        "sentence": "De storm bracht ___ hoeveelheden regen.",
-        "answer": "immense"
+        "word": "burgers",
+        "definition": "gewone inwoners van een stad of land, niet de militairen",
+        "sentence": "De ___ proberen te vluchten, maar worden vaak tegengehouden.",
+        "answer": "burgers"
       },
       {
-        "word": "regenval",
-        "definition": "De hoeveelheid neerslag die in een bepaalde periode valt.",
-        "sentence": "De hevige ___ zorgde voor overstromingen in de stad.",
-        "answer": "regenval"
-      },
-      {
-        "word": "verwoestende",
-        "definition": "Iets dat grote schade of vernieling veroorzaakt.",
-        "sentence": "De orkaan had een ___ effect op de kuststad.",
-        "answer": "verwoestende"
-      },
-      {
-        "word": "doden",
-        "definition": "Mensen die zijn overleden, meestal als gevolg van een incident.",
-        "sentence": "Er vielen verschillende ___ na de aardbeving.",
-        "answer": "doden"
-      },
-      {
-        "word": "orkaan",
-        "definition": "Een zeer zware storm met extreme windsnelheden, vaak voorkomend in tropische gebieden.",
-        "sentence": "De orkaan veroorzaakte veel schade aan de kust.",
-        "answer": "orkaan"
+        "word": "getuigenissen",
+        "definition": "mondelinge of schriftelijke verklaringen van wat iemand heeft meegemaakt",
+        "sentence": "De ___ van overlevenden beschrijven gruwelijke taferelen.",
+        "answer": "getuigenissen"
       }
     ],
-    "fillInBlanks": [
-      {
-        "sentence": "De orkaan had een ___ effect op de kuststad.",
-        "answer": "verwoestende"
-      },
-      {
-        "sentence": "Er vielen verschillende ___ na de aardbeving.",
-        "answer": "doden"
-      },
-      {
-        "sentence": "De storm bracht ___ hoeveelheden regen.",
-        "answer": "immense"
-      }
-    ]
+    "fillInBlanks": []
   },
   "multipleChoice": [
     {
-      "question": "Wat is de belangrijkste dreiging van orkaan Melissa voor Jamaica?",
+      "question": "Wat is de rol van satellietbeelden volgens de tekst?",
       "options": [
-        "Aardverschuivingen",
-        "Tsunami's",
-        "Stormvloed en overstromingen",
-        "Extreme hittegolven"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Hoeveel doden vielen er reeds in Haïti en de Dominicaanse Republiek als gevolg van orkaan Melissa?",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "4"
+        "Ze tonen de vernietiging in realtime.",
+        "Ze worden gebruikt om het weer te voorspellen.",
+        "Ze zijn alleen nuttig voor landbouw.",
+        "Ze bewijzen de misdaden die plaatsvinden."
       ],
       "correctAnswer": 4
     },
     {
-      "question": "Wat is een van de manieren waarop orkaan Melissa toeslaat volgens de samenvatting?",
+      "question": "Hoe reageren de burgers op de situatie in Al-Fasher?",
       "options": [
-        "Door extreme droogte",
-        "Met zware stormvloed",
-        "Met tornado's",
-        "Door aardbevingen te triggeren"
+        "Ze blijven thuis en wachten af.",
+        "Ze proberen te vluchten voor het geweld.",
+        "Ze vechten terug tegen de rebellen.",
+        "Ze nemen deel aan de vernietiging."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de houding van de rebellen ten opzichte van internationale normen?",
+      "options": [
+        "Ze respecteren deze volledig.",
+        "Ze negeren deze volledig en handelen in tegendeel.",
+        "Ze zijn onbekend met deze normen.",
+        "Ze gebruiken deze normen om hun voordeel te behalen."
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Orkaan Melissa is de eerste orkaan van het jaar die Jamaica treft.",
-      "isTrue": false
-    },
-    {
-      "statement": "De storm heeft al doden veroorzaakt in buurlanden.",
+      "statement": "De getuigenissen en video's tonen aan dat de rebellen de stad Al-Fasher volledig hebben vernietigd.",
       "isTrue": true
     },
     {
-      "statement": "Orkanen kunnen alleen toeslaan met extreme windsnelheden.",
+      "statement": "Internationale gemeenschappen hebben effectief ingegrepen en een staakt-het-vuren bewerkstelligd.",
       "isTrue": false
+    },
+    {
+      "statement": "De burgers die vluchten, worden zonder uitzondering geëxecuteerd of opgehangen aan bomen.",
+      "isTrue": true
     }
   ]
 }

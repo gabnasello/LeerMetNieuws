@@ -1,106 +1,106 @@
 {
-  "id": 14,
+  "id": 13,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
+  "title": "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
   "topicNumber": 1,
   "article": {
-    "title": "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
-    "summary": "Een criminele groep in Griekenland heeft op fraudeleuze wijze bijna 20 miljoen euro aan EU-subsidies ontvangen. De verdachten logen over het aantal dieren in hun aanvraag."
+    "title": "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
+    "summary": "Storm Melissa is als een orkaan van categorie vijf aan land gekomen in Jamaica. Voor het Caraïbisch eiland is het de zwaarste storm ooit."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "ontvangen",
-        "definition": "krijgen, in bezit nemen",
-        "sentence": "Ze hebben de subsidie ___, maar dat was niet correct.",
-        "answer": "ontvangen"
+        "word": "gekomen",
+        "definition": "aangekomen, hier zijn",
+        "sentence": "Hij is gisteren aangekomen in de stad.",
+        "answer": "gekomen"
       },
       {
-        "word": "verdachten",
-        "definition": "mensen waarvan wordt gedacht dat ze iets fouts hebben gedaan",
-        "sentence": "De ___ moeten voor de rechter verschijnen.",
-        "answer": "verdachten"
+        "word": "orkaan",
+        "definition": "een hele zware storm met heel veel wind",
+        "sentence": "Een orkaan kan veel schade veroorzaken.",
+        "answer": "orkaan"
       },
       {
-        "word": "Griekenland",
-        "definition": "een land in Europa",
-        "sentence": "___ is een land met veel eilanden.",
-        "answer": "Griekenland"
+        "word": "categorie",
+        "definition": "een groep of soort waar iets in past",
+        "sentence": "Deze storm is van categorie vijf, dat is de hoogste.",
+        "answer": "categorie"
       },
       {
-        "word": "subsidies",
-        "definition": "financiële steun van de overheid",
-        "sentence": "De EU geeft ___ aan landbouwers voor bepaalde projecten.",
-        "answer": "subsidies"
+        "word": "aan",
+        "definition": "op, tegen, in de richting van",
+        "sentence": "Hij hing de foto aan de muur.",
+        "answer": "aan"
       },
       {
-        "word": "aanvraag",
-        "definition": "een verzoek om iets, vaak schriftelijk",
-        "sentence": "Hun ___ voor subsidie werd goedgekeurd.",
-        "answer": "aanvraag"
+        "word": "zwaarste",
+        "definition": "het meeste gewicht hebbend, het sterkst",
+        "sentence": "Dit was de zwaarste storm van het jaar.",
+        "answer": "zwaarste"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De EU geeft ___ aan landbouwers voor bepaalde projecten.",
-        "answer": "subsidies"
+        "sentence": "Hij hing de foto aan de muur.",
+        "answer": "aan"
       },
       {
-        "sentence": "De ___ moeten voor de rechter verschijnen.",
-        "answer": "verdachten"
+        "sentence": "Dit was de zwaarste storm van het jaar.",
+        "answer": "zwaarste"
       },
       {
-        "sentence": "Hun ___ voor subsidie werd goedgekeurd.",
-        "answer": "aanvraag"
+        "sentence": "Een orkaan kan veel schade veroorzaken.",
+        "answer": "orkaan"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat was het hoofddoel van de groep in Griekenland?",
+      "question": "Wat betekent het dat een storm van categorie vijf is?",
       "options": [
-        "Het opzetten van een legale boerderij",
-        "Het krijgen van EU-subsidies door fraude",
-        "Het verminderen van het aantal schapen in Griekenland",
-        "Het openbaar maken van fraude door de overheid"
+        "Het is de allerzwaarste storm.",
+        "Het is een middelmatige storm.",
+        "Het is een storm met weinig wind.",
+        "Het is een storm die bijna voorbij is."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Hoe probeerde de groep de subsidie te ontvangen?",
+      "question": "Wat is er gebeurd met Jamaica na de orkaan?",
       "options": [
-        "Door een eerlijke aanvraag in te dienen",
-        "Door het aantal dieren te verhogen en te liegen",
-        "Door de subsidie te weigeren na ontvangst",
-        "Door meer dieren te kopen met eigen geld"
+        "Het eiland is verwoest en 530.000 huishoudens hebben geen stroom.",
+        "Jamaica is ongeschonden uit de storm gekomen.",
+        "De storm heeft alleen de kust geraakt.",
+        "Jamaica heeft de storm volledig vermeden."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van de Europese Unie in deze situatie?",
+      "question": "Hoe wordt orkaan Melissa beschreven?",
       "options": [
-        "Het negeren van fraude door boeren",
-        "Het aanbieden van subsidies zonder voorwaarden",
-        "Het controleren en straffen van fraude",
-        "Het sluiten van de organisatie die subsidies beheert"
+        "Als de zwaarste storm ooit voor het eiland.",
+        "Als een lichte bries die niets doet.",
+        "Als een storm die alleen op zee blijft.",
+        "Als een storm die al is overgewaaid."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De groep in Griekenland heeft de subsidie op een eerlijke manier verdiend.",
-      "isTrue": false
-    },
-    {
-      "statement": "De Europese Unie biedt subsidies aan voor verschillende doelen, maar er zijn regels.",
+      "statement": "Orkaan Melissa is de zwaarste storm ooit voor Jamaica.",
       "isTrue": true
     },
     {
-      "statement": "Alle dieren in Griekenland zijn betrokken bij de fraude.",
+      "statement": "Jamaica heeft geen last gehad van de orkaan.",
       "isTrue": false
+    },
+    {
+      "statement": "Orkaan Melissa is van categorie vijf, de hoogste categorie.",
+      "isTrue": true
     }
   ]
 }

@@ -3,103 +3,72 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Orkaan Melissa nadelt naar Jamaica",
+  "title": "Geweld in Al-Fasher",
   "topicNumber": 1,
   "article": {
-    "title": "Orkaan Melissa nadelt naar Jamaica",
-    "summary": "Orkaan Melissa komt naar Jamaica. De orkaan brengt veel wind en regen. Er is ook gevaar voor overstromingen. Er zijn al doden in andere landen."
+    "title": "Geweld in Al-Fasher",
+    "summary": "Er is veel geweld in Al-Fasher. Mensen worden gedood. Huizen branden af."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "orkaan",
-        "definition": "een hele grote storm met veel wind",
-        "sentence": "Een orkaan kan veel schade veroorzaken.",
-        "answer": "orkaan"
+        "word": "Geweld",
+        "definition": "iets met veel pijn en schade",
+        "sentence": "Er is veel ___ in de stad.",
+        "answer": "geweld"
       },
       {
-        "word": "Jamaica",
-        "definition": "een land in het Caribisch gebied",
-        "sentence": "Jamaica is een eiland in de Caribische Zee.",
-        "answer": "Jamaica"
-      },
-      {
-        "word": "doden",
-        "definition": "mensen die zijn overleden",
-        "sentence": "Er zijn helaas doden gevallen door de orkaan.",
-        "answer": "doden"
-      },
-      {
-        "word": "land",
-        "definition": "een gebied met een eigen regering, zoals Nederland of België",
-        "sentence": "Welk land ligt naast Duitsland?",
-        "answer": "land"
-      },
-      {
-        "word": "regen",
-        "definition": "water dat uit de lucht valt, vaak bij slecht weer",
-        "sentence": "De regen viel de hele dag.",
-        "answer": "regen"
+        "word": "Mensen",
+        "definition": "mannen, vrouwen en kinderen",
+        "sentence": "De ___ in de stad zijn bang.",
+        "answer": "mensen"
       }
     ],
-    "fillInBlanks": [
-      {
-        "sentence": "Een orkaan kan veel schade veroorzaken.",
-        "answer": "orkaan"
-      },
-      {
-        "sentence": "Er zijn helaas doden gevallen door de orkaan.",
-        "answer": "doden"
-      },
-      {
-        "sentence": "De regen viel de hele dag.",
-        "answer": "regen"
-      }
-    ]
+    "fillInBlanks": []
   },
   "multipleChoice": [
     {
-      "question": "Waar is orkaan Melissa?",
+      "question": "Waar gaat de tekst over?",
       "options": [
-        "Bij Jamaica",
-        "In Nederland",
-        "Op de maan",
-        "In een boek"
+        "Een feest in de stad",
+        "Geweld en brand in de stad",
+        "Een veilige plek om te spelen",
+        "Een nieuwe school"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat veroorzaakt orkaan Melissa?",
+      "question": "Waar zijn de huizen van?",
       "options": [
-        "Veel wind en regen",
-        "Zonnig weer",
-        "Een lichte bries",
-        "Koude sneeuw"
+        "Van ijs",
+        "Van steen",
+        "Van hout",
+        "Van water"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is een gevolg van de orkaan?",
+      "question": "Wat is veilig?",
       "options": [
-        "Er zijn overstromingen",
-        "De zon schijnt fel",
-        "Het sneeuwt",
-        "Het is erg koud"
+        "De stad",
+        "De school",
+        "Het huis",
+        "De boom"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Orkaan Melissa veroorzaakt overstromingen in Jamaica.",
-      "isTrue": true
-    },
-    {
-      "statement": "Nederland wordt ook getroffen door orkaan Melissa.",
+      "statement": "De stad is veilig.",
       "isTrue": false
     },
     {
-      "statement": "Er zijn al doden in andere landen door de orkaan.",
+      "statement": "Er is veel geweld in de stad.",
+      "isTrue": true
+    },
+    {
+      "statement": "Huis is een plek om te wonen.",
       "isTrue": true
     }
   ]

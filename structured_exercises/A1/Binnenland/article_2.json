@@ -1,106 +1,106 @@
 {
-  "id": 26,
+  "id": 25,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
+  "title": "Adoptie uit buitenland werd gepauzeerd, maar nu staan er toch weer 35 gezinnen in de wachtrij",
   "topicNumber": 1,
   "article": {
-    "title": "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
-    "summary": "AI-modellen zoals ChatGPT maken onze taal vlakker, stelt computerlinguïst Tim Van de Cruys vast. Tegelijk wordt ons eigen taalgevoel misschien nog belangrijker door AI. 'Hoe beter je de taal al beheerst, hoe beter een AI-model voor jou zal werken.'"
+    "title": "Adoptie uit buitenland werd gepauzeerd, maar nu staan er toch weer 35 gezinnen in de wachtrij",
+    "summary": "Veertig gezinnen in Vlaanderen zijn bezig met een traject voor buitenlandse adoptie, 35 andere werd beloofd dat ze er nog mogen instappen. En dat terwijl er al sinds eind 2023 een 'adoptiepauze' is afgekondigd. 'De boodschap is niet helder en dat is lastig', meent parlementslid Freya Perdaens (N-VA)."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "computer",
-        "definition": "een apparaat waarmee je kunt internetten en werken",
-        "sentence": "Ik gebruik mijn ___ om te werken.",
-        "answer": "computer"
+        "word": "Vlaanderen",
+        "definition": "Een gebied in België waar ze Nederlands spreken",
+        "sentence": "___ is een deel van België.",
+        "answer": "Vlaanderen"
       },
       {
-        "word": "taal",
-        "definition": "de manier waarop mensen met elkaar praten",
-        "sentence": "Welke ___ spreek jij het best?",
-        "answer": "taal"
+        "word": "adoptie",
+        "definition": "Een kind krijgen dat niet van jezelf is",
+        "sentence": "___ is een manier om een kind te krijgen.",
+        "answer": "adoptie"
       },
       {
-        "word": "taalgevoel",
-        "definition": "het natuurlijke gevoel voor wat goed of fout is in een taal",
-        "sentence": "Zijn ___ is heel goed, hij maakt nooit fouten.",
-        "answer": "taalgevoel"
+        "word": "gepauzeerd",
+        "definition": "Even gestopt, tijdelijk niet actief",
+        "sentence": "Het feest was ___, maar gaat nu verder.",
+        "answer": "gepauzeerd"
       },
       {
-        "word": "taal",
-        "definition": "de manier waarop mensen met elkaar praten",
-        "sentence": "In welk land wordt deze ___ gesproken?",
-        "answer": "taal"
+        "word": "wachtrij",
+        "definition": "Een rij of lijst van mensen die wachten",
+        "sentence": "Er is een lange ___ voor de attractie.",
+        "answer": "wachtrij"
       },
       {
-        "word": "modellen",
-        "definition": "versies of soorten van iets, bijvoorbeeld van een computerprogramma",
-        "sentence": "De nieuwe ___ van de auto zijn erg populair.",
-        "answer": "modellen"
+        "word": "parlementslid",
+        "definition": "Iemand die in het parlement zit en wetten maakt",
+        "sentence": "Een ___ praat over nieuwe wetten.",
+        "answer": "parlementslid"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Welke ___ spreek jij het best?",
-        "answer": "taal"
+        "sentence": "___ is een deel van België.",
+        "answer": "Vlaanderen"
       },
       {
-        "sentence": "Zijn ___ is heel goed, hij maakt nooit fouten.",
-        "answer": "taalgevoel"
+        "sentence": "Het feest was ___, maar gaat nu verder.",
+        "answer": "gepauzeerd"
       },
       {
-        "sentence": "De nieuwe ___ van de auto zijn erg populair.",
-        "answer": "modellen"
+        "sentence": "Er is een lange ___ voor de attractie.",
+        "answer": "wachtrij"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'taalgevoel'?",
+      "question": "Wat betekent 'gepauzeerd' in deze tekst?",
       "options": [
-        "een soort gevoel",
-        "een soort taal",
-        "een soort computer",
-        "een soort kunst"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is een computer?",
-      "options": [
-        "een dier",
-        "een machine",
-        "een gebouw",
-        "een land"
+        "Gestopt",
+        "Gepauzeerd",
+        "Vergeten",
+        "Verloren"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een model?",
+      "question": "Wat is de rol van een parlementslid in deze tekst?",
       "options": [
-        "een persoon",
-        "een auto",
-        "een soort van iets",
-        "een stad"
+        "Kinderen adopteren",
+        "Wetten maken",
+        "In het parlement zitten",
+        "Over adoptie praten"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
+    },
+    {
+      "question": "Waar gaat de tekst over?",
+      "options": [
+        "Een sportevenement",
+        "Kinderen die adopteren",
+        "Een nieuwe wet",
+        "Vakantie in het buitenland"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "AI maakt taal eenvoudiger.",
-      "isTrue": true
-    },
-    {
-      "statement": "Taal is alleen voor ouderen.",
+      "statement": "Adoptiepauze betekent dat adoptie helemaal stopt.",
       "isTrue": false
     },
     {
-      "statement": "Een computer kan helpen met taal leren.",
+      "statement": "Sommige gezinnen wachten op adoptie.",
       "isTrue": true
+    },
+    {
+      "statement": "Alleen mensen in Vlaanderen kunnen adopteren.",
+      "isTrue": false
     }
   ]
 }

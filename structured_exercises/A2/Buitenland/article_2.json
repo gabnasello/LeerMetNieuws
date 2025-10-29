@@ -1,106 +1,106 @@
 {
-  "id": 12,
+  "id": 11,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
+  "title": "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
   "topicNumber": 1,
   "article": {
-    "title": "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
-    "summary": "Een groep in Griekenland heeft bijna 20 miljoen euro aan EU-subsidies gekregen door te frauderen. Zij deden alsof ze veel meer dieren hadden dan in werkelijkheid."
+    "title": "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
+    "summary": "Storm Melissa is als een orkaan van categorie vijf aan land gekomen in Jamaica. Voor het Caraïbisch eiland is het de zwaarste storm ooit."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "meer",
-        "definition": "Een grotere hoeveelheid, extra.",
-        "sentence": "Hij heeft ___ boeken dan ik, dus zijn kast is voller.",
-        "answer": "meer"
+        "word": "Caraïbisch",
+        "definition": "van of over het Caribisch gebied, een gebied met veel eilanden",
+        "sentence": "Jamaica is een land in het Caraïbisch gebied.",
+        "answer": "Caraïbisch"
       },
       {
-        "word": "geiten",
-        "definition": "Een dier dat melk geeft en op boerderijen leeft.",
-        "sentence": "De boer heeft veel ___ die melk geven.",
-        "answer": "geiten"
+        "word": "orkaan",
+        "definition": "een hele zware storm met veel wind",
+        "sentence": "De orkaan veroorzaakte veel schade.",
+        "answer": "orkaan"
       },
       {
-        "word": "schapen",
-        "definition": "Een dier met wol dat op boerderijen leeft.",
-        "sentence": "De herder heeft veel ___ die hij scheert voor wol.",
-        "answer": "schapen"
+        "word": "categorie",
+        "definition": "een soort groep of type",
+        "sentence": "De orkaan was van categorie vijf, de hoogste.",
+        "answer": "categorie"
       },
       {
-        "word": "alsof",
-        "definition": "Een woord om aan te geven dat iets niet echt is, maar alleen lijkt zo.",
-        "sentence": "Hij gedraagt zich ___ hij de baas is, maar dat is hij niet.",
-        "answer": "alsof"
+        "word": "storm",
+        "definition": "heel slecht weer met veel wind en regen",
+        "sentence": "De storm blies bomen omver.",
+        "answer": "storm"
       },
       {
-        "word": "subsidies",
-        "definition": "Geld dat de overheid geeft voor een bepaald doel.",
-        "sentence": "De boer ontvangt ___ van de EU om zijn land te verbeteren.",
-        "answer": "subsidies"
+        "word": "zonder",
+        "definition": "niet met, niet in bezit van",
+        "sentence": "Veel huizen zijn zonder stroom na de storm.",
+        "answer": "zonder"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De boer ontvangt ___ van de EU om zijn land te verbeteren.",
-        "answer": "subsidies"
+        "sentence": "Jamaica is een land in het Caraïbisch gebied.",
+        "answer": "Caraïbisch"
       },
       {
-        "sentence": "Hij heeft ___ boeken dan ik, dus zijn kast is voller.",
-        "answer": "meer"
+        "sentence": "Veel huizen zijn zonder stroom na de storm.",
+        "answer": "zonder"
       },
       {
-        "sentence": "De boer heeft veel ___ die melk geven.",
-        "answer": "geiten"
+        "sentence": "De orkaan was van categorie vijf, de hoogste.",
+        "answer": "categorie"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar ging de fraude over?",
+      "question": "Wat is een orkaan?",
       "options": [
-        "Over te veel dieren vragen",
-        "Over te weinig dieren vragen",
-        "Over het stelen van dieren",
-        "Over het kopen van dieren"
+        "Een soort dier",
+        "Een soort feest",
+        "Een hele zware storm",
+        "Een soort auto"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat betekent 'zonder stroom'?",
+      "options": [
+        "Er is geen elektriciteit",
+        "Er is veel wind",
+        "Er is veel water",
+        "Er is geen probleem"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is 'subsidies'?",
+      "question": "Waar is Jamaica?",
       "options": [
-        "Een soort belasting",
-        "Geld van de overheid",
-        "Een soort verzekering",
-        "Een soort lening"
+        "In Azië",
+        "In Europa",
+        "In het Caribisch gebied",
+        "In de woestijn"
       ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is het tegenovergestelde van 'meer'?",
-      "options": [
-        "Minder",
-        "Meer",
-        "Veel",
-        "Weinig"
-      ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De groep in Griekenland kreeg geld van de EU.",
-      "isTrue": true
-    },
-    {
-      "statement": "De dieren waren echt en vielen de groep aan.",
+      "statement": "Orkaan Melissa is een lichte storm.",
       "isTrue": false
     },
     {
-      "statement": "De groep had minder dieren dan ze zeiden.",
+      "statement": "Jamaica is een eiland in de Caribische Zee.",
       "isTrue": true
+    },
+    {
+      "statement": "Er zijn geen problemen met elektriciteit na de storm.",
+      "isTrue": false
     }
   ]
 }

@@ -1,15 +1,15 @@
 Artikel 2
-Nieuwsupdate: 2025-10-28 04:28 UCT
+Nieuwsupdate: 2025-10-29 04:31 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten
-Link: https://www.standaard.be/buitenland/fraude-met-eu-subsidies-plots-telde-kreta-veel-meer-schapen-en-geiten/100356893.html
-Datum: Mon, 27 Oct 2025 22:59:00 GMT
-Samenvatting: Een georganiseerde misdaadgroep in Griekenland haalde op frauduleuze manier bijna 20 miljoen euro Europese landbouwsubsidies binnen. De verdachten overdreven het aantal dieren waarvoor ze geld aanvroegen.
+Titel: Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom
+Link: https://www.standaard.be/buitenland/orkaan-melissa-op-weg-naar-cuba-ruim-530.000-huishoudens-op-jamaica-zonder-stroom/100834263.html
+Datum: Wed, 29 Oct 2025 03:55:43 GMT
+Samenvatting: Storm Melissa is als een orkaan van categorie vijf aan land gekomen in Jamaica. Voor het Caraïbisch eiland is het de zwaarste storm ooit.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/1zizx5-at-least-37-arrested-in-farm-subsidy-fraud-scheme-across-greece/alternates/BASE_SIXTEEN_NINE/At%20least%2037%20arrested%20in%20farm%20subsidy%20fraud%20scheme%20across%20Greece
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/jx59ix-cuba-expects-melissa-to-hit-its-eastern-coast-as-an-extremely-dangerous-hurricane/alternates/BASE_SIXTEEN_NINE/Cuba%20expects%20Melissa%20to%20hit%20its%20eastern%20coast%20as%20an%20extremely%20dangerous%20hurricane
+Premium: false
 ------------------------------------------------------------

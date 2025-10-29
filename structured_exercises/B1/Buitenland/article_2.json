@@ -1,106 +1,106 @@
 {
-  "id": 13,
+  "id": 12,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Fraude met EU-subsidies: Griekse groep pleegde fraude",
+  "title": "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
   "topicNumber": 1,
   "article": {
-    "title": "Fraude met EU-subsidies: Griekse groep pleegde fraude",
-    "summary": "Een criminele groep in Griekenland heeft de Europese Unie bedrogen voor bijna 20 miljoen euro. Zij logen over het aantal schapen en geiten dat ze hadden, om meer geld te krijgen."
+    "title": "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
+    "summary": "Storm Melissa is als een orkaan van categorie vijf aan land gekomen in Jamaica. Voor het Caraïbisch eiland is het de zwaarste storm ooit."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "subsidies",
-        "definition": "Financiële steun gegeven door de overheid of een organisatie.",
-        "sentence": "De boer ontving ___ van de EU om zijn land te verbeteren.",
-        "answer": "subsidies"
+        "word": "eiland",
+        "definition": "een stuk land omgeven door water, kleiner dan een continent",
+        "sentence": "Jamaica is een ___ in de Caraïben.",
+        "answer": "eiland"
       },
       {
-        "word": "Fraude",
-        "definition": "Een vorm van bedrog of misleiding, vaak voor financieel gewin.",
-        "sentence": "Hij werd gearresteerd voor zijn rol in de grote ___.",
-        "answer": "fraude"
+        "word": "zwaarste",
+        "definition": "het meest in gewicht of moeilijkst",
+        "sentence": "Dit is de ___ storm die we ooit hebben gezien.",
+        "answer": "zwaarste"
       },
       {
-        "word": "logen",
-        "definition": "Niet de waarheid vertellen; het tegenovergestelde van de waarheid spreken.",
-        "sentence": "Zij ___ over hun leeftijd om binnen te komen.",
-        "answer": "logen"
+        "word": "orkaan",
+        "definition": "een hele sterke storm met veel wind",
+        "sentence": "Er komt een ___ aan, dus we moeten voorzichtig zijn.",
+        "answer": "orkaan"
       },
       {
-        "word": "groep",
-        "definition": "Een aantal mensen of dingen bij elkaar.",
-        "sentence": "De hele ___ werkte samen aan het project.",
-        "answer": "groep"
+        "word": "categorie",
+        "definition": "een groep of type, bijvoorbeeld van een storm",
+        "sentence": "Deze storm is van ___ vijf, dus het is heel gevaarlijk.",
+        "answer": "categorie"
       },
       {
-        "word": "aantal",
-        "definition": "Hoeveel er van iets is; het getal.",
-        "sentence": "Het ___ mensen dat kwam opdagen was groot.",
-        "answer": "aantal"
+        "word": "stroom",
+        "definition": "elektriciteit die stroomt, of een rivier van water",
+        "sentence": "Na de storm was er geen ___ meer in huis.",
+        "answer": "stroom"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De boer ontving ___ van de EU om zijn land te verbeteren.",
-        "answer": "subsidies"
+        "sentence": "Na de storm was er geen ___ meer in huis.",
+        "answer": "stroom"
       },
       {
-        "sentence": "De hele ___ werkte samen aan het project.",
-        "answer": "groep"
+        "sentence": "Er komt een ___ aan, dus we moeten voorzichtig zijn.",
+        "answer": "orkaan"
       },
       {
-        "sentence": "Hij werd gearresteerd voor zijn rol in de grote ___.",
-        "answer": "fraude"
+        "sentence": "Deze storm is van ___ vijf, dus het is heel gevaarlijk.",
+        "answer": "categorie"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat was het hoofddoel van de groep in Griekenland?",
+      "question": "Wat is een orkaan?",
       "options": [
-        "Meer dieren verzorgen",
-        "Geld stelen van de EU",
-        "Een nieuwe wet aannemen",
-        "Meer boeren helpen"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Hoe pleegde de groep de fraude precies?",
-      "options": [
-        "Ze verkochten te veel dieren",
-        "Ze logen over het aantal dieren",
-        "Ze stalen geld uit banken",
-        "Ze gaven dieren weg"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een gevolg van dit soort fraude?",
-      "options": [
-        "De EU stopt met alle subsidies",
-        "De EU wordt voorzichtiger met geld",
-        "Dieren krijgen minder eten",
-        "Belastinggeld wordt verspild"
+        "Een soort dier",
+        "Een soort auto",
+        "Een soort feest",
+        "Een soort storm"
       ],
       "correctAnswer": 4
+    },
+    {
+      "question": "Waar is de orkaan Melissa ontstaan?",
+      "options": [
+        "In Nederland",
+        "In de Verenigde Staten",
+        "In de Atlantische Oceaan",
+        "In de woestijn"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat betekent 'zwaarste' in deze context?",
+      "options": [
+        "Heel licht",
+        "Heel zwaar",
+        "Heel oud",
+        "Heel nieuw"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De groep in Griekenland gaf de Europese Unie te veel dieren.",
-      "isTrue": false
-    },
-    {
-      "statement": "De groep loog over hoeveel dieren ze hadden om meer geld te krijgen.",
+      "statement": "Orkaan Melissa is de zwaarste storm ooit voor Jamaica.",
       "isTrue": true
     },
     {
-      "statement": "Dit gebeurde alleen in Griekenland.",
+      "statement": "De orkaan heeft voor stroomuitval in Nederland gezorgd.",
       "isTrue": false
+    },
+    {
+      "statement": "Er zijn 530.000 huishoudens op Jamaica zonder stroom door de orkaan.",
+      "isTrue": true
     }
   ]
 }

@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
+  "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
   "topicNumber": 1,
   "article": {
-    "title": "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
-    "summary": "Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven."
+    "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
+    "summary": "Volg hier de laatste ontwikkelingen in Gaza."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "megadam",
-        "definition": "een heel grote dam",
-        "sentence": "De ___ is van steen en beton.",
-        "answer": "megadam"
+        "word": "op",
+        "definition": "op iets, op een plaats of tijdstip",
+        "sentence": "Hij is ___ school.",
+        "answer": "op"
       },
       {
-        "word": "water",
-        "definition": "vloeistof zonder kleur en geur, om te drinken of te gebruiken",
-        "sentence": "Schoon ___ is belangrijk voor gezondheid.",
-        "answer": "water"
+        "word": "Gaza",
+        "definition": "een plaats in het Midden-Oosten",
+        "sentence": "___ is een stad met veel problemen.",
+        "answer": "Gaza"
       },
       {
-        "word": "drinkbaar",
-        "definition": "geschikt om te drinken",
-        "sentence": "Het water is niet ___.",
-        "answer": "drinkbaar"
+        "word": "doden",
+        "definition": "mensen die gestorven zijn",
+        "sentence": "Er vielen veel ___ in het conflict.",
+        "answer": "doden"
       },
       {
-        "word": "bedrijven",
-        "definition": "organisaties die producten of diensten verkopen",
-        "sentence": "Sommige ___ zijn heel groot en hebben veel werknemers.",
-        "answer": "bedrijven"
+        "word": "na",
+        "definition": "na iets, na een tijd of gebeurtenis",
+        "sentence": "We gaan eten ___ het werk.",
+        "answer": "na"
       },
       {
-        "word": "bitcoinboys",
-        "definition": "mensen die veel met bitcoin bezig zijn",
-        "sentence": "De ___ zijn vooral mannen.",
-        "answer": "bitcoinboys"
+        "word": "nieuwe",
+        "definition": "vers, nieuw, recent",
+        "sentence": "Hij kocht een ___ auto.",
+        "answer": "nieuwe"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ is van steen en beton.",
-        "answer": "megadam"
+        "sentence": "Hij is ___ school.",
+        "answer": "op"
       },
       {
-        "sentence": "Het water is niet ___.",
-        "answer": "drinkbaar"
+        "sentence": "___ is een stad met veel problemen.",
+        "answer": "Gaza"
       },
       {
-        "sentence": "Sommige ___ zijn heel groot en hebben veel werknemers.",
-        "answer": "bedrijven"
+        "sentence": "Hij kocht een ___ auto.",
+        "answer": "nieuwe"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een megadam?",
+      "question": "Wat betekent 'doden' in deze context?",
       "options": [
-        "Een klein stuwmeer",
-        "Een enorme dam",
-        "Een soort computer",
-        "Een Ethiopisch gerecht"
+        "mensen die gestorven zijn",
+        "een soort dier",
+        "een soort voedsel",
+        "een soort gebouw"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Waarom komen bitcoinbedrijven naar Ethiopië?",
+      "question": "Waar verwijst 'Gaza' naar?",
       "options": [
-        "Om de natuur te beschermen",
-        "Omdat de energie daar heel goedkoop is",
-        "Omdat ze daar vrienden hebben",
-        "Omdat Ethiopië zo mooi is"
+        "een stad in Palestina",
+        "een dier",
+        "een soort muziek",
+        "een beroemde persoon"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is een probleem voor de lokale bevolking?",
+      "question": "Wat betekent 'luchtaanvallen'?",
       "options": [
-        "Ze hebben te veel stroom",
-        "Ze hebben geen stroom en geen drinkwater",
-        "Ze krijgen te veel geld van de bedrijven",
-        "Ze hebben te veel werk"
+        "aanvallen die vanuit de lucht worden uitgevoerd",
+        "een soort feest",
+        "een soort sport",
+        "een soort voertuig"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De bitcoinbedrijven helpen de lokale bevolking.",
-      "isTrue": false
-    },
-    {
-      "statement": "Ethiopië is een land in Afrika.",
+      "statement": "Er vielen 26 doden na de luchtaanvallen.",
       "isTrue": true
     },
     {
-      "statement": "De megadam geeft stroom aan alle Ethiopiërs.",
+      "statement": "Gaza is een stad in Nederland.",
       "isTrue": false
+    },
+    {
+      "statement": "Luchtaanvallen gebeuren vanuit vliegtuigen.",
+      "isTrue": true
     }
   ]
 }

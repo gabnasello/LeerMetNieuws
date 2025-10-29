@@ -1,105 +1,105 @@
 {
-  "id": 27,
+  "id": 26,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
+  "title": "Adoptie uit buitenland werd 'gepauzeerd', maar nu staan er toch weer 35 gezinnen in de wachtrij",
   "topicNumber": 1,
   "article": {
-    "title": "Helpt AI het Nederlands vooruit of is het de doodgraver ervan?",
-    "summary": "AI-modellen zoals ChatGPT maken onze taal vlakker, stelt computerlinguïst Tim Van de Cruys vast. Tegelijk wordt ons eigen taalgevoel misschien nog belangrijker door AI. Hoe beter je de taal al beheerst, hoe beter een AI-model voor jou zal werken."
+    "title": "Adoptie uit buitenland werd 'gepauzeerd', maar nu staan er toch weer 35 gezinnen in de wachtrij",
+    "summary": "Veertig gezinnen in Vlaanderen zijn bezig met een traject voor buitenlandse adoptie, 35 andere werd beloofd dat ze er nog mogen instappen. En dat terwijl er al sinds eind 2023 een 'adoptiepauze' is afgekondigd. 'De boodschap is niet helder en dat is lastig', meent parlementslid Freya Perdaens (N-VA)."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Helpt",
-        "definition": "Helpt betekent dat het ondersteunt of bijdraagt aan iets.",
-        "sentence": "Als iemand je ___ bij je huiswerk, wordt het werk makkelijker.",
-        "answer": "helpt"
+        "word": "buitenland",
+        "definition": "andere landen, niet het eigen land",
+        "sentence": "Sommige kinderen komen uit het ___.",
+        "answer": "buitenland"
       },
       {
-        "word": "taal",
-        "definition": "Taal is de manier waarop mensen met elkaar communiceren, zoals door te praten of te schrijven.",
-        "sentence": "Welke ___ spreek jij het beste? Nederlands, Engels of Spaans?",
-        "answer": "taal"
+        "word": "pauze",
+        "definition": "een korte stop of onderbreking",
+        "sentence": "De adoptie werd even ___ gezet.",
+        "answer": "pauze"
       },
       {
-        "word": "belangrijker",
-        "definition": "Belangrijker betekent dat iets meer waarde of betekenis heeft dan iets anders.",
-        "sentence": "Is gezondheid ___ dan geld? Ja, want zonder gezondheid kan je niet genieten van geld.",
-        "answer": "belangrijker"
+        "word": "parlementslid",
+        "definition": "een persoon die in het parlement werkt, de volksvertegenwoordiger",
+        "sentence": "Een ___ geeft commentaar op de situatie.",
+        "answer": "parlementslid"
       },
       {
-        "word": "is",
-        "definition": "Is is een vorm van 'zijn', dat gebruikt wordt om te zeggen wat iets of iemand is.",
-        "sentence": "Mijn naam ___ John, en ik kom uit Engeland.",
-        "answer": "is"
+        "word": "boodschap",
+        "definition": "een bericht of mededeling",
+        "sentence": "De ___ van de overheid was niet duidelijk.",
+        "answer": "boodschap"
       },
       {
-        "word": "wordt",
-        "definition": "Wordt is een werkwoordsvorm die aangeeft dat iets gebeurt of verandert.",
-        "sentence": "Hij ___ elke dag beter in Nederlands na veel oefenen.",
-        "answer": "wordt"
+        "word": "wachtrij",
+        "definition": "een lijst of rij van mensen die wachten",
+        "sentence": "Er staan veel mensen in de ___ voor adoptie.",
+        "answer": "wachtrij"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij ___ elke dag beter in Nederlands na veel oefenen.",
-        "answer": "wordt"
+        "sentence": "De ___ van de overheid was niet duidelijk.",
+        "answer": "boodschap"
       },
       {
-        "sentence": "Als iemand je ___ bij je huiswerk, wordt het werk makkelijker.",
-        "answer": "helpt"
+        "sentence": "Sommige kinderen komen uit het ___.",
+        "answer": "buitenland"
       },
       {
-        "sentence": "Welke ___ spreek jij het beste? Nederlands, Engels of Spaans?",
-        "answer": "taal"
+        "sentence": "Er staan veel mensen in de ___ voor adoptie.",
+        "answer": "wachtrij"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het woord 'helpt' in deze context?",
+      "question": "Waar ging de adoptiepauze over?",
       "options": [
-        "Het betekent 'stopt' of 'eindigt'",
-        "Het betekent 'ondersteunt' of 'assisteert'",
-        "Het betekent 'verwondt' of 'beschadigt'",
-        "Het betekent 'vergeet' of 'negeert'"
+        "Het tijdelijk stoppen van adoptie uit het buitenland",
+        "Het versnellen van adoptieprocedures",
+        "Het helpen van gezinnen in de wachtrij",
+        "Het annuleren van alle adoptieverzoeken"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is de rol van een parlementslid in deze context?",
+      "options": [
+        "Het maken van nieuwe wetten",
+        "Het geven van commentaar op situaties",
+        "Het leiden van adoptieprocedures",
+        "Het ondersteunen van adoptiegezinnen financieel"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom is taal belangrijk volgens de tekst?",
+      "question": "Wat betekent 'wachtrij' in deze tekst?",
       "options": [
-        "Omdat taal alleen voor schrijven wordt gebruikt",
-        "Omdat taal helpt bij communicatie en begrip",
-        "Omdat taal alleen in boeken bestaat",
-        "Omdat taal alleen door computers wordt gebruikt"
+        "Een soort van attractie in een pretpark",
+        "Een lange rij mensen die wachten",
+        "Een speciale rij voor adoptiegezinnen",
+        "Een tijdelijke stop van processen"
       ],
       "correctAnswer": 2
-    },
-    {
-      "question": "Hoe beïnvloedt AI onze taalvaardigheid?",
-      "options": [
-        "Het maakt taal volledig irrelevant",
-        "Het vermindert onze behoefte om taal te leren",
-        "Het versterkt het belang van goed taalgebruik",
-        "Het heeft helemaal geen effect op taal"
-      ],
-      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "AI maakt taal minder belangrijk voor mensen.",
+      "statement": "Adoptie uit het buitenland is helemaal gestopt in Vlaanderen.",
       "isTrue": false
     },
     {
-      "statement": "Goede kennis van taal helpt je om AI beter te gebruiken.",
+      "statement": "Een parlementslid geeft commentaar op de adoptiepauze.",
       "isTrue": true
     },
     {
-      "statement": "AI kan alle talen ter wereld perfect vertalen zonder fouten.",
+      "statement": "Er zijn nu meer dan 100 gezinnen in de wachtrij voor adoptie.",
       "isTrue": false
     }
   ]

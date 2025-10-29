@@ -1,106 +1,106 @@
 {
-  "id": 23,
+  "id": 22,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "De warme bakker is steeds vaker een vrouw: Na tien broden bakken wist ik: hier word ik gelukkig van",
+  "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
   "topicNumber": 1,
   "article": {
-    "title": "De warme bakker is steeds vaker een vrouw: Na tien broden bakken wist ik: hier word ik gelukkig van",
-    "summary": "Van een passie voor millefeuille tot ambachtelijke zuurdesembroden, steeds vaker kiezen vrouwen voor een job als bakker of patissier. In verschillende bakkersopleidingen maken ze intussen meer dan de helft van de leerlingen uit. Vrouwen hebben de finesse sneller in de vingers."
+    "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
+    "summary": "Het Hof van Cassatie verwerpt het cassatieberoep dat advocaat Hans Rieder en zijn ex-echtgenote hadden ingesteld tegen hun veroordeling wegens belastingontduiking door domiciliefraude."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "millefeuille",
-        "definition": "een Frans gebakje gemaakt van laagjes bladerdeeg en room",
-        "sentence": "Voor het dessert serveerden ze een heerlijke ___.",
-        "answer": "millefeuille"
+        "word": "verwerpt",
+        "definition": "weigert, keurt af",
+        "sentence": "De rechter ___ het verzoek om vrijspraak.",
+        "answer": "verwerpt"
       },
       {
-        "word": "patissier",
-        "definition": "iemand die taarten en andere zoete lekkernijen maakt",
-        "sentence": "De ___ versierde de taart met bloemen van suiker.",
-        "answer": "patissier"
+        "word": "advocaat",
+        "definition": "iemand die anderen helpt met juridische zaken",
+        "sentence": "De ___ verdedigt mensen in de rechtbank.",
+        "answer": "advocaat"
       },
       {
-        "word": "bakker",
-        "definition": "iemand die brood en andere gebakken producten maakt",
-        "sentence": "De ___ maakt elke ochtend vers brood.",
-        "answer": "bakker"
+        "word": "definitief",
+        "definition": "voorgoed, niet meer veranderbaar",
+        "sentence": "Het vonnis is nu ___, er is geen beroep meer mogelijk.",
+        "answer": "definitief"
       },
       {
-        "word": "ambachtelijke",
-        "definition": "op een traditionele manier gemaakt, vaak met de hand",
-        "sentence": "Deze ___ kaas komt van een kleine boerderij.",
-        "answer": "ambachtelijke"
+        "word": "cassatie",
+        "definition": "een hoger beroep bij de hoogste rechter",
+        "sentence": "De advocaten dienden een verzoek tot ___ in om de uitspraak aan te vechten.",
+        "answer": "cassatie"
       },
       {
-        "word": "vrouw",
-        "definition": "een volwassen persoon van het vrouwelijk geslacht",
-        "sentence": "De ___ werkt parttime in de supermarkt.",
-        "answer": "vrouw"
+        "word": "belastingontduiking",
+        "definition": "het niet betalen van belasting, wat illegaal is",
+        "sentence": "Hij werd verdacht van ___ en moest voor de rechter komen.",
+        "answer": "belastingontduiking"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ versierde de taart met bloemen van suiker.",
-        "answer": "patissier"
+        "sentence": "De ___ verdedigt mensen in de rechtbank.",
+        "answer": "advocaat"
       },
       {
-        "sentence": "Deze ___ kaas komt van een kleine boerderij.",
-        "answer": "ambachtelijke"
+        "sentence": "De rechter ___ het verzoek om vrijspraak.",
+        "answer": "verwerpt"
       },
       {
-        "sentence": "Voor het dessert serveerden ze een heerlijke ___.",
-        "answer": "millefeuille"
+        "sentence": "De advocaten dienden een verzoek tot ___ in om de uitspraak aan te vechten.",
+        "answer": "cassatie"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom kiezen steeds meer vrouwen voor een baan als bakker of patissier?",
+      "question": "Wat is de hoofdgedachte van dit artikel?",
       "options": [
-        "Omdat het goed betaalt",
-        "Omdat ze van koken houden",
-        "Omdat ze kunnen werken met hun handen",
-        "Omdat ze een passie voor zoetigheid hebben"
-      ],
-      "correctAnswer": 4
-    },
-    {
-      "question": "Wat is een kenmerk van vrouwelijke leerlingen in bakkersopleidingen?",
-      "options": [
-        "Ze zijn ouder dan mannen",
-        "Ze zijn in de meerderheid",
-        "Ze werken alleen parttime",
-        "Ze hebben meer finesse"
+        "Advocaten kunnen niet worden vervolgd",
+        "Een advocaat en zijn ex-vrouw zijn definitief schuldig bevonden aan belastingontduiking",
+        "Het Hof van Cassatie heeft een nieuwe rechtszaak aangevraagd",
+        "De advocaat heeft zelf de fraude gepleegd"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'finesse' in dit artikel?",
+      "question": "Wat betekent 'cassatie' in deze context?",
       "options": [
-        "Snelheid",
-        "Kracht",
-        "Behendigheid",
-        "Zorgvuldigheid"
+        "Een soort koffie",
+        "Een hoger beroep bij het hoogste gerechtshof",
+        "Een formele excusemail naar de rechter",
+        "De ontbinding van het huwelijk"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de rol van het Hof van Cassatie hier?",
+      "options": [
+        "Het organiseert feesten voor medewerkers",
+        "Het bevestigt de echtscheiding van het paar",
+        "Het weigert het verzoek om de zaak te herzien",
+        "Het stelt de advocaat vrij op basis van nieuwe wetten"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Vrouwen zijn de meerderheid in bakkersopleidingen.",
+      "statement": "De advocaat en zijn ex-echtgenote zijn allebei schuldig bevonden.",
       "isTrue": true
     },
     {
-      "statement": "Mannen hebben meer finesse dan vrouwen.",
+      "statement": "Het Hof van Cassatie heeft de echtscheiding van het koppel uitgesproken.",
       "isTrue": false
     },
     {
-      "statement": "Een patissier maakt vooral hartige gerechten.",
-      "isTrue": false
+      "statement": "De uitspraak van het hof is definitief en kan niet meer worden aangevochten.",
+      "isTrue": true
     }
   ]
 }

@@ -1,105 +1,105 @@
 {
-  "id": 26,
+  "id": 27,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
+  "title": "Adoptie uit buitenland werd ‘gepauzeerd’, maar nu staan er toch weer 35 gezinnen in de wachtrij",
   "topicNumber": 1,
   "article": {
-    "title": "Na vechtpartij onder agenten: strengere regels voor bijklussende politiemensen op komst",
-    "summary": "Meer agenten klussen bij, en dat leidt soms tot mistoestanden. Minister van Binnenlandse Zaken Bernard Quintin (MR) wil de regels aanscherpen."
+    "title": "Adoptie uit buitenland werd ‘gepauzeerd’, maar nu staan er toch weer 35 gezinnen in de wachtrij",
+    "summary": "Veertig gezinnen in Vlaanderen zijn bezig met een traject voor buitenlandse adoptie, 35 andere werd beloofd dat ze er nog mogen instappen. En dat terwijl er al sinds eind 2023 een ‘adoptiepauze’ is afgekondigd. “De boodschap is niet helder en dat is lastig”, meent parlementslid Freya Perdaens (N-VA)."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "politiemensen",
-        "definition": "mensen die werken voor de politie",
-        "sentence": "De ___ werken hard om de stad veilig te houden.",
-        "answer": "politiemensen"
+        "word": "wachtrij",
+        "definition": "Een lijst van mensen die wachten op iets",
+        "sentence": "Hij staat in de ___ voor een nieuw huis.",
+        "answer": "wachtrij"
       },
       {
-        "word": "agenten",
-        "definition": "mensen die werken voor de politie",
-        "sentence": "De ___ houden de wijk veilig.",
-        "answer": "agenten"
+        "word": "helder",
+        "definition": "Duidelijk, makkelijk te begrijpen",
+        "sentence": "De instructies waren erg ___ en gemakkelijk te volgen.",
+        "answer": "helder"
       },
       {
-        "word": "minister",
-        "definition": "iemand die een deel van de overheid leidt",
-        "sentence": "De ___ heeft een nieuw plan gemaakt.",
-        "answer": "minister"
+        "word": "gezin",
+        "definition": "Een groep mensen die samenwonen, vaak ouders en kinderen",
+        "sentence": "Een ___ bestaat vaak uit ouders en hun kinderen.",
+        "answer": "gezin"
       },
       {
-        "word": "aanscherpen",
-        "definition": "strenger of scherper maken",
-        "sentence": "De regels worden ___ om problemen te voorkomen.",
-        "answer": "aanscherpen"
+        "word": "boodschap",
+        "definition": "De inhoud van wat er gezegd wordt, de mededeling",
+        "sentence": "De ___ van de leider was duidelijk en motiverend.",
+        "answer": "boodschap"
       },
       {
-        "word": "klussen",
-        "definition": "bijklussen, extra werken naast hun eigen baan",
-        "sentence": "Sommige mensen ___ om extra geld te verdienen.",
-        "answer": "klussen"
+        "word": "gepauzeerd",
+        "definition": "Tijdelijk gestopt, niet voor altijd",
+        "sentence": "De vergadering werd ___ omdat niet iedereen er was.",
+        "answer": "gepauzeerd"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ werken hard om de stad veilig te houden.",
-        "answer": "politiemensen"
+        "sentence": "De vergadering werd ___ omdat niet iedereen er was.",
+        "answer": "gepauzeerd"
       },
       {
-        "sentence": "Sommige mensen ___ om extra geld te verdienen.",
-        "answer": "klussen"
+        "sentence": "Een ___ bestaat vaak uit ouders en hun kinderen.",
+        "answer": "gezin"
       },
       {
-        "sentence": "De ___ heeft een nieuw plan gemaakt.",
-        "answer": "minister"
+        "sentence": "Hij staat in de ___ voor een nieuw huis.",
+        "answer": "wachtrij"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom wil de minister de regels aanscherpen?",
+      "question": "Wat betekent ‘gepauzeerd’ in deze tekst?",
       "options": [
-        "Omdat er te veel agenten zijn",
-        "Omdat agenten bijklussen en dat soms problemen geeft",
-        "Omdat de agenten niet goed werken",
-        "Omdat de minister het zelf niet weet"
+        "Voor altijd gestopt",
+        "Tijdelijk gestopt",
+        "Helemaal klaar",
+        "Net begonnen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het gevolg van de aanscherping van de regels?",
+      "question": "Wat is een ‘wachtrij’?",
       "options": [
-        "Meer agenten gaan bijklussen",
-        "Minder agenten gaan bijklussen",
-        "Agenten krijgen een hoger salaris",
-        "Er verandert niets"
+        "Een soort auto",
+        "Een winkelwagen",
+        "Een lijst van wachtenden",
+        "Een snelweg"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wie is Bernard Quintin?",
+      "question": "Waar gaat de tekst over?",
       "options": [
-        "Een agent die bijklust",
-        "Een minister die de regels aanscherpt",
-        "Iemand die een vechtpartij begint",
-        "Iemand die nieuwe regels maakt"
+        "Over reizen naar het buitenland",
+        "Over sportevenementen",
+        "Over adoptie en beleid",
+        "Over koken en eten"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Agenten mogen niet bijklussen volgens de nieuwe regels.",
+      "statement": "De adoptie uit het buitenland is helemaal gestopt.",
       "isTrue": false
     },
     {
-      "statement": "De minister wil de regels aanscherpen omdat bijklussen soms tot problemen leidt.",
+      "statement": "Er zijn gezinnen in Vlaanderen die willen adopteren uit het buitenland.",
       "isTrue": true
     },
     {
-      "statement": "Alle agenten zijn verplicht om bij te klussen naast hun werk.",
+      "statement": "Er is helemaal geen adoptie meer mogelijk volgens de tekst.",
       "isTrue": false
     }
   ]

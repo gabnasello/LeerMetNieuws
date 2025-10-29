@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Orkaan Melissa treft Jamaica",
+  "title": "Geweld in Al-Fasher, Soedan",
   "topicNumber": 1,
   "article": {
-    "title": "Orkaan Melissa treft Jamaica",
-    "summary": "Orkaan Melissa brengt veel schade in Jamaica. Er is veel regen en harde wind. Er zijn ook overstromingen. Er zijn al vier doden in buurlanden."
+    "title": "Geweld in Al-Fasher, Soedan",
+    "summary": "In Al-Fasher, Soedan is veel geweld. Rebellen vernielen huizen en doden mensen. Mensen die vluchten worden ook gedood. Dit is erg en moet stoppen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "doden",
-        "definition": "mensen die zijn overleden",
-        "sentence": "Helaas waren er meerdere doden door de orkaan.",
-        "answer": "doden"
+        "word": "geweld",
+        "definition": "iets met veel kracht of pijn doen",
+        "sentence": "___ maakt alles kapot en pijnlijk.",
+        "answer": "geweld"
       },
       {
-        "word": "schade",
-        "definition": "wat kapot of beschadigd is",
-        "sentence": "De storm veroorzaakte veel schade aan huizen en straten.",
-        "answer": "schade"
+        "word": "rebellen",
+        "definition": "mensen die tegen een groep vechten",
+        "sentence": "De ___ zijn degenen die aanvallen in Soedan.",
+        "answer": "rebellen"
       },
       {
-        "word": "buurland",
-        "definition": "een land dat naast een ander land ligt",
-        "sentence": "Haïti is een buurland van de Dominicaanse Republiek.",
-        "answer": "buurland"
+        "word": "huizen",
+        "definition": "plaatsen waar mensen wonen",
+        "sentence": "Hun ___ waren kapot na het gevecht.",
+        "answer": "huizen"
       },
       {
-        "word": "land",
-        "definition": "een gebied met eigen regering, zoals Nederland of België",
-        "sentence": "Jamaica is een eiland, maar het is ook een land.",
-        "answer": "land"
+        "word": "vluchten",
+        "definition": "weggaan van een gevaarlijke plek",
+        "sentence": "Mensen willen ___ uit de stad tijdens de oorlog.",
+        "answer": "vluchten"
       },
       {
-        "word": "orkaan",
-        "definition": "een hele zware storm met veel wind en regen",
-        "sentence": "Een orkaan kan veel schade veroorzaken.",
-        "answer": "orkaan"
+        "word": "mensen",
+        "definition": "alle personen, mannen, vrouwen en kinderen",
+        "sentence": "Alle ___ moeten veilig zijn, ook in Soedan.",
+        "answer": "mensen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De storm veroorzaakte veel schade aan huizen en straten.",
-        "answer": "schade"
+        "sentence": "Mensen willen ___ uit de stad tijdens de oorlog.",
+        "answer": "vluchten"
       },
       {
-        "sentence": "Een orkaan kan veel schade veroorzaken.",
-        "answer": "orkaan"
+        "sentence": "Hun ___ waren kapot na het gevecht.",
+        "answer": "huizen"
       },
       {
-        "sentence": "Helaas waren er meerdere doden door de orkaan.",
-        "answer": "doden"
+        "sentence": "De ___ zijn degenen die aanvallen in Soedan.",
+        "answer": "rebellen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is orkaan Melissa?",
+      "question": "Waar gaat de tekst over?",
       "options": [
-        "Een soort dier",
-        "Een type auto",
-        "Een zware storm",
-        "Een feestdag"
+        "Een feest in Soedan",
+        "Een sportwedstrijd",
+        "Een oorlog in Soedan",
+        "Een nieuwe school"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Waar heeft orkaan Melissa veel effect gehad?",
+      "question": "Wat doen de rebellen?",
       "options": [
-        "Alleen in Jamaica",
-        "Alleen in de Verenigde Staten",
-        "In Jamaica en buurlanden",
-        "Alleen in Europa"
+        "Ze helpen mensen",
+        "Ze maken muziek",
+        "Ze vernielen huizen en doden mensen",
+        "Ze bouwen nieuwe huizen"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is een gevolg van de orkaan?",
+      "question": "Wat gebeurt er met mensen die vluchten?",
       "options": [
-        "Mensen verhuizen naar de maan",
-        "Er is veel schade en er zijn doden",
-        "De orkaan brengt alleen regen",
-        "De orkaan zorgt voor feest"
+        "Ze worden geholpen",
+        "Ze worden gedood",
+        "Ze gaan dansen",
+        "Ze krijgen nieuwe kleren"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Orkaan Melissa veroorzaakt alleen regen.",
-      "isTrue": false
-    },
-    {
-      "statement": "Er zijn meerdere doden gevallen door de orkaan.",
+      "statement": "De stad Al-Fasher is in Soedan.",
       "isTrue": true
     },
     {
-      "statement": "Orkaan Melissa is een feestelijke gebeurtenis in Jamaica.",
+      "statement": "Rebellen helpen alle mensen in Soedan.",
       "isTrue": false
+    },
+    {
+      "statement": "Veel mensen sterven in deze oorlog.",
+      "isTrue": true
     }
   ]
 }

@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
+  "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
   "topicNumber": 1,
   "article": {
-    "title": "Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker",
-    "summary": "Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven."
+    "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
+    "summary": "Volg hier de laatste ontwikkelingen in Gaza."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "jobs",
-        "definition": "Werkgelegenheid; betaald werk dat iemand heeft.",
-        "sentence": "Veel jongeren in de stad kunnen geen ___ vinden die bij hun opleiding past.",
-        "answer": "jobs"
+        "word": "luchtaanvallen",
+        "definition": "Luchtaanvallen zijn aanvallen vanuit de lucht, vaak met vliegtuigen.",
+        "sentence": "De ___ veroorzaakten veel schade.",
+        "answer": "luchtaanvallen"
       },
       {
-        "word": "energie",
-        "definition": "De kracht of capaciteit om werk te verrichten, zoals elektriciteit of kracht.",
-        "sentence": "Zonder voldoende ___ kan een land zich niet goed ontwikkelen.",
-        "answer": "energie"
+        "word": "ontwikkelingen",
+        "definition": "Ontwikkelingen zijn veranderingen of nieuwe gebeurtenissen.",
+        "sentence": "De ___ in de technologie gaan snel.",
+        "answer": "ontwikkelingen"
       },
       {
-        "word": "drinkbaar",
-        "definition": "Veilig of geschikt om te drinken (meestal over water).",
-        "sentence": "Na de overstroming was het water niet meer ___ en moest het worden gezuiverd.",
-        "answer": "drinkbaar"
+        "word": "Zeker",
+        "definition": "Zeker betekent zonder twijfel, vast.",
+        "sentence": "Het is ___ dat de vergadering doorgaat.",
+        "answer": "zeker"
       },
       {
-        "word": "bitcoinboys",
-        "definition": "Mensen die veel bezitten of handelen in de digitale munt bitcoin.",
-        "sentence": "De ___ verdienden veel geld door te handelen in cryptocurrency.",
-        "answer": "bitcoinboys"
+        "word": "Volg",
+        "definition": "Volg betekent hier in de gaten houden of bijhouden.",
+        "sentence": "___ je het nieuws over de ontwikkelingen?",
+        "answer": "Volg"
       },
       {
-        "word": "megadam",
-        "definition": "Een heel groot stuwmeer of dam, vaak gebouwd om energie op te wekken.",
-        "sentence": "De nieuwe ___ in Ethiopië voorziet een groot gebied van elektriciteit.",
-        "answer": "megadam"
+        "word": "Gaza",
+        "definition": "Gaza is een gebied in het Midden-Oosten, bekend om conflicten.",
+        "sentence": "___ wordt vaak genoemd in het nieuws.",
+        "answer": "Gaza"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Veel jongeren in de stad kunnen geen ___ vinden die bij hun opleiding past.",
-        "answer": "jobs"
+        "sentence": "___ wordt vaak genoemd in het nieuws.",
+        "answer": "Gaza"
       },
       {
-        "sentence": "De ___ verdienden veel geld door te handelen in cryptocurrency.",
-        "answer": "bitcoinboys"
+        "sentence": "De ___ veroorzaakten veel schade.",
+        "answer": "luchtaanvallen"
       },
       {
-        "sentence": "De nieuwe ___ in Ethiopië voorziet een groot gebied van elektriciteit.",
-        "answer": "megadam"
+        "sentence": "Het is ___ dat de vergadering doorgaat.",
+        "answer": "zeker"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een belangrijk effect van de megadam in Ethiopië op de lokale bevolking?",
+      "question": "Wat betekent 'luchtaanvallen' in deze context?",
       "options": [
-        "Ze krijgen betere toegang tot elektriciteit en water.",
-        "Ze verliezen hun land en hebben geen stroom.",
-        "Ze beginnen allemaal met bitcoin mining.",
-        "Ze krijgen nieuwe jobs in de bouwsector."
+        "Aanvallen vanuit de lucht",
+        "Vluchten die worden aangevallen",
+        "Een soort game",
+        "Een feestelijke gebeurtenis"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Waarom komen bitcoinbedrijven naar Addis Abeba?",
+      "question": "Wat wordt er bedoeld met 'Volg hier de laatste ontwikkelingen'?",
       "options": [
-        "Omdat de stad bekend staat om zijn nachtleven.",
-        "Omdat de Ethiopische overheid hen uitnodigt.",
-        "Omdat de stroom daar spotgoedkoop is.",
-        "Omdat de lokale bevolking daarom vraagt."
+        "Volg hier de nieuwste updates",
+        "Volg hier de oude gebeurtenissen",
+        "Negeer de gebeurtenissen",
+        "Lees alleen de titel"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat voor soort energie wekt de megadam vooral op?",
+      "question": "Waar verwijst 'Gaza' naar in deze tekst?",
       "options": [
-        "Zonne-energie",
-        "Windenergie",
-        "Waterkracht",
-        "Kernenergie"
+        "Een stad in conflict",
+        "Een feestlocatie",
+        "Een nieuwe technologie",
+        "Een soort voedsel"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De bitcoinbedrijven in Addis Abeba zorgen voor veel nieuwe banen voor de lokale bevolking.",
-      "isTrue": false
-    },
-    {
-      "statement": "Ethiopiërs die geen stroom hebben, missen ook vaak schoon drinkwater.",
+      "statement": "De luchtaanvallen vonden plaats in Gaza.",
       "isTrue": true
     },
     {
-      "statement": "De megadam levert direct drinkbaar water aan omliggende dorpen.",
+      "statement": "Er zijn geen doden gemeld na deze aanvallen.",
+      "isTrue": false
+    },
+    {
+      "statement": "De ontwikkelingen in Gaza zijn positief.",
       "isTrue": false
     }
   ]

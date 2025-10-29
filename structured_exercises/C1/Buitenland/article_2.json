@@ -1,105 +1,105 @@
 {
-  "id": 15,
+  "id": 14,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
+  "title": "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
   "topicNumber": 1,
   "article": {
-    "title": "Fraude met EU-subsidies: plots telde Kreta veel meer schapen en geiten",
-    "summary": "Een georganiseerde misdaadgroep in Griekenland haalde op frauduleuze manier bijna 20 miljoen euro Europese landbouwsubsidies binnen. De verdachten overdreven het aantal dieren waarvoor ze geld aanvroegen."
+    "title": "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
+    "summary": "Storm Melissa is als een orkaan van categorie vijf aan land gekomen in Jamaica. Voor het Caraïbisch eiland is het de zwaarste storm ooit."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "fraude",
-        "definition": "opzettelijke misleiding of bedrog voor financieel gewin",
-        "sentence": "De politie ontdekte een grote geval van ___ in de subsidieaanvragen.",
-        "answer": "fraude"
+        "word": "orkaan",
+        "definition": "een zeer zware storm met extreme windsnelheden",
+        "sentence": "De orkaan veroorzaakte enorme schade aan de kust.",
+        "answer": "orkaan"
       },
       {
-        "word": "subsidies",
-        "definition": "financiële steun van de overheid voor een specifiek doel",
-        "sentence": "Boeren kunnen vaak aanspraak maken op ___ voor duurzame landbouw.",
-        "answer": "subsidies"
+        "word": "categorie",
+        "definition": "een classificatie of indeling, vaak gebaseerd op bepaalde kenmerken",
+        "sentence": "De orkaan werd ingedeeld in de hoogste categorie vanwege de windsnelheid.",
+        "answer": "categorie"
       },
       {
-        "word": "verdachten",
-        "definition": "personen die worden verdacht van een misdrijf",
-        "sentence": "De ___ ontkennen alle aanklachten.",
-        "answer": "verdachten"
+        "word": "eiland",
+        "definition": "een landoppervlak dat geheel door water omgeven is",
+        "sentence": "Jamaica is een eiland in de Caraïben.",
+        "answer": "eiland"
       },
       {
-        "word": "dieren",
-        "definition": "levende wezens die niet mens zijn, zoals katten of honden",
-        "sentence": "De opvang bood onderdak aan tientallen ___.",
-        "answer": "dieren"
+        "word": "zwaarste",
+        "definition": "de meest intense of ernstige in zijn soort",
+        "sentence": "Dit was de zwaarste storm in de geschiedenis van het eiland.",
+        "answer": "zwaarste"
       },
       {
-        "word": "misdaad",
-        "definition": "een illegale activiteit die strafbaar is",
-        "sentence": "Hij is veroordeeld voor zijn rol in de georganiseerde ___.",
-        "answer": "misdaad"
+        "word": "ooit",
+        "definition": "op enig moment in het verleden of de toekomst; ooit",
+        "sentence": "Hebben ze ooit zo'n zware storm meegemaakt?",
+        "answer": "ooit"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De politie ontdekte een grote geval van ___ in de subsidieaanvragen.",
-        "answer": "fraude"
+        "sentence": "Hebben ze ooit zo'n zware storm meegemaakt?",
+        "answer": "ooit"
       },
       {
-        "sentence": "De ___ ontkennen alle aanklachten.",
-        "answer": "verdachten"
+        "sentence": "De orkaan werd ingedeeld in de hoogste categorie vanwege de windsnelheid.",
+        "answer": "categorie"
       },
       {
-        "sentence": "De opvang bood onderdak aan tientallen ___.",
-        "answer": "dieren"
+        "sentence": "Dit was de zwaarste storm in de geschiedenis van het eiland.",
+        "answer": "zwaarste"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat was het hoofddoel van de frauduleuze activiteiten in Griekenland?",
+      "question": "Wat betekent het dat een orkaan van categorie vijf is?",
       "options": [
-        "Het stelen van landbouwgrond",
-        "Het illegaal verkrijgen van EU-subsidies",
-        "Het opzetten van een nepboerderij",
-        "Het vervalsen van dierenaantallen"
+        "Zeer lichte storm",
+        "Storm met gemiddelde windsnelheid",
+        "Extreem zware storm met vernietigende kracht",
+        "Storm die alleen op zee voorkomt"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Hoe probeerden de fraudeurs hun misdaad te verbergen?",
+      "question": "Wat is de impact van orkaan Melissa op Jamaica?",
       "options": [
-        "Door dieren te verbergen",
-        "Door valse documenten te gebruiken",
-        "Door naar het buitenland te vluchten",
-        "Door getuigen te bedreigen"
+        "Geen impact, de storm is nog niet gearriveerd",
+        "Alleen lichte regenval, geen echte schade",
+        "Massale stroomuitval: 530.000 huishoudens zonder elektriciteit",
+        "De orkaan veroorzaakt alleen wind, geen andere problemen"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wat was een gevolg van deze fraudezaak?",
+      "question": "Hoe verhoudt orkaan Melissa zich tot eerdere stormen op Jamaica?",
       "options": [
-        "De EU schafte alle subsidies af",
-        "Griekenland moest miljoenen terugbetalen",
-        "Alle verdachten werden vrijgesproken",
-        "De veestapel in Europa werd gehalveerd"
+        "Het is de lichtste storm ooit geregistreerd",
+        "Minder ernstig dan voorgaande orkanen, maar meer regen",
+        "De zwaarste storm in de recente geschiedenis van het eiland",
+        "Vergelijkbaar met andere orkanen, geen uitschieters"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De fraude was gericht op het verkrijgen van EU-subsidies voor landbouw.",
+      "statement": "Orkaan Melissa is geclassificeerd als categorie vijf, wat de hoogst mogelijke is.",
       "isTrue": true
     },
     {
-      "statement": "Alle verdachten in deze zaak zijn uiteindelijk veroordeeld tot gevangenisstraffen.",
+      "statement": "Jamaica heeft nooit eerder een orkaan meegemaakt, dit is een primeur.",
       "isTrue": false
     },
     {
-      "statement": "Dit incident leidde tot een tijdelijke stopzetting van EU-subsidies aan Griekenland.",
+      "statement": "Naast Jamaica, wordt ook Cuba bedreigd door orkaan Melissa.",
       "isTrue": true
     }
   ]

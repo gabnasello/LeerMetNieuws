@@ -1,105 +1,105 @@
 {
-  "id": 21,
+  "id": 20,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "De warme bakker is steeds vaker een vrouw",
+  "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
   "topicNumber": 1,
   "article": {
-    "title": "De warme bakker is steeds vaker een vrouw",
-    "summary": "Veel vrouwen werken nu als bakker of patissier. In opleidingen zijn er steeds meer vrouwen. Vrouwen kunnen dit werk goed doen."
+    "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
+    "summary": "Het Hof van Cassatie verwerpt het cassatieberoep dat advocaat Hans Rieder en zijn ex-echtgenote hadden ingesteld tegen hun veroordeling wegens belastingontduiking door domiciliefraude."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "warm",
-        "definition": "niet koud, een hoge temperatuur hebbend",
-        "sentence": "Het brood is ___ en vers.",
-        "answer": "warm"
+        "word": "hof",
+        "definition": "een plaats waar rechters werken",
+        "sentence": "Het ___ besliste over de zaak.",
+        "answer": "hof"
       },
       {
-        "word": "werken",
-        "definition": "een taak uitvoeren, een job hebben",
-        "sentence": "Zij ___ in de keuken.",
-        "answer": "werken"
+        "word": "ontduiking",
+        "definition": "niet betalen wat je moet betalen",
+        "sentence": "Hij pleegde ___ om minder te betalen.",
+        "answer": "ontduiking"
       },
       {
-        "word": "bakker",
-        "definition": "iemand die brood bakt",
-        "sentence": "De ___ bakt brood en koek.",
-        "answer": "bakker"
+        "word": "cassatie",
+        "definition": "een hoger beroep bij de hoogste rechter",
+        "sentence": "Hij vroeg om ___ bij de hoogste rechter.",
+        "answer": "cassatie"
       },
       {
-        "word": "vak",
-        "definition": "een beroep, een soort werk",
-        "sentence": "Het bakkers___ leert men op school.",
-        "answer": "vak"
+        "word": "echtgenote",
+        "definition": "de vrouw in een huwelijk",
+        "sentence": "Zijn ___ steunde hem niet.",
+        "answer": "echtgenote"
       },
       {
-        "word": "vrouwen",
-        "definition": "vrouwelijke personen",
-        "sentence": "De ___ werken in de bakkerij.",
-        "answer": "vrouwen"
+        "word": "verwerpt",
+        "definition": "weigeren of niet accepteren",
+        "sentence": "De rechter ___ het verzoek van de man.",
+        "answer": "verwerpt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Zij ___ in de keuken.",
-        "answer": "werken"
+        "sentence": "De rechter ___ het verzoek van de man.",
+        "answer": "verwerpt"
       },
       {
-        "sentence": "Het bakkers___ leert men op school.",
-        "answer": "vak"
+        "sentence": "Het ___ besliste over de zaak.",
+        "answer": "hof"
       },
       {
-        "sentence": "De ___ werken in de bakkerij.",
-        "answer": "vrouwen"
+        "sentence": "Hij vroeg om ___ bij de hoogste rechter.",
+        "answer": "cassatie"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'steeds'?",
+      "question": "Wat is belasting?",
       "options": [
-        "snel",
-        "vaak",
-        "steeds vaker",
-        "meer en meer"
+        "Een soort bel",
+        "Een type auto",
+        "Geld dat je aan de overheid betaalt",
+        "Een sport"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is een 'bakker'?",
+      "question": "Wat doet een advocaat?",
       "options": [
-        "iemand die brood bakt",
-        "iemand die taarten maakt",
-        "iemand die koffie zet",
-        "iemand die soep kookt"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat doen vrouwen in dit verhaal?",
-      "options": [
-        "Ze bakken brood",
-        "Ze werken in bakkerijen",
-        "Ze zijn allemaal moeders",
-        "Ze zijn allemaal leraars"
+        "Kookt eten",
+        "Helpt mensen met de wet",
+        "Bestuurt een auto",
+        "Speelt piano"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Wat is het Hof van Cassatie?",
+      "options": [
+        "Een soort hotel",
+        "Een restaurant",
+        "De hoogste rechter in België",
+        "Een sportschool"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Vrouwen werken als bakker.",
+      "statement": "Hans Rieder is een advocaat.",
       "isTrue": true
     },
     {
-      "statement": "Alleen mannen zijn bakkers.",
+      "statement": "Het Hof van Cassatie heeft de advocaat vrijgesproken.",
       "isTrue": false
     },
     {
-      "statement": "Steeds meer vrouwen worden bakker.",
+      "statement": "De advocaat en zijn ex-echtgenote zijn veroordeeld.",
       "isTrue": true
     }
   ]

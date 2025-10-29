@@ -1,15 +1,15 @@
 Artikel 1
-Nieuwsupdate: 2025-10-28 04:28 UCT
+Nieuwsupdate: 2025-10-29 04:31 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Terwijl bitcoinboys profiteren van Ethiopische megadam, zit de lokale bevolking in het donker
-Link: https://www.standaard.be/buitenland/terwijl-bitcoinboys-profiteren-van-ethiopische-megadam-zit-de-lokale-bevolking-in-het-donker/99230054.html
-Datum: Mon, 27 Oct 2025 22:59:00 GMT
-Samenvatting: Spotgoedkope waterkrachtenergie lokt tientallen bitcoinbedrijven naar de Ethiopische hoofdstad Addis Abeba. Ze leveren het Afrikaanse land amper geld en jobs op. De helft van de Ethiopiërs moet ondertussen zonder stroom en drinkbaar water overleven.
+Titel: Zeker 26 doden na nieuwe luchtaanvallen op Gaza
+Link: https://www.standaard.be/buitenland/zeker-26-doden-na-nieuwe-luchtaanvallen-op-gaza/35173881.html
+Datum: Wed, 29 Oct 2025 04:03:13 GMT
+Samenvatting: Volg hier de laatste ontwikkelingen in Gaza.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/drnk91-belgaimage-133731540.jpg/alternates/BASE_SIXTEEN_NINE/Belgaimage-133731540.jpg
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/jaf6jt-file83077b22bqf8f03key9/alternates/BASE_SIXTEEN_NINE/file83077b22bqf8f03key9
+Premium: false
 ------------------------------------------------------------
