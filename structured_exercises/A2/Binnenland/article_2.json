@@ -1,105 +1,105 @@
 {
-  "id": 26,
+  "id": 25,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Adoptie uit buitenland werd 'gepauzeerd', maar nu staan er toch weer 35 gezinnen in de wachtrij",
+  "title": "Lawaai van trams in Gent",
   "topicNumber": 1,
   "article": {
-    "title": "Adoptie uit buitenland werd 'gepauzeerd', maar nu staan er toch weer 35 gezinnen in de wachtrij",
-    "summary": "Veertig gezinnen in Vlaanderen zijn bezig met een traject voor buitenlandse adoptie, 35 andere werd beloofd dat ze er nog mogen instappen. En dat terwijl er al sinds eind 2023 een 'adoptiepauze' is afgekondigd. 'De boodschap is niet helder en dat is lastig', meent parlementslid Freya Perdaens (N-VA)."
+    "title": "Lawaai van trams in Gent",
+    "summary": "In Gent maken trams veel lawaai. Bewoners kunnen niet slapen. De rechter wil dat De Lijn, de trammaatschappij, de overlast vermindert."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "buitenland",
-        "definition": "andere landen, niet het eigen land",
-        "sentence": "Sommige kinderen komen uit het ___.",
-        "answer": "buitenland"
+        "word": "Lawaai",
+        "definition": "veel geluid, vaak onaangenaam",
+        "sentence": "De tram maakt veel ___.",
+        "answer": "lawaai"
       },
       {
-        "word": "pauze",
-        "definition": "een korte stop of onderbreking",
-        "sentence": "De adoptie werd even ___ gezet.",
-        "answer": "pauze"
+        "word": "Bewoners",
+        "definition": "mensen die in een huis of gebied wonen",
+        "sentence": "De ___ van de straat klagen over het geluid.",
+        "answer": "bewoners"
       },
       {
-        "word": "parlementslid",
-        "definition": "een persoon die in het parlement werkt, de volksvertegenwoordiger",
-        "sentence": "Een ___ geeft commentaar op de situatie.",
-        "answer": "parlementslid"
+        "word": "Trams",
+        "definition": "een soort trein of voertuig dat op straat rijdt, vaak elektrisch",
+        "sentence": "De ___ in Gent rijden dag en nacht.",
+        "answer": "trams"
       },
       {
-        "word": "boodschap",
-        "definition": "een bericht of mededeling",
-        "sentence": "De ___ van de overheid was niet duidelijk.",
-        "answer": "boodschap"
+        "word": "Overlast",
+        "definition": "iets dat vervelend of storend is",
+        "sentence": "De bewoners hebben last van de ___.",
+        "answer": "overlast"
       },
       {
-        "word": "wachtrij",
-        "definition": "een lijst of rij van mensen die wachten",
-        "sentence": "Er staan veel mensen in de ___ voor adoptie.",
-        "answer": "wachtrij"
+        "word": "Rechter",
+        "definition": "een persoon die beslist in een rechtszaak",
+        "sentence": "De ___ heeft De Lijn bevolen om de overlast te verminderen.",
+        "answer": "rechter"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ van de overheid was niet duidelijk.",
-        "answer": "boodschap"
+        "sentence": "De ___ in Gent rijden dag en nacht.",
+        "answer": "trams"
       },
       {
-        "sentence": "Sommige kinderen komen uit het ___.",
-        "answer": "buitenland"
+        "sentence": "De tram maakt veel ___.",
+        "answer": "lawaai"
       },
       {
-        "sentence": "Er staan veel mensen in de ___ voor adoptie.",
-        "answer": "wachtrij"
+        "sentence": "De ___ van de straat klagen over het geluid.",
+        "answer": "bewoners"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar ging de adoptiepauze over?",
+      "question": "Waarom zijn de bewoners van de Bernard Spaelaan ontevreden?",
       "options": [
-        "Het tijdelijk stoppen van adoptie uit het buitenland",
-        "Het versnellen van adoptieprocedures",
-        "Het helpen van gezinnen in de wachtrij",
-        "Het annuleren van alle adoptieverzoeken"
+        "De trams rijden te snel",
+        "De trams maken te veel lawaai",
+        "De trams rijden niet vaak genoeg",
+        "De trams zijn te oud"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat heeft de rechter beslist?",
+      "options": [
+        "De Lijn moet de trams stiller maken",
+        "De Lijn moet de trams sneller laten rijden",
+        "De Lijn moet de trams uit de stad halen",
+        "De Lijn moet meer trams inzetten"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van een parlementslid in deze context?",
+      "question": "Wat is het gevolg van de rechter's besluit?",
       "options": [
-        "Het maken van nieuwe wetten",
-        "Het geven van commentaar op situaties",
-        "Het leiden van adoptieprocedures",
-        "Het ondersteunen van adoptiegezinnen financieel"
+        "De bewoners zijn nu helemaal wakker",
+        "De Lijn negeert de rechter",
+        "De Lijn moet de overlast verminderen",
+        "De trams rijden nu nog harder"
       ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat betekent 'wachtrij' in deze tekst?",
-      "options": [
-        "Een soort van attractie in een pretpark",
-        "Een lange rij mensen die wachten",
-        "Een speciale rij voor adoptiegezinnen",
-        "Een tijdelijke stop van processen"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Adoptie uit het buitenland is helemaal gestopt in Vlaanderen.",
+      "statement": "De bewoners van de Bernard Spaelaan zijn blij met de trams.",
       "isTrue": false
     },
     {
-      "statement": "Een parlementslid geeft commentaar op de adoptiepauze.",
+      "statement": "De rechter heeft De Lijn gevraagd om de overlast te verminderen.",
       "isTrue": true
     },
     {
-      "statement": "Er zijn nu meer dan 100 gezinnen in de wachtrij voor adoptie.",
+      "statement": "De trams in Gent rijden alleen overdag.",
       "isTrue": false
     }
   ]

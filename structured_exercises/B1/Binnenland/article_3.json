@@ -1,106 +1,100 @@
 {
-  "id": 22,
+  "id": 21,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
+  "title": "Defensie werkt aan betere droneverdediging",
   "topicNumber": 1,
   "article": {
-    "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
-    "summary": "Het Hof van Cassatie verwerpt het cassatieberoep dat advocaat Hans Rieder en zijn ex-echtgenote hadden ingesteld tegen hun veroordeling wegens belastingontduiking door domiciliefraude."
+    "title": "Defensie werkt aan betere droneverdediging",
+    "summary": "Defensie wil haar bescherming tegen drones verbeteren. Ze gaan nieuwe technologie kopen om drones te detecteren en te bestrijden. Dit gebeurt na incidenten waarbij drones ongezien bases naderden."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "verwerpt",
-        "definition": "weigert, keurt af",
-        "sentence": "De rechter ___ het verzoek om vrijspraak.",
-        "answer": "verwerpt"
+        "word": "Defensie",
+        "definition": "de krijgsmacht, het leger",
+        "sentence": "___ is de organisatie die het land verdedigt.",
+        "answer": "Defensie"
       },
       {
-        "word": "advocaat",
-        "definition": "iemand die anderen helpt met juridische zaken",
-        "sentence": "De ___ verdedigt mensen in de rechtbank.",
-        "answer": "advocaat"
+        "word": "drones",
+        "definition": "onbemande vliegtuigjes, vaak op afstand bestuurd",
+        "sentence": "Een ___ is een klein onbemand vliegtuigje.",
+        "answer": "drone"
       },
       {
-        "word": "definitief",
-        "definition": "voorgoed, niet meer veranderbaar",
-        "sentence": "Het vonnis is nu ___, er is geen beroep meer mogelijk.",
-        "answer": "definitief"
+        "word": "detecteren",
+        "definition": "opmerken, ontdekken",
+        "sentence": "De politie kan een verdachte ___ met camera's.",
+        "answer": "detecteren"
       },
       {
-        "word": "cassatie",
-        "definition": "een hoger beroep bij de hoogste rechter",
-        "sentence": "De advocaten dienden een verzoek tot ___ in om de uitspraak aan te vechten.",
-        "answer": "cassatie"
-      },
-      {
-        "word": "belastingontduiking",
-        "definition": "het niet betalen van belasting, wat illegaal is",
-        "sentence": "Hij werd verdacht van ___ en moest voor de rechter komen.",
-        "answer": "belastingontduiking"
+        "word": "verbeteren",
+        "definition": "beter maken, verbeteren",
+        "sentence": "De coach wil de teamspirit ___ met oefeningen.",
+        "answer": "verbeteren"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ verdedigt mensen in de rechtbank.",
-        "answer": "advocaat"
+        "sentence": "Een ___ is een klein onbemand vliegtuigje.",
+        "answer": "drone"
       },
       {
-        "sentence": "De rechter ___ het verzoek om vrijspraak.",
-        "answer": "verwerpt"
+        "sentence": "De coach wil de teamspirit ___ met oefeningen.",
+        "answer": "verbeteren"
       },
       {
-        "sentence": "De advocaten dienden een verzoek tot ___ in om de uitspraak aan te vechten.",
-        "answer": "cassatie"
+        "sentence": "De politie kan een verdachte ___ met camera's.",
+        "answer": "detecteren"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdgedachte van dit artikel?",
+      "question": "Wat is het doel van Defensie volgens de tekst?",
       "options": [
-        "Advocaten kunnen niet worden vervolgd",
-        "Een advocaat en zijn ex-vrouw zijn definitief schuldig bevonden aan belastingontduiking",
-        "Het Hof van Cassatie heeft een nieuwe rechtszaak aangevraagd",
-        "De advocaat heeft zelf de fraude gepleegd"
+        "Drone races organiseren",
+        "Nieuwe drones kopen voor eigen gebruik",
+        "Drone detectie en bewapening verbeteren",
+        "Geen actie ondernemen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Waarom wil Defensie deze actie ondernemen?",
+      "options": [
+        "Omdat er een tekort is aan drones",
+        "Omdat er recent incidenten waren met drones",
+        "Omdat de regering het heeft gevraagd",
+        "Omdat het budget te hoog is"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'cassatie' in deze context?",
+      "question": "Hoe reageert Defensie op de drone-incidenten?",
       "options": [
-        "Een soort koffie",
-        "Een hoger beroep bij het hoogste gerechtshof",
-        "Een formele excusemail naar de rechter",
-        "De ontbinding van het huwelijk"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is de rol van het Hof van Cassatie hier?",
-      "options": [
-        "Het organiseert feesten voor medewerkers",
-        "Het bevestigt de echtscheiding van het paar",
-        "Het weigert het verzoek om de zaak te herzien",
-        "Het stelt de advocaat vrij op basis van nieuwe wetten"
+        "Door drones te negeren",
+        "Door defensiebudgetten te verhogen zonder actie",
+        "Door technologie te kopen voor betere detectie",
+        "Door de luchtmacht op te doeken"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De advocaat en zijn ex-echtgenote zijn allebei schuldig bevonden.",
-      "isTrue": true
-    },
-    {
-      "statement": "Het Hof van Cassatie heeft de echtscheiding van het koppel uitgesproken.",
+      "statement": "Defensie heeft al de perfecte oplossing voor drone-aanvallen.",
       "isTrue": false
     },
     {
-      "statement": "De uitspraak van het hof is definitief en kan niet meer worden aangevochten.",
+      "statement": "De tekst suggereert dat Defensie actie onderneemt na drone-incidenten.",
       "isTrue": true
+    },
+    {
+      "statement": "Defensie gaat minder drones gebruiken door deze ontwikkelingen.",
+      "isTrue": false
     }
   ]
 }

@@ -3,104 +3,67 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Jacques Vandekerckhove, 92 jaar",
+  "title": "Verdachte in adoptiefraude",
   "topicNumber": 1,
   "article": {
-    "title": "Jacques Vandekerckhove, 92 jaar",
-    "summary": "Hij is geboren in 1933. Hij is overleden op 26/10/2025."
+    "title": "Verdachte in adoptiefraude",
+    "summary": "Er is een rechtszaak over adoptie. Er zijn problemen met adoptie uit Guatemala."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "en",
-        "definition": "verbindt twee woorden of zinnen",
-        "sentence": "Ik heb een pen ___ een boek.",
-        "answer": "en"
-      },
-      {
-        "word": "op",
-        "definition": "geeft een dag of datum aan",
-        "sentence": "Het feest is ___ zaterdag.",
-        "answer": "op"
-      },
-      {
-        "word": "op",
-        "definition": "geeft een dag of datum aan",
-        "sentence": "We zien elkaar ___ maandag.",
-        "answer": "op"
-      },
-      {
-        "word": "van",
-        "definition": "geeft herkomst of materiaal",
-        "sentence": "De tafel is gemaakt ___ hout.",
-        "answer": "van"
-      },
-      {
-        "word": "hij",
-        "definition": "verwijst naar een man",
-        "sentence": "___ is mijn broer.",
-        "answer": "hij"
+        "word": "adoptie",
+        "definition": "wanneer iemand een kind opneemt als eigen kind",
+        "sentence": "___ kan een manier zijn om een gezin te starten.",
+        "answer": "adoptie"
       }
     ],
-    "fillInBlanks": [
-      {
-        "sentence": "De tafel is gemaakt ___ hout.",
-        "answer": "van"
-      },
-      {
-        "sentence": "Ik heb een pen ___ een boek.",
-        "answer": "en"
-      },
-      {
-        "sentence": "We zien elkaar ___ maandag.",
-        "answer": "op"
-      }
-    ]
+    "fillInBlanks": []
   },
   "multipleChoice": [
     {
-      "question": "Wanneer is Jacques Vandekerckhove geboren?",
+      "question": "Wat is een adoptie?",
       "options": [
-        "In 1933",
-        "In 1945",
-        "In 1950",
-        "In 1960"
+        "Een soort dier",
+        "Een type auto",
+        "Een manier om een kind te krijgen",
+        "Een soort voedsel"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wanneer is hij overleden?",
+      "question": "Wat doet een rechter?",
       "options": [
-        "Op 26/10/2025",
-        "Op 27/10/2025",
-        "Op 28/10/2025",
-        "Op 29/10/2025"
+        "Kookt eten",
+        "Doet onderzoek",
+        "Beslist in de rechtbank",
+        "Speelt videogames"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Hoe oud was Jacques Vandekerckhove toen hij overleed?",
+      "question": "Waar is België?",
       "options": [
-        "92 jaar",
-        "93 jaar",
-        "94 jaar",
-        "95 jaar"
+        "In Azië",
+        "In Europa",
+        "In Afrika",
+        "In de oceaan"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Jacques Vandekerckhove is geboren in 1933.",
-      "isTrue": true
-    },
-    {
-      "statement": "Hij is overleden op 25/10/2025.",
+      "statement": "Adoptie is wanneer je een auto koopt.",
       "isTrue": false
     },
     {
-      "statement": "Hij was 92 jaar oud.",
+      "statement": "Een rechter werkt in een rechtbank.",
       "isTrue": true
+    },
+    {
+      "statement": "België is een stad in Nederland.",
+      "isTrue": false
     }
   ]
 }

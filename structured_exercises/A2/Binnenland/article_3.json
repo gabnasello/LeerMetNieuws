@@ -1,105 +1,99 @@
 {
-  "id": 21,
+  "id": 20,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
+  "title": "Chef Defensie over drones boven legerbasis",
   "topicNumber": 1,
   "article": {
-    "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
-    "summary": "Het Hof van Cassatie verwerpt het cassatieberoep dat advocaat Hans Rieder en zijn ex-echtgenote hadden ingesteld tegen hun veroordeling wegens belastingontduiking door domiciliefraude."
+    "title": "Chef Defensie over drones boven legerbasis",
+    "summary": "Defensie weet nog niet wie de drones bestuurde boven de legerbasis. Maar de bescherming tegen drones wordt beter. Men test de verdediging."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "belasting",
-        "definition": "geld dat je moet betalen aan de overheid",
-        "sentence": "Mensen moeten ___ betalen als ze geld verdienen.",
-        "answer": "belasting"
+        "word": "basis",
+        "definition": "een plaats waar mensen werken of wonen",
+        "sentence": "De soldaten werken op een militaire ___.",
+        "answer": "basis"
       },
       {
-        "word": "ontduiking",
-        "definition": "niet betalen wat je moet betalen",
-        "sentence": "Hij deed aan ___ om geld te besparen.",
-        "answer": "ontduiking"
+        "word": "leger",
+        "definition": "een groep mensen die een land verdedigt",
+        "sentence": "Het ___ bestaat uit soldaten en officieren.",
+        "answer": "leger"
       },
       {
-        "word": "echtgenote",
-        "definition": "de vrouw in een huwelijk",
-        "sentence": "Zijn ex-___ helpt hem niet meer.",
-        "answer": "echtgenote"
+        "word": "drones",
+        "definition": "kleine vliegtuigen zonder piloot, op afstand bestuurd",
+        "sentence": "Soms zie je ___ in de lucht, ze maken foto's of video's.",
+        "answer": "drones"
       },
       {
-        "word": "veroordeling",
-        "definition": "een uitspraak van de rechter dat iemand schuldig is",
-        "sentence": "De rechter gaf een ___ voor zijn daden.",
-        "answer": "veroordeling"
-      },
-      {
-        "word": "cassatie",
-        "definition": "een procedure om een vonnis aan te vechten bij de hoogste rechter",
-        "sentence": "Zijn advocaad diende een ___ in.",
-        "answer": "cassatie"
+        "word": "bescherming",
+        "definition": "iets dat je veilig houdt, bijvoorbeeld tegen gevaar",
+        "sentence": "Een helm biedt ___ voor je hoofd bij een val.",
+        "answer": "bescherming"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De rechter gaf een ___ voor zijn daden.",
-        "answer": "veroordeling"
+        "sentence": "Een helm biedt ___ voor je hoofd bij een val.",
+        "answer": "bescherming"
       },
       {
-        "sentence": "Hij deed aan ___ om geld te besparen.",
-        "answer": "ontduiking"
+        "sentence": "De soldaten werken op een militaire ___.",
+        "answer": "basis"
       },
       {
-        "sentence": "Zijn ex-___ helpt hem niet meer.",
-        "answer": "echtgenote"
+        "sentence": "Soms zie je ___ in de lucht, ze maken foto's of video's.",
+        "answer": "drones"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is belastingontduiking?",
+      "question": "Waar vlogen de drones boven?",
       "options": [
-        "Een sport",
-        "Een manier om belasting te vermijden",
-        "Een soort belasting",
-        "Een type feest"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat doet het Hof van Cassatie?",
-      "options": [
-        "Bakt brood",
-        "Ziet er mooi uit",
-        "Beslist over juridische zaken",
-        "Doet niets"
+        "Boven een park",
+        "Boven een winkelcentrum",
+        "Boven een legerbasis",
+        "Boven een school"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is een domicilie?",
+      "question": "Wat betekent 'verscherpen'?",
       "options": [
-        "Een soort vis",
-        "Een adres waar iemand officieel woont",
-        "Een sportteam",
-        "Een type auto"
+        "Minder sterk maken",
+        "Versterken",
+        "Negeren",
+        "Verminderen"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Wat doet Defensie om de drones te stoppen?",
+      "options": [
+        "Niets, ze wachten af",
+        "Ze kopen nieuwe drones",
+        "Ze testen detectie en kopen bewapening",
+        "Ze sluiten de basis"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Hans Rieder is een advocaat.",
-      "isTrue": true
-    },
-    {
-      "statement": "Het Hof van Cassatie heeft de zaak goedgekeurd.",
+      "statement": "De drones vlogen boven een winkelcentrum.",
       "isTrue": false
     },
     {
-      "statement": "Hans Rieder en zijn ex-echtgenote werden veroordeeld.",
+      "statement": "Defensie weet wie de drones bestuurde.",
+      "isTrue": false
+    },
+    {
+      "statement": "De bescherming tegen drones wordt beter.",
       "isTrue": true
     }
   ]

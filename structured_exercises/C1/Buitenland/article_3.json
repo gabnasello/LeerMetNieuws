@@ -1,75 +1,106 @@
 {
-  "id": 9,
+  "id": 10,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Inwoners Al-Fasher worden uitgemoord: in Noord-Soedan ontrolt zich het ergste scenario",
+  "title": "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
   "topicNumber": 1,
   "article": {
-    "title": "Inwoners Al-Fasher worden uitgemoord: in Noord-Soedan ontrolt zich het ergste scenario",
-    "summary": "Uit getuigenissen, video’s en satellietbeelden blijkt dat rebellen bij de verovering van de Soedanese stad Al-Fasher volledige wijken platbranden en de inwoners uitmoorden. Burgers die proberen te vluchten, worden doodgeschoten of aan bomen opgehangen."
+    "title": "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
+    "summary": "De Standaard-fotograaf Gert Jochems geeft een inkijk in het leven van alledag in Oekraïens oorlogsgebied. Hij kon ter plekke volgen hoe de Azov-brigade gronddrones inzet voor de bevoorrading langs de levensgevaarlijke frontlijn."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "burgers",
-        "definition": "gewone inwoners van een stad of land, niet de militairen",
-        "sentence": "De ___ proberen te vluchten, maar worden vaak tegengehouden.",
-        "answer": "burgers"
+        "word": "frontlijn",
+        "definition": "de voorste linie in een gevechtsgebied",
+        "sentence": "De soldaten hielden stand langs de volledige lengte van de ___.",
+        "answer": "frontlijn"
       },
       {
-        "word": "getuigenissen",
-        "definition": "mondelinge of schriftelijke verklaringen van wat iemand heeft meegemaakt",
-        "sentence": "De ___ van overlevenden beschrijven gruwelijke taferelen.",
-        "answer": "getuigenissen"
+        "word": "bevoorrading",
+        "definition": "het voorzien van benodigdheden, vooral in militaire context",
+        "sentence": "De ___ van medicijnen en voedsel was cruciaal voor de overlevenden.",
+        "answer": "bevoorrading"
+      },
+      {
+        "word": "leven",
+        "definition": "het bestaan of de staat van in leven zijn",
+        "sentence": "Het ___ van de soldaten hing aan een zijden draadje.",
+        "answer": "leven"
+      },
+      {
+        "word": "front",
+        "definition": "het voorste deel of gebied waar actie plaatsvindt, vooral in militaire context",
+        "sentence": "Hij rapporteerde vanaf het ___ waar de gevechten het hevigst waren.",
+        "answer": "front"
+      },
+      {
+        "word": "fotograaf",
+        "definition": "een persoon die foto's maakt, meestal als beroep",
+        "sentence": "De ___ nam indrukwekkende beelden tijdens de missie.",
+        "answer": "fotograaf"
       }
     ],
-    "fillInBlanks": []
+    "fillInBlanks": [
+      {
+        "sentence": "De ___ nam indrukwekkende beelden tijdens de missie.",
+        "answer": "fotograaf"
+      },
+      {
+        "sentence": "Het ___ van de soldaten hing aan een zijden draadje.",
+        "answer": "leven"
+      },
+      {
+        "sentence": "De soldaten hielden stand langs de volledige lengte van de ___.",
+        "answer": "frontlijn"
+      }
+    ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de rol van satellietbeelden volgens de tekst?",
+      "question": "Wat beschrijft de tekst over het gebruik van gronddrones in Oekraïne?",
       "options": [
-        "Ze tonen de vernietiging in realtime.",
-        "Ze worden gebruikt om het weer te voorspellen.",
-        "Ze zijn alleen nuttig voor landbouw.",
-        "Ze bewijzen de misdaden die plaatsvinden."
+        "Ze worden gebruikt voor bevoorrading langs de frontlijn.",
+        "Ze worden ingezet voor luchtverkenning alleen.",
+        "Ze vervangen volledig menselijke soldaten.",
+        "Ze zijn niet effectief gebleken in oorlog."
       ],
-      "correctAnswer": 4
+      "correctAnswer": 1
     },
     {
-      "question": "Hoe reageren de burgers op de situatie in Al-Fasher?",
+      "question": "Wat is de rol van Gert Jochems volgens de tekst?",
       "options": [
-        "Ze blijven thuis en wachten af.",
-        "Ze proberen te vluchten voor het geweld.",
-        "Ze vechten terug tegen de rebellen.",
-        "Ze nemen deel aan de vernietiging."
+        "Hij is een fotograaf die de situatie documenteert.",
+        "Hij is een soldaat die vecht in Oekraïne.",
+        "Hij leidt de Azov-brigade met drones.",
+        "Hij is een politiek leider die over oorlog praat."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de houding van de rebellen ten opzichte van internationale normen?",
+      "question": "Wat impliceert de tekst over de veiligheidssituatie?",
       "options": [
-        "Ze respecteren deze volledig.",
-        "Ze negeren deze volledig en handelen in tegendeel.",
-        "Ze zijn onbekend met deze normen.",
-        "Ze gebruiken deze normen om hun voordeel te behalen."
+        "Het is gevaarlijk; de frontlijn is levensgevaarlijk.",
+        "Het is volledig veilig; er is geen risico.",
+        "Alleen drones zijn in gevaar, niet mensen.",
+        "De situatie is volledig vreedzaam en stabiel."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De getuigenissen en video's tonen aan dat de rebellen de stad Al-Fasher volledig hebben vernietigd.",
+      "statement": "Gert Jochems is een fotograaf die de inzet van gronddrones in Oekraïne documenteert.",
       "isTrue": true
     },
     {
-      "statement": "Internationale gemeenschappen hebben effectief ingegrepen en een staakt-het-vuren bewerkstelligd.",
+      "statement": "De Azov-brigade gebruikt alleen drones voor offensieve aanvallen, niet voor bevoorrading.",
       "isTrue": false
     },
     {
-      "statement": "De burgers die vluchten, worden zonder uitzondering geëxecuteerd of opgehangen aan bomen.",
-      "isTrue": true
+      "statement": "Journalisten zoals Jochems hebben directe toegang tot de frontlinie zonder enig risico.",
+      "isTrue": false
     }
   ]
 }

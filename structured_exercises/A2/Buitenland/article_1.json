@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
+  "title": "Nederlandse verkiezingen: uitslag erg spannend",
   "topicNumber": 1,
   "article": {
-    "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
-    "summary": "Volg hier de laatste ontwikkelingen in Gaza."
+    "title": "Nederlandse verkiezingen: uitslag erg spannend",
+    "summary": "In Nederland zijn er verkiezingen. De uitslag is heel spannend, want de twee grootste partijen hebben bijna evenveel zetels. Ze zijn nog aan het tellen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "op",
-        "definition": "op iets, op een plaats of tijdstip",
-        "sentence": "Hij is ___ school.",
-        "answer": "op"
+        "word": "uitslag",
+        "definition": "het eindresultaat, zoals na verkiezingen",
+        "sentence": "De ___ laat zien welke partij heeft gewonnen.",
+        "answer": "uitslag"
       },
       {
-        "word": "Gaza",
-        "definition": "een plaats in het Midden-Oosten",
-        "sentence": "___ is een stad met veel problemen.",
-        "answer": "Gaza"
+        "word": "spannend",
+        "definition": "opwindend, je weet niet wat er gaat gebeuren",
+        "sentence": "Het is ___ om te wachten op de uitslag.",
+        "answer": "spannend"
       },
       {
-        "word": "doden",
-        "definition": "mensen die gestorven zijn",
-        "sentence": "Er vielen veel ___ in het conflict.",
-        "answer": "doden"
+        "word": "partij",
+        "definition": "een groep mensen met dezelfde ideeën over hoe het land moet worden gerund",
+        "sentence": "Mensen stemmen op een ___ die ze leuk vinden.",
+        "answer": "partij"
       },
       {
-        "word": "na",
-        "definition": "na iets, na een tijd of gebeurtenis",
-        "sentence": "We gaan eten ___ het werk.",
-        "answer": "na"
+        "word": "tellen",
+        "definition": "optellen, bijvoorbeeld hoeveel stemmen een partij heeft",
+        "sentence": "Medewerkers moeten de stemmen ___.",
+        "answer": "tellen"
       },
       {
-        "word": "nieuwe",
-        "definition": "vers, nieuw, recent",
-        "sentence": "Hij kocht een ___ auto.",
-        "answer": "nieuwe"
+        "word": "verkiezingen",
+        "definition": "een keer per paar jaar stemmen mensen op een partij.",
+        "sentence": "In Nederland zijn er binnenkort ___.",
+        "answer": "verkiezingen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is ___ school.",
-        "answer": "op"
+        "sentence": "Het is ___ om te wachten op de uitslag.",
+        "answer": "spannend"
       },
       {
-        "sentence": "___ is een stad met veel problemen.",
-        "answer": "Gaza"
+        "sentence": "Mensen stemmen op een ___ die ze leuk vinden.",
+        "answer": "partij"
       },
       {
-        "sentence": "Hij kocht een ___ auto.",
-        "answer": "nieuwe"
+        "sentence": "In Nederland zijn er binnenkort ___.",
+        "answer": "verkiezingen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'doden' in deze context?",
+      "question": "Wat is de uitslag van de verkiezingen in Nederland?",
       "options": [
-        "mensen die gestorven zijn",
-        "een soort dier",
-        "een soort voedsel",
-        "een soort gebouw"
+        "Het is nog niet bekend",
+        "Het is al bekend",
+        "Het regent buiten",
+        "Nederland heeft gewonnen"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waar verwijst 'Gaza' naar?",
+      "question": "Waarom is de uitslag spannend?",
       "options": [
-        "een stad in Palestina",
-        "een dier",
-        "een soort muziek",
-        "een beroemde persoon"
+        "Omdat het nog niet bekend is",
+        "Omdat het al bekend is",
+        "Omdat het een feest is",
+        "Omdat niemand meer stemt"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat betekent 'luchtaanvallen'?",
+      "question": "Wat gebeurt er als de uitslag bekend is?",
       "options": [
-        "aanvallen die vanuit de lucht worden uitgevoerd",
-        "een soort feest",
-        "een soort sport",
-        "een soort voertuig"
+        "Dan weten we welke partij gewonnen heeft",
+        "Dan begint het te regenen",
+        "Dan is de verkiezing voorbij",
+        "Dan moet iedereen opnieuw stemmen"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Er vielen 26 doden na de luchtaanvallen.",
-      "isTrue": true
-    },
-    {
-      "statement": "Gaza is een stad in Nederland.",
+      "statement": "De uitslag is al bekend.",
       "isTrue": false
     },
     {
-      "statement": "Luchtaanvallen gebeuren vanuit vliegtuigen.",
+      "statement": "Twee partijen hebben bijna evenveel zetels.",
       "isTrue": true
+    },
+    {
+      "statement": "Nederland heeft geen verkiezingen.",
+      "isTrue": false
     }
   ]
 }

@@ -3,97 +3,103 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Jacques Vandekerckhove, 92 jaar",
+  "title": "Verdachte van adoptiefraude na veertig jaar voor de rechter",
   "topicNumber": 1,
   "article": {
-    "title": "Jacques Vandekerckhove, 92 jaar",
-    "summary": "Hij is geboren in 1933 en overleden op 26/10/2025."
+    "title": "Verdachte van adoptiefraude na veertig jaar voor de rechter",
+    "summary": "Er is een Belgische rechtszaak over gestolen kinderen uit Guatemala. Iemand zegt: 'Ik kwam naar België met een valse naam, zonder geboortedatum en met een biologische moeder die misschien niet eens weet dat ik nog leef.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "het begin van iemands leven; geboren worden",
-        "sentence": "Hij is ___ in 1933.",
-        "answer": "geboren"
+        "word": "fraude",
+        "definition": "wanneer iemand opzettelijk liegt of bedriegt om iets te krijgen",
+        "sentence": "Hij gebruikte een valse naam, dat is een vorm van ___.",
+        "answer": "fraude"
       },
       {
-        "word": "overleden",
-        "definition": "niet meer leven; gestorven zijn",
-        "sentence": "Hij is ___ op 26/10/2025.",
-        "answer": "overleden"
+        "word": "adoptie",
+        "definition": "wanneer een kind officieel wordt opgenomen in een ander gezin",
+        "sentence": "Sommige kinderen komen in een gezin via ___.",
+        "answer": "adoptie"
       },
       {
-        "word": "jaar",
-        "definition": "een periode van 365 dagen; 12 maanden",
-        "sentence": "Hij is 92 ___ oud.",
-        "answer": "jaar"
+        "word": "moeder",
+        "definition": "de vrouwelijke ouder van een kind",
+        "sentence": "De ___ van het kind woonde in Guatemala.",
+        "answer": "moeder"
       },
       {
-        "word": "hij",
-        "definition": "een mannelijk persoon; die persoon",
-        "sentence": "___ is de man in dit verhaal.",
-        "answer": "hij"
+        "word": "kinderen",
+        "definition": "jonge mensen, meestal onder de 18 jaar",
+        "sentence": "De ___ werden illegaal geadopteerd.",
+        "answer": "kinderen"
+      },
+      {
+        "word": "geboorte",
+        "definition": "het moment dat een kind wordt geboren",
+        "sentence": "Zijn ___ vond plaats in 2010.",
+        "answer": "geboorte"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is ___ op 26/10/2025.",
-        "answer": "overleden"
+        "sentence": "Sommige kinderen komen in een gezin via ___.",
+        "answer": "adoptie"
       },
       {
-        "sentence": "Hij is ___ in 1933.",
-        "answer": "geboren"
+        "sentence": "Hij gebruikte een valse naam, dat is een vorm van ___.",
+        "answer": "fraude"
       },
       {
-        "sentence": "Hij is 92 ___ oud.",
-        "answer": "jaar"
+        "sentence": "Zijn ___ vond plaats in 2010.",
+        "answer": "geboorte"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de geboortedatum van Jacques?",
+      "question": "Waar gaat de rechtszaak over?",
       "options": [
-        "1933",
-        "1923",
-        "1943",
-        "1953"
+        "Een diefstal van auto's",
+        "Een fraude met adoptie",
+        "Een vakantie in Guatemala",
+        "Een feest in de rechtbank"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe oud was Jacques op het moment van overlijden?",
+      "question": "Waar woont de biologische moeder van het kind?",
       "options": [
-        "92 jaar",
-        "93 jaar",
-        "94 jaar",
-        "95 jaar"
+        "In Nederland",
+        "In België",
+        "In Guatemala",
+        "In Duitsland"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "In welke maand overleed Jacques?",
+      "question": "Wat is een 'valse naam'?",
       "options": [
-        "Januari",
-        "Februari",
-        "Oktober",
-        "December"
+        "Een echte naam",
+        "Een lieve naam",
+        "Een naam die niet echt is",
+        "Een naam die alleen thuis wordt gebruikt"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Jacques overleed in het jaar 2025.",
+      "statement": "De zaak speelt zich af in België.",
       "isTrue": true
     },
     {
-      "statement": "Jacques was 91 jaar oud toen hij overleed.",
+      "statement": "De moeder van het kind woont in Nederland.",
       "isTrue": false
     },
     {
-      "statement": "Jacques werd geboren in de 20e eeuw.",
+      "statement": "Het kind werd geadopteerd met een valse naam.",
       "isTrue": true
     }
   ]

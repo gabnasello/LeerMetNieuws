@@ -3,103 +3,97 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
+  "title": "Verkiezingen in Nederland",
   "topicNumber": 1,
   "article": {
-    "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
-    "summary": "Er zijn nieuwe luchtaanvallen in Gaza. Er zijn 26 doden. Dit is het laatste nieuws."
+    "title": "Verkiezingen in Nederland",
+    "summary": "Nederland houdt verkiezingen. Er is een nieuwe regering."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Er",
-        "definition": "een woord dat vaak aan het begin van een zin staat om iets aan te duiden",
-        "sentence": "___ zijn 26 doden.",
-        "answer": "Er"
+        "word": "Nederland",
+        "definition": "een land in Europa",
+        "sentence": "___ is een land in Europa.",
+        "answer": "Nederland"
       },
       {
-        "word": "na",
-        "definition": "na een bepaalde tijd of gebeurtenis",
-        "sentence": "De doden vielen ___ de luchtaanvallen.",
-        "answer": "na"
+        "word": "verkiezingen",
+        "definition": "wanneer mensen stemmen voor een nieuwe regering",
+        "sentence": "Mensen stemmen tijdens de ___.",
+        "answer": "verkiezingen"
       },
       {
-        "word": "26",
-        "definition": "het getal tussen 25 en 27",
-        "sentence": "Er zijn ___ doden gevallen.",
-        "answer": "26"
+        "word": "regering",
+        "definition": "de groep mensen die een land bestuurt",
+        "sentence": "De ___ maakt belangrijke beslissingen.",
+        "answer": "regering"
       },
       {
-        "word": "doden",
-        "definition": "mensen die niet meer leven",
-        "sentence": "Er zijn 26 ___ na de aanvallen.",
-        "answer": "doden"
-      },
-      {
-        "word": "Gaza",
-        "definition": "een plaats in het Midden-Oosten waar veel conflicten zijn",
-        "sentence": "In ___ zijn veel mensen gewond geraakt.",
-        "answer": "Gaza"
+        "word": "nieuwe",
+        "definition": "niet oud, recent gemaakt",
+        "sentence": "Ze hebben een ___ huis gekocht.",
+        "answer": "nieuwe"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Er zijn ___ doden gevallen.",
-        "answer": "26"
+        "sentence": "Mensen stemmen tijdens de ___.",
+        "answer": "verkiezingen"
       },
       {
-        "sentence": "___ zijn 26 doden.",
-        "answer": "Er"
+        "sentence": "Ze hebben een ___ huis gekocht.",
+        "answer": "nieuwe"
       },
       {
-        "sentence": "De doden vielen ___ de luchtaanvallen.",
-        "answer": "na"
+        "sentence": "___ is een land in Europa.",
+        "answer": "Nederland"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gebeurden de luchtaanvallen?",
+      "question": "Wat gebeurt er tijdens verkiezingen?",
       "options": [
-        "In Gaza",
-        "In Nederland",
-        "In de supermarkt",
-        "Op school"
+        "Mensen stemmen op een partij.",
+        "Mensen gaan op vakantie.",
+        "Mensen vieren een feest.",
+        "Mensen spelen een spel."
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Hoeveel doden zijn er gemeld?",
+      "question": "Wat is een kabinet?",
       "options": [
-        "26",
-        "10",
-        "50",
-        "100"
+        "Een groep ministers die het land bestuurt.",
+        "Een soort auto.",
+        "Een groot gebouw.",
+        "Een soort voedsel."
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wanneer vonden de luchtaanvallen plaats?",
+      "question": "Wat betekent 'nieuwe'?",
       "options": [
-        "Gisteren",
-        "Morgen",
-        "Vorige week",
-        "Over een maand"
+        "Niet oud, recent gemaakt.",
+        "Heel oud.",
+        "Een soort dier.",
+        "Een muziekinstrument."
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De luchtaanvallen vonden plaats in Gaza.",
+      "statement": "Nederland heeft verkiezingen gehouden.",
       "isTrue": true
     },
     {
-      "statement": "Er zijn 100 doden gemeld.",
+      "statement": "Een kabinet is een soort dier.",
       "isTrue": false
     },
     {
-      "statement": "De aanvallen gebeurden na een eerdere gebeurtenis.",
+      "statement": "Stemmen betekent je keuze maken.",
       "isTrue": true
     }
   ]

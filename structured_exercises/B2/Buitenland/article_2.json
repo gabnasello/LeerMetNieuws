@@ -3,104 +3,73 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
+  "title": "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
   "topicNumber": 1,
   "article": {
-    "title": "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
-    "summary": "Storm Melissa is als een orkaan van categorie vijf aan land gekomen in Jamaica. Voor het Caraïbisch eiland is het de zwaarste storm ooit."
+    "title": "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "gekomen",
-        "definition": "aangekomen, hier zijn",
-        "sentence": "Hij is gisteren aangekomen in de stad.",
-        "answer": "gekomen"
+        "word": "onmiddellijk",
+        "definition": "meteen, zonder vertraging",
+        "sentence": "Na het ongeluk reageerde de hulp ___.",
+        "answer": "onmiddellijk"
       },
       {
-        "word": "orkaan",
-        "definition": "een hele zware storm met heel veel wind",
-        "sentence": "Een orkaan kan veel schade veroorzaken.",
-        "answer": "orkaan"
-      },
-      {
-        "word": "categorie",
-        "definition": "een groep of soort waar iets in past",
-        "sentence": "Deze storm is van categorie vijf, dat is de hoogste.",
-        "answer": "categorie"
-      },
-      {
-        "word": "aan",
-        "definition": "op, tegen, in de richting van",
-        "sentence": "Hij hing de foto aan de muur.",
-        "answer": "aan"
-      },
-      {
-        "word": "zwaarste",
-        "definition": "het meeste gewicht hebbend, het sterkst",
-        "sentence": "Dit was de zwaarste storm van het jaar.",
-        "answer": "zwaarste"
+        "word": "kernwapens",
+        "definition": "wapens die gebruikmaken van nucleaire reacties voor hun vernietigende kracht",
+        "sentence": "Het non-proliferatieverdrag probeert de verspreiding van ___ te stoppen.",
+        "answer": "kernwapens"
       }
     ],
-    "fillInBlanks": [
-      {
-        "sentence": "Hij hing de foto aan de muur.",
-        "answer": "aan"
-      },
-      {
-        "sentence": "Dit was de zwaarste storm van het jaar.",
-        "answer": "zwaarste"
-      },
-      {
-        "sentence": "Een orkaan kan veel schade veroorzaken.",
-        "answer": "orkaan"
-      }
-    ]
+    "fillInBlanks": []
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het dat een storm van categorie vijf is?",
+      "question": "Wat is het hoofdonderwerp van dit artikel?",
       "options": [
-        "Het is de allerzwaarste storm.",
-        "Het is een middelmatige storm.",
-        "Het is een storm met weinig wind.",
-        "Het is een storm die bijna voorbij is."
+        "Klimaatverandering",
+        "Kernwapenbeheersing",
+        "Ruimtevaart",
+        "Internationale handel"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is er gebeurd met Jamaica na de orkaan?",
+      "question": "Wat is de houding van Trump ten opzichte van kernwapens volgens de titel?",
       "options": [
-        "Het eiland is verwoest en 530.000 huishoudens hebben geen stroom.",
-        "Jamaica is ongeschonden uit de storm gekomen.",
-        "De storm heeft alleen de kust geraakt.",
-        "Jamaica heeft de storm volledig vermeden."
+        "Hij wil ze afschaffen",
+        "Hij wil ze verminderen",
+        "Hij wil ze onmiddellijk opnieuw testen",
+        "Hij negeert het onderwerp"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Hoe wordt orkaan Melissa beschreven?",
+      "question": "Wat is de verwachte impact van Trumps beleid op internationaal gebied?",
       "options": [
-        "Als de zwaarste storm ooit voor het eiland.",
-        "Als een lichte bries die niets doet.",
-        "Als een storm die alleen op zee blijft.",
-        "Als een storm die al is overgewaaid."
+        "Alleen positief voor de VS",
+        "Alleen negatief voor andere landen",
+        "Wereldwijd veranderend, zowel positief als negatief",
+        "Geen enkele impact"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Orkaan Melissa is de zwaarste storm ooit voor Jamaica.",
-      "isTrue": true
-    },
-    {
-      "statement": "Jamaica heeft geen last gehad van de orkaan.",
+      "statement": "Donald Trump is de huidige president van de Verenigde Staten.",
       "isTrue": false
     },
     {
-      "statement": "Orkaan Melissa is van categorie vijf, de hoogste categorie.",
+      "statement": "Kernwapens zijn wapens die gebruikmaken van nucleaire reacties.",
       "isTrue": true
+    },
+    {
+      "statement": "Trump's beleid heeft alleen gevolgen voor de Verenigde Staten.",
+      "isTrue": false
     }
   ]
 }

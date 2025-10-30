@@ -1,106 +1,106 @@
 {
-  "id": 27,
+  "id": 26,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Adoptie uit buitenland werd ‘gepauzeerd’, maar nu staan er toch weer 35 gezinnen in de wachtrij",
+  "title": "Gentse ‘tramterreur’ houdt buurtbewoners wakker: Waarom zo veel, zo laat, en zo luid?",
   "topicNumber": 1,
   "article": {
-    "title": "Adoptie uit buitenland werd ‘gepauzeerd’, maar nu staan er toch weer 35 gezinnen in de wachtrij",
-    "summary": "Veertig gezinnen in Vlaanderen zijn bezig met een traject voor buitenlandse adoptie, 35 andere werd beloofd dat ze er nog mogen instappen. En dat terwijl er al sinds eind 2023 een ‘adoptiepauze’ is afgekondigd. “De boodschap is niet helder en dat is lastig”, meent parlementslid Freya Perdaens (N-VA)."
+    "title": "Gentse ‘tramterreur’ houdt buurtbewoners wakker: Waarom zo veel, zo laat, en zo luid?",
+    "summary": "In de Gentse Bernard Spaelaan zijn de bewoners de wanhoop nabij: sinds een paar maanden denderen per dag zo’n 700 trams aan 100 decibel door de straat. De vrederechter vraagt De Lijn de overlast te verminderen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "wachtrij",
-        "definition": "Een lijst van mensen die wachten op iets",
-        "sentence": "Hij staat in de ___ voor een nieuw huis.",
-        "answer": "wachtrij"
+        "word": "decibel",
+        "definition": "eenheid voor geluidsvolume",
+        "sentence": "Het geluid was meer dan 100 ___.",
+        "answer": "decibel"
       },
       {
-        "word": "helder",
-        "definition": "Duidelijk, makkelijk te begrijpen",
-        "sentence": "De instructies waren erg ___ en gemakkelijk te volgen.",
-        "answer": "helder"
+        "word": "bewoners",
+        "definition": "mensen die in een huis of gebied wonen",
+        "sentence": "De ___ van de straat klagen over het lawaai.",
+        "answer": "bewoners"
       },
       {
-        "word": "gezin",
-        "definition": "Een groep mensen die samenwonen, vaak ouders en kinderen",
-        "sentence": "Een ___ bestaat vaak uit ouders en hun kinderen.",
-        "answer": "gezin"
+        "word": "verminderen",
+        "definition": "minder maken",
+        "sentence": "We moeten de overlast ___.",
+        "answer": "verminderen"
       },
       {
-        "word": "boodschap",
-        "definition": "De inhoud van wat er gezegd wordt, de mededeling",
-        "sentence": "De ___ van de leider was duidelijk en motiverend.",
-        "answer": "boodschap"
+        "word": "trams",
+        "definition": "openbaar vervoermiddel op rails",
+        "sentence": "De ___ rijden door de stad.",
+        "answer": "trams"
       },
       {
-        "word": "gepauzeerd",
-        "definition": "Tijdelijk gestopt, niet voor altijd",
-        "sentence": "De vergadering werd ___ omdat niet iedereen er was.",
-        "answer": "gepauzeerd"
+        "word": "bewoners",
+        "definition": "mensen die in een huis of gebied wonen",
+        "sentence": "De ___ van de straat klagen over het lawaai.",
+        "answer": "bewoners"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De vergadering werd ___ omdat niet iedereen er was.",
-        "answer": "gepauzeerd"
+        "sentence": "De ___ van de straat klagen over het lawaai.",
+        "answer": "bewoners"
       },
       {
-        "sentence": "Een ___ bestaat vaak uit ouders en hun kinderen.",
-        "answer": "gezin"
+        "sentence": "We moeten de overlast ___.",
+        "answer": "verminderen"
       },
       {
-        "sentence": "Hij staat in de ___ voor een nieuw huis.",
-        "answer": "wachtrij"
+        "sentence": "De ___ van de straat klagen over het lawaai.",
+        "answer": "bewoners"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent ‘gepauzeerd’ in deze tekst?",
+      "question": "Waarom zijn de bewoners van de Bernard Spaelaan ontevreden?",
       "options": [
-        "Voor altijd gestopt",
-        "Tijdelijk gestopt",
-        "Helemaal klaar",
-        "Net begonnen"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een ‘wachtrij’?",
-      "options": [
-        "Een soort auto",
-        "Een winkelwagen",
-        "Een lijst van wachtenden",
-        "Een snelweg"
+        "Omdat er te veel auto's rijden",
+        "Omdat er te veel trams rijden",
+        "Omdat er te veel lawaai is",
+        "Omdat er te weinig parken zijn"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Wat heeft de vrederechter gevraagd aan De Lijn?",
       "options": [
-        "Over reizen naar het buitenland",
-        "Over sportevenementen",
-        "Over adoptie en beleid",
-        "Over koken en eten"
+        "Om de trams te stoppen",
+        "Om de trams sneller te laten rijden",
+        "Om de overlast te verminderen",
+        "Om de bewoners te verhuizen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Hoeveel trams rijden er per dag door de straat?",
+      "options": [
+        "Ongeveer 100",
+        "Ongeveer 500",
+        "Ongeveer 700",
+        "Ongeveer 1000"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De adoptie uit het buitenland is helemaal gestopt.",
+      "statement": "De bewoners van de Bernard Spaelaan zijn blij met de trams.",
       "isTrue": false
     },
     {
-      "statement": "Er zijn gezinnen in Vlaanderen die willen adopteren uit het buitenland.",
+      "statement": "De vrederechter heeft De Lijn gevraagd om de overlast te verminderen.",
       "isTrue": true
     },
     {
-      "statement": "Er is helemaal geen adoptie meer mogelijk volgens de tekst.",
-      "isTrue": false
+      "statement": "Er rijden 700 trams per dag door de straat.",
+      "isTrue": true
     }
   ]
 }

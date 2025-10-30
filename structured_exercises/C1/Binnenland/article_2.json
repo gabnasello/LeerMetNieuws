@@ -1,106 +1,106 @@
 {
-  "id": 29,
+  "id": 28,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Adoptie uit buitenland werd ‘gepauzeerd’, maar nu staan er toch weer 35 gezinnen in de wachtrij",
+  "title": "Gentse ‘tramterreur’ houdt buurtbewoners wakker: “Waarom zo veel, zo laat, en zo luid?”",
   "topicNumber": 1,
   "article": {
-    "title": "Adoptie uit buitenland werd ‘gepauzeerd’, maar nu staan er toch weer 35 gezinnen in de wachtrij",
-    "summary": "Veertig gezinnen in Vlaanderen zijn bezig met een traject voor buitenlandse adoptie, 35 andere werd beloofd dat ze er nog mogen instappen. En dat terwijl er al sinds eind 2023 een ‘adoptiepauze’ is afgekondigd. “De boodschap is niet helder en dat is lastig”, meent parlementslid Freya Perdaens (N-VA)."
+    "title": "Gentse ‘tramterreur’ houdt buurtbewoners wakker: “Waarom zo veel, zo laat, en zo luid?”",
+    "summary": "In de Gentse Bernard Spaelaan zijn de bewoners de wanhoop nabij: sinds een paar maanden denderen per dag zo’n 700 trams aan 100 decibel door de straat. De vrederechter vraagt De Lijn de overlast te verminderen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Vlaanderen",
-        "definition": "Een deel van België, specifiek de Vlaamse Gemeenschap",
-        "sentence": "___ is bekend om zijn historische steden.",
-        "answer": "Vlaanderen"
+        "word": "wanhoop",
+        "definition": "gevoel van totale hopeloosheid of verlatenheid",
+        "sentence": "Na het verlies van zijn baan voelde hij een diepe ___.",
+        "answer": "wanhoop"
       },
       {
-        "word": "adoptiepauze",
-        "definition": "Een tijdelijke stop of onderbreking van adoptieprocessen",
-        "sentence": "De ___ gaf ruimte voor beleidsevaluatie.",
-        "answer": "adoptiepauze"
+        "word": "overlast",
+        "definition": "hinder of last die wordt veroorzaakt",
+        "sentence": "De bouwwerkzaamheden veroorzaken veel ___ voor de buurt.",
+        "answer": "overlast"
       },
       {
-        "word": "buitenland",
-        "definition": "Andere landen; landen die niet het eigen land zijn",
-        "sentence": "Zij reisden naar het ___ voor hun vakantie.",
-        "answer": "buitenland"
+        "word": "bewoners",
+        "definition": "mensen die in een bepaalde plaats of gebouw wonen",
+        "sentence": "De ___ van deze straat klagen over geluidsoverlast.",
+        "answer": "bewoners"
       },
       {
-        "word": "traject",
-        "definition": "Het verloop of de reeks van stappen in een proces",
-        "sentence": "Het ___ naar herstel was langzaam maar effectief.",
-        "answer": "traject"
+        "word": "bewoners",
+        "definition": "mensen die in een bepaalde plaats of gebouw wonen",
+        "sentence": "De ___ van het gebouw werden geëvacueerd wegens brand.",
+        "answer": "bewoners"
       },
       {
-        "word": "wachtrij",
-        "definition": "Een rij of lijst van mensen of zaken die wachten op iets, zoals een behandeling of dienst",
-        "sentence": "De lange ___ voor de attractie was frustrerend.",
-        "answer": "wachtrij"
+        "word": "trams",
+        "definition": "openbaar vervoermiddel dat op rails rijdt, vaak in de stad",
+        "sentence": "De ___ in deze stad rijden tot laat in de avond.",
+        "answer": "trams"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is bekend om zijn historische steden.",
-        "answer": "Vlaanderen"
+        "sentence": "De ___ van deze straat klagen over geluidsoverlast.",
+        "answer": "bewoners"
       },
       {
-        "sentence": "De ___ gaf ruimte voor beleidsevaluatie.",
-        "answer": "adoptiepauze"
+        "sentence": "De ___ van het gebouw werden geëvacueerd wegens brand.",
+        "answer": "bewoners"
       },
       {
-        "sentence": "Het ___ naar herstel was langzaam maar effectief.",
-        "answer": "traject"
+        "sentence": "De ___ in deze stad rijden tot laat in de avond.",
+        "answer": "trams"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'adoptiepauze' in deze context?",
+      "question": "Waarom zijn de bewoners van de Bernard Spaelaan overlast gaan ervaren?",
       "options": [
-        "Een permanente stop",
-        "Een tijdelijke onderbreking van adoptieprocessen",
-        "Een versnelling van adoptieprocedures",
-        "Een feestelijke gebeurtenis"
+        "Omdat er meer auto's zijn dan normaal",
+        "Omdat het aantal trams is toegenomen tot 700 per dag",
+        "Omdat er een brand was in het gebouw",
+        "Omdat de tramrails zijn vernieuwd"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom noemt parlementslid Perdaens de boodschap 'niet helder'?",
+      "question": "Wat is de rol van de vrederechter in deze situatie?",
       "options": [
-        "Omdat er te veel informatie is",
-        "Omdat de communicatie onduidelijk en verwarrend is",
-        "Omdat de boodschap in een vreemde taal is gesteld",
-        "Omdat de boodschap alleen voor bepaalde groepen is bedoeld"
+        "Hij organiseert protesten tegen de overlast",
+        "Hij beveelt De Lijn om de overlast te verminderen",
+        "Hij geeft gratis ov-kaarten aan de bewoners",
+        "Hij bemiddelt tussen de bewoners en de trambestuurders"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de hoofdgedachte van dit artikel?",
+      "question": "Hoe probeert De Lijn de overlast te verminderen volgens de samenvatting?",
       "options": [
-        "Adoptie is volledig stopgezet",
-        "Adoptie uit het buitenland is hervat ondanks eerdere pauze",
-        "Vlaanderen stopt alle adoptie",
-        "Adoptie is alleen voor grote gezinnen"
+        "Door minder trams te laten rijden",
+        "Door tramroutes te verleggen naar andere straten",
+        "Door geluiddempende maatregelen te nemen op de trams",
+        "Door de vrederechter in te schakelen"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De adoptiepauze in Vlaanderen is permanent van kracht.",
-      "isTrue": false
-    },
-    {
-      "statement": "Er staan momenteel gezinnen op een wachtlijst voor adoptie.",
+      "statement": "De bewoners van de Bernard Spaelaan in Gent ervaren overlast door het hoge aantal trams dat daar rijdt.",
       "isTrue": true
     },
     {
-      "statement": "Parlementslid Perdaens vindt de communicatie over adoptie zeer duidelijk.",
+      "statement": "De vrederechter heeft De Lijn bevolen om de overlast volledig te elimineren.",
       "isTrue": false
+    },
+    {
+      "statement": "De overlast wordt veroorzaakt doordat de trams 's nachts rijden en veel geluid maken.",
+      "isTrue": true
     }
   ]
 }

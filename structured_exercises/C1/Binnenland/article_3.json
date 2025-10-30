@@ -1,106 +1,100 @@
 {
-  "id": 24,
+  "id": 23,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
+  "title": "Chef Defensie Vansina over drones boven Marche-en-Famenne: “We gaan versneld dronedetectie en bewapening kopen”",
   "topicNumber": 1,
   "article": {
-    "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
-    "summary": "Het Hof van Cassatie verwerpt het cassatieberoep dat advocaat Hans Rieder en zijn ex-echtgenote hadden ingesteld tegen hun veroordeling wegens belastingontduiking door domiciliefraude."
+    "title": "Chef Defensie Vansina over drones boven Marche-en-Famenne: “We gaan versneld dronedetectie en bewapening kopen”",
+    "summary": "Wie de drones bestuurde die dinsdagnacht opnieuw boven de legerbasis van Marche-en-Famenne vlogen, weet Defensie nog niet. Maar dat de bescherming tegen disruptieve droneactiviteit verscherpt moet worden, staat vast. “Men test ons.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "definitief",
-        "definition": "Iets dat eindelijk is beslist en niet meer verandert.",
-        "sentence": "De uitspraak van de rechter is ___, er is geen beroep meer mogelijk.",
-        "answer": "definitief"
+        "word": "drones",
+        "definition": "Onbemande vliegtuigjes die op afstand bestuurd worden",
+        "sentence": "De militaire basis gebruikt speciale systemen om ___ te detecteren en onschadelijk te maken.",
+        "answer": "drones"
       },
       {
-        "word": "verwerpt",
-        "definition": "Niet accepteren of goedkeuren; afwijzen.",
-        "sentence": "De rechter ___ het beroep omdat het ongegrond was.",
-        "answer": "verwerpt"
+        "word": "basis",
+        "definition": "Een plaats of locatie die als uitgangspunt of hoofdkwartier dient",
+        "sentence": "De militaire ___ in Marche-en-Famenne werd recent overvlogen door drones.",
+        "answer": "basis"
       },
       {
-        "word": "domiciliefraude",
-        "definition": "Het frauduleus aangeven van een onjuist adres met als doel belasting te ontduiken.",
-        "sentence": "Het echtpaar werd schuldig bevonden aan ___.",
-        "answer": "domiciliefraude"
+        "word": "detectie",
+        "definition": "Het opsporen of ontdekken van iets, vaak met technische middelen",
+        "sentence": "Moderne ___systemen kunnen zelfs kleine objecten van ver waarnemen.",
+        "answer": "detectie"
       },
       {
-        "word": "cassatieberoep",
-        "definition": "Een verzoek aan een hogere rechter om een eerdere uitspraak te herzien.",
-        "sentence": "Het Hof stelt de uitspraak van de lagere rechter niet ___.",
-        "answer": "cassatieberoep"
-      },
-      {
-        "word": "advocaat",
-        "definition": "Een persoon die is opgeleid om juridische bijstand te verlenen.",
-        "sentence": "De ___ verdedigde zijn cliënt met overtuiging.",
-        "answer": "advocaat"
+        "word": "bewapening",
+        "definition": "Wapens en munitie die gebruikt worden voor defensie of aanval",
+        "sentence": "Nieuwe ___ is nodig om de verhoogde dreiging het hoofd te bieden.",
+        "answer": "bewapening"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het echtpaar werd schuldig bevonden aan ___.",
-        "answer": "domiciliefraude"
+        "sentence": "De militaire ___ in Marche-en-Famenne werd recent overvlogen door drones.",
+        "answer": "basis"
       },
       {
-        "sentence": "De rechter ___ het beroep omdat het ongegrond was.",
-        "answer": "verwerpt"
+        "sentence": "Moderne ___systemen kunnen zelfs kleine objecten van ver waarnemen.",
+        "answer": "detectie"
       },
       {
-        "sentence": "Het Hof stelt de uitspraak van de lagere rechter niet ___.",
-        "answer": "cassatieberoep"
+        "sentence": "De militaire basis gebruikt speciale systemen om ___ te detecteren en onschadelijk te maken.",
+        "answer": "drones"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'domiciliefraude' in deze context?",
+      "question": "Wat is de voornaamste zorg van Defensie volgens de tekst?",
       "options": [
-        "Het frauduleus veranderen van het woonadres",
-        "Het legaal optimaliseren van belastingen",
-        "Het onbedoeld foutief aangeven van een adres",
-        "Het verbergen van belastingdocumenten"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is de rol van het Hof van Cassatie in deze zaak?",
-      "options": [
-        "Het heeft de zaak heropend",
-        "Het heeft het beroep van de verdachten goedgekeurd",
-        "Het heeft het beroep van de verdachten afgewezen",
-        "Het heeft de zaak geseponeerd"
+        "Het detecteren van nieuwe drone-modellen",
+        "Het trainen van personeel in drone-bestrijding",
+        "Het beveiligen van militaire bases tegen drone-aanvallen",
+        "Het ontwikkelen van offensieve drone-capaciteiten"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is het gevolg van de uitspraak voor Hans Rieder?",
+      "question": "Hoe reageert Defensie op de drone-incidenten?",
       "options": [
-        "Hij wordt vrijgesproken van alle charges",
-        "Hij moet een boete betalen maar komt niet in de cel",
-        "Hij ontvangt een schadevergoeding van de staat",
-        "Zijn straf is definitief en moet worden uitgezeten"
+        "Door de aanschaf van drones te versnellen",
+        "Door detectie- en bewapeningstechnologie te verbeteren",
+        "Door alle bases tijdelijk te sluiten",
+        "Door internationale partners om hulp te vragen"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat impliceert de uitspraak “Men test ons”?",
+      "options": [
+        "Dat Defensie zelf experimenteert met drones",
+        "Dat een externe groep de verdedigingstesten",
+        "Dat nieuwe medewerkers worden gescreend",
+        "Dat er sprake is van psychologische oorvoering"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Hans Rieder werd veroordeeld voor het niet declareren van belasting, maar dit werd later herroepen.",
+      "statement": "Defensie weet precies wie verantwoordelijk is voor de drone-incidenten.",
       "isTrue": false
     },
     {
-      "statement": "Het Hof van Cassatie heeft het cassatieberoep van Hans Rieder en zijn ex-echtgenote afgewezen.",
+      "statement": "De bewaking van militaire bases wordt aangescherpt na de recente gebeurtenissen.",
       "isTrue": true
     },
     {
-      "statement": "Domiciliefraude is een vorm van belastingontduiking waarbij men zich inschrijft op een onjuist adres.",
-      "isIsTrue": true
+      "statement": "Drones worden enkel gebruikt voor offensieve militaire operaties.",
+      "isTrue": false
     }
   ]
 }

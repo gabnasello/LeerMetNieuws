@@ -3,103 +3,59 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
+  "title": "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
   "topicNumber": 1,
   "article": {
-    "title": "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
-    "summary": "Storm Melissa is als een orkaan van categorie vijf aan land gekomen in Jamaica. Voor het Caraïbisch eiland is het de zwaarste storm ooit."
+    "title": "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
-    "words": [
-      {
-        "word": "orkaan",
-        "definition": "een zeer zware storm met extreme windsnelheden",
-        "sentence": "De orkaan veroorzaakte enorme schade aan de kust.",
-        "answer": "orkaan"
-      },
-      {
-        "word": "categorie",
-        "definition": "een classificatie of indeling, vaak gebaseerd op bepaalde kenmerken",
-        "sentence": "De orkaan werd ingedeeld in de hoogste categorie vanwege de windsnelheid.",
-        "answer": "categorie"
-      },
-      {
-        "word": "eiland",
-        "definition": "een landoppervlak dat geheel door water omgeven is",
-        "sentence": "Jamaica is een eiland in de Caraïben.",
-        "answer": "eiland"
-      },
-      {
-        "word": "zwaarste",
-        "definition": "de meest intense of ernstige in zijn soort",
-        "sentence": "Dit was de zwaarste storm in de geschiedenis van het eiland.",
-        "answer": "zwaarste"
-      },
-      {
-        "word": "ooit",
-        "definition": "op enig moment in het verleden of de toekomst; ooit",
-        "sentence": "Hebben ze ooit zo'n zware storm meegemaakt?",
-        "answer": "ooit"
-      }
-    ],
-    "fillInBlanks": [
-      {
-        "sentence": "Hebben ze ooit zo'n zware storm meegemaakt?",
-        "answer": "ooit"
-      },
-      {
-        "sentence": "De orkaan werd ingedeeld in de hoogste categorie vanwege de windsnelheid.",
-        "answer": "categorie"
-      },
-      {
-        "sentence": "Dit was de zwaarste storm in de geschiedenis van het eiland.",
-        "answer": "zwaarste"
-      }
-    ]
+    "words": [],
+    "fillInBlanks": []
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het dat een orkaan van categorie vijf is?",
+      "question": "Wat is de belangrijkste zorg bij het testen van kernwapens volgens de tekst?",
       "options": [
-        "Zeer lichte storm",
-        "Storm met gemiddelde windsnelheid",
-        "Extreem zware storm met vernietigende kracht",
-        "Storm die alleen op zee voorkomt"
+        "Het kan internationale spanningen vergroten.",
+        "Het is duur en inefficiënt.",
+        "Het is goed voor de economie.",
+        "Het leidt tot onmiddellijke wereldvrede."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de impact van orkaan Melissa op Jamaica?",
+      "question": "Wat wordt er genoemd als een manier om internationale veiligheid te bevorderen?",
       "options": [
-        "Geen impact, de storm is nog niet gearriveerd",
-        "Alleen lichte regenval, geen echte schade",
-        "Massale stroomuitval: 530.000 huishoudens zonder elektriciteit",
-        "De orkaan veroorzaakt alleen wind, geen andere problemen"
+        "Het testen van meer kernwapens.",
+        "Het inzetten van diplomatieke onderhandelingen.",
+        "Het isoleren van landen van de wereldgemeenschap.",
+        "Het negeren van internationale verdragen."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe verhoudt orkaan Melissa zich tot eerdere stormen op Jamaica?",
+      "question": "Hoe wordt de tweede ambtstermijn van Trump in de titel omschreven?",
       "options": [
-        "Het is de lichtste storm ooit geregistreerd",
-        "Minder ernstig dan voorgaande orkanen, maar meer regen",
-        "De zwaarste storm in de recente geschiedenis van het eiland",
-        "Vergelijkbaar met andere orkanen, geen uitschieters"
+        "Als een periode van grote wereldwijde verandering.",
+        "Als een tijdperk van totale vrede.",
+        "Als een onbelangrijke historische gebeurtenis.",
+        "Als een voorbeeld van perfect leiderschap."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Orkaan Melissa is geclassificeerd als categorie vijf, wat de hoogst mogelijke is.",
+      "statement": "De titel suggereert dat Trump onmiddellijk na zijn aantreden kernwapens zal testen.",
       "isTrue": true
     },
     {
-      "statement": "Jamaica heeft nooit eerder een orkaan meegemaakt, dit is een primeur.",
+      "statement": "De samenvatting stelt dat Trumps tweede ambtstermijn alleen lokale veranderingen in de VS veroorzaakt.",
       "isTrue": false
     },
     {
-      "statement": "Naast Jamaica, wordt ook Cuba bedreigd door orkaan Melissa.",
+      "statement": "Internationale samenwerking is een thema in de tekst, maar wordt niet gepromoot als oplossing.",
       "isTrue": true
     }
   ]

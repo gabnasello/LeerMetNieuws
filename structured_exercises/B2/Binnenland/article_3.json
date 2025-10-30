@@ -1,106 +1,106 @@
 {
-  "id": 23,
+  "id": 22,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
+  "title": "Chef Defensie Vansina over drones boven Marche-en-Famenne: 'We gaan versneld dronedetectie en bewapening kopen'",
   "topicNumber": 1,
   "article": {
-    "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
-    "summary": "Het Hof van Cassatie verwerpt het cassatieberoep dat advocaat Hans Rieder en zijn ex-echtgenote hadden ingesteld tegen hun veroordeling wegens belastingontduiking door domiciliefraude."
+    "title": "Chef Defensie Vansina over drones boven Marche-en-Famenne: 'We gaan versneld dronedetectie en bewapening kopen'",
+    "summary": "Wie de drones bestuurde die dinsdagnacht opnieuw boven de legerbasis van Marche-en-Famenne vlogen, weet Defensie nog niet. Maar dat de bescherming tegen disruptieve droneactiviteit verscherpt moet worden, staat vast. 'Men test ons.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "domiciliefraude",
-        "definition": "Een vorm van fraude waarbij iemand zijn officiële woonplaats (domicilie) verkeerd voorstelt om belasting te ontduiken.",
-        "sentence": "Ze pleegden ___ door zich in te schrijven op een adres waar ze niet woonden.",
-        "answer": "domiciliefraude"
+        "word": "disruptieve",
+        "definition": "verstorend, veroorzaakt onderbrekingen",
+        "sentence": "De ___ activiteit van de drones verstoorde de communicatie.",
+        "answer": "disruptieve"
       },
       {
-        "word": "echtgenote",
-        "definition": "De vrouwelijke partner in een huwelijk; de echtgenote.",
-        "sentence": "Zijn ex-___ was ook bij de rechtszaak betrokken.",
-        "answer": "echtgenote"
+        "word": "test",
+        "definition": "testen, uitproberen, op de proef stellen",
+        "sentence": "De tegenstander ___ onze verdediging constant.",
+        "answer": "test"
       },
       {
-        "word": "cassatie",
-        "definition": "Het verzoek aan een hogere rechter om een eerdere uitspraak te herzien.",
-        "sentence": "Het Hof stelde de ___ in, zodat de zaak opnieuw kon worden bekeken.",
-        "answer": "cassatie"
+        "word": "detectie",
+        "definition": "het opsporen of ontdekken van iets",
+        "sentence": "Dankzij de nieuwe ___ -technologie werden de drones gesignaleerd.",
+        "answer": "detectie"
       },
       {
-        "word": "belastingontduiking",
-        "definition": "Het opzettelijk niet betalen van belastingen die je wettelijk moet betalen.",
-        "sentence": "Hij werd verdacht van ___ omdat hij zijn inkomsten niet had aangegeven.",
-        "answer": "belastingontduiking"
+        "word": "bestuurde",
+        "definition": "besturen, in de verleden tijd",
+        "sentence": "Wie de drone ___ , heeft een vlucht uitgevoerd.",
+        "answer": "bestuurde"
       },
       {
-        "word": "veroordeling",
-        "definition": "De uitspraak van een rechter waarbij iemand schuldig wordt bevonden.",
-        "sentence": "De ___ betekende dat hij de gevangenis in moest.",
-        "answer": "veroordeling"
+        "word": "basis",
+        "definition": "een plaats of locatie die als uitgangspunt dient",
+        "sentence": "De militaire ___ was gesloten voor het publiek.",
+        "answer": "basis"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het Hof stelde de ___ in, zodat de zaak opnieuw kon worden bekeken.",
-        "answer": "cassatie"
+        "sentence": "De tegenstander ___ onze verdediging constant.",
+        "answer": "test"
       },
       {
-        "sentence": "Ze pleegden ___ door zich in te schrijven op een adres waar ze niet woonden.",
-        "answer": "domiciliefraude"
+        "sentence": "Dankzij de nieuwe ___ -technologie werden de drones gesignaleerd.",
+        "answer": "detectie"
       },
       {
-        "sentence": "De ___ betekende dat hij de gevangenis in moest.",
-        "answer": "veroordeling"
+        "sentence": "De ___ activiteit van de drones verstoorde de communicatie.",
+        "answer": "disruptieve"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de rol van het Hof van Cassatie in deze zaak?",
+      "question": "Wat is het hoofdonderwerp van dit artikel?",
       "options": [
-        "Het beslist of de zaak opnieuw behandeld wordt.",
-        "Het bevestigt de uitspraak van de lagere rechtbank.",
-        "Het straft de verdachten met een boete.",
-        "Het treedt niet op in deze zaak."
+        "De toekomst van drone technologie",
+        "Versterking van defensie tegen drone-incidenten",
+        "Het gebruik van drones in de landbouw",
+        "Internationale samenwerking tegen cyberaanvallen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat houdt domiciliefraude in?",
+      "question": "Welke maatregel wordt genoemd als directe reactie op de drone-incidenten?",
       "options": [
-        "Het frauduleus aangeven van een onjuiste woonplaats.",
-        "Het niet declareren van zakelijke uitgaven.",
-        "Het stelen van iemands identiteitsgegevens.",
-        "Het openen van een bankrekening in het buitenland."
+        "Volledige sluiting van de basis",
+        "Samenwerking met internationale partners",
+        "Versnelde aankoop van detectie- en bewapeningssystemen",
+        "Geen, er wordt alleen onderzocht"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de betekenis van 'verwerpt' in juridische taal?",
+      "question": "Wat is de toon van de uitspraak 'Men test ons.'?",
       "options": [
-        "Niet goedkeuren, afwijzen.",
-        "Goedkeuren, accepteren.",
-        "Uitstellen voor later.",
-        "Negeren, geen aandacht aan schenken."
+        "Positief en optimistisch",
+        "Neutraal en informatief",
+        "Zorgelijk en serieus",
+        "Sarcastisch en licht"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De advocaat en zijn ex-echtgenote zijn beiden veroordeeld voor dezelfde misdaad.",
+      "statement": "Defensie weet nog niet wie de drones bestuurde tijdens de vlucht boven de basis.",
       "isTrue": true
     },
     {
-      "statement": "Het Hof van Cassatie heeft de eerdere veroordeling volledig ongedaan gemaakt.",
+      "statement": "De bescherming tegen drones wordt verzwakt na het incident.",
       "isTrue": false
     },
     {
-      "statement": "De uitspraak van het Hof van Cassatie is bindend en niet meer aanvechtbaar.",
-      "isTrue": true
+      "statement": "De basis van Marche-en-Famenne is een civiele luchthaven.",
+      "isTrue": false
     }
   ]
 }

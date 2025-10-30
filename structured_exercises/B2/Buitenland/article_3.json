@@ -3,98 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Jamaica maakt zich op voor orkaan Melissa",
+  "title": "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
   "topicNumber": 1,
   "article": {
-    "title": "Jamaica maakt zich op voor orkaan Melissa",
-    "summary": "Jamaana bereidt zich voor op de komst van orkaan Melissa, die de zwaarste storm van dit jaar kan worden. De orkaan kan toeslaan met stormvloed, zware regen en zeer harde wind. Alleen al op Haïti en de Dominicaanse Republiek vielen vier doden door de storm."
+    "title": "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
+    "summary": "De Standaard-fotograaf Gert Jochems geeft een inkijk in het leven van alledag in Oekraïens oorlogsgebied. Hij kon ter plekke volgen hoe de Azov-brigade gronddrones inzet voor de bevoorrading langs de levensgevaarlijke frontlijn."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "orkaan",
-        "definition": "een zeer zware storm met veel wind en regen",
-        "sentence": "De orkaan veroorzaakte veel schade aan gebouwen en bomen.",
-        "answer": "orkaan"
+        "word": "gronddrones",
+        "definition": "onbemande vliegtuigjes die over de grond gaan",
+        "sentence": "De Azov-brigade zet ___ in voor bevoorrading.",
+        "answer": "gronddrones"
       },
       {
-        "word": "stormvloed",
-        "definition": "een snel stijgende watermassa, vaak door een storm",
-        "sentence": "De stormvloed overspoelde de straten en huizen langs de kust.",
-        "answer": "stormvloed"
+        "word": "nieuwkomers",
+        "definition": "mensen of dingen die er nieuw bij zijn",
+        "sentence": "De drones zijn de ___ in dit soort oorlog.",
+        "answer": "nieuwkomers"
       },
       {
-        "word": "wind",
-        "definition": "bewegende lucht, vaak sterk tijdens een storm",
-        "sentence": "De harde wind blies dakpannen van de huizen en braakt takken af.",
-        "answer": "wind"
+        "word": "fotograaf",
+        "definition": "iemand die foto's maakt",
+        "sentence": "De ___ maakte indrukwekkende beelden in Oekraïne.",
+        "answer": "fotograaf"
       },
       {
-        "word": "doden",
-        "definition": "mensen die zijn overleden",
-        "sentence": "Helaas vielen er door de orkaan enkele doden in het gebied.",
-        "answer": "doden"
+        "word": "Oekraïne",
+        "definition": "land in Europa, nu in oorlog",
+        "sentence": "Hij reisde af naar ___ om te fotograferen.",
+        "answer": "Oekraïne"
+      },
+      {
+        "word": "onmisbare",
+        "definition": "niet te missen, heel belangrijk",
+        "sentence": "Gronddrones zijn ___ in dit conflict.",
+        "answer": "onmisbare"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De harde wind blies dakpannen van de huizen en braakt takken af.",
-        "answer": "wind"
+        "sentence": "De ___ maakte indrukwekkende beelden in Oekraïne.",
+        "answer": "fotograaf"
       },
       {
-        "sentence": "De orkaan veroorzaakte veel schade aan gebouwen en bomen.",
-        "answer": "orkaan"
+        "sentence": "Hij reisde af naar ___ om te fotograferen.",
+        "answer": "Oekraïne"
       },
       {
-        "sentence": "De stormvloed overspoelde de straten en huizen langs de kust.",
-        "answer": "stormvloed"
+        "sentence": "De Azov-brigade zet ___ in voor bevoorrading.",
+        "answer": "gronddrones"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de belangrijkste reden dat Jamaica zich voorbereidt op orkaan Melissa?",
+      "question": "Wat beschrijft deze tekst vooral?",
       "options": [
-        "Vanwege zware regenval",
-        "Omdat het een traditie is",
-        "Omdat de orkaan verwoestend kan zijn",
-        "Omdat er al doden zijn gevallen"
+        "Het leven van fotograaf Gert Jochems",
+        "De uitvinding van de gronddrone",
+        "Hoe gronddrones worden gebruikt in Oekraïne",
+        "De geschiedenis van Oekraïne"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Welk effect kan orkaan Melissa hebben op Jamaica?",
+      "question": "Waarom zijn gronddrones 'onmisbaar' volgens de tekst?",
       "options": [
-        "Alleen lichte regen",
-        "Geen effect, het is ver weg",
-        "Stormvloed en veel schade",
-        "Alleen harde wind, zonder problemen"
+        "Ze vervangen soldaten in gevechten",
+        "Ze zijn goedkoop en makkelijk te maken",
+        "Ze worden gebruikt voor bevoorrading in gevaarlijke gebieden",
+        "Ze kunnen ook in de lucht vliegen"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is een gevolg van orkaan Melissa in Haïti en de Dominicaanse Republiek?",
+      "question": "Wat is de rol van Gert Jochems volgens de tekst?",
       "options": [
-        "Vier doden zijn al gevallen",
-        "Er is geen effect, de orkaan is er niet",
-        "Alleen lichte regen, geen probleem",
-        "De orkaan is daar nog niet aangekomen"
+        "Hij is een Oekraïense soldaat",
+        "Hij is een fotograaf voor De Standaard",
+        "Hij is de uitvinder van de gronddrone",
+        "Hij leidt de Azov-brigade"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Orkaan Melissa is de eerste storm van het jaar in Jamaica.",
-      "isTrue": false
-    },
-    {
-      "statement": "Stormvloed is een van de manieren waarop de orkaan toeslaat.",
+      "statement": "Gert Jochems is een fotograaf die in Oekraïne werkt.",
       "isTrue": true
     },
     {
-      "statement": "Er zijn nog geen doden gevallen door orkaan Melissa.",
+      "statement": "Gronddrones worden alleen maar gebruikt voor spionage.",
       "isTrue": false
+    },
+    {
+      "statement": "De Azov-brigade maakt gebruik van gronddrones voor bevoorrading.",
+      "isTrue": true
     }
   ]
 }

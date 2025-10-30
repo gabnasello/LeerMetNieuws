@@ -3,103 +3,103 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Jacques Vandekerckhove, 92 jaar",
+  "title": "Verdachte grootschalige adoptiefraude na veertig jaar alsnog voor de rechter",
   "topicNumber": 1,
   "article": {
-    "title": "Jacques Vandekerckhove, 92 jaar",
-    "summary": "Geboren in 1933, overleden op 26/10/2025."
+    "title": "Verdachte grootschalige adoptiefraude na veertig jaar alsnog voor de rechter",
+    "summary": "Er komt alsnog een Belgisch strafproces in de zaak van de minstens vijftien geroofde ‘weeskinderen’ uit Guatemala. “Ik kwam naar België met een valse naam, zonder geboortedatum en met een biologische moeder die allicht niet eens weet dat ik nog leef.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Jacques",
-        "definition": "Voornaam van de persoon in de titel.",
-        "sentence": "___ Vandekerckhove was 92 jaar oud.",
-        "answer": "Jacques"
+        "word": "fraude",
+        "definition": "Opzettelijke misleiding of bedrog om een oneerlijk voordeel te krijgen.",
+        "sentence": "De politie onderzoekt de zaak op verdenking van ___.",
+        "answer": "fraude"
       },
       {
-        "word": "1933",
-        "definition": "Het jaar waarin hij geboren is.",
-        "sentence": "Hij werd geboren in het jaar ___.",
-        "answer": "1933"
+        "word": "rechter",
+        "definition": "De persoon die in een rechtzaak beslist wie gelijk heeft of welke straf er moet worden gegeven.",
+        "sentence": "De zaak werd voor de ___ gebracht.",
+        "answer": "rechter"
       },
       {
-        "word": "geboren",
-        "definition": "Geboren zijn, het begin van het leven.",
-        "sentence": "Hij werd ___ in 1933.",
-        "answer": "geboren"
+        "word": "geboortedatum",
+        "definition": "De datum waarop iemand is geboren.",
+        "sentence": "Zijn ___ is 12 maart 1985.",
+        "answer": "geboorte datum"
       },
       {
-        "word": "overleden",
-        "definition": "Overleden zijn, niet meer leven.",
-        "sentence": "Hij is ___ op 26/10/2025.",
-        "answer": "overleden"
+        "word": "wees",
+        "definition": "Een kind waarvan beide ouders zijn overleden.",
+        "sentence": "Hij werd een ___ op zevenjarige leeftijd.",
+        "answer": "wees"
       },
       {
-        "word": "92",
-        "definition": "Getal dat de leeftijd weergeeft.",
-        "sentence": "Hij was ___ jaar oud.",
-        "answer": "92"
+        "word": "valse",
+        "definition": "Niet echt of niet waar, vaak met de bedoeling om te misleiden.",
+        "sentence": "Hij gebruikte een ___ paspoort om het land binnen te komen.",
+        "answer": "valse"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij werd geboren in het jaar ___.",
-        "answer": "1933"
+        "sentence": "De politie onderzoekt de zaak op verdenking van ___.",
+        "answer": "fraude"
       },
       {
-        "sentence": "___ Vandekerckhove was 92 jaar oud.",
-        "answer": "Jacques"
+        "sentence": "Hij gebruikte een ___ paspoort om het land binnen te komen.",
+        "answer": "valse"
       },
       {
-        "sentence": "Hij is ___ op 26/10/2025.",
-        "answer": "overleden"
+        "sentence": "De zaak werd voor de ___ gebracht.",
+        "answer": "rechter"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat was de geboortedatum van Jacques Vandekerckhove?",
+      "question": "Waarom worden de kinderen in deze zaak 'weeskinderen' genoemd?",
       "options": [
-        "26/10/2025",
-        "1933",
-        "26/10/1933",
-        "1930"
+        "Omdat ze geen ouders meer hebben.",
+        "Omdat ze zijn achtergelaten door hun ouders.",
+        "Omdat ze illegaal zijn geadopteerd zonder dat hun biologische ouders het weten.",
+        "Omdat ze zijn verkocht door hun familie."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is een 'valse naam' in deze context?",
+      "options": [
+        "Een naam die iemand uit zichzelf kiest.",
+        "Een naam die niet iemands echte naam is, maar wordt gebruikt om autoriteiten te misleiden.",
+        "Een naam die alleen in officiële documenten wordt gebruikt.",
+        "Een naam die door de overheid is toegewezen."
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoe oud was Jacques Vandekerckhove toen hij overleed?",
+      "question": "Waarom wordt deze zaak nu, na veertig jaar, voor de rechter gebracht?",
       "options": [
-        "92 jaar",
-        "93 jaar",
-        "91 jaar",
-        "94 jaar"
+        "Omdat nieuwe technologieën oude zaken kunnen oplossen.",
+        "Omdat de slachtoffers nu pas durven te spreken.",
+        "Omdat de adoptieouders nu berecht worden voor fraude.",
+        "Omdat de biologische ouders nu pas de kinderen terugvinden."
       ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is de achternaam van Jacques?",
-      "options": [
-        "Vandekerckhove",
-        "Vandekerckhoven",
-        "Vandekerkhove",
-        "Vandekerkhove"
-      ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Jacques Vandekerckhove werd geboren in 1933.",
-      "isTrue": true
-    },
-    {
-      "statement": "Hij overleed op 26/10/2024.",
+      "statement": "De kinderen in deze zaak zijn allemaal wezen, wat betekent dat hun biologische ouders allebei zijn overleden.",
       "isTrue": false
     },
     {
-      "statement": "Hij was 92 jaar oud op het moment van overlijden.",
+      "statement": "De term 'weeskinderen' wordt hier gebruikt om aan te geven dat de kinderen van hun ouders zijn gescheiden, niet dat de ouders daadwerkelijk zijn overleden.",
+      "isTrue": true
+    },
+    {
+      "statement": "De zaak wordt nu voor de rechter gebracht omdat de adoptieouders destijds wisten dat de adoptie illegaal was.",
       "isTrue": true
     }
   ]

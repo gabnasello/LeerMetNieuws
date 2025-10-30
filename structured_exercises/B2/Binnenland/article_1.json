@@ -3,73 +3,104 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Jacques Vandekerckhove, 92 jaar",
+  "title": "Verdachte grootschalige adoptiefraude na veertig jaar alsnog voor de rechter",
   "topicNumber": 1,
   "article": {
-    "title": "Jacques Vandekerckhove, 92 jaar",
-    "summary": "Geboren in 1933, overleden op 26/10/2025."
+    "title": "Verdachte grootschalige adoptiefraude na veertig jaar alsnog voor de rechter",
+    "summary": "Er komt alsnog een Belgisch strafproces in de zaak van de minstens vijftien geroofde ‘weeskinderen’ uit Guatemala. “Ik kwam naar België met een valse naam, zonder geboortedatum en met een biologische moeder die allicht niet eens weet dat ik nog leef.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Geboren",
-        "definition": "Geboren zijn betekent dat je op een bepaalde datum ter wereld bent gekomen.",
-        "sentence": "Hij werd ___ in 1933.",
-        "answer": "geboren"
+        "word": "valse",
+        "definition": "niet echt of niet waar, vervalst",
+        "sentence": "Hij reisde met een valse paspoort naar België.",
+        "answer": "valse"
       },
       {
-        "word": "Overleden",
-        "definition": "Overleden zijn betekent dat iemand niet meer leeft.",
-        "sentence": "Hij is ___ op 26 oktober 2025.",
-        "answer": "overleden"
+        "word": "fraude",
+        "definition": "opzettelijke misleiding of bedrog om iets illegaals te bereiken",
+        "sentence": "Hij werd beschuldigd van fraude omdat hij de documenten had vervalst.",
+        "answer": "fraude"
+      },
+      {
+        "word": "weeskinderen",
+        "definition": "kinderen die beide ouders verloren hebben",
+        "sentence": "De weeskinderen werden opgevangen door een liefdadigheidsinstelling.",
+        "answer": "weeskinderen"
+      },
+      {
+        "word": "adoptie",
+        "definition": "zie eerste woord",
+        "sentence": "Adoptie kan een mooie manier zijn om een gezin te vormen, maar het moet legaal gebeuren.",
+        "answer": "adoptie"
+      },
+      {
+        "word": "geboortedatum",
+        "definition": "de datum waarop iemand geboren is",
+        "sentence": "Zonder een geboortedatum is het lastig om iemands leeftijd te bepalen.",
+        "answer": "geboortedatum"
       }
     ],
-    "fillInBlanks": []
+    "fillInBlanks": [
+      {
+        "sentence": "De weeskinderen werden opgevangen door een liefdadigheidsinstelling.",
+        "answer": "weeskinderen"
+      },
+      {
+        "sentence": "Hij reisde met een valse paspoort naar België.",
+        "answer": "valse"
+      },
+      {
+        "sentence": "Adoptie kan een mooie manier zijn om een gezin te vormen, maar het moet legaal gebeuren.",
+        "answer": "adoptie"
+      }
+    ]
   },
   "multipleChoice": [
     {
-      "question": "Wat was de geboortedatum van Jacques Vandekerckhove?",
+      "question": "Wat is een belangrijk gevolg van deze adoptiefraude voor de slachtoffers?",
       "options": [
-        "26 oktober 1933",
-        "1 januari 1933",
-        "26 oktober 1923",
-        "15 mei 1933"
+        "Ze krijgen veel cadeaus",
+        "Ze verliezen hun wettelijke identiteit",
+        "Ze worden meteen geadopteerd",
+        "Ze worden allemaal beroemd"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe oud was Jacques Vandekerckhove toen hij overleed?",
+      "question": "Waarom duurde het zo lang voordat deze zaak voor de rechter kwam?",
       "options": [
-        "92 jaar",
-        "93 jaar",
-        "91 jaar",
-        "89 jaar"
+        "Omdat niemand het wist",
+        "Omdat de documenten pas recent werden gevonden",
+        "Omdat de slachtoffers pas later durfden te spreken",
+        "Omdat de fraudeurs erg goed waren in verbergen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Waar woonde Jacques Vandekerckhove het grootste deel van zijn leven?",
+      "question": "Wat is de rol van de rechter in deze kwestie?",
       "options": [
-        "In België",
-        "In Nederland",
-        "In Frankrijk",
-        "In Duitsland"
+        "De rechter organiseert feestjes",
+        "De rechter beslist over de straf en gerechtigheid",
+        "De rechter is een van de slachtoffers",
+        "De rechter kent de waarheid niet"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Jacques Vandekerckhove overleed op 26 oktober 2025.",
-      "isTrue": true
-    },
-    {
-      "statement": "Jacques Vandekerckhove was 93 jaar oud bij zijn overlijden.",
+      "statement": "De adoptiefraude zaken worden nooit opgelost omdat alle documenten verloren zijn.",
       "isTrue": false
     },
     {
-      "statement": "Jacques Vandekerckhove werd geboren in 1933.",
+      "statement": "Slachtoffers van adoptiefraude kunnen hun ware identiteit volledig verliezen.",
       "isTrue": true
+    },
+    {
+      "statement": "De rechter in deze zaak heeft al een vonnis geveld voordat de zaak begon.",
+      "isTrue": false
     }
   ]
 }

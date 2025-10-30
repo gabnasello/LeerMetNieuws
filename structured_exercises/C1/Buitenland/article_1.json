@@ -3,103 +3,97 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
+  "title": "D66 en PVV beide op 26 zetels, verschil is minder dan 2.000 stemmen",
   "topicNumber": 1,
   "article": {
-    "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
-    "summary": "Volg hier de laatste ontwikkelingen in Gaza."
+    "title": "D66 en PVV beide op 26 zetels, verschil is minder dan 2.000 stemmen",
+    "summary": "Nederland trekt woensdag opnieuw naar de stembus voor de vervroegde parlementsverkiezingen na de val van het kabinet-Schoof. Volg hier de laatste updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Zeker",
-        "definition": "Met zekerheid, zonder twijfel.",
-        "sentence": "Er is ___ sprake van 26 doden na de luchtaanvallen.",
-        "answer": "Zeker"
+        "word": "stemmen",
+        "definition": "een stem uitbrengen, je keuze maken in een verkiezing",
+        "sentence": "In een democratie is het belangrijk dat burgers hun recht om te ___ kunnen uitoefenen.",
+        "answer": "stemmen"
       },
       {
-        "word": "doden",
-        "definition": "Personen die zijn overleden, slachtoffers.",
-        "sentence": "Er zijn 26 ___ geregistreerd na de aanval.",
-        "answer": "doden"
+        "word": "zetels",
+        "definition": "de zetels in een parlement, de posities die partijen winnen bij verkiezingen",
+        "sentence": "De partij won meer dan tien ___ in het nieuwe parlement.",
+        "answer": "zetels"
       },
       {
-        "word": "luchtaanvallen",
-        "definition": "Militaire aanvallen uitgevoerd vanuit de lucht, vaak met vliegtuigen of drones.",
-        "sentence": "De ___ veroorzaakten veel schade en slachtoffers.",
-        "answer": "luchtaanvallen"
+        "word": "verkiezingen",
+        "definition": "het proces waarbij mensen stemmen om hun vertegenwoordigers te kiezen",
+        "sentence": "Nederland houdt volgende maand algemene ___ om een nieuwe regering te kiezen.",
+        "answer": "verkiezingen"
       },
       {
-        "word": "Gaza",
-        "definition": "Een gebied aan de Middellandse Zee, onderdeel van de Palestijnse gebieden.",
-        "sentence": "De situatie in ___ is zeer gespannen.",
-        "answer": "Gaza"
-      },
-      {
-        "word": "ontwikkelingen",
-        "definition": "Veranderingen of vooruitgangen in een situatie.",
-        "sentence": "De laatste ___ wijzen op een escalatie van het conflict.",
-        "answer": "ontwikkelingen"
+        "word": "kabinet",
+        "definition": "de regering van een land, bestaande uit ministers en staatssecretarissen",
+        "sentence": "Het oude ___ viel vanwege onenigheid over de begroting.",
+        "answer": "kabinet"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De laatste ___ wijzen op een escalatie van het conflict.",
-        "answer": "ontwikkelingen"
+        "sentence": "Het oude ___ viel vanwege onenigheid over de begroting.",
+        "answer": "kabinet"
       },
       {
-        "sentence": "Er zijn 26 ___ geregistreerd na de aanval.",
-        "answer": "doden"
+        "sentence": "In een democratie is het belangrijk dat burgers hun recht om te ___ kunnen uitoefenen.",
+        "answer": "stemmen"
       },
       {
-        "sentence": "De situatie in ___ is zeer gespannen.",
-        "answer": "Gaza"
+        "sentence": "Nederland houdt volgende maand algemene ___ om een nieuwe regering te kiezen.",
+        "answer": "verkiezingen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat wordt bedoeld met 'luchtaanvallen' in deze context?",
+      "question": "Wat betekent het als een kabinet valt?",
       "options": [
-        "Bombardementen uitgevoerd door vliegtuigen",
-        "Een reeks onderhandelingen tussen landen",
-        "Een soort sportevenement in de lucht",
-        "Een type feestelijke vuurwerkshow"
+        "De regering treedt af en er zijn nieuwe verkiezingen nodig.",
+        "Het kabinet heeft een succesvolle hervorming doorgevoerd.",
+        "De koning heeft een nieuwe minister-president benoemd.",
+        "Het parlement is met vakantie gegaan."
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van de internationale gemeenschap volgens de tekst?",
+      "question": "Wat is een belangrijk kenmerk van een democratie?",
       "options": [
-        "Ze roept op tot een wapenstilstand.",
-        "Ze voert zelf de luchtaanvallen uit.",
-        "Ze ontkent dat er slachtoffers zijn.",
-        "Ze organiseert feestelijke activiteiten in Gaza."
+        "Vrije en eerlijke verkiezingen waar iedereen kan stemmen.",
+        "Een koning die alle beslissingen neemt.",
+        "Politieke partijen zijn verboden.",
+        "Alleen de rijkste burgers mogen stemmen."
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waar verwijst 'Gaza' concreet naar?",
+      "question": "Waarom is het belangrijk dat verkiezingen vrij zijn?",
       "options": [
-        "Een stad in de Palestijnse gebieden.",
-        "Een historische figuur uit de Griekse mythologie.",
-        "Een type wapen gebruikt in de oorlog.",
-        "Een vredesverdrag uit 2023."
+        "Zodat burgers hun echte voorkeur kunnen uiten zonder dwang.",
+        "Omdat het dan makkelijker is voor de regerende partij.",
+        "Omdat internationale waarnemers dan positiever rapporteren.",
+        "Omdat de verliezende partij dan minder protest heeft."
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De luchtaanvallen hebben geleid tot 26 doden, aldus de berichtgeving.",
-      "isTrue": true
-    },
-    {
-      "statement": "De tekst suggereert dat de situatie in Gaza zich aan het verbeteren is.",
+      "statement": "Nederland is een monarchie waar de koningin de meeste politieke macht heeft.",
       "isTrue": false
     },
     {
-      "statement": "Internationale organisaties spelen een rol in de aanloop naar deze gebeurtenissen.",
+      "statement": "Vrije verkiezingen zijn een essentieel onderdeel van een functionerende democratie.",
+      "isTrue": true
+    },
+    {
+      "statement": "Als een kabinet valt, betekent dat de regering aftreedt en er nieuwe verkiezingen komen.",
       "isTrue": true
     }
   ]

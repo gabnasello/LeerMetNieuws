@@ -1,15 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-10-29 04:31 UCT
+Nieuwsupdate: 2025-10-30 04:28 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief
-Link: https://www.standaard.be/binnenland/veroordeling-advocaat-hans-rieder-wegens-belastingontduiking-nu-definitief/100808963.html
-Datum: Tue, 28 Oct 2025 17:42:00 GMT
-Samenvatting: Het Hof van Cassatie verwerpt het cassatieberoep dat advocaat Hans Rieder en zijn ex-echtgenote hadden ingesteld tegen hun veroordeling wegens belastingontduiking door domiciliefraude.
+Titel: Chef Defensie Vansina over drones boven Marche-en-Famenne: “We gaan versneld dronedetectie en bewapening kopen”
+Link: https://www.standaard.be/buitenland/chef-defensie-vansina-over-drones-boven-marche-en-famenne-we-gaan-versneld-dronedetectie-en-bewapening-kopen/101089345.html
+Datum: Wed, 29 Oct 2025 16:21:00 GMT
+Samenvatting: Wie de drones bestuurde die dinsdagnacht opnieuw boven de legerbasis van Marche-en-Famenne vlogen, weet Defensie nog niet. Maar dat de bescherming tegen disruptieve droneactiviteit verscherpt moet worden, staat vast. “Men test ons.”
 Auteur: Geen auteur
-Categorie: Binnenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/hhkriq-proces-schild-vrienden/alternates/BASE_SIXTEEN_NINE/Proces%20Schild%20%20vrienden
-Premium: false
+Categorie: Buitenland
+Afbeelding: https://prod-img.standaard.be/public/nieuws/qonyps-frederikvansina-defensie/alternates/BASE_SIXTEEN_NINE/FrederikVansina_Defensie
+Premium: true
 ------------------------------------------------------------

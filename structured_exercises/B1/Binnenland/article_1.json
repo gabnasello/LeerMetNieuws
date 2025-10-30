@@ -3,72 +3,103 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Jacques Vandekerckhove, 92 jaar",
+  "title": "Verdachte in grootschalige adoptiefraude na veertig jaar voor de rechter",
   "topicNumber": 1,
   "article": {
-    "title": "Jacques Vandekerckhove, 92 jaar",
-    "summary": "Geboren in 1933, overleden op 26/10/2025."
+    "title": "Verdachte in grootschalige adoptiefraude na veertig jaar voor de rechter",
+    "summary": "Er komt een Belgisch strafproces over de adoptie van kinderen uit Guatemala. Deze kinderen werden gestolen en met valse papieren naar België gebracht. De biologische moeder weet mogelijk niet eens dat haar kind nog leeft."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "het begin van het leven, wanneer iemand wordt geboren",
-        "sentence": "Hij is ___ in 1933.",
-        "answer": "geboren"
+        "word": "moeder",
+        "definition": "de vrouwelijke ouder van een kind",
+        "sentence": "De biologische ___ wist misschien niet dat haar kind nog leefde.",
+        "answer": "moeder"
       },
       {
-        "word": "overleden",
-        "definition": "niet meer levend, gestorven",
-        "sentence": "Hij is ___ op 26 oktober 2025.",
-        "answer": "overleden"
+        "word": "Guatemala",
+        "definition": "een land in Midden-Amerika",
+        "sentence": "Veel kinderen werden illegaal geadopteerd uit ___.",
+        "answer": "Guatemala"
+      },
+      {
+        "word": "kinderen",
+        "definition": "jonge personen, meestal onder de 18 jaar",
+        "sentence": "De ___ werden illegaal geadopteerd uit Guatemala.",
+        "answer": "kinderen"
+      },
+      {
+        "word": "adoptie",
+        "definition": "het officieel aannemen van een kind dat niet van jezelf is",
+        "sentence": "De ___ van kinderen uit andere landen is soms illegaal.",
+        "answer": "adoptie"
+      },
+      {
+        "word": "valse",
+        "definition": "niet echt, nep of onecht",
+        "sentence": "Ze kregen ___ documenten om de adoptie te verbergen.",
+        "answer": "valse"
       }
     ],
-    "fillInBlanks": []
+    "fillInBlanks": [
+      {
+        "sentence": "De ___ werden illegaal geadopteerd uit Guatemala.",
+        "answer": "kinderen"
+      },
+      {
+        "sentence": "Veel kinderen werden illegaal geadopteerd uit ___.",
+        "answer": "Guatemala"
+      },
+      {
+        "sentence": "Ze kregen ___ documenten om de adoptie te verbergen.",
+        "answer": "valse"
+      }
+    ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Jacques Vandekerckhove geboren?",
+      "question": "Waar gaat deze rechtszaak over?",
       "options": [
-        "1920",
-        "1925",
-        "1933",
-        "1940"
+        "Een adoptie van een kind uit Nederland",
+        "Een adoptie van kinderen uit Guatemala",
+        "Een diefstal van kunstwerken",
+        "Een verkeersongeval in België"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe oud was Jacques Vandekerckhove toen hij overleed?",
+      "question": "Wat is een belangrijk gevolg van deze fraude?",
       "options": [
-        "88 jaar",
-        "90 jaar",
-        "92 jaar",
-        "95 jaar"
+        "Kinderen groeien op zonder te weten wie hun echte ouders zijn.",
+        "Kinderen krijgen te veel speelgoed.",
+        "Kinderen worden verliefd op hun adoptieouders.",
+        "Kinderen vergeten hun verleden."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Op welke datum overleed Jacques Vandekerckhove?",
+      "question": "Wat is waar over de biologische moeder?",
       "options": [
-        "26 oktober 2023",
-        "26 oktober 2024",
-        "26 oktober 2025",
-        "26 oktober 2026"
+        "Ze weet zeker dat haar kind nog leeft.",
+        "Ze heeft nooit geweten dat ze een kind had.",
+        "Ze heeft het kind zelf aan de adoptieouders gegeven.",
+        "Ze is de adoptiemoeder van het kind."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Jacques Vandekerckhove werd 93 jaar oud.",
-      "isTrue": false
-    },
-    {
-      "statement": "Jacques Vandekerckhove overleed in het jaar 2025.",
+      "statement": "De adoptiekinderen werden met valse papieren naar België gebracht.",
       "isTrue": true
     },
     {
-      "statement": "Jacques Vandekerckhove werd geboren in 1930.",
+      "statement": "De biologische moeder was altijd al op de hoogte van de adoptie.",
+      "isTrue": false
+    },
+    {
+      "statement": "Deze zaak speelt zich af in Guatemala alleen.",
       "isTrue": false
     }
   ]

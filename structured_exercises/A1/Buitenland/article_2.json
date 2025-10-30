@@ -1,93 +1,105 @@
 {
-  "id": 10,
+  "id": 11,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Orkaan op weg naar Cuba",
+  "title": "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
   "topicNumber": 1,
   "article": {
-    "title": "Orkaan op weg naar Cuba",
-    "summary": "Storm Melissa is een orkaan. Hij gaat naar Cuba. Hij is heel sterk."
+    "title": "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
+    "summary": "Donald Trump is opnieuw president van Amerika. Hij wil dat de VS weer kernwapens testen. Dit verandert veel in de wereld. Volg hier het laatste nieuws."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "orkaan",
-        "definition": "een hele sterke storm met veel wind",
-        "sentence": "Er komt een ___ naar Cuba.",
-        "answer": "orkaan"
+        "word": "VS",
+        "definition": "De Verenigde Staten, een land",
+        "sentence": "De ___ zijn een land in Amerika.",
+        "answer": "VS"
       },
       {
-        "word": "Cuba",
-        "definition": "een land in het Caribisch gebied",
-        "sentence": "De orkaan gaat naar ___.",
-        "answer": "Cuba"
+        "word": "testen",
+        "definition": "Uitproberen of controleren",
+        "sentence": "Hij wil een nieuw spel ___.",
+        "answer": "testen"
       },
       {
-        "word": "Melissa",
-        "definition": "de naam van de orkaan",
-        "sentence": "De orkaan heet ___.",
-        "answer": "Melissa"
+        "word": "gaan",
+        "definition": "Willen of van plan zijn",
+        "sentence": "Ze ___ een taart eten.",
+        "answer": "gaan"
+      },
+      {
+        "word": "kernwapens",
+        "definition": "Heel gevaarlijke bommen",
+        "sentence": "___ kunnen veel kapotmaken.",
+        "answer": "kernwapens"
+      },
+      {
+        "word": "weer",
+        "definition": "Opnieuw of nog een keer",
+        "sentence": "Hij komt ___ naar huis.",
+        "answer": "weer"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De orkaan heet ___.",
-        "answer": "Melissa"
+        "sentence": "De ___ zijn een land in Amerika.",
+        "answer": "VS"
       },
       {
-        "sentence": "De orkaan gaat naar ___.",
-        "answer": "Cuba"
+        "sentence": "Ze ___ een taart eten.",
+        "answer": "gaan"
       },
       {
-        "sentence": "Er komt een ___ naar Cuba.",
-        "answer": "orkaan"
+        "sentence": "Hij komt ___ naar huis.",
+        "answer": "weer"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar is orkaan Melissa?",
+      "question": "Wat betekent “testen” in deze context?",
       "options": [
-        "In Nederland",
-        "Op de maan",
-        "Op Jamaica",
-        "In een boek"
+        "Eten",
+        "Maken",
+        "Uitproberen",
+        "Bouwen"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is er met veel huishoudens gebeurd?",
+      "question": "Waar staat “VS” voor in deze tekst?",
       "options": [
-        "Ze hebben een nieuwe orkaan",
-        "Ze hebben geen stroom",
-        "Ze zijn verhuisd",
-        "Ze hebben veel gegeten"
+        "Verenigde Staten",
+        "Vlaamse Staten",
+        "Vrije Staten",
+        "Veilige Staten"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Hoe sterk is orkaan Melissa?",
+      "question": "Wat is de hoofdgedachte van het artikel?",
       "options": [
-        "Categorie 1",
-        "Categorie 2",
-        "Categorie 3",
-        "Categorie 5"
+        "Trump is president",
+        "Trump wil nieuwe dingen doen",
+        "Trump verandert niets",
+        "Trump reist de wereld over"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Orkaan Melissa is op Cuba.",
-      "isTrue": false
-    },
-    {
-      "statement": "Orkaan Melissa is op Jamaica geweest.",
+      "statement": "Trump is de president van Amerika.",
       "isTrue": true
     },
     {
-      "statement": "Orkaan Melissa is van categorie 5.",
+      "statement": "Trump wil geen kernwapens testen.",
+      "isTrue": false
+    },
+    {
+      "statement": "Het artikel zegt dat Trump veel verandert.",
       "isTrue": true
     }
   ]

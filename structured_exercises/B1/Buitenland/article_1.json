@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
+  "title": "D66 en PVD allebei op 26 zetels, verschil is minder dan 2.000 stemmen",
   "topicNumber": 1,
   "article": {
-    "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
-    "summary": "Volg hier de laatste ontwikkelingen in Gaza."
+    "title": "D66 en PVV allebei op 26 zetels, verschil is minder dan 2.000 stemmen",
+    "summary": "Nederland trekt woensdag opnieuw naar de stembus voor de vervroegde parlementsverkiezingen na de val van het kabinet-Schoof. Volg hier de laatste updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "lucht",
-        "definition": "De lucht die we inademen.",
-        "sentence": "De ___ is fris na de regen.",
-        "answer": "lucht"
+        "word": "kabinet",
+        "definition": "de regering van een land",
+        "sentence": "Het nieuwe ___ bestaat uit ministers en staatssecretarissen.",
+        "answer": "kabinet"
       },
       {
-        "word": "na",
-        "definition": "Na een bepaalde tijd of gebeurtenis.",
-        "sentence": "We gaan eten ___ het werk.",
-        "answer": "na"
+        "word": "stemmen",
+        "definition": "stemmen, hetzelfde woord als eerder, maar nu als zelfstandig naamwoord",
+        "sentence": "Er werden veel ___ uitgebracht bij de verkiezingen.",
+        "answer": "stemmen"
       },
       {
-        "word": "doden",
-        "definition": "Mensen die zijn overleden.",
-        "sentence": "Er vielen veel ___ bij het ongeluk.",
-        "answer": "doden"
+        "word": "zetels",
+        "definition": "plaatsen in het parlement voor een politieke partij",
+        "sentence": "Elke partij probeert zo veel mogelijk ___ te winnen.",
+        "answer": "zetels"
       },
       {
-        "word": "aanvallen",
-        "definition": "Een aanval of het aanvallen van iets of iemand.",
-        "sentence": "De soldaten zullen de vijand ___.",
-        "answer": "aanvallen"
+        "word": "vervroegde",
+        "definition": "vroeger dan gepland, eerder dan verwacht",
+        "sentence": "De verkiezingen waren ___ uitgeschreven.",
+        "answer": "vervroegde"
       },
       {
-        "word": "nieuwe",
-        "definition": "Iets dat net is begonnen of gemaakt.",
-        "sentence": "Ze kocht een ___ auto.",
-        "answer": "nieuwe"
+        "word": "verkiezingen",
+        "definition": "verkiezingen, wanneer mensen stemmen voor een nieuwe regering",
+        "sentence": "Er zijn binnenkort weer nieuwe ___ in Nederland.",
+        "answer": "verkiezingen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze kocht een ___ auto.",
-        "answer": "nieuwe"
+        "sentence": "Het nieuwe ___ bestaat uit ministers en staatssecretarissen.",
+        "answer": "kabinet"
       },
       {
-        "sentence": "De soldaten zullen de vijand ___.",
-        "answer": "aanvallen"
+        "sentence": "Er zijn binnenkort weer nieuwe ___ in Nederland.",
+        "answer": "verkiezingen"
       },
       {
-        "sentence": "Er vielen veel ___ bij het ongeluk.",
-        "answer": "doden"
+        "sentence": "De verkiezingen waren ___ uitgeschreven.",
+        "answer": "vervroegde"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'nieuwe' in deze context?",
+      "question": "Wat betekent 'vervroegde' in deze context?",
       "options": [
-        "Oude",
-        "Verse",
-        "Recent",
-        "Nieuwe"
-      ],
-      "correctAnswer": 4
-    },
-    {
-      "question": "Wat is de betekenis van 'volgen' in de samenvatting?",
-      "options": [
-        "Negeren",
-        "Volgen",
-        "Ontvangen",
-        "Aanvallen"
+        "te laat gepland",
+        "te vroeg gepland",
+        "niet gepland",
+        "onbekend"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar verwijst 'Gaza' naar?",
+      "question": "Wat is een 'zetel' in de politiek?",
       "options": [
-        "Een stad",
-        "Een land",
-        "Een regio",
-        "Een persoon"
+        "een stoel",
+        "een politieke functie",
+        "een mandaat in het parlement",
+        "een verkiezingsdistrict"
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "Waarom wordt er opnieuw gestemd in Nederland?",
+      "options": [
+        "Omdat het oude kabinet viel",
+        "Omdat er een feest was",
+        "Omdat de verkiezingen elk jaar zijn",
+        "Omdat er een nieuwe koning is"
+      ],
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Er vielen 26 doden na de luchtaanvallen in Gaza.",
-      "isTrue": true
-    },
-    {
-      "statement": "De aanvallen vonden plaats in Nederland.",
+      "statement": "Het kabinet-Schoof is nog steeds aan de macht.",
       "isTrue": false
     },
     {
-      "statement": "Men kan de ontwikkelingen in Gaza volgen via nieuwsberichten.",
+      "statement": "D66 en PVD hebben evenveel zetels.",
       "isTrue": true
+    },
+    {
+      "statement": "De verkiezingen waren oorspronkelijk gepland voor volgend jaar.",
+      "isTrue": false
     }
   ]
 }

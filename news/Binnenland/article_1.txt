@@ -1,15 +1,15 @@
 Artikel 1
-Nieuwsupdate: 2025-10-29 04:31 UCT
+Nieuwsupdate: 2025-10-30 04:28 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Jacques Vandekerckhove, 92 jaar
-Link: https://www.standaard.be/binnenland/inmemoriam/jacques-vandekerckhove-92-jaar/100883950.html
-Datum: Wed, 29 Oct 2025 04:09:31 GMT
-Samenvatting: Geboren in 1933, overleden op 26/10/2025.
+Titel: Verdachte grootschalige adoptiefraude na veertig jaar alsnog voor de rechter
+Link: https://www.standaard.be/binnenland/verdachte-grootschalige-adoptiefraude-na-veertig-jaar-alsnog-voor-de-rechter/101114867.html
+Datum: Wed, 29 Oct 2025 22:59:00 GMT
+Samenvatting: Er komt alsnog een Belgisch strafproces in de zaak van de minstens vijftien geroofde ‘weeskinderen’ uit Guatemala. “Ik kwam naar België met een valse naam, zonder geboortedatum en met een biologische moeder die allicht niet eens weet dat ik nog leef.”
 Auteur: Geen auteur
-Categorie: Inmemoriam
-Afbeelding: https://prod-img.standaard.be/public/binnenland/inmemoriam/9yy6xx-article-gate-img-607373-ds-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_607373-ds-inmemoriam_0
-Premium: false
+Categorie: Binnenland
+Afbeelding: https://prod-img.standaard.be/public/nieuws/uqmo4d-eva-langenus.jpeg/alternates/BASE_SIXTEEN_NINE/Eva_Langenus.jpeg
+Premium: true
 ------------------------------------------------------------

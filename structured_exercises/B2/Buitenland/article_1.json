@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
+  "title": "D66 en PVD allebei op 26 zetels, verschil is minder dan 2.000 stemmen",
   "topicNumber": 1,
   "article": {
-    "title": "Zeker 26 doden na nieuwe luchtaanvallen op Gaza",
-    "summary": "Volg hier de laatste ontwikkelingen in Gaza."
+    "title": "D66 en PVV allebei op 26 zetels, verschil is minder dan 2.000 stemmen",
+    "summary": "Nederland trekt woensdag opnieuw naar de stembus voor de vervroegde parlementsverkiezingen na de val van het kabinet-Schoof. Volg hier de laatste updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "luchtaanvallen",
-        "definition": "Luchtaanvallen zijn aanvallen vanuit de lucht, vaak met vliegtuigen.",
-        "sentence": "De ___ veroorzaakten veel schade.",
-        "answer": "luchtaanvallen"
+        "word": "trekt",
+        "definition": "gaat naar, reist naar",
+        "sentence": "Hij trekt naar het buitenland voor zijn vakantie.",
+        "answer": "trekt"
       },
       {
-        "word": "ontwikkelingen",
-        "definition": "Ontwikkelingen zijn veranderingen of nieuwe gebeurtenissen.",
-        "sentence": "De ___ in de technologie gaan snel.",
-        "answer": "ontwikkelingen"
+        "word": "opnieuw",
+        "definition": "nog een keer, opnieuw",
+        "sentence": "Hij probeerde het opnieuw, na zijn eerste mislukking.",
+        "answer": "opnieuw"
       },
       {
-        "word": "Zeker",
-        "definition": "Zeker betekent zonder twijfel, vast.",
-        "sentence": "Het is ___ dat de vergadering doorgaat.",
-        "answer": "zeker"
+        "word": "val",
+        "definition": "een manier om te vallen, of het einde van iets",
+        "sentence": "De val van de regering leidde tot nieuwe verkiezingen.",
+        "answer": "val"
       },
       {
-        "word": "Volg",
-        "definition": "Volg betekent hier in de gaten houden of bijhouden.",
-        "sentence": "___ je het nieuws over de ontwikkelingen?",
-        "answer": "Volg"
+        "word": "verkiezingen",
+        "definition": "een stemming waarin mensen stemmen voor hun leiders",
+        "sentence": "De verkiezingen zijn gepland voor volgende maand.",
+        "answer": "verkiezingen"
       },
       {
-        "word": "Gaza",
-        "definition": "Gaza is een gebied in het Midden-Oosten, bekend om conflicten.",
-        "sentence": "___ wordt vaak genoemd in het nieuws.",
-        "answer": "Gaza"
+        "word": "stemmen",
+        "definition": "het geven van je stem, kiezen",
+        "sentence": "Alle burgers mogen stemmen bij de verkiezingen.",
+        "answer": "stemmen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ wordt vaak genoemd in het nieuws.",
-        "answer": "Gaza"
+        "sentence": "De val van de regering leidde tot nieuwe verkiezingen.",
+        "answer": "val"
       },
       {
-        "sentence": "De ___ veroorzaakten veel schade.",
-        "answer": "luchtaanvallen"
+        "sentence": "Alle burgers mogen stemmen bij de verkiezingen.",
+        "answer": "stemmen"
       },
       {
-        "sentence": "Het is ___ dat de vergadering doorgaat.",
-        "answer": "zeker"
+        "sentence": "Hij trekt naar het buitenland voor zijn vakantie.",
+        "answer": "trekt"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'luchtaanvallen' in deze context?",
+      "question": "Waarom zijn er nieuwe verkiezingen in Nederland?",
       "options": [
-        "Aanvallen vanuit de lucht",
-        "Vluchten die worden aangevallen",
-        "Een soort game",
-        "Een feestelijke gebeurtenis"
+        "Omdat het voetbalteam verloor",
+        "Omdat de koning aftrad",
+        "Omdat het kabinet viel",
+        "Omdat het een jaarlijkse traditie is"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat wordt er bedoeld met 'Volg hier de laatste ontwikkelingen'?",
+      "question": "Wat betekent 'trekt' in deze context?",
       "options": [
-        "Volg hier de nieuwste updates",
-        "Volg hier de oude gebeurtenissen",
-        "Negeer de gebeurtenissen",
-        "Lees alleen de titel"
+        "trekt aan",
+        "gaat naar",
+        "blijft thuis",
+        "kiest een andere optie"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Waar verwijst 'Gaza' naar in deze tekst?",
+      "question": "Wat is het verschil tussen D66 en PVV in deze verkiezingen?",
       "options": [
-        "Een stad in conflict",
-        "Een feestlocatie",
-        "Een nieuwe technologie",
-        "Een soort voedsel"
+        "D66 heeft meer stemmen",
+        "PVV heeft meer stemmen",
+        "Het verschil is klein",
+        "Ze zijn even groot"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De luchtaanvallen vonden plaats in Gaza.",
+      "statement": "Nederland heeft nieuwe verkiezingen omdat de regering is gevallen.",
       "isTrue": true
     },
     {
-      "statement": "Er zijn geen doden gemeld na deze aanvallen.",
+      "statement": "D66 en PVV hebben exact hetzelfde aantal zetels.",
       "isTrue": false
     },
     {
-      "statement": "De ontwikkelingen in Gaza zijn positief.",
+      "statement": "Het verschil in stemmen tussen D66 en PVV is meer dan 2.000.",
       "isTrue": false
     }
   ]

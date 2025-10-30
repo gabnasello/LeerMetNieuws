@@ -1,106 +1,106 @@
 {
-  "id": 11,
+  "id": 12,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
+  "title": "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
   "topicNumber": 1,
   "article": {
-    "title": "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
-    "summary": "Storm Melissa is als een orkaan van categorie vijf aan land gekomen in Jamaica. Voor het Caraïbisch eiland is het de zwaarste storm ooit."
+    "title": "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
+    "summary": "Donald Trump is opnieuw president van Amerika. Hij zegt dat Amerika weer kernwapens gaat testen. Veel landen zijn bezorgd. Volg hier het laatste nieuws."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Caraïbisch",
-        "definition": "van of over het Caribisch gebied, een gebied met veel eilanden",
-        "sentence": "Jamaica is een land in het Caraïbisch gebied.",
-        "answer": "Caraïbisch"
+        "word": "Amerika",
+        "definition": "Een land, ook Verenigde Staten genoemd",
+        "sentence": "Amerika is een groot land.",
+        "answer": "Amerika"
       },
       {
-        "word": "orkaan",
-        "definition": "een hele zware storm met veel wind",
-        "sentence": "De orkaan veroorzaakte veel schade.",
-        "answer": "orkaan"
+        "word": "landen",
+        "definition": "Landen zoals Duitsland of Frankrijk",
+        "sentence": "Veel landen zijn bezorgd.",
+        "answer": "landen"
       },
       {
-        "word": "categorie",
-        "definition": "een soort groep of type",
-        "sentence": "De orkaan was van categorie vijf, de hoogste.",
-        "answer": "categorie"
+        "word": "Trump",
+        "definition": "De achternaam van de president",
+        "sentence": "Trump is de president van Amerika.",
+        "answer": "Trump"
       },
       {
-        "word": "storm",
-        "definition": "heel slecht weer met veel wind en regen",
-        "sentence": "De storm blies bomen omver.",
-        "answer": "storm"
+        "word": "bezorgd",
+        "definition": "Je maakt je zorgen over iets",
+        "sentence": "Ze zijn bezorgd over de test.",
+        "answer": "bezorgd"
       },
       {
-        "word": "zonder",
-        "definition": "niet met, niet in bezit van",
-        "sentence": "Veel huizen zijn zonder stroom na de storm.",
-        "answer": "zonder"
+        "word": "kernwapens",
+        "definition": "Heel gevaarlijke bommen",
+        "sentence": "Kernwapens kunnen veel schade doen.",
+        "answer": "kernwapens"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Jamaica is een land in het Caraïbisch gebied.",
-        "answer": "Caraïbisch"
+        "sentence": "Trump is de president van Amerika.",
+        "answer": "Trump"
       },
       {
-        "sentence": "Veel huizen zijn zonder stroom na de storm.",
-        "answer": "zonder"
+        "sentence": "Ze zijn bezorgd over de test.",
+        "answer": "bezorgd"
       },
       {
-        "sentence": "De orkaan was van categorie vijf, de hoogste.",
-        "answer": "categorie"
+        "sentence": "Kernwapens kunnen veel schade doen.",
+        "answer": "kernwapens"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een orkaan?",
+      "question": "Wat betekent 'testen' in deze tekst?",
       "options": [
-        "Een soort dier",
-        "Een soort feest",
-        "Een hele zware storm",
-        "Een soort auto"
+        "Iets nieuws maken",
+        "Iets uitproberen of controleren",
+        "Iets kapotmaken",
+        "Iets vergeten"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Waar gaat de tekst over?",
+      "options": [
+        "Over reizen naar andere landen",
+        "Over de verkiezingen in Amerika",
+        "Over kernwapens en testen",
+        "Over de president van China"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat betekent 'zonder stroom'?",
+      "question": "Waarom zijn andere landen bezorgd?",
       "options": [
-        "Er is geen elektriciteit",
-        "Er is veel wind",
-        "Er is veel water",
-        "Er is geen probleem"
+        "Omdat ze niet van Trump houden",
+        "Omdat kernwapens gevaarlijk zijn",
+        "Omdat ze meer geld willen",
+        "Omdat de test plaatsvindt in hun land"
       ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Waar is Jamaica?",
-      "options": [
-        "In Azië",
-        "In Europa",
-        "In het Caribisch gebied",
-        "In de woestijn"
-      ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Orkaan Melissa is een lichte storm.",
-      "isTrue": false
-    },
-    {
-      "statement": "Jamaica is een eiland in de Caribische Zee.",
+      "statement": "Trump is de president van Amerika.",
       "isTrue": true
     },
     {
-      "statement": "Er zijn geen problemen met elektriciteit na de storm.",
+      "statement": "Kernwapens zijn niet gevaarlijk.",
       "isTrue": false
+    },
+    {
+      "statement": "Andere landen zijn bezorgd over de tests.",
+      "isTrue": true
     }
   ]
 }

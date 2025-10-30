@@ -3,91 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Inwoners Al-Fasher worden uitgemoord: in Noord-Soedan ontrolt zich het ergste scenario",
+  "title": "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
   "topicNumber": 1,
   "article": {
-    "title": "Inwoners Al-Fasher worden uitgemoord: in Noord-Soedan ontrolt zich het ergste scenario",
-    "summary": "Uit getuigenissen, video’s en satellietbeelden blijkt dat rebellen bij de verovering van de Soedanese stad Al-Fasher volledige wijken platbranden en de inwoners uitmoorden. Burgers die proberen te vluchten, worden doodgeschoten of aan bomen opgehangen."
+    "title": "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
+    "summary": "De Standaard-fotograaf Gert Jochems geeft een inkijk in het leven van alledag in Oekraïens oorlogsgebied. Hij kon ter plekke volgen hoe de Azov-brigade gronddrones inzet voor de bevoorrading langs de levensgevaarlijke frontlijn."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "inwoners",
-        "definition": "mensen die in een stad of land wonen",
-        "sentence": "De inwoners van het dorp waren erg vriendelijk.",
-        "answer": "inwoners"
+        "word": "front",
+        "definition": "gebied waar gevochten wordt",
+        "sentence": "Hij reisde naar het ___ om te filmen.",
+        "answer": "front"
       },
       {
-        "word": "getuigenissen",
-        "definition": "officiële verklaringen van wat iemand heeft gezien of meegemaakt",
-        "sentence": "De politie nam verschillende ___ op na het incident.",
-        "answer": "getuigenissen"
+        "word": "gronddrones",
+        "definition": "vliegende machines die op de grond werken",
+        "sentence": "De ___ brengen medicijnen naar soldaten.",
+        "answer": "gronddrones"
       },
       {
-        "word": "wijken",
-        "definition": "delen van een stad, vaak met hun eigen karakter",
-        "sentence": "De oude ___ van de stad zijn vol met geschiedenis.",
-        "answer": "wijken"
+        "word": "frontlijn",
+        "definition": "lijn waar de twee kanten elkaar ontmoeten",
+        "sentence": "De ___ verplaatst zich dagelijks.",
+        "answer": "frontlijn"
+      },
+      {
+        "word": "fotograaf",
+        "definition": "iemand die foto's maakt",
+        "sentence": "De ___ maakt foto's van de oorlog.",
+        "answer": "fotograaf"
+      },
+      {
+        "word": "oorlogsgebied",
+        "definition": "plaats waar oorlog is",
+        "sentence": "Hij reisde naar het ___ om te helpen.",
+        "answer": "oorlogsgebied"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De oude ___ van de stad zijn vol met geschiedenis.",
-        "answer": "wijken"
+        "sentence": "Hij reisde naar het ___ om te helpen.",
+        "answer": "oorlogsgebied"
       },
       {
-        "sentence": "De inwoners van het dorp waren erg vriendelijk.",
-        "answer": "inwoners"
+        "sentence": "De ___ brengen medicijnen naar soldaten.",
+        "answer": "gronddrones"
       },
       {
-        "sentence": "De politie nam verschillende ___ op na het incident.",
-        "answer": "getuigenissen"
+        "sentence": "De ___ verplaatst zich dagelijks.",
+        "answer": "frontlijn"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdstad van Nederland?",
+      "question": "Wat betekent 'onmisbaar' in de tekst?",
       "options": [
-        "Parijs",
-        "Londen",
-        "Amsterdam",
-        "Brussel"
+        "niet te missen",
+        "heel erg nodig",
+        "onzichtbaar",
+        "onbereikbaar"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe noem je iemand die in een bepaald land woont?",
+      "question": "Waar gebruikt men gronddrones volgens de tekst?",
       "options": [
-        "Inwoner",
-        "Bewoner",
-        "Bewoner",
-        "Inwoner"
+        "in vredestijd",
+        "in oorlogsgebieden",
+        "alleen in laboratoria",
+        "voor filmopnames"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'verwoesten'?",
+      "question": "Wat is de rol van de fotograaf in de tekst?",
       "options": [
-        "Opbouwen",
-        "Verwoesten",
-        "Herstellen",
-        "Negeren"
+        "hij vecht mee",
+        "hij maakt foto's",
+        "hij leidt de drones",
+        "hij behandelt gewonden"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Amsterdam is de hoofdstad van Nederland.",
+      "statement": "Gert Jochems is een fotograaf voor De Standaard.",
       "isTrue": true
     },
     {
-      "statement": "De Eiffeltoren staat in Londen.",
+      "statement": "Gronddrones worden gebruikt om te bouwen.",
       "isTrue": false
     },
     {
-      "statement": "Vluchten betekent om snel weg te gaan van gevaar.",
+      "statement": "De Azov-brigade gebruikt drones voor bevoorrading.",
       "isTrue": true
     }
   ]

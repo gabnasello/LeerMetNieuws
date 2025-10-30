@@ -1,105 +1,105 @@
 {
-  "id": 25,
+  "id": 24,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Adoptie uit buitenland werd gepauzeerd, maar nu staan er toch weer 35 gezinnen in de wachtrij",
+  "title": "Lawaai in Gent",
   "topicNumber": 1,
   "article": {
-    "title": "Adoptie uit buitenland werd gepauzeerd, maar nu staan er toch weer 35 gezinnen in de wachtrij",
-    "summary": "Veertig gezinnen in Vlaanderen zijn bezig met een traject voor buitenlandse adoptie, 35 andere werd beloofd dat ze er nog mogen instappen. En dat terwijl er al sinds eind 2023 een 'adoptiepauze' is afgekondigd. 'De boodschap is niet helder en dat is lastig', meent parlementslid Freya Perdaens (N-VA)."
+    "title": "Lawaai in Gent",
+    "summary": "In Gent is er veel lawaai van trams. Bewoners kunnen niet slapen. De rechter wil dat de tram minder lawaai maakt."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Vlaanderen",
-        "definition": "Een gebied in België waar ze Nederlands spreken",
-        "sentence": "___ is een deel van België.",
-        "answer": "Vlaanderen"
+        "word": "Lawaai",
+        "definition": "veel geluid",
+        "sentence": "Ik houd niet van ___.",
+        "answer": "lawaai"
       },
       {
-        "word": "adoptie",
-        "definition": "Een kind krijgen dat niet van jezelf is",
-        "sentence": "___ is een manier om een kind te krijgen.",
-        "answer": "adoptie"
+        "word": "trams",
+        "definition": "een soort trein in de stad",
+        "sentence": "De ___ rijden op straat.",
+        "answer": "trams"
       },
       {
-        "word": "gepauzeerd",
-        "definition": "Even gestopt, tijdelijk niet actief",
-        "sentence": "Het feest was ___, maar gaat nu verder.",
-        "answer": "gepauzeerd"
+        "word": "bewoners",
+        "definition": "mensen die in een huis of stad wonen",
+        "sentence": "De ___ van de straat zijn thuis.",
+        "answer": "bewoners"
       },
       {
-        "word": "wachtrij",
-        "definition": "Een rij of lijst van mensen die wachten",
-        "sentence": "Er is een lange ___ voor de attractie.",
-        "answer": "wachtrij"
+        "word": "rechter",
+        "definition": "iemand die in de rechtbank werkt",
+        "sentence": "De ___ zegt dat het lawaai moet stoppen.",
+        "answer": "rechter"
       },
       {
-        "word": "parlementslid",
-        "definition": "Iemand die in het parlement zit en wetten maakt",
-        "sentence": "Een ___ praat over nieuwe wetten.",
-        "answer": "parlementslid"
+        "word": "lawaai",
+        "definition": "veel geluid",
+        "sentence": "Er is te veel ___ in de stad.",
+        "answer": "lawaai"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is een deel van België.",
-        "answer": "Vlaanderen"
+        "sentence": "Ik houd niet van ___.",
+        "answer": "lawaai"
       },
       {
-        "sentence": "Het feest was ___, maar gaat nu verder.",
-        "answer": "gepauzeerd"
+        "sentence": "De ___ zegt dat het lawaai moet stoppen.",
+        "answer": "rechter"
       },
       {
-        "sentence": "Er is een lange ___ voor de attractie.",
-        "answer": "wachtrij"
+        "sentence": "De ___ rijden op straat.",
+        "answer": "trams"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'gepauzeerd' in deze tekst?",
+      "question": "Waarom zijn de bewoners van Gent wakker?",
       "options": [
-        "Gestopt",
-        "Gepauzeerd",
-        "Vergeten",
-        "Verloren"
+        "Omdat er veel lawaai is van trams",
+        "Omdat ze naar een feest gaan",
+        "Omdat ze veel werken",
+        "Omdat ze ziek zijn"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van een parlementslid in deze tekst?",
+      "question": "Wat wil de rechter?",
       "options": [
-        "Kinderen adopteren",
-        "Wetten maken",
-        "In het parlement zitten",
-        "Over adoptie praten"
+        "Dat de tram minder lawaai maakt",
+        "Dat de tram sneller gaat rijden",
+        "Dat de bewoners verhuizen",
+        "Dat de tram stopt met rijden"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 1
     },
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Waar wonen de bewoners?",
       "options": [
-        "Een sportevenement",
-        "Kinderen die adopteren",
-        "Een nieuwe wet",
-        "Vakantie in het buitenland"
+        "In Gent",
+        "In Amsterdam",
+        "In een groot huis",
+        "Op een boerderij"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Adoptiepauze betekent dat adoptie helemaal stopt.",
-      "isTrue": false
-    },
-    {
-      "statement": "Sommige gezinnen wachten op adoptie.",
+      "statement": "De tram maakt veel lawaai.",
       "isTrue": true
     },
     {
-      "statement": "Alleen mensen in Vlaanderen kunnen adopteren.",
+      "statement": "De rechter wil dat de tram meer lawaai maakt.",
+      "isTrue": false
+    },
+    {
+      "statement": "De bewoners kunnen goed slapen door het lawaai.",
       "isTrue": false
     }
   ]

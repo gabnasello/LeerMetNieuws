@@ -3,72 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Geweld in Al-Fasher",
+  "title": "Fotograaf in Oekraïne",
   "topicNumber": 1,
   "article": {
-    "title": "Geweld in Al-Fasher",
-    "summary": "Er is veel geweld in Al-Fasher. Mensen worden gedood. Huizen branden af."
+    "title": "Fotograaf in Oekraïne",
+    "summary": "Een fotograaf laat het leven zien in Oekraïne. Drones brengen eten en spullen naar soldaten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Geweld",
-        "definition": "iets met veel pijn en schade",
-        "sentence": "Er is veel ___ in de stad.",
-        "answer": "geweld"
+        "word": "eten",
+        "definition": "wat je eet, zoals brood of fruit",
+        "sentence": "De drone brengt ___ naar de soldaten.",
+        "answer": "eten"
       },
       {
-        "word": "Mensen",
-        "definition": "mannen, vrouwen en kinderen",
-        "sentence": "De ___ in de stad zijn bang.",
-        "answer": "mensen"
+        "word": "soldaten",
+        "definition": "mensen die vechten in een leger",
+        "sentence": "De ___ vechten in Oekraïne.",
+        "answer": "soldaten"
+      },
+      {
+        "word": "spullen",
+        "definition": "alle dingen die je hebt, zoals kleren of gereedschap",
+        "sentence": "De drone brengt ___ naar de soldaten.",
+        "answer": "spullen"
+      },
+      {
+        "word": "Oekraïne",
+        "definition": "een land in Europa",
+        "sentence": "Hij reist naar ___ voor zijn werk.",
+        "answer": "Oekraïne"
+      },
+      {
+        "word": "fotograaf",
+        "definition": "iemand die foto's maakt",
+        "sentence": "De ___ maakt een foto van de drone.",
+        "answer": "fotograaf"
       }
     ],
-    "fillInBlanks": []
+    "fillInBlanks": [
+      {
+        "sentence": "Hij reist naar ___ voor zijn werk.",
+        "answer": "Oekraïne"
+      },
+      {
+        "sentence": "De ___ vechten in Oekraïne.",
+        "answer": "soldaten"
+      },
+      {
+        "sentence": "De drone brengt ___ naar de soldaten.",
+        "answer": "eten"
+      }
+    ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Wat laat de fotograaf zien in Oekraïne?",
       "options": [
-        "Een feest in de stad",
-        "Geweld en brand in de stad",
-        "Een veilige plek om te spelen",
-        "Een nieuwe school"
+        "Het leven van soldaten",
+        "De stad waar hij woont",
+        "Een nieuwe drone",
+        "Zijn eigen familie"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat doen de drones in de tekst?",
+      "options": [
+        "Ze vechten in de oorlog.",
+        "Ze brengen eten en spullen.",
+        "Ze maken foto's van soldaten.",
+        "Ze wonen in Oekraïne."
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar zijn de huizen van?",
+      "question": "Waar is de fotograaf?",
       "options": [
-        "Van ijs",
-        "Van steen",
-        "Van hout",
-        "Van water"
+        "In Nederland",
+        "In Oekraïne",
+        "In zijn huis",
+        "Op school"
       ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat is veilig?",
-      "options": [
-        "De stad",
-        "De school",
-        "Het huis",
-        "De boom"
-      ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De stad is veilig.",
-      "isTrue": false
-    },
-    {
-      "statement": "Er is veel geweld in de stad.",
+      "statement": "De fotograaf is in Oekraïne.",
       "isTrue": true
     },
     {
-      "statement": "Huis is een plek om te wonen.",
+      "statement": "De drones vechten in de oorlog.",
+      "isTrue": false
+    },
+    {
+      "statement": "De fotograaf laat het leven in Oekraïne zien.",
       "isTrue": true
     }
   ]

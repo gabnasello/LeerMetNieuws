@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Geweld in Al-Fasher, Soedan",
+  "title": "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
   "topicNumber": 1,
   "article": {
-    "title": "Geweld in Al-Fasher, Soedan",
-    "summary": "In Al-Fasher, Soedan is veel geweld. Rebellen vernielen huizen en doden mensen. Mensen die vluchten worden ook gedood. Dit is erg en moet stoppen."
+    "title": "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
+    "summary": "De Standaard-fotograaf Gert Jochems geeft een inkijk in het leven van alledag in Oekraïens oorlogsgebied. Hij kon ter plekke volgen hoe de Azov-brigade gronddrones inzet voor de bevoorrading langs de levensgevaarlijke frontlijn."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geweld",
-        "definition": "iets met veel kracht of pijn doen",
-        "sentence": "___ maakt alles kapot en pijnlijk.",
-        "answer": "geweld"
+        "word": "gronddrones",
+        "definition": "kleine vliegende machines die dingen kunnen dragen",
+        "sentence": "De soldaten gebruiken ___ om medicijnen te sturen.",
+        "answer": "gronddrones"
       },
       {
-        "word": "rebellen",
-        "definition": "mensen die tegen een groep vechten",
-        "sentence": "De ___ zijn degenen die aanvallen in Soedan.",
-        "answer": "rebellen"
+        "word": "nieuwkomers",
+        "definition": "mensen of dingen die nieuw zijn in een gebied",
+        "sentence": "De ___ in de klas komen uit verschillende landen.",
+        "answer": "nieuwkomers"
       },
       {
-        "word": "huizen",
-        "definition": "plaatsen waar mensen wonen",
-        "sentence": "Hun ___ waren kapot na het gevecht.",
-        "answer": "huizen"
+        "word": "oorlogsgebied",
+        "definition": "een plek waar oorlog is",
+        "sentence": "Mensen moeten vluchten uit een ___.",
+        "answer": "oorlogsgebied"
       },
       {
-        "word": "vluchten",
-        "definition": "weggaan van een gevaarlijke plek",
-        "sentence": "Mensen willen ___ uit de stad tijdens de oorlog.",
-        "answer": "vluchten"
+        "word": "onmisbare",
+        "definition": "heel erg nodig, je kunt niet zonder",
+        "sentence": "Water is ___ voor mensen en dieren.",
+        "answer": "onmisbare"
       },
       {
-        "word": "mensen",
-        "definition": "alle personen, mannen, vrouwen en kinderen",
-        "sentence": "Alle ___ moeten veilig zijn, ook in Soedan.",
-        "answer": "mensen"
+        "word": "levensgevaarlijke",
+        "definition": "gevaarlijk voor je leven",
+        "sentence": "Het is ___ om alleen de oceaan over te steken.",
+        "answer": "levensgevaarlijke"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Mensen willen ___ uit de stad tijdens de oorlog.",
-        "answer": "vluchten"
+        "sentence": "Mensen moeten vluchten uit een ___.",
+        "answer": "oorlogsgebied"
       },
       {
-        "sentence": "Hun ___ waren kapot na het gevecht.",
-        "answer": "huizen"
+        "sentence": "De ___ in de klas komen uit verschillende landen.",
+        "answer": "nieuwkomers"
       },
       {
-        "sentence": "De ___ zijn degenen die aanvallen in Soedan.",
-        "answer": "rebellen"
+        "sentence": "Water is ___ voor mensen en dieren.",
+        "answer": "onmisbare"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Waarover gaat de tekst vooral?",
       "options": [
-        "Een feest in Soedan",
-        "Een sportwedstrijd",
-        "Een oorlog in Soedan",
-        "Een nieuwe school"
+        "Over fotografie in de natuur",
+        "Over oorlog in Oekraïne en de inzet van drones",
+        "Over reizen naar andere landen",
+        "Over de geschiedenis van drones"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat zijn 'gronddrones' in deze tekst?",
+      "options": [
+        "Een soort vliegtuig",
+        "Een type soldaat",
+        "Kleine vliegende machines die dingen kunnen dragen",
+        "Een soort camera"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat doen de rebellen?",
+      "question": "Waarom zijn de drones belangrijk in de tekst?",
       "options": [
-        "Ze helpen mensen",
-        "Ze maken muziek",
-        "Ze vernielen huizen en doden mensen",
-        "Ze bouwen nieuwe huizen"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat gebeurt er met mensen die vluchten?",
-      "options": [
-        "Ze worden geholpen",
-        "Ze worden gedood",
-        "Ze gaan dansen",
-        "Ze krijgen nieuwe kleren"
+        "Ze maken mooie foto's",
+        "Ze vervoeren medicijnen en spullen langs de frontlijn",
+        "Ze zijn leuk om mee te spelen",
+        "Ze worden gebruikt in vredestijd"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De stad Al-Fasher is in Soedan.",
+      "statement": "De fotograaf Gert Jochems werkte in een oorlogsgebied.",
       "isTrue": true
     },
     {
-      "statement": "Rebellen helpen alle mensen in Soedan.",
+      "statement": "Gronddrones worden gebruikt om foto's te maken in de oorlog.",
       "isTrue": false
     },
     {
-      "statement": "Veel mensen sterven in deze oorlog.",
+      "statement": "De drones zijn onmisbaar voor het overleven van soldaten.",
       "isTrue": true
     }
   ]
