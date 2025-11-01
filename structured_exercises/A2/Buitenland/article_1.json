@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Nederlandse verkiezingen: uitslag erg spannend",
+  "title": "Witte Huis beperkt toegang voor journalisten",
   "topicNumber": 1,
   "article": {
-    "title": "Nederlandse verkiezingen: uitslag erg spannend",
-    "summary": "In Nederland zijn er verkiezingen. De uitslag is heel spannend, want de twee grootste partijen hebben bijna evenveel zetels. Ze zijn nog aan het tellen."
+    "title": "Witte Huis beperkt toegang voor journalisten",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "uitslag",
-        "definition": "het eindresultaat, zoals na verkiezingen",
-        "sentence": "De ___ laat zien welke partij heeft gewonnen.",
-        "answer": "uitslag"
+        "word": "updates",
+        "definition": "nieuwe informatie, het laatste nieuws",
+        "sentence": "Volg hier alle ___ over het nieuws.",
+        "answer": "updates"
       },
       {
-        "word": "spannend",
-        "definition": "opwindend, je weet niet wat er gaat gebeuren",
-        "sentence": "Het is ___ om te wachten op de uitslag.",
-        "answer": "spannend"
+        "word": "wereldwijd",
+        "definition": "over de hele wereld",
+        "sentence": "De veranderingen zijn ___ voelbaar.",
+        "answer": "wereldwijd"
       },
       {
-        "word": "partij",
-        "definition": "een groep mensen met dezelfde ideeën over hoe het land moet worden gerund",
-        "sentence": "Mensen stemmen op een ___ die ze leuk vinden.",
-        "answer": "partij"
+        "word": "Huis",
+        "definition": "een gebouw waar mensen wonen",
+        "sentence": "Het Witte ___ is waar de president werkt.",
+        "answer": "Huis"
       },
       {
-        "word": "tellen",
-        "definition": "optellen, bijvoorbeeld hoeveel stemmen een partij heeft",
-        "sentence": "Medewerkers moeten de stemmen ___.",
-        "answer": "tellen"
+        "word": "beperkt",
+        "definition": "niet veel, niet veel",
+        "sentence": "Toegang is ___ voor journalisten.",
+        "answer": "beperkt"
       },
       {
-        "word": "verkiezingen",
-        "definition": "een keer per paar jaar stemmen mensen op een partij.",
-        "sentence": "In Nederland zijn er binnenkort ___.",
-        "answer": "verkiezingen"
+        "word": "Witte",
+        "definition": "een kleur, zoals wit",
+        "sentence": "De ___ Huis is in Washington.",
+        "answer": "Witte"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het is ___ om te wachten op de uitslag.",
-        "answer": "spannend"
+        "sentence": "Toegang is ___ voor journalisten.",
+        "answer": "beperkt"
       },
       {
-        "sentence": "Mensen stemmen op een ___ die ze leuk vinden.",
-        "answer": "partij"
+        "sentence": "De veranderingen zijn ___ voelbaar.",
+        "answer": "wereldwijd"
       },
       {
-        "sentence": "In Nederland zijn er binnenkort ___.",
-        "answer": "verkiezingen"
+        "sentence": "De ___ Huis is in Washington.",
+        "answer": "Witte"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de uitslag van de verkiezingen in Nederland?",
+      "question": "Waar werkt de president van Amerika?",
       "options": [
-        "Het is nog niet bekend",
-        "Het is al bekend",
-        "Het regent buiten",
-        "Nederland heeft gewonnen"
+        "In het Witte Huis",
+        "In het Rode Huis",
+        "In het Blauwe Huis",
+        "In het Groene Huis"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waarom is de uitslag spannend?",
+      "question": "Wat betekent 'beperkt' in deze context?",
       "options": [
-        "Omdat het nog niet bekend is",
-        "Omdat het al bekend is",
-        "Omdat het een feest is",
-        "Omdat niemand meer stemt"
+        "Niet veel, gelimiteerd",
+        "Heel veel",
+        "Onbeperkt",
+        "Gesloten"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat gebeurt er als de uitslag bekend is?",
+      "question": "Wat is een 'update' in dit artikel?",
       "options": [
-        "Dan weten we welke partij gewonnen heeft",
-        "Dan begint het te regenen",
-        "Dan is de verkiezing voorbij",
-        "Dan moet iedereen opnieuw stemmen"
+        "Het laatste nieuws",
+        "Een oude krant",
+        "Een foto",
+        "Een video"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De uitslag is al bekend.",
+      "statement": "Journalisten mogen altijd in het Witte Huis komen.",
       "isTrue": false
     },
     {
-      "statement": "Twee partijen hebben bijna evenveel zetels.",
+      "statement": "Donald Trump is de president van Amerika.",
       "isTrue": true
     },
     {
-      "statement": "Nederland heeft geen verkiezingen.",
+      "statement": "De veranderingen zijn alleen in Amerika.",
       "isTrue": false
     }
   ]

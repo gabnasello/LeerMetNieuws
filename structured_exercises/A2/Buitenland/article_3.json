@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
+  "title": "Frans parlement weigert belasting",
   "topicNumber": 1,
   "article": {
-    "title": "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
-    "summary": "De Standaard-fotograaf Gert Jochems geeft een inkijk in het leven van alledag in Oekraïens oorlogsgebied. Hij kon ter plekke volgen hoe de Azov-brigade gronddrones inzet voor de bevoorrading langs de levensgevaarlijke frontlijn."
+    "title": "Frans parlement weigert belasting",
+    "summary": "Het Franse parlement heeft een nieuwe belasting voor rijke mensen niet aangenomen. De politici stemden tegen de belasting."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "gronddrones",
-        "definition": "kleine vliegende machines die dingen kunnen dragen",
-        "sentence": "De soldaten gebruiken ___ om medicijnen te sturen.",
-        "answer": "gronddrones"
+        "word": "parlement",
+        "definition": "De groep mensen die wetten maakt in een land",
+        "sentence": "Het ___ van Nederland heet de Tweede Kamer.",
+        "answer": "parlement"
       },
       {
-        "word": "nieuwkomers",
-        "definition": "mensen of dingen die nieuw zijn in een gebied",
-        "sentence": "De ___ in de klas komen uit verschillende landen.",
-        "answer": "nieuwkomers"
+        "word": "belasting",
+        "definition": "Geld dat je moet betalen aan de overheid",
+        "sentence": "In Nederland betaal je ___ over je inkomen.",
+        "answer": "belasting"
       },
       {
-        "word": "oorlogsgebied",
-        "definition": "een plek waar oorlog is",
-        "sentence": "Mensen moeten vluchten uit een ___.",
-        "answer": "oorlogsgebied"
+        "word": "politici",
+        "definition": "Mensen die een regering runnen en wetten maken",
+        "sentence": "___ moeten vaak in het openbaar spreken.",
+        "answer": "politici"
       },
       {
-        "word": "onmisbare",
-        "definition": "heel erg nodig, je kunt niet zonder",
-        "sentence": "Water is ___ voor mensen en dieren.",
-        "answer": "onmisbare"
+        "word": "weigert",
+        "definition": "Zegt nee tegen iets, accepteert niet",
+        "sentence": "Hij ___ om mee te gaan naar het feest.",
+        "answer": "weigert"
       },
       {
-        "word": "levensgevaarlijke",
-        "definition": "gevaarlijk voor je leven",
-        "sentence": "Het is ___ om alleen de oceaan over te steken.",
-        "answer": "levensgevaarlijke"
+        "word": "Frans",
+        "definition": "Van of uit Frankrijk",
+        "sentence": "De ___ keuken is bekend over de hele wereld.",
+        "answer": "Frans"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Mensen moeten vluchten uit een ___.",
-        "answer": "oorlogsgebied"
+        "sentence": "Hij ___ om mee te gaan naar het feest.",
+        "answer": "weigert"
       },
       {
-        "sentence": "De ___ in de klas komen uit verschillende landen.",
-        "answer": "nieuwkomers"
+        "sentence": "In Nederland betaal je ___ over je inkomen.",
+        "answer": "belasting"
       },
       {
-        "sentence": "Water is ___ voor mensen en dieren.",
-        "answer": "onmisbare"
+        "sentence": "Het ___ van Nederland heet de Tweede Kamer.",
+        "answer": "parlement"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarover gaat de tekst vooral?",
+      "question": "Wat betekent 'aangenomen' in deze context?",
       "options": [
-        "Over fotografie in de natuur",
-        "Over oorlog in Oekraïne en de inzet van drones",
-        "Over reizen naar andere landen",
-        "Over de geschiedenis van drones"
+        "Geaccepteerd",
+        "Geweigerd",
+        "Vergeten",
+        "Verboden"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat zijn 'gronddrones' in deze tekst?",
+      "question": "Waar stemden de politici tegen?",
       "options": [
-        "Een soort vliegtuig",
-        "Een type soldaat",
-        "Kleine vliegende machines die dingen kunnen dragen",
-        "Een soort camera"
+        "Tegen een nieuwe belasting",
+        "Tegen een feest",
+        "Tegen een nieuwe wet voor scholen",
+        "Tegen de koning"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Waarom zijn de drones belangrijk in de tekst?",
+      "question": "Wat is de 'Assemblée nationale'?",
       "options": [
-        "Ze maken mooie foto's",
-        "Ze vervoeren medicijnen en spullen langs de frontlijn",
-        "Ze zijn leuk om mee te spelen",
-        "Ze worden gebruikt in vredestijd"
+        "Het Franse parlement",
+        "Een soort belasting",
+        "Een Frans restaurant",
+        "Een sportteam"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De fotograaf Gert Jochems werkte in een oorlogsgebied.",
-      "isTrue": true
-    },
-    {
-      "statement": "Gronddrones worden gebruikt om foto's te maken in de oorlog.",
+      "statement": "Het Franse parlement heeft de belasting aangenomen.",
       "isTrue": false
     },
     {
-      "statement": "De drones zijn onmisbaar voor het overleven van soldaten.",
+      "statement": "Politici stemden tegen de nieuwe belasting.",
+      "isTrue": true
+    },
+    {
+      "statement": "De Assemblée nationale is de regering van Frankrijk.",
       "isTrue": true
     }
   ]

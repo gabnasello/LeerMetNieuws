@@ -1,106 +1,106 @@
 {
-  "id": 16,
+  "id": 17,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Verdachte van adoptiefraude na veertig jaar voor de rechter",
+  "title": "Rijverbod voor presentator",
   "topicNumber": 1,
   "article": {
-    "title": "Verdachte van adoptiefraude na veertig jaar voor de rechter",
-    "summary": "Er is een Belgische rechtszaak over gestolen kinderen uit Guatemala. Iemand zegt: 'Ik kwam naar België met een valse naam, zonder geboortedatum en met een biologische moeder die misschien niet eens weet dat ik nog leef.'"
+    "title": "Rijverbod voor presentator",
+    "summary": "Een presentator heeft een probleem met de politie. Hij kreeg een rijverbod, maar reed toch. Daarom kreeg hij een boete en een nieuw rijverbod."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "fraude",
-        "definition": "wanneer iemand opzettelijk liegt of bedriegt om iets te krijgen",
-        "sentence": "Hij gebruikte een valse naam, dat is een vorm van ___.",
-        "answer": "fraude"
+        "word": "reed",
+        "definition": "verleden tijd van rijden; zich verplaatsen in een voertuig",
+        "sentence": "Hij ___ met zijn auto naar zijn werk.",
+        "answer": "reed"
       },
       {
-        "word": "adoptie",
-        "definition": "wanneer een kind officieel wordt opgenomen in een ander gezin",
-        "sentence": "Sommige kinderen komen in een gezin via ___.",
-        "answer": "adoptie"
+        "word": "nieuw",
+        "definition": "vers, recent gemaakt of ontstaan",
+        "sentence": "Hij kreeg een ___ rijverbag, nadat hij eerder al was gestraft.",
+        "answer": "nieuw"
       },
       {
-        "word": "moeder",
-        "definition": "de vrouwelijke ouder van een kind",
-        "sentence": "De ___ van het kind woonde in Guatemala.",
-        "answer": "moeder"
+        "word": "boete",
+        "definition": "geld dat je moet betalen als straf voor een overtreding",
+        "sentence": "Hij kreeg een ___ omdat hij door rood reed.",
+        "answer": "boete"
       },
       {
-        "word": "kinderen",
-        "definition": "jonge mensen, meestal onder de 18 jaar",
-        "sentence": "De ___ werden illegaal geadopteerd.",
-        "answer": "kinderen"
+        "word": "politie",
+        "definition": "mensen die de wet handhaven en misdaad bestrijden",
+        "sentence": "De ___ kwam omdat hij te hard reed.",
+        "answer": "politie"
       },
       {
-        "word": "geboorte",
-        "definition": "het moment dat een kind wordt geboren",
-        "sentence": "Zijn ___ vond plaats in 2010.",
-        "answer": "geboorte"
+        "word": "presentator",
+        "definition": "iemand die een programma op tv of radio presenteert",
+        "sentence": "De ___ praat met mensen in een show.",
+        "answer": "presentator"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Sommige kinderen komen in een gezin via ___.",
-        "answer": "adoptie"
+        "sentence": "De ___ praat met mensen in een show.",
+        "answer": "presentator"
       },
       {
-        "sentence": "Hij gebruikte een valse naam, dat is een vorm van ___.",
-        "answer": "fraude"
+        "sentence": "Hij ___ met zijn auto naar zijn werk.",
+        "answer": "reed"
       },
       {
-        "sentence": "Zijn ___ vond plaats in 2010.",
-        "answer": "geboorte"
+        "sentence": "Hij kreeg een ___ rijverbag, nadat hij eerder al was gestraft.",
+        "answer": "nieuw"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat de rechtszaak over?",
+      "question": "Waarom kreeg de presentator een rijverbod?",
       "options": [
-        "Een diefstal van auto's",
-        "Een fraude met adoptie",
-        "Een vakantie in Guatemala",
-        "Een feest in de rechtbank"
+        "Hij had te veel gedronken.",
+        "Hij had te hard gereden.",
+        "Hij had geen rijbewijs.",
+        "Hij had iemand aangereden."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Waar woont de biologische moeder van het kind?",
+      "question": "Hoe lang is het nieuwe rijverbod?",
       "options": [
-        "In Nederland",
-        "In België",
-        "In Guatemala",
-        "In Duitsland"
+        "9 maanden",
+        "4 maanden",
+        "1 jaar",
+        "6 maanden"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is een 'valse naam'?",
+      "question": "Wat is een boete?",
       "options": [
-        "Een echte naam",
-        "Een lieve naam",
-        "Een naam die niet echt is",
-        "Een naam die alleen thuis wordt gebruikt"
+        "Een soort straf waarbij je geld moet betalen",
+        "Een soort feest met cadeaus",
+        "Een type auto",
+        "Een soort maaltijd"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De zaak speelt zich af in België.",
-      "isTrue": true
-    },
-    {
-      "statement": "De moeder van het kind woont in Nederland.",
+      "statement": "De presentator reed door rood licht.",
       "isTrue": false
     },
     {
-      "statement": "Het kind werd geadopteerd met een valse naam.",
+      "statement": "De presentator kreeg een boete van 4800 euro.",
       "isTrue": true
+    },
+    {
+      "statement": "Het rijverbod was voor negen jaar.",
+      "isTrue": false
     }
   ]
 }

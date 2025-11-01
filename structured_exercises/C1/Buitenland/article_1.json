@@ -3,98 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "D66 en PVV beide op 26 zetels, verschil is minder dan 2.000 stemmen",
+  "title": "Witte Huis beperkt toegang voor journalisten",
   "topicNumber": 1,
   "article": {
-    "title": "D66 en PVV beide op 26 zetels, verschil is minder dan 2.000 stemmen",
-    "summary": "Nederland trekt woensdag opnieuw naar de stembus voor de vervroegde parlementsverkiezingen na de val van het kabinet-Schoof. Volg hier de laatste updates."
+    "title": "Witte Huis beperkt toegang voor journalisten",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijk veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "stemmen",
-        "definition": "een stem uitbrengen, je keuze maken in een verkiezing",
-        "sentence": "In een democratie is het belangrijk dat burgers hun recht om te ___ kunnen uitoefenen.",
-        "answer": "stemmen"
+        "word": "updates",
+        "definition": "bijgewerkte informatie of nieuwsberichten.",
+        "sentence": "Volg hier alle laatste ___ over de situatie.",
+        "answer": "updates"
       },
       {
-        "word": "zetels",
-        "definition": "de zetels in een parlement, de posities die partijen winnen bij verkiezingen",
-        "sentence": "De partij won meer dan tien ___ in het nieuwe parlement.",
-        "answer": "zetels"
+        "word": "veranderingen",
+        "definition": "veranderingen; transformaties of wijzigingen.",
+        "sentence": "Het beleid bracht grote ___ teweeg.",
+        "answer": "veranderingen"
       },
       {
-        "word": "verkiezingen",
-        "definition": "het proces waarbij mensen stemmen om hun vertegenwoordigers te kiezen",
-        "sentence": "Nederland houdt volgende maand algemene ___ om een nieuwe regering te kiezen.",
-        "answer": "verkiezingen"
+        "word": "tweede",
+        "definition": "komend na de eerste; nummer twee in een reeks.",
+        "sentence": "Zijn ___ ambtstermijn verliep minder voorspelbaar.",
+        "answer": "tweede"
       },
       {
-        "word": "kabinet",
-        "definition": "de regering van een land, bestaande uit ministers en staatssecretarissen",
-        "sentence": "Het oude ___ viel vanwege onenigheid over de begroting.",
-        "answer": "kabinet"
+        "word": "toegang",
+        "definition": "de mogelijkheid om een plaats te betreden of te gebruiken.",
+        "sentence": "Journalisten kregen geen ___ tot de persconferentie.",
+        "answer": "toegang"
+      },
+      {
+        "word": "teweeg",
+        "definition": "veroorzaken; tot stand brengen. (gebruikt in 'brengt ... teweeg')",
+        "sentence": "De crisis bracht grote onrust ___ in de regio.",
+        "answer": "teweeg"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het oude ___ viel vanwege onenigheid over de begroting.",
-        "answer": "kabinet"
+        "sentence": "Zijn ___ ambtstermijn verliep minder voorspelbaar.",
+        "answer": "tweede"
       },
       {
-        "sentence": "In een democratie is het belangrijk dat burgers hun recht om te ___ kunnen uitoefenen.",
-        "answer": "stemmen"
+        "sentence": "De crisis bracht grote onrust ___ in de regio.",
+        "answer": "teweeg"
       },
       {
-        "sentence": "Nederland houdt volgende maand algemene ___ om een nieuwe regering te kiezen.",
-        "answer": "verkiezingen"
+        "sentence": "Journalisten kregen geen ___ tot de persconferentie.",
+        "answer": "toegang"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het als een kabinet valt?",
+      "question": "Wat betekent 'beperken' in deze context?",
       "options": [
-        "De regering treedt af en er zijn nieuwe verkiezingen nodig.",
-        "Het kabinet heeft een succesvolle hervorming doorgevoerd.",
-        "De koning heeft een nieuwe minister-president benoemd.",
-        "Het parlement is met vakantie gegaan."
+        "Volledig verbieden",
+        "Gedeeltelijk of met beperkingen toestaan",
+        "Ongelimiteerd toestaan",
+        "Negeer en doe niets"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is een belangrijk kenmerk van een democratie?",
+      "question": "Welk effect heeft 'beperkte toegang' op internationale betrekkingen?",
       "options": [
-        "Vrije en eerlijke verkiezingen waar iedereen kan stemmen.",
-        "Een koning die alle beslissingen neemt.",
-        "Politieke partijen zijn verboden.",
-        "Alleen de rijkste burgers mogen stemmen."
+        "Het verbetert de samenwerking enorm",
+        "Het heeft geen enkel effect op de relaties",
+        "Het kan spanningen verhogen door gebrek aan transparantie",
+        "Het leidt altijd tot onmiddellijke oorlog"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Waarom is het belangrijk dat verkiezingen vrij zijn?",
+      "question": "Wat is een synoniem voor 'teweegbrengen'?",
       "options": [
-        "Zodat burgers hun echte voorkeur kunnen uiten zonder dwang.",
-        "Omdat het dan makkelijker is voor de regerende partij.",
-        "Omdat internationale waarnemers dan positiever rapporteren.",
-        "Omdat de verliezende partij dan minder protest heeft."
+        "Tegengaan",
+        "Verminderen",
+        "Veroorzaken",
+        "Neutraliseren"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Nederland is een monarchie waar de koningin de meeste politieke macht heeft.",
+      "statement": "De beperking van de toegang voor journalisten is een voorbeeld van transparantie.",
       "isTrue": false
     },
     {
-      "statement": "Vrije verkiezingen zijn een essentieel onderdeel van een functionerende democratie.",
+      "statement": "De maatregel heeft wereldwijde gevolgen, niet alleen voor de VS.",
       "isTrue": true
     },
     {
-      "statement": "Als een kabinet valt, betekent dat de regering aftreedt en er nieuwe verkiezingen komen.",
-      "isTrue": true
+      "statement": "Trump's tweede termijn bracht geen enkele verandering teweeg.",
+      "isTrue": false
     }
   ]
 }

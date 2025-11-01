@@ -3,103 +3,103 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Gentse ‘tramterreur’ houdt buurtbewoners wakker: Waarom zo veel, zo laat, en zo luid?",
+  "title": "Politievakbond vraagt parlementair onderzoek naar politiegeweld",
   "topicNumber": 1,
   "article": {
-    "title": "Gentse ‘tramterreur’ houdt buurtbewoners wakker: Waarom zo veel, zo laat, en zo luid?",
-    "summary": "In de Gentse Bernard Spaelaan zijn de bewoners de wanhoop nabij: sinds een paar maanden denderen per dag zo’n 700 trams aan 100 decibel door de straat. De vrederechter vraagt De Lijn de overlast te verminderen."
+    "title": "Politievakbond vraagt parlementair onderzoek naar politiegeweld",
+    "summary": "Van “flagrante schending van de interventieregels” tot het gebruik van traangas en matrakken, de socialistische politievakbond ACOD veroordeelt nu zelf het gedrag van sommige politieagenten tijdens verschillende manifestaties in oktober. De vakbond vraagt het parlement om een onderzoekscommissie op te richten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "decibel",
-        "definition": "eenheid voor geluidsvolume",
-        "sentence": "Het geluid was meer dan 100 ___.",
-        "answer": "decibel"
+        "word": "onderzoek",
+        "definition": "een studie om iets te leren",
+        "sentence": "Een ___ kan uitwijzen wat er is gebeurd.",
+        "answer": "onderzoek"
       },
       {
-        "word": "bewoners",
-        "definition": "mensen die in een huis of gebied wonen",
-        "sentence": "De ___ van de straat klagen over het lawaai.",
-        "answer": "bewoners"
+        "word": "vakbond",
+        "definition": "een organisatie die werknemers vertegenwoordigt",
+        "sentence": "De ___ helpt werknemers bij onderhandelingen.",
+        "answer": "vakbond"
       },
       {
-        "word": "verminderen",
-        "definition": "minder maken",
-        "sentence": "We moeten de overlast ___.",
-        "answer": "verminderen"
+        "word": "manifestaties",
+        "definition": "bijeenkomsten of demonstraties",
+        "sentence": "Tijdens ___ komen mensen samen om hun mening te uiten.",
+        "answer": "manifestaties"
       },
       {
-        "word": "trams",
-        "definition": "openbaar vervoermiddel op rails",
-        "sentence": "De ___ rijden door de stad.",
-        "answer": "trams"
+        "word": "agenten",
+        "definition": "mensen die de wet handhaven",
+        "sentence": "De ___ werken dag en nacht voor onze veiligheid.",
+        "answer": "agenten"
       },
       {
-        "word": "bewoners",
-        "definition": "mensen die in een huis of gebied wonen",
-        "sentence": "De ___ van de straat klagen over het lawaai.",
-        "answer": "bewoners"
+        "word": "vakbond",
+        "definition": "een organisatie die werknemers vertegenwoordigt",
+        "sentence": "De ___ helpt werknemers bij problemen.",
+        "answer": "vakbond"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ van de straat klagen over het lawaai.",
-        "answer": "bewoners"
+        "sentence": "De ___ werken dag en nacht voor onze veiligheid.",
+        "answer": "agenten"
       },
       {
-        "sentence": "We moeten de overlast ___.",
-        "answer": "verminderen"
+        "sentence": "De ___ helpt werknemers bij problemen.",
+        "answer": "vakbond"
       },
       {
-        "sentence": "De ___ van de straat klagen over het lawaai.",
-        "answer": "bewoners"
+        "sentence": "Een ___ kan uitwijzen wat er is gebeurd.",
+        "answer": "onderzoek"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom zijn de bewoners van de Bernard Spaelaan ontevreden?",
+      "question": "Wat doet de vakbond in deze situatie?",
       "options": [
-        "Omdat er te veel auto's rijden",
-        "Omdat er te veel trams rijden",
-        "Omdat er te veel lawaai is",
-        "Omdat er te weinig parken zijn"
+        "Ze steunt de politie onvoorwaardelijk",
+        "Ze vraagt om een onderzoek naar het politiegedrag",
+        "Ze organiseert een feest voor de agenten",
+        "Ze zegt niets en wacht af"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is het doel van een parlementair onderzoek?",
+      "options": [
+        "Om nieuwe films te kijken",
+        "Om feesten te organiseren",
+        "Om problemen grondig te onderzoeken",
+        "Om nieuwe sporten te introduceren"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat heeft de vrederechter gevraagd aan De Lijn?",
+      "question": "Waarover maakt de vakbond zich zorgen?",
       "options": [
-        "Om de trams te stoppen",
-        "Om de trams sneller te laten rijden",
-        "Om de overlast te verminderen",
-        "Om de bewoners te verhuizen"
+        "Over het weer van volgende week",
+        "Over het gedrag van sommige agenten tijdens de manifestaties",
+        "Over de prijs van brood",
+        "Over de verkiezingen van volgend jaar"
       ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Hoeveel trams rijden er per dag door de straat?",
-      "options": [
-        "Ongeveer 100",
-        "Ongeveer 500",
-        "Ongeveer 700",
-        "Ongeveer 1000"
-      ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De bewoners van de Bernard Spaelaan zijn blij met de trams.",
-      "isTrue": false
-    },
-    {
-      "statement": "De vrederechter heeft De Lijn gevraagd om de overlast te verminderen.",
+      "statement": "De vakbond vraagt een onderzoek naar het gedrag van politieagenten.",
       "isTrue": true
     },
     {
-      "statement": "Er rijden 700 trams per dag door de straat.",
+      "statement": "Het parlement weigert een onderzoek te starten.",
+      "isTrue": false
+    },
+    {
+      "statement": "Agenten gebruiken soms geweld tijdens hun werk.",
       "isTrue": true
     }
   ]

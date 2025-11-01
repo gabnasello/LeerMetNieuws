@@ -3,98 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Verkiezingen in Nederland",
+  "title": "Witte Huis beperkt toegang voor journalisten",
   "topicNumber": 1,
   "article": {
-    "title": "Verkiezingen in Nederland",
-    "summary": "Nederland houdt verkiezingen. Er is een nieuwe regering."
+    "title": "Witte Huis beperkt toegang voor journalisten",
+    "summary": "Donald Trump start zijn tweede termijn als president van Amerika. Dit brengt veranderingen over de hele wereld. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Nederland",
-        "definition": "een land in Europa",
-        "sentence": "___ is een land in Europa.",
-        "answer": "Nederland"
+        "word": "updates",
+        "definition": "nieuwe informatie, het laatste nieuws",
+        "sentence": "Volg alle ___ over dit onderwerp online.",
+        "answer": "updates"
       },
       {
-        "word": "verkiezingen",
-        "definition": "wanneer mensen stemmen voor een nieuwe regering",
-        "sentence": "Mensen stemmen tijdens de ___.",
-        "answer": "verkiezingen"
+        "word": "wereld",
+        "definition": "de aarde en alle landen samen",
+        "sentence": "De veranderingen in de ___ zijn groot door de nieuwe president.",
+        "answer": "wereld"
       },
       {
-        "word": "regering",
-        "definition": "de groep mensen die een land bestuurt",
-        "sentence": "De ___ maakt belangrijke beslissingen.",
-        "answer": "regering"
+        "word": "Witte",
+        "definition": "heeft geen kleur, of de naam van een gebouw",
+        "sentence": "Het ___ Huis is waar de president woont.",
+        "answer": "Witte"
       },
       {
-        "word": "nieuwe",
-        "definition": "niet oud, recent gemaakt",
-        "sentence": "Ze hebben een ___ huis gekocht.",
-        "answer": "nieuwe"
+        "word": "president",
+        "definition": "de leider van een land",
+        "sentence": "De ___ van Amerika woont in het Witte Huis.",
+        "answer": "president"
+      },
+      {
+        "word": "toegang",
+        "definition": "kunnen komen of gaan in een plaats",
+        "sentence": "Journalisten hebben geen ___ meer tot het Witte Huis.",
+        "answer": "toegang"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Mensen stemmen tijdens de ___.",
-        "answer": "verkiezingen"
+        "sentence": "Het ___ Huis is waar de president woont.",
+        "answer": "Witte"
       },
       {
-        "sentence": "Ze hebben een ___ huis gekocht.",
-        "answer": "nieuwe"
+        "sentence": "De ___ van Amerika woont in het Witte Huis.",
+        "answer": "president"
       },
       {
-        "sentence": "___ is een land in Europa.",
-        "answer": "Nederland"
+        "sentence": "Journalisten hebben geen ___ meer tot het Witte Huis.",
+        "answer": "toegang"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat gebeurt er tijdens verkiezingen?",
+      "question": "Wat betekent 'beperkt' in deze context?",
       "options": [
-        "Mensen stemmen op een partij.",
-        "Mensen gaan op vakantie.",
-        "Mensen vieren een feest.",
-        "Mensen spelen een spel."
+        "niet veel, gelimiteerd",
+        "helemaal geen",
+        "oneindig veel",
+        "alleen voor kinderen"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is een kabinet?",
+      "question": "Waar woont de president van Amerika?",
       "options": [
-        "Een groep ministers die het land bestuurt.",
-        "Een soort auto.",
-        "Een groot gebouw.",
-        "Een soort voedsel."
+        "In het Witte Huis",
+        "In een groot kasteel",
+        "In een normaal huis",
+        "In een hotel"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat betekent 'nieuwe'?",
+      "question": "Wat is 'updates' in het Nederlands?",
       "options": [
-        "Niet oud, recent gemaakt.",
-        "Heel oud.",
-        "Een soort dier.",
-        "Een muziekinstrument."
+        "nieuwsupdates",
+        "een soort fruit",
+        "een soort auto",
+        "een soort boek"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Nederland heeft verkiezingen gehouden.",
-      "isTrue": true
-    },
-    {
-      "statement": "Een kabinet is een soort dier.",
+      "statement": "Journalisten mogen altijd in het Witte Huis komen.",
       "isTrue": false
     },
     {
-      "statement": "Stemmen betekent je keuze maken.",
+      "statement": "De president van Amerika woont in het Witte Huis.",
       "isTrue": true
+    },
+    {
+      "statement": "'Updates' betekent dat alles hetzelfde blijft.",
+      "isTrue": false
     }
   ]
 }

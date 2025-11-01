@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
+  "title": "Frans parlement verwerpt rijkenbelasting: “Wonderbelasting bestaat niet”",
   "topicNumber": 1,
   "article": {
-    "title": "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
-    "summary": "De Standaard-fotograaf Gert Jochems geeft een inkijk in het leven van alledag in Oekraïens oorlogsgebied. Hij kon ter plekke volgen hoe de Azov-brigade gronddrones inzet voor de bevoorrading langs de levensgevaarlijke frontlijn."
+    "title": "Frans parlement verwerpt rijkenbelasting: “Wonderbelasting bestaat niet”",
+    "summary": "De Assemblée nationale, het Franse parlement, heeft vrijdag voorstellen voor een belasting op de hoogste vermogens met een grote meerderheid verworpen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "frontlijn",
-        "definition": "de voorste linie in een gevechtsgebied",
-        "sentence": "De soldaten hielden stand langs de volledige lengte van de ___.",
-        "answer": "frontlijn"
+        "word": "vermogens",
+        "definition": "Vermogens of fortuinen, vaak in economische context",
+        "sentence": "Hoge ___ kunnen meer belasting dragen.",
+        "answer": "vermogens"
       },
       {
-        "word": "bevoorrading",
-        "definition": "het voorzien van benodigdheden, vooral in militaire context",
-        "sentence": "De ___ van medicijnen en voedsel was cruciaal voor de overlevenden.",
-        "answer": "bevoorrading"
+        "word": "Assemblée",
+        "definition": "Het Franse woord voor een vergadering of parlement",
+        "sentence": "De Nationale ___ behandelt wetgeving.",
+        "answer": "Assemblée"
       },
       {
-        "word": "leven",
-        "definition": "het bestaan of de staat van in leven zijn",
-        "sentence": "Het ___ van de soldaten hing aan een zijden draadje.",
-        "answer": "leven"
+        "word": "belasting",
+        "definition": "Een verplichte financiële bijdrage aan de overheid",
+        "sentence": "Deze ___ wordt geheven op inkomen en vermogen.",
+        "answer": "belasting"
       },
       {
-        "word": "front",
-        "definition": "het voorste deel of gebied waar actie plaatsvindt, vooral in militaire context",
-        "sentence": "Hij rapporteerde vanaf het ___ waar de gevechten het hevigst waren.",
-        "answer": "front"
+        "word": "bestaat",
+        "definition": "Is aanwezig of is realiteit",
+        "sentence": "De entiteit ___ al sinds 2020.",
+        "answer": "bestaat"
       },
       {
-        "word": "fotograaf",
-        "definition": "een persoon die foto's maakt, meestal als beroep",
-        "sentence": "De ___ nam indrukwekkende beelden tijdens de missie.",
-        "answer": "fotograaf"
+        "word": "voorstellen",
+        "definition": "Plannen of ideeën die worden aangeboden",
+        "sentence": "De nieuwe ___ werden goed ontvangen.",
+        "answer": "voorstellen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ nam indrukwekkende beelden tijdens de missie.",
-        "answer": "fotograaf"
+        "sentence": "Deze ___ wordt geheven op inkomen en vermogen.",
+        "answer": "belasting"
       },
       {
-        "sentence": "Het ___ van de soldaten hing aan een zijden draadje.",
-        "answer": "leven"
+        "sentence": "Hoge ___ kunnen meer belasting dragen.",
+        "answer": "vermogens"
       },
       {
-        "sentence": "De soldaten hielden stand langs de volledige lengte van de ___.",
-        "answer": "frontlijn"
+        "sentence": "De entiteit ___ al sinds 2020.",
+        "answer": "bestaat"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat beschrijft de tekst over het gebruik van gronddrones in Oekraïne?",
+      "question": "Wat betekent 'verworpen' in deze context?",
       "options": [
-        "Ze worden gebruikt voor bevoorrading langs de frontlijn.",
-        "Ze worden ingezet voor luchtverkenning alleen.",
-        "Ze vervangen volledig menselijke soldaten.",
-        "Ze zijn niet effectief gebleken in oorlog."
+        "Geaccepteerd",
+        "Afgewezen",
+        "Geprezen",
+        "Gewijzigd"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van Gert Jochems volgens de tekst?",
+      "question": "Waar verwijst 'Assemblée' specifiek naar?",
       "options": [
-        "Hij is een fotograaf die de situatie documenteert.",
-        "Hij is een soldaat die vecht in Oekraïne.",
-        "Hij leidt de Azov-brigade met drones.",
-        "Hij is een politiek leider die over oorlog praat."
+        "Een soort belasting",
+        "De Franse regering",
+        "Het Franse parlement",
+        "Een Europese instelling"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat impliceert de tekst over de veiligheidssituatie?",
+      "question": "Wat is de hoofdgedachte van de samenvatting?",
       "options": [
-        "Het is gevaarlijk; de frontlijn is levensgevaarlijk.",
-        "Het is volledig veilig; er is geen risico.",
-        "Alleen drones zijn in gevaar, niet mensen.",
-        "De situatie is volledig vreedzaam en stabiel."
+        "Frankrijk introduceert een nieuwe belasting",
+        "Frankrijk verwerpt een belastingvoorstel",
+        "De Assemblée Nationale wordt hervormd",
+        "Er is een grote meerderheid voor belastingverhoging"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Gert Jochems is een fotograaf die de inzet van gronddrones in Oekraïne documenteert.",
-      "isTrue": true
-    },
-    {
-      "statement": "De Azov-brigade gebruikt alleen drones voor offensieve aanvallen, niet voor bevoorrading.",
+      "statement": "Het Franse parlement heeft de belastingvoorstellen goedgekeurd.",
       "isTrue": false
     },
     {
-      "statement": "Journalisten zoals Jochems hebben directe toegang tot de frontlinie zonder enig risico.",
+      "statement": "De Assemblée Nationale is het Franse parlement.",
+      "isTrue": true
+    },
+    {
+      "statement": "De belastingvoorstellen werden unaniem aangenomen.",
       "isTrue": false
     }
   ]

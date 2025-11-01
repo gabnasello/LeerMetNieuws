@@ -1,75 +1,106 @@
 {
-  "id": 13,
+  "id": 14,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
+  "title": "Oorlog in Oekraïne: recente ontwikkelingen",
   "topicNumber": 1,
   "article": {
-    "title": "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "Oorlog in Oekraïne: recente ontwikkelingen",
+    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "onmiddellijk",
-        "definition": "meteen, zonder vertraging",
-        "sentence": "Na het ongeluk reageerde de hulp ___.",
-        "answer": "onmiddellijk"
+        "word": "app",
+        "definition": "een applicatie op je telefoon of computer, vaak afkorting van application",
+        "sentence": "Download de ___ om op de hoogte te blijven.",
+        "answer": "app"
       },
       {
-        "word": "kernwapens",
-        "definition": "wapens die gebruikmaken van nucleaire reacties voor hun vernietigende kracht",
-        "sentence": "Het non-proliferatieverdrag probeert de verspreiding van ___ te stoppen.",
-        "answer": "kernwapens"
+        "word": "oorlog",
+        "definition": "een gewapend conflict tussen landen of groepen",
+        "sentence": "De ___ in Oekraïne duurt nu al maanden.",
+        "answer": "oorlog"
+      },
+      {
+        "word": "melding",
+        "definition": "een bericht of signaal dat je informeert",
+        "sentence": "Krijg een ___ wanneer er belangrijk nieuws is.",
+        "answer": "melding"
+      },
+      {
+        "word": "Oekraïne",
+        "definition": "een land in Oost-Europa",
+        "sentence": "___ wordt momenteel zwaar getroffen door de oorlog.",
+        "answer": "Oekraïne"
+      },
+      {
+        "word": "ontwikkelingen",
+        "definition": "gebeurtenissen of veranderingen in een situatie",
+        "sentence": "De recente ___ in de oorlog zijn belangrijk om te volgen.",
+        "answer": "ontwikkelingen"
       }
     ],
-    "fillInBlanks": []
+    "fillInBlanks": [
+      {
+        "sentence": "___ wordt momenteel zwaar getroffen door de oorlog.",
+        "answer": "Oekraïne"
+      },
+      {
+        "sentence": "Krijg een ___ wanneer er belangrijk nieuws is.",
+        "answer": "melding"
+      },
+      {
+        "sentence": "Download de ___ om op de hoogte te blijven.",
+        "answer": "app"
+      }
+    ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is het hoofdonderwerp van dit artikel?",
+      "question": "Wat betekent het om een app te downloaden?",
       "options": [
-        "Klimaatverandering",
-        "Kernwapenbeheersing",
-        "Ruimtevaart",
-        "Internationale handel"
+        "Een app verwijderen van je telefoon",
+        "Een app installeren vanaf het internet",
+        "Een app negeren op je scherm",
+        "Een app deactiveren in je instellingen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de houding van Trump ten opzichte van kernwapens volgens de titel?",
+      "question": "Waarom is het belangrijk om het nieuws te volgen?",
       "options": [
-        "Hij wil ze afschaffen",
-        "Hij wil ze verminderen",
-        "Hij wil ze onmiddellijk opnieuw testen",
-        "Hij negeert het onderwerp"
+        "Om oude informatie te hergebruiken",
+        "Om op de hoogte te blijven van actuele gebeurtenissen",
+        "Om je telefoon op te laden",
+        "Om meer vrienden te krijgen op sociale media"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de verwachte impact van Trumps beleid op internationaal gebied?",
+      "question": "Wat is een voorbeeld van een actuele gebeurtenis?",
       "options": [
-        "Alleen positief voor de VS",
-        "Alleen negatief voor andere landen",
-        "Wereldwijd veranderend, zowel positief als negatief",
-        "Geen enkele impact"
+        "De uitvinding van de telefoon in 1876",
+        "De eerste mens op de maan in 1969",
+        "Een recente ontwikkelingen in de oorlog in Oekraïne",
+        "De val van het Romeinse Rijk in 476 AD"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Donald Trump is de huidige president van de Verenigde Staten.",
-      "isTrue": false
-    },
-    {
-      "statement": "Kernwapens zijn wapens die gebruikmaken van nucleaire reacties.",
+      "statement": "De oorlog in Oekraïne is al enkele maanden aan de gang.",
       "isTrue": true
     },
     {
-      "statement": "Trump's beleid heeft alleen gevolgen voor de Verenigde Staten.",
+      "statement": "Het is niet nodig om het nieuws te volgen om op de hoogte te blijven.",
       "isTrue": false
+    },
+    {
+      "statement": "Apps kunnen je helpen om informatie te krijgen.",
+      "isTrue": true
     }
   ]
 }

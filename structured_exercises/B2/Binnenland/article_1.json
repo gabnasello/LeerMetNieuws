@@ -1,105 +1,105 @@
 {
-  "id": 18,
+  "id": 19,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Verdachte grootschalige adoptiefraude na veertig jaar alsnog voor de rechter",
+  "title": "'s Nachts rijbewijs ingetrokken, 's ochtends terug achter het stuur: Ruben Van Gucht krijgt rijverbod en boete na meerdere inbreuken",
   "topicNumber": 1,
   "article": {
-    "title": "Verdachte grootschalige adoptiefraude na veertig jaar alsnog voor de rechter",
-    "summary": "Er komt alsnog een Belgisch strafproces in de zaak van de minstens vijftien geroofde ‘weeskinderen’ uit Guatemala. “Ik kwam naar België met een valse naam, zonder geboortedatum en met een biologische moeder die allicht niet eens weet dat ik nog leef.”"
+    "title": "'s Nachts rijbewijs ingetrokken, 's ochtends terug achter het stuur: Ruben Van Gucht krijgt rijverbod en boete na meerdere inbreuken",
+    "summary": "Negen maanden rijverbod en een boete van 4.800 euro: die zware straf heeft sportanker Ruben Van Gucht (38) vrijdagochtend in de Dendermondse politierechtbank gekregen omdat hij ondanks een rijverbod na een positieve alcoholtest stiekem toch reed. Vier keer liep hij tegen de lamp."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "valse",
-        "definition": "niet echt of niet waar, vervalst",
-        "sentence": "Hij reisde met een valse paspoort naar België.",
-        "answer": "valse"
+        "word": "rijbewijs",
+        "definition": "Een officieel document dat bewijst dat je mag autorijden.",
+        "sentence": "Hij moest zijn ___ inleveren na de overtreding.",
+        "answer": "rijbewijs"
       },
       {
-        "word": "fraude",
-        "definition": "opzettelijke misleiding of bedrog om iets illegaals te bereiken",
-        "sentence": "Hij werd beschuldigd van fraude omdat hij de documenten had vervalst.",
-        "answer": "fraude"
+        "word": "stiekem",
+        "definition": "In het geheim, zonder dat anderen het merken.",
+        "sentence": "Hij reed ___ toch door, ook al mocht het niet.",
+        "answer": "stiekem"
       },
       {
-        "word": "weeskinderen",
-        "definition": "kinderen die beide ouders verloren hebben",
-        "sentence": "De weeskinderen werden opgevangen door een liefdadigheidsinstelling.",
-        "answer": "weeskinderen"
+        "word": "rijverbod",
+        "definition": "Een verbod om een voertuig te besturen voor een bepaalde periode.",
+        "sentence": "Hij kreeg een ___ van negen maanden.",
+        "answer": "rijverbod"
       },
       {
-        "word": "adoptie",
-        "definition": "zie eerste woord",
-        "sentence": "Adoptie kan een mooie manier zijn om een gezin te vormen, maar het moet legaal gebeuren.",
-        "answer": "adoptie"
+        "word": "alcoholtest",
+        "definition": "Een test die meet hoeveel alcohol er in je lichaam zit.",
+        "sentence": "Hij bleek positief op de ___.",
+        "answer": "alcoholtest"
       },
       {
-        "word": "geboortedatum",
-        "definition": "de datum waarop iemand geboren is",
-        "sentence": "Zonder een geboortedatum is het lastig om iemands leeftijd te bepalen.",
-        "answer": "geboortedatum"
+        "word": "vrijdagochtend",
+        "definition": "De ochtend van vrijdag, een dag van de week.",
+        "sentence": "Hij kreeg de uitspraak op ___.",
+        "answer": "vrijdagochtend"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De weeskinderen werden opgevangen door een liefdadigheidsinstelling.",
-        "answer": "weeskinderen"
+        "sentence": "Hij reed ___ toch door, ook al mocht het niet.",
+        "answer": "stiekem"
       },
       {
-        "sentence": "Hij reisde met een valse paspoort naar België.",
-        "answer": "valse"
+        "sentence": "Hij moest zijn ___ inleveren na de overtreding.",
+        "answer": "rijbewijs"
       },
       {
-        "sentence": "Adoptie kan een mooie manier zijn om een gezin te vormen, maar het moet legaal gebeuren.",
-        "answer": "adoptie"
+        "sentence": "Hij bleek positief op de ___.",
+        "answer": "alcoholtest"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een belangrijk gevolg van deze adoptiefraude voor de slachtoffers?",
+      "question": "Waarom kreeg Ruben Van Gucht een rijverbod?",
       "options": [
-        "Ze krijgen veel cadeaus",
-        "Ze verliezen hun wettelijke identiteit",
-        "Ze worden meteen geadopteerd",
-        "Ze worden allemaal beroemd"
+        "Hij reed stiekem door na een alcoholtest.",
+        "Hij was betrokken bij een auto-ongeluk.",
+        "Hij reed zonder rijbewijs.",
+        "Hij verloor een weddenschap over rijden."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Hoe lang was de duur van het rijverbod?",
+      "options": [
+        "Vier maanden",
+        "Negen maanden",
+        "Twaalf maanden",
+        "Acht maanden"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom duurde het zo lang voordat deze zaak voor de rechter kwam?",
+      "question": "Waar vond de rechtszaak plaats?",
       "options": [
-        "Omdat niemand het wist",
-        "Omdat de documenten pas recent werden gevonden",
-        "Omdat de slachtoffers pas later durfden te spreken",
-        "Omdat de fraudeurs erg goed waren in verbergen"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat is de rol van de rechter in deze kwestie?",
-      "options": [
-        "De rechter organiseert feestjes",
-        "De rechter beslist over de straf en gerechtigheid",
-        "De rechter is een van de slachtoffers",
-        "De rechter kent de waarheid niet"
+        "Brussel",
+        "Dendermonde",
+        "Antwerpen",
+        "Gent"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De adoptiefraude zaken worden nooit opgelost omdat alle documenten verloren zijn.",
+      "statement": "Ruben Van Gucht kreeg een rijverbod omdat hij te hard reed.",
       "isTrue": false
     },
     {
-      "statement": "Slachtoffers van adoptiefraude kunnen hun ware identiteit volledig verliezen.",
+      "statement": "Hij kreeg een rijverbod van negen maanden en een boete.",
       "isTrue": true
     },
     {
-      "statement": "De rechter in deze zaak heeft al een vonnis geveld voordat de zaak begon.",
+      "statement": "Hij reed stiekem door, maar werd niet gepakt.",
       "isTrue": false
     }
   ]

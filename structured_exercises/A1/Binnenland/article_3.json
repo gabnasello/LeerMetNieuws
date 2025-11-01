@@ -3,103 +3,103 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
+  "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten",
   "topicNumber": 1,
   "article": {
-    "title": "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
-    "summary": "Het Hof van Cassatie verwerpt het cassatieberoep dat advocaat Hans Rieder en zijn ex-echtgenote hadden ingesteld tegen hun veroordeling wegens belastingontduiking door domiciliefraude."
+    "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten",
+    "summary": "Testaankoop waarschuwt voor gevaarlijke producten bij Temu. Sommige producten zijn niet veilig. Temu haalt ze nu offline."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "hof",
-        "definition": "een plaats waar rechters werken",
-        "sentence": "Het ___ besliste over de zaak.",
-        "answer": "hof"
+        "word": "producten",
+        "definition": "dingen die je koopt",
+        "sentence": "De ___ zijn nieuw of gebruikt.",
+        "answer": "producten"
       },
       {
-        "word": "ontduiking",
-        "definition": "niet betalen wat je moet betalen",
-        "sentence": "Hij pleegde ___ om minder te betalen.",
-        "answer": "ontduiking"
+        "word": "Testaankoop",
+        "definition": "een organisatie die producten test",
+        "sentence": "___ testte de producten en vond problemen.",
+        "answer": "Testaankoop"
       },
       {
-        "word": "cassatie",
-        "definition": "een hoger beroep bij de hoogste rechter",
-        "sentence": "Hij vroeg om ___ bij de hoogste rechter.",
-        "answer": "cassatie"
+        "word": "veilig",
+        "definition": "zonder gevaar",
+        "sentence": "Is het ___ om hier te spelen?",
+        "answer": "veilig"
       },
       {
-        "word": "echtgenote",
-        "definition": "de vrouw in een huwelijk",
-        "sentence": "Zijn ___ steunde hem niet.",
-        "answer": "echtgenote"
+        "word": "offline",
+        "definition": "niet verbonden met internet",
+        "sentence": "Mijn computer staat ___ nu.",
+        "answer": "offline"
       },
       {
-        "word": "verwerpt",
-        "definition": "weigeren of niet accepteren",
-        "sentence": "De rechter ___ het verzoek van de man.",
-        "answer": "verwerpt"
+        "word": "Temu",
+        "definition": "een online winkel",
+        "sentence": "___ verkoopt veel producten.",
+        "answer": "Temu"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De rechter ___ het verzoek van de man.",
-        "answer": "verwerpt"
+        "sentence": "De ___ zijn nieuw of gebruikt.",
+        "answer": "producten"
       },
       {
-        "sentence": "Het ___ besliste over de zaak.",
-        "answer": "hof"
+        "sentence": "___ verkoopt veel producten.",
+        "answer": "Temu"
       },
       {
-        "sentence": "Hij vroeg om ___ bij de hoogste rechter.",
-        "answer": "cassatie"
+        "sentence": "Mijn computer staat ___ nu.",
+        "answer": "offline"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is belasting?",
+      "question": "Wat betekent 'gevaarlijk'?",
       "options": [
-        "Een soort bel",
-        "Een type auto",
-        "Geld dat je aan de overheid betaalt",
-        "Een sport"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat doet een advocaat?",
-      "options": [
-        "Kookt eten",
-        "Helpt mensen met de wet",
-        "Bestuurt een auto",
-        "Speelt piano"
+        "leuk",
+        "gevaarlijk",
+        "mooi",
+        "duur"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het Hof van Cassatie?",
+      "question": "Wat doet Testaankoop?",
       "options": [
-        "Een soort hotel",
-        "Een restaurant",
-        "De hoogste rechter in België",
-        "Een sportschool"
+        "test producten",
+        "verkoopt eten",
+        "maakt kleren",
+        "geeft les"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is 'offline'?",
+      "options": [
+        "niet op internet",
+        "in de winkel",
+        "heel snel",
+        "heel traag"
+      ],
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Hans Rieder is een advocaat.",
+      "statement": "Temu is een online winkel.",
       "isTrue": true
     },
     {
-      "statement": "Het Hof van Cassatie heeft de advocaat vrijgesproken.",
+      "statement": "Testaankoop verkoopt gevaarlijke producten.",
       "isTrue": false
     },
     {
-      "statement": "De advocaat en zijn ex-echtgenote zijn veroordeeld.",
+      "statement": "Sommige producten zijn offline gehaald.",
       "isTrue": true
     }
   ]

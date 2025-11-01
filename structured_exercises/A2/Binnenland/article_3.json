@@ -1,100 +1,106 @@
 {
-  "id": 20,
+  "id": 21,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Chef Defensie over drones boven legerbasis",
+  "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten",
   "topicNumber": 1,
   "article": {
-    "title": "Chef Defensie over drones boven legerbasis",
-    "summary": "Defensie weet nog niet wie de drones bestuurde boven de legerbasis. Maar de bescherming tegen drones wordt beter. Men test de verdediging."
+    "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten",
+    "summary": "Testaankoop waarschuwt voor gevaarlijke producten bij Temu en Shein. Veel producten voldoen niet aan de Europese veiligheidsregels. Sommige sieraden en speelgoed zijn zelfs gevaarlijk. De winkels hebben sommige producten offline gehaald."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "basis",
-        "definition": "een plaats waar mensen werken of wonen",
-        "sentence": "De soldaten werken op een militaire ___.",
-        "answer": "basis"
+        "word": "producten",
+        "definition": "dingen die je koopt, zoals speelgoed of sieraden",
+        "sentence": "Sommige ___ zijn gevaarlijk.",
+        "answer": "producten"
       },
       {
-        "word": "leger",
-        "definition": "een groep mensen die een land verdedigt",
-        "sentence": "Het ___ bestaat uit soldaten en officieren.",
-        "answer": "leger"
+        "word": "veiligheidsregels",
+        "definition": "regels om ervoor te zorgen dat iets veilig is",
+        "sentence": "De producten voldoen niet aan de Europese ___.",
+        "answer": "veiligheidsregels"
       },
       {
-        "word": "drones",
-        "definition": "kleine vliegtuigen zonder piloot, op afstand bestuurd",
-        "sentence": "Soms zie je ___ in de lucht, ze maken foto's of video's.",
-        "answer": "drones"
+        "word": "sieraden",
+        "definition": "versieringen die je draagt, zoals een ketting of ring",
+        "sentence": "Sommige ___ zijn gevaarlijk omdat ze giftige stoffen bevatten.",
+        "answer": "sieraden"
       },
       {
-        "word": "bescherming",
-        "definition": "iets dat je veilig houdt, bijvoorbeeld tegen gevaar",
-        "sentence": "Een helm biedt ___ voor je hoofd bij een val.",
-        "answer": "bescherming"
+        "word": "speelgoed",
+        "definition": "spullen om mee te spelen, zoals poppen of auto's",
+        "sentence": "Ook sommig ___ is onveilig voor kinderen.",
+        "answer": "speelgoed"
+      },
+      {
+        "word": "gevaarlijk",
+        "definition": "niet veilig, kan schade veroorzaken",
+        "sentence": "Sommige producten zijn erg ___.",
+        "answer": "gevaarlijk"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Een helm biedt ___ voor je hoofd bij een val.",
-        "answer": "bescherming"
+        "sentence": "Sommige ___ zijn gevaarlijk.",
+        "answer": "producten"
       },
       {
-        "sentence": "De soldaten werken op een militaire ___.",
-        "answer": "basis"
+        "sentence": "Sommige ___ zijn gevaarlijk omdat ze giftige stoffen bevatten.",
+        "answer": "sieraden"
       },
       {
-        "sentence": "Soms zie je ___ in de lucht, ze maken foto's of video's.",
-        "answer": "drones"
+        "sentence": "Ook sommig ___ is onveilig voor kinderen.",
+        "answer": "speelgoed"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar vlogen de drones boven?",
+      "question": "Waarom waarschuwt Testaankoop voor producten van Temu en Shein?",
       "options": [
-        "Boven een park",
-        "Boven een winkelcentrum",
-        "Boven een legerbasis",
-        "Boven een school"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat betekent 'verscherpen'?",
-      "options": [
-        "Minder sterk maken",
-        "Versterken",
-        "Negeren",
-        "Verminderen"
+        "Omdat de producten te duur zijn",
+        "Omdat de producten niet voldoen aan de veiligheidsregels",
+        "Omdat de producten niet leverbaar zijn",
+        "Omdat de producten te populair zijn"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat doet Defensie om de drones te stoppen?",
+      "question": "Wat hebben Shein en Temu gedaan na de waarschuwing?",
       "options": [
-        "Niets, ze wachten af",
-        "Ze kopen nieuwe drones",
-        "Ze testen detectie en kopen bewapening",
-        "Ze sluiten de basis"
+        "Ze hebben alle producten verwijderd van hun websites",
+        "Ze hebben niets gedaan",
+        "Ze hebben alleen de gevaarlijke producten offline gehaald",
+        "Ze hebben nieuwe producten toegevoegd"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is een voorbeeld van een gevaarlijk product?",
+      "options": [
+        "Een fiets",
+        "Een boek",
+        "Een sieraad met giftige stoffen",
+        "Een computer"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De drones vlogen boven een winkelcentrum.",
+      "statement": "Testaankoop heeft producten van Temu en Shein getest en ze zijn allemaal veilig bevonden.",
       "isTrue": false
     },
     {
-      "statement": "Defensie weet wie de drones bestuurde.",
-      "isTrue": false
-    },
-    {
-      "statement": "De bescherming tegen drones wordt beter.",
+      "statement": "Temu is een online winkel waar je producten kunt kopen.",
       "isTrue": true
+    },
+    {
+      "statement": "Alle producten van Shein en Temu zijn nu offline gehaald.",
+      "isTrue": false
     }
   ]
 }

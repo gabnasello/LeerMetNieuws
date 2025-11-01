@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Fotograaf in Oekraïne",
+  "title": "Frans parlement neemt belasting af",
   "topicNumber": 1,
   "article": {
-    "title": "Fotograaf in Oekraïne",
-    "summary": "Een fotograaf laat het leven zien in Oekraïne. Drones brengen eten en spullen naar soldaten."
+    "title": "Frans parlement neemt belasting af",
+    "summary": "Frankrijk heeft een belasting voor rijke mensen. Het parlement verwerpt deze belasting."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "eten",
-        "definition": "wat je eet, zoals brood of fruit",
-        "sentence": "De drone brengt ___ naar de soldaten.",
-        "answer": "eten"
+        "word": "Frans",
+        "definition": "van of uit Frankrijk",
+        "sentence": "De ___ keuken is bekend.",
+        "answer": "Frans"
       },
       {
-        "word": "soldaten",
-        "definition": "mensen die vechten in een leger",
-        "sentence": "De ___ vechten in Oekraïne.",
-        "answer": "soldaten"
+        "word": "parlement",
+        "definition": "een groep mensen die wetten maakt",
+        "sentence": "Het ___ komt elke dag bijeen.",
+        "answer": "parlement"
       },
       {
-        "word": "spullen",
-        "definition": "alle dingen die je hebt, zoals kleren of gereedschap",
-        "sentence": "De drone brengt ___ naar de soldaten.",
-        "answer": "spullen"
+        "word": "verwerpt",
+        "definition": "niet accepteren, weigeren",
+        "sentence": "De groep ___ het voorstel.",
+        "answer": "verwerpt"
       },
       {
-        "word": "Oekraïne",
-        "definition": "een land in Europa",
-        "sentence": "Hij reist naar ___ voor zijn werk.",
-        "answer": "Oekraïne"
+        "word": "belasting",
+        "definition": "geld dat je aan de overheid betaalt",
+        "sentence": "Ik betaal ___ over mijn inkomen.",
+        "answer": "belasting"
       },
       {
-        "word": "fotograaf",
-        "definition": "iemand die foto's maakt",
-        "sentence": "De ___ maakt een foto van de drone.",
-        "answer": "fotograaf"
+        "word": "rijk",
+        "definition": "iemand met veel geld",
+        "sentence": "Hij is erg ___ en heeft een groot huis.",
+        "answer": "rijk"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij reist naar ___ voor zijn werk.",
-        "answer": "Oekraïne"
+        "sentence": "De groep ___ het voorstel.",
+        "answer": "verwerpt"
       },
       {
-        "sentence": "De ___ vechten in Oekraïne.",
-        "answer": "soldaten"
+        "sentence": "De ___ keuken is bekend.",
+        "answer": "Frans"
       },
       {
-        "sentence": "De drone brengt ___ naar de soldaten.",
-        "answer": "eten"
+        "sentence": "Ik betaal ___ over mijn inkomen.",
+        "answer": "belasting"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat laat de fotograaf zien in Oekraïne?",
+      "question": "Waar gaat de tekst over?",
       "options": [
-        "Het leven van soldaten",
-        "De stad waar hij woont",
-        "Een nieuwe drone",
-        "Zijn eigen familie"
+        "Een feest in Frankrijk",
+        "Een nieuwe belasting voor rijke mensen",
+        "Een sportevenement",
+        "Een nieuwe wet voor alle mensen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat doet het parlement met de belasting?",
+      "options": [
+        "Ze accepteren het",
+        "Ze weigeren het",
+        "Ze veranderen het",
+        "Ze vergeten het"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de 'rijkentaks'?",
+      "options": [
+        "Een belasting voor rijke mensen",
+        "Een nieuwe stad",
+        "Een Franse dans",
+        "Een soort voedsel"
       ],
       "correctAnswer": 1
-    },
-    {
-      "question": "Wat doen de drones in de tekst?",
-      "options": [
-        "Ze vechten in de oorlog.",
-        "Ze brengen eten en spullen.",
-        "Ze maken foto's van soldaten.",
-        "Ze wonen in Oekraïne."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Waar is de fotograaf?",
-      "options": [
-        "In Nederland",
-        "In Oekraïne",
-        "In zijn huis",
-        "Op school"
-      ],
-      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De fotograaf is in Oekraïne.",
+      "statement": "Frankrijk heeft een parlement.",
       "isTrue": true
     },
     {
-      "statement": "De drones vechten in de oorlog.",
+      "statement": "De belasting is voor arme mensen.",
       "isTrue": false
     },
     {
-      "statement": "De fotograaf laat het leven in Oekraïne zien.",
+      "statement": "Het parlement neemt de belasting niet aan.",
       "isTrue": true
     }
   ]

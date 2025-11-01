@@ -1,106 +1,106 @@
 {
-  "id": 24,
+  "id": 25,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Lawaai in Gent",
+  "title": "Politie en protest",
   "topicNumber": 1,
   "article": {
-    "title": "Lawaai in Gent",
-    "summary": "In Gent is er veel lawaai van trams. Bewoners kunnen niet slapen. De rechter wil dat de tram minder lawaai maakt."
+    "title": "Politie en protest",
+    "summary": "De politie en mensen op straat hebben problemen. De politie gebruikt geweld. Een groep vraagt om onderzoek."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Lawaai",
-        "definition": "veel geluid",
-        "sentence": "Ik houd niet van ___.",
-        "answer": "lawaai"
+        "word": "vraagt",
+        "definition": "vraagt om iets",
+        "sentence": "Hij ___ om hulp.",
+        "answer": "vraagt"
       },
       {
-        "word": "trams",
-        "definition": "een soort trein in de stad",
-        "sentence": "De ___ rijden op straat.",
-        "answer": "trams"
+        "word": "geweld",
+        "definition": "slecht en hard gedrag",
+        "sentence": "Soms is er ___ op straat.",
+        "answer": "geweld"
       },
       {
-        "word": "bewoners",
-        "definition": "mensen die in een huis of stad wonen",
-        "sentence": "De ___ van de straat zijn thuis.",
-        "answer": "bewoners"
+        "word": "straat",
+        "definition": "weg in een stad of dorp",
+        "sentence": "Kinderen spelen op de ___.",
+        "answer": "straat"
       },
       {
-        "word": "rechter",
-        "definition": "iemand die in de rechtbank werkt",
-        "sentence": "De ___ zegt dat het lawaai moet stoppen.",
-        "answer": "rechter"
+        "word": "politie",
+        "definition": "mensen die de wet handhaven",
+        "sentence": "De ___ helpt mensen.",
+        "answer": "politie"
       },
       {
-        "word": "lawaai",
-        "definition": "veel geluid",
-        "sentence": "Er is te veel ___ in de stad.",
-        "answer": "lawaai"
+        "word": "groep",
+        "definition": "meerdere personen samen",
+        "sentence": "Een ___ mensen liep naar het park.",
+        "answer": "groep"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ik houd niet van ___.",
-        "answer": "lawaai"
+        "sentence": "De ___ helpt mensen.",
+        "answer": "politie"
       },
       {
-        "sentence": "De ___ zegt dat het lawaai moet stoppen.",
-        "answer": "rechter"
+        "sentence": "Een ___ mensen liep naar het park.",
+        "answer": "groep"
       },
       {
-        "sentence": "De ___ rijden op straat.",
-        "answer": "trams"
+        "sentence": "Kinderen spelen op de ___.",
+        "answer": "straat"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom zijn de bewoners van Gent wakker?",
+      "question": "Waar gaat de tekst over?",
       "options": [
-        "Omdat er veel lawaai is van trams",
-        "Omdat ze naar een feest gaan",
-        "Omdat ze veel werken",
-        "Omdat ze ziek zijn"
+        "Politie die geweld gebruikt",
+        "Mensen die dansen",
+        "Kinderen die leren",
+        "Feest in de stad"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat wil de rechter?",
+      "question": "Wat doet de groep?",
       "options": [
-        "Dat de tram minder lawaai maakt",
-        "Dat de tram sneller gaat rijden",
-        "Dat de bewoners verhuizen",
-        "Dat de tram stopt met rijden"
+        "Vraagt om onderzoek",
+        "Gaat naar huis",
+        "Koopt eten",
+        "Speelt buiten"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waar wonen de bewoners?",
+      "question": "Wat is het probleem?",
       "options": [
-        "In Gent",
-        "In Amsterdam",
-        "In een groot huis",
-        "Op een boerderij"
+        "Politie gebruikt geweld",
+        "Er is geen water",
+        "Iemand is alleen",
+        "Het weer is koud"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De tram maakt veel lawaai.",
+      "statement": "De politie gebruikt geweld.",
       "isTrue": true
     },
     {
-      "statement": "De rechter wil dat de tram meer lawaai maakt.",
+      "statement": "Iedereen is thuis.",
       "isTrue": false
     },
     {
-      "statement": "De bewoners kunnen goed slapen door het lawaai.",
-      "isTrue": false
+      "statement": "Een groep vraagt om onderzoek.",
+      "isTrue": true
     }
   ]
 }

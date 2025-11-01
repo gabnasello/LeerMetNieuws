@@ -1,106 +1,106 @@
 {
-  "id": 28,
+  "id": 27,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Gentse ‘tramterreur’ houdt buurtbewoners wakker: “Waarom zo veel, zo laat, en zo luid?”",
+  "title": "Politievakbond vraagt parlementair onderzoek naar politiegeweld",
   "topicNumber": 1,
   "article": {
-    "title": "Gentse ‘tramterreur’ houdt buurtbewoners wakker: “Waarom zo veel, zo laat, en zo luid?”",
-    "summary": "In de Gentse Bernard Spaelaan zijn de bewoners de wanhoop nabij: sinds een paar maanden denderen per dag zo’n 700 trams aan 100 decibel door de straat. De vrederechter vraagt De Lijn de overlast te verminderen."
+    "title": "Politievakbond vraagt parlementair onderzoek naar politiegeweld",
+    "summary": "Van “flagrante schending van de interventieregels” tot het gebruik van traangas en matrakken, de socialistische politievakbond ACOD veroordeelt nu zelf het gedrag van sommige politieagenten tijdens verschillende manifestaties in oktober. De vakbond vraagt het parlement om een onafhankelijke onderzoekscommissie op te richten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "wanhoop",
-        "definition": "gevoel van totale hopeloosheid of verlatenheid",
-        "sentence": "Na het verlies van zijn baan voelde hij een diepe ___.",
-        "answer": "wanhoop"
+        "word": "manifestaties",
+        "definition": "openbare demonstraties of bijeenkomsten waar standpunten worden getoond",
+        "sentence": "De politie was aanwezig bij verschillende ___ in oktober.",
+        "answer": "manifestaties"
       },
       {
-        "word": "overlast",
-        "definition": "hinder of last die wordt veroorzaakt",
-        "sentence": "De bouwwerkzaamheden veroorzaken veel ___ voor de buurt.",
-        "answer": "overlast"
+        "word": "schending",
+        "definition": "het overtreden of niet naleven van een regel of wet",
+        "sentence": "De agenten werden beschuldigd van ___ van de regels.",
+        "answer": "schending"
       },
       {
-        "word": "bewoners",
-        "definition": "mensen die in een bepaalde plaats of gebouw wonen",
-        "sentence": "De ___ van deze straat klagen over geluidsoverlast.",
-        "answer": "bewoners"
+        "word": "vakbond",
+        "definition": "een organisatie die de belangen van werknemers verdedigt",
+        "sentence": "De ___ komt op voor de rechten van de werknemers.",
+        "answer": "vakbond"
       },
       {
-        "word": "bewoners",
-        "definition": "mensen die in een bepaalde plaats of gebouw wonen",
-        "sentence": "De ___ van het gebouw werden geëvacueerd wegens brand.",
-        "answer": "bewoners"
+        "word": "agenten",
+        "definition": "leden van de politie die toezicht houden op de openbare orde",
+        "sentence": "De ___ patrouilleerden in de stad.",
+        "answer": "agenten"
       },
       {
-        "word": "trams",
-        "definition": "openbaar vervoermiddel dat op rails rijdt, vaak in de stad",
-        "sentence": "De ___ in deze stad rijden tot laat in de avond.",
-        "answer": "trams"
+        "word": "matrakken",
+        "definition": "een wapen in de vorm van een stok, gebruikt voor slag- en stootacties",
+        "sentence": "De politie gebruikte ___ om de menigte uiteen te drijven.",
+        "answer": "matrakken"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ van deze straat klagen over geluidsoverlast.",
-        "answer": "bewoners"
+        "sentence": "De politie gebruikte ___ om de menigte uiteen te drijven.",
+        "answer": "matrakken"
       },
       {
-        "sentence": "De ___ van het gebouw werden geëvacueerd wegens brand.",
-        "answer": "bewoners"
+        "sentence": "De agenten werden beschuldigd van ___ van de regels.",
+        "answer": "schending"
       },
       {
-        "sentence": "De ___ in deze stad rijden tot laat in de avond.",
-        "answer": "trams"
+        "sentence": "De politie was aanwezig bij verschillende ___ in oktober.",
+        "answer": "manifestaties"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom zijn de bewoners van de Bernard Spaelaan overlast gaan ervaren?",
+      "question": "Wat wordt bedoeld met 'flagrante schending' in de context?",
       "options": [
-        "Omdat er meer auto's zijn dan normaal",
-        "Omdat het aantal trams is toegenomen tot 700 per dag",
-        "Omdat er een brand was in het gebouw",
-        "Omdat de tramrails zijn vernieuwd"
+        "Een duidelijk zichtbare overtreding",
+        "Een kleine vergissing",
+        "Een geheim gehouden feit",
+        "Een onbedoelde handeling"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is de rol van de ACOD in deze kwestie?",
+      "options": [
+        "Ze verdedigen het gedrag van de politieagenten.",
+        "Ze veroordelen het gedrag en vragen een onafhankelijk onderzoek.",
+        "Ze negeren de incidenten volledig.",
+        "Ze steunen de politieagenten onvoorwaardelijk."
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van de vrederechter in deze situatie?",
+      "question": "Wat is een 'matrak' in deze context?",
       "options": [
-        "Hij organiseert protesten tegen de overlast",
-        "Hij beveelt De Lijn om de overlast te verminderen",
-        "Hij geeft gratis ov-kaarten aan de bewoners",
-        "Hij bemiddelt tussen de bewoners en de trambestuurders"
+        "Een soort muziekinstrument",
+        "Een politie-uitrusting voor controle, zoals een wapen",
+        "Een onderdeel van een auto",
+        "Een medisch hulpmiddel"
       ],
       "correctAnswer": 2
-    },
-    {
-      "question": "Hoe probeert De Lijn de overlast te verminderen volgens de samenvatting?",
-      "options": [
-        "Door minder trams te laten rijden",
-        "Door tramroutes te verleggen naar andere straten",
-        "Door geluiddempende maatregelen te nemen op de trams",
-        "Door de vrederechter in te schakelen"
-      ],
-      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De bewoners van de Bernard Spaelaan in Gent ervaren overlast door het hoge aantal trams dat daar rijdt.",
-      "isTrue": true
-    },
-    {
-      "statement": "De vrederechter heeft De Lijn bevolen om de overlast volledig te elimineren.",
+      "statement": "De vakbond ACOD steunt het gebruik van traangas door de politie.",
       "isTrue": false
     },
     {
-      "statement": "De overlast wordt veroorzaakt doordat de trams 's nachts rijden en veel geluid maken.",
+      "statement": "Het parlement wordt gevraagd een onafhankelijke commissie in te stellen.",
       "isTrue": true
+    },
+    {
+      "statement": "De incidenten vonden plaats in december.",
+      "isTrue": false
     }
   ]
 }

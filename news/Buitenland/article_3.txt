@@ -1,15 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-10-30 04:28 UCT
+Nieuwsupdate: 2025-11-01 04:26 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers
-Link: https://www.standaard.be/buitenland/onze-fotograaf-aan-het-front-in-oekrane-gronddrones-de-onmisbare-nieuwkomers/98251787.html
-Datum: Wed, 29 Oct 2025 22:59:00 GMT
-Samenvatting: De Standaard-fotograaf Gert Jochems geeft een inkijk in het leven van alledag in Oekraïens oorlogsgebied. Hij kon ter plekke volgen hoe de Azov-brigade gronddrones inzet voor de bevoorrading langs de levensgevaarlijke frontlijn.
+Titel: Frans parlement verwerpt rijkentaks: “Wonderbelasting bestaat niet”
+Link: https://www.standaard.be/buitenland/frans-parlement-verwerpt-rijkentaks-wonderbelasting-bestaat-niet/101660881.html
+Datum: Fri, 31 Oct 2025 18:12:00 GMT
+Samenvatting: De Assemblée nationale, het Franse parlement, heeft vrijdag voorstellen voor een belasting op de hoogste vermogens met een grote meerderheid verworpen.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/m4xsgj-img-0015-kopieren.jpg/alternates/BASE_SIXTEEN_NINE/IMG_0015%20kopie%CC%88ren.jpg
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/2ti755-debate-on-french-budget-at-the-national-assembly-in-paris/alternates/BASE_SIXTEEN_NINE/Debate%20on%20French%20budget%20at%20the%20National%20Assembly%20in%20Paris
+Premium: false
 ------------------------------------------------------------

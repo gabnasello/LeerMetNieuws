@@ -29,104 +29,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "D66 en PVD allebei op 26 zetels, verschil is minder dan 2.000 stemmen",
+    title: "Witte Huis beperkt toegang voor journalisten",
     topicNumber: 1,
     article: {
-      title: "D66 en PVV allebei op 26 zetels, verschil is minder dan 2.000 stemmen",
-      summary: "Nederland trekt woensdag opnieuw naar de stembus voor de vervroegde parlementsverkiezingen na de val van het kabinet-Schoof. Volg hier de laatste updates."
+      title: "Witte Huis beperkt toegang voor journalisten",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "kabinet",
-          definition: "de regering van een land",
-          sentence: "Het nieuwe ___ bestaat uit ministers en staatssecretarissen.",
-          answer: "kabinet"
+          word: "beperkt",
+          definition: "niet volledig, met een grens",
+          sentence: "De toegang tot het gebied is ___.",
+          answer: "beperkt"
         },
         {
-          word: "stemmen",
-          definition: "stemmen, hetzelfde woord als eerder, maar nu als zelfstandig naamwoord",
-          sentence: "Er werden veel ___ uitgebracht bij de verkiezingen.",
-          answer: "stemmen"
+          word: "journalisten",
+          definition: "mensen die nieuwsberichten schrijven",
+          sentence: "De ___ interviewden de politicus.",
+          answer: "journalisten"
         },
         {
-          word: "zetels",
-          definition: "plaatsen in het parlement voor een politieke partij",
-          sentence: "Elke partij probeert zo veel mogelijk ___ te winnen.",
-          answer: "zetels"
+          word: "wereldwijd",
+          definition: "over de hele wereld",
+          sentence: "Deze trend is ___ te zien.",
+          answer: "wereldwijd"
         },
         {
-          word: "vervroegde",
-          definition: "vroeger dan gepland, eerder dan verwacht",
-          sentence: "De verkiezingen waren ___ uitgeschreven.",
-          answer: "vervroegde"
+          word: "updates",
+          definition: "nieuwe, recente informatie",
+          sentence: "Blijf op de hoogte met onze ___.",
+          answer: "updates"
         },
         {
-          word: "verkiezingen",
-          definition: "verkiezingen, wanneer mensen stemmen voor een nieuwe regering",
-          sentence: "Er zijn binnenkort weer nieuwe ___ in Nederland.",
-          answer: "verkiezingen"
+          word: "brengt",
+          definition: "veroorzaakt, levert op",
+          sentence: "De nieuwe regel ___ veel problemen.",
+          answer: "brengt"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het nieuwe ___ bestaat uit ministers en staatssecretarissen.",
-          answer: "kabinet"
+          sentence: "Blijf op de hoogte met onze ___.",
+          answer: "updates"
         },
         {
-          sentence: "Er zijn binnenkort weer nieuwe ___ in Nederland.",
-          answer: "verkiezingen"
+          sentence: "Deze trend is ___ te zien.",
+          answer: "wereldwijd"
         },
         {
-          sentence: "De verkiezingen waren ___ uitgeschreven.",
-          answer: "vervroegde"
+          sentence: "De toegang tot het gebied is ___.",
+          answer: "beperkt"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'vervroegde' in deze context?",
+        question: "Wat betekent 'beperkt' in deze context?",
         options: [
-          "te laat gepland",
-          "te vroeg gepland",
-          "niet gepland",
-          "onbekend"
+          "oneindig",
+          "beperkt",
+          "geheim",
+          "gewoon"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een 'zetel' in de politiek?",
+        question: "Wat is de rol van journalisten in dit artikel?",
         options: [
-          "een stoel",
-          "een politieke functie",
-          "een mandaat in het parlement",
-          "een verkiezingsdistrict"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Waarom wordt er opnieuw gestemd in Nederland?",
-        options: [
-          "Omdat het oude kabinet viel",
-          "Omdat er een feest was",
-          "Omdat de verkiezingen elk jaar zijn",
-          "Omdat er een nieuwe koning is"
+          "Ze worden buitengesloten",
+          "Ze krijgen speciale toegang",
+          "Ze schrijven over het weer",
+          "Ze bepalen het nieuws"
         ],
         correctAnswer: 1
+      },
+      {
+        question: "Wat is de hoofdgedachte van de samenvatting?",
+        options: [
+          "Trump verandert niets",
+          "Trump's tweede termijn beïnvloedt de wereld",
+          "Journalisten hebben meer macht",
+          "De toegang is volledig open"
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Het kabinet-Schoof is nog steeds aan de macht.",
+        statement: "Journalisten mogen overal in het Witte Huis komen.",
         isTrue: false
       },
       {
-        statement: "D66 en PVD hebben evenveel zetels.",
+        statement: "Donald Trump is momenteel president van de Verenigde Staten.",
+        isTrue: false
+      },
+      {
+        statement: "De toegang tot het Witte Huis is beperkt voor journalisten.",
         isTrue: true
-      },
-      {
-        statement: "De verkiezingen waren oorspronkelijk gepland voor volgend jaar.",
-        isTrue: false
       }
     ]
   },
@@ -135,103 +135,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
+    title: "Oorlog in Oekraïne",
     topicNumber: 1,
     article: {
-      title: "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
-      summary: "Storm Melissa is als een orkaan van categorie vijf aan land gekomen in Jamaica. Voor het Caraïbisch eiland is het de zwaarste storm ooit."
+      title: "Oorlog in Oekraïne",
+      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
     },
     vocabulary: {
       words: [
         {
-          word: "eiland",
-          definition: "een stuk land omgeven door water, kleiner dan een continent",
-          sentence: "Jamaica is een ___ in de Caraïben.",
-          answer: "eiland"
+          word: "oorlog",
+          definition: "een situatie waarin landen of groepen vechten",
+          sentence: "De ___ in Oekraïne is begonnen in 2022.",
+          answer: "oorlog"
         },
         {
-          word: "zwaarste",
-          definition: "het meest in gewicht of moeilijkst",
-          sentence: "Dit is de ___ storm die we ooit hebben gezien.",
-          answer: "zwaarste"
+          word: "download",
+          definition: "iets van internet naar je apparaat halen",
+          sentence: "___ de app om op de hoogte te blijven.",
+          answer: "download"
         },
         {
-          word: "orkaan",
-          definition: "een hele sterke storm met veel wind",
-          sentence: "Er komt een ___ aan, dus we moeten voorzichtig zijn.",
-          answer: "orkaan"
+          word: "Oekraïne",
+          definition: "een land in Oost-Europa",
+          sentence: "De oorlog in ___ duurt nu al twee jaar.",
+          answer: "Oekraïne"
         },
         {
-          word: "categorie",
-          definition: "een groep of type, bijvoorbeeld van een storm",
-          sentence: "Deze storm is van ___ vijf, dus het is heel gevaarlijk.",
-          answer: "categorie"
+          word: "ontwikkelingen",
+          definition: "gebeurtenissen of veranderingen die plaatsvinden",
+          sentence: "Volg de laatste ___ in het conflict op onze website.",
+          answer: "ontwikkelingen"
         },
         {
-          word: "stroom",
-          definition: "elektriciteit die stroomt, of een rivier van water",
-          sentence: "Na de storm was er geen ___ meer in huis.",
-          answer: "stroom"
+          word: "melding",
+          definition: "een bericht dat je iets laat weten",
+          sentence: "Je krijgt een ___ wanneer er nieuws is.",
+          answer: "melding"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Na de storm was er geen ___ meer in huis.",
-          answer: "stroom"
+          sentence: "___ de app om op de hoogte te blijven.",
+          answer: "download"
         },
         {
-          sentence: "Er komt een ___ aan, dus we moeten voorzichtig zijn.",
-          answer: "orkaan"
+          sentence: "Je krijgt een ___ wanneer er nieuws is.",
+          answer: "melding"
         },
         {
-          sentence: "Deze storm is van ___ vijf, dus het is heel gevaarlijk.",
-          answer: "categorie"
+          sentence: "Volg de laatste ___ in het conflict op onze website.",
+          answer: "ontwikkelingen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is een orkaan?",
+        question: "Wat is de hoofdstad van Oekraïne?",
         options: [
-          "Een soort dier",
-          "Een soort auto",
-          "Een soort feest",
-          "Een soort storm"
+          "Kiev",
+          "Parijs",
+          "Berlijn",
+          "Londen"
         ],
-        correctAnswer: 4
+        correctAnswer: 1
       },
       {
-        question: "Waar is de orkaan Melissa ontstaan?",
+        question: "Sinds wanneer is er oorlog in Oekraïne?",
         options: [
-          "In Nederland",
-          "In de Verenigde Staten",
-          "In de Atlantische Oceaan",
-          "In de woestijn"
+          "sinds 2022",
+          "sinds 2000",
+          "sinds 2014",
+          "sinds 2020"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat betekent 'zwaarste' in deze context?",
+        question: "Waarom is het belangrijk om updates te volgen?",
         options: [
-          "Heel licht",
-          "Heel zwaar",
-          "Heel oud",
-          "Heel nieuw"
+          "Om te leren",
+          "Om op de hoogte te blijven",
+          "Om te vermaken",
+          "Om te vergeten"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Orkaan Melissa is de zwaarste storm ooit voor Jamaica.",
-        isTrue: true
-      },
-      {
-        statement: "De orkaan heeft voor stroomuitval in Nederland gezorgd.",
+        statement: "Oekraïne ligt in Azië.",
         isTrue: false
       },
       {
-        statement: "Er zijn 530.000 huishoudens op Jamaica zonder stroom door de orkaan.",
+        statement: "De oorlog in Oekraïne begon in 2022.",
+        isTrue: true
+      },
+      {
+        statement: "Je kunt de DS Nieuws app downloaden voor updates.",
         isTrue: true
       }
     ]
@@ -241,103 +241,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
+    title: "Frans parlement verwerpt rijkentaks",
     topicNumber: 1,
     article: {
-      title: "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
-      summary: "De Standaard-fotograaf Gert Jochems geeft een inkijk in het leven van alledag in Oekraïens oorlogsgebied. Hij kon ter plekke volgen hoe de Azov-brigade gronddrones inzet voor de bevoorrading langs de levensgevaarlijke frontlijn."
+      title: "Frans parlement verwerpt rijkentaks",
+      summary: "Het Franse parlement heeft voorstellen om de rijksten te belasten verworpen. Er is geen sprake van een wonderbelasting."
     },
     vocabulary: {
       words: [
         {
-          word: "front",
-          definition: "gebied waar gevochten wordt",
-          sentence: "Hij reisde naar het ___ om te filmen.",
-          answer: "front"
+          word: "Frans",
+          definition: "Betrekking hebbend op Frankrijk",
+          sentence: "Het ___ parlement heeft de wet aangenomen.",
+          answer: "Frans"
         },
         {
-          word: "gronddrones",
-          definition: "vliegende machines die op de grond werken",
-          sentence: "De ___ brengen medicijnen naar soldaten.",
-          answer: "gronddrones"
+          word: "parlement",
+          definition: "Een groep mensen die wetten maakt",
+          sentence: "Het Nederlands ___ bestaat uit de Eerste en Tweede Kamer.",
+          answer: "parlement"
         },
         {
-          word: "frontlijn",
-          definition: "lijn waar de twee kanten elkaar ontmoeten",
-          sentence: "De ___ verplaatst zich dagelijks.",
-          answer: "frontlijn"
+          word: "verwerpt",
+          definition: "Niet accepteren, afwijzen",
+          sentence: "De regering ___ het voorstel voor een nieuwe wet.",
+          answer: "verwerpt"
         },
         {
-          word: "fotograaf",
-          definition: "iemand die foto's maakt",
-          sentence: "De ___ maakt foto's van de oorlog.",
-          answer: "fotograaf"
+          word: "rijkentaks",
+          definition: "Belasting voor mensen met veel geld",
+          sentence: "De ___ is bedoeld om de rijken te belasten.",
+          answer: "rijkentaks"
         },
         {
-          word: "oorlogsgebied",
-          definition: "plaats waar oorlog is",
-          sentence: "Hij reisde naar het ___ om te helpen.",
-          answer: "oorlogsgebied"
+          word: "is",
+          definition: "Zijn, het tegenwoordige tijd van 'zijn'",
+          sentence: "Hij ___ erg blij met het resultaat.",
+          answer: "is"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij reisde naar het ___ om te helpen.",
-          answer: "oorlogsgebied"
+          sentence: "Het Nederlands ___ bestaat uit de Eerste en Tweede Kamer.",
+          answer: "parlement"
         },
         {
-          sentence: "De ___ brengen medicijnen naar soldaten.",
-          answer: "gronddrones"
+          sentence: "Het ___ parlement heeft de wet aangenomen.",
+          answer: "Frans"
         },
         {
-          sentence: "De ___ verplaatst zich dagelijks.",
-          answer: "frontlijn"
+          sentence: "De ___ is bedoeld om de rijken te belasten.",
+          answer: "rijkentaks"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'onmisbaar' in de tekst?",
+        question: "Wat is het Franse parlement?",
         options: [
-          "niet te missen",
-          "heel erg nodig",
-          "onzichtbaar",
-          "onbereikbaar"
+          "Een gebouw in Parijs",
+          "De Assemblée Nationale",
+          "Een groep Franse ministers",
+          "De Franse regering"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waar gebruikt men gronddrones volgens de tekst?",
+        question: "Wat betekent 'verwerpt' in deze context?",
         options: [
-          "in vredestijd",
-          "in oorlogsgebieden",
-          "alleen in laboratoria",
-          "voor filmopnames"
+          "Accepteert",
+          "Verwerpt",
+          "Wijst af",
+          "Verbergt"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Wat is de rol van de fotograaf in de tekst?",
+        question: "Waar gaat de tekst over?",
         options: [
-          "hij vecht mee",
-          "hij maakt foto's",
-          "hij leidt de drones",
-          "hij behandelt gewonden"
+          "Een belasting voor iedereen",
+          "Een belasting voor de armen",
+          "Een belasting voor de rijken",
+          "Een feest in Frankrijk"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Gert Jochems is een fotograaf voor De Standaard.",
-        isTrue: true
-      },
-      {
-        statement: "Gronddrones worden gebruikt om te bouwen.",
+        statement: "Het Franse parlement heeft de rijkentaks goedgekeurd.",
         isTrue: false
       },
       {
-        statement: "De Azov-brigade gebruikt drones voor bevoorrading.",
+        statement: "Er is een nieuwe wet aangenomen in Frankrijk.",
+        isTrue: false
+      },
+      {
+        statement: "De rijkentaks is niet ingevoerd in Frankrijk.",
         isTrue: true
       }
     ]
@@ -347,103 +347,91 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Verdachte in grootschalige adoptiefraude na veertig jaar voor de rechter",
+    title: "Rijverbod en boete voor Van Gucht",
     topicNumber: 1,
     article: {
-      title: "Verdachte in grootschalige adoptiefraude na veertig jaar voor de rechter",
-      summary: "Er komt een Belgisch strafproces over de adoptie van kinderen uit Guatemala. Deze kinderen werden gestolen en met valse papieren naar België gebracht. De biologische moeder weet mogelijk niet eens dat haar kind nog leeft."
+      title: "Rijverbod en boete voor Van Gucht",
+      summary: "Ruben Van Gucht heeft een rijverbod en een boete gekregen omdat hij meerdere keren reed met alcohol op."
     },
     vocabulary: {
       words: [
         {
-          word: "moeder",
-          definition: "de vrouwelijke ouder van een kind",
-          sentence: "De biologische ___ wist misschien niet dat haar kind nog leefde.",
-          answer: "moeder"
+          word: "rijverbod",
+          definition: "niet mogen rijden",
+          sentence: "Hij kreeg een ___ omdat hij te veel dronk.",
+          answer: "rijverbod"
         },
         {
-          word: "Guatemala",
-          definition: "een land in Midden-Amerika",
-          sentence: "Veel kinderen werden illegaal geadopteerd uit ___.",
-          answer: "Guatemala"
+          word: "boete",
+          definition: "geld dat je moet betalen als straf",
+          sentence: "Hij moest een ___ van 100 euro betalen.",
+          answer: "boete"
         },
         {
-          word: "kinderen",
-          definition: "jonge personen, meestal onder de 18 jaar",
-          sentence: "De ___ werden illegaal geadopteerd uit Guatemala.",
-          answer: "kinderen"
-        },
-        {
-          word: "adoptie",
-          definition: "het officieel aannemen van een kind dat niet van jezelf is",
-          sentence: "De ___ van kinderen uit andere landen is soms illegaal.",
-          answer: "adoptie"
-        },
-        {
-          word: "valse",
-          definition: "niet echt, nep of onecht",
-          sentence: "Ze kregen ___ documenten om de adoptie te verbergen.",
-          answer: "valse"
+          word: "alcohol",
+          definition: "een stof in drank die je dronken kan maken",
+          sentence: "Hij had te veel ___ gedronken voor hij ging rijden.",
+          answer: "alcohol"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ werden illegaal geadopteerd uit Guatemala.",
-          answer: "kinderen"
+          sentence: "Hij had te veel ___ gedronken voor hij ging rijden.",
+          answer: "alcohol"
         },
         {
-          sentence: "Veel kinderen werden illegaal geadopteerd uit ___.",
-          answer: "Guatemala"
+          sentence: "Hij moest een ___ van 100 euro betalen.",
+          answer: "boete"
         },
         {
-          sentence: "Ze kregen ___ documenten om de adoptie te verbergen.",
-          answer: "valse"
+          sentence: "Hij kreeg een ___ omdat hij te veel dronk.",
+          answer: "rijverbod"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat deze rechtszaak over?",
+        question: "Wat is de hoofdreden voor Van Gucht's straf?",
         options: [
-          "Een adoptie van een kind uit Nederland",
-          "Een adoptie van kinderen uit Guatemala",
-          "Een diefstal van kunstwerken",
-          "Een verkeersongeval in België"
+          "Hij reed te hard",
+          "Hij was dronken",
+          "Hij reed stiekem door",
+          "Hij had een ongeluk"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat is een 'rijverbod'?",
+        options: [
+          "Een feestje in de auto",
+          "Een verbod om te rijden",
+          "Een soort boete",
+          "Een type verkeersbord"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een belangrijk gevolg van deze fraude?",
+        question: "Hoe vaak is Van Gucht betrapt?",
         options: [
-          "Kinderen groeien op zonder te weten wie hun echte ouders zijn.",
-          "Kinderen krijgen te veel speelgoed.",
-          "Kinderen worden verliefd op hun adoptieouders.",
-          "Kinderen vergeten hun verleden."
+          "Eén keer",
+          "Twee keer",
+          "Drie keer",
+          "Vier keer"
         ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is waar over de biologische moeder?",
-        options: [
-          "Ze weet zeker dat haar kind nog leeft.",
-          "Ze heeft nooit geweten dat ze een kind had.",
-          "Ze heeft het kind zelf aan de adoptieouders gegeven.",
-          "Ze is de adoptiemoeder van het kind."
-        ],
-        correctAnswer: 2
+        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "De adoptiekinderen werden met valse papieren naar België gebracht.",
-        isTrue: true
-      },
-      {
-        statement: "De biologische moeder was altijd al op de hoogte van de adoptie.",
+        statement: "Van Gucht kreeg alleen een boete, geen rijverbod.",
         isTrue: false
       },
       {
-        statement: "Deze zaak speelt zich af in Guatemala alleen.",
+        statement: "Hij reed stiekem door na een alcoholtest.",
+        isTrue: true
+      },
+      {
+        statement: "Hij kreeg de straf omdat hij vier keer een ongeluk had.",
         isTrue: false
       }
     ]
@@ -453,103 +441,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Gentse ‘tramterreur’ houdt buurtbewoners wakker: Waarom zo veel, zo laat, en zo luid?",
+    title: "Politievakbond vraagt parlementair onderzoek naar politiegeweld",
     topicNumber: 1,
     article: {
-      title: "Gentse ‘tramterreur’ houdt buurtbewoners wakker: Waarom zo veel, zo laat, en zo luid?",
-      summary: "In de Gentse Bernard Spaelaan zijn de bewoners de wanhoop nabij: sinds een paar maanden denderen per dag zo’n 700 trams aan 100 decibel door de straat. De vrederechter vraagt De Lijn de overlast te verminderen."
+      title: "Politievakbond vraagt parlementair onderzoek naar politiegeweld",
+      summary: "Van “flagrante schending van de interventieregels” tot het gebruik van traangas en matrakken, de socialistische politievakbond ACOD veroordeelt nu zelf het gedrag van sommige politieagenten tijdens verschillende manifestaties in oktober. De vakbond vraagt het parlement om een onderzoekscommissie op te richten."
     },
     vocabulary: {
       words: [
         {
-          word: "decibel",
-          definition: "eenheid voor geluidsvolume",
-          sentence: "Het geluid was meer dan 100 ___.",
-          answer: "decibel"
+          word: "onderzoek",
+          definition: "een studie om iets te leren",
+          sentence: "Een ___ kan uitwijzen wat er is gebeurd.",
+          answer: "onderzoek"
         },
         {
-          word: "bewoners",
-          definition: "mensen die in een huis of gebied wonen",
-          sentence: "De ___ van de straat klagen over het lawaai.",
-          answer: "bewoners"
+          word: "vakbond",
+          definition: "een organisatie die werknemers vertegenwoordigt",
+          sentence: "De ___ helpt werknemers bij onderhandelingen.",
+          answer: "vakbond"
         },
         {
-          word: "verminderen",
-          definition: "minder maken",
-          sentence: "We moeten de overlast ___.",
-          answer: "verminderen"
+          word: "manifestaties",
+          definition: "bijeenkomsten of demonstraties",
+          sentence: "Tijdens ___ komen mensen samen om hun mening te uiten.",
+          answer: "manifestaties"
         },
         {
-          word: "trams",
-          definition: "openbaar vervoermiddel op rails",
-          sentence: "De ___ rijden door de stad.",
-          answer: "trams"
+          word: "agenten",
+          definition: "mensen die de wet handhaven",
+          sentence: "De ___ werken dag en nacht voor onze veiligheid.",
+          answer: "agenten"
         },
         {
-          word: "bewoners",
-          definition: "mensen die in een huis of gebied wonen",
-          sentence: "De ___ van de straat klagen over het lawaai.",
-          answer: "bewoners"
+          word: "vakbond",
+          definition: "een organisatie die werknemers vertegenwoordigt",
+          sentence: "De ___ helpt werknemers bij problemen.",
+          answer: "vakbond"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ van de straat klagen over het lawaai.",
-          answer: "bewoners"
+          sentence: "De ___ werken dag en nacht voor onze veiligheid.",
+          answer: "agenten"
         },
         {
-          sentence: "We moeten de overlast ___.",
-          answer: "verminderen"
+          sentence: "De ___ helpt werknemers bij problemen.",
+          answer: "vakbond"
         },
         {
-          sentence: "De ___ van de straat klagen over het lawaai.",
-          answer: "bewoners"
+          sentence: "Een ___ kan uitwijzen wat er is gebeurd.",
+          answer: "onderzoek"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom zijn de bewoners van de Bernard Spaelaan ontevreden?",
+        question: "Wat doet de vakbond in deze situatie?",
         options: [
-          "Omdat er te veel auto's rijden",
-          "Omdat er te veel trams rijden",
-          "Omdat er te veel lawaai is",
-          "Omdat er te weinig parken zijn"
+          "Ze steunt de politie onvoorwaardelijk",
+          "Ze vraagt om een onderzoek naar het politiegedrag",
+          "Ze organiseert een feest voor de agenten",
+          "Ze zegt niets en wacht af"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is het doel van een parlementair onderzoek?",
+        options: [
+          "Om nieuwe films te kijken",
+          "Om feesten te organiseren",
+          "Om problemen grondig te onderzoeken",
+          "Om nieuwe sporten te introduceren"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat heeft de vrederechter gevraagd aan De Lijn?",
+        question: "Waarover maakt de vakbond zich zorgen?",
         options: [
-          "Om de trams te stoppen",
-          "Om de trams sneller te laten rijden",
-          "Om de overlast te verminderen",
-          "Om de bewoners te verhuizen"
+          "Over het weer van volgende week",
+          "Over het gedrag van sommige agenten tijdens de manifestaties",
+          "Over de prijs van brood",
+          "Over de verkiezingen van volgend jaar"
         ],
-        correctAnswer: 3
-      },
-      {
-        question: "Hoeveel trams rijden er per dag door de straat?",
-        options: [
-          "Ongeveer 100",
-          "Ongeveer 500",
-          "Ongeveer 700",
-          "Ongeveer 1000"
-        ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De bewoners van de Bernard Spaelaan zijn blij met de trams.",
-        isTrue: false
-      },
-      {
-        statement: "De vrederechter heeft De Lijn gevraagd om de overlast te verminderen.",
+        statement: "De vakbond vraagt een onderzoek naar het gedrag van politieagenten.",
         isTrue: true
       },
       {
-        statement: "Er rijden 700 trams per dag door de straat.",
+        statement: "Het parlement weigert een onderzoek te starten.",
+        isTrue: false
+      },
+      {
+        statement: "Agenten gebruiken soms geweld tijdens hun werk.",
         isTrue: true
       }
     ]
@@ -559,98 +547,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Defensie werkt aan betere droneverdediging",
+    title: "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
     topicNumber: 1,
     article: {
-      title: "Defensie werkt aan betere droneverdediging",
-      summary: "Defensie wil haar bescherming tegen drones verbeteren. Ze gaan nieuwe technologie kopen om drones te detecteren en te bestrijden. Dit gebeurt na incidenten waarbij drones ongezien bases naderden."
+      title: "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
+      summary: "Zeventig procent van de producten die Testaankoop samen met buitenlandse consumentenorganisaties kocht bij webwinkels Shein en Temu, voldoet niet aan de Europese veiligheidsregels. Sommige goedkope sieraden en babyspeeltjes blijken zelfs gevaarlijk. “We hebben meteen alles offline gehaald”, reageren Shein en Temu."
     },
     vocabulary: {
       words: [
         {
-          word: "Defensie",
-          definition: "de krijgsmacht, het leger",
-          sentence: "___ is de organisatie die het land verdedigt.",
-          answer: "Defensie"
+          word: "roulette",
+          definition: "een kansspel, vaak in een casino",
+          sentence: "Hij zette al zijn geld in op één nummer bij ___.",
+          answer: "roulette"
         },
         {
-          word: "drones",
-          definition: "onbemande vliegtuigjes, vaak op afstand bestuurd",
-          sentence: "Een ___ is een klein onbemand vliegtuigje.",
-          answer: "drone"
+          word: "start",
+          definition: "beginnen",
+          sentence: "De vergadering ___ om 10 uur.",
+          answer: "start"
         },
         {
-          word: "detecteren",
-          definition: "opmerken, ontdekken",
-          sentence: "De politie kan een verdachte ___ met camera's.",
-          answer: "detecteren"
+          word: "producten",
+          definition: "dingen die je kunt kopen, zoals spullen of goederen",
+          sentence: "De supermarkt verkoopt veel verschillende ___.",
+          answer: "producten"
         },
         {
-          word: "verbeteren",
-          definition: "beter maken, verbeteren",
-          sentence: "De coach wil de teamspirit ___ met oefeningen.",
-          answer: "verbeteren"
+          word: "consumentenorganisaties",
+          definition: "groepen die opkomen voor de belangen van kopers, van consumenten",
+          sentence: "De Consumentenbond is een bekende ___.",
+          answer: "consumentenorganisaties"
+        },
+        {
+          word: "veiligheid",
+          definition: "dat iets of iemand veilig is, zonder gevaar",
+          sentence: "De ___ op de werkvloer is erg belangrijk.",
+          answer: "veiligheid"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Een ___ is een klein onbemand vliegtuigje.",
-          answer: "drone"
+          sentence: "Hij zette al zijn geld in op één nummer bij ___.",
+          answer: "roulette"
         },
         {
-          sentence: "De coach wil de teamspirit ___ met oefeningen.",
-          answer: "verbeteren"
+          sentence: "De vergadering ___ om 10 uur.",
+          answer: "start"
         },
         {
-          sentence: "De politie kan een verdachte ___ met camera's.",
-          answer: "detecteren"
+          sentence: "De Consumentenbond is een bekende ___.",
+          answer: "consumentenorganisaties"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is het doel van Defensie volgens de tekst?",
+        question: "Waarom is het belangrijk dat producten voldoen aan veiligheidsregels?",
         options: [
-          "Drone races organiseren",
-          "Nieuwe drones kopen voor eigen gebruik",
-          "Drone detectie en bewapening verbeteren",
-          "Geen actie ondernemen"
+          "Omdat het dan lichter weegt",
+          "Omdat het dan meer kost",
+          "Omdat het dan veilig is voor gebruik",
+          "Omdat het dan mooier is"
         ],
         correctAnswer: 3
       },
       {
-        question: "Waarom wil Defensie deze actie ondernemen?",
+        question: "Wat deden Shein en Temu nadat de problemen bekend werden?",
         options: [
-          "Omdat er een tekort is aan drones",
-          "Omdat er recent incidenten waren met drones",
-          "Omdat de regering het heeft gevraagd",
-          "Omdat het budget te hoog is"
+          "Ze gaven meer korting",
+          "Ze haalden de producten offline",
+          "Ze stopten met verkopen",
+          "Ze verhoogden de prijzen"
         ],
         correctAnswer: 2
       },
       {
-        question: "Hoe reageert Defensie op de drone-incidenten?",
+        question: "Wat is een voorbeeld van een gevaarlijk product?",
         options: [
-          "Door drones te negeren",
-          "Door defensiebudgetten te verhogen zonder actie",
-          "Door technologie te kopen voor betere detectie",
-          "Door de luchtmacht op te doeken"
+          "Een fiets met goede remmen",
+          "Een speelgoed dat niet stukgaat",
+          "Een sieraad met losse onderdelen",
+          "Een speelgoed dat zacht is"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Defensie heeft al de perfecte oplossing voor drone-aanvallen.",
-        isTrue: false
-      },
-      {
-        statement: "De tekst suggereert dat Defensie actie onderneemt na drone-incidenten.",
+        statement: "Testaankoop kocht producten bij Shein en Temu om ze te testen.",
         isTrue: true
       },
       {
-        statement: "Defensie gaat minder drones gebruiken door deze ontwikkelingen.",
+        statement: "Alle producten van Shein en Temu zijn veilig volgens Europese regels.",
         isTrue: false
+      },
+      {
+        statement: "Shein en Temu hebben de onveilige producten offline gehaald.",
+        isTrue: true
       }
     ]
   },
@@ -659,98 +653,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Verkiezingen in Nederland",
+    title: "Witte Huis beperkt toegang voor journalisten",
     topicNumber: 1,
     article: {
-      title: "Verkiezingen in Nederland",
-      summary: "Nederland houdt verkiezingen. Er is een nieuwe regering."
+      title: "Witte Huis beperkt toegang voor journalisten",
+      summary: "Donald Trump start zijn tweede termijn als president van Amerika. Dit brengt veranderingen over de hele wereld. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "Nederland",
-          definition: "een land in Europa",
-          sentence: "___ is een land in Europa.",
-          answer: "Nederland"
+          word: "updates",
+          definition: "nieuwe informatie, het laatste nieuws",
+          sentence: "Volg alle ___ over dit onderwerp online.",
+          answer: "updates"
         },
         {
-          word: "verkiezingen",
-          definition: "wanneer mensen stemmen voor een nieuwe regering",
-          sentence: "Mensen stemmen tijdens de ___.",
-          answer: "verkiezingen"
+          word: "wereld",
+          definition: "de aarde en alle landen samen",
+          sentence: "De veranderingen in de ___ zijn groot door de nieuwe president.",
+          answer: "wereld"
         },
         {
-          word: "regering",
-          definition: "de groep mensen die een land bestuurt",
-          sentence: "De ___ maakt belangrijke beslissingen.",
-          answer: "regering"
+          word: "Witte",
+          definition: "heeft geen kleur, of de naam van een gebouw",
+          sentence: "Het ___ Huis is waar de president woont.",
+          answer: "Witte"
         },
         {
-          word: "nieuwe",
-          definition: "niet oud, recent gemaakt",
-          sentence: "Ze hebben een ___ huis gekocht.",
-          answer: "nieuwe"
+          word: "president",
+          definition: "de leider van een land",
+          sentence: "De ___ van Amerika woont in het Witte Huis.",
+          answer: "president"
+        },
+        {
+          word: "toegang",
+          definition: "kunnen komen of gaan in een plaats",
+          sentence: "Journalisten hebben geen ___ meer tot het Witte Huis.",
+          answer: "toegang"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Mensen stemmen tijdens de ___.",
-          answer: "verkiezingen"
+          sentence: "Het ___ Huis is waar de president woont.",
+          answer: "Witte"
         },
         {
-          sentence: "Ze hebben een ___ huis gekocht.",
-          answer: "nieuwe"
+          sentence: "De ___ van Amerika woont in het Witte Huis.",
+          answer: "president"
         },
         {
-          sentence: "___ is een land in Europa.",
-          answer: "Nederland"
+          sentence: "Journalisten hebben geen ___ meer tot het Witte Huis.",
+          answer: "toegang"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat gebeurt er tijdens verkiezingen?",
+        question: "Wat betekent 'beperkt' in deze context?",
         options: [
-          "Mensen stemmen op een partij.",
-          "Mensen gaan op vakantie.",
-          "Mensen vieren een feest.",
-          "Mensen spelen een spel."
+          "niet veel, gelimiteerd",
+          "helemaal geen",
+          "oneindig veel",
+          "alleen voor kinderen"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is een kabinet?",
+        question: "Waar woont de president van Amerika?",
         options: [
-          "Een groep ministers die het land bestuurt.",
-          "Een soort auto.",
-          "Een groot gebouw.",
-          "Een soort voedsel."
+          "In het Witte Huis",
+          "In een groot kasteel",
+          "In een normaal huis",
+          "In een hotel"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat betekent 'nieuwe'?",
+        question: "Wat is 'updates' in het Nederlands?",
         options: [
-          "Niet oud, recent gemaakt.",
-          "Heel oud.",
-          "Een soort dier.",
-          "Een muziekinstrument."
+          "nieuwsupdates",
+          "een soort fruit",
+          "een soort auto",
+          "een soort boek"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Nederland heeft verkiezingen gehouden.",
-        isTrue: true
-      },
-      {
-        statement: "Een kabinet is een soort dier.",
+        statement: "Journalisten mogen altijd in het Witte Huis komen.",
         isTrue: false
       },
       {
-        statement: "Stemmen betekent je keuze maken.",
+        statement: "De president van Amerika woont in het Witte Huis.",
         isTrue: true
+      },
+      {
+        statement: "'Updates' betekent dat alles hetzelfde blijft.",
+        isTrue: false
       }
     ]
   },
@@ -759,103 +759,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
+    title: "Pentagon geeft groen licht voor raketten, beslissing ligt bij Trump",
     topicNumber: 1,
     article: {
-      title: "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
-      summary: "Donald Trump is opnieuw president van Amerika. Hij wil dat de VS weer kernwapens testen. Dit verandert veel in de wereld. Volg hier het laatste nieuws."
+      title: "Pentagon geeft groen licht voor raketten, beslissing ligt bij Trump",
+      summary: "Lees hier het laatste nieuws over de oorlog in Oekraïne. Download de app voor updates."
     },
     vocabulary: {
       words: [
         {
-          word: "VS",
-          definition: "De Verenigde Staten, een land",
-          sentence: "De ___ zijn een land in Amerika.",
-          answer: "VS"
+          word: "Trump",
+          definition: "een persoon",
+          sentence: "___ is een man.",
+          answer: "Trump"
         },
         {
-          word: "testen",
-          definition: "Uitproberen of controleren",
-          sentence: "Hij wil een nieuw spel ___.",
-          answer: "testen"
+          word: "licht",
+          definition: "niet donker, helder",
+          sentence: "De lamp geeft ___.",
+          answer: "licht"
         },
         {
-          word: "gaan",
-          definition: "Willen of van plan zijn",
-          sentence: "Ze ___ een taart eten.",
-          answer: "gaan"
+          word: "beslissing",
+          definition: "wat je kiest",
+          sentence: "Mijn ___ is om thuis te blijven.",
+          answer: "beslissing"
         },
         {
-          word: "kernwapens",
-          definition: "Heel gevaarlijke bommen",
-          sentence: "___ kunnen veel kapotmaken.",
-          answer: "kernwapens"
+          word: "groen",
+          definition: "een kleur, zoals gras",
+          sentence: "Het gras is ___.",
+          answer: "groen"
         },
         {
-          word: "weer",
-          definition: "Opnieuw of nog een keer",
-          sentence: "Hij komt ___ naar huis.",
-          answer: "weer"
+          word: "Pentagon",
+          definition: "een gebouw in Amerika",
+          sentence: "Het ___ is een gebouw.",
+          answer: "Pentagon"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ zijn een land in Amerika.",
-          answer: "VS"
+          sentence: "___ is een man.",
+          answer: "Trump"
         },
         {
-          sentence: "Ze ___ een taart eten.",
-          answer: "gaan"
+          sentence: "Het ___ is een gebouw.",
+          answer: "Pentagon"
         },
         {
-          sentence: "Hij komt ___ naar huis.",
-          answer: "weer"
+          sentence: "Mijn ___ is om thuis te blijven.",
+          answer: "beslissing"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent “testen” in deze context?",
+        question: "Wat is de Pentagon?",
         options: [
-          "Eten",
-          "Maken",
-          "Uitproberen",
-          "Bouwen"
+          "Een dier",
+          "Een stad",
+          "Een gebouw",
+          "Een land"
         ],
         correctAnswer: 3
       },
       {
-        question: "Waar staat “VS” voor in deze tekst?",
+        question: "Wat betekent 'gaf'?",
         options: [
-          "Verenigde Staten",
-          "Vlaamse Staten",
-          "Vrije Staten",
-          "Veilige Staten"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is de hoofdgedachte van het artikel?",
-        options: [
-          "Trump is president",
-          "Trump wil nieuwe dingen doen",
-          "Trump verandert niets",
-          "Trump reist de wereld over"
+          "Kreeg",
+          "Gaf",
+          "Kocht",
+          "Verkocht"
         ],
         correctAnswer: 2
+      },
+      {
+        question: "Wat is groen?",
+        options: [
+          "Een kleur",
+          "Een steen",
+          "Een dier",
+          "Een auto"
+        ],
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Trump is de president van Amerika.",
+        statement: "De Pentagon is een gebouw.",
         isTrue: true
       },
       {
-        statement: "Trump wil geen kernwapens testen.",
+        statement: "Trump is een vrouw.",
         isTrue: false
       },
       {
-        statement: "Het artikel zegt dat Trump veel verandert.",
+        statement: "Groen is een kleur.",
         isTrue: true
       }
     ]
@@ -865,103 +865,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Fotograaf in Oekraïne",
+    title: "Frans parlement neemt belasting af",
     topicNumber: 1,
     article: {
-      title: "Fotograaf in Oekraïne",
-      summary: "Een fotograaf laat het leven zien in Oekraïne. Drones brengen eten en spullen naar soldaten."
+      title: "Frans parlement neemt belasting af",
+      summary: "Frankrijk heeft een belasting voor rijke mensen. Het parlement verwerpt deze belasting."
     },
     vocabulary: {
       words: [
         {
-          word: "eten",
-          definition: "wat je eet, zoals brood of fruit",
-          sentence: "De drone brengt ___ naar de soldaten.",
-          answer: "eten"
+          word: "Frans",
+          definition: "van of uit Frankrijk",
+          sentence: "De ___ keuken is bekend.",
+          answer: "Frans"
         },
         {
-          word: "soldaten",
-          definition: "mensen die vechten in een leger",
-          sentence: "De ___ vechten in Oekraïne.",
-          answer: "soldaten"
+          word: "parlement",
+          definition: "een groep mensen die wetten maakt",
+          sentence: "Het ___ komt elke dag bijeen.",
+          answer: "parlement"
         },
         {
-          word: "spullen",
-          definition: "alle dingen die je hebt, zoals kleren of gereedschap",
-          sentence: "De drone brengt ___ naar de soldaten.",
-          answer: "spullen"
+          word: "verwerpt",
+          definition: "niet accepteren, weigeren",
+          sentence: "De groep ___ het voorstel.",
+          answer: "verwerpt"
         },
         {
-          word: "Oekraïne",
-          definition: "een land in Europa",
-          sentence: "Hij reist naar ___ voor zijn werk.",
-          answer: "Oekraïne"
+          word: "belasting",
+          definition: "geld dat je aan de overheid betaalt",
+          sentence: "Ik betaal ___ over mijn inkomen.",
+          answer: "belasting"
         },
         {
-          word: "fotograaf",
-          definition: "iemand die foto's maakt",
-          sentence: "De ___ maakt een foto van de drone.",
-          answer: "fotograaf"
+          word: "rijk",
+          definition: "iemand met veel geld",
+          sentence: "Hij is erg ___ en heeft een groot huis.",
+          answer: "rijk"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij reist naar ___ voor zijn werk.",
-          answer: "Oekraïne"
+          sentence: "De groep ___ het voorstel.",
+          answer: "verwerpt"
         },
         {
-          sentence: "De ___ vechten in Oekraïne.",
-          answer: "soldaten"
+          sentence: "De ___ keuken is bekend.",
+          answer: "Frans"
         },
         {
-          sentence: "De drone brengt ___ naar de soldaten.",
-          answer: "eten"
+          sentence: "Ik betaal ___ over mijn inkomen.",
+          answer: "belasting"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat laat de fotograaf zien in Oekraïne?",
+        question: "Waar gaat de tekst over?",
         options: [
-          "Het leven van soldaten",
-          "De stad waar hij woont",
-          "Een nieuwe drone",
-          "Zijn eigen familie"
+          "Een feest in Frankrijk",
+          "Een nieuwe belasting voor rijke mensen",
+          "Een sportevenement",
+          "Een nieuwe wet voor alle mensen"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat doet het parlement met de belasting?",
+        options: [
+          "Ze accepteren het",
+          "Ze weigeren het",
+          "Ze veranderen het",
+          "Ze vergeten het"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is de 'rijkentaks'?",
+        options: [
+          "Een belasting voor rijke mensen",
+          "Een nieuwe stad",
+          "Een Franse dans",
+          "Een soort voedsel"
         ],
         correctAnswer: 1
-      },
-      {
-        question: "Wat doen de drones in de tekst?",
-        options: [
-          "Ze vechten in de oorlog.",
-          "Ze brengen eten en spullen.",
-          "Ze maken foto's van soldaten.",
-          "Ze wonen in Oekraïne."
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Waar is de fotograaf?",
-        options: [
-          "In Nederland",
-          "In Oekraïne",
-          "In zijn huis",
-          "Op school"
-        ],
-        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De fotograaf is in Oekraïne.",
+        statement: "Frankrijk heeft een parlement.",
         isTrue: true
       },
       {
-        statement: "De drones vechten in de oorlog.",
+        statement: "De belasting is voor arme mensen.",
         isTrue: false
       },
       {
-        statement: "De fotograaf laat het leven in Oekraïne zien.",
+        statement: "Het parlement neemt de belasting niet aan.",
         isTrue: true
       }
     ]
@@ -971,67 +971,98 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Verdachte in adoptiefraude",
+    title: "Rijbewijs weg, toch gereden",
     topicNumber: 1,
     article: {
-      title: "Verdachte in adoptiefraude",
-      summary: "Er is een rechtszaak over adoptie. Er zijn problemen met adoptie uit Guatemala."
+      title: "Rijbewijs weg, toch gereden",
+      summary: "Ruben Van Gucht kreeg een rijverbod en een boete, omdat hij bleef rijden zonder rijbewijs."
     },
     vocabulary: {
       words: [
         {
-          word: "adoptie",
-          definition: "wanneer iemand een kind opneemt als eigen kind",
-          sentence: "___ kan een manier zijn om een gezin te starten.",
-          answer: "adoptie"
+          word: "rijbewijs",
+          definition: "een document dat zegt dat je mag rijden",
+          sentence: "Hij heeft zijn ___ niet meer.",
+          answer: "rijbewijs"
+        },
+        {
+          word: "boete",
+          definition: "geld dat je moet betalen voor iets verkeerds",
+          sentence: "Hij kreeg een ___ van 4800 euro.",
+          answer: "boete"
+        },
+        {
+          word: "rijverbod",
+          definition: "niet mogen rijden voor een tijd",
+          sentence: "Hij kreeg een ___ van negen maanden.",
+          answer: "rijverbod"
+        },
+        {
+          word: "rijden",
+          definition: "een voertuig besturen",
+          sentence: "Hij bleef ___ zonder rijbewijs.",
+          answer: "rijden"
         }
       ],
-      fillInBlanks: []
+      fillInBlanks: [
+        {
+          sentence: "Hij heeft zijn ___ niet meer.",
+          answer: "rijbewijs"
+        },
+        {
+          sentence: "Hij bleef ___ zonder rijbewijs.",
+          answer: "rijden"
+        },
+        {
+          sentence: "Hij kreeg een ___ van negen maanden.",
+          answer: "rijverbod"
+        }
+      ]
     },
     multipleChoice: [
       {
-        question: "Wat is een adoptie?",
+        question: "Waarom kreeg Ruben Van Gucht een rijverbod?",
         options: [
-          "Een soort dier",
-          "Een type auto",
-          "Een manier om een kind te krijgen",
-          "Een soort voedsel"
+          "Hij reed te snel",
+          "Hij heeft gestolen",
+          "Hij reed zonder rijbewijs",
+          "Hij gebruikte een auto van een ander"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat doet een rechter?",
+        question: "Wat is een rijverbod?",
         options: [
-          "Kookt eten",
-          "Doet onderzoek",
-          "Beslist in de rechtbank",
-          "Speelt videogames"
+          "Een feest",
+          "Een soort vakantie",
+          "Een verbod om te rijden",
+          "Een beloning"
         ],
         correctAnswer: 3
       },
       {
-        question: "Waar is België?",
+        question: "Wat deed Ruben Van Gucht nadat hij zijn rijbewijs verloor?",
         options: [
-          "In Azië",
-          "In Europa",
-          "In Afrika",
-          "In de oceaan"
+          "Hij stopte met rijden",
+          "Hij kocht een nieuwe auto",
+          "Hij kreeg hulp van de politie",
+          "Hij reed verder zonder rijbewijs"
         ],
-        correctAnswer: 2
+        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "Adoptie is wanneer je een auto koopt.",
+        statement: "Ruben Van Gcht kreeg een rijverbod omdat hij stopte met rijden.",
         isTrue: false
       },
       {
-        statement: "Een rechter werkt in een rechtbank.",
+        statement: "Ruben Van Gcht reed zonder rijbewijs.",
         isTrue: true
       },
       {
-        statement: "België is een stad in Nederland.",
-        isTrue: false
+        statement: "Ruben Van Gcht kreeg een boete van 4800 euro.",
+        isTrue: true
       }
     ]
   },
@@ -1040,104 +1071,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Lawaai in Gent",
+    title: "Politie en protest",
     topicNumber: 1,
     article: {
-      title: "Lawaai in Gent",
-      summary: "In Gent is er veel lawaai van trams. Bewoners kunnen niet slapen. De rechter wil dat de tram minder lawaai maakt."
+      title: "Politie en protest",
+      summary: "De politie en mensen op straat hebben problemen. De politie gebruikt geweld. Een groep vraagt om onderzoek."
     },
     vocabulary: {
       words: [
         {
-          word: "Lawaai",
-          definition: "veel geluid",
-          sentence: "Ik houd niet van ___.",
-          answer: "lawaai"
+          word: "vraagt",
+          definition: "vraagt om iets",
+          sentence: "Hij ___ om hulp.",
+          answer: "vraagt"
         },
         {
-          word: "trams",
-          definition: "een soort trein in de stad",
-          sentence: "De ___ rijden op straat.",
-          answer: "trams"
+          word: "geweld",
+          definition: "slecht en hard gedrag",
+          sentence: "Soms is er ___ op straat.",
+          answer: "geweld"
         },
         {
-          word: "bewoners",
-          definition: "mensen die in een huis of stad wonen",
-          sentence: "De ___ van de straat zijn thuis.",
-          answer: "bewoners"
+          word: "straat",
+          definition: "weg in een stad of dorp",
+          sentence: "Kinderen spelen op de ___.",
+          answer: "straat"
         },
         {
-          word: "rechter",
-          definition: "iemand die in de rechtbank werkt",
-          sentence: "De ___ zegt dat het lawaai moet stoppen.",
-          answer: "rechter"
+          word: "politie",
+          definition: "mensen die de wet handhaven",
+          sentence: "De ___ helpt mensen.",
+          answer: "politie"
         },
         {
-          word: "lawaai",
-          definition: "veel geluid",
-          sentence: "Er is te veel ___ in de stad.",
-          answer: "lawaai"
+          word: "groep",
+          definition: "meerdere personen samen",
+          sentence: "Een ___ mensen liep naar het park.",
+          answer: "groep"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Ik houd niet van ___.",
-          answer: "lawaai"
+          sentence: "De ___ helpt mensen.",
+          answer: "politie"
         },
         {
-          sentence: "De ___ zegt dat het lawaai moet stoppen.",
-          answer: "rechter"
+          sentence: "Een ___ mensen liep naar het park.",
+          answer: "groep"
         },
         {
-          sentence: "De ___ rijden op straat.",
-          answer: "trams"
+          sentence: "Kinderen spelen op de ___.",
+          answer: "straat"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom zijn de bewoners van Gent wakker?",
+        question: "Waar gaat de tekst over?",
         options: [
-          "Omdat er veel lawaai is van trams",
-          "Omdat ze naar een feest gaan",
-          "Omdat ze veel werken",
-          "Omdat ze ziek zijn"
+          "Politie die geweld gebruikt",
+          "Mensen die dansen",
+          "Kinderen die leren",
+          "Feest in de stad"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat wil de rechter?",
+        question: "Wat doet de groep?",
         options: [
-          "Dat de tram minder lawaai maakt",
-          "Dat de tram sneller gaat rijden",
-          "Dat de bewoners verhuizen",
-          "Dat de tram stopt met rijden"
+          "Vraagt om onderzoek",
+          "Gaat naar huis",
+          "Koopt eten",
+          "Speelt buiten"
         ],
         correctAnswer: 1
       },
       {
-        question: "Waar wonen de bewoners?",
+        question: "Wat is het probleem?",
         options: [
-          "In Gent",
-          "In Amsterdam",
-          "In een groot huis",
-          "Op een boerderij"
+          "Politie gebruikt geweld",
+          "Er is geen water",
+          "Iemand is alleen",
+          "Het weer is koud"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De tram maakt veel lawaai.",
+        statement: "De politie gebruikt geweld.",
         isTrue: true
       },
       {
-        statement: "De rechter wil dat de tram meer lawaai maakt.",
+        statement: "Iedereen is thuis.",
         isTrue: false
       },
       {
-        statement: "De bewoners kunnen goed slapen door het lawaai.",
-        isTrue: false
+        statement: "Een groep vraagt om onderzoek.",
+        isTrue: true
       }
     ]
   },
@@ -1146,103 +1177,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
+    title: "Temu start terugroepactie na waarschuwing voor gevaarlijke producten",
     topicNumber: 1,
     article: {
-      title: "Veroordeling advocaat Hans Rieder wegens belastingontduiking nu definitief",
-      summary: "Het Hof van Cassatie verwerpt het cassatieberoep dat advocaat Hans Rieder en zijn ex-echtgenote hadden ingesteld tegen hun veroordeling wegens belastingontduiking door domiciliefraude."
+      title: "Temu start terugroepactie na waarschuwing voor gevaarlijke producten",
+      summary: "Testaankoop waarschuwt voor gevaarlijke producten bij Temu. Sommige producten zijn niet veilig. Temu haalt ze nu offline."
     },
     vocabulary: {
       words: [
         {
-          word: "hof",
-          definition: "een plaats waar rechters werken",
-          sentence: "Het ___ besliste over de zaak.",
-          answer: "hof"
+          word: "producten",
+          definition: "dingen die je koopt",
+          sentence: "De ___ zijn nieuw of gebruikt.",
+          answer: "producten"
         },
         {
-          word: "ontduiking",
-          definition: "niet betalen wat je moet betalen",
-          sentence: "Hij pleegde ___ om minder te betalen.",
-          answer: "ontduiking"
+          word: "Testaankoop",
+          definition: "een organisatie die producten test",
+          sentence: "___ testte de producten en vond problemen.",
+          answer: "Testaankoop"
         },
         {
-          word: "cassatie",
-          definition: "een hoger beroep bij de hoogste rechter",
-          sentence: "Hij vroeg om ___ bij de hoogste rechter.",
-          answer: "cassatie"
+          word: "veilig",
+          definition: "zonder gevaar",
+          sentence: "Is het ___ om hier te spelen?",
+          answer: "veilig"
         },
         {
-          word: "echtgenote",
-          definition: "de vrouw in een huwelijk",
-          sentence: "Zijn ___ steunde hem niet.",
-          answer: "echtgenote"
+          word: "offline",
+          definition: "niet verbonden met internet",
+          sentence: "Mijn computer staat ___ nu.",
+          answer: "offline"
         },
         {
-          word: "verwerpt",
-          definition: "weigeren of niet accepteren",
-          sentence: "De rechter ___ het verzoek van de man.",
-          answer: "verwerpt"
+          word: "Temu",
+          definition: "een online winkel",
+          sentence: "___ verkoopt veel producten.",
+          answer: "Temu"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De rechter ___ het verzoek van de man.",
-          answer: "verwerpt"
+          sentence: "De ___ zijn nieuw of gebruikt.",
+          answer: "producten"
         },
         {
-          sentence: "Het ___ besliste over de zaak.",
-          answer: "hof"
+          sentence: "___ verkoopt veel producten.",
+          answer: "Temu"
         },
         {
-          sentence: "Hij vroeg om ___ bij de hoogste rechter.",
-          answer: "cassatie"
+          sentence: "Mijn computer staat ___ nu.",
+          answer: "offline"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is belasting?",
+        question: "Wat betekent 'gevaarlijk'?",
         options: [
-          "Een soort bel",
-          "Een type auto",
-          "Geld dat je aan de overheid betaalt",
-          "Een sport"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat doet een advocaat?",
-        options: [
-          "Kookt eten",
-          "Helpt mensen met de wet",
-          "Bestuurt een auto",
-          "Speelt piano"
+          "leuk",
+          "gevaarlijk",
+          "mooi",
+          "duur"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is het Hof van Cassatie?",
+        question: "Wat doet Testaankoop?",
         options: [
-          "Een soort hotel",
-          "Een restaurant",
-          "De hoogste rechter in België",
-          "Een sportschool"
+          "test producten",
+          "verkoopt eten",
+          "maakt kleren",
+          "geeft les"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is 'offline'?",
+        options: [
+          "niet op internet",
+          "in de winkel",
+          "heel snel",
+          "heel traag"
+        ],
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Hans Rieder is een advocaat.",
+        statement: "Temu is een online winkel.",
         isTrue: true
       },
       {
-        statement: "Het Hof van Cassatie heeft de advocaat vrijgesproken.",
+        statement: "Testaankoop verkoopt gevaarlijke producten.",
         isTrue: false
       },
       {
-        statement: "De advocaat en zijn ex-echtgenote zijn veroordeeld.",
+        statement: "Sommige producten zijn offline gehaald.",
         isTrue: true
       }
     ]
@@ -1252,98 +1283,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "D66 en PVV beide op 26 zetels, verschil is minder dan 2.000 stemmen",
+    title: "Witte Huis beperkt toegang voor journalisten",
     topicNumber: 1,
     article: {
-      title: "D66 en PVV beide op 26 zetels, verschil is minder dan 2.000 stemmen",
-      summary: "Nederland trekt woensdag opnieuw naar de stembus voor de vervroegde parlementsverkiezingen na de val van het kabinet-Schoof. Volg hier de laatste updates."
+      title: "Witte Huis beperkt toegang voor journalisten",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijk veranderingen teweeg. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "stemmen",
-          definition: "een stem uitbrengen, je keuze maken in een verkiezing",
-          sentence: "In een democratie is het belangrijk dat burgers hun recht om te ___ kunnen uitoefenen.",
-          answer: "stemmen"
+          word: "updates",
+          definition: "bijgewerkte informatie of nieuwsberichten.",
+          sentence: "Volg hier alle laatste ___ over de situatie.",
+          answer: "updates"
         },
         {
-          word: "zetels",
-          definition: "de zetels in een parlement, de posities die partijen winnen bij verkiezingen",
-          sentence: "De partij won meer dan tien ___ in het nieuwe parlement.",
-          answer: "zetels"
+          word: "veranderingen",
+          definition: "veranderingen; transformaties of wijzigingen.",
+          sentence: "Het beleid bracht grote ___ teweeg.",
+          answer: "veranderingen"
         },
         {
-          word: "verkiezingen",
-          definition: "het proces waarbij mensen stemmen om hun vertegenwoordigers te kiezen",
-          sentence: "Nederland houdt volgende maand algemene ___ om een nieuwe regering te kiezen.",
-          answer: "verkiezingen"
+          word: "tweede",
+          definition: "komend na de eerste; nummer twee in een reeks.",
+          sentence: "Zijn ___ ambtstermijn verliep minder voorspelbaar.",
+          answer: "tweede"
         },
         {
-          word: "kabinet",
-          definition: "de regering van een land, bestaande uit ministers en staatssecretarissen",
-          sentence: "Het oude ___ viel vanwege onenigheid over de begroting.",
-          answer: "kabinet"
+          word: "toegang",
+          definition: "de mogelijkheid om een plaats te betreden of te gebruiken.",
+          sentence: "Journalisten kregen geen ___ tot de persconferentie.",
+          answer: "toegang"
+        },
+        {
+          word: "teweeg",
+          definition: "veroorzaken; tot stand brengen. (gebruikt in 'brengt ... teweeg')",
+          sentence: "De crisis bracht grote onrust ___ in de regio.",
+          answer: "teweeg"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het oude ___ viel vanwege onenigheid over de begroting.",
-          answer: "kabinet"
+          sentence: "Zijn ___ ambtstermijn verliep minder voorspelbaar.",
+          answer: "tweede"
         },
         {
-          sentence: "In een democratie is het belangrijk dat burgers hun recht om te ___ kunnen uitoefenen.",
-          answer: "stemmen"
+          sentence: "De crisis bracht grote onrust ___ in de regio.",
+          answer: "teweeg"
         },
         {
-          sentence: "Nederland houdt volgende maand algemene ___ om een nieuwe regering te kiezen.",
-          answer: "verkiezingen"
+          sentence: "Journalisten kregen geen ___ tot de persconferentie.",
+          answer: "toegang"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent het als een kabinet valt?",
+        question: "Wat betekent 'beperken' in deze context?",
         options: [
-          "De regering treedt af en er zijn nieuwe verkiezingen nodig.",
-          "Het kabinet heeft een succesvolle hervorming doorgevoerd.",
-          "De koning heeft een nieuwe minister-president benoemd.",
-          "Het parlement is met vakantie gegaan."
+          "Volledig verbieden",
+          "Gedeeltelijk of met beperkingen toestaan",
+          "Ongelimiteerd toestaan",
+          "Negeer en doe niets"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat is een belangrijk kenmerk van een democratie?",
+        question: "Welk effect heeft 'beperkte toegang' op internationale betrekkingen?",
         options: [
-          "Vrije en eerlijke verkiezingen waar iedereen kan stemmen.",
-          "Een koning die alle beslissingen neemt.",
-          "Politieke partijen zijn verboden.",
-          "Alleen de rijkste burgers mogen stemmen."
+          "Het verbetert de samenwerking enorm",
+          "Het heeft geen enkel effect op de relaties",
+          "Het kan spanningen verhogen door gebrek aan transparantie",
+          "Het leidt altijd tot onmiddellijke oorlog"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Waarom is het belangrijk dat verkiezingen vrij zijn?",
+        question: "Wat is een synoniem voor 'teweegbrengen'?",
         options: [
-          "Zodat burgers hun echte voorkeur kunnen uiten zonder dwang.",
-          "Omdat het dan makkelijker is voor de regerende partij.",
-          "Omdat internationale waarnemers dan positiever rapporteren.",
-          "Omdat de verliezende partij dan minder protest heeft."
+          "Tegengaan",
+          "Verminderen",
+          "Veroorzaken",
+          "Neutraliseren"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Nederland is een monarchie waar de koningin de meeste politieke macht heeft.",
+        statement: "De beperking van de toegang voor journalisten is een voorbeeld van transparantie.",
         isTrue: false
       },
       {
-        statement: "Vrije verkiezingen zijn een essentieel onderdeel van een functionerende democratie.",
+        statement: "De maatregel heeft wereldwijde gevolgen, niet alleen voor de VS.",
         isTrue: true
       },
       {
-        statement: "Als een kabinet valt, betekent dat de regering aftreedt en er nieuwe verkiezingen komen.",
-        isTrue: true
+        statement: "Trump's tweede termijn bracht geen enkele verandering teweeg.",
+        isTrue: false
       }
     ]
   },
@@ -1352,60 +1389,92 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
+    title: "Pentagon gave green light for Tomahawks, decision lies in Trump's hands",
     topicNumber: 1,
     article: {
-      title: "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
-      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+      title: "Pentagon gave green light for Tomahawks, decision lies in Trump's hands",
+      summary: "Follow all recent developments in the war in Ukraine. Download the DS News app and get notified for important updates."
     },
     vocabulary: {
-      words: [],
-      fillInBlanks: []
+      words: [
+        {
+          word: "Pentagon",
+          definition: "Het Amerikaanse ministerie van defensie, gevestigd in Washington D.C.",
+          sentence: "Het ___ heeft de goedkeuring gegeven voor de levering van nieuwe wapens.",
+          answer: "Pentagon"
+        },
+        {
+          word: "Tomahawks",
+          definition: "Een type geleide raketten, vaak gebruikt voor langeafstandsaanvallen.",
+          sentence: "De Verenigde Staten overwegen de levering van extra ___ aan Oekraïne.",
+          answer: "Tomahawks"
+        },
+        {
+          word: "Trump",
+          definition: "De voormalige president van de Verenigde Staten.",
+          sentence: "___ zal de uiteindelijke beslissing nemen over de wapens.",
+          answer: "Trump"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "Het ___ heeft de goedkeuring gegeven voor de levering van nieuwe wapens.",
+          answer: "Pentagon"
+        },
+        {
+          sentence: "___ zal de uiteindelijke beslissing nemen over de wapens.",
+          answer: "Trump"
+        },
+        {
+          sentence: "De Verenigde Staten overwegen de levering van extra ___ aan Oekraïne.",
+          answer: "Tomahawks"
+        }
+      ]
     },
     multipleChoice: [
       {
-        question: "Wat is de belangrijkste zorg bij het testen van kernwapens volgens de tekst?",
+        question: "Wat betekent 'groen licht geven' in deze context?",
         options: [
-          "Het kan internationale spanningen vergroten.",
-          "Het is duur en inefficiënt.",
-          "Het is goed voor de economie.",
-          "Het leidt tot onmiddellijke wereldvrede."
+          "Goedkeuring verlenen",
+          "Een lamp vervangen",
+          "Stoppen met een activiteit",
+          "Een kleur kiezen"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat wordt er genoemd als een manier om internationale veiligheid te bevorderen?",
+        question: "Waar verwijst 'Tomahawks' in de titel naar?",
         options: [
-          "Het testen van meer kernwapens.",
-          "Het inzetten van diplomatieke onderhandelingen.",
-          "Het isoleren van landen van de wereldgemeenschap.",
-          "Het negeren van internationale verdragen."
+          "Een soort voedsel",
+          "Een type auto",
+          "Een merk van sportartikelen",
+          "Een type raketten"
         ],
-        correctAnswer: 2
+        correctAnswer: 4
       },
       {
-        question: "Hoe wordt de tweede ambtstermijn van Trump in de titel omschreven?",
+        question: "Wat is de rol van Trump in deze situatie?",
         options: [
-          "Als een periode van grote wereldwijde verandering.",
-          "Als een tijdperk van totale vrede.",
-          "Als een onbelangrijke historische gebeurtenis.",
-          "Als een voorbeeld van perfect leiderschap."
+          "Hij is de uiteindelijke beslisser",
+          "Hij is een toeschouwer",
+          "Hij is een atleet",
+          "Hij is een leraar"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De titel suggereert dat Trump onmiddellijk na zijn aantreden kernwapens zal testen.",
-        isTrue: true
-      },
-      {
-        statement: "De samenvatting stelt dat Trumps tweede ambtstermijn alleen lokale veranderingen in de VS veroorzaakt.",
+        statement: "De Verenigde Staten hebben al Tomahawks geleverd aan Oekraïne.",
         isTrue: false
       },
       {
-        statement: "Internationale samenwerking is een thema in de tekst, maar wordt niet gepromoot als oplossing.",
+        statement: "Trump heeft de laatste beslissingsbevoegdheid over deze wapenzending.",
         isTrue: true
+      },
+      {
+        statement: "De oorlog in Oekraïne is al beëindigd.",
+        isTrue: false
       }
     ]
   },
@@ -1414,103 +1483,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
+    title: "Frans parlement verwerpt rijkenbelasting: “Wonderbelasting bestaat niet”",
     topicNumber: 1,
     article: {
-      title: "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
-      summary: "De Standaard-fotograaf Gert Jochems geeft een inkijk in het leven van alledag in Oekraïens oorlogsgebied. Hij kon ter plekke volgen hoe de Azov-brigade gronddrones inzet voor de bevoorrading langs de levensgevaarlijke frontlijn."
+      title: "Frans parlement verwerpt rijkenbelasting: “Wonderbelasting bestaat niet”",
+      summary: "De Assemblée nationale, het Franse parlement, heeft vrijdag voorstellen voor een belasting op de hoogste vermogens met een grote meerderheid verworpen."
     },
     vocabulary: {
       words: [
         {
-          word: "frontlijn",
-          definition: "de voorste linie in een gevechtsgebied",
-          sentence: "De soldaten hielden stand langs de volledige lengte van de ___.",
-          answer: "frontlijn"
+          word: "vermogens",
+          definition: "Vermogens of fortuinen, vaak in economische context",
+          sentence: "Hoge ___ kunnen meer belasting dragen.",
+          answer: "vermogens"
         },
         {
-          word: "bevoorrading",
-          definition: "het voorzien van benodigdheden, vooral in militaire context",
-          sentence: "De ___ van medicijnen en voedsel was cruciaal voor de overlevenden.",
-          answer: "bevoorrading"
+          word: "Assemblée",
+          definition: "Het Franse woord voor een vergadering of parlement",
+          sentence: "De Nationale ___ behandelt wetgeving.",
+          answer: "Assemblée"
         },
         {
-          word: "leven",
-          definition: "het bestaan of de staat van in leven zijn",
-          sentence: "Het ___ van de soldaten hing aan een zijden draadje.",
-          answer: "leven"
+          word: "belasting",
+          definition: "Een verplichte financiële bijdrage aan de overheid",
+          sentence: "Deze ___ wordt geheven op inkomen en vermogen.",
+          answer: "belasting"
         },
         {
-          word: "front",
-          definition: "het voorste deel of gebied waar actie plaatsvindt, vooral in militaire context",
-          sentence: "Hij rapporteerde vanaf het ___ waar de gevechten het hevigst waren.",
-          answer: "front"
+          word: "bestaat",
+          definition: "Is aanwezig of is realiteit",
+          sentence: "De entiteit ___ al sinds 2020.",
+          answer: "bestaat"
         },
         {
-          word: "fotograaf",
-          definition: "een persoon die foto's maakt, meestal als beroep",
-          sentence: "De ___ nam indrukwekkende beelden tijdens de missie.",
-          answer: "fotograaf"
+          word: "voorstellen",
+          definition: "Plannen of ideeën die worden aangeboden",
+          sentence: "De nieuwe ___ werden goed ontvangen.",
+          answer: "voorstellen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ nam indrukwekkende beelden tijdens de missie.",
-          answer: "fotograaf"
+          sentence: "Deze ___ wordt geheven op inkomen en vermogen.",
+          answer: "belasting"
         },
         {
-          sentence: "Het ___ van de soldaten hing aan een zijden draadje.",
-          answer: "leven"
+          sentence: "Hoge ___ kunnen meer belasting dragen.",
+          answer: "vermogens"
         },
         {
-          sentence: "De soldaten hielden stand langs de volledige lengte van de ___.",
-          answer: "frontlijn"
+          sentence: "De entiteit ___ al sinds 2020.",
+          answer: "bestaat"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat beschrijft de tekst over het gebruik van gronddrones in Oekraïne?",
+        question: "Wat betekent 'verworpen' in deze context?",
         options: [
-          "Ze worden gebruikt voor bevoorrading langs de frontlijn.",
-          "Ze worden ingezet voor luchtverkenning alleen.",
-          "Ze vervangen volledig menselijke soldaten.",
-          "Ze zijn niet effectief gebleken in oorlog."
+          "Geaccepteerd",
+          "Afgewezen",
+          "Geprezen",
+          "Gewijzigd"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat is de rol van Gert Jochems volgens de tekst?",
+        question: "Waar verwijst 'Assemblée' specifiek naar?",
         options: [
-          "Hij is een fotograaf die de situatie documenteert.",
-          "Hij is een soldaat die vecht in Oekraïne.",
-          "Hij leidt de Azov-brigade met drones.",
-          "Hij is een politiek leider die over oorlog praat."
+          "Een soort belasting",
+          "De Franse regering",
+          "Het Franse parlement",
+          "Een Europese instelling"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wat impliceert de tekst over de veiligheidssituatie?",
+        question: "Wat is de hoofdgedachte van de samenvatting?",
         options: [
-          "Het is gevaarlijk; de frontlijn is levensgevaarlijk.",
-          "Het is volledig veilig; er is geen risico.",
-          "Alleen drones zijn in gevaar, niet mensen.",
-          "De situatie is volledig vreedzaam en stabiel."
+          "Frankrijk introduceert een nieuwe belasting",
+          "Frankrijk verwerpt een belastingvoorstel",
+          "De Assemblée Nationale wordt hervormd",
+          "Er is een grote meerderheid voor belastingverhoging"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Gert Jochems is een fotograaf die de inzet van gronddrones in Oekraïne documenteert.",
-        isTrue: true
-      },
-      {
-        statement: "De Azov-brigade gebruikt alleen drones voor offensieve aanvallen, niet voor bevoorrading.",
+        statement: "Het Franse parlement heeft de belastingvoorstellen goedgekeurd.",
         isTrue: false
       },
       {
-        statement: "Journalisten zoals Jochems hebben directe toegang tot de frontlinie zonder enig risico.",
+        statement: "De Assemblée Nationale is het Franse parlement.",
+        isTrue: true
+      },
+      {
+        statement: "De belastingvoorstellen werden unaniem aangenomen.",
         isTrue: false
       }
     ]
@@ -1626,104 +1695,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Gentse ‘tramterreur’ houdt buurtbewoners wakker: “Waarom zo veel, zo laat, en zo luid?”",
+    title: "Politievakbond vraagt parlementair onderzoek naar politiegeweld",
     topicNumber: 1,
     article: {
-      title: "Gentse ‘tramterreur’ houdt buurtbewoners wakker: “Waarom zo veel, zo laat, en zo luid?”",
-      summary: "In de Gentse Bernard Spaelaan zijn de bewoners de wanhoop nabij: sinds een paar maanden denderen per dag zo’n 700 trams aan 100 decibel door de straat. De vrederechter vraagt De Lijn de overlast te verminderen."
+      title: "Politievakbond vraagt parlementair onderzoek naar politiegeweld",
+      summary: "Van “flagrante schending van de interventieregels” tot het gebruik van traangas en matrakken, de socialistische politievakbond ACOD veroordeelt nu zelf het gedrag van sommige politieagenten tijdens verschillende manifestaties in oktober. De vakbond vraagt het parlement om een onafhankelijke onderzoekscommissie op te richten."
     },
     vocabulary: {
       words: [
         {
-          word: "wanhoop",
-          definition: "gevoel van totale hopeloosheid of verlatenheid",
-          sentence: "Na het verlies van zijn baan voelde hij een diepe ___.",
-          answer: "wanhoop"
+          word: "manifestaties",
+          definition: "openbare demonstraties of bijeenkomsten waar standpunten worden getoond",
+          sentence: "De politie was aanwezig bij verschillende ___ in oktober.",
+          answer: "manifestaties"
         },
         {
-          word: "overlast",
-          definition: "hinder of last die wordt veroorzaakt",
-          sentence: "De bouwwerkzaamheden veroorzaken veel ___ voor de buurt.",
-          answer: "overlast"
+          word: "schending",
+          definition: "het overtreden of niet naleven van een regel of wet",
+          sentence: "De agenten werden beschuldigd van ___ van de regels.",
+          answer: "schending"
         },
         {
-          word: "bewoners",
-          definition: "mensen die in een bepaalde plaats of gebouw wonen",
-          sentence: "De ___ van deze straat klagen over geluidsoverlast.",
-          answer: "bewoners"
+          word: "vakbond",
+          definition: "een organisatie die de belangen van werknemers verdedigt",
+          sentence: "De ___ komt op voor de rechten van de werknemers.",
+          answer: "vakbond"
         },
         {
-          word: "bewoners",
-          definition: "mensen die in een bepaalde plaats of gebouw wonen",
-          sentence: "De ___ van het gebouw werden geëvacueerd wegens brand.",
-          answer: "bewoners"
+          word: "agenten",
+          definition: "leden van de politie die toezicht houden op de openbare orde",
+          sentence: "De ___ patrouilleerden in de stad.",
+          answer: "agenten"
         },
         {
-          word: "trams",
-          definition: "openbaar vervoermiddel dat op rails rijdt, vaak in de stad",
-          sentence: "De ___ in deze stad rijden tot laat in de avond.",
-          answer: "trams"
+          word: "matrakken",
+          definition: "een wapen in de vorm van een stok, gebruikt voor slag- en stootacties",
+          sentence: "De politie gebruikte ___ om de menigte uiteen te drijven.",
+          answer: "matrakken"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ van deze straat klagen over geluidsoverlast.",
-          answer: "bewoners"
+          sentence: "De politie gebruikte ___ om de menigte uiteen te drijven.",
+          answer: "matrakken"
         },
         {
-          sentence: "De ___ van het gebouw werden geëvacueerd wegens brand.",
-          answer: "bewoners"
+          sentence: "De agenten werden beschuldigd van ___ van de regels.",
+          answer: "schending"
         },
         {
-          sentence: "De ___ in deze stad rijden tot laat in de avond.",
-          answer: "trams"
+          sentence: "De politie was aanwezig bij verschillende ___ in oktober.",
+          answer: "manifestaties"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom zijn de bewoners van de Bernard Spaelaan overlast gaan ervaren?",
+        question: "Wat wordt bedoeld met 'flagrante schending' in de context?",
         options: [
-          "Omdat er meer auto's zijn dan normaal",
-          "Omdat het aantal trams is toegenomen tot 700 per dag",
-          "Omdat er een brand was in het gebouw",
-          "Omdat de tramrails zijn vernieuwd"
+          "Een duidelijk zichtbare overtreding",
+          "Een kleine vergissing",
+          "Een geheim gehouden feit",
+          "Een onbedoelde handeling"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is de rol van de ACOD in deze kwestie?",
+        options: [
+          "Ze verdedigen het gedrag van de politieagenten.",
+          "Ze veroordelen het gedrag en vragen een onafhankelijk onderzoek.",
+          "Ze negeren de incidenten volledig.",
+          "Ze steunen de politieagenten onvoorwaardelijk."
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de rol van de vrederechter in deze situatie?",
+        question: "Wat is een 'matrak' in deze context?",
         options: [
-          "Hij organiseert protesten tegen de overlast",
-          "Hij beveelt De Lijn om de overlast te verminderen",
-          "Hij geeft gratis ov-kaarten aan de bewoners",
-          "Hij bemiddelt tussen de bewoners en de trambestuurders"
+          "Een soort muziekinstrument",
+          "Een politie-uitrusting voor controle, zoals een wapen",
+          "Een onderdeel van een auto",
+          "Een medisch hulpmiddel"
         ],
         correctAnswer: 2
-      },
-      {
-        question: "Hoe probeert De Lijn de overlast te verminderen volgens de samenvatting?",
-        options: [
-          "Door minder trams te laten rijden",
-          "Door tramroutes te verleggen naar andere straten",
-          "Door geluiddempende maatregelen te nemen op de trams",
-          "Door de vrederechter in te schakelen"
-        ],
-        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De bewoners van de Bernard Spaelaan in Gent ervaren overlast door het hoge aantal trams dat daar rijdt.",
-        isTrue: true
-      },
-      {
-        statement: "De vrederechter heeft De Lijn bevolen om de overlast volledig te elimineren.",
+        statement: "De vakbond ACOD steunt het gebruik van traangas door de politie.",
         isTrue: false
       },
       {
-        statement: "De overlast wordt veroorzaakt doordat de trams 's nachts rijden en veel geluid maken.",
+        statement: "Het parlement wordt gevraagd een onafhankelijke commissie in te stellen.",
         isTrue: true
+      },
+      {
+        statement: "De incidenten vonden plaats in december.",
+        isTrue: false
       }
     ]
   },
@@ -1732,97 +1801,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Chef Defensie Vansina over drones boven Marche-en-Famenne: “We gaan versneld dronedetectie en bewapening kopen”",
+    title: "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
     topicNumber: 1,
     article: {
-      title: "Chef Defensie Vansina over drones boven Marche-en-Famenne: “We gaan versneld dronedetectie en bewapening kopen”",
-      summary: "Wie de drones bestuurde die dinsdagnacht opnieuw boven de legerbasis van Marche-en-Famenne vlogen, weet Defensie nog niet. Maar dat de bescherming tegen disruptieve droneactiviteit verscherpt moet worden, staat vast. “Men test ons.”"
+      title: "Temu start terugroepactie na waarshuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
+      summary: "Zeventig procent van de producten die Testaankoop samen met buitenlandse consumentenorganisaties kocht bij webwinkels Shein en Temu, voldoet niet aan de Europese veiligheidsregels. Sommige goedkope sieraden en babyspeeltjes blijken zelfs gevaarlijk. “We hebben meteen alles offline gehaald”, reageren Shein en Temu."
     },
     vocabulary: {
       words: [
         {
-          word: "drones",
-          definition: "Onbemande vliegtuigjes die op afstand bestuurd worden",
-          sentence: "De militaire basis gebruikt speciale systemen om ___ te detecteren en onschadelijk te maken.",
-          answer: "drones"
+          word: "Testaankoop",
+          definition: "Een Belgische consumentenorganisatie die producten test.",
+          sentence: "___ bracht de problemen met de producten aan het licht.",
+          answer: "Testaankoop"
         },
         {
-          word: "basis",
-          definition: "Een plaats of locatie die als uitgangspunt of hoofdkwartier dient",
-          sentence: "De militaire ___ in Marche-en-Famenne werd recent overvlogen door drones.",
-          answer: "basis"
+          word: "Russische roulette",
+          definition: "Een gevaarlijk spel waarbij iemand zijn of haar leven riskeert; hier gebruikt als metafoor voor een groot risico nemen.",
+          sentence: "Kopen bij deze winkels is als ___ spelen.",
+          answer: "Russische roulette"
         },
         {
-          word: "detectie",
-          definition: "Het opsporen of ontdekken van iets, vaak met technische middelen",
-          sentence: "Moderne ___systemen kunnen zelfs kleine objecten van ver waarnemen.",
-          answer: "detectie"
+          word: "veiligheidsregels",
+          definition: "Regels die zijn opgesteld om de veiligheid te garanderen.",
+          sentence: "Veel producten voldoen niet aan de Europese ___.",
+          answer: "veiligheidsregels"
         },
         {
-          word: "bewapening",
-          definition: "Wapens en munitie die gebruikt worden voor defensie of aanval",
-          sentence: "Nieuwe ___ is nodig om de verhoogde dreiging het hoofd te bieden.",
-          answer: "bewapening"
+          word: "gevaarlijk",
+          definition: "Het gevaar opleverend, risicovol.",
+          sentence: "Producten die niet voldoen aan de normen zijn vaak ___ voor de gebruiker.",
+          answer: "gevaarlijk"
+        },
+        {
+          word: "terugroepactie",
+          definition: "Een actie waarbij een bedrijf producten terugneemt van klanten, vaak vanwege problemen.",
+          sentence: "Temu startte een ___ voor de onveilige producten.",
+          answer: "terugroepactie"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De militaire ___ in Marche-en-Famenne werd recent overvlogen door drones.",
-          answer: "basis"
+          sentence: "___ bracht de problemen met de producten aan het licht.",
+          answer: "Testaankoop"
         },
         {
-          sentence: "Moderne ___systemen kunnen zelfs kleine objecten van ver waarnemen.",
-          answer: "detectie"
+          sentence: "Temu startte een ___ voor de onveilige producten.",
+          answer: "terugroepactie"
         },
         {
-          sentence: "De militaire basis gebruikt speciale systemen om ___ te detecteren en onschadelijk te maken.",
-          answer: "drones"
+          sentence: "Kopen bij deze winkels is als ___ spelen.",
+          answer: "Russische roulette"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de voornaamste zorg van Defensie volgens de tekst?",
+        question: "Waarom noemt Testaankoop het kopen bij deze winkels 'Russische roulette'?",
         options: [
-          "Het detecteren van nieuwe drone-modellen",
-          "Het trainen van personeel in drone-bestrijding",
-          "Het beveiligen van militaire bases tegen drone-aanvallen",
-          "Het ontwikkelen van offensieve drone-capaciteiten"
+          "Omdat het een oud spel is",
+          "Omdat het veel geld kost",
+          "Omdat het een groot risico is voor de consument",
+          "Omdat het populair is in Rusland"
         ],
         correctAnswer: 3
       },
       {
-        question: "Hoe reageert Defensie op de drone-incidenten?",
+        question: "Wat is de reactie van de webwinkels op de bevindingen van Testaankoop?",
         options: [
-          "Door de aanschaf van drones te versnellen",
-          "Door detectie- en bewapeningstechnologie te verbeteren",
-          "Door alle bases tijdelijk te sluiten",
-          "Door internationale partners om hulp te vragen"
+          "Ze negeerden het volledig",
+          "Ze haalden de producten onmiddellijk offline",
+          "Ze verhoogden de prijzen",
+          "Ze startten een reclamecampagne"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat impliceert de uitspraak “Men test ons”?",
+        question: "Wat is een van de specifieke problemen met de verkochte producten?",
         options: [
-          "Dat Defensie zelf experimenteert met drones",
-          "Dat een externe groep de verdedigingstesten",
-          "Dat nieuwe medewerkers worden gescreend",
-          "Dat er sprake is van psychologische oorvoering"
+          "Ze zijn te duur",
+          "Ze voldoen niet aan de veiligheidsregels",
+          "Ze zijn alleen online beschikbaar",
+          "Ze zijn te groot voor gemakkelijke verzending"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Defensie weet precies wie verantwoordelijk is voor de drone-incidenten.",
+        statement: "Testaankoop werkte alleen met Europese organisaties.",
         isTrue: false
       },
       {
-        statement: "De bewaking van militaire bases wordt aangescherpt na de recente gebeurtenissen.",
+        statement: "Sommige babyspeeltjes bleken gevaarlijk te zijn voor kinderen.",
         isTrue: true
       },
       {
-        statement: "Drones worden enkel gebruikt voor offensieve militaire operaties.",
+        statement: "Shein en Temu hebben de producten niet offline gehaald.",
         isTrue: false
       }
     ]
@@ -1832,103 +1907,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Nederlandse verkiezingen: uitslag erg spannend",
+    title: "Witte Huis beperkt toegang voor journalisten",
     topicNumber: 1,
     article: {
-      title: "Nederlandse verkiezingen: uitslag erg spannend",
-      summary: "In Nederland zijn er verkiezingen. De uitslag is heel spannend, want de twee grootste partijen hebben bijna evenveel zetels. Ze zijn nog aan het tellen."
+      title: "Witte Huis beperkt toegang voor journalisten",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "uitslag",
-          definition: "het eindresultaat, zoals na verkiezingen",
-          sentence: "De ___ laat zien welke partij heeft gewonnen.",
-          answer: "uitslag"
+          word: "updates",
+          definition: "nieuwe informatie, het laatste nieuws",
+          sentence: "Volg hier alle ___ over het nieuws.",
+          answer: "updates"
         },
         {
-          word: "spannend",
-          definition: "opwindend, je weet niet wat er gaat gebeuren",
-          sentence: "Het is ___ om te wachten op de uitslag.",
-          answer: "spannend"
+          word: "wereldwijd",
+          definition: "over de hele wereld",
+          sentence: "De veranderingen zijn ___ voelbaar.",
+          answer: "wereldwijd"
         },
         {
-          word: "partij",
-          definition: "een groep mensen met dezelfde ideeën over hoe het land moet worden gerund",
-          sentence: "Mensen stemmen op een ___ die ze leuk vinden.",
-          answer: "partij"
+          word: "Huis",
+          definition: "een gebouw waar mensen wonen",
+          sentence: "Het Witte ___ is waar de president werkt.",
+          answer: "Huis"
         },
         {
-          word: "tellen",
-          definition: "optellen, bijvoorbeeld hoeveel stemmen een partij heeft",
-          sentence: "Medewerkers moeten de stemmen ___.",
-          answer: "tellen"
+          word: "beperkt",
+          definition: "niet veel, niet veel",
+          sentence: "Toegang is ___ voor journalisten.",
+          answer: "beperkt"
         },
         {
-          word: "verkiezingen",
-          definition: "een keer per paar jaar stemmen mensen op een partij.",
-          sentence: "In Nederland zijn er binnenkort ___.",
-          answer: "verkiezingen"
+          word: "Witte",
+          definition: "een kleur, zoals wit",
+          sentence: "De ___ Huis is in Washington.",
+          answer: "Witte"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het is ___ om te wachten op de uitslag.",
-          answer: "spannend"
+          sentence: "Toegang is ___ voor journalisten.",
+          answer: "beperkt"
         },
         {
-          sentence: "Mensen stemmen op een ___ die ze leuk vinden.",
-          answer: "partij"
+          sentence: "De veranderingen zijn ___ voelbaar.",
+          answer: "wereldwijd"
         },
         {
-          sentence: "In Nederland zijn er binnenkort ___.",
-          answer: "verkiezingen"
+          sentence: "De ___ Huis is in Washington.",
+          answer: "Witte"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de uitslag van de verkiezingen in Nederland?",
+        question: "Waar werkt de president van Amerika?",
         options: [
-          "Het is nog niet bekend",
-          "Het is al bekend",
-          "Het regent buiten",
-          "Nederland heeft gewonnen"
+          "In het Witte Huis",
+          "In het Rode Huis",
+          "In het Blauwe Huis",
+          "In het Groene Huis"
         ],
         correctAnswer: 1
       },
       {
-        question: "Waarom is de uitslag spannend?",
+        question: "Wat betekent 'beperkt' in deze context?",
         options: [
-          "Omdat het nog niet bekend is",
-          "Omdat het al bekend is",
-          "Omdat het een feest is",
-          "Omdat niemand meer stemt"
+          "Niet veel, gelimiteerd",
+          "Heel veel",
+          "Onbeperkt",
+          "Gesloten"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat gebeurt er als de uitslag bekend is?",
+        question: "Wat is een 'update' in dit artikel?",
         options: [
-          "Dan weten we welke partij gewonnen heeft",
-          "Dan begint het te regenen",
-          "Dan is de verkiezing voorbij",
-          "Dan moet iedereen opnieuw stemmen"
+          "Het laatste nieuws",
+          "Een oude krant",
+          "Een foto",
+          "Een video"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De uitslag is al bekend.",
+        statement: "Journalisten mogen altijd in het Witte Huis komen.",
         isTrue: false
       },
       {
-        statement: "Twee partijen hebben bijna evenveel zetels.",
+        statement: "Donald Trump is de president van Amerika.",
         isTrue: true
       },
       {
-        statement: "Nederland heeft geen verkiezingen.",
+        statement: "De veranderingen zijn alleen in Amerika.",
         isTrue: false
       }
     ]
@@ -1938,103 +2013,97 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
+    title: "Pentagon geeft toestemming voor raketten, Trump moet beslissen",
     topicNumber: 1,
     article: {
-      title: "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
-      summary: "Donald Trump is opnieuw president van Amerika. Hij zegt dat Amerika weer kernwapens gaat testen. Veel landen zijn bezorgd. Volg hier het laatste nieuws."
+      title: "Pentagon geeft toestemming voor raketten, Trump moet beslissen",
+      summary: "Amerika overweegt het sturen van meer wapens naar Oekraïne. President Trump moet de uiteindelijke beslissing nemen. Volg het laatste nieuws over de oorlog via de DS Nieuws app."
     },
     vocabulary: {
       words: [
         {
-          word: "Amerika",
-          definition: "Een land, ook Verenigde Staten genoemd",
-          sentence: "Amerika is een groot land.",
-          answer: "Amerika"
+          word: "Pentagon",
+          definition: "Het gebouw van het Ministerie van Defensie in de VS",
+          sentence: "Het ___ is het hoofdkwartier van het Amerikaanse leger.",
+          answer: "Pentagon"
         },
         {
-          word: "landen",
-          definition: "Landen zoals Duitsland of Frankrijk",
-          sentence: "Veel landen zijn bezorgd.",
-          answer: "landen"
+          word: "beslissing",
+          definition: "Een keuze die je maakt nadat je erover nadenkt",
+          sentence: "De minister-president moet een belangrijke ___ nemen over de oorlog.",
+          answer: "beslissing"
         },
         {
           word: "Trump",
-          definition: "De achternaam van de president",
-          sentence: "Trump is de president van Amerika.",
+          definition: "De familienaam van de voormalige president van de Verenigde Staten",
+          sentence: "___ was president van de Verenigde Staten.",
           answer: "Trump"
         },
         {
-          word: "bezorgd",
-          definition: "Je maakt je zorgen over iets",
-          sentence: "Ze zijn bezorgd over de test.",
-          answer: "bezorgd"
-        },
-        {
-          word: "kernwapens",
-          definition: "Heel gevaarlijke bommen",
-          sentence: "Kernwapens kunnen veel schade doen.",
-          answer: "kernwapens"
+          word: "Oekraïne",
+          definition: "Een land in Europa, momenteel in conflict met Rusland",
+          sentence: "___ is een land dat grenst aan Rusland.",
+          answer: "Oekraïne"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Trump is de president van Amerika.",
-          answer: "Trump"
+          sentence: "___ is een land dat grenst aan Rusland.",
+          answer: "Oekraïne"
         },
         {
-          sentence: "Ze zijn bezorgd over de test.",
-          answer: "bezorgd"
+          sentence: "Het ___ is het hoofdkwartier van het Amerikaanse leger.",
+          answer: "Pentagon"
         },
         {
-          sentence: "Kernwapens kunnen veel schade doen.",
-          answer: "kernwapens"
+          sentence: "De minister-president moet een belangrijke ___ nemen over de oorlog.",
+          answer: "beslissing"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'testen' in deze tekst?",
+        question: "Wat is de Pentagon?",
         options: [
-          "Iets nieuws maken",
-          "Iets uitproberen of controleren",
-          "Iets kapotmaken",
-          "Iets vergeten"
+          "Een type raket",
+          "Het hoofdkantoor van het Amerikaanse leger",
+          "Een stad in de VS",
+          "Een beroemde acteur"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waar gaat de tekst over?",
+        question: "Waarover moet Trump een beslissing nemen?",
         options: [
-          "Over reizen naar andere landen",
-          "Over de verkiezingen in Amerika",
-          "Over kernwapens en testen",
-          "Over de president van China"
+          "Of hij zijn haar moet laten knippen",
+          "Of de VS meer wapens naar Oekraïne stuurt",
+          "Welk ontbijt hij wil eten",
+          "Of hij naar een feestje gaat"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Waarom zijn andere landen bezorgd?",
+        question: "Wat is de situatie in Oekraïne?",
         options: [
-          "Omdat ze niet van Trump houden",
-          "Omdat kernwapens gevaarlijk zijn",
-          "Omdat ze meer geld willen",
-          "Omdat de test plaatsvindt in hun land"
+          "Er is vrede",
+          "Er is een grote oorlog aan de gang",
+          "Het is altijd zomer",
+          "Ze spelen alleen maar voetbal"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Trump is de president van Amerika.",
+        statement: "De Verenigde Staten overwegen het sturen van wapens naar Oekraïne.",
         isTrue: true
       },
       {
-        statement: "Kernwapens zijn niet gevaarlijk.",
+        statement: "Trump is de huidige president van de Verenigde Staten.",
         isTrue: false
       },
       {
-        statement: "Andere landen zijn bezorgd over de tests.",
+        statement: "Oekraïne is een land in Europa.",
         isTrue: true
       }
     ]
@@ -2044,103 +2113,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
+    title: "Frans parlement weigert belasting",
     topicNumber: 1,
     article: {
-      title: "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
-      summary: "De Standaard-fotograaf Gert Jochems geeft een inkijk in het leven van alledag in Oekraïens oorlogsgebied. Hij kon ter plekke volgen hoe de Azov-brigade gronddrones inzet voor de bevoorrading langs de levensgevaarlijke frontlijn."
+      title: "Frans parlement weigert belasting",
+      summary: "Het Franse parlement heeft een nieuwe belasting voor rijke mensen niet aangenomen. De politici stemden tegen de belasting."
     },
     vocabulary: {
       words: [
         {
-          word: "gronddrones",
-          definition: "kleine vliegende machines die dingen kunnen dragen",
-          sentence: "De soldaten gebruiken ___ om medicijnen te sturen.",
-          answer: "gronddrones"
+          word: "parlement",
+          definition: "De groep mensen die wetten maakt in een land",
+          sentence: "Het ___ van Nederland heet de Tweede Kamer.",
+          answer: "parlement"
         },
         {
-          word: "nieuwkomers",
-          definition: "mensen of dingen die nieuw zijn in een gebied",
-          sentence: "De ___ in de klas komen uit verschillende landen.",
-          answer: "nieuwkomers"
+          word: "belasting",
+          definition: "Geld dat je moet betalen aan de overheid",
+          sentence: "In Nederland betaal je ___ over je inkomen.",
+          answer: "belasting"
         },
         {
-          word: "oorlogsgebied",
-          definition: "een plek waar oorlog is",
-          sentence: "Mensen moeten vluchten uit een ___.",
-          answer: "oorlogsgebied"
+          word: "politici",
+          definition: "Mensen die een regering runnen en wetten maken",
+          sentence: "___ moeten vaak in het openbaar spreken.",
+          answer: "politici"
         },
         {
-          word: "onmisbare",
-          definition: "heel erg nodig, je kunt niet zonder",
-          sentence: "Water is ___ voor mensen en dieren.",
-          answer: "onmisbare"
+          word: "weigert",
+          definition: "Zegt nee tegen iets, accepteert niet",
+          sentence: "Hij ___ om mee te gaan naar het feest.",
+          answer: "weigert"
         },
         {
-          word: "levensgevaarlijke",
-          definition: "gevaarlijk voor je leven",
-          sentence: "Het is ___ om alleen de oceaan over te steken.",
-          answer: "levensgevaarlijke"
+          word: "Frans",
+          definition: "Van of uit Frankrijk",
+          sentence: "De ___ keuken is bekend over de hele wereld.",
+          answer: "Frans"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Mensen moeten vluchten uit een ___.",
-          answer: "oorlogsgebied"
+          sentence: "Hij ___ om mee te gaan naar het feest.",
+          answer: "weigert"
         },
         {
-          sentence: "De ___ in de klas komen uit verschillende landen.",
-          answer: "nieuwkomers"
+          sentence: "In Nederland betaal je ___ over je inkomen.",
+          answer: "belasting"
         },
         {
-          sentence: "Water is ___ voor mensen en dieren.",
-          answer: "onmisbare"
+          sentence: "Het ___ van Nederland heet de Tweede Kamer.",
+          answer: "parlement"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarover gaat de tekst vooral?",
+        question: "Wat betekent 'aangenomen' in deze context?",
         options: [
-          "Over fotografie in de natuur",
-          "Over oorlog in Oekraïne en de inzet van drones",
-          "Over reizen naar andere landen",
-          "Over de geschiedenis van drones"
+          "Geaccepteerd",
+          "Geweigerd",
+          "Vergeten",
+          "Verboden"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Wat zijn 'gronddrones' in deze tekst?",
+        question: "Waar stemden de politici tegen?",
         options: [
-          "Een soort vliegtuig",
-          "Een type soldaat",
-          "Kleine vliegende machines die dingen kunnen dragen",
-          "Een soort camera"
+          "Tegen een nieuwe belasting",
+          "Tegen een feest",
+          "Tegen een nieuwe wet voor scholen",
+          "Tegen de koning"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Waarom zijn de drones belangrijk in de tekst?",
+        question: "Wat is de 'Assemblée nationale'?",
         options: [
-          "Ze maken mooie foto's",
-          "Ze vervoeren medicijnen en spullen langs de frontlijn",
-          "Ze zijn leuk om mee te spelen",
-          "Ze worden gebruikt in vredestijd"
+          "Het Franse parlement",
+          "Een soort belasting",
+          "Een Frans restaurant",
+          "Een sportteam"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De fotograaf Gert Jochems werkte in een oorlogsgebied.",
-        isTrue: true
-      },
-      {
-        statement: "Gronddrones worden gebruikt om foto's te maken in de oorlog.",
+        statement: "Het Franse parlement heeft de belasting aangenomen.",
         isTrue: false
       },
       {
-        statement: "De drones zijn onmisbaar voor het overleven van soldaten.",
+        statement: "Politici stemden tegen de nieuwe belasting.",
+        isTrue: true
+      },
+      {
+        statement: "De Assemblée nationale is de regering van Frankrijk.",
         isTrue: true
       }
     ]
@@ -2150,104 +2219,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Verdachte van adoptiefraude na veertig jaar voor de rechter",
+    title: "Rijverbod voor presentator",
     topicNumber: 1,
     article: {
-      title: "Verdachte van adoptiefraude na veertig jaar voor de rechter",
-      summary: "Er is een Belgische rechtszaak over gestolen kinderen uit Guatemala. Iemand zegt: 'Ik kwam naar België met een valse naam, zonder geboortedatum en met een biologische moeder die misschien niet eens weet dat ik nog leef.'"
+      title: "Rijverbod voor presentator",
+      summary: "Een presentator heeft een probleem met de politie. Hij kreeg een rijverbod, maar reed toch. Daarom kreeg hij een boete en een nieuw rijverbod."
     },
     vocabulary: {
       words: [
         {
-          word: "fraude",
-          definition: "wanneer iemand opzettelijk liegt of bedriegt om iets te krijgen",
-          sentence: "Hij gebruikte een valse naam, dat is een vorm van ___.",
-          answer: "fraude"
+          word: "reed",
+          definition: "verleden tijd van rijden; zich verplaatsen in een voertuig",
+          sentence: "Hij ___ met zijn auto naar zijn werk.",
+          answer: "reed"
         },
         {
-          word: "adoptie",
-          definition: "wanneer een kind officieel wordt opgenomen in een ander gezin",
-          sentence: "Sommige kinderen komen in een gezin via ___.",
-          answer: "adoptie"
+          word: "nieuw",
+          definition: "vers, recent gemaakt of ontstaan",
+          sentence: "Hij kreeg een ___ rijverbag, nadat hij eerder al was gestraft.",
+          answer: "nieuw"
         },
         {
-          word: "moeder",
-          definition: "de vrouwelijke ouder van een kind",
-          sentence: "De ___ van het kind woonde in Guatemala.",
-          answer: "moeder"
+          word: "boete",
+          definition: "geld dat je moet betalen als straf voor een overtreding",
+          sentence: "Hij kreeg een ___ omdat hij door rood reed.",
+          answer: "boete"
         },
         {
-          word: "kinderen",
-          definition: "jonge mensen, meestal onder de 18 jaar",
-          sentence: "De ___ werden illegaal geadopteerd.",
-          answer: "kinderen"
+          word: "politie",
+          definition: "mensen die de wet handhaven en misdaad bestrijden",
+          sentence: "De ___ kwam omdat hij te hard reed.",
+          answer: "politie"
         },
         {
-          word: "geboorte",
-          definition: "het moment dat een kind wordt geboren",
-          sentence: "Zijn ___ vond plaats in 2010.",
-          answer: "geboorte"
+          word: "presentator",
+          definition: "iemand die een programma op tv of radio presenteert",
+          sentence: "De ___ praat met mensen in een show.",
+          answer: "presentator"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Sommige kinderen komen in een gezin via ___.",
-          answer: "adoptie"
+          sentence: "De ___ praat met mensen in een show.",
+          answer: "presentator"
         },
         {
-          sentence: "Hij gebruikte een valse naam, dat is een vorm van ___.",
-          answer: "fraude"
+          sentence: "Hij ___ met zijn auto naar zijn werk.",
+          answer: "reed"
         },
         {
-          sentence: "Zijn ___ vond plaats in 2010.",
-          answer: "geboorte"
+          sentence: "Hij kreeg een ___ rijverbag, nadat hij eerder al was gestraft.",
+          answer: "nieuw"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat de rechtszaak over?",
+        question: "Waarom kreeg de presentator een rijverbod?",
         options: [
-          "Een diefstal van auto's",
-          "Een fraude met adoptie",
-          "Een vakantie in Guatemala",
-          "Een feest in de rechtbank"
+          "Hij had te veel gedronken.",
+          "Hij had te hard gereden.",
+          "Hij had geen rijbewijs.",
+          "Hij had iemand aangereden."
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Waar woont de biologische moeder van het kind?",
+        question: "Hoe lang is het nieuwe rijverbod?",
         options: [
-          "In Nederland",
-          "In België",
-          "In Guatemala",
-          "In Duitsland"
+          "9 maanden",
+          "4 maanden",
+          "1 jaar",
+          "6 maanden"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Wat is een 'valse naam'?",
+        question: "Wat is een boete?",
         options: [
-          "Een echte naam",
-          "Een lieve naam",
-          "Een naam die niet echt is",
-          "Een naam die alleen thuis wordt gebruikt"
+          "Een soort straf waarbij je geld moet betalen",
+          "Een soort feest met cadeaus",
+          "Een type auto",
+          "Een soort maaltijd"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De zaak speelt zich af in België.",
-        isTrue: true
-      },
-      {
-        statement: "De moeder van het kind woont in Nederland.",
+        statement: "De presentator reed door rood licht.",
         isTrue: false
       },
       {
-        statement: "Het kind werd geadopteerd met een valse naam.",
+        statement: "De presentator kreeg een boete van 4800 euro.",
         isTrue: true
+      },
+      {
+        statement: "Het rijverbod was voor negen jaar.",
+        isTrue: false
       }
     ]
   },
@@ -2362,98 +2431,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Chef Defensie over drones boven legerbasis",
+    title: "Temu start terugroepactie na waarschuwing voor gevaarlijke producten",
     topicNumber: 1,
     article: {
-      title: "Chef Defensie over drones boven legerbasis",
-      summary: "Defensie weet nog niet wie de drones bestuurde boven de legerbasis. Maar de bescherming tegen drones wordt beter. Men test de verdediging."
+      title: "Temu start terugroepactie na waarschuwing voor gevaarlijke producten",
+      summary: "Testaankoop waarschuwt voor gevaarlijke producten bij Temu en Shein. Veel producten voldoen niet aan de Europese veiligheidsregels. Sommige sieraden en speelgoed zijn zelfs gevaarlijk. De winkels hebben sommige producten offline gehaald."
     },
     vocabulary: {
       words: [
         {
-          word: "basis",
-          definition: "een plaats waar mensen werken of wonen",
-          sentence: "De soldaten werken op een militaire ___.",
-          answer: "basis"
+          word: "producten",
+          definition: "dingen die je koopt, zoals speelgoed of sieraden",
+          sentence: "Sommige ___ zijn gevaarlijk.",
+          answer: "producten"
         },
         {
-          word: "leger",
-          definition: "een groep mensen die een land verdedigt",
-          sentence: "Het ___ bestaat uit soldaten en officieren.",
-          answer: "leger"
+          word: "veiligheidsregels",
+          definition: "regels om ervoor te zorgen dat iets veilig is",
+          sentence: "De producten voldoen niet aan de Europese ___.",
+          answer: "veiligheidsregels"
         },
         {
-          word: "drones",
-          definition: "kleine vliegtuigen zonder piloot, op afstand bestuurd",
-          sentence: "Soms zie je ___ in de lucht, ze maken foto's of video's.",
-          answer: "drones"
+          word: "sieraden",
+          definition: "versieringen die je draagt, zoals een ketting of ring",
+          sentence: "Sommige ___ zijn gevaarlijk omdat ze giftige stoffen bevatten.",
+          answer: "sieraden"
         },
         {
-          word: "bescherming",
-          definition: "iets dat je veilig houdt, bijvoorbeeld tegen gevaar",
-          sentence: "Een helm biedt ___ voor je hoofd bij een val.",
-          answer: "bescherming"
+          word: "speelgoed",
+          definition: "spullen om mee te spelen, zoals poppen of auto's",
+          sentence: "Ook sommig ___ is onveilig voor kinderen.",
+          answer: "speelgoed"
+        },
+        {
+          word: "gevaarlijk",
+          definition: "niet veilig, kan schade veroorzaken",
+          sentence: "Sommige producten zijn erg ___.",
+          answer: "gevaarlijk"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Een helm biedt ___ voor je hoofd bij een val.",
-          answer: "bescherming"
+          sentence: "Sommige ___ zijn gevaarlijk.",
+          answer: "producten"
         },
         {
-          sentence: "De soldaten werken op een militaire ___.",
-          answer: "basis"
+          sentence: "Sommige ___ zijn gevaarlijk omdat ze giftige stoffen bevatten.",
+          answer: "sieraden"
         },
         {
-          sentence: "Soms zie je ___ in de lucht, ze maken foto's of video's.",
-          answer: "drones"
+          sentence: "Ook sommig ___ is onveilig voor kinderen.",
+          answer: "speelgoed"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar vlogen de drones boven?",
+        question: "Waarom waarschuwt Testaankoop voor producten van Temu en Shein?",
         options: [
-          "Boven een park",
-          "Boven een winkelcentrum",
-          "Boven een legerbasis",
-          "Boven een school"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat betekent 'verscherpen'?",
-        options: [
-          "Minder sterk maken",
-          "Versterken",
-          "Negeren",
-          "Verminderen"
+          "Omdat de producten te duur zijn",
+          "Omdat de producten niet voldoen aan de veiligheidsregels",
+          "Omdat de producten niet leverbaar zijn",
+          "Omdat de producten te populair zijn"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat doet Defensie om de drones te stoppen?",
+        question: "Wat hebben Shein en Temu gedaan na de waarschuwing?",
         options: [
-          "Niets, ze wachten af",
-          "Ze kopen nieuwe drones",
-          "Ze testen detectie en kopen bewapening",
-          "Ze sluiten de basis"
+          "Ze hebben alle producten verwijderd van hun websites",
+          "Ze hebben niets gedaan",
+          "Ze hebben alleen de gevaarlijke producten offline gehaald",
+          "Ze hebben nieuwe producten toegevoegd"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat is een voorbeeld van een gevaarlijk product?",
+        options: [
+          "Een fiets",
+          "Een boek",
+          "Een sieraad met giftige stoffen",
+          "Een computer"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De drones vlogen boven een winkelcentrum.",
+        statement: "Testaankoop heeft producten van Temu en Shein getest en ze zijn allemaal veilig bevonden.",
         isTrue: false
       },
       {
-        statement: "Defensie weet wie de drones bestuurde.",
-        isTrue: false
-      },
-      {
-        statement: "De bescherming tegen drones wordt beter.",
+        statement: "Temu is een online winkel waar je producten kunt kopen.",
         isTrue: true
+      },
+      {
+        statement: "Alle producten van Shein en Temu zijn nu offline gehaald.",
+        isTrue: false
       }
     ]
   },
@@ -2462,103 +2537,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "D66 en PVD allebei op 26 zetels, verschil is minder dan 2.000 stemmen",
+    title: "Witte Huis beperkt toegang voor journalisten",
     topicNumber: 1,
     article: {
-      title: "D66 en PVV allebei op 26 zetels, verschil is minder dan 2.000 stemmen",
-      summary: "Nederland trekt woensdag opnieuw naar de stembus voor de vervroegde parlementsverkiezingen na de val van het kabinet-Schoof. Volg hier de laatste updates."
+      title: "Witte Huis beperkt toegang voor journalisten",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "trekt",
-          definition: "gaat naar, reist naar",
-          sentence: "Hij trekt naar het buitenland voor zijn vakantie.",
-          answer: "trekt"
+          word: "toegang",
+          definition: "De mogelijkheid om een plaats te betreden of te gebruiken.",
+          sentence: "Journalisten hebben nu geen ___ tot de persconferentie.",
+          answer: "toegang"
         },
         {
-          word: "opnieuw",
-          definition: "nog een keer, opnieuw",
-          sentence: "Hij probeerde het opnieuw, na zijn eerste mislukking.",
-          answer: "opnieuw"
+          word: "beperkt",
+          definition: "Niet volledig; met bepaalde grenzen.",
+          sentence: "De toegang tot het gebied was ___ om veiligheidsredenen.",
+          answer: "beperkt"
         },
         {
-          word: "val",
-          definition: "een manier om te vallen, of het einde van iets",
-          sentence: "De val van de regering leidde tot nieuwe verkiezingen.",
-          answer: "val"
+          word: "wereldwijd",
+          definition: "Over de hele wereld; op globale schaal.",
+          sentence: "De pandemie had ___ gevolgen voor de economie.",
+          answer: "wereldwijd"
         },
         {
-          word: "verkiezingen",
-          definition: "een stemming waarin mensen stemmen voor hun leiders",
-          sentence: "De verkiezingen zijn gepland voor volgende maand.",
-          answer: "verkiezingen"
+          word: "updates",
+          definition: "Bijgewerkte informatie of nieuws.",
+          sentence: "Volg de laatste ___ over de situatie via deze website.",
+          answer: "updates"
         },
         {
-          word: "stemmen",
-          definition: "het geven van je stem, kiezen",
-          sentence: "Alle burgers mogen stemmen bij de verkiezingen.",
-          answer: "stemmen"
+          word: "journalisten",
+          definition: "Personen die verslag doen van nieuws.",
+          sentence: "___ spelen een belangrijke rol in de verspreiding van informatie.",
+          answer: "Journalisten"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De val van de regering leidde tot nieuwe verkiezingen.",
-          answer: "val"
+          sentence: "De toegang tot het gebied was ___ om veiligheidsredenen.",
+          answer: "beperkt"
         },
         {
-          sentence: "Alle burgers mogen stemmen bij de verkiezingen.",
-          answer: "stemmen"
+          sentence: "Journalisten hebben nu geen ___ tot de persconferentie.",
+          answer: "toegang"
         },
         {
-          sentence: "Hij trekt naar het buitenland voor zijn vakantie.",
-          answer: "trekt"
+          sentence: "De pandemie had ___ gevolgen voor de economie.",
+          answer: "wereldwijd"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom zijn er nieuwe verkiezingen in Nederland?",
+        question: "Wat betekent 'beperkt' in deze context?",
         options: [
-          "Omdat het voetbalteam verloor",
-          "Omdat de koning aftrad",
-          "Omdat het kabinet viel",
-          "Omdat het een jaarlijkse traditie is"
+          "Volledig",
+          "Onbeperkt",
+          "Gelimiteerd",
+          "Oneindig"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat betekent 'trekt' in deze context?",
+        question: "Waar verwijst 'Witte Huis' naar in deze tekst?",
         options: [
-          "trekt aan",
-          "gaat naar",
-          "blijft thuis",
-          "kiest een andere optie"
+          "Een museum",
+          "De Amerikaanse regering",
+          "Een krant",
+          "Een historisch gebouw"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is het verschil tussen D66 en PVV in deze verkiezingen?",
+        question: "Wat is een 'journalist'?",
         options: [
-          "D66 heeft meer stemmen",
-          "PVV heeft meer stemmen",
-          "Het verschil is klein",
-          "Ze zijn even groot"
+          "Iemand die boeken schrijft",
+          "Iemand die nieuws rapporteert",
+          "Iemand die politieondersteunt",
+          "Iemand die films maakt"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Nederland heeft nieuwe verkiezingen omdat de regering is gevallen.",
-        isTrue: true
-      },
-      {
-        statement: "D66 en PVV hebben exact hetzelfde aantal zetels.",
+        statement: "Het Witte Huis heeft onbeperkte toegang voor journalisten.",
         isTrue: false
       },
       {
-        statement: "Het verschil in stemmen tussen D66 en PVV is meer dan 2.000.",
+        statement: "Donald Trump was de president van de Verenigde Staten tijdens zijn tweede ambtstermijn.",
+        isTrue: true
+      },
+      {
+        statement: "Deze tekst gaat alleen over Amerikaanse politiek.",
         isTrue: false
       }
     ]
@@ -2568,73 +2643,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
+    title: "Oorlog in Oekraïne: recente ontwikkelingen",
     topicNumber: 1,
     article: {
-      title: "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
-      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+      title: "Oorlog in Oekraïne: recente ontwikkelingen",
+      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
     },
     vocabulary: {
       words: [
         {
-          word: "onmiddellijk",
-          definition: "meteen, zonder vertraging",
-          sentence: "Na het ongeluk reageerde de hulp ___.",
-          answer: "onmiddellijk"
+          word: "app",
+          definition: "een applicatie op je telefoon of computer, vaak afkorting van application",
+          sentence: "Download de ___ om op de hoogte te blijven.",
+          answer: "app"
         },
         {
-          word: "kernwapens",
-          definition: "wapens die gebruikmaken van nucleaire reacties voor hun vernietigende kracht",
-          sentence: "Het non-proliferatieverdrag probeert de verspreiding van ___ te stoppen.",
-          answer: "kernwapens"
+          word: "oorlog",
+          definition: "een gewapend conflict tussen landen of groepen",
+          sentence: "De ___ in Oekraïne duurt nu al maanden.",
+          answer: "oorlog"
+        },
+        {
+          word: "melding",
+          definition: "een bericht of signaal dat je informeert",
+          sentence: "Krijg een ___ wanneer er belangrijk nieuws is.",
+          answer: "melding"
+        },
+        {
+          word: "Oekraïne",
+          definition: "een land in Oost-Europa",
+          sentence: "___ wordt momenteel zwaar getroffen door de oorlog.",
+          answer: "Oekraïne"
+        },
+        {
+          word: "ontwikkelingen",
+          definition: "gebeurtenissen of veranderingen in een situatie",
+          sentence: "De recente ___ in de oorlog zijn belangrijk om te volgen.",
+          answer: "ontwikkelingen"
         }
       ],
-      fillInBlanks: []
+      fillInBlanks: [
+        {
+          sentence: "___ wordt momenteel zwaar getroffen door de oorlog.",
+          answer: "Oekraïne"
+        },
+        {
+          sentence: "Krijg een ___ wanneer er belangrijk nieuws is.",
+          answer: "melding"
+        },
+        {
+          sentence: "Download de ___ om op de hoogte te blijven.",
+          answer: "app"
+        }
+      ]
     },
     multipleChoice: [
       {
-        question: "Wat is het hoofdonderwerp van dit artikel?",
+        question: "Wat betekent het om een app te downloaden?",
         options: [
-          "Klimaatverandering",
-          "Kernwapenbeheersing",
-          "Ruimtevaart",
-          "Internationale handel"
+          "Een app verwijderen van je telefoon",
+          "Een app installeren vanaf het internet",
+          "Een app negeren op je scherm",
+          "Een app deactiveren in je instellingen"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de houding van Trump ten opzichte van kernwapens volgens de titel?",
+        question: "Waarom is het belangrijk om het nieuws te volgen?",
         options: [
-          "Hij wil ze afschaffen",
-          "Hij wil ze verminderen",
-          "Hij wil ze onmiddellijk opnieuw testen",
-          "Hij negeert het onderwerp"
+          "Om oude informatie te hergebruiken",
+          "Om op de hoogte te blijven van actuele gebeurtenissen",
+          "Om je telefoon op te laden",
+          "Om meer vrienden te krijgen op sociale media"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Wat is de verwachte impact van Trumps beleid op internationaal gebied?",
+        question: "Wat is een voorbeeld van een actuele gebeurtenis?",
         options: [
-          "Alleen positief voor de VS",
-          "Alleen negatief voor andere landen",
-          "Wereldwijd veranderend, zowel positief als negatief",
-          "Geen enkele impact"
+          "De uitvinding van de telefoon in 1876",
+          "De eerste mens op de maan in 1969",
+          "Een recente ontwikkelingen in de oorlog in Oekraïne",
+          "De val van het Romeinse Rijk in 476 AD"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Donald Trump is de huidige president van de Verenigde Staten.",
-        isTrue: false
-      },
-      {
-        statement: "Kernwapens zijn wapens die gebruikmaken van nucleaire reacties.",
+        statement: "De oorlog in Oekraïne is al enkele maanden aan de gang.",
         isTrue: true
       },
       {
-        statement: "Trump's beleid heeft alleen gevolgen voor de Verenigde Staten.",
+        statement: "Het is niet nodig om het nieuws te volgen om op de hoogte te blijven.",
         isTrue: false
+      },
+      {
+        statement: "Apps kunnen je helpen om informatie te krijgen.",
+        isTrue: true
       }
     ]
   },
@@ -2643,104 +2749,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
+    title: "Frans parlement verwerpt rijkenbelasting",
     topicNumber: 1,
     article: {
-      title: "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
-      summary: "De Standaard-fotograaf Gert Jochems geeft een inkijk in het leven van alledag in Oekraïens oorlogsgebied. Hij kon ter plekke volgen hoe de Azov-brigade gronddrones inzet voor de bevoorrading langs de levensgevaarlijke frontlijn."
+      title: "Frans parlement verwerpt rijkenbelasting",
+      summary: "De Assemblée nationale, het Franse parlement, heeft vrijdag voorstellen voor een belasting op de hoogste vermogens met een grote meerderheid verworpen."
     },
     vocabulary: {
       words: [
         {
-          word: "gronddrones",
-          definition: "onbemande vliegtuigjes die over de grond gaan",
-          sentence: "De Azov-brigade zet ___ in voor bevoorrading.",
-          answer: "gronddrones"
+          word: "Frans",
+          definition: "Betrekking hebbend op Frankrijk of zijn inwoners.",
+          sentence: "Het ___ parlement heeft de wet aangenomen.",
+          answer: "Frans"
         },
         {
-          word: "nieuwkomers",
-          definition: "mensen of dingen die er nieuw bij zijn",
-          sentence: "De drones zijn de ___ in dit soort oorlog.",
-          answer: "nieuwkomers"
+          word: "rijk",
+          definition: "Een land of gebied met eigen regels en een overheid.",
+          sentence: "Het koninkrijk is een soevereine ___ met een monarch.",
+          answer: "rijk"
         },
         {
-          word: "fotograaf",
-          definition: "iemand die foto's maakt",
-          sentence: "De ___ maakte indrukwekkende beelden in Oekraïne.",
-          answer: "fotograaf"
+          word: "parlement",
+          definition: "Een groep mensen die wetten maakt en beslissingen neemt voor een land.",
+          sentence: "Het ___ van Frankrijk komt regelmatig bijeen.",
+          answer: "parlement"
         },
         {
-          word: "Oekraïne",
-          definition: "land in Europa, nu in oorlog",
-          sentence: "Hij reisde af naar ___ om te fotograferen.",
-          answer: "Oekraïne"
+          word: "vermogens",
+          definition: "Vermogens zijn bezittingen, vaak in de vorm van geld of eigendommen.",
+          sentence: "De belasting is van toepassing op grote ___.",
+          answer: "vermogens"
         },
         {
-          word: "onmisbare",
-          definition: "niet te missen, heel belangrijk",
-          sentence: "Gronddrones zijn ___ in dit conflict.",
-          answer: "onmisbare"
+          word: "belasting",
+          definition: "Geld dat mensen of bedrijven moeten betalen aan de overheid.",
+          sentence: "De ___ op inkomens is dit jaar verhoogd.",
+          answer: "belasting"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ maakte indrukwekkende beelden in Oekraïne.",
-          answer: "fotograaf"
+          sentence: "Het ___ van Frankrijk komt regelmatig bijeen.",
+          answer: "parlement"
         },
         {
-          sentence: "Hij reisde af naar ___ om te fotograferen.",
-          answer: "Oekraïne"
+          sentence: "Het ___ parlement heeft de wet aangenomen.",
+          answer: "Frans"
         },
         {
-          sentence: "De Azov-brigade zet ___ in voor bevoorrading.",
-          answer: "gronddrones"
+          sentence: "De ___ op inkomens is dit jaar verhoogd.",
+          answer: "belasting"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat beschrijft deze tekst vooral?",
+        question: "Wat is het Franse equivalent van het woord 'parlement'?",
         options: [
-          "Het leven van fotograaf Gert Jochems",
-          "De uitvinding van de gronddrone",
-          "Hoe gronddrones worden gebruikt in Oekraïne",
-          "De geschiedenis van Oekraïne"
+          "Assemblée",
+          "Parlement",
+          "Senat",
+          "Nationale Vergadering"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Waarom zijn gronddrones 'onmisbaar' volgens de tekst?",
+        question: "Wat betekent 'verwerpt' in deze context?",
         options: [
-          "Ze vervangen soldaten in gevechten",
-          "Ze zijn goedkoop en makkelijk te maken",
-          "Ze worden gebruikt voor bevoorrading in gevaarlijke gebieden",
-          "Ze kunnen ook in de lucht vliegen"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat is de rol van Gert Jochems volgens de tekst?",
-        options: [
-          "Hij is een Oekraïense soldaat",
-          "Hij is een fotograaf voor De Standaard",
-          "Hij is de uitvinder van de gronddrone",
-          "Hij leidt de Azov-brigade"
+          "Accepteert",
+          "Verwerpt",
+          "Wijzigt",
+          "Bevestigt"
         ],
         correctAnswer: 2
+      },
+      {
+        question: "Wat is het hoofdonderwerp van het artikel?",
+        options: [
+          "Belastingen",
+          "Wetgeving",
+          "Vermogens",
+          "Politiek"
+        ],
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Gert Jochems is een fotograaf die in Oekraïne werkt.",
-        isTrue: true
-      },
-      {
-        statement: "Gronddrones worden alleen maar gebruikt voor spionage.",
+        statement: "De Franse regering heeft de belasting goedgekeurd.",
         isTrue: false
       },
       {
-        statement: "De Azov-brigade maakt gebruik van gronddrones voor bevoorrading.",
+        statement: "De belasting is alleen van toepassing op de allerrijksten.",
         isTrue: true
+      },
+      {
+        statement: "De beslissing is unaniem genomen.",
+        isTrue: false
       }
     ]
   },
@@ -2749,103 +2855,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Verdachte grootschalige adoptiefraude na veertig jaar alsnog voor de rechter",
+    title: "'s Nachts rijbewijs ingetrokken, 's ochtends terug achter het stuur: Ruben Van Gucht krijgt rijverbod en boete na meerdere inbreuken",
     topicNumber: 1,
     article: {
-      title: "Verdachte grootschalige adoptiefraude na veertig jaar alsnog voor de rechter",
-      summary: "Er komt alsnog een Belgisch strafproces in de zaak van de minstens vijftien geroofde ‘weeskinderen’ uit Guatemala. “Ik kwam naar België met een valse naam, zonder geboortedatum en met een biologische moeder die allicht niet eens weet dat ik nog leef.”"
+      title: "'s Nachts rijbewijs ingetrokken, 's ochtends terug achter het stuur: Ruben Van Gucht krijgt rijverbod en boete na meerdere inbreuken",
+      summary: "Negen maanden rijverbod en een boete van 4.800 euro: die zware straf heeft sportanker Ruben Van Gucht (38) vrijdagochtend in de Dendermondse politierechtbank gekregen omdat hij ondanks een rijverbod na een positieve alcoholtest stiekem toch reed. Vier keer liep hij tegen de lamp."
     },
     vocabulary: {
       words: [
         {
-          word: "valse",
-          definition: "niet echt of niet waar, vervalst",
-          sentence: "Hij reisde met een valse paspoort naar België.",
-          answer: "valse"
+          word: "rijbewijs",
+          definition: "Een officieel document dat bewijst dat je mag autorijden.",
+          sentence: "Hij moest zijn ___ inleveren na de overtreding.",
+          answer: "rijbewijs"
         },
         {
-          word: "fraude",
-          definition: "opzettelijke misleiding of bedrog om iets illegaals te bereiken",
-          sentence: "Hij werd beschuldigd van fraude omdat hij de documenten had vervalst.",
-          answer: "fraude"
+          word: "stiekem",
+          definition: "In het geheim, zonder dat anderen het merken.",
+          sentence: "Hij reed ___ toch door, ook al mocht het niet.",
+          answer: "stiekem"
         },
         {
-          word: "weeskinderen",
-          definition: "kinderen die beide ouders verloren hebben",
-          sentence: "De weeskinderen werden opgevangen door een liefdadigheidsinstelling.",
-          answer: "weeskinderen"
+          word: "rijverbod",
+          definition: "Een verbod om een voertuig te besturen voor een bepaalde periode.",
+          sentence: "Hij kreeg een ___ van negen maanden.",
+          answer: "rijverbod"
         },
         {
-          word: "adoptie",
-          definition: "zie eerste woord",
-          sentence: "Adoptie kan een mooie manier zijn om een gezin te vormen, maar het moet legaal gebeuren.",
-          answer: "adoptie"
+          word: "alcoholtest",
+          definition: "Een test die meet hoeveel alcohol er in je lichaam zit.",
+          sentence: "Hij bleek positief op de ___.",
+          answer: "alcoholtest"
         },
         {
-          word: "geboortedatum",
-          definition: "de datum waarop iemand geboren is",
-          sentence: "Zonder een geboortedatum is het lastig om iemands leeftijd te bepalen.",
-          answer: "geboortedatum"
+          word: "vrijdagochtend",
+          definition: "De ochtend van vrijdag, een dag van de week.",
+          sentence: "Hij kreeg de uitspraak op ___.",
+          answer: "vrijdagochtend"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De weeskinderen werden opgevangen door een liefdadigheidsinstelling.",
-          answer: "weeskinderen"
+          sentence: "Hij reed ___ toch door, ook al mocht het niet.",
+          answer: "stiekem"
         },
         {
-          sentence: "Hij reisde met een valse paspoort naar België.",
-          answer: "valse"
+          sentence: "Hij moest zijn ___ inleveren na de overtreding.",
+          answer: "rijbewijs"
         },
         {
-          sentence: "Adoptie kan een mooie manier zijn om een gezin te vormen, maar het moet legaal gebeuren.",
-          answer: "adoptie"
+          sentence: "Hij bleek positief op de ___.",
+          answer: "alcoholtest"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is een belangrijk gevolg van deze adoptiefraude voor de slachtoffers?",
+        question: "Waarom kreeg Ruben Van Gucht een rijverbod?",
         options: [
-          "Ze krijgen veel cadeaus",
-          "Ze verliezen hun wettelijke identiteit",
-          "Ze worden meteen geadopteerd",
-          "Ze worden allemaal beroemd"
+          "Hij reed stiekem door na een alcoholtest.",
+          "Hij was betrokken bij een auto-ongeluk.",
+          "Hij reed zonder rijbewijs.",
+          "Hij verloor een weddenschap over rijden."
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Hoe lang was de duur van het rijverbod?",
+        options: [
+          "Vier maanden",
+          "Negen maanden",
+          "Twaalf maanden",
+          "Acht maanden"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waarom duurde het zo lang voordat deze zaak voor de rechter kwam?",
+        question: "Waar vond de rechtszaak plaats?",
         options: [
-          "Omdat niemand het wist",
-          "Omdat de documenten pas recent werden gevonden",
-          "Omdat de slachtoffers pas later durfden te spreken",
-          "Omdat de fraudeurs erg goed waren in verbergen"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat is de rol van de rechter in deze kwestie?",
-        options: [
-          "De rechter organiseert feestjes",
-          "De rechter beslist over de straf en gerechtigheid",
-          "De rechter is een van de slachtoffers",
-          "De rechter kent de waarheid niet"
+          "Brussel",
+          "Dendermonde",
+          "Antwerpen",
+          "Gent"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De adoptiefraude zaken worden nooit opgelost omdat alle documenten verloren zijn.",
+        statement: "Ruben Van Gucht kreeg een rijverbod omdat hij te hard reed.",
         isTrue: false
       },
       {
-        statement: "Slachtoffers van adoptiefraude kunnen hun ware identiteit volledig verliezen.",
+        statement: "Hij kreeg een rijverbod van negen maanden en een boete.",
         isTrue: true
       },
       {
-        statement: "De rechter in deze zaak heeft al een vonnis geveld voordat de zaak begon.",
+        statement: "Hij reed stiekem door, maar werd niet gepakt.",
         isTrue: false
       }
     ]
@@ -2961,103 +3067,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Chef Defensie Vansina over drones boven Marche-en-Famenne: 'We gaan versneld dronedetectie en bewapening kopen'",
+    title: "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
     topicNumber: 1,
     article: {
-      title: "Chef Defensie Vansina over drones boven Marche-en-Famenne: 'We gaan versneld dronedetectie en bewapening kopen'",
-      summary: "Wie de drones bestuurde die dinsdagnacht opnieuw boven de legerbasis van Marche-en-Famenne vlogen, weet Defensie nog niet. Maar dat de bescherming tegen disruptieve droneactiviteit verscherpt moet worden, staat vast. 'Men test ons.'"
+      title: "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
+      summary: "Zeventig procent van de producten die Testaankoop samen met buitenlandse consumentenorganisaties kocht bij webwinkels Shein en Temu, voldoet niet aan de Europese veiligheidsregels. Sommige goedkope sieraden en babyspeeltjes blijken zelfs gevaarlijk. “We hebben meteen alles offline gehaald”, reageren Shein en Temu."
     },
     vocabulary: {
       words: [
         {
-          word: "disruptieve",
-          definition: "verstorend, veroorzaakt onderbrekingen",
-          sentence: "De ___ activiteit van de drones verstoorde de communicatie.",
-          answer: "disruptieve"
+          word: "producten",
+          definition: "dingen die je kunt kopen en gebruiken",
+          sentence: "Sommige ___ zijn niet veilig om te gebruiken.",
+          answer: "producten"
         },
         {
-          word: "test",
-          definition: "testen, uitproberen, op de proef stellen",
-          sentence: "De tegenstander ___ onze verdediging constant.",
-          answer: "test"
+          word: "Russische roulette",
+          definition: "een gevaarlijk spel waar je veel risico neemt, genoemd naar een Russisch spel",
+          sentence: "Kopen bij die winkels is als ___ spelen.",
+          answer: "Russische roulette"
         },
         {
-          word: "detectie",
-          definition: "het opsporen of ontdekken van iets",
-          sentence: "Dankzij de nieuwe ___ -technologie werden de drones gesignaleerd.",
-          answer: "detectie"
+          word: "consumentenorganisaties",
+          definition: "groepen die opkomen voor de belangen van kopers/gebruikers",
+          sentence: "Samen met internationale ___ test Testaankoop producten.",
+          answer: "consumentenorganisaties"
         },
         {
-          word: "bestuurde",
-          definition: "besturen, in de verleden tijd",
-          sentence: "Wie de drone ___ , heeft een vlucht uitgevoerd.",
-          answer: "bestuurde"
+          word: "webwinkels",
+          definition: "online winkels waar je producten kunt kopen via internet",
+          sentence: "Sommige ___ verkopen producten die niet veilig zijn.",
+          answer: "webwinkels"
         },
         {
-          word: "basis",
-          definition: "een plaats of locatie die als uitgangspunt dient",
-          sentence: "De militaire ___ was gesloten voor het publiek.",
-          answer: "basis"
+          word: "babyspeeltjes",
+          definition: "speelgoed speciaal gemaakt voor baby's",
+          sentence: "Ook sommige ___ voldoen niet aan de veiligheidsnormen.",
+          answer: "babyspeeltjes"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De tegenstander ___ onze verdediging constant.",
-          answer: "test"
+          sentence: "Sommige ___ zijn niet veilig om te gebruiken.",
+          answer: "producten"
         },
         {
-          sentence: "Dankzij de nieuwe ___ -technologie werden de drones gesignaleerd.",
-          answer: "detectie"
+          sentence: "Sommige ___ verkopen producten die niet veilig zijn.",
+          answer: "webwinkels"
         },
         {
-          sentence: "De ___ activiteit van de drones verstoorde de communicatie.",
-          answer: "disruptieve"
+          sentence: "Kopen bij die winkels is als ___ spelen.",
+          answer: "Russische roulette"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is het hoofdonderwerp van dit artikel?",
+        question: "Waarom noemt Testaankoop kopen bij Temu 'Russische roulette'?",
         options: [
-          "De toekomst van drone technologie",
-          "Versterking van defensie tegen drone-incidenten",
-          "Het gebruik van drones in de landbouw",
-          "Internationale samenwerking tegen cyberaanvallen"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Welke maatregel wordt genoemd als directe reactie op de drone-incidenten?",
-        options: [
-          "Volledige sluiting van de basis",
-          "Samenwerking met internationale partners",
-          "Versnelde aankoop van detectie- en bewapeningssystemen",
-          "Geen, er wordt alleen onderzocht"
+          "Omdat het een leuk spel is",
+          "Omdat het veel geld kost",
+          "Omdat het een groot risico is voor de koper",
+          "Omdat het een oude traditie is"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is de toon van de uitspraak 'Men test ons.'?",
+        question: "Wat deden Shein en Temu na de waarschuwing?",
         options: [
-          "Positief en optimistisch",
-          "Neutraal en informatief",
-          "Zorgelijk en serieus",
-          "Sarcastisch en licht"
+          "Ze sloten de webwinkels",
+          "Ze haalden de producten offline",
+          "Ze negeerden de waarschuwing",
+          "Ze verhoogden de prijzen"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is een voorbeeld van een product dat niet voldeed?",
+        options: [
+          "Een veiligheidshelm",
+          "Een brandblusser",
+          "Een goedkoop sieraad",
+          "Een stevige tafel"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Defensie weet nog niet wie de drones bestuurde tijdens de vlucht boven de basis.",
-        isTrue: true
-      },
-      {
-        statement: "De bescherming tegen drones wordt verzwakt na het incident.",
+        statement: "Testaankoop testte de producten alleen.",
         isTrue: false
       },
       {
-        statement: "De basis van Marche-en-Famenne is een civiele luchthaven.",
+        statement: "Shein en Temu haalden de producten offline na de waarschuwing.",
+        isTrue: true
+      },
+      {
+        statement: "Alle producten van Shein en Temu zijn veilig volgens Europese normen.",
         isTrue: false
       }
     ]

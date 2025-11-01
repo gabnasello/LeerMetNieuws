@@ -1,105 +1,93 @@
 {
-  "id": 17,
+  "id": 18,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Verdachte in grootschalige adoptiefraude na veertig jaar voor de rechter",
+  "title": "Rijverbod en boete voor Van Gucht",
   "topicNumber": 1,
   "article": {
-    "title": "Verdachte in grootschalige adoptiefraude na veertig jaar voor de rechter",
-    "summary": "Er komt een Belgisch strafproces over de adoptie van kinderen uit Guatemala. Deze kinderen werden gestolen en met valse papieren naar België gebracht. De biologische moeder weet mogelijk niet eens dat haar kind nog leeft."
+    "title": "Rijverbod en boete voor Van Gucht",
+    "summary": "Ruben Van Gucht heeft een rijverbod en een boete gekregen omdat hij meerdere keren reed met alcohol op."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "moeder",
-        "definition": "de vrouwelijke ouder van een kind",
-        "sentence": "De biologische ___ wist misschien niet dat haar kind nog leefde.",
-        "answer": "moeder"
+        "word": "rijverbod",
+        "definition": "niet mogen rijden",
+        "sentence": "Hij kreeg een ___ omdat hij te veel dronk.",
+        "answer": "rijverbod"
       },
       {
-        "word": "Guatemala",
-        "definition": "een land in Midden-Amerika",
-        "sentence": "Veel kinderen werden illegaal geadopteerd uit ___.",
-        "answer": "Guatemala"
+        "word": "boete",
+        "definition": "geld dat je moet betalen als straf",
+        "sentence": "Hij moest een ___ van 100 euro betalen.",
+        "answer": "boete"
       },
       {
-        "word": "kinderen",
-        "definition": "jonge personen, meestal onder de 18 jaar",
-        "sentence": "De ___ werden illegaal geadopteerd uit Guatemala.",
-        "answer": "kinderen"
-      },
-      {
-        "word": "adoptie",
-        "definition": "het officieel aannemen van een kind dat niet van jezelf is",
-        "sentence": "De ___ van kinderen uit andere landen is soms illegaal.",
-        "answer": "adoptie"
-      },
-      {
-        "word": "valse",
-        "definition": "niet echt, nep of onecht",
-        "sentence": "Ze kregen ___ documenten om de adoptie te verbergen.",
-        "answer": "valse"
+        "word": "alcohol",
+        "definition": "een stof in drank die je dronken kan maken",
+        "sentence": "Hij had te veel ___ gedronken voor hij ging rijden.",
+        "answer": "alcohol"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ werden illegaal geadopteerd uit Guatemala.",
-        "answer": "kinderen"
+        "sentence": "Hij had te veel ___ gedronken voor hij ging rijden.",
+        "answer": "alcohol"
       },
       {
-        "sentence": "Veel kinderen werden illegaal geadopteerd uit ___.",
-        "answer": "Guatemala"
+        "sentence": "Hij moest een ___ van 100 euro betalen.",
+        "answer": "boete"
       },
       {
-        "sentence": "Ze kregen ___ documenten om de adoptie te verbergen.",
-        "answer": "valse"
+        "sentence": "Hij kreeg een ___ omdat hij te veel dronk.",
+        "answer": "rijverbod"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat deze rechtszaak over?",
+      "question": "Wat is de hoofdreden voor Van Gucht's straf?",
       "options": [
-        "Een adoptie van een kind uit Nederland",
-        "Een adoptie van kinderen uit Guatemala",
-        "Een diefstal van kunstwerken",
-        "Een verkeersongeval in België"
+        "Hij reed te hard",
+        "Hij was dronken",
+        "Hij reed stiekem door",
+        "Hij had een ongeluk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is een 'rijverbod'?",
+      "options": [
+        "Een feestje in de auto",
+        "Een verbod om te rijden",
+        "Een soort boete",
+        "Een type verkeersbord"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een belangrijk gevolg van deze fraude?",
+      "question": "Hoe vaak is Van Gucht betrapt?",
       "options": [
-        "Kinderen groeien op zonder te weten wie hun echte ouders zijn.",
-        "Kinderen krijgen te veel speelgoed.",
-        "Kinderen worden verliefd op hun adoptieouders.",
-        "Kinderen vergeten hun verleden."
+        "Eén keer",
+        "Twee keer",
+        "Drie keer",
+        "Vier keer"
       ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is waar over de biologische moeder?",
-      "options": [
-        "Ze weet zeker dat haar kind nog leeft.",
-        "Ze heeft nooit geweten dat ze een kind had.",
-        "Ze heeft het kind zelf aan de adoptieouders gegeven.",
-        "Ze is de adoptiemoeder van het kind."
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "De adoptiekinderen werden met valse papieren naar België gebracht.",
-      "isTrue": true
-    },
-    {
-      "statement": "De biologische moeder was altijd al op de hoogte van de adoptie.",
+      "statement": "Van Gucht kreeg alleen een boete, geen rijverbod.",
       "isTrue": false
     },
     {
-      "statement": "Deze zaak speelt zich af in Guatemala alleen.",
+      "statement": "Hij reed stiekem door na een alcoholtest.",
+      "isTrue": true
+    },
+    {
+      "statement": "Hij kreeg de straf omdat hij vier keer een ongeluk had.",
       "isTrue": false
     }
   ]

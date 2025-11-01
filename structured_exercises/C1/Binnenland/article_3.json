@@ -1,99 +1,105 @@
 {
-  "id": 23,
+  "id": 24,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Chef Defensie Vansina over drones boven Marche-en-Famenne: “We gaan versneld dronedetectie en bewapening kopen”",
+  "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
   "topicNumber": 1,
   "article": {
-    "title": "Chef Defensie Vansina over drones boven Marche-en-Famenne: “We gaan versneld dronedetectie en bewapening kopen”",
-    "summary": "Wie de drones bestuurde die dinsdagnacht opnieuw boven de legerbasis van Marche-en-Famenne vlogen, weet Defensie nog niet. Maar dat de bescherming tegen disruptieve droneactiviteit verscherpt moet worden, staat vast. “Men test ons.”"
+    "title": "Temu start terugroepactie na waarshuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
+    "summary": "Zeventig procent van de producten die Testaankoop samen met buitenlandse consumentenorganisaties kocht bij webwinkels Shein en Temu, voldoet niet aan de Europese veiligheidsregels. Sommige goedkope sieraden en babyspeeltjes blijken zelfs gevaarlijk. “We hebben meteen alles offline gehaald”, reageren Shein en Temu."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "drones",
-        "definition": "Onbemande vliegtuigjes die op afstand bestuurd worden",
-        "sentence": "De militaire basis gebruikt speciale systemen om ___ te detecteren en onschadelijk te maken.",
-        "answer": "drones"
+        "word": "Testaankoop",
+        "definition": "Een Belgische consumentenorganisatie die producten test.",
+        "sentence": "___ bracht de problemen met de producten aan het licht.",
+        "answer": "Testaankoop"
       },
       {
-        "word": "basis",
-        "definition": "Een plaats of locatie die als uitgangspunt of hoofdkwartier dient",
-        "sentence": "De militaire ___ in Marche-en-Famenne werd recent overvlogen door drones.",
-        "answer": "basis"
+        "word": "Russische roulette",
+        "definition": "Een gevaarlijk spel waarbij iemand zijn of haar leven riskeert; hier gebruikt als metafoor voor een groot risico nemen.",
+        "sentence": "Kopen bij deze winkels is als ___ spelen.",
+        "answer": "Russische roulette"
       },
       {
-        "word": "detectie",
-        "definition": "Het opsporen of ontdekken van iets, vaak met technische middelen",
-        "sentence": "Moderne ___systemen kunnen zelfs kleine objecten van ver waarnemen.",
-        "answer": "detectie"
+        "word": "veiligheidsregels",
+        "definition": "Regels die zijn opgesteld om de veiligheid te garanderen.",
+        "sentence": "Veel producten voldoen niet aan de Europese ___.",
+        "answer": "veiligheidsregels"
       },
       {
-        "word": "bewapening",
-        "definition": "Wapens en munitie die gebruikt worden voor defensie of aanval",
-        "sentence": "Nieuwe ___ is nodig om de verhoogde dreiging het hoofd te bieden.",
-        "answer": "bewapening"
+        "word": "gevaarlijk",
+        "definition": "Het gevaar opleverend, risicovol.",
+        "sentence": "Producten die niet voldoen aan de normen zijn vaak ___ voor de gebruiker.",
+        "answer": "gevaarlijk"
+      },
+      {
+        "word": "terugroepactie",
+        "definition": "Een actie waarbij een bedrijf producten terugneemt van klanten, vaak vanwege problemen.",
+        "sentence": "Temu startte een ___ voor de onveilige producten.",
+        "answer": "terugroepactie"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De militaire ___ in Marche-en-Famenne werd recent overvlogen door drones.",
-        "answer": "basis"
+        "sentence": "___ bracht de problemen met de producten aan het licht.",
+        "answer": "Testaankoop"
       },
       {
-        "sentence": "Moderne ___systemen kunnen zelfs kleine objecten van ver waarnemen.",
-        "answer": "detectie"
+        "sentence": "Temu startte een ___ voor de onveilige producten.",
+        "answer": "terugroepactie"
       },
       {
-        "sentence": "De militaire basis gebruikt speciale systemen om ___ te detecteren en onschadelijk te maken.",
-        "answer": "drones"
+        "sentence": "Kopen bij deze winkels is als ___ spelen.",
+        "answer": "Russische roulette"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de voornaamste zorg van Defensie volgens de tekst?",
+      "question": "Waarom noemt Testaankoop het kopen bij deze winkels 'Russische roulette'?",
       "options": [
-        "Het detecteren van nieuwe drone-modellen",
-        "Het trainen van personeel in drone-bestrijding",
-        "Het beveiligen van militaire bases tegen drone-aanvallen",
-        "Het ontwikkelen van offensieve drone-capaciteiten"
+        "Omdat het een oud spel is",
+        "Omdat het veel geld kost",
+        "Omdat het een groot risico is voor de consument",
+        "Omdat het populair is in Rusland"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Hoe reageert Defensie op de drone-incidenten?",
+      "question": "Wat is de reactie van de webwinkels op de bevindingen van Testaankoop?",
       "options": [
-        "Door de aanschaf van drones te versnellen",
-        "Door detectie- en bewapeningstechnologie te verbeteren",
-        "Door alle bases tijdelijk te sluiten",
-        "Door internationale partners om hulp te vragen"
+        "Ze negeerden het volledig",
+        "Ze haalden de producten onmiddellijk offline",
+        "Ze verhoogden de prijzen",
+        "Ze startten een reclamecampagne"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat impliceert de uitspraak “Men test ons”?",
+      "question": "Wat is een van de specifieke problemen met de verkochte producten?",
       "options": [
-        "Dat Defensie zelf experimenteert met drones",
-        "Dat een externe groep de verdedigingstesten",
-        "Dat nieuwe medewerkers worden gescreend",
-        "Dat er sprake is van psychologische oorvoering"
+        "Ze zijn te duur",
+        "Ze voldoen niet aan de veiligheidsregels",
+        "Ze zijn alleen online beschikbaar",
+        "Ze zijn te groot voor gemakkelijke verzending"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Defensie weet precies wie verantwoordelijk is voor de drone-incidenten.",
+      "statement": "Testaankoop werkte alleen met Europese organisaties.",
       "isTrue": false
     },
     {
-      "statement": "De bewaking van militaire bases wordt aangescherpt na de recente gebeurtenissen.",
+      "statement": "Sommige babyspeeltjes bleken gevaarlijk te zijn voor kinderen.",
       "isTrue": true
     },
     {
-      "statement": "Drones worden enkel gebruikt voor offensieve militaire operaties.",
+      "statement": "Shein en Temu hebben de producten niet offline gehaald.",
       "isTrue": false
     }
   ]

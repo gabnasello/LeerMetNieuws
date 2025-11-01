@@ -1,105 +1,105 @@
 {
-  "id": 22,
+  "id": 23,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Chef Defensie Vansina over drones boven Marche-en-Famenne: 'We gaan versneld dronedetectie en bewapening kopen'",
+  "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
   "topicNumber": 1,
   "article": {
-    "title": "Chef Defensie Vansina over drones boven Marche-en-Famenne: 'We gaan versneld dronedetectie en bewapening kopen'",
-    "summary": "Wie de drones bestuurde die dinsdagnacht opnieuw boven de legerbasis van Marche-en-Famenne vlogen, weet Defensie nog niet. Maar dat de bescherming tegen disruptieve droneactiviteit verscherpt moet worden, staat vast. 'Men test ons.'"
+    "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
+    "summary": "Zeventig procent van de producten die Testaankoop samen met buitenlandse consumentenorganisaties kocht bij webwinkels Shein en Temu, voldoet niet aan de Europese veiligheidsregels. Sommige goedkope sieraden en babyspeeltjes blijken zelfs gevaarlijk. “We hebben meteen alles offline gehaald”, reageren Shein en Temu."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "disruptieve",
-        "definition": "verstorend, veroorzaakt onderbrekingen",
-        "sentence": "De ___ activiteit van de drones verstoorde de communicatie.",
-        "answer": "disruptieve"
+        "word": "producten",
+        "definition": "dingen die je kunt kopen en gebruiken",
+        "sentence": "Sommige ___ zijn niet veilig om te gebruiken.",
+        "answer": "producten"
       },
       {
-        "word": "test",
-        "definition": "testen, uitproberen, op de proef stellen",
-        "sentence": "De tegenstander ___ onze verdediging constant.",
-        "answer": "test"
+        "word": "Russische roulette",
+        "definition": "een gevaarlijk spel waar je veel risico neemt, genoemd naar een Russisch spel",
+        "sentence": "Kopen bij die winkels is als ___ spelen.",
+        "answer": "Russische roulette"
       },
       {
-        "word": "detectie",
-        "definition": "het opsporen of ontdekken van iets",
-        "sentence": "Dankzij de nieuwe ___ -technologie werden de drones gesignaleerd.",
-        "answer": "detectie"
+        "word": "consumentenorganisaties",
+        "definition": "groepen die opkomen voor de belangen van kopers/gebruikers",
+        "sentence": "Samen met internationale ___ test Testaankoop producten.",
+        "answer": "consumentenorganisaties"
       },
       {
-        "word": "bestuurde",
-        "definition": "besturen, in de verleden tijd",
-        "sentence": "Wie de drone ___ , heeft een vlucht uitgevoerd.",
-        "answer": "bestuurde"
+        "word": "webwinkels",
+        "definition": "online winkels waar je producten kunt kopen via internet",
+        "sentence": "Sommige ___ verkopen producten die niet veilig zijn.",
+        "answer": "webwinkels"
       },
       {
-        "word": "basis",
-        "definition": "een plaats of locatie die als uitgangspunt dient",
-        "sentence": "De militaire ___ was gesloten voor het publiek.",
-        "answer": "basis"
+        "word": "babyspeeltjes",
+        "definition": "speelgoed speciaal gemaakt voor baby's",
+        "sentence": "Ook sommige ___ voldoen niet aan de veiligheidsnormen.",
+        "answer": "babyspeeltjes"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De tegenstander ___ onze verdediging constant.",
-        "answer": "test"
+        "sentence": "Sommige ___ zijn niet veilig om te gebruiken.",
+        "answer": "producten"
       },
       {
-        "sentence": "Dankzij de nieuwe ___ -technologie werden de drones gesignaleerd.",
-        "answer": "detectie"
+        "sentence": "Sommige ___ verkopen producten die niet veilig zijn.",
+        "answer": "webwinkels"
       },
       {
-        "sentence": "De ___ activiteit van de drones verstoorde de communicatie.",
-        "answer": "disruptieve"
+        "sentence": "Kopen bij die winkels is als ___ spelen.",
+        "answer": "Russische roulette"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is het hoofdonderwerp van dit artikel?",
+      "question": "Waarom noemt Testaankoop kopen bij Temu 'Russische roulette'?",
       "options": [
-        "De toekomst van drone technologie",
-        "Versterking van defensie tegen drone-incidenten",
-        "Het gebruik van drones in de landbouw",
-        "Internationale samenwerking tegen cyberaanvallen"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Welke maatregel wordt genoemd als directe reactie op de drone-incidenten?",
-      "options": [
-        "Volledige sluiting van de basis",
-        "Samenwerking met internationale partners",
-        "Versnelde aankoop van detectie- en bewapeningssystemen",
-        "Geen, er wordt alleen onderzocht"
+        "Omdat het een leuk spel is",
+        "Omdat het veel geld kost",
+        "Omdat het een groot risico is voor de koper",
+        "Omdat het een oude traditie is"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is de toon van de uitspraak 'Men test ons.'?",
+      "question": "Wat deden Shein en Temu na de waarschuwing?",
       "options": [
-        "Positief en optimistisch",
-        "Neutraal en informatief",
-        "Zorgelijk en serieus",
-        "Sarcastisch en licht"
+        "Ze sloten de webwinkels",
+        "Ze haalden de producten offline",
+        "Ze negeerden de waarschuwing",
+        "Ze verhoogden de prijzen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is een voorbeeld van een product dat niet voldeed?",
+      "options": [
+        "Een veiligheidshelm",
+        "Een brandblusser",
+        "Een goedkoop sieraad",
+        "Een stevige tafel"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Defensie weet nog niet wie de drones bestuurde tijdens de vlucht boven de basis.",
-      "isTrue": true
-    },
-    {
-      "statement": "De bescherming tegen drones wordt verzwakt na het incident.",
+      "statement": "Testaankoop testte de producten alleen.",
       "isTrue": false
     },
     {
-      "statement": "De basis van Marche-en-Famenne is een civiele luchthaven.",
+      "statement": "Shein en Temu haalden de producten offline na de waarschuwing.",
+      "isTrue": true
+    },
+    {
+      "statement": "Alle producten van Shein en Temu zijn veilig volgens Europese normen.",
       "isTrue": false
     }
   ]

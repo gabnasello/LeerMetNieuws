@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
+  "title": "Frans parlement verwerpt rijkentaks",
   "topicNumber": 1,
   "article": {
-    "title": "Onze fotograaf aan het front in Oekraïne: Gronddrones, de onmisbare nieuwkomers",
-    "summary": "De Standaard-fotograaf Gert Jochems geeft een inkijk in het leven van alledag in Oekraïens oorlogsgebied. Hij kon ter plekke volgen hoe de Azov-brigade gronddrones inzet voor de bevoorrading langs de levensgevaarlijke frontlijn."
+    "title": "Frans parlement verwerpt rijkentaks",
+    "summary": "Het Franse parlement heeft voorstellen om de rijksten te belasten verworpen. Er is geen sprake van een wonderbelasting."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "front",
-        "definition": "gebied waar gevochten wordt",
-        "sentence": "Hij reisde naar het ___ om te filmen.",
-        "answer": "front"
+        "word": "Frans",
+        "definition": "Betrekking hebbend op Frankrijk",
+        "sentence": "Het ___ parlement heeft de wet aangenomen.",
+        "answer": "Frans"
       },
       {
-        "word": "gronddrones",
-        "definition": "vliegende machines die op de grond werken",
-        "sentence": "De ___ brengen medicijnen naar soldaten.",
-        "answer": "gronddrones"
+        "word": "parlement",
+        "definition": "Een groep mensen die wetten maakt",
+        "sentence": "Het Nederlands ___ bestaat uit de Eerste en Tweede Kamer.",
+        "answer": "parlement"
       },
       {
-        "word": "frontlijn",
-        "definition": "lijn waar de twee kanten elkaar ontmoeten",
-        "sentence": "De ___ verplaatst zich dagelijks.",
-        "answer": "frontlijn"
+        "word": "verwerpt",
+        "definition": "Niet accepteren, afwijzen",
+        "sentence": "De regering ___ het voorstel voor een nieuwe wet.",
+        "answer": "verwerpt"
       },
       {
-        "word": "fotograaf",
-        "definition": "iemand die foto's maakt",
-        "sentence": "De ___ maakt foto's van de oorlog.",
-        "answer": "fotograaf"
+        "word": "rijkentaks",
+        "definition": "Belasting voor mensen met veel geld",
+        "sentence": "De ___ is bedoeld om de rijken te belasten.",
+        "answer": "rijkentaks"
       },
       {
-        "word": "oorlogsgebied",
-        "definition": "plaats waar oorlog is",
-        "sentence": "Hij reisde naar het ___ om te helpen.",
-        "answer": "oorlogsgebied"
+        "word": "is",
+        "definition": "Zijn, het tegenwoordige tijd van 'zijn'",
+        "sentence": "Hij ___ erg blij met het resultaat.",
+        "answer": "is"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij reisde naar het ___ om te helpen.",
-        "answer": "oorlogsgebied"
+        "sentence": "Het Nederlands ___ bestaat uit de Eerste en Tweede Kamer.",
+        "answer": "parlement"
       },
       {
-        "sentence": "De ___ brengen medicijnen naar soldaten.",
-        "answer": "gronddrones"
+        "sentence": "Het ___ parlement heeft de wet aangenomen.",
+        "answer": "Frans"
       },
       {
-        "sentence": "De ___ verplaatst zich dagelijks.",
-        "answer": "frontlijn"
+        "sentence": "De ___ is bedoeld om de rijken te belasten.",
+        "answer": "rijkentaks"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'onmisbaar' in de tekst?",
+      "question": "Wat is het Franse parlement?",
       "options": [
-        "niet te missen",
-        "heel erg nodig",
-        "onzichtbaar",
-        "onbereikbaar"
+        "Een gebouw in Parijs",
+        "De Assemblée Nationale",
+        "Een groep Franse ministers",
+        "De Franse regering"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar gebruikt men gronddrones volgens de tekst?",
+      "question": "Wat betekent 'verwerpt' in deze context?",
       "options": [
-        "in vredestijd",
-        "in oorlogsgebieden",
-        "alleen in laboratoria",
-        "voor filmopnames"
+        "Accepteert",
+        "Verwerpt",
+        "Wijst af",
+        "Verbergt"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de rol van de fotograaf in de tekst?",
+      "question": "Waar gaat de tekst over?",
       "options": [
-        "hij vecht mee",
-        "hij maakt foto's",
-        "hij leidt de drones",
-        "hij behandelt gewonden"
+        "Een belasting voor iedereen",
+        "Een belasting voor de armen",
+        "Een belasting voor de rijken",
+        "Een feest in Frankrijk"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Gert Jochems is een fotograaf voor De Standaard.",
-      "isTrue": true
-    },
-    {
-      "statement": "Gronddrones worden gebruikt om te bouwen.",
+      "statement": "Het Franse parlement heeft de rijkentaks goedgekeurd.",
       "isTrue": false
     },
     {
-      "statement": "De Azov-brigade gebruikt drones voor bevoorrading.",
+      "statement": "Er is een nieuwe wet aangenomen in Frankrijk.",
+      "isTrue": false
+    },
+    {
+      "statement": "De rijkentaks is niet ingevoerd in Frankrijk.",
       "isTrue": true
     }
   ]

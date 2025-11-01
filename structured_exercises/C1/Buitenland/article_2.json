@@ -1,62 +1,94 @@
 {
-  "id": 14,
+  "id": 15,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
+  "title": "Pentagon gave green light for Tomahawks, decision lies in Trump's hands",
   "topicNumber": 1,
   "article": {
-    "title": "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "Pentagon gave green light for Tomahawks, decision lies in Trump's hands",
+    "summary": "Follow all recent developments in the war in Ukraine. Download the DS News app and get notified for important updates."
   },
   "vocabulary": {
-    "words": [],
-    "fillInBlanks": []
+    "words": [
+      {
+        "word": "Pentagon",
+        "definition": "Het Amerikaanse ministerie van defensie, gevestigd in Washington D.C.",
+        "sentence": "Het ___ heeft de goedkeuring gegeven voor de levering van nieuwe wapens.",
+        "answer": "Pentagon"
+      },
+      {
+        "word": "Tomahawks",
+        "definition": "Een type geleide raketten, vaak gebruikt voor langeafstandsaanvallen.",
+        "sentence": "De Verenigde Staten overwegen de levering van extra ___ aan Oekraïne.",
+        "answer": "Tomahawks"
+      },
+      {
+        "word": "Trump",
+        "definition": "De voormalige president van de Verenigde Staten.",
+        "sentence": "___ zal de uiteindelijke beslissing nemen over de wapens.",
+        "answer": "Trump"
+      }
+    ],
+    "fillInBlanks": [
+      {
+        "sentence": "Het ___ heeft de goedkeuring gegeven voor de levering van nieuwe wapens.",
+        "answer": "Pentagon"
+      },
+      {
+        "sentence": "___ zal de uiteindelijke beslissing nemen over de wapens.",
+        "answer": "Trump"
+      },
+      {
+        "sentence": "De Verenigde Staten overwegen de levering van extra ___ aan Oekraïne.",
+        "answer": "Tomahawks"
+      }
+    ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de belangrijkste zorg bij het testen van kernwapens volgens de tekst?",
+      "question": "Wat betekent 'groen licht geven' in deze context?",
       "options": [
-        "Het kan internationale spanningen vergroten.",
-        "Het is duur en inefficiënt.",
-        "Het is goed voor de economie.",
-        "Het leidt tot onmiddellijke wereldvrede."
+        "Goedkeuring verlenen",
+        "Een lamp vervangen",
+        "Stoppen met een activiteit",
+        "Een kleur kiezen"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat wordt er genoemd als een manier om internationale veiligheid te bevorderen?",
+      "question": "Waar verwijst 'Tomahawks' in de titel naar?",
       "options": [
-        "Het testen van meer kernwapens.",
-        "Het inzetten van diplomatieke onderhandelingen.",
-        "Het isoleren van landen van de wereldgemeenschap.",
-        "Het negeren van internationale verdragen."
+        "Een soort voedsel",
+        "Een type auto",
+        "Een merk van sportartikelen",
+        "Een type raketten"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     },
     {
-      "question": "Hoe wordt de tweede ambtstermijn van Trump in de titel omschreven?",
+      "question": "Wat is de rol van Trump in deze situatie?",
       "options": [
-        "Als een periode van grote wereldwijde verandering.",
-        "Als een tijdperk van totale vrede.",
-        "Als een onbelangrijke historische gebeurtenis.",
-        "Als een voorbeeld van perfect leiderschap."
+        "Hij is de uiteindelijke beslisser",
+        "Hij is een toeschouwer",
+        "Hij is een atleet",
+        "Hij is een leraar"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De titel suggereert dat Trump onmiddellijk na zijn aantreden kernwapens zal testen.",
-      "isTrue": true
-    },
-    {
-      "statement": "De samenvatting stelt dat Trumps tweede ambtstermijn alleen lokale veranderingen in de VS veroorzaakt.",
+      "statement": "De Verenigde Staten hebben al Tomahawks geleverd aan Oekraïne.",
       "isTrue": false
     },
     {
-      "statement": "Internationale samenwerking is een thema in de tekst, maar wordt niet gepromoot als oplossing.",
+      "statement": "Trump heeft de laatste beslissingsbevoegdheid over deze wapenzending.",
       "isTrue": true
+    },
+    {
+      "statement": "De oorlog in Oekraïne is al beëindigd.",
+      "isTrue": false
     }
   ]
 }

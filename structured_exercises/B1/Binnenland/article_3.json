@@ -1,100 +1,106 @@
 {
-  "id": 21,
+  "id": 22,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Defensie werkt aan betere droneverdediging",
+  "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
   "topicNumber": 1,
   "article": {
-    "title": "Defensie werkt aan betere droneverdediging",
-    "summary": "Defensie wil haar bescherming tegen drones verbeteren. Ze gaan nieuwe technologie kopen om drones te detecteren en te bestrijden. Dit gebeurt na incidenten waarbij drones ongezien bases naderden."
+    "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
+    "summary": "Zeventig procent van de producten die Testaankoop samen met buitenlandse consumentenorganisaties kocht bij webwinkels Shein en Temu, voldoet niet aan de Europese veiligheidsregels. Sommige goedkope sieraden en babyspeeltjes blijken zelfs gevaarlijk. “We hebben meteen alles offline gehaald”, reageren Shein en Temu."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Defensie",
-        "definition": "de krijgsmacht, het leger",
-        "sentence": "___ is de organisatie die het land verdedigt.",
-        "answer": "Defensie"
+        "word": "roulette",
+        "definition": "een kansspel, vaak in een casino",
+        "sentence": "Hij zette al zijn geld in op één nummer bij ___.",
+        "answer": "roulette"
       },
       {
-        "word": "drones",
-        "definition": "onbemande vliegtuigjes, vaak op afstand bestuurd",
-        "sentence": "Een ___ is een klein onbemand vliegtuigje.",
-        "answer": "drone"
+        "word": "start",
+        "definition": "beginnen",
+        "sentence": "De vergadering ___ om 10 uur.",
+        "answer": "start"
       },
       {
-        "word": "detecteren",
-        "definition": "opmerken, ontdekken",
-        "sentence": "De politie kan een verdachte ___ met camera's.",
-        "answer": "detecteren"
+        "word": "producten",
+        "definition": "dingen die je kunt kopen, zoals spullen of goederen",
+        "sentence": "De supermarkt verkoopt veel verschillende ___.",
+        "answer": "producten"
       },
       {
-        "word": "verbeteren",
-        "definition": "beter maken, verbeteren",
-        "sentence": "De coach wil de teamspirit ___ met oefeningen.",
-        "answer": "verbeteren"
+        "word": "consumentenorganisaties",
+        "definition": "groepen die opkomen voor de belangen van kopers, van consumenten",
+        "sentence": "De Consumentenbond is een bekende ___.",
+        "answer": "consumentenorganisaties"
+      },
+      {
+        "word": "veiligheid",
+        "definition": "dat iets of iemand veilig is, zonder gevaar",
+        "sentence": "De ___ op de werkvloer is erg belangrijk.",
+        "answer": "veiligheid"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Een ___ is een klein onbemand vliegtuigje.",
-        "answer": "drone"
+        "sentence": "Hij zette al zijn geld in op één nummer bij ___.",
+        "answer": "roulette"
       },
       {
-        "sentence": "De coach wil de teamspirit ___ met oefeningen.",
-        "answer": "verbeteren"
+        "sentence": "De vergadering ___ om 10 uur.",
+        "answer": "start"
       },
       {
-        "sentence": "De politie kan een verdachte ___ met camera's.",
-        "answer": "detecteren"
+        "sentence": "De Consumentenbond is een bekende ___.",
+        "answer": "consumentenorganisaties"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is het doel van Defensie volgens de tekst?",
+      "question": "Waarom is het belangrijk dat producten voldoen aan veiligheidsregels?",
       "options": [
-        "Drone races organiseren",
-        "Nieuwe drones kopen voor eigen gebruik",
-        "Drone detectie en bewapening verbeteren",
-        "Geen actie ondernemen"
+        "Omdat het dan lichter weegt",
+        "Omdat het dan meer kost",
+        "Omdat het dan veilig is voor gebruik",
+        "Omdat het dan mooier is"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Waarom wil Defensie deze actie ondernemen?",
+      "question": "Wat deden Shein en Temu nadat de problemen bekend werden?",
       "options": [
-        "Omdat er een tekort is aan drones",
-        "Omdat er recent incidenten waren met drones",
-        "Omdat de regering het heeft gevraagd",
-        "Omdat het budget te hoog is"
+        "Ze gaven meer korting",
+        "Ze haalden de producten offline",
+        "Ze stopten met verkopen",
+        "Ze verhoogden de prijzen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoe reageert Defensie op de drone-incidenten?",
+      "question": "Wat is een voorbeeld van een gevaarlijk product?",
       "options": [
-        "Door drones te negeren",
-        "Door defensiebudgetten te verhogen zonder actie",
-        "Door technologie te kopen voor betere detectie",
-        "Door de luchtmacht op te doeken"
+        "Een fiets met goede remmen",
+        "Een speelgoed dat niet stukgaat",
+        "Een sieraad met losse onderdelen",
+        "Een speelgoed dat zacht is"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Defensie heeft al de perfecte oplossing voor drone-aanvallen.",
-      "isTrue": false
-    },
-    {
-      "statement": "De tekst suggereert dat Defensie actie onderneemt na drone-incidenten.",
+      "statement": "Testaankoop kocht producten bij Shein en Temu om ze te testen.",
       "isTrue": true
     },
     {
-      "statement": "Defensie gaat minder drones gebruiken door deze ontwikkelingen.",
+      "statement": "Alle producten van Shein en Temu zijn veilig volgens Europese regels.",
       "isTrue": false
+    },
+    {
+      "statement": "Shein en Temu hebben de onveilige producten offline gehaald.",
+      "isTrue": true
     }
   ]
 }

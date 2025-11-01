@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "D66 en PVD allebei op 26 zetels, verschil is minder dan 2.000 stemmen",
+  "title": "Witte Huis beperkt toegang voor journalisten",
   "topicNumber": 1,
   "article": {
-    "title": "D66 en PVV allebei op 26 zetels, verschil is minder dan 2.000 stemmen",
-    "summary": "Nederland trekt woensdag opnieuw naar de stembus voor de vervroegde parlementsverkiezingen na de val van het kabinet-Schoof. Volg hier de laatste updates."
+    "title": "Witte Huis beperkt toegang voor journalisten",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "trekt",
-        "definition": "gaat naar, reist naar",
-        "sentence": "Hij trekt naar het buitenland voor zijn vakantie.",
-        "answer": "trekt"
+        "word": "toegang",
+        "definition": "De mogelijkheid om een plaats te betreden of te gebruiken.",
+        "sentence": "Journalisten hebben nu geen ___ tot de persconferentie.",
+        "answer": "toegang"
       },
       {
-        "word": "opnieuw",
-        "definition": "nog een keer, opnieuw",
-        "sentence": "Hij probeerde het opnieuw, na zijn eerste mislukking.",
-        "answer": "opnieuw"
+        "word": "beperkt",
+        "definition": "Niet volledig; met bepaalde grenzen.",
+        "sentence": "De toegang tot het gebied was ___ om veiligheidsredenen.",
+        "answer": "beperkt"
       },
       {
-        "word": "val",
-        "definition": "een manier om te vallen, of het einde van iets",
-        "sentence": "De val van de regering leidde tot nieuwe verkiezingen.",
-        "answer": "val"
+        "word": "wereldwijd",
+        "definition": "Over de hele wereld; op globale schaal.",
+        "sentence": "De pandemie had ___ gevolgen voor de economie.",
+        "answer": "wereldwijd"
       },
       {
-        "word": "verkiezingen",
-        "definition": "een stemming waarin mensen stemmen voor hun leiders",
-        "sentence": "De verkiezingen zijn gepland voor volgende maand.",
-        "answer": "verkiezingen"
+        "word": "updates",
+        "definition": "Bijgewerkte informatie of nieuws.",
+        "sentence": "Volg de laatste ___ over de situatie via deze website.",
+        "answer": "updates"
       },
       {
-        "word": "stemmen",
-        "definition": "het geven van je stem, kiezen",
-        "sentence": "Alle burgers mogen stemmen bij de verkiezingen.",
-        "answer": "stemmen"
+        "word": "journalisten",
+        "definition": "Personen die verslag doen van nieuws.",
+        "sentence": "___ spelen een belangrijke rol in de verspreiding van informatie.",
+        "answer": "Journalisten"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De val van de regering leidde tot nieuwe verkiezingen.",
-        "answer": "val"
+        "sentence": "De toegang tot het gebied was ___ om veiligheidsredenen.",
+        "answer": "beperkt"
       },
       {
-        "sentence": "Alle burgers mogen stemmen bij de verkiezingen.",
-        "answer": "stemmen"
+        "sentence": "Journalisten hebben nu geen ___ tot de persconferentie.",
+        "answer": "toegang"
       },
       {
-        "sentence": "Hij trekt naar het buitenland voor zijn vakantie.",
-        "answer": "trekt"
+        "sentence": "De pandemie had ___ gevolgen voor de economie.",
+        "answer": "wereldwijd"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom zijn er nieuwe verkiezingen in Nederland?",
+      "question": "Wat betekent 'beperkt' in deze context?",
       "options": [
-        "Omdat het voetbalteam verloor",
-        "Omdat de koning aftrad",
-        "Omdat het kabinet viel",
-        "Omdat het een jaarlijkse traditie is"
+        "Volledig",
+        "Onbeperkt",
+        "Gelimiteerd",
+        "Oneindig"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat betekent 'trekt' in deze context?",
+      "question": "Waar verwijst 'Witte Huis' naar in deze tekst?",
       "options": [
-        "trekt aan",
-        "gaat naar",
-        "blijft thuis",
-        "kiest een andere optie"
+        "Een museum",
+        "De Amerikaanse regering",
+        "Een krant",
+        "Een historisch gebouw"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het verschil tussen D66 en PVV in deze verkiezingen?",
+      "question": "Wat is een 'journalist'?",
       "options": [
-        "D66 heeft meer stemmen",
-        "PVV heeft meer stemmen",
-        "Het verschil is klein",
-        "Ze zijn even groot"
+        "Iemand die boeken schrijft",
+        "Iemand die nieuws rapporteert",
+        "Iemand die politieondersteunt",
+        "Iemand die films maakt"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Nederland heeft nieuwe verkiezingen omdat de regering is gevallen.",
-      "isTrue": true
-    },
-    {
-      "statement": "D66 en PVV hebben exact hetzelfde aantal zetels.",
+      "statement": "Het Witte Huis heeft onbeperkte toegang voor journalisten.",
       "isTrue": false
     },
     {
-      "statement": "Het verschil in stemmen tussen D66 en PVV is meer dan 2.000.",
+      "statement": "Donald Trump was de president van de Verenigde Staten tijdens zijn tweede ambtstermijn.",
+      "isTrue": true
+    },
+    {
+      "statement": "Deze tekst gaat alleen over Amerikaanse politiek.",
       "isTrue": false
     }
   ]

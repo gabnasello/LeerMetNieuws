@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
+  "title": "Pentagon geeft groen licht voor raketten, beslissing ligt bij Trump",
   "topicNumber": 1,
   "article": {
-    "title": "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
-    "summary": "Donald Trump is opnieuw president van Amerika. Hij wil dat de VS weer kernwapens testen. Dit verandert veel in de wereld. Volg hier het laatste nieuws."
+    "title": "Pentagon geeft groen licht voor raketten, beslissing ligt bij Trump",
+    "summary": "Lees hier het laatste nieuws over de oorlog in Oekraïne. Download de app voor updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "VS",
-        "definition": "De Verenigde Staten, een land",
-        "sentence": "De ___ zijn een land in Amerika.",
-        "answer": "VS"
+        "word": "Trump",
+        "definition": "een persoon",
+        "sentence": "___ is een man.",
+        "answer": "Trump"
       },
       {
-        "word": "testen",
-        "definition": "Uitproberen of controleren",
-        "sentence": "Hij wil een nieuw spel ___.",
-        "answer": "testen"
+        "word": "licht",
+        "definition": "niet donker, helder",
+        "sentence": "De lamp geeft ___.",
+        "answer": "licht"
       },
       {
-        "word": "gaan",
-        "definition": "Willen of van plan zijn",
-        "sentence": "Ze ___ een taart eten.",
-        "answer": "gaan"
+        "word": "beslissing",
+        "definition": "wat je kiest",
+        "sentence": "Mijn ___ is om thuis te blijven.",
+        "answer": "beslissing"
       },
       {
-        "word": "kernwapens",
-        "definition": "Heel gevaarlijke bommen",
-        "sentence": "___ kunnen veel kapotmaken.",
-        "answer": "kernwapens"
+        "word": "groen",
+        "definition": "een kleur, zoals gras",
+        "sentence": "Het gras is ___.",
+        "answer": "groen"
       },
       {
-        "word": "weer",
-        "definition": "Opnieuw of nog een keer",
-        "sentence": "Hij komt ___ naar huis.",
-        "answer": "weer"
+        "word": "Pentagon",
+        "definition": "een gebouw in Amerika",
+        "sentence": "Het ___ is een gebouw.",
+        "answer": "Pentagon"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ zijn een land in Amerika.",
-        "answer": "VS"
+        "sentence": "___ is een man.",
+        "answer": "Trump"
       },
       {
-        "sentence": "Ze ___ een taart eten.",
-        "answer": "gaan"
+        "sentence": "Het ___ is een gebouw.",
+        "answer": "Pentagon"
       },
       {
-        "sentence": "Hij komt ___ naar huis.",
-        "answer": "weer"
+        "sentence": "Mijn ___ is om thuis te blijven.",
+        "answer": "beslissing"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent “testen” in deze context?",
+      "question": "Wat is de Pentagon?",
       "options": [
-        "Eten",
-        "Maken",
-        "Uitproberen",
-        "Bouwen"
+        "Een dier",
+        "Een stad",
+        "Een gebouw",
+        "Een land"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Waar staat “VS” voor in deze tekst?",
+      "question": "Wat betekent 'gaf'?",
       "options": [
-        "Verenigde Staten",
-        "Vlaamse Staten",
-        "Vrije Staten",
-        "Veilige Staten"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is de hoofdgedachte van het artikel?",
-      "options": [
-        "Trump is president",
-        "Trump wil nieuwe dingen doen",
-        "Trump verandert niets",
-        "Trump reist de wereld over"
+        "Kreeg",
+        "Gaf",
+        "Kocht",
+        "Verkocht"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Wat is groen?",
+      "options": [
+        "Een kleur",
+        "Een steen",
+        "Een dier",
+        "Een auto"
+      ],
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Trump is de president van Amerika.",
+      "statement": "De Pentagon is een gebouw.",
       "isTrue": true
     },
     {
-      "statement": "Trump wil geen kernwapens testen.",
+      "statement": "Trump is een vrouw.",
       "isTrue": false
     },
     {
-      "statement": "Het artikel zegt dat Trump veel verandert.",
+      "statement": "Groen is een kleur.",
       "isTrue": true
     }
   ]

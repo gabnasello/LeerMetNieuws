@@ -1,105 +1,105 @@
 {
-  "id": 12,
+  "id": 13,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
+  "title": "Oorlog in Oekraïne",
   "topicNumber": 1,
   "article": {
-    "title": "Orkaan Melissa op weg naar Cuba, ruim 530.000 huishoudens op Jamaica zonder stroom",
-    "summary": "Storm Melissa is als een orkaan van categorie vijf aan land gekomen in Jamaica. Voor het Caraïbisch eiland is het de zwaarste storm ooit."
+    "title": "Oorlog in Oekraïne",
+    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "eiland",
-        "definition": "een stuk land omgeven door water, kleiner dan een continent",
-        "sentence": "Jamaica is een ___ in de Caraïben.",
-        "answer": "eiland"
+        "word": "oorlog",
+        "definition": "een situatie waarin landen of groepen vechten",
+        "sentence": "De ___ in Oekraïne is begonnen in 2022.",
+        "answer": "oorlog"
       },
       {
-        "word": "zwaarste",
-        "definition": "het meest in gewicht of moeilijkst",
-        "sentence": "Dit is de ___ storm die we ooit hebben gezien.",
-        "answer": "zwaarste"
+        "word": "download",
+        "definition": "iets van internet naar je apparaat halen",
+        "sentence": "___ de app om op de hoogte te blijven.",
+        "answer": "download"
       },
       {
-        "word": "orkaan",
-        "definition": "een hele sterke storm met veel wind",
-        "sentence": "Er komt een ___ aan, dus we moeten voorzichtig zijn.",
-        "answer": "orkaan"
+        "word": "Oekraïne",
+        "definition": "een land in Oost-Europa",
+        "sentence": "De oorlog in ___ duurt nu al twee jaar.",
+        "answer": "Oekraïne"
       },
       {
-        "word": "categorie",
-        "definition": "een groep of type, bijvoorbeeld van een storm",
-        "sentence": "Deze storm is van ___ vijf, dus het is heel gevaarlijk.",
-        "answer": "categorie"
+        "word": "ontwikkelingen",
+        "definition": "gebeurtenissen of veranderingen die plaatsvinden",
+        "sentence": "Volg de laatste ___ in het conflict op onze website.",
+        "answer": "ontwikkelingen"
       },
       {
-        "word": "stroom",
-        "definition": "elektriciteit die stroomt, of een rivier van water",
-        "sentence": "Na de storm was er geen ___ meer in huis.",
-        "answer": "stroom"
+        "word": "melding",
+        "definition": "een bericht dat je iets laat weten",
+        "sentence": "Je krijgt een ___ wanneer er nieuws is.",
+        "answer": "melding"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Na de storm was er geen ___ meer in huis.",
-        "answer": "stroom"
+        "sentence": "___ de app om op de hoogte te blijven.",
+        "answer": "download"
       },
       {
-        "sentence": "Er komt een ___ aan, dus we moeten voorzichtig zijn.",
-        "answer": "orkaan"
+        "sentence": "Je krijgt een ___ wanneer er nieuws is.",
+        "answer": "melding"
       },
       {
-        "sentence": "Deze storm is van ___ vijf, dus het is heel gevaarlijk.",
-        "answer": "categorie"
+        "sentence": "Volg de laatste ___ in het conflict op onze website.",
+        "answer": "ontwikkelingen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een orkaan?",
+      "question": "Wat is de hoofdstad van Oekraïne?",
       "options": [
-        "Een soort dier",
-        "Een soort auto",
-        "Een soort feest",
-        "Een soort storm"
+        "Kiev",
+        "Parijs",
+        "Berlijn",
+        "Londen"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 1
     },
     {
-      "question": "Waar is de orkaan Melissa ontstaan?",
+      "question": "Sinds wanneer is er oorlog in Oekraïne?",
       "options": [
-        "In Nederland",
-        "In de Verenigde Staten",
-        "In de Atlantische Oceaan",
-        "In de woestijn"
+        "sinds 2022",
+        "sinds 2000",
+        "sinds 2014",
+        "sinds 2020"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat betekent 'zwaarste' in deze context?",
+      "question": "Waarom is het belangrijk om updates te volgen?",
       "options": [
-        "Heel licht",
-        "Heel zwaar",
-        "Heel oud",
-        "Heel nieuw"
+        "Om te leren",
+        "Om op de hoogte te blijven",
+        "Om te vermaken",
+        "Om te vergeten"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Orkaan Melissa is de zwaarste storm ooit voor Jamaica.",
-      "isTrue": true
-    },
-    {
-      "statement": "De orkaan heeft voor stroomuitval in Nederland gezorgd.",
+      "statement": "Oekraïne ligt in Azië.",
       "isTrue": false
     },
     {
-      "statement": "Er zijn 530.000 huishoudens op Jamaica zonder stroom door de orkaan.",
+      "statement": "De oorlog in Oekraïne begon in 2022.",
+      "isTrue": true
+    },
+    {
+      "statement": "Je kunt de DS Nieuws app downloaden voor updates.",
       "isTrue": true
     }
   ]

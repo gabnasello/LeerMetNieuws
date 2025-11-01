@@ -3,103 +3,97 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
+  "title": "Pentagon geeft toestemming voor raketten, Trump moet beslissen",
   "topicNumber": 1,
   "article": {
-    "title": "Trump: VS gaan “onmiddellijk” weer kernwapens testen",
-    "summary": "Donald Trump is opnieuw president van Amerika. Hij zegt dat Amerika weer kernwapens gaat testen. Veel landen zijn bezorgd. Volg hier het laatste nieuws."
+    "title": "Pentagon geeft toestemming voor raketten, Trump moet beslissen",
+    "summary": "Amerika overweegt het sturen van meer wapens naar Oekraïne. President Trump moet de uiteindelijke beslissing nemen. Volg het laatste nieuws over de oorlog via de DS Nieuws app."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Amerika",
-        "definition": "Een land, ook Verenigde Staten genoemd",
-        "sentence": "Amerika is een groot land.",
-        "answer": "Amerika"
+        "word": "Pentagon",
+        "definition": "Het gebouw van het Ministerie van Defensie in de VS",
+        "sentence": "Het ___ is het hoofdkwartier van het Amerikaanse leger.",
+        "answer": "Pentagon"
       },
       {
-        "word": "landen",
-        "definition": "Landen zoals Duitsland of Frankrijk",
-        "sentence": "Veel landen zijn bezorgd.",
-        "answer": "landen"
+        "word": "beslissing",
+        "definition": "Een keuze die je maakt nadat je erover nadenkt",
+        "sentence": "De minister-president moet een belangrijke ___ nemen over de oorlog.",
+        "answer": "beslissing"
       },
       {
         "word": "Trump",
-        "definition": "De achternaam van de president",
-        "sentence": "Trump is de president van Amerika.",
+        "definition": "De familienaam van de voormalige president van de Verenigde Staten",
+        "sentence": "___ was president van de Verenigde Staten.",
         "answer": "Trump"
       },
       {
-        "word": "bezorgd",
-        "definition": "Je maakt je zorgen over iets",
-        "sentence": "Ze zijn bezorgd over de test.",
-        "answer": "bezorgd"
-      },
-      {
-        "word": "kernwapens",
-        "definition": "Heel gevaarlijke bommen",
-        "sentence": "Kernwapens kunnen veel schade doen.",
-        "answer": "kernwapens"
+        "word": "Oekraïne",
+        "definition": "Een land in Europa, momenteel in conflict met Rusland",
+        "sentence": "___ is een land dat grenst aan Rusland.",
+        "answer": "Oekraïne"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Trump is de president van Amerika.",
-        "answer": "Trump"
+        "sentence": "___ is een land dat grenst aan Rusland.",
+        "answer": "Oekraïne"
       },
       {
-        "sentence": "Ze zijn bezorgd over de test.",
-        "answer": "bezorgd"
+        "sentence": "Het ___ is het hoofdkwartier van het Amerikaanse leger.",
+        "answer": "Pentagon"
       },
       {
-        "sentence": "Kernwapens kunnen veel schade doen.",
-        "answer": "kernwapens"
+        "sentence": "De minister-president moet een belangrijke ___ nemen over de oorlog.",
+        "answer": "beslissing"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'testen' in deze tekst?",
+      "question": "Wat is de Pentagon?",
       "options": [
-        "Iets nieuws maken",
-        "Iets uitproberen of controleren",
-        "Iets kapotmaken",
-        "Iets vergeten"
+        "Een type raket",
+        "Het hoofdkantoor van het Amerikaanse leger",
+        "Een stad in de VS",
+        "Een beroemde acteur"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Waarover moet Trump een beslissing nemen?",
       "options": [
-        "Over reizen naar andere landen",
-        "Over de verkiezingen in Amerika",
-        "Over kernwapens en testen",
-        "Over de president van China"
+        "Of hij zijn haar moet laten knippen",
+        "Of de VS meer wapens naar Oekraïne stuurt",
+        "Welk ontbijt hij wil eten",
+        "Of hij naar een feestje gaat"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Waarom zijn andere landen bezorgd?",
+      "question": "Wat is de situatie in Oekraïne?",
       "options": [
-        "Omdat ze niet van Trump houden",
-        "Omdat kernwapens gevaarlijk zijn",
-        "Omdat ze meer geld willen",
-        "Omdat de test plaatsvindt in hun land"
+        "Er is vrede",
+        "Er is een grote oorlog aan de gang",
+        "Het is altijd zomer",
+        "Ze spelen alleen maar voetbal"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Trump is de president van Amerika.",
+      "statement": "De Verenigde Staten overwegen het sturen van wapens naar Oekraïne.",
       "isTrue": true
     },
     {
-      "statement": "Kernwapens zijn niet gevaarlijk.",
+      "statement": "Trump is de huidige president van de Verenigde Staten.",
       "isTrue": false
     },
     {
-      "statement": "Andere landen zijn bezorgd over de tests.",
+      "statement": "Oekraïne is een land in Europa.",
       "isTrue": true
     }
   ]

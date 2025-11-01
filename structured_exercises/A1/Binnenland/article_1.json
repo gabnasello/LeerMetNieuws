@@ -1,69 +1,100 @@
 {
-  "id": 15,
+  "id": 16,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Verdachte in adoptiefraude",
+  "title": "Rijbewijs weg, toch gereden",
   "topicNumber": 1,
   "article": {
-    "title": "Verdachte in adoptiefraude",
-    "summary": "Er is een rechtszaak over adoptie. Er zijn problemen met adoptie uit Guatemala."
+    "title": "Rijbewijs weg, toch gereden",
+    "summary": "Ruben Van Gucht kreeg een rijverbod en een boete, omdat hij bleef rijden zonder rijbewijs."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "adoptie",
-        "definition": "wanneer iemand een kind opneemt als eigen kind",
-        "sentence": "___ kan een manier zijn om een gezin te starten.",
-        "answer": "adoptie"
+        "word": "rijbewijs",
+        "definition": "een document dat zegt dat je mag rijden",
+        "sentence": "Hij heeft zijn ___ niet meer.",
+        "answer": "rijbewijs"
+      },
+      {
+        "word": "boete",
+        "definition": "geld dat je moet betalen voor iets verkeerds",
+        "sentence": "Hij kreeg een ___ van 4800 euro.",
+        "answer": "boete"
+      },
+      {
+        "word": "rijverbod",
+        "definition": "niet mogen rijden voor een tijd",
+        "sentence": "Hij kreeg een ___ van negen maanden.",
+        "answer": "rijverbod"
+      },
+      {
+        "word": "rijden",
+        "definition": "een voertuig besturen",
+        "sentence": "Hij bleef ___ zonder rijbewijs.",
+        "answer": "rijden"
       }
     ],
-    "fillInBlanks": []
+    "fillInBlanks": [
+      {
+        "sentence": "Hij heeft zijn ___ niet meer.",
+        "answer": "rijbewijs"
+      },
+      {
+        "sentence": "Hij bleef ___ zonder rijbewijs.",
+        "answer": "rijden"
+      },
+      {
+        "sentence": "Hij kreeg een ___ van negen maanden.",
+        "answer": "rijverbod"
+      }
+    ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een adoptie?",
+      "question": "Waarom kreeg Ruben Van Gucht een rijverbod?",
       "options": [
-        "Een soort dier",
-        "Een type auto",
-        "Een manier om een kind te krijgen",
-        "Een soort voedsel"
+        "Hij reed te snel",
+        "Hij heeft gestolen",
+        "Hij reed zonder rijbewijs",
+        "Hij gebruikte een auto van een ander"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat doet een rechter?",
+      "question": "Wat is een rijverbod?",
       "options": [
-        "Kookt eten",
-        "Doet onderzoek",
-        "Beslist in de rechtbank",
-        "Speelt videogames"
+        "Een feest",
+        "Een soort vakantie",
+        "Een verbod om te rijden",
+        "Een beloning"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Waar is België?",
+      "question": "Wat deed Ruben Van Gucht nadat hij zijn rijbewijs verloor?",
       "options": [
-        "In Azië",
-        "In Europa",
-        "In Afrika",
-        "In de oceaan"
+        "Hij stopte met rijden",
+        "Hij kocht een nieuwe auto",
+        "Hij kreeg hulp van de politie",
+        "Hij reed verder zonder rijbewijs"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "Adoptie is wanneer je een auto koopt.",
+      "statement": "Ruben Van Gcht kreeg een rijverbod omdat hij stopte met rijden.",
       "isTrue": false
     },
     {
-      "statement": "Een rechter werkt in een rechtbank.",
+      "statement": "Ruben Van Gcht reed zonder rijbewijs.",
       "isTrue": true
     },
     {
-      "statement": "België is een stad in Nederland.",
-      "isTrue": false
+      "statement": "Ruben Van Gcht kreeg een boete van 4800 euro.",
+      "isTrue": true
     }
   ]
 }

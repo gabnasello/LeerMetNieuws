@@ -1,15 +1,15 @@
 Artikel 1
-Nieuwsupdate: 2025-10-30 04:28 UCT
+Nieuwsupdate: 2025-11-01 04:26 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: D66 en PVV allebei op 26 zetels, verschil is minder dan 2.000 stemmen
-Link: https://www.standaard.be/buitenland/d66-en-pvv-allebei-op-26-zetels-verschil-is-minder-dan-2.000-stemmen/100597004.html
-Datum: Thu, 30 Oct 2025 03:46:29 GMT
-Samenvatting: Nederland trekt woensdag opnieuw naar de stembus voor de vervroegde parlementsverkiezingen na de val van het kabinet-Schoof. Volg hier de laatste updates.
+Titel: Witte Huis beperkt toegang voor journalisten
+Link: https://www.standaard.be/buitenland/witte-huis-beperkt-toegang-voor-journalisten/35131945.html
+Datum: Fri, 31 Oct 2025 19:33:46 GMT
+Samenvatting: De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/uryvxe-run-up-to-the-house-of-representatives-elections-in-the-hague/alternates/BASE_SIXTEEN_NINE/Run-up%20to%20the%20House%20of%20Representatives%20elections%20in%20The%20Hague
+Afbeelding: https://prod-img.standaard.be/public/nieuws/pi0vi9-donald-trump/alternates/BASE_SIXTEEN_NINE/Donald%20Trump
 Premium: false
 ------------------------------------------------------------
