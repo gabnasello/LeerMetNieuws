@@ -1,106 +1,106 @@
 {
-  "id": 20,
+  "id": 19,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten",
+  "title": "Weinig zon in oktober",
   "topicNumber": 1,
   "article": {
-    "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten",
-    "summary": "Testaankoop waarschuwt voor gevaarlijke producten bij Temu. Sommige producten zijn niet veilig. Temu haalt ze nu offline."
+    "title": "Weinig zon in oktober",
+    "summary": "Oktober had weinig zon. Alleen 1998 had nog minder zon. Maar woensdag wordt het warm."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "producten",
-        "definition": "dingen die je koopt",
-        "sentence": "De ___ zijn nieuw of gebruikt.",
-        "answer": "producten"
+        "word": "zon",
+        "definition": "Dat is wat je ziet in de lucht als het niet bewolkt is.",
+        "sentence": "De ___ schijnt fel vandaag.",
+        "answer": "zon"
       },
       {
-        "word": "Testaankoop",
-        "definition": "een organisatie die producten test",
-        "sentence": "___ testte de producten en vond problemen.",
-        "answer": "Testaankoop"
+        "word": "oktober",
+        "definition": "De tiende maand van het jaar.",
+        "sentence": "In ___ is het vaak herfst.",
+        "answer": "oktober"
       },
       {
-        "word": "veilig",
-        "definition": "zonder gevaar",
-        "sentence": "Is het ___ om hier te spelen?",
-        "answer": "veilig"
+        "word": "weinig",
+        "definition": "Niet veel, een kleine hoeveelheid.",
+        "sentence": "Er is ___ water in de fles.",
+        "answer": "weinig"
       },
       {
-        "word": "offline",
-        "definition": "niet verbonden met internet",
-        "sentence": "Mijn computer staat ___ nu.",
-        "answer": "offline"
+        "word": "warm",
+        "definition": "Niet koud, een hoge temperatuur.",
+        "sentence": "De soep is erg ___.",
+        "answer": "warm"
       },
       {
-        "word": "Temu",
-        "definition": "een online winkel",
-        "sentence": "___ verkoopt veel producten.",
-        "answer": "Temu"
+        "word": "woensdag",
+        "definition": "De derde dag van de week.",
+        "sentence": "___ is de dag na dinsdag.",
+        "answer": "woensdag"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ zijn nieuw of gebruikt.",
-        "answer": "producten"
+        "sentence": "De ___ schijnt fel vandaag.",
+        "answer": "zon"
       },
       {
-        "sentence": "___ verkoopt veel producten.",
-        "answer": "Temu"
+        "sentence": "___ is de dag na dinsdag.",
+        "answer": "woensdag"
       },
       {
-        "sentence": "Mijn computer staat ___ nu.",
-        "answer": "offline"
+        "sentence": "In ___ is het vaak herfst.",
+        "answer": "oktober"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'gevaarlijk'?",
+      "question": "Wat was er bijzonder aan oktober dit jaar?",
       "options": [
-        "leuk",
-        "gevaarlijk",
-        "mooi",
-        "duur"
+        "Er was veel zon",
+        "Er was weinig zon",
+        "Het was erg koud",
+        "Het was erg warm"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat doet Testaankoop?",
+      "question": "Wat is er goed nieuws voor woensdag?",
       "options": [
-        "test producten",
-        "verkoopt eten",
-        "maakt kleren",
-        "geeft les"
+        "Het wordt koud",
+        "Het wordt nat",
+        "Het wordt warm",
+        "Er is veel wind"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is 'offline'?",
+      "question": "Welk record werd bijna gehaald in oktober?",
       "options": [
-        "niet op internet",
-        "in de winkel",
-        "heel snel",
-        "heel traag"
+        "Hoogste temperatuur",
+        "Meeste zonuren",
+        "Minste zonuren",
+        "Minste regen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Temu is een online winkel.",
-      "isTrue": true
-    },
-    {
-      "statement": "Testaankoop verkoopt gevaarlijke producten.",
+      "statement": "Oktober had veel zon.",
       "isTrue": false
     },
     {
-      "statement": "Sommige producten zijn offline gehaald.",
+      "statement": "Woensdag wordt het warm.",
       "isTrue": true
+    },
+    {
+      "statement": "Alleen oktober 1998 had meer zon.",
+      "isTrue": false
     }
   ]
 }

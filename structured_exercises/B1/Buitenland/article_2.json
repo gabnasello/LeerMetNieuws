@@ -1,59 +1,59 @@
 {
-  "id": 13,
+  "id": 11,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Oorlog in Oekraïne",
+  "title": "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
   "topicNumber": 1,
   "article": {
-    "title": "Oorlog in Oekraïne",
-    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+    "title": "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
+    "summary": "Waar zijn de Russische soldaten? Dat is de vraag voor de Oekraïense verdediging in Pokrovsk. De strategisch belangrijke stad dreigt te vallen door een nieuwe Russische manier van oorlogvoeren."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "oorlog",
-        "definition": "een situatie waarin landen of groepen vechten",
-        "sentence": "De ___ in Oekraïne is begonnen in 2022.",
-        "answer": "oorlog"
+        "word": "vraag",
+        "definition": "een vraag is iets wat je wilt weten, je stelt een vraag om informatie te krijgen.",
+        "sentence": "Dat is de ___ voor de Oekraïense verdediging.",
+        "answer": "vraag"
       },
       {
-        "word": "download",
-        "definition": "iets van internet naar je apparaat halen",
-        "sentence": "___ de app om op de hoogte te blijven.",
-        "answer": "download"
+        "word": "vallen",
+        "definition": "hetzelfde als hierboven, het tegengestelde van staan of zweven.",
+        "sentence": "De stad dreigt te ___ door de nieuwe tactiek.",
+        "answer": "vallen"
       },
       {
-        "word": "Oekraïne",
-        "definition": "een land in Oost-Europa",
-        "sentence": "De oorlog in ___ duurt nu al twee jaar.",
-        "answer": "Oekraïne"
+        "word": "doen",
+        "definition": "uitvoeren van een actie, iets uitvoeren of maken.",
+        "sentence": "Nieuwe tactiek dreigt Pokrovsk te ___ vallen.",
+        "answer": "doen"
       },
       {
-        "word": "ontwikkelingen",
-        "definition": "gebeurtenissen of veranderingen die plaatsvinden",
-        "sentence": "Volg de laatste ___ in het conflict op onze website.",
-        "answer": "ontwikkelingen"
+        "word": "vallen",
+        "definition": "naar beneden gaan, niet meer staan of hangen, maar neerkomen.",
+        "sentence": "De stad dreigt te ___ door de nieuwe tactiek.",
+        "answer": "vallen"
       },
       {
-        "word": "melding",
-        "definition": "een bericht dat je iets laat weten",
-        "sentence": "Je krijgt een ___ wanneer er nieuws is.",
-        "answer": "melding"
+        "word": "doen",
+        "definition": "hetzelfde als hierboven, een actie uitvoeren.",
+        "sentence": "De nieuwe tactiek dreigt de stad te ___ vallen.",
+        "answer": "doen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ de app om op de hoogte te blijven.",
-        "answer": "download"
+        "sentence": "De stad dreigt te ___ door de nieuwe tactiek.",
+        "answer": "vallen"
       },
       {
-        "sentence": "Je krijgt een ___ wanneer er nieuws is.",
-        "answer": "melding"
+        "sentence": "De stad dreigt te ___ door de nieuwe tactiek.",
+        "answer": "vallen"
       },
       {
-        "sentence": "Volg de laatste ___ in het conflict op onze website.",
-        "answer": "ontwikkelingen"
+        "sentence": "Dat is de ___ voor de Oekraïense verdediging.",
+        "answer": "vraag"
       }
     ]
   },
@@ -62,44 +62,44 @@
       "question": "Wat is de hoofdstad van Oekraïne?",
       "options": [
         "Kiev",
-        "Parijs",
+        "Londen",
         "Berlijn",
-        "Londen"
+        "Parijs"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Sinds wanneer is er oorlog in Oekraïne?",
+      "question": "Wat betekent 'dreigen' in deze context?",
       "options": [
-        "sinds 2022",
-        "sinds 2000",
-        "sinds 2014",
-        "sinds 2020"
+        "aankondigen",
+        "verbergen",
+        "beschermen",
+        "verliezen"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Waarom is het belangrijk om updates te volgen?",
+      "question": "Wat is een synoniem voor 'tactiek'?",
       "options": [
-        "Om te leren",
-        "Om op de hoogte te blijven",
-        "Om te vermaken",
-        "Om te vergeten"
+        "strategie",
+        "vordering",
+        "verlies",
+        "winst"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Oekraïne ligt in Azië.",
-      "isTrue": false
-    },
-    {
-      "statement": "De oorlog in Oekraïne begon in 2022.",
+      "statement": "Pokrovsk is een stad in Oekraïne.",
       "isTrue": true
     },
     {
-      "statement": "Je kunt de DS Nieuws app downloaden voor updates.",
+      "statement": "De Russische soldaten zijn aanwezig in Pokrovsk.",
+      "isTrue": false
+    },
+    {
+      "statement": "De nieuwe tactiek zorgt ervoor dat de stad dreigt te vallen.",
       "isTrue": true
     }
   ]

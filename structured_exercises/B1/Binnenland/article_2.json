@@ -1,105 +1,105 @@
 {
-  "id": 26,
+  "id": 25,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Politievakbond vraagt parlementair onderzoek naar politiegeweld",
+  "title": "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
   "topicNumber": 1,
   "article": {
-    "title": "Politievakbond vraagt parlementair onderzoek naar politiegeweld",
-    "summary": "Van “flagrante schending van de interventieregels” tot het gebruik van traangas en matrakken, de socialistische politievakbond ACOD veroordeelt nu zelf het gedrag van sommige politieagenten tijdens verschillende manifestaties in oktober. De vakbond vraagt het parlement om een onderzoekscommissie op te richten."
+    "title": "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
+    "summary": "Ook vanavond zijn boven de militaire basis van Kleine-Brogel drones waargenomen. Vrijdag bespreekt de ministerraad het 'counterdronedossier' van Defensieminister Theo Francken (N-VA)."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "onderzoek",
-        "definition": "een studie om iets te leren",
-        "sentence": "Een ___ kan uitwijzen wat er is gebeurd.",
-        "answer": "onderzoek"
+        "word": "Brogel",
+        "definition": "een plaatsnaam, deel van Kleine-Brogel",
+        "sentence": "Kleine-___ is een dorp in België.",
+        "answer": "Brogel"
       },
       {
-        "word": "vakbond",
-        "definition": "een organisatie die werknemers vertegenwoordigt",
-        "sentence": "De ___ helpt werknemers bij onderhandelingen.",
-        "answer": "vakbond"
+        "word": "Boven",
+        "definition": "op een hogere plaats",
+        "sentence": "De vogel vliegt ___ het huis.",
+        "answer": "Boven"
       },
       {
-        "word": "manifestaties",
-        "definition": "bijeenkomsten of demonstraties",
-        "sentence": "Tijdens ___ komen mensen samen om hun mening te uiten.",
-        "answer": "manifestaties"
+        "word": "Ministerraad",
+        "definition": "een groep van ministers die samen besluiten nemen",
+        "sentence": "De ___ vergadert elke vrijdag.",
+        "answer": "Ministerraad"
       },
       {
-        "word": "agenten",
-        "definition": "mensen die de wet handhaven",
-        "sentence": "De ___ werken dag en nacht voor onze veiligheid.",
-        "answer": "agenten"
+        "word": "waargenomen",
+        "definition": "gezien of opgemerkt",
+        "sentence": "De drones werden ___ door bewakers.",
+        "answer": "waargenomen"
       },
       {
-        "word": "vakbond",
-        "definition": "een organisatie die werknemers vertegenwoordigt",
-        "sentence": "De ___ helpt werknemers bij problemen.",
-        "answer": "vakbond"
+        "word": "Bespreekt",
+        "definition": "bespreekt, erover praat",
+        "sentence": "Hij ___ het plan met zijn team.",
+        "answer": "Bespreekt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ werken dag en nacht voor onze veiligheid.",
-        "answer": "agenten"
+        "sentence": "De ___ vergadert elke vrijdag.",
+        "answer": "Ministerraad"
       },
       {
-        "sentence": "De ___ helpt werknemers bij problemen.",
-        "answer": "vakbond"
+        "sentence": "De vogel vliegt ___ het huis.",
+        "answer": "Boven"
       },
       {
-        "sentence": "Een ___ kan uitwijzen wat er is gebeurd.",
-        "answer": "onderzoek"
+        "sentence": "Kleine-___ is een dorp in België.",
+        "answer": "Brogel"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat doet de vakbond in deze situatie?",
+      "question": "Wat wordt er bedoeld met 'waargenomen' in de titel?",
       "options": [
-        "Ze steunt de politie onvoorwaardelijk",
-        "Ze vraagt om een onderzoek naar het politiegedrag",
-        "Ze organiseert een feest voor de agenten",
-        "Ze zegt niets en wacht af"
+        "Vergeten",
+        "Gezien",
+        "Verborgen",
+        "Gemaakt"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het doel van een parlementair onderzoek?",
+      "question": "Wat is de 'ministerraad'?",
       "options": [
-        "Om nieuwe films te kijken",
-        "Om feesten te organiseren",
-        "Om problemen grondig te onderzoeken",
-        "Om nieuwe sporten te introduceren"
+        "Een soort school",
+        "Een groep ministers",
+        "Een soort restaurant",
+        "Een sportteam"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Waarover maakt de vakbond zich zorgen?",
+      "question": "Wat bespreekt de ministerraad volgens de samenvatting?",
       "options": [
-        "Over het weer van volgende week",
-        "Over het gedrag van sommige agenten tijdens de manifestaties",
-        "Over de prijs van brood",
-        "Over de verkiezingen van volgend jaar"
+        "Een nieuw soort drone",
+        "Het 'counterdronedossier'",
+        "Een feestplan",
+        "Een nieuwe wet tegen drones"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De vakbond vraagt een onderzoek naar het gedrag van politieagenten.",
-      "isTrue": true
-    },
-    {
-      "statement": "Het parlement weigert een onderzoek te starten.",
+      "statement": "Drones worden alleen 's nachts waargenomen.",
       "isTrue": false
     },
     {
-      "statement": "Agenten gebruiken soms geweld tijdens hun werk.",
+      "statement": "De ministerraad vergadert op vrijdag.",
+      "isTrue": true
+    },
+    {
+      "statement": "Theo Francken is de Minister van Defensie.",
       "isTrue": true
     }
   ]

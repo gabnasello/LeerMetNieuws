@@ -1,105 +1,99 @@
 {
-  "id": 17,
+  "id": 15,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Rijverbod voor presentator",
+  "title": "Illegale rave in België",
   "topicNumber": 1,
   "article": {
-    "title": "Rijverbod voor presentator",
-    "summary": "Een presentator heeft een probleem met de politie. Hij kreeg een rijverbod, maar reed toch. Daarom kreeg hij een boete en een nieuw rijverbod."
+    "title": "Illegale rave in België",
+    "summary": "In België is er een illegaal feest. Er zijn 700 mensen. Ze komen uit Nederland, België en Frankrijk. Het feest gaat door tot zondag."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "reed",
-        "definition": "verleden tijd van rijden; zich verplaatsen in een voertuig",
-        "sentence": "Hij ___ met zijn auto naar zijn werk.",
-        "answer": "reed"
+        "word": "illegale",
+        "definition": "niet wettelijk toegestaan",
+        "sentence": "De politie stopte de ___ feest.",
+        "answer": "illegale"
       },
       {
-        "word": "nieuw",
-        "definition": "vers, recent gemaakt of ontstaan",
-        "sentence": "Hij kreeg een ___ rijverbag, nadat hij eerder al was gestraft.",
-        "answer": "nieuw"
+        "word": "rave",
+        "definition": "groot feest met elektronische muziek",
+        "sentence": "De ___ was in een oud gebouw.",
+        "answer": "rave"
       },
       {
-        "word": "boete",
-        "definition": "geld dat je moet betalen als straf voor een overtreding",
-        "sentence": "Hij kreeg een ___ omdat hij door rood reed.",
-        "answer": "boete"
+        "word": "feest",
+        "definition": "een vrolijke bijeenkomst",
+        "sentence": "Het ___ was leuk maar illegaal.",
+        "answer": "feest"
       },
       {
-        "word": "politie",
-        "definition": "mensen die de wet handhaven en misdaad bestrijden",
-        "sentence": "De ___ kwam omdat hij te hard reed.",
-        "answer": "politie"
-      },
-      {
-        "word": "presentator",
-        "definition": "iemand die een programma op tv of radio presenteert",
-        "sentence": "De ___ praat met mensen in een show.",
-        "answer": "presentator"
+        "word": "land",
+        "definition": "een gebied zoals Nederland of België",
+        "sentence": "Welk ___ is dit?",
+        "answer": "land"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ praat met mensen in een show.",
-        "answer": "presentator"
+        "sentence": "Welk ___ is dit?",
+        "answer": "land"
       },
       {
-        "sentence": "Hij ___ met zijn auto naar zijn werk.",
-        "answer": "reed"
+        "sentence": "De ___ was in een oud gebouw.",
+        "answer": "rave"
       },
       {
-        "sentence": "Hij kreeg een ___ rijverbag, nadat hij eerder al was gestraft.",
-        "answer": "nieuw"
+        "sentence": "De politie stopte de ___ feest.",
+        "answer": "illegale"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom kreeg de presentator een rijverbod?",
+      "question": "Waar vond de rave plaats?",
       "options": [
-        "Hij had te veel gedronken.",
-        "Hij had te hard gereden.",
-        "Hij had geen rijbewijs.",
-        "Hij had iemand aangereden."
+        "In Nederland",
+        "In Duitsland",
+        "In België",
+        "In Frankrijk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Hoeveel mensen waren er ongeveer?",
+      "options": [
+        "700",
+        "70",
+        "7000",
+        "70000"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Hoe lang is het nieuwe rijverbod?",
+      "question": "Wat is een 'rave'?",
       "options": [
-        "9 maanden",
-        "4 maanden",
-        "1 jaar",
-        "6 maanden"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is een boete?",
-      "options": [
-        "Een soort straf waarbij je geld moet betalen",
-        "Een soort feest met cadeaus",
-        "Een type auto",
-        "Een soort maaltijd"
+        "Een soort feest",
+        "Een soort dier",
+        "Een soort auto",
+        "Een soort land"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De presentator reed door rood licht.",
+      "statement": "De rave was in Nederland.",
       "isTrue": false
     },
     {
-      "statement": "De presentator kreeg een boete van 4800 euro.",
+      "statement": "Er waren 700 mensen aanwezig.",
       "isTrue": true
     },
     {
-      "statement": "Het rijverbod was voor negen jaar.",
+      "statement": "De politie begon meteen op te treden.",
       "isTrue": false
     }
   ]

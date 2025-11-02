@@ -1,93 +1,105 @@
 {
-  "id": 18,
+  "id": 16,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Rijverbod en boete voor Van Gucht",
+  "title": "Illegale rave bij Kluisbergen",
   "topicNumber": 1,
   "article": {
-    "title": "Rijverbod en boete voor Van Gucht",
-    "summary": "Ruben Van Gucht heeft een rijverbod en een boete gekregen omdat hij meerdere keren reed met alcohol op."
+    "title": "Illegale rave bij Kluisbergen",
+    "summary": "In de Waalse gemeente Frasnes-lez-Anvaing, vlak over de taalgrens, is een illegale rave bezig met ongeveer 700 bezoekers. De deelnemers komen uit België, Nederland en Frankrijk en zijn van plan om tot zondagnamiddag door te gaan."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "rijverbod",
-        "definition": "niet mogen rijden",
-        "sentence": "Hij kreeg een ___ omdat hij te veel dronk.",
-        "answer": "rijverbod"
+        "word": "Nederland",
+        "definition": "ons land",
+        "sentence": "___ is een land in Europa.",
+        "answer": "Nederland"
       },
       {
-        "word": "boete",
-        "definition": "geld dat je moet betalen als straf",
-        "sentence": "Hij moest een ___ van 100 euro betalen.",
-        "answer": "boete"
+        "word": "deelnemers",
+        "definition": "mensen die meedoen aan iets",
+        "sentence": "De ___ van het feest kwamen uit verschillende landen.",
+        "answer": "deelnemers"
       },
       {
-        "word": "alcohol",
-        "definition": "een stof in drank die je dronken kan maken",
-        "sentence": "Hij had te veel ___ gedronken voor hij ging rijden.",
-        "answer": "alcohol"
+        "word": "zondag",
+        "definition": "de dag na zaterdag",
+        "sentence": "Op ___ is het weekend.",
+        "answer": "zondag"
+      },
+      {
+        "word": "Frankrijk",
+        "definition": "een groot land in Europa",
+        "sentence": "___ is groter dan België.",
+        "answer": "Frankrijk"
+      },
+      {
+        "word": "bezoekers",
+        "definition": "mensen die naar een plaats gaan",
+        "sentence": "De ___ van het feest waren erg luid.",
+        "answer": "bezoekers"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij had te veel ___ gedronken voor hij ging rijden.",
-        "answer": "alcohol"
+        "sentence": "___ is groter dan België.",
+        "answer": "Frankrijk"
       },
       {
-        "sentence": "Hij moest een ___ van 100 euro betalen.",
-        "answer": "boete"
+        "sentence": "___ is een land in Europa.",
+        "answer": "Nederland"
       },
       {
-        "sentence": "Hij kreeg een ___ omdat hij te veel dronk.",
-        "answer": "rijverbod"
+        "sentence": "De ___ van het feest waren erg luid.",
+        "answer": "bezoekers"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdreden voor Van Gucht's straf?",
+      "question": "Wat is een rave?",
       "options": [
-        "Hij reed te hard",
-        "Hij was dronken",
-        "Hij reed stiekem door",
-        "Hij had een ongeluk"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat is een 'rijverbod'?",
-      "options": [
-        "Een feestje in de auto",
-        "Een verbod om te rijden",
-        "Een soort boete",
-        "Een type verkeersbord"
+        "Een soort dans",
+        "Een groot feest met muziek",
+        "Een sportevenement",
+        "Een markt"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoe vaak is Van Gucht betrapt?",
+      "question": "Waar vond deze rave plaats?",
       "options": [
-        "Eén keer",
-        "Twee keer",
-        "Drie keer",
-        "Vier keer"
+        "In Nederland",
+        "In België",
+        "In Frankrijk",
+        "In Duitsland"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
+    },
+    {
+      "question": "Hoe lang duurde de rave?",
+      "options": [
+        "Tot zaterdag",
+        "Tot zondag",
+        "Tot maandag",
+        "Tot dinsdag"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Van Gucht kreeg alleen een boete, geen rijverbod.",
+      "statement": "De rave vond plaats in Kluisbergen.",
       "isTrue": false
     },
     {
-      "statement": "Hij reed stiekem door na een alcoholtest.",
+      "statement": "De rave had ongeveer 700 bezoekers.",
       "isTrue": true
     },
     {
-      "statement": "Hij kreeg de straf omdat hij vier keer een ongeluk had.",
+      "statement": "De rave was legaal.",
       "isTrue": false
     }
   ]

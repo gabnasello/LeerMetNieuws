@@ -1,100 +1,106 @@
 {
-  "id": 16,
+  "id": 14,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Rijbewijs weg, toch gereden",
+  "title": "Illegale rave in België",
   "topicNumber": 1,
   "article": {
-    "title": "Rijbewijs weg, toch gereden",
-    "summary": "Ruben Van Gucht kreeg een rijverbod en een boete, omdat hij bleef rijden zonder rijbewijs."
+    "title": "Illegale rave in België",
+    "summary": "Er is een feest in België. Het feest is illegaal. Er zijn 700 mensen. Zij komen uit België, Nederland en Frankrijk. Ze blijven tot zondag."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "rijbewijs",
-        "definition": "een document dat zegt dat je mag rijden",
-        "sentence": "Hij heeft zijn ___ niet meer.",
-        "answer": "rijbewijs"
+        "word": "illegale",
+        "definition": "niet toegestaan, tegen de wet",
+        "sentence": "De politie stopte de ___ feest.",
+        "answer": "illegale"
       },
       {
-        "word": "boete",
-        "definition": "geld dat je moet betalen voor iets verkeerds",
-        "sentence": "Hij kreeg een ___ van 4800 euro.",
-        "answer": "boete"
+        "word": "zondag",
+        "definition": "de dag na zaterdag",
+        "sentence": "Het feest duurt tot ___.",
+        "answer": "zondag"
       },
       {
-        "word": "rijverbod",
-        "definition": "niet mogen rijden voor een tijd",
-        "sentence": "Hij kreeg een ___ van negen maanden.",
-        "answer": "rijverbod"
+        "word": "Frankrijk",
+        "definition": "een land naast België",
+        "sentence": "Sommige bezoekers komen uit ___.",
+        "answer": "Frankrijk"
       },
       {
-        "word": "rijden",
-        "definition": "een voertuig besturen",
-        "sentence": "Hij bleef ___ zonder rijbewijs.",
-        "answer": "rijden"
+        "word": "Nederland",
+        "definition": "een land naast België",
+        "sentence": "Sommige bezoekers komen uit ___.",
+        "answer": "Nederland"
+      },
+      {
+        "word": "rave",
+        "definition": "een groot feest met muziek",
+        "sentence": "De ___ is in België.",
+        "answer": "rave"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij heeft zijn ___ niet meer.",
-        "answer": "rijbewijs"
+        "sentence": "Het feest duurt tot ___.",
+        "answer": "zondag"
       },
       {
-        "sentence": "Hij bleef ___ zonder rijbewijs.",
-        "answer": "rijden"
+        "sentence": "Sommige bezoekers komen uit ___.",
+        "answer": "Frankrijk"
       },
       {
-        "sentence": "Hij kreeg een ___ van negen maanden.",
-        "answer": "rijverbod"
+        "sentence": "De ___ is in België.",
+        "answer": "rave"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom kreeg Ruben Van Gucht een rijverbod?",
+      "question": "Waar is de rave?",
       "options": [
-        "Hij reed te snel",
-        "Hij heeft gestolen",
-        "Hij reed zonder rijbewijs",
-        "Hij gebruikte een auto van een ander"
+        "In België",
+        "In Nederland",
+        "In Duitsland",
+        "In Spanje"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is een rijverbod?",
+      "question": "Hoeveel bezoekers zijn er?",
       "options": [
-        "Een feest",
-        "Een soort vakantie",
-        "Een verbod om te rijden",
-        "Een beloning"
+        "700",
+        "7000",
+        "70",
+        "7"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat deed Ruben Van Gucht nadat hij zijn rijbewijs verloor?",
+      "question": "Hoe lang duurt het feest?",
       "options": [
-        "Hij stopte met rijden",
-        "Hij kocht een nieuwe auto",
-        "Hij kreeg hulp van de politie",
-        "Hij reed verder zonder rijbewijs"
+        "Tot zondag",
+        "Tot maandag",
+        "Tot vrijdag",
+        "Tot dinsdag"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Ruben Van Gcht kreeg een rijverbod omdat hij stopte met rijden.",
+      "statement": "De rave is in Nederland.",
       "isTrue": false
     },
     {
-      "statement": "Ruben Van Gcht reed zonder rijbewijs.",
+      "statement": "Het feest duurt tot zondag.",
       "isTrue": true
     },
     {
-      "statement": "Ruben Van Gcht kreeg een boete van 4800 euro.",
-      "isTrue": true
+      "statement": "Alle bezoekers komen uit België.",
+      "isTrue": false
     }
   ]
 }

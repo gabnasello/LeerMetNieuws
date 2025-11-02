@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Witte Huis beperkt toegang voor journalisten",
+  "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
   "topicNumber": 1,
   "article": {
-    "title": "Witte Huis beperkt toegang voor journalisten",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijk veranderingen teweeg. Volg hier alle updates."
+    "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
+    "summary": "Zaterdagavond zijn meerdere mensen neergestoken in een trein die naar het Engelse Huntingdon reed. Dat meldt de Britse transportpolitie. Er zijn twee verdachten gearresteerd."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "updates",
-        "definition": "bijgewerkte informatie of nieuwsberichten.",
-        "sentence": "Volg hier alle laatste ___ over de situatie.",
-        "answer": "updates"
+        "word": "zaterdagavond",
+        "definition": "de avond van zaterdag",
+        "sentence": "De politie werd __ zaterdagavond op de hoogte gebracht van het incident.",
+        "answer": "zaterdagavond"
       },
       {
-        "word": "veranderingen",
-        "definition": "veranderingen; transformaties of wijzigingen.",
-        "sentence": "Het beleid bracht grote ___ teweeg.",
-        "answer": "veranderingen"
+        "word": "trein",
+        "definition": "een voertuig dat op rails rijdt en wordt gebruikt voor personenvervoer",
+        "sentence": "De __ vertrok vanuit Londen en was onderweg naar Huntingdon.",
+        "answer": "trein"
       },
       {
-        "word": "tweede",
-        "definition": "komend na de eerste; nummer twee in een reeks.",
-        "sentence": "Zijn ___ ambtstermijn verliep minder voorspelbaar.",
-        "answer": "tweede"
+        "word": "neergestoken",
+        "definition": "het fysiek met een mes of scherp voorwerp zijn verwond",
+        "sentence": "De slachtoffers zijn ernstig __ tijdens de aanval.",
+        "answer": "neergestoken"
       },
       {
-        "word": "toegang",
-        "definition": "de mogelijkheid om een plaats te betreden of te gebruiken.",
-        "sentence": "Journalisten kregen geen ___ tot de persconferentie.",
-        "answer": "toegang"
+        "word": "Engeland",
+        "definition": "een land dat deel uitmaakt van het Verenigd Koninkrijk",
+        "sentence": "Het incident vond plaats in __, waar de politie de zaak onderzoekt.",
+        "answer": "Engeland"
       },
       {
-        "word": "teweeg",
-        "definition": "veroorzaken; tot stand brengen. (gebruikt in 'brengt ... teweeg')",
-        "sentence": "De crisis bracht grote onrust ___ in de regio.",
-        "answer": "teweeg"
+        "word": "verdachten",
+        "definition": "personen die worden verdacht van een misdrijf",
+        "sentence": "De twee __ werden kort na het incident aangehouden.",
+        "answer": "verdachten"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Zijn ___ ambtstermijn verliep minder voorspelbaar.",
-        "answer": "tweede"
+        "sentence": "Het incident vond plaats in __, waar de politie de zaak onderzoekt.",
+        "answer": "Engeland"
       },
       {
-        "sentence": "De crisis bracht grote onrust ___ in de regio.",
-        "answer": "teweeg"
+        "sentence": "De twee __ werden kort na het incident aangehouden.",
+        "answer": "verdachten"
       },
       {
-        "sentence": "Journalisten kregen geen ___ tot de persconferentie.",
-        "answer": "toegang"
+        "sentence": "De politie werd __ zaterdagavond op de hoogte gebracht van het incident.",
+        "answer": "zaterdagavond"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'beperken' in deze context?",
+      "question": "Waar vond het incident plaats?",
       "options": [
-        "Volledig verbieden",
-        "Gedeeltelijk of met beperkingen toestaan",
-        "Ongelimiteerd toestaan",
-        "Negeer en doe niets"
+        "In een trein in Engeland",
+        "Op een station in Londen",
+        "In een bus in Schotland",
+        "Op straat in Manchester"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Welk effect heeft 'beperkte toegang' op internationale betrekkingen?",
+      "question": "Wat is de rol van de Britse transportpolitie in deze kwestie?",
       "options": [
-        "Het verbetert de samenwerking enorm",
-        "Het heeft geen enkel effect op de relaties",
-        "Het kan spanningen verhogen door gebrek aan transparantie",
-        "Het leidt altijd tot onmiddellijke oorlog"
+        "Zij hebben de twee verdachten gearresteerd",
+        "Zij verzorgen de slachtoffers",
+        "Zij leiden het onderzoek",
+        "Zij meldden het incident aan de media"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is een synoniem voor 'teweegbrengen'?",
+      "question": "Wat gebeurde er met de verdachten na het incident?",
       "options": [
-        "Tegengaan",
-        "Verminderen",
-        "Veroorzaken",
-        "Neutraliseren"
+        "Ze werden onmiddellijk gearresteerd",
+        "Ze vluchten het land uit",
+        "Ze werden na een uur gevonden",
+        "Ze werden nooit gevonden"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De beperking van de toegang voor journalisten is een voorbeeld van transparantie.",
-      "isTrue": false
-    },
-    {
-      "statement": "De maatregel heeft wereldwijde gevolgen, niet alleen voor de VS.",
+      "statement": "Het incident vond plaats op een zaterdagavond in een trein in Engeland.",
       "isTrue": true
     },
     {
-      "statement": "Trump's tweede termijn bracht geen enkele verandering teweeg.",
+      "statement": "De Britse transportpolitie heeft nog geen verdachten kunnen arresteren.",
       "isTrue": false
+    },
+    {
+      "statement": "De trein was onderweg naar Huntingdon op het moment van het incident.",
+      "isTrue": true
     }
   ]
 }

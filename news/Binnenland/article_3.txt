@@ -1,15 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-11-01 04:26 UCT
+Nieuwsupdate: 2025-11-02 04:27 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”
-Link: https://www.standaard.be/binnenland/temu-start-terugroepactie-na-waarschuwing-voor-gevaarlijke-producten-door-testaankoop-daar-kopen-is-russische-roulette/101621355.html
-Datum: Fri, 31 Oct 2025 15:00:00 GMT
-Samenvatting: Zeventig procent van de producten die Testaankoop samen met buitenlandse consumentenorganisaties kocht bij webwinkels Shein en Temu, voldoet niet aan de Europese veiligheidsregels. Sommige goedkope sieraden en babyspeeltjes blijken zelfs gevaarlijk. “We hebben meteen alles offline gehaald”, reageren Shein en Temu.
+Titel: Amper zon in oktober, maar wel bijna een record
+Link: https://www.standaard.be/binnenland/amper-zon-in-oktober-maar-wel-bijna-een-record/101705342.html
+Datum: Sat, 01 Nov 2025 13:29:00 GMT
+Samenvatting: De voorbije maand oktober was zo somber dat er bijna een record in zat. Alleen oktober 1998 was nog zonlozer. Maar er is ook goed nieuws: woensdag wordt het gezellig warm.
 Auteur: Geen auteur
 Categorie: Binnenland
-Afbeelding: https://prod-img.nieuwsblad.be/public/nieuws/7nno7l-combi-temu.png/alternates/BASE_SIXTEEN_NINE/COMBI-TEMU.png
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/ypas3r-belgium-dilbeek-weather-clouds.jpg/alternates/BASE_SIXTEEN_NINE/BELGIUM%20DILBEEK%20WEATHER%20CLOUDS.jpg
+Premium: false
 ------------------------------------------------------------

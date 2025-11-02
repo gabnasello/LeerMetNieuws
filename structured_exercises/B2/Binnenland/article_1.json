@@ -1,105 +1,105 @@
 {
-  "id": 19,
+  "id": 17,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "'s Nachts rijbewijs ingetrokken, 's ochtends terug achter het stuur: Ruben Van Gucht krijgt rijverbod en boete na meerdere inbreuken",
+  "title": "Illegale rave vlak bij Kluisbergen",
   "topicNumber": 1,
   "article": {
-    "title": "'s Nachts rijbewijs ingetrokken, 's ochtends terug achter het stuur: Ruben Van Gucht krijgt rijverbod en boete na meerdere inbreuken",
-    "summary": "Negen maanden rijverbod en een boete van 4.800 euro: die zware straf heeft sportanker Ruben Van Gucht (38) vrijdagochtend in de Dendermondse politierechtbank gekregen omdat hij ondanks een rijverbod na een positieve alcoholtest stiekem toch reed. Vier keer liep hij tegen de lamp."
+    "title": "Illegale rave vlak bij Kluisbergen",
+    "summary": "In de Waalse gemeente Frasnes-lez-Anvaing, vlak over de taalgrens, is een illegale rave bezig met ongeveer 700 bezoekers. De deelnemers komen uit België, Nederland en Frankrijk en zijn van plan om tot zondagnamiddag door te gaan."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "rijbewijs",
-        "definition": "Een officieel document dat bewijst dat je mag autorijden.",
-        "sentence": "Hij moest zijn ___ inleveren na de overtreding.",
-        "answer": "rijbewijs"
+        "word": "rave",
+        "definition": "Een groot feest met elektronische muziek, vaak illegaal",
+        "sentence": "De politie heeft de ___ stopgezet omdat er geen vergunning was.",
+        "answer": "rave"
       },
       {
-        "word": "stiekem",
-        "definition": "In het geheim, zonder dat anderen het merken.",
-        "sentence": "Hij reed ___ toch door, ook al mocht het niet.",
-        "answer": "stiekem"
+        "word": "bezoekers",
+        "definition": "Mensen die naar een evenement of plaats gaan",
+        "sentence": "De ___ van het festival waren erg enthousiast.",
+        "answer": "bezoekers"
       },
       {
-        "word": "rijverbod",
-        "definition": "Een verbod om een voertuig te besturen voor een bepaalde periode.",
-        "sentence": "Hij kreeg een ___ van negen maanden.",
-        "answer": "rijverbod"
+        "word": "gemeente",
+        "definition": "Een officieel gebied of gemeenschap met een eigen bestuur",
+        "sentence": "De ___ waar ik woon, heeft een nieuw park geopend.",
+        "answer": "gemeente"
       },
       {
-        "word": "alcoholtest",
-        "definition": "Een test die meet hoeveel alcohol er in je lichaam zit.",
-        "sentence": "Hij bleek positief op de ___.",
-        "answer": "alcoholtest"
+        "word": "deelnemers",
+        "definition": "Mensen die meedoen aan een activiteit of evenement",
+        "sentence": "Alle ___ van de wedstrijd krijgen een medaille.",
+        "answer": "deelnemers"
       },
       {
-        "word": "vrijdagochtend",
-        "definition": "De ochtend van vrijdag, een dag van de week.",
-        "sentence": "Hij kreeg de uitspraak op ___.",
-        "answer": "vrijdagochtend"
+        "word": "plan",
+        "definition": "Een idee of methode over wat je gaat doen",
+        "sentence": "Wat is jouw ___ voor het weekend?",
+        "answer": "plan"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij reed ___ toch door, ook al mocht het niet.",
-        "answer": "stiekem"
+        "sentence": "Alle ___ van de wedstrijd krijgen een medaille.",
+        "answer": "deelnemers"
       },
       {
-        "sentence": "Hij moest zijn ___ inleveren na de overtreding.",
-        "answer": "rijbewijs"
+        "sentence": "De ___ waar ik woon, heeft een nieuw park geopend.",
+        "answer": "gemeente"
       },
       {
-        "sentence": "Hij bleek positief op de ___.",
-        "answer": "alcoholtest"
+        "sentence": "Wat is jouw ___ voor het weekend?",
+        "answer": "plan"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom kreeg Ruben Van Gucht een rijverbod?",
+      "question": "Wat is de reden dat de rave werd stopgezet?",
       "options": [
-        "Hij reed stiekem door na een alcoholtest.",
-        "Hij was betrokken bij een auto-ongeluk.",
-        "Hij reed zonder rijbewijs.",
-        "Hij verloor een weddenschap over rijden."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Hoe lang was de duur van het rijverbod?",
-      "options": [
-        "Vier maanden",
-        "Negen maanden",
-        "Twaalf maanden",
-        "Acht maanden"
+        "Er waren te veel deelnemers",
+        "Er was geen vergunning",
+        "Het was te laat in de nacht",
+        "De muziek was te luid"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar vond de rechtszaak plaats?",
+      "question": "Hoe lang was de rave gepland te duren?",
       "options": [
-        "Brussel",
-        "Dendermonde",
-        "Antwerpen",
-        "Gent"
+        "Tot zaterdagavond",
+        "Tot zondagmiddag",
+        "Tot maandagochtend",
+        "Slechts een paar uur"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Waar vond de rave plaats?",
+      "options": [
+        "In Nederland",
+        "In een Belgische gemeente",
+        "In een Frans dorp",
+        "Op een Nederlands strand"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Ruben Van Gucht kreeg een rijverbod omdat hij te hard reed.",
-      "isTrue": false
-    },
-    {
-      "statement": "Hij kreeg een rijverbod van negen maanden en een boete.",
+      "statement": "De rave was illegaal omdat er geen vergunning was aangevraagd.",
       "isTrue": true
     },
     {
-      "statement": "Hij reed stiekem door, maar werd niet gepakt.",
+      "statement": "De rave had meer dan 1000 bezoekers.",
+      "isTrue": false
+    },
+    {
+      "statement": "De deelnemers waren alleen uit België afkomstig.",
       "isTrue": false
     }
   ]

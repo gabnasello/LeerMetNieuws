@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Witte Huis beperkt toegang voor journalisten",
+  "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
   "topicNumber": 1,
   "article": {
-    "title": "Witte Huis beperkt toegang voor journalisten",
-    "summary": "Donald Trump start zijn tweede termijn als president van Amerika. Dit brengt veranderingen over de hele wereld. Volg hier alle updates."
+    "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
+    "summary": "Zaterdagavond zijn meerdere mensen neergestoken in een trein die naar het Engelse Huntingdon reed. Dat meldt de Britse transportpolitie. Er zijn twee verdachten gearresteerd."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "updates",
-        "definition": "nieuwe informatie, het laatste nieuws",
-        "sentence": "Volg alle ___ over dit onderwerp online.",
-        "answer": "updates"
+        "word": "politie",
+        "definition": "mensen die de wet handhaven",
+        "sentence": "De ___ heeft de verdachten gearresteerd.",
+        "answer": "politie"
       },
       {
-        "word": "wereld",
-        "definition": "de aarde en alle landen samen",
-        "sentence": "De veranderingen in de ___ zijn groot door de nieuwe president.",
-        "answer": "wereld"
+        "word": "opgepakt",
+        "definition": "gearresteerd door de politie",
+        "sentence": "De politie heeft de verdachten ___.",
+        "answer": "opgepakt"
       },
       {
-        "word": "Witte",
-        "definition": "heeft geen kleur, of de naam van een gebouw",
-        "sentence": "Het ___ Huis is waar de president woont.",
-        "answer": "Witte"
+        "word": "neergestoken",
+        "definition": "gestoken met een mes",
+        "sentence": "Mensen werden ___ in de trein.",
+        "answer": "neergestoken"
       },
       {
-        "word": "president",
-        "definition": "de leider van een land",
-        "sentence": "De ___ van Amerika woont in het Witte Huis.",
-        "answer": "president"
+        "word": "mensen",
+        "definition": "personen",
+        "sentence": "Verschillende ___ werden neergestoken.",
+        "answer": "mensen"
       },
       {
-        "word": "toegang",
-        "definition": "kunnen komen of gaan in een plaats",
-        "sentence": "Journalisten hebben geen ___ meer tot het Witte Huis.",
-        "answer": "toegang"
+        "word": "trein",
+        "definition": "een voertuig dat rijdt op rails",
+        "sentence": "Het incident vond plaats in een ___.",
+        "answer": "trein"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ Huis is waar de president woont.",
-        "answer": "Witte"
+        "sentence": "Het incident vond plaats in een ___.",
+        "answer": "trein"
       },
       {
-        "sentence": "De ___ van Amerika woont in het Witte Huis.",
-        "answer": "president"
+        "sentence": "De politie heeft de verdachten ___.",
+        "answer": "opgepakt"
       },
       {
-        "sentence": "Journalisten hebben geen ___ meer tot het Witte Huis.",
-        "answer": "toegang"
+        "sentence": "De ___ heeft de verdachten gearresteerd.",
+        "answer": "politie"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'beperkt' in deze context?",
+      "question": "Waar gebeurde het incident?",
       "options": [
-        "niet veel, gelimiteerd",
-        "helemaal geen",
-        "oneindig veel",
-        "alleen voor kinderen"
+        "In een trein",
+        "In een bus",
+        "In een auto",
+        "Op een fiets"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waar woont de president van Amerika?",
+      "question": "Wie heeft de verdachten gearresteerd?",
       "options": [
-        "In het Witte Huis",
-        "In een groot kasteel",
-        "In een normaal huis",
-        "In een hotel"
+        "De Britse transportpolitie",
+        "De Nederlandse politie",
+        "De Franse politie",
+        "De Duitse politie"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is 'updates' in het Nederlands?",
+      "question": "Wat gebeurde er met de verdachten?",
       "options": [
-        "nieuwsupdates",
-        "een soort fruit",
-        "een soort auto",
-        "een soort boek"
+        "Ze werden opgepakt",
+        "Ze werden vrijgelaten",
+        "Ze werden vergeten",
+        "Ze werden ontslagen"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Journalisten mogen altijd in het Witte Huis komen.",
-      "isTrue": false
-    },
-    {
-      "statement": "De president van Amerika woont in het Witte Huis.",
+      "statement": "Het incident vond plaats in een trein.",
       "isTrue": true
     },
     {
-      "statement": "'Updates' betekent dat alles hetzelfde blijft.",
+      "statement": "De verdachten zijn nog niet gevonden.",
       "isTrue": false
+    },
+    {
+      "statement": "De politie heeft de verdachten gearresteerd.",
+      "isTrue": true
     }
   ]
 }

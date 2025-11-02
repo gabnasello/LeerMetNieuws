@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Witte Huis beperkt toegang voor journalisten",
+  "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
   "topicNumber": 1,
   "article": {
-    "title": "Witte Huis beperkt toegang voor journalisten",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
+    "summary": "Zaterdagavond zijn meerdere mensen neergestoken in een trein die naar het Engelse Huntingdon reed. Dat meldt de Britse transportpolitie. Er zijn twee verdachten gearresteerd."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "toegang",
-        "definition": "De mogelijkheid om een plaats te betreden of te gebruiken.",
-        "sentence": "Journalisten hebben nu geen ___ tot de persconferentie.",
-        "answer": "toegang"
+        "word": "zaterdagavond",
+        "definition": "de avond van zaterdag",
+        "sentence": "De politie kreeg de melding op ___.",
+        "answer": "zaterdagavond"
       },
       {
-        "word": "beperkt",
-        "definition": "Niet volledig; met bepaalde grenzen.",
-        "sentence": "De toegang tot het gebied was ___ om veiligheidsredenen.",
-        "answer": "beperkt"
+        "word": "neergestoken",
+        "definition": "gestoken met een scherp voorwerp, zoals een mes",
+        "sentence": "Verschillende mensen zijn ___ in de trein.",
+        "answer": "neergesteken"
       },
       {
-        "word": "wereldwijd",
-        "definition": "Over de hele wereld; op globale schaal.",
-        "sentence": "De pandemie had ___ gevolgen voor de economie.",
-        "answer": "wereldwijd"
+        "word": "trein",
+        "definition": "een voertuig dat rijdt op rails en mensen vervoert",
+        "sentence": "Het incident gebeurde in een ___ naar Huntingdon.",
+        "answer": "trein"
       },
       {
-        "word": "updates",
-        "definition": "Bijgewerkte informatie of nieuws.",
-        "sentence": "Volg de laatste ___ over de situatie via deze website.",
-        "answer": "updates"
+        "word": "Engeland",
+        "definition": "een land dat deel uitmaakt van het Verenigd Koninkrijk",
+        "sentence": "Het incident vond plaats in ___.",
+        "answer": "Engeland"
       },
       {
-        "word": "journalisten",
-        "definition": "Personen die verslag doen van nieuws.",
-        "sentence": "___ spelen een belangrijke rol in de verspreiding van informatie.",
-        "answer": "Journalisten"
+        "word": "verdachten",
+        "definition": "mensen die verdacht worden van een misdrijf",
+        "sentence": "Twee ___ zijn gearresteerd.",
+        "answer": "verdachten"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De toegang tot het gebied was ___ om veiligheidsredenen.",
-        "answer": "beperkt"
+        "sentence": "Het incident gebeurde in een ___ naar Huntingdon.",
+        "answer": "trein"
       },
       {
-        "sentence": "Journalisten hebben nu geen ___ tot de persconferentie.",
-        "answer": "toegang"
+        "sentence": "Twee ___ zijn gearresteerd.",
+        "answer": "verdachten"
       },
       {
-        "sentence": "De pandemie had ___ gevolgen voor de economie.",
-        "answer": "wereldwijd"
+        "sentence": "Verschillende mensen zijn ___ in de trein.",
+        "answer": "neergesteken"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'beperkt' in deze context?",
+      "question": "Waar vond het incident plaats?",
       "options": [
-        "Volledig",
-        "Onbeperkt",
-        "Gelimiteerd",
-        "Oneindig"
+        "In een trein",
+        "In een bus",
+        "Op een station",
+        "In een auto"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Waar verwijst 'Witte Huis' naar in deze tekst?",
+      "question": "Hoeveel verdachten zijn er aangehouden?",
       "options": [
-        "Een museum",
-        "De Amerikaanse regering",
-        "Een krant",
-        "Een historisch gebouw"
+        "Twee",
+        "Drie",
+        "Vier",
+        "Vijf"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is een 'journalist'?",
+      "question": "Wat is de rol van de politie in dit bericht?",
       "options": [
-        "Iemand die boeken schrijft",
-        "Iemand die nieuws rapporteert",
-        "Iemand die politieondersteunt",
-        "Iemand die films maakt"
+        "Zij hebben de verdachten gearresteerd",
+        "Zij waren niet betrokken",
+        "Zij hebben het incident veroorzaakt",
+        "Zij hebben het slachtoffer geholpen"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het Witte Huis heeft onbeperkte toegang voor journalisten.",
-      "isTrue": false
-    },
-    {
-      "statement": "Donald Trump was de president van de Verenigde Staten tijdens zijn tweede ambtstermijn.",
+      "statement": "Het incident vond plaats in een trein in Engeland.",
       "isTrue": true
     },
     {
-      "statement": "Deze tekst gaat alleen over Amerikaanse politiek.",
+      "statement": "Er zijn drie verdachten gearresteerd.",
+      "isTrue": false
+    },
+    {
+      "statement": "De politie heeft de verdachten nog niet gevonden.",
       "isTrue": false
     }
   ]

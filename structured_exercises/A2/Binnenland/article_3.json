@@ -1,105 +1,105 @@
 {
-  "id": 21,
+  "id": 20,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten",
+  "title": "Amper zon in oktober, maar wel bijna een record",
   "topicNumber": 1,
   "article": {
-    "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten",
-    "summary": "Testaankoop waarschuwt voor gevaarlijke producten bij Temu en Shein. Veel producten voldoen niet aan de Europese veiligheidsregels. Sommige sieraden en speelgoed zijn zelfs gevaarlijk. De winkels hebben sommige producten offline gehaald."
+    "title": "Amper zon in oktober, maar wel bijna een record",
+    "summary": "De voorbije maand oktober was zo somber dat er bijna een record in zat. Alleen oktober 1998 was nog zonlozer. Maar er is ook goed nieuws: woensdag wordt het gezellig warm."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "producten",
-        "definition": "dingen die je koopt, zoals speelgoed of sieraden",
-        "sentence": "Sommige ___ zijn gevaarlijk.",
-        "answer": "producten"
+        "word": "somber",
+        "definition": "niet vrolijk, een beetje triest",
+        "sentence": "Het weer was erg ___ in oktober.",
+        "answer": "somber"
       },
       {
-        "word": "veiligheidsregels",
-        "definition": "regels om ervoor te zorgen dat iets veilig is",
-        "sentence": "De producten voldoen niet aan de Europese ___.",
-        "answer": "veiligheidsregels"
+        "word": "maand",
+        "definition": "een van de twaalf delen van een jaar",
+        "sentence": "October is een ___ waarin het vaak regent.",
+        "answer": "maand"
       },
       {
-        "word": "sieraden",
-        "definition": "versieringen die je draagt, zoals een ketting of ring",
-        "sentence": "Sommige ___ zijn gevaarlijk omdat ze giftige stoffen bevatten.",
-        "answer": "sieraden"
+        "word": "warm",
+        "definition": "niet koud, een hoge temperatuur",
+        "sentence": "De soep is nog ___ genoeg om te eten.",
+        "answer": "warm"
       },
       {
-        "word": "speelgoed",
-        "definition": "spullen om mee te spelen, zoals poppen of auto's",
-        "sentence": "Ook sommig ___ is onveilig voor kinderen.",
-        "answer": "speelgoed"
+        "word": "record",
+        "definition": "het hoogste of beste dat ooit is bereikt",
+        "sentence": "Hij brak het ___ voor de meeste goals.",
+        "answer": "record"
       },
       {
-        "word": "gevaarlijk",
-        "definition": "niet veilig, kan schade veroorzaken",
-        "sentence": "Sommige producten zijn erg ___.",
-        "answer": "gevaarlijk"
+        "word": "gezellig",
+        "definition": "gezellig en leuk",
+        "sentence": "We hadden een ___ avond met vrienden.",
+        "answer": "gezellig"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Sommige ___ zijn gevaarlijk.",
-        "answer": "producten"
+        "sentence": "October is een ___ waarin het vaak regent.",
+        "answer": "maand"
       },
       {
-        "sentence": "Sommige ___ zijn gevaarlijk omdat ze giftige stoffen bevatten.",
-        "answer": "sieraden"
+        "sentence": "We hadden een ___ avond met vrienden.",
+        "answer": "gezellig"
       },
       {
-        "sentence": "Ook sommig ___ is onveilig voor kinderen.",
-        "answer": "speelgoed"
+        "sentence": "De soep is nog ___ genoeg om te eten.",
+        "answer": "warm"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom waarschuwt Testaankoop voor producten van Temu en Shein?",
+      "question": "Wat was bijzonder aan oktober dit jaar?",
       "options": [
-        "Omdat de producten te duur zijn",
-        "Omdat de producten niet voldoen aan de veiligheidsregels",
-        "Omdat de producten niet leverbaar zijn",
-        "Omdat de producten te populair zijn"
+        "Het was heel zonnig",
+        "Het was erg somber",
+        "Het was heel warm",
+        "Het was erg koud"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat hebben Shein en Temu gedaan na de waarschuwing?",
+      "question": "Wat is het goede nieuws in het artikel?",
       "options": [
-        "Ze hebben alle producten verwijderd van hun websites",
-        "Ze hebben niets gedaan",
-        "Ze hebben alleen de gevaarlijke producten offline gehaald",
-        "Ze hebben nieuwe producten toegevoegd"
+        "Het wordt koud",
+        "Het wordt warm",
+        "Het gaat sneeuwen",
+        "Het wordt zonnig"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is een voorbeeld van een gevaarlijk product?",
+      "question": "Wat is een 'record' in deze context?",
       "options": [
-        "Een fiets",
-        "Een boek",
-        "Een sieraad met giftige stoffen",
-        "Een computer"
+        "Een soort muziek",
+        "Een soort sport",
+        "Een ongekende prestatie",
+        "Een type weer"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Testaankoop heeft producten van Temu en Shein getest en ze zijn allemaal veilig bevonden.",
+      "statement": "Oktober dit jaar was erg zonnig.",
       "isTrue": false
     },
     {
-      "statement": "Temu is een online winkel waar je producten kunt kopen.",
+      "statement": "Er is goed nieuws: woensdag wordt het warm.",
       "isTrue": true
     },
     {
-      "statement": "Alle producten van Shein en Temu zijn nu offline gehaald.",
+      "statement": "Oktober 1998 was minder somber dan dit jaar.",
       "isTrue": false
     }
   ]

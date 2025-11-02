@@ -1,105 +1,105 @@
 {
-  "id": 11,
+  "id": 9,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Pentagon geeft groen licht voor raketten, beslissing ligt bij Trump",
+  "title": "Waar zijn de Russische soldaten?",
   "topicNumber": 1,
   "article": {
-    "title": "Pentagon geeft groen licht voor raketten, beslissing ligt bij Trump",
-    "summary": "Lees hier het laatste nieuws over de oorlog in Oekraïne. Download de app voor updates."
+    "title": "Waar zijn de Russische soldaten?",
+    "summary": "Waar zijn de Russische soldaten? Dat is de vraag in de oorlog in Oekraïne. De stad Pokrovsk kan vallen door een nieuwe Russische tactiek."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Trump",
-        "definition": "een persoon",
-        "sentence": "___ is een man.",
-        "answer": "Trump"
+        "word": "tactiek",
+        "definition": "een plan of manier om iets te doen",
+        "sentence": "De nieuwe ___ van Rusland is gevaarlijk.",
+        "answer": "tactiek"
       },
       {
-        "word": "licht",
-        "definition": "niet donker, helder",
-        "sentence": "De lamp geeft ___.",
-        "answer": "licht"
+        "word": "stad",
+        "definition": "een grote plaats waar mensen wonen",
+        "sentence": "De ___ Pokrovsk kan vallen.",
+        "answer": "stad"
       },
       {
-        "word": "beslissing",
-        "definition": "wat je kiest",
-        "sentence": "Mijn ___ is om thuis te blijven.",
-        "answer": "beslissing"
+        "word": "Russische",
+        "definition": "van of gerelateerd aan Rusland",
+        "sentence": "De ___ soldaten gebruiken een nieuwe tactiek.",
+        "answer": "Russische"
       },
       {
-        "word": "groen",
-        "definition": "een kleur, zoals gras",
-        "sentence": "Het gras is ___.",
-        "answer": "groen"
+        "word": "waar",
+        "definition": "op welke plaats of locatie",
+        "sentence": "___ zijn de soldaten?",
+        "answer": "waar"
       },
       {
-        "word": "Pentagon",
-        "definition": "een gebouw in Amerika",
-        "sentence": "Het ___ is een gebouw.",
-        "answer": "Pentagon"
+        "word": "nieuwe",
+        "definition": "iets dat nog niet eerder is geweest",
+        "sentence": "Ze gebruiken een ___ manier van oorlogvoeren.",
+        "answer": "nieuwe"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is een man.",
-        "answer": "Trump"
+        "sentence": "Ze gebruiken een ___ manier van oorlogvoeren.",
+        "answer": "nieuwe"
       },
       {
-        "sentence": "Het ___ is een gebouw.",
-        "answer": "Pentagon"
+        "sentence": "___ zijn de soldaten?",
+        "answer": "waar"
       },
       {
-        "sentence": "Mijn ___ is om thuis te blijven.",
-        "answer": "beslissing"
+        "sentence": "De ___ soldaten gebruiken een nieuwe tactiek.",
+        "answer": "Russische"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de Pentagon?",
+      "question": "Waar zijn de Russische soldaten?",
       "options": [
-        "Een dier",
-        "Een stad",
-        "Een gebouw",
-        "Een land"
+        "In Rusland",
+        "In Oekraïne",
+        "In de stad Pokrovsk",
+        "Dat is niet bekend"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     },
     {
-      "question": "Wat betekent 'gaf'?",
+      "question": "Wat is de vraag voor de Oekraïense verdediging?",
       "options": [
-        "Kreeg",
-        "Gaf",
-        "Kocht",
-        "Verkocht"
+        "Hoe heet de stad?",
+        "Waar zijn de Russische soldaten?",
+        "Hoeveel soldaten zijn er?",
+        "Wat is de naam van de stad?"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is groen?",
+      "question": "Wat dreigt er te gebeuren met de stad Pokrovsk?",
       "options": [
-        "Een kleur",
-        "Een steen",
-        "Een dier",
-        "Een auto"
+        "Het wordt groter",
+        "Het valt",
+        "Het wordt herbouwd",
+        "Het verandert van naam"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Pentagon is een gebouw.",
+      "statement": "De Russische soldaten zijn in Oekraïne.",
       "isTrue": true
     },
     {
-      "statement": "Trump is een vrouw.",
+      "statement": "De stad Pokrovsk is al gevallen.",
       "isTrue": false
     },
     {
-      "statement": "Groen is een kleur.",
+      "statement": "De Russen gebruiken een nieuwe tactiek.",
       "isTrue": true
     }
   ]

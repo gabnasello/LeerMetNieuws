@@ -1,105 +1,105 @@
 {
-  "id": 24,
+  "id": 22,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
+  "title": "Amper zon in oktober, maar wel bijna een record",
   "topicNumber": 1,
   "article": {
-    "title": "Temu start terugroepactie na waarshuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
-    "summary": "Zeventig procent van de producten die Testaankoop samen met buitenlandse consumentenorganisaties kocht bij webwinkels Shein en Temu, voldoet niet aan de Europese veiligheidsregels. Sommige goedkope sieraden en babyspeeltjes blijken zelfs gevaarlijk. “We hebben meteen alles offline gehaald”, reageren Shein en Temu."
+    "title": "Amper zon in oktober, maar wel bijna een record",
+    "summary": "De voorbije maand oktober was zo somber dat er bijna een record in zat. Alleen oktober 1998 was nog zonlozer. Maar er is ook goed nieuws: woensdag wordt het gezellig warm."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Testaankoop",
-        "definition": "Een Belgische consumentenorganisatie die producten test.",
-        "sentence": "___ bracht de problemen met de producten aan het licht.",
-        "answer": "Testaankoop"
+        "word": "gezellig",
+        "definition": "Gezellig betekent: knus, aangenaam of met een goede sfeer.",
+        "sentence": "Het wordt ___ warm op woensdag.",
+        "answer": "gezellig"
       },
       {
-        "word": "Russische roulette",
-        "definition": "Een gevaarlijk spel waarbij iemand zijn of haar leven riskeert; hier gebruikt als metafoor voor een groot risico nemen.",
-        "sentence": "Kopen bij deze winkels is als ___ spelen.",
-        "answer": "Russische roulette"
+        "word": "maand",
+        "definition": "Een maand is een periode van ongeveer vier weken, ofwel ongeveer 30 of 31 dagen.",
+        "sentence": "De ___ oktober was erg somber.",
+        "answer": "maand"
       },
       {
-        "word": "veiligheidsregels",
-        "definition": "Regels die zijn opgesteld om de veiligheid te garanderen.",
-        "sentence": "Veel producten voldoen niet aan de Europese ___.",
-        "answer": "veiligheidsregels"
+        "word": "record",
+        "definition": "Een record is een prestatie of resultaat dat het beste of slechtste is in zijn soort.",
+        "sentence": "Het was bijna een nieuw ___ voor weinig zon.",
+        "answer": "record"
       },
       {
-        "word": "gevaarlijk",
-        "definition": "Het gevaar opleverend, risicovol.",
-        "sentence": "Producten die niet voldoen aan de normen zijn vaak ___ voor de gebruiker.",
-        "answer": "gevaarlijk"
+        "word": "Amper",
+        "definition": "Met amper wordt bedoeld: heel weinig of bijna niet. Het is een aanduiding voor een zeer kleine hoeveelheid.",
+        "sentence": "Er was ___ geen zon te zien.",
+        "answer": "amper"
       },
       {
-        "word": "terugroepactie",
-        "definition": "Een actie waarbij een bedrijf producten terugneemt van klanten, vaak vanwege problemen.",
-        "sentence": "Temu startte een ___ voor de onveilige producten.",
-        "answer": "terugroepactie"
+        "word": "zonlozer",
+        "definition": "Zonlozer is een vergrotende trap: het betekent 'met nog minder zon' of 'nog minder zonlicht'.",
+        "sentence": "Alleen 1998 was nog ___ dan oktober 2023.",
+        "answer": "zonlozer"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ bracht de problemen met de producten aan het licht.",
-        "answer": "Testaankoop"
+        "sentence": "Alleen 1998 was nog ___ dan oktober 2023.",
+        "answer": "zonlozer"
       },
       {
-        "sentence": "Temu startte een ___ voor de onveilige producten.",
-        "answer": "terugroepactie"
+        "sentence": "Er was ___ geen zon te zien.",
+        "answer": "amper"
       },
       {
-        "sentence": "Kopen bij deze winkels is als ___ spelen.",
-        "answer": "Russische roulette"
+        "sentence": "De ___ oktober was erg somber.",
+        "answer": "maand"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom noemt Testaankoop het kopen bij deze winkels 'Russische roulette'?",
+      "question": "Wat betekent 'zonlozer' in de context van de tekst?",
       "options": [
-        "Omdat het een oud spel is",
-        "Omdat het veel geld kost",
-        "Omdat het een groot risico is voor de consument",
-        "Omdat het populair is in Rusland"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat is de reactie van de webwinkels op de bevindingen van Testaankoop?",
-      "options": [
-        "Ze negeerden het volledig",
-        "Ze haalden de producten onmiddellijk offline",
-        "Ze verhoogden de prijzen",
-        "Ze startten een reclamecampagne"
+        "Meer zon",
+        "Minder zon",
+        "Geen zon",
+        "Volle zon"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een van de specifieke problemen met de verkochte producten?",
+      "question": "Welk jaar had nog minder zon dan 2023 volgens de tekst?",
       "options": [
-        "Ze zijn te duur",
-        "Ze voldoen niet aan de veiligheidsregels",
-        "Ze zijn alleen online beschikbaar",
-        "Ze zijn te groot voor gemakkelijke verzending"
+        "1998",
+        "1999",
+        "2000",
+        "2022"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat voor weer wordt er verwacht op woensdag?",
+      "options": [
+        "Koud en nat",
+        "Warm en zonnig",
+        "Koud en winderig",
+        "Mild en bewolkt"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Testaankoop werkte alleen met Europese organisaties.",
+      "statement": "Oktober 2023 was de somberste maand ooit.",
       "isTrue": false
     },
     {
-      "statement": "Sommige babyspeeltjes bleken gevaarlijk te zijn voor kinderen.",
+      "statement": "Er was een maand in 1998 die nog somberder was dan oktober 2023.",
       "isTrue": true
     },
     {
-      "statement": "Shein en Temu hebben de producten niet offline gehaald.",
+      "statement": "Woensdag wordt een koude dag volgens de tekst.",
       "isTrue": false
     }
   ]

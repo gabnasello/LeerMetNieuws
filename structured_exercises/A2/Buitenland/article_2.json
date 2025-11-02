@@ -1,99 +1,105 @@
 {
-  "id": 12,
+  "id": 10,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Pentagon geeft toestemming voor raketten, Trump moet beslissen",
+  "title": "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
   "topicNumber": 1,
   "article": {
-    "title": "Pentagon geeft toestemming voor raketten, Trump moet beslissen",
-    "summary": "Amerika overweegt het sturen van meer wapens naar Oekraïne. President Trump moet de uiteindelijke beslissing nemen. Volg het laatste nieuws over de oorlog via de DS Nieuws app."
+    "title": "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
+    "summary": "Waar zijn de Russische soldaten? Dat is de vraag voor de Oekraïense verdediging in Pokrovsk. De strategisch belangrijke stad dreigt te vallen door een nieuwe Russische manier van oorlogvoeren."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Pentagon",
-        "definition": "Het gebouw van het Ministerie van Defensie in de VS",
-        "sentence": "Het ___ is het hoofdkwartier van het Amerikaanse leger.",
-        "answer": "Pentagon"
+        "word": "nieuwe",
+        "definition": "recent gemaakt of ontstaan, niet oud",
+        "sentence": "De ___ tactiek van Rusland zorgt voor problemen.",
+        "answer": "nieuwe"
       },
       {
-        "word": "beslissing",
-        "definition": "Een keuze die je maakt nadat je erover nadenkt",
-        "sentence": "De minister-president moet een belangrijke ___ nemen over de oorlog.",
-        "answer": "beslissing"
+        "word": "zijn",
+        "definition": "het werkwoord 'zijn' betekent dat iets bestaat of zich in een bepaalde toestand bevindt",
+        "sentence": "Waar ___ de Russische soldaten?",
+        "answer": "zijn"
       },
       {
-        "word": "Trump",
-        "definition": "De familienaam van de voormalige president van de Verenigde Staten",
-        "sentence": "___ was president van de Verenigde Staten.",
-        "answer": "Trump"
+        "word": "tactiek",
+        "definition": "een plan of methode om een doel te bereiken, vooral in een conflict of competitie",
+        "sentence": "De nieuwe ___ van Rusland is effectief.",
+        "answer": "tactiek"
       },
       {
-        "word": "Oekraïne",
-        "definition": "Een land in Europa, momenteel in conflict met Rusland",
-        "sentence": "___ is een land dat grenst aan Rusland.",
-        "answer": "Oekraïne"
+        "word": "Oekraïense",
+        "definition": "betrekking hebbend op Oekraïne, iets of iemand uit Oekraïne",
+        "sentence": "De ___ verdediging moet de stad beschermen.",
+        "answer": "Oekraïense"
+      },
+      {
+        "word": "doen",
+        "definition": "uitvoeren, uitvoeren van een actie",
+        "sentence": "De nieuwe Russische tactiek dreigt de stad te ___ vallen.",
+        "answer": "doen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is een land dat grenst aan Rusland.",
-        "answer": "Oekraïne"
+        "sentence": "De ___ tactiek van Rusland zorgt voor problemen.",
+        "answer": "nieuwe"
       },
       {
-        "sentence": "Het ___ is het hoofdkwartier van het Amerikaanse leger.",
-        "answer": "Pentagon"
+        "sentence": "De nieuwe Russische tactiek dreigt de stad te ___ vallen.",
+        "answer": "doen"
       },
       {
-        "sentence": "De minister-president moet een belangrijke ___ nemen over de oorlog.",
-        "answer": "beslissing"
+        "sentence": "De ___ verdediging moet de stad beschermen.",
+        "answer": "Oekraïense"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de Pentagon?",
+      "question": "Wat betekent het woord 'tactiek' in deze context?",
       "options": [
-        "Een type raket",
-        "Het hoofdkantoor van het Amerikaanse leger",
-        "Een stad in de VS",
-        "Een beroemde acteur"
+        "Een soort wapen",
+        "Een plan om een doel te bereiken",
+        "Een type soldaat",
+        "Een soort voertuig"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarover moet Trump een beslissing nemen?",
+      "question": "Waarom is de stad Pokrovsk belangrijk?",
       "options": [
-        "Of hij zijn haar moet laten knippen",
-        "Of de VS meer wapens naar Oekraïne stuurt",
-        "Welk ontbijt hij wil eten",
-        "Of hij naar een feestje gaat"
+        "Het is de hoofdstad van Oekraïne",
+        "Het is een kleine onbelangrijke stad",
+        "Het is een strategisch belangrijke locatie voor de verdediging",
+        "Er zijn geen Russische soldaten aanwezig"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de situatie in Oekraïne?",
+      "question": "Wat is het gevolg van de nieuwe Russische tactiek?",
       "options": [
-        "Er is vrede",
-        "Er is een grote oorlog aan de gang",
-        "Het is altijd zomer",
-        "Ze spelen alleen maar voetbal"
+        "De stad is al gevallen",
+        "Er is geen effect",
+        "Het dreigt de stad te doen vallen",
+        "De stad wordt sterker verdedigd"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Verenigde Staten overwegen het sturen van wapens naar Oekraïne.",
+      "statement": "De Russische soldaten zijn niet zichtbaar in Pokrovsk.",
       "isTrue": true
     },
     {
-      "statement": "Trump is de huidige president van de Verenigde Staten.",
+      "statement": "De nieuwe Russische tactiek maakt de stad sterker.",
       "isTrue": false
     },
     {
-      "statement": "Oekraïne is een land in Europa.",
+      "statement": "Oekraïne verdedigt de stad Pokrovsk.",
       "isTrue": true
     }
   ]

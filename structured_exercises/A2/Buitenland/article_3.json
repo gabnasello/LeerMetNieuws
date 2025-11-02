@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Frans parlement weigert belasting",
+  "title": "Oekraïne wil Pokrovsk weer onder controle krijgen",
   "topicNumber": 1,
   "article": {
-    "title": "Frans parlement weigert belasting",
-    "summary": "Het Franse parlement heeft een nieuwe belasting voor rijke mensen niet aangenomen. De politici stemden tegen de belasting."
+    "title": "Oekraïne wil Pokrovsk weer onder controle krijgen",
+    "summary": "Oekraïne wil de stad Pokrovsk terugwinnen. Er is een oorlog in Oekraïne. Volg het nieuws om op te hoogte te blijven."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "parlement",
-        "definition": "De groep mensen die wetten maakt in een land",
-        "sentence": "Het ___ van Nederland heet de Tweede Kamer.",
-        "answer": "parlement"
+        "word": "nieuws",
+        "definition": "Informatie over wat er gebeurt in de wereld",
+        "sentence": "Ik lees het ___ elke dag.",
+        "answer": "nieuws"
       },
       {
-        "word": "belasting",
-        "definition": "Geld dat je moet betalen aan de overheid",
-        "sentence": "In Nederland betaal je ___ over je inkomen.",
-        "answer": "belasting"
+        "word": "onder",
+        "definition": "Onder, aan de onderkant",
+        "sentence": "De kat ligt ___ de tafel.",
+        "answer": "onder"
       },
       {
-        "word": "politici",
-        "definition": "Mensen die een regering runnen en wetten maken",
-        "sentence": "___ moeten vaak in het openbaar spreken.",
-        "answer": "politici"
+        "word": "weer",
+        "definition": "Opnieuw, nog een keer",
+        "sentence": "Hij is ___ thuis.",
+        "answer": "weer"
       },
       {
-        "word": "weigert",
-        "definition": "Zegt nee tegen iets, accepteert niet",
-        "sentence": "Hij ___ om mee te gaan naar het feest.",
-        "answer": "weigert"
+        "word": "wil",
+        "definition": "Willen, iets graag willen",
+        "sentence": "Hij ___ een nieuwe fiets.",
+        "answer": "wil"
       },
       {
-        "word": "Frans",
-        "definition": "Van of uit Frankrijk",
-        "sentence": "De ___ keuken is bekend over de hele wereld.",
-        "answer": "Frans"
+        "word": "controle",
+        "definition": "Beheersing, beheer",
+        "sentence": "Hij heeft ___ over de auto.",
+        "answer": "controle"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij ___ om mee te gaan naar het feest.",
-        "answer": "weigert"
+        "sentence": "De kat ligt ___ de tafel.",
+        "answer": "onder"
       },
       {
-        "sentence": "In Nederland betaal je ___ over je inkomen.",
-        "answer": "belasting"
+        "sentence": "Ik lees het ___ elke dag.",
+        "answer": "nieuws"
       },
       {
-        "sentence": "Het ___ van Nederland heet de Tweede Kamer.",
-        "answer": "parlement"
+        "sentence": "Hij ___ een nieuwe fiets.",
+        "answer": "wil"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'aangenomen' in deze context?",
+      "question": "Wat wil Oekraïne doen met Pokrovsk?",
       "options": [
-        "Geaccepteerd",
-        "Geweigerd",
-        "Vergeten",
-        "Verboden"
+        "Vernietigen",
+        "Verkopen",
+        "Terugwinnen",
+        "Verliezen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Waar stemden de politici tegen?",
+      "question": "Waar is er oorlog?",
       "options": [
-        "Tegen een nieuwe belasting",
-        "Tegen een feest",
-        "Tegen een nieuwe wet voor scholen",
-        "Tegen de koning"
+        "Nederland",
+        "Duitsland",
+        "Oekraïne",
+        "Frankrijk"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de 'Assemblée nationale'?",
+      "question": "Wat betekent 'weer'?",
       "options": [
-        "Het Franse parlement",
-        "Een soort belasting",
-        "Een Frans restaurant",
-        "Een sportteam"
+        "Nooit",
+        "Weer (opnieuw)",
+        "Boven",
+        "Onder"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het Franse parlement heeft de belasting aangenomen.",
+      "statement": "Oekraïne heeft Pokrovsk al onder controle.",
       "isTrue": false
     },
     {
-      "statement": "Politici stemden tegen de nieuwe belasting.",
+      "statement": "Er is oorlog in Oekraïne.",
       "isTrue": true
     },
     {
-      "statement": "De Assemblée nationale is de regering van Frankrijk.",
+      "statement": "Nieuws apps geven updates over de oorlog.",
       "isTrue": true
     }
   ]

@@ -1,105 +1,105 @@
 {
-  "id": 9,
+  "id": 8,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Frans parlement verwerpt rijkenbelasting",
+  "title": "Oekraïne wil Pokrovsk weer onder controle krijgen",
   "topicNumber": 1,
   "article": {
-    "title": "Frans parlement verwerpt rijkenbelasting",
-    "summary": "De Assemblée nationale, het Franse parlement, heeft vrijdag voorstellen voor een belasting op de hoogste vermogens met een grote meerderheid verworpen."
+    "title": "Oekraïne wil Pokrovsk weer onder controle krijgen",
+    "summary": "Oekraïne wil de stad Pokrovsk weer onder controle krijgen. Dit is een belangrijke ontwikkeling in de oorlog. Volg het nieuws voor updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Frans",
-        "definition": "Betrekking hebbend op Frankrijk of zijn inwoners.",
-        "sentence": "Het ___ parlement heeft de wet aangenomen.",
-        "answer": "Frans"
+        "word": "Pokrovsk",
+        "definition": "Een stad in Oekraïne, nu belangrijk.",
+        "sentence": "De strijd om ___ is intens.",
+        "answer": "Pokrovsk"
       },
       {
-        "word": "rijk",
-        "definition": "Een land of gebied met eigen regels en een overheid.",
-        "sentence": "Het koninkrijk is een soevereine ___ met een monarch.",
-        "answer": "rijk"
+        "word": "ontwikkeling",
+        "definition": "Iets dat zich ontwikkelt of verandert, vaak vooruitgang.",
+        "sentence": "Deze ___ is positief voor Oekraïne.",
+        "answer": "ontwikkeling"
       },
       {
-        "word": "parlement",
-        "definition": "Een groep mensen die wetten maakt en beslissingen neemt voor een land.",
-        "sentence": "Het ___ van Frankrijk komt regelmatig bijeen.",
-        "answer": "parlement"
+        "word": "wil",
+        "definition": "Heeft als doel of verlangen.",
+        "sentence": "Hij ___ graag dat het stopt.",
+        "answer": "wil"
       },
       {
-        "word": "vermogens",
-        "definition": "Vermogens zijn bezittingen, vaak in de vorm van geld of eigendommen.",
-        "sentence": "De belasting is van toepassing op grote ___.",
-        "answer": "vermogens"
+        "word": "onder",
+        "definition": "Ondergeschikt aan of lager dan.",
+        "sentence": "Het valt ___ mijn verwachtingen.",
+        "answer": "onder"
       },
       {
-        "word": "belasting",
-        "definition": "Geld dat mensen of bedrijven moeten betalen aan de overheid.",
-        "sentence": "De ___ op inkomens is dit jaar verhoogd.",
-        "answer": "belasting"
+        "word": "weer",
+        "definition": "Opnieuw of opnieuw gebeuren.",
+        "sentence": "Hij probeerde het ___.",
+        "answer": "weer"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ van Frankrijk komt regelmatig bijeen.",
-        "answer": "parlement"
+        "sentence": "De strijd om ___ is intens.",
+        "answer": "Pokrovsk"
       },
       {
-        "sentence": "Het ___ parlement heeft de wet aangenomen.",
-        "answer": "Frans"
+        "sentence": "Deze ___ is positief voor Oekraïne.",
+        "answer": "ontwikkeling"
       },
       {
-        "sentence": "De ___ op inkomens is dit jaar verhoogd.",
-        "answer": "belasting"
+        "sentence": "Hij ___ graag dat het stopt.",
+        "answer": "wil"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is het Franse equivalent van het woord 'parlement'?",
+      "question": "Wat wil Oekraïne bereiken in Pokrovsk?",
       "options": [
-        "Assemblée",
-        "Parlement",
-        "Senat",
-        "Nationale Vergadering"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat betekent 'verwerpt' in deze context?",
-      "options": [
-        "Accepteert",
-        "Verwerpt",
-        "Wijzigt",
-        "Bevestigt"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is het hoofdonderwerp van het artikel?",
-      "options": [
-        "Belastingen",
-        "Wetgeving",
-        "Vermogens",
-        "Politiek"
+        "Vrede onderhandelen",
+        "Toerisme bevorderen",
+        "Controle herwinnen",
+        "Niets, het is al veilig"
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "Waarom is controle over Pokrovsk belangrijk?",
+      "options": [
+        "Voor de economie",
+        "Voor de bevolking",
+        "Als symbool van macht",
+        "Omdat het een mooie stad is"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Hoe volg je het nieuws over Oekraïne?",
+      "options": [
+        "Via sociale media",
+        "Door de app DS Nieuws",
+        "Alleen via de krant",
+        "Via officiële kanalen"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Franse regering heeft de belasting goedgekeurd.",
+      "statement": "Oekraïne heeft volledige controle over Pokrovsk.",
       "isTrue": false
     },
     {
-      "statement": "De belasting is alleen van toepassing op de allerrijksten.",
+      "statement": "De situatie in Oekraïne verandert snel.",
       "isTrue": true
     },
     {
-      "statement": "De beslissing is unaniem genomen.",
+      "statement": "Pokrovsk is de hoofdstad van Oekraïne.",
       "isTrue": false
     }
   ]

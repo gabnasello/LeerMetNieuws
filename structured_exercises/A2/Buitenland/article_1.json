@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Witte Huis beperkt toegang voor journalisten",
+  "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
   "topicNumber": 1,
   "article": {
-    "title": "Witte Huis beperkt toegang voor journalisten",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
+    "summary": "Zaterdagavond zijn meerdere mensen neergestoken in een trein die naar het Engelse Huntingdon reed. Dat meldt de Britse transportpolitie. Er zijn twee verdachten gearresteerd."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "updates",
-        "definition": "nieuwe informatie, het laatste nieuws",
-        "sentence": "Volg hier alle ___ over het nieuws.",
-        "answer": "updates"
+        "word": "trein",
+        "definition": "Voertuig dat rijdt op rails",
+        "sentence": "De ___ staat stil op het station.",
+        "answer": "trein"
       },
       {
-        "word": "wereldwijd",
-        "definition": "over de hele wereld",
-        "sentence": "De veranderingen zijn ___ voelbaar.",
-        "answer": "wereldwijd"
+        "word": "verdachten",
+        "definition": "Mensen die iets slechts hebben gedaan, denkt men",
+        "sentence": "De twee ___ zijn opgepakt door de politie.",
+        "answer": "verdachten"
       },
       {
-        "word": "Huis",
-        "definition": "een gebouw waar mensen wonen",
-        "sentence": "Het Witte ___ is waar de president werkt.",
-        "answer": "Huis"
+        "word": "Engeland",
+        "definition": "Land in Europa",
+        "sentence": "Londen is de hoofdstad van ___.",
+        "answer": "Engeland"
       },
       {
-        "word": "beperkt",
-        "definition": "niet veel, niet veel",
-        "sentence": "Toegang is ___ voor journalisten.",
-        "answer": "beperkt"
+        "word": "Huntingdon",
+        "definition": "Stad in Engeland",
+        "sentence": "___ is een plaats in Engeland.",
+        "answer": "Huntingdon"
       },
       {
-        "word": "Witte",
-        "definition": "een kleur, zoals wit",
-        "sentence": "De ___ Huis is in Washington.",
-        "answer": "Witte"
+        "word": "opgepakt",
+        "definition": "Gearresteerd, meegenomen door politie",
+        "sentence": "De agenten hebben de man ___.",
+        "answer": "opgepakt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Toegang is ___ voor journalisten.",
-        "answer": "beperkt"
+        "sentence": "___ is een plaats in Engeland.",
+        "answer": "Huntingdon"
       },
       {
-        "sentence": "De veranderingen zijn ___ voelbaar.",
-        "answer": "wereldwijd"
+        "sentence": "De twee ___ zijn opgepakt door de politie.",
+        "answer": "verdachten"
       },
       {
-        "sentence": "De ___ Huis is in Washington.",
-        "answer": "Witte"
+        "sentence": "Londen is de hoofdstad van ___.",
+        "answer": "Engeland"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar werkt de president van Amerika?",
+      "question": "Waar gebeurde het incident met de steekpartij?",
       "options": [
-        "In het Witte Huis",
-        "In het Rode Huis",
-        "In het Blauwe Huis",
-        "In het Groene Huis"
+        "In een trein",
+        "In een bus",
+        "Op straat",
+        "In een park"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat betekent 'beperkt' in deze context?",
+      "question": "Wie zijn de verdachten volgens de tekst?",
       "options": [
-        "Niet veel, gelimiteerd",
-        "Heel veel",
-        "Onbeperkt",
-        "Gesloten"
+        "Twee mannen",
+        "Twee vrouwen",
+        "Een man en een vrouw",
+        "Niet vermeld"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is een 'update' in dit artikel?",
+      "question": "Wat is de rol van de politie in dit bericht?",
       "options": [
-        "Het laatste nieuws",
-        "Een oude krant",
-        "Een foto",
-        "Een video"
+        "Zij arresteerden twee mensen",
+        "Zij waren slachtoffer",
+        "Zij deden niks",
+        "Zij startten de aanval"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Journalisten mogen altijd in het Witte Huis komen.",
-      "isTrue": false
-    },
-    {
-      "statement": "Donald Trump is de president van Amerika.",
+      "statement": "Het incident vond plaats in een trein in Engeland.",
       "isTrue": true
     },
     {
-      "statement": "De veranderingen zijn alleen in Amerika.",
+      "statement": "Er is slechts één verdachte gearresteerd.",
       "isTrue": false
+    },
+    {
+      "statement": "De politie heeft de twee verdachten gearresteerd.",
+      "isTrue": true
     }
   ]
 }

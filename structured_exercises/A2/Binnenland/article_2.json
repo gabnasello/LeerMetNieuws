@@ -1,105 +1,105 @@
 {
-  "id": 25,
+  "id": 24,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Lawaai van trams in Gent",
+  "title": "Drones boven militaire basis",
   "topicNumber": 1,
   "article": {
-    "title": "Lawaai van trams in Gent",
-    "summary": "In Gent maken trams veel lawaai. Bewoners kunnen niet slapen. De rechter wil dat De Lijn, de trammaatschappij, de overlast vermindert."
+    "title": "Drones boven militaire basis",
+    "summary": "Er zijn drones gezien boven een militaire basis. Minister Francken heeft maatregelen tegen drones."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Lawaai",
-        "definition": "veel geluid, vaak onaangenaam",
-        "sentence": "De tram maakt veel ___.",
-        "answer": "lawaai"
+        "word": "militaire",
+        "definition": "van of over het leger",
+        "sentence": "De ___ basis is beveiligd.",
+        "answer": "militaire"
       },
       {
-        "word": "Bewoners",
-        "definition": "mensen die in een huis of gebied wonen",
-        "sentence": "De ___ van de straat klagen over het geluid.",
-        "answer": "bewoners"
+        "word": "minister",
+        "definition": "een belangrijk persoon in de regering",
+        "sentence": "De ___ van Defensie heeft een plan.",
+        "answer": "minister"
       },
       {
-        "word": "Trams",
-        "definition": "een soort trein of voertuig dat op straat rijdt, vaak elektrisch",
-        "sentence": "De ___ in Gent rijden dag en nacht.",
-        "answer": "trams"
+        "word": "maatregelen",
+        "definition": "acties of stappen die worden genomen",
+        "sentence": "De minister heeft ___ genomen tegen de drones.",
+        "answer": "maatregelen"
       },
       {
-        "word": "Overlast",
-        "definition": "iets dat vervelend of storend is",
-        "sentence": "De bewoners hebben last van de ___.",
-        "answer": "overlast"
+        "word": "basis",
+        "definition": "een plek of locatie",
+        "sentence": "De militaire ___ is in België.",
+        "answer": "basis"
       },
       {
-        "word": "Rechter",
-        "definition": "een persoon die beslist in een rechtszaak",
-        "sentence": "De ___ heeft De Lijn bevolen om de overlast te verminderen.",
-        "answer": "rechter"
+        "word": "drones",
+        "definition": "kleine vliegende machines",
+        "sentence": "Er zijn ___ waargenomen boven de basis.",
+        "answer": "drones"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ in Gent rijden dag en nacht.",
-        "answer": "trams"
+        "sentence": "Er zijn ___ waargenomen boven de basis.",
+        "answer": "drones"
       },
       {
-        "sentence": "De tram maakt veel ___.",
-        "answer": "lawaai"
+        "sentence": "De minister heeft ___ genomen tegen de drones.",
+        "answer": "maatregelen"
       },
       {
-        "sentence": "De ___ van de straat klagen over het geluid.",
-        "answer": "bewoners"
+        "sentence": "De ___ basis is beveiligd.",
+        "answer": "militaire"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom zijn de bewoners van de Bernard Spaelaan ontevreden?",
+      "question": "Waar zijn drones waargenomen?",
       "options": [
-        "De trams rijden te snel",
-        "De trams maken te veel lawaai",
-        "De trams rijden niet vaak genoeg",
-        "De trams zijn te oud"
+        "In een park",
+        "Boven een militaire basis",
+        "In de stad",
+        "Bij een school"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat heeft de rechter beslist?",
+      "question": "Wat doet minister Francken?",
       "options": [
-        "De Lijn moet de trams stiller maken",
-        "De Lijn moet de trams sneller laten rijden",
-        "De Lijn moet de trams uit de stad halen",
-        "De Lijn moet meer trams inzetten"
+        "Hij speelt thuis",
+        "Hij heeft maatregelen genomen",
+        "Hij reist naar de maan",
+        "Hij leest een boek"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is het gevolg van de rechter's besluit?",
+      "question": "Wanneer bespreekt de ministerraad het plan?",
       "options": [
-        "De bewoners zijn nu helemaal wakker",
-        "De Lijn negeert de rechter",
-        "De Lijn moet de overlast verminderen",
-        "De trams rijden nu nog harder"
+        "Morgen",
+        "Over een week",
+        "Vrijdag",
+        "Volgende maand"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De bewoners van de Bernard Spaelaan zijn blij met de trams.",
+      "statement": "Drones zijn grote vliegtuigen.",
       "isTrue": false
     },
     {
-      "statement": "De rechter heeft De Lijn gevraagd om de overlast te verminderen.",
+      "statement": "Minister Francken heeft maatregelen genomen tegen drones.",
       "isTrue": true
     },
     {
-      "statement": "De trams in Gent rijden alleen overdag.",
+      "statement": "De ministerraad bespreekt het plan op zaterdag.",
       "isTrue": false
     }
   ]

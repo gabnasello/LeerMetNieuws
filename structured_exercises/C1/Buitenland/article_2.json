@@ -1,94 +1,106 @@
 {
-  "id": 15,
+  "id": 13,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Pentagon gave green light for Tomahawks, decision lies in Trump's hands",
+  "title": "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
   "topicNumber": 1,
   "article": {
-    "title": "Pentagon gave green light for Tomahawks, decision lies in Trump's hands",
-    "summary": "Follow all recent developments in the war in Ukraine. Download the DS News app and get notified for important updates."
+    "title": "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
+    "summary": "Waar zijn de Russische soldaten? Dat is de vraag voor de Oekraïense verdediging in Pokrovsk. De strategisch belangrijke stad dreigt te vallen door een nieuwe Russische manier van oorlogvoeren."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Pentagon",
-        "definition": "Het Amerikaanse ministerie van defensie, gevestigd in Washington D.C.",
-        "sentence": "Het ___ heeft de goedkeuring gegeven voor de levering van nieuwe wapens.",
-        "answer": "Pentagon"
+        "word": "verdediging",
+        "definition": "het beschermen tegen aanvallen",
+        "sentence": "De verdediging van Pokrovsk is cruciaal.",
+        "answer": "verdediging"
       },
       {
-        "word": "Tomahawks",
-        "definition": "Een type geleide raketten, vaak gebruikt voor langeafstandsaanvallen.",
-        "sentence": "De Verenigde Staten overwegen de levering van extra ___ aan Oekraïne.",
-        "answer": "Tomahawks"
+        "word": "vraag",
+        "definition": "een vraag of verzoek om informatie",
+        "sentence": "Dat is de ___ voor de Oekraïense verdediging.",
+        "answer": "vraag"
       },
       {
-        "word": "Trump",
-        "definition": "De voormalige president van de Verenigde Staten.",
-        "sentence": "___ zal de uiteindelijke beslissing nemen over de wapens.",
-        "answer": "Trump"
+        "word": "zijn",
+        "definition": "bestaan of aanwezig zijn",
+        "sentence": "Waar zijn de Russische soldaten?",
+        "answer": "zijn"
+      },
+      {
+        "word": "Russische",
+        "definition": "betrekking hebbend op Rusland",
+        "sentence": "De ___ soldaten zijn niet zichtbaar, maar hun tactiek is duidelijk.",
+        "answer": "Russische"
+      },
+      {
+        "word": "oorlogvoeren",
+        "definition": "het voeren van oorlog, oorlog voeren",
+        "sentence": "De nieuwe manier van ___ is effectief maar gevaarlijk.",
+        "answer": "oorlogvoeren"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ heeft de goedkeuring gegeven voor de levering van nieuwe wapens.",
-        "answer": "Pentagon"
+        "sentence": "De verdediging van Pokrovsk is cruciaal.",
+        "answer": "verdediging"
       },
       {
-        "sentence": "___ zal de uiteindelijke beslissing nemen over de wapens.",
-        "answer": "Trump"
+        "sentence": "Dat is de ___ voor de Oekraïense verdediging.",
+        "answer": "vraag"
       },
       {
-        "sentence": "De Verenigde Staten overwegen de levering van extra ___ aan Oekraïne.",
-        "answer": "Tomahawks"
+        "sentence": "De ___ soldaten zijn niet zichtbaar, maar hun tactiek is duidelijk.",
+        "answer": "Russische"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'groen licht geven' in deze context?",
+      "question": "Waar zijn de Russische soldaten volgens de tekst?",
       "options": [
-        "Goedkeuring verlenen",
-        "Een lamp vervangen",
-        "Stoppen met een activiteit",
-        "Een kleur kiezen"
+        "Niet zichtbaar in de stad",
+        "Alleen in Pokrovsk",
+        "Overal in Oekraïne",
+        "Alleen in Moskou"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waar verwijst 'Tomahawks' in de titel naar?",
+      "question": "Wat is het gevolg van de nieuwe Russische tactiek?",
       "options": [
-        "Een soort voedsel",
-        "Een type auto",
-        "Een merk van sportartikelen",
-        "Een type raketten"
-      ],
-      "correctAnswer": 4
-    },
-    {
-      "question": "Wat is de rol van Trump in deze situatie?",
-      "options": [
-        "Hij is de uiteindelijke beslisser",
-        "Hij is een toeschouwer",
-        "Hij is een atleet",
-        "Hij is een leraar"
+        "Pokrovsk valt snel",
+        "Oekraïne wint de oorlog",
+        "De soldaten keren terug",
+        "Er is geen effect"
       ],
       "correctAnswer": 1
+    },
+    {
+      "question": "Wat is de hoofdgedachte van de tekst?",
+      "options": [
+        "Oekraïne verliest snel",
+        "De vraag naar soldaten is cruciaal",
+        "Rusland gebruikt nieuwe methoden",
+        "Pokrovsk is al gevallen"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Verenigde Staten hebben al Tomahawks geleverd aan Oekraïne.",
+      "statement": "De Russische soldaten zijn duidelijk zichtbaar in Pokrovsk.",
       "isTrue": false
     },
     {
-      "statement": "Trump heeft de laatste beslissingsbevoegdheid over deze wapenzending.",
+      "statement": "De nieuwe Russische tactiek veroorzaakt dat Pokrovk dreigt te vallen.",
       "isTrue": true
     },
     {
-      "statement": "De oorlog in Oekraïne is al beëindigd.",
-      "isTrue": false
+      "statement": "De tekst is voornamelijk gericht op de locatie van de Russische soldaten.",
+      "isTrue": true
     }
   ]
 }

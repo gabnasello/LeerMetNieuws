@@ -1,105 +1,105 @@
 {
-  "id": 14,
+  "id": 12,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Oorlog in Oekraïne: recente ontwikkelingen",
+  "title": "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
   "topicNumber": 1,
   "article": {
-    "title": "Oorlog in Oekraïne: recente ontwikkelingen",
-    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+    "title": "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
+    "summary": "Waar zijn de Russische soldaten? Dat is de vraag voor de Oekraïense verdediging in Pokrovsk. De strategisch belangrijke stad dreigt te vallen door een nieuwe Russische manier van oorlogvoeren."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "app",
-        "definition": "een applicatie op je telefoon of computer, vaak afkorting van application",
-        "sentence": "Download de ___ om op de hoogte te blijven.",
-        "answer": "app"
+        "word": "dreigt",
+        "definition": "Lijkt waarschijnlijk te gebeuren, vaak iets negatiefs.",
+        "sentence": "De stad ___ in te nemen door de vijand.",
+        "answer": "dreigt"
       },
       {
-        "word": "oorlog",
-        "definition": "een gewapend conflict tussen landen of groepen",
-        "sentence": "De ___ in Oekraïne duurt nu al maanden.",
-        "answer": "oorlog"
+        "word": "zijn",
+        "definition": "Koppelwerkwoord dat iets beschrijft of iemand identificeert.",
+        "sentence": "Waar ___ de Russische soldaten? Ze zijn niet zichtbaar.",
+        "answer": "zijn"
       },
       {
-        "word": "melding",
-        "definition": "een bericht of signaal dat je informeert",
-        "sentence": "Krijg een ___ wanneer er belangrijk nieuws is.",
-        "answer": "melding"
+        "word": "strategisch",
+        "definition": "Betrekking hebbend op een plan of methode om een doel te bereiken.",
+        "sentence": "De ___ ligging maakt de stad belangrijk.",
+        "answer": "strategisch"
       },
       {
-        "word": "Oekraïne",
-        "definition": "een land in Oost-Europa",
-        "sentence": "___ wordt momenteel zwaar getroffen door de oorlog.",
-        "answer": "Oekraïne"
+        "word": "vraag",
+        "definition": "Een verzoek om informatie of een reactie.",
+        "sentence": "De belangrijkste ___ is waar de vijand zich bevindt.",
+        "answer": "vraag"
       },
       {
-        "word": "ontwikkelingen",
-        "definition": "gebeurtenissen of veranderingen in een situatie",
-        "sentence": "De recente ___ in de oorlog zijn belangrijk om te volgen.",
-        "answer": "ontwikkelingen"
+        "word": "Russische",
+        "definition": "Betrekking hebbend op Rusland of de Russen.",
+        "sentence": "De ___ soldaten gebruiken een nieuwe tactiek.",
+        "answer": "Russische"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ wordt momenteel zwaar getroffen door de oorlog.",
-        "answer": "Oekraïne"
+        "sentence": "De stad ___ in te nemen door de vijand.",
+        "answer": "dreigt"
       },
       {
-        "sentence": "Krijg een ___ wanneer er belangrijk nieuws is.",
-        "answer": "melding"
+        "sentence": "Waar ___ de Russische soldaten? Ze zijn niet zichtbaar.",
+        "answer": "zijn"
       },
       {
-        "sentence": "Download de ___ om op de hoogte te blijven.",
-        "answer": "app"
+        "sentence": "De ___ soldaten gebruiken een nieuwe tactiek.",
+        "answer": "Russische"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het om een app te downloaden?",
+      "question": "Waarom is de locatie van de Russische soldaten een vraag voor de Oekraïense verdediging?",
       "options": [
-        "Een app verwijderen van je telefoon",
-        "Een app installeren vanaf het internet",
-        "Een app negeren op je scherm",
-        "Een app deactiveren in je instellingen"
+        "Omdat het de verdediging verzwakt als de vijand onzichtbaar is.",
+        "Omdat de Oekraïense soldaten niet weten waar te schieten.",
+        "Omdat de Russen een nieuwe tactiek gebruiken die de Oekraïners verrast.",
+        "Omdat de stad Pokrovsk dreigt te vallen door deze onzekerheid."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     },
     {
-      "question": "Waarom is het belangrijk om het nieuws te volgen?",
+      "question": "Wat is de nieuwe tactiek van de Russische soldaten?",
       "options": [
-        "Om oude informatie te hergebruiken",
-        "Om op de hoogte te blijven van actuele gebeurtenissen",
-        "Om je telefoon op te laden",
-        "Om meer vrienden te krijgen op sociale media"
+        "Ze vallen aan zonder zich te verstoppen.",
+        "Ze gebruiken drones om de Oekraïense posities te lokaliseren.",
+        "Ze concentreren hun aanval op één zwak punt in de verdediging.",
+        "Ze vermijden directe confrontaties en vallen vanuit onverwachte hoeken aan."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     },
     {
-      "question": "Wat is een voorbeeld van een actuele gebeurtenis?",
+      "question": "Wat is het gevolg als Pokrovsk valt?",
       "options": [
-        "De uitvinding van de telefoon in 1876",
-        "De eerste mens op de maan in 1969",
-        "Een recente ontwikkelingen in de oorlog in Oekraïne",
-        "De val van het Romeinse Rijk in 476 AD"
+        "Het heeft geen strategisch belang, dus weinig effect.",
+        "De Russen krijgen toegang tot belangrijke transportroutes.",
+        "De Oekraïense moreel wordt onmiddellijk gebroken.",
+        "De oorlog wordt meteen gewonnen door Rusland."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De oorlog in Oekraïne is al enkele maanden aan de gang.",
+      "statement": "Pokrovsk is een stad met groot strategisch belang in de oorlog.",
       "isTrue": true
     },
     {
-      "statement": "Het is niet nodig om het nieuws te volgen om op de hoogte te blijven.",
+      "statement": "De Russische soldaten gebruiken een nieuwe tactiek, maar deze is al volledig bekend bij de Oekraïense verdediging.",
       "isTrue": false
     },
     {
-      "statement": "Apps kunnen je helpen om informatie te krijgen.",
+      "statement": "Als Pokrovsk valt, heeft dat directe gevolgen voor het hele front.",
       "isTrue": true
     }
   ]

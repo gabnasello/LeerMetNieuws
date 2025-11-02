@@ -1,106 +1,106 @@
 {
-  "id": 22,
+  "id": 21,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
+  "title": "Weinig zon in oktober, maar bijna een record",
   "topicNumber": 1,
   "article": {
-    "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
-    "summary": "Zeventig procent van de producten die Testaankoop samen met buitenlandse consumentenorganisaties kocht bij webwinkels Shein en Temu, voldoet niet aan de Europese veiligheidsregels. Sommige goedkope sieraden en babyspeeltjes blijken zelfs gevaarlijk. “We hebben meteen alles offline gehaald”, reageren Shein en Temu."
+    "title": "Weinig zon in oktober, maar bijna een record",
+    "summary": "De maand oktober had weinig zon, maar het was net geen record. Alleen in 1998 was er nog minder zon. Het goede nieuws is dat het woensdag warm wordt."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "roulette",
-        "definition": "een kansspel, vaak in een casino",
-        "sentence": "Hij zette al zijn geld in op één nummer bij ___.",
-        "answer": "roulette"
+        "word": "maand",
+        "definition": "een van de twaalf periodes in een jaar",
+        "sentence": "De maand oktober was erg regenachtig.",
+        "answer": "maand"
       },
       {
-        "word": "start",
-        "definition": "beginnen",
-        "sentence": "De vergadering ___ om 10 uur.",
-        "answer": "start"
+        "word": "zon",
+        "definition": "de ster die licht en warmte geeft",
+        "sentence": "Er was weinig ___ in oktober.",
+        "answer": "zon"
       },
       {
-        "word": "producten",
-        "definition": "dingen die je kunt kopen, zoals spullen of goederen",
-        "sentence": "De supermarkt verkoopt veel verschillende ___.",
-        "answer": "producten"
+        "word": "record",
+        "definition": "een prestatie die beter is dan alle anderen",
+        "sentence": "Het was bijna een nieuw ___.",
+        "answer": "record"
       },
       {
-        "word": "consumentenorganisaties",
-        "definition": "groepen die opkomen voor de belangen van kopers, van consumenten",
-        "sentence": "De Consumentenbond is een bekende ___.",
-        "answer": "consumentenorganisaties"
+        "word": "goed",
+        "definition": "van goede kwaliteit, positief",
+        "sentence": "Het ___ nieuws is dat het warmer wordt.",
+        "answer": "goed"
       },
       {
-        "word": "veiligheid",
-        "definition": "dat iets of iemand veilig is, zonder gevaar",
-        "sentence": "De ___ op de werkvloer is erg belangrijk.",
-        "answer": "veiligheid"
+        "word": "warm",
+        "definition": "een hoge temperatuur hebbend",
+        "sentence": "Het wordt ___ en zonnig op woensdag.",
+        "answer": "warm"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij zette al zijn geld in op één nummer bij ___.",
-        "answer": "roulette"
+        "sentence": "De maand oktober was erg regenachtig.",
+        "answer": "maand"
       },
       {
-        "sentence": "De vergadering ___ om 10 uur.",
-        "answer": "start"
+        "sentence": "Er was weinig ___ in oktober.",
+        "answer": "zon"
       },
       {
-        "sentence": "De Consumentenbond is een bekende ___.",
-        "answer": "consumentenorganisaties"
+        "sentence": "Het was bijna een nieuw ___.",
+        "answer": "record"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom is het belangrijk dat producten voldoen aan veiligheidsregels?",
+      "question": "Wat was bijzonder aan de maand oktober dit jaar?",
       "options": [
-        "Omdat het dan lichter weegt",
-        "Omdat het dan meer kost",
-        "Omdat het dan veilig is voor gebruik",
-        "Omdat het dan mooier is"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat deden Shein en Temu nadat de problemen bekend werden?",
-      "options": [
-        "Ze gaven meer korting",
-        "Ze haalden de producten offline",
-        "Ze stopten met verkopen",
-        "Ze verhoogden de prijzen"
+        "Het was de warmste ooit",
+        "Er was erg weinig zon",
+        "Het regende elke dag",
+        "De zon scheen de hele maand"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een voorbeeld van een gevaarlijk product?",
+      "question": "Welk record werd bijna gebroken in oktober?",
       "options": [
-        "Een fiets met goede remmen",
-        "Een speelgoed dat niet stukgaat",
-        "Een sieraad met losse onderdelen",
-        "Een speelgoed dat zacht is"
+        "Het aantal uren zon",
+        "De hoeveelheid regen",
+        "De gemiddelde temperatuur",
+        "De hoeveelheid sneeuw"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is het goede nieuws volgens het artikel?",
+      "options": [
+        "Het wordt kouder",
+        "Het gaat regenen",
+        "Het wordt warmer",
+        "Er komt sneeuw"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Testaankoop kocht producten bij Shein en Temu om ze te testen.",
-      "isTrue": true
-    },
-    {
-      "statement": "Alle producten van Shein en Temu zijn veilig volgens Europese regels.",
+      "statement": "Oktober 2023 had meer zon dan oktober 1998.",
       "isTrue": false
     },
     {
-      "statement": "Shein en Temu hebben de onveilige producten offline gehaald.",
+      "statement": "Woensdag wordt het warm en zonnig.",
       "isTrue": true
+    },
+    {
+      "statement": "Oktober 2023 brak het record voor minste zon.",
+      "isTrue": false
     }
   ]
 }

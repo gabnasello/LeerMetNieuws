@@ -1,105 +1,105 @@
 {
-  "id": 25,
+  "id": 23,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Politie en protest",
+  "title": "Drones boven militaire basis",
   "topicNumber": 1,
   "article": {
-    "title": "Politie en protest",
-    "summary": "De politie en mensen op straat hebben problemen. De politie gebruikt geweld. Een groep vraagt om onderzoek."
+    "title": "Drones boven militaire basis",
+    "summary": "Drones zijn gezien boven een legerbasis. Minister Francken heeft plannen tegen drones."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "vraagt",
-        "definition": "vraagt om iets",
-        "sentence": "Hij ___ om hulp.",
-        "answer": "vraagt"
+        "word": "Basis",
+        "definition": "een plaats waar mensen werken of wonen",
+        "sentence": "Soldaten leven en werken op een militaire ___.",
+        "answer": "Basis"
       },
       {
-        "word": "geweld",
-        "definition": "slecht en hard gedrag",
-        "sentence": "Soms is er ___ op straat.",
-        "answer": "geweld"
+        "word": "Tegen",
+        "definition": "tegen iets of iemand zijn",
+        "sentence": "Hij is ___ het plan.",
+        "answer": "Tegen"
       },
       {
-        "word": "straat",
-        "definition": "weg in een stad of dorp",
-        "sentence": "Kinderen spelen op de ___.",
-        "answer": "straat"
+        "word": "Plannen",
+        "definition": "ideeën voor de toekomst",
+        "sentence": "De overheid heeft nieuwe ___.",
+        "answer": "Plannen"
       },
       {
-        "word": "politie",
-        "definition": "mensen die de wet handhaven",
-        "sentence": "De ___ helpt mensen.",
-        "answer": "politie"
+        "word": "Boven",
+        "definition": "ergens boven, niet onder",
+        "sentence": "De vogel vliegt ___ het huis.",
+        "answer": "Boven"
       },
       {
-        "word": "groep",
-        "definition": "meerdere personen samen",
-        "sentence": "Een ___ mensen liep naar het park.",
-        "answer": "groep"
+        "word": "Gezien",
+        "definition": "iets met je ogen waarnemen",
+        "sentence": "Ik heb dat film ___.",
+        "answer": "Gezien"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ helpt mensen.",
-        "answer": "politie"
+        "sentence": "Ik heb dat film ___.",
+        "answer": "Gezien"
       },
       {
-        "sentence": "Een ___ mensen liep naar het park.",
-        "answer": "groep"
+        "sentence": "De vogel vliegt ___ het huis.",
+        "answer": "Boven"
       },
       {
-        "sentence": "Kinderen spelen op de ___.",
-        "answer": "straat"
+        "sentence": "Soldaten leven en werken op een militaire ___.",
+        "answer": "Basis"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Wat is een drone?",
       "options": [
-        "Politie die geweld gebruikt",
-        "Mensen die dansen",
-        "Kinderen die leren",
-        "Feest in de stad"
+        "Een soort auto",
+        "Een vliegend apparaat",
+        "Een soort boom",
+        "Een soort boek"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat doet de groep?",
+      "question": "Wat doet de minister?",
       "options": [
-        "Vraagt om onderzoek",
-        "Gaat naar huis",
-        "Koopt eten",
-        "Speelt buiten"
+        "Hij rijdt een auto",
+        "Hij eet een appel",
+        "Hij maakt plannen",
+        "Hij speelt buiten"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is het probleem?",
+      "question": "Waar zijn de drones gezien?",
       "options": [
-        "Politie gebruikt geweld",
-        "Er is geen water",
-        "Iemand is alleen",
-        "Het weer is koud"
+        "In de stad",
+        "Op de maan",
+        "Boven een militaire basis",
+        "In een rivier"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De politie gebruikt geweld.",
-      "isTrue": true
-    },
-    {
-      "statement": "Iedereen is thuis.",
+      "statement": "Drones zijn grote vliegtuigen.",
       "isTrue": false
     },
     {
-      "statement": "Een groep vraagt om onderzoek.",
+      "statement": "De minister heeft nieuwe plannen.",
+      "isTrue": true
+    },
+    {
+      "statement": "Drones zijn verboden boven de stad.",
       "isTrue": true
     }
   ]

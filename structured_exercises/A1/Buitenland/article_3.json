@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Frans parlement neemt belasting af",
+  "title": "Oekraïne en Rusland",
   "topicNumber": 1,
   "article": {
-    "title": "Frans parlement neemt belasting af",
-    "summary": "Frankrijk heeft een belasting voor rijke mensen. Het parlement verwerpt deze belasting."
+    "title": "Oekraïne en Rusland",
+    "summary": "Oekraïne en Rusland zijn in oorlog. Lees hier het laatste nieuws."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Frans",
-        "definition": "van of uit Frankrijk",
-        "sentence": "De ___ keuken is bekend.",
-        "answer": "Frans"
+        "word": "Oekraïne",
+        "definition": "een land",
+        "sentence": "___ is een land.",
+        "answer": "Oekraïne"
       },
       {
-        "word": "parlement",
-        "definition": "een groep mensen die wetten maakt",
-        "sentence": "Het ___ komt elke dag bijeen.",
-        "answer": "parlement"
+        "word": "Rusland",
+        "definition": "een ander land",
+        "sentence": "___ is ook een land.",
+        "answer": "Rusland"
       },
       {
-        "word": "verwerpt",
-        "definition": "niet accepteren, weigeren",
-        "sentence": "De groep ___ het voorstel.",
-        "answer": "verwerpt"
+        "word": "oorlog",
+        "definition": "vechten tussen landen",
+        "sentence": "Er is nu ___ in Oekraïne.",
+        "answer": "oorlog"
       },
       {
-        "word": "belasting",
-        "definition": "geld dat je aan de overheid betaalt",
-        "sentence": "Ik betaal ___ over mijn inkomen.",
-        "answer": "belasting"
+        "word": "nieuws",
+        "definition": "informatie over wat er gebeurt",
+        "sentence": "Het ___ zegt wat er gebeurt.",
+        "answer": "nieuws"
       },
       {
-        "word": "rijk",
-        "definition": "iemand met veel geld",
-        "sentence": "Hij is erg ___ en heeft een groot huis.",
-        "answer": "rijk"
+        "word": "zijn",
+        "definition": "bestaan of voorkomen",
+        "sentence": "Ze ___ in Oekraïne.",
+        "answer": "zijn"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De groep ___ het voorstel.",
-        "answer": "verwerpt"
+        "sentence": "___ is een land.",
+        "answer": "Oekraïne"
       },
       {
-        "sentence": "De ___ keuken is bekend.",
-        "answer": "Frans"
+        "sentence": "Er is nu ___ in Oekraïne.",
+        "answer": "oorlog"
       },
       {
-        "sentence": "Ik betaal ___ over mijn inkomen.",
-        "answer": "belasting"
+        "sentence": "Het ___ zegt wat er gebeurt.",
+        "answer": "nieuws"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Wat is Oekraïne?",
       "options": [
-        "Een feest in Frankrijk",
-        "Een nieuwe belasting voor rijke mensen",
-        "Een sportevenement",
-        "Een nieuwe wet voor alle mensen"
+        "Een stad",
+        "Een land",
+        "Een rivier",
+        "Een auto"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat doet het parlement met de belasting?",
+      "question": "Waar is de oorlog?",
       "options": [
-        "Ze accepteren het",
-        "Ze weigeren het",
-        "Ze veranderen het",
-        "Ze vergeten het"
+        "In Rusland",
+        "In Duitsland",
+        "In Oekraïne",
+        "In Frankrijk"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de 'rijkentaks'?",
+      "question": "Wat is 'lezen'?",
       "options": [
-        "Een belasting voor rijke mensen",
-        "Een nieuwe stad",
-        "Een Franse dans",
-        "Een soort voedsel"
+        "Een soort sport",
+        "Iets wat je met boeken doet",
+        "Een soort eten",
+        "Een land"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Frankrijk heeft een parlement.",
-      "isTrue": true
-    },
-    {
-      "statement": "De belasting is voor arme mensen.",
+      "statement": "Oekraïne is een stad.",
       "isTrue": false
     },
     {
-      "statement": "Het parlement neemt de belasting niet aan.",
+      "statement": "Rusland en Oekraïne zijn in oorlog.",
+      "isTrue": true
+    },
+    {
+      "statement": "Je kunt nieuws lezen in een app.",
       "isTrue": true
     }
   ]

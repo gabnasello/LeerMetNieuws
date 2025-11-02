@@ -1,106 +1,106 @@
 {
-  "id": 27,
+  "id": 26,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Gentse ‘tramterreur’ houdt buurtbewoners wakker: “Waarom zo veel, zo laat, en zo luid?”",
+  "title": "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
   "topicNumber": 1,
   "article": {
-    "title": "Gentse ‘tramterreur’ houdt buurtbewoners wakker: “Waarom zo veel, zo laat, en zo luid?”",
-    "summary": "In de Gentse Bernard Spaelaan zijn de bewoners de wanhoop nabij: sinds een paar maanden denderen per dag zo’n 700 trams aan 100 decibel door de straat. De vrederechter vraagt De Lijn de overlast te verminderen."
+    "title": "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
+    "summary": "Ook vanavond zijn boven de militaire basis van Kleine-Brogel drones waargenomen. Vrijdag bespreekt de ministerraad het 'counterdronedossier' van Defensieminister Theo Francken (N-VA)."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "verminderen",
-        "definition": "minder maken of doen afnemen",
-        "sentence": "De trammaatschappij moet de overlast proberen te ___.",
-        "answer": "verminderen"
+        "word": "ministerraad",
+        "definition": "De ministerraad is een vergadering van alle ministers van de regering.",
+        "sentence": "De ___ komt elke vrijdag bijeen om belangrijke zaken te bespreken.",
+        "answer": "ministerraad"
       },
       {
-        "word": "wanhoop",
-        "definition": "een gevoel van hopeloosheid of geen uitweg meer zien",
-        "sentence": "De bewoners zijn ten einde raad en voelen diepe ___.",
-        "answer": "wanhoop"
+        "word": "defensie",
+        "definition": "Defensie is de bescherming van een land tegen aanvallen of gevaren.",
+        "sentence": "Nederland investeert veel in zijn ___ om het land veilig te houden.",
+        "answer": "defensie"
       },
       {
-        "word": "bewoners",
-        "definition": "mensen die in een bepaald gebied wonen",
-        "sentence": "De ___ van de straat worden wakker gehouden door het lawaai.",
-        "answer": "bewoners"
+        "word": "bespreekt",
+        "definition": "Bespreekt betekent dat er over iets wordt gesproken of gediscussieerd.",
+        "sentence": "De manager ___ de nieuwe projecten met het team.",
+        "answer": "bespreekt"
       },
       {
-        "word": "vrederechter",
-        "definition": "een rechter die zich bezighoudt met geschillen tussen burgers, niet met strafrecht",
-        "sentence": "De ___ heeft een oplossing gevraagd voor het geluidsoverlast.",
-        "answer": "vrederechter"
+        "word": "tegenmaatregelen",
+        "definition": "Maatregelen zijn plannen of acties die genomen worden om een probleem op te lossen.",
+        "sentence": "De regering kondigt nieuwe ___ aan om de stijgende inflatie tegen te gaan.",
+        "answer": "tegenmaatregelen"
       },
       {
-        "word": "bewoners",
-        "definition": "mensen die in een bepaald gebied of huis wonen",
-        "sentence": "De ___ hebben een klacht ingediend over het lawaai.",
-        "answer": "bewoners"
+        "word": "basis",
+        "definition": "Een basis is een fundamenteel onderdeel of de ondersteuning voor iets.",
+        "sentence": "De soldaten keerden terug naar hun ___ na de missie.",
+        "answer": "basis"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ van de straat worden wakker gehouden door het lawaai.",
-        "answer": "bewoners"
+        "sentence": "Nederland investeert veel in zijn ___ om het land veilig te houden.",
+        "answer": "defensie"
       },
       {
-        "sentence": "De bewoners zijn ten einde raad en voelen diepe ___.",
-        "answer": "wanhoop"
+        "sentence": "De regering kondigt nieuwe ___ aan om de stijgende inflatie tegen te gaan.",
+        "answer": "tegenmaatregelen"
       },
       {
-        "sentence": "De trammaatschappij moet de overlast proberen te ___.",
-        "answer": "verminderen"
+        "sentence": "De manager ___ de nieuwe projecten met het team.",
+        "answer": "bespreekt"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom zijn de bewoners van de Bernard Spaelaan wakker?",
+      "question": "Wat is de rol van de ministerraad in deze context?",
       "options": [
-        "Door het lawaai van de trams",
-        "Door te veel koffie drinken",
-        "Omdat ze nachtwerkers zijn",
-        "Omdat ze aan het feesten zijn"
+        "Ze bespreken het 'counterdronedossier'.",
+        "Ze organiseren demonstraties tegen drones.",
+        "Ze bouwen nieuwe militaire bases.",
+        "Ze geven gratis drones aan burgers."
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat heeft de vrederechter gevraagd aan De Lijn?",
+      "question": "Waar is de militaire basis Kleine-Brogel gelegen?",
       "options": [
-        "Om de trams te stoppen",
-        "Om de trams stiller te maken",
-        "Om de bewoners te verhuizen",
-        "Om de klokken te luiden"
+        "In Nederland",
+        "In België",
+        "In Duitsland",
+        "In Frankrijk"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoeveel trams rijden er per dag door de straat?",
+      "question": "Wat is een 'counterdronedossier'?",
       "options": [
-        "Ongeveer 700",
-        "Minder dan 100",
-        "Meer dan 1000",
-        "Geen, het is een voetgangersgebied"
+        "Een document over hoe drones te bestrijden",
+        "Een plan om nieuwe drones te kopen",
+        "Een verzoek om drones te verbieden",
+        "Een handleiding voor drone-gebruikers"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De bewoners van de Bernard Spaelaan kunnen niet slapen door het lawaai van de trams.",
-      "isTrue": true
-    },
-    {
-      "statement": "De vrederechter heeft De Lijn gevraagd om de trams te stoppen.",
+      "statement": "Drones worden alleen voor militaire doeleinden gebruikt.",
       "isTrue": false
     },
     {
-      "statement": "De tramoverlast is een recent probleem, sinds een paar maanden.",
+      "statement": "De ministerraad bespreekt het 'counterdronedossier' aanstaande vrijdag.",
       "isTrue": true
+    },
+    {
+      "statement": "Theo Francken is de minister van Defensie in Nederland.",
+      "isTrue": false
     }
   ]
 }

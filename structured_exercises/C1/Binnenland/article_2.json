@@ -3,103 +3,103 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Politievakbond vraagt parlementair onderzoek naar politiegeweld",
+  "title": "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
   "topicNumber": 1,
   "article": {
-    "title": "Politievakbond vraagt parlementair onderzoek naar politiegeweld",
-    "summary": "Van “flagrante schending van de interventieregels” tot het gebruik van traangas en matrakken, de socialistische politievakbond ACOD veroordeelt nu zelf het gedrag van sommige politieagenten tijdens verschillende manifestaties in oktober. De vakbond vraagt het parlement om een onafhankelijke onderzoekscommissie op te richten."
+    "title": "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
+    "summary": "Ook vanavond zijn boven de militaire basis van Kleine-Brogel drones waargenomen. Vrijdag bespreekt de ministerraad het 'counterdronedossier' van Defensieminister Theo Francken (N-VA)."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "manifestaties",
-        "definition": "openbare demonstraties of bijeenkomsten waar standpunten worden getoond",
-        "sentence": "De politie was aanwezig bij verschillende ___ in oktober.",
-        "answer": "manifestaties"
+        "word": "bespreekt",
+        "definition": "Bespreekt of overlegt over een onderwerp.",
+        "sentence": "Het team ___ de nieuwe strategie tijdens de vergadering.",
+        "answer": "bespreekt"
       },
       {
-        "word": "schending",
-        "definition": "het overtreden of niet naleven van een regel of wet",
-        "sentence": "De agenten werden beschuldigd van ___ van de regels.",
-        "answer": "schending"
+        "word": "drones",
+        "definition": "Onbemande vliegende toestellen die vaak voor militaire of recreatieve doeleinden worden gebruikt.",
+        "sentence": "De militairen zagen verschillende ___ in de lucht tijdens de oefening.",
+        "answer": "drones"
       },
       {
-        "word": "vakbond",
-        "definition": "een organisatie die de belangen van werknemers verdedigt",
-        "sentence": "De ___ komt op voor de rechten van de werknemers.",
-        "answer": "vakbond"
+        "word": "Defensieminister",
+        "definition": "De minister die verantwoordelijk is voor de landsverdediging.",
+        "sentence": "De ___ gaf een persconferentie over de nieuwe defensiebegroting.",
+        "answer": "Defensieminister"
       },
       {
-        "word": "agenten",
-        "definition": "leden van de politie die toezicht houden op de openbare orde",
-        "sentence": "De ___ patrouilleerden in de stad.",
-        "answer": "agenten"
+        "word": "minister",
+        "definition": "Een lid van de regering, belast met een specifiek beleidsgebied.",
+        "sentence": "De ___ van Onderwijs kondigde nieuwe subsidies aan voor scholen.",
+        "answer": "minister"
       },
       {
-        "word": "matrakken",
-        "definition": "een wapen in de vorm van een stok, gebruikt voor slag- en stootacties",
-        "sentence": "De politie gebruikte ___ om de menigte uiteen te drijven.",
-        "answer": "matrakken"
+        "word": "ministerraad",
+        "definition": "Het college van ministers in een regering, die wekelijks bijeenkomt.",
+        "sentence": "De ___ komt elke vrijdag bijeen om de wekelijkse agenda te bespreken.",
+        "answer": "ministerraad"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De politie gebruikte ___ om de menigte uiteen te drijven.",
-        "answer": "matrakken"
+        "sentence": "Het team ___ de nieuwe strategie tijdens de vergadering.",
+        "answer": "bespreekt"
       },
       {
-        "sentence": "De agenten werden beschuldigd van ___ van de regels.",
-        "answer": "schending"
+        "sentence": "De ___ komt elke vrijdag bijeen om de wekelijkse agenda te bespreken.",
+        "answer": "ministerraad"
       },
       {
-        "sentence": "De politie was aanwezig bij verschillende ___ in oktober.",
-        "answer": "manifestaties"
+        "sentence": "De militairen zagen verschillende ___ in de lucht tijdens de oefening.",
+        "answer": "drones"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat wordt bedoeld met 'flagrante schending' in de context?",
+      "question": "Wat wordt er besproken in de ministerraad volgens de tekst?",
       "options": [
-        "Een duidelijk zichtbare overtreding",
-        "Een kleine vergissing",
-        "Een geheim gehouden feit",
-        "Een onbedoelde handeling"
+        "Het budget voor onderwijs",
+        "Het counterdronedossier",
+        "De bouw van een nieuwe basis",
+        "Hulp aan Oekraïne"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wie is Theo Francken volgens de tekst?",
+      "options": [
+        "De minister van Defensie",
+        "De burgemeester van Kleine-Brogel",
+        "De minister van Buitenlandse Zaken",
+        "Een drone-piloot"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van de ACOD in deze kwestie?",
+      "question": "Op welke dag vond de beschreven gebeurtenis plaats?",
       "options": [
-        "Ze verdedigen het gedrag van de politieagenten.",
-        "Ze veroordelen het gedrag en vragen een onafhankelijk onderzoek.",
-        "Ze negeren de incidenten volledig.",
-        "Ze steunen de politieagenten onvoorwaardelijk."
+        "Vrijdag",
+        "Zaterdag",
+        "Zondag",
+        "Maandag"
       ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een 'matrak' in deze context?",
-      "options": [
-        "Een soort muziekinstrument",
-        "Een politie-uitrusting voor controle, zoals een wapen",
-        "Een onderdeel van een auto",
-        "Een medisch hulpmiddel"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De vakbond ACOD steunt het gebruik van traangas door de politie.",
+      "statement": "Drones werden alleen 's avonds waargenomen boven Kleine Brogel.",
       "isTrue": false
     },
     {
-      "statement": "Het parlement wordt gevraagd een onafhankelijke commissie in te stellen.",
+      "statement": "Theo Francken is de minister van Defensie en maakt deel uit van de N-VA.",
       "isTrue": true
     },
     {
-      "statement": "De incidenten vonden plaats in december.",
+      "statement": "De ministerraad bespreekt het counterdronedossier op zaterdag.",
       "isTrue": false
     }
   ]

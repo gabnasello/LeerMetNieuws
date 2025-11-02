@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Witte Huis beperkt toegang voor journalisten",
+  "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
   "topicNumber": 1,
   "article": {
-    "title": "Witte Huis beperkt toegang voor journalisten",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
+    "summary": "Zaterdagavond zijn meerdere mensen neergestoken in een trein die naar het Engelse Huntingdon reed. Dat meldt de Britse transportpolitie. Er zijn twee verdachten gearresteerd."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "beperkt",
-        "definition": "niet volledig, met een grens",
-        "sentence": "De toegang tot het gebied is ___.",
-        "answer": "beperkt"
+        "word": "verdachten",
+        "definition": "mensen waarvan wordt gedacht dat ze een misdrijf hebben gepleegd",
+        "sentence": "De twee ___ werden kort na het incident gearresteerd.",
+        "answer": "verdachten"
       },
       {
-        "word": "journalisten",
-        "definition": "mensen die nieuwsberichten schrijven",
-        "sentence": "De ___ interviewden de politicus.",
-        "answer": "journalisten"
+        "word": "rit",
+        "definition": "een reis of reisdeel, vooral in een voertuig",
+        "sentence": "De eerste ___ van de trein was zonder problemen.",
+        "answer": "rit"
       },
       {
-        "word": "wereldwijd",
-        "definition": "over de hele wereld",
-        "sentence": "Deze trend is ___ te zien.",
-        "answer": "wereldwijd"
+        "word": "Engeland",
+        "definition": "een land dat deel uitmaakt van het Verenigd Koninkrijk",
+        "sentence": "De trein reed door ___ op het moment van het incident.",
+        "answer": "Engeland"
       },
       {
-        "word": "updates",
-        "definition": "nieuwe, recente informatie",
-        "sentence": "Blijf op de hoogte met onze ___.",
-        "answer": "updates"
+        "word": "trein",
+        "definition": "een voertuig dat op rails rijdt en mensen of spullen vervoert",
+        "sentence": "De ___ reed van Londen naar Huntingdon.",
+        "answer": "trein"
       },
       {
-        "word": "brengt",
-        "definition": "veroorzaakt, levert op",
-        "sentence": "De nieuwe regel ___ veel problemen.",
-        "answer": "brengt"
+        "word": "neergestoken",
+        "definition": "met een mes of ander scherp voorwerp verwond zijn",
+        "sentence": "De man was ___ door een onbekende aanvaller.",
+        "answer": "neergestoken"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Blijf op de hoogte met onze ___.",
-        "answer": "updates"
+        "sentence": "De ___ reed van Londen naar Huntingdon.",
+        "answer": "trein"
       },
       {
-        "sentence": "Deze trend is ___ te zien.",
-        "answer": "wereldwijd"
+        "sentence": "De trein reed door ___ op het moment van het incident.",
+        "answer": "Engeland"
       },
       {
-        "sentence": "De toegang tot het gebied is ___.",
-        "answer": "beperkt"
+        "sentence": "De eerste ___ van de trein was zonder problemen.",
+        "answer": "rit"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'beperkt' in deze context?",
+      "question": "Wat gebeurde er in de trein naar Huntingdon?",
       "options": [
-        "oneindig",
-        "beperkt",
-        "geheim",
-        "gewoon"
+        "Er was een brand",
+        "Er was een steekpartij",
+        "Er was een ontspannen sfeer",
+        "De trein was leeg"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van journalisten in dit artikel?",
+      "question": "Wie heeft de verdachten gearresteerd?",
       "options": [
-        "Ze worden buitengesloten",
-        "Ze krijgen speciale toegang",
-        "Ze schrijven over het weer",
-        "Ze bepalen het nieuws"
+        "De Nederlandse politie",
+        "De burgemeester van Londen",
+        "De Britse transportpolitie",
+        "Een getuige van het incident"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de hoofdgedachte van de samenvatting?",
+      "question": "Wat is de rol van de Britse transportpolitie in dit incident?",
       "options": [
-        "Trump verandert niets",
-        "Trump's tweede termijn beïnvloedt de wereld",
-        "Journalisten hebben meer macht",
-        "De toegang is volledig open"
+        "Zij hebben de verdachten gearresteerd",
+        "Zij hebben de trein bestuurd",
+        "Zij hebben niets met het incident te maken",
+        "Zij hebben het incident gemeld"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "Journalisten mogen overal in het Witte Huis komen.",
+      "statement": "Het incident vond plaats in een trein die naar Huntingdon reed.",
+      "isTrue": true
+    },
+    {
+      "statement": "De verdachten zijn nog niet gevonden.",
       "isTrue": false
     },
     {
-      "statement": "Donald Trump is momenteel president van de Verenigde Staten.",
-      "isTrue": false
-    },
-    {
-      "statement": "De toegang tot het Witte Huis is beperkt voor journalisten.",
+      "statement": "De Britse transportpolitie heeft de aanval gemeld.",
       "isTrue": true
     }
   ]

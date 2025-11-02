@@ -1,105 +1,105 @@
 {
-  "id": 19,
+  "id": 18,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Verdachte grootschalige adoptiefraude na veertig jaar alsnog voor de rechter",
+  "title": "Illegale rave vlak bij Kluisbergen",
   "topicNumber": 1,
   "article": {
-    "title": "Verdachte grootschalige adoptiefraude na veertig jaar alsnog voor de rechter",
-    "summary": "Er komt alsnog een Belgisch strafproces in de zaak van de minstens vijftien geroofde ‘weeskinderen’ uit Guatemala. “Ik kwam naar België met een valse naam, zonder geboortedatum en met een biologische moeder die allicht niet eens weet dat ik nog leef.”"
+    "title": "Illegale rave vlak bij Kluisbergen",
+    "summary": "In de Waalse gemeente Frasnes-lez-Anvaing, vlak over de taalgrens, is een illegale rave bezig met ongeveer 700 bezoekers. De deelnemers komen uit België, Nederland en Frankrijk en zijn van plan om tot zondagnamiddag door te gaan."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "fraude",
-        "definition": "Opzettelijke misleiding of bedrog om een oneerlijk voordeel te krijgen.",
-        "sentence": "De politie onderzoekt de zaak op verdenking van ___.",
-        "answer": "fraude"
+        "word": "Illegale",
+        "definition": "Niet toegestaan door de wet",
+        "sentence": "De ___ activiteit werd gestopt door de politie.",
+        "answer": "Illegale"
       },
       {
-        "word": "rechter",
-        "definition": "De persoon die in een rechtzaak beslist wie gelijk heeft of welke straf er moet worden gegeven.",
-        "sentence": "De zaak werd voor de ___ gebracht.",
-        "answer": "rechter"
+        "word": "Rave",
+        "definition": "Een groot feest met elektronische muziek",
+        "sentence": "De ___ trok honderden bezoekers.",
+        "answer": "Rave"
       },
       {
-        "word": "geboortedatum",
-        "definition": "De datum waarop iemand is geboren.",
-        "sentence": "Zijn ___ is 12 maart 1985.",
-        "answer": "geboorte datum"
+        "word": "Kluisbergen",
+        "definition": "Een plaatsnaam in België",
+        "sentence": "___ is een gemeente in Vlaanderen.",
+        "answer": "Kluisbergen"
       },
       {
-        "word": "wees",
-        "definition": "Een kind waarvan beide ouders zijn overleden.",
-        "sentence": "Hij werd een ___ op zevenjarige leeftijd.",
-        "answer": "wees"
+        "word": "Anvaing",
+        "definition": "Een plaatsnaam in België",
+        "sentence": "___ is een deelgemeente van Frasnes-lez-Anvaing.",
+        "answer": "Anvaing"
       },
       {
-        "word": "valse",
-        "definition": "Niet echt of niet waar, vaak met de bedoeling om te misleiden.",
-        "sentence": "Hij gebruikte een ___ paspoort om het land binnen te komen.",
-        "answer": "valse"
+        "word": "zondagnamiddag",
+        "definition": "De tijd na zondagmiddag en voor zondagavond",
+        "sentence": "We spreken af op ___ om te sporten.",
+        "answer": "zondagnamiddag"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De politie onderzoekt de zaak op verdenking van ___.",
-        "answer": "fraude"
+        "sentence": "___ is een gemeente in Vlaanderen.",
+        "answer": "Kluisbergen"
       },
       {
-        "sentence": "Hij gebruikte een ___ paspoort om het land binnen te komen.",
-        "answer": "valse"
+        "sentence": "We spreken af op ___ om te sporten.",
+        "answer": "zondagnamiddag"
       },
       {
-        "sentence": "De zaak werd voor de ___ gebracht.",
-        "answer": "rechter"
+        "sentence": "De ___ activiteit werd gestopt door de politie.",
+        "answer": "Illegale"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom worden de kinderen in deze zaak 'weeskinderen' genoemd?",
+      "question": "Welke taal wordt er vooral in Vlaanderen gesproken?",
       "options": [
-        "Omdat ze geen ouders meer hebben.",
-        "Omdat ze zijn achtergelaten door hun ouders.",
-        "Omdat ze illegaal zijn geadopteerd zonder dat hun biologische ouders het weten.",
-        "Omdat ze zijn verkocht door hun familie."
+        "Frans",
+        "Duits",
+        "Vlaams",
+        "Engels"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is een 'valse naam' in deze context?",
+      "question": "Wat is 'Flandern'?",
       "options": [
-        "Een naam die iemand uit zichzelf kiest.",
-        "Een naam die niet iemands echte naam is, maar wordt gebruikt om autoriteiten te misleiden.",
-        "Een naam die alleen in officiële documenten wordt gebruikt.",
-        "Een naam die door de overheid is toegewezen."
+        "Een Duitse stad",
+        "Een type feest",
+        "De Duitse naam voor Vlaanderen",
+        "Een Nederlands dialect"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Waarom wordt deze zaak nu, na veertig jaar, voor de rechter gebracht?",
+      "question": "Hoe laat eindigde de rave?",
       "options": [
-        "Omdat nieuwe technologieën oude zaken kunnen oplossen.",
-        "Omdat de slachtoffers nu pas durven te spreken.",
-        "Omdat de adoptieouders nu berecht worden voor fraude.",
-        "Omdat de biologische ouders nu pas de kinderen terugvinden."
+        "Zondagochtend",
+        "Zaterdagnacht",
+        "Zondagnamiddag",
+        "Maandagochtend"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De kinderen in deze zaak zijn allemaal wezen, wat betekent dat hun biologische ouders allebei zijn overleden.",
-      "isTrue": false
-    },
-    {
-      "statement": "De term 'weeskinderen' wordt hier gebruikt om aan te geven dat de kinderen van hun ouders zijn gescheiden, niet dat de ouders daadwerkelijk zijn overleden.",
+      "statement": "De rave vond plaats in de Waalse gemeente Frasnes-lez-Anvaing.",
       "isTrue": true
     },
     {
-      "statement": "De zaak wordt nu voor de rechter gebracht omdat de adoptieouders destijds wisten dat de adoptie illegaal was.",
+      "statement": "De rave werd georganiseerd door de lokale overheid.",
+      "isTrue": false
+    },
+    {
+      "statement": "Deelnemers aan de rave kwamen uit meerdere Europese landen.",
       "isTrue": true
     }
   ]
