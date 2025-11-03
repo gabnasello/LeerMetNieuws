@@ -1,105 +1,105 @@
 {
-  "id": 24,
+  "id": 25,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Drones boven militaire basis",
+  "title": "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
   "topicNumber": 1,
   "article": {
-    "title": "Drones boven militaire basis",
-    "summary": "Er zijn drones gezien boven een militaire basis. Minister Francken heeft maatregelen tegen drones."
+    "title": "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
+    "summary": "Meer dan de helft van de leerlingen in het middelbaar die afstandsonderwijs volgen, doet dat omdat ze psychisch kwetsbaar zijn. “Elke dag in de klas zitten, lukt me niet.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "militaire",
-        "definition": "van of over het leger",
-        "sentence": "De ___ basis is beveiligd.",
-        "answer": "militaire"
+        "word": "psychische",
+        "definition": "met betrekking tot de geest of emoties",
+        "sentence": "Sommige mensen hebben ___ problemen en voelen zich vaak verdrietig.",
+        "answer": "psychische"
       },
       {
-        "word": "minister",
-        "definition": "een belangrijk persoon in de regering",
-        "sentence": "De ___ van Defensie heeft een plan.",
-        "answer": "minister"
+        "word": "volgen",
+        "definition": "doen wat er gezegd wordt, of iets meemaken",
+        "sentence": "De studenten ___ de online les via hun computer.",
+        "answer": "volgen"
       },
       {
-        "word": "maatregelen",
-        "definition": "acties of stappen die worden genomen",
-        "sentence": "De minister heeft ___ genomen tegen de drones.",
-        "answer": "maatregelen"
+        "word": "helft",
+        "definition": "een van twee gelijke delen",
+        "sentence": "Slechts de ___ van de koek is over.",
+        "answer": "helft"
       },
       {
-        "word": "basis",
-        "definition": "een plek of locatie",
-        "sentence": "De militaire ___ is in België.",
-        "answer": "basis"
+        "word": "leerlingen",
+        "definition": "kinderen die op school leren",
+        "sentence": "De ___ krijgen les van hun leerkracht.",
+        "answer": "leerlingen"
       },
       {
-        "word": "drones",
-        "definition": "kleine vliegende machines",
-        "sentence": "Er zijn ___ waargenomen boven de basis.",
-        "answer": "drones"
+        "word": "problemen",
+        "definition": "moeilijke situaties of taken",
+        "sentence": "Wanneer je ___ hebt, is het goed om hulp te vragen.",
+        "answer": "problemen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Er zijn ___ waargenomen boven de basis.",
-        "answer": "drones"
+        "sentence": "De studenten ___ de online les via hun computer.",
+        "answer": "volgen"
       },
       {
-        "sentence": "De minister heeft ___ genomen tegen de drones.",
-        "answer": "maatregelen"
+        "sentence": "Slechts de ___ van de koek is over.",
+        "answer": "helft"
       },
       {
-        "sentence": "De ___ basis is beveiligd.",
-        "answer": "militaire"
+        "sentence": "De ___ krijgen les van hun leerkracht.",
+        "answer": "leerlingen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar zijn drones waargenomen?",
+      "question": "Wat betekent 'via' in de context van de tekst?",
       "options": [
-        "In een park",
-        "Boven een militaire basis",
-        "In de stad",
-        "Bij een school"
+        "naast",
+        "door middel van",
+        "ondanks",
+        "bovenop"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat doet minister Francken?",
+      "question": "Waarom volgen sommige leerlingen afstandsonderwijs?",
       "options": [
-        "Hij speelt thuis",
-        "Hij heeft maatregelen genomen",
-        "Hij reist naar de maan",
-        "Hij leest een boek"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wanneer bespreekt de ministerraad het plan?",
-      "options": [
-        "Morgen",
-        "Over een week",
-        "Vrijdag",
-        "Volgende maand"
+        "Omdat ze het leuk vinden",
+        "Omdat ze in het buitenland wonen",
+        "Omdat ze psychische problemen hebben",
+        "Omdat ze geen computer hebben"
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "Wat is de hoofdgedachte van de tekst?",
+      "options": [
+        "Alle leerlingen moeten naar school",
+        "Psychische problemen kunnen een reden zijn voor afstandsonderwijs",
+        "Afstandsonderwijs is makkelijk",
+        "Kinderen met psychische problemen zijn zeldzaam"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Drones zijn grote vliegtuigen.",
-      "isTrue": false
-    },
-    {
-      "statement": "Minister Francken heeft maatregelen genomen tegen drones.",
+      "statement": "De meeste leerlingen die afstandsonderwijs volgen, doen dat omdat ze psychische problemen hebben.",
       "isTrue": true
     },
     {
-      "statement": "De ministerraad bespreekt het plan op zaterdag.",
+      "statement": "Afstandsonderwijs wordt alleen via internet gegeven.",
+      "isTrue": true
+    },
+    {
+      "statement": "Alle leerlingen met psychische problemen volgen afstandsonderwijs.",
       "isTrue": false
     }
   ]

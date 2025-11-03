@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Frans parlement verwerpt rijkenbelasting: “Wonderbelasting bestaat niet”",
+  "title": "Hoe Trump Latijns-Amerika opnieuw als exclusieve invloedssfeer claimt",
   "topicNumber": 1,
   "article": {
-    "title": "Frans parlement verwerpt rijkenbelasting: “Wonderbelasting bestaat niet”",
-    "summary": "De Assemblée nationale, het Franse parlement, heeft vrijdag voorstellen voor een belasting op de hoogste vermogens met een grote meerderheid verworpen."
+    "title": "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een geheel eigen versie van de Monroedoctrine",
+    "summary": "Amerikaanse media noemen hem een piraat en waarschuwen voor de risico’s van een invasie van Venezuela. Maar Donald Trump maakt van Latijns-Amerika opnieuw zijn exclusieve speeltuin, in zijn geheel eigen versie van de Monroedoctrine."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "vermogens",
-        "definition": "Vermogens of fortuinen, vaak in economische context",
-        "sentence": "Hoge ___ kunnen meer belasting dragen.",
-        "answer": "vermogens"
+        "word": "Latijns-Amerika",
+        "definition": "regio in Amerika ten zuiden van de Verenigde Staten, voornamelijk Spaans- en Portugeessprekend",
+        "sentence": "___ heeft een rijke geschiedenis en diverse culturen.",
+        "answer": "Latijns-Amerika"
       },
       {
-        "word": "Assemblée",
-        "definition": "Het Franse woord voor een vergadering of parlement",
-        "sentence": "De Nationale ___ behandelt wetgeving.",
-        "answer": "Assemblée"
+        "word": "maakt",
+        "definition": "vormt, creëert of produceert",
+        "sentence": "Hij ___ van zijn hobby zijn beroep.",
+        "answer": "maakt"
       },
       {
-        "word": "belasting",
-        "definition": "Een verplichte financiële bijdrage aan de overheid",
-        "sentence": "Deze ___ wordt geheven op inkomen en vermogen.",
-        "answer": "belasting"
+        "word": "exclusieve",
+        "definition": "uitsluitend, alleen toegankelijk voor een selecte groep",
+        "sentence": "De club heeft een ___ ledenlijst.",
+        "answer": "exclusieve"
       },
       {
-        "word": "bestaat",
-        "definition": "Is aanwezig of is realiteit",
-        "sentence": "De entiteit ___ al sinds 2020.",
-        "answer": "bestaat"
+        "word": "Trump",
+        "definition": "achternaam van de voormalige president van de Verenigde Staten",
+        "sentence": "Donald ___ staat bekend om zijn onconventionele aanpak.",
+        "answer": "Trump"
       },
       {
-        "word": "voorstellen",
-        "definition": "Plannen of ideeën die worden aangeboden",
-        "sentence": "De nieuwe ___ werden goed ontvangen.",
-        "answer": "voorstellen"
+        "word": "opnieuw",
+        "definition": "nog een keer, weer",
+        "sentence": "Hij probeerde het ___ na zijn eerste mislukking.",
+        "answer": "opnieuw"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Deze ___ wordt geheven op inkomen en vermogen.",
-        "answer": "belasting"
+        "sentence": "Donald ___ staat bekend om zijn onconventionele aanpak.",
+        "answer": "Trump"
       },
       {
-        "sentence": "Hoge ___ kunnen meer belasting dragen.",
-        "answer": "vermogens"
+        "sentence": "Hij probeerde het ___ na zijn eerste mislukking.",
+        "answer": "opnieuw"
       },
       {
-        "sentence": "De entiteit ___ al sinds 2020.",
-        "answer": "bestaat"
+        "sentence": "De club heeft een ___ ledenlijst.",
+        "answer": "exclusieve"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'verworpen' in deze context?",
+      "question": "Welke regio wordt vooral beïnvloed door de Monroedoctrine volgens de tekst?",
       "options": [
-        "Geaccepteerd",
-        "Afgewezen",
-        "Geprezen",
-        "Gewijzigd"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Waar verwijst 'Assemblée' specifiek naar?",
-      "options": [
-        "Een soort belasting",
-        "De Franse regering",
-        "Het Franse parlement",
-        "Een Europese instelling"
+        "Europa",
+        "Azië",
+        "Latijns-Amerika",
+        "Afrika"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is de hoofdgedachte van de samenvatting?",
+      "question": "Hoe wordt Donald Trump's benadering van Latijns-Amerika in de tekst beschreven?",
       "options": [
-        "Frankrijk introduceert een nieuwe belasting",
-        "Frankrijk verwerpt een belastingvoorstel",
-        "De Assemblée Nationale wordt hervormd",
-        "Er is een grote meerderheid voor belastingverhoging"
+        "Als een collaboratieve effort",
+        "Als een eenzijdige claim",
+        "Als een neutrale observatie",
+        "Als een historische hervorming"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de rol van de media volgens de tekst in deze context?",
+      "options": [
+        "Ze ondersteunen Trump's beleid volledig",
+        "Ze negeren de situatie geheel",
+        "Ze bekritiseren Trump en waarschuwen voor risico's",
+        "Ze prijzen hem als een piraat"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het Franse parlement heeft de belastingvoorstellen goedgekeurd.",
-      "isTrue": false
-    },
-    {
-      "statement": "De Assemblée Nationale is het Franse parlement.",
+      "statement": "Donald Trump wordt door de media omschreven als een piraat vanwege zijn beleid.",
       "isTrue": true
     },
     {
-      "statement": "De belastingvoorstellen werden unaniem aangenomen.",
+      "statement": "Latijns-Amerika wordt in de tekst voorgesteld als een exclusieve speeltuin alleen voor de Verenigde Staten.",
+      "isTrue": true
+    },
+    {
+      "statement": "De Monroedoctrine is recentelijk geïntroduceerd door Donald Trump.",
       "isTrue": false
     }
   ]

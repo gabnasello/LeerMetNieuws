@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
+  "title": "Amerikaanse rechter wendt hongercrisis in VS (even) af",
   "topicNumber": 1,
   "article": {
-    "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
-    "summary": "Zaterdagavond zijn meerdere mensen neergestoken in een trein die naar het Engelse Huntingdon reed. Dat meldt de Britse transportpolitie. Er zijn twee verdachten gearresteerd."
+    "title": "Amerikaanse rechter wendt hongercrisis in VS (even) af",
+    "summary": "42 miljoen Amerikanen komen maar rond dankzij voedselsteun van de regering. De voedselbonnen van november lijken gered, al ontbreken er miljarden dollars."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "verdachten",
-        "definition": "mensen waarvan wordt gedacht dat ze een misdrijf hebben gepleegd",
-        "sentence": "De twee ___ werden kort na het incident gearresteerd.",
-        "answer": "verdachten"
+        "word": "rechter",
+        "definition": "iemand die beslist in een rechtszaak",
+        "sentence": "De ___ bepaalde dat de steun doorgaat.",
+        "answer": "rechter"
       },
       {
-        "word": "rit",
-        "definition": "een reis of reisdeel, vooral in een voertuig",
-        "sentence": "De eerste ___ van de trein was zonder problemen.",
-        "answer": "rit"
+        "word": "voedselbonnen",
+        "definition": "bonnen die je kunt gebruiken om eten te kopen",
+        "sentence": "Sommige gezinnen gebruiken ___ om boodschappen te doen.",
+        "answer": "voedselbonnen"
       },
       {
-        "word": "Engeland",
-        "definition": "een land dat deel uitmaakt van het Verenigd Koninkrijk",
-        "sentence": "De trein reed door ___ op het moment van het incident.",
-        "answer": "Engeland"
+        "word": "gered",
+        "definition": "beschermd of veiliggesteld",
+        "sentence": "De dieren zijn ___ door de brandweer.",
+        "answer": "gered"
       },
       {
-        "word": "trein",
-        "definition": "een voertuig dat op rails rijdt en mensen of spullen vervoert",
-        "sentence": "De ___ reed van Londen naar Huntingdon.",
-        "answer": "trein"
+        "word": "hongercrisis",
+        "definition": "een situatie waarin veel mensen niet genoeg te eten hebben",
+        "sentence": "Door de droogte ontstond er een ___ in het land.",
+        "answer": "hongercrisis"
       },
       {
-        "word": "neergestoken",
-        "definition": "met een mes of ander scherp voorwerp verwond zijn",
-        "sentence": "De man was ___ door een onbekende aanvaller.",
-        "answer": "neergestoken"
+        "word": "regering",
+        "definition": "de groep mensen die een land bestuurt",
+        "sentence": "De ___ heeft nieuwe maatregelen aangekondigd.",
+        "answer": "regering"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ reed van Londen naar Huntingdon.",
-        "answer": "trein"
+        "sentence": "De ___ heeft nieuwe maatregelen aangekondigd.",
+        "answer": "regering"
       },
       {
-        "sentence": "De trein reed door ___ op het moment van het incident.",
-        "answer": "Engeland"
+        "sentence": "Sommige gezinnen gebruiken ___ om boodschappen te doen.",
+        "answer": "voedselbonnen"
       },
       {
-        "sentence": "De eerste ___ van de trein was zonder problemen.",
-        "answer": "rit"
+        "sentence": "De dieren zijn ___ door de brandweer.",
+        "answer": "gered"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat gebeurde er in de trein naar Huntingdon?",
+      "question": "Wat is de rol van de rechter in deze situatie?",
       "options": [
-        "Er was een brand",
-        "Er was een steekpartij",
-        "Er was een ontspannen sfeer",
-        "De trein was leeg"
+        "Hij organiseert voedselhulp.",
+        "Hij beslist over de voortzetting van het steunprogramma.",
+        "Hij kookt voor daklozen.",
+        "Hij start een nieuwe campagne."
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wie heeft de verdachten gearresteerd?",
+      "question": "Waarom zijn de voedselbonnen belangrijk voor de mensen?",
       "options": [
-        "De Nederlandse politie",
-        "De burgemeester van Londen",
-        "De Britse transportpolitie",
-        "Een getuige van het incident"
+        "Ze zijn gemaakt van goud.",
+        "Ze kunnen worden ingeruild voor voedsel.",
+        "Ze zijn alleen geldig in het buitenland.",
+        "Ze worden niet meer gebruikt."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van de Britse transportpolitie in dit incident?",
+      "question": "Wat is het probleem met de financiering?",
       "options": [
-        "Zij hebben de verdachten gearresteerd",
-        "Zij hebben de trein bestuurd",
-        "Zij hebben niets met het incident te maken",
-        "Zij hebben het incident gemeld"
+        "Er is te veel geld.",
+        "Er is te weinig geld voor het programma.",
+        "Het geld is gestolen.",
+        "Het geld is in andere valuta."
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het incident vond plaats in een trein die naar Huntingdon reed.",
-      "isTrue": true
-    },
-    {
-      "statement": "De verdachten zijn nog niet gevonden.",
+      "statement": "De rechter heeft de voedselsteun volledig stopgezet.",
       "isTrue": false
     },
     {
-      "statement": "De Britse transportpolitie heeft de aanval gemeld.",
+      "statement": "Er ontbreken miljarden dollars aan de steun.",
       "isTrue": true
+    },
+    {
+      "statement": "Alleen kinderen krijgen voedselbonnen in dit programma.",
+      "isTrue": false
     }
   ]
 }

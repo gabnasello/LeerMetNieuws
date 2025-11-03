@@ -1,106 +1,106 @@
 {
-  "id": 12,
+  "id": 14,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
+  "title": "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
   "topicNumber": 1,
   "article": {
-    "title": "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
-    "summary": "Waar zijn de Russische soldaten? Dat is de vraag voor de Oekraïense verdediging in Pokrovsk. De strategisch belangrijke stad dreigt te vallen door een nieuwe Russische manier van oorlogvoeren."
+    "title": "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
+    "summary": "Nu de kans op een snel bestand in Oekraïne vervlogen is, blijft de vraag: hoe zal deze oorlog eindigen? Niemand durft het te voorspellen, maar een trend is duidelijk: Oekraïne kan financieel niet veel verder, maar het moet wel."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "dreigt",
-        "definition": "Lijkt waarschijnlijk te gebeuren, vaak iets negatiefs.",
-        "sentence": "De stad ___ in te nemen door de vijand.",
-        "answer": "dreigt"
+        "word": "bestand",
+        "definition": "Een bestand is een computerbestand, maar hier betekent het 'stilstand' of 'geen vooruitgang'",
+        "sentence": "De onderhandelingen zijn in een ___ geraakt.",
+        "answer": "bestand"
       },
       {
-        "word": "zijn",
-        "definition": "Koppelwerkwoord dat iets beschrijft of iemand identificeert.",
-        "sentence": "Waar ___ de Russische soldaten? Ze zijn niet zichtbaar.",
-        "answer": "zijn"
+        "word": "militaire",
+        "definition": "Met betrekking tot het leger of oorlog",
+        "sentence": "De ___ operatie was een succes.",
+        "answer": "militaire"
       },
       {
-        "word": "strategisch",
-        "definition": "Betrekking hebbend op een plan of methode om een doel te bereiken.",
-        "sentence": "De ___ ligging maakt de stad belangrijk.",
-        "answer": "strategisch"
+        "word": "economische",
+        "definition": "Betrekking hebbend op de economie",
+        "sentence": "De ___ gevolgen van de oorlog zijn groot.",
+        "answer": "economische"
       },
       {
-        "word": "vraag",
-        "definition": "Een verzoek om informatie of een reactie.",
-        "sentence": "De belangrijkste ___ is waar de vijand zich bevindt.",
-        "answer": "vraag"
+        "word": "kans",
+        "definition": "Mogelijkheid dat iets gebeurt",
+        "sentence": "Er is een grote ___ dat het morgen gaat regenen.",
+        "answer": "kans"
       },
       {
-        "word": "Russische",
-        "definition": "Betrekking hebbend op Rusland of de Russen.",
-        "sentence": "De ___ soldaten gebruiken een nieuwe tactiek.",
-        "answer": "Russische"
+        "word": "Oekraïne",
+        "definition": "Een land in Oost-Europa",
+        "sentence": "___ is een groot land met veel natuurlijke hulpbronnen.",
+        "answer": "Oekraïne"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De stad ___ in te nemen door de vijand.",
-        "answer": "dreigt"
+        "sentence": "De onderhandelingen zijn in een ___ geraakt.",
+        "answer": "bestand"
       },
       {
-        "sentence": "Waar ___ de Russische soldaten? Ze zijn niet zichtbaar.",
-        "answer": "zijn"
+        "sentence": "Er is een grote ___ dat het morgen gaat regenen.",
+        "answer": "kans"
       },
       {
-        "sentence": "De ___ soldaten gebruiken een nieuwe tactiek.",
-        "answer": "Russische"
+        "sentence": "De ___ operatie was een succes.",
+        "answer": "militaire"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom is de locatie van de Russische soldaten een vraag voor de Oekraïense verdediging?",
+      "question": "Wat betekent 'financieel' in deze context?",
       "options": [
-        "Omdat het de verdediging verzwakt als de vijand onzichtbaar is.",
-        "Omdat de Oekraïense soldaten niet weten waar te schieten.",
-        "Omdat de Russen een nieuwe tactiek gebruiken die de Oekraïners verrast.",
-        "Omdat de stad Pokrovsk dreigt te vallen door deze onzekerheid."
+        "Met weinig geld",
+        "Emotioneel",
+        "Fysiek sterk",
+        "Met veel energie"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de nieuwe tactiek van de Russische soldaten?",
+      "question": "Wat is de hoofdgedachte van de tekst?",
       "options": [
-        "Ze vallen aan zonder zich te verstoppen.",
-        "Ze gebruiken drones om de Oekraïense posities te lokaliseren.",
-        "Ze concentreren hun aanval op één zwak punt in de verdediging.",
-        "Ze vermijden directe confrontaties en vallen vanuit onverwachte hoeken aan."
+        "Oekraïne wint de oorlog",
+        "De economie is belangrijker dan het leger",
+        "Het weer wordt besproken",
+        "Er is geen hoop meer"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is het gevolg als Pokrovsk valt?",
+      "question": "Wat betekent 'bestand' in deze titel?",
       "options": [
-        "Het heeft geen strategisch belang, dus weinig effect.",
-        "De Russen krijgen toegang tot belangrijke transportroutes.",
-        "De Oekraïense moreel wordt onmiddellijk gebroken.",
-        "De oorlog wordt meteen gewonnen door Rusland."
+        "Een computerbestand",
+        "Stilstand of geen vooruitgang",
+        "Een militaire rang",
+        "Een soort wapen"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Pokrovsk is een stad met groot strategisch belang in de oorlog.",
+      "statement": "De economische situatie kan de oorlog beëindigen.",
       "isTrue": true
     },
     {
-      "statement": "De Russische soldaten gebruiken een nieuwe tactiek, maar deze is al volledig bekend bij de Oekraïense verdediging.",
+      "statement": "Oekraïne heeft geen geld meer voor de oorlog.",
+      "isTrue": true
+    },
+    {
+      "statement": "Het artikel zegt dat de oorlog al gewonnen is.",
       "isTrue": false
-    },
-    {
-      "statement": "Als Pokrovsk valt, heeft dat directe gevolgen voor het hele front.",
-      "isTrue": true
     }
   ]
 }

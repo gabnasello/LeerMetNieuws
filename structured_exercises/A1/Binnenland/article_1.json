@@ -1,106 +1,94 @@
 {
-  "id": 14,
+  "id": 16,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Illegale rave in België",
+  "title": "Annemarie Sauer, 78 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Illegale rave in België",
-    "summary": "Er is een feest in België. Het feest is illegaal. Er zijn 700 mensen. Zij komen uit België, Nederland en Frankrijk. Ze blijven tot zondag."
+    "title": "Annemarie Sauer, 78 jaar",
+    "summary": "Geboren in 1947. Overleden op 20/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "illegale",
-        "definition": "niet toegestaan, tegen de wet",
-        "sentence": "De politie stopte de ___ feest.",
-        "answer": "illegale"
+        "word": "geboren",
+        "definition": "geboren worden",
+        "sentence": "Ze is ___ in 1947.",
+        "answer": "geboren"
       },
       {
-        "word": "zondag",
-        "definition": "de dag na zaterdag",
-        "sentence": "Het feest duurt tot ___.",
-        "answer": "zondag"
+        "word": "overleden",
+        "definition": "niet meer leven",
+        "sentence": "Hij is ___ op 20/10/2025.",
+        "answer": "overleden"
       },
       {
-        "word": "Frankrijk",
-        "definition": "een land naast België",
-        "sentence": "Sommige bezoekers komen uit ___.",
-        "answer": "Frankrijk"
-      },
-      {
-        "word": "Nederland",
-        "definition": "een land naast België",
-        "sentence": "Sommige bezoekers komen uit ___.",
-        "answer": "Nederland"
-      },
-      {
-        "word": "rave",
-        "definition": "een groot feest met muziek",
-        "sentence": "De ___ is in België.",
-        "answer": "rave"
+        "word": "jaar",
+        "definition": "een periode van 365 dagen",
+        "sentence": "Hij is 78 ___ oud.",
+        "answer": "jaar"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het feest duurt tot ___.",
-        "answer": "zondag"
+        "sentence": "Ze is ___ in 1947.",
+        "answer": "geboren"
       },
       {
-        "sentence": "Sommige bezoekers komen uit ___.",
-        "answer": "Frankrijk"
+        "sentence": "Hij is 78 ___ oud.",
+        "answer": "jaar"
       },
       {
-        "sentence": "De ___ is in België.",
-        "answer": "rave"
+        "sentence": "Hij is ___ op 20/10/2025.",
+        "answer": "overleden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar is de rave?",
+      "question": "Wanneer is Annemarie Sauer geboren?",
       "options": [
-        "In België",
-        "In Nederland",
-        "In Duitsland",
-        "In Spanje"
+        "In 1947",
+        "In 1950",
+        "In 1960",
+        "In 1970"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Hoeveel bezoekers zijn er?",
+      "question": "Hoe oud was Annemarie Sauer toen ze overleed?",
       "options": [
-        "700",
-        "7000",
-        "70",
-        "7"
+        "78 jaar",
+        "80 jaar",
+        "75 jaar",
+        "70 jaar"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Hoe lang duurt het feest?",
+      "question": "Op welke datum overleed Annemarie Sauer?",
       "options": [
-        "Tot zondag",
-        "Tot maandag",
-        "Tot vrijdag",
-        "Tot dinsdag"
+        "20/10/2025",
+        "20/11/2025",
+        "21/10/2025",
+        "19/10/2025"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De rave is in Nederland.",
-      "isTrue": false
-    },
-    {
-      "statement": "Het feest duurt tot zondag.",
+      "statement": "Annemarie Sauer is geboren in 1947.",
       "isTrue": true
     },
     {
-      "statement": "Alle bezoekers komen uit België.",
+      "statement": "Annemarie Sauer overleed in 2024.",
       "isTrue": false
+    },
+    {
+      "statement": "Annemarie Sauer was 78 jaar oud.",
+      "isTrue": true
     }
   ]
 }

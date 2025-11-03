@@ -1,106 +1,106 @@
 {
-  "id": 19,
+  "id": 20,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Weinig zon in oktober",
+  "title": "Thomas Siffer neemt afscheid van Louise Delanghe",
   "topicNumber": 1,
   "article": {
-    "title": "Weinig zon in oktober",
-    "summary": "Oktober had weinig zon. Alleen 1998 had nog minder zon. Maar woensdag wordt het warm."
+    "title": "Thomas Siffer neemt afscheid van Louise Delanghe",
+    "summary": "Louise Delanghe was een jonge kunstenares. Ze was intelligent, vrolijk, vriendelijk en uitbundig. Helaas kwam ze om bij een verkeersongeluk. Thomas Siffer schreef een afscheidstekst voor haar."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "zon",
-        "definition": "Dat is wat je ziet in de lucht als het niet bewolkt is.",
-        "sentence": "De ___ schijnt fel vandaag.",
-        "answer": "zon"
+        "word": "uitbundig",
+        "definition": "vol energie en enthousiasme",
+        "sentence": "Ze was erg ___ en levendig.",
+        "answer": "uitbundig"
       },
       {
-        "word": "oktober",
-        "definition": "De tiende maand van het jaar.",
-        "sentence": "In ___ is het vaak herfst.",
-        "answer": "oktober"
+        "word": "tekst",
+        "definition": "geschreven woorden op papier of scherm",
+        "sentence": "Hij schreef een mooie ___ over haar.",
+        "answer": "tekst"
       },
       {
-        "word": "weinig",
-        "definition": "Niet veel, een kleine hoeveelheid.",
-        "sentence": "Er is ___ water in de fles.",
-        "answer": "weinig"
+        "word": "vrolijk",
+        "definition": "blij en gelukkig",
+        "sentence": "Ze was altijd ___.",
+        "answer": "vrolijk"
       },
       {
-        "word": "warm",
-        "definition": "Niet koud, een hoge temperatuur.",
-        "sentence": "De soep is erg ___.",
-        "answer": "warm"
+        "word": "kunstenares",
+        "definition": "iemand die kunst maakt",
+        "sentence": "Louise was een ___.",
+        "answer": "kunstenares"
       },
       {
-        "word": "woensdag",
-        "definition": "De derde dag van de week.",
-        "sentence": "___ is de dag na dinsdag.",
-        "answer": "woensdag"
+        "word": "vriendelijk",
+        "definition": "aardig en vriendelijk",
+        "sentence": "Ze was heel ___ tegen iedereen.",
+        "answer": "vriendelijk"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ schijnt fel vandaag.",
-        "answer": "zon"
+        "sentence": "Louise was een ___.",
+        "answer": "kunstenares"
       },
       {
-        "sentence": "___ is de dag na dinsdag.",
-        "answer": "woensdag"
+        "sentence": "Ze was heel ___ tegen iedereen.",
+        "answer": "vriendelijk"
       },
       {
-        "sentence": "In ___ is het vaak herfst.",
-        "answer": "oktober"
+        "sentence": "Ze was altijd ___.",
+        "answer": "vrolijk"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat was er bijzonder aan oktober dit jaar?",
+      "question": "Wat was Louise Delanghe?",
       "options": [
-        "Er was veel zon",
-        "Er was weinig zon",
-        "Het was erg koud",
-        "Het was erg warm"
+        "een schilder",
+        "een kunstenares",
+        "een muzikant",
+        "een schrijfster"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is er goed nieuws voor woensdag?",
+      "question": "Hoe was Louise als persoon?",
       "options": [
-        "Het wordt koud",
-        "Het wordt nat",
-        "Het wordt warm",
-        "Er is veel wind"
+        "Ze was erg verlegen.",
+        "Ze was erg stil.",
+        "Ze was erg vrolijk en vriendelijk.",
+        "Ze was erg boos en onvriendelijk."
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Welk record werd bijna gehaald in oktober?",
+      "question": "Wat gebeurde er met Louise?",
       "options": [
-        "Hoogste temperatuur",
-        "Meeste zonuren",
-        "Minste zonuren",
-        "Minste regen"
+        "Ze ging met pensioen.",
+        "Ze verhuisde naar een ander land.",
+        "Ze kwam om bij een verkeersongeluk.",
+        "Ze won een belangrijke prijs."
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Oktober had veel zon.",
-      "isTrue": false
-    },
-    {
-      "statement": "Woensdag wordt het warm.",
+      "statement": "Louise Delanghe was een kunstenares.",
       "isTrue": true
     },
     {
-      "statement": "Alleen oktober 1998 had meer zon.",
+      "statement": "Louise was een erg verdrietig persoon.",
       "isTrue": false
+    },
+    {
+      "statement": "Louise overleed door een verkeersongeval.",
+      "isTrue": true
     }
   ]
 }

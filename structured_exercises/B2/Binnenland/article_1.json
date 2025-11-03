@@ -1,106 +1,106 @@
 {
-  "id": 17,
+  "id": 18,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Illegale rave vlak bij Kluisbergen",
+  "title": "Annemarie Sauer, 78 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Illegale rave vlak bij Kluisbergen",
-    "summary": "In de Waalse gemeente Frasnes-lez-Anvaing, vlak over de taalgrens, is een illegale rave bezig met ongeveer 700 bezoekers. De deelnemers komen uit België, Nederland en Frankrijk en zijn van plan om tot zondagnamiddag door te gaan."
+    "title": "Annemarie Sauer, 78 jaar",
+    "summary": "Geboren in 1947, overleden op 20/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "rave",
-        "definition": "Een groot feest met elektronische muziek, vaak illegaal",
-        "sentence": "De politie heeft de ___ stopgezet omdat er geen vergunning was.",
-        "answer": "rave"
+        "word": "1947",
+        "definition": "Het jaar na de Tweede Wereldoorlog; een jaartal.",
+        "sentence": "Deze gebeurtenis vond plaats in ___.",
+        "answer": "1947"
       },
       {
-        "word": "bezoekers",
-        "definition": "Mensen die naar een evenement of plaats gaan",
-        "sentence": "De ___ van het festival waren erg enthousiast.",
-        "answer": "bezoekers"
+        "word": "overleden",
+        "definition": "Niet meer levend; gestorven.",
+        "sentence": "Hij is ___ op 90-jarige leeftijd.",
+        "answer": "overleden"
       },
       {
-        "word": "gemeente",
-        "definition": "Een officieel gebied of gemeenschap met een eigen bestuur",
-        "sentence": "De ___ waar ik woon, heeft een nieuw park geopend.",
-        "answer": "gemeente"
+        "word": "Sauer",
+        "definition": "Duitse achternaam, betekent 'zuur' of 'bitter'.",
+        "sentence": "De familie ___ heeft veel bekende schrijvers.",
+        "answer": "Sauer"
       },
       {
-        "word": "deelnemers",
-        "definition": "Mensen die meedoen aan een activiteit of evenement",
-        "sentence": "Alle ___ van de wedstrijd krijgen een medaille.",
-        "answer": "deelnemers"
+        "word": "2025",
+        "definition": "Een jaartal in de toekomst; bijvoorbeeld, 2025.",
+        "sentence": "We verwachten de opening in ___.",
+        "answer": "2025"
       },
       {
-        "word": "plan",
-        "definition": "Een idee of methode over wat je gaat doen",
-        "sentence": "Wat is jouw ___ voor het weekend?",
-        "answer": "plan"
+        "word": "geboren",
+        "definition": "Het begin van iemands leven; ter wereld komen.",
+        "sentence": "Zij werd ___ in 1947, net na de oorlog.",
+        "answer": "geboren"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Alle ___ van de wedstrijd krijgen een medaille.",
-        "answer": "deelnemers"
+        "sentence": "Zij werd ___ in 1947, net na de oorlog.",
+        "answer": "geboren"
       },
       {
-        "sentence": "De ___ waar ik woon, heeft een nieuw park geopend.",
-        "answer": "gemeente"
+        "sentence": "De familie ___ heeft veel bekende schrijvers.",
+        "answer": "Sauer"
       },
       {
-        "sentence": "Wat is jouw ___ voor het weekend?",
-        "answer": "plan"
+        "sentence": "Deze gebeurtenis vond plaats in ___.",
+        "answer": "1947"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de reden dat de rave werd stopgezet?",
+      "question": "In welk jaar is Annemarie Sauer geboren?",
       "options": [
-        "Er waren te veel deelnemers",
-        "Er was geen vergunning",
-        "Het was te laat in de nacht",
-        "De muziek was te luid"
+        "1940",
+        "1945",
+        "1947",
+        "1950"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Hoe lang was de rave gepland te duren?",
+      "question": "Op welke datum is Annemarie Sauer overleden?",
       "options": [
-        "Tot zaterdagavond",
-        "Tot zondagmiddag",
-        "Tot maandagochtend",
-        "Slechts een paar uur"
+        "20 oktober 2025",
+        "20 november 2025",
+        "20 december 2025",
+        "20 januari 2026"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Waar vond de rave plaats?",
+      "question": "Wat is de achternaam van Annemarie?",
       "options": [
-        "In Nederland",
-        "In een Belgische gemeente",
-        "In een Frans dorp",
-        "Op een Nederlands strand"
+        "Sauer",
+        "Schmidt",
+        "Müller",
+        "Weber"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De rave was illegaal omdat er geen vergunning was aangevraagd.",
+      "statement": "Annemarie Sauer werd geboren in 1947.",
       "isTrue": true
     },
     {
-      "statement": "De rave had meer dan 1000 bezoekers.",
+      "statement": "Annemarie Sauer stierf in november 2025.",
       "isTrue": false
     },
     {
-      "statement": "De deelnemers waren alleen uit België afkomstig.",
-      "isTrue": false
+      "statement": "Annemarie Sauer leefde tot 2025.",
+      "isTrue": true
     }
   ]
 }

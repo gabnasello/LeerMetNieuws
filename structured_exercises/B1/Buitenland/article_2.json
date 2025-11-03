@@ -1,105 +1,105 @@
 {
-  "id": 11,
+  "id": 13,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
+  "title": "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
   "topicNumber": 1,
   "article": {
-    "title": "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
-    "summary": "Waar zijn de Russische soldaten? Dat is de vraag voor de Oekraïense verdediging in Pokrovsk. De strategisch belangrijke stad dreigt te vallen door een nieuwe Russische manier van oorlogvoeren."
+    "title": "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
+    "summary": "Nu de kans op een snel bestand in Oekraïne vervlogen is, blijft de vraag: hoe zal deze oorlog eindigen? Niemand durft het te voorspellen, maar een trend is duidelijk: Oekraïne kan financieel niet veel verder, maar het moet wel."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "vraag",
-        "definition": "een vraag is iets wat je wilt weten, je stelt een vraag om informatie te krijgen.",
-        "sentence": "Dat is de ___ voor de Oekraïense verdediging.",
-        "answer": "vraag"
+        "word": "oorlog",
+        "definition": "Een situatie waarin landen of groepen vechten.",
+        "sentence": "Een ___ brengt veel schade met zich mee.",
+        "answer": "oorlog"
       },
       {
-        "word": "vallen",
-        "definition": "hetzelfde als hierboven, het tegengestelde van staan of zweven.",
-        "sentence": "De stad dreigt te ___ door de nieuwe tactiek.",
-        "answer": "vallen"
+        "word": "financieel",
+        "definition": "Alles wat met geld te maken heeft.",
+        "sentence": "Hij is ___ niet sterk.",
+        "answer": "financieel"
       },
       {
-        "word": "doen",
-        "definition": "uitvoeren van een actie, iets uitvoeren of maken.",
-        "sentence": "Nieuwe tactiek dreigt Pokrovsk te ___ vallen.",
-        "answer": "doen"
+        "word": "economische",
+        "definition": "Alles wat met de economie te maken heeft.",
+        "sentence": "De ___ situatie in het land is stabiel.",
+        "answer": "economische"
       },
       {
-        "word": "vallen",
-        "definition": "naar beneden gaan, niet meer staan of hangen, maar neerkomen.",
-        "sentence": "De stad dreigt te ___ door de nieuwe tactiek.",
-        "answer": "vallen"
+        "word": "voorspellen",
+        "definition": "Iets zeggen over wat er in de toekomst gaat gebeuren.",
+        "sentence": "Het is moeilijk om de toekomst te ___.",
+        "answer": "voorspellen"
       },
       {
-        "word": "doen",
-        "definition": "hetzelfde als hierboven, een actie uitvoeren.",
-        "sentence": "De nieuwe tactiek dreigt de stad te ___ vallen.",
-        "answer": "doen"
+        "word": "vervlogen",
+        "definition": "Iets dat voorbij is of niet meer bestaat.",
+        "sentence": "De hoop op vrede is ___.",
+        "answer": "vervlogen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De stad dreigt te ___ door de nieuwe tactiek.",
-        "answer": "vallen"
+        "sentence": "De hoop op vrede is ___.",
+        "answer": "vervlogen"
       },
       {
-        "sentence": "De stad dreigt te ___ door de nieuwe tactiek.",
-        "answer": "vallen"
+        "sentence": "Hij is ___ niet sterk.",
+        "answer": "financieel"
       },
       {
-        "sentence": "Dat is de ___ voor de Oekraïense verdediging.",
-        "answer": "vraag"
+        "sentence": "Een ___ brengt veel schade met zich mee.",
+        "answer": "oorlog"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdstad van Oekraïne?",
+      "question": "Waarover gaat dit artikel?",
       "options": [
-        "Kiev",
-        "Londen",
-        "Berlijn",
-        "Parijs"
+        "Over sport",
+        "Over vrede",
+        "Over Oekraïne",
+        "Over economie"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat betekent 'dreigen' in deze context?",
+      "question": "Wat is de situatie in Oekraïne?",
       "options": [
-        "aankondigen",
-        "verbergen",
-        "beschermen",
-        "verliezen"
+        "Er is vrede",
+        "Er is een oorlog",
+        "Er is een feest",
+        "Er is een vergadering"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is een synoniem voor 'tactiek'?",
+      "question": "Wat is de belangrijkste boodschap van de tekst?",
       "options": [
-        "strategie",
-        "vordering",
-        "verlies",
-        "winst"
+        "Oekraïne wint de oorlog",
+        "De economie is belangrijker dan het leger",
+        "Het leger is belangrijker dan de economie",
+        "Oekraïne heeft geen problemen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Pokrovsk is een stad in Oekraïne.",
+      "statement": "Oekraïne kan financieel niet verder.",
       "isTrue": true
     },
     {
-      "statement": "De Russische soldaten zijn aanwezig in Pokrovsk.",
+      "statement": "De oorlog is al afgelopen.",
       "isTrue": false
     },
     {
-      "statement": "De nieuwe tactiek zorgt ervoor dat de stad dreigt te vallen.",
+      "statement": "Een economische uitputtingsslag is belangrijker dan een militaire.",
       "isTrue": true
     }
   ]

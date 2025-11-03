@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Frans parlement verwerpt rijkentaks",
+  "title": "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een eigen versie van de Monroedoctrine",
   "topicNumber": 1,
   "article": {
-    "title": "Frans parlement verwerpt rijkentaks",
-    "summary": "Het Franse parlement heeft voorstellen om de rijksten te belasten verworpen. Er is geen sprake van een wonderbelasting."
+    "title": "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een eigen versie van de Monroedoctrine",
+    "summary": "Amerikaanse media noemen hem een piraat en waarschuwen voor de risico’s van een invasie van Venezuela. Maar Donald Trump maakt van Latijns-Amerika opnieuw zijn exclusieve speeltuin, in zijn geheel eigen versie van de Monroedoctrine."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Frans",
-        "definition": "Betrekking hebbend op Frankrijk",
-        "sentence": "Het ___ parlement heeft de wet aangenomen.",
-        "answer": "Frans"
+        "word": "Monroedoctrine",
+        "definition": "Een oude Amerikaanse politieke doctrine die zegt dat Europa zich niet moet bemoeien met Amerika.",
+        "sentence": "De ___ is een belangrijk stuk geschiedenis voor de Verenigde Staten.",
+        "answer": "Monroedoctrine"
       },
       {
-        "word": "parlement",
-        "definition": "Een groep mensen die wetten maakt",
-        "sentence": "Het Nederlands ___ bestaat uit de Eerste en Tweede Kamer.",
-        "answer": "parlement"
+        "word": "speeltuin",
+        "definition": "Een plek waar kinderen kunnen spelen, vaak met toestellen zoals glijbanen en schommels.",
+        "sentence": "Kinderen spelen graag in de ___.",
+        "answer": "speeltuin"
       },
       {
-        "word": "verwerpt",
-        "definition": "Niet accepteren, afwijzen",
-        "sentence": "De regering ___ het voorstel voor een nieuwe wet.",
-        "answer": "verwerpt"
+        "word": "invasie",
+        "definition": "Binnen vallen van een gebied of land door een ander leger.",
+        "sentence": "Een ___ is vaak het begin van een oorlog.",
+        "answer": "invasie"
       },
       {
-        "word": "rijkentaks",
-        "definition": "Belasting voor mensen met veel geld",
-        "sentence": "De ___ is bedoeld om de rijken te belasten.",
-        "answer": "rijkentaks"
+        "word": "versie",
+        "definition": "Een bepaalde vorm of editie van iets, zoals een verhaal of software.",
+        "sentence": "Welke ___ van het spel heb jij?",
+        "answer": "versie"
       },
       {
-        "word": "is",
-        "definition": "Zijn, het tegenwoordige tijd van 'zijn'",
-        "sentence": "Hij ___ erg blij met het resultaat.",
-        "answer": "is"
+        "word": "Donald Trump",
+        "definition": "De voornaam en achternaam van de voormalige president van de Verenigde Staten.",
+        "sentence": "___ is een bekende politieke figuur.",
+        "answer": "Donald Trump"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het Nederlands ___ bestaat uit de Eerste en Tweede Kamer.",
-        "answer": "parlement"
+        "sentence": "Een ___ is vaak het begin van een oorlog.",
+        "answer": "invasie"
       },
       {
-        "sentence": "Het ___ parlement heeft de wet aangenomen.",
-        "answer": "Frans"
+        "sentence": "De ___ is een belangrijk stuk geschiedenis voor de Verenigde Staten.",
+        "answer": "Monroedoctrine"
       },
       {
-        "sentence": "De ___ is bedoeld om de rijken te belasten.",
-        "answer": "rijkentaks"
+        "sentence": "___ is een bekende politieke figuur.",
+        "answer": "Donald Trump"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is het Franse parlement?",
+      "question": "Wat is de Monroedoctrine?",
       "options": [
-        "Een gebouw in Parijs",
-        "De Assemblée Nationale",
-        "Een groep Franse ministers",
-        "De Franse regering"
+        "Een sport",
+        "Een politiek beleid",
+        "Een soort eten",
+        "Een historisch monument"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'verwerpt' in deze context?",
+      "question": "Wat betekent 'invasie' in deze context?",
       "options": [
-        "Accepteert",
-        "Verwerpt",
-        "Wijst af",
-        "Verbergt"
+        "Een feest",
+        "Een soort dans",
+        "Binnenvallen door een leger",
+        "Een nieuwe wet"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Waar ligt Venezuela?",
       "options": [
-        "Een belasting voor iedereen",
-        "Een belasting voor de armen",
-        "Een belasting voor de rijken",
-        "Een feest in Frankrijk"
+        "In Afrika",
+        "In Azië",
+        "In Zuid-Amerika",
+        "In Europa"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het Franse parlement heeft de rijkentaks goedgekeurd.",
+      "statement": "Donald Trump is de huidige president van de Verenigde Staten.",
       "isTrue": false
     },
     {
-      "statement": "Er is een nieuwe wet aangenomen in Frankrijk.",
-      "isTrue": false
+      "statement": "Venezuela is een land in Zuid-Amerika.",
+      "isTrue": true
     },
     {
-      "statement": "De rijkentaks is niet ingevoerd in Frankrijk.",
+      "statement": "De Monroedoctrine is een beleid dat zegt dat de Verenigde Staten Europa niet in Amerika laat bemoeien.",
       "isTrue": true
     }
   ]

@@ -3,104 +3,92 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
+  "title": "Thomas Siffer neemt afscheid van Louise Delanghe",
   "topicNumber": 1,
   "article": {
-    "title": "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
-    "summary": "Zeventig procent van de producten die Testaankoop samen met buitenlandse consumentenorganisaties kocht bij webwinkels Shein en Temu, voldoet niet aan de Europese veiligheidsregels. Sommige goedkope sieraden en babyspeeltjes blijken zelfs gevaarlijk. “We hebben meteen alles offline gehaald”, reageren Shein en Temu."
+    "title": "Thomas Siffer neemt afscheid van Louise Delanghe",
+    "summary": "Schrijver Thomas Siffer herdenkt de jonge kunstenares Louise Delanghe die omkwam bij een verkeersongeval."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "producten",
-        "definition": "dingen die je kunt kopen en gebruiken",
-        "sentence": "Sommige ___ zijn niet veilig om te gebruiken.",
-        "answer": "producten"
+        "word": "afscheid",
+        "definition": "het einde van een bijeenkomst of een laatste ontmoeting",
+        "sentence": "Hij nam ___ van zijn collega's toen hij vertrok.",
+        "answer": "afscheid"
       },
       {
-        "word": "Russische roulette",
-        "definition": "een gevaarlijk spel waar je veel risico neemt, genoemd naar een Russisch spel",
-        "sentence": "Kopen bij die winkels is als ___ spelen.",
-        "answer": "Russische roulette"
+        "word": "kunstenares",
+        "definition": "een vrouw die kunst maakt, zoals schilderen of tekenen",
+        "sentence": "De ___ maakte een mooi schilderij van de zonsondergang.",
+        "answer": "kunstenares"
       },
       {
-        "word": "consumentenorganisaties",
-        "definition": "groepen die opkomen voor de belangen van kopers/gebruikers",
-        "sentence": "Samen met internationale ___ test Testaankoop producten.",
-        "answer": "consumentenorganisaties"
-      },
-      {
-        "word": "webwinkels",
-        "definition": "online winkels waar je producten kunt kopen via internet",
-        "sentence": "Sommige ___ verkopen producten die niet veilig zijn.",
-        "answer": "webwinkels"
-      },
-      {
-        "word": "babyspeeltjes",
-        "definition": "speelgoed speciaal gemaakt voor baby's",
-        "sentence": "Ook sommige ___ voldoen niet aan de veiligheidsnormen.",
-        "answer": "babyspeeltjes"
+        "word": "omkwam",
+        "definition": "overleed, stierf (meestal door een ongeluk)",
+        "sentence": "Helaas ___ hij in een auto-ongeluk vorig jaar.",
+        "answer": "omkwam"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Sommige ___ zijn niet veilig om te gebruiken.",
-        "answer": "producten"
+        "sentence": "Hij nam ___ van zijn collega's toen hij vertrok.",
+        "answer": "afscheid"
       },
       {
-        "sentence": "Sommige ___ verkopen producten die niet veilig zijn.",
-        "answer": "webwinkels"
+        "sentence": "Helaas ___ hij in een auto-ongeluk vorig jaar.",
+        "answer": "omkwam"
       },
       {
-        "sentence": "Kopen bij die winkels is als ___ spelen.",
-        "answer": "Russische roulette"
+        "sentence": "De ___ maakte een mooi schilderij van de zonsondergang.",
+        "answer": "kunstenares"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom noemt Testaankoop kopen bij Temu 'Russische roulette'?",
+      "question": "Waarover schreef Thomas Siffer een afscheid?",
       "options": [
-        "Omdat het een leuk spel is",
-        "Omdat het veel geld kost",
-        "Omdat het een groot risico is voor de koper",
-        "Omdat het een oude traditie is"
+        "Over een vakantie",
+        "Over een feest",
+        "Over een kunstwerk",
+        "Over de jonge kunstenares Louise Delanghe"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     },
     {
-      "question": "Wat deden Shein en Temu na de waarschuwing?",
+      "question": "Hoe wordt Louise Delanghe omschreven in de tekst?",
       "options": [
-        "Ze sloten de webwinkels",
-        "Ze haalden de producten offline",
-        "Ze negeerden de waarschuwing",
-        "Ze verhoogden de prijzen"
+        "Als een saaie persoon",
+        "Als een intelligente en vrolijke persoon",
+        "Als een boze persoon",
+        "Als een oude persoon"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een voorbeeld van een product dat niet voldeed?",
+      "question": "Wat gebeurde er met Louise Delanghe?",
       "options": [
-        "Een veiligheidshelm",
-        "Een brandblusser",
-        "Een goedkoop sieraad",
-        "Een stevige tafel"
+        "Ze won een prijs",
+        "Ze verhuisde naar een ander land",
+        "Ze overleed in een verkeersongeluk",
+        "Ze startte een nieuwe baan"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Testaankoop testte de producten alleen.",
-      "isTrue": false
-    },
-    {
-      "statement": "Shein en Temu haalden de producten offline na de waarschuwing.",
+      "statement": "Thomas Siffer is de schrijver van de afscheidstekst.",
       "isTrue": true
     },
     {
-      "statement": "Alle producten van Shein en Temu zijn veilig volgens Europese normen.",
+      "statement": "Louise Delanghe was een oudere vrouw die thuis bleef.",
       "isTrue": false
+    },
+    {
+      "statement": "Louise Delanghe overleed door een verkeersongeluk.",
+      "isTrue": true
     }
   ]
 }

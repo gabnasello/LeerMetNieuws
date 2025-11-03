@@ -1,105 +1,105 @@
 {
-  "id": 13,
+  "id": 15,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
+  "title": "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
   "topicNumber": 1,
   "article": {
-    "title": "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
-    "summary": "Waar zijn de Russische soldaten? Dat is de vraag voor de Oekraïense verdediging in Pokrovsk. De strategisch belangrijke stad dreigt te vallen door een nieuwe Russische manier van oorlogvoeren."
+    "title": "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
+    "summary": "Nu de kans op een snel bestand in Oekraïne vervlogen is, blijft de vraag: hoe zal deze oorlog eindigen? Niemand durft het te voorspellen, maar een trend is duidelijk: Oekraïne kan financieel niet veel verder, maar het moet wel."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "verdediging",
-        "definition": "het beschermen tegen aanvallen",
-        "sentence": "De verdediging van Pokrovsk is cruciaal.",
-        "answer": "verdediging"
+        "word": "Oekraïne",
+        "definition": "Een land in Oost-Europa, momenteel betrokken bij een conflict.",
+        "sentence": "___ heeft behoefte aan internationale steun om te herstellen.",
+        "answer": "Oekraïne"
       },
       {
-        "word": "vraag",
-        "definition": "een vraag of verzoek om informatie",
-        "sentence": "Dat is de ___ voor de Oekraïense verdediging.",
-        "answer": "vraag"
+        "word": "militair",
+        "definition": "Met betrekking tot soldaten, oorlog of gewapende strijd.",
+        "sentence": "Hij diende in het ___ apparaat voor tien jaar.",
+        "answer": "militair"
       },
       {
-        "word": "zijn",
-        "definition": "bestaan of aanwezig zijn",
-        "sentence": "Waar zijn de Russische soldaten?",
-        "answer": "zijn"
+        "word": "trend",
+        "definition": "Een algemene richting of tendens waarin iets zich ontwikkelt of verandert.",
+        "sentence": "De opkomende ___ in de mode is om vintage kleding te dragen.",
+        "answer": "trend"
       },
       {
-        "word": "Russische",
-        "definition": "betrekking hebbend op Rusland",
-        "sentence": "De ___ soldaten zijn niet zichtbaar, maar hun tactiek is duidelijk.",
-        "answer": "Russische"
+        "word": "financieel",
+        "definition": "Met betrekking tot geld, financiën of monetaire zaken.",
+        "sentence": "Zonder een sterke economie is een land ___ onstabiel.",
+        "answer": "financieel"
       },
       {
-        "word": "oorlogvoeren",
-        "definition": "het voeren van oorlog, oorlog voeren",
-        "sentence": "De nieuwe manier van ___ is effectief maar gevaarlijk.",
-        "answer": "oorlogvoeren"
+        "word": "oorlog",
+        "definition": "Een gewapend conflict tussen landen of groepen.",
+        "sentence": "De ___ heeft veel levens verwoest en steden verwoest.",
+        "answer": "oorlog"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De verdediging van Pokrovsk is cruciaal.",
-        "answer": "verdediging"
+        "sentence": "Hij diende in het ___ apparaat voor tien jaar.",
+        "answer": "militair"
       },
       {
-        "sentence": "Dat is de ___ voor de Oekraïense verdediging.",
-        "answer": "vraag"
+        "sentence": "De opkomende ___ in de mode is om vintage kleding te dragen.",
+        "answer": "trend"
       },
       {
-        "sentence": "De ___ soldaten zijn niet zichtbaar, maar hun tactiek is duidelijk.",
-        "answer": "Russische"
+        "sentence": "Zonder een sterke economie is een land ___ onstabiel.",
+        "answer": "financieel"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar zijn de Russische soldaten volgens de tekst?",
+      "question": "Wat betekent 'vervlogen' in deze context?",
       "options": [
-        "Niet zichtbaar in de stad",
-        "Alleen in Pokrovsk",
-        "Overal in Oekraïne",
-        "Alleen in Moskou"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is het gevolg van de nieuwe Russische tactiek?",
-      "options": [
-        "Pokrovsk valt snel",
-        "Oekraïne wint de oorlog",
-        "De soldaten keren terug",
-        "Er is geen effect"
+        "Vergeten",
+        "Actueel",
+        "Vernieuwend",
+        "Versterkend"
       ],
       "correctAnswer": 1
     },
     {
       "question": "Wat is de hoofdgedachte van de tekst?",
       "options": [
-        "Oekraïne verliest snel",
-        "De vraag naar soldaten is cruciaal",
-        "Rusland gebruikt nieuwe methoden",
-        "Pokrovsk is al gevallen"
+        "Oekraïne wint de oorlog",
+        "Economische factoren zijn beslissend",
+        "Militair overwicht is alles",
+        "Het einde is nabij"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de toestand van Oekraïne volgens de tekst?",
+      "options": [
+        "Het is een economische grootmacht",
+        "Het kan financieel niet verder",
+        "Het is militair onverslaanbaar",
+        "Het heeft buitenlandse steun niet nodig"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Russische soldaten zijn duidelijk zichtbaar in Pokrovsk.",
-      "isTrue": false
-    },
-    {
-      "statement": "De nieuwe Russische tactiek veroorzaakt dat Pokrovk dreigt te vallen.",
+      "statement": "De tekst suggereert dat Oekraïne de oorlog kan winnen door economische veerkracht.",
       "isTrue": true
     },
     {
-      "statement": "De tekst is voornamelijk gericht op de locatie van de Russische soldaten.",
+      "statement": "Een snel bestand in Oekraïne is nog steeds mogelijk.",
+      "isTrue": false
+    },
+    {
+      "statement": "Oekraïne heeft geen andere keuze dan door te vechten op alle fronten.",
       "isTrue": true
     }
   ]

@@ -3,104 +3,98 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
+  "title": "Amerikaanse rechter wendt hongercrisis af",
   "topicNumber": 1,
   "article": {
-    "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
-    "summary": "Zaterdagavond zijn meerdere mensen neergestoken in een trein die naar het Engelse Huntingdon reed. Dat meldt de Britse transportpolitie. Er zijn twee verdachten gearresteerd."
+    "title": "Amerikaanse rechter wendt hongercrisis af",
+    "summary": "42 miljoen Amerikanen krijgen eten van de regering. De rechter helpt de voedselbonnen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "politie",
-        "definition": "mensen die de wet handhaven",
-        "sentence": "De ___ heeft de verdachten gearresteerd.",
-        "answer": "politie"
+        "word": "rechter",
+        "definition": "iemand die beslist over de wet",
+        "sentence": "De ___ beslist over de zaak.",
+        "answer": "rechter"
       },
       {
-        "word": "opgepakt",
-        "definition": "gearresteerd door de politie",
-        "sentence": "De politie heeft de verdachten ___.",
-        "answer": "opgepakt"
+        "word": "Amerikaan",
+        "definition": "iemand die in Amerika woont",
+        "sentence": "De ___ komt uit de Verenigde Staten.",
+        "answer": "Amerikaan"
       },
       {
-        "word": "neergestoken",
-        "definition": "gestoken met een mes",
-        "sentence": "Mensen werden ___ in de trein.",
-        "answer": "neergestoken"
+        "word": "eten",
+        "definition": "iets wat je kunt opeten, zoals brood",
+        "sentence": "Ik ga vanavond ___ met mijn gezin.",
+        "answer": "eten"
       },
       {
-        "word": "mensen",
-        "definition": "personen",
-        "sentence": "Verschillende ___ werden neergestoken.",
-        "answer": "mensen"
-      },
-      {
-        "word": "trein",
-        "definition": "een voertuig dat rijdt op rails",
-        "sentence": "Het incident vond plaats in een ___.",
-        "answer": "trein"
+        "word": "krijgen",
+        "definition": "iets ontvangen van iemand",
+        "sentence": "Zij ___ een cadeau van hun vriend.",
+        "answer": "krijgen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het incident vond plaats in een ___.",
-        "answer": "trein"
+        "sentence": "De ___ komt uit de Verenigde Staten.",
+        "answer": "Amerikaan"
       },
       {
-        "sentence": "De politie heeft de verdachten ___.",
-        "answer": "opgepakt"
+        "sentence": "De ___ beslist over de zaak.",
+        "answer": "rechter"
       },
       {
-        "sentence": "De ___ heeft de verdachten gearresteerd.",
-        "answer": "politie"
+        "sentence": "Ik ga vanavond ___ met mijn gezin.",
+        "answer": "eten"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gebeurde het incident?",
+      "question": "Wat is een rechter?",
       "options": [
-        "In een trein",
-        "In een bus",
-        "In een auto",
-        "Op een fiets"
+        "Een soort dokter",
+        "Een soort leraar",
+        "Een soort rechter",
+        "Een soort boer"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wie heeft de verdachten gearresteerd?",
+      "question": "Wat is de rol van de rechter in deze situatie?",
       "options": [
-        "De Britse transportpolitie",
-        "De Nederlandse politie",
-        "De Franse politie",
-        "De Duitse politie"
+        "Hij geeft eten aan mensen",
+        "Hij beslist over de wet",
+        "Hij kookt voor mensen",
+        "Hij werkt in een restaurant"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat gebeurde er met de verdachten?",
+      "question": "Wat is de uitkomst van de rechter's beslissing?",
       "options": [
-        "Ze werden opgepakt",
-        "Ze werden vrijgelaten",
-        "Ze werden vergeten",
-        "Ze werden ontslagen"
+        "Iedereen moet nu zelf voor eten zorgen",
+        "De regering geeft eten aan wie het nodig heeft",
+        "Er is geen eten meer over",
+        "De rechter eet al het eten op"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het incident vond plaats in een trein.",
+      "statement": "De rechter beslist dat de regering moet helpen.",
       "isTrue": true
     },
     {
-      "statement": "De verdachten zijn nog niet gevonden.",
+      "statement": "De rechter zegt dat niemand eten krijgt.",
       "isTrue": false
     },
     {
-      "statement": "De politie heeft de verdachten gearresteerd.",
-      "isTrue": true
+      "statement": "De voedselbonnen worden niet gebruikt.",
+      "isTrue": false
     }
   ]
 }

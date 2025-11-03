@@ -1,105 +1,105 @@
 {
-  "id": 23,
+  "id": 24,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Drones boven militaire basis",
+  "title": "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
   "topicNumber": 1,
   "article": {
-    "title": "Drones boven militaire basis",
-    "summary": "Drones zijn gezien boven een legerbasis. Minister Francken heeft plannen tegen drones."
+    "title": "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
+    "summary": "Meer dan de helft van de leerlingen in het middelbaar die afstandsonderwijs volgen, doet dat omdat ze psychisch kwetsbaar zijn. 'Elke dag in de klas zitten, lukt me niet.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Basis",
-        "definition": "een plaats waar mensen werken of wonen",
-        "sentence": "Soldaten leven en werken op een militaire ___.",
-        "answer": "Basis"
+        "word": "meer",
+        "definition": "een grotere hoeveelheid",
+        "sentence": "Ik heb ___ dan jij.",
+        "answer": "meer"
       },
       {
-        "word": "Tegen",
-        "definition": "tegen iets of iemand zijn",
-        "sentence": "Hij is ___ het plan.",
-        "answer": "Tegen"
+        "word": "via",
+        "definition": "door middel van",
+        "sentence": "Hij stuurt het bericht ___ de post.",
+        "answer": "via"
       },
       {
-        "word": "Plannen",
-        "definition": "ideeën voor de toekomst",
-        "sentence": "De overheid heeft nieuwe ___.",
-        "answer": "Plannen"
+        "word": "les",
+        "definition": "iets wat je leert op school",
+        "sentence": "Hij geeft ___ over taal.",
+        "answer": "les"
       },
       {
-        "word": "Boven",
-        "definition": "ergens boven, niet onder",
-        "sentence": "De vogel vliegt ___ het huis.",
-        "answer": "Boven"
+        "word": "leerlingen",
+        "definition": "kinderen die op school leren",
+        "sentence": "De ___ van deze school zijn erg blij.",
+        "answer": "leerlingen"
       },
       {
-        "word": "Gezien",
-        "definition": "iets met je ogen waarnemen",
-        "sentence": "Ik heb dat film ___.",
-        "answer": "Gezien"
+        "word": "helft",
+        "definition": "een van de twee gelijke delen van iets",
+        "sentence": "De ___ van de leerlingen is ziek.",
+        "answer": "helft"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ik heb dat film ___.",
-        "answer": "Gezien"
+        "sentence": "Hij stuurt het bericht ___ de post.",
+        "answer": "via"
       },
       {
-        "sentence": "De vogel vliegt ___ het huis.",
-        "answer": "Boven"
+        "sentence": "De ___ van deze school zijn erg blij.",
+        "answer": "leerlingen"
       },
       {
-        "sentence": "Soldaten leven en werken op een militaire ___.",
-        "answer": "Basis"
+        "sentence": "Ik heb ___ dan jij.",
+        "answer": "meer"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een drone?",
+      "question": "Waarom volgen leerlingen les via Bednet?",
       "options": [
-        "Een soort auto",
-        "Een vliegend apparaat",
-        "Een soort boom",
+        "Omdat ze ziek zijn",
+        "Omdat ze het leuk vinden",
+        "Omdat ze moeten",
+        "Omdat ze niet kunnen betalen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is Bednet?",
+      "options": [
+        "Een soort school",
+        "Een soort sport",
+        "Een soort game",
         "Een soort boek"
       ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Hoe voelen leerlingen zich als ze niet naar school kunnen?",
+      "options": [
+        "Vrolijk",
+        "Verdrietig",
+        "Boos",
+        "Bang"
+      ],
       "correctAnswer": 2
-    },
-    {
-      "question": "Wat doet de minister?",
-      "options": [
-        "Hij rijdt een auto",
-        "Hij eet een appel",
-        "Hij maakt plannen",
-        "Hij speelt buiten"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Waar zijn de drones gezien?",
-      "options": [
-        "In de stad",
-        "Op de maan",
-        "Boven een militaire basis",
-        "In een rivier"
-      ],
-      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Drones zijn grote vliegtuigen.",
+      "statement": "Leerlingen die Bednet gebruiken zijn altijd ziek.",
       "isTrue": false
     },
     {
-      "statement": "De minister heeft nieuwe plannen.",
+      "statement": "Sommige leerlingen kunnen niet naar school gaan door hun gezondheid.",
       "isTrue": true
     },
     {
-      "statement": "Drones zijn verboden boven de stad.",
+      "statement": "Bednet is een manier om thuis les te volgen.",
       "isTrue": true
     }
   ]

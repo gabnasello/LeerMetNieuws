@@ -1,15 +1,15 @@
 Artikel 1
-Nieuwsupdate: 2025-11-02 04:27 UCT
+Nieuwsupdate: 2025-11-03 04:33 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt
-Link: https://www.standaard.be/buitenland/verschillende-mensen-neergestoken-op-trein-in-engeland-twee-verdachten-opgepakt/101737708.html
-Datum: Sat, 01 Nov 2025 21:14:58 GMT
-Samenvatting: Zaterdagavond zijn meerdere mensen neergestoken in een trein die naar het Engelse Huntingdon reed. Dat meldt de Britse transportpolitie. Er zijn twee verdachten gearresteerd.
+Titel: Amerikaanse rechter wendt hongercrisis in VS (even) af
+Link: https://www.standaard.be/buitenland/amerikaanse-rechter-wendt-hongercrisis-in-vs-even-af/101825022.html
+Datum: Sun, 02 Nov 2025 22:59:00 GMT
+Samenvatting: 42 miljoen Amerikanen komen maar rond dankzij voedselsteun van de regering. De voedselbonnen van november lijken gered, al ontbreken er miljarden dollars.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.nieuwsblad.be/public/nieuws/zhplp0-befunky-collage.jpg/alternates/BASE_SIXTEEN_NINE/BeFunky-collage.jpg
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/lzt2s-gettyimages-2244385541.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-2244385541.jpg
+Premium: true
 ------------------------------------------------------------

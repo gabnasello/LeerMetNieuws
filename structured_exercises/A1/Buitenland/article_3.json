@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Oekraïne en Rusland",
+  "title": "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een geheel eigen versie van de Monroedoctrine.",
   "topicNumber": 1,
   "article": {
-    "title": "Oekraïne en Rusland",
-    "summary": "Oekraïne en Rusland zijn in oorlog. Lees hier het laatste nieuws."
+    "title": "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een geheel eigen versie van de Monroedoctrine.",
+    "summary": "Amerikaanse media noemen hem een piraat en waarschuwen voor de risico’s van een invasie van Venezuela. Maar Donald Trump maakt van Latijns-Amerika opnieuw zijn exclusieve speeltuin, in zijn geheel eigen versie van de Monroedoctrine."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Oekraïne",
-        "definition": "een land",
-        "sentence": "___ is een land.",
-        "answer": "Oekraïne"
-      },
-      {
-        "word": "Rusland",
-        "definition": "een ander land",
-        "sentence": "___ is ook een land.",
-        "answer": "Rusland"
-      },
-      {
-        "word": "oorlog",
-        "definition": "vechten tussen landen",
-        "sentence": "Er is nu ___ in Oekraïne.",
-        "answer": "oorlog"
-      },
-      {
-        "word": "nieuws",
-        "definition": "informatie over wat er gebeurt",
-        "sentence": "Het ___ zegt wat er gebeurt.",
-        "answer": "nieuws"
+        "word": "is",
+        "definition": "zijn, staat voor iets dat bestaat of gebeurt",
+        "sentence": "Hij ___ blij met het cadeau.",
+        "answer": "is"
       },
       {
         "word": "zijn",
-        "definition": "bestaan of voorkomen",
-        "sentence": "Ze ___ in Oekraïne.",
+        "definition": "bezittelijk voornaamwoord, zoals 'zijn boek'",
+        "sentence": "Dat is ___ huis.",
         "answer": "zijn"
+      },
+      {
+        "word": "maakt",
+        "definition": "doet of creëert",
+        "sentence": "Hij ___ een plan.",
+        "answer": "maakt"
+      },
+      {
+        "word": "een",
+        "definition": "een onbepaald lidwoord, zoals 'een boek'",
+        "sentence": "Ik heb ___ appel.",
+        "answer": "een"
+      },
+      {
+        "word": "van",
+        "definition": "een voorzetsel dat bezit of herkomst aangeeft",
+        "sentence": "Het boek ___ de leraar is op de tafel.",
+        "answer": "van"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is een land.",
-        "answer": "Oekraïne"
+        "sentence": "Hij ___ een plan.",
+        "answer": "maakt"
       },
       {
-        "sentence": "Er is nu ___ in Oekraïne.",
-        "answer": "oorlog"
+        "sentence": "Het boek ___ de leraar is op de tafel.",
+        "answer": "van"
       },
       {
-        "sentence": "Het ___ zegt wat er gebeurt.",
-        "answer": "nieuws"
+        "sentence": "Ik heb ___ appel.",
+        "answer": "een"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is Oekraïne?",
+      "question": "Waar gaat de tekst over?",
       "options": [
-        "Een stad",
-        "Een land",
-        "Een rivier",
-        "Een auto"
+        "Een reis naar de maan",
+        "Een politieke situatie met Donald Trump",
+        "Een recept voor taart",
+        "Een dag op het strand"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar is de oorlog?",
+      "question": "Wat betekent 'opnieuw'?",
       "options": [
-        "In Rusland",
-        "In Duitsland",
-        "In Oekraïne",
-        "In Frankrijk"
+        "Nooit meer",
+        "Weer een keer",
+        "Voor het eerst",
+        "Alleen maar"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is 'lezen'?",
+      "question": "Wat is Latijns-Amerika?",
       "options": [
-        "Een soort sport",
-        "Iets wat je met boeken doet",
-        "Een soort eten",
-        "Een land"
+        "Een soort voedsel",
+        "Een gebied met landen",
+        "Een bekende film",
+        "Een sportteam"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Oekraïne is een stad.",
-      "isTrue": false
-    },
-    {
-      "statement": "Rusland en Oekraïne zijn in oorlog.",
+      "statement": "Donald Trump is de president van Amerika.",
       "isTrue": true
     },
     {
-      "statement": "Je kunt nieuws lezen in een app.",
+      "statement": "De tekst gaat over koken.",
+      "isTrue": false
+    },
+    {
+      "statement": "Latijns-Amerika is een plaats op aarde.",
       "isTrue": true
     }
   ]

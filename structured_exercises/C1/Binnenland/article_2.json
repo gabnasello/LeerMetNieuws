@@ -1,105 +1,105 @@
 {
-  "id": 27,
+  "id": 28,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
+  "title": "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
   "topicNumber": 1,
   "article": {
-    "title": "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
-    "summary": "Ook vanavond zijn boven de militaire basis van Kleine-Brogel drones waargenomen. Vrijdag bespreekt de ministerraad het 'counterdronedossier' van Defensieminister Theo Francken (N-VA)."
+    "title": "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
+    "summary": "Meer dan de helft van de leerlingen in het middelbaar die afstandsonderwijs volgen, doet dat omdat ze psychisch kwetsbaar zijn. 'Elke dag in de klas zitten, lukt me niet.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "bespreekt",
-        "definition": "Bespreekt of overlegt over een onderwerp.",
-        "sentence": "Het team ___ de nieuwe strategie tijdens de vergadering.",
-        "answer": "bespreekt"
+        "word": "via",
+        "definition": "Door middel van; met gebruikmaking van.",
+        "sentence": "We communiceren ___ de chatfunctie.",
+        "answer": "via"
       },
       {
-        "word": "drones",
-        "definition": "Onbemande vliegende toestellen die vaak voor militaire of recreatieve doeleinden worden gebruikt.",
-        "sentence": "De militairen zagen verschillende ___ in de lucht tijdens de oefening.",
-        "answer": "drones"
+        "word": "helft",
+        "definition": "Een van de twee gelijke delen waarin iets verdeeld kan worden; de helft.",
+        "sentence": "De ___ van de deelnemers voltooide de studie.",
+        "answer": "helft"
       },
       {
-        "word": "Defensieminister",
-        "definition": "De minister die verantwoordelijk is voor de landsverdediging.",
-        "sentence": "De ___ gaf een persconferentie over de nieuwe defensiebegroting.",
-        "answer": "Defensieminister"
+        "word": "omdat",
+        "definition": "Geeft een reden of oorzaak aan.",
+        "sentence": "Hij is thuis ___ hij ziek is.",
+        "answer": "omdat"
       },
       {
-        "word": "minister",
-        "definition": "Een lid van de regering, belast met een specifiek beleidsgebied.",
-        "sentence": "De ___ van Onderwijs kondigde nieuwe subsidies aan voor scholen.",
-        "answer": "minister"
+        "word": "omdat",
+        "definition": "Geeft een reden of oorzaak aan.",
+        "sentence": "Hij is thuis ___ hij ziek is.",
+        "answer": "omdat"
       },
       {
-        "word": "ministerraad",
-        "definition": "Het college van ministers in een regering, die wekelijks bijeenkomt.",
-        "sentence": "De ___ komt elke vrijdag bijeen om de wekelijkse agenda te bespreken.",
-        "answer": "ministerraad"
+        "word": "psychisch",
+        "definition": "Betrekking hebbend op de geest; mentaal.",
+        "sentence": "De patiënt kreeg ___ ondersteuning na het trauma.",
+        "answer": "psychisch"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het team ___ de nieuwe strategie tijdens de vergadering.",
-        "answer": "bespreekt"
+        "sentence": "We communiceren ___ de chatfunctie.",
+        "answer": "via"
       },
       {
-        "sentence": "De ___ komt elke vrijdag bijeen om de wekelijkse agenda te bespreken.",
-        "answer": "ministerraad"
+        "sentence": "De ___ van de deelnemers voltooide de studie.",
+        "answer": "helft"
       },
       {
-        "sentence": "De militairen zagen verschillende ___ in de lucht tijdens de oefening.",
-        "answer": "drones"
+        "sentence": "De patiënt kreeg ___ ondersteuning na het trauma.",
+        "answer": "psychisch"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat wordt er besproken in de ministerraad volgens de tekst?",
+      "question": "Waarom volgen sommige leerlingen afstandsonderwijs via Bednet?",
       "options": [
-        "Het budget voor onderwijs",
-        "Het counterdronedossier",
-        "De bouw van een nieuwe basis",
-        "Hulp aan Oekraïne"
+        "Omdat ze fysiek niet naar school kunnen komen",
+        "Omdat ze psychische problemen hebben en daardoor de klas niet fysiek kunnen bijwonen",
+        "Omdat ze liever thuis werken dan op school",
+        "Omdat ze geen interesse hebben in onderwijs"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wie is Theo Francken volgens de tekst?",
+      "question": "Wat is een voordeel van Bednet volgens de tekst?",
       "options": [
-        "De minister van Defensie",
-        "De burgemeester van Kleine-Brogel",
-        "De minister van Buitenlandse Zaken",
-        "Een drone-piloot"
+        "Leerlingen kunnen volledig stoppen met onderwijs",
+        "Leerlingen krijgen extra vakken aangeboden",
+        "Leerlingen kunnen toch de lessen volgen, ook al zijn ze er niet fysiek",
+        "Leerlingen worden verplicht om online te zijn"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Op welke dag vond de beschreven gebeurtenis plaats?",
+      "question": "Wat is de hoofdgedachte van de samenvatting?",
       "options": [
-        "Vrijdag",
-        "Zaterdag",
-        "Zondag",
-        "Maandag"
+        "Bednet is een overbodige service",
+        "Leerlingen gebruiken Bednet omdat ze psychisch kwetsbaar zijn en niet fysiek naar school kunnen",
+        "Leerlingen kiezen voor Bednet om gemakkelijker te kunnen zijn",
+        "Bednet wordt enkel gebruikt tijdens vakanties"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Drones werden alleen 's avonds waargenomen boven Kleine Brogel.",
+      "statement": "Bednet biedt enkel onderwijs voor basisschoolleerlingen.",
       "isTrue": false
     },
     {
-      "statement": "Theo Francken is de minister van Defensie en maakt deel uit van de N-VA.",
+      "statement": "Leerlingen die Bednet gebruiken, zijn vaak psychisch kwetsbaar en kunnen niet fysiek naar school.",
       "isTrue": true
     },
     {
-      "statement": "De ministerraad bespreekt het counterdronedossier op zaterdag.",
+      "statement": "Bednet vervangt volledig het fysieke onderwijs voor alle leerlingen.",
       "isTrue": false
     }
   ]

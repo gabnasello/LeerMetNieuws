@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
+  "title": "Amerikaanse rechter wendt hongercrisis in VS (even) af",
   "topicNumber": 1,
   "article": {
-    "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
-    "summary": "Zaterdagavond zijn meerdere mensen neergestoken in een trein die naar het Engelse Huntingdon reed. Dat meldt de Britse transportpolitie. Er zijn twee verdachten gearresteerd."
+    "title": "Amerikaanse rechter wendt hongercrisis in VS (even) af",
+    "summary": "42 miljoen Amerikanen komen maar rond dankzij voedselsteun van de regering. De voedselbonnen van november lijken gered, al ontbreken er miljarden dollars."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "trein",
-        "definition": "Voertuig dat rijdt op rails",
-        "sentence": "De ___ staat stil op het station.",
-        "answer": "trein"
+        "word": "voedselsteun",
+        "definition": "hulp in de vorm van eten of bonnen voor eten",
+        "sentence": "Tijdens de lockdown kregen veel mensen ___ van de overheid.",
+        "answer": "voedselsteun"
       },
       {
-        "word": "verdachten",
-        "definition": "Mensen die iets slechts hebben gedaan, denkt men",
-        "sentence": "De twee ___ zijn opgepakt door de politie.",
-        "answer": "verdachten"
+        "word": "rechter",
+        "definition": "iemand die beslist of iets volgens de wet is",
+        "sentence": "De ___ besliste dat het programma door mocht gaan.",
+        "answer": "rechter"
       },
       {
-        "word": "Engeland",
-        "definition": "Land in Europa",
-        "sentence": "Londen is de hoofdstad van ___.",
-        "answer": "Engeland"
+        "word": "voedselbonnen",
+        "definition": "bonnen die je kunt inwisselen voor eten",
+        "sentence": "Ouderen kunnen vaak gratis ___ krijgen.",
+        "answer": "voedselbonnen"
       },
       {
-        "word": "Huntingdon",
-        "definition": "Stad in Engeland",
-        "sentence": "___ is een plaats in Engeland.",
-        "answer": "Huntingdon"
+        "word": "dollars",
+        "definition": "de munteenheid van de Verenigde Staten",
+        "sentence": "Hij spaarde al zijn ___ voor een nieuwe fiets.",
+        "answer": "dollars"
       },
       {
-        "word": "opgepakt",
-        "definition": "Gearresteerd, meegenomen door politie",
-        "sentence": "De agenten hebben de man ___.",
-        "answer": "opgepakt"
+        "word": "hongercrisis",
+        "definition": "een situatie waarin mensen niet genoeg te eten hebben",
+        "sentence": "Door de droogte ontstond er een ___ in het land.",
+        "answer": "hongercrisis"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is een plaats in Engeland.",
-        "answer": "Huntingdon"
+        "sentence": "Tijdens de lockdown kregen veel mensen ___ van de overheid.",
+        "answer": "voedselsteun"
       },
       {
-        "sentence": "De twee ___ zijn opgepakt door de politie.",
-        "answer": "verdachten"
+        "sentence": "Ouderen kunnen vaak gratis ___ krijgen.",
+        "answer": "voedselbonnen"
       },
       {
-        "sentence": "Londen is de hoofdstad van ___.",
-        "answer": "Engeland"
+        "sentence": "Hij spaarde al zijn ___ voor een nieuwe fiets.",
+        "answer": "dollars"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gebeurde het incident met de steekpartij?",
+      "question": "Waarom krijgen veel Amerikanen voedselsteun?",
       "options": [
-        "In een trein",
-        "In een bus",
-        "Op straat",
-        "In een park"
+        "Omdat er te weinig voedsel is",
+        "Omdat de regering dat organiseert",
+        "Omdat ze niet willen werken",
+        "Omdat het een speciale feestdag is"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wie zijn de verdachten volgens de tekst?",
+      "question": "Wat is er met de voedselbonnen van november gebeurd?",
       "options": [
-        "Twee mannen",
-        "Twee vrouwen",
-        "Een man en een vrouw",
-        "Niet vermeld"
+        "Ze zijn allemaal verloren gegaan",
+        "Ze zijn veilig, maar er is minder geld",
+        "Ze zijn veranderd in geld",
+        "Ze zijn gebruikt voor een feestmaal"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van de politie in dit bericht?",
+      "question": "Wat is de rol van de rechter in dit artikel?",
       "options": [
-        "Zij arresteerden twee mensen",
-        "Zij waren slachtoffer",
-        "Zij deden niks",
-        "Zij startten de aanval"
+        "Hij startte de voedselsteun",
+        "Hij stopte de voedselsteun tijdelijk",
+        "Hij kookte voor de mensen",
+        "Hiz verzamelde de bonnen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het incident vond plaats in een trein in Engeland.",
-      "isTrue": true
-    },
-    {
-      "statement": "Er is slechts één verdachte gearresteerd.",
+      "statement": "De rechter heeft de voedselsteun helemaal gestopt.",
       "isTrue": false
     },
     {
-      "statement": "De politie heeft de twee verdachten gearresteerd.",
+      "statement": "Er zijn miljarden dollars die nog niet gevonden zijn.",
+      "isTrue": true
+    },
+    {
+      "statement": "Alleen Amerikanen krijgen voedselsteun van hun regering.",
       "isTrue": true
     }
   ]

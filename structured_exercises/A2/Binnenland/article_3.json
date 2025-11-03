@@ -1,106 +1,106 @@
 {
-  "id": 20,
+  "id": 21,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Amper zon in oktober, maar wel bijna een record",
+  "title": "Thomas Siffer neemt afscheid van Louise Delanghe",
   "topicNumber": 1,
   "article": {
-    "title": "Amper zon in oktober, maar wel bijna een record",
-    "summary": "De voorbije maand oktober was zo somber dat er bijna een record in zat. Alleen oktober 1998 was nog zonlozer. Maar er is ook goed nieuws: woensdag wordt het gezellig warm."
+    "title": "Thomas Siffer neemt afscheid van Louise Delanghe",
+    "summary": "Louise Delanghe was een jonge kunstenares. Ze was intelligent, vrolijk, vriendelijk en vol leven. Helaas kwam ze om bij een verkeersongeluk. Schrijver Thomas Siffer neemt afscheid van haar."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "somber",
-        "definition": "niet vrolijk, een beetje triest",
-        "sentence": "Het weer was erg ___ in oktober.",
-        "answer": "somber"
+        "word": "kunst",
+        "definition": "werken die gemaakt zijn om mooi of expressief te zijn, zoals schilderijen of muziek",
+        "sentence": "Louise had een grote passie voor kunst en creëerde haar eigen meesterwerken.",
+        "answer": "kunst"
       },
       {
-        "word": "maand",
-        "definition": "een van de twaalf delen van een jaar",
-        "sentence": "October is een ___ waarin het vaak regent.",
-        "answer": "maand"
+        "word": "kunstenares",
+        "definition": "iemand die kunst maakt, zoals schilderen of tekenen",
+        "sentence": "Louise was een getalenteerde kunstenares die prachtige schilderijen maakte.",
+        "answer": "kunstenares"
       },
       {
-        "word": "warm",
-        "definition": "niet koud, een hoge temperatuur",
-        "sentence": "De soep is nog ___ genoeg om te eten.",
-        "answer": "warm"
+        "word": "intelligent",
+        "definition": "slim en goed in het leren van nieuwe dingen",
+        "sentence": "Louise was niet alleen creatief maar ook erg intelligent.",
+        "answer": "intelligent"
       },
       {
-        "word": "record",
-        "definition": "het hoogste of beste dat ooit is bereikt",
-        "sentence": "Hij brak het ___ voor de meeste goals.",
-        "answer": "record"
+        "word": "afscheid",
+        "definition": "het moment waarop je gedag zegt, vaak omdat iemand weggaat of overlijdt",
+        "sentence": "Thomas Siffer nam afscheid van zijn goede vriendin in een emotioneel afscheid.",
+        "answer": "afscheid"
       },
       {
-        "word": "gezellig",
-        "definition": "gezellig en leuk",
-        "sentence": "We hadden een ___ avond met vrienden.",
-        "answer": "gezellig"
+        "word": "vriendelijk",
+        "definition": "aardig en behulpzaam tegenover anderen",
+        "sentence": "Iedereen herinnerde haar als een warme en vriendelijke persoon.",
+        "answer": "vriendelijk"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "October is een ___ waarin het vaak regent.",
-        "answer": "maand"
+        "sentence": "Louise was niet alleen creatief maar ook erg intelligent.",
+        "answer": "intelligent"
       },
       {
-        "sentence": "We hadden een ___ avond met vrienden.",
-        "answer": "gezellig"
+        "sentence": "Iedereen herinnerde haar als een warme en vriendelijke persoon.",
+        "answer": "vriendelijk"
       },
       {
-        "sentence": "De soep is nog ___ genoeg om te eten.",
-        "answer": "warm"
+        "sentence": "Thomas Siffer nam afscheid van zijn goede vriendin in een emotioneel afscheid.",
+        "answer": "afscheid"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat was bijzonder aan oktober dit jaar?",
+      "question": "Wat was de rol van Louise Delanghe?",
       "options": [
-        "Het was heel zonnig",
-        "Het was erg somber",
-        "Het was heel warm",
-        "Het was erg koud"
+        "Ze was een schrijfster",
+        "Ze was een kunstenares",
+        "Ze was een zangeres",
+        "Ze was een danseres"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het goede nieuws in het artikel?",
+      "question": "Hoe wordt Louise door Thomas Siffer beschreven?",
       "options": [
-        "Het wordt koud",
-        "Het wordt warm",
-        "Het gaat sneeuwen",
-        "Het wordt zonnig"
+        "Als een somber en serieus persoon",
+        "Als een intelligent, vrolijk, vriendelijk en uitbundig persoon",
+        "Als een verlegen en teruggetrokken persoon",
+        "Als een boosaardig en gemeen persoon"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een 'record' in deze context?",
+      "question": "Wat gebeurde er met Louise Delanghe?",
       "options": [
-        "Een soort muziek",
-        "Een soort sport",
-        "Een ongekende prestatie",
-        "Een type weer"
+        "Ze ging met pensioen",
+        "Ze verhuisde naar een ander land",
+        "Ze overleed helaas bij een verkeersongeval",
+        "Ze verhuisde naar een andere stad"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Oktober dit jaar was erg zonnig.",
-      "isTrue": false
-    },
-    {
-      "statement": "Er is goed nieuws: woensdag wordt het warm.",
+      "statement": "Louise Delanghe was een kunstenares die schilderijen maakte.",
       "isTrue": true
     },
     {
-      "statement": "Oktober 1998 was minder somber dan dit jaar.",
+      "statement": "Louise Delanghe was een bekende actrice in Hollywood.",
       "isTrue": false
+    },
+    {
+      "statement": "Thomas Siffer schreef over Louise om afscheid van haar te nemen na haar overlijden.",
+      "isTrue": true
     }
   ]
 }

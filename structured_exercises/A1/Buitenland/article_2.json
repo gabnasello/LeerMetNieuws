@@ -1,106 +1,106 @@
 {
-  "id": 9,
+  "id": 11,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Waar zijn de Russische soldaten?",
+  "title": "Oekraïne en de oorlog",
   "topicNumber": 1,
   "article": {
-    "title": "Waar zijn de Russische soldaten?",
-    "summary": "Waar zijn de Russische soldaten? Dat is de vraag in de oorlog in Oekraïne. De stad Pokrovsk kan vallen door een nieuwe Russische tactiek."
+    "title": "Oekraïne en de oorlog",
+    "summary": "Oekraïne heeft een oorlog. Het land heeft weinig geld. Het land moet doorgaan. Hoe zal de oorlog eindigen?"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "tactiek",
-        "definition": "een plan of manier om iets te doen",
-        "sentence": "De nieuwe ___ van Rusland is gevaarlijk.",
-        "answer": "tactiek"
+        "word": "oorlog",
+        "definition": "een tijd van vechten tussen landen",
+        "sentence": "Er is een ___ in Oekraïne.",
+        "answer": "oorlog"
       },
       {
-        "word": "stad",
-        "definition": "een grote plaats waar mensen wonen",
-        "sentence": "De ___ Pokrovsk kan vallen.",
-        "answer": "stad"
+        "word": "geld",
+        "definition": "wat je gebruikt om te betalen",
+        "sentence": "Oekraïne heeft weinig ___.",
+        "answer": "geld"
       },
       {
-        "word": "Russische",
-        "definition": "van of gerelateerd aan Rusland",
-        "sentence": "De ___ soldaten gebruiken een nieuwe tactiek.",
-        "answer": "Russische"
+        "word": "land",
+        "definition": "een gebied met eigen regels en mensen",
+        "sentence": "Oekraïne is een ___.",
+        "answer": "land"
       },
       {
-        "word": "waar",
-        "definition": "op welke plaats of locatie",
-        "sentence": "___ zijn de soldaten?",
-        "answer": "waar"
+        "word": "eindigen",
+        "definition": "stoppen, klaar zijn",
+        "sentence": "Hoe zal de oorlog ___?",
+        "answer": "eindigen"
       },
       {
-        "word": "nieuwe",
-        "definition": "iets dat nog niet eerder is geweest",
-        "sentence": "Ze gebruiken een ___ manier van oorlogvoeren.",
-        "answer": "nieuwe"
+        "word": "doorgaan",
+        "definition": "verder gaan, niet stoppen",
+        "sentence": "Oekraïne moet ___ met vechten.",
+        "answer": "doorgaan"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze gebruiken een ___ manier van oorlogvoeren.",
-        "answer": "nieuwe"
+        "sentence": "Oekraïne moet ___ met vechten.",
+        "answer": "doorgaan"
       },
       {
-        "sentence": "___ zijn de soldaten?",
-        "answer": "waar"
+        "sentence": "Oekraïne heeft weinig ___.",
+        "answer": "geld"
       },
       {
-        "sentence": "De ___ soldaten gebruiken een nieuwe tactiek.",
-        "answer": "Russische"
+        "sentence": "Oekraïne is een ___.",
+        "answer": "land"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar zijn de Russische soldaten?",
+      "question": "Wat betekent 'oorlog'?",
       "options": [
-        "In Rusland",
-        "In Oekraïne",
-        "In de stad Pokrovsk",
-        "Dat is niet bekend"
+        "een feest",
+        "een ziekte",
+        "een conflict tussen landen",
+        "een soort eten"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de vraag voor de Oekraïense verdediging?",
+      "question": "Wat is 'geld'?",
       "options": [
-        "Hoe heet de stad?",
-        "Waar zijn de Russische soldaten?",
-        "Hoeveel soldaten zijn er?",
-        "Wat is de naam van de stad?"
+        "een dier",
+        "wat je gebruikt om dingen te kopen",
+        "een land",
+        "een taal"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat dreigt er te gebeuren met de stad Pokrovsk?",
+      "question": "Wat is 'eindigen'?",
       "options": [
-        "Het wordt groter",
-        "Het valt",
-        "Het wordt herbouwd",
-        "Het verandert van naam"
+        "beginnen",
+        "stoppen",
+        "verliezen",
+        "winnen"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Russische soldaten zijn in Oekraïne.",
-      "isTrue": true
-    },
-    {
-      "statement": "De stad Pokrovsk is al gevallen.",
+      "statement": "Oekraïne heeft veel geld.",
       "isTrue": false
     },
     {
-      "statement": "De Russen gebruiken een nieuwe tactiek.",
+      "statement": "Oekraïne is in oorlog.",
       "isTrue": true
+    },
+    {
+      "statement": "De oorlog is al geëindigd.",
+      "isTrue": false
     }
   ]
 }

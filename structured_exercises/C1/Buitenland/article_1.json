@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
+  "title": "Amerikaanse rechter wendt hongercrisis in VS (even) af",
   "topicNumber": 1,
   "article": {
-    "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
-    "summary": "Zaterdagavond zijn meerdere mensen neergestoken in een trein die naar het Engelse Huntingdon reed. Dat meldt de Britse transportpolitie. Er zijn twee verdachten gearresteerd."
+    "title": "Amerikaanse rechter wendt hongercrisis in VS (even) af",
+    "summary": "42 miljoen Amerikanen komen maar rond dankzij voedselsteun van de regering. De voedselbonnen van november lijken gered, al ontbreken er miljarden dollars."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "zaterdagavond",
-        "definition": "de avond van zaterdag",
-        "sentence": "De politie werd __ zaterdagavond op de hoogte gebracht van het incident.",
-        "answer": "zaterdagavond"
+        "word": "ontbreken",
+        "definition": "niet aanwezig zijn, missen",
+        "sentence": "Er ___ nog enkele belangrijke handtekeningen.",
+        "answer": "ontbreken"
       },
       {
-        "word": "trein",
-        "definition": "een voertuig dat op rails rijdt en wordt gebruikt voor personenvervoer",
-        "sentence": "De __ vertrok vanuit Londen en was onderweg naar Huntingdon.",
-        "answer": "trein"
+        "word": "voedselsteun",
+        "definition": "hulp in de vorm van voedsel, vaak van de overheid",
+        "sentence": "De regering bood ___ aan de getroffen bevolking.",
+        "answer": "voedselsteun"
       },
       {
-        "word": "neergestoken",
-        "definition": "het fysiek met een mes of scherp voorwerp zijn verwond",
-        "sentence": "De slachtoffers zijn ernstig __ tijdens de aanval.",
-        "answer": "neergestoken"
+        "word": "regering",
+        "definition": "de groep mensen die een land of gebied bestuurt",
+        "sentence": "De ___ heeft nieuwe maatregelen aangekondigd.",
+        "answer": "regering"
       },
       {
-        "word": "Engeland",
-        "definition": "een land dat deel uitmaakt van het Verenigd Koninkrijk",
-        "sentence": "Het incident vond plaats in __, waar de politie de zaak onderzoekt.",
-        "answer": "Engeland"
+        "word": "rechter",
+        "definition": "een persoon die in een rechtbank beslist over geschillen",
+        "sentence": "De ___ heeft de zaak behandeld.",
+        "answer": "rechter"
       },
       {
-        "word": "verdachten",
-        "definition": "personen die worden verdacht van een misdrijf",
-        "sentence": "De twee __ werden kort na het incident aangehouden.",
-        "answer": "verdachten"
+        "word": "gered",
+        "definition": "beschermd of veiliggesteld, van een gevaar",
+        "sentence": "De voorraden zijn ___ van de overstroming.",
+        "answer": "gered"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het incident vond plaats in __, waar de politie de zaak onderzoekt.",
-        "answer": "Engeland"
+        "sentence": "De regering bood ___ aan de getroffen bevolking.",
+        "answer": "voedselsteun"
       },
       {
-        "sentence": "De twee __ werden kort na het incident aangehouden.",
-        "answer": "verdachten"
+        "sentence": "De ___ heeft nieuwe maatregelen aangekondigd.",
+        "answer": "regering"
       },
       {
-        "sentence": "De politie werd __ zaterdagavond op de hoogte gebracht van het incident.",
-        "answer": "zaterdagavond"
+        "sentence": "De voorraden zijn ___ van de overstroming.",
+        "answer": "gered"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar vond het incident plaats?",
+      "question": "Wat is de rol van de rechter in deze kwestie?",
       "options": [
-        "In een trein in Engeland",
-        "Op een station in Londen",
-        "In een bus in Schotland",
-        "Op straat in Manchester"
+        "Hij start de voedselsteun",
+        "Hij beëindigt de voedselsteun",
+        "Hij beschermt de voedselbonnen",
+        "Hij keurt de steun af"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de rol van de Britse transportpolitie in deze kwestie?",
+      "question": "Waaruit bestaat de voedselsteun in dit artikel?",
       "options": [
-        "Zij hebben de twee verdachten gearresteerd",
-        "Zij verzorgen de slachtoffers",
-        "Zij leiden het onderzoek",
-        "Zij meldden het incident aan de media"
+        "Alleen uit geld",
+        "Alleen uit voedselbonnen",
+        "Uitsluitend uit voedselpakketten",
+        "Een combinatie van bonnen en mogelijk geld"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
-      "question": "Wat gebeurde er met de verdachten na het incident?",
+      "question": "Wat is de toestand van de voedselbonnen in november?",
       "options": [
-        "Ze werden onmiddellijk gearresteerd",
-        "Ze vluchten het land uit",
-        "Ze werden na een uur gevonden",
-        "Ze werden nooit gevonden"
+        "Ze zijn al gebruikt",
+        "Ze zijn verloren gegaan",
+        "Ze zijn gered en bruikbaar",
+        "Ze zijn nog niet uitgedeeld"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het incident vond plaats op een zaterdagavond in een trein in Engeland.",
-      "isTrue": true
-    },
-    {
-      "statement": "De Britse transportpolitie heeft nog geen verdachten kunnen arresteren.",
+      "statement": "De rechter heeft de voedselsteun volledig stopgezet.",
       "isTrue": false
     },
     {
-      "statement": "De trein was onderweg naar Huntingdon op het moment van het incident.",
+      "statement": "Er ontbreken miljarden dollars aan de voedselsteun, maar de bonnen zijn gered.",
       "isTrue": true
+    },
+    {
+      "statement": "Alleen de voedselbonnen worden beschermd, niet het geld.",
+      "isTrue": false
     }
   ]
 }

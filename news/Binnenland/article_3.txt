@@ -1,15 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-11-02 04:27 UCT
+Nieuwsupdate: 2025-11-03 04:33 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Amper zon in oktober, maar wel bijna een record
-Link: https://www.standaard.be/binnenland/amper-zon-in-oktober-maar-wel-bijna-een-record/101705342.html
-Datum: Sat, 01 Nov 2025 13:29:00 GMT
-Samenvatting: De voorbije maand oktober was zo somber dat er bijna een record in zat. Alleen oktober 1998 was nog zonlozer. Maar er is ook goed nieuws: woensdag wordt het gezellig warm.
+Titel: Thomas Siffer neemt afscheid van Louise Delanghe: “Hoe vluchtig lichtvoetig ze ook was, niet alleen als kunstenaar liet ze sporen achter”
+Link: https://www.standaard.be/binnenland/thomas-siffer-neemt-afscheid-van-louise-delanghe-hoe-vluchtig-lichtvoetig-ze-ook-was-niet-alleen-als-kunstenaar-liet-ze-sporen-achter/101818923.html
+Datum: Sun, 02 Nov 2025 22:59:00 GMT
+Samenvatting: Louise Delanghe was jong en ze was alles. Intelligent, vrolijk, vriendelijk en uitbundig. Schrijver en journalist Thomas Siffer neemt afscheid van de jonge kunstenares die omkwam bij een verkeersongeluk.
 Auteur: Geen auteur
 Categorie: Binnenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/ypas3r-belgium-dilbeek-weather-clouds.jpg/alternates/BASE_SIXTEEN_NINE/BELGIUM%20DILBEEK%20WEATHER%20CLOUDS.jpg
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/shxsgo-cue-picture-101818933-101872352.jpeg/alternates/BASE_SIXTEEN_NINE/cue-picture-101818933-101872352.jpeg
+Premium: true
 ------------------------------------------------------------

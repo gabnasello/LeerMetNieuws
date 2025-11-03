@@ -1,15 +1,15 @@
 Artikel 2
-Nieuwsupdate: 2025-11-02 04:27 UCT
+Nieuwsupdate: 2025-11-03 04:33 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar
-Link: https://www.standaard.be/binnenland/opnieuw-drones-waargenomen-boven-kleine-brogel-francken-heeft-tegenmaatregelen-klaar/101709214.html
-Datum: Sat, 01 Nov 2025 14:11:00 GMT
-Samenvatting: Ook vanavond zijn boven de militaire basis van Kleine-Brogel drones waargenomen. Vrijdag bespreekt de ministerraad het “counterdronedossier” van Defensieminister Theo Francken (N-VA)
+Titel: Helft leerlingen die les volgen via Bednet heeft psychische problemen
+Link: https://www.standaard.be/binnenland/helft-leerlingen-die-les-volgen-via-bednet-heeft-psychische-problemen/101874563.html
+Datum: Sun, 02 Nov 2025 22:59:00 GMT
+Samenvatting: Meer dan de helft van de leerlingen in het middelbaar die afstandsonderwijs volgen, doet dat omdat ze psychisch kwetsbaar zijn. “Elke dag in de klas zitten, lukt me niet.”
 Auteur: Geen auteur
 Categorie: Binnenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/hbhi58-basis-kleine-brogel/alternates/BASE_SIXTEEN_NINE/Basis%20Kleine%20Brogel
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/oqs7xl-cue-picture-101493198-101786289.jpeg/alternates/BASE_SIXTEEN_NINE/cue-picture-101493198-101786289.jpeg
+Premium: true
 ------------------------------------------------------------

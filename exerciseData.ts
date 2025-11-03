@@ -29,104 +29,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
+    title: "Amerikaanse rechter wendt hongercrisis in VS (even) af",
     topicNumber: 1,
     article: {
-      title: "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
-      summary: "Zaterdagavond zijn meerdere mensen neergestoken in een trein die naar het Engelse Huntingdon reed. Dat meldt de Britse transportpolitie. Er zijn twee verdachten gearresteerd."
+      title: "Amerikaanse rechter wendt hongercrisis in VS (even) af",
+      summary: "42 miljoen Amerikanen komen maar rond dankzij voedselsteun van de regering. De voedselbonnen van november lijken gered, al ontbreken er miljarden dollars."
     },
     vocabulary: {
       words: [
         {
-          word: "verdachten",
-          definition: "mensen waarvan wordt gedacht dat ze een misdrijf hebben gepleegd",
-          sentence: "De twee ___ werden kort na het incident gearresteerd.",
-          answer: "verdachten"
+          word: "rechter",
+          definition: "iemand die beslist in een rechtszaak",
+          sentence: "De ___ bepaalde dat de steun doorgaat.",
+          answer: "rechter"
         },
         {
-          word: "rit",
-          definition: "een reis of reisdeel, vooral in een voertuig",
-          sentence: "De eerste ___ van de trein was zonder problemen.",
-          answer: "rit"
+          word: "voedselbonnen",
+          definition: "bonnen die je kunt gebruiken om eten te kopen",
+          sentence: "Sommige gezinnen gebruiken ___ om boodschappen te doen.",
+          answer: "voedselbonnen"
         },
         {
-          word: "Engeland",
-          definition: "een land dat deel uitmaakt van het Verenigd Koninkrijk",
-          sentence: "De trein reed door ___ op het moment van het incident.",
-          answer: "Engeland"
+          word: "gered",
+          definition: "beschermd of veiliggesteld",
+          sentence: "De dieren zijn ___ door de brandweer.",
+          answer: "gered"
         },
         {
-          word: "trein",
-          definition: "een voertuig dat op rails rijdt en mensen of spullen vervoert",
-          sentence: "De ___ reed van Londen naar Huntingdon.",
-          answer: "trein"
+          word: "hongercrisis",
+          definition: "een situatie waarin veel mensen niet genoeg te eten hebben",
+          sentence: "Door de droogte ontstond er een ___ in het land.",
+          answer: "hongercrisis"
         },
         {
-          word: "neergestoken",
-          definition: "met een mes of ander scherp voorwerp verwond zijn",
-          sentence: "De man was ___ door een onbekende aanvaller.",
-          answer: "neergestoken"
+          word: "regering",
+          definition: "de groep mensen die een land bestuurt",
+          sentence: "De ___ heeft nieuwe maatregelen aangekondigd.",
+          answer: "regering"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ reed van Londen naar Huntingdon.",
-          answer: "trein"
+          sentence: "De ___ heeft nieuwe maatregelen aangekondigd.",
+          answer: "regering"
         },
         {
-          sentence: "De trein reed door ___ op het moment van het incident.",
-          answer: "Engeland"
+          sentence: "Sommige gezinnen gebruiken ___ om boodschappen te doen.",
+          answer: "voedselbonnen"
         },
         {
-          sentence: "De eerste ___ van de trein was zonder problemen.",
-          answer: "rit"
+          sentence: "De dieren zijn ___ door de brandweer.",
+          answer: "gered"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat gebeurde er in de trein naar Huntingdon?",
+        question: "Wat is de rol van de rechter in deze situatie?",
         options: [
-          "Er was een brand",
-          "Er was een steekpartij",
-          "Er was een ontspannen sfeer",
-          "De trein was leeg"
+          "Hij organiseert voedselhulp.",
+          "Hij beslist over de voortzetting van het steunprogramma.",
+          "Hij kookt voor daklozen.",
+          "Hij start een nieuwe campagne."
         ],
         correctAnswer: 2
       },
       {
-        question: "Wie heeft de verdachten gearresteerd?",
+        question: "Waarom zijn de voedselbonnen belangrijk voor de mensen?",
         options: [
-          "De Nederlandse politie",
-          "De burgemeester van Londen",
-          "De Britse transportpolitie",
-          "Een getuige van het incident"
+          "Ze zijn gemaakt van goud.",
+          "Ze kunnen worden ingeruild voor voedsel.",
+          "Ze zijn alleen geldig in het buitenland.",
+          "Ze worden niet meer gebruikt."
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Wat is de rol van de Britse transportpolitie in dit incident?",
+        question: "Wat is het probleem met de financiering?",
         options: [
-          "Zij hebben de verdachten gearresteerd",
-          "Zij hebben de trein bestuurd",
-          "Zij hebben niets met het incident te maken",
-          "Zij hebben het incident gemeld"
+          "Er is te veel geld.",
+          "Er is te weinig geld voor het programma.",
+          "Het geld is gestolen.",
+          "Het geld is in andere valuta."
         ],
-        correctAnswer: 4
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Het incident vond plaats in een trein die naar Huntingdon reed.",
-        isTrue: true
-      },
-      {
-        statement: "De verdachten zijn nog niet gevonden.",
+        statement: "De rechter heeft de voedselsteun volledig stopgezet.",
         isTrue: false
       },
       {
-        statement: "De Britse transportpolitie heeft de aanval gemeld.",
+        statement: "Er ontbreken miljarden dollars aan de steun.",
         isTrue: true
+      },
+      {
+        statement: "Alleen kinderen krijgen voedselbonnen in dit programma.",
+        isTrue: false
       }
     ]
   },
@@ -135,103 +135,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
+    title: "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
     topicNumber: 1,
     article: {
-      title: "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
-      summary: "Waar zijn de Russische soldaten? Dat is de vraag voor de Oekraïense verdediging in Pokrovsk. De strategisch belangrijke stad dreigt te vallen door een nieuwe Russische manier van oorlogvoeren."
+      title: "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
+      summary: "Nu de kans op een snel bestand in Oekraïne vervlogen is, blijft de vraag: hoe zal deze oorlog eindigen? Niemand durft het te voorspellen, maar een trend is duidelijk: Oekraïne kan financieel niet veel verder, maar het moet wel."
     },
     vocabulary: {
       words: [
         {
-          word: "vraag",
-          definition: "een vraag is iets wat je wilt weten, je stelt een vraag om informatie te krijgen.",
-          sentence: "Dat is de ___ voor de Oekraïense verdediging.",
-          answer: "vraag"
+          word: "oorlog",
+          definition: "Een situatie waarin landen of groepen vechten.",
+          sentence: "Een ___ brengt veel schade met zich mee.",
+          answer: "oorlog"
         },
         {
-          word: "vallen",
-          definition: "hetzelfde als hierboven, het tegengestelde van staan of zweven.",
-          sentence: "De stad dreigt te ___ door de nieuwe tactiek.",
-          answer: "vallen"
+          word: "financieel",
+          definition: "Alles wat met geld te maken heeft.",
+          sentence: "Hij is ___ niet sterk.",
+          answer: "financieel"
         },
         {
-          word: "doen",
-          definition: "uitvoeren van een actie, iets uitvoeren of maken.",
-          sentence: "Nieuwe tactiek dreigt Pokrovsk te ___ vallen.",
-          answer: "doen"
+          word: "economische",
+          definition: "Alles wat met de economie te maken heeft.",
+          sentence: "De ___ situatie in het land is stabiel.",
+          answer: "economische"
         },
         {
-          word: "vallen",
-          definition: "naar beneden gaan, niet meer staan of hangen, maar neerkomen.",
-          sentence: "De stad dreigt te ___ door de nieuwe tactiek.",
-          answer: "vallen"
+          word: "voorspellen",
+          definition: "Iets zeggen over wat er in de toekomst gaat gebeuren.",
+          sentence: "Het is moeilijk om de toekomst te ___.",
+          answer: "voorspellen"
         },
         {
-          word: "doen",
-          definition: "hetzelfde als hierboven, een actie uitvoeren.",
-          sentence: "De nieuwe tactiek dreigt de stad te ___ vallen.",
-          answer: "doen"
+          word: "vervlogen",
+          definition: "Iets dat voorbij is of niet meer bestaat.",
+          sentence: "De hoop op vrede is ___.",
+          answer: "vervlogen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De stad dreigt te ___ door de nieuwe tactiek.",
-          answer: "vallen"
+          sentence: "De hoop op vrede is ___.",
+          answer: "vervlogen"
         },
         {
-          sentence: "De stad dreigt te ___ door de nieuwe tactiek.",
-          answer: "vallen"
+          sentence: "Hij is ___ niet sterk.",
+          answer: "financieel"
         },
         {
-          sentence: "Dat is de ___ voor de Oekraïense verdediging.",
-          answer: "vraag"
+          sentence: "Een ___ brengt veel schade met zich mee.",
+          answer: "oorlog"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de hoofdstad van Oekraïne?",
+        question: "Waarover gaat dit artikel?",
         options: [
-          "Kiev",
-          "Londen",
-          "Berlijn",
-          "Parijs"
+          "Over sport",
+          "Over vrede",
+          "Over Oekraïne",
+          "Over economie"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wat betekent 'dreigen' in deze context?",
+        question: "Wat is de situatie in Oekraïne?",
         options: [
-          "aankondigen",
-          "verbergen",
-          "beschermen",
-          "verliezen"
+          "Er is vrede",
+          "Er is een oorlog",
+          "Er is een feest",
+          "Er is een vergadering"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat is een synoniem voor 'tactiek'?",
+        question: "Wat is de belangrijkste boodschap van de tekst?",
         options: [
-          "strategie",
-          "vordering",
-          "verlies",
-          "winst"
+          "Oekraïne wint de oorlog",
+          "De economie is belangrijker dan het leger",
+          "Het leger is belangrijker dan de economie",
+          "Oekraïne heeft geen problemen"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Pokrovsk is een stad in Oekraïne.",
+        statement: "Oekraïne kan financieel niet verder.",
         isTrue: true
       },
       {
-        statement: "De Russische soldaten zijn aanwezig in Pokrovsk.",
+        statement: "De oorlog is al afgelopen.",
         isTrue: false
       },
       {
-        statement: "De nieuwe tactiek zorgt ervoor dat de stad dreigt te vallen.",
+        statement: "Een economische uitputtingsslag is belangrijker dan een militaire.",
         isTrue: true
       }
     ]
@@ -241,103 +241,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Frans parlement verwerpt rijkentaks",
+    title: "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een eigen versie van de Monroedoctrine",
     topicNumber: 1,
     article: {
-      title: "Frans parlement verwerpt rijkentaks",
-      summary: "Het Franse parlement heeft voorstellen om de rijksten te belasten verworpen. Er is geen sprake van een wonderbelasting."
+      title: "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een eigen versie van de Monroedoctrine",
+      summary: "Amerikaanse media noemen hem een piraat en waarschuwen voor de risico’s van een invasie van Venezuela. Maar Donald Trump maakt van Latijns-Amerika opnieuw zijn exclusieve speeltuin, in zijn geheel eigen versie van de Monroedoctrine."
     },
     vocabulary: {
       words: [
         {
-          word: "Frans",
-          definition: "Betrekking hebbend op Frankrijk",
-          sentence: "Het ___ parlement heeft de wet aangenomen.",
-          answer: "Frans"
+          word: "Monroedoctrine",
+          definition: "Een oude Amerikaanse politieke doctrine die zegt dat Europa zich niet moet bemoeien met Amerika.",
+          sentence: "De ___ is een belangrijk stuk geschiedenis voor de Verenigde Staten.",
+          answer: "Monroedoctrine"
         },
         {
-          word: "parlement",
-          definition: "Een groep mensen die wetten maakt",
-          sentence: "Het Nederlands ___ bestaat uit de Eerste en Tweede Kamer.",
-          answer: "parlement"
+          word: "speeltuin",
+          definition: "Een plek waar kinderen kunnen spelen, vaak met toestellen zoals glijbanen en schommels.",
+          sentence: "Kinderen spelen graag in de ___.",
+          answer: "speeltuin"
         },
         {
-          word: "verwerpt",
-          definition: "Niet accepteren, afwijzen",
-          sentence: "De regering ___ het voorstel voor een nieuwe wet.",
-          answer: "verwerpt"
+          word: "invasie",
+          definition: "Binnen vallen van een gebied of land door een ander leger.",
+          sentence: "Een ___ is vaak het begin van een oorlog.",
+          answer: "invasie"
         },
         {
-          word: "rijkentaks",
-          definition: "Belasting voor mensen met veel geld",
-          sentence: "De ___ is bedoeld om de rijken te belasten.",
-          answer: "rijkentaks"
+          word: "versie",
+          definition: "Een bepaalde vorm of editie van iets, zoals een verhaal of software.",
+          sentence: "Welke ___ van het spel heb jij?",
+          answer: "versie"
         },
         {
-          word: "is",
-          definition: "Zijn, het tegenwoordige tijd van 'zijn'",
-          sentence: "Hij ___ erg blij met het resultaat.",
-          answer: "is"
+          word: "Donald Trump",
+          definition: "De voornaam en achternaam van de voormalige president van de Verenigde Staten.",
+          sentence: "___ is een bekende politieke figuur.",
+          answer: "Donald Trump"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het Nederlands ___ bestaat uit de Eerste en Tweede Kamer.",
-          answer: "parlement"
+          sentence: "Een ___ is vaak het begin van een oorlog.",
+          answer: "invasie"
         },
         {
-          sentence: "Het ___ parlement heeft de wet aangenomen.",
-          answer: "Frans"
+          sentence: "De ___ is een belangrijk stuk geschiedenis voor de Verenigde Staten.",
+          answer: "Monroedoctrine"
         },
         {
-          sentence: "De ___ is bedoeld om de rijken te belasten.",
-          answer: "rijkentaks"
+          sentence: "___ is een bekende politieke figuur.",
+          answer: "Donald Trump"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is het Franse parlement?",
+        question: "Wat is de Monroedoctrine?",
         options: [
-          "Een gebouw in Parijs",
-          "De Assemblée Nationale",
-          "Een groep Franse ministers",
-          "De Franse regering"
+          "Een sport",
+          "Een politiek beleid",
+          "Een soort eten",
+          "Een historisch monument"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat betekent 'verwerpt' in deze context?",
+        question: "Wat betekent 'invasie' in deze context?",
         options: [
-          "Accepteert",
-          "Verwerpt",
-          "Wijst af",
-          "Verbergt"
+          "Een feest",
+          "Een soort dans",
+          "Binnenvallen door een leger",
+          "Een nieuwe wet"
         ],
         correctAnswer: 3
       },
       {
-        question: "Waar gaat de tekst over?",
+        question: "Waar ligt Venezuela?",
         options: [
-          "Een belasting voor iedereen",
-          "Een belasting voor de armen",
-          "Een belasting voor de rijken",
-          "Een feest in Frankrijk"
+          "In Afrika",
+          "In Azië",
+          "In Zuid-Amerika",
+          "In Europa"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Het Franse parlement heeft de rijkentaks goedgekeurd.",
+        statement: "Donald Trump is de huidige president van de Verenigde Staten.",
         isTrue: false
       },
       {
-        statement: "Er is een nieuwe wet aangenomen in Frankrijk.",
-        isTrue: false
+        statement: "Venezuela is een land in Zuid-Amerika.",
+        isTrue: true
       },
       {
-        statement: "De rijkentaks is niet ingevoerd in Frankrijk.",
+        statement: "De Monroedoctrine is een beleid dat zegt dat de Verenigde Staten Europa niet in Amerika laat bemoeien.",
         isTrue: true
       }
     ]
@@ -453,104 +453,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
+    title: "Helft leerlingen die les volgt via Bednet heeft psychische problemen",
     topicNumber: 1,
     article: {
-      title: "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
-      summary: "Ook vanavond zijn boven de militaire basis van Kleine-Brogel drones waargenomen. Vrijdag bespreekt de ministerraad het 'counterdronedossier' van Defensieminister Theo Francken (N-VA)."
+      title: "Helft leerlingen die les volgt via Bednet heeft psychische problemen",
+      summary: "Meer dan de helft van de leerlingen in het middelbaar die afstandsonderwijs volgen, doet dat omdat ze psychisch kwetsbaar zijn. 'Elke dag in de klas zitten, lukt me niet.'"
     },
     vocabulary: {
       words: [
         {
-          word: "Brogel",
-          definition: "een plaatsnaam, deel van Kleine-Brogel",
-          sentence: "Kleine-___ is een dorp in België.",
-          answer: "Brogel"
+          word: "heeft",
+          definition: "hebben, om te bezitten",
+          sentence: "Hij ___ een grote hond als huisdier.",
+          answer: "heeft"
         },
         {
-          word: "Boven",
-          definition: "op een hogere plaats",
-          sentence: "De vogel vliegt ___ het huis.",
-          answer: "Boven"
+          word: "volgt",
+          definition: "doorgaan met, blijven doen",
+          sentence: "Hij ___ nog steeds de online lessen.",
+          answer: "volgt"
         },
         {
-          word: "Ministerraad",
-          definition: "een groep van ministers die samen besluiten nemen",
-          sentence: "De ___ vergadert elke vrijdag.",
-          answer: "Ministerraad"
+          word: "helft",
+          definition: "de helft, een van de twee",
+          sentence: "Ongeveer de ___ van de groep was al klaar.",
+          answer: "helft"
         },
         {
-          word: "waargenomen",
-          definition: "gezien of opgemerkt",
-          sentence: "De drones werden ___ door bewakers.",
-          answer: "waargenomen"
+          word: "leerlingen",
+          definition: "mensen die les volgen op school",
+          sentence: "De ___ van deze school zijn erg leergierig.",
+          answer: "leerlingen"
         },
         {
-          word: "Bespreekt",
-          definition: "bespreekt, erover praat",
-          sentence: "Hij ___ het plan met zijn team.",
-          answer: "Bespreekt"
+          word: "psychische",
+          definition: "mentaal, met de geest te maken hebbend",
+          sentence: "Hij kreeg ___ hulp na het ongeluk.",
+          answer: "psychische"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ vergadert elke vrijdag.",
-          answer: "Ministerraad"
+          sentence: "Hij kreeg ___ hulp na het ongeluk.",
+          answer: "psychische"
         },
         {
-          sentence: "De vogel vliegt ___ het huis.",
-          answer: "Boven"
+          sentence: "Ongeveer de ___ van de groep was al klaar.",
+          answer: "helft"
         },
         {
-          sentence: "Kleine-___ is een dorp in België.",
-          answer: "Brogel"
+          sentence: "Hij ___ een grote hond als huisdier.",
+          answer: "heeft"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat wordt er bedoeld met 'waargenomen' in de titel?",
+        question: "Waarom volgen sommige leerlingen les via Bednet?",
         options: [
-          "Vergeten",
-          "Gezien",
-          "Verborgen",
-          "Gemaakt"
+          "Omdat ze in het buitenland wonen",
+          "Omdat ze lichamelijk beperkt zijn",
+          "Omdat ze psychische problemen hebben",
+          "Omdat ze de taal niet spreken"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat is Bednet?",
+        options: [
+          "Een soort online winkel",
+          "Een organisatie voor thuisonderwijs",
+          "Een sportvereniging",
+          "Een school voor kunstonderwijs"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de 'ministerraad'?",
+        question: "Voor welke groep leerlingen is Bednet bedoeld?",
         options: [
-          "Een soort school",
-          "Een groep ministers",
-          "Een soort restaurant",
-          "Een sportteam"
+          "Alleen voor universiteitsstudenten",
+          "Alleen voor basisschoolleerlingen",
+          "Voor alle leerlingen die tijdelijk niet naar school kunnen",
+          "Alleen voor volwassenen die een opleiding volgen"
         ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat bespreekt de ministerraad volgens de samenvatting?",
-        options: [
-          "Een nieuw soort drone",
-          "Het 'counterdronedossier'",
-          "Een feestplan",
-          "Een nieuwe wet tegen drones"
-        ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Drones worden alleen 's nachts waargenomen.",
+        statement: "Bednet is een online winkel.",
         isTrue: false
       },
       {
-        statement: "De ministerraad vergadert op vrijdag.",
+        statement: "Leerlingen met psychische problemen kunnen via Bednet les volgen.",
         isTrue: true
       },
       {
-        statement: "Theo Francken is de Minister van Defensie.",
-        isTrue: true
+        statement: "Bednet biedt alleen les in wiskunde en taal.",
+        isTrue: false
       }
     ]
   },
@@ -559,104 +559,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Weinig zon in oktober, maar bijna een record",
+    title: "Thomas Siffer neemt afscheid van Louise Delanghe",
     topicNumber: 1,
     article: {
-      title: "Weinig zon in oktober, maar bijna een record",
-      summary: "De maand oktober had weinig zon, maar het was net geen record. Alleen in 1998 was er nog minder zon. Het goede nieuws is dat het woensdag warm wordt."
+      title: "Thomas Siffer neemt afscheid van Louise Delanghe",
+      summary: "Louise Delanghe was jong en ze was alles. Intelligent, vrolijk, vriendelijk en uitbundig. Thomas Siffer neemt afscheid van de jonge kunstenares die omkwam bij een verkeersongeluk."
     },
     vocabulary: {
       words: [
         {
-          word: "maand",
-          definition: "een van de twaalf periodes in een jaar",
-          sentence: "De maand oktober was erg regenachtig.",
-          answer: "maand"
+          word: "afscheid",
+          definition: "het einde van een bijeenkomst of het moment dat je iemand niet meer ziet",
+          sentence: "Hij nam ___ van zijn collega's toen hij vertrok.",
+          answer: "afscheid"
         },
         {
-          word: "zon",
-          definition: "de ster die licht en warmte geeft",
-          sentence: "Er was weinig ___ in oktober.",
-          answer: "zon"
+          word: "omkwam",
+          definition: "overleden, niet meer levend",
+          sentence: "Hij ___ in een auto-ongeluk.",
+          answer: "omkwam"
         },
         {
-          word: "record",
-          definition: "een prestatie die beter is dan alle anderen",
-          sentence: "Het was bijna een nieuw ___.",
-          answer: "record"
+          word: "intelligent",
+          definition: "slim en goed in het leren van nieuwe dingen",
+          sentence: "Ze is erg ___ en lost problemen snel op.",
+          answer: "intelligent"
         },
         {
-          word: "goed",
-          definition: "van goede kwaliteit, positief",
-          sentence: "Het ___ nieuws is dat het warmer wordt.",
-          answer: "goed"
+          word: "kunstenares",
+          definition: "een vrouw die kunst maakt, zoals een schilder of een muzikant",
+          sentence: "De ___ maakte een prachtig schilderij.",
+          answer: "kunstenares"
         },
         {
-          word: "warm",
-          definition: "een hoge temperatuur hebbend",
-          sentence: "Het wordt ___ en zonnig op woensdag.",
-          answer: "warm"
+          word: "verkeersongeluk",
+          definition: "een ongeluk op de weg met auto's of andere voertuigen",
+          sentence: "Er was een ___ op de snelweg vanmorgen.",
+          answer: "verkeersongeluk"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De maand oktober was erg regenachtig.",
-          answer: "maand"
+          sentence: "Ze is erg ___ en lost problemen snel op.",
+          answer: "intelligent"
         },
         {
-          sentence: "Er was weinig ___ in oktober.",
-          answer: "zon"
+          sentence: "Hij nam ___ van zijn collega's toen hij vertrok.",
+          answer: "afscheid"
         },
         {
-          sentence: "Het was bijna een nieuw ___.",
-          answer: "record"
+          sentence: "De ___ maakte een prachtig schilderij.",
+          answer: "kunstenares"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat was bijzonder aan de maand oktober dit jaar?",
+        question: "Waarom noemt Thomas Siffer Louise Delanghe een kunstenares?",
         options: [
-          "Het was de warmste ooit",
-          "Er was erg weinig zon",
-          "Het regende elke dag",
-          "De zon scheen de hele maand"
+          "Omdat ze een mooi schilderij maakte",
+          "Omdat ze een bekende actrice was",
+          "Omdat ze kunst creëerde en daarom een kunstenares is",
+          "Omdat ze in een atelier werkte"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat betekent het dat Louise Delanghe omkwam bij een verkeersongeluk?",
+        options: [
+          "Ze reed te snel met de auto",
+          "Ze overleed door een auto-ongeluk",
+          "Ze maakte een schilderij van een auto",
+          "Ze was een raceauto-chauffeur"
         ],
         correctAnswer: 2
       },
       {
-        question: "Welk record werd bijna gebroken in oktober?",
+        question: "Hoe wordt Louise Delanghe beschreven in de tekst?",
         options: [
-          "Het aantal uren zon",
-          "De hoeveelheid regen",
-          "De gemiddelde temperatuur",
-          "De hoeveelheid sneeuw"
+          "Als een serieuze en strenge persoon",
+          "Als een vrolijke en intelligente persoon",
+          "Als een eenzame en verdrietige persoon",
+          "Als een boze en gefrustreerde persoon"
         ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is het goede nieuws volgens het artikel?",
-        options: [
-          "Het wordt kouder",
-          "Het gaat regenen",
-          "Het wordt warmer",
-          "Er komt sneeuw"
-        ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Oktober 2023 had meer zon dan oktober 1998.",
-        isTrue: false
-      },
-      {
-        statement: "Woensdag wordt het warm en zonnig.",
+        statement: "Louise Delanghe was een kunstenares die schilderde.",
         isTrue: true
       },
       {
-        statement: "Oktober 2023 brak het record voor minste zon.",
+        statement: "Thomas Siffer is de persoon die overleed in het verkeersongeluk.",
         isTrue: false
+      },
+      {
+        statement: "Louise Delanghe was bekend om haar uitbundige karakter.",
+        isTrue: true
       }
     ]
   },
@@ -665,104 +665,98 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
+    title: "Amerikaanse rechter wendt hongercrisis af",
     topicNumber: 1,
     article: {
-      title: "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
-      summary: "Zaterdagavond zijn meerdere mensen neergestoken in een trein die naar het Engelse Huntingdon reed. Dat meldt de Britse transportpolitie. Er zijn twee verdachten gearresteerd."
+      title: "Amerikaanse rechter wendt hongercrisis af",
+      summary: "42 miljoen Amerikanen krijgen eten van de regering. De rechter helpt de voedselbonnen."
     },
     vocabulary: {
       words: [
         {
-          word: "politie",
-          definition: "mensen die de wet handhaven",
-          sentence: "De ___ heeft de verdachten gearresteerd.",
-          answer: "politie"
+          word: "rechter",
+          definition: "iemand die beslist over de wet",
+          sentence: "De ___ beslist over de zaak.",
+          answer: "rechter"
         },
         {
-          word: "opgepakt",
-          definition: "gearresteerd door de politie",
-          sentence: "De politie heeft de verdachten ___.",
-          answer: "opgepakt"
+          word: "Amerikaan",
+          definition: "iemand die in Amerika woont",
+          sentence: "De ___ komt uit de Verenigde Staten.",
+          answer: "Amerikaan"
         },
         {
-          word: "neergestoken",
-          definition: "gestoken met een mes",
-          sentence: "Mensen werden ___ in de trein.",
-          answer: "neergestoken"
+          word: "eten",
+          definition: "iets wat je kunt opeten, zoals brood",
+          sentence: "Ik ga vanavond ___ met mijn gezin.",
+          answer: "eten"
         },
         {
-          word: "mensen",
-          definition: "personen",
-          sentence: "Verschillende ___ werden neergestoken.",
-          answer: "mensen"
-        },
-        {
-          word: "trein",
-          definition: "een voertuig dat rijdt op rails",
-          sentence: "Het incident vond plaats in een ___.",
-          answer: "trein"
+          word: "krijgen",
+          definition: "iets ontvangen van iemand",
+          sentence: "Zij ___ een cadeau van hun vriend.",
+          answer: "krijgen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het incident vond plaats in een ___.",
-          answer: "trein"
+          sentence: "De ___ komt uit de Verenigde Staten.",
+          answer: "Amerikaan"
         },
         {
-          sentence: "De politie heeft de verdachten ___.",
-          answer: "opgepakt"
+          sentence: "De ___ beslist over de zaak.",
+          answer: "rechter"
         },
         {
-          sentence: "De ___ heeft de verdachten gearresteerd.",
-          answer: "politie"
+          sentence: "Ik ga vanavond ___ met mijn gezin.",
+          answer: "eten"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gebeurde het incident?",
+        question: "Wat is een rechter?",
         options: [
-          "In een trein",
-          "In een bus",
-          "In een auto",
-          "Op een fiets"
+          "Een soort dokter",
+          "Een soort leraar",
+          "Een soort rechter",
+          "Een soort boer"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wie heeft de verdachten gearresteerd?",
+        question: "Wat is de rol van de rechter in deze situatie?",
         options: [
-          "De Britse transportpolitie",
-          "De Nederlandse politie",
-          "De Franse politie",
-          "De Duitse politie"
+          "Hij geeft eten aan mensen",
+          "Hij beslist over de wet",
+          "Hij kookt voor mensen",
+          "Hij werkt in een restaurant"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat gebeurde er met de verdachten?",
+        question: "Wat is de uitkomst van de rechter's beslissing?",
         options: [
-          "Ze werden opgepakt",
-          "Ze werden vrijgelaten",
-          "Ze werden vergeten",
-          "Ze werden ontslagen"
+          "Iedereen moet nu zelf voor eten zorgen",
+          "De regering geeft eten aan wie het nodig heeft",
+          "Er is geen eten meer over",
+          "De rechter eet al het eten op"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Het incident vond plaats in een trein.",
+        statement: "De rechter beslist dat de regering moet helpen.",
         isTrue: true
       },
       {
-        statement: "De verdachten zijn nog niet gevonden.",
+        statement: "De rechter zegt dat niemand eten krijgt.",
         isTrue: false
       },
       {
-        statement: "De politie heeft de verdachten gearresteerd.",
-        isTrue: true
+        statement: "De voedselbonnen worden niet gebruikt.",
+        isTrue: false
       }
     ]
   },
@@ -771,104 +765,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Waar zijn de Russische soldaten?",
+    title: "Oekraïne en de oorlog",
     topicNumber: 1,
     article: {
-      title: "Waar zijn de Russische soldaten?",
-      summary: "Waar zijn de Russische soldaten? Dat is de vraag in de oorlog in Oekraïne. De stad Pokrovsk kan vallen door een nieuwe Russische tactiek."
+      title: "Oekraïne en de oorlog",
+      summary: "Oekraïne heeft een oorlog. Het land heeft weinig geld. Het land moet doorgaan. Hoe zal de oorlog eindigen?"
     },
     vocabulary: {
       words: [
         {
-          word: "tactiek",
-          definition: "een plan of manier om iets te doen",
-          sentence: "De nieuwe ___ van Rusland is gevaarlijk.",
-          answer: "tactiek"
+          word: "oorlog",
+          definition: "een tijd van vechten tussen landen",
+          sentence: "Er is een ___ in Oekraïne.",
+          answer: "oorlog"
         },
         {
-          word: "stad",
-          definition: "een grote plaats waar mensen wonen",
-          sentence: "De ___ Pokrovsk kan vallen.",
-          answer: "stad"
+          word: "geld",
+          definition: "wat je gebruikt om te betalen",
+          sentence: "Oekraïne heeft weinig ___.",
+          answer: "geld"
         },
         {
-          word: "Russische",
-          definition: "van of gerelateerd aan Rusland",
-          sentence: "De ___ soldaten gebruiken een nieuwe tactiek.",
-          answer: "Russische"
+          word: "land",
+          definition: "een gebied met eigen regels en mensen",
+          sentence: "Oekraïne is een ___.",
+          answer: "land"
         },
         {
-          word: "waar",
-          definition: "op welke plaats of locatie",
-          sentence: "___ zijn de soldaten?",
-          answer: "waar"
+          word: "eindigen",
+          definition: "stoppen, klaar zijn",
+          sentence: "Hoe zal de oorlog ___?",
+          answer: "eindigen"
         },
         {
-          word: "nieuwe",
-          definition: "iets dat nog niet eerder is geweest",
-          sentence: "Ze gebruiken een ___ manier van oorlogvoeren.",
-          answer: "nieuwe"
+          word: "doorgaan",
+          definition: "verder gaan, niet stoppen",
+          sentence: "Oekraïne moet ___ met vechten.",
+          answer: "doorgaan"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Ze gebruiken een ___ manier van oorlogvoeren.",
-          answer: "nieuwe"
+          sentence: "Oekraïne moet ___ met vechten.",
+          answer: "doorgaan"
         },
         {
-          sentence: "___ zijn de soldaten?",
-          answer: "waar"
+          sentence: "Oekraïne heeft weinig ___.",
+          answer: "geld"
         },
         {
-          sentence: "De ___ soldaten gebruiken een nieuwe tactiek.",
-          answer: "Russische"
+          sentence: "Oekraïne is een ___.",
+          answer: "land"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar zijn de Russische soldaten?",
+        question: "Wat betekent 'oorlog'?",
         options: [
-          "In Rusland",
-          "In Oekraïne",
-          "In de stad Pokrovsk",
-          "Dat is niet bekend"
+          "een feest",
+          "een ziekte",
+          "een conflict tussen landen",
+          "een soort eten"
         ],
-        correctAnswer: 4
+        correctAnswer: 3
       },
       {
-        question: "Wat is de vraag voor de Oekraïense verdediging?",
+        question: "Wat is 'geld'?",
         options: [
-          "Hoe heet de stad?",
-          "Waar zijn de Russische soldaten?",
-          "Hoeveel soldaten zijn er?",
-          "Wat is de naam van de stad?"
+          "een dier",
+          "wat je gebruikt om dingen te kopen",
+          "een land",
+          "een taal"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat dreigt er te gebeuren met de stad Pokrovsk?",
+        question: "Wat is 'eindigen'?",
         options: [
-          "Het wordt groter",
-          "Het valt",
-          "Het wordt herbouwd",
-          "Het verandert van naam"
+          "beginnen",
+          "stoppen",
+          "verliezen",
+          "winnen"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De Russische soldaten zijn in Oekraïne.",
-        isTrue: true
-      },
-      {
-        statement: "De stad Pokrovsk is al gevallen.",
+        statement: "Oekraïne heeft veel geld.",
         isTrue: false
       },
       {
-        statement: "De Russen gebruiken een nieuwe tactiek.",
+        statement: "Oekraïne is in oorlog.",
         isTrue: true
+      },
+      {
+        statement: "De oorlog is al geëindigd.",
+        isTrue: false
       }
     ]
   },
@@ -877,103 +871,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Oekraïne en Rusland",
+    title: "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een geheel eigen versie van de Monroedoctrine.",
     topicNumber: 1,
     article: {
-      title: "Oekraïne en Rusland",
-      summary: "Oekraïne en Rusland zijn in oorlog. Lees hier het laatste nieuws."
+      title: "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een geheel eigen versie van de Monroedoctrine.",
+      summary: "Amerikaanse media noemen hem een piraat en waarschuwen voor de risico’s van een invasie van Venezuela. Maar Donald Trump maakt van Latijns-Amerika opnieuw zijn exclusieve speeltuin, in zijn geheel eigen versie van de Monroedoctrine."
     },
     vocabulary: {
       words: [
         {
-          word: "Oekraïne",
-          definition: "een land",
-          sentence: "___ is een land.",
-          answer: "Oekraïne"
-        },
-        {
-          word: "Rusland",
-          definition: "een ander land",
-          sentence: "___ is ook een land.",
-          answer: "Rusland"
-        },
-        {
-          word: "oorlog",
-          definition: "vechten tussen landen",
-          sentence: "Er is nu ___ in Oekraïne.",
-          answer: "oorlog"
-        },
-        {
-          word: "nieuws",
-          definition: "informatie over wat er gebeurt",
-          sentence: "Het ___ zegt wat er gebeurt.",
-          answer: "nieuws"
+          word: "is",
+          definition: "zijn, staat voor iets dat bestaat of gebeurt",
+          sentence: "Hij ___ blij met het cadeau.",
+          answer: "is"
         },
         {
           word: "zijn",
-          definition: "bestaan of voorkomen",
-          sentence: "Ze ___ in Oekraïne.",
+          definition: "bezittelijk voornaamwoord, zoals 'zijn boek'",
+          sentence: "Dat is ___ huis.",
           answer: "zijn"
+        },
+        {
+          word: "maakt",
+          definition: "doet of creëert",
+          sentence: "Hij ___ een plan.",
+          answer: "maakt"
+        },
+        {
+          word: "een",
+          definition: "een onbepaald lidwoord, zoals 'een boek'",
+          sentence: "Ik heb ___ appel.",
+          answer: "een"
+        },
+        {
+          word: "van",
+          definition: "een voorzetsel dat bezit of herkomst aangeeft",
+          sentence: "Het boek ___ de leraar is op de tafel.",
+          answer: "van"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "___ is een land.",
-          answer: "Oekraïne"
+          sentence: "Hij ___ een plan.",
+          answer: "maakt"
         },
         {
-          sentence: "Er is nu ___ in Oekraïne.",
-          answer: "oorlog"
+          sentence: "Het boek ___ de leraar is op de tafel.",
+          answer: "van"
         },
         {
-          sentence: "Het ___ zegt wat er gebeurt.",
-          answer: "nieuws"
+          sentence: "Ik heb ___ appel.",
+          answer: "een"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is Oekraïne?",
+        question: "Waar gaat de tekst over?",
         options: [
-          "Een stad",
-          "Een land",
-          "Een rivier",
-          "Een auto"
+          "Een reis naar de maan",
+          "Een politieke situatie met Donald Trump",
+          "Een recept voor taart",
+          "Een dag op het strand"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waar is de oorlog?",
+        question: "Wat betekent 'opnieuw'?",
         options: [
-          "In Rusland",
-          "In Duitsland",
-          "In Oekraïne",
-          "In Frankrijk"
+          "Nooit meer",
+          "Weer een keer",
+          "Voor het eerst",
+          "Alleen maar"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Wat is 'lezen'?",
+        question: "Wat is Latijns-Amerika?",
         options: [
-          "Een soort sport",
-          "Iets wat je met boeken doet",
-          "Een soort eten",
-          "Een land"
+          "Een soort voedsel",
+          "Een gebied met landen",
+          "Een bekende film",
+          "Een sportteam"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Oekraïne is een stad.",
-        isTrue: false
-      },
-      {
-        statement: "Rusland en Oekraïne zijn in oorlog.",
+        statement: "Donald Trump is de president van Amerika.",
         isTrue: true
       },
       {
-        statement: "Je kunt nieuws lezen in een app.",
+        statement: "De tekst gaat over koken.",
+        isTrue: false
+      },
+      {
+        statement: "Latijns-Amerika is een plaats op aarde.",
         isTrue: true
       }
     ]
@@ -983,104 +977,92 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Illegale rave in België",
+    title: "Annemarie Sauer, 78 jaar",
     topicNumber: 1,
     article: {
-      title: "Illegale rave in België",
-      summary: "Er is een feest in België. Het feest is illegaal. Er zijn 700 mensen. Zij komen uit België, Nederland en Frankrijk. Ze blijven tot zondag."
+      title: "Annemarie Sauer, 78 jaar",
+      summary: "Geboren in 1947. Overleden op 20/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "illegale",
-          definition: "niet toegestaan, tegen de wet",
-          sentence: "De politie stopte de ___ feest.",
-          answer: "illegale"
+          word: "geboren",
+          definition: "geboren worden",
+          sentence: "Ze is ___ in 1947.",
+          answer: "geboren"
         },
         {
-          word: "zondag",
-          definition: "de dag na zaterdag",
-          sentence: "Het feest duurt tot ___.",
-          answer: "zondag"
+          word: "overleden",
+          definition: "niet meer leven",
+          sentence: "Hij is ___ op 20/10/2025.",
+          answer: "overleden"
         },
         {
-          word: "Frankrijk",
-          definition: "een land naast België",
-          sentence: "Sommige bezoekers komen uit ___.",
-          answer: "Frankrijk"
-        },
-        {
-          word: "Nederland",
-          definition: "een land naast België",
-          sentence: "Sommige bezoekers komen uit ___.",
-          answer: "Nederland"
-        },
-        {
-          word: "rave",
-          definition: "een groot feest met muziek",
-          sentence: "De ___ is in België.",
-          answer: "rave"
+          word: "jaar",
+          definition: "een periode van 365 dagen",
+          sentence: "Hij is 78 ___ oud.",
+          answer: "jaar"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het feest duurt tot ___.",
-          answer: "zondag"
+          sentence: "Ze is ___ in 1947.",
+          answer: "geboren"
         },
         {
-          sentence: "Sommige bezoekers komen uit ___.",
-          answer: "Frankrijk"
+          sentence: "Hij is 78 ___ oud.",
+          answer: "jaar"
         },
         {
-          sentence: "De ___ is in België.",
-          answer: "rave"
+          sentence: "Hij is ___ op 20/10/2025.",
+          answer: "overleden"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar is de rave?",
+        question: "Wanneer is Annemarie Sauer geboren?",
         options: [
-          "In België",
-          "In Nederland",
-          "In Duitsland",
-          "In Spanje"
+          "In 1947",
+          "In 1950",
+          "In 1960",
+          "In 1970"
         ],
         correctAnswer: 1
       },
       {
-        question: "Hoeveel bezoekers zijn er?",
+        question: "Hoe oud was Annemarie Sauer toen ze overleed?",
         options: [
-          "700",
-          "7000",
-          "70",
-          "7"
+          "78 jaar",
+          "80 jaar",
+          "75 jaar",
+          "70 jaar"
         ],
         correctAnswer: 1
       },
       {
-        question: "Hoe lang duurt het feest?",
+        question: "Op welke datum overleed Annemarie Sauer?",
         options: [
-          "Tot zondag",
-          "Tot maandag",
-          "Tot vrijdag",
-          "Tot dinsdag"
+          "20/10/2025",
+          "20/11/2025",
+          "21/10/2025",
+          "19/10/2025"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De rave is in Nederland.",
-        isTrue: false
-      },
-      {
-        statement: "Het feest duurt tot zondag.",
+        statement: "Annemarie Sauer is geboren in 1947.",
         isTrue: true
       },
       {
-        statement: "Alle bezoekers komen uit België.",
+        statement: "Annemarie Sauer overleed in 2024.",
         isTrue: false
+      },
+      {
+        statement: "Annemarie Sauer was 78 jaar oud.",
+        isTrue: true
       }
     ]
   },
@@ -1089,103 +1071,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Drones boven militaire basis",
+    title: "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
     topicNumber: 1,
     article: {
-      title: "Drones boven militaire basis",
-      summary: "Drones zijn gezien boven een legerbasis. Minister Francken heeft plannen tegen drones."
+      title: "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
+      summary: "Meer dan de helft van de leerlingen in het middelbaar die afstandsonderwijs volgen, doet dat omdat ze psychisch kwetsbaar zijn. 'Elke dag in de klas zitten, lukt me niet.'"
     },
     vocabulary: {
       words: [
         {
-          word: "Basis",
-          definition: "een plaats waar mensen werken of wonen",
-          sentence: "Soldaten leven en werken op een militaire ___.",
-          answer: "Basis"
+          word: "meer",
+          definition: "een grotere hoeveelheid",
+          sentence: "Ik heb ___ dan jij.",
+          answer: "meer"
         },
         {
-          word: "Tegen",
-          definition: "tegen iets of iemand zijn",
-          sentence: "Hij is ___ het plan.",
-          answer: "Tegen"
+          word: "via",
+          definition: "door middel van",
+          sentence: "Hij stuurt het bericht ___ de post.",
+          answer: "via"
         },
         {
-          word: "Plannen",
-          definition: "ideeën voor de toekomst",
-          sentence: "De overheid heeft nieuwe ___.",
-          answer: "Plannen"
+          word: "les",
+          definition: "iets wat je leert op school",
+          sentence: "Hij geeft ___ over taal.",
+          answer: "les"
         },
         {
-          word: "Boven",
-          definition: "ergens boven, niet onder",
-          sentence: "De vogel vliegt ___ het huis.",
-          answer: "Boven"
+          word: "leerlingen",
+          definition: "kinderen die op school leren",
+          sentence: "De ___ van deze school zijn erg blij.",
+          answer: "leerlingen"
         },
         {
-          word: "Gezien",
-          definition: "iets met je ogen waarnemen",
-          sentence: "Ik heb dat film ___.",
-          answer: "Gezien"
+          word: "helft",
+          definition: "een van de twee gelijke delen van iets",
+          sentence: "De ___ van de leerlingen is ziek.",
+          answer: "helft"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Ik heb dat film ___.",
-          answer: "Gezien"
+          sentence: "Hij stuurt het bericht ___ de post.",
+          answer: "via"
         },
         {
-          sentence: "De vogel vliegt ___ het huis.",
-          answer: "Boven"
+          sentence: "De ___ van deze school zijn erg blij.",
+          answer: "leerlingen"
         },
         {
-          sentence: "Soldaten leven en werken op een militaire ___.",
-          answer: "Basis"
+          sentence: "Ik heb ___ dan jij.",
+          answer: "meer"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is een drone?",
+        question: "Waarom volgen leerlingen les via Bednet?",
         options: [
-          "Een soort auto",
-          "Een vliegend apparaat",
-          "Een soort boom",
+          "Omdat ze ziek zijn",
+          "Omdat ze het leuk vinden",
+          "Omdat ze moeten",
+          "Omdat ze niet kunnen betalen"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is Bednet?",
+        options: [
+          "Een soort school",
+          "Een soort sport",
+          "Een soort game",
           "Een soort boek"
         ],
+        correctAnswer: 1
+      },
+      {
+        question: "Hoe voelen leerlingen zich als ze niet naar school kunnen?",
+        options: [
+          "Vrolijk",
+          "Verdrietig",
+          "Boos",
+          "Bang"
+        ],
         correctAnswer: 2
-      },
-      {
-        question: "Wat doet de minister?",
-        options: [
-          "Hij rijdt een auto",
-          "Hij eet een appel",
-          "Hij maakt plannen",
-          "Hij speelt buiten"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Waar zijn de drones gezien?",
-        options: [
-          "In de stad",
-          "Op de maan",
-          "Boven een militaire basis",
-          "In een rivier"
-        ],
-        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Drones zijn grote vliegtuigen.",
+        statement: "Leerlingen die Bednet gebruiken zijn altijd ziek.",
         isTrue: false
       },
       {
-        statement: "De minister heeft nieuwe plannen.",
+        statement: "Sommige leerlingen kunnen niet naar school gaan door hun gezondheid.",
         isTrue: true
       },
       {
-        statement: "Drones zijn verboden boven de stad.",
+        statement: "Bednet is een manier om thuis les te volgen.",
         isTrue: true
       }
     ]
@@ -1195,104 +1177,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Weinig zon in oktober",
+    title: "Thomas Siffer neemt afscheid van Louise Delanghe",
     topicNumber: 1,
     article: {
-      title: "Weinig zon in oktober",
-      summary: "Oktober had weinig zon. Alleen 1998 had nog minder zon. Maar woensdag wordt het warm."
+      title: "Thomas Siffer neemt afscheid van Louise Delanghe",
+      summary: "Louise Delanghe was een jonge kunstenares. Ze was intelligent, vrolijk, vriendelijk en uitbundig. Helaas kwam ze om bij een verkeersongeluk. Thomas Siffer schreef een afscheidstekst voor haar."
     },
     vocabulary: {
       words: [
         {
-          word: "zon",
-          definition: "Dat is wat je ziet in de lucht als het niet bewolkt is.",
-          sentence: "De ___ schijnt fel vandaag.",
-          answer: "zon"
+          word: "uitbundig",
+          definition: "vol energie en enthousiasme",
+          sentence: "Ze was erg ___ en levendig.",
+          answer: "uitbundig"
         },
         {
-          word: "oktober",
-          definition: "De tiende maand van het jaar.",
-          sentence: "In ___ is het vaak herfst.",
-          answer: "oktober"
+          word: "tekst",
+          definition: "geschreven woorden op papier of scherm",
+          sentence: "Hij schreef een mooie ___ over haar.",
+          answer: "tekst"
         },
         {
-          word: "weinig",
-          definition: "Niet veel, een kleine hoeveelheid.",
-          sentence: "Er is ___ water in de fles.",
-          answer: "weinig"
+          word: "vrolijk",
+          definition: "blij en gelukkig",
+          sentence: "Ze was altijd ___.",
+          answer: "vrolijk"
         },
         {
-          word: "warm",
-          definition: "Niet koud, een hoge temperatuur.",
-          sentence: "De soep is erg ___.",
-          answer: "warm"
+          word: "kunstenares",
+          definition: "iemand die kunst maakt",
+          sentence: "Louise was een ___.",
+          answer: "kunstenares"
         },
         {
-          word: "woensdag",
-          definition: "De derde dag van de week.",
-          sentence: "___ is de dag na dinsdag.",
-          answer: "woensdag"
+          word: "vriendelijk",
+          definition: "aardig en vriendelijk",
+          sentence: "Ze was heel ___ tegen iedereen.",
+          answer: "vriendelijk"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ schijnt fel vandaag.",
-          answer: "zon"
+          sentence: "Louise was een ___.",
+          answer: "kunstenares"
         },
         {
-          sentence: "___ is de dag na dinsdag.",
-          answer: "woensdag"
+          sentence: "Ze was heel ___ tegen iedereen.",
+          answer: "vriendelijk"
         },
         {
-          sentence: "In ___ is het vaak herfst.",
-          answer: "oktober"
+          sentence: "Ze was altijd ___.",
+          answer: "vrolijk"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat was er bijzonder aan oktober dit jaar?",
+        question: "Wat was Louise Delanghe?",
         options: [
-          "Er was veel zon",
-          "Er was weinig zon",
-          "Het was erg koud",
-          "Het was erg warm"
+          "een schilder",
+          "een kunstenares",
+          "een muzikant",
+          "een schrijfster"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is er goed nieuws voor woensdag?",
+        question: "Hoe was Louise als persoon?",
         options: [
-          "Het wordt koud",
-          "Het wordt nat",
-          "Het wordt warm",
-          "Er is veel wind"
+          "Ze was erg verlegen.",
+          "Ze was erg stil.",
+          "Ze was erg vrolijk en vriendelijk.",
+          "Ze was erg boos en onvriendelijk."
         ],
         correctAnswer: 3
       },
       {
-        question: "Welk record werd bijna gehaald in oktober?",
+        question: "Wat gebeurde er met Louise?",
         options: [
-          "Hoogste temperatuur",
-          "Meeste zonuren",
-          "Minste zonuren",
-          "Minste regen"
+          "Ze ging met pensioen.",
+          "Ze verhuisde naar een ander land.",
+          "Ze kwam om bij een verkeersongeluk.",
+          "Ze won een belangrijke prijs."
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Oktober had veel zon.",
-        isTrue: false
-      },
-      {
-        statement: "Woensdag wordt het warm.",
+        statement: "Louise Delanghe was een kunstenares.",
         isTrue: true
       },
       {
-        statement: "Alleen oktober 1998 had meer zon.",
+        statement: "Louise was een erg verdrietig persoon.",
         isTrue: false
+      },
+      {
+        statement: "Louise overleed door een verkeersongeval.",
+        isTrue: true
       }
     ]
   },
@@ -1301,104 +1283,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
+    title: "Amerikaanse rechter wendt hongercrisis in VS (even) af",
     topicNumber: 1,
     article: {
-      title: "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
-      summary: "Zaterdagavond zijn meerdere mensen neergestoken in een trein die naar het Engelse Huntingdon reed. Dat meldt de Britse transportpolitie. Er zijn twee verdachten gearresteerd."
+      title: "Amerikaanse rechter wendt hongercrisis in VS (even) af",
+      summary: "42 miljoen Amerikanen komen maar rond dankzij voedselsteun van de regering. De voedselbonnen van november lijken gered, al ontbreken er miljarden dollars."
     },
     vocabulary: {
       words: [
         {
-          word: "zaterdagavond",
-          definition: "de avond van zaterdag",
-          sentence: "De politie werd __ zaterdagavond op de hoogte gebracht van het incident.",
-          answer: "zaterdagavond"
+          word: "ontbreken",
+          definition: "niet aanwezig zijn, missen",
+          sentence: "Er ___ nog enkele belangrijke handtekeningen.",
+          answer: "ontbreken"
         },
         {
-          word: "trein",
-          definition: "een voertuig dat op rails rijdt en wordt gebruikt voor personenvervoer",
-          sentence: "De __ vertrok vanuit Londen en was onderweg naar Huntingdon.",
-          answer: "trein"
+          word: "voedselsteun",
+          definition: "hulp in de vorm van voedsel, vaak van de overheid",
+          sentence: "De regering bood ___ aan de getroffen bevolking.",
+          answer: "voedselsteun"
         },
         {
-          word: "neergestoken",
-          definition: "het fysiek met een mes of scherp voorwerp zijn verwond",
-          sentence: "De slachtoffers zijn ernstig __ tijdens de aanval.",
-          answer: "neergestoken"
+          word: "regering",
+          definition: "de groep mensen die een land of gebied bestuurt",
+          sentence: "De ___ heeft nieuwe maatregelen aangekondigd.",
+          answer: "regering"
         },
         {
-          word: "Engeland",
-          definition: "een land dat deel uitmaakt van het Verenigd Koninkrijk",
-          sentence: "Het incident vond plaats in __, waar de politie de zaak onderzoekt.",
-          answer: "Engeland"
+          word: "rechter",
+          definition: "een persoon die in een rechtbank beslist over geschillen",
+          sentence: "De ___ heeft de zaak behandeld.",
+          answer: "rechter"
         },
         {
-          word: "verdachten",
-          definition: "personen die worden verdacht van een misdrijf",
-          sentence: "De twee __ werden kort na het incident aangehouden.",
-          answer: "verdachten"
+          word: "gered",
+          definition: "beschermd of veiliggesteld, van een gevaar",
+          sentence: "De voorraden zijn ___ van de overstroming.",
+          answer: "gered"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het incident vond plaats in __, waar de politie de zaak onderzoekt.",
-          answer: "Engeland"
+          sentence: "De regering bood ___ aan de getroffen bevolking.",
+          answer: "voedselsteun"
         },
         {
-          sentence: "De twee __ werden kort na het incident aangehouden.",
-          answer: "verdachten"
+          sentence: "De ___ heeft nieuwe maatregelen aangekondigd.",
+          answer: "regering"
         },
         {
-          sentence: "De politie werd __ zaterdagavond op de hoogte gebracht van het incident.",
-          answer: "zaterdagavond"
+          sentence: "De voorraden zijn ___ van de overstroming.",
+          answer: "gered"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar vond het incident plaats?",
+        question: "Wat is de rol van de rechter in deze kwestie?",
         options: [
-          "In een trein in Engeland",
-          "Op een station in Londen",
-          "In een bus in Schotland",
-          "Op straat in Manchester"
+          "Hij start de voedselsteun",
+          "Hij beëindigt de voedselsteun",
+          "Hij beschermt de voedselbonnen",
+          "Hij keurt de steun af"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wat is de rol van de Britse transportpolitie in deze kwestie?",
+        question: "Waaruit bestaat de voedselsteun in dit artikel?",
         options: [
-          "Zij hebben de twee verdachten gearresteerd",
-          "Zij verzorgen de slachtoffers",
-          "Zij leiden het onderzoek",
-          "Zij meldden het incident aan de media"
+          "Alleen uit geld",
+          "Alleen uit voedselbonnen",
+          "Uitsluitend uit voedselpakketten",
+          "Een combinatie van bonnen en mogelijk geld"
         ],
-        correctAnswer: 1
+        correctAnswer: 4
       },
       {
-        question: "Wat gebeurde er met de verdachten na het incident?",
+        question: "Wat is de toestand van de voedselbonnen in november?",
         options: [
-          "Ze werden onmiddellijk gearresteerd",
-          "Ze vluchten het land uit",
-          "Ze werden na een uur gevonden",
-          "Ze werden nooit gevonden"
+          "Ze zijn al gebruikt",
+          "Ze zijn verloren gegaan",
+          "Ze zijn gered en bruikbaar",
+          "Ze zijn nog niet uitgedeeld"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Het incident vond plaats op een zaterdagavond in een trein in Engeland.",
-        isTrue: true
-      },
-      {
-        statement: "De Britse transportpolitie heeft nog geen verdachten kunnen arresteren.",
+        statement: "De rechter heeft de voedselsteun volledig stopgezet.",
         isTrue: false
       },
       {
-        statement: "De trein was onderweg naar Huntingdon op het moment van het incident.",
+        statement: "Er ontbreken miljarden dollars aan de voedselsteun, maar de bonnen zijn gered.",
         isTrue: true
+      },
+      {
+        statement: "Alleen de voedselbonnen worden beschermd, niet het geld.",
+        isTrue: false
       }
     ]
   },
@@ -1407,103 +1389,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
+    title: "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
     topicNumber: 1,
     article: {
-      title: "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
-      summary: "Waar zijn de Russische soldaten? Dat is de vraag voor de Oekraïense verdediging in Pokrovsk. De strategisch belangrijke stad dreigt te vallen door een nieuwe Russische manier van oorlogvoeren."
+      title: "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
+      summary: "Nu de kans op een snel bestand in Oekraïne vervlogen is, blijft de vraag: hoe zal deze oorlog eindigen? Niemand durft het te voorspellen, maar een trend is duidelijk: Oekraïne kan financieel niet veel verder, maar het moet wel."
     },
     vocabulary: {
       words: [
         {
-          word: "verdediging",
-          definition: "het beschermen tegen aanvallen",
-          sentence: "De verdediging van Pokrovsk is cruciaal.",
-          answer: "verdediging"
+          word: "Oekraïne",
+          definition: "Een land in Oost-Europa, momenteel betrokken bij een conflict.",
+          sentence: "___ heeft behoefte aan internationale steun om te herstellen.",
+          answer: "Oekraïne"
         },
         {
-          word: "vraag",
-          definition: "een vraag of verzoek om informatie",
-          sentence: "Dat is de ___ voor de Oekraïense verdediging.",
-          answer: "vraag"
+          word: "militair",
+          definition: "Met betrekking tot soldaten, oorlog of gewapende strijd.",
+          sentence: "Hij diende in het ___ apparaat voor tien jaar.",
+          answer: "militair"
         },
         {
-          word: "zijn",
-          definition: "bestaan of aanwezig zijn",
-          sentence: "Waar zijn de Russische soldaten?",
-          answer: "zijn"
+          word: "trend",
+          definition: "Een algemene richting of tendens waarin iets zich ontwikkelt of verandert.",
+          sentence: "De opkomende ___ in de mode is om vintage kleding te dragen.",
+          answer: "trend"
         },
         {
-          word: "Russische",
-          definition: "betrekking hebbend op Rusland",
-          sentence: "De ___ soldaten zijn niet zichtbaar, maar hun tactiek is duidelijk.",
-          answer: "Russische"
+          word: "financieel",
+          definition: "Met betrekking tot geld, financiën of monetaire zaken.",
+          sentence: "Zonder een sterke economie is een land ___ onstabiel.",
+          answer: "financieel"
         },
         {
-          word: "oorlogvoeren",
-          definition: "het voeren van oorlog, oorlog voeren",
-          sentence: "De nieuwe manier van ___ is effectief maar gevaarlijk.",
-          answer: "oorlogvoeren"
+          word: "oorlog",
+          definition: "Een gewapend conflict tussen landen of groepen.",
+          sentence: "De ___ heeft veel levens verwoest en steden verwoest.",
+          answer: "oorlog"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De verdediging van Pokrovsk is cruciaal.",
-          answer: "verdediging"
+          sentence: "Hij diende in het ___ apparaat voor tien jaar.",
+          answer: "militair"
         },
         {
-          sentence: "Dat is de ___ voor de Oekraïense verdediging.",
-          answer: "vraag"
+          sentence: "De opkomende ___ in de mode is om vintage kleding te dragen.",
+          answer: "trend"
         },
         {
-          sentence: "De ___ soldaten zijn niet zichtbaar, maar hun tactiek is duidelijk.",
-          answer: "Russische"
+          sentence: "Zonder een sterke economie is een land ___ onstabiel.",
+          answer: "financieel"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar zijn de Russische soldaten volgens de tekst?",
+        question: "Wat betekent 'vervlogen' in deze context?",
         options: [
-          "Niet zichtbaar in de stad",
-          "Alleen in Pokrovsk",
-          "Overal in Oekraïne",
-          "Alleen in Moskou"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is het gevolg van de nieuwe Russische tactiek?",
-        options: [
-          "Pokrovsk valt snel",
-          "Oekraïne wint de oorlog",
-          "De soldaten keren terug",
-          "Er is geen effect"
+          "Vergeten",
+          "Actueel",
+          "Vernieuwend",
+          "Versterkend"
         ],
         correctAnswer: 1
       },
       {
         question: "Wat is de hoofdgedachte van de tekst?",
         options: [
-          "Oekraïne verliest snel",
-          "De vraag naar soldaten is cruciaal",
-          "Rusland gebruikt nieuwe methoden",
-          "Pokrovsk is al gevallen"
+          "Oekraïne wint de oorlog",
+          "Economische factoren zijn beslissend",
+          "Militair overwicht is alles",
+          "Het einde is nabij"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is de toestand van Oekraïne volgens de tekst?",
+        options: [
+          "Het is een economische grootmacht",
+          "Het kan financieel niet verder",
+          "Het is militair onverslaanbaar",
+          "Het heeft buitenlandse steun niet nodig"
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De Russische soldaten zijn duidelijk zichtbaar in Pokrovsk.",
-        isTrue: false
-      },
-      {
-        statement: "De nieuwe Russische tactiek veroorzaakt dat Pokrovk dreigt te vallen.",
+        statement: "De tekst suggereert dat Oekraïne de oorlog kan winnen door economische veerkracht.",
         isTrue: true
       },
       {
-        statement: "De tekst is voornamelijk gericht op de locatie van de Russische soldaten.",
+        statement: "Een snel bestand in Oekraïne is nog steeds mogelijk.",
+        isTrue: false
+      },
+      {
+        statement: "Oekraïne heeft geen andere keuze dan door te vechten op alle fronten.",
         isTrue: true
       }
     ]
@@ -1513,103 +1495,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Frans parlement verwerpt rijkenbelasting: “Wonderbelasting bestaat niet”",
+    title: "Hoe Trump Latijns-Amerika opnieuw als exclusieve invloedssfeer claimt",
     topicNumber: 1,
     article: {
-      title: "Frans parlement verwerpt rijkenbelasting: “Wonderbelasting bestaat niet”",
-      summary: "De Assemblée nationale, het Franse parlement, heeft vrijdag voorstellen voor een belasting op de hoogste vermogens met een grote meerderheid verworpen."
+      title: "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een geheel eigen versie van de Monroedoctrine",
+      summary: "Amerikaanse media noemen hem een piraat en waarschuwen voor de risico’s van een invasie van Venezuela. Maar Donald Trump maakt van Latijns-Amerika opnieuw zijn exclusieve speeltuin, in zijn geheel eigen versie van de Monroedoctrine."
     },
     vocabulary: {
       words: [
         {
-          word: "vermogens",
-          definition: "Vermogens of fortuinen, vaak in economische context",
-          sentence: "Hoge ___ kunnen meer belasting dragen.",
-          answer: "vermogens"
+          word: "Latijns-Amerika",
+          definition: "regio in Amerika ten zuiden van de Verenigde Staten, voornamelijk Spaans- en Portugeessprekend",
+          sentence: "___ heeft een rijke geschiedenis en diverse culturen.",
+          answer: "Latijns-Amerika"
         },
         {
-          word: "Assemblée",
-          definition: "Het Franse woord voor een vergadering of parlement",
-          sentence: "De Nationale ___ behandelt wetgeving.",
-          answer: "Assemblée"
+          word: "maakt",
+          definition: "vormt, creëert of produceert",
+          sentence: "Hij ___ van zijn hobby zijn beroep.",
+          answer: "maakt"
         },
         {
-          word: "belasting",
-          definition: "Een verplichte financiële bijdrage aan de overheid",
-          sentence: "Deze ___ wordt geheven op inkomen en vermogen.",
-          answer: "belasting"
+          word: "exclusieve",
+          definition: "uitsluitend, alleen toegankelijk voor een selecte groep",
+          sentence: "De club heeft een ___ ledenlijst.",
+          answer: "exclusieve"
         },
         {
-          word: "bestaat",
-          definition: "Is aanwezig of is realiteit",
-          sentence: "De entiteit ___ al sinds 2020.",
-          answer: "bestaat"
+          word: "Trump",
+          definition: "achternaam van de voormalige president van de Verenigde Staten",
+          sentence: "Donald ___ staat bekend om zijn onconventionele aanpak.",
+          answer: "Trump"
         },
         {
-          word: "voorstellen",
-          definition: "Plannen of ideeën die worden aangeboden",
-          sentence: "De nieuwe ___ werden goed ontvangen.",
-          answer: "voorstellen"
+          word: "opnieuw",
+          definition: "nog een keer, weer",
+          sentence: "Hij probeerde het ___ na zijn eerste mislukking.",
+          answer: "opnieuw"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Deze ___ wordt geheven op inkomen en vermogen.",
-          answer: "belasting"
+          sentence: "Donald ___ staat bekend om zijn onconventionele aanpak.",
+          answer: "Trump"
         },
         {
-          sentence: "Hoge ___ kunnen meer belasting dragen.",
-          answer: "vermogens"
+          sentence: "Hij probeerde het ___ na zijn eerste mislukking.",
+          answer: "opnieuw"
         },
         {
-          sentence: "De entiteit ___ al sinds 2020.",
-          answer: "bestaat"
+          sentence: "De club heeft een ___ ledenlijst.",
+          answer: "exclusieve"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'verworpen' in deze context?",
+        question: "Welke regio wordt vooral beïnvloed door de Monroedoctrine volgens de tekst?",
         options: [
-          "Geaccepteerd",
-          "Afgewezen",
-          "Geprezen",
-          "Gewijzigd"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Waar verwijst 'Assemblée' specifiek naar?",
-        options: [
-          "Een soort belasting",
-          "De Franse regering",
-          "Het Franse parlement",
-          "Een Europese instelling"
+          "Europa",
+          "Azië",
+          "Latijns-Amerika",
+          "Afrika"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is de hoofdgedachte van de samenvatting?",
+        question: "Hoe wordt Donald Trump's benadering van Latijns-Amerika in de tekst beschreven?",
         options: [
-          "Frankrijk introduceert een nieuwe belasting",
-          "Frankrijk verwerpt een belastingvoorstel",
-          "De Assemblée Nationale wordt hervormd",
-          "Er is een grote meerderheid voor belastingverhoging"
+          "Als een collaboratieve effort",
+          "Als een eenzijdige claim",
+          "Als een neutrale observatie",
+          "Als een historische hervorming"
         ],
         correctAnswer: 2
+      },
+      {
+        question: "Wat is de rol van de media volgens de tekst in deze context?",
+        options: [
+          "Ze ondersteunen Trump's beleid volledig",
+          "Ze negeren de situatie geheel",
+          "Ze bekritiseren Trump en waarschuwen voor risico's",
+          "Ze prijzen hem als een piraat"
+        ],
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Het Franse parlement heeft de belastingvoorstellen goedgekeurd.",
-        isTrue: false
-      },
-      {
-        statement: "De Assemblée Nationale is het Franse parlement.",
+        statement: "Donald Trump wordt door de media omschreven als een piraat vanwege zijn beleid.",
         isTrue: true
       },
       {
-        statement: "De belastingvoorstellen werden unaniem aangenomen.",
+        statement: "Latijns-Amerika wordt in de tekst voorgesteld als een exclusieve speeltuin alleen voor de Verenigde Staten.",
+        isTrue: true
+      },
+      {
+        statement: "De Monroedoctrine is recentelijk geïntroduceerd door Donald Trump.",
         isTrue: false
       }
     ]
@@ -1619,103 +1601,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Illegale rave vlak bij Kluisbergen",
+    title: "Annemarie Sauer, 78 jaar",
     topicNumber: 1,
     article: {
-      title: "Illegale rave vlak bij Kluisbergen",
-      summary: "In de Waalse gemeente Frasnes-lez-Anvaing, vlak over de taalgrens, is een illegale rave bezig met ongeveer 700 bezoekers. De deelnemers komen uit België, Nederland en Frankrijk en zijn van plan om tot zondagnamiddag door te gaan."
+      title: "Annemarie Sauer, 78 jaar",
+      summary: "Geboren in 1947, overleden op 20/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "Illegale",
-          definition: "Niet toegestaan door de wet",
-          sentence: "De ___ activiteit werd gestopt door de politie.",
-          answer: "Illegale"
+          word: "Annemarie",
+          definition: "Vrouwelijke voornaam, afgeleid van Anna en Maria",
+          sentence: "___ Sauer was een bekende schrijfster uit de vorige eeuw.",
+          answer: "Annemarie"
         },
         {
-          word: "Rave",
-          definition: "Een groot feest met elektronische muziek",
-          sentence: "De ___ trok honderden bezoekers.",
-          answer: "Rave"
+          word: "Sauer",
+          definition: "Duitse familienaam, betekent 'zuur' of 'bitter'",
+          sentence: "De schrijfster Annemarie ___ is vooral bekend van haar romans.",
+          answer: "Sauer"
         },
         {
-          word: "Kluisbergen",
-          definition: "Een plaatsnaam in België",
-          sentence: "___ is een gemeente in Vlaanderen.",
-          answer: "Kluisbergen"
+          word: "geboren",
+          definition: "Het moment waarop iemand ter wereld komt",
+          sentence: "Zij werd ___ in 1947 en is nu 78 jaar oud.",
+          answer: "geboren"
         },
         {
-          word: "Anvaing",
-          definition: "Een plaatsnaam in België",
-          sentence: "___ is een deelgemeente van Frasnes-lez-Anvaing.",
-          answer: "Anvaing"
+          word: "overleden",
+          definition: "Iemand die is gestorven, niet meer levend",
+          sentence: "Helaas is zij reeds ___ op 20 oktober 2025.",
+          answer: "overleden"
         },
         {
-          word: "zondagnamiddag",
-          definition: "De tijd na zondagmiddag en voor zondagavond",
-          sentence: "We spreken af op ___ om te sporten.",
-          answer: "zondagnamiddag"
+          word: "2025",
+          definition: "Het jaar na 2024 en voor 2026",
+          sentence: "Zij stierf in ___ , wat nog ver in de toekomst ligt.",
+          answer: "2025"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "___ is een gemeente in Vlaanderen.",
-          answer: "Kluisbergen"
+          sentence: "___ Sauer was een bekende schrijfster uit de vorige eeuw.",
+          answer: "Annemarie"
         },
         {
-          sentence: "We spreken af op ___ om te sporten.",
-          answer: "zondagnamiddag"
+          sentence: "De schrijfster Annemarie ___ is vooral bekend van haar romans.",
+          answer: "Sauer"
         },
         {
-          sentence: "De ___ activiteit werd gestopt door de politie.",
-          answer: "Illegale"
+          sentence: "Helaas is zij reeds ___ op 20 oktober 2025.",
+          answer: "overleden"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Welke taal wordt er vooral in Vlaanderen gesproken?",
+        question: "In welk jaar is Annemarie Sauer overleden?",
         options: [
-          "Frans",
-          "Duits",
-          "Vlaams",
-          "Engels"
+          "1947",
+          "1980",
+          "2020",
+          "2025"
         ],
-        correctAnswer: 3
+        correctAnswer: 4
       },
       {
-        question: "Wat is 'Flandern'?",
+        question: "Wat is de betekenis van de familienaam 'Sauer'?",
         options: [
-          "Een Duitse stad",
-          "Een type feest",
-          "De Duitse naam voor Vlaanderen",
-          "Een Nederlands dialect"
+          "Zoet",
+          "Bitter",
+          "Zout",
+          "Scherp"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Hoe laat eindigde de rave?",
+        question: "Welke maand overleed Annemarie Sauer?",
         options: [
-          "Zondagochtend",
-          "Zaterdagnacht",
-          "Zondagnamiddag",
-          "Maandagochtend"
+          "Januari",
+          "Februari",
+          "September",
+          "Oktober"
         ],
-        correctAnswer: 3
+        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "De rave vond plaats in de Waalse gemeente Frasnes-lez-Anvaing.",
+        statement: "Annemarie Sauer werd geboren in 1947.",
         isTrue: true
       },
       {
-        statement: "De rave werd georganiseerd door de lokale overheid.",
+        statement: "Annemarie Sauer overleed in de maand juni.",
         isTrue: false
       },
       {
-        statement: "Deelnemers aan de rave kwamen uit meerdere Europese landen.",
+        statement: "Annemarie Sauer is een schrijfster van romans.",
         isTrue: true
       }
     ]
@@ -1725,103 +1707,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
+    title: "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
     topicNumber: 1,
     article: {
-      title: "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
-      summary: "Ook vanavond zijn boven de militaire basis van Kleine-Brogel drones waargenomen. Vrijdag bespreekt de ministerraad het 'counterdronedossier' van Defensieminister Theo Francken (N-VA)."
+      title: "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
+      summary: "Meer dan de helft van de leerlingen in het middelbaar die afstandsonderwijs volgen, doet dat omdat ze psychisch kwetsbaar zijn. 'Elke dag in de klas zitten, lukt me niet.'"
     },
     vocabulary: {
       words: [
         {
-          word: "bespreekt",
-          definition: "Bespreekt of overlegt over een onderwerp.",
-          sentence: "Het team ___ de nieuwe strategie tijdens de vergadering.",
-          answer: "bespreekt"
+          word: "via",
+          definition: "Door middel van; met gebruikmaking van.",
+          sentence: "We communiceren ___ de chatfunctie.",
+          answer: "via"
         },
         {
-          word: "drones",
-          definition: "Onbemande vliegende toestellen die vaak voor militaire of recreatieve doeleinden worden gebruikt.",
-          sentence: "De militairen zagen verschillende ___ in de lucht tijdens de oefening.",
-          answer: "drones"
+          word: "helft",
+          definition: "Een van de twee gelijke delen waarin iets verdeeld kan worden; de helft.",
+          sentence: "De ___ van de deelnemers voltooide de studie.",
+          answer: "helft"
         },
         {
-          word: "Defensieminister",
-          definition: "De minister die verantwoordelijk is voor de landsverdediging.",
-          sentence: "De ___ gaf een persconferentie over de nieuwe defensiebegroting.",
-          answer: "Defensieminister"
+          word: "omdat",
+          definition: "Geeft een reden of oorzaak aan.",
+          sentence: "Hij is thuis ___ hij ziek is.",
+          answer: "omdat"
         },
         {
-          word: "minister",
-          definition: "Een lid van de regering, belast met een specifiek beleidsgebied.",
-          sentence: "De ___ van Onderwijs kondigde nieuwe subsidies aan voor scholen.",
-          answer: "minister"
+          word: "omdat",
+          definition: "Geeft een reden of oorzaak aan.",
+          sentence: "Hij is thuis ___ hij ziek is.",
+          answer: "omdat"
         },
         {
-          word: "ministerraad",
-          definition: "Het college van ministers in een regering, die wekelijks bijeenkomt.",
-          sentence: "De ___ komt elke vrijdag bijeen om de wekelijkse agenda te bespreken.",
-          answer: "ministerraad"
+          word: "psychisch",
+          definition: "Betrekking hebbend op de geest; mentaal.",
+          sentence: "De patiënt kreeg ___ ondersteuning na het trauma.",
+          answer: "psychisch"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het team ___ de nieuwe strategie tijdens de vergadering.",
-          answer: "bespreekt"
+          sentence: "We communiceren ___ de chatfunctie.",
+          answer: "via"
         },
         {
-          sentence: "De ___ komt elke vrijdag bijeen om de wekelijkse agenda te bespreken.",
-          answer: "ministerraad"
+          sentence: "De ___ van de deelnemers voltooide de studie.",
+          answer: "helft"
         },
         {
-          sentence: "De militairen zagen verschillende ___ in de lucht tijdens de oefening.",
-          answer: "drones"
+          sentence: "De patiënt kreeg ___ ondersteuning na het trauma.",
+          answer: "psychisch"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat wordt er besproken in de ministerraad volgens de tekst?",
+        question: "Waarom volgen sommige leerlingen afstandsonderwijs via Bednet?",
         options: [
-          "Het budget voor onderwijs",
-          "Het counterdronedossier",
-          "De bouw van een nieuwe basis",
-          "Hulp aan Oekraïne"
+          "Omdat ze fysiek niet naar school kunnen komen",
+          "Omdat ze psychische problemen hebben en daardoor de klas niet fysiek kunnen bijwonen",
+          "Omdat ze liever thuis werken dan op school",
+          "Omdat ze geen interesse hebben in onderwijs"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wie is Theo Francken volgens de tekst?",
+        question: "Wat is een voordeel van Bednet volgens de tekst?",
         options: [
-          "De minister van Defensie",
-          "De burgemeester van Kleine-Brogel",
-          "De minister van Buitenlandse Zaken",
-          "Een drone-piloot"
+          "Leerlingen kunnen volledig stoppen met onderwijs",
+          "Leerlingen krijgen extra vakken aangeboden",
+          "Leerlingen kunnen toch de lessen volgen, ook al zijn ze er niet fysiek",
+          "Leerlingen worden verplicht om online te zijn"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Op welke dag vond de beschreven gebeurtenis plaats?",
+        question: "Wat is de hoofdgedachte van de samenvatting?",
         options: [
-          "Vrijdag",
-          "Zaterdag",
-          "Zondag",
-          "Maandag"
+          "Bednet is een overbodige service",
+          "Leerlingen gebruiken Bednet omdat ze psychisch kwetsbaar zijn en niet fysiek naar school kunnen",
+          "Leerlingen kiezen voor Bednet om gemakkelijker te kunnen zijn",
+          "Bednet wordt enkel gebruikt tijdens vakanties"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Drones werden alleen 's avonds waargenomen boven Kleine Brogel.",
+        statement: "Bednet biedt enkel onderwijs voor basisschoolleerlingen.",
         isTrue: false
       },
       {
-        statement: "Theo Francken is de minister van Defensie en maakt deel uit van de N-VA.",
+        statement: "Leerlingen die Bednet gebruiken, zijn vaak psychisch kwetsbaar en kunnen niet fysiek naar school.",
         isTrue: true
       },
       {
-        statement: "De ministerraad bespreekt het counterdronedossier op zaterdag.",
+        statement: "Bednet vervangt volledig het fysieke onderwijs voor alle leerlingen.",
         isTrue: false
       }
     ]
@@ -1937,103 +1919,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
+    title: "Amerikaanse rechter wendt hongercrisis in VS (even) af",
     topicNumber: 1,
     article: {
-      title: "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
-      summary: "Zaterdagavond zijn meerdere mensen neergestoken in een trein die naar het Engelse Huntingdon reed. Dat meldt de Britse transportpolitie. Er zijn twee verdachten gearresteerd."
+      title: "Amerikaanse rechter wendt hongercrisis in VS (even) af",
+      summary: "42 miljoen Amerikanen komen maar rond dankzij voedselsteun van de regering. De voedselbonnen van november lijken gered, al ontbreken er miljarden dollars."
     },
     vocabulary: {
       words: [
         {
-          word: "trein",
-          definition: "Voertuig dat rijdt op rails",
-          sentence: "De ___ staat stil op het station.",
-          answer: "trein"
+          word: "voedselsteun",
+          definition: "hulp in de vorm van eten of bonnen voor eten",
+          sentence: "Tijdens de lockdown kregen veel mensen ___ van de overheid.",
+          answer: "voedselsteun"
         },
         {
-          word: "verdachten",
-          definition: "Mensen die iets slechts hebben gedaan, denkt men",
-          sentence: "De twee ___ zijn opgepakt door de politie.",
-          answer: "verdachten"
+          word: "rechter",
+          definition: "iemand die beslist of iets volgens de wet is",
+          sentence: "De ___ besliste dat het programma door mocht gaan.",
+          answer: "rechter"
         },
         {
-          word: "Engeland",
-          definition: "Land in Europa",
-          sentence: "Londen is de hoofdstad van ___.",
-          answer: "Engeland"
+          word: "voedselbonnen",
+          definition: "bonnen die je kunt inwisselen voor eten",
+          sentence: "Ouderen kunnen vaak gratis ___ krijgen.",
+          answer: "voedselbonnen"
         },
         {
-          word: "Huntingdon",
-          definition: "Stad in Engeland",
-          sentence: "___ is een plaats in Engeland.",
-          answer: "Huntingdon"
+          word: "dollars",
+          definition: "de munteenheid van de Verenigde Staten",
+          sentence: "Hij spaarde al zijn ___ voor een nieuwe fiets.",
+          answer: "dollars"
         },
         {
-          word: "opgepakt",
-          definition: "Gearresteerd, meegenomen door politie",
-          sentence: "De agenten hebben de man ___.",
-          answer: "opgepakt"
+          word: "hongercrisis",
+          definition: "een situatie waarin mensen niet genoeg te eten hebben",
+          sentence: "Door de droogte ontstond er een ___ in het land.",
+          answer: "hongercrisis"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "___ is een plaats in Engeland.",
-          answer: "Huntingdon"
+          sentence: "Tijdens de lockdown kregen veel mensen ___ van de overheid.",
+          answer: "voedselsteun"
         },
         {
-          sentence: "De twee ___ zijn opgepakt door de politie.",
-          answer: "verdachten"
+          sentence: "Ouderen kunnen vaak gratis ___ krijgen.",
+          answer: "voedselbonnen"
         },
         {
-          sentence: "Londen is de hoofdstad van ___.",
-          answer: "Engeland"
+          sentence: "Hij spaarde al zijn ___ voor een nieuwe fiets.",
+          answer: "dollars"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gebeurde het incident met de steekpartij?",
+        question: "Waarom krijgen veel Amerikanen voedselsteun?",
         options: [
-          "In een trein",
-          "In een bus",
-          "Op straat",
-          "In een park"
+          "Omdat er te weinig voedsel is",
+          "Omdat de regering dat organiseert",
+          "Omdat ze niet willen werken",
+          "Omdat het een speciale feestdag is"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wie zijn de verdachten volgens de tekst?",
+        question: "Wat is er met de voedselbonnen van november gebeurd?",
         options: [
-          "Twee mannen",
-          "Twee vrouwen",
-          "Een man en een vrouw",
-          "Niet vermeld"
+          "Ze zijn allemaal verloren gegaan",
+          "Ze zijn veilig, maar er is minder geld",
+          "Ze zijn veranderd in geld",
+          "Ze zijn gebruikt voor een feestmaal"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat is de rol van de politie in dit bericht?",
+        question: "Wat is de rol van de rechter in dit artikel?",
         options: [
-          "Zij arresteerden twee mensen",
-          "Zij waren slachtoffer",
-          "Zij deden niks",
-          "Zij startten de aanval"
+          "Hij startte de voedselsteun",
+          "Hij stopte de voedselsteun tijdelijk",
+          "Hij kookte voor de mensen",
+          "Hiz verzamelde de bonnen"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Het incident vond plaats in een trein in Engeland.",
-        isTrue: true
-      },
-      {
-        statement: "Er is slechts één verdachte gearresteerd.",
+        statement: "De rechter heeft de voedselsteun helemaal gestopt.",
         isTrue: false
       },
       {
-        statement: "De politie heeft de twee verdachten gearresteerd.",
+        statement: "Er zijn miljarden dollars die nog niet gevonden zijn.",
+        isTrue: true
+      },
+      {
+        statement: "Alleen Amerikanen krijgen voedselsteun van hun regering.",
         isTrue: true
       }
     ]
@@ -2043,104 +2025,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
+    title: "Hoe eindigt de oorlog in Oekraïne?",
     topicNumber: 1,
     article: {
-      title: "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
-      summary: "Waar zijn de Russische soldaten? Dat is de vraag voor de Oekraïense verdediging in Pokrovsk. De strategisch belangrijke stad dreigt te vallen door een nieuwe Russische manier van oorlogvoeren."
+      title: "Hoe eindigt de oorlog in Oekraïne?",
+      summary: "De oorlog in Oekraïne is erg lang. Niemand weet hoe het zal eindigen, maar Oekraïne heeft weinig geld. Het land moet doorgaan met vechten."
     },
     vocabulary: {
       words: [
         {
-          word: "nieuwe",
-          definition: "recent gemaakt of ontstaan, niet oud",
-          sentence: "De ___ tactiek van Rusland zorgt voor problemen.",
-          answer: "nieuwe"
+          word: "geld",
+          definition: "wat je gebruikt om dingen te kopen, zoals euro's of dollars",
+          sentence: "Oekraïne heeft niet veel ___ meer voor de oorlog.",
+          answer: "geld"
         },
         {
-          word: "zijn",
-          definition: "het werkwoord 'zijn' betekent dat iets bestaat of zich in een bepaalde toestand bevindt",
-          sentence: "Waar ___ de Russische soldaten?",
-          answer: "zijn"
+          word: "eindigen",
+          definition: "ophouden, stoppen",
+          sentence: "Hoe zal de oorlog ___?",
+          answer: "eindigen"
         },
         {
-          word: "tactiek",
-          definition: "een plan of methode om een doel te bereiken, vooral in een conflict of competitie",
-          sentence: "De nieuwe ___ van Rusland is effectief.",
-          answer: "tactiek"
+          word: "weinig",
+          definition: "een kleine hoeveelheid, niet veel",
+          sentence: "Er is ___ voedsel over voor de bevolking.",
+          answer: "weinig"
         },
         {
-          word: "Oekraïense",
-          definition: "betrekking hebbend op Oekraïne, iets of iemand uit Oekraïne",
-          sentence: "De ___ verdediging moet de stad beschermen.",
-          answer: "Oekraïense"
+          word: "doorgaan",
+          definition: "verder gaan, niet stoppen",
+          sentence: "Oekraïne moet ___ met de oorlog, ondanks problemen.",
+          answer: "doorgaan"
         },
         {
-          word: "doen",
-          definition: "uitvoeren, uitvoeren van een actie",
-          sentence: "De nieuwe Russische tactiek dreigt de stad te ___ vallen.",
-          answer: "doen"
+          word: "vechten",
+          definition: "proberen iemand fysiek pijn te doen tijdens een conflict",
+          sentence: "De soldaten moeten ___ voor hun land.",
+          answer: "vechten"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ tactiek van Rusland zorgt voor problemen.",
-          answer: "nieuwe"
+          sentence: "De soldaten moeten ___ voor hun land.",
+          answer: "vechten"
         },
         {
-          sentence: "De nieuwe Russische tactiek dreigt de stad te ___ vallen.",
-          answer: "doen"
+          sentence: "Oekraïne heeft niet veel ___ meer voor de oorlog.",
+          answer: "geld"
         },
         {
-          sentence: "De ___ verdediging moet de stad beschermen.",
-          answer: "Oekraïense"
+          sentence: "Oekraïne moet ___ met de oorlog, ondanks problemen.",
+          answer: "doorgaan"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent het woord 'tactiek' in deze context?",
+        question: "Wat betekent 'eindigen'?",
         options: [
-          "Een soort wapen",
-          "Een plan om een doel te bereiken",
-          "Een type soldaat",
-          "Een soort voertuig"
+          "beginnen",
+          "ophouden",
+          "vechten",
+          "verliezen"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waarom is de stad Pokrovsk belangrijk?",
+        question: "Waar gaat de tekst over?",
         options: [
-          "Het is de hoofdstad van Oekraïne",
-          "Het is een kleine onbelangrijke stad",
-          "Het is een strategisch belangrijke locatie voor de verdediging",
-          "Er zijn geen Russische soldaten aanwezig"
+          "de oorlog in Oekraïne",
+          "vakantie in Oekraïne",
+          "de taal in Oekraïne",
+          "de president van Oekraïne"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Wat is het gevolg van de nieuwe Russische tactiek?",
+        question: "Heeft Oekraïne veel geld voor de oorlog?",
         options: [
-          "De stad is al gevallen",
-          "Er is geen effect",
-          "Het dreigt de stad te doen vallen",
-          "De stad wordt sterker verdedigd"
+          "ja, heel veel",
+          "nee, bijna niet",
+          "alleen voor soldaten",
+          "alleen voor kinderen"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De Russische soldaten zijn niet zichtbaar in Pokrovsk.",
-        isTrue: true
-      },
-      {
-        statement: "De nieuwe Russische tactiek maakt de stad sterker.",
+        statement: "De oorlog in Oekraïne is net begonnen.",
         isTrue: false
       },
       {
-        statement: "Oekraïne verdedigt de stad Pokrovsk.",
+        statement: "Oekraïne heeft weinig geld om door te gaan met de oorlog.",
         isTrue: true
+      },
+      {
+        statement: "Iedereen weet precies hoe de oorlog zal eindigen.",
+        isTrue: false
       }
     ]
   },
@@ -2149,103 +2131,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Oekraïne wil Pokrovsk weer onder controle krijgen",
+    title: "Hoe Trump Latijns-Amerika als speeltuin ziet",
     topicNumber: 1,
     article: {
-      title: "Oekraïne wil Pokrovsk weer onder controle krijgen",
-      summary: "Oekraïne wil de stad Pokrovsk terugwinnen. Er is een oorlog in Oekraïne. Volg het nieuws om op te hoogte te blijven."
+      title: "Hoe Trump Latijns-Amerika als speeltuin ziet",
+      summary: "Amerikaanse media noemen Trump een piraat en waarschuwen voor een invasie in Venezuela. Maar Trump maakt van Latijns-Amerika zijn exclusieve speeltuin, in zijn eigen versie van de Monroedoctrine."
     },
     vocabulary: {
       words: [
         {
-          word: "nieuws",
-          definition: "Informatie over wat er gebeurt in de wereld",
-          sentence: "Ik lees het ___ elke dag.",
-          answer: "nieuws"
+          word: "een",
+          definition: "lidwoord voor enkelvoud, zoals 'een boek'",
+          sentence: "Hij heeft ___ nieuwe plan.",
+          answer: "een"
         },
         {
-          word: "onder",
-          definition: "Onder, aan de onderkant",
-          sentence: "De kat ligt ___ de tafel.",
-          answer: "onder"
+          word: "zijn",
+          definition: "bezittelijk voornaamwoord, zoals 'dat is van hem'",
+          sentence: "Dat hoort bij ___. (verwijs naar iets van Trump)",
+          answer: "zijn"
         },
         {
-          word: "weer",
-          definition: "Opnieuw, nog een keer",
-          sentence: "Hij is ___ thuis.",
-          answer: "weer"
+          word: "maakt",
+          definition: "doet of creëert iets",
+          sentence: "Hij ___ van Latijns-Amerika zijn speeltuin.",
+          answer: "maakt"
         },
         {
-          word: "wil",
-          definition: "Willen, iets graag willen",
-          sentence: "Hij ___ een nieuwe fiets.",
-          answer: "wil"
+          word: "van",
+          definition: "woord dat bezit of herkomst aangeeft",
+          sentence: "Dit is een boek ___ mijn leraar.",
+          answer: "van"
         },
         {
-          word: "controle",
-          definition: "Beheersing, beheer",
-          sentence: "Hij heeft ___ over de auto.",
-          answer: "controle"
+          word: "Trump",
+          definition: "de familienaam van de voormalige Amerikaanse president",
+          sentence: "___ was president van Amerika.",
+          answer: "Trump"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De kat ligt ___ de tafel.",
-          answer: "onder"
+          sentence: "Hij ___ van Latijns-Amerika zijn speeltuin.",
+          answer: "maakt"
         },
         {
-          sentence: "Ik lees het ___ elke dag.",
-          answer: "nieuws"
+          sentence: "Dit is een boek ___ mijn leraar.",
+          answer: "van"
         },
         {
-          sentence: "Hij ___ een nieuwe fiets.",
-          answer: "wil"
+          sentence: "___ was president van Amerika.",
+          answer: "Trump"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat wil Oekraïne doen met Pokrovsk?",
+        question: "Waarom noemen media Trump een piraat?",
         options: [
-          "Vernietigen",
-          "Verkopen",
-          "Terugwinnen",
-          "Verliezen"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Waar is er oorlog?",
-        options: [
-          "Nederland",
-          "Duitsland",
-          "Oekraïne",
-          "Frankrijk"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat betekent 'weer'?",
-        options: [
-          "Nooit",
-          "Weer (opnieuw)",
-          "Boven",
-          "Onder"
+          "Omdat hij van piraten houdt",
+          "Omdat hij oneerlijk handelt",
+          "Omdat hij een schip heeft",
+          "Omdat hij een ooglapje draagt"
         ],
         correctAnswer: 2
+      },
+      {
+        question: "Wat is de Monroedoctrine?",
+        options: [
+          "Een medische behandeling",
+          "Een oud boek",
+          "Een plan voor Noord- en Zuid-Amerika",
+          "Een soort sport"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat betekent 'exclusief' in deze tekst?",
+        options: [
+          "Alleen voor speciale mensen",
+          "Voor iedereen toegankelijk",
+          "Helemaal niet toegankelijk",
+          "Alleen op dinsdag"
+        ],
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Oekraïne heeft Pokrovsk al onder controle.",
-        isTrue: false
-      },
-      {
-        statement: "Er is oorlog in Oekraïne.",
+        statement: "Trump is de president van Amerika.",
         isTrue: true
       },
       {
-        statement: "Nieuws apps geven updates over de oorlog.",
+        statement: "De Monroedoctrine is een nieuwe dans.",
+        isTrue: false
+      },
+      {
+        statement: "Media noemen Trump een piraat omdat hij oneerlijk is.",
         isTrue: true
       }
     ]
@@ -2255,98 +2237,73 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Illegale rave in België",
+    title: "Annemarie Sauer, 78 jaar",
     topicNumber: 1,
     article: {
-      title: "Illegale rave in België",
-      summary: "In België is er een illegaal feest. Er zijn 700 mensen. Ze komen uit Nederland, België en Frankrijk. Het feest gaat door tot zondag."
+      title: "Annemarie Sauer, 78 jaar",
+      summary: "Geboren in 1947, overleden op 20 oktober 2025"
     },
     vocabulary: {
       words: [
         {
-          word: "illegale",
-          definition: "niet wettelijk toegestaan",
-          sentence: "De politie stopte de ___ feest.",
-          answer: "illegale"
+          word: "geboren",
+          definition: "het begin van het leven, wanneer iemand wordt geboren",
+          sentence: "Zij werd ___ in 1947.",
+          answer: "geboren"
         },
         {
-          word: "rave",
-          definition: "groot feest met elektronische muziek",
-          sentence: "De ___ was in een oud gebouw.",
-          answer: "rave"
-        },
-        {
-          word: "feest",
-          definition: "een vrolijke bijeenkomst",
-          sentence: "Het ___ was leuk maar illegaal.",
-          answer: "feest"
-        },
-        {
-          word: "land",
-          definition: "een gebied zoals Nederland of België",
-          sentence: "Welk ___ is dit?",
-          answer: "land"
+          word: "overleden",
+          definition: "niet meer levend, gestorven",
+          sentence: "Hij is ___ in 2020.",
+          answer: "overleden"
         }
       ],
-      fillInBlanks: [
-        {
-          sentence: "Welk ___ is dit?",
-          answer: "land"
-        },
-        {
-          sentence: "De ___ was in een oud gebouw.",
-          answer: "rave"
-        },
-        {
-          sentence: "De politie stopte de ___ feest.",
-          answer: "illegale"
-        }
-      ]
+      fillInBlanks: []
     },
     multipleChoice: [
       {
-        question: "Waar vond de rave plaats?",
+        question: "In welk jaar is Annemarie Sauer geboren?",
         options: [
-          "In Nederland",
-          "In Duitsland",
-          "In België",
-          "In Frankrijk"
+          "1945",
+          "1946",
+          "1947",
+          "1948"
         ],
         correctAnswer: 3
       },
       {
-        question: "Hoeveel mensen waren er ongeveer?",
+        question: "Wanneer is Annemarie Sauer overleden?",
         options: [
-          "700",
-          "70",
-          "7000",
-          "70000"
+          "20 oktober 2024",
+          "20 oktober 2025",
+          "20 oktober 2026",
+          "20 oktober 2027"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat is een 'rave'?",
+        question: "Hoe oud was Annemarie Sauer toen ze overleed?",
         options: [
-          "Een soort feest",
-          "Een soort dier",
-          "Een soort auto",
-          "Een soort land"
+          "76 jaar",
+          "77 jaar",
+          "78 jaar",
+          "79 jaar"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De rave was in Nederland.",
-        isTrue: false
-      },
-      {
-        statement: "Er waren 700 mensen aanwezig.",
+        statement: "Annemarie Sauer werd geboren in 1947.",
         isTrue: true
       },
       {
-        statement: "De politie begon meteen op te treden.",
+        statement: "Annemarie overleed in 2023.",
         isTrue: false
+      },
+      {
+        statement: "Annemarie werd 78 jaar oud.",
+        isTrue: true
       }
     ]
   },
@@ -2355,103 +2312,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Drones boven militaire basis",
+    title: "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
     topicNumber: 1,
     article: {
-      title: "Drones boven militaire basis",
-      summary: "Er zijn drones gezien boven een militaire basis. Minister Francken heeft maatregelen tegen drones."
+      title: "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
+      summary: "Meer dan de helft van de leerlingen in het middelbaar die afstandsonderwijs volgen, doet dat omdat ze psychisch kwetsbaar zijn. “Elke dag in de klas zitten, lukt me niet.”"
     },
     vocabulary: {
       words: [
         {
-          word: "militaire",
-          definition: "van of over het leger",
-          sentence: "De ___ basis is beveiligd.",
-          answer: "militaire"
+          word: "psychische",
+          definition: "met betrekking tot de geest of emoties",
+          sentence: "Sommige mensen hebben ___ problemen en voelen zich vaak verdrietig.",
+          answer: "psychische"
         },
         {
-          word: "minister",
-          definition: "een belangrijk persoon in de regering",
-          sentence: "De ___ van Defensie heeft een plan.",
-          answer: "minister"
+          word: "volgen",
+          definition: "doen wat er gezegd wordt, of iets meemaken",
+          sentence: "De studenten ___ de online les via hun computer.",
+          answer: "volgen"
         },
         {
-          word: "maatregelen",
-          definition: "acties of stappen die worden genomen",
-          sentence: "De minister heeft ___ genomen tegen de drones.",
-          answer: "maatregelen"
+          word: "helft",
+          definition: "een van twee gelijke delen",
+          sentence: "Slechts de ___ van de koek is over.",
+          answer: "helft"
         },
         {
-          word: "basis",
-          definition: "een plek of locatie",
-          sentence: "De militaire ___ is in België.",
-          answer: "basis"
+          word: "leerlingen",
+          definition: "kinderen die op school leren",
+          sentence: "De ___ krijgen les van hun leerkracht.",
+          answer: "leerlingen"
         },
         {
-          word: "drones",
-          definition: "kleine vliegende machines",
-          sentence: "Er zijn ___ waargenomen boven de basis.",
-          answer: "drones"
+          word: "problemen",
+          definition: "moeilijke situaties of taken",
+          sentence: "Wanneer je ___ hebt, is het goed om hulp te vragen.",
+          answer: "problemen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Er zijn ___ waargenomen boven de basis.",
-          answer: "drones"
+          sentence: "De studenten ___ de online les via hun computer.",
+          answer: "volgen"
         },
         {
-          sentence: "De minister heeft ___ genomen tegen de drones.",
-          answer: "maatregelen"
+          sentence: "Slechts de ___ van de koek is over.",
+          answer: "helft"
         },
         {
-          sentence: "De ___ basis is beveiligd.",
-          answer: "militaire"
+          sentence: "De ___ krijgen les van hun leerkracht.",
+          answer: "leerlingen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar zijn drones waargenomen?",
+        question: "Wat betekent 'via' in de context van de tekst?",
         options: [
-          "In een park",
-          "Boven een militaire basis",
-          "In de stad",
-          "Bij een school"
+          "naast",
+          "door middel van",
+          "ondanks",
+          "bovenop"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat doet minister Francken?",
+        question: "Waarom volgen sommige leerlingen afstandsonderwijs?",
         options: [
-          "Hij speelt thuis",
-          "Hij heeft maatregelen genomen",
-          "Hij reist naar de maan",
-          "Hij leest een boek"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wanneer bespreekt de ministerraad het plan?",
-        options: [
-          "Morgen",
-          "Over een week",
-          "Vrijdag",
-          "Volgende maand"
+          "Omdat ze het leuk vinden",
+          "Omdat ze in het buitenland wonen",
+          "Omdat ze psychische problemen hebben",
+          "Omdat ze geen computer hebben"
         ],
         correctAnswer: 3
+      },
+      {
+        question: "Wat is de hoofdgedachte van de tekst?",
+        options: [
+          "Alle leerlingen moeten naar school",
+          "Psychische problemen kunnen een reden zijn voor afstandsonderwijs",
+          "Afstandsonderwijs is makkelijk",
+          "Kinderen met psychische problemen zijn zeldzaam"
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Drones zijn grote vliegtuigen.",
-        isTrue: false
-      },
-      {
-        statement: "Minister Francken heeft maatregelen genomen tegen drones.",
+        statement: "De meeste leerlingen die afstandsonderwijs volgen, doen dat omdat ze psychische problemen hebben.",
         isTrue: true
       },
       {
-        statement: "De ministerraad bespreekt het plan op zaterdag.",
+        statement: "Afstandsonderwijs wordt alleen via internet gegeven.",
+        isTrue: true
+      },
+      {
+        statement: "Alle leerlingen met psychische problemen volgen afstandsonderwijs.",
         isTrue: false
       }
     ]
@@ -2461,104 +2418,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Amper zon in oktober, maar wel bijna een record",
+    title: "Thomas Siffer neemt afscheid van Louise Delanghe",
     topicNumber: 1,
     article: {
-      title: "Amper zon in oktober, maar wel bijna een record",
-      summary: "De voorbije maand oktober was zo somber dat er bijna een record in zat. Alleen oktober 1998 was nog zonlozer. Maar er is ook goed nieuws: woensdag wordt het gezellig warm."
+      title: "Thomas Siffer neemt afscheid van Louise Delanghe",
+      summary: "Louise Delanghe was een jonge kunstenares. Ze was intelligent, vrolijk, vriendelijk en vol leven. Helaas kwam ze om bij een verkeersongeluk. Schrijver Thomas Siffer neemt afscheid van haar."
     },
     vocabulary: {
       words: [
         {
-          word: "somber",
-          definition: "niet vrolijk, een beetje triest",
-          sentence: "Het weer was erg ___ in oktober.",
-          answer: "somber"
+          word: "kunst",
+          definition: "werken die gemaakt zijn om mooi of expressief te zijn, zoals schilderijen of muziek",
+          sentence: "Louise had een grote passie voor kunst en creëerde haar eigen meesterwerken.",
+          answer: "kunst"
         },
         {
-          word: "maand",
-          definition: "een van de twaalf delen van een jaar",
-          sentence: "October is een ___ waarin het vaak regent.",
-          answer: "maand"
+          word: "kunstenares",
+          definition: "iemand die kunst maakt, zoals schilderen of tekenen",
+          sentence: "Louise was een getalenteerde kunstenares die prachtige schilderijen maakte.",
+          answer: "kunstenares"
         },
         {
-          word: "warm",
-          definition: "niet koud, een hoge temperatuur",
-          sentence: "De soep is nog ___ genoeg om te eten.",
-          answer: "warm"
+          word: "intelligent",
+          definition: "slim en goed in het leren van nieuwe dingen",
+          sentence: "Louise was niet alleen creatief maar ook erg intelligent.",
+          answer: "intelligent"
         },
         {
-          word: "record",
-          definition: "het hoogste of beste dat ooit is bereikt",
-          sentence: "Hij brak het ___ voor de meeste goals.",
-          answer: "record"
+          word: "afscheid",
+          definition: "het moment waarop je gedag zegt, vaak omdat iemand weggaat of overlijdt",
+          sentence: "Thomas Siffer nam afscheid van zijn goede vriendin in een emotioneel afscheid.",
+          answer: "afscheid"
         },
         {
-          word: "gezellig",
-          definition: "gezellig en leuk",
-          sentence: "We hadden een ___ avond met vrienden.",
-          answer: "gezellig"
+          word: "vriendelijk",
+          definition: "aardig en behulpzaam tegenover anderen",
+          sentence: "Iedereen herinnerde haar als een warme en vriendelijke persoon.",
+          answer: "vriendelijk"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "October is een ___ waarin het vaak regent.",
-          answer: "maand"
+          sentence: "Louise was niet alleen creatief maar ook erg intelligent.",
+          answer: "intelligent"
         },
         {
-          sentence: "We hadden een ___ avond met vrienden.",
-          answer: "gezellig"
+          sentence: "Iedereen herinnerde haar als een warme en vriendelijke persoon.",
+          answer: "vriendelijk"
         },
         {
-          sentence: "De soep is nog ___ genoeg om te eten.",
-          answer: "warm"
+          sentence: "Thomas Siffer nam afscheid van zijn goede vriendin in een emotioneel afscheid.",
+          answer: "afscheid"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat was bijzonder aan oktober dit jaar?",
+        question: "Wat was de rol van Louise Delanghe?",
         options: [
-          "Het was heel zonnig",
-          "Het was erg somber",
-          "Het was heel warm",
-          "Het was erg koud"
+          "Ze was een schrijfster",
+          "Ze was een kunstenares",
+          "Ze was een zangeres",
+          "Ze was een danseres"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is het goede nieuws in het artikel?",
+        question: "Hoe wordt Louise door Thomas Siffer beschreven?",
         options: [
-          "Het wordt koud",
-          "Het wordt warm",
-          "Het gaat sneeuwen",
-          "Het wordt zonnig"
+          "Als een somber en serieus persoon",
+          "Als een intelligent, vrolijk, vriendelijk en uitbundig persoon",
+          "Als een verlegen en teruggetrokken persoon",
+          "Als een boosaardig en gemeen persoon"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een 'record' in deze context?",
+        question: "Wat gebeurde er met Louise Delanghe?",
         options: [
-          "Een soort muziek",
-          "Een soort sport",
-          "Een ongekende prestatie",
-          "Een type weer"
+          "Ze ging met pensioen",
+          "Ze verhuisde naar een ander land",
+          "Ze overleed helaas bij een verkeersongeval",
+          "Ze verhuisde naar een andere stad"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Oktober dit jaar was erg zonnig.",
-        isTrue: false
-      },
-      {
-        statement: "Er is goed nieuws: woensdag wordt het warm.",
+        statement: "Louise Delanghe was een kunstenares die schilderijen maakte.",
         isTrue: true
       },
       {
-        statement: "Oktober 1998 was minder somber dan dit jaar.",
+        statement: "Louise Delanghe was een bekende actrice in Hollywood.",
         isTrue: false
+      },
+      {
+        statement: "Thomas Siffer schreef over Louise om afscheid van haar te nemen na haar overlijden.",
+        isTrue: true
       }
     ]
   },
@@ -2567,103 +2524,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
+    title: "Amerikaanse rechter wendt hongercrisis in VS (even) af",
     topicNumber: 1,
     article: {
-      title: "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
-      summary: "Zaterdagavond zijn meerdere mensen neergestoken in een trein die naar het Engelse Huntingdon reed. Dat meldt de Britse transportpolitie. Er zijn twee verdachten gearresteerd."
+      title: "Amerikaanse rechter wendt hongercrisis in VS (even) af",
+      summary: "42 miljoen Amerikanen komen maar rond dankzij voedselsteun van de regering. De voedselbonnen van november lijken gered, al ontbreken er miljarden dollars."
     },
     vocabulary: {
       words: [
         {
-          word: "zaterdagavond",
-          definition: "de avond van zaterdag",
-          sentence: "De politie kreeg de melding op ___.",
-          answer: "zaterdagavond"
+          word: "rechter",
+          definition: "een persoon die in de rechtspraak werkt en beslissingen neemt",
+          sentence: "De ___ besliste dat de voedselbonnen konden worden gebruikt.",
+          answer: "rechter"
         },
         {
-          word: "neergestoken",
-          definition: "gestoken met een scherp voorwerp, zoals een mes",
-          sentence: "Verschillende mensen zijn ___ in de trein.",
-          answer: "neergesteken"
+          word: "hongercrisis",
+          definition: "een situatie waarin veel mensen niet genoeg te eten hebben",
+          sentence: "Er was een grote ___ in het land, maar de rechter greep in.",
+          answer: "hongercrisis"
         },
         {
-          word: "trein",
-          definition: "een voertuig dat rijdt op rails en mensen vervoert",
-          sentence: "Het incident gebeurde in een ___ naar Huntingdon.",
-          answer: "trein"
+          word: "voedselsteun",
+          definition: "hulp in de vorm van eten voor mensen die het nodig hebben",
+          sentence: "De overheid bood ___ aan mensen zonder eten.",
+          answer: "voedselsteun"
         },
         {
-          word: "Engeland",
-          definition: "een land dat deel uitmaakt van het Verenigd Koninkrijk",
-          sentence: "Het incident vond plaats in ___.",
-          answer: "Engeland"
+          word: "voedselbonnen",
+          definition: "bonnen die je kunt inwisselen voor eten",
+          sentence: "De ___ waren bijna verloren, maar de rechter besliste anders.",
+          answer: "voedselbonnen"
         },
         {
-          word: "verdachten",
-          definition: "mensen die verdacht worden van een misdrijf",
-          sentence: "Twee ___ zijn gearresteerd.",
-          answer: "verdachten"
+          word: "miljarden",
+          definition: "een zeer groot aantal, vaak over geld",
+          sentence: "Er ontbraken ___ dollars aan budget voor het programma.",
+          answer: "miljarden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het incident gebeurde in een ___ naar Huntingdon.",
-          answer: "trein"
+          sentence: "Er ontbraken ___ dollars aan budget voor het programma.",
+          answer: "miljarden"
         },
         {
-          sentence: "Twee ___ zijn gearresteerd.",
-          answer: "verdachten"
+          sentence: "Er was een grote ___ in het land, maar de rechter greep in.",
+          answer: "hongercrisis"
         },
         {
-          sentence: "Verschillende mensen zijn ___ in de trein.",
-          answer: "neergesteken"
+          sentence: "De ___ waren bijna verloren, maar de rechter besliste anders.",
+          answer: "voedselbonnen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar vond het incident plaats?",
+        question: "Waarom zijn voedselbonnen belangrijk in deze context?",
         options: [
-          "In een trein",
-          "In een bus",
-          "Op een station",
-          "In een auto"
+          "Ze zijn waardeloos geworden door inflatie.",
+          "Ze worden gebruikt om eten te kopen voor wie honger heeft.",
+          "Ze vervangen gewoon geld in de supermarkt.",
+          "Ze worden alleen in de zomer gebruikt."
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Hoeveel verdachten zijn er aangehouden?",
+        question: "Wat was de rol van de rechter in deze situatie?",
         options: [
-          "Twee",
-          "Drie",
-          "Vier",
-          "Vijf"
+          "Hij begon de hongercrisis.",
+          "Hij stopte de voedselhulp volledig.",
+          "Hij zorgde dat de bonnen gebruikt konden blijven worden.",
+          "Hij kreeg zelf de voedselbonnen als beloning."
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wat is de rol van de politie in dit bericht?",
+        question: "Wat is er met het budget voor de voedselhulp gebeurd?",
         options: [
-          "Zij hebben de verdachten gearresteerd",
-          "Zij waren niet betrokken",
-          "Zij hebben het incident veroorzaakt",
-          "Zij hebben het slachtoffer geholpen"
+          "Het is verdubbeld door de rechter.",
+          "Het is gestolen door hackers.",
+          "Er ontbreken miljarden dollars aan geld.",
+          "Het werd omgewisseld voor voedselbonnen."
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Het incident vond plaats in een trein in Engeland.",
-        isTrue: true
-      },
-      {
-        statement: "Er zijn drie verdachten gearresteerd.",
+        statement: "De rechter stopte de voedselhulp volledig.",
         isTrue: false
       },
       {
-        statement: "De politie heeft de verdachten nog niet gevonden.",
+        statement: "Er ontbreken miljarden dollars aan budget voor het voedselprogramma.",
+        isTrue: true
+      },
+      {
+        statement: "Alleen kinderen krijgen voedselsteun in de Verenigde Staten.",
         isTrue: false
       }
     ]
@@ -2673,104 +2630,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
+    title: "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
     topicNumber: 1,
     article: {
-      title: "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
-      summary: "Waar zijn de Russische soldaten? Dat is de vraag voor de Oekraïense verdediging in Pokrovsk. De strategisch belangrijke stad dreigt te vallen door een nieuwe Russische manier van oorlogvoeren."
+      title: "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
+      summary: "Nu de kans op een snel bestand in Oekraïne vervlogen is, blijft de vraag: hoe zal deze oorlog eindigen? Niemand durft het te voorspellen, maar een trend is duidelijk: Oekraïne kan financieel niet veel verder, maar het moet wel."
     },
     vocabulary: {
       words: [
         {
-          word: "dreigt",
-          definition: "Lijkt waarschijnlijk te gebeuren, vaak iets negatiefs.",
-          sentence: "De stad ___ in te nemen door de vijand.",
-          answer: "dreigt"
+          word: "bestand",
+          definition: "Een bestand is een computerbestand, maar hier betekent het 'stilstand' of 'geen vooruitgang'",
+          sentence: "De onderhandelingen zijn in een ___ geraakt.",
+          answer: "bestand"
         },
         {
-          word: "zijn",
-          definition: "Koppelwerkwoord dat iets beschrijft of iemand identificeert.",
-          sentence: "Waar ___ de Russische soldaten? Ze zijn niet zichtbaar.",
-          answer: "zijn"
+          word: "militaire",
+          definition: "Met betrekking tot het leger of oorlog",
+          sentence: "De ___ operatie was een succes.",
+          answer: "militaire"
         },
         {
-          word: "strategisch",
-          definition: "Betrekking hebbend op een plan of methode om een doel te bereiken.",
-          sentence: "De ___ ligging maakt de stad belangrijk.",
-          answer: "strategisch"
+          word: "economische",
+          definition: "Betrekking hebbend op de economie",
+          sentence: "De ___ gevolgen van de oorlog zijn groot.",
+          answer: "economische"
         },
         {
-          word: "vraag",
-          definition: "Een verzoek om informatie of een reactie.",
-          sentence: "De belangrijkste ___ is waar de vijand zich bevindt.",
-          answer: "vraag"
+          word: "kans",
+          definition: "Mogelijkheid dat iets gebeurt",
+          sentence: "Er is een grote ___ dat het morgen gaat regenen.",
+          answer: "kans"
         },
         {
-          word: "Russische",
-          definition: "Betrekking hebbend op Rusland of de Russen.",
-          sentence: "De ___ soldaten gebruiken een nieuwe tactiek.",
-          answer: "Russische"
+          word: "Oekraïne",
+          definition: "Een land in Oost-Europa",
+          sentence: "___ is een groot land met veel natuurlijke hulpbronnen.",
+          answer: "Oekraïne"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De stad ___ in te nemen door de vijand.",
-          answer: "dreigt"
+          sentence: "De onderhandelingen zijn in een ___ geraakt.",
+          answer: "bestand"
         },
         {
-          sentence: "Waar ___ de Russische soldaten? Ze zijn niet zichtbaar.",
-          answer: "zijn"
+          sentence: "Er is een grote ___ dat het morgen gaat regenen.",
+          answer: "kans"
         },
         {
-          sentence: "De ___ soldaten gebruiken een nieuwe tactiek.",
-          answer: "Russische"
+          sentence: "De ___ operatie was een succes.",
+          answer: "militaire"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom is de locatie van de Russische soldaten een vraag voor de Oekraïense verdediging?",
+        question: "Wat betekent 'financieel' in deze context?",
         options: [
-          "Omdat het de verdediging verzwakt als de vijand onzichtbaar is.",
-          "Omdat de Oekraïense soldaten niet weten waar te schieten.",
-          "Omdat de Russen een nieuwe tactiek gebruiken die de Oekraïners verrast.",
-          "Omdat de stad Pokrovsk dreigt te vallen door deze onzekerheid."
+          "Met weinig geld",
+          "Emotioneel",
+          "Fysiek sterk",
+          "Met veel energie"
         ],
-        correctAnswer: 4
+        correctAnswer: 1
       },
       {
-        question: "Wat is de nieuwe tactiek van de Russische soldaten?",
+        question: "Wat is de hoofdgedachte van de tekst?",
         options: [
-          "Ze vallen aan zonder zich te verstoppen.",
-          "Ze gebruiken drones om de Oekraïense posities te lokaliseren.",
-          "Ze concentreren hun aanval op één zwak punt in de verdediging.",
-          "Ze vermijden directe confrontaties en vallen vanuit onverwachte hoeken aan."
+          "Oekraïne wint de oorlog",
+          "De economie is belangrijker dan het leger",
+          "Het weer wordt besproken",
+          "Er is geen hoop meer"
         ],
-        correctAnswer: 4
+        correctAnswer: 2
       },
       {
-        question: "Wat is het gevolg als Pokrovsk valt?",
+        question: "Wat betekent 'bestand' in deze titel?",
         options: [
-          "Het heeft geen strategisch belang, dus weinig effect.",
-          "De Russen krijgen toegang tot belangrijke transportroutes.",
-          "De Oekraïense moreel wordt onmiddellijk gebroken.",
-          "De oorlog wordt meteen gewonnen door Rusland."
+          "Een computerbestand",
+          "Stilstand of geen vooruitgang",
+          "Een militaire rang",
+          "Een soort wapen"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Pokrovsk is een stad met groot strategisch belang in de oorlog.",
+        statement: "De economische situatie kan de oorlog beëindigen.",
         isTrue: true
       },
       {
-        statement: "De Russische soldaten gebruiken een nieuwe tactiek, maar deze is al volledig bekend bij de Oekraïense verdediging.",
+        statement: "Oekraïne heeft geen geld meer voor de oorlog.",
+        isTrue: true
+      },
+      {
+        statement: "Het artikel zegt dat de oorlog al gewonnen is.",
         isTrue: false
-      },
-      {
-        statement: "Als Pokrovsk valt, heeft dat directe gevolgen voor het hele front.",
-        isTrue: true
       }
     ]
   },
@@ -2779,104 +2736,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Oekraïne wil Pokrovsk weer onder controle krijgen",
+    title: "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een geheel eigen versie van de Monroedoctrine",
     topicNumber: 1,
     article: {
-      title: "Oekraïne wil Pokrovsk weer onder controle krijgen",
-      summary: "Oekraïne wil de stad Pokrovsk weer onder controle krijgen. Dit is een belangrijke ontwikkeling in de oorlog. Volg het nieuws voor updates."
+      title: "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een geheel eigen versie van de Monroedoctrine",
+      summary: "Amerikaanse media noemen hem een piraat en waarschuwen voor de risico’s van een invasie van Venezuela. Maar Donald Trump maakt van Latijns-Amerika opnieuw zijn exclusieve speeltuin, in zijn geheel eigen versie van de Monroedoctrine."
     },
     vocabulary: {
       words: [
         {
-          word: "Pokrovsk",
-          definition: "Een stad in Oekraïne, nu belangrijk.",
-          sentence: "De strijd om ___ is intens.",
-          answer: "Pokrovsk"
+          word: "exclusieve",
+          definition: "Alleen voor een bepaalde groep of persoon, niet voor iedereen",
+          sentence: "Dit is een ___ club, je moet uitgenodigd worden.",
+          answer: "exclusieve"
         },
         {
-          word: "ontwikkeling",
-          definition: "Iets dat zich ontwikkelt of verandert, vaak vooruitgang.",
-          sentence: "Deze ___ is positief voor Oekraïne.",
-          answer: "ontwikkeling"
+          word: "versie",
+          definition: "Een andere vorm of type van iets, een aangepaste uitvoering",
+          sentence: "Welke ___ van het spel speel je het liefst?",
+          answer: "versie"
         },
         {
-          word: "wil",
-          definition: "Heeft als doel of verlangen.",
-          sentence: "Hij ___ graag dat het stopt.",
-          answer: "wil"
+          word: "doctrine",
+          definition: "Een officieel beleid of set van principes die een groep volgt",
+          sentence: "De Monroe ___ was belangrijk voor Amerika's buitenlandbeleid.",
+          answer: "doctrine"
         },
         {
-          word: "onder",
-          definition: "Ondergeschikt aan of lager dan.",
-          sentence: "Het valt ___ mijn verwachtingen.",
-          answer: "onder"
+          word: "eigen",
+          definition: "Van jou alleen, of van een groep zelf",
+          sentence: "Dit is mijn ___ boek, niet van jou.",
+          answer: "eigen"
         },
         {
-          word: "weer",
-          definition: "Opnieuw of opnieuw gebeuren.",
-          sentence: "Hij probeerde het ___.",
-          answer: "weer"
+          word: "opnieuw",
+          definition: "Weer, nog een keer, op een andere tijd",
+          sentence: "Hij deed het ___ en het lukte weer.",
+          answer: "opnieuw"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De strijd om ___ is intens.",
-          answer: "Pokrovsk"
+          sentence: "De Monroe ___ was belangrijk voor Amerika's buitenlandbeleid.",
+          answer: "doctrine"
         },
         {
-          sentence: "Deze ___ is positief voor Oekraïne.",
-          answer: "ontwikkeling"
+          sentence: "Dit is mijn ___ boek, niet van jou.",
+          answer: "eigen"
         },
         {
-          sentence: "Hij ___ graag dat het stopt.",
-          answer: "wil"
+          sentence: "Hij deed het ___ en het lukte weer.",
+          answer: "opnieuw"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat wil Oekraïne bereiken in Pokrovsk?",
+        question: "Wat is de kern van de Monroedoctrine volgens de tekst?",
         options: [
-          "Vrede onderhandelen",
-          "Toerisme bevorderen",
-          "Controle herwinnen",
-          "Niets, het is al veilig"
+          "Dat Amerika zich niet bemoeit met andere landen",
+          "Dat alleen Amerika recht heeft op het westelijk halfrond",
+          "Dat Latijns-Amerika een speeltuin wordt voor de VS",
+          "Dat het een oude, vergeten regel is"
         ],
         correctAnswer: 3
       },
       {
-        question: "Waarom is controle over Pokrovsk belangrijk?",
+        question: "Hoe wordt Donald Trump door de media genoemd in de tekst?",
         options: [
-          "Voor de economie",
-          "Voor de bevolking",
-          "Als symbool van macht",
-          "Omdat het een mooie stad is"
+          "Als een held",
+          "Als een piraat",
+          "Als een visionair",
+          "Als een vredestichter"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Hoe volg je het nieuws over Oekraïne?",
+        question: "Wat is de houding van Donald Trump tegenover Latijns-Amerika volgens de tekst?",
         options: [
-          "Via sociale media",
-          "Door de app DS Nieuws",
-          "Alleen via de krant",
-          "Via officiële kanalen"
+          "Hij wil het onafhankelijk laten",
+          "Hij ziet het als een gebied om te beheersen",
+          "Hij heeft geen interesse",
+          "Hij steunt de onafhankelijkheid"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Oekraïne heeft volledige controle over Pokrovsk.",
+        statement: "Donald Trump wordt door de media geprezen als een piraat.",
         isTrue: false
       },
       {
-        statement: "De situatie in Oekraïne verandert snel.",
+        statement: "De Monroedoctrine wordt door Trump gebruikt om zijn beleid te rechtvaardigen.",
         isTrue: true
       },
       {
-        statement: "Pokrovsk is de hoofdstad van Oekraïne.",
-        isTrue: false
+        statement: "Volgens de tekst wil Trump van Latijns-Amerika een beschermd gebied maken.",
+        isTrue: true
       }
     ]
   },
@@ -2885,104 +2842,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Illegale rave vlak bij Kluisbergen",
+    title: "Annemarie Sauer, 78 jaar",
     topicNumber: 1,
     article: {
-      title: "Illegale rave vlak bij Kluisbergen",
-      summary: "In de Waalse gemeente Frasnes-lez-Anvaing, vlak over de taalgrens, is een illegale rave bezig met ongeveer 700 bezoekers. De deelnemers komen uit België, Nederland en Frankrijk en zijn van plan om tot zondagnamiddag door te gaan."
+      title: "Annemarie Sauer, 78 jaar",
+      summary: "Geboren in 1947, overleden op 20/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "rave",
-          definition: "Een groot feest met elektronische muziek, vaak illegaal",
-          sentence: "De politie heeft de ___ stopgezet omdat er geen vergunning was.",
-          answer: "rave"
+          word: "1947",
+          definition: "Het jaar na de Tweede Wereldoorlog; een jaartal.",
+          sentence: "Deze gebeurtenis vond plaats in ___.",
+          answer: "1947"
         },
         {
-          word: "bezoekers",
-          definition: "Mensen die naar een evenement of plaats gaan",
-          sentence: "De ___ van het festival waren erg enthousiast.",
-          answer: "bezoekers"
+          word: "overleden",
+          definition: "Niet meer levend; gestorven.",
+          sentence: "Hij is ___ op 90-jarige leeftijd.",
+          answer: "overleden"
         },
         {
-          word: "gemeente",
-          definition: "Een officieel gebied of gemeenschap met een eigen bestuur",
-          sentence: "De ___ waar ik woon, heeft een nieuw park geopend.",
-          answer: "gemeente"
+          word: "Sauer",
+          definition: "Duitse achternaam, betekent 'zuur' of 'bitter'.",
+          sentence: "De familie ___ heeft veel bekende schrijvers.",
+          answer: "Sauer"
         },
         {
-          word: "deelnemers",
-          definition: "Mensen die meedoen aan een activiteit of evenement",
-          sentence: "Alle ___ van de wedstrijd krijgen een medaille.",
-          answer: "deelnemers"
+          word: "2025",
+          definition: "Een jaartal in de toekomst; bijvoorbeeld, 2025.",
+          sentence: "We verwachten de opening in ___.",
+          answer: "2025"
         },
         {
-          word: "plan",
-          definition: "Een idee of methode over wat je gaat doen",
-          sentence: "Wat is jouw ___ voor het weekend?",
-          answer: "plan"
+          word: "geboren",
+          definition: "Het begin van iemands leven; ter wereld komen.",
+          sentence: "Zij werd ___ in 1947, net na de oorlog.",
+          answer: "geboren"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Alle ___ van de wedstrijd krijgen een medaille.",
-          answer: "deelnemers"
+          sentence: "Zij werd ___ in 1947, net na de oorlog.",
+          answer: "geboren"
         },
         {
-          sentence: "De ___ waar ik woon, heeft een nieuw park geopend.",
-          answer: "gemeente"
+          sentence: "De familie ___ heeft veel bekende schrijvers.",
+          answer: "Sauer"
         },
         {
-          sentence: "Wat is jouw ___ voor het weekend?",
-          answer: "plan"
+          sentence: "Deze gebeurtenis vond plaats in ___.",
+          answer: "1947"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de reden dat de rave werd stopgezet?",
+        question: "In welk jaar is Annemarie Sauer geboren?",
         options: [
-          "Er waren te veel deelnemers",
-          "Er was geen vergunning",
-          "Het was te laat in de nacht",
-          "De muziek was te luid"
+          "1940",
+          "1945",
+          "1947",
+          "1950"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Hoe lang was de rave gepland te duren?",
+        question: "Op welke datum is Annemarie Sauer overleden?",
         options: [
-          "Tot zaterdagavond",
-          "Tot zondagmiddag",
-          "Tot maandagochtend",
-          "Slechts een paar uur"
+          "20 oktober 2025",
+          "20 november 2025",
+          "20 december 2025",
+          "20 januari 2026"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Waar vond de rave plaats?",
+        question: "Wat is de achternaam van Annemarie?",
         options: [
-          "In Nederland",
-          "In een Belgische gemeente",
-          "In een Frans dorp",
-          "Op een Nederlands strand"
+          "Sauer",
+          "Schmidt",
+          "Müller",
+          "Weber"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De rave was illegaal omdat er geen vergunning was aangevraagd.",
+        statement: "Annemarie Sauer werd geboren in 1947.",
         isTrue: true
       },
       {
-        statement: "De rave had meer dan 1000 bezoekers.",
+        statement: "Annemarie Sauer stierf in november 2025.",
         isTrue: false
       },
       {
-        statement: "De deelnemers waren alleen uit België afkomstig.",
-        isTrue: false
+        statement: "Annemarie Sauer leefde tot 2025.",
+        isTrue: true
       }
     ]
   },
@@ -2991,104 +2948,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
+    title: "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
     topicNumber: 1,
     article: {
-      title: "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
-      summary: "Ook vanavond zijn boven de militaire basis van Kleine-Brogel drones waargenomen. Vrijdag bespreekt de ministerraad het 'counterdronedossier' van Defensieminister Theo Francken (N-VA)."
+      title: "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
+      summary: "Meer dan de helft van de leerlingen in het middelbaar die afstandsonderwijs volgen, doet dat omdat ze psychisch kwetsbaar zijn. 'Elke dag in de klas zitten, lukt me niet.'"
     },
     vocabulary: {
       words: [
         {
-          word: "ministerraad",
-          definition: "De ministerraad is een vergadering van alle ministers van de regering.",
-          sentence: "De ___ komt elke vrijdag bijeen om belangrijke zaken te bespreken.",
-          answer: "ministerraad"
+          word: "omdat",
+          definition: "Omdat is een woord dat een reden geeft.",
+          sentence: "Ik ben blij, ___ het mooi weer is.",
+          answer: "omdat"
         },
         {
-          word: "defensie",
-          definition: "Defensie is de bescherming van een land tegen aanvallen of gevaren.",
-          sentence: "Nederland investeert veel in zijn ___ om het land veilig te houden.",
-          answer: "defensie"
+          word: "leerlingen",
+          definition: "Leerlingen zijn personen die onderwijs volgen, meestal op school.",
+          sentence: "De ___ hebben veel geleerd vandaag.",
+          answer: "leerlingen"
         },
         {
-          word: "bespreekt",
-          definition: "Bespreekt betekent dat er over iets wordt gesproken of gediscussieerd.",
-          sentence: "De manager ___ de nieuwe projecten met het team.",
-          answer: "bespreekt"
+          word: "psychische",
+          definition: "Psychisch heeft te maken met de geest of mentale toestand.",
+          sentence: "Hij heeft ___ problemen sinds het ongeluk.",
+          answer: "psychische"
         },
         {
-          word: "tegenmaatregelen",
-          definition: "Maatregelen zijn plannen of acties die genomen worden om een probleem op te lossen.",
-          sentence: "De regering kondigt nieuwe ___ aan om de stijgende inflatie tegen te gaan.",
-          answer: "tegenmaatregelen"
+          word: "Helft",
+          definition: "Een helft is de helft van een geheel.",
+          sentence: "De ___ van de groep was aanwezig.",
+          answer: "Helft"
         },
         {
-          word: "basis",
-          definition: "Een basis is een fundamenteel onderdeel of de ondersteuning voor iets.",
-          sentence: "De soldaten keerden terug naar hun ___ na de missie.",
-          answer: "basis"
+          word: "les",
+          definition: "Een les is een onderdeel van onderwijs, bijvoorbeeld een uur les.",
+          sentence: "Vandaag hebben we een belangrijke ___ over dit onderwerp.",
+          answer: "les"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Nederland investeert veel in zijn ___ om het land veilig te houden.",
-          answer: "defensie"
+          sentence: "Hij heeft ___ problemen sinds het ongeluk.",
+          answer: "psychische"
         },
         {
-          sentence: "De regering kondigt nieuwe ___ aan om de stijgende inflatie tegen te gaan.",
-          answer: "tegenmaatregelen"
+          sentence: "Ik ben blij, ___ het mooi weer is.",
+          answer: "omdat"
         },
         {
-          sentence: "De manager ___ de nieuwe projecten met het team.",
-          answer: "bespreekt"
+          sentence: "De ___ hebben veel geleerd vandaag.",
+          answer: "leerlingen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de rol van de ministerraad in deze context?",
+        question: "Waarom volgen sommige leerlingen afstandsonderwijs?",
         options: [
-          "Ze bespreken het 'counterdronedossier'.",
-          "Ze organiseren demonstraties tegen drones.",
-          "Ze bouwen nieuwe militaire bases.",
-          "Ze geven gratis drones aan burgers."
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Waar is de militaire basis Kleine-Brogel gelegen?",
-        options: [
-          "In Nederland",
-          "In België",
-          "In Duitsland",
-          "In Frankrijk"
+          "Omdat ze verplicht worden door school",
+          "Omdat ze psychische problemen hebben en niet naar school kunnen",
+          "Omdat ze liever thuis studeren",
+          "Omdat ze geen transport hebben"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een 'counterdronedossier'?",
+        question: "Wat is Bednet?",
         options: [
-          "Een document over hoe drones te bestrijden",
-          "Een plan om nieuwe drones te kopen",
-          "Een verzoek om drones te verbieden",
-          "Een handleiding voor drone-gebruikers"
+          "Een online platform voor afstandsonderwijs",
+          "Een soort sociale media voor studenten",
+          "Een nieuwswebsite voor onderwijsnieuws",
+          "Een sportteam voor jongeren"
         ],
         correctAnswer: 1
+      },
+      {
+        question: "Wat is de hoofdgedachte van de tekst?",
+        options: [
+          "Scholen moeten meer geld krijgen",
+          "Leerlingen met psychische problemen gebruiken afstandsonderwijs",
+          "Iedereen moet verplicht naar school gaan",
+          "Online onderwijs is altijd beter"
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Drones worden alleen voor militaire doeleinden gebruikt.",
+        statement: "Alle leerlingen die Bednet gebruiken, hebben psychische problemen.",
         isTrue: false
       },
       {
-        statement: "De ministerraad bespreekt het 'counterdronedossier' aanstaande vrijdag.",
+        statement: "Sommige leerlingen kunnen niet fysiek naar school vanwege hun mentale gezondheid.",
         isTrue: true
       },
       {
-        statement: "Theo Francken is de minister van Defensie in Nederland.",
-        isTrue: false
+        statement: "Bednet is een alternatief voor fysiek onderwijs voor kinderen die dat nodig hebben.",
+        isTrue: true
       }
     ]
   },
@@ -3097,104 +3054,92 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
+    title: "Thomas Siffer neemt afscheid van Louise Delanghe",
     topicNumber: 1,
     article: {
-      title: "Temu start terugroepactie na waarschuwing voor gevaarlijke producten door Testaankoop: “Daar kopen is Russische roulette”",
-      summary: "Zeventig procent van de producten die Testaankoop samen met buitenlandse consumentenorganisaties kocht bij webwinkels Shein en Temu, voldoet niet aan de Europese veiligheidsregels. Sommige goedkope sieraden en babyspeeltjes blijken zelfs gevaarlijk. “We hebben meteen alles offline gehaald”, reageren Shein en Temu."
+      title: "Thomas Siffer neemt afscheid van Louise Delanghe",
+      summary: "Schrijver Thomas Siffer herdenkt de jonge kunstenares Louise Delanghe die omkwam bij een verkeersongeval."
     },
     vocabulary: {
       words: [
         {
-          word: "producten",
-          definition: "dingen die je kunt kopen en gebruiken",
-          sentence: "Sommige ___ zijn niet veilig om te gebruiken.",
-          answer: "producten"
+          word: "afscheid",
+          definition: "het einde van een bijeenkomst of een laatste ontmoeting",
+          sentence: "Hij nam ___ van zijn collega's toen hij vertrok.",
+          answer: "afscheid"
         },
         {
-          word: "Russische roulette",
-          definition: "een gevaarlijk spel waar je veel risico neemt, genoemd naar een Russisch spel",
-          sentence: "Kopen bij die winkels is als ___ spelen.",
-          answer: "Russische roulette"
+          word: "kunstenares",
+          definition: "een vrouw die kunst maakt, zoals schilderen of tekenen",
+          sentence: "De ___ maakte een mooi schilderij van de zonsondergang.",
+          answer: "kunstenares"
         },
         {
-          word: "consumentenorganisaties",
-          definition: "groepen die opkomen voor de belangen van kopers/gebruikers",
-          sentence: "Samen met internationale ___ test Testaankoop producten.",
-          answer: "consumentenorganisaties"
-        },
-        {
-          word: "webwinkels",
-          definition: "online winkels waar je producten kunt kopen via internet",
-          sentence: "Sommige ___ verkopen producten die niet veilig zijn.",
-          answer: "webwinkels"
-        },
-        {
-          word: "babyspeeltjes",
-          definition: "speelgoed speciaal gemaakt voor baby's",
-          sentence: "Ook sommige ___ voldoen niet aan de veiligheidsnormen.",
-          answer: "babyspeeltjes"
+          word: "omkwam",
+          definition: "overleed, stierf (meestal door een ongeluk)",
+          sentence: "Helaas ___ hij in een auto-ongeluk vorig jaar.",
+          answer: "omkwam"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Sommige ___ zijn niet veilig om te gebruiken.",
-          answer: "producten"
+          sentence: "Hij nam ___ van zijn collega's toen hij vertrok.",
+          answer: "afscheid"
         },
         {
-          sentence: "Sommige ___ verkopen producten die niet veilig zijn.",
-          answer: "webwinkels"
+          sentence: "Helaas ___ hij in een auto-ongeluk vorig jaar.",
+          answer: "omkwam"
         },
         {
-          sentence: "Kopen bij die winkels is als ___ spelen.",
-          answer: "Russische roulette"
+          sentence: "De ___ maakte een mooi schilderij van de zonsondergang.",
+          answer: "kunstenares"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom noemt Testaankoop kopen bij Temu 'Russische roulette'?",
+        question: "Waarover schreef Thomas Siffer een afscheid?",
         options: [
-          "Omdat het een leuk spel is",
-          "Omdat het veel geld kost",
-          "Omdat het een groot risico is voor de koper",
-          "Omdat het een oude traditie is"
+          "Over een vakantie",
+          "Over een feest",
+          "Over een kunstwerk",
+          "Over de jonge kunstenares Louise Delanghe"
         ],
-        correctAnswer: 3
+        correctAnswer: 4
       },
       {
-        question: "Wat deden Shein en Temu na de waarschuwing?",
+        question: "Hoe wordt Louise Delanghe omschreven in de tekst?",
         options: [
-          "Ze sloten de webwinkels",
-          "Ze haalden de producten offline",
-          "Ze negeerden de waarschuwing",
-          "Ze verhoogden de prijzen"
+          "Als een saaie persoon",
+          "Als een intelligente en vrolijke persoon",
+          "Als een boze persoon",
+          "Als een oude persoon"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een voorbeeld van een product dat niet voldeed?",
+        question: "Wat gebeurde er met Louise Delanghe?",
         options: [
-          "Een veiligheidshelm",
-          "Een brandblusser",
-          "Een goedkoop sieraad",
-          "Een stevige tafel"
+          "Ze won een prijs",
+          "Ze verhuisde naar een ander land",
+          "Ze overleed in een verkeersongeluk",
+          "Ze startte een nieuwe baan"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Testaankoop testte de producten alleen.",
-        isTrue: false
-      },
-      {
-        statement: "Shein en Temu haalden de producten offline na de waarschuwing.",
+        statement: "Thomas Siffer is de schrijver van de afscheidstekst.",
         isTrue: true
       },
       {
-        statement: "Alle producten van Shein en Temu zijn veilig volgens Europese normen.",
+        statement: "Louise Delanghe was een oudere vrouw die thuis bleef.",
         isTrue: false
+      },
+      {
+        statement: "Louise Delanghe overleed door een verkeersongeluk.",
+        isTrue: true
       }
     ]
   }

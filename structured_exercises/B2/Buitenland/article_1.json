@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
+  "title": "Amerikaanse rechter wendt hongercrisis in VS (even) af",
   "topicNumber": 1,
   "article": {
-    "title": "Verschillende mensen neergestoken op trein in Engeland, twee verdachten opgepakt",
-    "summary": "Zaterdagavond zijn meerdere mensen neergestoken in een trein die naar het Engelse Huntingdon reed. Dat meldt de Britse transportpolitie. Er zijn twee verdachten gearresteerd."
+    "title": "Amerikaanse rechter wendt hongercrisis in VS (even) af",
+    "summary": "42 miljoen Amerikanen komen maar rond dankzij voedselsteun van de regering. De voedselbonnen van november lijken gered, al ontbreken er miljarden dollars."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "zaterdagavond",
-        "definition": "de avond van zaterdag",
-        "sentence": "De politie kreeg de melding op ___.",
-        "answer": "zaterdagavond"
+        "word": "rechter",
+        "definition": "een persoon die in de rechtspraak werkt en beslissingen neemt",
+        "sentence": "De ___ besliste dat de voedselbonnen konden worden gebruikt.",
+        "answer": "rechter"
       },
       {
-        "word": "neergestoken",
-        "definition": "gestoken met een scherp voorwerp, zoals een mes",
-        "sentence": "Verschillende mensen zijn ___ in de trein.",
-        "answer": "neergesteken"
+        "word": "hongercrisis",
+        "definition": "een situatie waarin veel mensen niet genoeg te eten hebben",
+        "sentence": "Er was een grote ___ in het land, maar de rechter greep in.",
+        "answer": "hongercrisis"
       },
       {
-        "word": "trein",
-        "definition": "een voertuig dat rijdt op rails en mensen vervoert",
-        "sentence": "Het incident gebeurde in een ___ naar Huntingdon.",
-        "answer": "trein"
+        "word": "voedselsteun",
+        "definition": "hulp in de vorm van eten voor mensen die het nodig hebben",
+        "sentence": "De overheid bood ___ aan mensen zonder eten.",
+        "answer": "voedselsteun"
       },
       {
-        "word": "Engeland",
-        "definition": "een land dat deel uitmaakt van het Verenigd Koninkrijk",
-        "sentence": "Het incident vond plaats in ___.",
-        "answer": "Engeland"
+        "word": "voedselbonnen",
+        "definition": "bonnen die je kunt inwisselen voor eten",
+        "sentence": "De ___ waren bijna verloren, maar de rechter besliste anders.",
+        "answer": "voedselbonnen"
       },
       {
-        "word": "verdachten",
-        "definition": "mensen die verdacht worden van een misdrijf",
-        "sentence": "Twee ___ zijn gearresteerd.",
-        "answer": "verdachten"
+        "word": "miljarden",
+        "definition": "een zeer groot aantal, vaak over geld",
+        "sentence": "Er ontbraken ___ dollars aan budget voor het programma.",
+        "answer": "miljarden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het incident gebeurde in een ___ naar Huntingdon.",
-        "answer": "trein"
+        "sentence": "Er ontbraken ___ dollars aan budget voor het programma.",
+        "answer": "miljarden"
       },
       {
-        "sentence": "Twee ___ zijn gearresteerd.",
-        "answer": "verdachten"
+        "sentence": "Er was een grote ___ in het land, maar de rechter greep in.",
+        "answer": "hongercrisis"
       },
       {
-        "sentence": "Verschillende mensen zijn ___ in de trein.",
-        "answer": "neergesteken"
+        "sentence": "De ___ waren bijna verloren, maar de rechter besliste anders.",
+        "answer": "voedselbonnen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar vond het incident plaats?",
+      "question": "Waarom zijn voedselbonnen belangrijk in deze context?",
       "options": [
-        "In een trein",
-        "In een bus",
-        "Op een station",
-        "In een auto"
+        "Ze zijn waardeloos geworden door inflatie.",
+        "Ze worden gebruikt om eten te kopen voor wie honger heeft.",
+        "Ze vervangen gewoon geld in de supermarkt.",
+        "Ze worden alleen in de zomer gebruikt."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Hoeveel verdachten zijn er aangehouden?",
+      "question": "Wat was de rol van de rechter in deze situatie?",
       "options": [
-        "Twee",
-        "Drie",
-        "Vier",
-        "Vijf"
+        "Hij begon de hongercrisis.",
+        "Hij stopte de voedselhulp volledig.",
+        "Hij zorgde dat de bonnen gebruikt konden blijven worden.",
+        "Hij kreeg zelf de voedselbonnen als beloning."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de rol van de politie in dit bericht?",
+      "question": "Wat is er met het budget voor de voedselhulp gebeurd?",
       "options": [
-        "Zij hebben de verdachten gearresteerd",
-        "Zij waren niet betrokken",
-        "Zij hebben het incident veroorzaakt",
-        "Zij hebben het slachtoffer geholpen"
+        "Het is verdubbeld door de rechter.",
+        "Het is gestolen door hackers.",
+        "Er ontbreken miljarden dollars aan geld.",
+        "Het werd omgewisseld voor voedselbonnen."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het incident vond plaats in een trein in Engeland.",
-      "isTrue": true
-    },
-    {
-      "statement": "Er zijn drie verdachten gearresteerd.",
+      "statement": "De rechter stopte de voedselhulp volledig.",
       "isTrue": false
     },
     {
-      "statement": "De politie heeft de verdachten nog niet gevonden.",
+      "statement": "Er ontbreken miljarden dollars aan budget voor het voedselprogramma.",
+      "isTrue": true
+    },
+    {
+      "statement": "Alleen kinderen krijgen voedselsteun in de Verenigde Staten.",
       "isTrue": false
     }
   ]

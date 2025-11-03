@@ -1,106 +1,106 @@
 {
-  "id": 10,
+  "id": 12,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
+  "title": "Hoe eindigt de oorlog in Oekraïne?",
   "topicNumber": 1,
   "article": {
-    "title": "Waar zijn de Russische soldaten? Nieuwe tactiek dreigt Pokrovsk te doen vallen",
-    "summary": "Waar zijn de Russische soldaten? Dat is de vraag voor de Oekraïense verdediging in Pokrovsk. De strategisch belangrijke stad dreigt te vallen door een nieuwe Russische manier van oorlogvoeren."
+    "title": "Hoe eindigt de oorlog in Oekraïne?",
+    "summary": "De oorlog in Oekraïne is erg lang. Niemand weet hoe het zal eindigen, maar Oekraïne heeft weinig geld. Het land moet doorgaan met vechten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "nieuwe",
-        "definition": "recent gemaakt of ontstaan, niet oud",
-        "sentence": "De ___ tactiek van Rusland zorgt voor problemen.",
-        "answer": "nieuwe"
+        "word": "geld",
+        "definition": "wat je gebruikt om dingen te kopen, zoals euro's of dollars",
+        "sentence": "Oekraïne heeft niet veel ___ meer voor de oorlog.",
+        "answer": "geld"
       },
       {
-        "word": "zijn",
-        "definition": "het werkwoord 'zijn' betekent dat iets bestaat of zich in een bepaalde toestand bevindt",
-        "sentence": "Waar ___ de Russische soldaten?",
-        "answer": "zijn"
+        "word": "eindigen",
+        "definition": "ophouden, stoppen",
+        "sentence": "Hoe zal de oorlog ___?",
+        "answer": "eindigen"
       },
       {
-        "word": "tactiek",
-        "definition": "een plan of methode om een doel te bereiken, vooral in een conflict of competitie",
-        "sentence": "De nieuwe ___ van Rusland is effectief.",
-        "answer": "tactiek"
+        "word": "weinig",
+        "definition": "een kleine hoeveelheid, niet veel",
+        "sentence": "Er is ___ voedsel over voor de bevolking.",
+        "answer": "weinig"
       },
       {
-        "word": "Oekraïense",
-        "definition": "betrekking hebbend op Oekraïne, iets of iemand uit Oekraïne",
-        "sentence": "De ___ verdediging moet de stad beschermen.",
-        "answer": "Oekraïense"
+        "word": "doorgaan",
+        "definition": "verder gaan, niet stoppen",
+        "sentence": "Oekraïne moet ___ met de oorlog, ondanks problemen.",
+        "answer": "doorgaan"
       },
       {
-        "word": "doen",
-        "definition": "uitvoeren, uitvoeren van een actie",
-        "sentence": "De nieuwe Russische tactiek dreigt de stad te ___ vallen.",
-        "answer": "doen"
+        "word": "vechten",
+        "definition": "proberen iemand fysiek pijn te doen tijdens een conflict",
+        "sentence": "De soldaten moeten ___ voor hun land.",
+        "answer": "vechten"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ tactiek van Rusland zorgt voor problemen.",
-        "answer": "nieuwe"
+        "sentence": "De soldaten moeten ___ voor hun land.",
+        "answer": "vechten"
       },
       {
-        "sentence": "De nieuwe Russische tactiek dreigt de stad te ___ vallen.",
-        "answer": "doen"
+        "sentence": "Oekraïne heeft niet veel ___ meer voor de oorlog.",
+        "answer": "geld"
       },
       {
-        "sentence": "De ___ verdediging moet de stad beschermen.",
-        "answer": "Oekraïense"
+        "sentence": "Oekraïne moet ___ met de oorlog, ondanks problemen.",
+        "answer": "doorgaan"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het woord 'tactiek' in deze context?",
+      "question": "Wat betekent 'eindigen'?",
       "options": [
-        "Een soort wapen",
-        "Een plan om een doel te bereiken",
-        "Een type soldaat",
-        "Een soort voertuig"
+        "beginnen",
+        "ophouden",
+        "vechten",
+        "verliezen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom is de stad Pokrovsk belangrijk?",
+      "question": "Waar gaat de tekst over?",
       "options": [
-        "Het is de hoofdstad van Oekraïne",
-        "Het is een kleine onbelangrijke stad",
-        "Het is een strategisch belangrijke locatie voor de verdediging",
-        "Er zijn geen Russische soldaten aanwezig"
+        "de oorlog in Oekraïne",
+        "vakantie in Oekraïne",
+        "de taal in Oekraïne",
+        "de president van Oekraïne"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is het gevolg van de nieuwe Russische tactiek?",
+      "question": "Heeft Oekraïne veel geld voor de oorlog?",
       "options": [
-        "De stad is al gevallen",
-        "Er is geen effect",
-        "Het dreigt de stad te doen vallen",
-        "De stad wordt sterker verdedigd"
+        "ja, heel veel",
+        "nee, bijna niet",
+        "alleen voor soldaten",
+        "alleen voor kinderen"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Russische soldaten zijn niet zichtbaar in Pokrovsk.",
-      "isTrue": true
-    },
-    {
-      "statement": "De nieuwe Russische tactiek maakt de stad sterker.",
+      "statement": "De oorlog in Oekraïne is net begonnen.",
       "isTrue": false
     },
     {
-      "statement": "Oekraïne verdedigt de stad Pokrovsk.",
+      "statement": "Oekraïne heeft weinig geld om door te gaan met de oorlog.",
       "isTrue": true
+    },
+    {
+      "statement": "Iedereen weet precies hoe de oorlog zal eindigen.",
+      "isTrue": false
     }
   ]
 }

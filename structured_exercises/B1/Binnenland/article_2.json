@@ -1,106 +1,106 @@
 {
-  "id": 25,
+  "id": 26,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
+  "title": "Helft leerlingen die les volgt via Bednet heeft psychische problemen",
   "topicNumber": 1,
   "article": {
-    "title": "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
-    "summary": "Ook vanavond zijn boven de militaire basis van Kleine-Brogel drones waargenomen. Vrijdag bespreekt de ministerraad het 'counterdronedossier' van Defensieminister Theo Francken (N-VA)."
+    "title": "Helft leerlingen die les volgt via Bednet heeft psychische problemen",
+    "summary": "Meer dan de helft van de leerlingen in het middelbaar die afstandsonderwijs volgen, doet dat omdat ze psychisch kwetsbaar zijn. 'Elke dag in de klas zitten, lukt me niet.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Brogel",
-        "definition": "een plaatsnaam, deel van Kleine-Brogel",
-        "sentence": "Kleine-___ is een dorp in België.",
-        "answer": "Brogel"
+        "word": "heeft",
+        "definition": "hebben, om te bezitten",
+        "sentence": "Hij ___ een grote hond als huisdier.",
+        "answer": "heeft"
       },
       {
-        "word": "Boven",
-        "definition": "op een hogere plaats",
-        "sentence": "De vogel vliegt ___ het huis.",
-        "answer": "Boven"
+        "word": "volgt",
+        "definition": "doorgaan met, blijven doen",
+        "sentence": "Hij ___ nog steeds de online lessen.",
+        "answer": "volgt"
       },
       {
-        "word": "Ministerraad",
-        "definition": "een groep van ministers die samen besluiten nemen",
-        "sentence": "De ___ vergadert elke vrijdag.",
-        "answer": "Ministerraad"
+        "word": "helft",
+        "definition": "de helft, een van de twee",
+        "sentence": "Ongeveer de ___ van de groep was al klaar.",
+        "answer": "helft"
       },
       {
-        "word": "waargenomen",
-        "definition": "gezien of opgemerkt",
-        "sentence": "De drones werden ___ door bewakers.",
-        "answer": "waargenomen"
+        "word": "leerlingen",
+        "definition": "mensen die les volgen op school",
+        "sentence": "De ___ van deze school zijn erg leergierig.",
+        "answer": "leerlingen"
       },
       {
-        "word": "Bespreekt",
-        "definition": "bespreekt, erover praat",
-        "sentence": "Hij ___ het plan met zijn team.",
-        "answer": "Bespreekt"
+        "word": "psychische",
+        "definition": "mentaal, met de geest te maken hebbend",
+        "sentence": "Hij kreeg ___ hulp na het ongeluk.",
+        "answer": "psychische"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ vergadert elke vrijdag.",
-        "answer": "Ministerraad"
+        "sentence": "Hij kreeg ___ hulp na het ongeluk.",
+        "answer": "psychische"
       },
       {
-        "sentence": "De vogel vliegt ___ het huis.",
-        "answer": "Boven"
+        "sentence": "Ongeveer de ___ van de groep was al klaar.",
+        "answer": "helft"
       },
       {
-        "sentence": "Kleine-___ is een dorp in België.",
-        "answer": "Brogel"
+        "sentence": "Hij ___ een grote hond als huisdier.",
+        "answer": "heeft"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat wordt er bedoeld met 'waargenomen' in de titel?",
+      "question": "Waarom volgen sommige leerlingen les via Bednet?",
       "options": [
-        "Vergeten",
-        "Gezien",
-        "Verborgen",
-        "Gemaakt"
+        "Omdat ze in het buitenland wonen",
+        "Omdat ze lichamelijk beperkt zijn",
+        "Omdat ze psychische problemen hebben",
+        "Omdat ze de taal niet spreken"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is Bednet?",
+      "options": [
+        "Een soort online winkel",
+        "Een organisatie voor thuisonderwijs",
+        "Een sportvereniging",
+        "Een school voor kunstonderwijs"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de 'ministerraad'?",
+      "question": "Voor welke groep leerlingen is Bednet bedoeld?",
       "options": [
-        "Een soort school",
-        "Een groep ministers",
-        "Een soort restaurant",
-        "Een sportteam"
+        "Alleen voor universiteitsstudenten",
+        "Alleen voor basisschoolleerlingen",
+        "Voor alle leerlingen die tijdelijk niet naar school kunnen",
+        "Alleen voor volwassenen die een opleiding volgen"
       ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat bespreekt de ministerraad volgens de samenvatting?",
-      "options": [
-        "Een nieuw soort drone",
-        "Het 'counterdronedossier'",
-        "Een feestplan",
-        "Een nieuwe wet tegen drones"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Drones worden alleen 's nachts waargenomen.",
+      "statement": "Bednet is een online winkel.",
       "isTrue": false
     },
     {
-      "statement": "De ministerraad vergadert op vrijdag.",
+      "statement": "Leerlingen met psychische problemen kunnen via Bednet les volgen.",
       "isTrue": true
     },
     {
-      "statement": "Theo Francken is de Minister van Defensie.",
-      "isTrue": true
+      "statement": "Bednet biedt alleen les in wiskunde en taal.",
+      "isTrue": false
     }
   ]
 }

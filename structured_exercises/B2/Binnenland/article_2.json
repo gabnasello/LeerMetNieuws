@@ -1,106 +1,106 @@
 {
-  "id": 26,
+  "id": 27,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
+  "title": "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
   "topicNumber": 1,
   "article": {
-    "title": "Opnieuw drones waargenomen boven Kleine Brogel: Francken heeft tegenmaatregelen klaar",
-    "summary": "Ook vanavond zijn boven de militaire basis van Kleine-Brogel drones waargenomen. Vrijdag bespreekt de ministerraad het 'counterdronedossier' van Defensieminister Theo Francken (N-VA)."
+    "title": "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
+    "summary": "Meer dan de helft van de leerlingen in het middelbaar die afstandsonderwijs volgen, doet dat omdat ze psychisch kwetsbaar zijn. 'Elke dag in de klas zitten, lukt me niet.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "ministerraad",
-        "definition": "De ministerraad is een vergadering van alle ministers van de regering.",
-        "sentence": "De ___ komt elke vrijdag bijeen om belangrijke zaken te bespreken.",
-        "answer": "ministerraad"
+        "word": "omdat",
+        "definition": "Omdat is een woord dat een reden geeft.",
+        "sentence": "Ik ben blij, ___ het mooi weer is.",
+        "answer": "omdat"
       },
       {
-        "word": "defensie",
-        "definition": "Defensie is de bescherming van een land tegen aanvallen of gevaren.",
-        "sentence": "Nederland investeert veel in zijn ___ om het land veilig te houden.",
-        "answer": "defensie"
+        "word": "leerlingen",
+        "definition": "Leerlingen zijn personen die onderwijs volgen, meestal op school.",
+        "sentence": "De ___ hebben veel geleerd vandaag.",
+        "answer": "leerlingen"
       },
       {
-        "word": "bespreekt",
-        "definition": "Bespreekt betekent dat er over iets wordt gesproken of gediscussieerd.",
-        "sentence": "De manager ___ de nieuwe projecten met het team.",
-        "answer": "bespreekt"
+        "word": "psychische",
+        "definition": "Psychisch heeft te maken met de geest of mentale toestand.",
+        "sentence": "Hij heeft ___ problemen sinds het ongeluk.",
+        "answer": "psychische"
       },
       {
-        "word": "tegenmaatregelen",
-        "definition": "Maatregelen zijn plannen of acties die genomen worden om een probleem op te lossen.",
-        "sentence": "De regering kondigt nieuwe ___ aan om de stijgende inflatie tegen te gaan.",
-        "answer": "tegenmaatregelen"
+        "word": "Helft",
+        "definition": "Een helft is de helft van een geheel.",
+        "sentence": "De ___ van de groep was aanwezig.",
+        "answer": "Helft"
       },
       {
-        "word": "basis",
-        "definition": "Een basis is een fundamenteel onderdeel of de ondersteuning voor iets.",
-        "sentence": "De soldaten keerden terug naar hun ___ na de missie.",
-        "answer": "basis"
+        "word": "les",
+        "definition": "Een les is een onderdeel van onderwijs, bijvoorbeeld een uur les.",
+        "sentence": "Vandaag hebben we een belangrijke ___ over dit onderwerp.",
+        "answer": "les"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Nederland investeert veel in zijn ___ om het land veilig te houden.",
-        "answer": "defensie"
+        "sentence": "Hij heeft ___ problemen sinds het ongeluk.",
+        "answer": "psychische"
       },
       {
-        "sentence": "De regering kondigt nieuwe ___ aan om de stijgende inflatie tegen te gaan.",
-        "answer": "tegenmaatregelen"
+        "sentence": "Ik ben blij, ___ het mooi weer is.",
+        "answer": "omdat"
       },
       {
-        "sentence": "De manager ___ de nieuwe projecten met het team.",
-        "answer": "bespreekt"
+        "sentence": "De ___ hebben veel geleerd vandaag.",
+        "answer": "leerlingen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de rol van de ministerraad in deze context?",
+      "question": "Waarom volgen sommige leerlingen afstandsonderwijs?",
       "options": [
-        "Ze bespreken het 'counterdronedossier'.",
-        "Ze organiseren demonstraties tegen drones.",
-        "Ze bouwen nieuwe militaire bases.",
-        "Ze geven gratis drones aan burgers."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Waar is de militaire basis Kleine-Brogel gelegen?",
-      "options": [
-        "In Nederland",
-        "In België",
-        "In Duitsland",
-        "In Frankrijk"
+        "Omdat ze verplicht worden door school",
+        "Omdat ze psychische problemen hebben en niet naar school kunnen",
+        "Omdat ze liever thuis studeren",
+        "Omdat ze geen transport hebben"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een 'counterdronedossier'?",
+      "question": "Wat is Bednet?",
       "options": [
-        "Een document over hoe drones te bestrijden",
-        "Een plan om nieuwe drones te kopen",
-        "Een verzoek om drones te verbieden",
-        "Een handleiding voor drone-gebruikers"
+        "Een online platform voor afstandsonderwijs",
+        "Een soort sociale media voor studenten",
+        "Een nieuwswebsite voor onderwijsnieuws",
+        "Een sportteam voor jongeren"
       ],
       "correctAnswer": 1
+    },
+    {
+      "question": "Wat is de hoofdgedachte van de tekst?",
+      "options": [
+        "Scholen moeten meer geld krijgen",
+        "Leerlingen met psychische problemen gebruiken afstandsonderwijs",
+        "Iedereen moet verplicht naar school gaan",
+        "Online onderwijs is altijd beter"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Drones worden alleen voor militaire doeleinden gebruikt.",
+      "statement": "Alle leerlingen die Bednet gebruiken, hebben psychische problemen.",
       "isTrue": false
     },
     {
-      "statement": "De ministerraad bespreekt het 'counterdronedossier' aanstaande vrijdag.",
+      "statement": "Sommige leerlingen kunnen niet fysiek naar school vanwege hun mentale gezondheid.",
       "isTrue": true
     },
     {
-      "statement": "Theo Francken is de minister van Defensie in Nederland.",
-      "isTrue": false
+      "statement": "Bednet is een alternatief voor fysiek onderwijs voor kinderen die dat nodig hebben.",
+      "isTrue": true
     }
   ]
 }

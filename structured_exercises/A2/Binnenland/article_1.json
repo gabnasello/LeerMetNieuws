@@ -1,100 +1,75 @@
 {
-  "id": 15,
+  "id": 17,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Illegale rave in België",
+  "title": "Annemarie Sauer, 78 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Illegale rave in België",
-    "summary": "In België is er een illegaal feest. Er zijn 700 mensen. Ze komen uit Nederland, België en Frankrijk. Het feest gaat door tot zondag."
+    "title": "Annemarie Sauer, 78 jaar",
+    "summary": "Geboren in 1947, overleden op 20 oktober 2025"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "illegale",
-        "definition": "niet wettelijk toegestaan",
-        "sentence": "De politie stopte de ___ feest.",
-        "answer": "illegale"
+        "word": "geboren",
+        "definition": "het begin van het leven, wanneer iemand wordt geboren",
+        "sentence": "Zij werd ___ in 1947.",
+        "answer": "geboren"
       },
       {
-        "word": "rave",
-        "definition": "groot feest met elektronische muziek",
-        "sentence": "De ___ was in een oud gebouw.",
-        "answer": "rave"
-      },
-      {
-        "word": "feest",
-        "definition": "een vrolijke bijeenkomst",
-        "sentence": "Het ___ was leuk maar illegaal.",
-        "answer": "feest"
-      },
-      {
-        "word": "land",
-        "definition": "een gebied zoals Nederland of België",
-        "sentence": "Welk ___ is dit?",
-        "answer": "land"
+        "word": "overleden",
+        "definition": "niet meer levend, gestorven",
+        "sentence": "Hij is ___ in 2020.",
+        "answer": "overleden"
       }
     ],
-    "fillInBlanks": [
-      {
-        "sentence": "Welk ___ is dit?",
-        "answer": "land"
-      },
-      {
-        "sentence": "De ___ was in een oud gebouw.",
-        "answer": "rave"
-      },
-      {
-        "sentence": "De politie stopte de ___ feest.",
-        "answer": "illegale"
-      }
-    ]
+    "fillInBlanks": []
   },
   "multipleChoice": [
     {
-      "question": "Waar vond de rave plaats?",
+      "question": "In welk jaar is Annemarie Sauer geboren?",
       "options": [
-        "In Nederland",
-        "In Duitsland",
-        "In België",
-        "In Frankrijk"
+        "1945",
+        "1946",
+        "1947",
+        "1948"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Hoeveel mensen waren er ongeveer?",
+      "question": "Wanneer is Annemarie Sauer overleden?",
       "options": [
-        "700",
-        "70",
-        "7000",
-        "70000"
+        "20 oktober 2024",
+        "20 oktober 2025",
+        "20 oktober 2026",
+        "20 oktober 2027"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is een 'rave'?",
+      "question": "Hoe oud was Annemarie Sauer toen ze overleed?",
       "options": [
-        "Een soort feest",
-        "Een soort dier",
-        "Een soort auto",
-        "Een soort land"
+        "76 jaar",
+        "77 jaar",
+        "78 jaar",
+        "79 jaar"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De rave was in Nederland.",
-      "isTrue": false
-    },
-    {
-      "statement": "Er waren 700 mensen aanwezig.",
+      "statement": "Annemarie Sauer werd geboren in 1947.",
       "isTrue": true
     },
     {
-      "statement": "De politie begon meteen op te treden.",
+      "statement": "Annemarie overleed in 2023.",
       "isTrue": false
+    },
+    {
+      "statement": "Annemarie werd 78 jaar oud.",
+      "isTrue": true
     }
   ]
 }

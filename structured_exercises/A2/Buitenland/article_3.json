@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Oekraïne wil Pokrovsk weer onder controle krijgen",
+  "title": "Hoe Trump Latijns-Amerika als speeltuin ziet",
   "topicNumber": 1,
   "article": {
-    "title": "Oekraïne wil Pokrovsk weer onder controle krijgen",
-    "summary": "Oekraïne wil de stad Pokrovsk terugwinnen. Er is een oorlog in Oekraïne. Volg het nieuws om op te hoogte te blijven."
+    "title": "Hoe Trump Latijns-Amerika als speeltuin ziet",
+    "summary": "Amerikaanse media noemen Trump een piraat en waarschuwen voor een invasie in Venezuela. Maar Trump maakt van Latijns-Amerika zijn exclusieve speeltuin, in zijn eigen versie van de Monroedoctrine."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "nieuws",
-        "definition": "Informatie over wat er gebeurt in de wereld",
-        "sentence": "Ik lees het ___ elke dag.",
-        "answer": "nieuws"
+        "word": "een",
+        "definition": "lidwoord voor enkelvoud, zoals 'een boek'",
+        "sentence": "Hij heeft ___ nieuwe plan.",
+        "answer": "een"
       },
       {
-        "word": "onder",
-        "definition": "Onder, aan de onderkant",
-        "sentence": "De kat ligt ___ de tafel.",
-        "answer": "onder"
+        "word": "zijn",
+        "definition": "bezittelijk voornaamwoord, zoals 'dat is van hem'",
+        "sentence": "Dat hoort bij ___. (verwijs naar iets van Trump)",
+        "answer": "zijn"
       },
       {
-        "word": "weer",
-        "definition": "Opnieuw, nog een keer",
-        "sentence": "Hij is ___ thuis.",
-        "answer": "weer"
+        "word": "maakt",
+        "definition": "doet of creëert iets",
+        "sentence": "Hij ___ van Latijns-Amerika zijn speeltuin.",
+        "answer": "maakt"
       },
       {
-        "word": "wil",
-        "definition": "Willen, iets graag willen",
-        "sentence": "Hij ___ een nieuwe fiets.",
-        "answer": "wil"
+        "word": "van",
+        "definition": "woord dat bezit of herkomst aangeeft",
+        "sentence": "Dit is een boek ___ mijn leraar.",
+        "answer": "van"
       },
       {
-        "word": "controle",
-        "definition": "Beheersing, beheer",
-        "sentence": "Hij heeft ___ over de auto.",
-        "answer": "controle"
+        "word": "Trump",
+        "definition": "de familienaam van de voormalige Amerikaanse president",
+        "sentence": "___ was president van Amerika.",
+        "answer": "Trump"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De kat ligt ___ de tafel.",
-        "answer": "onder"
+        "sentence": "Hij ___ van Latijns-Amerika zijn speeltuin.",
+        "answer": "maakt"
       },
       {
-        "sentence": "Ik lees het ___ elke dag.",
-        "answer": "nieuws"
+        "sentence": "Dit is een boek ___ mijn leraar.",
+        "answer": "van"
       },
       {
-        "sentence": "Hij ___ een nieuwe fiets.",
-        "answer": "wil"
+        "sentence": "___ was president van Amerika.",
+        "answer": "Trump"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat wil Oekraïne doen met Pokrovsk?",
+      "question": "Waarom noemen media Trump een piraat?",
       "options": [
-        "Vernietigen",
-        "Verkopen",
-        "Terugwinnen",
-        "Verliezen"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Waar is er oorlog?",
-      "options": [
-        "Nederland",
-        "Duitsland",
-        "Oekraïne",
-        "Frankrijk"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat betekent 'weer'?",
-      "options": [
-        "Nooit",
-        "Weer (opnieuw)",
-        "Boven",
-        "Onder"
+        "Omdat hij van piraten houdt",
+        "Omdat hij oneerlijk handelt",
+        "Omdat hij een schip heeft",
+        "Omdat hij een ooglapje draagt"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de Monroedoctrine?",
+      "options": [
+        "Een medische behandeling",
+        "Een oud boek",
+        "Een plan voor Noord- en Zuid-Amerika",
+        "Een soort sport"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat betekent 'exclusief' in deze tekst?",
+      "options": [
+        "Alleen voor speciale mensen",
+        "Voor iedereen toegankelijk",
+        "Helemaal niet toegankelijk",
+        "Alleen op dinsdag"
+      ],
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Oekraïne heeft Pokrovsk al onder controle.",
-      "isTrue": false
-    },
-    {
-      "statement": "Er is oorlog in Oekraïne.",
+      "statement": "Trump is de president van Amerika.",
       "isTrue": true
     },
     {
-      "statement": "Nieuws apps geven updates over de oorlog.",
+      "statement": "De Monroedoctrine is een nieuwe dans.",
+      "isTrue": false
+    },
+    {
+      "statement": "Media noemen Trump een piraat omdat hij oneerlijk is.",
       "isTrue": true
     }
   ]

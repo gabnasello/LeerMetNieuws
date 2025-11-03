@@ -1,105 +1,105 @@
 {
-  "id": 18,
+  "id": 19,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Illegale rave vlak bij Kluisbergen",
+  "title": "Annemarie Sauer, 78 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Illegale rave vlak bij Kluisbergen",
-    "summary": "In de Waalse gemeente Frasnes-lez-Anvaing, vlak over de taalgrens, is een illegale rave bezig met ongeveer 700 bezoekers. De deelnemers komen uit België, Nederland en Frankrijk en zijn van plan om tot zondagnamiddag door te gaan."
+    "title": "Annemarie Sauer, 78 jaar",
+    "summary": "Geboren in 1947, overleden op 20/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Illegale",
-        "definition": "Niet toegestaan door de wet",
-        "sentence": "De ___ activiteit werd gestopt door de politie.",
-        "answer": "Illegale"
+        "word": "Annemarie",
+        "definition": "Vrouwelijke voornaam, afgeleid van Anna en Maria",
+        "sentence": "___ Sauer was een bekende schrijfster uit de vorige eeuw.",
+        "answer": "Annemarie"
       },
       {
-        "word": "Rave",
-        "definition": "Een groot feest met elektronische muziek",
-        "sentence": "De ___ trok honderden bezoekers.",
-        "answer": "Rave"
+        "word": "Sauer",
+        "definition": "Duitse familienaam, betekent 'zuur' of 'bitter'",
+        "sentence": "De schrijfster Annemarie ___ is vooral bekend van haar romans.",
+        "answer": "Sauer"
       },
       {
-        "word": "Kluisbergen",
-        "definition": "Een plaatsnaam in België",
-        "sentence": "___ is een gemeente in Vlaanderen.",
-        "answer": "Kluisbergen"
+        "word": "geboren",
+        "definition": "Het moment waarop iemand ter wereld komt",
+        "sentence": "Zij werd ___ in 1947 en is nu 78 jaar oud.",
+        "answer": "geboren"
       },
       {
-        "word": "Anvaing",
-        "definition": "Een plaatsnaam in België",
-        "sentence": "___ is een deelgemeente van Frasnes-lez-Anvaing.",
-        "answer": "Anvaing"
+        "word": "overleden",
+        "definition": "Iemand die is gestorven, niet meer levend",
+        "sentence": "Helaas is zij reeds ___ op 20 oktober 2025.",
+        "answer": "overleden"
       },
       {
-        "word": "zondagnamiddag",
-        "definition": "De tijd na zondagmiddag en voor zondagavond",
-        "sentence": "We spreken af op ___ om te sporten.",
-        "answer": "zondagnamiddag"
+        "word": "2025",
+        "definition": "Het jaar na 2024 en voor 2026",
+        "sentence": "Zij stierf in ___ , wat nog ver in de toekomst ligt.",
+        "answer": "2025"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is een gemeente in Vlaanderen.",
-        "answer": "Kluisbergen"
+        "sentence": "___ Sauer was een bekende schrijfster uit de vorige eeuw.",
+        "answer": "Annemarie"
       },
       {
-        "sentence": "We spreken af op ___ om te sporten.",
-        "answer": "zondagnamiddag"
+        "sentence": "De schrijfster Annemarie ___ is vooral bekend van haar romans.",
+        "answer": "Sauer"
       },
       {
-        "sentence": "De ___ activiteit werd gestopt door de politie.",
-        "answer": "Illegale"
+        "sentence": "Helaas is zij reeds ___ op 20 oktober 2025.",
+        "answer": "overleden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Welke taal wordt er vooral in Vlaanderen gesproken?",
+      "question": "In welk jaar is Annemarie Sauer overleden?",
       "options": [
-        "Frans",
-        "Duits",
-        "Vlaams",
-        "Engels"
+        "1947",
+        "1980",
+        "2020",
+        "2025"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     },
     {
-      "question": "Wat is 'Flandern'?",
+      "question": "Wat is de betekenis van de familienaam 'Sauer'?",
       "options": [
-        "Een Duitse stad",
-        "Een type feest",
-        "De Duitse naam voor Vlaanderen",
-        "Een Nederlands dialect"
+        "Zoet",
+        "Bitter",
+        "Zout",
+        "Scherp"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe laat eindigde de rave?",
+      "question": "Welke maand overleed Annemarie Sauer?",
       "options": [
-        "Zondagochtend",
-        "Zaterdagnacht",
-        "Zondagnamiddag",
-        "Maandagochtend"
+        "Januari",
+        "Februari",
+        "September",
+        "Oktober"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "De rave vond plaats in de Waalse gemeente Frasnes-lez-Anvaing.",
+      "statement": "Annemarie Sauer werd geboren in 1947.",
       "isTrue": true
     },
     {
-      "statement": "De rave werd georganiseerd door de lokale overheid.",
+      "statement": "Annemarie Sauer overleed in de maand juni.",
       "isTrue": false
     },
     {
-      "statement": "Deelnemers aan de rave kwamen uit meerdere Europese landen.",
+      "statement": "Annemarie Sauer is een schrijfster van romans.",
       "isTrue": true
     }
   ]

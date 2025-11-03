@@ -1,106 +1,106 @@
 {
-  "id": 8,
+  "id": 9,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Oekraïne wil Pokrovsk weer onder controle krijgen",
+  "title": "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een geheel eigen versie van de Monroedoctrine",
   "topicNumber": 1,
   "article": {
-    "title": "Oekraïne wil Pokrovsk weer onder controle krijgen",
-    "summary": "Oekraïne wil de stad Pokrovsk weer onder controle krijgen. Dit is een belangrijke ontwikkeling in de oorlog. Volg het nieuws voor updates."
+    "title": "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een geheel eigen versie van de Monroedoctrine",
+    "summary": "Amerikaanse media noemen hem een piraat en waarschuwen voor de risico’s van een invasie van Venezuela. Maar Donald Trump maakt van Latijns-Amerika opnieuw zijn exclusieve speeltuin, in zijn geheel eigen versie van de Monroedoctrine."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Pokrovsk",
-        "definition": "Een stad in Oekraïne, nu belangrijk.",
-        "sentence": "De strijd om ___ is intens.",
-        "answer": "Pokrovsk"
+        "word": "exclusieve",
+        "definition": "Alleen voor een bepaalde groep of persoon, niet voor iedereen",
+        "sentence": "Dit is een ___ club, je moet uitgenodigd worden.",
+        "answer": "exclusieve"
       },
       {
-        "word": "ontwikkeling",
-        "definition": "Iets dat zich ontwikkelt of verandert, vaak vooruitgang.",
-        "sentence": "Deze ___ is positief voor Oekraïne.",
-        "answer": "ontwikkeling"
+        "word": "versie",
+        "definition": "Een andere vorm of type van iets, een aangepaste uitvoering",
+        "sentence": "Welke ___ van het spel speel je het liefst?",
+        "answer": "versie"
       },
       {
-        "word": "wil",
-        "definition": "Heeft als doel of verlangen.",
-        "sentence": "Hij ___ graag dat het stopt.",
-        "answer": "wil"
+        "word": "doctrine",
+        "definition": "Een officieel beleid of set van principes die een groep volgt",
+        "sentence": "De Monroe ___ was belangrijk voor Amerika's buitenlandbeleid.",
+        "answer": "doctrine"
       },
       {
-        "word": "onder",
-        "definition": "Ondergeschikt aan of lager dan.",
-        "sentence": "Het valt ___ mijn verwachtingen.",
-        "answer": "onder"
+        "word": "eigen",
+        "definition": "Van jou alleen, of van een groep zelf",
+        "sentence": "Dit is mijn ___ boek, niet van jou.",
+        "answer": "eigen"
       },
       {
-        "word": "weer",
-        "definition": "Opnieuw of opnieuw gebeuren.",
-        "sentence": "Hij probeerde het ___.",
-        "answer": "weer"
+        "word": "opnieuw",
+        "definition": "Weer, nog een keer, op een andere tijd",
+        "sentence": "Hij deed het ___ en het lukte weer.",
+        "answer": "opnieuw"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De strijd om ___ is intens.",
-        "answer": "Pokrovsk"
+        "sentence": "De Monroe ___ was belangrijk voor Amerika's buitenlandbeleid.",
+        "answer": "doctrine"
       },
       {
-        "sentence": "Deze ___ is positief voor Oekraïne.",
-        "answer": "ontwikkeling"
+        "sentence": "Dit is mijn ___ boek, niet van jou.",
+        "answer": "eigen"
       },
       {
-        "sentence": "Hij ___ graag dat het stopt.",
-        "answer": "wil"
+        "sentence": "Hij deed het ___ en het lukte weer.",
+        "answer": "opnieuw"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat wil Oekraïne bereiken in Pokrovsk?",
+      "question": "Wat is de kern van de Monroedoctrine volgens de tekst?",
       "options": [
-        "Vrede onderhandelen",
-        "Toerisme bevorderen",
-        "Controle herwinnen",
-        "Niets, het is al veilig"
+        "Dat Amerika zich niet bemoeit met andere landen",
+        "Dat alleen Amerika recht heeft op het westelijk halfrond",
+        "Dat Latijns-Amerika een speeltuin wordt voor de VS",
+        "Dat het een oude, vergeten regel is"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Waarom is controle over Pokrovsk belangrijk?",
+      "question": "Hoe wordt Donald Trump door de media genoemd in de tekst?",
       "options": [
-        "Voor de economie",
-        "Voor de bevolking",
-        "Als symbool van macht",
-        "Omdat het een mooie stad is"
+        "Als een held",
+        "Als een piraat",
+        "Als een visionair",
+        "Als een vredestichter"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe volg je het nieuws over Oekraïne?",
+      "question": "Wat is de houding van Donald Trump tegenover Latijns-Amerika volgens de tekst?",
       "options": [
-        "Via sociale media",
-        "Door de app DS Nieuws",
-        "Alleen via de krant",
-        "Via officiële kanalen"
+        "Hij wil het onafhankelijk laten",
+        "Hij ziet het als een gebied om te beheersen",
+        "Hij heeft geen interesse",
+        "Hij steunt de onafhankelijkheid"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Oekraïne heeft volledige controle over Pokrovsk.",
+      "statement": "Donald Trump wordt door de media geprezen als een piraat.",
       "isTrue": false
     },
     {
-      "statement": "De situatie in Oekraïne verandert snel.",
+      "statement": "De Monroedoctrine wordt door Trump gebruikt om zijn beleid te rechtvaardigen.",
       "isTrue": true
     },
     {
-      "statement": "Pokrovsk is de hoofdstad van Oekraïne.",
-      "isTrue": false
+      "statement": "Volgens de tekst wil Trump van Latijns-Amerika een beschermd gebied maken.",
+      "isTrue": true
     }
   ]
 }
