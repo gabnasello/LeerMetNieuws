@@ -1,106 +1,106 @@
 {
-  "id": 12,
+  "id": 10,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Hoe eindigt de oorlog in Oekraïne?",
+  "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
   "topicNumber": 1,
   "article": {
-    "title": "Hoe eindigt de oorlog in Oekraïne?",
-    "summary": "De oorlog in Oekraïne is erg lang. Niemand weet hoe het zal eindigen, maar Oekraïne heeft weinig geld. Het land moet doorgaan met vechten."
+    "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
+    "summary": "Wie wordt gouverneur in Virginia en New Jersey? En wordt een moslim burgemeester van New York? Al doet hij niet mee, deze verkiezingen zijn een barometer voor Donald Trumps populariteit, én die van de Democraten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geld",
-        "definition": "wat je gebruikt om dingen te kopen, zoals euro's of dollars",
-        "sentence": "Oekraïne heeft niet veel ___ meer voor de oorlog.",
-        "answer": "geld"
+        "word": "verkiezingen",
+        "definition": "een keer dat mensen stemmen om iemand te kiezen",
+        "sentence": "In november zijn er ___ in de Verenigde Staten.",
+        "answer": "verkiezingen"
       },
       {
-        "word": "eindigen",
-        "definition": "ophouden, stoppen",
-        "sentence": "Hoe zal de oorlog ___?",
-        "answer": "eindigen"
+        "word": "gouverneur",
+        "definition": "de baas van een staat in Amerika",
+        "sentence": "Elke staat in de VS heeft een ___.",
+        "answer": "gouverneur"
       },
       {
-        "word": "weinig",
-        "definition": "een kleine hoeveelheid, niet veel",
-        "sentence": "Er is ___ voedsel over voor de bevolking.",
-        "answer": "weinig"
+        "word": "burgemeester",
+        "definition": "de leider van een stad of gemeente",
+        "sentence": "De ___ van Rotterdam heet Ahmed Aboutaleb.",
+        "answer": "burgemeester"
       },
       {
-        "word": "doorgaan",
-        "definition": "verder gaan, niet stoppen",
-        "sentence": "Oekraïne moet ___ met de oorlog, ondanks problemen.",
-        "answer": "doorgaan"
+        "word": "Democraten",
+        "definition": "een politieke partij in de VS",
+        "sentence": "De ___ willen meer geld geven aan scholen.",
+        "answer": "Democraten"
       },
       {
-        "word": "vechten",
-        "definition": "proberen iemand fysiek pijn te doen tijdens een conflict",
-        "sentence": "De soldaten moeten ___ voor hun land.",
-        "answer": "vechten"
+        "word": "doet",
+        "definition": "doet, van het werkwoord doen",
+        "sentence": "Hij ___ goed zijn werk.",
+        "answer": "doet"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De soldaten moeten ___ voor hun land.",
-        "answer": "vechten"
+        "sentence": "Elke staat in de VS heeft een ___.",
+        "answer": "gouverneur"
       },
       {
-        "sentence": "Oekraïne heeft niet veel ___ meer voor de oorlog.",
-        "answer": "geld"
+        "sentence": "Hij ___ goed zijn werk.",
+        "answer": "doet"
       },
       {
-        "sentence": "Oekraïne moet ___ met de oorlog, ondanks problemen.",
-        "answer": "doorgaan"
+        "sentence": "De ___ willen meer geld geven aan scholen.",
+        "answer": "Democraten"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'eindigen'?",
+      "question": "Wat is een gouverneur?",
       "options": [
-        "beginnen",
-        "ophouden",
-        "vechten",
-        "verliezen"
+        "Een soort auto",
+        "Een sport",
+        "De baas van een Amerikaanse staat",
+        "Een bekende filmster"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is de rol van een burgemeester?",
+      "options": [
+        "Hij maakt veel grapjes.",
+        "Hij bestuurt een stad of gemeente.",
+        "Hij speelt gitaar.",
+        "Hij kookt het eten."
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Wat is de betekenis van 'doet' in deze context?",
       "options": [
-        "de oorlog in Oekraïne",
-        "vakantie in Oekraïne",
-        "de taal in Oekraïne",
-        "de president van Oekraïne"
+        "Hij doet zijn schoenen aan.",
+        "Hij doet de afwas.",
+        "Hij doet zijn werk (hij voert zijn taak uit).",
+        "Hij doet een dutje."
       ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Heeft Oekraïne veel geld voor de oorlog?",
-      "options": [
-        "ja, heel veel",
-        "nee, bijna niet",
-        "alleen voor soldaten",
-        "alleen voor kinderen"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De oorlog in Oekraïne is net begonnen.",
-      "isTrue": false
-    },
-    {
-      "statement": "Oekraïne heeft weinig geld om door te gaan met de oorlog.",
+      "statement": "De burgemeester is de leider van een stad.",
       "isTrue": true
     },
     {
-      "statement": "Iedereen weet precies hoe de oorlog zal eindigen.",
+      "statement": "Donald Trump is de gouverneur van New York.",
       "isTrue": false
+    },
+    {
+      "statement": "De Democraten zijn een politieke partij in de VS.",
+      "isTrue": true
     }
   ]
 }

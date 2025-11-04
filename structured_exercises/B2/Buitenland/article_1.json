@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Amerikaanse rechter wendt hongercrisis in VS (even) af",
+  "title": "Dodentol Jamaica loopt op, terwijl “zware hongersnood” dreigt",
   "topicNumber": 1,
   "article": {
-    "title": "Amerikaanse rechter wendt hongercrisis in VS (even) af",
-    "summary": "42 miljoen Amerikanen komen maar rond dankzij voedselsteun van de regering. De voedselbonnen van november lijken gered, al ontbreken er miljarden dollars."
+    "title": "Dodentol Jamaica loopt op, terwijl “zware hongersnood” dreigt",
+    "summary": "De tol na de doortocht van orkaan Melissa loopt verder op. In Jamaica zijn al 32 doden geteld, maar in de nog niet bereikte plaatsen worden nog meer slachtoffers verwacht. En honger loert om de hoek."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "rechter",
-        "definition": "een persoon die in de rechtspraak werkt en beslissingen neemt",
-        "sentence": "De ___ besliste dat de voedselbonnen konden worden gebruikt.",
-        "answer": "rechter"
+        "word": "slachtoffers",
+        "definition": "mensen of dieren die zijn gestorven of gewond zijn geraakt",
+        "sentence": "De hulpverleners probeerden alle ___ zo snel mogelijk te vinden.",
+        "answer": "slachtoffers"
       },
       {
-        "word": "hongercrisis",
-        "definition": "een situatie waarin veel mensen niet genoeg te eten hebben",
-        "sentence": "Er was een grote ___ in het land, maar de rechter greep in.",
-        "answer": "hongercrisis"
+        "word": "orkaan",
+        "definition": "een grote, gevaarlijke storm met veel wind",
+        "sentence": "De ___ veroorzaakte veel schade aan gebouwen en bomen.",
+        "answer": "orkaan"
       },
       {
-        "word": "voedselsteun",
-        "definition": "hulp in de vorm van eten voor mensen die het nodig hebben",
-        "sentence": "De overheid bood ___ aan mensen zonder eten.",
-        "answer": "voedselsteun"
+        "word": "dreigt",
+        "definition": "iets dat waarschijnlijk zal gebeuren, meestal iets negatiefs",
+        "sentence": "De donkere wolken ___ met regen later vandaag.",
+        "answer": "dreigt"
       },
       {
-        "word": "voedselbonnen",
-        "definition": "bonnen die je kunt inwisselen voor eten",
-        "sentence": "De ___ waren bijna verloren, maar de rechter besliste anders.",
-        "answer": "voedselbonnen"
+        "word": "doortocht",
+        "definition": "het voorbijgaan of passeren van iets, zoals een storm",
+        "sentence": "De orkaan liet een spoor van vernieling achter tijdens zijn ___.",
+        "answer": "doortocht"
       },
       {
-        "word": "miljarden",
-        "definition": "een zeer groot aantal, vaak over geld",
-        "sentence": "Er ontbraken ___ dollars aan budget voor het programma.",
-        "answer": "miljarden"
+        "word": "hongersnood",
+        "definition": "een situatie waarin er niet genoeg voedsel is voor iedereen",
+        "sentence": "Na de oogst mislukking ontstond er een ___ in de regio.",
+        "answer": "hongersnood"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Er ontbraken ___ dollars aan budget voor het programma.",
-        "answer": "miljarden"
+        "sentence": "De donkere wolken ___ met regen later vandaag.",
+        "answer": "dreigt"
       },
       {
-        "sentence": "Er was een grote ___ in het land, maar de rechter greep in.",
-        "answer": "hongercrisis"
+        "sentence": "Na de oogst mislukking ontstond er een ___ in de regio.",
+        "answer": "hongersnood"
       },
       {
-        "sentence": "De ___ waren bijna verloren, maar de rechter besliste anders.",
-        "answer": "voedselbonnen"
+        "sentence": "De hulpverleners probeerden alle ___ zo snel mogelijk te vinden.",
+        "answer": "slachtoffers"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom zijn voedselbonnen belangrijk in deze context?",
+      "question": "Wat wordt er bedoeld met de dreiging van 'zware hongersnood' in de tekst?",
       "options": [
-        "Ze zijn waardeloos geworden door inflatie.",
-        "Ze worden gebruikt om eten te kopen voor wie honger heeft.",
-        "Ze vervangen gewoon geld in de supermarkt.",
-        "Ze worden alleen in de zomer gebruikt."
+        "Een lichte vorm van honger hebben",
+        "Een periode waarin er extreem weinig voedsel beschikbaar is",
+        "Een storm met veel regen",
+        "Een feestmaaltijd met veel voedsel"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat was de rol van de rechter in deze situatie?",
+      "question": "Waarom worden er in de tekst meer slachtoffers verwacht?",
       "options": [
-        "Hij begon de hongercrisis.",
-        "Hij stopte de voedselhulp volledig.",
-        "Hij zorgde dat de bonnen gebruikt konden blijven worden.",
-        "Hij kreeg zelf de voedselbonnen als beloning."
+        "Omdat de storm voorbij is en het weer mooi wordt",
+        "Omdat hulpverleners nog niet alle gebieden hebben kunnen bereiken",
+        "Omdat er een groot feest gepland is waar iedereen naartoe komt",
+        "Omdat er veel ziekenhuizen zijn en iedereen daar is"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is er met het budget voor de voedselhulp gebeurd?",
+      "question": "Wat is de rol van de orkaan in deze situatie?",
       "options": [
-        "Het is verdubbeld door de rechter.",
-        "Het is gestolen door hackers.",
-        "Er ontbreken miljarden dollars aan geld.",
-        "Het werd omgewisseld voor voedselbonnen."
+        "De orkaan brengt vreugde en feestelijkheden",
+        "De orkaan is de oorzaak van de vernieling en problemen zoals honger",
+        "De orkaan zorgt alleen voor wat regen en verder niets",
+        "De orkaan is een dier dat op de vlucht is geslagen"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De rechter stopte de voedselhulp volledig.",
+      "statement": "De orkaan Melissa heeft alleen in Jamaica slachtoffers gemaakt.",
       "isTrue": false
     },
     {
-      "statement": "Er ontbreken miljarden dollars aan budget voor het voedselprogramma.",
+      "statement": "Hongersnood is een direct gevolg van de orkaan omdat er geen voedsel meer is.",
       "isTrue": true
     },
     {
-      "statement": "Alleen kinderen krijgen voedselsteun in de Verenigde Staten.",
+      "statement": "Alle slachtoffers zijn al geteld en er worden er geen nieuwe meer verwacht.",
       "isTrue": false
     }
   ]

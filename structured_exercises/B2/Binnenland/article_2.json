@@ -3,104 +3,92 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
+  "title": "Paul Defoort, 78 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
-    "summary": "Meer dan de helft van de leerlingen in het middelbaar die afstandsonderwijs volgen, doet dat omdat ze psychisch kwetsbaar zijn. 'Elke dag in de klas zitten, lukt me niet.'"
+    "title": "Paul Defoort, 78 jaar",
+    "summary": "Geboren in 1946, overleden op 27/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "omdat",
-        "definition": "Omdat is een woord dat een reden geeft.",
-        "sentence": "Ik ben blij, ___ het mooi weer is.",
-        "answer": "omdat"
+        "word": "Geboren",
+        "definition": "Het begin van iemands leven; het ter wereld komen.",
+        "sentence": "Paul Defoort werd ___ in 1946.",
+        "answer": "geboren"
       },
       {
-        "word": "leerlingen",
-        "definition": "Leerlingen zijn personen die onderwijs volgen, meestal op school.",
-        "sentence": "De ___ hebben veel geleerd vandaag.",
-        "answer": "leerlingen"
+        "word": "Overleden",
+        "definition": "Niet meer levend; gestorven.",
+        "sentence": "Hij is ___ op 27 oktober 2025.",
+        "answer": "overleden"
       },
       {
-        "word": "psychische",
-        "definition": "Psychisch heeft te maken met de geest of mentale toestand.",
-        "sentence": "Hij heeft ___ problemen sinds het ongeluk.",
-        "answer": "psychische"
-      },
-      {
-        "word": "Helft",
-        "definition": "Een helft is de helft van een geheel.",
-        "sentence": "De ___ van de groep was aanwezig.",
-        "answer": "Helft"
-      },
-      {
-        "word": "les",
-        "definition": "Een les is een onderdeel van onderwijs, bijvoorbeeld een uur les.",
-        "sentence": "Vandaag hebben we een belangrijke ___ over dit onderwerp.",
-        "answer": "les"
+        "word": "Overleden",
+        "definition": "Gestorven; niet meer levend.",
+        "sentence": "Hij is ___ op 27 oktober 2025.",
+        "answer": "overleden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij heeft ___ problemen sinds het ongeluk.",
-        "answer": "psychische"
+        "sentence": "Paul Defoort werd ___ in 1946.",
+        "answer": "geboren"
       },
       {
-        "sentence": "Ik ben blij, ___ het mooi weer is.",
-        "answer": "omdat"
+        "sentence": "Hij is ___ op 27 oktober 2025.",
+        "answer": "overleden"
       },
       {
-        "sentence": "De ___ hebben veel geleerd vandaag.",
-        "answer": "leerlingen"
+        "sentence": "Hij is ___ op 27 oktober 2025.",
+        "answer": "overleden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom volgen sommige leerlingen afstandsonderwijs?",
+      "question": "In welk jaar is Paul Defoort geboren?",
       "options": [
-        "Omdat ze verplicht worden door school",
-        "Omdat ze psychische problemen hebben en niet naar school kunnen",
-        "Omdat ze liever thuis studeren",
-        "Omdat ze geen transport hebben"
+        "1940",
+        "1945",
+        "1946",
+        "1950"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is Bednet?",
+      "question": "Wat betekent het woord 'overleden'?",
       "options": [
-        "Een online platform voor afstandsonderwijs",
-        "Een soort sociale media voor studenten",
-        "Een nieuwswebsite voor onderwijsnieuws",
-        "Een sportteam voor jongeren"
+        "Net geboren",
+        "Heel oud",
+        "Gestorven",
+        "Zeer ziek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Hoe oud was Paul Defoort geworden?",
+      "options": [
+        "78 jaar",
+        "80 jaar",
+        "75 jaar",
+        "77 jaar"
       ],
       "correctAnswer": 1
-    },
-    {
-      "question": "Wat is de hoofdgedachte van de tekst?",
-      "options": [
-        "Scholen moeten meer geld krijgen",
-        "Leerlingen met psychische problemen gebruiken afstandsonderwijs",
-        "Iedereen moet verplicht naar school gaan",
-        "Online onderwijs is altijd beter"
-      ],
-      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Alle leerlingen die Bednet gebruiken, hebben psychische problemen.",
+      "statement": "Paul Defoort is overleden in 2025.",
+      "isTrue": true
+    },
+    {
+      "statement": "Paul Defoort werd geboren in 1946.",
+      "isTrue": true
+    },
+    {
+      "statement": "Paul Defoort was 75 jaar oud.",
       "isTrue": false
-    },
-    {
-      "statement": "Sommige leerlingen kunnen niet fysiek naar school vanwege hun mentale gezondheid.",
-      "isTrue": true
-    },
-    {
-      "statement": "Bednet is een alternatief voor fysiek onderwijs voor kinderen die dat nodig hebben.",
-      "isTrue": true
     }
   ]
 }

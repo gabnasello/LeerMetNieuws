@@ -1,105 +1,105 @@
 {
-  "id": 19,
+  "id": 18,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Annemarie Sauer, 78 jaar",
+  "title": "Greet D’HELF, 62 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Annemarie Sauer, 78 jaar",
-    "summary": "Geboren in 1947, overleden op 20/10/2025."
+    "title": "Greet D’HELF, 62 jaar",
+    "summary": "Geboren in 1963, overleden op 30/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Annemarie",
-        "definition": "Vrouwelijke voornaam, afgeleid van Anna en Maria",
-        "sentence": "___ Sauer was een bekende schrijfster uit de vorige eeuw.",
-        "answer": "Annemarie"
+        "word": "1963",
+        "definition": "Het jaar negentienhonderd drieënzestig",
+        "sentence": "Geboren in ___, overleden in 2025.",
+        "answer": "1963"
       },
       {
-        "word": "Sauer",
-        "definition": "Duitse familienaam, betekent 'zuur' of 'bitter'",
-        "sentence": "De schrijfster Annemarie ___ is vooral bekend van haar romans.",
-        "answer": "Sauer"
+        "word": "jaar",
+        "definition": "Een periode van 365 dagen, of 366 in een schrikkeljaar",
+        "sentence": "Ze werd slechts 62 ___ oud.",
+        "answer": "jaar"
       },
       {
-        "word": "geboren",
-        "definition": "Het moment waarop iemand ter wereld komt",
-        "sentence": "Zij werd ___ in 1947 en is nu 78 jaar oud.",
-        "answer": "geboren"
+        "word": "D’HELF",
+        "definition": "Een familienaam, waarschijnlijk van Franse of Vlaamse oorsprong",
+        "sentence": "Greet ___ is de volledige naam van de overledene.",
+        "answer": "D'HELF"
+      },
+      {
+        "word": "62",
+        "definition": "Het getal tweeënzestig, tussen 61 en 63",
+        "sentence": "Ze werd slechts ___ jaar oud.",
+        "answer": "62"
       },
       {
         "word": "overleden",
-        "definition": "Iemand die is gestorven, niet meer levend",
-        "sentence": "Helaas is zij reeds ___ op 20 oktober 2025.",
+        "definition": "Niet meer levend; gestorven",
+        "sentence": "Ze is helaas ___ op 30/10/2025.",
         "answer": "overleden"
-      },
-      {
-        "word": "2025",
-        "definition": "Het jaar na 2024 en voor 2026",
-        "sentence": "Zij stierf in ___ , wat nog ver in de toekomst ligt.",
-        "answer": "2025"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ Sauer was een bekende schrijfster uit de vorige eeuw.",
-        "answer": "Annemarie"
+        "sentence": "Greet ___ is de volledige naam van de overledene.",
+        "answer": "D'HELF"
       },
       {
-        "sentence": "De schrijfster Annemarie ___ is vooral bekend van haar romans.",
-        "answer": "Sauer"
+        "sentence": "Ze werd slechts ___ jaar oud.",
+        "answer": "62"
       },
       {
-        "sentence": "Helaas is zij reeds ___ op 20 oktober 2025.",
+        "sentence": "Ze is helaas ___ op 30/10/2025.",
         "answer": "overleden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Annemarie Sauer overleden?",
+      "question": "In welk jaar is Greet D'HELF geboren?",
       "options": [
-        "1947",
-        "1980",
-        "2020",
-        "2025"
+        "1963",
+        "1964",
+        "1965",
+        "1966"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de betekenis van de familienaam 'Sauer'?",
+      "question": "Wat is de volledige naam zoals vermeld in de titel?",
       "options": [
-        "Zoet",
-        "Bitter",
-        "Zout",
-        "Scherp"
+        "Greet D'HELF",
+        "Greet De Helf",
+        "Greet D'Helf",
+        "Greet D.Helf"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Welke maand overleed Annemarie Sauer?",
+      "question": "Op welke datum is Greet D'HELF overleden?",
       "options": [
-        "Januari",
-        "Februari",
-        "September",
-        "Oktober"
+        "30/10/2025",
+        "31/10/2025",
+        "30/11/2025",
+        "31/12/2025"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Annemarie Sauer werd geboren in 1947.",
+      "statement": "Greet D'HELF was 62 jaar oud op het moment van overlijden.",
       "isTrue": true
     },
     {
-      "statement": "Annemarie Sauer overleed in de maand juni.",
+      "statement": "Greet D'HELF is geboren in 1964.",
       "isTrue": false
     },
     {
-      "statement": "Annemarie Sauer is een schrijfster van romans.",
+      "statement": "De overlijdensdatum is 30/10/2025.",
       "isTrue": true
     }
   ]

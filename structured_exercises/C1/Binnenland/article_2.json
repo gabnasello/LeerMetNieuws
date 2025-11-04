@@ -3,104 +3,98 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
+  "title": "Paul Defoort, 78 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
-    "summary": "Meer dan de helft van de leerlingen in het middelbaar die afstandsonderwijs volgen, doet dat omdat ze psychisch kwetsbaar zijn. 'Elke dag in de klas zitten, lukt me niet.'"
+    "title": "Paul Defoort, 78 jaar",
+    "summary": "Geboren in 1946, overleden op 27/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "via",
-        "definition": "Door middel van; met gebruikmaking van.",
-        "sentence": "We communiceren ___ de chatfunctie.",
-        "answer": "via"
+        "word": "geboren",
+        "definition": "Het moment waarop iemand ter wereld komt.",
+        "sentence": "Hij werd ___ in 1946.",
+        "answer": "geboren"
       },
       {
-        "word": "helft",
-        "definition": "Een van de twee gelijke delen waarin iets verdeeld kan worden; de helft.",
-        "sentence": "De ___ van de deelnemers voltooide de studie.",
-        "answer": "helft"
+        "word": "overleden",
+        "definition": "Niet meer in leven zijn; gestorven zijn.",
+        "sentence": "Hij is ___ op 27 oktober 2025.",
+        "answer": "overleden"
       },
       {
-        "word": "omdat",
-        "definition": "Geeft een reden of oorzaak aan.",
-        "sentence": "Hij is thuis ___ hij ziek is.",
-        "answer": "omdat"
+        "word": "jaar",
+        "definition": "Een periode van 365 of 366 dagen, beginnend op 1 januari.",
+        "sentence": "Hij werd 78 ___ oud.",
+        "answer": "jaar"
       },
       {
-        "word": "omdat",
-        "definition": "Geeft een reden of oorzaak aan.",
-        "sentence": "Hij is thuis ___ hij ziek is.",
-        "answer": "omdat"
-      },
-      {
-        "word": "psychisch",
-        "definition": "Betrekking hebbend op de geest; mentaal.",
-        "sentence": "De patiënt kreeg ___ ondersteuning na het trauma.",
-        "answer": "psychisch"
+        "word": "geboren",
+        "definition": "Het begin van het leven; ter wereld komen.",
+        "sentence": "Hij werd ___ in 1946.",
+        "answer": "geboren"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "We communiceren ___ de chatfunctie.",
-        "answer": "via"
+        "sentence": "Hij werd 78 ___ oud.",
+        "answer": "jaar"
       },
       {
-        "sentence": "De ___ van de deelnemers voltooide de studie.",
-        "answer": "helft"
+        "sentence": "Hij is ___ op 27 oktober 2025.",
+        "answer": "overleden"
       },
       {
-        "sentence": "De patiënt kreeg ___ ondersteuning na het trauma.",
-        "answer": "psychisch"
+        "sentence": "Hij werd ___ in 1946.",
+        "answer": "geboren"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom volgen sommige leerlingen afstandsonderwijs via Bednet?",
+      "question": "Wat betekent het als iemand is overleden?",
       "options": [
-        "Omdat ze fysiek niet naar school kunnen komen",
-        "Omdat ze psychische problemen hebben en daardoor de klas niet fysiek kunnen bijwonen",
-        "Omdat ze liever thuis werken dan op school",
-        "Omdat ze geen interesse hebben in onderwijs"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een voordeel van Bednet volgens de tekst?",
-      "options": [
-        "Leerlingen kunnen volledig stoppen met onderwijs",
-        "Leerlingen krijgen extra vakken aangeboden",
-        "Leerlingen kunnen toch de lessen volgen, ook al zijn ze er niet fysiek",
-        "Leerlingen worden verplicht om online te zijn"
+        "Die persoon is verhuisd.",
+        "Die persoon is nog in leven.",
+        "Die persoon is gestorven.",
+        "Die persoon is jarig."
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is de hoofdgedachte van de samenvatting?",
+      "question": "Wat geeft de geboortedatum aan?",
       "options": [
-        "Bednet is een overbodige service",
-        "Leerlingen gebruiken Bednet omdat ze psychisch kwetsbaar zijn en niet fysiek naar school kunnen",
-        "Leerlingen kiezen voor Bednet om gemakkelijker te kunnen zijn",
-        "Bednet wordt enkel gebruikt tijdens vakanties"
+        "De dag waarop iemand is overleden.",
+        "De dag waarop iemand is geboren.",
+        "De dag waarop iemand jarig is.",
+        "De dag waarop iemand is verhuisd."
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Wat is een synoniem voor 'geboren'?",
+      "options": [
+        "Ter wereld komen",
+        "Overlijden",
+        "Jong zijn",
+        "Oud zijn"
+      ],
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Bednet biedt enkel onderwijs voor basisschoolleerlingen.",
-      "isTrue": false
-    },
-    {
-      "statement": "Leerlingen die Bednet gebruiken, zijn vaak psychisch kwetsbaar en kunnen niet fysiek naar school.",
+      "statement": "Paul Defoort is geboren in 1946.",
       "isTrue": true
     },
     {
-      "statement": "Bednet vervangt volledig het fysieke onderwijs voor alle leerlingen.",
-      "isTrue": false
+      "statement": "Paul Defoorn overleed op 27 oktober 2025.",
+      "isTrue": true
+    },
+    {
+      "statement": "Paul Defoort was 78 jaar oud bij zijn overlijden.",
+      "isTrue": true
     }
   ]
 }

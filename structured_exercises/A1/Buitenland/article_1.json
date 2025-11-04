@@ -3,97 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Amerikaanse rechter wendt hongercrisis af",
+  "title": "Orkaan in Jamaica",
   "topicNumber": 1,
   "article": {
-    "title": "Amerikaanse rechter wendt hongercrisis af",
-    "summary": "42 miljoen Amerikanen krijgen eten van de regering. De rechter helpt de voedselbonnen."
+    "title": "Orkaan in Jamaica",
+    "summary": "Na de orkaan zijn er problemen. Er zijn doden en er is weinig eten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "rechter",
-        "definition": "iemand die beslist over de wet",
-        "sentence": "De ___ beslist over de zaak.",
-        "answer": "rechter"
-      },
-      {
-        "word": "Amerikaan",
-        "definition": "iemand die in Amerika woont",
-        "sentence": "De ___ komt uit de Verenigde Staten.",
-        "answer": "Amerikaan"
-      },
-      {
         "word": "eten",
-        "definition": "iets wat je kunt opeten, zoals brood",
-        "sentence": "Ik ga vanavond ___ met mijn gezin.",
+        "definition": "voedsel dat je eet",
+        "sentence": "Mensen hebben ___ nodig om te leven.",
         "answer": "eten"
       },
       {
-        "word": "krijgen",
-        "definition": "iets ontvangen van iemand",
-        "sentence": "Zij ___ een cadeau van hun vriend.",
-        "answer": "krijgen"
+        "word": "doden",
+        "definition": "mensen die zijn gestorven",
+        "sentence": "Er zijn veel ___ door de ramp.",
+        "answer": "doden"
+      },
+      {
+        "word": "Jamaica",
+        "definition": "een land in het Caribisch gebied",
+        "sentence": "De orkaan trof ___ het hardst.",
+        "answer": "Jamaica"
+      },
+      {
+        "word": "eten",
+        "definition": "voedsel dat je eet",
+        "sentence": "Honger betekent dat je ___ wilt hebben.",
+        "answer": "eten"
+      },
+      {
+        "word": "problemen",
+        "definition": "dingen die moeilijk of fout gaan",
+        "sentence": "Na de storm zijn er veel ___.",
+        "answer": "problemen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ komt uit de Verenigde Staten.",
-        "answer": "Amerikaan"
+        "sentence": "Na de storm zijn er veel ___.",
+        "answer": "problemen"
       },
       {
-        "sentence": "De ___ beslist over de zaak.",
-        "answer": "rechter"
-      },
-      {
-        "sentence": "Ik ga vanavond ___ met mijn gezin.",
+        "sentence": "Mensen hebben ___ nodig om te leven.",
         "answer": "eten"
+      },
+      {
+        "sentence": "Er zijn veel ___ door de ramp.",
+        "answer": "doden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een rechter?",
+      "question": "Waar ging de orkaan over?",
       "options": [
-        "Een soort dokter",
-        "Een soort leraar",
-        "Een soort rechter",
-        "Een soort boer"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat is de rol van de rechter in deze situatie?",
-      "options": [
-        "Hij geeft eten aan mensen",
-        "Hij beslist over de wet",
-        "Hij kookt voor mensen",
-        "Hij werkt in een restaurant"
+        "Nederland",
+        "Jamaica",
+        "Duitsland",
+        "China"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de uitkomst van de rechter's beslissing?",
+      "question": "Wat is een gevolg van de orkaan?",
       "options": [
-        "Iedereen moet nu zelf voor eten zorgen",
-        "De regering geeft eten aan wie het nodig heeft",
-        "Er is geen eten meer over",
-        "De rechter eet al het eten op"
+        "Mensen gaan winkelen",
+        "Er is veel schade",
+        "Iedereen is veilig",
+        "Het weer is mooi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is honger?",
+      "options": [
+        "Een soort feest",
+        "Een gevoel dat je wilt eten",
+        "Een soort game",
+        "Een soort dier"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De rechter beslist dat de regering moet helpen.",
-      "isTrue": true
-    },
-    {
-      "statement": "De rechter zegt dat niemand eten krijgt.",
+      "statement": "De orkaan trof Nederland.",
       "isTrue": false
     },
     {
-      "statement": "De voedselbonnen worden niet gebruikt.",
+      "statement": "Na de orkaan hebben mensen honger.",
+      "isTrue": true
+    },
+    {
+      "statement": "Er zijn geen doden door de orkaan.",
       "isTrue": false
     }
   ]

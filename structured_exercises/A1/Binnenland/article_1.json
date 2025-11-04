@@ -1,93 +1,93 @@
 {
-  "id": 16,
+  "id": 14,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Annemarie Sauer, 78 jaar",
+  "title": "Greet D’HELF, 62 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Annemarie Sauer, 78 jaar",
-    "summary": "Geboren in 1947. Overleden op 20/10/2025."
+    "title": "Greet D’HELF, 62 jaar",
+    "summary": "Geboren in 1963, overleden op 30/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "geboren worden",
-        "sentence": "Ze is ___ in 1947.",
+        "word": "Geboren",
+        "definition": "het begin van het leven",
+        "sentence": "Zij is ___ in 1963.",
         "answer": "geboren"
       },
       {
-        "word": "overleden",
-        "definition": "niet meer leven",
-        "sentence": "Hij is ___ op 20/10/2025.",
+        "word": "Overleden",
+        "definition": "niet meer levend",
+        "sentence": "Hij is ___ op 30 oktober.",
         "answer": "overleden"
       },
       {
-        "word": "jaar",
+        "word": "Jaar",
         "definition": "een periode van 365 dagen",
-        "sentence": "Hij is 78 ___ oud.",
+        "sentence": "Het ___ 2025 is bijna voorbij.",
         "answer": "jaar"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze is ___ in 1947.",
-        "answer": "geboren"
+        "sentence": "Hij is ___ op 30 oktober.",
+        "answer": "overleden"
       },
       {
-        "sentence": "Hij is 78 ___ oud.",
+        "sentence": "Het ___ 2025 is bijna voorbij.",
         "answer": "jaar"
       },
       {
-        "sentence": "Hij is ___ op 20/10/2025.",
-        "answer": "overleden"
+        "sentence": "Zij is ___ in 1963.",
+        "answer": "geboren"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wanneer is Annemarie Sauer geboren?",
+      "question": "Wanneer is Greet D’HELF geboren?",
       "options": [
-        "In 1947",
-        "In 1950",
-        "In 1960",
-        "In 1970"
+        "In 1963",
+        "In 1964",
+        "In 1965",
+        "In 1966"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Hoe oud was Annemarie Sauer toen ze overleed?",
+      "question": "Is Greet D’HELF nog in leven?",
       "options": [
-        "78 jaar",
-        "80 jaar",
-        "75 jaar",
-        "70 jaar"
+        "Ja, ze leeft nog",
+        "Nee, ze is overleden",
+        "Ze is net geboren",
+        "Ze is heel oud"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Op welke datum overleed Annemarie Sauer?",
+      "question": "Waar wordt de datum in een artikel vaak vermeld?",
       "options": [
-        "20/10/2025",
-        "20/11/2025",
-        "21/10/2025",
-        "19/10/2025"
+        "Aan het begin",
+        "Aan het einde",
+        "In de titel",
+        "Nergens"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Annemarie Sauer is geboren in 1947.",
+      "statement": "Greet D’HELF is in 1963 geboren.",
       "isTrue": true
     },
     {
-      "statement": "Annemarie Sauer overleed in 2024.",
+      "statement": "Greet D’HELF is nog in leven.",
       "isTrue": false
     },
     {
-      "statement": "Annemarie Sauer was 78 jaar oud.",
+      "statement": "Greet D’HELF overleed in oktober 2025.",
       "isTrue": true
     }
   ]

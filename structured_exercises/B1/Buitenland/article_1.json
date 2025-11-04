@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Amerikaanse rechter wendt hongercrisis in VS (even) af",
+  "title": "Dodentol Jamaica loopt op, terwijl “zware hongersnood” dreigt",
   "topicNumber": 1,
   "article": {
-    "title": "Amerikaanse rechter wendt hongercrisis in VS (even) af",
-    "summary": "42 miljoen Amerikanen komen maar rond dankzij voedselsteun van de regering. De voedselbonnen van november lijken gered, al ontbreken er miljarden dollars."
+    "title": "Dodentol Jamaica loopt op, terwijl “zware hongersnood” dreigt",
+    "summary": "Het dodental na orkaan Melissa in Jamaica is gestegen tot 32. In sommige gebieden is de hulp nog niet aangekomen, en er wordt gevreesd voor hongersnood."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "rechter",
-        "definition": "iemand die beslist in een rechtszaak",
-        "sentence": "De ___ bepaalde dat de steun doorgaat.",
-        "answer": "rechter"
+        "word": "dreigt",
+        "definition": "iets dat waarschijnlijk gaat gebeuren, vaak iets negatiefs",
+        "sentence": "Er ___ een tekort aan voedsel.",
+        "answer": "dreigt"
       },
       {
-        "word": "voedselbonnen",
-        "definition": "bonnen die je kunt gebruiken om eten te kopen",
-        "sentence": "Sommige gezinnen gebruiken ___ om boodschappen te doen.",
-        "answer": "voedselbonnen"
+        "word": "dodentol",
+        "definition": "het aantal mensen dat is overleden",
+        "sentence": "De ___ na de orkaan is hoog.",
+        "answer": "dodentol"
       },
       {
-        "word": "gered",
-        "definition": "beschermd of veiliggesteld",
-        "sentence": "De dieren zijn ___ door de brandweer.",
-        "answer": "gered"
+        "word": "hongersnood",
+        "definition": "gebrek aan voedsel; wanneer er niet genoeg eten is voor iedereen",
+        "sentence": "Na de overstroming was er ___.",
+        "answer": "hongersnood"
       },
       {
-        "word": "hongercrisis",
-        "definition": "een situatie waarin veel mensen niet genoeg te eten hebben",
-        "sentence": "Door de droogte ontstond er een ___ in het land.",
-        "answer": "hongercrisis"
+        "word": "hulp",
+        "definition": "steun of assistentie, vaak in moeilijke tijden",
+        "sentence": "Internationale ___ is onderweg naar het eiland.",
+        "answer": "hulp"
       },
       {
-        "word": "regering",
-        "definition": "de groep mensen die een land bestuurt",
-        "sentence": "De ___ heeft nieuwe maatregelen aangekondigd.",
-        "answer": "regering"
+        "word": "orkaan",
+        "definition": "een hele zware storm met veel wind en regen",
+        "sentence": "De ___ veroorzaakte veel schade.",
+        "answer": "orkaan"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ heeft nieuwe maatregelen aangekondigd.",
-        "answer": "regering"
+        "sentence": "De ___ veroorzaakte veel schade.",
+        "answer": "orkaan"
       },
       {
-        "sentence": "Sommige gezinnen gebruiken ___ om boodschappen te doen.",
-        "answer": "voedselbonnen"
+        "sentence": "Er ___ een tekort aan voedsel.",
+        "answer": "dreigt"
       },
       {
-        "sentence": "De dieren zijn ___ door de brandweer.",
-        "answer": "gered"
+        "sentence": "Na de overstroming was er ___.",
+        "answer": "hongersnood"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de rol van de rechter in deze situatie?",
+      "question": "Wat betekent 'dodentol' in deze context?",
       "options": [
-        "Hij organiseert voedselhulp.",
-        "Hij beslist over de voortzetting van het steunprogramma.",
-        "Hij kookt voor daklozen.",
-        "Hij start een nieuwe campagne."
+        "Het aantal doden",
+        "Het aantal gewonden",
+        "De naam van een plaats",
+        "Een soort weegschaal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is een 'orkaan'?",
+      "options": [
+        "Een soort dans",
+        "Een sterke tropische storm",
+        "Een soort vogel",
+        "Een type auto"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom zijn de voedselbonnen belangrijk voor de mensen?",
+      "question": "Waarom wordt er 'hongersnood' verwacht in Jamaica?",
       "options": [
-        "Ze zijn gemaakt van goud.",
-        "Ze kunnen worden ingeruild voor voedsel.",
-        "Ze zijn alleen geldig in het buitenland.",
-        "Ze worden niet meer gebruikt."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is het probleem met de financiering?",
-      "options": [
-        "Er is te veel geld.",
-        "Er is te weinig geld voor het programma.",
-        "Het geld is gestolen.",
-        "Het geld is in andere valuta."
+        "Omdat er te veel voedsel is",
+        "Omdat er onvoldoende voedsel is door de orkaan",
+        "Omdat de bevolking niet van eten houdt",
+        "Omdat het land veel voedsel exporteert"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De rechter heeft de voedselsteun volledig stopgezet.",
-      "isTrue": false
-    },
-    {
-      "statement": "Er ontbreken miljarden dollars aan de steun.",
+      "statement": "De dodentol in Jamaica is gestegen tot 32.",
       "isTrue": true
     },
     {
-      "statement": "Alleen kinderen krijgen voedselbonnen in dit programma.",
+      "statement": "Hongersnood dreigt al in alle delen van Jamaica.",
       "isTrue": false
+    },
+    {
+      "statement": "Nog niet alle gebieden hebben hulp ontvangen.",
+      "isTrue": true
     }
   ]
 }

@@ -1,105 +1,105 @@
 {
-  "id": 10,
+  "id": 8,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Hoe Trump Latijns-Amerika opnieuw als exclusieve invloedssfeer claimt",
+  "title": "Nieuwe voorzitter Jesse Klaver mag proberen GroenLinks-PvdA de regering binnen te loodsen",
   "topicNumber": 1,
   "article": {
-    "title": "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een geheel eigen versie van de Monroedoctrine",
-    "summary": "Amerikaanse media noemen hem een piraat en waarschuwen voor de risico’s van een invasie van Venezuela. Maar Donald Trump maakt van Latijns-Amerika opnieuw zijn exclusieve speeltuin, in zijn geheel eigen versie van de Monroedoctrine."
+    "title": "Nieuwe voorzitter Jesse Klaver mag proberen GroenLinks-PvdA de regering binnen te loodsen",
+    "summary": "Voormalig GroenLinks-leider Jesse Klaver neemt het stokje over van Frans Timmermans. Hij zal voor GroenLinks-PvdA onderhandelen over een nieuwe Nederlandse regering. Hij staat voor lastige keuzes."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Latijns-Amerika",
-        "definition": "regio in Amerika ten zuiden van de Verenigde Staten, voornamelijk Spaans- en Portugeessprekend",
-        "sentence": "___ heeft een rijke geschiedenis en diverse culturen.",
-        "answer": "Latijns-Amerika"
+        "word": "stokje",
+        "definition": "een klein voorwerp of symbool, vaak gebruikt in overdrachtelijke zin",
+        "sentence": "Hij neemt het ___ over van zijn voorganger.",
+        "answer": "stokje"
       },
       {
-        "word": "maakt",
-        "definition": "vormt, creëert of produceert",
-        "sentence": "Hij ___ van zijn hobby zijn beroep.",
-        "answer": "maakt"
+        "word": "keuzes",
+        "decision": "beslissing of optie",
+        "sentence": "Hij heeft moeilijke ___ te maken.",
+        "answer": "keuzes"
       },
       {
-        "word": "exclusieve",
-        "definition": "uitsluitend, alleen toegankelijk voor een selecte groep",
-        "sentence": "De club heeft een ___ ledenlijst.",
-        "answer": "exclusieve"
+        "word": "lastige",
+        "definition": "moeilijk of vervelend",
+        "sentence": "Hij heeft te maken met ___ beslissingen.",
+        "answer": "lastige"
       },
       {
-        "word": "Trump",
-        "definition": "achternaam van de voormalige president van de Verenigde Staten",
-        "sentence": "Donald ___ staat bekend om zijn onconventionele aanpak.",
-        "answer": "Trump"
+        "word": "onderhandelen",
+        "definition": "overleggen met anderen om tot een overeenkomst te komen",
+        "sentence": "Hij zal met andere partijen ___ over de nieuwe plannen.",
+        "answer": "onderhandelen"
       },
       {
-        "word": "opnieuw",
-        "definition": "nog een keer, weer",
-        "sentence": "Hij probeerde het ___ na zijn eerste mislukking.",
-        "answer": "opnieuw"
+        "word": "loodsen",
+        "definition": "geleiden of begeleiden, vooral in moeilijke situaties",
+        "sentence": "Hij moet de onderhandelingen door lastige discussies ___.",
+        "answer": "loodsen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Donald ___ staat bekend om zijn onconventionele aanpak.",
-        "answer": "Trump"
+        "sentence": "Hij moet de onderhandelingen door lastige discussies ___.",
+        "answer": "loodsen"
       },
       {
-        "sentence": "Hij probeerde het ___ na zijn eerste mislukking.",
-        "answer": "opnieuw"
+        "sentence": "Hij heeft te maken met ___ beslissingen.",
+        "answer": "lastige"
       },
       {
-        "sentence": "De club heeft een ___ ledenlijst.",
-        "answer": "exclusieve"
+        "sentence": "Hij heeft moeilijke ___ te maken.",
+        "answer": "keuzes"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Welke regio wordt vooral beïnvloed door de Monroedoctrine volgens de tekst?",
+      "question": "Wat betekent 'loodsen' in deze context?",
       "options": [
-        "Europa",
-        "Azië",
-        "Latijns-Amerika",
-        "Afrika"
+        "Sturen of begeleiden",
+        "Vermijden",
+        "Vertragen",
+        "Negeren"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Hoe wordt Donald Trump's benadering van Latijns-Amerika in de tekst beschreven?",
+      "question": "Wat is de rol van Jesse Klaver in deze situatie?",
       "options": [
-        "Als een collaboratieve effort",
-        "Als een eenzijdige claim",
-        "Als een neutrale observatie",
-        "Als een historische hervorming"
+        "Hij is de nieuwe voorzitter",
+        "Hij is een gewone lid",
+        "Hij neemt geen deel aan de onderhandelingen",
+        "Hij is de vorige leider"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van de media volgens de tekst in deze context?",
+      "question": "Waar gaat de tekst vooral over?",
       "options": [
-        "Ze ondersteunen Trump's beleid volledig",
-        "Ze negeren de situatie geheel",
-        "Ze bekritiseren Trump en waarschuwen voor risico's",
-        "Ze prijzen hem als een piraat"
+        "Over politieke onderhandelingen",
+        "Over een sportevenement",
+        "Over een cultureel festival",
+        "Over een wetenschappelijke ontdekking"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Donald Trump wordt door de media omschreven als een piraat vanwege zijn beleid.",
+      "statement": "Jesse Klaver neemt de plaats in van Frans Timmermans.",
       "isTrue": true
     },
     {
-      "statement": "Latijns-Amerika wordt in de tekst voorgesteld als een exclusieve speeltuin alleen voor de Verenigde Staten.",
+      "statement": "Jesse Klaver zal de onderhandelingen leiden.",
       "isTrue": true
     },
     {
-      "statement": "De Monroedoctrine is recentelijk geïntroduceerd door Donald Trump.",
+      "statement": "De tekst gaat over een sportevenement.",
       "isTrue": false
     }
   ]

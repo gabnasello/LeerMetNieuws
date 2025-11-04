@@ -1,106 +1,106 @@
 {
-  "id": 14,
+  "id": 12,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
+  "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
   "topicNumber": 1,
   "article": {
-    "title": "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
-    "summary": "Nu de kans op een snel bestand in Oekraïne vervlogen is, blijft de vraag: hoe zal deze oorlog eindigen? Niemand durft het te voorspellen, maar een trend is duidelijk: Oekraïne kan financieel niet veel verder, maar het moet wel."
+    "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
+    "summary": "Wie wordt gouverneur in Virginia en New Jersey? En wordt een moslim burgemeester van New York? Al doet hij niet mee, deze verkiezingen zijn een barometer voor Donald Trumps populariteit, én die van de Democraten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "bestand",
-        "definition": "Een bestand is een computerbestand, maar hier betekent het 'stilstand' of 'geen vooruitgang'",
-        "sentence": "De onderhandelingen zijn in een ___ geraakt.",
-        "answer": "bestand"
+        "word": "verkiezingen",
+        "definition": "een verkiezing is een proces waarbij mensen stemmen om iemand te kiezen voor een functie",
+        "sentence": "Tijdens de ___ stemmen mensen op hun favoriete kandidaat.",
+        "answer": "verkiezingen"
       },
       {
-        "word": "militaire",
-        "definition": "Met betrekking tot het leger of oorlog",
-        "sentence": "De ___ operatie was een succes.",
-        "answer": "militaire"
+        "word": "gouverneurs",
+        "definition": "een gouverneur is de leider van een staat in de Verenigde Staten",
+        "sentence": "De ___ van Texas en Californië hebben veel macht.",
+        "answer": "gouverneurs"
       },
       {
-        "word": "economische",
-        "definition": "Betrekking hebbend op de economie",
-        "sentence": "De ___ gevolgen van de oorlog zijn groot.",
-        "answer": "economische"
+        "word": "burgemeester",
+        "definition": "een burgemeester is het hoofd van de gemeente of stad",
+        "sentence": "De ___ van New York werkt samen met de gemeenteraad.",
+        "answer": "burgemeester"
       },
       {
-        "word": "kans",
-        "definition": "Mogelijkheid dat iets gebeurt",
-        "sentence": "Er is een grote ___ dat het morgen gaat regenen.",
-        "answer": "kans"
+        "word": "Democraten",
+        "definition": "een van de twee grote politieke partijen in de Verenigde Staten",
+        "sentence": "De ___ hebben momenteel de meerderheid in de Senaat.",
+        "answer": "Democraten"
       },
       {
-        "word": "Oekraïne",
-        "definition": "Een land in Oost-Europa",
-        "sentence": "___ is een groot land met veel natuurlijke hulpbronnen.",
-        "answer": "Oekraïne"
+        "word": "herlanceren",
+        "definition": "opnieuw beginnen of nieuw leven inblazen",
+        "sentence": "Het nieuwe project zal de economie ___.",
+        "answer": "herlanceren"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De onderhandelingen zijn in een ___ geraakt.",
-        "answer": "bestand"
+        "sentence": "De ___ van Texas en Californië hebben veel macht.",
+        "answer": "gouverneurs"
       },
       {
-        "sentence": "Er is een grote ___ dat het morgen gaat regenen.",
-        "answer": "kans"
+        "sentence": "De ___ hebben momenteel de meerderheid in de Senaat.",
+        "answer": "Democraten"
       },
       {
-        "sentence": "De ___ operatie was een succes.",
-        "answer": "militaire"
+        "sentence": "De ___ van New York werkt samen met de gemeenteraad.",
+        "answer": "burgemeester"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'financieel' in deze context?",
+      "question": "Welke politieke partij is momenteel aan de macht in de Senaat van de Verenigde Staten?",
       "options": [
-        "Met weinig geld",
-        "Emotioneel",
-        "Fysiek sterk",
-        "Met veel energie"
+        "De Democraten",
+        "De Republikeinen",
+        "De Groenen",
+        "De Liberalen"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is de hoofdgedachte van de tekst?",
+      "question": "Wat is de rol van een gouverneur?",
       "options": [
-        "Oekraïne wint de oorlog",
-        "De economie is belangrijker dan het leger",
-        "Het weer wordt besproken",
-        "Er is geen hoop meer"
+        "Leider van een staat",
+        "Leider van het land",
+        "Leider van een stad",
+        "Leider van een provincie"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat betekent 'bestand' in deze titel?",
+      "question": "Wat is een barometer in deze context?",
       "options": [
-        "Een computerbestand",
-        "Stilstand of geen vooruitgang",
-        "Een militaire rang",
-        "Een soort wapen"
+        "Een meetinstrument voor luchtdruk",
+        "Een indicator of graadmeter",
+        "Een weervoorspeller",
+        "Een apparaat om snelheid te meten"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De economische situatie kan de oorlog beëindigen.",
+      "statement": "De verkiezingen in Virginia en New Jersey bepalen wie de nieuwe gouverneurs worden.",
       "isTrue": true
     },
     {
-      "statement": "Oekraïne heeft geen geld meer voor de oorlog.",
-      "isTrue": true
-    },
-    {
-      "statement": "Het artikel zegt dat de oorlog al gewonnen is.",
+      "statement": "Een burgemeester van New York is automatisch ook de burgemeester van heel de Verenigde Staten.",
       "isTrue": false
+    },
+    {
+      "statement": "De uitslagen van deze verkiezingen kunnen een indicatie geven van de populariteit van president Trump.",
+      "isTrue": true
     }
   ]
 }

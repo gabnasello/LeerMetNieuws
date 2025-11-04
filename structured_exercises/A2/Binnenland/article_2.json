@@ -3,104 +3,104 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
+  "title": "Paul Defoort, 78 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
-    "summary": "Meer dan de helft van de leerlingen in het middelbaar die afstandsonderwijs volgen, doet dat omdat ze psychisch kwetsbaar zijn. “Elke dag in de klas zitten, lukt me niet.”"
+    "title": "Paul Defoort, 78 jaar",
+    "summary": "Geboren in 1946, overleden op 27 oktober 2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "psychische",
-        "definition": "met betrekking tot de geest of emoties",
-        "sentence": "Sommige mensen hebben ___ problemen en voelen zich vaak verdrietig.",
-        "answer": "psychische"
+        "word": "overleden",
+        "definition": "Niet meer levend, gestorven",
+        "sentence": "Hij is ___ op 27 oktober 2025.",
+        "answer": "overleden"
       },
       {
-        "word": "volgen",
-        "definition": "doen wat er gezegd wordt, of iets meemaken",
-        "sentence": "De studenten ___ de online les via hun computer.",
-        "answer": "volgen"
+        "word": "Defoort",
+        "definition": "Familienaam van de persoon",
+        "sentence": "Paul ___ was 78 jaar oud.",
+        "answer": "Defoort"
       },
       {
-        "word": "helft",
-        "definition": "een van twee gelijke delen",
-        "sentence": "Slechts de ___ van de koek is over.",
-        "answer": "helft"
+        "word": "Paul",
+        "definition": "Voornaam van de persoon",
+        "sentence": "___ Defoort was 78 jaar oud.",
+        "answer": "Paul"
       },
       {
-        "word": "leerlingen",
-        "definition": "kinderen die op school leren",
-        "sentence": "De ___ krijgen les van hun leerkracht.",
-        "answer": "leerlingen"
+        "word": "2025",
+        "definition": "Jaartal waarin hij overleed",
+        "sentence": "Hij overleed in het jaar ___.",
+        "answer": "2025"
       },
       {
-        "word": "problemen",
-        "definition": "moeilijke situaties of taken",
-        "sentence": "Wanneer je ___ hebt, is het goed om hulp te vragen.",
-        "answer": "problemen"
+        "word": "1946",
+        "definition": "Jaartal waarin hij geboren werd",
+        "sentence": "Hij is geboren in het jaar ___.",
+        "answer": "1946"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De studenten ___ de online les via hun computer.",
-        "answer": "volgen"
+        "sentence": "Paul ___ was 78 jaar oud.",
+        "answer": "Defoort"
       },
       {
-        "sentence": "Slechts de ___ van de koek is over.",
-        "answer": "helft"
+        "sentence": "Hij is geboren in het jaar ___.",
+        "answer": "1946"
       },
       {
-        "sentence": "De ___ krijgen les van hun leerkracht.",
-        "answer": "leerlingen"
+        "sentence": "___ Defoort was 78 jaar oud.",
+        "answer": "Paul"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'via' in de context van de tekst?",
+      "question": "In welk jaar is Paul Defoort geboren?",
       "options": [
-        "naast",
-        "door middel van",
-        "ondanks",
-        "bovenop"
+        "1945",
+        "1946",
+        "1947",
+        "1948"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom volgen sommige leerlingen afstandsonderwijs?",
+      "question": "Op welke datum is Paul Defoort overleden?",
       "options": [
-        "Omdat ze het leuk vinden",
-        "Omdat ze in het buitenland wonen",
-        "Omdat ze psychische problemen hebben",
-        "Omdat ze geen computer hebben"
+        "26 oktober 2025",
+        "27 oktober 2025",
+        "28 oktober 2025",
+        "29 oktober 2025"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de familienaam van Paul?",
+      "options": [
+        "Jansen",
+        "Pietersen",
+        "Defoort",
+        "Janssen"
       ],
       "correctAnswer": 3
-    },
-    {
-      "question": "Wat is de hoofdgedachte van de tekst?",
-      "options": [
-        "Alle leerlingen moeten naar school",
-        "Psychische problemen kunnen een reden zijn voor afstandsonderwijs",
-        "Afstandsonderwijs is makkelijk",
-        "Kinderen met psychische problemen zijn zeldzaam"
-      ],
-      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De meeste leerlingen die afstandsonderwijs volgen, doen dat omdat ze psychische problemen hebben.",
+      "statement": "Paul Defoort is geboren in 1946.",
       "isTrue": true
     },
     {
-      "statement": "Afstandsonderwijs wordt alleen via internet gegeven.",
-      "isTrue": true
-    },
-    {
-      "statement": "Alle leerlingen met psychische problemen volgen afstandsonderwijs.",
+      "statement": "Paul Defoort overleed in 2024.",
       "isTrue": false
+    },
+    {
+      "statement": "Paul Defoort werd 78 jaar oud.",
+      "isTrue": true
     }
   ]
 }

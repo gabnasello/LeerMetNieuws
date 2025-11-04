@@ -1,105 +1,105 @@
 {
-  "id": 22,
+  "id": 21,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Thomas Siffer neemt afscheid van Louise Delanghe",
+  "title": "Stormloop voor nieuwe tandarts in Kluisbergen",
   "topicNumber": 1,
   "article": {
-    "title": "Thomas Siffer neemt afscheid van Louise Delanghe",
-    "summary": "Louise Delanghe was jong en ze was alles. Intelligent, vrolijk, vriendelijk en uitbundig. Thomas Siffer neemt afscheid van de jonge kunstenares die omkwam bij een verkeersongeluk."
+    "title": "Stormloop voor nieuwe tandarts in Kluisbergen",
+    "summary": "Tandarts Julie Parmentier (26) start donderdag haar praktijk in Kluisbergen en nu al zit ze volgeboekt tot in september 2026. Het is typerend voor een probleem in veel Vlaamse gemeenten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "afscheid",
-        "definition": "het einde van een bijeenkomst of het moment dat je iemand niet meer ziet",
-        "sentence": "Hij nam ___ van zijn collega's toen hij vertrok.",
-        "answer": "afscheid"
+        "word": "probleem",
+        "definition": "iets dat moeilijk is of niet goed gaat",
+        "sentence": "Er is een ___ met de waterleiding.",
+        "answer": "probleem"
       },
       {
-        "word": "omkwam",
-        "definition": "overleden, niet meer levend",
-        "sentence": "Hij ___ in een auto-ongeluk.",
-        "answer": "omkwam"
+        "word": "praktijk",
+        "definition": "de plaats waar een professional werkt, zoals een dokter",
+        "sentence": "Haar nieuwe ___ is in het centrum.",
+        "answer": "praktijk"
       },
       {
-        "word": "intelligent",
-        "definition": "slim en goed in het leren van nieuwe dingen",
-        "sentence": "Ze is erg ___ en lost problemen snel op.",
-        "answer": "intelligent"
+        "word": "start",
+        "definition": "beginnen, van start gaan",
+        "sentence": "Ze ___ volgende week met haar nieuwe baan.",
+        "answer": "start"
       },
       {
-        "word": "kunstenares",
-        "definition": "een vrouw die kunst maakt, zoals een schilder of een muzikant",
-        "sentence": "De ___ maakte een prachtig schilderij.",
-        "answer": "kunstenares"
+        "word": "typerend",
+        "definition": "iets wat heel kenmerkend of typisch is",
+        "sentence": "Het is ___ voor deze tijd van het jaar.",
+        "answer": "typerend"
       },
       {
-        "word": "verkeersongeluk",
-        "definition": "een ongeluk op de weg met auto's of andere voertuigen",
-        "sentence": "Er was een ___ op de snelweg vanmorgen.",
-        "answer": "verkeersongeluk"
+        "word": "volgeboekt",
+        "definition": "helemaal vol, geen plaats meer",
+        "sentence": "Het hotel is ___ voor de zomer.",
+        "answer": "volgeboekt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze is erg ___ en lost problemen snel op.",
-        "answer": "intelligent"
+        "sentence": "Er is een ___ met de waterleiding.",
+        "answer": "probleem"
       },
       {
-        "sentence": "Hij nam ___ van zijn collega's toen hij vertrok.",
-        "answer": "afscheid"
+        "sentence": "Het is ___ voor deze tijd van het jaar.",
+        "answer": "typerend"
       },
       {
-        "sentence": "De ___ maakte een prachtig schilderij.",
-        "answer": "kunstenares"
+        "sentence": "Haar nieuwe ___ is in het centrum.",
+        "answer": "praktijk"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom noemt Thomas Siffer Louise Delanghe een kunstenares?",
+      "question": "Wat is de situatie met tandarts Julie Parmentier?",
       "options": [
-        "Omdat ze een mooi schilderij maakte",
-        "Omdat ze een bekende actrice was",
-        "Omdat ze kunst creëerde en daarom een kunstenares is",
-        "Omdat ze in een atelier werkte"
+        "Ze heeft te veel patiënten",
+        "Ze heeft te weinig patiënten",
+        "Ze verkoopt haar praktijk",
+        "Ze is met pensioen"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat betekent het dat Louise Delanghe omkwam bij een verkeersongeluk?",
+      "question": "Wat is het probleem in veel Vlaamse gemeenten?",
       "options": [
-        "Ze reed te snel met de auto",
-        "Ze overleed door een auto-ongeluk",
-        "Ze maakte een schilderij van een auto",
-        "Ze was een raceauto-chauffeur"
+        "Te veel tandartsen",
+        "Te weinig tandartsen",
+        "Geen apotheken",
+        "Geen supermarkten"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoe wordt Louise Delanghe beschreven in de tekst?",
+      "question": "Wat is de toestand van haar praktijk nu?",
       "options": [
-        "Als een serieuze en strenge persoon",
-        "Als een vrolijke en intelligente persoon",
-        "Als een eenzame en verdrietige persoon",
-        "Als een boze en gefrustreerde persoon"
+        "Ze is net begonnen",
+        "Ze is al jaren bezig",
+        "Ze is gestopt",
+        "Ze is verhuisd"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Louise Delanghe was een kunstenares die schilderde.",
+      "statement": "Julie Parmentier is een tandarts.",
       "isTrue": true
     },
     {
-      "statement": "Thomas Siffer is de persoon die overleed in het verkeersongeluk.",
+      "statement": "Julie Parmentier werkt in een supermarkt.",
       "isTrue": false
     },
     {
-      "statement": "Louise Delanghe was bekend om haar uitbundige karakter.",
+      "statement": "De praktijk van Julie start volgende week.",
       "isTrue": true
     }
   ]

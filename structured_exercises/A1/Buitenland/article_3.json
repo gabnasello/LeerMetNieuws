@@ -1,106 +1,106 @@
 {
-  "id": 6,
+  "id": 5,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een geheel eigen versie van de Monroedoctrine.",
+  "title": "Nieuwe voorzitter Jesse Klaver",
   "topicNumber": 1,
   "article": {
-    "title": "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een geheel eigen versie van de Monroedoctrine.",
-    "summary": "Amerikaanse media noemen hem een piraat en waarschuwen voor de risico’s van een invasie van Venezuela. Maar Donald Trump maakt van Latijns-Amerika opnieuw zijn exclusieve speeltuin, in zijn geheel eigen versie van de Monroedoctrine."
+    "title": "Nieuwe voorzitter Jesse Klaver",
+    "summary": "Jesse Klaver is de nieuwe voorzitter. Hij wordt de nieuwe leider. Hij gaat voor GroenLinks-PvdA praten over een nieuwe regering. Het wordt een moeilijke taak."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "is",
-        "definition": "zijn, staat voor iets dat bestaat of gebeurt",
-        "sentence": "Hij ___ blij met het cadeau.",
-        "answer": "is"
+        "word": "praten",
+        "definition": "spreken, woorden zeggen",
+        "sentence": "We ___ met elkaar over onze plannen.",
+        "answer": "praten"
       },
       {
-        "word": "zijn",
-        "definition": "bezittelijk voornaamwoord, zoals 'zijn boek'",
-        "sentence": "Dat is ___ huis.",
-        "answer": "zijn"
+        "word": "voorzitter",
+        "definition": "iemand die de leiding heeft",
+        "sentence": "De ___ van de vergadering spreekt eerst.",
+        "answer": "voorzitter"
       },
       {
-        "word": "maakt",
-        "definition": "doet of creëert",
-        "sentence": "Hij ___ een plan.",
-        "answer": "maakt"
+        "word": "leider",
+        "definition": "iemand die de leiding heeft",
+        "sentence": "De ___ van het team motiveert de groep.",
+        "answer": "leider"
       },
       {
-        "word": "een",
-        "definition": "een onbepaald lidwoord, zoals 'een boek'",
-        "sentence": "Ik heb ___ appel.",
-        "answer": "een"
+        "word": "taak",
+        "definition": "iets wat gedaan moet worden, opdracht",
+        "sentence": "Mijn ___ voor vandaag is de afwas doen.",
+        "answer": "taak"
       },
       {
-        "word": "van",
-        "definition": "een voorzetsel dat bezit of herkomst aangeeft",
-        "sentence": "Het boek ___ de leraar is op de tafel.",
-        "answer": "van"
+        "word": "leider",
+        "definition": "iemand die de leiding heeft",
+        "sentence": "De ___ van het project legt alles uit.",
+        "answer": "leider"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij ___ een plan.",
-        "answer": "maakt"
+        "sentence": "We ___ met elkaar over onze plannen.",
+        "answer": "praten"
       },
       {
-        "sentence": "Het boek ___ de leraar is op de tafel.",
-        "answer": "van"
+        "sentence": "De ___ van het project legt alles uit.",
+        "answer": "leider"
       },
       {
-        "sentence": "Ik heb ___ appel.",
-        "answer": "een"
+        "sentence": "De ___ van het team motiveert de groep.",
+        "answer": "leider"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Wie is Jesse Klaver?",
       "options": [
-        "Een reis naar de maan",
-        "Een politieke situatie met Donald Trump",
-        "Een recept voor taart",
-        "Een dag op het strand"
+        "Een Nederlandse politicus",
+        "Een Franse acteur",
+        "Een Duitse zanger",
+        "Een Spaanse kok"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat doet Jesse Klaver als nieuwe voorzitter?",
+      "options": [
+        "Hij speelt piano",
+        "Hij onderhandelt over de regering",
+        "Hij kookt eten",
+        "Hij leest een boek"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'opnieuw'?",
+      "question": "Is dit een moeilijke taak voor Jesse?",
       "options": [
-        "Nooit meer",
-        "Weer een keer",
-        "Voor het eerst",
-        "Alleen maar"
+        "Ja, het is moeilijk",
+        "Nee, het is makkelijk",
+        "Misschien",
+        "Ik weet het niet"
       ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is Latijns-Amerika?",
-      "options": [
-        "Een soort voedsel",
-        "Een gebied met landen",
-        "Een bekende film",
-        "Een sportteam"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Donald Trump is de president van Amerika.",
+      "statement": "Jesse Klaver is de nieuwe voorzitter.",
       "isTrue": true
     },
     {
-      "statement": "De tekst gaat over koken.",
+      "statement": "Jesse Klaver onderhandelt voor de regering.",
+      "isTrue": true
+    },
+    {
+      "statement": "Jesse Klaver is een acteur.",
       "isTrue": false
-    },
-    {
-      "statement": "Latijns-Amerika is een plaats op aarde.",
-      "isTrue": true
     }
   ]
 }

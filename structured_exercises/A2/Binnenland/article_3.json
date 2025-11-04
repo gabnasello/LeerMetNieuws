@@ -1,105 +1,99 @@
 {
-  "id": 21,
+  "id": 20,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Thomas Siffer neemt afscheid van Louise Delanghe",
+  "title": "Nieuwe tandarts in Kluisbergen",
   "topicNumber": 1,
   "article": {
-    "title": "Thomas Siffer neemt afscheid van Louise Delanghe",
-    "summary": "Louise Delanghe was een jonge kunstenares. Ze was intelligent, vrolijk, vriendelijk en vol leven. Helaas kwam ze om bij een verkeersongeluk. Schrijver Thomas Siffer neemt afscheid van haar."
+    "title": "Nieuwe tandarts in Kluisbergen",
+    "summary": "Er is een nieuwe tandarts in Kluisbergen. Ze heet Julie. Haar praktijk is nog niet open, maar ze heeft al veel afspraken. Mensen kunnen niet meteen bij haar terecht."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "kunst",
-        "definition": "werken die gemaakt zijn om mooi of expressief te zijn, zoals schilderijen of muziek",
-        "sentence": "Louise had een grote passie voor kunst en creëerde haar eigen meesterwerken.",
-        "answer": "kunst"
+        "word": "tandarts",
+        "definition": "een persoon die voor je tanden zorgt",
+        "sentence": "De ___ helpt als je kiespijn hebt.",
+        "answer": "tandarts"
       },
       {
-        "word": "kunstenares",
-        "definition": "iemand die kunst maakt, zoals schilderen of tekenen",
-        "sentence": "Louise was een getalenteerde kunstenares die prachtige schilderijen maakte.",
-        "answer": "kunstenares"
+        "word": "praktijk",
+        "definition": "de plaats waar iemand werkt, zoals een kantoor",
+        "sentence": "Julie heeft een nieuwe ___ in Kluisbergen.",
+        "answer": "praktijk"
       },
       {
-        "word": "intelligent",
-        "definition": "slim en goed in het leren van nieuwe dingen",
-        "sentence": "Louise was niet alleen creatief maar ook erg intelligent.",
-        "answer": "intelligent"
+        "word": "open",
+        "definition": "beginnen, starten",
+        "sentence": "De praktijk is nog niet ___.",
+        "answer": "open"
       },
       {
-        "word": "afscheid",
-        "definition": "het moment waarop je gedag zegt, vaak omdat iemand weggaat of overlijdt",
-        "sentence": "Thomas Siffer nam afscheid van zijn goede vriendin in een emotioneel afscheid.",
-        "answer": "afscheid"
-      },
-      {
-        "word": "vriendelijk",
-        "definition": "aardig en behulpzaam tegenover anderen",
-        "sentence": "Iedereen herinnerde haar als een warme en vriendelijke persoon.",
-        "answer": "vriendelijk"
+        "word": "afspraken",
+        "definition": "een plan dat je maakt om iemand te ontmoeten",
+        "sentence": "Julie heeft al veel ___ gemaakt met patiënten.",
+        "answer": "afspraken"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Louise was niet alleen creatief maar ook erg intelligent.",
-        "answer": "intelligent"
+        "sentence": "De praktijk is nog niet ___.",
+        "answer": "open"
       },
       {
-        "sentence": "Iedereen herinnerde haar als een warme en vriendelijke persoon.",
-        "answer": "vriendelijk"
+        "sentence": "Julie heeft een nieuwe ___ in Kluisbergen.",
+        "answer": "praktijk"
       },
       {
-        "sentence": "Thomas Siffer nam afscheid van zijn goede vriendin in een emotioneel afscheid.",
-        "answer": "afscheid"
+        "sentence": "Julie heeft al veel ___ gemaakt met patiënten.",
+        "answer": "afspraken"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat was de rol van Louise Delanghe?",
+      "question": "Waar werkt Julie als tandarts?",
       "options": [
-        "Ze was een schrijfster",
-        "Ze was een kunstenares",
-        "Ze was een zangeres",
-        "Ze was een danseres"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Hoe wordt Louise door Thomas Siffer beschreven?",
-      "options": [
-        "Als een somber en serieus persoon",
-        "Als een intelligent, vrolijk, vriendelijk en uitbundig persoon",
-        "Als een verlegen en teruggetrokken persoon",
-        "Als een boosaardig en gemeen persoon"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat gebeurde er met Louise Delanghe?",
-      "options": [
-        "Ze ging met pensioen",
-        "Ze verhuisde naar een ander land",
-        "Ze overleed helaas bij een verkeersongeval",
-        "Ze verhuisde naar een andere stad"
+        "in een ziekenhuis",
+        "in een school",
+        "in een praktijk in Kluisbergen",
+        "in een supermarkt"
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "Wat is de situatie voor Julie's praktijk?",
+      "options": [
+        "Het is al open.",
+        "Het is nog gesloten.",
+        "Het is verhuisd.",
+        "Het is veranderd in een restaurant."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is het probleem in veel Vlaamse gemeenten?",
+      "options": [
+        "Er zijn te veel tandartsen.",
+        "Er zijn te weinig tandartsen.",
+        "Er zijn te veel patiënten.",
+        "Er is geen probleem."
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Louise Delanghe was een kunstenares die schilderijen maakte.",
+      "statement": "Julie is een tandarts in Kluisbergen.",
       "isTrue": true
     },
     {
-      "statement": "Louise Delanghe was een bekende actrice in Hollywood.",
+      "statement": "Julie's praktijk is al open sinds vorige week.",
       "isTrue": false
     },
     {
-      "statement": "Thomas Siffer schreef over Louise om afscheid van haar te nemen na haar overlijden.",
+      "statement": "Er is een tekort aan tandarts in sommige Vlaamse gemeenten.",
       "isTrue": true
     }
   ]

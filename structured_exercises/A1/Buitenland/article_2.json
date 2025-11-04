@@ -1,106 +1,106 @@
 {
-  "id": 11,
+  "id": 9,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Oekraïne en de oorlog",
+  "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
   "topicNumber": 1,
   "article": {
-    "title": "Oekraïne en de oorlog",
-    "summary": "Oekraïne heeft een oorlog. Het land heeft weinig geld. Het land moet doorgaan. Hoe zal de oorlog eindigen?"
+    "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
+    "summary": "Wie wordt gouverneur in Virginia en New Jersey? En wordt een moslim burgemeester van New York? Al doet hij niet mee, deze verkiezingen zijn een barometer voor Donald Trumps populariteit, én die van de Democraten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "oorlog",
-        "definition": "een tijd van vechten tussen landen",
-        "sentence": "Er is een ___ in Oekraïne.",
-        "answer": "oorlog"
+        "word": "burgemeesters",
+        "definition": "een burgemeester is de baas van een stad of gemeente",
+        "sentence": "De ___ van grote steden hebben veel werk.",
+        "answer": "burgemeesters"
       },
       {
-        "word": "geld",
-        "definition": "wat je gebruikt om te betalen",
-        "sentence": "Oekraïne heeft weinig ___.",
-        "answer": "geld"
+        "word": "herlanceren",
+        "definition": "opnieuw beginnen of iets nieuw leven inblazen",
+        "sentence": "Hij wil zijn carrière ___ met een nieuw project.",
+        "answer": "herlanceren"
       },
       {
-        "word": "land",
-        "definition": "een gebied met eigen regels en mensen",
-        "sentence": "Oekraïne is een ___.",
-        "answer": "land"
+        "word": "wie",
+        "definition": "welke persoon of personen",
+        "sentence": "___ komt er naar het feest?",
+        "answer": "wie"
       },
       {
-        "word": "eindigen",
-        "definition": "stoppen, klaar zijn",
-        "sentence": "Hoe zal de oorlog ___?",
-        "answer": "eindigen"
+        "word": "gouverneurs",
+        "definition": "een gouverneur is een baas in een staat of gebied",
+        "sentence": "De ___ van New York en Virginia zijn belangrijk.",
+        "answer": "gouverneurs"
       },
       {
-        "word": "doorgaan",
-        "definition": "verder gaan, niet stoppen",
-        "sentence": "Oekraïne moet ___ met vechten.",
-        "answer": "doorgaan"
+        "word": "verkiezingen",
+        "definition": "een verkiezing is als mensen stemmen om te kiezen wie de baas wordt",
+        "sentence": "Tijdens de ___ kiest iedereen een nieuw hoofd.",
+        "answer": "verkiezingen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Oekraïne moet ___ met vechten.",
-        "answer": "doorgaan"
+        "sentence": "Tijdens de ___ kiest iedereen een nieuw hoofd.",
+        "answer": "verkiezingen"
       },
       {
-        "sentence": "Oekraïne heeft weinig ___.",
-        "answer": "geld"
+        "sentence": "De ___ van grote steden hebben veel werk.",
+        "answer": "burgemeesters"
       },
       {
-        "sentence": "Oekraïne is een ___.",
-        "answer": "land"
+        "sentence": "___ komt er naar het feest?",
+        "answer": "wie"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'oorlog'?",
+      "question": "Wat betekent 'herlanceren'?",
       "options": [
-        "een feest",
-        "een ziekte",
-        "een conflict tussen landen",
-        "een soort eten"
+        "opnieuw beginnen",
+        "stoppen",
+        "vergeten",
+        "verliezen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is een 'gouverneur'?",
+      "options": [
+        "een soort auto",
+        "een soort dier",
+        "een politieke leider van een staat",
+        "een type voedsel"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is 'geld'?",
+      "question": "Wat is een 'verkiezing'?",
       "options": [
-        "een dier",
-        "wat je gebruikt om dingen te kopen",
-        "een land",
-        "een taal"
+        "een sportwedstrijd",
+        "een groot feest",
+        "een moment waarop mensen stemmen voor een nieuwe leider",
+        "een soort spel"
       ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is 'eindigen'?",
-      "options": [
-        "beginnen",
-        "stoppen",
-        "verliezen",
-        "winnen"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Oekraïne heeft veel geld.",
-      "isTrue": false
-    },
-    {
-      "statement": "Oekraïne is in oorlog.",
+      "statement": "Een burgemeester is de leider van een stad.",
       "isTrue": true
     },
     {
-      "statement": "De oorlog is al geëindigd.",
+      "statement": "Een gouverneur is de leider van een heel land.",
       "isTrue": false
+    },
+    {
+      "statement": "Tijdens een verkiezing kiest men een nieuwe leider.",
+      "isTrue": true
     }
   ]
 }

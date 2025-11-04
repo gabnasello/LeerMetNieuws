@@ -1,106 +1,106 @@
 {
-  "id": 9,
+  "id": 7,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een geheel eigen versie van de Monroedoctrine",
+  "title": "Nieuwe voorzitter Jesse Klaver mag proberen GroenLinks-PvdA de regering binnen te loodsen",
   "topicNumber": 1,
   "article": {
-    "title": "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een geheel eigen versie van de Monroedoctrine",
-    "summary": "Amerikaanse media noemen hem een piraat en waarschuwen voor de risico’s van een invasie van Venezuela. Maar Donald Trump maakt van Latijns-Amerika opnieuw zijn exclusieve speeltuin, in zijn geheel eigen versie van de Monroedoctrine."
+    "title": "Nieuwe voorzitter Jesse Klaver mag proberen GroenLinks-PvdA de regering binnen te loodsen",
+    "summary": "Voormalig GroenLinks-leider Jesse Klaver neemt het stokje over van Frans Timmermans. Hij zal voor GroenLinks-PvdA onderhandelen over een nieuwe Nederlandse regering. Hij staat voor lastige keuzes."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "exclusieve",
-        "definition": "Alleen voor een bepaalde groep of persoon, niet voor iedereen",
-        "sentence": "Dit is een ___ club, je moet uitgenodigd worden.",
-        "answer": "exclusieve"
+        "word": "keuzes",
+        "definition": "verschillende mogelijkheden waaruit je kunt kiezen",
+        "sentence": "Hij moet moeilijke ___ maken.",
+        "answer": "keuzes"
       },
       {
-        "word": "versie",
-        "definition": "Een andere vorm of type van iets, een aangepaste uitvoering",
-        "sentence": "Welke ___ van het spel speel je het liefst?",
-        "answer": "versie"
+        "word": "leider",
+        "definition": "iemand die een groep of organisatie leidt",
+        "sentence": "Hij is een charismatische ___ voor zijn partij.",
+        "answer": "leider"
       },
       {
-        "word": "doctrine",
-        "definition": "Een officieel beleid of set van principes die een groep volgt",
-        "sentence": "De Monroe ___ was belangrijk voor Amerika's buitenlandbeleid.",
-        "answer": "doctrine"
+        "word": "onderhandelen",
+        "definition": "overleggen met anderen om tot een overeenkomst te komen",
+        "sentence": "De partijen gaan ___ over de nieuwe plannen.",
+        "answer": "onderhandelen"
       },
       {
-        "word": "eigen",
-        "definition": "Van jou alleen, of van een groep zelf",
-        "sentence": "Dit is mijn ___ boek, niet van jou.",
-        "answer": "eigen"
+        "word": "stokje",
+        "definition": "een klein, dun stukje van iets, vaak figuurlijk gebruikt",
+        "sentence": "Hij nam het ___ over van zijn voorganger.",
+        "answer": "stokje"
       },
       {
-        "word": "opnieuw",
-        "definition": "Weer, nog een keer, op een andere tijd",
-        "sentence": "Hij deed het ___ en het lukte weer.",
-        "answer": "opnieuw"
+        "word": "proberen",
+        "definition": "een poging doen om iets te doen of te bereiken",
+        "sentence": "Hij zal ___ om een akkoord te bereiken.",
+        "answer": "proberen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De Monroe ___ was belangrijk voor Amerika's buitenlandbeleid.",
-        "answer": "doctrine"
+        "sentence": "Hij nam het ___ over van zijn voorganger.",
+        "answer": "stokje"
       },
       {
-        "sentence": "Dit is mijn ___ boek, niet van jou.",
-        "answer": "eigen"
+        "sentence": "Hij is een charismatische ___ voor zijn partij.",
+        "answer": "leider"
       },
       {
-        "sentence": "Hij deed het ___ en het lukte weer.",
-        "answer": "opnieuw"
+        "sentence": "De partijen gaan ___ over de nieuwe plannen.",
+        "answer": "onderhandelen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de kern van de Monroedoctrine volgens de tekst?",
+      "question": "Wat betekent 'het stokje overnemen' in deze context?",
       "options": [
-        "Dat Amerika zich niet bemoeit met andere landen",
-        "Dat alleen Amerika recht heeft op het westelijk halfrond",
-        "Dat Latijns-Amerika een speeltuin wordt voor de VS",
-        "Dat het een oude, vergeten regel is"
+        "Iemand fysiek slaan",
+        "Een positie of taak van iemand anders overnemen",
+        "Een sportwedstrijd winnen",
+        "Een stokje doorgeven in een estafette"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is een synoniem voor 'lastige' in deze tekst?",
+      "options": [
+        "Gemakkelijke",
+        "Uitdagende",
+        "Onmogelijke",
+        "Complexe"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is het hoofdonderwerp van deze tekst?",
+      "options": [
+        "De sportcarrière van Jesse Klaver",
+        "Een kookwedstrijd tussen politici",
+        "Politieke onderhandelingen en leiderschap",
+        "De geschiedenis van GroenLinks"
       ],
       "correctAnswer": 3
-    },
-    {
-      "question": "Hoe wordt Donald Trump door de media genoemd in de tekst?",
-      "options": [
-        "Als een held",
-        "Als een piraat",
-        "Als een visionair",
-        "Als een vredestichter"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is de houding van Donald Trump tegenover Latijns-Amerika volgens de tekst?",
-      "options": [
-        "Hij wil het onafhankelijk laten",
-        "Hij ziet het als een gebied om te beheersen",
-        "Hij heeft geen interesse",
-        "Hij steunt de onafhankelijkheid"
-      ],
-      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Donald Trump wordt door de media geprezen als een piraat.",
+      "statement": "Jesse Klaver was de voorganger van Frans Timmermans.",
       "isTrue": false
     },
     {
-      "statement": "De Monroedoctrine wordt door Trump gebruikt om zijn beleid te rechtvaardigen.",
+      "statement": "Jesse Klaver wordt de nieuwe leider van GroenLinks-PvdA.",
       "isTrue": true
     },
     {
-      "statement": "Volgens de tekst wil Trump van Latijns-Amerika een beschermd gebied maken.",
-      "isTrue": true
+      "statement": "De tekst gaat vooral over een voetbalwedstrijd.",
+      "isTrue": false
     }
   ]
 }

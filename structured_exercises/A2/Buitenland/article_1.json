@@ -3,103 +3,97 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Amerikaanse rechter wendt hongercrisis in VS (even) af",
+  "title": "Dodentol na orkaan loopt op in Jamaica",
   "topicNumber": 1,
   "article": {
-    "title": "Amerikaanse rechter wendt hongercrisis in VS (even) af",
-    "summary": "42 miljoen Amerikanen komen maar rond dankzij voedselsteun van de regering. De voedselbonnen van november lijken gered, al ontbreken er miljarden dollars."
+    "title": "Dodentol na orkaan loopt op in Jamaica",
+    "summary": "Het aantal doden na de orkaan in Jamaica is gestegen tot 32. Hulpverleners vrezen dat er nog meer slachtoffers zijn in afgelegen gebieden. Er is ook een groot tekort aan voedsel."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "voedselsteun",
-        "definition": "hulp in de vorm van eten of bonnen voor eten",
-        "sentence": "Tijdens de lockdown kregen veel mensen ___ van de overheid.",
-        "answer": "voedselsteun"
+        "word": "doden",
+        "definition": "mensen die zijn overleden",
+        "sentence": "Na de orkaan zijn er veel ___.",
+        "answer": "doden"
       },
       {
-        "word": "rechter",
-        "definition": "iemand die beslist of iets volgens de wet is",
-        "sentence": "De ___ besliste dat het programma door mocht gaan.",
-        "answer": "rechter"
+        "word": "orkaan",
+        "definition": "een hele zware storm met veel wind",
+        "sentence": "De ___ veroorzaakte veel schade.",
+        "answer": "orkaan"
       },
       {
-        "word": "voedselbonnen",
-        "definition": "bonnen die je kunt inwisselen voor eten",
-        "sentence": "Ouderen kunnen vaak gratis ___ krijgen.",
-        "answer": "voedselbonnen"
+        "word": "Jamaica",
+        "definition": "een land in het Caribisch gebied",
+        "sentence": "___ is een eiland in de Caribische Zee.",
+        "answer": "Jamaica"
       },
       {
-        "word": "dollars",
-        "definition": "de munteenheid van de Verenigde Staten",
-        "sentence": "Hij spaarde al zijn ___ voor een nieuwe fiets.",
-        "answer": "dollars"
-      },
-      {
-        "word": "hongercrisis",
-        "definition": "een situatie waarin mensen niet genoeg te eten hebben",
-        "sentence": "Door de droogte ontstond er een ___ in het land.",
-        "answer": "hongercrisis"
+        "word": "loopt",
+        "definition": "hier: gaat verder of wordt meer",
+        "sentence": "Het aantal doden ___ op.",
+        "answer": "loopt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Tijdens de lockdown kregen veel mensen ___ van de overheid.",
-        "answer": "voedselsteun"
+        "sentence": "Na de orkaan zijn er veel ___.",
+        "answer": "doden"
       },
       {
-        "sentence": "Ouderen kunnen vaak gratis ___ krijgen.",
-        "answer": "voedselbonnen"
+        "sentence": "Het aantal doden ___ op.",
+        "answer": "loopt"
       },
       {
-        "sentence": "Hij spaarde al zijn ___ voor een nieuwe fiets.",
-        "answer": "dollars"
+        "sentence": "___ is een eiland in de Caribische Zee.",
+        "answer": "Jamaica"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom krijgen veel Amerikanen voedselsteun?",
+      "question": "Wat is de situatie in Jamaica na de orkaan?",
       "options": [
-        "Omdat er te weinig voedsel is",
-        "Omdat de regering dat organiseert",
-        "Omdat ze niet willen werken",
-        "Omdat het een speciale feestdag is"
+        "Er is veel schade en er zijn veel doden",
+        "Jamaica heeft geen last van de orkaan",
+        "De orkaan is nog niet voorbij",
+        "Jamaica is een groot land met veel mensen"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is er met de voedselbonnen van november gebeurd?",
+      "question": "Wat is een gevolg van de orkaan voor de mensen?",
       "options": [
-        "Ze zijn allemaal verloren gegaan",
-        "Ze zijn veilig, maar er is minder geld",
-        "Ze zijn veranderd in geld",
-        "Ze zijn gebruikt voor een feestmaal"
+        "Ze hebben veel honger",
+        "Ze zijn heel gelukkig",
+        "Ze gaan naar een feest",
+        "Ze hebben veel geld gekregen"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van de rechter in dit artikel?",
+      "question": "Wat doen hulpverleners nu?",
       "options": [
-        "Hij startte de voedselsteun",
-        "Hij stopte de voedselsteun tijdelijk",
-        "Hij kookte voor de mensen",
-        "Hiz verzamelde de bonnen"
+        "Ze werken hard om mensen te helpen",
+        "Ze zijn met vakantie",
+        "Ze maken de situatie erger",
+        "Ze doen niets meer"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De rechter heeft de voedselsteun helemaal gestopt.",
-      "isTrue": false
-    },
-    {
-      "statement": "Er zijn miljarden dollars die nog niet gevonden zijn.",
+      "statement": "De orkaan in Jamaica heeft veel doden veroorzaakt.",
       "isTrue": true
     },
     {
-      "statement": "Alleen Amerikanen krijgen voedselsteun van hun regering.",
+      "statement": "Er is genoeg voedsel voor iedereen in Jamaica.",
+      "isTrue": false
+    },
+    {
+      "statement": "Hulpverleners zijn nog niet in alle gebieden geweest.",
       "isTrue": true
     }
   ]

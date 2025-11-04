@@ -1,93 +1,105 @@
 {
-  "id": 23,
+  "id": 22,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Thomas Siffer neemt afscheid van Louise Delanghe",
+  "title": "Vlaamse tandarts",
   "topicNumber": 1,
   "article": {
-    "title": "Thomas Siffer neemt afscheid van Louise Delanghe",
-    "summary": "Schrijver Thomas Siffer herdenkt de jonge kunstenares Louise Delanghe die omkwam bij een verkeersongeval."
+    "title": "Stormloop voor nieuwe tandarts in Kluisbergen",
+    "summary": "Tandarts Julie Parmentier (26) start donderdag haar praktijk in Kluisbergen en nu al zit ze volgeboekt tot in september 2026. Het is typerend voor een probleem in veel Vlaamse gemeenten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "afscheid",
-        "definition": "het einde van een bijeenkomst of een laatste ontmoeting",
-        "sentence": "Hij nam ___ van zijn collega's toen hij vertrok.",
-        "answer": "afscheid"
+        "word": "Stormloop",
+        "definition": "Een plotselinge, grote toestroom van mensen of activiteit.",
+        "sentence": "Tijdens de ___ op de nieuwe winkel, waren er veel mensen.",
+        "answer": "Stormloop"
       },
       {
-        "word": "kunstenares",
-        "definition": "een vrouw die kunst maakt, zoals schilderen of tekenen",
-        "sentence": "De ___ maakte een mooi schilderij van de zonsondergang.",
-        "answer": "kunstenares"
+        "word": "Gemeente",
+        "definition": "Een lokale overheidseenheid, vaak een stad of dorp.",
+        "sentence": "De ___ van Kluisbergen heeft deze kwestie.",
+        "answer": "Gemeente"
       },
       {
-        "word": "omkwam",
-        "definition": "overleed, stierf (meestal door een ongeluk)",
-        "sentence": "Helaas ___ hij in een auto-ongeluk vorig jaar.",
-        "answer": "omkwam"
+        "word": "Gemeenten",
+        "definition": "Lokale bestuursgebieden, zoals een stad of dorp.",
+        "sentence": "Verschillende ___ in Vlaanderen kampen met dit probleem.",
+        "answer": "Gemeenten"
+      },
+      {
+        "word": "Vlaamse",
+        "definition": "Betrekking hebbend op Vlaanderen, het Vlaamse deel van België.",
+        "sentence": "De ___ gemeenten hebben vaak een tekort aan tandartsen.",
+        "answer": "Vlaamse"
+      },
+      {
+        "word": "Volgeboekt",
+        "definition": "Volledig bezet, geen plaats meer vrij.",
+        "sentence": "De tandartspraktijk is al ___ voor de komende jaren.",
+        "answer": "Volgeboekt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij nam ___ van zijn collega's toen hij vertrok.",
-        "answer": "afscheid"
+        "sentence": "Tijdens de ___ op de nieuwe winkel, waren er veel mensen.",
+        "answer": "Stormloop"
       },
       {
-        "sentence": "Helaas ___ hij in een auto-ongeluk vorig jaar.",
-        "answer": "omkwam"
+        "sentence": "De tandartspraktijk is al ___ voor de komende jaren.",
+        "answer": "Volgeboekt"
       },
       {
-        "sentence": "De ___ maakte een mooi schilderij van de zonsondergang.",
-        "answer": "kunstenares"
+        "sentence": "De ___ gemeenten hebben vaak een tekort aan tandartsen.",
+        "answer": "Vlaamse"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarover schreef Thomas Siffer een afscheid?",
+      "question": "Wat is de hoofdreden voor de drukte bij tandarts Julie?",
       "options": [
-        "Over een vakantie",
-        "Over een feest",
-        "Over een kunstwerk",
-        "Over de jonge kunstenares Louise Delanghe"
+        "Ze is de enige tandarts in de regio",
+        "Er is een speciale actie gaande voor gratis behandelingen",
+        "De praktijk opent pas later, maar heeft nu al veel aanmeldingen",
+        "Er is een misverstand over de openingsdatum"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 3
     },
     {
-      "question": "Hoe wordt Louise Delanghe omschreven in de tekst?",
+      "question": "Wat is het gevolg van de situatie in Kluisbergen?",
       "options": [
-        "Als een saaie persoon",
-        "Als een intelligente en vrolijke persoon",
-        "Als een boze persoon",
-        "Als een oude persoon"
+        "Julie stopt met werken als tandarts",
+        "Andere gemeenten zullen hetzelfde probleem hebben",
+        "De wachtlijst wordt korter door nieuwe wetten",
+        "Er is geen gevolg, het is opgelost"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat gebeurde er met Louise Delanghe?",
+      "question": "Wat typeert de situatie volgens de samenvatting?",
       "options": [
-        "Ze won een prijs",
-        "Ze verhuisde naar een ander land",
-        "Ze overleed in een verkeersongeluk",
-        "Ze startte een nieuwe baan"
+        "Het is een eenmalige gebeurtenis",
+        "Het is kenmerkend (typerend) voor een groter probleem",
+        "Het is een positief teken van veel vraag",
+        "Het is een gevolg van slechte planning door de gemeente"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Thomas Siffer is de schrijver van de afscheidstekst.",
-      "isTrue": true
-    },
-    {
-      "statement": "Louise Delanghe was een oudere vrouw die thuis bleef.",
+      "statement": "Julie Parmentier is al meer dan vijfentwintig jaar oud.",
       "isTrue": false
     },
     {
-      "statement": "Louise Delanghe overleed door een verkeersongeluk.",
+      "statement": "Kluisbergen is de enige Vlaamse gemeente met dit probleem.",
+      "isTrue": false
+    },
+    {
+      "statement": "De praktijk van Julie is nog niet open, maar ze heeft al veel patiënten ingeschreven.",
       "isTrue": true
     }
   ]

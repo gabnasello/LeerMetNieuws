@@ -3,103 +3,103 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
+  "title": "Paul Defoort, 78 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Helft leerlingen die les volgen via Bednet heeft psychische problemen",
-    "summary": "Meer dan de helft van de leerlingen in het middelbaar die afstandsonderwijs volgen, doet dat omdat ze psychisch kwetsbaar zijn. 'Elke dag in de klas zitten, lukt me niet.'"
+    "title": "Paul Defoort, 78 jaar",
+    "summary": "Paul Defoort was 78 jaar. Hij is overleden."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "meer",
-        "definition": "een grotere hoeveelheid",
-        "sentence": "Ik heb ___ dan jij.",
-        "answer": "meer"
+        "word": "Paul",
+        "definition": "een mannelijke naam",
+        "sentence": "___ is een man.",
+        "answer": "Paul"
       },
       {
-        "word": "via",
-        "definition": "door middel van",
-        "sentence": "Hij stuurt het bericht ___ de post.",
-        "answer": "via"
+        "word": "Defoort",
+        "definition": "een achternaam",
+        "sentence": "Zijn achternaam is ___.",
+        "answer": "Defoort"
       },
       {
-        "word": "les",
-        "definition": "iets wat je leert op school",
-        "sentence": "Hij geeft ___ over taal.",
-        "answer": "les"
+        "word": "78",
+        "definition": "een getal, veel meer dan 10",
+        "sentence": "Hij is ___ jaar geworden.",
+        "answer": "78"
       },
       {
-        "word": "leerlingen",
-        "definition": "kinderen die op school leren",
-        "sentence": "De ___ van deze school zijn erg blij.",
-        "answer": "leerlingen"
+        "word": "jaar",
+        "definition": "een periode van 365 dagen",
+        "sentence": "Hij is 78 ___ oud.",
+        "answer": "jaar"
       },
       {
-        "word": "helft",
-        "definition": "een van de twee gelijke delen van iets",
-        "sentence": "De ___ van de leerlingen is ziek.",
-        "answer": "helft"
+        "word": "overleden",
+        "definition": "niet meer levend, dood",
+        "sentence": "Hij is ___ op 27 oktober.",
+        "answer": "overleden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij stuurt het bericht ___ de post.",
-        "answer": "via"
+        "sentence": "Hij is ___ op 27 oktober.",
+        "answer": "overleden"
       },
       {
-        "sentence": "De ___ van deze school zijn erg blij.",
-        "answer": "leerlingen"
+        "sentence": "Zijn achternaam is ___.",
+        "answer": "Defoort"
       },
       {
-        "sentence": "Ik heb ___ dan jij.",
-        "answer": "meer"
+        "sentence": "Hij is ___ jaar geworden.",
+        "answer": "78"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom volgen leerlingen les via Bednet?",
+      "question": "Hoe oud was Paul Defoort?",
       "options": [
-        "Omdat ze ziek zijn",
-        "Omdat ze het leuk vinden",
-        "Omdat ze moeten",
-        "Omdat ze niet kunnen betalen"
+        "78 jaar",
+        "80 jaar",
+        "75 jaar",
+        "77 jaar"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is Bednet?",
+      "question": "In welk jaar is Paul geboren?",
       "options": [
-        "Een soort school",
-        "Een soort sport",
-        "Een soort game",
-        "Een soort boek"
+        "1946",
+        "1945",
+        "1947",
+        "1948"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Hoe voelen leerlingen zich als ze niet naar school kunnen?",
+      "question": "Is Paul Defoort nu nog in leven?",
       "options": [
-        "Vrolijk",
-        "Verdrietig",
-        "Boos",
-        "Bang"
+        "Nee, hij is overleden.",
+        "Ja, hij leeft nog.",
+        "Hij is ziek.",
+        "Hij is op vakantie."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Leerlingen die Bednet gebruiken zijn altijd ziek.",
-      "isTrue": false
-    },
-    {
-      "statement": "Sommige leerlingen kunnen niet naar school gaan door hun gezondheid.",
+      "statement": "Paul Defoort is overleden.",
       "isTrue": true
     },
     {
-      "statement": "Bednet is een manier om thuis les te volgen.",
+      "statement": "Paul is geboren in 1945.",
+      "isTrue": false
+    },
+    {
+      "statement": "Paul stierf op 27 oktober 2025.",
       "isTrue": true
     }
   ]

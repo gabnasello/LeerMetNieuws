@@ -1,105 +1,105 @@
 {
-  "id": 22,
+  "id": 23,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Amper zon in oktober, maar wel bijna een record",
+  "title": "Stormloop voor nieuwe tandarts in Kluisbergen: “Mijn praktijk is nog niet open, maar ik ben al volgeboekt”",
   "topicNumber": 1,
   "article": {
-    "title": "Amper zon in oktober, maar wel bijna een record",
-    "summary": "De voorbije maand oktober was zo somber dat er bijna een record in zat. Alleen oktober 1998 was nog zonlozer. Maar er is ook goed nieuws: woensdag wordt het gezellig warm."
+    "title": "Stormloop voor nieuwe tandarts in Kluisbergen: “Mijn praktijk is nog niet open, maar ik ben al volgeboekt”",
+    "summary": "Tandarts Julie Parmentier (26) start donderdag haar praktijk in Kluisbergen en nu al zit ze volgeboekt tot in september 2026. Het is typerend voor een probleem in veel Vlaamse gemeenten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "gezellig",
-        "definition": "Gezellig betekent: knus, aangenaam of met een goede sfeer.",
-        "sentence": "Het wordt ___ warm op woensdag.",
-        "answer": "gezellig"
+        "word": "Praktijk",
+        "definition": "De professionele werkplek of de dagelijkse uitoefening van een beroep, vooral in medische context.",
+        "sentence": "Haar medische ___ is gevestigd in het stadscentrum.",
+        "answer": "Praktijk"
       },
       {
-        "word": "maand",
-        "definition": "Een maand is een periode van ongeveer vier weken, ofwel ongeveer 30 of 31 dagen.",
-        "sentence": "De ___ oktober was erg somber.",
-        "answer": "maand"
+        "word": "Probleem",
+        "definition": "Een moeilijke situatie of een kwestie die problemen veroorzaakt.",
+        "sentence": "De stad heeft een groot ___ met parkeerplaatsen.",
+        "answer": "Probleem"
       },
       {
-        "word": "record",
-        "definition": "Een record is een prestatie of resultaat dat het beste of slechtste is in zijn soort.",
-        "sentence": "Het was bijna een nieuw ___ voor weinig zon.",
-        "answer": "record"
+        "word": "Typerend",
+        "definition": "Karakteristiek of exemplarisch voor iets of iemand.",
+        "sentence": "Zijn punctualiteit is ___ voor zijn professionele instelling.",
+        "answer": "Typerend"
       },
       {
-        "word": "Amper",
-        "definition": "Met amper wordt bedoeld: heel weinig of bijna niet. Het is een aanduiding voor een zeer kleine hoeveelheid.",
-        "sentence": "Er was ___ geen zon te zien.",
-        "answer": "amper"
+        "word": "Gemeenten",
+        "definition": "Lokale bestuursgebieden of de lokale overheid in een gebied, vooral in België en Nederland.",
+        "sentence": "Verschillende ___ werken samen aan een recyclingprogramma.",
+        "answer": "Gemeenten"
       },
       {
-        "word": "zonlozer",
-        "definition": "Zonlozer is een vergrotende trap: het betekent 'met nog minder zon' of 'nog minder zonlicht'.",
-        "sentence": "Alleen 1998 was nog ___ dan oktober 2023.",
-        "answer": "zonlozer"
+        "word": "Stormloop",
+        "definition": "Een snelle en massale toeloop of toestroom, vaak in een negatieve context.",
+        "sentence": "De ___ naar winkelopeningen tijdens Black Friday is soms gevaarlijk.",
+        "answer": "Stormloop"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Alleen 1998 was nog ___ dan oktober 2023.",
-        "answer": "zonlozer"
+        "sentence": "Verschillende ___ werken samen aan een recyclingprogramma.",
+        "answer": "Gemeenten"
       },
       {
-        "sentence": "Er was ___ geen zon te zien.",
-        "answer": "amper"
+        "sentence": "Haar medische ___ is gevestigd in het stadscentrum.",
+        "answer": "Praktijk"
       },
       {
-        "sentence": "De ___ oktober was erg somber.",
-        "answer": "maand"
+        "sentence": "De ___ naar winkelopeningen tijdens Black Friday is soms gevaarlijk.",
+        "answer": "Stormloop"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'zonlozer' in de context van de tekst?",
+      "question": "Waarom is tandarts Julie Parmentier al volgeboekt, hoewel haar praktijk nog niet open is?",
       "options": [
-        "Meer zon",
-        "Minder zon",
-        "Geen zon",
-        "Volle zon"
+        "Omdat ze al bekende is in de gemeente",
+        "Vanwege een grote vraag naar tandheelkundige zorg in de regio",
+        "Omdat ze haar diensten al aanbood voor de opening",
+        "Er was een misverstand over de openingsdatum"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Welk jaar had nog minder zon dan 2023 volgens de tekst?",
+      "question": "Wat is de betekenis van 'volgeboekt' in deze context?",
       "options": [
-        "1998",
-        "1999",
-        "2000",
-        "2022"
+        "Dat alle beschikbare tijdsloten zijn gereserveerd",
+        "Dat de praktijk fysiek vol is met patiënten",
+        "Dat de boekingstop is bereikt",
+        "Dat de agenda niet meer beschikbaar is"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat voor weer wordt er verwacht op woensdag?",
+      "question": "Wat illustreert dit verhaal over gemeenten in Vlaanderen?",
       "options": [
-        "Koud en nat",
-        "Warm en zonnig",
-        "Koud en winderig",
-        "Mild en bewolkt"
+        "Dat ze overvloedige middelen hebben voor gezondheidszorg",
+        "Dat ze kampen met een tekort aan medische voorzieningen",
+        "Dat ze prioriteit geven aan kunst boven gezondheid",
+        "Dat ze snel handelen bij noodsituaties"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Oktober 2023 was de somberste maand ooit.",
+      "statement": "Tandarts Julie Parmentier zal pas over 3 jaar nieuwe patiënten kunnen accepteren.",
       "isTrue": false
     },
     {
-      "statement": "Er was een maand in 1998 die nog somberder was dan oktober 2023.",
+      "statement": "De situatie in Kluisbergen weerspiegelt een breder probleem in Vlaamse gemeenten.",
       "isTrue": true
     },
     {
-      "statement": "Woensdag wordt een koude dag volgens de tekst.",
+      "statement": "Julie Parmentier's praktijk is gevestigd in een stad met veel tandartsen.",
       "isTrue": false
     }
   ]

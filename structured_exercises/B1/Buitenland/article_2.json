@@ -1,105 +1,105 @@
 {
-  "id": 13,
+  "id": 11,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
+  "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
   "topicNumber": 1,
   "article": {
-    "title": "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
-    "summary": "Nu de kans op een snel bestand in Oekraïne vervlogen is, blijft de vraag: hoe zal deze oorlog eindigen? Niemand durft het te voorspellen, maar een trend is duidelijk: Oekraïne kan financieel niet veel verder, maar het moet wel."
+    "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
+    "summary": "Wie wordt gouverneur in Virginia en New Jersey? En wordt een moslim burgemeester van New York? Al doet hij niet mee, deze verkiezingen zijn een barometer voor Donald Trumps populariteit, én die van de Democraten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "oorlog",
-        "definition": "Een situatie waarin landen of groepen vechten.",
-        "sentence": "Een ___ brengt veel schade met zich mee.",
-        "answer": "oorlog"
+        "word": "verkiezingen",
+        "definition": "verkiezingen zijn het kiezen van nieuwe politici",
+        "sentence": "De ___ zijn in november.",
+        "answer": "verkiezingen"
       },
       {
-        "word": "financieel",
-        "definition": "Alles wat met geld te maken heeft.",
-        "sentence": "Hij is ___ niet sterk.",
-        "answer": "financieel"
+        "word": "burgemeester",
+        "definition": "een burgemeester is de baas van een stad",
+        "sentence": "De ___ van New York is een Democraat.",
+        "answer": "burgemeester"
       },
       {
-        "word": "economische",
-        "definition": "Alles wat met de economie te maken heeft.",
-        "sentence": "De ___ situatie in het land is stabiel.",
-        "answer": "economische"
+        "word": "Democraten",
+        "definition": "de Democraten zijn een van de twee grote politieke partijen in de VS",
+        "sentence": "De ___ willen meer geld voor scholen.",
+        "answer": "Democraten"
       },
       {
-        "word": "voorspellen",
-        "definition": "Iets zeggen over wat er in de toekomst gaat gebeuren.",
-        "sentence": "Het is moeilijk om de toekomst te ___.",
-        "answer": "voorspellen"
+        "word": "gouverneur",
+        "definition": "een gouverneur is de baas van een staat",
+        "sentence": "De ___ van Texas woont in Austin.",
+        "answer": "gouverneur"
       },
       {
-        "word": "vervlogen",
-        "definition": "Iets dat voorbij is of niet meer bestaat.",
-        "sentence": "De hoop op vrede is ___.",
-        "answer": "vervlogen"
+        "word": "populariteit",
+        "definition": "populariteit is hoe populair iets of iemand is",
+        "sentence": "De ___ van de president neemt af in de peilingen.",
+        "answer": "populariteit"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De hoop op vrede is ___.",
-        "answer": "vervlogen"
+        "sentence": "De ___ zijn in november.",
+        "answer": "verkiezingen"
       },
       {
-        "sentence": "Hij is ___ niet sterk.",
-        "answer": "financieel"
+        "sentence": "De ___ van Texas woont in Austin.",
+        "answer": "gouverneur"
       },
       {
-        "sentence": "Een ___ brengt veel schade met zich mee.",
-        "answer": "oorlog"
+        "sentence": "De ___ van New York is een Democraat.",
+        "answer": "burgemeester"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarover gaat dit artikel?",
+      "question": "Wat is de rol van een gouverneur in de VS?",
       "options": [
-        "Over sport",
-        "Over vrede",
-        "Over Oekraïne",
-        "Over economie"
+        "Hij is de baas van een hele staat.",
+        "Hij is alleen verantwoordelijk voor de hoofdstad.",
+        "Hij is de baas van het leger in de staat.",
+        "Hij is een burgemeester met een andere titel."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de situatie in Oekraïne?",
+      "question": "Waarover gaan de verkiezingen in dit artikel?",
       "options": [
-        "Er is vrede",
-        "Er is een oorlog",
-        "Er is een feest",
-        "Er is een vergadering"
+        "Over het kiezen van nieuwe politici in de VS.",
+        "Over de Olympische Spelen in de VS.",
+        "Over de verkiezing van de koning van de VS.",
+        "Over de bouw van nieuwe scholen in de VS."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de belangrijkste boodschap van de tekst?",
+      "question": "Wat is de invloed van deze verkiezingen op de Democraten?",
       "options": [
-        "Oekraïne wint de oorlog",
-        "De economie is belangrijker dan het leger",
-        "Het leger is belangrijker dan de economie",
-        "Oekraïne heeft geen problemen"
+        "Ze kunnen de partij helpen of schaden, afhankelijk van de uitslag.",
+        "Ze zullen de partij zeker helpen, ongeacht de uitslag.",
+        "Ze hebben geen effect op de partij, alleen op lokale zaken.",
+        "Ze zijn alleen belangrijk voor de Republikeinse partij."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Oekraïne kan financieel niet verder.",
+      "statement": "De verkiezingen in het artikel gaan over het kiezen van nieuwe politici in de VS.",
       "isTrue": true
     },
     {
-      "statement": "De oorlog is al afgelopen.",
+      "statement": "Een gouverneur in de VS is de baas van een hele stad.",
       "isTrue": false
     },
     {
-      "statement": "Een economische uitputtingsslag is belangrijker dan een militaire.",
+      "statement": "De populariteit van Donald Trump wordt beïnvloed door de uitslag van deze verkiezingen.",
       "isTrue": true
     }
   ]

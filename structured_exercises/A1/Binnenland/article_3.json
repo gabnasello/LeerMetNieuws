@@ -1,105 +1,93 @@
 {
-  "id": 20,
+  "id": 19,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Thomas Siffer neemt afscheid van Louise Delanghe",
+  "title": "Nieuwe tandarts in Kluisbergen",
   "topicNumber": 1,
   "article": {
-    "title": "Thomas Siffer neemt afscheid van Louise Delanghe",
-    "summary": "Louise Delanghe was een jonge kunstenares. Ze was intelligent, vrolijk, vriendelijk en uitbundig. Helaas kwam ze om bij een verkeersongeluk. Thomas Siffer schreef een afscheidstekst voor haar."
+    "title": "Nieuwe tandarts in Kluisbergen",
+    "summary": "Tandarts Julie start haar praktijk. Ze is nu al volgeboekt tot in 2026."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "uitbundig",
-        "definition": "vol energie en enthousiasme",
-        "sentence": "Ze was erg ___ en levendig.",
-        "answer": "uitbundig"
+        "word": "tandarts",
+        "definition": "iemand die zorgt voor tanden",
+        "sentence": "De ___ helpt als je kiespijn hebt.",
+        "answer": "tandarts"
       },
       {
-        "word": "tekst",
-        "definition": "geschreven woorden op papier of scherm",
-        "sentence": "Hij schreef een mooie ___ over haar.",
-        "answer": "tekst"
+        "word": "praktijk",
+        "definition": "de plaats waar een professional werkt",
+        "sentence": "De tandarts heeft een nieuwe ___.",
+        "answer": "praktijk"
       },
       {
-        "word": "vrolijk",
-        "definition": "blij en gelukkig",
-        "sentence": "Ze was altijd ___.",
-        "answer": "vrolijk"
-      },
-      {
-        "word": "kunstenares",
-        "definition": "iemand die kunst maakt",
-        "sentence": "Louise was een ___.",
-        "answer": "kunstenares"
-      },
-      {
-        "word": "vriendelijk",
-        "definition": "aardig en vriendelijk",
-        "sentence": "Ze was heel ___ tegen iedereen.",
-        "answer": "vriendelijk"
+        "word": "volgeboekt",
+        "definition": "helemaal vol, geen plaats meer",
+        "sentence": "Er zijn geen afspraken meer mogelijk, want de agenda is ___.",
+        "answer": "volgeboekt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Louise was een ___.",
-        "answer": "kunstenares"
+        "sentence": "Er zijn geen afspraken meer mogelijk, want de agenda is ___.",
+        "answer": "volgeboekt"
       },
       {
-        "sentence": "Ze was heel ___ tegen iedereen.",
-        "answer": "vriendelijk"
+        "sentence": "De tandarts heeft een nieuwe ___.",
+        "answer": "praktijk"
       },
       {
-        "sentence": "Ze was altijd ___.",
-        "answer": "vrolijk"
+        "sentence": "De ___ helpt als je kiespijn hebt.",
+        "answer": "tandarts"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat was Louise Delanghe?",
+      "question": "Wat doet een tandarts?",
       "options": [
-        "een schilder",
-        "een kunstenares",
-        "een muzikant",
-        "een schrijfster"
+        "Hij kookt eten",
+        "Hij repareert tanden",
+        "Hij verkoopt huizen",
+        "Hij rijdt in een auto"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoe was Louise als persoon?",
+      "question": "Wat betekent 'volgeboekt'?",
       "options": [
-        "Ze was erg verlegen.",
-        "Ze was erg stil.",
-        "Ze was erg vrolijk en vriendelijk.",
-        "Ze was erg boos en onvriendelijk."
+        "Het is erg druk",
+        "Het is heel leeg",
+        "Het is erg duur",
+        "Het is heel nieuw"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat gebeurde er met Louise?",
+      "question": "Waar is Julie's praktijk?",
       "options": [
-        "Ze ging met pensioen.",
-        "Ze verhuisde naar een ander land.",
-        "Ze kwam om bij een verkeersongeluk.",
-        "Ze won een belangrijke prijs."
+        "In Antwerpen",
+        "In Brussel",
+        "In Kluisbergen",
+        "In Gent"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Louise Delanghe was een kunstenares.",
+      "statement": "Julie is een tandarts in Kluisbergen.",
       "isTrue": true
     },
     {
-      "statement": "Louise was een erg verdrietig persoon.",
+      "statement": "Julie start haar praktijk in 2026.",
       "isTrue": false
     },
     {
-      "statement": "Louise overleed door een verkeersongeval.",
+      "statement": "Veel Vlaamse gemeenten hebben hetzelfde probleem.",
       "isTrue": true
     }
   ]

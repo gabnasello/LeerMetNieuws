@@ -1,106 +1,106 @@
 {
-  "id": 15,
+  "id": 13,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
+  "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
   "topicNumber": 1,
   "article": {
-    "title": "In Oekraïne wordt de economische uitputtingsslag belangrijker dan de militaire",
-    "summary": "Nu de kans op een snel bestand in Oekraïne vervlogen is, blijft de vraag: hoe zal deze oorlog eindigen? Niemand durft het te voorspellen, maar een trend is duidelijk: Oekraïne kan financieel niet veel verder, maar het moet wel."
+    "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
+    "summary": "Wie wordt gouverneur in Virginia en New Jersey? En wordt een moslim burgemeester van New York? Al doet hij niet mee, deze verkiezingen zijn een barometer voor Donald Trumps populariteit, én die van de Democraten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Oekraïne",
-        "definition": "Een land in Oost-Europa, momenteel betrokken bij een conflict.",
-        "sentence": "___ heeft behoefte aan internationale steun om te herstellen.",
-        "answer": "Oekraïne"
+        "word": "wie",
+        "definition": "Vraagwoord dat gebruikt wordt om te vragen naar een persoon of personen.",
+        "sentence": "Wie heeft deze beslissing genomen?",
+        "answer": "wie"
       },
       {
-        "word": "militair",
-        "definition": "Met betrekking tot soldaten, oorlog of gewapende strijd.",
-        "sentence": "Hij diende in het ___ apparaat voor tien jaar.",
-        "answer": "militair"
+        "word": "gouverneurs",
+        "definition": "De hoogstverkiezen bestuurders van een staat in de VS.",
+        "sentence": "De gouverneurs van Texas en Californië hebben verschillende beleidsvisies.",
+        "answer": "gouverneurs"
       },
       {
-        "word": "trend",
-        "definition": "Een algemene richting of tendens waarin iets zich ontwikkelt of verandert.",
-        "sentence": "De opkomende ___ in de mode is om vintage kleding te dragen.",
-        "answer": "trend"
+        "word": "verkiezingen",
+        "definition": "Het proces waarbij mensen stemmen om personen te kiezen voor een politieke functie.",
+        "sentence": "Tijdens de verkiezingen kiezen burgers hun vertegenwoordigers.",
+        "answer": "verkiezingen"
       },
       {
-        "word": "financieel",
-        "definition": "Met betrekking tot geld, financiën of monetaire zaken.",
-        "sentence": "Zonder een sterke economie is een land ___ onstabiel.",
-        "answer": "financieel"
+        "word": "herlanceren",
+        "definition": "Weer nieuw leven inblazen of opnieuw activeren.",
+        "sentence": "De regering probeert het economisch plan te herlanceren met nieuwe investeringen.",
+        "answer": "herlanceren"
       },
       {
-        "word": "oorlog",
-        "definition": "Een gewapend conflict tussen landen of groepen.",
-        "sentence": "De ___ heeft veel levens verwoest en steden verwoest.",
-        "answer": "oorlog"
+        "word": "burgemeester",
+        "definition": "Het hoofd van de uitvoerende macht van een gemeente of stad.",
+        "sentence": "De burgemeester van Rotterdam wordt gekozen door de gemeenteraad.",
+        "answer": "burgemeester"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij diende in het ___ apparaat voor tien jaar.",
-        "answer": "militair"
+        "sentence": "Wie heeft deze beslissing genomen?",
+        "answer": "wie"
       },
       {
-        "sentence": "De opkomende ___ in de mode is om vintage kleding te dragen.",
-        "answer": "trend"
+        "sentence": "De burgemeester van Rotterdam wordt gekozen door de gemeenteraad.",
+        "answer": "burgemeester"
       },
       {
-        "sentence": "Zonder een sterke economie is een land ___ onstabiel.",
-        "answer": "financieel"
+        "sentence": "De gouverneurs van Texas en Californië hebben verschillende beleidsvisies.",
+        "answer": "gouverneurs"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'vervlogen' in deze context?",
+      "question": "Wat wordt er bedoeld met de term 'barometer' in de context van de tekst?",
       "options": [
-        "Vergeten",
-        "Actueel",
-        "Vernieuwend",
-        "Versterkend"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is de hoofdgedachte van de tekst?",
-      "options": [
-        "Oekraïne wint de oorlog",
-        "Economische factoren zijn beslissend",
-        "Militair overwicht is alles",
-        "Het einde is nabij"
+        "Een instrument voor het weergeven van de druk",
+        "Een metafoor voor iets dat dient als indicator of graadmeter",
+        "Een specifieke weersvoorspelling tool",
+        "Een historisch artefact uit de 19e eeuw"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de toestand van Oekraïne volgens de tekst?",
+      "question": "Waarom noemt de tekst specifiek een 'moslim burgemeester'?",
       "options": [
-        "Het is een economische grootmacht",
-        "Het kan financieel niet verder",
-        "Het is militair onverslaanbaar",
-        "Het heeft buitenlandse steun niet nodig"
+        "Omdat alle burgemeesters in de VS moslims zijn",
+        "Om de religieuze achtergrond van de kandidaat te benadrukken",
+        "Omdat de verkiezingen in een islamitische staat plaatsvinden",
+        "Als referentie aan een historische figuur"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de primaire focus van de tekst?",
+      "options": [
+        "Het beschrijven van het klimaat in Virginia en New Jersey",
+        "Het uitleggen van het Amerikaanse politieke systeem",
+        "Het analyseren van de uitkomsten van lokale verkiezingen als graadmeter voor nationale politiek",
+        "Het bespreken van de geschiedenis van de Democratische partij"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De tekst suggereert dat Oekraïne de oorlog kan winnen door economische veerkracht.",
-      "isTrue": true
-    },
-    {
-      "statement": "Een snel bestand in Oekraïne is nog steeds mogelijk.",
+      "statement": "De verkiezingen voor gouverneurs en burgemeesters in de VS hebben geen invloed op de nationale politiek.",
       "isTrue": false
     },
     {
-      "statement": "Oekraïne heeft geen andere keuze dan door te vechten op alle fronten.",
+      "statement": "Een burgemeester van New York zou de eerste moslim in die positie zijn als hij verkozen wordt.",
       "isTrue": true
+    },
+    {
+      "statement": "Donald Trump is momenteel de president van de Verenigde Staten.",
+      "isTrue": false
     }
   ]
 }

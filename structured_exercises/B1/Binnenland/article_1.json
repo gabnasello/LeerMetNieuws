@@ -3,104 +3,104 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Illegale rave bij Kluisbergen",
+  "title": "Greet D’HELF, 62 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Illegale rave bij Kluisbergen",
-    "summary": "In de Waalse gemeente Frasnes-lez-Anvaing, vlak over de taalgrens, is een illegale rave bezig met ongeveer 700 bezoekers. De deelnemers komen uit België, Nederland en Frankrijk en zijn van plan om tot zondagnamiddag door te gaan."
+    "title": "Greet D’HELF, 62 jaar",
+    "summary": "Geboren in 1963, overleden op 30/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Nederland",
-        "definition": "ons land",
-        "sentence": "___ is een land in Europa.",
-        "answer": "Nederland"
+        "word": "62",
+        "definition": "Leeftijd van de persoon",
+        "sentence": "Hij is ___ jaar oud.",
+        "answer": "62"
       },
       {
-        "word": "deelnemers",
-        "definition": "mensen die meedoen aan iets",
-        "sentence": "De ___ van het feest kwamen uit verschillende landen.",
-        "answer": "deelnemers"
+        "word": "Greet",
+        "definition": "Voornaam van de persoon",
+        "sentence": "___ is een vrouwelijke naam.",
+        "answer": "Greet"
       },
       {
-        "word": "zondag",
-        "definition": "de dag na zaterdag",
-        "sentence": "Op ___ is het weekend.",
-        "answer": "zondag"
+        "word": "jaar",
+        "definition": "Een periode van 365 dagen",
+        "sentence": "Een ___ heeft 365 dagen.",
+        "answer": "jaar"
       },
       {
-        "word": "Frankrijk",
-        "definition": "een groot land in Europa",
-        "sentence": "___ is groter dan België.",
-        "answer": "Frankrijk"
+        "word": "overleden",
+        "definition": "Stoppen met leven, doodgaan",
+        "sentence": "Hij is ___ op 30 oktober.",
+        "answer": "overleden"
       },
       {
-        "word": "bezoekers",
-        "definition": "mensen die naar een plaats gaan",
-        "sentence": "De ___ van het feest waren erg luid.",
-        "answer": "bezoekers"
+        "word": "2025",
+        "definition": "Het jaar 2025",
+        "sentence": "In het jaar ___ zal alles anders zijn.",
+        "answer": "2025"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is groter dan België.",
-        "answer": "Frankrijk"
+        "sentence": "Hij is ___ op 30 oktober.",
+        "answer": "overleden"
       },
       {
-        "sentence": "___ is een land in Europa.",
-        "answer": "Nederland"
+        "sentence": "In het jaar ___ zal alles anders zijn.",
+        "answer": "2025"
       },
       {
-        "sentence": "De ___ van het feest waren erg luid.",
-        "answer": "bezoekers"
+        "sentence": "___ is een vrouwelijke naam.",
+        "answer": "Greet"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een rave?",
+      "question": "In welk jaar is Greet D’HELF geboren?",
       "options": [
-        "Een soort dans",
-        "Een groot feest met muziek",
-        "Een sportevenement",
-        "Een markt"
+        "1963",
+        "1964",
+        "1965",
+        "1966"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Op welke datum is Greet D’HELF overleden?",
+      "options": [
+        "29 oktober 2025",
+        "30 oktober 2025",
+        "31 oktober 2025",
+        "1 november 2025"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar vond deze rave plaats?",
+      "question": "Hoe oud was Greet D’HELF toen ze overleed?",
       "options": [
-        "In Nederland",
-        "In België",
-        "In Frankrijk",
-        "In Duitsland"
+        "60 jaar",
+        "61 jaar",
+        "62 jaar",
+        "63 jaar"
       ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Hoe lang duurde de rave?",
-      "options": [
-        "Tot zaterdag",
-        "Tot zondag",
-        "Tot maandag",
-        "Tot dinsdag"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De rave vond plaats in Kluisbergen.",
-      "isTrue": false
-    },
-    {
-      "statement": "De rave had ongeveer 700 bezoekers.",
+      "statement": "Greet D’HELF is geboren in 1963.",
       "isTrue": true
     },
     {
-      "statement": "De rave was legaal.",
+      "statement": "Greet D’HELF is overleden in november 2025.",
       "isTrue": false
+    },
+    {
+      "statement": "Greet D’HELF werd 62 jaar oud.",
+      "isTrue": true
     }
   ]
 }

@@ -1,105 +1,105 @@
 {
-  "id": 8,
+  "id": 6,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een eigen versie van de Monroedoctrine",
+  "title": "Nieuwe voorzitter Jesse Klaver",
   "topicNumber": 1,
   "article": {
-    "title": "Hoe Donald Trump van Latijns-Amerika opnieuw zijn exclusieve speeltuin maakt, een eigen versie van de Monroedoctrine",
-    "summary": "Amerikaanse media noemen hem een piraat en waarschuwen voor de risico’s van een invasie van Venezuela. Maar Donald Trump maakt van Latijns-Amerika opnieuw zijn exclusieve speeltuin, in zijn geheel eigen versie van de Monroedoctrine."
+    "title": "Nieuwe voorzitter Jesse Klaver",
+    "summary": "Jesse Klaver is de nieuwe voorzitter van GroenLinks-PvdA. Hij volgt Frans Timmermans op. Zijn taak is om te onderhandelen over een nieuwe regering voor Nederland. Dit wordt een moeilijke opgave met lastige keuzes."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Monroedoctrine",
-        "definition": "Een oude Amerikaanse politieke doctrine die zegt dat Europa zich niet moet bemoeien met Amerika.",
-        "sentence": "De ___ is een belangrijk stuk geschiedenis voor de Verenigde Staten.",
-        "answer": "Monroedoctrine"
+        "word": "voorzitter",
+        "definition": "een leider of iemand die de leiding heeft",
+        "sentence": "De ___ van de vergadering leidde de discussie.",
+        "answer": "voorzitter"
       },
       {
-        "word": "speeltuin",
-        "definition": "Een plek waar kinderen kunnen spelen, vaak met toestellen zoals glijbanen en schommels.",
-        "sentence": "Kinderen spelen graag in de ___.",
-        "answer": "speeltuin"
+        "word": "taak",
+        "definition": "iets wat gedaan moet worden, een opdracht",
+        "sentence": "Zijn belangrijkste ___ is het leiden van de onderhandelingen.",
+        "answer": "taak"
       },
       {
-        "word": "invasie",
-        "definition": "Binnen vallen van een gebied of land door een ander leger.",
-        "sentence": "Een ___ is vaak het begin van een oorlog.",
-        "answer": "invasie"
+        "word": "opgave",
+        "definition": "iets wat gedaan moet worden, een taak",
+        "sentence": "Zijn nieuwe ___ is het leiden van de coalitieonderhandelingen.",
+        "answer": "opgave"
       },
       {
-        "word": "versie",
-        "definition": "Een bepaalde vorm of editie van iets, zoals een verhaal of software.",
-        "sentence": "Welke ___ van het spel heb jij?",
-        "answer": "versie"
+        "word": "lastige",
+        "definition": "moeilijk, vervelend of complex",
+        "sentence": "De onderhandelingen werden ___ door tegenstrijdige belangen.",
+        "answer": "lastige"
       },
       {
-        "word": "Donald Trump",
-        "definition": "De voornaam en achternaam van de voormalige president van de Verenigde Staten.",
-        "sentence": "___ is een bekende politieke figuur.",
-        "answer": "Donald Trump"
+        "word": "keuzes",
+        "definition": "verschillende mogelijkheden waaruit je kunt kiezen",
+        "sentence": "Hij heeft moeilijke ___ te maken over de toekomst.",
+        "answer": "keuzes"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Een ___ is vaak het begin van een oorlog.",
-        "answer": "invasie"
+        "sentence": "Zijn nieuwe ___ is het leiden van de coalitieonderhandelingen.",
+        "answer": "opgave"
       },
       {
-        "sentence": "De ___ is een belangrijk stuk geschiedenis voor de Verenigde Staten.",
-        "answer": "Monroedoctrine"
+        "sentence": "De ___ van de vergadering leidde de discussie.",
+        "answer": "voorzitter"
       },
       {
-        "sentence": "___ is een bekende politieke figuur.",
-        "answer": "Donald Trump"
+        "sentence": "De onderhandelingen werden ___ door tegenstrijdige belangen.",
+        "answer": "lastige"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de Monroedoctrine?",
+      "question": "Wat is de hoofdtaak van Jesse Klaver als nieuwe voorzitter?",
       "options": [
-        "Een sport",
-        "Een politiek beleid",
-        "Een soort eten",
-        "Een historisch monument"
+        "Het leiden van internationale vergaderingen",
+        "Het onderhandelen over een nieuwe regering voor Nederland",
+        "Het schrijven van politieke speeches",
+        "Het trainen van nieuwe politici"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'invasie' in deze context?",
+      "question": "Wat beschrijft de tekst over de uitdagingen voor Klaver?",
       "options": [
-        "Een feest",
-        "Een soort dans",
-        "Binnenvallen door een leger",
-        "Een nieuwe wet"
+        "Ze zijn onmogelijk",
+        "Ze zijn eenvoudig en duidelijk",
+        "Ze zijn lastig en moeilijk",
+        "Ze zijn onbekend en mysterieus"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Waar ligt Venezuela?",
+      "question": "Wie was de vorige leider van GroenLinks-PvdA volgens de tekst?",
       "options": [
-        "In Afrika",
-        "In Azië",
-        "In Zuid-Amerika",
-        "In Europa"
+        "Jesse Klaver",
+        "Frans Timmermans",
+        "Een internationale diplomaat",
+        "Een voormalig president"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Donald Trump is de huidige president van de Verenigde Staten.",
-      "isTrue": false
-    },
-    {
-      "statement": "Venezuela is een land in Zuid-Amerika.",
+      "statement": "Jesse Klaver volgt Frans Timmermans op als voorzitter van GroenLinks-PvdA.",
       "isTrue": true
     },
     {
-      "statement": "De Monroedoctrine is een beleid dat zegt dat de Verenigde Staten Europa niet in Amerika laat bemoeien.",
+      "statement": "De hoofdtaak van Klaver is het leiden van een sportteam.",
+      "isTrue": false
+    },
+    {
+      "statement": "Klaver staat voor een moeilijke opgave met lastige keuzes.",
       "isTrue": true
     }
   ]

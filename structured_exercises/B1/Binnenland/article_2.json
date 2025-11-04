@@ -3,103 +3,103 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Helft leerlingen die les volgt via Bednet heeft psychische problemen",
+  "title": "Paul Defoort, 78 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Helft leerlingen die les volgt via Bednet heeft psychische problemen",
-    "summary": "Meer dan de helft van de leerlingen in het middelbaar die afstandsonderwijs volgen, doet dat omdat ze psychisch kwetsbaar zijn. 'Elke dag in de klas zitten, lukt me niet.'"
+    "title": "Paul Defoort, 78 jaar",
+    "summary": "Paul Defoort is geboren in 1946 en overleden op 27 oktober 2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "heeft",
-        "definition": "hebben, om te bezitten",
-        "sentence": "Hij ___ een grote hond als huisdier.",
-        "answer": "heeft"
+        "word": "2025",
+        "definition": "Het jaar na 2024",
+        "sentence": "Hij overleed in het jaar ___.",
+        "answer": "2025"
       },
       {
-        "word": "volgt",
-        "definition": "doorgaan met, blijven doen",
-        "sentence": "Hij ___ nog steeds de online lessen.",
-        "answer": "volgt"
+        "word": "Defoort",
+        "definition": "Familienaam van Paul",
+        "sentence": "De familienaam van de overledene is ___.",
+        "answer": "Defoort"
       },
       {
-        "word": "helft",
-        "definition": "de helft, een van de twee",
-        "sentence": "Ongeveer de ___ van de groep was al klaar.",
-        "answer": "helft"
+        "word": "geboren",
+        "definition": "Begonnen met leven, het tegenovergestelde van overleden",
+        "sentence": "Hij is ___ in 1946.",
+        "answer": "geboren"
       },
       {
-        "word": "leerlingen",
-        "definition": "mensen die les volgen op school",
-        "sentence": "De ___ van deze school zijn erg leergierig.",
-        "answer": "leerlingen"
+        "word": "oktober",
+        "definition": "De tiende maand van het jaar",
+        "sentence": "Hij overleed in ___, de tiende maand.",
+        "answer": "oktober"
       },
       {
-        "word": "psychische",
-        "definition": "mentaal, met de geest te maken hebbend",
-        "sentence": "Hij kreeg ___ hulp na het ongeluk.",
-        "answer": "psychische"
+        "word": "Paul",
+        "definition": "Een mannelijke voornaam",
+        "sentence": "___ is de voornaam van de overleden man.",
+        "answer": "Paul"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij kreeg ___ hulp na het ongeluk.",
-        "answer": "psychische"
+        "sentence": "Hij overleed in het jaar ___.",
+        "answer": "2025"
       },
       {
-        "sentence": "Ongeveer de ___ van de groep was al klaar.",
-        "answer": "helft"
+        "sentence": "De familienaam van de overledene is ___.",
+        "answer": "Defoort"
       },
       {
-        "sentence": "Hij ___ een grote hond als huisdier.",
-        "answer": "heeft"
+        "sentence": "Hij overleed in ___, de tiende maand.",
+        "answer": "oktober"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom volgen sommige leerlingen les via Bednet?",
+      "question": "In welk jaar is Paul Defoort overleden?",
       "options": [
-        "Omdat ze in het buitenland wonen",
-        "Omdat ze lichamelijk beperkt zijn",
-        "Omdat ze psychische problemen hebben",
-        "Omdat ze de taal niet spreken"
+        "2023",
+        "2024",
+        "2025",
+        "2026"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is Bednet?",
+      "question": "Hoe oud was Paul Defoort op het moment van overlijden?",
       "options": [
-        "Een soort online winkel",
-        "Een organisatie voor thuisonderwijs",
-        "Een sportvereniging",
-        "Een school voor kunstonderwijs"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Voor welke groep leerlingen is Bednet bedoeld?",
-      "options": [
-        "Alleen voor universiteitsstudenten",
-        "Alleen voor basisschoolleerlingen",
-        "Voor alle leerlingen die tijdelijk niet naar school kunnen",
-        "Alleen voor volwassenen die een opleiding volgen"
+        "76 jaar",
+        "77 jaar",
+        "78 jaar",
+        "79 jaar"
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "Waar komt Paul Defoort vandaan?",
+      "options": [
+        "Uit Amsterdam",
+        "Uit Rotterdam",
+        "Uit Den Haag",
+        "Uit een onbekende plaats"
+      ],
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "Bednet is een online winkel.",
-      "isTrue": false
-    },
-    {
-      "statement": "Leerlingen met psychische problemen kunnen via Bednet les volgen.",
+      "statement": "Paul Defoort is geboren in 1946.",
       "isTrue": true
     },
     {
-      "statement": "Bednet biedt alleen les in wiskunde en taal.",
+      "statement": "Paul Defoort overleed in oktober 2025.",
+      "isTrue": true
+    },
+    {
+      "statement": "Paul Defoort was 79 jaar oud toen hij overleed.",
       "isTrue": false
     }
   ]
