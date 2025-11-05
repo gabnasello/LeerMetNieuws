@@ -1,15 +1,15 @@
 Artikel 1
-Nieuwsupdate: 2025-11-04 04:28 UCT
+Nieuwsupdate: 2025-11-05 04:28 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Dodentol Jamaica loopt op, terwijl “zware hongersnood” dreigt
-Link: https://www.standaard.be/buitenland/dodentol-jamaica-loopt-op-terwijl-zware-hongersnood-dreigt/102039206.html
-Datum: Mon, 03 Nov 2025 22:59:00 GMT
-Samenvatting: De tol na de doortocht van orkaan Melissa loopt verder op. In Jamaica zijn al 32 doden geteld, maar in de nog niet bereikte plaatsen worden nog meer slachtoffers verwacht. En honger loert om de hoek.
+Titel: Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey
+Link: https://www.standaard.be/buitenland/zohran-mamdani-wint-burgemeestersrace-new-york-democraten-winnen-gouverneursraces-in-virginia-en-new-jersey/35131945.html
+Datum: Wed, 05 Nov 2025 02:18:39 GMT
+Samenvatting: De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/uwf3gh-2.jpeg/alternates/BASE_SIXTEEN_NINE/2.jpeg
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/9ky0lm-mayoral-candidate-zohran-mamdani-speaks-to-the-media-after-voting-on-election-day/alternates/BASE_SIXTEEN_NINE/Mayoral%20Candidate%20Zohran%20Mamdani%20Speaks%20To%20The%20Media%20After%20Voting%20On%20Election%20Day
+Premium: false
 ------------------------------------------------------------

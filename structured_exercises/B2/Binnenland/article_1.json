@@ -1,106 +1,106 @@
 {
-  "id": 17,
+  "id": 18,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Greet D’HELF, 62 jaar",
+  "title": "Madeleine Fonteyne, 100 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Greet D’HELF, 62 jaar",
-    "summary": "Geboren in 1963, overleden op 30/10/2025."
+    "title": "Madeleine Fonteyne, 100 jaar",
+    "summary": "Madeleine Fonteyne werd geboren in 1924 en overleed op 29 oktober 2025. Ze was 100 jaar oud."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "overleden",
-        "definition": "Niet meer levend; gestorven.",
-        "sentence": "Helaas is zij recentelijk ___.",
-        "answer": "overleden"
+        "word": "Madeleine",
+        "definition": "Een vrouwelijke voornaam, oorspronkelijk Frans.",
+        "sentence": "___ was een bekende schrijfster.",
+        "answer": "Madeleine"
       },
       {
-        "word": "2025",
-        "definition": "Een jaartal, in dit geval het jaar 2025.",
-        "sentence": "Ze stierf op 30 oktober in het jaar ___.",
-        "answer": "2025"
+        "word": "was",
+        "definition": "De verleden tijd van 'zijn' (to be).",
+        "sentence": "Hij ___ 100 jaar oud.",
+        "answer": "was"
       },
       {
-        "word": "1963",
-        "definition": "Een jaartal, verwijzend naar het jaar 1963.",
-        "sentence": "Ze werd geboren in het jaar ___.",
-        "answer": "1963"
+        "word": "op",
+        "definition": "Een voorzetsel dat vaak een datum of plaats aangeeft.",
+        "sentence": "De vergadering is ___ 29 oktober.",
+        "answer": "op"
       },
       {
-        "word": "30",
-        "definition": "Het getal dertig, hier gebruikt als datum.",
-        "sentence": "Ze stierf op ___ oktober 2025.",
-        "answer": "30"
+        "word": "werd",
+        "definition": "Het werkwoord 'worden' in de verleden tijd.",
+        "sentence": "Hij ___ geboren in 1924.",
+        "answer": "werd"
       },
       {
-        "word": "2025",
-        "definition": "Een jaartal, in dit geval het jaar 2025.",
-        "sentence": "Ze stierf op 30 oktober in het jaar ___.",
-        "answer": "2025"
+        "word": "Fonteyne",
+        "definition": "Een achternaam, van Franse oorsprong.",
+        "sentence": "De familie ___ woonde in België.",
+        "answer": "Fonteyne"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze stierf op ___ oktober 2025.",
-        "answer": "30"
+        "sentence": "___ was een bekende schrijfster.",
+        "answer": "Madeleine"
       },
       {
-        "sentence": "Helaas is zij recentelijk ___.",
-        "answer": "overleden"
+        "sentence": "Hij ___ 100 jaar oud.",
+        "answer": "was"
       },
       {
-        "sentence": "Ze stierf op 30 oktober in het jaar ___.",
-        "answer": "2025"
+        "sentence": "De vergadering is ___ 29 oktober.",
+        "answer": "op"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Greet D’HELF geboren?",
+      "question": "In welk jaar werd Madeleine Fonteyne geboren?",
       "options": [
-        "1960",
-        "1963",
-        "1970",
-        "1975"
+        "1920",
+        "1924",
+        "1928",
+        "1930"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Op welke datum is Greet D’HELF overleden?",
+      "question": "Hoe oud werd Madeleine Fonteyne?",
       "options": [
-        "30 oktober 2025",
-        "31 oktober 2025",
-        "30 november 2025",
-        "31 december 2025"
+        "99 jaar",
+        "100 jaar",
+        "101 jaar",
+        "102 jaar"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de geboortemaand van Greet D’HELF?",
+      "question": "Op welke datum overleed Madeleine Fonteyne?",
       "options": [
-        "Januari",
-        "Februari",
-        "Maart",
-        "Onbekend"
+        "29 september 2025",
+        "29 oktober 2025",
+        "30 oktober 2025",
+        "31 oktober 2025"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Greet D’HELF is geboren in 1963.",
+      "statement": "Madeleine Fonteyne overleed op 29 oktober 2025.",
       "isTrue": true
     },
     {
-      "statement": "Greet D’HELF is overleden in 2025.",
-      "isTrue": true
-    },
-    {
-      "statement": "Greet D’HELF stierf in de maand januari.",
+      "statement": "Madeleine Fonteyne werd 99 jaar oud.",
       "isTrue": false
+    },
+    {
+      "statement": "Madeleine Fonteyne werd geboren in 1924.",
+      "isTrue": true
     }
   ]
 }

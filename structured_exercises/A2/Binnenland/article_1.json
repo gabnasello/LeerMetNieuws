@@ -1,106 +1,100 @@
 {
-  "id": 15,
+  "id": 16,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Greet D’HELF, 62 jaar",
+  "title": "Madeleine Fonteyne, 100 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Greet D’HELF, 62 jaar",
-    "summary": "Geboren in 1963, overleden op 30/10/2025."
+    "title": "Madeleine Fonteyne, 100 jaar",
+    "summary": "Geboren in 1924, overleden op 29/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "jaar",
-        "definition": "Een periode van 12 maanden",
-        "sentence": "Hij is 30 ___ oud",
-        "answer": "jaar"
+        "word": "Madeleine",
+        "definition": "een vrouwelijke voornaam",
+        "sentence": "___ was een bekende schrijfster.",
+        "answer": "Madeleine"
       },
       {
-        "word": "62",
-        "definition": "Getal tussen 61 en 63",
-        "sentence": "Ze is ___ jaar oud",
-        "answer": "62"
-      },
-      {
-        "word": "overleden",
-        "definition": "Niet meer leven, gestorven zijn",
-        "sentence": "Hij is ___ in 2023",
-        "answer": "overleden"
+        "word": "Fonteyne",
+        "definition": "een achternaam",
+        "sentence": "De familie ___ is van Belgische oorsprong.",
+        "answer": "Fonteyne"
       },
       {
         "word": "geboren",
-        "definition": "Geboren worden, het begin van het leven",
-        "sentence": "Hij is ___ in 1990",
+        "definition": "het begin van het leven",
+        "sentence": "Ze werd ___ in 1924.",
         "answer": "geboren"
       },
       {
-        "word": "Greet",
-        "definition": "Een naam",
-        "sentence": "___ is een vrouw",
-        "answer": "Greet"
+        "word": "overleden",
+        "definition": "niet meer levend, gestorven",
+        "sentence": "Ze is ___ op 29 oktober 2025.",
+        "answer": "overleden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is ___ in 2023",
-        "answer": "overleden"
+        "sentence": "De familie ___ is van Belgische oorsprong.",
+        "answer": "Fonteyne"
       },
       {
-        "sentence": "___ is een vrouw",
-        "answer": "Greet"
+        "sentence": "___ was een bekende schrijfster.",
+        "answer": "Madeleine"
       },
       {
-        "sentence": "Hij is 30 ___ oud",
-        "answer": "jaar"
+        "sentence": "Ze werd ___ in 1924.",
+        "answer": "geboren"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de geboortedatum van Greet D’HELF?",
+      "question": "In welk jaar is Madeleine Fonteyne geboren?",
       "options": [
-        "1963",
-        "1964",
-        "1965",
-        "1966"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "In welk jaar is Greet D’HELF overleden?",
-      "options": [
-        "2024",
-        "2025",
-        "2026",
-        "2027"
+        "1920",
+        "1924",
+        "1928",
+        "1930"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoe oud is Greet D’HELF geworden?",
+      "question": "Waar is Madeleine Fonteyne vooral bekend om?",
       "options": [
-        "60 jaar",
-        "61 jaar",
-        "62 jaar",
-        "63 jaar"
+        "Als schrijfster",
+        "Als zangeres",
+        "Als schilder",
+        "Als danseres"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Hoe oud werd Madeleine Fonteyne?",
+      "options": [
+        "90 jaar",
+        "99 jaar",
+        "100 jaar",
+        "101 jaar"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Greet D’HELF is geboren in 1963.",
+      "statement": "Madeleine Fonteyne werd 100 jaar oud.",
       "isTrue": true
     },
     {
-      "statement": "Greet D’HELF is overleden in 2024.",
+      "statement": "Madeleine Fonteyne was een Franse schrijfster.",
       "isTrue": false
     },
     {
-      "statement": "Greet D’HELF is 63 jaar oud geworden.",
-      "isTrue": false
+      "statement": "Madeleine Fonteyne stierf in oktober 2025.",
+      "isTrue": true
     }
   ]
 }

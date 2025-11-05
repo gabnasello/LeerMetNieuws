@@ -1,94 +1,106 @@
 {
-  "id": 14,
+  "id": 15,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Greet D’HELF, 62 jaar",
+  "title": "Madeleine Fonteyne, 100 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Greet D’HELF, 62 jaar",
-    "summary": "Geboren in 1963, overleden op 30/10/2025."
+    "title": "Madeleine Fonteyne, 100 jaar",
+    "summary": "Madeleine Fonteyne was born in 1924. She died on 29/10/2025. She was 100 years old."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Geboren",
-        "definition": "het begin van het leven",
-        "sentence": "Zij is ___ in 1963.",
-        "answer": "geboren"
+        "word": "old",
+        "definition": "not new, having lived long",
+        "sentence": "She was 100 years ___.",
+        "answer": "old"
       },
       {
-        "word": "Overleden",
-        "definition": "niet meer levend",
-        "sentence": "Hij is ___ op 30 oktober.",
-        "answer": "overleden"
+        "word": "year",
+        "definition": "a period of 365 days",
+        "sentence": "She was 100 ___ old.",
+        "answer": "year"
       },
       {
-        "word": "Jaar",
-        "definition": "een periode van 365 dagen",
-        "sentence": "Het ___ 2025 is bijna voorbij.",
-        "answer": "jaar"
+        "word": "Fonteyne",
+        "definition": "a last name, family name",
+        "sentence": "Madeleine ___ was born in 1924.",
+        "answer": "Fonteyne"
+      },
+      {
+        "word": "was",
+        "definition": "past tense of 'is'",
+        "sentence": "She ___ born in 1924.",
+        "answer": "was"
+      },
+      {
+        "word": "born",
+        "definition": "to be born, to come into life",
+        "sentence": "She was ___ in 1924.",
+        "answer": "born"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is ___ op 30 oktober.",
-        "answer": "overleden"
+        "sentence": "Madeleine ___ was born in 1924.",
+        "answer": "Fonteyne"
       },
       {
-        "sentence": "Het ___ 2025 is bijna voorbij.",
-        "answer": "jaar"
+        "sentence": "She ___ born in 1924.",
+        "answer": "was"
       },
       {
-        "sentence": "Zij is ___ in 1963.",
-        "answer": "geboren"
+        "sentence": "She was ___ in 1924.",
+        "answer": "born"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wanneer is Greet D’HELF geboren?",
+      "question": "When was Madeleine Fonteyne born?",
       "options": [
-        "In 1963",
-        "In 1964",
-        "In 1965",
-        "In 1966"
+        "In 1924",
+        "In 2025",
+        "In 1920",
+        "In 1925"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Is Greet D’HELF nog in leven?",
+      "question": "How old was Madeleine Fonteyne when she died?",
       "options": [
-        "Ja, ze leeft nog",
-        "Nee, ze is overleden",
-        "Ze is net geboren",
-        "Ze is heel oud"
+        "100 years old",
+        "90 years old",
+        "95 years old",
+        "105 years old"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Waar wordt de datum in een artikel vaak vermeld?",
+      "question": "What is the surname of Madeleine?",
       "options": [
-        "Aan het begin",
-        "Aan het einde",
-        "In de titel",
-        "Nergens"
+        "Fonteyne",
+        "Johnson",
+        "Smith",
+        "Davis"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Greet D’HELF is in 1963 geboren.",
+      "statement": "Madeleine Fonteyne was born in 1924.",
       "isTrue": true
     },
     {
-      "statement": "Greet D’HELF is nog in leven.",
+      "statement": "Madeleine Fonteyne died in 2025.",
+      "isTrue": true
+    },
+    {
+      "statement": "Madeleine Fonteyne was 90 years old when she died.",
       "isTrue": false
-    },
-    {
-      "statement": "Greet D’HELF overleed in oktober 2025.",
-      "isTrue": true
     }
   ]
 }

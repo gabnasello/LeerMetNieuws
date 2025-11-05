@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Dodentol Jamaica loopt op, terwijl “zware hongersnood” dreigt",
+  "title": "Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey",
   "topicNumber": 1,
   "article": {
-    "title": "Dodentol Jamaica loopt op, terwijl “zware hongersnood” dreigt",
-    "summary": "Het dodental na orkaan Melissa in Jamaica is gestegen tot 32. In sommige gebieden is de hulp nog niet aangekomen, en er wordt gevreesd voor hongersnood."
+    "title": "Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "dreigt",
-        "definition": "iets dat waarschijnlijk gaat gebeuren, vaak iets negatiefs",
-        "sentence": "Er ___ een tekort aan voedsel.",
-        "answer": "dreigt"
+        "word": "burgemeestersrace",
+        "definition": "verkiezing voor de nieuwe burgemeester",
+        "sentence": "Hij deed mee aan de ___.",
+        "answer": "burgemeestersrace"
       },
       {
-        "word": "dodentol",
-        "definition": "het aantal mensen dat is overleden",
-        "sentence": "De ___ na de orkaan is hoog.",
-        "answer": "dodentol"
+        "word": "New Jersey",
+        "definition": "een staat in de Verenigde Staten",
+        "sentence": "Ook in ___ was er een verkiezing.",
+        "answer": "New Jersey"
       },
       {
-        "word": "hongersnood",
-        "definition": "gebrek aan voedsel; wanneer er niet genoeg eten is voor iedereen",
-        "sentence": "Na de overstroming was er ___.",
-        "answer": "hongersnood"
+        "word": "gouverneursraces",
+        "definition": "verkiezingen voor de nieuwe gouverneur",
+        "sentence": "Er waren ___ in verschillende staten.",
+        "answer": "gouverneursraces"
       },
       {
-        "word": "hulp",
-        "definition": "steun of assistentie, vaak in moeilijke tijden",
-        "sentence": "Internationale ___ is onderweg naar het eiland.",
-        "answer": "hulp"
+        "word": "Virginia",
+        "definition": "een staat in de Verenigde Staten",
+        "sentence": "Er was een verkiezing in ___.",
+        "answer": "Virginia"
       },
       {
-        "word": "orkaan",
-        "definition": "een hele zware storm met veel wind en regen",
-        "sentence": "De ___ veroorzaakte veel schade.",
-        "answer": "orkaan"
+        "word": "New York",
+        "definition": "een grote stad in Amerika",
+        "sentence": "Hij is de burgemeester van ___.",
+        "answer": "New York"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ veroorzaakte veel schade.",
-        "answer": "orkaan"
+        "sentence": "Er waren ___ in verschillende staten.",
+        "answer": "gouverneursraces"
       },
       {
-        "sentence": "Er ___ een tekort aan voedsel.",
-        "answer": "dreigt"
+        "sentence": "Er was een verkiezing in ___.",
+        "answer": "Virginia"
       },
       {
-        "sentence": "Na de overstroming was er ___.",
-        "answer": "hongersnood"
+        "sentence": "Hij deed mee aan de ___.",
+        "answer": "burgemeestersrace"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'dodentol' in deze context?",
+      "question": "Wie won de burgemeestersrace in New York?",
       "options": [
-        "Het aantal doden",
-        "Het aantal gewonden",
-        "De naam van een plaats",
-        "Een soort weegschaal"
+        "Zohran Mamdani",
+        "Donald Trump",
+        "Joe Biden",
+        "Een onbekende kandidaat"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is een 'orkaan'?",
+      "question": "Wat is de rol van een gouverneur?",
       "options": [
-        "Een soort dans",
-        "Een sterke tropische storm",
-        "Een soort vogel",
-        "Een type auto"
+        "Leider van een staat",
+        "President van het land",
+        "Burgemeester van een stad",
+        "Minister van onderwijs"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Waarom wordt er 'hongersnood' verwacht in Jamaica?",
+      "question": "In welke land zijn deze verkiezingen gehouden?",
       "options": [
-        "Omdat er te veel voedsel is",
-        "Omdat er onvoldoende voedsel is door de orkaan",
-        "Omdat de bevolking niet van eten houdt",
-        "Omdat het land veel voedsel exporteert"
+        "Verenigde Staten",
+        "Nederland",
+        "Duitsland",
+        "Frankrijk"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De dodentol in Jamaica is gestegen tot 32.",
-      "isTrue": true
-    },
-    {
-      "statement": "Hongersnood dreigt al in alle delen van Jamaica.",
+      "statement": "Donald Trump is de huidige president van de Verenigde Staten.",
       "isTrue": false
     },
     {
-      "statement": "Nog niet alle gebieden hebben hulp ontvangen.",
+      "statement": "Zohran Mamdani won de burgemeestersrace in New York.",
       "isTrue": true
+    },
+    {
+      "statement": "Deze verkiezingen vonden plaats in Europa.",
+      "isTrue": false
     }
   ]
 }

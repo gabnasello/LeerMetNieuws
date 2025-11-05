@@ -1,105 +1,105 @@
 {
-  "id": 7,
+  "id": 9,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Nieuwe voorzitter Jesse Klaver mag proberen GroenLinks-PvdA de regering binnen te loodsen",
+  "title": "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
   "topicNumber": 1,
   "article": {
-    "title": "Nieuwe voorzitter Jesse Klaver mag proberen GroenLinks-PvdA de regering binnen te loodsen",
-    "summary": "Voormalig GroenLinks-leider Jesse Klaver neemt het stokje over van Frans Timmermans. Hij zal voor GroenLinks-PvdA onderhandelen over een nieuwe Nederlandse regering. Hij staat voor lastige keuzes."
+    "title": "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
+    "summary": "In Mali staat het militaire regime onder zware druk. Al-Qaeda-strijders hebben een economische blokkade ingevoerd tegen Bamako, waardoor de stad zonder brandstof dreigt te vallen. De rebellen hopen dat er een opstand uitbreekt, zodat zij de macht kunnen grijpen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "keuzes",
-        "definition": "verschillende mogelijkheden waaruit je kunt kiezen",
-        "sentence": "Hij moet moeilijke ___ maken.",
-        "answer": "keuzes"
+        "word": "regime",
+        "definition": "een regering of bestuursorgaan, vooral een autoritair regime",
+        "sentence": "Het militaire ___ heeft de macht in Mali.",
+        "answer": "regime"
       },
       {
-        "word": "leider",
-        "definition": "iemand die een groep of organisatie leidt",
-        "sentence": "Hij is een charismatische ___ voor zijn partij.",
-        "answer": "leider"
+        "word": "blokkade",
+        "definition": "een blokkering, iets dat de doorgang belemmert",
+        "sentence": "De rebellen hebben een ___ opgeworpen.",
+        "answer": "blokkade"
       },
       {
-        "word": "onderhandelen",
-        "definition": "overleggen met anderen om tot een overeenkomst te komen",
-        "sentence": "De partijen gaan ___ over de nieuwe plannen.",
-        "answer": "onderhandelen"
+        "word": "brandstof",
+        "definition": "brandstof, iets dat energie levert, zoals benzine of gas",
+        "sentence": "Zonder ___ kan de economie niet draaien.",
+        "answer": "brandstof"
       },
       {
-        "word": "stokje",
-        "definition": "een klein, dun stukje van iets, vaak figuurlijk gebruikt",
-        "sentence": "Hij nam het ___ over van zijn voorganger.",
-        "answer": "stokje"
+        "word": "dreigt",
+        "definition": "iets wat waarschijnlijk gaat gebeuren, vaak iets negatiefs",
+        "sentence": "De stad ___ zonder brandstof te vallen.",
+        "answer": "dreigt"
       },
       {
-        "word": "proberen",
-        "definition": "een poging doen om iets te doen of te bereiken",
-        "sentence": "Hij zal ___ om een akkoord te bereiken.",
-        "answer": "proberen"
+        "word": "macht",
+        "definition": "controle of autoriteit, de mogelijkheid om te controleren",
+        "sentence": "De rebellen willen de ___ overnemen.",
+        "answer": "macht"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij nam het ___ over van zijn voorganger.",
-        "answer": "stokje"
+        "sentence": "Zonder ___ kan de economie niet draaien.",
+        "answer": "brandstof"
       },
       {
-        "sentence": "Hij is een charismatische ___ voor zijn partij.",
-        "answer": "leider"
+        "sentence": "De rebellen willen de ___ overnemen.",
+        "answer": "macht"
       },
       {
-        "sentence": "De partijen gaan ___ over de nieuwe plannen.",
-        "answer": "onderhandelen"
+        "sentence": "Het militaire ___ heeft de macht in Mali.",
+        "answer": "regime"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'het stokje overnemen' in deze context?",
+      "question": "Wat is het hoofddoel van de rebellen in deze situatie?",
       "options": [
-        "Iemand fysiek slaan",
-        "Een positie of taak van iemand anders overnemen",
-        "Een sportwedstrijd winnen",
-        "Een stokje doorgeven in een estafette"
+        "De hoofdstad verwoesten",
+        "De bevolking tegen zich in opstand laten komen",
+        "De economie volledig overnemen",
+        "De regering ten val brengen via een opstand"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "Wat is de rol van de economische blokkade in de strategie van de rebellen?",
+      "options": [
+        "Het is een afleidingsmanoeuvre voor een militaire aanval.",
+        "Het verzwakt de stad en maakt de bevolking ontevreden, zodat ze de rebellen steunen.",
+        "Het is een manier om de regering te dwingen tot overgave zonder een schot te lossen.",
+        "Het is een test om te zien of de regering reageert."
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een synoniem voor 'lastige' in deze tekst?",
+      "question": "Wat is de huidige toestand van de hoofdstad Bamako volgens de tekst?",
       "options": [
-        "Gemakkelijke",
-        "Uitdagende",
-        "Onmogelijke",
-        "Complexe"
+        "Het is al volledig in handen van de rebellen.",
+        "Het valt nog steeds onder het gezag van het militaire regime.",
+        "Het is onbekend, de tekst noemt het niet.",
+        "Het is een neutrale zone waar niemand de controle heeft."
       ],
       "correctAnswer": 2
-    },
-    {
-      "question": "Wat is het hoofdonderwerp van deze tekst?",
-      "options": [
-        "De sportcarrière van Jesse Klaver",
-        "Een kookwedstrijd tussen politici",
-        "Politieke onderhandelingen en leiderschap",
-        "De geschiedenis van GroenLinks"
-      ],
-      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Jesse Klaver was de voorganger van Frans Timmermans.",
+      "statement": "De rebellen hebben Bamako al ingenomen met hun troepen.",
       "isTrue": false
     },
     {
-      "statement": "Jesse Klaver wordt de nieuwe leider van GroenLinks-PvdA.",
+      "statement": "De economische blokkade zorgt voor tekorten in de stad.",
       "isTrue": true
     },
     {
-      "statement": "De tekst gaat vooral over een voetbalwedstrijd.",
+      "statement": "Het militaire regime wordt gesteund door de meeste inwoners.",
       "isTrue": false
     }
   ]

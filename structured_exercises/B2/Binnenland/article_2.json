@@ -3,92 +3,104 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Paul Defoort, 78 jaar",
+  "title": "Antoon Devogelaere, 98 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Paul Defoort, 78 jaar",
-    "summary": "Geboren in 1946, overleden op 27/10/2025."
+    "title": "Antoon Devogelaere, 98 jaar",
+    "summary": "Geboren in 1927, overleden op 31/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Geboren",
-        "definition": "Het begin van iemands leven; het ter wereld komen.",
-        "sentence": "Paul Defoort werd ___ in 1946.",
+        "word": "Antoon",
+        "definition": "een mannelijke voornaam",
+        "sentence": "___ is de voornaam van de overleden man.",
+        "answer": "Antoon"
+      },
+      {
+        "word": "Devogelaere",
+        "definition": "een familienaam, waarschijnlijk van Vlaamse oorsprong",
+        "sentence": "Zijn volledige naam is Antoon ___.",
+        "answer": "Devogelaere"
+      },
+      {
+        "word": "geboren",
+        "definition": "het begin van het leven, geboren worden",
+        "sentence": "Hij is ___ in 1927.",
         "answer": "geboren"
       },
       {
-        "word": "Overleden",
-        "definition": "Niet meer levend; gestorven.",
-        "sentence": "Hij is ___ op 27 oktober 2025.",
+        "word": "overleden",
+        "definition": "niet meer levend, gestorven",
+        "sentence": "Hij is ___ op 31 oktober 2025.",
         "answer": "overleden"
       },
       {
-        "word": "Overleden",
-        "definition": "Gestorven; niet meer levend.",
-        "sentence": "Hij is ___ op 27 oktober 2025.",
-        "answer": "overleden"
+        "word": "2025",
+        "definition": "een jaartal, in dit geval het jaar van overlijden",
+        "sentence": "Hij overleed in het jaar ___.",
+        "answer": "2025"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Paul Defoort werd ___ in 1946.",
+        "sentence": "___ is de voornaam van de overleden man.",
+        "answer": "Antoon"
+      },
+      {
+        "sentence": "Hij is ___ in 1927.",
         "answer": "geboren"
       },
       {
-        "sentence": "Hij is ___ op 27 oktober 2025.",
-        "answer": "overleden"
-      },
-      {
-        "sentence": "Hij is ___ op 27 oktober 2025.",
-        "answer": "overleden"
+        "sentence": "Zijn volledige naam is Antoon ___.",
+        "answer": "Devogelaere"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Paul Defoort geboren?",
+      "question": "In welk jaar is Antoon Devogelaere geboren?",
       "options": [
-        "1940",
-        "1945",
-        "1946",
-        "1950"
+        "1925",
+        "1926",
+        "1927",
+        "1928"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat betekent het woord 'overleden'?",
+      "question": "In welke maand overleed Antoon Devogelaere?",
       "options": [
-        "Net geboren",
-        "Heel oud",
-        "Gestorven",
-        "Zeer ziek"
+        "januari",
+        "februari",
+        "oktober",
+        "december"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Hoe oud was Paul Defoort geworden?",
+      "question": "Hoe oud was Antoon Devogelaere toen hij overleed?",
       "options": [
-        "78 jaar",
-        "80 jaar",
-        "75 jaar",
-        "77 jaar"
+        "96 jaar",
+        "97 jaar",
+        "98 jaar",
+        "99 jaar"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Paul Defoort is overleden in 2025.",
+      "statement": "Antoon Devogelaere overleed in oktober.",
       "isTrue": true
     },
     {
-      "statement": "Paul Defoort werd geboren in 1946.",
-      "isTrue": true
-    },
-    {
-      "statement": "Paul Defoort was 75 jaar oud.",
+      "statement": "Antoon Devogelaere werd 100 jaar oud.",
       "isTrue": false
+    },
+    {
+      "statement": "Antoon Devogelaere werd geboren in 1927.",
+      "isTrue": true
     }
   ]
 }

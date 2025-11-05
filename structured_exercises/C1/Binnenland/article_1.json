@@ -1,106 +1,106 @@
 {
-  "id": 18,
+  "id": 19,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Greet D’HELF, 62 jaar",
+  "title": "Madeleine Fonteyne, 100 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Greet D’HELF, 62 jaar",
-    "summary": "Geboren in 1963, overleden op 30/10/2025."
+    "title": "Madeleine Fonteyne, 100 jaar",
+    "summary": "Geboren in 1924, overleden op 29/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "1963",
-        "definition": "Het jaar negentienhonderd drieënzestig",
-        "sentence": "Geboren in ___, overleden in 2025.",
-        "answer": "1963"
+        "word": "Geboren",
+        "definition": "Het ter wereld komen, het begin van het leven.",
+        "sentence": "Hij werd ___ in een klein dorp in het noorden.",
+        "answer": "Geboren"
       },
       {
-        "word": "jaar",
-        "definition": "Een periode van 365 dagen, of 366 in een schrikkeljaar",
-        "sentence": "Ze werd slechts 62 ___ oud.",
-        "answer": "jaar"
+        "word": "1924",
+        "definition": "Een jaartal, verwijzend naar een specifiek jaar in de twintigste eeuw.",
+        "sentence": "Deze auto is van modeljaar ___ en rijdt nog steeds prima.",
+        "answer": "1924"
       },
       {
-        "word": "D’HELF",
-        "definition": "Een familienaam, waarschijnlijk van Franse of Vlaamse oorsprong",
-        "sentence": "Greet ___ is de volledige naam van de overledene.",
-        "answer": "D'HELF"
+        "word": "Madeleine",
+        "definition": "Een vrouwelijke voornaam, van Franse oorsprong.",
+        "sentence": "___ was een bekende schrijfster uit de vorige eeuw.",
+        "answer": "Madeleine"
       },
       {
-        "word": "62",
-        "definition": "Het getal tweeënzestig, tussen 61 en 63",
-        "sentence": "Ze werd slechts ___ jaar oud.",
-        "answer": "62"
+        "word": "Fonteyne",
+        "definition": "Een achternaam, mogelijk van Nederlandse of Franse oorsprong.",
+        "sentence": "De familie ___ woonde generaties lang in deze stad.",
+        "answer": "Fonteyne"
       },
       {
-        "word": "overleden",
-        "definition": "Niet meer levend; gestorven",
-        "sentence": "Ze is helaas ___ op 30/10/2025.",
-        "answer": "overleden"
+        "word": "29/10",
+        "definition": "Een specifieke datum, namelijk de 29ste dag van oktober.",
+        "sentence": "Mijn verjaardag is op ___, net als die van mijn zus!",
+        "answer": "29/10"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Greet ___ is de volledige naam van de overledene.",
-        "answer": "D'HELF"
+        "sentence": "De familie ___ woonde generaties lang in deze stad.",
+        "answer": "Fonteyne"
       },
       {
-        "sentence": "Ze werd slechts ___ jaar oud.",
-        "answer": "62"
+        "sentence": "Hij werd ___ in een klein dorp in het noorden.",
+        "answer": "Geboren"
       },
       {
-        "sentence": "Ze is helaas ___ op 30/10/2025.",
-        "answer": "overleden"
+        "sentence": "Mijn verjaardag is op ___, net als die van mijn zus!",
+        "answer": "29/10"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Greet D'HELF geboren?",
+      "question": "In welke eeuw werd Madeleine Fonteyne geboren?",
       "options": [
-        "1963",
-        "1964",
-        "1965",
-        "1966"
+        "De 18e eeuw",
+        "De 19e eeuw",
+        "De 20e eeuw",
+        "De 21e eeuw"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de volledige naam zoals vermeld in de titel?",
+      "question": "Wat is de geboortedatum van Madeleine Fonteyne?",
       "options": [
-        "Greet D'HELF",
-        "Greet De Helf",
-        "Greet D'Helf",
-        "Greet D.Helf"
+        "1 januari 1924",
+        "31 december 1924",
+        "29 oktober 1924",
+        "Onbekend"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
-      "question": "Op welke datum is Greet D'HELF overleden?",
+      "question": "Hoe oud werd Madeleine Fonteyne?",
       "options": [
-        "30/10/2025",
-        "31/10/2025",
-        "30/11/2025",
-        "31/12/2025"
+        "100 jaar",
+        "101 jaar",
+        "99 jaar",
+        "98 jaar"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Greet D'HELF was 62 jaar oud op het moment van overlijden.",
+      "statement": "Madeleine Fonteyne werd geboren in 1924.",
       "isTrue": true
     },
     {
-      "statement": "Greet D'HELF is geboren in 1964.",
+      "statement": "Madeleine Fonteyne overleed op 29 oktober 2025.",
+      "isTrue": true
+    },
+    {
+      "statement": "Madeleine Fonteyne was een man.",
       "isTrue": false
-    },
-    {
-      "statement": "De overlijdensdatum is 30/10/2025.",
-      "isTrue": true
     }
   ]
 }

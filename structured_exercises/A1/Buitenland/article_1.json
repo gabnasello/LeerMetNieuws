@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Orkaan in Jamaica",
+  "title": "Amerikaans nieuws",
   "topicNumber": 1,
   "article": {
-    "title": "Orkaan in Jamaica",
-    "summary": "Na de orkaan zijn er problemen. Er zijn doden en er is weinig eten."
+    "title": "Amerikaans nieuws",
+    "summary": "Dit artikel gaat over Amerika. Er is nieuws over verkiezingen. Dit is belangrijk voor de wereld."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "eten",
-        "definition": "voedsel dat je eet",
-        "sentence": "Mensen hebben ___ nodig om te leven.",
-        "answer": "eten"
+        "word": "Amerika",
+        "definition": "een land, ook Verenigde Staten genoemd",
+        "sentence": "Dit artikel gaat over ___.",
+        "answer": "Amerika"
       },
       {
-        "word": "doden",
-        "definition": "mensen die zijn gestorven",
-        "sentence": "Er zijn veel ___ door de ramp.",
-        "answer": "doden"
+        "word": "verkiezingen",
+        "definition": "als mensen stemmen om een leider te kiezen",
+        "sentence": "Er zijn ___ in Amerika.",
+        "answer": "verkiezingen"
       },
       {
-        "word": "Jamaica",
-        "definition": "een land in het Caribisch gebied",
-        "sentence": "De orkaan trof ___ het hardst.",
-        "answer": "Jamaica"
+        "word": "nieuws",
+        "definition": "informatie over wat er gebeurt, vaak recent",
+        "sentence": "Dit is het ___ over Amerika.",
+        "answer": "nieuws"
       },
       {
-        "word": "eten",
-        "definition": "voedsel dat je eet",
-        "sentence": "Honger betekent dat je ___ wilt hebben.",
-        "answer": "eten"
+        "word": "artikel",
+        "definition": "een geschreven tekst over een onderwerp",
+        "sentence": "Dit ___ gaat over Amerika.",
+        "answer": "artikel"
       },
       {
-        "word": "problemen",
-        "definition": "dingen die moeilijk of fout gaan",
-        "sentence": "Na de storm zijn er veel ___.",
-        "answer": "problemen"
+        "word": "wereld",
+        "definition": "de aarde en alle mensen en landen",
+        "sentence": "Dit nieuws is belangrijk voor de ___.",
+        "answer": "wereld"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Na de storm zijn er veel ___.",
-        "answer": "problemen"
+        "sentence": "Dit nieuws is belangrijk voor de ___.",
+        "answer": "wereld"
       },
       {
-        "sentence": "Mensen hebben ___ nodig om te leven.",
-        "answer": "eten"
+        "sentence": "Dit artikel gaat over ___.",
+        "answer": "Amerika"
       },
       {
-        "sentence": "Er zijn veel ___ door de ramp.",
-        "answer": "doden"
+        "sentence": "Er zijn ___ in Amerika.",
+        "answer": "verkiezingen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar ging de orkaan over?",
+      "question": "Waar gaat dit artikel over?",
       "options": [
-        "Nederland",
-        "Jamaica",
-        "Duitsland",
-        "China"
+        "Sport",
+        "Koken",
+        "Amerika",
+        "Winkelen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is 'nieuws'?",
+      "options": [
+        "Een soort voedsel",
+        "Informatie over recente gebeurtenissen",
+        "Een soort sport",
+        "Een type kleding"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een gevolg van de orkaan?",
+      "question": "Waarom is dit nieuws belangrijk?",
       "options": [
-        "Mensen gaan winkelen",
-        "Er is veel schade",
-        "Iedereen is veilig",
-        "Het weer is mooi"
+        "Het is niet belangrijk",
+        "Alleen voor Amerika",
+        "Voor de hele wereld",
+        "Alleen voor de schrijver"
       ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is honger?",
-      "options": [
-        "Een soort feest",
-        "Een gevoel dat je wilt eten",
-        "Een soort game",
-        "Een soort dier"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De orkaan trof Nederland.",
+      "statement": "Dit artikel gaat over een feest in Amerika.",
       "isTrue": false
     },
     {
-      "statement": "Na de orkaan hebben mensen honger.",
+      "statement": "Amerika is een land.",
       "isTrue": true
     },
     {
-      "statement": "Er zijn geen doden door de orkaan.",
+      "statement": "Dit nieuws is alleen belangrijk voor mensen in Amerika.",
       "isTrue": false
     }
   ]

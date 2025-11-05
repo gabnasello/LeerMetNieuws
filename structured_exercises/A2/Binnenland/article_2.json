@@ -3,103 +3,72 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Paul Defoort, 78 jaar",
+  "title": "Antoon Devogelaere, 98 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Paul Defoort, 78 jaar",
-    "summary": "Geboren in 1946, overleden op 27 oktober 2025."
+    "title": "Antoon Devogelaere, 98 jaar",
+    "summary": "Hij is geboren in 1927 en overleden op 31 oktober 2025."
   },
   "vocabulary": {
     "words": [
       {
+        "word": "geboren",
+        "definition": "geboren zijn betekent dat je op een bepaalde dag bent geboren",
+        "sentence": "Zijn moeder werd ___ in 1920.",
+        "answer": "geboren"
+      },
+      {
         "word": "overleden",
-        "definition": "Niet meer levend, gestorven",
-        "sentence": "Hij is ___ op 27 oktober 2025.",
+        "definition": "overleden zijn betekent dat je niet meer leeft",
+        "sentence": "Hij is ___ op 31 oktober 2025.",
         "answer": "overleden"
-      },
-      {
-        "word": "Defoort",
-        "definition": "Familienaam van de persoon",
-        "sentence": "Paul ___ was 78 jaar oud.",
-        "answer": "Defoort"
-      },
-      {
-        "word": "Paul",
-        "definition": "Voornaam van de persoon",
-        "sentence": "___ Defoort was 78 jaar oud.",
-        "answer": "Paul"
-      },
-      {
-        "word": "2025",
-        "definition": "Jaartal waarin hij overleed",
-        "sentence": "Hij overleed in het jaar ___.",
-        "answer": "2025"
-      },
-      {
-        "word": "1946",
-        "definition": "Jaartal waarin hij geboren werd",
-        "sentence": "Hij is geboren in het jaar ___.",
-        "answer": "1946"
       }
     ],
-    "fillInBlanks": [
-      {
-        "sentence": "Paul ___ was 78 jaar oud.",
-        "answer": "Defoort"
-      },
-      {
-        "sentence": "Hij is geboren in het jaar ___.",
-        "answer": "1946"
-      },
-      {
-        "sentence": "___ Defoort was 78 jaar oud.",
-        "answer": "Paul"
-      }
-    ]
+    "fillInBlanks": []
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Paul Defoort geboren?",
+      "question": "Wanneer is Antoon Devogelaere geboren?",
       "options": [
-        "1945",
-        "1946",
-        "1947",
-        "1948"
+        "In 1927",
+        "In 1930",
+        "In 1925",
+        "In 1928"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Op welke datum is Paul Defoort overleden?",
+      "question": "Hoe oud was Antoon Devogelaere toen hij overleed?",
       "options": [
-        "26 oktober 2025",
-        "27 oktober 2025",
-        "28 oktober 2025",
-        "29 oktober 2025"
+        "98 jaar",
+        "100 jaar",
+        "95 jaar",
+        "102 jaar"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de familienaam van Paul?",
+      "question": "Op welke datum overleed Antoon Devogelaere?",
       "options": [
-        "Jansen",
-        "Pietersen",
-        "Defoort",
-        "Janssen"
+        "31 oktober 2025",
+        "31 oktober 2024",
+        "1 november 2025",
+        "30 oktober 2025"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Paul Defoort is geboren in 1946.",
+      "statement": "Antoon Devogelaere is geboren in 1927.",
       "isTrue": true
     },
     {
-      "statement": "Paul Defoort overleed in 2024.",
+      "statement": "Antoon Devogelaere overleed in 2020.",
       "isTrue": false
     },
     {
-      "statement": "Paul Defoort werd 78 jaar oud.",
+      "statement": "Antoon Devogelaere werd 98 jaar oud.",
       "isTrue": true
     }
   ]

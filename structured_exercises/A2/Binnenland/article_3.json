@@ -1,99 +1,105 @@
 {
-  "id": 20,
+  "id": 21,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Nieuwe tandarts in Kluisbergen",
+  "title": "Organisaties verliezen subsidies voor onderwijs",
   "topicNumber": 1,
   "article": {
-    "title": "Nieuwe tandarts in Kluisbergen",
-    "summary": "Er is een nieuwe tandarts in Kluisbergen. Ze heet Julie. Haar praktijk is nog niet open, maar ze heeft al veel afspraken. Mensen kunnen niet meteen bij haar terecht."
+    "title": "Organisaties verliezen subsidies voor onderwijs",
+    "summary": "Twee organisaties die armoede in het onderwijs bestrijden, verliezen hun subsidies van de Vlaamse overheid. “Dit zet veel kinderen in de kou”, zegt Bert Smits van Stichting Robin. “De overheid snijdt in kennis en in innovatief armoedebeleid.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "tandarts",
-        "definition": "een persoon die voor je tanden zorgt",
-        "sentence": "De ___ helpt als je kiespijn hebt.",
-        "answer": "tandarts"
+        "word": "onderwijs",
+        "definition": "lesgeven en leren op school",
+        "sentence": "Kinderen hebben recht op goed ___.",
+        "answer": "onderwijs"
       },
       {
-        "word": "praktijk",
-        "definition": "de plaats waar iemand werkt, zoals een kantoor",
-        "sentence": "Julie heeft een nieuwe ___ in Kluisbergen.",
-        "answer": "praktijk"
+        "word": "subsidies",
+        "definition": "geld van de overheid voor een doel",
+        "sentence": "De organisaties krijgen geen ___ meer.",
+        "answer": "subsidies"
       },
       {
-        "word": "open",
-        "definition": "beginnen, starten",
-        "sentence": "De praktijk is nog niet ___.",
-        "answer": "open"
+        "word": "organisatie",
+        "definition": "een groep die samenwerkt",
+        "sentence": "De ___ helpt kinderen in nood.",
+        "answer": "organisatie"
       },
       {
-        "word": "afspraken",
-        "definition": "een plan dat je maakt om iemand te ontmoeten",
-        "sentence": "Julie heeft al veel ___ gemaakt met patiënten.",
-        "answer": "afspraken"
+        "word": "organisaties",
+        "definition": "groepen mensen die samenwerken",
+        "sentence": "De ___ werken aan onderwijs voor kinderen.",
+        "answer": "organisaties"
+      },
+      {
+        "word": "overheid",
+        "definition": "de organisatie die een land bestuurt",
+        "sentence": "De ___ geeft geld voor onderwijs.",
+        "answer": "overheid"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De praktijk is nog niet ___.",
-        "answer": "open"
+        "sentence": "De organisaties krijgen geen ___ meer.",
+        "answer": "subsidies"
       },
       {
-        "sentence": "Julie heeft een nieuwe ___ in Kluisbergen.",
-        "answer": "praktijk"
+        "sentence": "De ___ geeft geld voor onderwijs.",
+        "answer": "overheid"
       },
       {
-        "sentence": "Julie heeft al veel ___ gemaakt met patiënten.",
-        "answer": "afspraken"
+        "sentence": "De ___ helpt kinderen in nood.",
+        "answer": "organisatie"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar werkt Julie als tandarts?",
+      "question": "Waarom verliezen de organisaties hun subsidies?",
       "options": [
-        "in een ziekenhuis",
-        "in een school",
-        "in een praktijk in Kluisbergen",
-        "in een supermarkt"
+        "Ze werken niet hard genoeg",
+        "De overheid heeft minder geld",
+        "Ze helpen geen kinderen meer",
+        "Ze zijn verhuisd"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is het gevolg voor de kinderen?",
+      "options": [
+        "Ze krijgen geen les meer",
+        "Ze verliezen hun speelgoed",
+        "Ze krijgen geen hulp meer tegen armoede",
+        "Ze gaan naar een andere school"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is de situatie voor Julie's praktijk?",
+      "question": "Wie is Bert Smits?",
       "options": [
-        "Het is al open.",
-        "Het is nog gesloten.",
-        "Het is verhuisd.",
-        "Het is veranderd in een restaurant."
+        "Een leraar",
+        "Een kind",
+        "Iemand van Stichting Robin",
+        "Iemand van de overheid"
       ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is het probleem in veel Vlaamse gemeenten?",
-      "options": [
-        "Er zijn te veel tandartsen.",
-        "Er zijn te weinig tandartsen.",
-        "Er zijn te veel patiënten.",
-        "Er is geen probleem."
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Julie is een tandarts in Kluisbergen.",
+      "statement": "De overheid geeft subsidies aan organisaties.",
       "isTrue": true
     },
     {
-      "statement": "Julie's praktijk is al open sinds vorige week.",
+      "statement": "Kinderen hebben geen last van het verlies van subsidies.",
       "isTrue": false
     },
     {
-      "statement": "Er is een tekort aan tandarts in sommige Vlaamse gemeenten.",
+      "statement": "Stichting Robin is een organisatie die helpt.",
       "isTrue": true
     }
   ]

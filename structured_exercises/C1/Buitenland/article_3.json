@@ -1,105 +1,105 @@
 {
-  "id": 8,
+  "id": 10,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Nieuwe voorzitter Jesse Klaver mag proberen GroenLinks-PvdA de regering binnen te loodsen",
+  "title": "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
   "topicNumber": 1,
   "article": {
-    "title": "Nieuwe voorzitter Jesse Klaver mag proberen GroenLinks-PvdA de regering binnen te loodsen",
-    "summary": "Voormalig GroenLinks-leider Jesse Klaver neemt het stokje over van Frans Timmermans. Hij zal voor GroenLinks-PvdA onderhandelen over een nieuwe Nederlandse regering. Hij staat voor lastige keuzes."
+    "title": "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
+    "summary": "In Mali staat het militaire regime onder zware druk. Al-Qaeda-strijders hebben een economische blokkade ingevoerd tegen Bamako, waardoor de stad zonder brandstof dreigt te vallen. De rebellen hopen dat er een opstand uitbreekt, zodat zij de macht kunnen grijpen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "stokje",
-        "definition": "een klein voorwerp of symbool, vaak gebruikt in overdrachtelijke zin",
-        "sentence": "Hij neemt het ___ over van zijn voorganger.",
-        "answer": "stokje"
+        "word": "blokkade",
+        "definition": "een actie om de toegang tot een gebied of de doorstroom van goederen te belemmeren",
+        "sentence": "De protesten leidden tot een volledige blokkade van de hoofdweg.",
+        "answer": "blokkade"
       },
       {
-        "word": "keuzes",
-        "decision": "beslissing of optie",
-        "sentence": "Hij heeft moeilijke ___ te maken.",
-        "answer": "keuzes"
+        "word": "rebellen",
+        "definition": "personen die deelnemen aan een gewapend verzet tegen een gevestigde autoriteit",
+        "sentence": "De rebellen voerden een verrassingsaanval uit.",
+        "answer": "rebellen"
       },
       {
-        "word": "lastige",
-        "definition": "moeilijk of vervelend",
-        "sentence": "Hij heeft te maken met ___ beslissingen.",
-        "answer": "lastige"
+        "word": "macht",
+        "definition": "de autoriteit of controle over personen, middelen, of gebieden",
+        "sentence": "Na de coup greep het leger de macht.",
+        "answer": "macht"
       },
       {
-        "word": "onderhandelen",
-        "definition": "overleggen met anderen om tot een overeenkomst te komen",
-        "sentence": "Hij zal met andere partijen ___ over de nieuwe plannen.",
-        "answer": "onderhandelen"
+        "word": "opstand",
+        "definition": "een gewelddadige of openlijke rebellie tegen een regering of autoriteit",
+        "sentence": "De opstand werd na drie dagen neergeslagen.",
+        "answer": "opstand"
       },
       {
-        "word": "loodsen",
-        "definition": "geleiden of begeleiden, vooral in moeilijke situaties",
-        "sentence": "Hij moet de onderhandelingen door lastige discussies ___.",
-        "answer": "loodsen"
+        "word": "wurggreep",
+        "definition": "een greep of handeling die iemand of iets tot stilstand of onderwerping dwingt",
+        "sentence": "De nieuwe wetgeving was een wurggreep op de vrijheid van meningsuiting.",
+        "answer": "wurggreep"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij moet de onderhandelingen door lastige discussies ___.",
-        "answer": "loodsen"
+        "sentence": "De protesten leidden tot een volledige blokkade van de hoofdweg.",
+        "answer": "blokkade"
       },
       {
-        "sentence": "Hij heeft te maken met ___ beslissingen.",
-        "answer": "lastige"
+        "sentence": "De rebellen voerden een verrassingsaanval uit.",
+        "answer": "rebellen"
       },
       {
-        "sentence": "Hij heeft moeilijke ___ te maken.",
-        "answer": "keuzes"
+        "sentence": "De nieuwe wetgeving was een wurggreep op de vrijheid van meningsuiting.",
+        "answer": "wurggreep"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'loodsen' in deze context?",
+      "question": "Wat is het hoofddoel van de economische blokkade door de rebellen in Mali?",
       "options": [
-        "Sturen of begeleiden",
-        "Vermijden",
-        "Vertragen",
-        "Negeren"
+        "Om humanitaire hulp te vergemakkelijken",
+        "Om de economie van de hoofdstad te verlammen",
+        "Om internationale steun te verwerven",
+        "Om culturele evenementen te sponsoren"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van Jesse Klaver in deze situatie?",
+      "question": "Wat is een waarschijnlijk gevolg als Bamako zonder brandstof valt?",
       "options": [
-        "Hij is de nieuwe voorzitter",
-        "Hij is een gewone lid",
-        "Hij neemt geen deel aan de onderhandelingen",
-        "Hij is de vorige leider"
+        "Verbeterde internationale handel",
+        "Verhoogde elektriciteitsproductie",
+        "Stilvallen van essentieel vervoer en stroom",
+        "Groeiende politieke stabiliteit"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Waar gaat de tekst vooral over?",
+      "question": "Waarin hopen de rebellen dat de opstand resulteert?",
       "options": [
-        "Over politieke onderhandelingen",
-        "Over een sportevenement",
-        "Over een cultureel festival",
-        "Over een wetenschappelijke ontdekking"
+        "In een langdurige periode van vrede en welvaart",
+        "In een kans om hun politieke tegenstanders te vergeven",
+        "In een kans om de macht te grijpen via onrust",
+        "In een internationale interventie die hun doelen doorkruist"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Jesse Klaver neemt de plaats in van Frans Timmermans.",
+      "statement": "De Al-Qaeda-strijders in Mali hebben als hoofddoel om humanitaire hulp te bieden aan de bevolking.",
+      "isTrue": false
+    },
+    {
+      "statement": "De economische blokkade is gericht op het uitoefenen van druk op de regering in Bamako.",
       "isTrue": true
     },
     {
-      "statement": "Jesse Klaver zal de onderhandelingen leiden.",
-      "isTrue": true
-    },
-    {
-      "statement": "De tekst gaat over een sportevenement.",
+      "statement": "De rebellen hopen dat de opstand leidt tot internationale steun voor hun zaak.",
       "isTrue": false
     }
   ]

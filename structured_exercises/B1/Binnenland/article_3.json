@@ -1,106 +1,106 @@
 {
-  "id": 21,
+  "id": 22,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Stormloop voor nieuwe tandarts in Kluisbergen",
+  "title": "Organisaties verliezen subsidies in strijd tegen armoede in onderwijs",
   "topicNumber": 1,
   "article": {
-    "title": "Stormloop voor nieuwe tandarts in Kluisbergen",
-    "summary": "Tandarts Julie Parmentier (26) start donderdag haar praktijk in Kluisbergen en nu al zit ze volgeboekt tot in september 2026. Het is typerend voor een probleem in veel Vlaamse gemeenten."
+    "title": "Organisaties verliezen subsidies in strijd tegen armoede in onderwijs",
+    "summary": "Twee organisaties die armoede in het onderwijs bestrijden, verliezen hun subsidies van de Vlaamse overheid. Dit heeft gevolgen voor kinderen en innovatie."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "probleem",
-        "definition": "iets dat moeilijk is of niet goed gaat",
-        "sentence": "Er is een ___ met de waterleiding.",
-        "answer": "probleem"
+        "word": "subsidies",
+        "definition": "financiële steun van de overheid",
+        "sentence": "De overheid geeft ___ aan organisaties die helpen.",
+        "answer": "subsidies"
       },
       {
-        "word": "praktijk",
-        "definition": "de plaats waar een professional werkt, zoals een dokter",
-        "sentence": "Haar nieuwe ___ is in het centrum.",
-        "answer": "praktijk"
+        "word": "overheid",
+        "definition": "de organisatie die een land of gebied bestuurt",
+        "sentence": "De ___ moet zorgen voor haar burgers.",
+        "answer": "overheid"
       },
       {
-        "word": "start",
-        "definition": "beginnen, van start gaan",
-        "sentence": "Ze ___ volgende week met haar nieuwe baan.",
-        "answer": "start"
+        "word": "organisaties",
+        "definition": "groepen mensen die samenwerken voor een doel",
+        "sentence": "De ___ werken aan een betere wereld.",
+        "answer": "organisaties"
       },
       {
-        "word": "typerend",
-        "definition": "iets wat heel kenmerkend of typisch is",
-        "sentence": "Het is ___ voor deze tijd van het jaar.",
-        "answer": "typerend"
+        "word": "onderwijs",
+        "definition": "het geven of krijgen van les en kennis",
+        "sentence": "Goed ___ is belangrijk voor ieders toekomst.",
+        "answer": "onderwijs"
       },
       {
-        "word": "volgeboekt",
-        "definition": "helemaal vol, geen plaats meer",
-        "sentence": "Het hotel is ___ voor de zomer.",
-        "answer": "volgeboekt"
+        "word": "kinderen",
+        "definition": "jonge mensen, meestal onder de 18 jaar",
+        "sentence": "De ___ spelen in het park.",
+        "answer": "kinderen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Er is een ___ met de waterleiding.",
-        "answer": "probleem"
+        "sentence": "De ___ moet zorgen voor haar burgers.",
+        "answer": "overheid"
       },
       {
-        "sentence": "Het is ___ voor deze tijd van het jaar.",
-        "answer": "typerend"
+        "sentence": "De ___ spelen in het park.",
+        "answer": "kinderen"
       },
       {
-        "sentence": "Haar nieuwe ___ is in het centrum.",
-        "answer": "praktijk"
+        "sentence": "De ___ werken aan een betere wereld.",
+        "answer": "organisaties"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de situatie met tandarts Julie Parmentier?",
+      "question": "Waarom verliezen de organisaties hun subsidies?",
       "options": [
-        "Ze heeft te veel patiënten",
-        "Ze heeft te weinig patiënten",
-        "Ze verkoopt haar praktijk",
-        "Ze is met pensioen"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is het probleem in veel Vlaamse gemeenten?",
-      "options": [
-        "Te veel tandartsen",
-        "Te weinig tandartsen",
-        "Geen apotheken",
-        "Geen supermarkten"
+        "Omdat ze te veel winst maken",
+        "Omdat de overheid vindt dat ze niet efficiënt werken",
+        "Omdat ze geen armoede bestrijden",
+        "Omdat ze in een ander land werken"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de toestand van haar praktijk nu?",
+      "question": "Wat is een gevolg van het verlies van de subsidies?",
       "options": [
-        "Ze is net begonnen",
-        "Ze is al jaren bezig",
-        "Ze is gestopt",
-        "Ze is verhuisd"
+        "Kinderen krijgen meer speeltijd",
+        "Organisaties stoppen volledig",
+        "Kinderen lijden onder armoede",
+        "De overheid wordt rijker"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is de rol van de overheid in deze situatie?",
+      "options": [
+        "Ze geeft extra geld aan iedereen",
+        "Ze beslist over de subsidie",
+        "Ze werkt samen met de organisaties",
+        "Ze negeert het probleem"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Julie Parmentier is een tandarts.",
-      "isTrue": true
-    },
-    {
-      "statement": "Julie Parmentier werkt in een supermarkt.",
+      "statement": "Alleen organisaties die armoede bestrijden, krijgen subsidies.",
       "isTrue": false
     },
     {
-      "statement": "De praktijk van Julie start volgende week.",
+      "statement": "Kinderen hebben direct last van het verlies van subsidies.",
       "isTrue": true
+    },
+    {
+      "statement": "De overheid heeft de subsidies volledig stopgezet.",
+      "isTrue": false
     }
   ]
 }

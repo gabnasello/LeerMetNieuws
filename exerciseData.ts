@@ -29,104 +29,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Dodentol Jamaica loopt op, terwijl “zware hongersnood” dreigt",
+    title: "Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey",
     topicNumber: 1,
     article: {
-      title: "Dodentol Jamaica loopt op, terwijl “zware hongersnood” dreigt",
-      summary: "Het dodental na orkaan Melissa in Jamaica is gestegen tot 32. In sommige gebieden is de hulp nog niet aangekomen, en er wordt gevreesd voor hongersnood."
+      title: "Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "dreigt",
-          definition: "iets dat waarschijnlijk gaat gebeuren, vaak iets negatiefs",
-          sentence: "Er ___ een tekort aan voedsel.",
-          answer: "dreigt"
+          word: "burgemeestersrace",
+          definition: "verkiezing voor de nieuwe burgemeester",
+          sentence: "Hij deed mee aan de ___.",
+          answer: "burgemeestersrace"
         },
         {
-          word: "dodentol",
-          definition: "het aantal mensen dat is overleden",
-          sentence: "De ___ na de orkaan is hoog.",
-          answer: "dodentol"
+          word: "New Jersey",
+          definition: "een staat in de Verenigde Staten",
+          sentence: "Ook in ___ was er een verkiezing.",
+          answer: "New Jersey"
         },
         {
-          word: "hongersnood",
-          definition: "gebrek aan voedsel; wanneer er niet genoeg eten is voor iedereen",
-          sentence: "Na de overstroming was er ___.",
-          answer: "hongersnood"
+          word: "gouverneursraces",
+          definition: "verkiezingen voor de nieuwe gouverneur",
+          sentence: "Er waren ___ in verschillende staten.",
+          answer: "gouverneursraces"
         },
         {
-          word: "hulp",
-          definition: "steun of assistentie, vaak in moeilijke tijden",
-          sentence: "Internationale ___ is onderweg naar het eiland.",
-          answer: "hulp"
+          word: "Virginia",
+          definition: "een staat in de Verenigde Staten",
+          sentence: "Er was een verkiezing in ___.",
+          answer: "Virginia"
         },
         {
-          word: "orkaan",
-          definition: "een hele zware storm met veel wind en regen",
-          sentence: "De ___ veroorzaakte veel schade.",
-          answer: "orkaan"
+          word: "New York",
+          definition: "een grote stad in Amerika",
+          sentence: "Hij is de burgemeester van ___.",
+          answer: "New York"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ veroorzaakte veel schade.",
-          answer: "orkaan"
+          sentence: "Er waren ___ in verschillende staten.",
+          answer: "gouverneursraces"
         },
         {
-          sentence: "Er ___ een tekort aan voedsel.",
-          answer: "dreigt"
+          sentence: "Er was een verkiezing in ___.",
+          answer: "Virginia"
         },
         {
-          sentence: "Na de overstroming was er ___.",
-          answer: "hongersnood"
+          sentence: "Hij deed mee aan de ___.",
+          answer: "burgemeestersrace"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'dodentol' in deze context?",
+        question: "Wie won de burgemeestersrace in New York?",
         options: [
-          "Het aantal doden",
-          "Het aantal gewonden",
-          "De naam van een plaats",
-          "Een soort weegschaal"
+          "Zohran Mamdani",
+          "Donald Trump",
+          "Joe Biden",
+          "Een onbekende kandidaat"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is een 'orkaan'?",
+        question: "Wat is de rol van een gouverneur?",
         options: [
-          "Een soort dans",
-          "Een sterke tropische storm",
-          "Een soort vogel",
-          "Een type auto"
+          "Leider van een staat",
+          "President van het land",
+          "Burgemeester van een stad",
+          "Minister van onderwijs"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Waarom wordt er 'hongersnood' verwacht in Jamaica?",
+        question: "In welke land zijn deze verkiezingen gehouden?",
         options: [
-          "Omdat er te veel voedsel is",
-          "Omdat er onvoldoende voedsel is door de orkaan",
-          "Omdat de bevolking niet van eten houdt",
-          "Omdat het land veel voedsel exporteert"
+          "Verenigde Staten",
+          "Nederland",
+          "Duitsland",
+          "Frankrijk"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De dodentol in Jamaica is gestegen tot 32.",
-        isTrue: true
-      },
-      {
-        statement: "Hongersnood dreigt al in alle delen van Jamaica.",
+        statement: "Donald Trump is de huidige president van de Verenigde Staten.",
         isTrue: false
       },
       {
-        statement: "Nog niet alle gebieden hebben hulp ontvangen.",
+        statement: "Zohran Mamdani won de burgemeestersrace in New York.",
         isTrue: true
+      },
+      {
+        statement: "Deze verkiezingen vonden plaats in Europa.",
+        isTrue: false
       }
     ]
   },
@@ -135,104 +135,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
+    title: "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
     topicNumber: 1,
     article: {
-      title: "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
-      summary: "Wie wordt gouverneur in Virginia en New Jersey? En wordt een moslim burgemeester van New York? Al doet hij niet mee, deze verkiezingen zijn een barometer voor Donald Trumps populariteit, én die van de Democraten."
+      title: "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
+      summary: "Na een reddingsactie van ruim elf uur werd de Roemeense bouwvakker Octav Stroici (66) bevrijd uit een ingestorte middeleeuwse toren in hartje Rome. Kort daarna overleed hij. Het drama de talrijke dodelijke arbeidsongevallen in Italië opnieuw onder de aandacht."
     },
     vocabulary: {
       words: [
         {
-          word: "verkiezingen",
-          definition: "verkiezingen zijn het kiezen van nieuwe politici",
-          sentence: "De ___ zijn in november.",
-          answer: "verkiezingen"
+          word: "Italië",
+          definition: "Een land in Europa, bekend om zijn eten en geschiedenis.",
+          sentence: "___ is een populair vakantieland.",
+          answer: "Italië"
         },
         {
-          word: "burgemeester",
-          definition: "een burgemeester is de baas van een stad",
-          sentence: "De ___ van New York is een Democraat.",
-          answer: "burgemeester"
+          word: "arbeidsongevallen",
+          definition: "Ongevallen die gebeuren tijdens het werk.",
+          sentence: "De fabriek heeft strenge regels om ___ te voorkomen.",
+          answer: "arbeidsongevallen"
         },
         {
-          word: "Democraten",
-          definition: "de Democraten zijn een van de twee grote politieke partijen in de VS",
-          sentence: "De ___ willen meer geld voor scholen.",
-          answer: "Democraten"
+          word: "Rome",
+          definition: "De hoofdstad van Italië.",
+          sentence: "___ is een oude stad met veel geschiedenis.",
+          answer: "Rome"
         },
         {
-          word: "gouverneur",
-          definition: "een gouverneur is de baas van een staat",
-          sentence: "De ___ van Texas woont in Austin.",
-          answer: "gouverneur"
+          word: "talrijke",
+          definition: "Heel veel, in grote aantallen.",
+          sentence: "Er waren ___ mensen aanwezig bij de bijeenkomst.",
+          answer: "talrijke"
         },
         {
-          word: "populariteit",
-          definition: "populariteit is hoe populair iets of iemand is",
-          sentence: "De ___ van de president neemt af in de peilingen.",
-          answer: "populariteit"
+          word: "overleed",
+          definition: "Heeft geen leven meer, is doodgegaan.",
+          sentence: "Hij ___ na een lang ziekbed.",
+          answer: "overleed"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ zijn in november.",
-          answer: "verkiezingen"
+          sentence: "___ is een oude stad met veel geschiedenis.",
+          answer: "Rome"
         },
         {
-          sentence: "De ___ van Texas woont in Austin.",
-          answer: "gouverneur"
+          sentence: "___ is een populair vakantieland.",
+          answer: "Italië"
         },
         {
-          sentence: "De ___ van New York is een Democraat.",
-          answer: "burgemeester"
+          sentence: "Hij ___ na een lang ziekbed.",
+          answer: "overleed"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de rol van een gouverneur in de VS?",
+        question: "Waar is de bouwvakker Octav Stroici omgekomen?",
         options: [
-          "Hij is de baas van een hele staat.",
-          "Hij is alleen verantwoordelijk voor de hoofdstad.",
-          "Hij is de baas van het leger in de staat.",
-          "Hij is een burgemeester met een andere titel."
+          "In een oude toren in Rome",
+          "Op een boerderij in Italië",
+          "In een moderne fabriek in Duitsland",
+          "Tijdens een vakantie in Spanje"
         ],
         correctAnswer: 1
       },
       {
-        question: "Waarover gaan de verkiezingen in dit artikel?",
+        question: "Hoe lang duurde de reddingsactie voor Octav Stroici?",
         options: [
-          "Over het kiezen van nieuwe politici in de VS.",
-          "Over de Olympische Spelen in de VS.",
-          "Over de verkiezing van de koning van de VS.",
-          "Over de bouw van nieuwe scholen in de VS."
+          "Minder dan een uur",
+          "Ongeveer elf uur",
+          "Meer dan een dag",
+          "Niet vermeld in de tekst"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat is de invloed van deze verkiezingen op de Democraten?",
+        question: "Wat is de gevolg van dit incident volgens de tekst?",
         options: [
-          "Ze kunnen de partij helpen of schaden, afhankelijk van de uitslag.",
-          "Ze zullen de partij zeker helpen, ongeacht de uitslag.",
-          "Ze hebben geen effect op de partij, alleen op lokale zaken.",
-          "Ze zijn alleen belangrijk voor de Republikeinse partij."
+          "Meer aandacht voor arbeidsveiligheid",
+          "Meer toerisme naar Rome",
+          "Geen gevolgen",
+          "Een nieuwe wet tegen oude gebouwen"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De verkiezingen in het artikel gaan over het kiezen van nieuwe politici in de VS.",
+        statement: "Octav Stroici overleefde het ongeluk niet.",
         isTrue: true
       },
       {
-        statement: "Een gouverneur in de VS is de baas van een hele stad.",
+        statement: "Er zijn dit jaar al 777 doden gevallen in Italië door arbeidsongevallen.",
+        isTrue: true
+      },
+      {
+        statement: "De toren stortte in omdat het een nieuwe constructie was.",
         isTrue: false
-      },
-      {
-        statement: "De populariteit van Donald Trump wordt beïnvloed door de uitslag van deze verkiezingen.",
-        isTrue: true
       }
     ]
   },
@@ -241,104 +241,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Nieuwe voorzitter Jesse Klaver",
+    title: "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
     topicNumber: 1,
     article: {
-      title: "Nieuwe voorzitter Jesse Klaver",
-      summary: "Jesse Klaver is de nieuwe voorzitter van GroenLinks-PvdA. Hij volgt Frans Timmermans op. Zijn taak is om te onderhandelen over een nieuwe regering voor Nederland. Dit wordt een moeilijke opgave met lastige keuzes."
+      title: "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
+      summary: "In Mali staat het militaire regime onder zware druk. Al-Qaeda-strijders hebben een economische blokkade ingevoerd tegen Bamako, waardoor de stad zonder brandstof dreigt te vallen. De rebellen hopen dat er een opstand uitbreekt, zodat zij de macht kunnen grijpen."
     },
     vocabulary: {
       words: [
         {
-          word: "voorzitter",
-          definition: "een leider of iemand die de leiding heeft",
-          sentence: "De ___ van de vergadering leidde de discussie.",
-          answer: "voorzitter"
+          word: "economische",
+          definition: "Weer een voor hetzelfde woord, maar nu specifiek voor de titel",
+          sentence: "De ___ crisis treft iedereen.",
+          answer: "economische"
         },
         {
-          word: "taak",
-          definition: "iets wat gedaan moet worden, een opdracht",
-          sentence: "Zijn belangrijkste ___ is het leiden van de onderhandelingen.",
-          answer: "taak"
+          word: "macht",
+          definition: "De kracht of autoriteit die iemand heeft",
+          sentence: "Hij heeft veel ___ in de organisatie.",
+          answer: "macht"
         },
         {
-          word: "opgave",
-          definition: "iets wat gedaan moet worden, een taak",
-          sentence: "Zijn nieuwe ___ is het leiden van de coalitieonderhandelingen.",
-          answer: "opgave"
+          word: "economische",
+          definition: "Alles wat met geld en handel te maken heeft",
+          sentence: "De ___ situatie in het land is slecht.",
+          answer: "economische"
         },
         {
-          word: "lastige",
-          definition: "moeilijk, vervelend of complex",
-          sentence: "De onderhandelingen werden ___ door tegenstrijdige belangen.",
-          answer: "lastige"
+          word: "rebellen",
+          definition: "Mensen die vechten tegen de regering",
+          sentence: "De ___ voerden een aanval uit.",
+          answer: "rebellen"
         },
         {
-          word: "keuzes",
-          definition: "verschillende mogelijkheden waaruit je kunt kiezen",
-          sentence: "Hij heeft moeilijke ___ te maken over de toekomst.",
-          answer: "keuzes"
+          word: "brandstof",
+          definition: "Materiaal dat verbrand wordt voor energie, zoals benzine",
+          sentence: "Zonder ___ kan de auto niet rijden.",
+          answer: "brandstof"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Zijn nieuwe ___ is het leiden van de coalitieonderhandelingen.",
-          answer: "opgave"
+          sentence: "Hij heeft veel ___ in de organisatie.",
+          answer: "macht"
         },
         {
-          sentence: "De ___ van de vergadering leidde de discussie.",
-          answer: "voorzitter"
+          sentence: "De ___ voerden een aanval uit.",
+          answer: "rebellen"
         },
         {
-          sentence: "De onderhandelingen werden ___ door tegenstrijdige belangen.",
-          answer: "lastige"
+          sentence: "De ___ crisis treft iedereen.",
+          answer: "economische"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de hoofdtaak van Jesse Klaver als nieuwe voorzitter?",
+        question: "Wat is het hoofdonderwerp van dit artikel?",
         options: [
-          "Het leiden van internationale vergaderingen",
-          "Het onderhandelen over een nieuwe regering voor Nederland",
-          "Het schrijven van politieke speeches",
-          "Het trainen van nieuwe politici"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat beschrijft de tekst over de uitdagingen voor Klaver?",
-        options: [
-          "Ze zijn onmogelijk",
-          "Ze zijn eenvoudig en duidelijk",
-          "Ze zijn lastig en moeilijk",
-          "Ze zijn onbekend en mysterieus"
+          "Het weer in Mali",
+          "De economische situatie in Mali",
+          "Een conflict met Al-Qaeda in Mali",
+          "De vrede in Mali"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wie was de vorige leider van GroenLinks-PvdA volgens de tekst?",
+        question: "Wat is de rol van de rebellen in dit artikel?",
         options: [
-          "Jesse Klaver",
-          "Frans Timmermans",
-          "Een internationale diplomaat",
-          "Een voormalig president"
+          "Ze helpen de regering",
+          "Ze voeren een blokkade uit",
+          "Ze zijn de regering van het land",
+          "Ze geven voedsel aan iedereen"
         ],
         correctAnswer: 2
+      },
+      {
+        question: "Wat is een mogelijk gevolg van de acties van de rebellen?",
+        options: [
+          "Er komt meer brandstof",
+          "De stad Bamako valt",
+          "Er breekt een opstand uit",
+          "De regering wordt sterker"
+        ],
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Jesse Klaver volgt Frans Timmermans op als voorzitter van GroenLinks-PvdA.",
-        isTrue: true
-      },
-      {
-        statement: "De hoofdtaak van Klaver is het leiden van een sportteam.",
+        statement: "De rebellen hebben Bamako ingenomen.",
         isTrue: false
       },
       {
-        statement: "Klaver staat voor een moeilijke opgave met lastige keuzes.",
+        statement: "De rebellen proberen de regering ten val te brengen.",
         isTrue: true
+      },
+      {
+        statement: "De economische blokkade is bedoeld om de stad te helpen.",
+        isTrue: false
       }
     ]
   },
@@ -347,103 +347,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Greet D’HELF, 62 jaar",
+    title: "Madeleine Fonteyne, 100 jaar",
     topicNumber: 1,
     article: {
-      title: "Greet D’HELF, 62 jaar",
-      summary: "Geboren in 1963, overleden op 30/10/2025."
+      title: "Madeleine Fonteyne, 100 jaar",
+      summary: "Geboren in 1924, overleden op 29/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "62",
-          definition: "Leeftijd van de persoon",
-          sentence: "Hij is ___ jaar oud.",
-          answer: "62"
+          word: "Geboren",
+          definition: "Het moment dat iemand ter wereld komt.",
+          sentence: "Madeleine Fonteyne is ___ in 1924.",
+          answer: "geboren"
         },
         {
-          word: "Greet",
-          definition: "Voornaam van de persoon",
-          sentence: "___ is een vrouwelijke naam.",
-          answer: "Greet"
-        },
-        {
-          word: "jaar",
-          definition: "Een periode van 365 dagen",
-          sentence: "Een ___ heeft 365 dagen.",
-          answer: "jaar"
-        },
-        {
-          word: "overleden",
-          definition: "Stoppen met leven, doodgaan",
-          sentence: "Hij is ___ op 30 oktober.",
+          word: "Overleden",
+          definition: "Niet meer levend; gestorven.",
+          sentence: "Hij is ___ op 29 oktober 2025.",
           answer: "overleden"
         },
         {
-          word: "2025",
-          definition: "Het jaar 2025",
-          sentence: "In het jaar ___ zal alles anders zijn.",
-          answer: "2025"
+          word: "Overleden",
+          definition: "Niet meer levend; gestorven.",
+          sentence: "Hij is ___ op 29 oktober 2025.",
+          answer: "overleden"
+        },
+        {
+          word: "Overleden",
+          definition: "Niet meer levend; gestorven.",
+          sentence: "Zij is ___ op 29 oktober 2025.",
+          answer: "overleden"
+        },
+        {
+          word: "Geboren",
+          definition: "Het moment dat iemand ter wereld komt.",
+          sentence: "Zij is ___ in 1924.",
+          answer: "geboren"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij is ___ op 30 oktober.",
+          sentence: "Madeleine Fonteyne is ___ in 1924.",
+          answer: "geboren"
+        },
+        {
+          sentence: "Hij is ___ op 29 oktober 2025.",
           answer: "overleden"
         },
         {
-          sentence: "In het jaar ___ zal alles anders zijn.",
-          answer: "2025"
-        },
-        {
-          sentence: "___ is een vrouwelijke naam.",
-          answer: "Greet"
+          sentence: "Zij is ___ op 29 oktober 2025.",
+          answer: "overleden"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "In welk jaar is Greet D’HELF geboren?",
+        question: "In welk jaar is Madeleine Fonteyne geboren?",
         options: [
-          "1963",
-          "1964",
-          "1965",
-          "1966"
+          "1924",
+          "1925",
+          "1926",
+          "1927"
         ],
         correctAnswer: 1
       },
       {
-        question: "Op welke datum is Greet D’HELF overleden?",
+        question: "Op welke datum is Madeleine Fonteyne overleden?",
         options: [
           "29 oktober 2025",
           "30 oktober 2025",
-          "31 oktober 2025",
-          "1 november 2025"
+          "29 november 2025",
+          "30 november 2025"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Hoe oud was Greet D’HELF toen ze overleed?",
+        question: "Hoe oud werd Madeleine Fonteyne?",
         options: [
-          "60 jaar",
-          "61 jaar",
-          "62 jaar",
-          "63 jaar"
+          "100 jaar",
+          "99 jaar",
+          "101 jaar",
+          "102 jaar"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Greet D’HELF is geboren in 1963.",
+        statement: "Madeleine Fonteyne is geboren in 1924.",
         isTrue: true
       },
       {
-        statement: "Greet D’HELF is overleden in november 2025.",
+        statement: "Madeleine Fonteyne is overleden op 30 oktober 2025.",
         isTrue: false
       },
       {
-        statement: "Greet D’HELF werd 62 jaar oud.",
+        statement: "Madeleine Fonteyne werd 100 jaar oud.",
         isTrue: true
       }
     ]
@@ -453,43 +453,43 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Paul Defoort, 78 jaar",
+    title: "Antoon Devogelaere, 98 jaar",
     topicNumber: 1,
     article: {
-      title: "Paul Defoort, 78 jaar",
-      summary: "Paul Defoort is geboren in 1946 en overleden op 27 oktober 2025."
+      title: "Antoon Devogelaere, 98 jaar",
+      summary: "Geboren in 1927, overleden op 31 oktober 2025"
     },
     vocabulary: {
       words: [
         {
+          word: "jaar",
+          definition: "periode van 365 dagen",
+          sentence: "Hij is 98 ___ oud geworden.",
+          answer: "jaar"
+        },
+        {
+          word: "geboren",
+          definition: "begonnen met leven",
+          sentence: "Hij is ___ in 1927.",
+          answer: "geboren"
+        },
+        {
           word: "2025",
-          definition: "Het jaar na 2024",
+          definition: "jaartal",
           sentence: "Hij overleed in het jaar ___.",
           answer: "2025"
         },
         {
-          word: "Defoort",
-          definition: "Familienaam van Paul",
-          sentence: "De familienaam van de overledene is ___.",
-          answer: "Defoort"
+          word: "overleden",
+          definition: "niet meer levend, gestorven",
+          sentence: "Hij is ___ op 31 oktober 2025.",
+          answer: "overleden"
         },
         {
-          word: "geboren",
-          definition: "Begonnen met leven, het tegenovergestelde van overleden",
-          sentence: "Hij is ___ in 1946.",
-          answer: "geboren"
-        },
-        {
-          word: "oktober",
-          definition: "De tiende maand van het jaar",
-          sentence: "Hij overleed in ___, de tiende maand.",
-          answer: "oktober"
-        },
-        {
-          word: "Paul",
-          definition: "Een mannelijke voornaam",
-          sentence: "___ is de voornaam van de overleden man.",
-          answer: "Paul"
+          word: "98",
+          definition: "getal tussen 97 en 99",
+          sentence: "Hij werd ___ jaar oud.",
+          answer: "98"
         }
       ],
       fillInBlanks: [
@@ -498,59 +498,59 @@ export const exercises: Exercise[] = [
           answer: "2025"
         },
         {
-          sentence: "De familienaam van de overledene is ___.",
-          answer: "Defoort"
+          sentence: "Hij is 98 ___ oud geworden.",
+          answer: "jaar"
         },
         {
-          sentence: "Hij overleed in ___, de tiende maand.",
-          answer: "oktober"
+          sentence: "Hij is ___ op 31 oktober 2025.",
+          answer: "overleden"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "In welk jaar is Paul Defoort overleden?",
+        question: "In welk jaar is Antoon Devogelaere geboren?",
         options: [
-          "2023",
-          "2024",
-          "2025",
-          "2026"
+          "1927",
+          "1928",
+          "1929",
+          "1930"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Hoe oud was Antoon Devogelaere geworden?",
+        options: [
+          "96 jaar",
+          "97 jaar",
+          "98 jaar",
+          "99 jaar"
         ],
         correctAnswer: 3
       },
       {
-        question: "Hoe oud was Paul Defoort op het moment van overlijden?",
+        question: "In welke maand is Antoon Devogelaere overleden?",
         options: [
-          "76 jaar",
-          "77 jaar",
-          "78 jaar",
-          "79 jaar"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Waar komt Paul Defoort vandaan?",
-        options: [
-          "Uit Amsterdam",
-          "Uit Rotterdam",
-          "Uit Den Haag",
-          "Uit een onbekende plaats"
+          "januari",
+          "februari",
+          "maart",
+          "oktober"
         ],
         correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "Paul Defoort is geboren in 1946.",
+        statement: "Antoon Devogelaere is geboren in 1927.",
         isTrue: true
       },
       {
-        statement: "Paul Defoort overleed in oktober 2025.",
-        isTrue: true
-      },
-      {
-        statement: "Paul Defoort was 79 jaar oud toen hij overleed.",
+        statement: "Antoon Devogelaere is overleden in oktober 2024.",
         isTrue: false
+      },
+      {
+        statement: "Antoon Devogelaere werd 98 jaar oud.",
+        isTrue: true
       }
     ]
   },
@@ -559,104 +559,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Stormloop voor nieuwe tandarts in Kluisbergen",
+    title: "Organisaties verliezen subsidies in strijd tegen armoede in onderwijs",
     topicNumber: 1,
     article: {
-      title: "Stormloop voor nieuwe tandarts in Kluisbergen",
-      summary: "Tandarts Julie Parmentier (26) start donderdag haar praktijk in Kluisbergen en nu al zit ze volgeboekt tot in september 2026. Het is typerend voor een probleem in veel Vlaamse gemeenten."
+      title: "Organisaties verliezen subsidies in strijd tegen armoede in onderwijs",
+      summary: "Twee organisaties die armoede in het onderwijs bestrijden, verliezen hun subsidies van de Vlaamse overheid. Dit heeft gevolgen voor kinderen en innovatie."
     },
     vocabulary: {
       words: [
         {
-          word: "probleem",
-          definition: "iets dat moeilijk is of niet goed gaat",
-          sentence: "Er is een ___ met de waterleiding.",
-          answer: "probleem"
+          word: "subsidies",
+          definition: "financiële steun van de overheid",
+          sentence: "De overheid geeft ___ aan organisaties die helpen.",
+          answer: "subsidies"
         },
         {
-          word: "praktijk",
-          definition: "de plaats waar een professional werkt, zoals een dokter",
-          sentence: "Haar nieuwe ___ is in het centrum.",
-          answer: "praktijk"
+          word: "overheid",
+          definition: "de organisatie die een land of gebied bestuurt",
+          sentence: "De ___ moet zorgen voor haar burgers.",
+          answer: "overheid"
         },
         {
-          word: "start",
-          definition: "beginnen, van start gaan",
-          sentence: "Ze ___ volgende week met haar nieuwe baan.",
-          answer: "start"
+          word: "organisaties",
+          definition: "groepen mensen die samenwerken voor een doel",
+          sentence: "De ___ werken aan een betere wereld.",
+          answer: "organisaties"
         },
         {
-          word: "typerend",
-          definition: "iets wat heel kenmerkend of typisch is",
-          sentence: "Het is ___ voor deze tijd van het jaar.",
-          answer: "typerend"
+          word: "onderwijs",
+          definition: "het geven of krijgen van les en kennis",
+          sentence: "Goed ___ is belangrijk voor ieders toekomst.",
+          answer: "onderwijs"
         },
         {
-          word: "volgeboekt",
-          definition: "helemaal vol, geen plaats meer",
-          sentence: "Het hotel is ___ voor de zomer.",
-          answer: "volgeboekt"
+          word: "kinderen",
+          definition: "jonge mensen, meestal onder de 18 jaar",
+          sentence: "De ___ spelen in het park.",
+          answer: "kinderen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Er is een ___ met de waterleiding.",
-          answer: "probleem"
+          sentence: "De ___ moet zorgen voor haar burgers.",
+          answer: "overheid"
         },
         {
-          sentence: "Het is ___ voor deze tijd van het jaar.",
-          answer: "typerend"
+          sentence: "De ___ spelen in het park.",
+          answer: "kinderen"
         },
         {
-          sentence: "Haar nieuwe ___ is in het centrum.",
-          answer: "praktijk"
+          sentence: "De ___ werken aan een betere wereld.",
+          answer: "organisaties"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de situatie met tandarts Julie Parmentier?",
+        question: "Waarom verliezen de organisaties hun subsidies?",
         options: [
-          "Ze heeft te veel patiënten",
-          "Ze heeft te weinig patiënten",
-          "Ze verkoopt haar praktijk",
-          "Ze is met pensioen"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is het probleem in veel Vlaamse gemeenten?",
-        options: [
-          "Te veel tandartsen",
-          "Te weinig tandartsen",
-          "Geen apotheken",
-          "Geen supermarkten"
+          "Omdat ze te veel winst maken",
+          "Omdat de overheid vindt dat ze niet efficiënt werken",
+          "Omdat ze geen armoede bestrijden",
+          "Omdat ze in een ander land werken"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de toestand van haar praktijk nu?",
+        question: "Wat is een gevolg van het verlies van de subsidies?",
         options: [
-          "Ze is net begonnen",
-          "Ze is al jaren bezig",
-          "Ze is gestopt",
-          "Ze is verhuisd"
+          "Kinderen krijgen meer speeltijd",
+          "Organisaties stoppen volledig",
+          "Kinderen lijden onder armoede",
+          "De overheid wordt rijker"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
+      },
+      {
+        question: "Wat is de rol van de overheid in deze situatie?",
+        options: [
+          "Ze geeft extra geld aan iedereen",
+          "Ze beslist over de subsidie",
+          "Ze werkt samen met de organisaties",
+          "Ze negeert het probleem"
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Julie Parmentier is een tandarts.",
-        isTrue: true
-      },
-      {
-        statement: "Julie Parmentier werkt in een supermarkt.",
+        statement: "Alleen organisaties die armoede bestrijden, krijgen subsidies.",
         isTrue: false
       },
       {
-        statement: "De praktijk van Julie start volgende week.",
+        statement: "Kinderen hebben direct last van het verlies van subsidies.",
         isTrue: true
+      },
+      {
+        statement: "De overheid heeft de subsidies volledig stopgezet.",
+        isTrue: false
       }
     ]
   },
@@ -665,103 +665,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Orkaan in Jamaica",
+    title: "Amerikaans nieuws",
     topicNumber: 1,
     article: {
-      title: "Orkaan in Jamaica",
-      summary: "Na de orkaan zijn er problemen. Er zijn doden en er is weinig eten."
+      title: "Amerikaans nieuws",
+      summary: "Dit artikel gaat over Amerika. Er is nieuws over verkiezingen. Dit is belangrijk voor de wereld."
     },
     vocabulary: {
       words: [
         {
-          word: "eten",
-          definition: "voedsel dat je eet",
-          sentence: "Mensen hebben ___ nodig om te leven.",
-          answer: "eten"
+          word: "Amerika",
+          definition: "een land, ook Verenigde Staten genoemd",
+          sentence: "Dit artikel gaat over ___.",
+          answer: "Amerika"
         },
         {
-          word: "doden",
-          definition: "mensen die zijn gestorven",
-          sentence: "Er zijn veel ___ door de ramp.",
-          answer: "doden"
+          word: "verkiezingen",
+          definition: "als mensen stemmen om een leider te kiezen",
+          sentence: "Er zijn ___ in Amerika.",
+          answer: "verkiezingen"
         },
         {
-          word: "Jamaica",
-          definition: "een land in het Caribisch gebied",
-          sentence: "De orkaan trof ___ het hardst.",
-          answer: "Jamaica"
+          word: "nieuws",
+          definition: "informatie over wat er gebeurt, vaak recent",
+          sentence: "Dit is het ___ over Amerika.",
+          answer: "nieuws"
         },
         {
-          word: "eten",
-          definition: "voedsel dat je eet",
-          sentence: "Honger betekent dat je ___ wilt hebben.",
-          answer: "eten"
+          word: "artikel",
+          definition: "een geschreven tekst over een onderwerp",
+          sentence: "Dit ___ gaat over Amerika.",
+          answer: "artikel"
         },
         {
-          word: "problemen",
-          definition: "dingen die moeilijk of fout gaan",
-          sentence: "Na de storm zijn er veel ___.",
-          answer: "problemen"
+          word: "wereld",
+          definition: "de aarde en alle mensen en landen",
+          sentence: "Dit nieuws is belangrijk voor de ___.",
+          answer: "wereld"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Na de storm zijn er veel ___.",
-          answer: "problemen"
+          sentence: "Dit nieuws is belangrijk voor de ___.",
+          answer: "wereld"
         },
         {
-          sentence: "Mensen hebben ___ nodig om te leven.",
-          answer: "eten"
+          sentence: "Dit artikel gaat over ___.",
+          answer: "Amerika"
         },
         {
-          sentence: "Er zijn veel ___ door de ramp.",
-          answer: "doden"
+          sentence: "Er zijn ___ in Amerika.",
+          answer: "verkiezingen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar ging de orkaan over?",
+        question: "Waar gaat dit artikel over?",
         options: [
-          "Nederland",
-          "Jamaica",
-          "Duitsland",
-          "China"
+          "Sport",
+          "Koken",
+          "Amerika",
+          "Winkelen"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat is 'nieuws'?",
+        options: [
+          "Een soort voedsel",
+          "Informatie over recente gebeurtenissen",
+          "Een soort sport",
+          "Een type kleding"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een gevolg van de orkaan?",
+        question: "Waarom is dit nieuws belangrijk?",
         options: [
-          "Mensen gaan winkelen",
-          "Er is veel schade",
-          "Iedereen is veilig",
-          "Het weer is mooi"
+          "Het is niet belangrijk",
+          "Alleen voor Amerika",
+          "Voor de hele wereld",
+          "Alleen voor de schrijver"
         ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is honger?",
-        options: [
-          "Een soort feest",
-          "Een gevoel dat je wilt eten",
-          "Een soort game",
-          "Een soort dier"
-        ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De orkaan trof Nederland.",
+        statement: "Dit artikel gaat over een feest in Amerika.",
         isTrue: false
       },
       {
-        statement: "Na de orkaan hebben mensen honger.",
+        statement: "Amerika is een land.",
         isTrue: true
       },
       {
-        statement: "Er zijn geen doden door de orkaan.",
+        statement: "Dit nieuws is alleen belangrijk voor mensen in Amerika.",
         isTrue: false
       }
     ]
@@ -771,104 +771,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
+    title: "Rome rouwt om verongelukte Roemeense bouwvakker",
     topicNumber: 1,
     article: {
-      title: "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
-      summary: "Wie wordt gouverneur in Virginia en New Jersey? En wordt een moslim burgemeester van New York? Al doet hij niet mee, deze verkiezingen zijn een barometer voor Donald Trumps populariteit, én die van de Democraten."
+      title: "Rome rouwt om verongelukte Roemeense bouwvakker",
+      summary: "Een bouwvakker uit Roemenië is overleden na een ongeluk in Rome, Italië. Dit jaar zijn er al 777 doden op de werkvloer in Italië."
     },
     vocabulary: {
       words: [
         {
-          word: "burgemeesters",
-          definition: "een burgemeester is de baas van een stad of gemeente",
-          sentence: "De ___ van grote steden hebben veel werk.",
-          answer: "burgemeesters"
+          word: "doden",
+          definition: "mensen die niet meer leven",
+          sentence: "Er zijn veel ___ door ongevallen.",
+          answer: "doden"
         },
         {
-          word: "herlanceren",
-          definition: "opnieuw beginnen of iets nieuw leven inblazen",
-          sentence: "Hij wil zijn carrière ___ met een nieuw project.",
-          answer: "herlanceren"
+          word: "bouwvakker",
+          definition: "iemand die werkt in de bouw",
+          sentence: "De ___ werkte in Italië.",
+          answer: "bouwvakker"
         },
         {
-          word: "wie",
-          definition: "welke persoon of personen",
-          sentence: "___ komt er naar het feest?",
-          answer: "wie"
+          word: "Rome",
+          definition: "een stad in Italië",
+          sentence: "Hij werkte in ___.",
+          answer: "Rome"
         },
         {
-          word: "gouverneurs",
-          definition: "een gouverneur is een baas in een staat of gebied",
-          sentence: "De ___ van New York en Virginia zijn belangrijk.",
-          answer: "gouverneurs"
+          word: "Roemeense",
+          definition: "iemand uit Roemenië",
+          sentence: "Hij is een ___ man.",
+          answer: "Roemeense"
         },
         {
-          word: "verkiezingen",
-          definition: "een verkiezing is als mensen stemmen om te kiezen wie de baas wordt",
-          sentence: "Tijdens de ___ kiest iedereen een nieuw hoofd.",
-          answer: "verkiezingen"
+          word: "Italië",
+          definition: "een land in Europa",
+          sentence: "Italië is een land in Europa.",
+          answer: "Italië"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Tijdens de ___ kiest iedereen een nieuw hoofd.",
-          answer: "verkiezingen"
+          sentence: "De ___ werkte in Italië.",
+          answer: "bouwvakker"
         },
         {
-          sentence: "De ___ van grote steden hebben veel werk.",
-          answer: "burgemeesters"
+          sentence: "Hij werkte in ___.",
+          answer: "Rome"
         },
         {
-          sentence: "___ komt er naar het feest?",
-          answer: "wie"
+          sentence: "Italië is een land in Europa.",
+          answer: "Italië"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'herlanceren'?",
+        question: "Waar werkte de man?",
         options: [
-          "opnieuw beginnen",
-          "stoppen",
-          "vergeten",
-          "verliezen"
+          "in een winkel",
+          "op een bouwplaats",
+          "in een school",
+          "in een park"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat is een 'gouverneur'?",
+        question: "Waar is de man nu?",
         options: [
-          "een soort auto",
-          "een soort dier",
-          "een politieke leider van een staat",
-          "een type voedsel"
+          "hij is thuis",
+          "hij is op vakantie",
+          "hij is overleden",
+          "hij is in de auto"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is een 'verkiezing'?",
+        question: "Waar is Italië?",
         options: [
-          "een sportwedstrijd",
-          "een groot feest",
-          "een moment waarop mensen stemmen voor een nieuwe leider",
-          "een soort spel"
+          "in Azië",
+          "in Europa",
+          "in Afrika",
+          "in Amerika"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Een burgemeester is de leider van een stad.",
-        isTrue: true
-      },
-      {
-        statement: "Een gouverneur is de leider van een heel land.",
+        statement: "De man is nog in leven.",
         isTrue: false
       },
       {
-        statement: "Tijdens een verkiezing kiest men een nieuwe leider.",
+        statement: "Rome is een stad in Italië.",
         isTrue: true
+      },
+      {
+        statement: "De man werkte in een school.",
+        isTrue: false
       }
     ]
   },
@@ -877,104 +877,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Nieuwe voorzitter Jesse Klaver",
+    title: "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
     topicNumber: 1,
     article: {
-      title: "Nieuwe voorzitter Jesse Klaver",
-      summary: "Jesse Klaver is de nieuwe voorzitter. Hij wordt de nieuwe leider. Hij gaat voor GroenLinks-PvdA praten over een nieuwe regering. Het wordt een moeilijke taak."
+      title: "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
+      summary: "In Mali staat het militaire regime onder zware druk. Al-Qaeda-strijders hebben een economische blokkade ingevoerd tegen Bamako, waardoor de stad zonder brandstof dreigt te vallen. De rebellen hopen dat er een opstand uitbreekt, zodat zij de macht kunnen grijpen."
     },
     vocabulary: {
       words: [
         {
-          word: "praten",
-          definition: "spreken, woorden zeggen",
-          sentence: "We ___ met elkaar over onze plannen.",
-          answer: "praten"
+          word: "regime",
+          definition: "de groep mensen die een land bestuurt",
+          sentence: "Het ___ is niet democratisch.",
+          answer: "regime"
         },
         {
-          word: "voorzitter",
-          definition: "iemand die de leiding heeft",
-          sentence: "De ___ van de vergadering spreekt eerst.",
-          answer: "voorzitter"
+          word: "brandstof",
+          definition: "stof om machines te laten werken, zoals benzine",
+          sentence: "Zonder ___ kan de auto niet rijden.",
+          answer: "brandstof"
         },
         {
-          word: "leider",
-          definition: "iemand die de leiding heeft",
-          sentence: "De ___ van het team motiveert de groep.",
-          answer: "leider"
+          word: "opstand",
+          definition: "een moment waarop mensen in verzet komen tegen de leiders",
+          sentence: "De ___ was groot en gevaarlijk.",
+          answer: "opstand"
         },
         {
-          word: "taak",
-          definition: "iets wat gedaan moet worden, opdracht",
-          sentence: "Mijn ___ voor vandaag is de afwas doen.",
-          answer: "taak"
+          word: "macht",
+          definition: "de kracht of autoriteit die iemand heeft",
+          sentence: "Hij heeft veel ___ in de organisatie.",
+          answer: "macht"
         },
         {
-          word: "leider",
-          definition: "iemand die de leiding heeft",
-          sentence: "De ___ van het project legt alles uit.",
-          answer: "leider"
+          word: "stad",
+          definition: "een plaats waar veel mensen wonen en werken",
+          sentence: "De ___ is groot en druk.",
+          answer: "stad"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "We ___ met elkaar over onze plannen.",
-          answer: "praten"
+          sentence: "Hij heeft veel ___ in de organisatie.",
+          answer: "macht"
         },
         {
-          sentence: "De ___ van het project legt alles uit.",
-          answer: "leider"
+          sentence: "De ___ is groot en druk.",
+          answer: "stad"
         },
         {
-          sentence: "De ___ van het team motiveert de groep.",
-          answer: "leider"
+          sentence: "Zonder ___ kan de auto niet rijden.",
+          answer: "brandstof"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wie is Jesse Klaver?",
+        question: "Wat is de hoofdstad van Mali?",
         options: [
-          "Een Nederlandse politicus",
-          "Een Franse acteur",
-          "Een Duitse zanger",
-          "Een Spaanse kok"
+          "Amsterdam",
+          "Parijs",
+          "Bamako",
+          "Londen"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wat doet Jesse Klaver als nieuwe voorzitter?",
+        question: "Wat voor blokkade is er in de stad?",
         options: [
-          "Hij speelt piano",
-          "Hij onderhandelt over de regering",
-          "Hij kookt eten",
-          "Hij leest een boek"
+          "een sportieve",
+          "een economische",
+          "een politieke",
+          "een culturele"
         ],
         correctAnswer: 2
       },
       {
-        question: "Is dit een moeilijke taak voor Jesse?",
+        question: "Wat hopen de rebellen?",
         options: [
-          "Ja, het is moeilijk",
-          "Nee, het is makkelijk",
-          "Misschien",
-          "Ik weet het niet"
+          "dat de stad valt",
+          "dat er een opstand komt",
+          "dat de brandstof opraakt",
+          "dat de regering valt"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Jesse Klaver is de nieuwe voorzitter.",
+        statement: "De hoofdstad van Mali is Bamako.",
         isTrue: true
       },
       {
-        statement: "Jesse Klaver onderhandelt voor de regering.",
-        isTrue: true
-      },
-      {
-        statement: "Jesse Klaver is een acteur.",
+        statement: "De rebellen hebben een culturele blokkade ingevoerd.",
         isTrue: false
+      },
+      {
+        statement: "De rebellen hopen dat er een opstand uitbreekt.",
+        isTrue: true
       }
     ]
   },
@@ -983,92 +983,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Greet D’HELF, 62 jaar",
+    title: "Madeleine Fonteyne, 100 jaar",
     topicNumber: 1,
     article: {
-      title: "Greet D’HELF, 62 jaar",
-      summary: "Geboren in 1963, overleden op 30/10/2025."
+      title: "Madeleine Fonteyne, 100 jaar",
+      summary: "Madeleine Fonteyne was born in 1924. She died on 29/10/2025. She was 100 years old."
     },
     vocabulary: {
       words: [
         {
-          word: "Geboren",
-          definition: "het begin van het leven",
-          sentence: "Zij is ___ in 1963.",
-          answer: "geboren"
+          word: "old",
+          definition: "not new, having lived long",
+          sentence: "She was 100 years ___.",
+          answer: "old"
         },
         {
-          word: "Overleden",
-          definition: "niet meer levend",
-          sentence: "Hij is ___ op 30 oktober.",
-          answer: "overleden"
+          word: "year",
+          definition: "a period of 365 days",
+          sentence: "She was 100 ___ old.",
+          answer: "year"
         },
         {
-          word: "Jaar",
-          definition: "een periode van 365 dagen",
-          sentence: "Het ___ 2025 is bijna voorbij.",
-          answer: "jaar"
+          word: "Fonteyne",
+          definition: "a last name, family name",
+          sentence: "Madeleine ___ was born in 1924.",
+          answer: "Fonteyne"
+        },
+        {
+          word: "was",
+          definition: "past tense of 'is'",
+          sentence: "She ___ born in 1924.",
+          answer: "was"
+        },
+        {
+          word: "born",
+          definition: "to be born, to come into life",
+          sentence: "She was ___ in 1924.",
+          answer: "born"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij is ___ op 30 oktober.",
-          answer: "overleden"
+          sentence: "Madeleine ___ was born in 1924.",
+          answer: "Fonteyne"
         },
         {
-          sentence: "Het ___ 2025 is bijna voorbij.",
-          answer: "jaar"
+          sentence: "She ___ born in 1924.",
+          answer: "was"
         },
         {
-          sentence: "Zij is ___ in 1963.",
-          answer: "geboren"
+          sentence: "She was ___ in 1924.",
+          answer: "born"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wanneer is Greet D’HELF geboren?",
+        question: "When was Madeleine Fonteyne born?",
         options: [
-          "In 1963",
-          "In 1964",
-          "In 1965",
-          "In 1966"
+          "In 1924",
+          "In 2025",
+          "In 1920",
+          "In 1925"
         ],
         correctAnswer: 1
       },
       {
-        question: "Is Greet D’HELF nog in leven?",
+        question: "How old was Madeleine Fonteyne when she died?",
         options: [
-          "Ja, ze leeft nog",
-          "Nee, ze is overleden",
-          "Ze is net geboren",
-          "Ze is heel oud"
+          "100 years old",
+          "90 years old",
+          "95 years old",
+          "105 years old"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Waar wordt de datum in een artikel vaak vermeld?",
+        question: "What is the surname of Madeleine?",
         options: [
-          "Aan het begin",
-          "Aan het einde",
-          "In de titel",
-          "Nergens"
+          "Fonteyne",
+          "Johnson",
+          "Smith",
+          "Davis"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Greet D’HELF is in 1963 geboren.",
+        statement: "Madeleine Fonteyne was born in 1924.",
         isTrue: true
       },
       {
-        statement: "Greet D’HELF is nog in leven.",
+        statement: "Madeleine Fonteyne died in 2025.",
+        isTrue: true
+      },
+      {
+        statement: "Madeleine Fonteyne was 90 years old when she died.",
         isTrue: false
-      },
-      {
-        statement: "Greet D’HELF overleed in oktober 2025.",
-        isTrue: true
       }
     ]
   },
@@ -1077,104 +1089,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Paul Defoort, 78 jaar",
+    title: "Antoon Devogelaere, 98 jaar",
     topicNumber: 1,
     article: {
-      title: "Paul Defoort, 78 jaar",
-      summary: "Paul Defoort was 78 jaar. Hij is overleden."
+      title: "Antoon Devogelaere, 98 jaar",
+      summary: "Hij is geboren in 1927. Hij is overleden op 31 oktober 2025."
     },
     vocabulary: {
       words: [
         {
-          word: "Paul",
-          definition: "een mannelijke naam",
-          sentence: "___ is een man.",
-          answer: "Paul"
-        },
-        {
-          word: "Defoort",
-          definition: "een achternaam",
-          sentence: "Zijn achternaam is ___.",
-          answer: "Defoort"
-        },
-        {
-          word: "78",
-          definition: "een getal, veel meer dan 10",
-          sentence: "Hij is ___ jaar geworden.",
-          answer: "78"
-        },
-        {
-          word: "jaar",
-          definition: "een periode van 365 dagen",
-          sentence: "Hij is 78 ___ oud.",
-          answer: "jaar"
+          word: "Hij",
+          definition: "verwijst naar een man",
+          sentence: "___ is geboren in 1927.",
+          answer: "Hij"
         },
         {
           word: "overleden",
-          definition: "niet meer levend, dood",
-          sentence: "Hij is ___ op 27 oktober.",
+          definition: "niet meer leven",
+          sentence: "Hij is ___ op 31 oktober 2025.",
           answer: "overleden"
+        },
+        {
+          word: "in",
+          definition: "tijd of plaats",
+          sentence: "Hij is geboren ___ 1927.",
+          answer: "in"
+        },
+        {
+          word: "1927",
+          definition: "een jaartal",
+          sentence: "Hij is geboren in ___.",
+          answer: "1927"
+        },
+        {
+          word: "geboren",
+          definition: "het begin van het leven",
+          sentence: "Hij is ___ in 1927.",
+          answer: "geboren"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij is ___ op 27 oktober.",
+          sentence: "Hij is ___ op 31 oktober 2025.",
           answer: "overleden"
         },
         {
-          sentence: "Zijn achternaam is ___.",
-          answer: "Defoort"
+          sentence: "Hij is geboren ___ 1927.",
+          answer: "in"
         },
         {
-          sentence: "Hij is ___ jaar geworden.",
-          answer: "78"
+          sentence: "Hij is geboren in ___.",
+          answer: "1927"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Hoe oud was Paul Defoort?",
+        question: "Wanneer is Antoon Devogelaere geboren?",
         options: [
-          "78 jaar",
-          "80 jaar",
-          "75 jaar",
-          "77 jaar"
+          "In 1927",
+          "In 1930",
+          "In 1920",
+          "In 1945"
         ],
         correctAnswer: 1
       },
       {
-        question: "In welk jaar is Paul geboren?",
+        question: "Wat is de geboortedatum van Antoon?",
         options: [
-          "1946",
-          "1945",
-          "1947",
-          "1948"
+          "31 oktober 1927",
+          "1 januari 1927",
+          "31 oktober 1920",
+          "31 oktober 1925"
         ],
         correctAnswer: 1
       },
       {
-        question: "Is Paul Defoort nu nog in leven?",
+        question: "Hoe oud was Antoon toen hij overleed?",
         options: [
-          "Nee, hij is overleden.",
-          "Ja, hij leeft nog.",
-          "Hij is ziek.",
-          "Hij is op vakantie."
+          "98 jaar",
+          "100 jaar",
+          "95 jaar",
+          "102 jaar"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Paul Defoort is overleden.",
+        statement: "Antoon Devogelaere is geboren in 1927.",
         isTrue: true
       },
       {
-        statement: "Paul is geboren in 1945.",
+        statement: "Antoon overleed in 2025.",
+        isTrue: true
+      },
+      {
+        statement: "Antoon was 100 jaar oud toen hij overleed.",
         isTrue: false
-      },
-      {
-        statement: "Paul stierf op 27 oktober 2025.",
-        isTrue: true
       }
     ]
   },
@@ -1183,92 +1195,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Nieuwe tandarts in Kluisbergen",
+    title: "Organisaties verliezen subsidies",
     topicNumber: 1,
     article: {
-      title: "Nieuwe tandarts in Kluisbergen",
-      summary: "Tandarts Julie start haar praktijk. Ze is nu al volgeboekt tot in 2026."
+      title: "Organisaties verliezen subsidies",
+      summary: "Twee organisaties verliezen hun subsidies. Zij helpen arme kinderen. De overheid zegt dat er geen geld meer is. Dit is slecht voor de kinderen."
     },
     vocabulary: {
       words: [
         {
-          word: "tandarts",
-          definition: "iemand die zorgt voor tanden",
-          sentence: "De ___ helpt als je kiespijn hebt.",
-          answer: "tandarts"
+          word: "subsidies",
+          definition: "geld van de overheid",
+          sentence: "De overheid geeft geen ___ meer.",
+          answer: "subsidies"
         },
         {
-          word: "praktijk",
-          definition: "de plaats waar een professional werkt",
-          sentence: "De tandarts heeft een nieuwe ___.",
-          answer: "praktijk"
+          word: "geen",
+          definition: "niet iets",
+          sentence: "Er is ___ geld meer.",
+          answer: "geen"
         },
         {
-          word: "volgeboekt",
-          definition: "helemaal vol, geen plaats meer",
-          sentence: "Er zijn geen afspraken meer mogelijk, want de agenda is ___.",
-          answer: "volgeboekt"
+          word: "slecht",
+          definition: "niet goed",
+          sentence: "Dit is ___ voor de kinderen.",
+          answer: "slecht"
+        },
+        {
+          word: "verliezen",
+          definition: "iets niet meer hebben",
+          sentence: "Zij ___ hun geld.",
+          answer: "verliezen"
+        },
+        {
+          word: "organisaties",
+          definition: "groepen mensen die samenwerken",
+          sentence: "De ___ helpen kinderen in armoede.",
+          answer: "organisaties"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Er zijn geen afspraken meer mogelijk, want de agenda is ___.",
-          answer: "volgeboekt"
+          sentence: "De overheid geeft geen ___ meer.",
+          answer: "subsidies"
         },
         {
-          sentence: "De tandarts heeft een nieuwe ___.",
-          answer: "praktijk"
+          sentence: "De ___ helpen kinderen in armoede.",
+          answer: "organisaties"
         },
         {
-          sentence: "De ___ helpt als je kiespijn hebt.",
-          answer: "tandarts"
+          sentence: "Er is ___ geld meer.",
+          answer: "geen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat doet een tandarts?",
+        question: "Wat verliezen de organisaties?",
         options: [
-          "Hij kookt eten",
-          "Hij repareert tanden",
-          "Hij verkoopt huizen",
-          "Hij rijdt in een auto"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat betekent 'volgeboekt'?",
-        options: [
-          "Het is erg druk",
-          "Het is heel leeg",
-          "Het is erg duur",
-          "Het is heel nieuw"
+          "Hun geld",
+          "Hun huis",
+          "Hun vrienden",
+          "Hun werk"
         ],
         correctAnswer: 1
       },
       {
-        question: "Waar is Julie's praktijk?",
+        question: "Wie geeft normaal gesproken geld aan de organisaties?",
         options: [
-          "In Antwerpen",
-          "In Brussel",
-          "In Kluisbergen",
-          "In Gent"
+          "De scholen",
+          "De overheid",
+          "De ouders",
+          "De kinderen"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Is dit goed voor de kinderen?",
+        options: [
+          "Ja, het is leuk",
+          "Ja, het is fijn",
+          "Nee, het is slecht",
+          "Nee, het is geweldig"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Julie is een tandarts in Kluisbergen.",
+        statement: "De organisaties verliezen hun subsidies.",
         isTrue: true
       },
       {
-        statement: "Julie start haar praktijk in 2026.",
+        statement: "De overheid geeft nu meer geld.",
         isTrue: false
       },
       {
-        statement: "Veel Vlaamse gemeenten hebben hetzelfde probleem.",
-        isTrue: true
+        statement: "Dit is goed nieuws voor de kinderen.",
+        isTrue: false
       }
     ]
   },
@@ -1277,103 +1301,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Amerikaanse rechter wendt hongercrisis in VS (even) af",
+    title: "Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey",
     topicNumber: 1,
     article: {
-      title: "Amerikaanse rechter wendt hongercrisis in VS (even) af",
-      summary: "42 miljoen Amerikanen komen maar rond dankzij voedselsteun van de regering. De voedselbonnen van november lijken gered, al ontbreken er miljarden dollars."
+      title: "Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "ontbreken",
-          definition: "niet aanwezig zijn, missen",
-          sentence: "Er ___ nog enkele belangrijke handtekeningen.",
-          answer: "ontbreken"
+          word: "winnen",
+          definition: "Een overwinning behalen in een wedstrijd of verkiezing.",
+          sentence: "Hij hoopte de verkiezing te ___.",
+          answer: "winnen"
         },
         {
-          word: "voedselsteun",
-          definition: "hulp in de vorm van voedsel, vaak van de overheid",
-          sentence: "De regering bood ___ aan de getroffen bevolking.",
-          answer: "voedselsteun"
+          word: "gouverneur",
+          definition: "De hoogste uitvoerende ambtenaar in een staat of deelstaat.",
+          sentence: "De nieuwe ___ van Virginia zal morgen worden beëdigd.",
+          answer: "gouverneur"
         },
         {
-          word: "regering",
-          definition: "de groep mensen die een land of gebied bestuurt",
-          sentence: "De ___ heeft nieuwe maatregelen aangekondigd.",
-          answer: "regering"
+          word: "updates",
+          definition: "Bijgewerkte informatie of het laatste nieuws over een onderwerp.",
+          sentence: "Volg de ___ over de verkiezingen hier.",
+          answer: "updates"
         },
         {
-          word: "rechter",
-          definition: "een persoon die in een rechtbank beslist over geschillen",
-          sentence: "De ___ heeft de zaak behandeld.",
-          answer: "rechter"
+          word: "burgemeester",
+          definition: "Het hoofd van de gemeentelijke overheid in een stad of gemeente.",
+          sentence: "De nieuwe ___ werd met veel enthousiasme begroet.",
+          answer: "burgemeester"
         },
         {
-          word: "gered",
-          definition: "beschermd of veiliggesteld, van een gevaar",
-          sentence: "De voorraden zijn ___ van de overstroming.",
-          answer: "gered"
+          word: "race",
+          definition: "Een wedstrijd of competitie, vaak in de context van verkiezingen.",
+          sentence: "De politieke ___ was erg intens dit jaar.",
+          answer: "race"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De regering bood ___ aan de getroffen bevolking.",
-          answer: "voedselsteun"
+          sentence: "De nieuwe ___ werd met veel enthousiasme begroet.",
+          answer: "burgemeester"
         },
         {
-          sentence: "De ___ heeft nieuwe maatregelen aangekondigd.",
-          answer: "regering"
+          sentence: "De politieke ___ was erg intens dit jaar.",
+          answer: "race"
         },
         {
-          sentence: "De voorraden zijn ___ van de overstroming.",
-          answer: "gered"
+          sentence: "Volg de ___ over de verkiezingen hier.",
+          answer: "updates"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de rol van de rechter in deze kwestie?",
+        question: "Welke term wordt gebruikt voor het hoofd van een stedelijke overheid?",
         options: [
-          "Hij start de voedselsteun",
-          "Hij beëindigt de voedselsteun",
-          "Hij beschermt de voedselbonnen",
-          "Hij keurt de steun af"
+          "Burgemeester",
+          "Gouverneur",
+          "Minister",
+          "President"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat betekent 'winnen' in de context van verkiezingen?",
+        options: [
+          "Verliezen",
+          "Deelnemen",
+          "Winnen",
+          "Strijden"
         ],
         correctAnswer: 3
       },
       {
-        question: "Waaruit bestaat de voedselsteun in dit artikel?",
+        question: "Welke functie bekleedt iemand die een gouverneursrace wint?",
         options: [
-          "Alleen uit geld",
-          "Alleen uit voedselbonnen",
-          "Uitsluitend uit voedselpakketten",
-          "Een combinatie van bonnen en mogelijk geld"
-        ],
-        correctAnswer: 4
-      },
-      {
-        question: "Wat is de toestand van de voedselbonnen in november?",
-        options: [
-          "Ze zijn al gebruikt",
-          "Ze zijn verloren gegaan",
-          "Ze zijn gered en bruikbaar",
-          "Ze zijn nog niet uitgedeeld"
+          "Burgemeester",
+          "Minister van Onderwijs",
+          "Gouverneur",
+          "President"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De rechter heeft de voedselsteun volledig stopgezet.",
+        statement: "Donald Trump was de eerste president van de Verenigde Staten die een tweede ambtstermijn begon.",
         isTrue: false
       },
       {
-        statement: "Er ontbreken miljarden dollars aan de voedselsteun, maar de bonnen zijn gered.",
+        statement: "De verkiezingen in Virginia en New Jersey werden gewonnen door Democraten.",
         isTrue: true
       },
       {
-        statement: "Alleen de voedselbonnen worden beschermd, niet het geld.",
+        statement: "Zohran Mamdani werd burgemeester van New York City.",
         isTrue: false
       }
     ]
@@ -1489,103 +1513,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Nieuwe voorzitter Jesse Klaver mag proberen GroenLinks-PvdA de regering binnen te loodsen",
+    title: "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
     topicNumber: 1,
     article: {
-      title: "Nieuwe voorzitter Jesse Klaver mag proberen GroenLinks-PvdA de regering binnen te loodsen",
-      summary: "Voormalig GroenLinks-leider Jesse Klaver neemt het stokje over van Frans Timmermans. Hij zal voor GroenLinks-PvdA onderhandelen over een nieuwe Nederlandse regering. Hij staat voor lastige keuzes."
+      title: "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
+      summary: "In Mali staat het militaire regime onder zware druk. Al-Qaeda-strijders hebben een economische blokkade ingevoerd tegen Bamako, waardoor de stad zonder brandstof dreigt te vallen. De rebellen hopen dat er een opstand uitbreekt, zodat zij de macht kunnen grijpen."
     },
     vocabulary: {
       words: [
         {
-          word: "stokje",
-          definition: "een klein voorwerp of symbool, vaak gebruikt in overdrachtelijke zin",
-          sentence: "Hij neemt het ___ over van zijn voorganger.",
-          answer: "stokje"
+          word: "blokkade",
+          definition: "een actie om de toegang tot een gebied of de doorstroom van goederen te belemmeren",
+          sentence: "De protesten leidden tot een volledige blokkade van de hoofdweg.",
+          answer: "blokkade"
         },
         {
-          word: "keuzes",
-          decision: "beslissing of optie",
-          sentence: "Hij heeft moeilijke ___ te maken.",
-          answer: "keuzes"
+          word: "rebellen",
+          definition: "personen die deelnemen aan een gewapend verzet tegen een gevestigde autoriteit",
+          sentence: "De rebellen voerden een verrassingsaanval uit.",
+          answer: "rebellen"
         },
         {
-          word: "lastige",
-          definition: "moeilijk of vervelend",
-          sentence: "Hij heeft te maken met ___ beslissingen.",
-          answer: "lastige"
+          word: "macht",
+          definition: "de autoriteit of controle over personen, middelen, of gebieden",
+          sentence: "Na de coup greep het leger de macht.",
+          answer: "macht"
         },
         {
-          word: "onderhandelen",
-          definition: "overleggen met anderen om tot een overeenkomst te komen",
-          sentence: "Hij zal met andere partijen ___ over de nieuwe plannen.",
-          answer: "onderhandelen"
+          word: "opstand",
+          definition: "een gewelddadige of openlijke rebellie tegen een regering of autoriteit",
+          sentence: "De opstand werd na drie dagen neergeslagen.",
+          answer: "opstand"
         },
         {
-          word: "loodsen",
-          definition: "geleiden of begeleiden, vooral in moeilijke situaties",
-          sentence: "Hij moet de onderhandelingen door lastige discussies ___.",
-          answer: "loodsen"
+          word: "wurggreep",
+          definition: "een greep of handeling die iemand of iets tot stilstand of onderwerping dwingt",
+          sentence: "De nieuwe wetgeving was een wurggreep op de vrijheid van meningsuiting.",
+          answer: "wurggreep"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij moet de onderhandelingen door lastige discussies ___.",
-          answer: "loodsen"
+          sentence: "De protesten leidden tot een volledige blokkade van de hoofdweg.",
+          answer: "blokkade"
         },
         {
-          sentence: "Hij heeft te maken met ___ beslissingen.",
-          answer: "lastige"
+          sentence: "De rebellen voerden een verrassingsaanval uit.",
+          answer: "rebellen"
         },
         {
-          sentence: "Hij heeft moeilijke ___ te maken.",
-          answer: "keuzes"
+          sentence: "De nieuwe wetgeving was een wurggreep op de vrijheid van meningsuiting.",
+          answer: "wurggreep"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'loodsen' in deze context?",
+        question: "Wat is het hoofddoel van de economische blokkade door de rebellen in Mali?",
         options: [
-          "Sturen of begeleiden",
-          "Vermijden",
-          "Vertragen",
-          "Negeren"
+          "Om humanitaire hulp te vergemakkelijken",
+          "Om de economie van de hoofdstad te verlammen",
+          "Om internationale steun te verwerven",
+          "Om culturele evenementen te sponsoren"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat is de rol van Jesse Klaver in deze situatie?",
+        question: "Wat is een waarschijnlijk gevolg als Bamako zonder brandstof valt?",
         options: [
-          "Hij is de nieuwe voorzitter",
-          "Hij is een gewone lid",
-          "Hij neemt geen deel aan de onderhandelingen",
-          "Hij is de vorige leider"
+          "Verbeterde internationale handel",
+          "Verhoogde elektriciteitsproductie",
+          "Stilvallen van essentieel vervoer en stroom",
+          "Groeiende politieke stabiliteit"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Waar gaat de tekst vooral over?",
+        question: "Waarin hopen de rebellen dat de opstand resulteert?",
         options: [
-          "Over politieke onderhandelingen",
-          "Over een sportevenement",
-          "Over een cultureel festival",
-          "Over een wetenschappelijke ontdekking"
+          "In een langdurige periode van vrede en welvaart",
+          "In een kans om hun politieke tegenstanders te vergeven",
+          "In een kans om de macht te grijpen via onrust",
+          "In een internationale interventie die hun doelen doorkruist"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Jesse Klaver neemt de plaats in van Frans Timmermans.",
+        statement: "De Al-Qaeda-strijders in Mali hebben als hoofddoel om humanitaire hulp te bieden aan de bevolking.",
+        isTrue: false
+      },
+      {
+        statement: "De economische blokkade is gericht op het uitoefenen van druk op de regering in Bamako.",
         isTrue: true
       },
       {
-        statement: "Jesse Klaver zal de onderhandelingen leiden.",
-        isTrue: true
-      },
-      {
-        statement: "De tekst gaat over een sportevenement.",
+        statement: "De rebellen hopen dat de opstand leidt tot internationale steun voor hun zaak.",
         isTrue: false
       }
     ]
@@ -1595,104 +1619,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Greet D’HELF, 62 jaar",
+    title: "Madeleine Fonteyne, 100 jaar",
     topicNumber: 1,
     article: {
-      title: "Greet D’HELF, 62 jaar",
-      summary: "Geboren in 1963, overleden op 30/10/2025."
+      title: "Madeleine Fonteyne, 100 jaar",
+      summary: "Geboren in 1924, overleden op 29/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "1963",
-          definition: "Het jaar negentienhonderd drieënzestig",
-          sentence: "Geboren in ___, overleden in 2025.",
-          answer: "1963"
+          word: "Geboren",
+          definition: "Het ter wereld komen, het begin van het leven.",
+          sentence: "Hij werd ___ in een klein dorp in het noorden.",
+          answer: "Geboren"
         },
         {
-          word: "jaar",
-          definition: "Een periode van 365 dagen, of 366 in een schrikkeljaar",
-          sentence: "Ze werd slechts 62 ___ oud.",
-          answer: "jaar"
+          word: "1924",
+          definition: "Een jaartal, verwijzend naar een specifiek jaar in de twintigste eeuw.",
+          sentence: "Deze auto is van modeljaar ___ en rijdt nog steeds prima.",
+          answer: "1924"
         },
         {
-          word: "D’HELF",
-          definition: "Een familienaam, waarschijnlijk van Franse of Vlaamse oorsprong",
-          sentence: "Greet ___ is de volledige naam van de overledene.",
-          answer: "D'HELF"
+          word: "Madeleine",
+          definition: "Een vrouwelijke voornaam, van Franse oorsprong.",
+          sentence: "___ was een bekende schrijfster uit de vorige eeuw.",
+          answer: "Madeleine"
         },
         {
-          word: "62",
-          definition: "Het getal tweeënzestig, tussen 61 en 63",
-          sentence: "Ze werd slechts ___ jaar oud.",
-          answer: "62"
+          word: "Fonteyne",
+          definition: "Een achternaam, mogelijk van Nederlandse of Franse oorsprong.",
+          sentence: "De familie ___ woonde generaties lang in deze stad.",
+          answer: "Fonteyne"
         },
         {
-          word: "overleden",
-          definition: "Niet meer levend; gestorven",
-          sentence: "Ze is helaas ___ op 30/10/2025.",
-          answer: "overleden"
+          word: "29/10",
+          definition: "Een specifieke datum, namelijk de 29ste dag van oktober.",
+          sentence: "Mijn verjaardag is op ___, net als die van mijn zus!",
+          answer: "29/10"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Greet ___ is de volledige naam van de overledene.",
-          answer: "D'HELF"
+          sentence: "De familie ___ woonde generaties lang in deze stad.",
+          answer: "Fonteyne"
         },
         {
-          sentence: "Ze werd slechts ___ jaar oud.",
-          answer: "62"
+          sentence: "Hij werd ___ in een klein dorp in het noorden.",
+          answer: "Geboren"
         },
         {
-          sentence: "Ze is helaas ___ op 30/10/2025.",
-          answer: "overleden"
+          sentence: "Mijn verjaardag is op ___, net als die van mijn zus!",
+          answer: "29/10"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "In welk jaar is Greet D'HELF geboren?",
+        question: "In welke eeuw werd Madeleine Fonteyne geboren?",
         options: [
-          "1963",
-          "1964",
-          "1965",
-          "1966"
+          "De 18e eeuw",
+          "De 19e eeuw",
+          "De 20e eeuw",
+          "De 21e eeuw"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wat is de volledige naam zoals vermeld in de titel?",
+        question: "Wat is de geboortedatum van Madeleine Fonteyne?",
         options: [
-          "Greet D'HELF",
-          "Greet De Helf",
-          "Greet D'Helf",
-          "Greet D.Helf"
+          "1 januari 1924",
+          "31 december 1924",
+          "29 oktober 1924",
+          "Onbekend"
         ],
-        correctAnswer: 1
+        correctAnswer: 4
       },
       {
-        question: "Op welke datum is Greet D'HELF overleden?",
+        question: "Hoe oud werd Madeleine Fonteyne?",
         options: [
-          "30/10/2025",
-          "31/10/2025",
-          "30/11/2025",
-          "31/12/2025"
+          "100 jaar",
+          "101 jaar",
+          "99 jaar",
+          "98 jaar"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Greet D'HELF was 62 jaar oud op het moment van overlijden.",
+        statement: "Madeleine Fonteyne werd geboren in 1924.",
         isTrue: true
       },
       {
-        statement: "Greet D'HELF is geboren in 1964.",
+        statement: "Madeleine Fonteyne overleed op 29 oktober 2025.",
+        isTrue: true
+      },
+      {
+        statement: "Madeleine Fonteyne was een man.",
         isTrue: false
-      },
-      {
-        statement: "De overlijdensdatum is 30/10/2025.",
-        isTrue: true
       }
     ]
   },
@@ -1701,97 +1725,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Paul Defoort, 78 jaar",
+    title: "Antoon Devogelaere, 98 jaar",
     topicNumber: 1,
     article: {
-      title: "Paul Defoort, 78 jaar",
-      summary: "Geboren in 1946, overleden op 27/10/2025."
+      title: "Antoon Devogelaere, 98 jaar",
+      summary: "Geboren in 1927, overleden op 31/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "geboren",
-          definition: "Het moment waarop iemand ter wereld komt.",
-          sentence: "Hij werd ___ in 1946.",
-          answer: "geboren"
+          word: "31/10",
+          definition: "Datum in dag-maand formaat, hier 31 oktober.",
+          sentence: "Hij overleed op ___.",
+          answer: "31/10"
+        },
+        {
+          word: "98",
+          definition: "Getal, hier de leeftijd weergevend.",
+          sentence: "Hij werd ___ jaar oud.",
+          answer: "98"
+        },
+        {
+          word: "Devogelaere",
+          definition: "Familienaam, mogelijk van Vlaamse oorsprong.",
+          sentence: "Zijn volledige naam was Antoon ___.",
+          answer: "Devogelaere"
         },
         {
           word: "overleden",
-          definition: "Niet meer in leven zijn; gestorven zijn.",
-          sentence: "Hij is ___ op 27 oktober 2025.",
+          definition: "Niet meer levend; gestorven.",
+          sentence: "Hij is ___ op die datum.",
           answer: "overleden"
         },
         {
-          word: "jaar",
-          definition: "Een periode van 365 of 366 dagen, beginnend op 1 januari.",
-          sentence: "Hij werd 78 ___ oud.",
-          answer: "jaar"
-        },
-        {
-          word: "geboren",
-          definition: "Het begin van het leven; ter wereld komen.",
-          sentence: "Hij werd ___ in 1946.",
-          answer: "geboren"
+          word: "2025",
+          definition: "Jaartal, het jaar waarin iemand overleden is.",
+          sentence: "Hij overleed in ___.",
+          answer: "2025"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij werd 78 ___ oud.",
-          answer: "jaar"
-        },
-        {
-          sentence: "Hij is ___ op 27 oktober 2025.",
+          sentence: "Hij is ___ op die datum.",
           answer: "overleden"
         },
         {
-          sentence: "Hij werd ___ in 1946.",
-          answer: "geboren"
+          sentence: "Hij werd ___ jaar oud.",
+          answer: "98"
+        },
+        {
+          sentence: "Hij overleed in ___.",
+          answer: "2025"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent het als iemand is overleden?",
+        question: "Wat is de geboortedatum van Antoon Devogelaere?",
         options: [
-          "Die persoon is verhuisd.",
-          "Die persoon is nog in leven.",
-          "Die persoon is gestorven.",
-          "Die persoon is jarig."
+          "1927",
+          "1928",
+          "1929",
+          "1930"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Wat geeft de geboortedatum aan?",
+        question: "Op welke datum is Antoon Devogelaere overleden?",
         options: [
-          "De dag waarop iemand is overleden.",
-          "De dag waarop iemand is geboren.",
-          "De dag waarop iemand jarig is.",
-          "De dag waarop iemand is verhuisd."
+          "31/10/2025",
+          "31/10/2024",
+          "30/10/2025",
+          "31/12/2025"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Wat is een synoniem voor 'geboren'?",
+        question: "Wat was de leeftijd van Antoon Devogelaere bij zijn overlijden?",
         options: [
-          "Ter wereld komen",
-          "Overlijden",
-          "Jong zijn",
-          "Oud zijn"
+          "98 jaar",
+          "97 jaar",
+          "99 jaar",
+          "100 jaar"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Paul Defoort is geboren in 1946.",
+        statement: "Antoon Devogelaere werd geboren in 1927.",
         isTrue: true
       },
       {
-        statement: "Paul Defoorn overleed op 27 oktober 2025.",
-        isTrue: true
+        statement: "Antoon Devogelaere overleed op 31/10/2024.",
+        isTrue: false
       },
       {
-        statement: "Paul Defoort was 78 jaar oud bij zijn overlijden.",
+        statement: "Antoon Devogelaere werd 98 jaar oud.",
         isTrue: true
       }
     ]
@@ -1907,111 +1937,11 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Dodentol na orkaan loopt op in Jamaica",
+    title: "Amerikaanse verkiezingen: belangrijke uitslagen",
     topicNumber: 1,
     article: {
-      title: "Dodentol na orkaan loopt op in Jamaica",
-      summary: "Het aantal doden na de orkaan in Jamaica is gestegen tot 32. Hulpverleners vrezen dat er nog meer slachtoffers zijn in afgelegen gebieden. Er is ook een groot tekort aan voedsel."
-    },
-    vocabulary: {
-      words: [
-        {
-          word: "doden",
-          definition: "mensen die zijn overleden",
-          sentence: "Na de orkaan zijn er veel ___.",
-          answer: "doden"
-        },
-        {
-          word: "orkaan",
-          definition: "een hele zware storm met veel wind",
-          sentence: "De ___ veroorzaakte veel schade.",
-          answer: "orkaan"
-        },
-        {
-          word: "Jamaica",
-          definition: "een land in het Caribisch gebied",
-          sentence: "___ is een eiland in de Caribische Zee.",
-          answer: "Jamaica"
-        },
-        {
-          word: "loopt",
-          definition: "hier: gaat verder of wordt meer",
-          sentence: "Het aantal doden ___ op.",
-          answer: "loopt"
-        }
-      ],
-      fillInBlanks: [
-        {
-          sentence: "Na de orkaan zijn er veel ___.",
-          answer: "doden"
-        },
-        {
-          sentence: "Het aantal doden ___ op.",
-          answer: "loopt"
-        },
-        {
-          sentence: "___ is een eiland in de Caribische Zee.",
-          answer: "Jamaica"
-        }
-      ]
-    },
-    multipleChoice: [
-      {
-        question: "Wat is de situatie in Jamaica na de orkaan?",
-        options: [
-          "Er is veel schade en er zijn veel doden",
-          "Jamaica heeft geen last van de orkaan",
-          "De orkaan is nog niet voorbij",
-          "Jamaica is een groot land met veel mensen"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is een gevolg van de orkaan voor de mensen?",
-        options: [
-          "Ze hebben veel honger",
-          "Ze zijn heel gelukkig",
-          "Ze gaan naar een feest",
-          "Ze hebben veel geld gekregen"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat doen hulpverleners nu?",
-        options: [
-          "Ze werken hard om mensen te helpen",
-          "Ze zijn met vakantie",
-          "Ze maken de situatie erger",
-          "Ze doen niets meer"
-        ],
-        correctAnswer: 1
-      }
-    ],
-    trueFalse: [
-      {
-        statement: "De orkaan in Jamaica heeft veel doden veroorzaakt.",
-        isTrue: true
-      },
-      {
-        statement: "Er is genoeg voedsel voor iedereen in Jamaica.",
-        isTrue: false
-      },
-      {
-        statement: "Hulpverleners zijn nog niet in alle gebieden geweest.",
-        isTrue: true
-      }
-    ]
-  },
-{
-    id: 20,
-    section: "Buitenland",
-    topic: "Buitenland",
-    level: "A2",
-    title: "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
-    topicNumber: 1,
-    article: {
-      title: "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
-      summary: "Wie wordt gouverneur in Virginia en New Jersey? En wordt een moslim burgemeester van New York? Al doet hij niet mee, deze verkiezingen zijn een barometer voor Donald Trumps populariteit, én die van de Democraten."
+      title: "Amerikaanse verkiezingen: belangrijke uitslagen",
+      summary: "In de Verenigde Staten zijn er belangrijke verkiezingen geweest. Er zijn nieuwe burgemeesters en gouverneurs gekozen. Dit zijn de eerste uitslagen. De verkiezingen kunnen de toekomst van het land beïnvloeden."
     },
     vocabulary: {
       words: [
@@ -2022,89 +1952,195 @@ export const exercises: Exercise[] = [
           answer: "verkiezingen"
         },
         {
-          word: "gouverneur",
-          definition: "de baas van een staat in Amerika",
-          sentence: "Elke staat in de VS heeft een ___.",
-          answer: "gouverneur"
-        },
-        {
           word: "burgemeester",
-          definition: "de leider van een stad of gemeente",
-          sentence: "De ___ van Rotterdam heet Ahmed Aboutaleb.",
+          definition: "de belangrijkste persoon in een stad of gemeente",
+          sentence: "De nieuwe ___ van New York heet Zohran Mamdani.",
           answer: "burgemeester"
         },
         {
-          word: "Democraten",
-          definition: "een politieke partij in de VS",
-          sentence: "De ___ willen meer geld geven aan scholen.",
-          answer: "Democraten"
+          word: "gouverneur",
+          definition: "de leider van een staat in Amerika",
+          sentence: "In Virginia en New Jersey is er een nieuwe ___ gekozen.",
+          answer: "gouverneur"
         },
         {
-          word: "doet",
-          definition: "doet, van het werkwoord doen",
-          sentence: "Hij ___ goed zijn werk.",
-          answer: "doet"
+          word: "uitslagen",
+          definition: "de officiële resultaten van een verkiezing",
+          sentence: "De ___ van de verkiezingen zijn bekend.",
+          answer: "uitslagen"
+        },
+        {
+          word: "toekomst",
+          definition: "de tijd die nog komt",
+          sentence: "De verkiezingen beïnvloeden de ___ van het land.",
+          answer: "toekomst"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Elke staat in de VS heeft een ___.",
+          sentence: "In Virginia en New Jersey is er een nieuwe ___ gekozen.",
           answer: "gouverneur"
         },
         {
-          sentence: "Hij ___ goed zijn werk.",
-          answer: "doet"
+          sentence: "De nieuwe ___ van New York heet Zohran Mamdani.",
+          answer: "burgemeester"
         },
         {
-          sentence: "De ___ willen meer geld geven aan scholen.",
-          answer: "Democraten"
+          sentence: "In november zijn er ___ in de Verenigde Staten.",
+          answer: "verkiezingen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is een gouverneur?",
+        question: "Wat zijn de verkiezingen in de Verenigde Staten?",
         options: [
-          "Een soort auto",
-          "Een sport",
-          "De baas van een Amerikaanse staat",
-          "Een bekende filmster"
+          "een sportwedstrijd",
+          "een festival",
+          "een politieke gebeurtenis",
+          "een concert"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is de rol van een burgemeester?",
+        question: "Wie is Zohran Mamdani?",
         options: [
-          "Hij maakt veel grapjes.",
-          "Hij bestuurt een stad of gemeente.",
-          "Hij speelt gitaar.",
-          "Hij kookt het eten."
+          "een bekende zanger",
+          "de nieuwe burgemeester van New York",
+          "een professionele basketballer",
+          "een filmacteur"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de betekenis van 'doet' in deze context?",
+        question: "Wat is de rol van een gouverneur?",
         options: [
-          "Hij doet zijn schoenen aan.",
-          "Hij doet de afwas.",
-          "Hij doet zijn werk (hij voert zijn taak uit).",
-          "Hij doet een dutje."
+          "leider van een stad",
+          "leider van een staat in de VS",
+          "leider van een heel land",
+          "leider van een sportteam"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De burgemeester is de leider van een stad.",
+        statement: "De verkiezingen in de Verenigde Staten vonden plaats in november.",
         isTrue: true
       },
       {
-        statement: "Donald Trump is de gouverneur van New York.",
+        statement: "De Republikeinen hebben gewonnen in Virginia en New Jersey.",
         isTrue: false
       },
       {
-        statement: "De Democraten zijn een politieke partij in de VS.",
+        statement: "De verkiezingsuitslagen kunnen de toekomst beïnvloeden.",
         isTrue: true
+      }
+    ]
+  },
+{
+    id: 20,
+    section: "Buitenland",
+    topic: "Buitenland",
+    level: "A2",
+    title: "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
+    topicNumber: 1,
+    article: {
+      title: "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
+      summary: "Na een reddingsactie van ruim elf uur werd de Roemeense bouwvakker Octav Stroici (66) bevrijd uit een ingestorte middeleeuwse toren in hartje Rome. Kort daarna overleed hij. Het drama brengt de talrijke dodelijke arbeidsongevallen in Italië opnieuw onder de aandacht."
+    },
+    vocabulary: {
+      words: [
+        {
+          word: "drama",
+          definition: "een ernstige of verdrietige gebeurtenis",
+          sentence: "Het ___ in de mijn kostte veel levens.",
+          answer: "drama"
+        },
+        {
+          word: "arbeidsongevallen",
+          definition: "ongelukken die gebeuren op het werk",
+          sentence: "De ___ zijn toegenomen het afgelopen jaar.",
+          answer: "arbeidsonvallen"
+        },
+        {
+          word: "Italië",
+          definition: "een land in Europa",
+          sentence: "___ is bekend om zijn lekker eten.",
+          answer: "Italië"
+        },
+        {
+          word: "toren",
+          definition: "een hoog gebouw",
+          sentence: "De oude ___ staat in het centrum van de stad.",
+          answer: "toren"
+        },
+        {
+          word: "Rome",
+          definition: "de hoofdstad van Italië",
+          sentence: "___ is een oude stad met veel geschiedenis.",
+          answer: "Rome"
+        }
+      ],
+      fillInBlanks: [
+        {
+          sentence: "De oude ___ staat in het centrum van de stad.",
+          answer: "toren"
+        },
+        {
+          sentence: "___ is bekend om zijn lekker eten.",
+          answer: "Italië"
+        },
+        {
+          sentence: "Het ___ in de mijn kostte veel levens.",
+          answer: "drama"
+        }
+      ]
+    },
+    multipleChoice: [
+      {
+        question: "Waar vond het ongeluk plaats?",
+        options: [
+          "In een park",
+          "Op een boerderij",
+          "In een middeleeuwse toren",
+          "In een winkelcentrum"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat is de hoofdstad van Italië?",
+        options: [
+          "Parijs",
+          "Rome",
+          "Londen",
+          "Berlijn"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat betekent 'verongelukken'?",
+        options: [
+          "Vallen en zich pijn doen",
+          "Omkomen bij een ongeluk",
+          "Verliezen in een wedstrijd",
+          "Iets verkeerds doen"
+        ],
+        correctAnswer: 2
+      }
+    ],
+    trueFalse: [
+      {
+        statement: "De bouwvakker overleed tijdens de reddingsactie.",
+        isTrue: false
+      },
+      {
+        statement: "Rome is een stad in Italië.",
+        isTrue: true
+      },
+      {
+        statement: "Er zijn dit jaar minder arbeidsongevallen in Italië.",
+        isTrue: false
       }
     ]
   },
@@ -2113,104 +2149,98 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Hoe Trump Latijns-Amerika als speeltuin ziet",
+    title: "Rebellen blokkeren brandstof voor hoofdstad Mali",
     topicNumber: 1,
     article: {
-      title: "Hoe Trump Latijns-Amerika als speeltuin ziet",
-      summary: "Amerikaanse media noemen Trump een piraat en waarschuwen voor een invasie in Venezuela. Maar Trump maakt van Latijns-Amerika zijn exclusieve speeltuin, in zijn eigen versie van de Monroedoctrine."
+      title: "Rebellen blokkeren brandstof voor hoofdstad Mali",
+      summary: "Rebellen in Mali blokkeren de brandstof voor de hoofdstad. Daardoor kan de stad niet goed functioneren. De rebellen hopen dat de bevolking in opstand komt tegen het leger."
     },
     vocabulary: {
       words: [
         {
-          word: "een",
-          definition: "lidwoord voor enkelvoud, zoals 'een boek'",
-          sentence: "Hij heeft ___ nieuwe plan.",
-          answer: "een"
+          word: "blokkeren",
+          definition: "iets tegenhouden of stoppen",
+          sentence: "De rebellen willen de toevoer van brandstof ___ om de stad onder druk te zetten.",
+          answer: "blokkeren"
         },
         {
-          word: "zijn",
-          definition: "bezittelijk voornaamwoord, zoals 'dat is van hem'",
-          sentence: "Dat hoort bij ___. (verwijs naar iets van Trump)",
-          answer: "zijn"
+          word: "brandstof",
+          definition: "wat je nodig hebt om machines of voertuigen te laten werken",
+          sentence: "Zonder ___ kunnen auto's en generatoren niet werken.",
+          answer: "brandstof"
         },
         {
-          word: "maakt",
-          definition: "doet of creëert iets",
-          sentence: "Hij ___ van Latijns-Amerika zijn speeltuin.",
-          answer: "maakt"
+          word: "leger",
+          definition: "een groep mensen die een land verdedigt en onder controle houdt",
+          sentence: "Het ___ van Mali probeert de rebellen te stoppen.",
+          answer: "leger"
         },
         {
-          word: "van",
-          definition: "woord dat bezit of herkomst aangeeft",
-          sentence: "Dit is een boek ___ mijn leraar.",
-          answer: "van"
-        },
-        {
-          word: "Trump",
-          definition: "de familienaam van de voormalige Amerikaanse president",
-          sentence: "___ was president van Amerika.",
-          answer: "Trump"
+          word: "opstand",
+          definition: "een situatie waarin veel mensen tegen de macht in actie komen",
+          sentence: "De rebellen hopen dat er een ___ uitbreekt tegen het leger.",
+          answer: "opstand"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij ___ van Latijns-Amerika zijn speeltuin.",
-          answer: "maakt"
+          sentence: "De rebellen hopen dat er een ___ uitbreekt tegen het leger.",
+          answer: "opstand"
         },
         {
-          sentence: "Dit is een boek ___ mijn leraar.",
-          answer: "van"
+          sentence: "Zonder ___ kunnen auto's en generatoren niet werken.",
+          answer: "brandstof"
         },
         {
-          sentence: "___ was president van Amerika.",
-          answer: "Trump"
+          sentence: "De rebellen willen de toevoer van brandstof ___ om de stad onder druk te zetten.",
+          answer: "blokkeren"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom noemen media Trump een piraat?",
+        question: "Waarom blokkeren de rebellen de brandstof?",
         options: [
-          "Omdat hij van piraten houdt",
-          "Omdat hij oneerlijk handelt",
-          "Omdat hij een schip heeft",
-          "Omdat hij een ooglapje draagt"
+          "Om de economie te versterken",
+          "Om de bevolking aan hun kant te krijgen",
+          "Om de stad te helpen groeien",
+          "Om de macht van het leger te vergroten"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de Monroedoctrine?",
+        question: "Wat is het gevolg van de brandstofblokkade?",
         options: [
-          "Een medische behandeling",
-          "Een oud boek",
-          "Een plan voor Noord- en Zuid-Amerika",
-          "Een soort sport"
+          "De stad wordt sterker en rijker",
+          "De stad kan niet normaal functioneren",
+          "De bevolking is blij en tevreden",
+          "Het leger krijgt meer steun van de bevolking"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Wat betekent 'exclusief' in deze tekst?",
+        question: "Wat is de hoop van de rebellen?",
         options: [
-          "Alleen voor speciale mensen",
-          "Voor iedereen toegankelijk",
-          "Helemaal niet toegankelijk",
-          "Alleen op dinsdag"
+          "Dat de bevolking de rebellen gaat helpen",
+          "Dat het leger de rebellen verslaat",
+          "Dat de stad nog meer brandstof krijgt",
+          "Dat de bevolking de rebellen gaat haten"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Trump is de president van Amerika.",
-        isTrue: true
-      },
-      {
-        statement: "De Monroedoctrine is een nieuwe dans.",
+        statement: "De rebunnen blokkeren de brandstof omdat ze de stad willen helpen.",
         isTrue: false
       },
       {
-        statement: "Media noemen Trump een piraat omdat hij oneerlijk is.",
+        statement: "De rebellen hopen dat de bevolking in opstand komt tegen het leger.",
         isTrue: true
+      },
+      {
+        statement: "Het leger van Mali ondersteunt de rebellen bij hun acties.",
+        isTrue: false
       }
     ]
   },
@@ -2219,104 +2249,98 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Greet D’HELF, 62 jaar",
+    title: "Madeleine Fonteyne, 100 jaar",
     topicNumber: 1,
     article: {
-      title: "Greet D’HELF, 62 jaar",
-      summary: "Geboren in 1963, overleden op 30/10/2025."
+      title: "Madeleine Fonteyne, 100 jaar",
+      summary: "Geboren in 1924, overleden op 29/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "jaar",
-          definition: "Een periode van 12 maanden",
-          sentence: "Hij is 30 ___ oud",
-          answer: "jaar"
+          word: "Madeleine",
+          definition: "een vrouwelijke voornaam",
+          sentence: "___ was een bekende schrijfster.",
+          answer: "Madeleine"
         },
         {
-          word: "62",
-          definition: "Getal tussen 61 en 63",
-          sentence: "Ze is ___ jaar oud",
-          answer: "62"
-        },
-        {
-          word: "overleden",
-          definition: "Niet meer leven, gestorven zijn",
-          sentence: "Hij is ___ in 2023",
-          answer: "overleden"
+          word: "Fonteyne",
+          definition: "een achternaam",
+          sentence: "De familie ___ is van Belgische oorsprong.",
+          answer: "Fonteyne"
         },
         {
           word: "geboren",
-          definition: "Geboren worden, het begin van het leven",
-          sentence: "Hij is ___ in 1990",
+          definition: "het begin van het leven",
+          sentence: "Ze werd ___ in 1924.",
           answer: "geboren"
         },
         {
-          word: "Greet",
-          definition: "Een naam",
-          sentence: "___ is een vrouw",
-          answer: "Greet"
+          word: "overleden",
+          definition: "niet meer levend, gestorven",
+          sentence: "Ze is ___ op 29 oktober 2025.",
+          answer: "overleden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij is ___ in 2023",
-          answer: "overleden"
+          sentence: "De familie ___ is van Belgische oorsprong.",
+          answer: "Fonteyne"
         },
         {
-          sentence: "___ is een vrouw",
-          answer: "Greet"
+          sentence: "___ was een bekende schrijfster.",
+          answer: "Madeleine"
         },
         {
-          sentence: "Hij is 30 ___ oud",
-          answer: "jaar"
+          sentence: "Ze werd ___ in 1924.",
+          answer: "geboren"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de geboortedatum van Greet D’HELF?",
+        question: "In welk jaar is Madeleine Fonteyne geboren?",
         options: [
-          "1963",
-          "1964",
-          "1965",
-          "1966"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "In welk jaar is Greet D’HELF overleden?",
-        options: [
-          "2024",
-          "2025",
-          "2026",
-          "2027"
+          "1920",
+          "1924",
+          "1928",
+          "1930"
         ],
         correctAnswer: 2
       },
       {
-        question: "Hoe oud is Greet D’HELF geworden?",
+        question: "Waar is Madeleine Fonteyne vooral bekend om?",
         options: [
-          "60 jaar",
-          "61 jaar",
-          "62 jaar",
-          "63 jaar"
+          "Als schrijfster",
+          "Als zangeres",
+          "Als schilder",
+          "Als danseres"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Hoe oud werd Madeleine Fonteyne?",
+        options: [
+          "90 jaar",
+          "99 jaar",
+          "100 jaar",
+          "101 jaar"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Greet D’HELF is geboren in 1963.",
+        statement: "Madeleine Fonteyne werd 100 jaar oud.",
         isTrue: true
       },
       {
-        statement: "Greet D’HELF is overleden in 2024.",
+        statement: "Madeleine Fonteyne was een Franse schrijfster.",
         isTrue: false
       },
       {
-        statement: "Greet D’HELF is 63 jaar oud geworden.",
-        isTrue: false
+        statement: "Madeleine Fonteyne stierf in oktober 2025.",
+        isTrue: true
       }
     ]
   },
@@ -2325,103 +2349,72 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Paul Defoort, 78 jaar",
+    title: "Antoon Devogelaere, 98 jaar",
     topicNumber: 1,
     article: {
-      title: "Paul Defoort, 78 jaar",
-      summary: "Geboren in 1946, overleden op 27 oktober 2025."
+      title: "Antoon Devogelaere, 98 jaar",
+      summary: "Hij is geboren in 1927 en overleden op 31 oktober 2025."
     },
     vocabulary: {
       words: [
         {
+          word: "geboren",
+          definition: "geboren zijn betekent dat je op een bepaalde dag bent geboren",
+          sentence: "Zijn moeder werd ___ in 1920.",
+          answer: "geboren"
+        },
+        {
           word: "overleden",
-          definition: "Niet meer levend, gestorven",
-          sentence: "Hij is ___ op 27 oktober 2025.",
+          definition: "overleden zijn betekent dat je niet meer leeft",
+          sentence: "Hij is ___ op 31 oktober 2025.",
           answer: "overleden"
-        },
-        {
-          word: "Defoort",
-          definition: "Familienaam van de persoon",
-          sentence: "Paul ___ was 78 jaar oud.",
-          answer: "Defoort"
-        },
-        {
-          word: "Paul",
-          definition: "Voornaam van de persoon",
-          sentence: "___ Defoort was 78 jaar oud.",
-          answer: "Paul"
-        },
-        {
-          word: "2025",
-          definition: "Jaartal waarin hij overleed",
-          sentence: "Hij overleed in het jaar ___.",
-          answer: "2025"
-        },
-        {
-          word: "1946",
-          definition: "Jaartal waarin hij geboren werd",
-          sentence: "Hij is geboren in het jaar ___.",
-          answer: "1946"
         }
       ],
-      fillInBlanks: [
-        {
-          sentence: "Paul ___ was 78 jaar oud.",
-          answer: "Defoort"
-        },
-        {
-          sentence: "Hij is geboren in het jaar ___.",
-          answer: "1946"
-        },
-        {
-          sentence: "___ Defoort was 78 jaar oud.",
-          answer: "Paul"
-        }
-      ]
+      fillInBlanks: []
     },
     multipleChoice: [
       {
-        question: "In welk jaar is Paul Defoort geboren?",
+        question: "Wanneer is Antoon Devogelaere geboren?",
         options: [
-          "1945",
-          "1946",
-          "1947",
-          "1948"
+          "In 1927",
+          "In 1930",
+          "In 1925",
+          "In 1928"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Op welke datum is Paul Defoort overleden?",
+        question: "Hoe oud was Antoon Devogelaere toen hij overleed?",
         options: [
-          "26 oktober 2025",
-          "27 oktober 2025",
-          "28 oktober 2025",
-          "29 oktober 2025"
+          "98 jaar",
+          "100 jaar",
+          "95 jaar",
+          "102 jaar"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Wat is de familienaam van Paul?",
+        question: "Op welke datum overleed Antoon Devogelaere?",
         options: [
-          "Jansen",
-          "Pietersen",
-          "Defoort",
-          "Janssen"
+          "31 oktober 2025",
+          "31 oktober 2024",
+          "1 november 2025",
+          "30 oktober 2025"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Paul Defoort is geboren in 1946.",
+        statement: "Antoon Devogelaere is geboren in 1927.",
         isTrue: true
       },
       {
-        statement: "Paul Defoort overleed in 2024.",
+        statement: "Antoon Devogelaere overleed in 2020.",
         isTrue: false
       },
       {
-        statement: "Paul Defoort werd 78 jaar oud.",
+        statement: "Antoon Devogelaere werd 98 jaar oud.",
         isTrue: true
       }
     ]
@@ -2431,97 +2424,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Nieuwe tandarts in Kluisbergen",
+    title: "Organisaties verliezen subsidies voor onderwijs",
     topicNumber: 1,
     article: {
-      title: "Nieuwe tandarts in Kluisbergen",
-      summary: "Er is een nieuwe tandarts in Kluisbergen. Ze heet Julie. Haar praktijk is nog niet open, maar ze heeft al veel afspraken. Mensen kunnen niet meteen bij haar terecht."
+      title: "Organisaties verliezen subsidies voor onderwijs",
+      summary: "Twee organisaties die armoede in het onderwijs bestrijden, verliezen hun subsidies van de Vlaamse overheid. “Dit zet veel kinderen in de kou”, zegt Bert Smits van Stichting Robin. “De overheid snijdt in kennis en in innovatief armoedebeleid.”"
     },
     vocabulary: {
       words: [
         {
-          word: "tandarts",
-          definition: "een persoon die voor je tanden zorgt",
-          sentence: "De ___ helpt als je kiespijn hebt.",
-          answer: "tandarts"
+          word: "onderwijs",
+          definition: "lesgeven en leren op school",
+          sentence: "Kinderen hebben recht op goed ___.",
+          answer: "onderwijs"
         },
         {
-          word: "praktijk",
-          definition: "de plaats waar iemand werkt, zoals een kantoor",
-          sentence: "Julie heeft een nieuwe ___ in Kluisbergen.",
-          answer: "praktijk"
+          word: "subsidies",
+          definition: "geld van de overheid voor een doel",
+          sentence: "De organisaties krijgen geen ___ meer.",
+          answer: "subsidies"
         },
         {
-          word: "open",
-          definition: "beginnen, starten",
-          sentence: "De praktijk is nog niet ___.",
-          answer: "open"
+          word: "organisatie",
+          definition: "een groep die samenwerkt",
+          sentence: "De ___ helpt kinderen in nood.",
+          answer: "organisatie"
         },
         {
-          word: "afspraken",
-          definition: "een plan dat je maakt om iemand te ontmoeten",
-          sentence: "Julie heeft al veel ___ gemaakt met patiënten.",
-          answer: "afspraken"
+          word: "organisaties",
+          definition: "groepen mensen die samenwerken",
+          sentence: "De ___ werken aan onderwijs voor kinderen.",
+          answer: "organisaties"
+        },
+        {
+          word: "overheid",
+          definition: "de organisatie die een land bestuurt",
+          sentence: "De ___ geeft geld voor onderwijs.",
+          answer: "overheid"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De praktijk is nog niet ___.",
-          answer: "open"
+          sentence: "De organisaties krijgen geen ___ meer.",
+          answer: "subsidies"
         },
         {
-          sentence: "Julie heeft een nieuwe ___ in Kluisbergen.",
-          answer: "praktijk"
+          sentence: "De ___ geeft geld voor onderwijs.",
+          answer: "overheid"
         },
         {
-          sentence: "Julie heeft al veel ___ gemaakt met patiënten.",
-          answer: "afspraken"
+          sentence: "De ___ helpt kinderen in nood.",
+          answer: "organisatie"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar werkt Julie als tandarts?",
+        question: "Waarom verliezen de organisaties hun subsidies?",
         options: [
-          "in een ziekenhuis",
-          "in een school",
-          "in een praktijk in Kluisbergen",
-          "in een supermarkt"
+          "Ze werken niet hard genoeg",
+          "De overheid heeft minder geld",
+          "Ze helpen geen kinderen meer",
+          "Ze zijn verhuisd"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is het gevolg voor de kinderen?",
+        options: [
+          "Ze krijgen geen les meer",
+          "Ze verliezen hun speelgoed",
+          "Ze krijgen geen hulp meer tegen armoede",
+          "Ze gaan naar een andere school"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is de situatie voor Julie's praktijk?",
+        question: "Wie is Bert Smits?",
         options: [
-          "Het is al open.",
-          "Het is nog gesloten.",
-          "Het is verhuisd.",
-          "Het is veranderd in een restaurant."
+          "Een leraar",
+          "Een kind",
+          "Iemand van Stichting Robin",
+          "Iemand van de overheid"
         ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is het probleem in veel Vlaamse gemeenten?",
-        options: [
-          "Er zijn te veel tandartsen.",
-          "Er zijn te weinig tandartsen.",
-          "Er zijn te veel patiënten.",
-          "Er is geen probleem."
-        ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Julie is een tandarts in Kluisbergen.",
+        statement: "De overheid geeft subsidies aan organisaties.",
         isTrue: true
       },
       {
-        statement: "Julie's praktijk is al open sinds vorige week.",
+        statement: "Kinderen hebben geen last van het verlies van subsidies.",
         isTrue: false
       },
       {
-        statement: "Er is een tekort aan tandarts in sommige Vlaamse gemeenten.",
+        statement: "Stichting Robin is een organisatie die helpt.",
         isTrue: true
       }
     ]
@@ -2531,104 +2530,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Dodentol Jamaica loopt op, terwijl “zware hongersnood” dreigt",
+    title: "Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey",
     topicNumber: 1,
     article: {
-      title: "Dodentol Jamaica loopt op, terwijl “zware hongersnood” dreigt",
-      summary: "De tol na de doortocht van orkaan Melissa loopt verder op. In Jamaica zijn al 32 doden geteld, maar in de nog niet bereikte plaatsen worden nog meer slachtoffers verwacht. En honger loert om de hoek."
+      title: "Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "slachtoffers",
-          definition: "mensen of dieren die zijn gestorven of gewond zijn geraakt",
-          sentence: "De hulpverleners probeerden alle ___ zo snel mogelijk te vinden.",
-          answer: "slachtoffers"
+          word: "races",
+          definition: "wedstrijden of competities",
+          sentence: "De politieke ___ zijn belangrijk voor de democratie.",
+          answer: "races"
         },
         {
-          word: "orkaan",
-          definition: "een grote, gevaarlijke storm met veel wind",
-          sentence: "De ___ veroorzaakte veel schade aan gebouwen en bomen.",
-          answer: "orkaan"
+          word: "Democraten",
+          definition: "leden van de Democratische Partij in de VS",
+          sentence: "De ___ hebben een meerderheid in de Senaat.",
+          answer: "Democraten"
         },
         {
-          word: "dreigt",
-          definition: "iets dat waarschijnlijk zal gebeuren, meestal iets negatiefs",
-          sentence: "De donkere wolken ___ met regen later vandaag.",
-          answer: "dreigt"
+          word: "gouverneurs",
+          definition: "hoofden van een staat of regio",
+          sentence: "De ___ van Californië heeft veel macht.",
+          answer: "gouverneurs"
         },
         {
-          word: "doortocht",
-          definition: "het voorbijgaan of passeren van iets, zoals een storm",
-          sentence: "De orkaan liet een spoor van vernieling achter tijdens zijn ___.",
-          answer: "doortocht"
+          word: "Virginia",
+          definition: "een staat in de Verenigde Staten",
+          sentence: "___ is bekend om zijn geschiedenis.",
+          answer: "Virginia"
         },
         {
-          word: "hongersnood",
-          definition: "een situatie waarin er niet genoeg voedsel is voor iedereen",
-          sentence: "Na de oogst mislukking ontstond er een ___ in de regio.",
-          answer: "hongersnood"
+          word: "winnen",
+          definition: "iets halen, zoals een verkiezing of wedstrijd",
+          sentence: "Hij hoopte de verkiezingen te ___.",
+          answer: "winnen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De donkere wolken ___ met regen later vandaag.",
-          answer: "dreigt"
+          sentence: "De politieke ___ zijn belangrijk voor de democratie.",
+          answer: "races"
         },
         {
-          sentence: "Na de oogst mislukking ontstond er een ___ in de regio.",
-          answer: "hongersnood"
+          sentence: "De ___ van Californië heeft veel macht.",
+          answer: "gouverneurs"
         },
         {
-          sentence: "De hulpverleners probeerden alle ___ zo snel mogelijk te vinden.",
-          answer: "slachtoffers"
+          sentence: "___ is bekend om zijn geschiedenis.",
+          answer: "Virginia"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat wordt er bedoeld met de dreiging van 'zware hongersnood' in de tekst?",
+        question: "Wat is de hoofdstad van Virginia?",
         options: [
-          "Een lichte vorm van honger hebben",
-          "Een periode waarin er extreem weinig voedsel beschikbaar is",
-          "Een storm met veel regen",
-          "Een feestmaaltijd met veel voedsel"
+          "Richmond",
+          "New York",
+          "Los Angeles",
+          "Chicago"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Hoe lang is een ambtstermijn voor een Amerikaanse president?",
+        options: [
+          "2 jaar",
+          "4 jaar",
+          "6 jaar",
+          "8 jaar"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waarom worden er in de tekst meer slachtoffers verwacht?",
+        question: "Welke partij heeft momenteel de meerderheid in de Amerikaanse Senaat?",
         options: [
-          "Omdat de storm voorbij is en het weer mooi wordt",
-          "Omdat hulpverleners nog niet alle gebieden hebben kunnen bereiken",
-          "Omdat er een groot feest gepland is waar iedereen naartoe komt",
-          "Omdat er veel ziekenhuizen zijn en iedereen daar is"
+          "Democraten",
+          "Republikeinen",
+          "Onafhankelijken",
+          "Groenen"
         ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is de rol van de orkaan in deze situatie?",
-        options: [
-          "De orkaan brengt vreugde en feestelijkheden",
-          "De orkaan is de oorzaak van de vernieling en problemen zoals honger",
-          "De orkaan zorgt alleen voor wat regen en verder niets",
-          "De orkaan is een dier dat op de vlucht is geslagen"
-        ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De orkaan Melissa heeft alleen in Jamaica slachtoffers gemaakt.",
-        isTrue: false
-      },
-      {
-        statement: "Hongersnood is een direct gevolg van de orkaan omdat er geen voedsel meer is.",
+        statement: "Donald Trump was de president voor Joe Biden.",
         isTrue: true
       },
       {
-        statement: "Alle slachtoffers zijn al geteld en er worden er geen nieuwe meer verwacht.",
+        statement: "Virginia is een staat in Canada.",
         isTrue: false
+      },
+      {
+        statement: "Politieke verkiezingen worden altijd in november gehouden in de VS.",
+        isTrue: true
       }
     ]
   },
@@ -2637,103 +2636,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
+    title: "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
     topicNumber: 1,
     article: {
-      title: "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
-      summary: "Wie wordt gouverneur in Virginia en New Jersey? En wordt een moslim burgemeester van New York? Al doet hij niet mee, deze verkiezingen zijn een barometer voor Donald Trumps populariteit, én die van de Democraten."
+      title: "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
+      summary: "Na een reddingsactie van ruim elf uur werd de Roemeense bouwvakker Octav Stroici (66) bevrijd uit een ingestorte middeleeuwse toren in hartje Rome. Kort daarna overleed hij. Het drama de talrijke dodelijke arbeidsongevallen in Italië opnieuw onder de aandacht."
     },
     vocabulary: {
       words: [
         {
-          word: "verkiezingen",
-          definition: "een verkiezing is een proces waarbij mensen stemmen om iemand te kiezen voor een functie",
-          sentence: "Tijdens de ___ stemmen mensen op hun favoriete kandidaat.",
-          answer: "verkiezingen"
+          word: "arbeidsongevallen",
+          definition: "ongelukken die gebeuren tijdens het werk",
+          sentence: "Er waren veel ___ in Italië dit jaar.",
+          answer: "arbeidsongevallen"
         },
         {
-          word: "gouverneurs",
-          definition: "een gouverneur is de leider van een staat in de Verenigde Staten",
-          sentence: "De ___ van Texas en Californië hebben veel macht.",
-          answer: "gouverneurs"
+          word: "middeleeuws",
+          definition: "uit de middeleeuwen, een periode in de geschiedenis",
+          sentence: "De toren was van ___ oorsprong.",
+          answer: "middeleeuws"
         },
         {
-          word: "burgemeester",
-          definition: "een burgemeester is het hoofd van de gemeente of stad",
-          sentence: "De ___ van New York werkt samen met de gemeenteraad.",
-          answer: "burgemeester"
+          word: "bouwvakker",
+          definition: "iemand die in de bouw werkt",
+          sentence: "De ___ werd gered uit het ingestorte gebouw.",
+          answer: "bouwvakker"
         },
         {
-          word: "Democraten",
-          definition: "een van de twee grote politieke partijen in de Verenigde Staten",
-          sentence: "De ___ hebben momenteel de meerderheid in de Senaat.",
-          answer: "Democraten"
+          word: "drama",
+          definition: "een ernstige of emotionele gebeurtenis, vaak met een slecht einde",
+          sentence: "Het ___ trok veel aandacht van de media.",
+          answer: "drama"
         },
         {
-          word: "herlanceren",
-          definition: "opnieuw beginnen of nieuw leven inblazen",
-          sentence: "Het nieuwe project zal de economie ___.",
-          answer: "herlanceren"
+          word: "reddingsactie",
+          definition: "een actie om iemand te redden uit een gevaarlijke situatie",
+          sentence: "De ___ duurde meer dan elf uur.",
+          answer: "reddingsactie"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ van Texas en Californië hebben veel macht.",
-          answer: "gouverneurs"
+          sentence: "De ___ werd gered uit het ingestorte gebouw.",
+          answer: "bouwvakker"
         },
         {
-          sentence: "De ___ hebben momenteel de meerderheid in de Senaat.",
-          answer: "Democraten"
+          sentence: "Er waren veel ___ in Italië dit jaar.",
+          answer: "arbeidsongevallen"
         },
         {
-          sentence: "De ___ van New York werkt samen met de gemeenteraad.",
-          answer: "burgemeester"
+          sentence: "De toren was van ___ oorsprong.",
+          answer: "middeleeuws"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Welke politieke partij is momenteel aan de macht in de Senaat van de Verenigde Staten?",
+        question: "Waar vond het ongeluk plaats?",
         options: [
-          "De Democraten",
-          "De Republikeinen",
-          "De Groenen",
-          "De Liberalen"
+          "In een middeleeuwse toren in Rome",
+          "Op een bouwplaats in Duitsland",
+          "In een ziekenhuis in Roemenië",
+          "Tijdens een reddingsactie in Italië"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is de rol van een gouverneur?",
+        question: "Wat is de rol van een bouwvakker?",
         options: [
-          "Leider van een staat",
-          "Leider van het land",
-          "Leider van een stad",
-          "Leider van een provincie"
+          "Hij werkt in de bouw",
+          "Hij is een brandweerman",
+          "Hij is een historicus",
+          "Hij is een toerist"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is een barometer in deze context?",
+        question: "Wat is de boodschap van dit artikel?",
         options: [
-          "Een meetinstrument voor luchtdruk",
-          "Een indicator of graadmeter",
-          "Een weervoorspeller",
-          "Een apparaat om snelheid te meten"
+          "Veel arbeidsongevallen in Italië",
+          "Rome is een gevaarlijke stad",
+          "Roemenië heeft veel bouwvakkers",
+          "De middeleeuwen zijn terug"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De verkiezingen in Virginia en New Jersey bepalen wie de nieuwe gouverneurs worden.",
+        statement: "De bouwvakker overleed kort na zijn bevrijding.",
         isTrue: true
       },
       {
-        statement: "Een burgemeester van New York is automatisch ook de burgemeester van heel de Verenigde Staten.",
+        statement: "Italië heeft dit jaar minder arbeidsongevallen dan vorig jaar.",
         isTrue: false
       },
       {
-        statement: "De uitslagen van deze verkiezingen kunnen een indicatie geven van de populariteit van president Trump.",
+        statement: "De toren stortte in door een brand.",
         isTrue: true
       }
     ]
@@ -2743,103 +2742,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Nieuwe voorzitter Jesse Klaver mag proberen GroenLinks-PvdA de regering binnen te loodsen",
+    title: "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
     topicNumber: 1,
     article: {
-      title: "Nieuwe voorzitter Jesse Klaver mag proberen GroenLinks-PvdA de regering binnen te loodsen",
-      summary: "Voormalig GroenLinks-leider Jesse Klaver neemt het stokje over van Frans Timmermans. Hij zal voor GroenLinks-PvdA onderhandelen over een nieuwe Nederlandse regering. Hij staat voor lastige keuzes."
+      title: "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
+      summary: "In Mali staat het militaire regime onder zware druk. Al-Qaeda-strijders hebben een economische blokkade ingevoerd tegen Bamako, waardoor de stad zonder brandstof dreigt te vallen. De rebellen hopen dat er een opstand uitbreekt, zodat zij de macht kunnen grijpen."
     },
     vocabulary: {
       words: [
         {
-          word: "keuzes",
-          definition: "verschillende mogelijkheden waaruit je kunt kiezen",
-          sentence: "Hij moet moeilijke ___ maken.",
-          answer: "keuzes"
+          word: "regime",
+          definition: "een regering of bestuursorgaan, vooral een autoritair regime",
+          sentence: "Het militaire ___ heeft de macht in Mali.",
+          answer: "regime"
         },
         {
-          word: "leider",
-          definition: "iemand die een groep of organisatie leidt",
-          sentence: "Hij is een charismatische ___ voor zijn partij.",
-          answer: "leider"
+          word: "blokkade",
+          definition: "een blokkering, iets dat de doorgang belemmert",
+          sentence: "De rebellen hebben een ___ opgeworpen.",
+          answer: "blokkade"
         },
         {
-          word: "onderhandelen",
-          definition: "overleggen met anderen om tot een overeenkomst te komen",
-          sentence: "De partijen gaan ___ over de nieuwe plannen.",
-          answer: "onderhandelen"
+          word: "brandstof",
+          definition: "brandstof, iets dat energie levert, zoals benzine of gas",
+          sentence: "Zonder ___ kan de economie niet draaien.",
+          answer: "brandstof"
         },
         {
-          word: "stokje",
-          definition: "een klein, dun stukje van iets, vaak figuurlijk gebruikt",
-          sentence: "Hij nam het ___ over van zijn voorganger.",
-          answer: "stokje"
+          word: "dreigt",
+          definition: "iets wat waarschijnlijk gaat gebeuren, vaak iets negatiefs",
+          sentence: "De stad ___ zonder brandstof te vallen.",
+          answer: "dreigt"
         },
         {
-          word: "proberen",
-          definition: "een poging doen om iets te doen of te bereiken",
-          sentence: "Hij zal ___ om een akkoord te bereiken.",
-          answer: "proberen"
+          word: "macht",
+          definition: "controle of autoriteit, de mogelijkheid om te controleren",
+          sentence: "De rebellen willen de ___ overnemen.",
+          answer: "macht"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij nam het ___ over van zijn voorganger.",
-          answer: "stokje"
+          sentence: "Zonder ___ kan de economie niet draaien.",
+          answer: "brandstof"
         },
         {
-          sentence: "Hij is een charismatische ___ voor zijn partij.",
-          answer: "leider"
+          sentence: "De rebellen willen de ___ overnemen.",
+          answer: "macht"
         },
         {
-          sentence: "De partijen gaan ___ over de nieuwe plannen.",
-          answer: "onderhandelen"
+          sentence: "Het militaire ___ heeft de macht in Mali.",
+          answer: "regime"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'het stokje overnemen' in deze context?",
+        question: "Wat is het hoofddoel van de rebellen in deze situatie?",
         options: [
-          "Iemand fysiek slaan",
-          "Een positie of taak van iemand anders overnemen",
-          "Een sportwedstrijd winnen",
-          "Een stokje doorgeven in een estafette"
+          "De hoofdstad verwoesten",
+          "De bevolking tegen zich in opstand laten komen",
+          "De economie volledig overnemen",
+          "De regering ten val brengen via een opstand"
+        ],
+        correctAnswer: 4
+      },
+      {
+        question: "Wat is de rol van de economische blokkade in de strategie van de rebellen?",
+        options: [
+          "Het is een afleidingsmanoeuvre voor een militaire aanval.",
+          "Het verzwakt de stad en maakt de bevolking ontevreden, zodat ze de rebellen steunen.",
+          "Het is een manier om de regering te dwingen tot overgave zonder een schot te lossen.",
+          "Het is een test om te zien of de regering reageert."
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een synoniem voor 'lastige' in deze tekst?",
+        question: "Wat is de huidige toestand van de hoofdstad Bamako volgens de tekst?",
         options: [
-          "Gemakkelijke",
-          "Uitdagende",
-          "Onmogelijke",
-          "Complexe"
+          "Het is al volledig in handen van de rebellen.",
+          "Het valt nog steeds onder het gezag van het militaire regime.",
+          "Het is onbekend, de tekst noemt het niet.",
+          "Het is een neutrale zone waar niemand de controle heeft."
         ],
         correctAnswer: 2
-      },
-      {
-        question: "Wat is het hoofdonderwerp van deze tekst?",
-        options: [
-          "De sportcarrière van Jesse Klaver",
-          "Een kookwedstrijd tussen politici",
-          "Politieke onderhandelingen en leiderschap",
-          "De geschiedenis van GroenLinks"
-        ],
-        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Jesse Klaver was de voorganger van Frans Timmermans.",
+        statement: "De rebellen hebben Bamako al ingenomen met hun troepen.",
         isTrue: false
       },
       {
-        statement: "Jesse Klaver wordt de nieuwe leider van GroenLinks-PvdA.",
+        statement: "De economische blokkade zorgt voor tekorten in de stad.",
         isTrue: true
       },
       {
-        statement: "De tekst gaat vooral over een voetbalwedstrijd.",
+        statement: "Het militaire regime wordt gesteund door de meeste inwoners.",
         isTrue: false
       }
     ]
@@ -2849,104 +2848,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Greet D’HELF, 62 jaar",
+    title: "Madeleine Fonteyne, 100 jaar",
     topicNumber: 1,
     article: {
-      title: "Greet D’HELF, 62 jaar",
-      summary: "Geboren in 1963, overleden op 30/10/2025."
+      title: "Madeleine Fonteyne, 100 jaar",
+      summary: "Madeleine Fonteyne werd geboren in 1924 en overleed op 29 oktober 2025. Ze was 100 jaar oud."
     },
     vocabulary: {
       words: [
         {
-          word: "overleden",
-          definition: "Niet meer levend; gestorven.",
-          sentence: "Helaas is zij recentelijk ___.",
-          answer: "overleden"
+          word: "Madeleine",
+          definition: "Een vrouwelijke voornaam, oorspronkelijk Frans.",
+          sentence: "___ was een bekende schrijfster.",
+          answer: "Madeleine"
         },
         {
-          word: "2025",
-          definition: "Een jaartal, in dit geval het jaar 2025.",
-          sentence: "Ze stierf op 30 oktober in het jaar ___.",
-          answer: "2025"
+          word: "was",
+          definition: "De verleden tijd van 'zijn' (to be).",
+          sentence: "Hij ___ 100 jaar oud.",
+          answer: "was"
         },
         {
-          word: "1963",
-          definition: "Een jaartal, verwijzend naar het jaar 1963.",
-          sentence: "Ze werd geboren in het jaar ___.",
-          answer: "1963"
+          word: "op",
+          definition: "Een voorzetsel dat vaak een datum of plaats aangeeft.",
+          sentence: "De vergadering is ___ 29 oktober.",
+          answer: "op"
         },
         {
-          word: "30",
-          definition: "Het getal dertig, hier gebruikt als datum.",
-          sentence: "Ze stierf op ___ oktober 2025.",
-          answer: "30"
+          word: "werd",
+          definition: "Het werkwoord 'worden' in de verleden tijd.",
+          sentence: "Hij ___ geboren in 1924.",
+          answer: "werd"
         },
         {
-          word: "2025",
-          definition: "Een jaartal, in dit geval het jaar 2025.",
-          sentence: "Ze stierf op 30 oktober in het jaar ___.",
-          answer: "2025"
+          word: "Fonteyne",
+          definition: "Een achternaam, van Franse oorsprong.",
+          sentence: "De familie ___ woonde in België.",
+          answer: "Fonteyne"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Ze stierf op ___ oktober 2025.",
-          answer: "30"
+          sentence: "___ was een bekende schrijfster.",
+          answer: "Madeleine"
         },
         {
-          sentence: "Helaas is zij recentelijk ___.",
-          answer: "overleden"
+          sentence: "Hij ___ 100 jaar oud.",
+          answer: "was"
         },
         {
-          sentence: "Ze stierf op 30 oktober in het jaar ___.",
-          answer: "2025"
+          sentence: "De vergadering is ___ 29 oktober.",
+          answer: "op"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "In welk jaar is Greet D’HELF geboren?",
+        question: "In welk jaar werd Madeleine Fonteyne geboren?",
         options: [
-          "1960",
-          "1963",
-          "1970",
-          "1975"
+          "1920",
+          "1924",
+          "1928",
+          "1930"
         ],
         correctAnswer: 2
       },
       {
-        question: "Op welke datum is Greet D’HELF overleden?",
+        question: "Hoe oud werd Madeleine Fonteyne?",
         options: [
-          "30 oktober 2025",
-          "31 oktober 2025",
-          "30 november 2025",
-          "31 december 2025"
+          "99 jaar",
+          "100 jaar",
+          "101 jaar",
+          "102 jaar"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat is de geboortemaand van Greet D’HELF?",
+        question: "Op welke datum overleed Madeleine Fonteyne?",
         options: [
-          "Januari",
-          "Februari",
-          "Maart",
-          "Onbekend"
+          "29 september 2025",
+          "29 oktober 2025",
+          "30 oktober 2025",
+          "31 oktober 2025"
         ],
-        correctAnswer: 4
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Greet D’HELF is geboren in 1963.",
+        statement: "Madeleine Fonteyne overleed op 29 oktober 2025.",
         isTrue: true
       },
       {
-        statement: "Greet D’HELF is overleden in 2025.",
-        isTrue: true
-      },
-      {
-        statement: "Greet D’HELF stierf in de maand januari.",
+        statement: "Madeleine Fonteyne werd 99 jaar oud.",
         isTrue: false
+      },
+      {
+        statement: "Madeleine Fonteyne werd geboren in 1924.",
+        isTrue: true
       }
     ]
   },
@@ -2955,92 +2954,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Paul Defoort, 78 jaar",
+    title: "Antoon Devogelaere, 98 jaar",
     topicNumber: 1,
     article: {
-      title: "Paul Defoort, 78 jaar",
-      summary: "Geboren in 1946, overleden op 27/10/2025."
+      title: "Antoon Devogelaere, 98 jaar",
+      summary: "Geboren in 1927, overleden op 31/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "Geboren",
-          definition: "Het begin van iemands leven; het ter wereld komen.",
-          sentence: "Paul Defoort werd ___ in 1946.",
+          word: "Antoon",
+          definition: "een mannelijke voornaam",
+          sentence: "___ is de voornaam van de overleden man.",
+          answer: "Antoon"
+        },
+        {
+          word: "Devogelaere",
+          definition: "een familienaam, waarschijnlijk van Vlaamse oorsprong",
+          sentence: "Zijn volledige naam is Antoon ___.",
+          answer: "Devogelaere"
+        },
+        {
+          word: "geboren",
+          definition: "het begin van het leven, geboren worden",
+          sentence: "Hij is ___ in 1927.",
           answer: "geboren"
         },
         {
-          word: "Overleden",
-          definition: "Niet meer levend; gestorven.",
-          sentence: "Hij is ___ op 27 oktober 2025.",
+          word: "overleden",
+          definition: "niet meer levend, gestorven",
+          sentence: "Hij is ___ op 31 oktober 2025.",
           answer: "overleden"
         },
         {
-          word: "Overleden",
-          definition: "Gestorven; niet meer levend.",
-          sentence: "Hij is ___ op 27 oktober 2025.",
-          answer: "overleden"
+          word: "2025",
+          definition: "een jaartal, in dit geval het jaar van overlijden",
+          sentence: "Hij overleed in het jaar ___.",
+          answer: "2025"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Paul Defoort werd ___ in 1946.",
+          sentence: "___ is de voornaam van de overleden man.",
+          answer: "Antoon"
+        },
+        {
+          sentence: "Hij is ___ in 1927.",
           answer: "geboren"
         },
         {
-          sentence: "Hij is ___ op 27 oktober 2025.",
-          answer: "overleden"
-        },
-        {
-          sentence: "Hij is ___ op 27 oktober 2025.",
-          answer: "overleden"
+          sentence: "Zijn volledige naam is Antoon ___.",
+          answer: "Devogelaere"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "In welk jaar is Paul Defoort geboren?",
+        question: "In welk jaar is Antoon Devogelaere geboren?",
         options: [
-          "1940",
-          "1945",
-          "1946",
-          "1950"
+          "1925",
+          "1926",
+          "1927",
+          "1928"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat betekent het woord 'overleden'?",
+        question: "In welke maand overleed Antoon Devogelaere?",
         options: [
-          "Net geboren",
-          "Heel oud",
-          "Gestorven",
-          "Zeer ziek"
+          "januari",
+          "februari",
+          "oktober",
+          "december"
         ],
         correctAnswer: 3
       },
       {
-        question: "Hoe oud was Paul Defoort geworden?",
+        question: "Hoe oud was Antoon Devogelaere toen hij overleed?",
         options: [
-          "78 jaar",
-          "80 jaar",
-          "75 jaar",
-          "77 jaar"
+          "96 jaar",
+          "97 jaar",
+          "98 jaar",
+          "99 jaar"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Paul Defoort is overleden in 2025.",
+        statement: "Antoon Devogelaere overleed in oktober.",
         isTrue: true
       },
       {
-        statement: "Paul Defoort werd geboren in 1946.",
-        isTrue: true
-      },
-      {
-        statement: "Paul Defoort was 75 jaar oud.",
+        statement: "Antoon Devogelaere werd 100 jaar oud.",
         isTrue: false
+      },
+      {
+        statement: "Antoon Devogelaere werd geboren in 1927.",
+        isTrue: true
       }
     ]
   },
@@ -3049,104 +3060,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Vlaamse tandarts",
+    title: "Organisaties die armoede in onderwijs bestrijden, verliezen Vlaamse subsidies",
     topicNumber: 1,
     article: {
-      title: "Stormloop voor nieuwe tandarts in Kluisbergen",
-      summary: "Tandarts Julie Parmentier (26) start donderdag haar praktijk in Kluisbergen en nu al zit ze volgeboekt tot in september 2026. Het is typerend voor een probleem in veel Vlaamse gemeenten."
+      title: "Organisaties die armoede in onderwijs bestrijden, verliezen Vlaamse subsidies",
+      summary: "Twee organisaties die armoede in het onderwijs bestrijden, verliezen hun subsidies van de Vlaamse overheid. “Dit zet veel kinderen in de kou”, zegt Bert Smits van Stichting Robin. “De overheid snijdt in kennis en in innovatief armoedebeleid.”"
     },
     vocabulary: {
       words: [
         {
-          word: "Stormloop",
-          definition: "Een plotselinge, grote toestroom van mensen of activiteit.",
-          sentence: "Tijdens de ___ op de nieuwe winkel, waren er veel mensen.",
-          answer: "Stormloop"
+          word: "verliezen",
+          definition: "Iets kwijtraken wat je eerst had.",
+          sentence: "Zij kunnen hun subsidie ___ door deze beslissing.",
+          answer: "verliezen"
         },
         {
-          word: "Gemeente",
-          definition: "Een lokale overheidseenheid, vaak een stad of dorp.",
-          sentence: "De ___ van Kluisbergen heeft deze kwestie.",
-          answer: "Gemeente"
+          word: "organisaties",
+          definition: "Groepen of verenigingen die een bepaald doel hebben.",
+          sentence: "Verschillende ___ werken samen aan dit project.",
+          answer: "organisaties"
         },
         {
-          word: "Gemeenten",
-          definition: "Lokale bestuursgebieden, zoals een stad of dorp.",
-          sentence: "Verschillende ___ in Vlaanderen kampen met dit probleem.",
-          answer: "Gemeenten"
+          word: "kinderen",
+          definition: "Jonge personen, meestal tot een bepaalde leeftijd.",
+          sentence: "De ___ hebben recht op goed onderwijs en bescherming.",
+          answer: "kinderen"
         },
         {
-          word: "Vlaamse",
-          definition: "Betrekking hebbend op Vlaanderen, het Vlaamse deel van België.",
-          sentence: "De ___ gemeenten hebben vaak een tekort aan tandartsen.",
-          answer: "Vlaamse"
+          word: "overheid",
+          definition: "De organisatie die een land of regio bestuurt, inclusief overheidsinstellingen.",
+          sentence: "De ___ moet zorgen voor goede wetten en voorzieningen.",
+          answer: "overheid"
         },
         {
-          word: "Volgeboekt",
-          definition: "Volledig bezet, geen plaats meer vrij.",
-          sentence: "De tandartspraktijk is al ___ voor de komende jaren.",
-          answer: "Volgeboekt"
+          word: "subsidies",
+          definition: "Financiële steun van de overheid voor een specifiek doel.",
+          sentence: "Organisaties vragen ___ aan om hun werk mogelijk te maken.",
+          answer: "subsidies"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Tijdens de ___ op de nieuwe winkel, waren er veel mensen.",
-          answer: "Stormloop"
+          sentence: "De ___ moet zorgen voor goede wetten en voorzieningen.",
+          answer: "overheid"
         },
         {
-          sentence: "De tandartspraktijk is al ___ voor de komende jaren.",
-          answer: "Volgeboekt"
+          sentence: "Zij kunnen hun subsidie ___ door deze beslissing.",
+          answer: "verliezen"
         },
         {
-          sentence: "De ___ gemeenten hebben vaak een tekort aan tandartsen.",
-          answer: "Vlaamse"
+          sentence: "De ___ hebben recht op goed onderwijs en bescherming.",
+          answer: "kinderen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de hoofdreden voor de drukte bij tandarts Julie?",
+        question: "Waarom verliezen de organisaties hun subsidies?",
         options: [
-          "Ze is de enige tandarts in de regio",
-          "Er is een speciale actie gaande voor gratis behandelingen",
-          "De praktijk opent pas later, maar heeft nu al veel aanmeldingen",
-          "Er is een misverstand over de openingsdatum"
+          "Omdat ze hun doel niet bereikten",
+          "Door bezuinigingen van de overheid",
+          "Omdat ze te veel winst maakten",
+          "Omdat ze geen nieuwe projecten startten"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is een gevolg van het verlies van subsidies voor de organisaties?",
+        options: [
+          "Ze kunnen geen nieuwe medewerkers aannemen",
+          "Ze moeten hun werk sterk verminderen of stoppen",
+          "Ze krijgen meer steun van vrijwilligers",
+          "Ze kunnen zich focussen op andere projecten"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat zegt Bert Smits over deze situatie?",
+        options: [
+          "Hij is blij met de beslissing",
+          "Hij vindt het een goede zaak",
+          "Hij noemt het een probleem voor kinderen",
+          "Hij denkt dat de overheid genoeg doet"
         ],
         correctAnswer: 3
-      },
-      {
-        question: "Wat is het gevolg van de situatie in Kluisbergen?",
-        options: [
-          "Julie stopt met werken als tandarts",
-          "Andere gemeenten zullen hetzelfde probleem hebben",
-          "De wachtlijst wordt korter door nieuwe wetten",
-          "Er is geen gevolg, het is opgelost"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat typeert de situatie volgens de samenvatting?",
-        options: [
-          "Het is een eenmalige gebeurtenis",
-          "Het is kenmerkend (typerend) voor een groter probleem",
-          "Het is een positief teken van veel vraag",
-          "Het is een gevolg van slechte planning door de gemeente"
-        ],
-        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Julie Parmentier is al meer dan vijfentwintig jaar oud.",
-        isTrue: false
-      },
-      {
-        statement: "Kluisbergen is de enige Vlaamse gemeente met dit probleem.",
-        isTrue: false
-      },
-      {
-        statement: "De praktijk van Julie is nog niet open, maar ze heeft al veel patiënten ingeschreven.",
+        statement: "De organisaties krijgen geen subsidies meer van de Vlaamse overheid.",
         isTrue: true
+      },
+      {
+        statement: "Bert Smits vindt dat de overheid te veel bezuinigt op belangrijke taken.",
+        isTrue: true
+      },
+      {
+        statement: "De organisaties kunnen hun werk nu makkelijker voortzetten.",
+        isTrue: false
       }
     ]
   }

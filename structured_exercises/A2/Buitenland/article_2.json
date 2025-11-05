@@ -1,106 +1,106 @@
 {
-  "id": 10,
+  "id": 12,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
+  "title": "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
   "topicNumber": 1,
   "article": {
-    "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
-    "summary": "Wie wordt gouverneur in Virginia en New Jersey? En wordt een moslim burgemeester van New York? Al doet hij niet mee, deze verkiezingen zijn een barometer voor Donald Trumps populariteit, én die van de Democraten."
+    "title": "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
+    "summary": "Na een reddingsactie van ruim elf uur werd de Roemeense bouwvakker Octav Stroici (66) bevrijd uit een ingestorte middeleeuwse toren in hartje Rome. Kort daarna overleed hij. Het drama brengt de talrijke dodelijke arbeidsongevallen in Italië opnieuw onder de aandacht."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "verkiezingen",
-        "definition": "een keer dat mensen stemmen om iemand te kiezen",
-        "sentence": "In november zijn er ___ in de Verenigde Staten.",
-        "answer": "verkiezingen"
+        "word": "drama",
+        "definition": "een ernstige of verdrietige gebeurtenis",
+        "sentence": "Het ___ in de mijn kostte veel levens.",
+        "answer": "drama"
       },
       {
-        "word": "gouverneur",
-        "definition": "de baas van een staat in Amerika",
-        "sentence": "Elke staat in de VS heeft een ___.",
-        "answer": "gouverneur"
+        "word": "arbeidsongevallen",
+        "definition": "ongelukken die gebeuren op het werk",
+        "sentence": "De ___ zijn toegenomen het afgelopen jaar.",
+        "answer": "arbeidsonvallen"
       },
       {
-        "word": "burgemeester",
-        "definition": "de leider van een stad of gemeente",
-        "sentence": "De ___ van Rotterdam heet Ahmed Aboutaleb.",
-        "answer": "burgemeester"
+        "word": "Italië",
+        "definition": "een land in Europa",
+        "sentence": "___ is bekend om zijn lekker eten.",
+        "answer": "Italië"
       },
       {
-        "word": "Democraten",
-        "definition": "een politieke partij in de VS",
-        "sentence": "De ___ willen meer geld geven aan scholen.",
-        "answer": "Democraten"
+        "word": "toren",
+        "definition": "een hoog gebouw",
+        "sentence": "De oude ___ staat in het centrum van de stad.",
+        "answer": "toren"
       },
       {
-        "word": "doet",
-        "definition": "doet, van het werkwoord doen",
-        "sentence": "Hij ___ goed zijn werk.",
-        "answer": "doet"
+        "word": "Rome",
+        "definition": "de hoofdstad van Italië",
+        "sentence": "___ is een oude stad met veel geschiedenis.",
+        "answer": "Rome"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Elke staat in de VS heeft een ___.",
-        "answer": "gouverneur"
+        "sentence": "De oude ___ staat in het centrum van de stad.",
+        "answer": "toren"
       },
       {
-        "sentence": "Hij ___ goed zijn werk.",
-        "answer": "doet"
+        "sentence": "___ is bekend om zijn lekker eten.",
+        "answer": "Italië"
       },
       {
-        "sentence": "De ___ willen meer geld geven aan scholen.",
-        "answer": "Democraten"
+        "sentence": "Het ___ in de mijn kostte veel levens.",
+        "answer": "drama"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een gouverneur?",
+      "question": "Waar vond het ongeluk plaats?",
       "options": [
-        "Een soort auto",
-        "Een sport",
-        "De baas van een Amerikaanse staat",
-        "Een bekende filmster"
+        "In een park",
+        "Op een boerderij",
+        "In een middeleeuwse toren",
+        "In een winkelcentrum"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is de rol van een burgemeester?",
+      "question": "Wat is de hoofdstad van Italië?",
       "options": [
-        "Hij maakt veel grapjes.",
-        "Hij bestuurt een stad of gemeente.",
-        "Hij speelt gitaar.",
-        "Hij kookt het eten."
+        "Parijs",
+        "Rome",
+        "Londen",
+        "Berlijn"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de betekenis van 'doet' in deze context?",
+      "question": "Wat betekent 'verongelukken'?",
       "options": [
-        "Hij doet zijn schoenen aan.",
-        "Hij doet de afwas.",
-        "Hij doet zijn werk (hij voert zijn taak uit).",
-        "Hij doet een dutje."
+        "Vallen en zich pijn doen",
+        "Omkomen bij een ongeluk",
+        "Verliezen in een wedstrijd",
+        "Iets verkeerds doen"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De burgemeester is de leider van een stad.",
-      "isTrue": true
-    },
-    {
-      "statement": "Donald Trump is de gouverneur van New York.",
+      "statement": "De bouwvakker overleed tijdens de reddingsactie.",
       "isTrue": false
     },
     {
-      "statement": "De Democraten zijn een politieke partij in de VS.",
+      "statement": "Rome is een stad in Italië.",
       "isTrue": true
+    },
+    {
+      "statement": "Er zijn dit jaar minder arbeidsongevallen in Italië.",
+      "isTrue": false
     }
   ]
 }

@@ -3,97 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Dodentol na orkaan loopt op in Jamaica",
+  "title": "Amerikaanse verkiezingen: belangrijke uitslagen",
   "topicNumber": 1,
   "article": {
-    "title": "Dodentol na orkaan loopt op in Jamaica",
-    "summary": "Het aantal doden na de orkaan in Jamaica is gestegen tot 32. Hulpverleners vrezen dat er nog meer slachtoffers zijn in afgelegen gebieden. Er is ook een groot tekort aan voedsel."
+    "title": "Amerikaanse verkiezingen: belangrijke uitslagen",
+    "summary": "In de Verenigde Staten zijn er belangrijke verkiezingen geweest. Er zijn nieuwe burgemeesters en gouverneurs gekozen. Dit zijn de eerste uitslagen. De verkiezingen kunnen de toekomst van het land beïnvloeden."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "doden",
-        "definition": "mensen die zijn overleden",
-        "sentence": "Na de orkaan zijn er veel ___.",
-        "answer": "doden"
+        "word": "verkiezingen",
+        "definition": "een keer dat mensen stemmen om iemand te kiezen",
+        "sentence": "In november zijn er ___ in de Verenigde Staten.",
+        "answer": "verkiezingen"
       },
       {
-        "word": "orkaan",
-        "definition": "een hele zware storm met veel wind",
-        "sentence": "De ___ veroorzaakte veel schade.",
-        "answer": "orkaan"
+        "word": "burgemeester",
+        "definition": "de belangrijkste persoon in een stad of gemeente",
+        "sentence": "De nieuwe ___ van New York heet Zohran Mamdani.",
+        "answer": "burgemeester"
       },
       {
-        "word": "Jamaica",
-        "definition": "een land in het Caribisch gebied",
-        "sentence": "___ is een eiland in de Caribische Zee.",
-        "answer": "Jamaica"
+        "word": "gouverneur",
+        "definition": "de leider van een staat in Amerika",
+        "sentence": "In Virginia en New Jersey is er een nieuwe ___ gekozen.",
+        "answer": "gouverneur"
       },
       {
-        "word": "loopt",
-        "definition": "hier: gaat verder of wordt meer",
-        "sentence": "Het aantal doden ___ op.",
-        "answer": "loopt"
+        "word": "uitslagen",
+        "definition": "de officiële resultaten van een verkiezing",
+        "sentence": "De ___ van de verkiezingen zijn bekend.",
+        "answer": "uitslagen"
+      },
+      {
+        "word": "toekomst",
+        "definition": "de tijd die nog komt",
+        "sentence": "De verkiezingen beïnvloeden de ___ van het land.",
+        "answer": "toekomst"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Na de orkaan zijn er veel ___.",
-        "answer": "doden"
+        "sentence": "In Virginia en New Jersey is er een nieuwe ___ gekozen.",
+        "answer": "gouverneur"
       },
       {
-        "sentence": "Het aantal doden ___ op.",
-        "answer": "loopt"
+        "sentence": "De nieuwe ___ van New York heet Zohran Mamdani.",
+        "answer": "burgemeester"
       },
       {
-        "sentence": "___ is een eiland in de Caribische Zee.",
-        "answer": "Jamaica"
+        "sentence": "In november zijn er ___ in de Verenigde Staten.",
+        "answer": "verkiezingen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de situatie in Jamaica na de orkaan?",
+      "question": "Wat zijn de verkiezingen in de Verenigde Staten?",
       "options": [
-        "Er is veel schade en er zijn veel doden",
-        "Jamaica heeft geen last van de orkaan",
-        "De orkaan is nog niet voorbij",
-        "Jamaica is een groot land met veel mensen"
+        "een sportwedstrijd",
+        "een festival",
+        "een politieke gebeurtenis",
+        "een concert"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is een gevolg van de orkaan voor de mensen?",
+      "question": "Wie is Zohran Mamdani?",
       "options": [
-        "Ze hebben veel honger",
-        "Ze zijn heel gelukkig",
-        "Ze gaan naar een feest",
-        "Ze hebben veel geld gekregen"
+        "een bekende zanger",
+        "de nieuwe burgemeester van New York",
+        "een professionele basketballer",
+        "een filmacteur"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat doen hulpverleners nu?",
+      "question": "Wat is de rol van een gouverneur?",
       "options": [
-        "Ze werken hard om mensen te helpen",
-        "Ze zijn met vakantie",
-        "Ze maken de situatie erger",
-        "Ze doen niets meer"
+        "leider van een stad",
+        "leider van een staat in de VS",
+        "leider van een heel land",
+        "leider van een sportteam"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De orkaan in Jamaica heeft veel doden veroorzaakt.",
+      "statement": "De verkiezingen in de Verenigde Staten vonden plaats in november.",
       "isTrue": true
     },
     {
-      "statement": "Er is genoeg voedsel voor iedereen in Jamaica.",
+      "statement": "De Republikeinen hebben gewonnen in Virginia en New Jersey.",
       "isTrue": false
     },
     {
-      "statement": "Hulpverleners zijn nog niet in alle gebieden geweest.",
+      "statement": "De verkiezingsuitslagen kunnen de toekomst beïnvloeden.",
       "isTrue": true
     }
   ]

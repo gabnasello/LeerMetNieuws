@@ -1,106 +1,106 @@
 {
-  "id": 6,
+  "id": 8,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Nieuwe voorzitter Jesse Klaver",
+  "title": "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
   "topicNumber": 1,
   "article": {
-    "title": "Nieuwe voorzitter Jesse Klaver",
-    "summary": "Jesse Klaver is de nieuwe voorzitter van GroenLinks-PvdA. Hij volgt Frans Timmermans op. Zijn taak is om te onderhandelen over een nieuwe regering voor Nederland. Dit wordt een moeilijke opgave met lastige keuzes."
+    "title": "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
+    "summary": "In Mali staat het militaire regime onder zware druk. Al-Qaeda-strijders hebben een economische blokkade ingevoerd tegen Bamako, waardoor de stad zonder brandstof dreigt te vallen. De rebellen hopen dat er een opstand uitbreekt, zodat zij de macht kunnen grijpen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "voorzitter",
-        "definition": "een leider of iemand die de leiding heeft",
-        "sentence": "De ___ van de vergadering leidde de discussie.",
-        "answer": "voorzitter"
+        "word": "economische",
+        "definition": "Weer een voor hetzelfde woord, maar nu specifiek voor de titel",
+        "sentence": "De ___ crisis treft iedereen.",
+        "answer": "economische"
       },
       {
-        "word": "taak",
-        "definition": "iets wat gedaan moet worden, een opdracht",
-        "sentence": "Zijn belangrijkste ___ is het leiden van de onderhandelingen.",
-        "answer": "taak"
+        "word": "macht",
+        "definition": "De kracht of autoriteit die iemand heeft",
+        "sentence": "Hij heeft veel ___ in de organisatie.",
+        "answer": "macht"
       },
       {
-        "word": "opgave",
-        "definition": "iets wat gedaan moet worden, een taak",
-        "sentence": "Zijn nieuwe ___ is het leiden van de coalitieonderhandelingen.",
-        "answer": "opgave"
+        "word": "economische",
+        "definition": "Alles wat met geld en handel te maken heeft",
+        "sentence": "De ___ situatie in het land is slecht.",
+        "answer": "economische"
       },
       {
-        "word": "lastige",
-        "definition": "moeilijk, vervelend of complex",
-        "sentence": "De onderhandelingen werden ___ door tegenstrijdige belangen.",
-        "answer": "lastige"
+        "word": "rebellen",
+        "definition": "Mensen die vechten tegen de regering",
+        "sentence": "De ___ voerden een aanval uit.",
+        "answer": "rebellen"
       },
       {
-        "word": "keuzes",
-        "definition": "verschillende mogelijkheden waaruit je kunt kiezen",
-        "sentence": "Hij heeft moeilijke ___ te maken over de toekomst.",
-        "answer": "keuzes"
+        "word": "brandstof",
+        "definition": "Materiaal dat verbrand wordt voor energie, zoals benzine",
+        "sentence": "Zonder ___ kan de auto niet rijden.",
+        "answer": "brandstof"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Zijn nieuwe ___ is het leiden van de coalitieonderhandelingen.",
-        "answer": "opgave"
+        "sentence": "Hij heeft veel ___ in de organisatie.",
+        "answer": "macht"
       },
       {
-        "sentence": "De ___ van de vergadering leidde de discussie.",
-        "answer": "voorzitter"
+        "sentence": "De ___ voerden een aanval uit.",
+        "answer": "rebellen"
       },
       {
-        "sentence": "De onderhandelingen werden ___ door tegenstrijdige belangen.",
-        "answer": "lastige"
+        "sentence": "De ___ crisis treft iedereen.",
+        "answer": "economische"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdtaak van Jesse Klaver als nieuwe voorzitter?",
+      "question": "Wat is het hoofdonderwerp van dit artikel?",
       "options": [
-        "Het leiden van internationale vergaderingen",
-        "Het onderhandelen over een nieuwe regering voor Nederland",
-        "Het schrijven van politieke speeches",
-        "Het trainen van nieuwe politici"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat beschrijft de tekst over de uitdagingen voor Klaver?",
-      "options": [
-        "Ze zijn onmogelijk",
-        "Ze zijn eenvoudig en duidelijk",
-        "Ze zijn lastig en moeilijk",
-        "Ze zijn onbekend en mysterieus"
+        "Het weer in Mali",
+        "De economische situatie in Mali",
+        "Een conflict met Al-Qaeda in Mali",
+        "De vrede in Mali"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wie was de vorige leider van GroenLinks-PvdA volgens de tekst?",
+      "question": "Wat is de rol van de rebellen in dit artikel?",
       "options": [
-        "Jesse Klaver",
-        "Frans Timmermans",
-        "Een internationale diplomaat",
-        "Een voormalig president"
+        "Ze helpen de regering",
+        "Ze voeren een blokkade uit",
+        "Ze zijn de regering van het land",
+        "Ze geven voedsel aan iedereen"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Wat is een mogelijk gevolg van de acties van de rebellen?",
+      "options": [
+        "Er komt meer brandstof",
+        "De stad Bamako valt",
+        "Er breekt een opstand uit",
+        "De regering wordt sterker"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Jesse Klaver volgt Frans Timmermans op als voorzitter van GroenLinks-PvdA.",
-      "isTrue": true
-    },
-    {
-      "statement": "De hoofdtaak van Klaver is het leiden van een sportteam.",
+      "statement": "De rebellen hebben Bamako ingenomen.",
       "isTrue": false
     },
     {
-      "statement": "Klaver staat voor een moeilijke opgave met lastige keuzes.",
+      "statement": "De rebellen proberen de regering ten val te brengen.",
       "isTrue": true
+    },
+    {
+      "statement": "De economische blokkade is bedoeld om de stad te helpen.",
+      "isTrue": false
     }
   ]
 }

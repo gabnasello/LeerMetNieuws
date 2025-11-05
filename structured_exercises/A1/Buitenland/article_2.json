@@ -1,106 +1,106 @@
 {
-  "id": 9,
+  "id": 11,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
+  "title": "Rome rouwt om verongelukte Roemeense bouwvakker",
   "topicNumber": 1,
   "article": {
-    "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
-    "summary": "Wie wordt gouverneur in Virginia en New Jersey? En wordt een moslim burgemeester van New York? Al doet hij niet mee, deze verkiezingen zijn een barometer voor Donald Trumps populariteit, én die van de Democraten."
+    "title": "Rome rouwt om verongelukte Roemeense bouwvakker",
+    "summary": "Een bouwvakker uit Roemenië is overleden na een ongeluk in Rome, Italië. Dit jaar zijn er al 777 doden op de werkvloer in Italië."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "burgemeesters",
-        "definition": "een burgemeester is de baas van een stad of gemeente",
-        "sentence": "De ___ van grote steden hebben veel werk.",
-        "answer": "burgemeesters"
+        "word": "doden",
+        "definition": "mensen die niet meer leven",
+        "sentence": "Er zijn veel ___ door ongevallen.",
+        "answer": "doden"
       },
       {
-        "word": "herlanceren",
-        "definition": "opnieuw beginnen of iets nieuw leven inblazen",
-        "sentence": "Hij wil zijn carrière ___ met een nieuw project.",
-        "answer": "herlanceren"
+        "word": "bouwvakker",
+        "definition": "iemand die werkt in de bouw",
+        "sentence": "De ___ werkte in Italië.",
+        "answer": "bouwvakker"
       },
       {
-        "word": "wie",
-        "definition": "welke persoon of personen",
-        "sentence": "___ komt er naar het feest?",
-        "answer": "wie"
+        "word": "Rome",
+        "definition": "een stad in Italië",
+        "sentence": "Hij werkte in ___.",
+        "answer": "Rome"
       },
       {
-        "word": "gouverneurs",
-        "definition": "een gouverneur is een baas in een staat of gebied",
-        "sentence": "De ___ van New York en Virginia zijn belangrijk.",
-        "answer": "gouverneurs"
+        "word": "Roemeense",
+        "definition": "iemand uit Roemenië",
+        "sentence": "Hij is een ___ man.",
+        "answer": "Roemeense"
       },
       {
-        "word": "verkiezingen",
-        "definition": "een verkiezing is als mensen stemmen om te kiezen wie de baas wordt",
-        "sentence": "Tijdens de ___ kiest iedereen een nieuw hoofd.",
-        "answer": "verkiezingen"
+        "word": "Italië",
+        "definition": "een land in Europa",
+        "sentence": "Italië is een land in Europa.",
+        "answer": "Italië"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Tijdens de ___ kiest iedereen een nieuw hoofd.",
-        "answer": "verkiezingen"
+        "sentence": "De ___ werkte in Italië.",
+        "answer": "bouwvakker"
       },
       {
-        "sentence": "De ___ van grote steden hebben veel werk.",
-        "answer": "burgemeesters"
+        "sentence": "Hij werkte in ___.",
+        "answer": "Rome"
       },
       {
-        "sentence": "___ komt er naar het feest?",
-        "answer": "wie"
+        "sentence": "Italië is een land in Europa.",
+        "answer": "Italië"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'herlanceren'?",
+      "question": "Waar werkte de man?",
       "options": [
-        "opnieuw beginnen",
-        "stoppen",
-        "vergeten",
-        "verliezen"
+        "in een winkel",
+        "op een bouwplaats",
+        "in een school",
+        "in een park"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is een 'gouverneur'?",
+      "question": "Waar is de man nu?",
       "options": [
-        "een soort auto",
-        "een soort dier",
-        "een politieke leider van een staat",
-        "een type voedsel"
+        "hij is thuis",
+        "hij is op vakantie",
+        "hij is overleden",
+        "hij is in de auto"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is een 'verkiezing'?",
+      "question": "Waar is Italië?",
       "options": [
-        "een sportwedstrijd",
-        "een groot feest",
-        "een moment waarop mensen stemmen voor een nieuwe leider",
-        "een soort spel"
+        "in Azië",
+        "in Europa",
+        "in Afrika",
+        "in Amerika"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Een burgemeester is de leider van een stad.",
-      "isTrue": true
-    },
-    {
-      "statement": "Een gouverneur is de leider van een heel land.",
+      "statement": "De man is nog in leven.",
       "isTrue": false
     },
     {
-      "statement": "Tijdens een verkiezing kiest men een nieuwe leider.",
+      "statement": "Rome is een stad in Italië.",
       "isTrue": true
+    },
+    {
+      "statement": "De man werkte in een school.",
+      "isTrue": false
     }
   ]
 }

@@ -3,104 +3,98 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Hoe Trump Latijns-Amerika als speeltuin ziet",
+  "title": "Rebellen blokkeren brandstof voor hoofdstad Mali",
   "topicNumber": 1,
   "article": {
-    "title": "Hoe Trump Latijns-Amerika als speeltuin ziet",
-    "summary": "Amerikaanse media noemen Trump een piraat en waarschuwen voor een invasie in Venezuela. Maar Trump maakt van Latijns-Amerika zijn exclusieve speeltuin, in zijn eigen versie van de Monroedoctrine."
+    "title": "Rebellen blokkeren brandstof voor hoofdstad Mali",
+    "summary": "Rebellen in Mali blokkeren de brandstof voor de hoofdstad. Daardoor kan de stad niet goed functioneren. De rebellen hopen dat de bevolking in opstand komt tegen het leger."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "een",
-        "definition": "lidwoord voor enkelvoud, zoals 'een boek'",
-        "sentence": "Hij heeft ___ nieuwe plan.",
-        "answer": "een"
+        "word": "blokkeren",
+        "definition": "iets tegenhouden of stoppen",
+        "sentence": "De rebellen willen de toevoer van brandstof ___ om de stad onder druk te zetten.",
+        "answer": "blokkeren"
       },
       {
-        "word": "zijn",
-        "definition": "bezittelijk voornaamwoord, zoals 'dat is van hem'",
-        "sentence": "Dat hoort bij ___. (verwijs naar iets van Trump)",
-        "answer": "zijn"
+        "word": "brandstof",
+        "definition": "wat je nodig hebt om machines of voertuigen te laten werken",
+        "sentence": "Zonder ___ kunnen auto's en generatoren niet werken.",
+        "answer": "brandstof"
       },
       {
-        "word": "maakt",
-        "definition": "doet of creëert iets",
-        "sentence": "Hij ___ van Latijns-Amerika zijn speeltuin.",
-        "answer": "maakt"
+        "word": "leger",
+        "definition": "een groep mensen die een land verdedigt en onder controle houdt",
+        "sentence": "Het ___ van Mali probeert de rebellen te stoppen.",
+        "answer": "leger"
       },
       {
-        "word": "van",
-        "definition": "woord dat bezit of herkomst aangeeft",
-        "sentence": "Dit is een boek ___ mijn leraar.",
-        "answer": "van"
-      },
-      {
-        "word": "Trump",
-        "definition": "de familienaam van de voormalige Amerikaanse president",
-        "sentence": "___ was president van Amerika.",
-        "answer": "Trump"
+        "word": "opstand",
+        "definition": "een situatie waarin veel mensen tegen de macht in actie komen",
+        "sentence": "De rebellen hopen dat er een ___ uitbreekt tegen het leger.",
+        "answer": "opstand"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij ___ van Latijns-Amerika zijn speeltuin.",
-        "answer": "maakt"
+        "sentence": "De rebellen hopen dat er een ___ uitbreekt tegen het leger.",
+        "answer": "opstand"
       },
       {
-        "sentence": "Dit is een boek ___ mijn leraar.",
-        "answer": "van"
+        "sentence": "Zonder ___ kunnen auto's en generatoren niet werken.",
+        "answer": "brandstof"
       },
       {
-        "sentence": "___ was president van Amerika.",
-        "answer": "Trump"
+        "sentence": "De rebellen willen de toevoer van brandstof ___ om de stad onder druk te zetten.",
+        "answer": "blokkeren"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom noemen media Trump een piraat?",
+      "question": "Waarom blokkeren de rebellen de brandstof?",
       "options": [
-        "Omdat hij van piraten houdt",
-        "Omdat hij oneerlijk handelt",
-        "Omdat hij een schip heeft",
-        "Omdat hij een ooglapje draagt"
+        "Om de economie te versterken",
+        "Om de bevolking aan hun kant te krijgen",
+        "Om de stad te helpen groeien",
+        "Om de macht van het leger te vergroten"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de Monroedoctrine?",
+      "question": "Wat is het gevolg van de brandstofblokkade?",
       "options": [
-        "Een medische behandeling",
-        "Een oud boek",
-        "Een plan voor Noord- en Zuid-Amerika",
-        "Een soort sport"
+        "De stad wordt sterker en rijker",
+        "De stad kan niet normaal functioneren",
+        "De bevolking is blij en tevreden",
+        "Het leger krijgt meer steun van de bevolking"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'exclusief' in deze tekst?",
+      "question": "Wat is de hoop van de rebellen?",
       "options": [
-        "Alleen voor speciale mensen",
-        "Voor iedereen toegankelijk",
-        "Helemaal niet toegankelijk",
-        "Alleen op dinsdag"
+        "Dat de bevolking de rebellen gaat helpen",
+        "Dat het leger de rebellen verslaat",
+        "Dat de stad nog meer brandstof krijgt",
+        "Dat de bevolking de rebellen gaat haten"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Trump is de president van Amerika.",
-      "isTrue": true
-    },
-    {
-      "statement": "De Monroedoctrine is een nieuwe dans.",
+      "statement": "De rebunnen blokkeren de brandstof omdat ze de stad willen helpen.",
       "isTrue": false
     },
     {
-      "statement": "Media noemen Trump een piraat omdat hij oneerlijk is.",
+      "statement": "De rebellen hopen dat de bevolking in opstand komt tegen het leger.",
       "isTrue": true
+    },
+    {
+      "statement": "Het leger van Mali ondersteunt de rebellen bij hun acties.",
+      "isTrue": false
     }
   ]
 }

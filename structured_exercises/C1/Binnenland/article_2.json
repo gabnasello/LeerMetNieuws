@@ -3,97 +3,103 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Paul Defoort, 78 jaar",
+  "title": "Antoon Devogelaere, 98 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Paul Defoort, 78 jaar",
-    "summary": "Geboren in 1946, overleden op 27/10/2025."
+    "title": "Antoon Devogelaere, 98 jaar",
+    "summary": "Geboren in 1927, overleden op 31/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "Het moment waarop iemand ter wereld komt.",
-        "sentence": "Hij werd ___ in 1946.",
-        "answer": "geboren"
+        "word": "31/10",
+        "definition": "Datum in dag-maand formaat, hier 31 oktober.",
+        "sentence": "Hij overleed op ___.",
+        "answer": "31/10"
+      },
+      {
+        "word": "98",
+        "definition": "Getal, hier de leeftijd weergevend.",
+        "sentence": "Hij werd ___ jaar oud.",
+        "answer": "98"
+      },
+      {
+        "word": "Devogelaere",
+        "definition": "Familienaam, mogelijk van Vlaamse oorsprong.",
+        "sentence": "Zijn volledige naam was Antoon ___.",
+        "answer": "Devogelaere"
       },
       {
         "word": "overleden",
-        "definition": "Niet meer in leven zijn; gestorven zijn.",
-        "sentence": "Hij is ___ op 27 oktober 2025.",
+        "definition": "Niet meer levend; gestorven.",
+        "sentence": "Hij is ___ op die datum.",
         "answer": "overleden"
       },
       {
-        "word": "jaar",
-        "definition": "Een periode van 365 of 366 dagen, beginnend op 1 januari.",
-        "sentence": "Hij werd 78 ___ oud.",
-        "answer": "jaar"
-      },
-      {
-        "word": "geboren",
-        "definition": "Het begin van het leven; ter wereld komen.",
-        "sentence": "Hij werd ___ in 1946.",
-        "answer": "geboren"
+        "word": "2025",
+        "definition": "Jaartal, het jaar waarin iemand overleden is.",
+        "sentence": "Hij overleed in ___.",
+        "answer": "2025"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij werd 78 ___ oud.",
-        "answer": "jaar"
-      },
-      {
-        "sentence": "Hij is ___ op 27 oktober 2025.",
+        "sentence": "Hij is ___ op die datum.",
         "answer": "overleden"
       },
       {
-        "sentence": "Hij werd ___ in 1946.",
-        "answer": "geboren"
+        "sentence": "Hij werd ___ jaar oud.",
+        "answer": "98"
+      },
+      {
+        "sentence": "Hij overleed in ___.",
+        "answer": "2025"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het als iemand is overleden?",
+      "question": "Wat is de geboortedatum van Antoon Devogelaere?",
       "options": [
-        "Die persoon is verhuisd.",
-        "Die persoon is nog in leven.",
-        "Die persoon is gestorven.",
-        "Die persoon is jarig."
+        "1927",
+        "1928",
+        "1929",
+        "1930"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat geeft de geboortedatum aan?",
+      "question": "Op welke datum is Antoon Devogelaere overleden?",
       "options": [
-        "De dag waarop iemand is overleden.",
-        "De dag waarop iemand is geboren.",
-        "De dag waarop iemand jarig is.",
-        "De dag waarop iemand is verhuisd."
+        "31/10/2025",
+        "31/10/2024",
+        "30/10/2025",
+        "31/12/2025"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is een synoniem voor 'geboren'?",
+      "question": "Wat was de leeftijd van Antoon Devogelaere bij zijn overlijden?",
       "options": [
-        "Ter wereld komen",
-        "Overlijden",
-        "Jong zijn",
-        "Oud zijn"
+        "98 jaar",
+        "97 jaar",
+        "99 jaar",
+        "100 jaar"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Paul Defoort is geboren in 1946.",
+      "statement": "Antoon Devogelaere werd geboren in 1927.",
       "isTrue": true
     },
     {
-      "statement": "Paul Defoorn overleed op 27 oktober 2025.",
-      "isTrue": true
+      "statement": "Antoon Devogelaere overleed op 31/10/2024.",
+      "isTrue": false
     },
     {
-      "statement": "Paul Defoort was 78 jaar oud bij zijn overlijden.",
+      "statement": "Antoon Devogelaere werd 98 jaar oud.",
       "isTrue": true
     }
   ]

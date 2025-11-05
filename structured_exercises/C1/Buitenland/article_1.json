@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Amerikaanse rechter wendt hongercrisis in VS (even) af",
+  "title": "Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey",
   "topicNumber": 1,
   "article": {
-    "title": "Amerikaanse rechter wendt hongercrisis in VS (even) af",
-    "summary": "42 miljoen Amerikanen komen maar rond dankzij voedselsteun van de regering. De voedselbonnen van november lijken gered, al ontbreken er miljarden dollars."
+    "title": "Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "ontbreken",
-        "definition": "niet aanwezig zijn, missen",
-        "sentence": "Er ___ nog enkele belangrijke handtekeningen.",
-        "answer": "ontbreken"
+        "word": "winnen",
+        "definition": "Een overwinning behalen in een wedstrijd of verkiezing.",
+        "sentence": "Hij hoopte de verkiezing te ___.",
+        "answer": "winnen"
       },
       {
-        "word": "voedselsteun",
-        "definition": "hulp in de vorm van voedsel, vaak van de overheid",
-        "sentence": "De regering bood ___ aan de getroffen bevolking.",
-        "answer": "voedselsteun"
+        "word": "gouverneur",
+        "definition": "De hoogste uitvoerende ambtenaar in een staat of deelstaat.",
+        "sentence": "De nieuwe ___ van Virginia zal morgen worden beëdigd.",
+        "answer": "gouverneur"
       },
       {
-        "word": "regering",
-        "definition": "de groep mensen die een land of gebied bestuurt",
-        "sentence": "De ___ heeft nieuwe maatregelen aangekondigd.",
-        "answer": "regering"
+        "word": "updates",
+        "definition": "Bijgewerkte informatie of het laatste nieuws over een onderwerp.",
+        "sentence": "Volg de ___ over de verkiezingen hier.",
+        "answer": "updates"
       },
       {
-        "word": "rechter",
-        "definition": "een persoon die in een rechtbank beslist over geschillen",
-        "sentence": "De ___ heeft de zaak behandeld.",
-        "answer": "rechter"
+        "word": "burgemeester",
+        "definition": "Het hoofd van de gemeentelijke overheid in een stad of gemeente.",
+        "sentence": "De nieuwe ___ werd met veel enthousiasme begroet.",
+        "answer": "burgemeester"
       },
       {
-        "word": "gered",
-        "definition": "beschermd of veiliggesteld, van een gevaar",
-        "sentence": "De voorraden zijn ___ van de overstroming.",
-        "answer": "gered"
+        "word": "race",
+        "definition": "Een wedstrijd of competitie, vaak in de context van verkiezingen.",
+        "sentence": "De politieke ___ was erg intens dit jaar.",
+        "answer": "race"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De regering bood ___ aan de getroffen bevolking.",
-        "answer": "voedselsteun"
+        "sentence": "De nieuwe ___ werd met veel enthousiasme begroet.",
+        "answer": "burgemeester"
       },
       {
-        "sentence": "De ___ heeft nieuwe maatregelen aangekondigd.",
-        "answer": "regering"
+        "sentence": "De politieke ___ was erg intens dit jaar.",
+        "answer": "race"
       },
       {
-        "sentence": "De voorraden zijn ___ van de overstroming.",
-        "answer": "gered"
+        "sentence": "Volg de ___ over de verkiezingen hier.",
+        "answer": "updates"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de rol van de rechter in deze kwestie?",
+      "question": "Welke term wordt gebruikt voor het hoofd van een stedelijke overheid?",
       "options": [
-        "Hij start de voedselsteun",
-        "Hij beëindigt de voedselsteun",
-        "Hij beschermt de voedselbonnen",
-        "Hij keurt de steun af"
+        "Burgemeester",
+        "Gouverneur",
+        "Minister",
+        "President"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat betekent 'winnen' in de context van verkiezingen?",
+      "options": [
+        "Verliezen",
+        "Deelnemen",
+        "Winnen",
+        "Strijden"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Waaruit bestaat de voedselsteun in dit artikel?",
+      "question": "Welke functie bekleedt iemand die een gouverneursrace wint?",
       "options": [
-        "Alleen uit geld",
-        "Alleen uit voedselbonnen",
-        "Uitsluitend uit voedselpakketten",
-        "Een combinatie van bonnen en mogelijk geld"
-      ],
-      "correctAnswer": 4
-    },
-    {
-      "question": "Wat is de toestand van de voedselbonnen in november?",
-      "options": [
-        "Ze zijn al gebruikt",
-        "Ze zijn verloren gegaan",
-        "Ze zijn gered en bruikbaar",
-        "Ze zijn nog niet uitgedeeld"
+        "Burgemeester",
+        "Minister van Onderwijs",
+        "Gouverneur",
+        "President"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De rechter heeft de voedselsteun volledig stopgezet.",
+      "statement": "Donald Trump was de eerste president van de Verenigde Staten die een tweede ambtstermijn begon.",
       "isTrue": false
     },
     {
-      "statement": "Er ontbreken miljarden dollars aan de voedselsteun, maar de bonnen zijn gered.",
+      "statement": "De verkiezingen in Virginia en New Jersey werden gewonnen door Democraten.",
       "isTrue": true
     },
     {
-      "statement": "Alleen de voedselbonnen worden beschermd, niet het geld.",
+      "statement": "Zohran Mamdani werd burgemeester van New York City.",
       "isTrue": false
     }
   ]

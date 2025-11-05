@@ -1,105 +1,105 @@
 {
-  "id": 12,
+  "id": 14,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
+  "title": "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
   "topicNumber": 1,
   "article": {
-    "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
-    "summary": "Wie wordt gouverneur in Virginia en New Jersey? En wordt een moslim burgemeester van New York? Al doet hij niet mee, deze verkiezingen zijn een barometer voor Donald Trumps populariteit, én die van de Democraten."
+    "title": "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
+    "summary": "Na een reddingsactie van ruim elf uur werd de Roemeense bouwvakker Octav Stroici (66) bevrijd uit een ingestorte middeleeuwse toren in hartje Rome. Kort daarna overleed hij. Het drama de talrijke dodelijke arbeidsongevallen in Italië opnieuw onder de aandacht."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "verkiezingen",
-        "definition": "een verkiezing is een proces waarbij mensen stemmen om iemand te kiezen voor een functie",
-        "sentence": "Tijdens de ___ stemmen mensen op hun favoriete kandidaat.",
-        "answer": "verkiezingen"
+        "word": "arbeidsongevallen",
+        "definition": "ongelukken die gebeuren tijdens het werk",
+        "sentence": "Er waren veel ___ in Italië dit jaar.",
+        "answer": "arbeidsongevallen"
       },
       {
-        "word": "gouverneurs",
-        "definition": "een gouverneur is de leider van een staat in de Verenigde Staten",
-        "sentence": "De ___ van Texas en Californië hebben veel macht.",
-        "answer": "gouverneurs"
+        "word": "middeleeuws",
+        "definition": "uit de middeleeuwen, een periode in de geschiedenis",
+        "sentence": "De toren was van ___ oorsprong.",
+        "answer": "middeleeuws"
       },
       {
-        "word": "burgemeester",
-        "definition": "een burgemeester is het hoofd van de gemeente of stad",
-        "sentence": "De ___ van New York werkt samen met de gemeenteraad.",
-        "answer": "burgemeester"
+        "word": "bouwvakker",
+        "definition": "iemand die in de bouw werkt",
+        "sentence": "De ___ werd gered uit het ingestorte gebouw.",
+        "answer": "bouwvakker"
       },
       {
-        "word": "Democraten",
-        "definition": "een van de twee grote politieke partijen in de Verenigde Staten",
-        "sentence": "De ___ hebben momenteel de meerderheid in de Senaat.",
-        "answer": "Democraten"
+        "word": "drama",
+        "definition": "een ernstige of emotionele gebeurtenis, vaak met een slecht einde",
+        "sentence": "Het ___ trok veel aandacht van de media.",
+        "answer": "drama"
       },
       {
-        "word": "herlanceren",
-        "definition": "opnieuw beginnen of nieuw leven inblazen",
-        "sentence": "Het nieuwe project zal de economie ___.",
-        "answer": "herlanceren"
+        "word": "reddingsactie",
+        "definition": "een actie om iemand te redden uit een gevaarlijke situatie",
+        "sentence": "De ___ duurde meer dan elf uur.",
+        "answer": "reddingsactie"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ van Texas en Californië hebben veel macht.",
-        "answer": "gouverneurs"
+        "sentence": "De ___ werd gered uit het ingestorte gebouw.",
+        "answer": "bouwvakker"
       },
       {
-        "sentence": "De ___ hebben momenteel de meerderheid in de Senaat.",
-        "answer": "Democraten"
+        "sentence": "Er waren veel ___ in Italië dit jaar.",
+        "answer": "arbeidsongevallen"
       },
       {
-        "sentence": "De ___ van New York werkt samen met de gemeenteraad.",
-        "answer": "burgemeester"
+        "sentence": "De toren was van ___ oorsprong.",
+        "answer": "middeleeuws"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Welke politieke partij is momenteel aan de macht in de Senaat van de Verenigde Staten?",
+      "question": "Waar vond het ongeluk plaats?",
       "options": [
-        "De Democraten",
-        "De Republikeinen",
-        "De Groenen",
-        "De Liberalen"
+        "In een middeleeuwse toren in Rome",
+        "Op een bouwplaats in Duitsland",
+        "In een ziekenhuis in Roemenië",
+        "Tijdens een reddingsactie in Italië"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van een gouverneur?",
+      "question": "Wat is de rol van een bouwvakker?",
       "options": [
-        "Leider van een staat",
-        "Leider van het land",
-        "Leider van een stad",
-        "Leider van een provincie"
+        "Hij werkt in de bouw",
+        "Hij is een brandweerman",
+        "Hij is een historicus",
+        "Hij is een toerist"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is een barometer in deze context?",
+      "question": "Wat is de boodschap van dit artikel?",
       "options": [
-        "Een meetinstrument voor luchtdruk",
-        "Een indicator of graadmeter",
-        "Een weervoorspeller",
-        "Een apparaat om snelheid te meten"
+        "Veel arbeidsongevallen in Italië",
+        "Rome is een gevaarlijke stad",
+        "Roemenië heeft veel bouwvakkers",
+        "De middeleeuwen zijn terug"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De verkiezingen in Virginia en New Jersey bepalen wie de nieuwe gouverneurs worden.",
+      "statement": "De bouwvakker overleed kort na zijn bevrijding.",
       "isTrue": true
     },
     {
-      "statement": "Een burgemeester van New York is automatisch ook de burgemeester van heel de Verenigde Staten.",
+      "statement": "Italië heeft dit jaar minder arbeidsongevallen dan vorig jaar.",
       "isTrue": false
     },
     {
-      "statement": "De uitslagen van deze verkiezingen kunnen een indicatie geven van de populariteit van president Trump.",
+      "statement": "De toren stortte in door een brand.",
       "isTrue": true
     }
   ]

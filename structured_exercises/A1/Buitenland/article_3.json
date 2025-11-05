@@ -1,106 +1,106 @@
 {
-  "id": 5,
+  "id": 6,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Nieuwe voorzitter Jesse Klaver",
+  "title": "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
   "topicNumber": 1,
   "article": {
-    "title": "Nieuwe voorzitter Jesse Klaver",
-    "summary": "Jesse Klaver is de nieuwe voorzitter. Hij wordt de nieuwe leider. Hij gaat voor GroenLinks-PvdA praten over een nieuwe regering. Het wordt een moeilijke taak."
+    "title": "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
+    "summary": "In Mali staat het militaire regime onder zware druk. Al-Qaeda-strijders hebben een economische blokkade ingevoerd tegen Bamako, waardoor de stad zonder brandstof dreigt te vallen. De rebellen hopen dat er een opstand uitbreekt, zodat zij de macht kunnen grijpen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "praten",
-        "definition": "spreken, woorden zeggen",
-        "sentence": "We ___ met elkaar over onze plannen.",
-        "answer": "praten"
+        "word": "regime",
+        "definition": "de groep mensen die een land bestuurt",
+        "sentence": "Het ___ is niet democratisch.",
+        "answer": "regime"
       },
       {
-        "word": "voorzitter",
-        "definition": "iemand die de leiding heeft",
-        "sentence": "De ___ van de vergadering spreekt eerst.",
-        "answer": "voorzitter"
+        "word": "brandstof",
+        "definition": "stof om machines te laten werken, zoals benzine",
+        "sentence": "Zonder ___ kan de auto niet rijden.",
+        "answer": "brandstof"
       },
       {
-        "word": "leider",
-        "definition": "iemand die de leiding heeft",
-        "sentence": "De ___ van het team motiveert de groep.",
-        "answer": "leider"
+        "word": "opstand",
+        "definition": "een moment waarop mensen in verzet komen tegen de leiders",
+        "sentence": "De ___ was groot en gevaarlijk.",
+        "answer": "opstand"
       },
       {
-        "word": "taak",
-        "definition": "iets wat gedaan moet worden, opdracht",
-        "sentence": "Mijn ___ voor vandaag is de afwas doen.",
-        "answer": "taak"
+        "word": "macht",
+        "definition": "de kracht of autoriteit die iemand heeft",
+        "sentence": "Hij heeft veel ___ in de organisatie.",
+        "answer": "macht"
       },
       {
-        "word": "leider",
-        "definition": "iemand die de leiding heeft",
-        "sentence": "De ___ van het project legt alles uit.",
-        "answer": "leider"
+        "word": "stad",
+        "definition": "een plaats waar veel mensen wonen en werken",
+        "sentence": "De ___ is groot en druk.",
+        "answer": "stad"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "We ___ met elkaar over onze plannen.",
-        "answer": "praten"
+        "sentence": "Hij heeft veel ___ in de organisatie.",
+        "answer": "macht"
       },
       {
-        "sentence": "De ___ van het project legt alles uit.",
-        "answer": "leider"
+        "sentence": "De ___ is groot en druk.",
+        "answer": "stad"
       },
       {
-        "sentence": "De ___ van het team motiveert de groep.",
-        "answer": "leider"
+        "sentence": "Zonder ___ kan de auto niet rijden.",
+        "answer": "brandstof"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wie is Jesse Klaver?",
+      "question": "Wat is de hoofdstad van Mali?",
       "options": [
-        "Een Nederlandse politicus",
-        "Een Franse acteur",
-        "Een Duitse zanger",
-        "Een Spaanse kok"
+        "Amsterdam",
+        "Parijs",
+        "Bamako",
+        "Londen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat doet Jesse Klaver als nieuwe voorzitter?",
+      "question": "Wat voor blokkade is er in de stad?",
       "options": [
-        "Hij speelt piano",
-        "Hij onderhandelt over de regering",
-        "Hij kookt eten",
-        "Hij leest een boek"
+        "een sportieve",
+        "een economische",
+        "een politieke",
+        "een culturele"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Is dit een moeilijke taak voor Jesse?",
+      "question": "Wat hopen de rebellen?",
       "options": [
-        "Ja, het is moeilijk",
-        "Nee, het is makkelijk",
-        "Misschien",
-        "Ik weet het niet"
+        "dat de stad valt",
+        "dat er een opstand komt",
+        "dat de brandstof opraakt",
+        "dat de regering valt"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Jesse Klaver is de nieuwe voorzitter.",
+      "statement": "De hoofdstad van Mali is Bamako.",
       "isTrue": true
     },
     {
-      "statement": "Jesse Klaver onderhandelt voor de regering.",
-      "isTrue": true
-    },
-    {
-      "statement": "Jesse Klaver is een acteur.",
+      "statement": "De rebellen hebben een culturele blokkade ingevoerd.",
       "isTrue": false
+    },
+    {
+      "statement": "De rebellen hopen dat er een opstand uitbreekt.",
+      "isTrue": true
     }
   ]
 }

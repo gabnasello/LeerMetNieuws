@@ -1,106 +1,106 @@
 {
-  "id": 11,
+  "id": 13,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
+  "title": "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
   "topicNumber": 1,
   "article": {
-    "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
-    "summary": "Wie wordt gouverneur in Virginia en New Jersey? En wordt een moslim burgemeester van New York? Al doet hij niet mee, deze verkiezingen zijn een barometer voor Donald Trumps populariteit, én die van de Democraten."
+    "title": "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
+    "summary": "Na een reddingsactie van ruim elf uur werd de Roemeense bouwvakker Octav Stroici (66) bevrijd uit een ingestorte middeleeuwse toren in hartje Rome. Kort daarna overleed hij. Het drama de talrijke dodelijke arbeidsongevallen in Italië opnieuw onder de aandacht."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "verkiezingen",
-        "definition": "verkiezingen zijn het kiezen van nieuwe politici",
-        "sentence": "De ___ zijn in november.",
-        "answer": "verkiezingen"
+        "word": "Italië",
+        "definition": "Een land in Europa, bekend om zijn eten en geschiedenis.",
+        "sentence": "___ is een populair vakantieland.",
+        "answer": "Italië"
       },
       {
-        "word": "burgemeester",
-        "definition": "een burgemeester is de baas van een stad",
-        "sentence": "De ___ van New York is een Democraat.",
-        "answer": "burgemeester"
+        "word": "arbeidsongevallen",
+        "definition": "Ongevallen die gebeuren tijdens het werk.",
+        "sentence": "De fabriek heeft strenge regels om ___ te voorkomen.",
+        "answer": "arbeidsongevallen"
       },
       {
-        "word": "Democraten",
-        "definition": "de Democraten zijn een van de twee grote politieke partijen in de VS",
-        "sentence": "De ___ willen meer geld voor scholen.",
-        "answer": "Democraten"
+        "word": "Rome",
+        "definition": "De hoofdstad van Italië.",
+        "sentence": "___ is een oude stad met veel geschiedenis.",
+        "answer": "Rome"
       },
       {
-        "word": "gouverneur",
-        "definition": "een gouverneur is de baas van een staat",
-        "sentence": "De ___ van Texas woont in Austin.",
-        "answer": "gouverneur"
+        "word": "talrijke",
+        "definition": "Heel veel, in grote aantallen.",
+        "sentence": "Er waren ___ mensen aanwezig bij de bijeenkomst.",
+        "answer": "talrijke"
       },
       {
-        "word": "populariteit",
-        "definition": "populariteit is hoe populair iets of iemand is",
-        "sentence": "De ___ van de president neemt af in de peilingen.",
-        "answer": "populariteit"
+        "word": "overleed",
+        "definition": "Heeft geen leven meer, is doodgegaan.",
+        "sentence": "Hij ___ na een lang ziekbed.",
+        "answer": "overleed"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ zijn in november.",
-        "answer": "verkiezingen"
+        "sentence": "___ is een oude stad met veel geschiedenis.",
+        "answer": "Rome"
       },
       {
-        "sentence": "De ___ van Texas woont in Austin.",
-        "answer": "gouverneur"
+        "sentence": "___ is een populair vakantieland.",
+        "answer": "Italië"
       },
       {
-        "sentence": "De ___ van New York is een Democraat.",
-        "answer": "burgemeester"
+        "sentence": "Hij ___ na een lang ziekbed.",
+        "answer": "overleed"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de rol van een gouverneur in de VS?",
+      "question": "Waar is de bouwvakker Octav Stroici omgekomen?",
       "options": [
-        "Hij is de baas van een hele staat.",
-        "Hij is alleen verantwoordelijk voor de hoofdstad.",
-        "Hij is de baas van het leger in de staat.",
-        "Hij is een burgemeester met een andere titel."
+        "In een oude toren in Rome",
+        "Op een boerderij in Italië",
+        "In een moderne fabriek in Duitsland",
+        "Tijdens een vakantie in Spanje"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waarover gaan de verkiezingen in dit artikel?",
+      "question": "Hoe lang duurde de reddingsactie voor Octav Stroici?",
       "options": [
-        "Over het kiezen van nieuwe politici in de VS.",
-        "Over de Olympische Spelen in de VS.",
-        "Over de verkiezing van de koning van de VS.",
-        "Over de bouw van nieuwe scholen in de VS."
+        "Minder dan een uur",
+        "Ongeveer elf uur",
+        "Meer dan een dag",
+        "Niet vermeld in de tekst"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de invloed van deze verkiezingen op de Democraten?",
+      "question": "Wat is de gevolg van dit incident volgens de tekst?",
       "options": [
-        "Ze kunnen de partij helpen of schaden, afhankelijk van de uitslag.",
-        "Ze zullen de partij zeker helpen, ongeacht de uitslag.",
-        "Ze hebben geen effect op de partij, alleen op lokale zaken.",
-        "Ze zijn alleen belangrijk voor de Republikeinse partij."
+        "Meer aandacht voor arbeidsveiligheid",
+        "Meer toerisme naar Rome",
+        "Geen gevolgen",
+        "Een nieuwe wet tegen oude gebouwen"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De verkiezingen in het artikel gaan over het kiezen van nieuwe politici in de VS.",
+      "statement": "Octav Stroici overleefde het ongeluk niet.",
       "isTrue": true
     },
     {
-      "statement": "Een gouverneur in de VS is de baas van een hele stad.",
+      "statement": "Er zijn dit jaar al 777 doden gevallen in Italië door arbeidsongevallen.",
+      "isTrue": true
+    },
+    {
+      "statement": "De toren stortte in omdat het een nieuwe constructie was.",
       "isTrue": false
-    },
-    {
-      "statement": "De populariteit van Donald Trump wordt beïnvloed door de uitslag van deze verkiezingen.",
-      "isTrue": true
     }
   ]
 }

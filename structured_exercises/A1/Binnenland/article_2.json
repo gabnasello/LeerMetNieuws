@@ -3,104 +3,104 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Paul Defoort, 78 jaar",
+  "title": "Antoon Devogelaere, 98 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Paul Defoort, 78 jaar",
-    "summary": "Paul Defoort was 78 jaar. Hij is overleden."
+    "title": "Antoon Devogelaere, 98 jaar",
+    "summary": "Hij is geboren in 1927. Hij is overleden op 31 oktober 2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Paul",
-        "definition": "een mannelijke naam",
-        "sentence": "___ is een man.",
-        "answer": "Paul"
-      },
-      {
-        "word": "Defoort",
-        "definition": "een achternaam",
-        "sentence": "Zijn achternaam is ___.",
-        "answer": "Defoort"
-      },
-      {
-        "word": "78",
-        "definition": "een getal, veel meer dan 10",
-        "sentence": "Hij is ___ jaar geworden.",
-        "answer": "78"
-      },
-      {
-        "word": "jaar",
-        "definition": "een periode van 365 dagen",
-        "sentence": "Hij is 78 ___ oud.",
-        "answer": "jaar"
+        "word": "Hij",
+        "definition": "verwijst naar een man",
+        "sentence": "___ is geboren in 1927.",
+        "answer": "Hij"
       },
       {
         "word": "overleden",
-        "definition": "niet meer levend, dood",
-        "sentence": "Hij is ___ op 27 oktober.",
+        "definition": "niet meer leven",
+        "sentence": "Hij is ___ op 31 oktober 2025.",
         "answer": "overleden"
+      },
+      {
+        "word": "in",
+        "definition": "tijd of plaats",
+        "sentence": "Hij is geboren ___ 1927.",
+        "answer": "in"
+      },
+      {
+        "word": "1927",
+        "definition": "een jaartal",
+        "sentence": "Hij is geboren in ___.",
+        "answer": "1927"
+      },
+      {
+        "word": "geboren",
+        "definition": "het begin van het leven",
+        "sentence": "Hij is ___ in 1927.",
+        "answer": "geboren"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is ___ op 27 oktober.",
+        "sentence": "Hij is ___ op 31 oktober 2025.",
         "answer": "overleden"
       },
       {
-        "sentence": "Zijn achternaam is ___.",
-        "answer": "Defoort"
+        "sentence": "Hij is geboren ___ 1927.",
+        "answer": "in"
       },
       {
-        "sentence": "Hij is ___ jaar geworden.",
-        "answer": "78"
+        "sentence": "Hij is geboren in ___.",
+        "answer": "1927"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Hoe oud was Paul Defoort?",
+      "question": "Wanneer is Antoon Devogelaere geboren?",
       "options": [
-        "78 jaar",
-        "80 jaar",
-        "75 jaar",
-        "77 jaar"
+        "In 1927",
+        "In 1930",
+        "In 1920",
+        "In 1945"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "In welk jaar is Paul geboren?",
+      "question": "Wat is de geboortedatum van Antoon?",
       "options": [
-        "1946",
-        "1945",
-        "1947",
-        "1948"
+        "31 oktober 1927",
+        "1 januari 1927",
+        "31 oktober 1920",
+        "31 oktober 1925"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Is Paul Defoort nu nog in leven?",
+      "question": "Hoe oud was Antoon toen hij overleed?",
       "options": [
-        "Nee, hij is overleden.",
-        "Ja, hij leeft nog.",
-        "Hij is ziek.",
-        "Hij is op vakantie."
+        "98 jaar",
+        "100 jaar",
+        "95 jaar",
+        "102 jaar"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Paul Defoort is overleden.",
+      "statement": "Antoon Devogelaere is geboren in 1927.",
       "isTrue": true
     },
     {
-      "statement": "Paul is geboren in 1945.",
+      "statement": "Antoon overleed in 2025.",
+      "isTrue": true
+    },
+    {
+      "statement": "Antoon was 100 jaar oud toen hij overleed.",
       "isTrue": false
-    },
-    {
-      "statement": "Paul stierf op 27 oktober 2025.",
-      "isTrue": true
     }
   ]
 }

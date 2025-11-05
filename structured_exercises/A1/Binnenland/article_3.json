@@ -1,94 +1,106 @@
 {
-  "id": 19,
+  "id": 20,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Nieuwe tandarts in Kluisbergen",
+  "title": "Organisaties verliezen subsidies",
   "topicNumber": 1,
   "article": {
-    "title": "Nieuwe tandarts in Kluisbergen",
-    "summary": "Tandarts Julie start haar praktijk. Ze is nu al volgeboekt tot in 2026."
+    "title": "Organisaties verliezen subsidies",
+    "summary": "Twee organisaties verliezen hun subsidies. Zij helpen arme kinderen. De overheid zegt dat er geen geld meer is. Dit is slecht voor de kinderen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "tandarts",
-        "definition": "iemand die zorgt voor tanden",
-        "sentence": "De ___ helpt als je kiespijn hebt.",
-        "answer": "tandarts"
+        "word": "subsidies",
+        "definition": "geld van de overheid",
+        "sentence": "De overheid geeft geen ___ meer.",
+        "answer": "subsidies"
       },
       {
-        "word": "praktijk",
-        "definition": "de plaats waar een professional werkt",
-        "sentence": "De tandarts heeft een nieuwe ___.",
-        "answer": "praktijk"
+        "word": "geen",
+        "definition": "niet iets",
+        "sentence": "Er is ___ geld meer.",
+        "answer": "geen"
       },
       {
-        "word": "volgeboekt",
-        "definition": "helemaal vol, geen plaats meer",
-        "sentence": "Er zijn geen afspraken meer mogelijk, want de agenda is ___.",
-        "answer": "volgeboekt"
+        "word": "slecht",
+        "definition": "niet goed",
+        "sentence": "Dit is ___ voor de kinderen.",
+        "answer": "slecht"
+      },
+      {
+        "word": "verliezen",
+        "definition": "iets niet meer hebben",
+        "sentence": "Zij ___ hun geld.",
+        "answer": "verliezen"
+      },
+      {
+        "word": "organisaties",
+        "definition": "groepen mensen die samenwerken",
+        "sentence": "De ___ helpen kinderen in armoede.",
+        "answer": "organisaties"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Er zijn geen afspraken meer mogelijk, want de agenda is ___.",
-        "answer": "volgeboekt"
+        "sentence": "De overheid geeft geen ___ meer.",
+        "answer": "subsidies"
       },
       {
-        "sentence": "De tandarts heeft een nieuwe ___.",
-        "answer": "praktijk"
+        "sentence": "De ___ helpen kinderen in armoede.",
+        "answer": "organisaties"
       },
       {
-        "sentence": "De ___ helpt als je kiespijn hebt.",
-        "answer": "tandarts"
+        "sentence": "Er is ___ geld meer.",
+        "answer": "geen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat doet een tandarts?",
+      "question": "Wat verliezen de organisaties?",
       "options": [
-        "Hij kookt eten",
-        "Hij repareert tanden",
-        "Hij verkoopt huizen",
-        "Hij rijdt in een auto"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat betekent 'volgeboekt'?",
-      "options": [
-        "Het is erg druk",
-        "Het is heel leeg",
-        "Het is erg duur",
-        "Het is heel nieuw"
+        "Hun geld",
+        "Hun huis",
+        "Hun vrienden",
+        "Hun werk"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waar is Julie's praktijk?",
+      "question": "Wie geeft normaal gesproken geld aan de organisaties?",
       "options": [
-        "In Antwerpen",
-        "In Brussel",
-        "In Kluisbergen",
-        "In Gent"
+        "De scholen",
+        "De overheid",
+        "De ouders",
+        "De kinderen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Is dit goed voor de kinderen?",
+      "options": [
+        "Ja, het is leuk",
+        "Ja, het is fijn",
+        "Nee, het is slecht",
+        "Nee, het is geweldig"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Julie is een tandarts in Kluisbergen.",
+      "statement": "De organisaties verliezen hun subsidies.",
       "isTrue": true
     },
     {
-      "statement": "Julie start haar praktijk in 2026.",
+      "statement": "De overheid geeft nu meer geld.",
       "isTrue": false
     },
     {
-      "statement": "Veel Vlaamse gemeenten hebben hetzelfde probleem.",
-      "isTrue": true
+      "statement": "Dit is goed nieuws voor de kinderen.",
+      "isTrue": false
     }
   ]
 }
