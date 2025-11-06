@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Amerikaanse verkiezingen: belangrijke uitslagen",
+  "title": "Supreme Court beslist over Trumps tarieven",
   "topicNumber": 1,
   "article": {
-    "title": "Amerikaanse verkiezingen: belangrijke uitslagen",
-    "summary": "In de Verenigde Staten zijn er belangrijke verkiezingen geweest. Er zijn nieuwe burgemeesters en gouverneurs gekozen. Dit zijn de eerste uitslagen. De verkiezingen kunnen de toekomst van het land beïnvloeden."
+    "title": "Supreme Court beslist over Trumps tarieven",
+    "summary": "Het Supreme Court beslist over de tarieven van Donald Trump. Meestal steunen de rechters Trump, maar in dit geval zijn enkele rechters kritisch."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "verkiezingen",
-        "definition": "een keer dat mensen stemmen om iemand te kiezen",
-        "sentence": "In november zijn er ___ in de Verenigde Staten.",
-        "answer": "verkiezingen"
+        "word": "beslist",
+        "definition": "heeft bepaald, heeft een beslissing genomen",
+        "sentence": "De rechter ___ over de zaak.",
+        "answer": "beslist"
       },
       {
-        "word": "burgemeester",
-        "definition": "de belangrijkste persoon in een stad of gemeente",
-        "sentence": "De nieuwe ___ van New York heet Zohran Mamdani.",
-        "answer": "burgemeester"
+        "word": "tarieven",
+        "definition": "de prijzen of kosten voor iets",
+        "sentence": "De ___ voor elektriciteit zijn gestegen.",
+        "answer": "tarieven"
       },
       {
-        "word": "gouverneur",
-        "definition": "de leider van een staat in Amerika",
-        "sentence": "In Virginia en New Jersey is er een nieuwe ___ gekozen.",
-        "answer": "gouverneur"
+        "word": "steunen",
+        "definition": "helpen of ondersteunen",
+        "sentence": "Vrienden ___ elkaar in moeilijke tijden.",
+        "answer": "steunen"
       },
       {
-        "word": "uitslagen",
-        "definition": "de officiële resultaten van een verkiezing",
-        "sentence": "De ___ van de verkiezingen zijn bekend.",
-        "answer": "uitslagen"
+        "word": "rechters",
+        "definition": "personen die beslissen over recht en wet",
+        "sentence": "De ___ zijn onpartijdig.",
+        "answer": "rechters"
       },
       {
-        "word": "toekomst",
-        "definition": "de tijd die nog komt",
-        "sentence": "De verkiezingen beïnvloeden de ___ van het land.",
-        "answer": "toekomst"
+        "word": "kritisch",
+        "definition": "ietwat negatief of veeleisend",
+        "sentence": "De recensie was ___ over de nieuwe film.",
+        "answer": "kritisch"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "In Virginia en New Jersey is er een nieuwe ___ gekozen.",
-        "answer": "gouverneur"
+        "sentence": "Vrienden ___ elkaar in moeilijke tijden.",
+        "answer": "steunen"
       },
       {
-        "sentence": "De nieuwe ___ van New York heet Zohran Mamdani.",
-        "answer": "burgemeester"
+        "sentence": "De recensie was ___ over de nieuwe film.",
+        "answer": "kritisch"
       },
       {
-        "sentence": "In november zijn er ___ in de Verenigde Staten.",
-        "answer": "verkiezingen"
+        "sentence": "De rechter ___ over de zaak.",
+        "answer": "beslist"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat zijn de verkiezingen in de Verenigde Staten?",
+      "question": "Wat betekent 'steunen' in deze context?",
       "options": [
-        "een sportwedstrijd",
-        "een festival",
-        "een politieke gebeurtenis",
-        "een concert"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wie is Zohran Mamdani?",
-      "options": [
-        "een bekende zanger",
-        "de nieuwe burgemeester van New York",
-        "een professionele basketballer",
-        "een filmacteur"
+        "laten vallen",
+        "ondersteunen",
+        "negeren",
+        "bekritiseren"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van een gouverneur?",
+      "question": "Waar staat 'SCOTUS' voor?",
       "options": [
-        "leider van een stad",
-        "leider van een staat in de VS",
-        "leider van een heel land",
-        "leider van een sportteam"
+        "Supreme Court Of The United States",
+        "Senior Court of Texas",
+        "Special Council of the United States",
+        "Supreme Council of the United States"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is de hoofdtaak van het Supreme Court?",
+      "options": [
+        "wetten maken",
+        "wetten interpreteren",
+        "verkiezingen organiseren",
+        "strafen uitdelen"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De verkiezingen in de Verenigde Staten vonden plaats in november.",
-      "isTrue": true
-    },
-    {
-      "statement": "De Republikeinen hebben gewonnen in Virginia en New Jersey.",
+      "statement": "Het Supreme Court heeft de macht om presidenten te vervolgen.",
       "isTrue": false
     },
     {
-      "statement": "De verkiezingsuitslagen kunnen de toekomst beïnvloeden.",
+      "statement": "Rechters in het Supreme Court worden voor het leven benoemd.",
       "isTrue": true
+    },
+    {
+      "statement": "Trump is de huidige president van de Verenigde Staten.",
+      "isTrue": false
     }
   ]
 }

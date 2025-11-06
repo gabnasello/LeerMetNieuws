@@ -1,106 +1,106 @@
 {
-  "id": 13,
+  "id": 15,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
+  "title": "Zohran Mamdani, de nieuwe burgemeester van New York, heeft grote plannen, maar een al even grote vijand",
   "topicNumber": 1,
   "article": {
-    "title": "Kunnen de verkiezingen van gouverneurs en burgemeesters de Democraten herlanceren in de VS?",
-    "summary": "Wie wordt gouverneur in Virginia en New Jersey? En wordt een moslim burgemeester van New York? Al doet hij niet mee, deze verkiezingen zijn een barometer voor Donald Trumps populariteit, én die van de Democraten."
+    "title": "Zohran Mamdani, de nieuwe burgemeester van New York, heeft grote plannen, maar een al even grote vijand",
+    "summary": "Winnen is één ding, het waarmaken iets anders. Zohran Mamdani wordt een heel andere burgemeester van New York, maar staat voor één grote uitdaging: geld vinden voor zijn plannen, met een president die hem wil saboteren."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "wie",
-        "definition": "Vraagwoord dat gebruikt wordt om te vragen naar een persoon of personen.",
-        "sentence": "Wie heeft deze beslissing genomen?",
-        "answer": "wie"
+        "word": "vinden",
+        "definition": "iets zoeken en dan ontdekken",
+        "sentence": "Ze kon haar sleutels niet ___.",
+        "answer": "vinden"
       },
       {
-        "word": "gouverneurs",
-        "definition": "De hoogstverkiezen bestuurders van een staat in de VS.",
-        "sentence": "De gouverneurs van Texas en Californië hebben verschillende beleidsvisies.",
-        "answer": "gouverneurs"
+        "word": "nieuwe",
+        "definition": "pas ontstaan of recent gemaakt",
+        "sentence": "De ___ auto rook nog nieuw.",
+        "answer": "nieuwe"
       },
       {
-        "word": "verkiezingen",
-        "definition": "Het proces waarbij mensen stemmen om personen te kiezen voor een politieke functie.",
-        "sentence": "Tijdens de verkiezingen kiezen burgers hun vertegenwoordigers.",
-        "answer": "verkiezingen"
+        "word": "even",
+        "definition": "op dezelfde manier of in gelijke mate",
+        "sentence": "Zijn broer is even oud.",
+        "answer": "even"
       },
       {
-        "word": "herlanceren",
-        "definition": "Weer nieuw leven inblazen of opnieuw activeren.",
-        "sentence": "De regering probeert het economisch plan te herlanceren met nieuwe investeringen.",
-        "answer": "herlanceren"
+        "word": "winnen",
+        "definition": "iets behalen door inspanning of geluk, zoals een wedstrijd of verkiezing",
+        "sentence": "Hij hoopte de verkiezing te ___.",
+        "answer": "winnen"
       },
       {
-        "word": "burgemeester",
-        "definition": "Het hoofd van de uitvoerende macht van een gemeente of stad.",
-        "sentence": "De burgemeester van Rotterdam wordt gekozen door de gemeenteraad.",
-        "answer": "burgemeester"
+        "word": "grote",
+        "definition": "van aanzienlijke omvang of hoeveelheid",
+        "sentence": "De ___ tafel paste niet in de lift.",
+        "answer": "grote"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Wie heeft deze beslissing genomen?",
-        "answer": "wie"
+        "sentence": "Hij hoopte de verkiezing te ___.",
+        "answer": "winnen"
       },
       {
-        "sentence": "De burgemeester van Rotterdam wordt gekozen door de gemeenteraad.",
-        "answer": "burgemeester"
+        "sentence": "De ___ tafel paste niet in de lift.",
+        "answer": "grote"
       },
       {
-        "sentence": "De gouverneurs van Texas en Californië hebben verschillende beleidsvisies.",
-        "answer": "gouverneurs"
+        "sentence": "Ze kon haar sleutels niet ___.",
+        "answer": "vinden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat wordt er bedoeld met de term 'barometer' in de context van de tekst?",
+      "question": "Wat betekent 'winnen' in deze context?",
       "options": [
-        "Een instrument voor het weergeven van de druk",
-        "Een metafoor voor iets dat dient als indicator of graadmeter",
-        "Een specifieke weersvoorspelling tool",
-        "Een historisch artefact uit de 19e eeuw"
+        "verliezen",
+        "winnen",
+        "zoeken",
+        "vinden"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom noemt de tekst specifiek een 'moslim burgemeester'?",
+      "question": "Waar verwijst 'grote' in de titel naar?",
       "options": [
-        "Omdat alle burgemeesters in de VS moslims zijn",
-        "Om de religieuze achtergrond van de kandidaat te benadrukken",
-        "Omdat de verkiezingen in een islamitische staat plaatsvinden",
-        "Als referentie aan een historische figuur"
+        "naar de burgemeester",
+        "naar de plannen",
+        "naar de vijand",
+        "naar de stad"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de primaire focus van de tekst?",
+      "question": "Wat is de rol van de president volgens de samenvatting?",
       "options": [
-        "Het beschrijven van het klimaat in Virginia en New Jersey",
-        "Het uitleggen van het Amerikaanse politieke systeem",
-        "Het analyseren van de uitkomsten van lokale verkiezingen als graadmeter voor nationale politiek",
-        "Het bespreken van de geschiedenis van de Democratische partij"
+        "Hij ondersteunt de plannen",
+        "Hij is neutraal",
+        "Hij wil helpen",
+        "Hij wil saboteren"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "De verkiezingen voor gouverneurs en burgemeesters in de VS hebben geen invloed op de nationale politiek.",
+      "statement": "De burgemeester heeft geen tegenstanders.",
       "isTrue": false
     },
     {
-      "statement": "Een burgemeester van New York zou de eerste moslim in die positie zijn als hij verkozen wordt.",
+      "statement": "De president ondersteunt de burgemeester actief.",
+      "isTrue": false
+    },
+    {
+      "statement": "Geld is een middel om plannen te realiseren.",
       "isTrue": true
-    },
-    {
-      "statement": "Donald Trump is momenteel de president van de Verenigde Staten.",
-      "isTrue": false
     }
   ]
 }

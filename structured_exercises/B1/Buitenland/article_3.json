@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
+  "title": "Soedan-experte: “Het is te laat om de rebellen in Darfour te stoppen: dit is een losgeslagen moordmachine”",
   "topicNumber": 1,
   "article": {
-    "title": "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
-    "summary": "In Mali staat het militaire regime onder zware druk. Al-Qaeda-strijders hebben een economische blokkade ingevoerd tegen Bamako, waardoor de stad zonder brandstof dreigt te vallen. De rebellen hopen dat er een opstand uitbreekt, zodat zij de macht kunnen grijpen."
+    "title": "Soedan-experte: “Het is te laat om de rebellen in Darfour te stoppen: dit is een losgeslagen moordmachine”",
+    "summary": "De gerenommeerde Soedan-experte Hager Ali zegt dat het genocidale geweld in Al-Fasher de afgelopen dagen nog is toegenomen. “De logica van de rebellen is dat iedereen die zich nu nog in Al-Fasher bevindt een vijand is. Iedereen is een doelwit: mannen, vrouwen, kinderen.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "economische",
-        "definition": "Weer een voor hetzelfde woord, maar nu specifiek voor de titel",
-        "sentence": "De ___ crisis treft iedereen.",
-        "answer": "economische"
+        "word": "vijand",
+        "definition": "iemand die tegen je is",
+        "sentence": "Iedereen wordt gezien als een ___.",
+        "answer": "vijand"
       },
       {
-        "word": "macht",
-        "definition": "De kracht of autoriteit die iemand heeft",
-        "sentence": "Hij heeft veel ___ in de organisatie.",
-        "answer": "macht"
-      },
-      {
-        "word": "economische",
-        "definition": "Alles wat met geld en handel te maken heeft",
-        "sentence": "De ___ situatie in het land is slecht.",
-        "answer": "economische"
+        "word": "experte",
+        "definition": "iemand die veel weet over een onderwerp",
+        "sentence": "De ___ gaf uitleg over de situatie.",
+        "answer": "experte"
       },
       {
         "word": "rebellen",
-        "definition": "Mensen die vechten tegen de regering",
-        "sentence": "De ___ voerden een aanval uit.",
+        "definition": "mensen die vechten tegen de regering",
+        "sentence": "De ___ willen de stad innemen.",
         "answer": "rebellen"
       },
       {
-        "word": "brandstof",
-        "definition": "Materiaal dat verbrand wordt voor energie, zoals benzine",
-        "sentence": "Zonder ___ kan de auto niet rijden.",
-        "answer": "brandstof"
+        "word": "doelwit",
+        "definition": "iets of iemand waarop wordt gericht",
+        "sentence": "Iedereen is een ___ van de rebellen.",
+        "answer": "doelwit"
+      },
+      {
+        "word": "stoppen",
+        "definition": "ergens mee ophouden",
+        "sentence": "Het is te laat om de rebellen te ___.",
+        "answer": "stoppen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij heeft veel ___ in de organisatie.",
-        "answer": "macht"
+        "sentence": "Het is te laat om de rebellen te ___.",
+        "answer": "stoppen"
       },
       {
-        "sentence": "De ___ voerden een aanval uit.",
-        "answer": "rebellen"
+        "sentence": "Iedereen is een ___ van de rebellen.",
+        "answer": "doelwit"
       },
       {
-        "sentence": "De ___ crisis treft iedereen.",
-        "answer": "economische"
+        "sentence": "De ___ gaf uitleg over de situatie.",
+        "answer": "experte"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is het hoofdonderwerp van dit artikel?",
+      "question": "Wat betekent 'genocidaal' in deze context?",
       "options": [
-        "Het weer in Mali",
-        "De economische situatie in Mali",
-        "Een conflict met Al-Qaeda in Mali",
-        "De vrede in Mali"
+        "Vriendelijk",
+        "Vredelievend",
+        "Vernietigend",
+        "Opbouwend"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is de rol van de rebellen in dit artikel?",
+      "question": "Waar is Al-Fasher?",
       "options": [
-        "Ze helpen de regering",
-        "Ze voeren een blokkade uit",
-        "Ze zijn de regering van het land",
-        "Ze geven voedsel aan iedereen"
+        "Een stad in Soedan",
+        "Een stad in Nederland",
+        "Een stad in Amerika",
+        "Een stad in Azië"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is de rol van de experte?",
+      "options": [
+        "Ze vecht mee",
+        "Ze geeft informatie",
+        "Ze is de leider",
+        "Ze is een slachtoffer"
       ],
       "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een mogelijk gevolg van de acties van de rebellen?",
-      "options": [
-        "Er komt meer brandstof",
-        "De stad Bamako valt",
-        "Er breekt een opstand uit",
-        "De regering wordt sterker"
-      ],
-      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De rebellen hebben Bamako ingenomen.",
-      "isTrue": false
-    },
-    {
-      "statement": "De rebellen proberen de regering ten val te brengen.",
+      "statement": "De rebellen vechten tegen de regering.",
       "isTrue": true
     },
     {
-      "statement": "De economische blokkade is bedoeld om de stad te helpen.",
+      "statement": "Al-Fasher is een stad in Nederland.",
       "isTrue": false
+    },
+    {
+      "statement": "Hager Ali is een Soedan-experte.",
+      "isTrue": true
     }
   ]
 }

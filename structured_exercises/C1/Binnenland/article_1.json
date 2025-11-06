@@ -1,106 +1,75 @@
 {
-  "id": 19,
+  "id": 20,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Madeleine Fonteyne, 100 jaar",
+  "title": "Beroemdheden",
   "topicNumber": 1,
   "article": {
-    "title": "Madeleine Fonteyne, 100 jaar",
-    "summary": "Geboren in 1924, overleden op 29/10/2025."
+    "title": "Godelieve De Meyer, 87 jaar",
+    "summary": "Godelieve De Meyer werd geboren in 1937 en overleed op 01/11/2025."
   },
   "vocabulary": {
     "words": [
       {
+        "word": "Godelieve",
+        "definition": "Een vrouwelijke voornaam, afgeleid van het Germaans, met de betekenis 'god' en 'liefde'.",
+        "sentence": "Godelieve is een zeldzame maar mooie naam.",
+        "answer": "Godelieve"
+      },
+      {
         "word": "Geboren",
-        "definition": "Het ter wereld komen, het begin van het leven.",
-        "sentence": "Hij werd ___ in een klein dorp in het noorden.",
+        "definition": "Het moment waarop een persoon ter wereld komt.",
+        "sentence": "Hij werd geboren in een klein dorpje.",
         "answer": "Geboren"
-      },
-      {
-        "word": "1924",
-        "definition": "Een jaartal, verwijzend naar een specifiek jaar in de twintigste eeuw.",
-        "sentence": "Deze auto is van modeljaar ___ en rijdt nog steeds prima.",
-        "answer": "1924"
-      },
-      {
-        "word": "Madeleine",
-        "definition": "Een vrouwelijke voornaam, van Franse oorsprong.",
-        "sentence": "___ was een bekende schrijfster uit de vorige eeuw.",
-        "answer": "Madeleine"
-      },
-      {
-        "word": "Fonteyne",
-        "definition": "Een achternaam, mogelijk van Nederlandse of Franse oorsprong.",
-        "sentence": "De familie ___ woonde generaties lang in deze stad.",
-        "answer": "Fonteyne"
-      },
-      {
-        "word": "29/10",
-        "definition": "Een specifieke datum, namelijk de 29ste dag van oktober.",
-        "sentence": "Mijn verjaardag is op ___, net als die van mijn zus!",
-        "answer": "29/10"
       }
     ],
-    "fillInBlanks": [
-      {
-        "sentence": "De familie ___ woonde generaties lang in deze stad.",
-        "answer": "Fonteyne"
-      },
-      {
-        "sentence": "Hij werd ___ in een klein dorp in het noorden.",
-        "answer": "Geboren"
-      },
-      {
-        "sentence": "Mijn verjaardag is op ___, net als die van mijn zus!",
-        "answer": "29/10"
-      }
-    ]
+    "fillInBlanks": []
   },
   "multipleChoice": [
     {
-      "question": "In welke eeuw werd Madeleine Fonteyne geboren?",
+      "question": "Wat betekent de naam 'Godelieve' historisch gezien?",
       "options": [
-        "De 18e eeuw",
-        "De 19e eeuw",
-        "De 20e eeuw",
-        "De 21e eeuw"
+        "Het betekent 'geliefd door God'.",
+        "Het is een oud-Griekse term voor 'wijsheid'.",
+        "Het is een verbastering van 'Godzilla'.",
+        "Het heeft geen specifieke betekenis."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de geboortedatum van Madeleine Fonteyne?",
+      "question": "Wat is de voornaamste reden dat iemand als 'beroemdheid' wordt beschouwd?",
       "options": [
-        "1 januari 1924",
-        "31 december 1924",
-        "29 oktober 1924",
-        "Onbekend"
+        "Door uitzonderlijke talenten of prestaties.",
+        "Door anoniem te blijven in de media.",
+        "Door weinig tot geen impact te hebben op de samenleving.",
+        "Door alleen in kleine kringen bekend te zijn."
       ],
-      "correctAnswer": 4
+      "correctAnswer": 1
     },
     {
-      "question": "Hoe oud werd Madeleine Fonteyne?",
+      "question": "Welk jaar werd Godelieve De Meyer geboren?",
       "options": [
-        "100 jaar",
-        "101 jaar",
-        "99 jaar",
-        "98 jaar"
+        "1937",
+        "1945",
+        "1920",
+        "1950"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Madeleine Fonteyne werd geboren in 1924.",
+      "statement": "Godelieve De Meyer overleed op 1 november 2025.",
       "isTrue": true
     },
     {
-      "statement": "Madeleine Fonteyne overleed op 29 oktober 2025.",
-      "isTrue": true
-    },
-    {
-      "statement": "Madeleine Fonteyne was een man.",
+      "statement": "Het binnenland van een land is altijd het gebied dat grenst aan de zee.",
       "isTrue": false
+    },
+    {
+      "statement": "Beroemdheden zijn per definitie personen die bekend zijn bij het grote publiek.",
+      "isTrue": true
     }
   ]
 }

@@ -1,105 +1,105 @@
 {
-  "id": 26,
+  "id": 28,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Antoon Devogelaere, 98 jaar",
+  "title": "Etienne Wijnant, 89 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Antoon Devogelaere, 98 jaar",
-    "summary": "Geboren in 1927, overleden op 31 oktober 2025"
+    "title": "Etienne Wijnant, 89 jaar",
+    "summary": "Geboren in 1936, overleden op 03/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "jaar",
-        "definition": "periode van 365 dagen",
-        "sentence": "Hij is 98 ___ oud geworden.",
-        "answer": "jaar"
+        "word": "89",
+        "definition": "Het getal na 88 en voor 90.",
+        "sentence": "Hij werd ___ jaar oud.",
+        "answer": "89"
       },
       {
-        "word": "geboren",
-        "definition": "begonnen met leven",
-        "sentence": "Hij is ___ in 1927.",
-        "answer": "geboren"
+        "word": "Wijnant",
+        "definition": "Een achternaam, waarschijnlijk van Nederlandse oorsprong.",
+        "sentence": "De familie ___ is bekend in deze regio.",
+        "answer": "Wijnant"
+      },
+      {
+        "word": "1936",
+        "definition": "Een jaartal, vaak gebruikt voor historische gebeurtenissen.",
+        "sentence": "Hij is geboren in het jaar ___.",
+        "answer": "1936"
       },
       {
         "word": "2025",
-        "definition": "jaartal",
+        "definition": "Een jaartal in de toekomst.",
         "sentence": "Hij overleed in het jaar ___.",
         "answer": "2025"
       },
       {
         "word": "overleden",
-        "definition": "niet meer levend, gestorven",
-        "sentence": "Hij is ___ op 31 oktober 2025.",
+        "definition": "Niet meer levend; gestorven.",
+        "sentence": "Hij is ___ op 3 november.",
         "answer": "overleden"
-      },
-      {
-        "word": "98",
-        "definition": "getal tussen 97 en 99",
-        "sentence": "Hij werd ___ jaar oud.",
-        "answer": "98"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij overleed in het jaar ___.",
-        "answer": "2025"
+        "sentence": "De familie ___ is bekend in deze regio.",
+        "answer": "Wijnant"
       },
       {
-        "sentence": "Hij is 98 ___ oud geworden.",
-        "answer": "jaar"
+        "sentence": "Hij werd ___ jaar oud.",
+        "answer": "89"
       },
       {
-        "sentence": "Hij is ___ op 31 oktober 2025.",
+        "sentence": "Hij is ___ op 3 november.",
         "answer": "overleden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Antoon Devogelaere geboren?",
+      "question": "In welk jaar is Etienne Wijnant geboren?",
       "options": [
-        "1927",
-        "1928",
-        "1929",
-        "1930"
+        "1920",
+        "1936",
+        "1940",
+        "1950"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe oud was Antoon Devogelaere geworden?",
+      "question": "In welke maand overleed Etienne Wijnant?",
       "options": [
-        "96 jaar",
-        "97 jaar",
-        "98 jaar",
-        "99 jaar"
+        "Januari",
+        "Februari",
+        "November",
+        "December"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "In welke maand is Antoon Devogelaere overleden?",
+      "question": "Hoe oud werd Etienne Wijnant?",
       "options": [
-        "januari",
-        "februari",
-        "maart",
-        "oktober"
+        "80 jaar",
+        "89 jaar",
+        "90 jaar",
+        "99 jaar"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Antoon Devogelaere is geboren in 1927.",
+      "statement": "Etienne Wijnant is geboren in 1936.",
       "isTrue": true
     },
     {
-      "statement": "Antoon Devogelaere is overleden in oktober 2024.",
+      "statement": "Etienne Wijnant overleed in december 2025.",
       "isTrue": false
     },
     {
-      "statement": "Antoon Devogelaere werd 98 jaar oud.",
+      "statement": "Etienne Wijnant werd 89 jaar oud.",
       "isTrue": true
     }
   ]

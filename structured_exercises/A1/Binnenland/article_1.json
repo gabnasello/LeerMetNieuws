@@ -1,106 +1,106 @@
 {
-  "id": 15,
+  "id": 16,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Madeleine Fonteyne, 100 jaar",
+  "title": "Godelieve De Meyer, 87 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Madeleine Fonteyne, 100 jaar",
-    "summary": "Madeleine Fonteyne was born in 1924. She died on 29/10/2025. She was 100 years old."
+    "title": "Godelieve De Meyer, 87 jaar",
+    "summary": "Geboren in 1937, overleden op 01/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "old",
-        "definition": "not new, having lived long",
-        "sentence": "She was 100 years ___.",
-        "answer": "old"
+        "word": "geboren",
+        "definition": "Geboren worden, het begin van het leven",
+        "sentence": "Zij is ___ in 1937.",
+        "answer": "geboren"
       },
       {
-        "word": "year",
-        "definition": "a period of 365 days",
-        "sentence": "She was 100 ___ old.",
-        "answer": "year"
+        "word": "Godelieve",
+        "definition": "Een voornaam, een naam van een persoon",
+        "sentence": "___ is een vrouw.",
+        "answer": "Godelieve"
       },
       {
-        "word": "Fonteyne",
-        "definition": "a last name, family name",
-        "sentence": "Madeleine ___ was born in 1924.",
-        "answer": "Fonteyne"
+        "word": "op",
+        "definition": "Een voorzetsel, hier gebruikt met een datum",
+        "sentence": "Zij is overleden ___ 01/11/2025.",
+        "answer": "op"
       },
       {
-        "word": "was",
-        "definition": "past tense of 'is'",
-        "sentence": "She ___ born in 1924.",
-        "answer": "was"
+        "word": "87",
+        "definition": "Een getal, de leeftijd",
+        "sentence": "Zij is ___ jaar oud.",
+        "answer": "87"
       },
       {
-        "word": "born",
-        "definition": "to be born, to come into life",
-        "sentence": "She was ___ in 1924.",
-        "answer": "born"
+        "word": "overleden",
+        "definition": "Niet meer leven, dood zijn",
+        "sentence": "Zij is ___ op 01/11/2025.",
+        "answer": "overleden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Madeleine ___ was born in 1924.",
-        "answer": "Fonteyne"
+        "sentence": "Zij is ___ in 1937.",
+        "answer": "geboren"
       },
       {
-        "sentence": "She ___ born in 1924.",
-        "answer": "was"
+        "sentence": "Zij is overleden ___ 01/11/2025.",
+        "answer": "op"
       },
       {
-        "sentence": "She was ___ in 1924.",
-        "answer": "born"
+        "sentence": "Zij is ___ op 01/11/2025.",
+        "answer": "overleden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "When was Madeleine Fonteyne born?",
+      "question": "Wat is de leeftijd van Godelieve De Meyer?",
       "options": [
-        "In 1924",
-        "In 2025",
-        "In 1920",
-        "In 1925"
+        "87",
+        "100",
+        "90",
+        "75"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "How old was Madeleine Fonteyne when she died?",
+      "question": "In welk jaar is Godelieve De Meyer geboren?",
       "options": [
-        "100 years old",
-        "90 years old",
-        "95 years old",
-        "105 years old"
+        "1937",
+        "1945",
+        "1920",
+        "1950"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "What is the surname of Madeleine?",
+      "question": "Is Godelieve De Meyer nog in leven?",
       "options": [
-        "Fonteyne",
-        "Johnson",
-        "Smith",
-        "Davis"
+        "Ja",
+        "Nee",
+        "Misschien",
+        "Geen idee"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Madeleine Fonteyne was born in 1924.",
+      "statement": "Godelieve De Meyer is 87 jaar oud.",
       "isTrue": true
     },
     {
-      "statement": "Madeleine Fonteyne died in 2025.",
-      "isTrue": true
-    },
-    {
-      "statement": "Madeleine Fonteyne was 90 years old when she died.",
+      "statement": "Godelieve De Meyer is geboren in 1940.",
       "isTrue": false
+    },
+    {
+      "statement": "Godelieve De Meyer is overleden op 01/11/2025.",
+      "isTrue": true
     }
   ]
 }

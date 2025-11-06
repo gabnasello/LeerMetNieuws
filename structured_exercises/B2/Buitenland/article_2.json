@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
+  "title": "Zohran Mamdani, de nieuwe burgemeester van New York, heeft grote plannen, maar een al even grote vijand",
   "topicNumber": 1,
   "article": {
-    "title": "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
-    "summary": "Na een reddingsactie van ruim elf uur werd de Roemeense bouwvakker Octav Stroici (66) bevrijd uit een ingestorte middeleeuwse toren in hartje Rome. Kort daarna overleed hij. Het drama de talrijke dodelijke arbeidsongevallen in Italië opnieuw onder de aandacht."
+    "title": "Zohran Mamdani, de nieuwe burgemeester van New York, heeft grote plannen, maar een al even grote vijand",
+    "summary": "Winnen is één ding, het waarmaken iets anders. Zohran Mamdani wordt een heel andere burgemeester van New York, maar staat voor één grote uitdaging: geld vinden voor zijn plannen, met een president die hem wil saboteren."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "arbeidsongevallen",
-        "definition": "ongelukken die gebeuren tijdens het werk",
-        "sentence": "Er waren veel ___ in Italië dit jaar.",
-        "answer": "arbeidsongevallen"
+        "word": "winnen",
+        "definition": "iets of iemand verslaan in een wedstrijd of verkiezing",
+        "sentence": "Hij hoopte de wedstrijd te ___ met zijn team.",
+        "answer": "winnen"
       },
       {
-        "word": "middeleeuws",
-        "definition": "uit de middeleeuwen, een periode in de geschiedenis",
-        "sentence": "De toren was van ___ oorsprong.",
-        "answer": "middeleeuws"
+        "word": "geld",
+        "definition": "wat je gebruikt om te betalen voor iets, in de vorm van munten of briefjes",
+        "sentence": "Hij had niet genoeg ___ om de nieuwe fiets te kopen.",
+        "answer": "geld"
       },
       {
-        "word": "bouwvakker",
-        "definition": "iemand die in de bouw werkt",
-        "sentence": "De ___ werd gered uit het ingestorte gebouw.",
-        "answer": "bouwvakker"
+        "word": "plannen",
+        "definition": "iets wat je van plan bent te doen in de toekomst",
+        "sentence": "Ze hadden grote ___ voor hun vakantie.",
+        "answer": "plannen"
       },
       {
-        "word": "drama",
-        "definition": "een ernstige of emotionele gebeurtenis, vaak met een slecht einde",
-        "sentence": "Het ___ trok veel aandacht van de media.",
-        "answer": "drama"
+        "word": "vinden",
+        "definition": "iets of iemand ontdekken door te zoeken",
+        "sentence": "Ze konden de sleutel niet ___ in de rommelige kamer.",
+        "answer": "vinden"
       },
       {
-        "word": "reddingsactie",
-        "definition": "een actie om iemand te redden uit een gevaarlijke situatie",
-        "sentence": "De ___ duurde meer dan elf uur.",
-        "answer": "reddingsactie"
+        "word": "zijn",
+        "definition": "bestaan of voorkomen",
+        "sentence": "De bloemen ___ geel en rood.",
+        "answer": "zijn"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ werd gered uit het ingestorte gebouw.",
-        "answer": "bouwvakker"
+        "sentence": "Hij hoopte de wedstrijd te ___ met zijn team.",
+        "answer": "winnen"
       },
       {
-        "sentence": "Er waren veel ___ in Italië dit jaar.",
-        "answer": "arbeidsongevallen"
+        "sentence": "Ze hadden grote ___ voor hun vakantie.",
+        "answer": "plannen"
       },
       {
-        "sentence": "De toren was van ___ oorsprong.",
-        "answer": "middeleeuws"
+        "sentence": "Hij had niet genoeg ___ om de nieuwe fiets te kopen.",
+        "answer": "geld"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar vond het ongeluk plaats?",
+      "question": "Wat betekent het om iets 'waar te maken'?",
       "options": [
-        "In een middeleeuwse toren in Rome",
-        "Op een bouwplaats in Duitsland",
-        "In een ziekenhuis in Roemenië",
-        "Tijdens een reddingsactie in Italië"
+        "Het echt laten gebeuren",
+        "Erover liegen",
+        "Het verbergen voor anderen",
+        "Het negeren"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van een bouwvakker?",
+      "question": "Waar staat 'Verenigde Staten' voor in deze context?",
       "options": [
-        "Hij werkt in de bouw",
-        "Hij is een brandweerman",
-        "Hij is een historicus",
-        "Hij is een toerist"
+        "Een land",
+        "Een sportteam",
+        "Een muziekband",
+        "Een stad"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is de boodschap van dit artikel?",
+      "question": "Wat is een 'vijand' in deze tekst?",
       "options": [
-        "Veel arbeidsongevallen in Italië",
-        "Rome is een gevaarlijke stad",
-        "Roemenië heeft veel bouwvakkers",
-        "De middeleeuwen zijn terug"
+        "Iemand die je helpt",
+        "Iemand die je tegenwerkt",
+        "Iemand die je negeert",
+        "Iemand die je bewondert"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De bouwvakker overleed kort na zijn bevrijding.",
+      "statement": "Zohran Mamdani is de nieuwe burgemeester van New York.",
       "isTrue": true
     },
     {
-      "statement": "Italië heeft dit jaar minder arbeidsongevallen dan vorig jaar.",
+      "statement": "De president van de Verenigde Staten helpt Mamdani met zijn plannen.",
       "isTrue": false
     },
     {
-      "statement": "De toren stortte in door een brand.",
+      "statement": "Mamdani heeft grote plannen voor New York.",
       "isTrue": true
     }
   ]

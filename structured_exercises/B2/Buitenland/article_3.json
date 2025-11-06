@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
+  "title": "Soedan-experte: “Het is te laat om de rebellen in Darfour te stoppen: dit is een losgeslagen moordmachine”",
   "topicNumber": 1,
   "article": {
-    "title": "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
-    "summary": "In Mali staat het militaire regime onder zware druk. Al-Qaeda-strijders hebben een economische blokkade ingevoerd tegen Bamako, waardoor de stad zonder brandstof dreigt te vallen. De rebellen hopen dat er een opstand uitbreekt, zodat zij de macht kunnen grijpen."
+    "title": "Soedan-experte: “Het is te laat om de rebellen in Darfour te stoppen: dit is een losgeslagen moordmachine”",
+    "summary": "De gerenommeerde Soedan-experte Hager Ali zegt dat het genocidale geweld in Al-Fasher de afgelopen dagen nog is toegenomen. “De logica van de rebellen is dat iedereen die zich nu nog in Al-Fasher bevindt een vijand is. Iedereen is een doelwit: mannen, vrouwen, kinderen.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "regime",
-        "definition": "een regering of bestuursorgaan, vooral een autoritair regime",
-        "sentence": "Het militaire ___ heeft de macht in Mali.",
-        "answer": "regime"
+        "word": "experte",
+        "definition": "een deskundige of specialist in een bepaald gebied",
+        "sentence": "De ___ gaf een duidelijk overzicht van de situatie.",
+        "answer": "experte"
       },
       {
-        "word": "blokkade",
-        "definition": "een blokkering, iets dat de doorgang belemmert",
-        "sentence": "De rebellen hebben een ___ opgeworpen.",
-        "answer": "blokkade"
+        "word": "geweld",
+        "definition": "het gebruik van fysieke kracht, vaak met als doel te beschadigen",
+        "sentence": "Het ___ escaleerde snel na de protesten.",
+        "answer": "geweld"
       },
       {
-        "word": "brandstof",
-        "definition": "brandstof, iets dat energie levert, zoals benzine of gas",
-        "sentence": "Zonder ___ kan de economie niet draaien.",
-        "answer": "brandstof"
+        "word": "logica",
+        "definition": "de manier waarop iets redelijk of logisch is",
+        "sentence": "De ___ achter het besluit was voor niemand duidelijk.",
+        "answer": "logica"
       },
       {
-        "word": "dreigt",
-        "definition": "iets wat waarschijnlijk gaat gebeuren, vaak iets negatiefs",
-        "sentence": "De stad ___ zonder brandstof te vallen.",
-        "answer": "dreigt"
+        "word": "vijand",
+        "definition": "iemand die tegen je is of waarmee je in conflict bent",
+        "sentence": "Hij beschouwde haar als zijn grootste ___.",
+        "answer": "vijand"
       },
       {
-        "word": "macht",
-        "definition": "controle of autoriteit, de mogelijkheid om te controleren",
-        "sentence": "De rebellen willen de ___ overnemen.",
-        "answer": "macht"
+        "word": "rebellen",
+        "definition": "mensen die tegen de gevestigde macht vechten, vaak in een oorlog",
+        "sentence": "De ___ trokken zich terug uit de stad.",
+        "answer": "rebellen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Zonder ___ kan de economie niet draaien.",
-        "answer": "brandstof"
+        "sentence": "De ___ gaf een duidelijk overzicht van de situatie.",
+        "answer": "experte"
       },
       {
-        "sentence": "De rebellen willen de ___ overnemen.",
-        "answer": "macht"
+        "sentence": "De ___ achter het besluit was voor niemand duidelijk.",
+        "answer": "logica"
       },
       {
-        "sentence": "Het militaire ___ heeft de macht in Mali.",
-        "answer": "regime"
+        "sentence": "Hij beschouwde haar als zijn grootste ___.",
+        "answer": "vijand"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is het hoofddoel van de rebellen in deze situatie?",
+      "question": "Waaruit bestaat de genocidale actie in Al-Fasher volgens de expert?",
       "options": [
-        "De hoofdstad verwoesten",
-        "De bevolking tegen zich in opstand laten komen",
-        "De economie volledig overnemen",
-        "De regering ten val brengen via een opstand"
-      ],
-      "correctAnswer": 4
-    },
-    {
-      "question": "Wat is de rol van de economische blokkade in de strategie van de rebellen?",
-      "options": [
-        "Het is een afleidingsmanoeuvre voor een militaire aanval.",
-        "Het verzwakt de stad en maakt de bevolking ontevreden, zodat ze de rebellen steunen.",
-        "Het is een manier om de regering te dwingen tot overgave zonder een schot te lossen.",
-        "Het is een test om te zien of de regering reageert."
+        "Uit het stelen van voedselvoorraden",
+        "Uit het richten van geweld op iedereen, inclusief burgers",
+        "Uit het negeren van internationale wetten",
+        "Uit het alleen aanvallen van militaire doelen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de huidige toestand van de hoofdstad Bamako volgens de tekst?",
+      "question": "Wat is de rol van de rebellen in Darfoer volgens deze context?",
       "options": [
-        "Het is al volledig in handen van de rebellen.",
-        "Het valt nog steeds onder het gezag van het militaire regime.",
-        "Het is onbekend, de tekst noemt het niet.",
-        "Het is een neutrale zone waar niemand de controle heeft."
+        "Ze bouwen scholen en ziekenhuizen",
+        "Ze handhaven vrede en stabiliteit",
+        "Ze voeren een genocidaal geweld uit waarin iedereen een doelwit is",
+        "Ze werken samen met internationale vredestroepen"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
+    },
+    {
+      "question": "Hoe beschrijft de expert de situatie in Al-Fasher?",
+      "options": [
+        "Als een vreedzaam protest",
+        "Als een chaotische maar geweldloze situatie",
+        "Als genocidaal geweld dat de afgelopen dagen is toegenomen",
+        "Als een tijd van grote vreugde en feest"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De rebellen hebben Bamako al ingenomen met hun troepen.",
+      "statement": "De rebellen in Darfour beschouwen alleen mannen als hun vijanden.",
       "isTrue": false
     },
     {
-      "statement": "De economische blokkade zorgt voor tekorten in de stad.",
+      "statement": "Het geweld in Al-Fasher is de afgelopen dagen toegenomen, volgens de expert.",
       "isTrue": true
     },
     {
-      "statement": "Het militaire regime wordt gesteund door de meeste inwoners.",
+      "statement": "De rebellen zien iedereen in Al-Fasher als een vriend en bondgenoot.",
       "isTrue": false
     }
   ]

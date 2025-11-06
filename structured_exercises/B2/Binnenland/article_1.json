@@ -1,105 +1,105 @@
 {
-  "id": 18,
+  "id": 19,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Madeleine Fonteyne, 100 jaar",
+  "title": "Godelieve De Meyer, 87 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Madeleine Fonteyne, 100 jaar",
-    "summary": "Madeleine Fonteyne werd geboren in 1924 en overleed op 29 oktober 2025. Ze was 100 jaar oud."
+    "title": "Godelieve De Meyer, 87 jaar",
+    "summary": "Godelieve De Meyer is geboren in 1937 en overleden op 1 november 2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Madeleine",
-        "definition": "Een vrouwelijke voornaam, oorspronkelijk Frans.",
-        "sentence": "___ was een bekende schrijfster.",
-        "answer": "Madeleine"
+        "word": "Godelieve",
+        "definition": "Een vrouwelijke voornaam, afgeleid van 'God' en 'liefde'",
+        "sentence": "___ De Meyer was een bekende inwoner van het dorp.",
+        "answer": "Godelieve"
       },
       {
-        "word": "was",
-        "definition": "De verleden tijd van 'zijn' (to be).",
-        "sentence": "Hij ___ 100 jaar oud.",
-        "answer": "was"
+        "word": "2025",
+        "definition": "Het jaar tweeduizend vijfentwintig",
+        "sentence": "Ze overleed in november ___.",
+        "answer": "2025"
       },
       {
-        "word": "op",
-        "definition": "Een voorzetsel dat vaak een datum of plaats aangeeft.",
-        "sentence": "De vergadering is ___ 29 oktober.",
-        "answer": "op"
+        "word": "2025",
+        "definition": "Het jaar tweeduizend vijfentwintig",
+        "sentence": "Ze overleed in november ___.",
+        "answer": "2025"
       },
       {
-        "word": "werd",
-        "definition": "Het werkwoord 'worden' in de verleden tijd.",
-        "sentence": "Hij ___ geboren in 1924.",
-        "answer": "werd"
+        "word": "1",
+        "definition": "Het getal één; de eerste in een reeks",
+        "sentence": "Ze overleed op ___ november 2025.",
+        "answer": "1"
       },
       {
-        "word": "Fonteyne",
-        "definition": "Een achternaam, van Franse oorsprong.",
-        "sentence": "De familie ___ woonde in België.",
-        "answer": "Fonteyne"
+        "word": "geboren",
+        "definition": "Het begin van het leven; ter wereld komen",
+        "sentence": "Ze werd ___ in 1937.",
+        "answer": "geboren"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ was een bekende schrijfster.",
-        "answer": "Madeleine"
+        "sentence": "Ze overleed in november ___.",
+        "answer": "2025"
       },
       {
-        "sentence": "Hij ___ 100 jaar oud.",
-        "answer": "was"
+        "sentence": "Ze overleed in november ___.",
+        "answer": "2025"
       },
       {
-        "sentence": "De vergadering is ___ 29 oktober.",
-        "answer": "op"
+        "sentence": "___ De Meyer was een bekende inwoner van het dorp.",
+        "answer": "Godelieve"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar werd Madeleine Fonteyne geboren?",
+      "question": "In welk jaar is Godelieve De Meyer geboren?",
       "options": [
-        "1920",
-        "1924",
-        "1928",
-        "1930"
+        "1930",
+        "1935",
+        "1940",
+        "1937"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     },
     {
-      "question": "Hoe oud werd Madeleine Fonteyne?",
+      "question": "Hoe oud was Godelieve De Meyer toen ze overleed?",
       "options": [
-        "99 jaar",
-        "100 jaar",
-        "101 jaar",
-        "102 jaar"
+        "75 jaar",
+        "80 jaar",
+        "87 jaar",
+        "90 jaar"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Op welke datum overleed Madeleine Fonteyne?",
+      "question": "In welke maand overleed Godelieve De Meyer?",
       "options": [
-        "29 september 2025",
-        "29 oktober 2025",
-        "30 oktober 2025",
-        "31 oktober 2025"
+        "Januari",
+        "Februari",
+        "November",
+        "December"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Madeleine Fonteyne overleed op 29 oktober 2025.",
+      "statement": "Godelieve De Meyer overleed op 1 november 2025.",
       "isTrue": true
     },
     {
-      "statement": "Madeleine Fonteyne werd 99 jaar oud.",
+      "statement": "Godelieve De Meyer werd 90 jaar oud.",
       "isTrue": false
     },
     {
-      "statement": "Madeleine Fonteyne werd geboren in 1924.",
+      "statement": "Godelieve De Meyer is geboren in 1937.",
       "isTrue": true
     }
   ]

@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
+  "title": "Zohran Mamdani, de nieuwe burgemeester van New York, heeft grote plannen, maar een even grote vijand",
   "topicNumber": 1,
   "article": {
-    "title": "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
-    "summary": "Na een reddingsactie van ruim elf uur werd de Roemeense bouwvakker Octav Stroici (66) bevrijd uit een ingestorte middeleeuwse toren in hartje Rome. Kort daarna overleed hij. Het drama de talrijke dodelijke arbeidsongevallen in Italië opnieuw onder de aandacht."
+    "title": "Zohran Mamdani, de nieuwe burgemeester van New York, heeft grote plannen, maar een even grote vijand",
+    "summary": "Winnen is één ding, het waarmaken iets anders. Zohran Mamdani wordt een heel andere burgemeester van New York, maar staat voor één grote uitdaging: geld vinden voor zijn plannen, met een president die hem wil saboteren."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Italië",
-        "definition": "Een land in Europa, bekend om zijn eten en geschiedenis.",
-        "sentence": "___ is een populair vakantieland.",
-        "answer": "Italië"
+        "word": "winnen",
+        "definition": "het bereiken van een overwinning, zoals in een wedstrijd",
+        "sentence": "Hij hoopte de verkiezing te ___.",
+        "answer": "winnen"
       },
       {
-        "word": "arbeidsongevallen",
-        "definition": "Ongevallen die gebeuren tijdens het werk.",
-        "sentence": "De fabriek heeft strenge regels om ___ te voorkomen.",
-        "answer": "arbeidsongevallen"
+        "word": "geld",
+        "definition": "wat je gebruikt om dingen te kopen, zoals munten en briefjes",
+        "sentence": "Hij spaart ___ voor een nieuwe fiets.",
+        "answer": "geld"
       },
       {
-        "word": "Rome",
-        "definition": "De hoofdstad van Italië.",
-        "sentence": "___ is een oude stad met veel geschiedenis.",
-        "answer": "Rome"
+        "word": "plannen",
+        "definition": "ideeën over wat je in de toekomst wilt doen",
+        "sentence": "Hun ___ voor het weekend zijn nog niet bekend.",
+        "answer": "plannen"
       },
       {
-        "word": "talrijke",
-        "definition": "Heel veel, in grote aantallen.",
-        "sentence": "Er waren ___ mensen aanwezig bij de bijeenkomst.",
-        "answer": "talrijke"
+        "word": "vijand",
+        "definition": "iemand die tegen je is en kwaad wil",
+        "sentence": "De detective ontdekte wie de echte ___ was.",
+        "answer": "vijand"
       },
       {
-        "word": "overleed",
-        "definition": "Heeft geen leven meer, is doodgegaan.",
-        "sentence": "Hij ___ na een lang ziekbed.",
-        "answer": "overleed"
+        "word": "burgemeester",
+        "definition": "de leider van een stad of gemeente",
+        "sentence": "De ___ opent het nieuwe park.",
+        "answer": "burgemeester"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is een oude stad met veel geschiedenis.",
-        "answer": "Rome"
+        "sentence": "Hij spaart ___ voor een nieuwe fiets.",
+        "answer": "geld"
       },
       {
-        "sentence": "___ is een populair vakantieland.",
-        "answer": "Italië"
+        "sentence": "De ___ opent het nieuwe park.",
+        "answer": "burgemeester"
       },
       {
-        "sentence": "Hij ___ na een lang ziekbed.",
-        "answer": "overleed"
+        "sentence": "Hij hoopte de verkiezing te ___.",
+        "answer": "winnen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar is de bouwvakker Octav Stroici omgekomen?",
+      "question": "Waarover gaat dit artikel?",
       "options": [
-        "In een oude toren in Rome",
-        "Op een boerderij in Italië",
-        "In een moderne fabriek in Duitsland",
-        "Tijdens een vakantie in Spanje"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Hoe lang duurde de reddingsactie voor Octav Stroici?",
-      "options": [
-        "Minder dan een uur",
-        "Ongeveer elf uur",
-        "Meer dan een dag",
-        "Niet vermeld in de tekst"
+        "Over reizen",
+        "Over een nieuwe burgemeester",
+        "Over sport",
+        "Over koken"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de gevolg van dit incident volgens de tekst?",
+      "question": "Waarom is Zohran Mamdani in het nieuws?",
       "options": [
-        "Meer aandacht voor arbeidsveiligheid",
-        "Meer toerisme naar Rome",
-        "Geen gevolgen",
-        "Een nieuwe wet tegen oude gebouwen"
+        "Hij won een prijs",
+        "Hij is de nieuwe burgemeester",
+        "Hij is een filmster",
+        "Hij is een kok"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is een belangrijke uitdaging voor hem?",
+      "options": [
+        "Hij heeft geen vrienden",
+        "Hij heeft te veel geld",
+        "Hij moet geld vinden voor zijn plannen",
+        "Hij spreekt geen Nederlands"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Octav Stroici overleefde het ongeluk niet.",
+      "statement": "Zohran Mamdani is de burgemeester van New York.",
       "isTrue": true
     },
     {
-      "statement": "Er zijn dit jaar al 777 doden gevallen in Italië door arbeidsongevallen.",
-      "isTrue": true
-    },
-    {
-      "statement": "De toren stortte in omdat het een nieuwe constructie was.",
+      "statement": "De president wil de burgemeester helpen met zijn plannen.",
       "isTrue": false
+    },
+    {
+      "statement": "Het artikel zegt dat winnen niet hetzelfde is als de plannen waarmaken.",
+      "isTrue": true
     }
   ]
 }

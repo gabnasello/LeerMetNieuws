@@ -1,100 +1,100 @@
 {
-  "id": 16,
+  "id": 17,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Madeleine Fonteyne, 100 jaar",
+  "title": "Bekende vrouw overleden",
   "topicNumber": 1,
   "article": {
-    "title": "Madeleine Fonteyne, 100 jaar",
-    "summary": "Geboren in 1924, overleden op 29/10/2025."
+    "title": "Bekende vrouw overleden",
+    "summary": "Godelieve De Meyer is overleden. Ze werd 87 jaar. Ze is geboren in 1937 en overleden in 2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Madeleine",
-        "definition": "een vrouwelijke voornaam",
-        "sentence": "___ was een bekende schrijfster.",
-        "answer": "Madeleine"
-      },
-      {
-        "word": "Fonteyne",
-        "definition": "een achternaam",
-        "sentence": "De familie ___ is van Belgische oorsprong.",
-        "answer": "Fonteyne"
-      },
-      {
-        "word": "geboren",
-        "definition": "het begin van het leven",
-        "sentence": "Ze werd ___ in 1924.",
-        "answer": "geboren"
+        "word": "Bekende",
+        "definition": "iemand die veel mensen kennen",
+        "sentence": "Godelieve De Meyer was een ___ in Vlaanderen.",
+        "answer": "Bekende"
       },
       {
         "word": "overleden",
-        "definition": "niet meer levend, gestorven",
-        "sentence": "Ze is ___ op 29 oktober 2025.",
+        "definition": "niet meer levend, dood",
+        "sentence": "Helaas is zij nu ___.",
+        "answer": "overleden"
+      },
+      {
+        "word": "vrouw",
+        "definition": "een volwassen persoon van het vrouwelijk geslacht",
+        "sentence": "Deze ___ was 87 jaar oud.",
+        "answer": "vrouw"
+      },
+      {
+        "word": "overleden",
+        "definition": "gestorven, niet meer levend",
+        "sentence": "Helaas is zij nu ___.",
         "answer": "overleden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De familie ___ is van Belgische oorsprong.",
-        "answer": "Fonteyne"
+        "sentence": "Godelieve De Meyer was een ___ in Vlaanderen.",
+        "answer": "Bekende"
       },
       {
-        "sentence": "___ was een bekende schrijfster.",
-        "answer": "Madeleine"
+        "sentence": "Helaas is zij nu ___.",
+        "answer": "overleden"
       },
       {
-        "sentence": "Ze werd ___ in 1924.",
-        "answer": "geboren"
+        "sentence": "Helaas is zij nu ___.",
+        "answer": "overleden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Madeleine Fonteyne geboren?",
+      "question": "Wat gebeurde er met Godelieve De Meyer?",
       "options": [
-        "1920",
-        "1924",
-        "1928",
-        "1930"
+        "Ze is verhuisd naar een ander land",
+        "Ze is overleden",
+        "Ze werd koningin",
+        "Ze is op vakantie gegaan"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar is Madeleine Fonteyne vooral bekend om?",
+      "question": "Hoe oud was Godelieve De Meyer toen ze overleed?",
       "options": [
-        "Als schrijfster",
-        "Als zangeres",
-        "Als schilder",
-        "Als danseres"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Hoe oud werd Madeleine Fonteyne?",
-      "options": [
-        "90 jaar",
-        "99 jaar",
-        "100 jaar",
-        "101 jaar"
+        "60 jaar",
+        "75 jaar",
+        "87 jaar",
+        "100 jaar"
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "In welk jaar is Godelieve De Meyer geboren?",
+      "options": [
+        "1937",
+        "1945",
+        "1950",
+        "1960"
+      ],
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Madeleine Fonteyne werd 100 jaar oud.",
-      "isTrue": true
-    },
-    {
-      "statement": "Madeleine Fonteyne was een Franse schrijfster.",
+      "statement": "Godelieve De Meyer is nog in leven.",
       "isTrue": false
     },
     {
-      "statement": "Madeleine Fonteyne stierf in oktober 2025.",
+      "statement": "Godelieve De Meyer werd 87 jaar oud.",
       "isTrue": true
+    },
+    {
+      "statement": "Godelieve De Meyer is geboren in 1940.",
+      "isTrue": false
     }
   ]
 }

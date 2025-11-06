@@ -1,105 +1,105 @@
 {
-  "id": 22,
+  "id": 23,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Organisaties verliezen subsidies in strijd tegen armoede in onderwijs",
+  "title": "Belgische drugsbaron opgepakt in Dubai",
   "topicNumber": 1,
   "article": {
-    "title": "Organisaties verliezen subsidies in strijd tegen armoede in onderwijs",
-    "summary": "Twee organisaties die armoede in het onderwijs bestrijden, verliezen hun subsidies van de Vlaamse overheid. Dit heeft gevolgen voor kinderen en innovatie."
+    "title": "Belgische drugsbaron opgepakt in Dubai",
+    "summary": "Terwijl de Belgische minister van Justitie op bezoek was in de Verenigde Arabische Emiraten, heeft de politie daar de Belgische drugsbaron Omar Govers gearresteerd. Ze willen hem uitleveren."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "subsidies",
-        "definition": "financiële steun van de overheid",
-        "sentence": "De overheid geeft ___ aan organisaties die helpen.",
-        "answer": "subsidies"
+        "word": "Justitie",
+        "definition": "het ministerie dat gaat over recht en politie",
+        "sentence": "Justitie zorgt voor een eerlijke rechtspraak.",
+        "answer": "Justitie"
       },
       {
-        "word": "overheid",
-        "definition": "de organisatie die een land of gebied bestuurt",
-        "sentence": "De ___ moet zorgen voor haar burgers.",
-        "answer": "overheid"
+        "word": "drugsbaron",
+        "definition": "iemand die veel handelt in verboden drugs",
+        "sentence": "De ___ werd opgepakt in zijn vakantiehuis.",
+        "answer": "drugsbaron"
       },
       {
-        "word": "organisaties",
-        "definition": "groepen mensen die samenwerken voor een doel",
-        "sentence": "De ___ werken aan een betere wereld.",
-        "answer": "organisaties"
+        "word": "bezoek",
+        "definition": "een korte tijd waarin je ergens naartoe gaat",
+        "sentence": "Tijdens zijn ___ aan Dubai, ondertekende hij een verdrag.",
+        "answer": "bezoek"
       },
       {
-        "word": "onderwijs",
-        "definition": "het geven of krijgen van les en kennis",
-        "sentence": "Goed ___ is belangrijk voor ieders toekomst.",
-        "answer": "onderwijs"
+        "word": "politie",
+        "definition": "mensen die de wet handhaven en misdaad bestrijden",
+        "sentence": "De ___ heeft de man gearresteerd na een lange zoektocht.",
+        "answer": "politie"
       },
       {
-        "word": "kinderen",
-        "definition": "jonge mensen, meestal onder de 18 jaar",
-        "sentence": "De ___ spelen in het park.",
-        "answer": "kinderen"
+        "word": "Belgische",
+        "definition": "iemand of iets dat uit België komt",
+        "sentence": "De ___ atleet won goud op de Olympische Spelen.",
+        "answer": "Belgische"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ moet zorgen voor haar burgers.",
-        "answer": "overheid"
+        "sentence": "De ___ werd opgepakt in zijn vakantiehuis.",
+        "answer": "drugsbaron"
       },
       {
-        "sentence": "De ___ spelen in het park.",
-        "answer": "kinderen"
+        "sentence": "De ___ heeft de man gearresteerd na een lange zoektocht.",
+        "answer": "politie"
       },
       {
-        "sentence": "De ___ werken aan een betere wereld.",
-        "answer": "organisaties"
+        "sentence": "Tijdens zijn ___ aan Dubai, ondertekende hij een verdrag.",
+        "answer": "bezoek"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom verliezen de organisaties hun subsidies?",
+      "question": "Waarom was de minister van Justitie in de Verenigde Arabische Emiraten?",
       "options": [
-        "Omdat ze te veel winst maken",
-        "Omdat de overheid vindt dat ze niet efficiënt werken",
-        "Omdat ze geen armoede bestrijden",
-        "Omdat ze in een ander land werken"
+        "Om te surveilleren op het strand",
+        "Om een officieel bezoek af te leggen",
+        "Om te onderhandelen over een uitwisseling",
+        "Om vakantie te vieren met zijn gezin"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een gevolg van het verlies van de subsidies?",
+      "question": "Wat is de rol van de politie in deze situatie?",
       "options": [
-        "Kinderen krijgen meer speeltijd",
-        "Organisaties stoppen volledig",
-        "Kinderen lijden onder armoede",
-        "De overheid wordt rijker"
+        "Het organiseren van festiviteiten",
+        "Het handhaven van de wet en arresteren van verdachten",
+        "Het opstellen van nieuwe wetten",
+        "Het geven van gratis eten aan mensen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat betekent 'uitlevering' in deze context?",
+      "options": [
+        "Het weggeven van cadeaus",
+        "Het teruggeven van geleend geld",
+        "Het overhandigen van een persoon aan een ander land",
+        "Het organiseren van een groot feest"
       ],
       "correctAnswer": 3
-    },
-    {
-      "question": "Wat is de rol van de overheid in deze situatie?",
-      "options": [
-        "Ze geeft extra geld aan iedereen",
-        "Ze beslist over de subsidie",
-        "Ze werkt samen met de organisaties",
-        "Ze negeert het probleem"
-      ],
-      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Alleen organisaties die armoede bestrijden, krijgen subsidies.",
+      "statement": "Omar Gavers is de naam van de Belgische drugsbaron.",
       "isTrue": false
     },
     {
-      "statement": "Kinderen hebben direct last van het verlies van subsidies.",
+      "statement": "De minister van Justitie was in de Verenigde Arabische Emiraten voor een officieel bezoek.",
       "isTrue": true
     },
     {
-      "statement": "De overheid heeft de subsidies volledig stopgezet.",
+      "statement": "Omar Gavers werd gearresteerd door de politie van België.",
       "isTrue": false
     }
   ]

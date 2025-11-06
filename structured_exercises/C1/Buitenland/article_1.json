@@ -3,104 +3,73 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey",
+  "title": "Supreme Court op weg om Trumps tarieven te verbieden",
   "topicNumber": 1,
   "article": {
-    "title": "Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "Supreme Court op weg om Trumps tarieven te verbieden",
+    "summary": "Verklaart het Supreme Court Donald Trumps tarieven onwettig? Meestal steunen de hoge rechters Trump, maar in dit belangrijke dossier toonden ook drie conservatieve rechters zich woensdag uiterst kritisch en sceptisch."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "winnen",
-        "definition": "Een overwinning behalen in een wedstrijd of verkiezing.",
-        "sentence": "Hij hoopte de verkiezing te ___.",
-        "answer": "winnen"
+        "word": "op",
+        "definition": "in beweging of onderweg",
+        "sentence": "Hij is ___ weg naar huis.",
+        "answer": "op"
       },
       {
-        "word": "gouverneur",
-        "definition": "De hoogste uitvoerende ambtenaar in een staat of deelstaat.",
-        "sentence": "De nieuwe ___ van Virginia zal morgen worden beëdigd.",
-        "answer": "gouverneur"
-      },
-      {
-        "word": "updates",
-        "definition": "Bijgewerkte informatie of het laatste nieuws over een onderwerp.",
-        "sentence": "Volg de ___ over de verkiezingen hier.",
-        "answer": "updates"
-      },
-      {
-        "word": "burgemeester",
-        "definition": "Het hoofd van de gemeentelijke overheid in een stad of gemeente.",
-        "sentence": "De nieuwe ___ werd met veel enthousiasme begroet.",
-        "answer": "burgemeester"
-      },
-      {
-        "word": "race",
-        "definition": "Een wedstrijd of competitie, vaak in de context van verkiezingen.",
-        "sentence": "De politieke ___ was erg intens dit jaar.",
-        "answer": "race"
+        "word": "om",
+        "definition": "met als doel of reden",
+        "sentence": "Hij ging naar de winkel ___ melk te kopen.",
+        "answer": "om"
       }
     ],
-    "fillInBlanks": [
-      {
-        "sentence": "De nieuwe ___ werd met veel enthousiasme begroet.",
-        "answer": "burgemeester"
-      },
-      {
-        "sentence": "De politieke ___ was erg intens dit jaar.",
-        "answer": "race"
-      },
-      {
-        "sentence": "Volg de ___ over de verkiezingen hier.",
-        "answer": "updates"
-      }
-    ]
+    "fillInBlanks": []
   },
   "multipleChoice": [
     {
-      "question": "Welke term wordt gebruikt voor het hoofd van een stedelijke overheid?",
+      "question": "Wat betekent het als de Supreme Court een beslissing 'terugwijst'?",
       "options": [
-        "Burgemeester",
-        "Gouverneur",
-        "Minister",
-        "President"
+        "Het besluit volledig ongedaan maken",
+        "Het besluit voor onbepaalde tijd uitstellen",
+        "Het besluit bekrachtigen",
+        "Het besluit naar een lagere rechter sturen voor herziening"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
-      "question": "Wat betekent 'winnen' in de context van verkiezingen?",
+      "question": "Waarom waren rechters kritisch over Trumps tarieven?",
       "options": [
-        "Verliezen",
-        "Deelnemen",
-        "Winnen",
-        "Strijden"
+        "Omdat de tarieven te hoog waren",
+        "Omdat de tarieven ongrondwettelijk waren",
+        "Omdat de tarieven alleen voor bepaalde groepen golden",
+        "Omdat de tarieven niet werden nageleefd"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Welke functie bekleedt iemand die een gouverneursrace wint?",
+      "question": "Wat impliceert de steun van rechters voor Trump?",
       "options": [
-        "Burgemeester",
-        "Minister van Onderwijs",
-        "Gouverneur",
-        "President"
+        "Dat ze al zijn beslissingen steunen",
+        "Dat ze het oneens zijn met zijn beleid",
+        "Dat ze zijn autoriteit erkennen",
+        "Dat ze zijn voorstellen onderschrijven"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Donald Trump was de eerste president van de Verenigde Staten die een tweede ambtstermijn begon.",
-      "isTrue": false
-    },
-    {
-      "statement": "De verkiezingen in Virginia en New Jersey werden gewonnen door Democraten.",
+      "statement": "Het Supreme Court heeft de bevoegdheid om presidentiële besluiten te beoordelen.",
       "isTrue": true
     },
     {
-      "statement": "Zohran Mamdani werd burgemeester van New York City.",
+      "statement": "De conservatieve rechters steunden Trump in alle kwesties.",
       "isTrue": false
+    },
+    {
+      "statement": "Sommige rechters toonden scepsis over de grondwettelijkheid van Trumps maatregelen.",
+      "isTrue": true
     }
   ]
 }

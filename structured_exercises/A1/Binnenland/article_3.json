@@ -1,105 +1,105 @@
 {
-  "id": 20,
+  "id": 21,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Organisaties verliezen subsidies",
+  "title": "Belgische man opgepakt in Dubai",
   "topicNumber": 1,
   "article": {
-    "title": "Organisaties verliezen subsidies",
-    "summary": "Twee organisaties verliezen hun subsidies. Zij helpen arme kinderen. De overheid zegt dat er geen geld meer is. Dit is slecht voor de kinderen."
+    "title": "Belgische man opgepakt in Dubai",
+    "summary": "De politie heeft een man opgepakt. De man komt uit België. Hij wordt verdacht van drugshandel. De minister van Justitie was op bezoek in Dubai."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "subsidies",
-        "definition": "geld van de overheid",
-        "sentence": "De overheid geeft geen ___ meer.",
-        "answer": "subsidies"
+        "word": "opgepakt",
+        "definition": "gepakt of gevangen genomen door de politie",
+        "sentence": "De dief werd ___ en naar de gevangenis gebracht.",
+        "answer": "opgepakt"
       },
       {
-        "word": "geen",
-        "definition": "niet iets",
-        "sentence": "Er is ___ geld meer.",
-        "answer": "geen"
+        "word": "Dubai",
+        "definition": "een stad in het Midden-Oosten",
+        "sentence": "Veel toeristen gaan naar ___ voor vakantie.",
+        "answer": "Dubai"
       },
       {
-        "word": "slecht",
-        "definition": "niet goed",
-        "sentence": "Dit is ___ voor de kinderen.",
-        "answer": "slecht"
+        "word": "politie",
+        "definition": "mensen die de wet handhaven",
+        "sentence": "De ___ houdt de stad veilig.",
+        "answer": "politie"
       },
       {
-        "word": "verliezen",
-        "definition": "iets niet meer hebben",
-        "sentence": "Zij ___ hun geld.",
-        "answer": "verliezen"
+        "word": "België",
+        "definition": "een land in Europa",
+        "sentence": "Hij komt uit ___ en spreekt Frans.",
+        "answer": "België"
       },
       {
-        "word": "organisaties",
-        "definition": "groepen mensen die samenwerken",
-        "sentence": "De ___ helpen kinderen in armoede.",
-        "answer": "organisaties"
+        "word": "man",
+        "definition": "een volwassen persoon van het mannelijk geslacht",
+        "sentence": "De ___ woont alleen in een groot huis.",
+        "answer": "man"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De overheid geeft geen ___ meer.",
-        "answer": "subsidies"
+        "sentence": "De dief werd ___ en naar de gevangenis gebracht.",
+        "answer": "opgepakt"
       },
       {
-        "sentence": "De ___ helpen kinderen in armoede.",
-        "answer": "organisaties"
+        "sentence": "Hij komt uit ___ en spreekt Frans.",
+        "answer": "België"
       },
       {
-        "sentence": "Er is ___ geld meer.",
-        "answer": "geen"
+        "sentence": "Veel toeristen gaan naar ___ voor vakantie.",
+        "answer": "Dubai"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat verliezen de organisaties?",
+      "question": "Waar werd de man opgepakt?",
       "options": [
-        "Hun geld",
-        "Hun huis",
-        "Hun vrienden",
-        "Hun werk"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wie geeft normaal gesproken geld aan de organisaties?",
-      "options": [
-        "De scholen",
-        "De overheid",
-        "De ouders",
-        "De kinderen"
+        "In België",
+        "In Dubai",
+        "In Nederland",
+        "In Frankrijk"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Is dit goed voor de kinderen?",
+      "question": "Wat is de rol van de minister?",
       "options": [
-        "Ja, het is leuk",
-        "Ja, het is fijn",
-        "Nee, het is slecht",
-        "Nee, het is geweldig"
+        "Hij is een leraar",
+        "Hij is een arts",
+        "Hij is een politieagent",
+        "Hij is een belangrijk persoon in de regering"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "Wat betekent 'opgepakt'?",
+      "options": [
+        "Vrijgelaten",
+        "Gepromoveerd",
+        "Gearresteerd door politie",
+        "Verhuisd naar een nieuwe stad"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De organisaties verliezen hun subsidies.",
-      "isTrue": true
-    },
-    {
-      "statement": "De overheid geeft nu meer geld.",
+      "statement": "De man komt uit Nederland.",
       "isTrue": false
     },
     {
-      "statement": "Dit is goed nieuws voor de kinderen.",
+      "statement": "De man is opgepakt door de politie.",
+      "isTrue": true
+    },
+    {
+      "statement": "De minister werd ook opgepakt in Dubai.",
       "isTrue": false
     }
   ]

@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Amerikaans nieuws",
+  "title": "Rechters en Trump",
   "topicNumber": 1,
   "article": {
-    "title": "Amerikaans nieuws",
-    "summary": "Dit artikel gaat over Amerika. Er is nieuws over verkiezingen. Dit is belangrijk voor de wereld."
+    "title": "Rechters en Trump",
+    "summary": "Rechters kunnen Trump helpen of niet. Soms zijn rechters streng. Soms zijn rechters vriendelijk. De rechters in de VS keken naar een zaak over Trump."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Amerika",
-        "definition": "een land, ook Verenigde Staten genoemd",
-        "sentence": "Dit artikel gaat over ___.",
-        "answer": "Amerika"
+        "word": "rechters",
+        "definition": "mensen die beslissen over regels",
+        "sentence": "De ___ beslisten over de zaak.",
+        "answer": "rechters"
       },
       {
-        "word": "verkiezingen",
-        "definition": "als mensen stemmen om een leider te kiezen",
-        "sentence": "Er zijn ___ in Amerika.",
-        "answer": "verkiezingen"
+        "word": "niet",
+        "definition": "geen, ontkenning",
+        "sentence": "Hij is ___ mijn vriend.",
+        "answer": "niet"
       },
       {
-        "word": "nieuws",
-        "definition": "informatie over wat er gebeurt, vaak recent",
-        "sentence": "Dit is het ___ over Amerika.",
-        "answer": "nieuws"
+        "word": "zaak",
+        "definition": "een situatie of geval, vooral juridisch",
+        "sentence": "De rechter hoorde de ___ gisteren.",
+        "answer": "zaak"
       },
       {
-        "word": "artikel",
-        "definition": "een geschreven tekst over een onderwerp",
-        "sentence": "Dit ___ gaat over Amerika.",
-        "answer": "artikel"
+        "word": "zijn",
+        "definition": "van hem, het bezittelijk voornaamwoord",
+        "sentence": "Dat is ___ boek.",
+        "answer": "zijn"
       },
       {
-        "word": "wereld",
-        "definition": "de aarde en alle mensen en landen",
-        "sentence": "Dit nieuws is belangrijk voor de ___.",
-        "answer": "wereld"
+        "word": "helpen",
+        "definition": "assisteren, bijstaan",
+        "sentence": "Kan jij me ___ met deze tas?",
+        "answer": "helpen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Dit nieuws is belangrijk voor de ___.",
-        "answer": "wereld"
+        "sentence": "Hij is ___ mijn vriend.",
+        "answer": "niet"
       },
       {
-        "sentence": "Dit artikel gaat over ___.",
-        "answer": "Amerika"
+        "sentence": "Kan jij me ___ met deze tas?",
+        "answer": "helpen"
       },
       {
-        "sentence": "Er zijn ___ in Amerika.",
-        "answer": "verkiezingen"
+        "sentence": "De ___ beslisten over de zaak.",
+        "answer": "rechters"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat dit artikel over?",
+      "question": "Wat doen rechters?",
       "options": [
-        "Sport",
-        "Koken",
-        "Amerika",
-        "Winkelen"
+        "Ze helpen mensen.",
+        "Ze spelen voetbal.",
+        "Ze kijken naar films.",
+        "Ze beslissen over regels."
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "Wie is Trump?",
+      "options": [
+        "Een leraar.",
+        "Een dokter.",
+        "Een president.",
+        "Een kok."
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is 'nieuws'?",
+      "question": "Wat betekent 'helpen'?",
       "options": [
-        "Een soort voedsel",
-        "Informatie over recente gebeurtenissen",
-        "Een soort sport",
-        "Een type kleding"
+        "Iemand pijn doen.",
+        "Iemand ondersteunen.",
+        "Iemand negeren.",
+        "Iemand uitlachen."
       ],
       "correctAnswer": 2
-    },
-    {
-      "question": "Waarom is dit nieuws belangrijk?",
-      "options": [
-        "Het is niet belangrijk",
-        "Alleen voor Amerika",
-        "Voor de hele wereld",
-        "Alleen voor de schrijver"
-      ],
-      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Dit artikel gaat over een feest in Amerika.",
-      "isTrue": false
-    },
-    {
-      "statement": "Amerika is een land.",
+      "statement": "Rechters kunnen mensen helpen.",
       "isTrue": true
     },
     {
-      "statement": "Dit nieuws is alleen belangrijk voor mensen in Amerika.",
+      "statement": "Trump is een soort van fruit.",
       "isTrue": false
+    },
+    {
+      "statement": "Rechters kunnen beslissen over een zaak.",
+      "isTrue": true
     }
   ]
 }

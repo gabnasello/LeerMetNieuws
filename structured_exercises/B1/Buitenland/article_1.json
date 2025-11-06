@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey",
+  "title": "Trump en het Hooggerechtshof",
   "topicNumber": 1,
   "article": {
-    "title": "Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "Rechters over Trumps tarieven",
+    "summary": "Het Hooggerechtshof beslist over de tarieven van Donald Trump. De meeste rechters steunen Trump, maar drie conservatieve rechters zijn kritisch."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "burgemeestersrace",
-        "definition": "verkiezing voor de nieuwe burgemeester",
-        "sentence": "Hij deed mee aan de ___.",
-        "answer": "burgemeestersrace"
+        "word": "rechters",
+        "definition": "mensen die rechtspreken",
+        "sentence": "De ___ hebben een belangrijke taak.",
+        "answer": "rechters"
       },
       {
-        "word": "New Jersey",
-        "definition": "een staat in de Verenigde Staten",
-        "sentence": "Ook in ___ was er een verkiezing.",
-        "answer": "New Jersey"
+        "word": "hof",
+        "definition": "een plaats waar recht wordt gesproken",
+        "sentence": "Het ___ spreekt recht over zaken.",
+        "answer": "hof"
       },
       {
-        "word": "gouverneursraces",
-        "definition": "verkiezingen voor de nieuwe gouverneur",
-        "sentence": "Er waren ___ in verschillende staten.",
-        "answer": "gouverneursraces"
+        "word": "kritisch",
+        "definition": "niet zomaar alles aannemen, maar beoordelen",
+        "sentence": "Een ___ persoon stelt veel vragen.",
+        "answer": "kritisch"
       },
       {
-        "word": "Virginia",
-        "definition": "een staat in de Verenigde Staten",
-        "sentence": "Er was een verkiezing in ___.",
-        "answer": "Virginia"
+        "word": "Trump",
+        "definition": "familienaam van de voormalige president",
+        "sentence": "___ was president van de Verenigde Staten.",
+        "answer": "Trump"
       },
       {
-        "word": "New York",
-        "definition": "een grote stad in Amerika",
-        "sentence": "Hij is de burgemeester van ___.",
-        "answer": "New York"
+        "word": "steunen",
+        "definition": "helpen of ondersteunen",
+        "sentence": "Vrienden ___ elkaar in moeilijke tijden.",
+        "answer": "steunen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Er waren ___ in verschillende staten.",
-        "answer": "gouverneursraces"
+        "sentence": "Een ___ persoon stelt veel vragen.",
+        "answer": "kritisch"
       },
       {
-        "sentence": "Er was een verkiezing in ___.",
-        "answer": "Virginia"
+        "sentence": "___ was president van de Verenigde Staten.",
+        "answer": "Trump"
       },
       {
-        "sentence": "Hij deed mee aan de ___.",
-        "answer": "burgemeestersrace"
+        "sentence": "Vrienden ___ elkaar in moeilijke tijden.",
+        "answer": "steunen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wie won de burgemeestersrace in New York?",
+      "question": "Wat doet het Hooggerechtshof?",
       "options": [
-        "Zohran Mamdani",
-        "Donald Trump",
-        "Joe Biden",
-        "Een onbekende kandidaat"
+        "Zingt liedjes",
+        "Maakt nieuwe wetten",
+        "Beslist over belangrijke zaken",
+        "Organiseert feesten"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de rol van een gouverneur?",
+      "question": "Hoe reageerden de rechters op Trumps tarieven?",
       "options": [
-        "Leider van een staat",
-        "President van het land",
-        "Burgemeester van een stad",
-        "Minister van onderwijs"
+        "Ze waren het er allemaal mee eens",
+        "Sommige waren kritisch",
+        "Ze dansten van blijdschap",
+        "Ze vroegen om meer informatie"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "In welke land zijn deze verkiezingen gehouden?",
+      "question": "Wat is de rol van conservatieve rechters?",
       "options": [
-        "Verenigde Staten",
-        "Nederland",
-        "Duitsland",
-        "Frankrijk"
+        "Ze zijn er niet",
+        "Ze steunen alle veranderingen",
+        "Ze zijn voorzichtig en beoordelen alles",
+        "Ze zijn altijd tegen de regering"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Donald Trump is de huidige president van de Verenigde Staten.",
+      "statement": "Alle rechters van het Hooggerechtshof steunden Trumps tarieven.",
       "isTrue": false
     },
     {
-      "statement": "Zohran Mamdani won de burgemeestersrace in New York.",
+      "statement": "Enkele conservatieve rechters waren kritisch over de tarieven.",
       "isTrue": true
     },
     {
-      "statement": "Deze verkiezingen vonden plaats in Europa.",
-      "isTrue": false
+      "statement": "Het Hooggerechtshof beslist uiteindelijk over de tarieven.",
+      "isTrue": true
     }
   ]
 }

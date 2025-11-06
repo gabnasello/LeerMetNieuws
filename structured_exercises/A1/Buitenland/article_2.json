@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Rome rouwt om verongelukte Roemeense bouwvakker",
+  "title": "Zohran Mamdani, de burgemeester van New York",
   "topicNumber": 1,
   "article": {
-    "title": "Rome rouwt om verongelukte Roemeense bouwvakker",
-    "summary": "Een bouwvakker uit Roemenië is overleden na een ongeluk in Rome, Italië. Dit jaar zijn er al 777 doden op de werkvloer in Italië."
+    "title": "Zohran Mamdani, de burgemeester van New York",
+    "summary": "Zohran Mamdani is de burgemeester van New York. Hij heeft grote plannen. Maar hij heeft ook een vijand. Die vijand is de president. De president wil niet dat de plannen lukken. Zohran moet geld vinden voor zijn plannen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "doden",
-        "definition": "mensen die niet meer leven",
-        "sentence": "Er zijn veel ___ door ongevallen.",
-        "answer": "doden"
+        "word": "plannen",
+        "definition": "wat je van plan bent te doen",
+        "sentence": "Hij heeft grote ___ voor de stad.",
+        "answer": "plannen"
       },
       {
-        "word": "bouwvakker",
-        "definition": "iemand die werkt in de bouw",
-        "sentence": "De ___ werkte in Italië.",
-        "answer": "bouwvakker"
+        "word": "burgemeester",
+        "definition": "de leider van een stad",
+        "sentence": "De ___ van New York heet Zohran Mamdani.",
+        "answer": "burgemeester"
       },
       {
-        "word": "Rome",
-        "definition": "een stad in Italië",
-        "sentence": "Hij werkte in ___.",
-        "answer": "Rome"
+        "word": "vijand",
+        "definition": "iemand die tegen je is",
+        "sentence": "De president is zijn ___.",
+        "answer": "vijand"
       },
       {
-        "word": "Roemeense",
-        "definition": "iemand uit Roemenië",
-        "sentence": "Hij is een ___ man.",
-        "answer": "Roemeense"
+        "word": "zijn",
+        "definition": "hetzelfde als 'be' in het Engels",
+        "sentence": "Hij ___ de burgemeester van New York.",
+        "answer": "is"
       },
       {
-        "word": "Italië",
-        "definition": "een land in Europa",
-        "sentence": "Italië is een land in Europa.",
-        "answer": "Italië"
+        "word": "geld",
+        "definition": "wat je gebruikt om dingen te kopen",
+        "sentence": "Hij heeft veel ___ nodig voor zijn plannen.",
+        "answer": "geld"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ werkte in Italië.",
-        "answer": "bouwvakker"
+        "sentence": "Hij heeft veel ___ nodig voor zijn plannen.",
+        "answer": "geld"
       },
       {
-        "sentence": "Hij werkte in ___.",
-        "answer": "Rome"
+        "sentence": "De ___ van New York heet Zohran Mamdani.",
+        "answer": "burgemeester"
       },
       {
-        "sentence": "Italië is een land in Europa.",
-        "answer": "Italië"
+        "sentence": "Hij heeft grote ___ voor de stad.",
+        "answer": "plannen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar werkte de man?",
+      "question": "Wie is Zohran Mamdani?",
       "options": [
-        "in een winkel",
-        "op een bouwplaats",
-        "in een school",
-        "in een park"
+        "De burgemeester van New York",
+        "De president van Amerika",
+        "Een leraar",
+        "Een dokter"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Waar is de man nu?",
+      "question": "Wat wil de president niet?",
       "options": [
-        "hij is thuis",
-        "hij is op vakantie",
-        "hij is overleden",
-        "hij is in de auto"
+        "Dat de plannen van Zohran lukken",
+        "Dat Zohran geld heeft",
+        "Dat Zohran burgemeester is",
+        "Dat Zohran een vijand heeft"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Waar is Italië?",
+      "question": "Waar heeft Zohran geld voor nodig?",
       "options": [
-        "in Azië",
-        "in Europa",
-        "in Afrika",
-        "in Amerika"
+        "Voor zijn plannen",
+        "Om een huis te kopen",
+        "Om eten te kopen",
+        "Om de president te betalen"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De man is nog in leven.",
-      "isTrue": false
-    },
-    {
-      "statement": "Rome is een stad in Italië.",
+      "statement": "Zohran Mamdani is de burgemeester van New York.",
       "isTrue": true
     },
     {
-      "statement": "De man werkte in een school.",
+      "statement": "De president is de vijand van Zohran.",
+      "isTrue": true
+    },
+    {
+      "statement": "Zohran heeft geen geld nodig voor zijn plannen.",
       "isTrue": false
     }
   ]

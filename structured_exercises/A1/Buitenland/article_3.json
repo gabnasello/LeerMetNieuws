@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
+  "title": "Expert over Soedan",
   "topicNumber": 1,
   "article": {
-    "title": "Al-Qaeda-rebellen houden Malinese hoofdstad in economische wurggreep",
-    "summary": "In Mali staat het militaire regime onder zware druk. Al-Qaeda-strijders hebben een economische blokkade ingevoerd tegen Bamako, waardoor de stad zonder brandstof dreigt te vallen. De rebellen hopen dat er een opstand uitbreekt, zodat zij de macht kunnen grijpen."
+    "title": "Expert over Soedan",
+    "summary": "Een deskundige zegt dat het geweld in Soedan erg is. Iedereen is in gevaar: mannen, vrouwen en kinderen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "regime",
-        "definition": "de groep mensen die een land bestuurt",
-        "sentence": "Het ___ is niet democratisch.",
-        "answer": "regime"
+        "word": "mannen",
+        "definition": "volwassen personen van het mannelijk geslacht",
+        "sentence": "De ___ werken vaak buitenshuis.",
+        "answer": "mannen"
       },
       {
-        "word": "brandstof",
-        "definition": "stof om machines te laten werken, zoals benzine",
-        "sentence": "Zonder ___ kan de auto niet rijden.",
-        "answer": "brandstof"
+        "word": "geweld",
+        "definition": "situatie waarin mensen gewond raken of sterven",
+        "sentence": "Het ___ in Soedan is erg.",
+        "answer": "geweld"
       },
       {
-        "word": "opstand",
-        "definition": "een moment waarop mensen in verzet komen tegen de leiders",
-        "sentence": "De ___ was groot en gevaarlijk.",
-        "answer": "opstand"
+        "word": "kinderen",
+        "definition": "jonge mensen, meestal onder de 18 jaar",
+        "sentence": "De ___ spelen en leren op school.",
+        "answer": "kinderen"
       },
       {
-        "word": "macht",
-        "definition": "de kracht of autoriteit die iemand heeft",
-        "sentence": "Hij heeft veel ___ in de organisatie.",
-        "answer": "macht"
+        "word": "vrouwen",
+        "definition": "volwassen personen van het vrouwelijk geslacht",
+        "sentence": "De ___ zorgen vaak voor het gezin.",
+        "answer": "vrouwen"
       },
       {
-        "word": "stad",
-        "definition": "een plaats waar veel mensen wonen en werken",
-        "sentence": "De ___ is groot en druk.",
-        "answer": "stad"
+        "word": "iedereen",
+        "definition": "alle mensen",
+        "sentence": "___ moet veilig zijn.",
+        "answer": "iedereen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij heeft veel ___ in de organisatie.",
-        "answer": "macht"
+        "sentence": "De ___ werken vaak buitenshuis.",
+        "answer": "mannen"
       },
       {
-        "sentence": "De ___ is groot en druk.",
-        "answer": "stad"
+        "sentence": "De ___ zorgen vaak voor het gezin.",
+        "answer": "vrouwen"
       },
       {
-        "sentence": "Zonder ___ kan de auto niet rijden.",
-        "answer": "brandstof"
+        "sentence": "___ moet veilig zijn.",
+        "answer": "iedereen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdstad van Mali?",
+      "question": "Wat zegt de expert over Soedan?",
       "options": [
-        "Amsterdam",
-        "Parijs",
-        "Bamako",
-        "Londen"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat voor blokkade is er in de stad?",
-      "options": [
-        "een sportieve",
-        "een economische",
-        "een politieke",
-        "een culturele"
+        "Het is een veilig land.",
+        "Er is veel geweld.",
+        "Het is een klein land.",
+        "De mensen zijn erg vriendelijk."
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat hopen de rebellen?",
+      "question": "Wie is in gevaar volgens de tekst?",
       "options": [
-        "dat de stad valt",
-        "dat er een opstand komt",
-        "dat de brandstof opraakt",
-        "dat de regering valt"
+        "Alleen mannen",
+        "Alleen kinderen",
+        "Alleen vrouwen",
+        "Iedereen"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
+    },
+    {
+      "question": "Wat is de boodschap van de tekst?",
+      "options": [
+        "Soedan is een veilig land.",
+        "Iedereen moet voorzichtig zijn.",
+        "Soedan is een groot land.",
+        "Er is te veel geweld in Soedan."
+      ],
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "De hoofdstad van Mali is Bamako.",
-      "isTrue": true
-    },
-    {
-      "statement": "De rebellen hebben een culturele blokkade ingevoerd.",
+      "statement": "De expert zegt dat Soedan veilig is.",
       "isTrue": false
     },
     {
-      "statement": "De rebellen hopen dat er een opstand uitbreekt.",
+      "statement": "Vrouwen en kinderen zijn in gevaar.",
       "isTrue": true
+    },
+    {
+      "statement": "Soedan is een land in Europa.",
+      "isTrue": false
     }
   ]
 }

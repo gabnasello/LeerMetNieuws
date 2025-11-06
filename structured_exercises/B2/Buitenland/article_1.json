@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey",
+  "title": "Supreme Court op weg om Trumps tarieven te verbieden",
   "topicNumber": 1,
   "article": {
-    "title": "Zohran Mamdani wint burgemeestersrace New York, Democraten winnen gouverneursraces in Virginia en New Jersey",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "Supreme Court op weg om Trumps tarieven te verbieden",
+    "summary": "Verklaart het Supreme Court Donald Trumps tarieven onwettig? Meestal steunen de hoge rechters Trump, maar in dit belangrijke dossier toonden ook drie conservatieve rechters zich woensdag uiterst kritisch en sceptisch."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "races",
-        "definition": "wedstrijden of competities",
-        "sentence": "De politieke ___ zijn belangrijk voor de democratie.",
-        "answer": "races"
+        "word": "sceptisch",
+        "definition": "twijfelend, niet direct gelovend",
+        "sentence": "Wees ___ over te mooie beloften.",
+        "answer": "sceptisch"
       },
       {
-        "word": "Democraten",
-        "definition": "leden van de Democratische Partij in de VS",
-        "sentence": "De ___ hebben een meerderheid in de Senaat.",
-        "answer": "Democraten"
+        "word": "conservatieve",
+        "definition": "behoudend, gericht op behoud van tradities",
+        "sentence": "Hij heeft erg ___e standpunten over economie.",
+        "answer": "conservatieve"
       },
       {
-        "word": "gouverneurs",
-        "definition": "hoofden van een staat of regio",
-        "sentence": "De ___ van Californië heeft veel macht.",
-        "answer": "gouverneurs"
+        "word": "steunen",
+        "definition": "ondersteunen, helpen",
+        "sentence": "Vrienden ___ elkaar in moeilijke tijden.",
+        "answer": "steunen"
       },
       {
-        "word": "Virginia",
-        "definition": "een staat in de Verenigde Staten",
-        "sentence": "___ is bekend om zijn geschiedenis.",
-        "answer": "Virginia"
+        "word": "onwettig",
+        "definition": "niet volgens de wet, illegaal",
+        "sentence": "Het is ___ om zonder rijbewijs auto te rijden.",
+        "answer": "onwettig"
       },
       {
-        "word": "winnen",
-        "definition": "iets halen, zoals een verkiezing of wedstrijd",
-        "sentence": "Hij hoopte de verkiezingen te ___.",
-        "answer": "winnen"
+        "word": "tarieven",
+        "definition": "verouderd woord voor prijzen, tegenwoordig vooral gebruikt voor kosten die in rekening worden gebracht",
+        "sentence": "De meeste artsen hanteren vaste ___ voor een consult.",
+        "answer": "tarieven"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De politieke ___ zijn belangrijk voor de democratie.",
-        "answer": "races"
+        "sentence": "Vrienden ___ elkaar in moeilijke tijden.",
+        "answer": "steunen"
       },
       {
-        "sentence": "De ___ van Californië heeft veel macht.",
-        "answer": "gouverneurs"
+        "sentence": "Het is ___ om zonder rijbewijs auto te rijden.",
+        "answer": "onwettig"
       },
       {
-        "sentence": "___ is bekend om zijn geschiedenis.",
-        "answer": "Virginia"
+        "sentence": "Hij heeft erg ___e standpunten over economie.",
+        "answer": "conservatieve"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdstad van Virginia?",
+      "question": "Wat betekent het als de rechters een maatregel 'onwettig' verklaren?",
       "options": [
-        "Richmond",
-        "New York",
-        "Los Angeles",
-        "Chicago"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Hoe lang is een ambtstermijn voor een Amerikaanse president?",
-      "options": [
-        "2 jaar",
-        "4 jaar",
-        "6 jaar",
-        "8 jaar"
+        "Het is nooit gebeurd",
+        "Het is tegen de wet",
+        "Het is een speciale actie",
+        "Het is goedgekeurd door de regering"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Welke partij heeft momenteel de meerderheid in de Amerikaanse Senaat?",
+      "question": "Wat is een synoniem voor 'steunen' in deze context?",
       "options": [
-        "Democraten",
-        "Republikeinen",
-        "Onafhankelijken",
-        "Groenen"
+        "Tegenwerken",
+        "Ondersteunen",
+        "Negeren",
+        "Bekritiseren"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "question": "Waarom noemt de tekst sommige rechters 'conservatief'?",
+      "options": [
+        "Omdat ze erg streng zijn",
+        "Omdat ze traditionele waarden belangrijk vinden",
+        "Omdat ze tegen verandering zijn",
+        "Omdat ze de regering steunen"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Donald Trump was de president voor Joe Biden.",
+      "statement": "Het Supreme Court heeft de macht om handelingen van de president onwettig te verklaren.",
       "isTrue": true
     },
     {
-      "statement": "Virginia is een staat in Canada.",
+      "statement": "De rechters van het Supreme Court worden allemaal voor het leven benoemd.",
+      "isTrue": true
+    },
+    {
+      "statement": "Donald Trump is momenteel de president van de Verenigde Staten.",
       "isTrue": false
-    },
-    {
-      "statement": "Politieke verkiezingen worden altijd in november gehouden in de VS.",
-      "isTrue": true
     }
   ]
 }

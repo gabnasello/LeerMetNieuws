@@ -1,106 +1,106 @@
 {
-  "id": 23,
+  "id": 24,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Organisaties die armoede in onderwijs bestrijden, verliezen Vlaamse subsidies",
+  "title": "Belgische drugsbaron opgepakt in Dubai",
   "topicNumber": 1,
   "article": {
-    "title": "Organisaties die armoede in onderwijs bestrijden, verliezen Vlaamse subsidies",
-    "summary": "Twee organisaties die armoede in het onderwijs bestrijden, verliezen hun subsidies van de Vlaamse overheid. “Dit zet veel kinderen in de kou”, zegt Bert Smits van Stichting Robin. “De overheid snijdt in kennis en in innovatief armoedebeleid.”"
+    "title": "Belgische drugsbaron opgepakt in Dubai",
+    "summary": "Net terwijl minister van Justitie Verlinden op werkbezoek is aan de Verenigde Arabische Emiraten, heeft de politie van het land de voortvluchtige Belgische drugsbaron Omar Govers (35) gearresteerd met het oog op uitlevering."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "verliezen",
-        "definition": "Iets kwijtraken wat je eerst had.",
-        "sentence": "Zij kunnen hun subsidie ___ door deze beslissing.",
-        "answer": "verliezen"
+        "word": "drugsbaron",
+        "definition": "een leider van een organisatie die handelt in verdovende middelen",
+        "sentence": "De ___ werd gearresteerd in Dubai.",
+        "answer": "drugsbaron"
       },
       {
-        "word": "organisaties",
-        "definition": "Groepen of verenigingen die een bepaald doel hebben.",
-        "sentence": "Verschillende ___ werken samen aan dit project.",
-        "answer": "organisaties"
+        "word": "opgepakt",
+        "definition": "gearresteerd of gevangen genomen",
+        "sentence": "Hij werd ___ door de politie.",
+        "answer": "opgepakt"
       },
       {
-        "word": "kinderen",
-        "definition": "Jonge personen, meestal tot een bepaalde leeftijd.",
-        "sentence": "De ___ hebben recht op goed onderwijs en bescherming.",
-        "answer": "kinderen"
+        "word": "minister",
+        "definition": "een persoon met een hoge positie in de regering",
+        "sentence": "De ___ van Justitie bezoekt het land.",
+        "answer": "minister"
       },
       {
-        "word": "overheid",
-        "definition": "De organisatie die een land of regio bestuurt, inclusief overheidsinstellingen.",
-        "sentence": "De ___ moet zorgen voor goede wetten en voorzieningen.",
-        "answer": "overheid"
+        "word": "Justitie",
+        "definition": "het ministerie dat gaat over rechtspraak",
+        "sentence": "Minister van ___ is verantwoordelijk voor rechtspraak.",
+        "answer": "Justitie"
       },
       {
-        "word": "subsidies",
-        "definition": "Financiële steun van de overheid voor een specifiek doel.",
-        "sentence": "Organisaties vragen ___ aan om hun werk mogelijk te maken.",
-        "answer": "subsidies"
+        "word": "werkbezoek",
+        "definition": "een officieel bezoek met een werkgerelateerd doel",
+        "sentence": "Tijdens het ___ besprak hij samenwerking.",
+        "answer": "werkbezoek"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ moet zorgen voor goede wetten en voorzieningen.",
-        "answer": "overheid"
+        "sentence": "Tijdens het ___ besprak hij samenwerking.",
+        "answer": "werkbezoek"
       },
       {
-        "sentence": "Zij kunnen hun subsidie ___ door deze beslissing.",
-        "answer": "verliezen"
+        "sentence": "Hij werd ___ door de politie.",
+        "answer": "opgepakt"
       },
       {
-        "sentence": "De ___ hebben recht op goed onderwijs en bescherming.",
-        "answer": "kinderen"
+        "sentence": "De ___ van Justitie bezoekt het land.",
+        "answer": "minister"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom verliezen de organisaties hun subsidies?",
+      "question": "Waarom was minister Verlinden in de Verenigde Arabische Emiraten?",
       "options": [
-        "Omdat ze hun doel niet bereikten",
-        "Door bezuinigingen van de overheid",
-        "Omdat ze te veel winst maakten",
-        "Omdat ze geen nieuwe projecten startten"
+        "Om te vakantie vieren",
+        "Voor een officieel werkbezoek",
+        "Om een vriend te bezoeken",
+        "Voor medische behandeling"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een gevolg van het verlies van subsidies voor de organisaties?",
+      "question": "Wat is de hoofdactiviteit van Omar Govers?",
       "options": [
-        "Ze kunnen geen nieuwe medewerkers aannemen",
-        "Ze moeten hun werk sterk verminderen of stoppen",
-        "Ze krijgen meer steun van vrijwilligers",
-        "Ze kunnen zich focussen op andere projecten"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat zegt Bert Smits over deze situatie?",
-      "options": [
-        "Hij is blij met de beslissing",
-        "Hij vindt het een goede zaak",
-        "Hij noemt het een probleem voor kinderen",
-        "Hij denkt dat de overheid genoeg doet"
+        "Hij is een kunstenaar",
+        "Hij is een professionele atleet",
+        "Hij is een drugsbaron",
+        "Hij is een restauranteigenaar"
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "Wat gebeurt er met Omar Gavers nadat hij is gearresteerd?",
+      "options": [
+        "Hij wordt meteen vrijgelaten",
+        "Hij wordt uitgeleverd aan België",
+        "Hij krijgt een medaille",
+        "Hij wordt minister van Justitie"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De organisaties krijgen geen subsidies meer van de Vlaamse overheid.",
+      "statement": "Omar Gavers is een Belgische drugsbaron.",
       "isTrue": true
     },
     {
-      "statement": "Bert Smits vindt dat de overheid te veel bezuinigt op belangrijke taken.",
-      "isTrue": true
-    },
-    {
-      "statement": "De organisaties kunnen hun werk nu makkelijker voortzetten.",
+      "statement": "Minister Verlinden was op vakantie in de Verenigde Arabische Emiraten.",
       "isTrue": false
+    },
+    {
+      "statement": "Omar Gavers wordt uitgeleverd aan België.",
+      "isTrue": true
     }
   ]
 }

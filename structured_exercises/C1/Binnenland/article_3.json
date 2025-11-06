@@ -1,106 +1,106 @@
 {
-  "id": 23,
+  "id": 25,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Stormloop voor nieuwe tandarts in Kluisbergen: “Mijn praktijk is nog niet open, maar ik ben al volgeboekt”",
+  "title": "Belgische drugsbaron opgepakt in Dubai",
   "topicNumber": 1,
   "article": {
-    "title": "Stormloop voor nieuwe tandarts in Kluisbergen: “Mijn praktijk is nog niet open, maar ik ben al volgeboekt”",
-    "summary": "Tandarts Julie Parmentier (26) start donderdag haar praktijk in Kluisbergen en nu al zit ze volgeboekt tot in september 2026. Het is typerend voor een probleem in veel Vlaamse gemeenten."
+    "title": "Belgische drugsbaron opgepakt in Dubai",
+    "summary": "Net terwijl minister van Justitie Verlinden op werkbezoek is aan de Verenigde Arabische Emiraten, heeft de politie van het land de voortvluchtige Belgische drugsbaron Omar Govers (35) gearresteerd met het oog op uitlevering."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Praktijk",
-        "definition": "De professionele werkplek of de dagelijkse uitoefening van een beroep, vooral in medische context.",
-        "sentence": "Haar medische ___ is gevestigd in het stadscentrum.",
-        "answer": "Praktijk"
+        "word": "opgepakt",
+        "definition": "Gearresteerd, in hechtenis genomen.",
+        "sentence": "De verdachte werd uiteindelijk ___ door de politie.",
+        "answer": "opgepakt"
       },
       {
-        "word": "Probleem",
-        "definition": "Een moeilijke situatie of een kwestie die problemen veroorzaakt.",
-        "sentence": "De stad heeft een groot ___ met parkeerplaatsen.",
-        "answer": "Probleem"
+        "word": "politie",
+        "definition": "De overheidsinstantie die verantwoordelijk is voor handhaving van de wet.",
+        "sentence": "De ___ kreeg een anonieme tip.",
+        "answer": "politie"
       },
       {
-        "word": "Typerend",
-        "definition": "Karakteristiek of exemplarisch voor iets of iemand.",
-        "sentence": "Zijn punctualiteit is ___ voor zijn professionele instelling.",
-        "answer": "Typerend"
+        "word": "Justitie",
+        "definition": "Het ministerie of de overheidsinstantie die belast is met rechtshandhaving.",
+        "sentence": "Hij werkt al jaren bij ___.",
+        "answer": "Justitie"
       },
       {
-        "word": "Gemeenten",
-        "definition": "Lokale bestuursgebieden of de lokale overheid in een gebied, vooral in België en Nederland.",
-        "sentence": "Verschillende ___ werken samen aan een recyclingprogramma.",
-        "answer": "Gemeenten"
+        "word": "uitlevering",
+        "definition": "Het proces waarbij een persoon wordt overgedragen aan een ander land voor berechting.",
+        "sentence": "Er werd een verzoek tot ___ ingediend.",
+        "answer": "uitlevering"
       },
       {
-        "word": "Stormloop",
-        "definition": "Een snelle en massale toeloop of toestroom, vaak in een negatieve context.",
-        "sentence": "De ___ naar winkelopeningen tijdens Black Friday is soms gevaarlijk.",
-        "answer": "Stormloop"
+        "word": "voortvluchtige",
+        "definition": "Iemand die op de vlucht is voor justitie.",
+        "sentence": "De ___ werd na maanden gevonden.",
+        "answer": "voortvluchtige"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Verschillende ___ werken samen aan een recyclingprogramma.",
-        "answer": "Gemeenten"
+        "sentence": "De ___ werd na maanden gevonden.",
+        "answer": "voortvluchtige"
       },
       {
-        "sentence": "Haar medische ___ is gevestigd in het stadscentrum.",
-        "answer": "Praktijk"
+        "sentence": "Hij werkt al jaren bij ___.",
+        "answer": "Justitie"
       },
       {
-        "sentence": "De ___ naar winkelopeningen tijdens Black Friday is soms gevaarlijk.",
-        "answer": "Stormloop"
+        "sentence": "De ___ kreeg een anonieme tip.",
+        "answer": "politie"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom is tandarts Julie Parmentier al volgeboekt, hoewel haar praktijk nog niet open is?",
+      "question": "Wat is de rol van minister Verlinden in deze situatie?",
       "options": [
-        "Omdat ze al bekende is in de gemeente",
-        "Vanwege een grote vraag naar tandheelkundige zorg in de regio",
-        "Omdat ze haar diensten al aanbood voor de opening",
-        "Er was een misverstand over de openingsdatum"
+        "Hij leidt het onderzoek",
+        "Hij is op werkbezoek in het land",
+        "Hij is de gearresteerde persoon",
+        "Hij is de drugsbaron zelf"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de betekenis van 'volgeboekt' in deze context?",
+      "question": "Waarom werd Omar Govers gearresteerd?",
       "options": [
-        "Dat alle beschikbare tijdsloten zijn gereserveerd",
-        "Dat de praktijk fysiek vol is met patiënten",
-        "Dat de boekingstop is bereikt",
-        "Dat de agenda niet meer beschikbaar is"
+        "Voor het plegen van een bankoverval",
+        "Voor het leiden van een drugsbende",
+        "Voor het ontduiken van belastingen",
+        "Voor het plegen van fraude"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de huidige status van Omar Gavers?",
+      "options": [
+        "Hij is nog steeds voortvluchtig",
+        "Hij is ontsnapt uit de gevangenis",
+        "Hij is overleden",
+        "Hij is uitgeleverd aan België"
       ],
       "correctAnswer": 1
-    },
-    {
-      "question": "Wat illustreert dit verhaal over gemeenten in Vlaanderen?",
-      "options": [
-        "Dat ze overvloedige middelen hebben voor gezondheidszorg",
-        "Dat ze kampen met een tekort aan medische voorzieningen",
-        "Dat ze prioriteit geven aan kunst boven gezondheid",
-        "Dat ze snel handelen bij noodsituaties"
-      ],
-      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Tandarts Julie Parmentier zal pas over 3 jaar nieuwe patiënten kunnen accepteren.",
-      "isTrue": false
-    },
-    {
-      "statement": "De situatie in Kluisbergen weerspiegelt een breder probleem in Vlaamse gemeenten.",
+      "statement": "Minister Verlinden was op werkbezoek in de Verenigde Arabische Emiraten tijdens deze gebeurtenis.",
       "isTrue": true
     },
     {
-      "statement": "Julie Parmentier's praktijk is gevestigd in een stad met veel tandartsen.",
+      "statement": "Omar Govers is een Belgische drugsbaron die nog nooit is gearresteerd.",
       "isTrue": false
+    },
+    {
+      "statement": "De arrestatie vond plaats met het oog op uitlevering, niet voor directe berechting in Dubai.",
+      "isTrue": true
     }
   ]
 }

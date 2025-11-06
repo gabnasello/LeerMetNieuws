@@ -1,74 +1,105 @@
 {
-  "id": 25,
+  "id": 27,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Antoon Devogelaere, 98 jaar",
+  "title": "Etienne Wijnant, 89 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Antoon Devogelaere, 98 jaar",
-    "summary": "Hij is geboren in 1927 en overleden op 31 oktober 2025."
+    "title": "Etienne Wijnant, 89 jaar",
+    "summary": "Hij is geboren in 1936 en overleden op 03/11/2025."
   },
   "vocabulary": {
     "words": [
       {
+        "word": "Wijnant",
+        "definition": "Een achternaam, een familienaam",
+        "sentence": "Etienne ___ is zijn volledige naam.",
+        "answer": "Wijnant"
+      },
+      {
         "word": "geboren",
-        "definition": "geboren zijn betekent dat je op een bepaalde dag bent geboren",
-        "sentence": "Zijn moeder werd ___ in 1920.",
+        "definition": "Het begin van het leven, wanneer iemand wordt geboren",
+        "sentence": "Hij is ___ in 1936.",
         "answer": "geboren"
       },
       {
         "word": "overleden",
-        "definition": "overleden zijn betekent dat je niet meer leeft",
-        "sentence": "Hij is ___ op 31 oktober 2025.",
+        "definition": "Niet meer leven, gestorven zijn",
+        "sentence": "Hij is ___ op 03/11/2025.",
         "answer": "overleden"
+      },
+      {
+        "word": "Etienne",
+        "definition": "Een voornaam, een naam van een persoon",
+        "sentence": "___ Wijnant is de volledige naam van de man.",
+        "answer": "Etienne"
+      },
+      {
+        "word": "2025",
+        "definition": "Het jaartal, tweeduizend vijfentwintig",
+        "sentence": "Hij overleed in het jaar ___.",
+        "answer": "2025"
       }
     ],
-    "fillInBlanks": []
+    "fillInBlanks": [
+      {
+        "sentence": "___ Wijnant is de volledige naam van de man.",
+        "answer": "Etienne"
+      },
+      {
+        "sentence": "Etienne ___ is zijn volledige naam.",
+        "answer": "Wijnant"
+      },
+      {
+        "sentence": "Hij is ___ in 1936.",
+        "answer": "geboren"
+      }
+    ]
   },
   "multipleChoice": [
     {
-      "question": "Wanneer is Antoon Devogelaere geboren?",
+      "question": "In welk jaar werd Etienne Wijnant geboren?",
       "options": [
-        "In 1927",
-        "In 1930",
-        "In 1925",
-        "In 1928"
+        "1936",
+        "1945",
+        "1950",
+        "1960"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Hoe oud was Antoon Devogelaere toen hij overleed?",
+      "question": "Hoe oud was Etienne Wijnant geworden?",
       "options": [
-        "98 jaar",
+        "89 jaar",
+        "90 jaar",
         "100 jaar",
-        "95 jaar",
-        "102 jaar"
+        "80 jaar"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Op welke datum overleed Antoon Devogelaere?",
+      "question": "Op welke datum overleed Etienne Wijnant?",
       "options": [
-        "31 oktober 2025",
-        "31 oktober 2024",
-        "1 november 2025",
-        "30 oktober 2025"
+        "03/11/2025",
+        "04/11/2025",
+        "03/12/2025",
+        "05/11/2024"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Antoon Devogelaere is geboren in 1927.",
+      "statement": "Etienne Wijnant werd geboren in 1936.",
       "isTrue": true
     },
     {
-      "statement": "Antoon Devogelaere overleed in 2020.",
+      "statement": "Etienne Wijnant overleed in 2024.",
       "isTrue": false
     },
     {
-      "statement": "Antoon Devogelaere werd 98 jaar oud.",
+      "statement": "Etienne Wijnant werd 89 jaar oud.",
       "isTrue": true
     }
   ]

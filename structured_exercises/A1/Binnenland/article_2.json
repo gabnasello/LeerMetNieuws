@@ -1,106 +1,106 @@
 {
-  "id": 24,
+  "id": 26,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Antoon Devogelaere, 98 jaar",
+  "title": "Etienne Wijnant, 89 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Antoon Devogelaere, 98 jaar",
-    "summary": "Hij is geboren in 1927. Hij is overleden op 31 oktober 2025."
+    "title": "Etienne Wijnant, 89 jaar",
+    "summary": "Hij is geboren in 1936. Hij is overleden op 3 november 2025."
   },
   "vocabulary": {
     "words": [
       {
         "word": "Hij",
         "definition": "verwijst naar een man",
-        "sentence": "___ is geboren in 1927.",
+        "sentence": "___ is overleden op 3 november 2025.",
         "answer": "Hij"
       },
       {
-        "word": "overleden",
-        "definition": "niet meer leven",
-        "sentence": "Hij is ___ op 31 oktober 2025.",
-        "answer": "overleden"
+        "word": "Hij",
+        "definition": "verwijst naar een man",
+        "sentence": "___ is geboren in 1936.",
+        "answer": "Hij"
       },
       {
-        "word": "in",
-        "definition": "tijd of plaats",
-        "sentence": "Hij is geboren ___ 1927.",
-        "answer": "in"
+        "word": "op",
+        "definition": "geeft een dag of datum aan",
+        "sentence": "Hij is overleden ___ 3 november 2025.",
+        "answer": "op"
       },
       {
-        "word": "1927",
-        "definition": "een jaartal",
-        "sentence": "Hij is geboren in ___.",
-        "answer": "1927"
+        "word": "is",
+        "definition": "vorm van 'zijn', geeft een toestand aan",
+        "sentence": "Hij ___ 89 jaar oud.",
+        "answer": "is"
       },
       {
-        "word": "geboren",
-        "definition": "het begin van het leven",
-        "sentence": "Hij is ___ in 1927.",
-        "answer": "geboren"
+        "word": "is",
+        "definition": "vorm van 'zijn', geeft een toestand aan",
+        "sentence": "Hij ___ 89 jaar oud.",
+        "answer": "is"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is ___ op 31 oktober 2025.",
-        "answer": "overleden"
+        "sentence": "Hij is overleden ___ 3 november 2025.",
+        "answer": "op"
       },
       {
-        "sentence": "Hij is geboren ___ 1927.",
-        "answer": "in"
+        "sentence": "___ is overleden op 3 november 2025.",
+        "answer": "Hij"
       },
       {
-        "sentence": "Hij is geboren in ___.",
-        "answer": "1927"
+        "sentence": "___ is geboren in 1936.",
+        "answer": "Hij"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wanneer is Antoon Devogelaere geboren?",
+      "question": "Wanneer is Etienne Wijnant geboren?",
       "options": [
-        "In 1927",
-        "In 1930",
-        "In 1920",
-        "In 1945"
+        "In 1936",
+        "In 1989",
+        "In 2000",
+        "In 2025"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is de geboortedatum van Antoon?",
+      "question": "Hoe oud is Etienne Wijnant?",
       "options": [
-        "31 oktober 1927",
-        "1 januari 1927",
-        "31 oktober 1920",
-        "31 oktober 1925"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Hoe oud was Antoon toen hij overleed?",
-      "options": [
-        "98 jaar",
+        "89 jaar",
+        "90 jaar",
         "100 jaar",
-        "95 jaar",
-        "102 jaar"
+        "85 jaar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wanneer is Etienne Wijnant overleden?",
+      "options": [
+        "3 november 2025",
+        "3 maart 2024",
+        "5 mei 2025",
+        "1 januari 2023"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Antoon Devogelaere is geboren in 1927.",
+      "statement": "Etienne Wijnant is 89 jaar.",
       "isTrue": true
     },
     {
-      "statement": "Antoon overleed in 2025.",
-      "isTrue": true
-    },
-    {
-      "statement": "Antoon was 100 jaar oud toen hij overleed.",
+      "statement": "Etienne Wijnant is geboren in 2025.",
       "isTrue": false
+    },
+    {
+      "statement": "Etienne Wijnant is overleden op 3 november 2025.",
+      "isTrue": true
     }
   ]
 }

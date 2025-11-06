@@ -1,106 +1,100 @@
 {
-  "id": 21,
+  "id": 22,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Organisaties verliezen subsidies voor onderwijs",
+  "title": "Belgische drugsbaron opgepakt in Dubai",
   "topicNumber": 1,
   "article": {
-    "title": "Organisaties verliezen subsidies voor onderwijs",
-    "summary": "Twee organisaties die armoede in het onderwijs bestrijden, verliezen hun subsidies van de Vlaamse overheid. “Dit zet veel kinderen in de kou”, zegt Bert Smits van Stichting Robin. “De overheid snijdt in kennis en in innovatief armoedebeleid.”"
+    "title": "Belgische drugsbaron opgepakt in Dubai",
+    "summary": "Een Belgische drugsbaron wordt in Dubai gearresteerd. Minister van Justitie Verlinden is op dat moment in de Verenigde Arabische Emiraten voor werk. De politie van het land pakt de man. De man heet Omar Govers en is 35 jaar oud. Er wordt gewerkt aan zijn uitlevering."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "onderwijs",
-        "definition": "lesgeven en leren op school",
-        "sentence": "Kinderen hebben recht op goed ___.",
-        "answer": "onderwijs"
+        "word": "drugsbaron",
+        "definition": "een persoon die handelt in verboden drugs",
+        "sentence": "De politie arresteerde een beruchte ___ tijdens een inval.",
+        "answer": "drugsbaron"
       },
       {
-        "word": "subsidies",
-        "definition": "geld van de overheid voor een doel",
-        "sentence": "De organisaties krijgen geen ___ meer.",
-        "answer": "subsidies"
+        "word": "opgepakt",
+        "definition": "gearresteerd, door de politie meegenomen",
+        "sentence": "De politie heeft de verdachte ___ na een lange zoektocht.",
+        "answer": "opgepakt"
       },
       {
-        "word": "organisatie",
-        "definition": "een groep die samenwerkt",
-        "sentence": "De ___ helpt kinderen in nood.",
-        "answer": "organisatie"
+        "word": "Belgische",
+        "definition": "iemand of iets dat uit België komt",
+        "sentence": "De ___ atleet won goud op de Olympische Spelen.",
+        "answer": "Belgische"
       },
       {
-        "word": "organisaties",
-        "definition": "groepen mensen die samenwerken",
-        "sentence": "De ___ werken aan onderwijs voor kinderen.",
-        "answer": "organisaties"
-      },
-      {
-        "word": "overheid",
-        "definition": "de organisatie die een land bestuurt",
-        "sentence": "De ___ geeft geld voor onderwijs.",
-        "answer": "overheid"
+        "word": "uitlevering",
+        "definition": "het overdragen van een persoon aan een ander land voor berechting",
+        "sentence": "De verdachte ondergaat een ___ naar de Verenigde Staten.",
+        "answer": "uitlevering"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De organisaties krijgen geen ___ meer.",
-        "answer": "subsidies"
+        "sentence": "De verdachte ondergaat een ___ naar de Verenigde Staten.",
+        "answer": "uitlevering"
       },
       {
-        "sentence": "De ___ geeft geld voor onderwijs.",
-        "answer": "overheid"
+        "sentence": "De ___ atleet won goud op de Olympische Spelen.",
+        "answer": "Belgische"
       },
       {
-        "sentence": "De ___ helpt kinderen in nood.",
-        "answer": "organisatie"
+        "sentence": "De politie heeft de verdachte ___ na een lange zoektocht.",
+        "answer": "opgepakt"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom verliezen de organisaties hun subsidies?",
+      "question": "Waar werd Omar Govers gearresteerd?",
       "options": [
-        "Ze werken niet hard genoeg",
-        "De overheid heeft minder geld",
-        "Ze helpen geen kinderen meer",
-        "Ze zijn verhuisd"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is het gevolg voor de kinderen?",
-      "options": [
-        "Ze krijgen geen les meer",
-        "Ze verliezen hun speelgoed",
-        "Ze krijgen geen hulp meer tegen armoede",
-        "Ze gaan naar een andere school"
+        "In een hotel in Brussel",
+        "In een politiebureau in Antwerpen",
+        "In een gevangenis in Dubai",
+        "Op straat in Dubai"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wie is Bert Smits?",
+      "question": "Wat is de rol van minister Verlinden in deze zaak?",
       "options": [
-        "Een leraar",
-        "Een kind",
-        "Iemand van Stichting Robin",
-        "Iemand van de overheid"
+        "Ze is de drugsbaron",
+        "Ze leidt het onderzoek in Dubai",
+        "Ze is op werkbezoek in de Verenigde Arabische Emiraten",
+        "Ze arresteerde Omar Gapers persoonlijk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is 'uitlevering' in deze context?",
+      "options": [
+        "Het uitleveren van een cadeau",
+        "Het vrijgeven van een gevangene",
+        "Het overdragen van een persoon aan een ander land voor berechting",
+        "Het ophalen van iemand van het vliegveld"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De overheid geeft subsidies aan organisaties.",
-      "isTrue": true
-    },
-    {
-      "statement": "Kinderen hebben geen last van het verlies van subsidies.",
+      "statement": "Omar Gavers is de volledige naam van de drugsbaron.",
       "isTrue": false
     },
     {
-      "statement": "Stichting Robin is een organisatie die helpt.",
+      "statement": "Minister Verlinden was in de Verenigde Arabische Emiraten voor werk.",
       "isTrue": true
+    },
+    {
+      "statement": "Omar Govers werd opgepakt in België.",
+      "isTrue": false
     }
   ]
 }

@@ -3,97 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Rebellen blokkeren brandstof voor hoofdstad Mali",
+  "title": "Soedan-experte: “Het is te laat om de rebellen in Darfour te stoppen: dit is een losgeslagen moordmachine”",
   "topicNumber": 1,
   "article": {
-    "title": "Rebellen blokkeren brandstof voor hoofdstad Mali",
-    "summary": "Rebellen in Mali blokkeren de brandstof voor de hoofdstad. Daardoor kan de stad niet goed functioneren. De rebellen hopen dat de bevolking in opstand komt tegen het leger."
+    "title": "Soedan-experte: “Het is te laat om de rebellen in Darfour te stoppen: dit is een losgeslagen moordmachine”",
+    "summary": "De gerenommeerde Soedan-experte Hager Ali zegt dat het genocidale geweld in Al-Fasher de afgelopen dagen nog is toegenomen. “De logica van de rebellen is dat iedereen die zich nu nog in Al-Fasher bevindt een vijand is. Iedereen is een doelwit: mannen, vrouwen, kinderen.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "blokkeren",
-        "definition": "iets tegenhouden of stoppen",
-        "sentence": "De rebellen willen de toevoer van brandstof ___ om de stad onder druk te zetten.",
-        "answer": "blokkeren"
+        "word": "experte",
+        "definition": "een deskundige, iemand die veel weet over een onderwerp",
+        "sentence": "De ___ Hager Ali spreekt over de situatie in Soedan.",
+        "answer": "experte"
       },
       {
-        "word": "brandstof",
-        "definition": "wat je nodig hebt om machines of voertuigen te laten werken",
-        "sentence": "Zonder ___ kunnen auto's en generatoren niet werken.",
-        "answer": "brandstof"
+        "word": "experte",
+        "definition": "een deskundige, iemand die veel weet over een onderwerp",
+        "sentence": "De ___ geeft uitleg over de situatie in Soedan.",
+        "answer": "experte"
       },
       {
-        "word": "leger",
-        "definition": "een groep mensen die een land verdedigt en onder controle houdt",
-        "sentence": "Het ___ van Mali probeert de rebellen te stoppen.",
-        "answer": "leger"
+        "word": "genocidale",
+        "definition": "gerelateerd aan genocide, het opzettelijk doden van een hele groep mensen",
+        "sentence": "Het geweld in Al-Fasher is ___ en wreed.",
+        "answer": "genocidale"
       },
       {
-        "word": "opstand",
-        "definition": "een situatie waarin veel mensen tegen de macht in actie komen",
-        "sentence": "De rebellen hopen dat er een ___ uitbreekt tegen het leger.",
-        "answer": "opstand"
+        "word": "vijand",
+        "definition": "iemand die tegen je is en kwaad wil doen",
+        "sentence": "Iedereen in Al-Fasher wordt gezien als een ___ door de rebellen.",
+        "answer": "vijand"
+      },
+      {
+        "word": "logica",
+        "definition": "de manier van denken of redeneren",
+        "sentence": "De ___ van de rebellen is dat iedereen een vijand is.",
+        "answer": "logica"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De rebellen hopen dat er een ___ uitbreekt tegen het leger.",
-        "answer": "opstand"
+        "sentence": "Het geweld in Al-Fasher is ___ en wreed.",
+        "answer": "genocidale"
       },
       {
-        "sentence": "Zonder ___ kunnen auto's en generatoren niet werken.",
-        "answer": "brandstof"
+        "sentence": "Iedereen in Al-Fasher wordt gezien als een ___ door de rebellen.",
+        "answer": "vijand"
       },
       {
-        "sentence": "De rebellen willen de toevoer van brandstof ___ om de stad onder druk te zetten.",
-        "answer": "blokkeren"
+        "sentence": "De ___ geeft uitleg over de situatie in Soedan.",
+        "answer": "experte"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom blokkeren de rebellen de brandstof?",
+      "question": "Waarover spreekt de Soedan-experte Hager Ali?",
       "options": [
-        "Om de economie te versterken",
-        "Om de bevolking aan hun kant te krijgen",
-        "Om de stad te helpen groeien",
-        "Om de macht van het leger te vergroten"
+        "Over de politiek in Nederland",
+        "Over het geweld in Al-Fasher, Soedan",
+        "Over de geschiedenis van Frankrijk",
+        "Over de economie van Japan"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het gevolg van de brandstofblokkade?",
+      "question": "Wat is de houding van de rebellen in Darfour?",
       "options": [
-        "De stad wordt sterker en rijker",
-        "De stad kan niet normaal functioneren",
-        "De bevolking is blij en tevreden",
-        "Het leger krijgt meer steun van de bevolking"
+        "Ze willen vrede sluiten",
+        "Ze zijn een losgeslagen moordmachine",
+        "Ze geven veel geld aan de bevolking",
+        "Ze werken samen met andere landen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de hoop van de rebellen?",
+      "question": "Wie wordt getroffen door het geweld in Al-Fasher?",
       "options": [
-        "Dat de bevolking de rebellen gaat helpen",
-        "Dat het leger de rebellen verslaat",
-        "Dat de stad nog meer brandstof krijgt",
-        "Dat de bevolking de rebellen gaat haten"
+        "Alleen soldaten",
+        "Alleen mannen",
+        "Alleen kinderen",
+        "Iedereen: mannen, vrouwen, kinderen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "De rebunnen blokkeren de brandstof omdat ze de stad willen helpen.",
+      "statement": "De rebellen in Darfour zijn makkelijk te stoppen.",
       "isTrue": false
     },
     {
-      "statement": "De rebellen hopen dat de bevolking in opstand komt tegen het leger.",
+      "statement": "Het geweld in Al-Fasher is de afgelopen dagen toegenomen.",
       "isTrue": true
     },
     {
-      "statement": "Het leger van Mali ondersteunt de rebellen bij hun acties.",
+      "statement": "Hager Ali is een Soedan-experte die zegt dat alleen mannen worden aangevallen.",
       "isTrue": false
     }
   ]

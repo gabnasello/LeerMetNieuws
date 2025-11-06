@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
+  "title": "Zohran Mamdani, de nieuwe burgemeester van New York, heeft grote plannen, maar een al even grote vijand",
   "topicNumber": 1,
   "article": {
-    "title": "Rome rouwt om verongelukte Roemeense bouwvakker, dit jaar al 777 doden op de werkvloer in Italië",
-    "summary": "Na een reddingsactie van ruim elf uur werd de Roemeense bouwvakker Octav Stroici (66) bevrijd uit een ingestorte middeleeuwse toren in hartje Rome. Kort daarna overleed hij. Het drama brengt de talrijke dodelijke arbeidsongevallen in Italië opnieuw onder de aandacht."
+    "title": "Zohran Mamdani, de nieuwe burgemeester van New York, heeft grote plannen, maar een al even grote vijand",
+    "summary": "Winnen is één ding, het waarmaken iets anders. Zohran Mamdani wordt een heel andere burgemeester van New York, maar staat voor één grote uitdaging: geld vinden voor zijn plannen, met een president die hem wil saboteren."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "drama",
-        "definition": "een ernstige of verdrietige gebeurtenis",
-        "sentence": "Het ___ in de mijn kostte veel levens.",
-        "answer": "drama"
+        "word": "winnen",
+        "definition": "iets halen wat je wil, zoals een wedstrijd of verkiezing",
+        "sentence": "Hij hoopt de verkiezing te ___.",
+        "answer": "winnen"
       },
       {
-        "word": "arbeidsongevallen",
-        "definition": "ongelukken die gebeuren op het werk",
-        "sentence": "De ___ zijn toegenomen het afgelopen jaar.",
-        "answer": "arbeidsonvallen"
+        "word": "geld",
+        "definition": "wat je gebruikt om te betalen voor dingen",
+        "sentence": "Hij heeft niet genoeg ___ om een nieuwe fiets te kopen.",
+        "answer": "geld"
       },
       {
-        "word": "Italië",
-        "definition": "een land in Europa",
-        "sentence": "___ is bekend om zijn lekker eten.",
-        "answer": "Italië"
+        "word": "plannen",
+        "definition": "dingen die je van plan bent te doen in de toekomst",
+        "sentence": "Hij heeft grote ___ voor de stad.",
+        "answer": "plannen"
       },
       {
-        "word": "toren",
-        "definition": "een hoog gebouw",
-        "sentence": "De oude ___ staat in het centrum van de stad.",
-        "answer": "toren"
+        "word": "vijand",
+        "definition": "iemand die tegen je is en je kwaad wil doen",
+        "sentence": "De president is zijn grote ___.",
+        "answer": "vijand"
       },
       {
-        "word": "Rome",
-        "definition": "de hoofdstad van Italië",
-        "sentence": "___ is een oude stad met veel geschiedenis.",
-        "answer": "Rome"
+        "word": "president",
+        "definition": "de leider van een land",
+        "sentence": "De ___ van Amerika wil hem niet helpen.",
+        "answer": "president"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De oude ___ staat in het centrum van de stad.",
-        "answer": "toren"
+        "sentence": "Hij heeft grote ___ voor de stad.",
+        "answer": "plannen"
       },
       {
-        "sentence": "___ is bekend om zijn lekker eten.",
-        "answer": "Italië"
+        "sentence": "Hij hoopt de verkiezing te ___.",
+        "answer": "winnen"
       },
       {
-        "sentence": "Het ___ in de mijn kostte veel levens.",
-        "answer": "drama"
+        "sentence": "De president is zijn grote ___.",
+        "answer": "vijand"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar vond het ongeluk plaats?",
+      "question": "Wat betekent 'winnen' in deze context?",
       "options": [
-        "In een park",
-        "Op een boerderij",
-        "In een middeleeuwse toren",
-        "In een winkelcentrum"
+        "verliezen",
+        "een prijs krijgen",
+        "een wedstrijd winnen",
+        "geen van bovenstaande"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is de hoofdstad van Italië?",
+      "question": "Waar staat 'geld' voor in de tekst?",
       "options": [
-        "Parijs",
-        "Rome",
-        "Londen",
-        "Berlijn"
+        "een soort eten",
+        "een soort geld",
+        "een soort machine",
+        "een soort muziek"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'verongelukken'?",
+      "question": "Waar gaat de tekst over?",
       "options": [
-        "Vallen en zich pijn doen",
-        "Omkomen bij een ongeluk",
-        "Verliezen in een wedstrijd",
-        "Iets verkeerds doen"
+        "Over een nieuwe auto",
+        "Over een nieuwe burgemeester",
+        "Over het weer",
+        "Over een vakantie"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De bouwvakker overleed tijdens de reddingsactie.",
-      "isTrue": false
-    },
-    {
-      "statement": "Rome is een stad in Italië.",
+      "statement": "Zohran Mamdani is de nieuwe burgemeester van New York.",
       "isTrue": true
     },
     {
-      "statement": "Er zijn dit jaar minder arbeidsongevallen in Italië.",
+      "statement": "De president van Amerika helpt Zohran Mamdani.",
       "isTrue": false
+    },
+    {
+      "statement": "Zohran Mamdani heeft grote plannen voor de stad.",
+      "isTrue": true
     }
   ]
 }
