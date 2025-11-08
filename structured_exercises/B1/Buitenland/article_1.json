@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Trump en het Hooggerechtshof",
+  "title": "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
   "topicNumber": 1,
   "article": {
-    "title": "Rechters over Trumps tarieven",
-    "summary": "Het Hooggerechtshof beslist over de tarieven van Donald Trump. De meeste rechters steunen Trump, maar drie conservatieve rechters zijn kritisch."
+    "title": "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
+    "summary": "In iedere race, in iedere staat kregen de Republikeinen dinsdag zware klappen. Het krachtige signaal van de kiezer plaatst hen voor een dilemma. Ze kunnen niet zonder Trump en ze kunnen niet mét hem."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "rechters",
-        "definition": "mensen die rechtspreken",
-        "sentence": "De ___ hebben een belangrijke taak.",
-        "answer": "rechters"
+        "word": "kunnen",
+        "definition": "in staat zijn om, kunnen",
+        "sentence": "Zij ___ goed zwemmen.",
+        "answer": "kunnen"
       },
       {
-        "word": "hof",
-        "definition": "een plaats waar recht wordt gesproken",
-        "sentence": "Het ___ spreekt recht over zaken.",
-        "answer": "hof"
+        "word": "dilemma",
+        "definition": "een moeilijke keuze tussen twee opties",
+        "sentence": "Ze stond voor een ___: blijven of vertrekken?",
+        "answer": "dilemma"
       },
       {
-        "word": "kritisch",
-        "definition": "niet zomaar alles aannemen, maar beoordelen",
-        "sentence": "Een ___ persoon stelt veel vragen.",
-        "answer": "kritisch"
+        "word": "staat",
+        "definition": "een gebied of gebiedsdeel met eigen bestuur, zoals in de VS",
+        "sentence": "Elke ___ heeft zijn eigen wetten.",
+        "answer": "staat"
       },
       {
-        "word": "Trump",
-        "definition": "familienaam van de voormalige president",
-        "sentence": "___ was president van de Verenigde Staten.",
-        "answer": "Trump"
+        "word": "klappen",
+        "definition": "geluiden van iets dat hard raakt, of een informele term voor problemen",
+        "sentence": "De auto kreeg een ___ bij de botsing.",
+        "answer": "klappen"
       },
       {
-        "word": "steunen",
-        "definition": "helpen of ondersteunen",
-        "sentence": "Vrienden ___ elkaar in moeilijke tijden.",
-        "answer": "steunen"
+        "word": "race",
+        "definition": "een wedstrijd of competitie",
+        "sentence": "De hardlopers namen deel aan de ___.",
+        "answer": "race"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Een ___ persoon stelt veel vragen.",
-        "answer": "kritisch"
+        "sentence": "De hardlopers namen deel aan de ___.",
+        "answer": "race"
       },
       {
-        "sentence": "___ was president van de Verenigde Staten.",
-        "answer": "Trump"
+        "sentence": "Zij ___ goed zwemmen.",
+        "answer": "kunnen"
       },
       {
-        "sentence": "Vrienden ___ elkaar in moeilijke tijden.",
-        "answer": "steunen"
+        "sentence": "Ze stond voor een ___: blijven of vertrekken?",
+        "answer": "dilemma"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat doet het Hooggerechtshof?",
+      "question": "Wat betekent 'krijgen' in de context van de tekst?",
       "options": [
-        "Zingt liedjes",
-        "Maakt nieuwe wetten",
-        "Beslist over belangrijke zaken",
-        "Organiseert feesten"
+        "iets ontvangen",
+        "iets kopen",
+        "iets breken",
+        "iets maken"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is een 'staat' in de politieke context?",
+      "options": [
+        "een land",
+        "een stad",
+        "een provincie",
+        "een regio"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Hoe reageerden de rechters op Trumps tarieven?",
+      "question": "Wat is het tegenovergestelde van 'kunnen'?",
       "options": [
-        "Ze waren het er allemaal mee eens",
-        "Sommige waren kritisch",
-        "Ze dansten van blijdschap",
-        "Ze vroegen om meer informatie"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is de rol van conservatieve rechters?",
-      "options": [
-        "Ze zijn er niet",
-        "Ze steunen alle veranderingen",
-        "Ze zijn voorzichtig en beoordelen alles",
-        "Ze zijn altijd tegen de regering"
+        "mogen",
+        "willen",
+        "niet kunnen",
+        "stoppen"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Alle rechters van het Hooggerechtshof steunden Trumps tarieven.",
-      "isTrue": false
-    },
-    {
-      "statement": "Enkele conservatieve rechters waren kritisch over de tarieven.",
+      "statement": "Trump is nog steeds een belangrijke figuur voor de Republikeinse partij.",
       "isTrue": true
     },
     {
-      "statement": "Het Hooggerechtshof beslist uiteindelijk over de tarieven.",
+      "statement": "De Republikeinen wonnen alle verkiezingen op dinsdag.",
+      "isTrue": false
+    },
+    {
+      "statement": "Een dilemma betekent dat je moet kiezen tussen twee slechte opties.",
       "isTrue": true
     }
   ]

@@ -3,72 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Supreme Court op weg om Trumps tarieven te verbieden",
+  "title": "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
   "topicNumber": 1,
   "article": {
-    "title": "Supreme Court op weg om Trumps tarieven te verbieden",
-    "summary": "Verklaart het Supreme Court Donald Trumps tarieven onwettig? Meestal steunen de hoge rechters Trump, maar in dit belangrijke dossier toonden ook drie conservatieve rechters zich woensdag uiterst kritisch en sceptisch."
+    "title": "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
+    "summary": "In iedere race, in iedere staat kregen de Republikeinen dinsdag zware klappen. Het krachtige signaal van de kiezer plaatst hen voor een dilemma. Ze kunnen niet zonder Trump en ze kunnen niet mét hem."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "op",
-        "definition": "in beweging of onderweg",
-        "sentence": "Hij is ___ weg naar huis.",
-        "answer": "op"
+        "word": "signaal",
+        "definition": "Een teken of indicatie van iets",
+        "sentence": "Het was een duidelijk ___ van de kiezers.",
+        "answer": "signaal"
       },
       {
-        "word": "om",
-        "definition": "met als doel of reden",
-        "sentence": "Hij ging naar de winkel ___ melk te kopen.",
-        "answer": "om"
+        "word": "niet",
+        "definition": "Gebruikt om ontkenning aan te duiden",
+        "sentence": "Ze kunnen ___ zonder hem.",
+        "answer": "niet"
+      },
+      {
+        "word": "klappen",
+        "definition": "Slagen of klappen, vaak figuurlijk gebruikt voor tegenslag",
+        "sentence": "Na de verkiezingen kregen ze harde ___.",
+        "answer": "klappen"
+      },
+      {
+        "word": "race",
+        "definition": "Een wedstrijd of competitie, vooral in een politieke context",
+        "sentence": "De politieke ___ was intens tijdens de verkiezingen.",
+        "answer": "race"
+      },
+      {
+        "word": "staat",
+        "definition": "Een politieke eenheid binnen een land, zoals in de Verenigde Staten",
+        "sentence": "Elke ___ heeft zijn eigen verkiezingsregels.",
+        "answer": "staat"
       }
     ],
-    "fillInBlanks": []
+    "fillInBlanks": [
+      {
+        "sentence": "Ze kunnen ___ zonder hem.",
+        "answer": "niet"
+      },
+      {
+        "sentence": "De politieke ___ was intens tijdens de verkiezingen.",
+        "answer": "race"
+      },
+      {
+        "sentence": "Elke ___ heeft zijn eigen verkiezingsregels.",
+        "answer": "staat"
+      }
+    ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het als de Supreme Court een beslissing 'terugwijst'?",
+      "question": "Wat betekent 'klappen' in deze context?",
       "options": [
-        "Het besluit volledig ongedaan maken",
-        "Het besluit voor onbepaalde tijd uitstellen",
-        "Het besluit bekrachtigen",
-        "Het besluit naar een lagere rechter sturen voor herziening"
-      ],
-      "correctAnswer": 4
-    },
-    {
-      "question": "Waarom waren rechters kritisch over Trumps tarieven?",
-      "options": [
-        "Omdat de tarieven te hoog waren",
-        "Omdat de tarieven ongrondwettelijk waren",
-        "Omdat de tarieven alleen voor bepaalde groepen golden",
-        "Omdat de tarieven niet werden nageleefd"
+        "Applaus",
+        "Tegenslag",
+        "Opstootje",
+        "Overwinning"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat impliceert de steun van rechters voor Trump?",
+      "question": "Wat wordt bedoeld met 'kunnen niet mét hem'?",
       "options": [
-        "Dat ze al zijn beslissingen steunen",
-        "Dat ze het oneens zijn met zijn beleid",
-        "Dat ze zijn autoriteit erkennen",
-        "Dat ze zijn voorstellen onderschrijven"
+        "Niet in zijn nabijheid kunnen zijn",
+        "Hem niet kunnen verstaan",
+        "Niet met hem kunnen samenwerken",
+        "Hij past niet in de groep"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is de hoofdgedachte van de samenvatting?",
+      "options": [
+        "Trump is onmisbaar",
+        "Republikeinen zijn verdeeld",
+        "Kiezers sturen een signaal",
+        "Trump is een last"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het Supreme Court heeft de bevoegdheid om presidentiële besluiten te beoordelen.",
-      "isTrue": true
-    },
-    {
-      "statement": "De conservatieve rechters steunden Trump in alle kwesties.",
+      "statement": "De Republikeinen wonnen overal op dinsdag.",
       "isTrue": false
     },
     {
-      "statement": "Sommige rechters toonden scepsis over de grondwettelijkheid van Trumps maatregelen.",
+      "statement": "Trump is zowel een voordeel als een nadeel voor de Republikeinen.",
+      "isTrue": true
+    },
+    {
+      "statement": "De kiezer heeft duidelijk gemaakt dat verandering nodig is.",
       "isTrue": true
     }
   ]

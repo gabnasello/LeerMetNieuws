@@ -3,104 +3,104 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Belgische man opgepakt in Dubai",
+  "title": "Patrick Brems, 64 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Belgische man opgepakt in Dubai",
-    "summary": "De politie heeft een man opgepakt. De man komt uit België. Hij wordt verdacht van drugshandel. De minister van Justitie was op bezoek in Dubai."
+    "title": "Patrick Brems, 64 jaar",
+    "summary": "Geboren in 1960, overleden op 04/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "opgepakt",
-        "definition": "gepakt of gevangen genomen door de politie",
-        "sentence": "De dief werd ___ en naar de gevangenis gebracht.",
-        "answer": "opgepakt"
+        "word": "Brems",
+        "definition": "Familienaam.",
+        "sentence": "De familie ___ heeft een huis.",
+        "answer": "Brems"
       },
       {
-        "word": "Dubai",
-        "definition": "een stad in het Midden-Oosten",
-        "sentence": "Veel toeristen gaan naar ___ voor vakantie.",
-        "answer": "Dubai"
+        "word": "Patrick",
+        "definition": "Een mannelijke naam.",
+        "sentence": "___ is een man.",
+        "answer": "Patrick"
       },
       {
-        "word": "politie",
-        "definition": "mensen die de wet handhaven",
-        "sentence": "De ___ houdt de stad veilig.",
-        "answer": "politie"
+        "word": "gebor",
+        "definition": "Niet meer leven.",
+        "sentence": "Hij is ___ in 2025.",
+        "answer": "overleden"
       },
       {
-        "word": "België",
-        "definition": "een land in Europa",
-        "sentence": "Hij komt uit ___ en spreekt Frans.",
-        "answer": "België"
+        "word": "11",
+        "definition": "De elfde maand van het jaar.",
+        "sentence": "Hij overleed op 04/___/2025.",
+        "answer": "11"
       },
       {
-        "word": "man",
-        "definition": "een volwassen persoon van het mannelijk geslacht",
-        "sentence": "De ___ woont alleen in een groot huis.",
-        "answer": "man"
+        "word": "04",
+        "definition": "De vierde dag van de maand.",
+        "sentence": "Hij overleed op ___ november.",
+        "answer": "04"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De dief werd ___ en naar de gevangenis gebracht.",
-        "answer": "opgepakt"
+        "sentence": "___ is een man.",
+        "answer": "Patrick"
       },
       {
-        "sentence": "Hij komt uit ___ en spreekt Frans.",
-        "answer": "België"
+        "sentence": "Hij is ___ in 2025.",
+        "answer": "overleden"
       },
       {
-        "sentence": "Veel toeristen gaan naar ___ voor vakantie.",
-        "answer": "Dubai"
+        "sentence": "Hij overleed op ___ november.",
+        "answer": "04"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar werd de man opgepakt?",
+      "question": "Wat is de geboortedatum van Patrick Brems?",
       "options": [
-        "In België",
-        "In Dubai",
-        "In Nederland",
-        "In Frankrijk"
+        "1960",
+        "1961",
+        "1962",
+        "1963"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "In welk jaar overleed Patrick Brems?",
+      "options": [
+        "2024",
+        "2025",
+        "2026",
+        "2027"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van de minister?",
+      "question": "Wat is de achternaam van Patrick?",
       "options": [
-        "Hij is een leraar",
-        "Hij is een arts",
-        "Hij is een politieagent",
-        "Hij is een belangrijk persoon in de regering"
-      ],
-      "correctAnswer": 4
-    },
-    {
-      "question": "Wat betekent 'opgepakt'?",
-      "options": [
-        "Vrijgelaten",
-        "Gepromoveerd",
-        "Gearresteerd door politie",
-        "Verhuisd naar een nieuwe stad"
+        "Jansen",
+        "Pieters",
+        "Brems",
+        "de Vries"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De man komt uit Nederland.",
-      "isTrue": false
-    },
-    {
-      "statement": "De man is opgepakt door de politie.",
+      "statement": "Patrick Brems is geboren in 1960.",
       "isTrue": true
     },
     {
-      "statement": "De minister werd ook opgepakt in Dubai.",
+      "statement": "Patrick overleed in 2024.",
       "isTrue": false
+    },
+    {
+      "statement": "Patrick zijn achternaam is Brems.",
+      "isTrue": true
     }
   ]
 }

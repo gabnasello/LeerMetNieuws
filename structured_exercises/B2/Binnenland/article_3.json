@@ -3,103 +3,91 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Belgische drugsbaron opgepakt in Dubai",
+  "title": "Patrick Brems, 64 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Belgische drugsbaron opgepakt in Dubai",
-    "summary": "Net terwijl minister van Justitie Verlinden op werkbezoek is aan de Verenigde Arabische Emiraten, heeft de politie van het land de voortvluchtige Belgische drugsbaron Omar Govers (35) gearresteerd met het oog op uitlevering."
+    "title": "Patrick Brems, 64 jaar",
+    "summary": "Geboren in 1960, overleden op 04/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "drugsbaron",
-        "definition": "een leider van een organisatie die handelt in verdovende middelen",
-        "sentence": "De ___ werd gearresteerd in Dubai.",
-        "answer": "drugsbaron"
+        "word": "geboren",
+        "definition": "Het begin van iemands leven; geboren worden.",
+        "sentence": "Hij is ___ in 1960.",
+        "answer": "geboren"
       },
       {
-        "word": "opgepakt",
-        "definition": "gearresteerd of gevangen genomen",
-        "sentence": "Hij werd ___ door de politie.",
-        "answer": "opgepakt"
+        "word": "overleden",
+        "definition": "Niet meer levend; gestorven zijn.",
+        "sentence": "Hij is ___ op 04/11/2025.",
+        "answer": "overleden"
       },
       {
-        "word": "minister",
-        "definition": "een persoon met een hoge positie in de regering",
-        "sentence": "De ___ van Justitie bezoekt het land.",
-        "answer": "minister"
-      },
-      {
-        "word": "Justitie",
-        "definition": "het ministerie dat gaat over rechtspraak",
-        "sentence": "Minister van ___ is verantwoordelijk voor rechtspraak.",
-        "answer": "Justitie"
-      },
-      {
-        "word": "werkbezoek",
-        "definition": "een officieel bezoek met een werkgerelateerd doel",
-        "sentence": "Tijdens het ___ besprak hij samenwerking.",
-        "answer": "werkbezoek"
+        "word": "jaar",
+        "definition": "Een periode van 365 dagen; 12 maanden.",
+        "sentence": "Hij was 64 ___ oud.",
+        "answer": "jaar"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Tijdens het ___ besprak hij samenwerking.",
-        "answer": "werkbezoek"
+        "sentence": "Hij is ___ op 04/11/2025.",
+        "answer": "overleden"
       },
       {
-        "sentence": "Hij werd ___ door de politie.",
-        "answer": "opgepakt"
+        "sentence": "Hij was 64 ___ oud.",
+        "answer": "jaar"
       },
       {
-        "sentence": "De ___ van Justitie bezoekt het land.",
-        "answer": "minister"
+        "sentence": "Hij is ___ in 1960.",
+        "answer": "geboren"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom was minister Verlinden in de Verenigde Arabische Emiraten?",
+      "question": "Wat betekent 'overleden'?",
       "options": [
-        "Om te vakantie vieren",
-        "Voor een officieel werkbezoek",
-        "Om een vriend te bezoeken",
-        "Voor medische behandeling"
+        "Nog in leven",
+        "Gestorven",
+        "Jong geboren",
+        "Heel oud"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de hoofdactiviteit van Omar Govers?",
+      "question": "Wat is een 'geboortedatum'?",
       "options": [
-        "Hij is een kunstenaar",
-        "Hij is een professionele atleet",
-        "Hij is een drugsbaron",
-        "Hij is een restauranteigenaar"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat gebeurt er met Omar Gavers nadat hij is gearresteerd?",
-      "options": [
-        "Hij wordt meteen vrijgelaten",
-        "Hij wordt uitgeleverd aan België",
-        "Hij krijgt een medaille",
-        "Hij wordt minister van Justitie"
+        "De dag dat je sterft",
+        "De dag dat je geboren wordt",
+        "De dag dat je trouwt",
+        "De dag dat je verhuist"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Hoe oud was Patrick Brems?",
+      "options": [
+        "64 jaar",
+        "100 jaar",
+        "50 jaar",
+        "75 jaar"
+      ],
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Omar Gavers is een Belgische drugsbaron.",
+      "statement": "Patrick Brems is overleden in 2025.",
       "isTrue": true
     },
     {
-      "statement": "Minister Verlinden was op vakantie in de Verenigde Arabische Emiraten.",
+      "statement": "Patrick Brems werd 65 jaar oud.",
       "isTrue": false
     },
     {
-      "statement": "Omar Gavers wordt uitgeleverd aan België.",
+      "statement": "Patrick Brems is geboren in 1960.",
       "isTrue": true
     }
   ]

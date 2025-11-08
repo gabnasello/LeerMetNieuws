@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Zohran Mamdani, de nieuwe burgemeester van New York, heeft grote plannen, maar een al even grote vijand",
+  "title": "Mamdani heeft getoond dat progressieven campagne kunnen voeren met dezelfde kunde als uiterst rechts",
   "topicNumber": 1,
   "article": {
-    "title": "Zohran Mamdani, de nieuwe burgemeester van New York, heeft grote plannen, maar een al even grote vijand",
-    "summary": "Winnen is één ding, het waarmaken iets anders. Zohran Mamdani wordt een heel andere burgemeester van New York, maar staat voor één grote uitdaging: geld vinden voor zijn plannen, met een president die hem wil saboteren."
+    "title": "Mamdani heeft getoond dat progressieven campagne kunnen voeren met dezelfde kunde als uiterst rechts",
+    "summary": "Links Europa is klaar om te leren uit de campagne van de succesvolle Amerikaanse socialist Zohran Mamdani, die burgemeester van New York wordt. Hij toont hoe een progressief kan winnen in het hol van de leeuw."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "winnen",
-        "definition": "iets of iemand verslaan in een wedstrijd of verkiezing",
-        "sentence": "Hij hoopte de wedstrijd te ___ met zijn team.",
-        "answer": "winnen"
+        "word": "kunde",
+        "definition": "Kennis en vaardigheid in een bepaald gebied",
+        "sentence": "Zijn technische ___ was indrukwekkend tijdens het project.",
+        "answer": "kunde"
       },
       {
-        "word": "geld",
-        "definition": "wat je gebruikt om te betalen voor iets, in de vorm van munten of briefjes",
-        "sentence": "Hij had niet genoeg ___ om de nieuwe fiets te kopen.",
-        "answer": "geld"
+        "word": "links",
+        "definition": "Met betrekking tot de politieke linkerzijde of progressieve ideeën",
+        "sentence": "De ___ partij wil meer geld voor onderwijs en gezondheidszorg.",
+        "answer": "links"
       },
       {
-        "word": "plannen",
-        "definition": "iets wat je van plan bent te doen in de toekomst",
-        "sentence": "Ze hadden grote ___ voor hun vakantie.",
-        "answer": "plannen"
+        "word": "uiterst",
+        "definition": "Zeer of in de hoogste mate",
+        "sentence": "De situatie was ___ gevaarlijk, maar ze bleven doorzetten.",
+        "answer": "uiterst"
       },
       {
-        "word": "vinden",
-        "definition": "iets of iemand ontdekken door te zoeken",
-        "sentence": "Ze konden de sleutel niet ___ in de rommelige kamer.",
-        "answer": "vinden"
+        "word": "Europa",
+        "definition": "Het continent ten westen van Azië en ten noorden van Afrika",
+        "sentence": "___ heeft een rijke geschiedenis en diverse culturen.",
+        "answer": "Europa"
       },
       {
-        "word": "zijn",
-        "definition": "bestaan of voorkomen",
-        "sentence": "De bloemen ___ geel en rood.",
-        "answer": "zijn"
+        "word": "leren",
+        "definition": "Kennis opdoen door studie of ervaring",
+        "sentence": "Ze willen ___ van elkaar om samen te groeien.",
+        "answer": "leren"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij hoopte de wedstrijd te ___ met zijn team.",
-        "answer": "winnen"
+        "sentence": "___ heeft een rijke geschiedenis en diverse culturen.",
+        "answer": "Europa"
       },
       {
-        "sentence": "Ze hadden grote ___ voor hun vakantie.",
-        "answer": "plannen"
+        "sentence": "Zijn technische ___ was indrukwekkend tijdens het project.",
+        "answer": "kunde"
       },
       {
-        "sentence": "Hij had niet genoeg ___ om de nieuwe fiets te kopen.",
-        "answer": "geld"
+        "sentence": "De ___ partij wil meer geld voor onderwijs en gezondheidszorg.",
+        "answer": "links"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het om iets 'waar te maken'?",
+      "question": "Waar verwijst 'het hol van de leeuw' symbolisch naar in de tekst?",
       "options": [
-        "Het echt laten gebeuren",
-        "Erover liegen",
-        "Het verbergen voor anderen",
-        "Het negeren"
+        "Een plaats van grote uitdaging of gevaar",
+        "Een rustige en veilige plek",
+        "Een onbelangrijke locatie",
+        "Een plek vol kansen en kansen"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waar staat 'Verenigde Staten' voor in deze context?",
+      "question": "Wat is de hoofdgedachte van de samenvatting?",
       "options": [
-        "Een land",
-        "Een sportteam",
-        "Een muziekband",
-        "Een stad"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is een 'vijand' in deze tekst?",
-      "options": [
-        "Iemand die je helpt",
-        "Iemand die je tegenwerkt",
-        "Iemand die je negeert",
-        "Iemand die je bewondert"
+        "Progressieven moeten niet leren van anderen",
+        "Links Europa kan leren van een succesvolle campagne in de VS",
+        "Europa moet zich isoleren van buitenlandse invloeden",
+        "Politieke campagnes zijn altijd hetzelfde wereldwijd"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Welk continent wordt genoemd in de samenvatting?",
+      "options": [
+        "Afrika",
+        "Azië",
+        "Europa",
+        "Zuid-Amerika"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Zohran Mamdani is de nieuwe burgemeester van New York.",
-      "isTrue": true
-    },
-    {
-      "statement": "De president van de Verenigde Staten helpt Mamdani met zijn plannen.",
+      "statement": "De tekst stelt dat links Europa niets kan leren van de Amerikaanse campagne.",
       "isTrue": false
     },
     {
-      "statement": "Mamdani heeft grote plannen voor New York.",
+      "statement": "Mamdani is een politicus die campagne voerde in New York.",
       "isTrue": true
+    },
+    {
+      "statement": "De auteur is van mening dat uiterst rechts superieur is aan progressieven.",
+      "isTrue": false
     }
   ]
 }

@@ -3,103 +3,91 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Godelieve De Meyer, 87 jaar",
+  "title": "Luc Versluig, 78 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Godelieve De Meyer, 87 jaar",
-    "summary": "Geboren in 1937, overleden op 01/11/2025."
+    "title": "Luc Versluig, 78 jaar",
+    "summary": "Hij is geboren in 1946 en overleden op 02/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "1937",
-        "definition": "Het jaar negentienhonderdzevenendertig.",
-        "sentence": "De kerk werd gebouwd in ___, vlak na de oorlog.",
-        "answer": "1937"
-      },
-      {
-        "word": "De Meyer",
-        "definition": "De familienaam van de persoon.",
-        "sentence": "De familie ___ woonde al generaties lang in dezelfde straat.",
-        "answer": "De Meyer"
-      },
-      {
-        "word": "2025",
-        "definition": "Het jaar tweeduizend vijfentwintig.",
-        "sentence": "Ze verwachten dat het gebouw klaar is in ___.",
-        "answer": "2025"
-      },
-      {
-        "word": "Godelieve",
-        "definition": "Een vrouwelijke voornaam, van oorsprong een heiligennaam.",
-        "sentence": "___ De Meyer was een bekende figuur in haar dorp.",
-        "answer": "Godelieve"
-      },
-      {
         "word": "geboren",
-        "definition": "Het begin van iemands leven; wanneer iemand ter wereld komt.",
-        "sentence": "Zij werd ___ in het jaar 1937.",
+        "definition": "het moment dat iemand ter wereld komt",
+        "sentence": "Zijn moeder ___ hem in 1946.",
         "answer": "geboren"
+      },
+      {
+        "word": "overleden",
+        "definition": "niet meer in leven zijn",
+        "sentence": "Hij is ___ op 2 november 2025.",
+        "answer": "overleden"
+      },
+      {
+        "word": "jaar",
+        "definition": "een periode van 365 dagen",
+        "sentence": "Hij werd 78 ___ oud.",
+        "answer": "jaar"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Zij werd ___ in het jaar 1937.",
+        "sentence": "Hij werd 78 ___ oud.",
+        "answer": "jaar"
+      },
+      {
+        "sentence": "Zijn moeder ___ hem in 1946.",
         "answer": "geboren"
       },
       {
-        "sentence": "Ze verwachten dat het gebouw klaar is in ___.",
-        "answer": "2025"
-      },
-      {
-        "sentence": "De kerk werd gebouwd in ___, vlak na de oorlog.",
-        "answer": "1937"
+        "sentence": "Hij is ___ op 2 november 2025.",
+        "answer": "overleden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Godelieve De Meyer geboren?",
+      "question": "In welk jaar is Luc Versluig geboren?",
       "options": [
-        "1937",
-        "1945",
+        "1940",
+        "1946",
         "1950",
-        "1960"
+        "1956"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Op welke datum is Godelieve De Meyer overleden?",
+      "question": "Hoe oud was Luc Versluig toen hij overleed?",
+      "options": [
+        "75 jaar",
+        "78 jaar",
+        "80 jaar",
+        "85 jaar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Op welke datum overleed Luc Versluig?",
       "options": [
         "1 november 2025",
-        "11 januari 2025",
-        "1 januari 2024",
-        "11 november 2024"
+        "2 november 2025",
+        "3 november 2025",
+        "4 november 2025"
       ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat was de leeftijd van Godelieve De Meyer bij haar overlijden?",
-      "options": [
-        "87 jaar",
-        "90 jaar",
-        "85 jaar",
-        "80 jaar"
-      ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Godelieve De Meyer is geboren in 1937.",
+      "statement": "Luc Versluig is geboren in 1946.",
       "isTrue": true
     },
     {
-      "statement": "Godelieve De Meyer overleed in het jaar 2025.",
+      "statement": "Luc Versluig overleed op 2 november 2025.",
       "isTrue": true
     },
     {
-      "statement": "Godelieve De Meyer was 100 jaar oud bij haar overlijden.",
+      "statement": "Luc Versluig was 80 jaar oud toen hij overleed.",
       "isTrue": false
     }
   ]

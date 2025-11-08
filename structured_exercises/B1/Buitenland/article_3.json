@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Soedan-experte: “Het is te laat om de rebellen in Darfour te stoppen: dit is een losgeslagen moordmachine”",
+  "title": "Abu Dhabi levert wapens voor een genocide en zijn westerse bondgenoten zwijgen",
   "topicNumber": 1,
   "article": {
-    "title": "Soedan-experte: “Het is te laat om de rebellen in Darfour te stoppen: dit is een losgeslagen moordmachine”",
-    "summary": "De gerenommeerde Soedan-experte Hager Ali zegt dat het genocidale geweld in Al-Fasher de afgelopen dagen nog is toegenomen. “De logica van de rebellen is dat iedereen die zich nu nog in Al-Fasher bevindt een vijand is. Iedereen is een doelwit: mannen, vrouwen, kinderen.”"
+    "title": "Abu Dhabi levert wapens voor een genocide en zijn westerse bondgenoten zwijgen",
+    "summary": "In ruil voor goud leveren de Verenigde Arabische Emiraten de wapens waarmee de Rapid Support Forces in Noord-Darfour een genocidale massamoord aanrichten. Toch wijst niet één wereldleider de sjeiks van Abu Dhabi terecht."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "vijand",
-        "definition": "iemand die tegen je is",
-        "sentence": "Iedereen wordt gezien als een ___.",
-        "answer": "vijand"
+        "word": "terecht",
+        "definition": "op de juiste manier, of met een goede reden",
+        "sentence": "Hij kreeg een boete en dat was helemaal ___.",
+        "answer": "terecht"
       },
       {
-        "word": "experte",
-        "definition": "iemand die veel weet over een onderwerp",
-        "sentence": "De ___ gaf uitleg over de situatie.",
-        "answer": "experte"
+        "word": "levert",
+        "definition": "geeft of verstrekt iets",
+        "sentence": "De supermarkt ___ voedsel en andere producten.",
+        "answer": "levert"
       },
       {
-        "word": "rebellen",
-        "definition": "mensen die vechten tegen de regering",
-        "sentence": "De ___ willen de stad innemen.",
-        "answer": "rebellen"
+        "word": "zwijgen",
+        "definition": "geen geluid maken, niet praten",
+        "sentence": "Wanneer de leraar boos is, moet de klas ___ en luisteren.",
+        "answer": "zwijgen"
       },
       {
-        "word": "doelwit",
-        "definition": "iets of iemand waarop wordt gericht",
-        "sentence": "Iedereen is een ___ van de rebellen.",
-        "answer": "doelwit"
+        "word": "goud",
+        "definition": "een heel waardevol, glimmend metaal",
+        "sentence": "Sieraden van ___ zijn vaak heel duur.",
+        "answer": "goud"
       },
       {
-        "word": "stoppen",
-        "definition": "ergens mee ophouden",
-        "sentence": "Het is te laat om de rebellen te ___.",
-        "answer": "stoppen"
+        "word": "sjeiks",
+        "definition": "een soort leider of belangrijk persoon in sommige Arabische landen",
+        "sentence": "De ___ van dat land beslisten over de nieuwe wet.",
+        "answer": "sjeiks"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het is te laat om de rebellen te ___.",
-        "answer": "stoppen"
+        "sentence": "De supermarkt ___ voedsel en andere producten.",
+        "answer": "levert"
       },
       {
-        "sentence": "Iedereen is een ___ van de rebellen.",
-        "answer": "doelwit"
+        "sentence": "Wanneer de leraar boos is, moet de klas ___ en luisteren.",
+        "answer": "zwijgen"
       },
       {
-        "sentence": "De ___ gaf uitleg over de situatie.",
-        "answer": "experte"
+        "sentence": "De ___ van dat land beslisten over de nieuwe wet.",
+        "answer": "sjeiks"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'genocidaal' in deze context?",
+      "question": "Wat betekent 'levert' in deze context?",
       "options": [
-        "Vriendelijk",
-        "Vredelievend",
-        "Vernietigend",
-        "Opbouwend"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Waar is Al-Fasher?",
-      "options": [
-        "Een stad in Soedan",
-        "Een stad in Nederland",
-        "Een stad in Amerika",
-        "Een stad in Azië"
+        "geeft of verstrekt",
+        "verbergt of verstopt",
+        "verkoopt of ruilt",
+        "verwacht of plant"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van de experte?",
+      "question": "Waarom leveren de Verenigde Arabische Emiraten wapens aan de Rapid Support Forces?",
       "options": [
-        "Ze vecht mee",
-        "Ze geeft informatie",
-        "Ze is de leider",
-        "Ze is een slachtoffer"
+        "Omdat ze daarvoor goud krijgen",
+        "Omdat ze dezelfde religie hebben",
+        "Omdat ze een gezamenlijke vijand hebben",
+        "Omdat ze een verdrag hebben ondertekend"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is de houding van wereldleiders tegenover de sjeiks van Abu Dhabi?",
+      "options": [
+        "Ze steunen hun acties openlijk",
+        "Ze negeren de situatie volledig",
+        "Ze zeggen niets tegen de sjeiks",
+        "Ze werken samen voor meer macht"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De rebellen vechten tegen de regering.",
+      "statement": "De Verenigde Arabische Emiraten leveren wapens in ruil voor goud.",
       "isTrue": true
     },
     {
-      "statement": "Al-Fasher is een stad in Nederland.",
+      "statement": "Alle wereldleiders spreken de sjeiks van Abu Dhabi aan over hun daden.",
       "isTrue": false
     },
     {
-      "statement": "Hager Ali is een Soedan-experte.",
+      "statement": "De Rapid Support Forces voeren een massamoord uit in Noord-Darfour.",
       "isTrue": true
     }
   ]

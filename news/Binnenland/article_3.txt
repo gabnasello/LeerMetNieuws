@@ -1,15 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-11-06 04:31 UCT
+Nieuwsupdate: 2025-11-08 04:27 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Belgische drugsbaron opgepakt in Dubai
-Link: https://www.standaard.be/binnenland/belgische-drugsbaron-opgepakt-in-dubai/102888425.html
-Datum: Wed, 05 Nov 2025 22:59:00 GMT
-Samenvatting: Net terwijl minister van Justitie Verlinden op werkbezoek is aan de Verenigde Arabische Emiraten, heeft de politie van het land de voortvluchtige Belgische drugsbaron Omar Govers (35) gearresteerd met het oog op uitlevering.
+Titel: Patrick Brems, 64 jaar
+Link: https://www.standaard.be/binnenland/inmemoriam/patrick-brems-64-jaar/103556923.html
+Datum: Sat, 08 Nov 2025 04:14:17 GMT
+Samenvatting: Geboren in 1960, overleden op 04/11/2025.
 Auteur: Geen auteur
-Categorie: Binnenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/vgc6r5-cue-55085590-20250411204318.jpeg/alternates/BASE_SIXTEEN_NINE/cue-55085590_20250411204318.jpeg
-Premium: true
+Categorie: Inmemoriam
+Afbeelding: https://prod-img.standaard.be/public/binnenland/inmemoriam/j21dus-article-gate-img-607506-ds-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_607506-ds-inmemoriam_0
+Premium: false
 ------------------------------------------------------------

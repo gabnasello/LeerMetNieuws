@@ -3,98 +3,92 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Belgische drugsbaron opgepakt in Dubai",
+  "title": "Patrick Brems, 64 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Belgische drugsbaron opgepakt in Dubai",
-    "summary": "Een Belgische drugsbaron wordt in Dubai gearresteerd. Minister van Justitie Verlinden is op dat moment in de Verenigde Arabische Emiraten voor werk. De politie van het land pakt de man. De man heet Omar Govers en is 35 jaar oud. Er wordt gewerkt aan zijn uitlevering."
+    "title": "Patrick Brems, 64 jaar",
+    "summary": "Geboren in 1960, overleden op 04/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "drugsbaron",
-        "definition": "een persoon die handelt in verboden drugs",
-        "sentence": "De politie arresteerde een beruchte ___ tijdens een inval.",
-        "answer": "drugsbaron"
+        "word": "geboren",
+        "definition": "wanneer iemand geboren is, is dat het begin van het leven",
+        "sentence": "Hij is ___ in 1960.",
+        "answer": "geboren"
       },
       {
-        "word": "opgepakt",
-        "definition": "gearresteerd, door de politie meegenomen",
-        "sentence": "De politie heeft de verdachte ___ na een lange zoektocht.",
-        "answer": "opgepakt"
+        "word": "overleden",
+        "definition": "niet meer leven; dood zijn",
+        "sentence": "Hij is ___ op 04/11/2025.",
+        "answer": "overleden"
       },
       {
-        "word": "Belgische",
-        "definition": "iemand of iets dat uit België komt",
-        "sentence": "De ___ atleet won goud op de Olympische Spelen.",
-        "answer": "Belgische"
-      },
-      {
-        "word": "uitlevering",
-        "definition": "het overdragen van een persoon aan een ander land voor berechting",
-        "sentence": "De verdachte ondergaat een ___ naar de Verenigde Staten.",
-        "answer": "uitlevering"
+        "word": "overleden",
+        "definition": "niet meer leven; dood zijn",
+        "sentence": "Hij is ___ op 04/11/2025.",
+        "answer": "overleden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De verdachte ondergaat een ___ naar de Verenigde Staten.",
-        "answer": "uitlevering"
+        "sentence": "Hij is ___ op 04/11/2025.",
+        "answer": "overleden"
       },
       {
-        "sentence": "De ___ atleet won goud op de Olympische Spelen.",
-        "answer": "Belgische"
+        "sentence": "Hij is ___ op 04/11/2025.",
+        "answer": "overleden"
       },
       {
-        "sentence": "De politie heeft de verdachte ___ na een lange zoektocht.",
-        "answer": "opgepakt"
+        "sentence": "Hij is ___ in 1960.",
+        "answer": "geboren"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar werd Omar Govers gearresteerd?",
+      "question": "Wanneer is Patrick geboren?",
       "options": [
-        "In een hotel in Brussel",
-        "In een politiebureau in Antwerpen",
-        "In een gevangenis in Dubai",
-        "Op straat in Dubai"
+        "In 1960",
+        "In 1964",
+        "In 1970",
+        "In 1980"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van minister Verlinden in deze zaak?",
+      "question": "Hoe oud was Patrick toen hij overleed?",
       "options": [
-        "Ze is de drugsbaron",
-        "Ze leidt het onderzoek in Dubai",
-        "Ze is op werkbezoek in de Verenigde Arabische Emiraten",
-        "Ze arresteerde Omar Gapers persoonlijk"
+        "64 jaar",
+        "70 jaar",
+        "75 jaar",
+        "80 jaar"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is 'uitlevering' in deze context?",
+      "question": "Waar kan je informatie over Patrick vinden?",
       "options": [
-        "Het uitleveren van een cadeau",
-        "Het vrijgeven van een gevangene",
-        "Het overdragen van een persoon aan een ander land voor berechting",
-        "Het ophalen van iemand van het vliegveld"
+        "In een boek",
+        "Op een website",
+        "In een krant",
+        "Op een website"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "Omar Gavers is de volledige naam van de drugsbaron.",
-      "isTrue": false
-    },
-    {
-      "statement": "Minister Verlinden was in de Verenigde Arabische Emiraten voor werk.",
+      "statement": "Patrick is geboren in 1960.",
       "isTrue": true
     },
     {
-      "statement": "Omar Govers werd opgepakt in België.",
+      "statement": "Patrick overleed in 2024.",
       "isTrue": false
+    },
+    {
+      "statement": "Patrick was 64 jaar oud toen hij overleed.",
+      "isTrue": true
     }
   ]
 }

@@ -3,104 +3,104 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Belgische drugsbaron opgepakt in Dubai",
+  "title": "Patrick Brems, 64 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Belgische drugsbaron opgepakt in Dubai",
-    "summary": "Terwijl de Belgische minister van Justitie op bezoek was in de Verenigde Arabische Emiraten, heeft de politie daar de Belgische drugsbaron Omar Govers gearresteerd. Ze willen hem uitleveren."
+    "title": "Patrick Brems, 64 jaar",
+    "summary": "Hij is geboren in 1960 en overleden op 4 november 2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Justitie",
-        "definition": "het ministerie dat gaat over recht en politie",
-        "sentence": "Justitie zorgt voor een eerlijke rechtspraak.",
-        "answer": "Justitie"
+        "word": "Brems",
+        "definition": "de achternaam van deze persoon",
+        "sentence": "Zijn achternaam is ___.",
+        "answer": "Brems"
       },
       {
-        "word": "drugsbaron",
-        "definition": "iemand die veel handelt in verboden drugs",
-        "sentence": "De ___ werd opgepakt in zijn vakantiehuis.",
-        "answer": "drugsbaron"
+        "word": "geboren",
+        "definition": "begonnen met leven, het tegenovergestelde van gestorven",
+        "sentence": "Hij is ___ in 1960.",
+        "answer": "geboren"
       },
       {
-        "word": "bezoek",
-        "definition": "een korte tijd waarin je ergens naartoe gaat",
-        "sentence": "Tijdens zijn ___ aan Dubai, ondertekende hij een verdrag.",
-        "answer": "bezoek"
+        "word": "Hij",
+        "definition": "verwijst naar een mannelijk persoon",
+        "sentence": "___ is een man.",
+        "answer": "Hij"
       },
       {
-        "word": "politie",
-        "definition": "mensen die de wet handhaven en misdaad bestrijden",
-        "sentence": "De ___ heeft de man gearresteerd na een lange zoektocht.",
-        "answer": "politie"
+        "word": "jaar",
+        "definition": "een periode van 365 dagen",
+        "sentence": "Hij is 64 ___ oud.",
+        "answer": "jaar"
       },
       {
-        "word": "Belgische",
-        "definition": "iemand of iets dat uit België komt",
-        "sentence": "De ___ atleet won goud op de Olympische Spelen.",
-        "answer": "Belgische"
+        "word": "op",
+        "definition": "geeft een bepaalde dag of tijd aan",
+        "sentence": "Hij stierf ___ 4 november 2025.",
+        "answer": "op"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ werd opgepakt in zijn vakantiehuis.",
-        "answer": "drugsbaron"
+        "sentence": "Hij is 64 ___ oud.",
+        "answer": "jaar"
       },
       {
-        "sentence": "De ___ heeft de man gearresteerd na een lange zoektocht.",
-        "answer": "politie"
+        "sentence": "___ is een man.",
+        "answer": "Hij"
       },
       {
-        "sentence": "Tijdens zijn ___ aan Dubai, ondertekende hij een verdrag.",
-        "answer": "bezoek"
+        "sentence": "Zijn achternaam is ___.",
+        "answer": "Brems"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom was de minister van Justitie in de Verenigde Arabische Emiraten?",
+      "question": "In welk jaar is Patrick geboren?",
       "options": [
-        "Om te surveilleren op het strand",
-        "Om een officieel bezoek af te leggen",
-        "Om te onderhandelen over een uitwisseling",
-        "Om vakantie te vieren met zijn gezin"
+        "1960",
+        "1965",
+        "1970",
+        "1975"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van de politie in deze situatie?",
+      "question": "Wat is de achternaam van Patrick?",
       "options": [
-        "Het organiseren van festiviteiten",
-        "Het handhaven van de wet en arresteren van verdachten",
-        "Het opstellen van nieuwe wetten",
-        "Het geven van gratis eten aan mensen"
+        "Brems",
+        "Jansen",
+        "De Vries",
+        "Peters"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat betekent 'uitlevering' in deze context?",
+      "question": "Is Patrick nog in leven?",
       "options": [
-        "Het weggeven van cadeaus",
-        "Het teruggeven van geleend geld",
-        "Het overhandigen van een persoon aan een ander land",
-        "Het organiseren van een groot feest"
+        "Ja, hij leeft nog",
+        "Nee, hij is overleden",
+        "Ik weet het niet",
+        "Het artikel zegt het niet"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Omar Gavers is de naam van de Belgische drugsbaron.",
-      "isTrue": false
-    },
-    {
-      "statement": "De minister van Justitie was in de Verenigde Arabische Emiraten voor een officieel bezoek.",
+      "statement": "Patrick is geboren in 1960.",
       "isTrue": true
     },
     {
-      "statement": "Omar Gavers werd gearresteerd door de politie van België.",
+      "statement": "Patrick is overleden in 2024.",
       "isTrue": false
+    },
+    {
+      "statement": "Patrick heeft de achternaam Brems.",
+      "isTrue": true
     }
   ]
 }

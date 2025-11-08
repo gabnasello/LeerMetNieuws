@@ -3,103 +3,72 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Godelieve De Meyer, 87 jaar",
+  "title": "Luc Versluig, 78 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Godelieve De Meyer, 87 jaar",
-    "summary": "Godelieve De Meyer is geboren in 1937 en overleden op 1 november 2025."
+    "title": "Luc Versluig, 78 jaar",
+    "summary": "Geboren in 1946, overleden op 02/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Godelieve",
-        "definition": "Een vrouwelijke voornaam, afgeleid van 'God' en 'liefde'",
-        "sentence": "___ De Meyer was een bekende inwoner van het dorp.",
-        "answer": "Godelieve"
-      },
-      {
-        "word": "2025",
-        "definition": "Het jaar tweeduizend vijfentwintig",
-        "sentence": "Ze overleed in november ___.",
-        "answer": "2025"
-      },
-      {
-        "word": "2025",
-        "definition": "Het jaar tweeduizend vijfentwintig",
-        "sentence": "Ze overleed in november ___.",
-        "answer": "2025"
-      },
-      {
-        "word": "1",
-        "definition": "Het getal één; de eerste in een reeks",
-        "sentence": "Ze overleed op ___ november 2025.",
-        "answer": "1"
-      },
-      {
         "word": "geboren",
-        "definition": "Het begin van het leven; ter wereld komen",
-        "sentence": "Ze werd ___ in 1937.",
+        "definition": "het begin van iemands leven; het moment dat iemand ter wereld komt",
+        "sentence": "Hij is ___ in 1946.",
         "answer": "geboren"
+      },
+      {
+        "word": "overleden",
+        "definition": "niet meer levend; gestorven",
+        "sentence": "Hij is ___ op 2 november 2025.",
+        "answer": "overleden"
       }
     ],
-    "fillInBlanks": [
-      {
-        "sentence": "Ze overleed in november ___.",
-        "answer": "2025"
-      },
-      {
-        "sentence": "Ze overleed in november ___.",
-        "answer": "2025"
-      },
-      {
-        "sentence": "___ De Meyer was een bekende inwoner van het dorp.",
-        "answer": "Godelieve"
-      }
-    ]
+    "fillInBlanks": []
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Godelieve De Meyer geboren?",
+      "question": "In welk jaar is Luc Versluig geboren?",
       "options": [
-        "1930",
-        "1935",
-        "1940",
-        "1937"
+        "1945",
+        "1946",
+        "1947",
+        "1948"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe oud was Godelieve De Meyer toen ze overleed?",
+      "question": "Op welke datum is Luc Versluig overleden?",
       "options": [
-        "75 jaar",
-        "80 jaar",
-        "87 jaar",
-        "90 jaar"
+        "1 november 2025",
+        "2 november 2025",
+        "3 november 2025",
+        "4 november 2025"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "In welke maand overleed Godelieve De Meyer?",
+      "question": "Hoe oud was Luc Versluig op het moment van zijn overlijden?",
       "options": [
-        "Januari",
-        "Februari",
-        "November",
-        "December"
+        "77 jaar",
+        "78 jaar",
+        "79 jaar",
+        "80 jaar"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Godelieve De Meyer overleed op 1 november 2025.",
+      "statement": "Luc Versluig is geboren in 1946.",
       "isTrue": true
     },
     {
-      "statement": "Godelieve De Meyer werd 90 jaar oud.",
+      "statement": "Luc Versluig is overleden op 1 november 2025.",
       "isTrue": false
     },
     {
-      "statement": "Godelieve De Meyer is geboren in 1937.",
+      "statement": "Luc Versluig werd 78 jaar oud.",
       "isTrue": true
     }
   ]

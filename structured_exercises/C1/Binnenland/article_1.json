@@ -3,72 +3,103 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Beroemdheden",
+  "title": "Luc Versluig, 78 jaar oud",
   "topicNumber": 1,
   "article": {
-    "title": "Godelieve De Meyer, 87 jaar",
-    "summary": "Godelieve De Meyer werd geboren in 1937 en overleed op 01/11/2025."
+    "title": "Luc Versluig, 78 jaar oud",
+    "summary": "Geboren in 1946, overleden op 02/11/2025"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Godelieve",
-        "definition": "Een vrouwelijke voornaam, afgeleid van het Germaans, met de betekenis 'god' en 'liefde'.",
-        "sentence": "Godelieve is een zeldzame maar mooie naam.",
-        "answer": "Godelieve"
+        "word": "overleden",
+        "definition": "Het moment waarop iemand sterft; overlijden",
+        "sentence": "Hij ___ op 02/11/2025.",
+        "answer": "overleden"
       },
       {
-        "word": "Geboren",
-        "definition": "Het moment waarop een persoon ter wereld komt.",
-        "sentence": "Hij werd geboren in een klein dorpje.",
-        "answer": "Geboren"
+        "word": "2025",
+        "definition": "Het jaar waarin de overledene stierf; jaartal",
+        "sentence": "Hij stierf in het jaar ___.",
+        "answer": "2025"
+      },
+      {
+        "word": "overleden",
+        "definition": "Niet meer levend; gestorven",
+        "sentence": "Hij is helaas ___.",
+        "answer": "overleden"
+      },
+      {
+        "word": "1946",
+        "definition": "Het jaar waarin de overledene geboren is; jaartal",
+        "sentence": "Hij werd geboren in het jaar ___.",
+        "answer": "1946"
+      },
+      {
+        "word": "Luc",
+        "definition": "Voornaam van de overledene; eigennaam",
+        "sentence": "___ was de voornaam van de overledene.",
+        "answer": "Luc"
       }
     ],
-    "fillInBlanks": []
+    "fillInBlanks": [
+      {
+        "sentence": "Hij werd geboren in het jaar ___.",
+        "answer": "1946"
+      },
+      {
+        "sentence": "Hij stierf in het jaar ___.",
+        "answer": "2025"
+      },
+      {
+        "sentence": "Hij ___ op 02/11/2025.",
+        "answer": "overleden"
+      }
+    ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent de naam 'Godelieve' historisch gezien?",
+      "question": "In welk jaar is Luc Versluig geboren?",
       "options": [
-        "Het betekent 'geliefd door God'.",
-        "Het is een oud-Griekse term voor 'wijsheid'.",
-        "Het is een verbastering van 'Godzilla'.",
-        "Het heeft geen specifieke betekenis."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is de voornaamste reden dat iemand als 'beroemdheid' wordt beschouwd?",
-      "options": [
-        "Door uitzonderlijke talenten of prestaties.",
-        "Door anoniem te blijven in de media.",
-        "Door weinig tot geen impact te hebben op de samenleving.",
-        "Door alleen in kleine kringen bekend te zijn."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Welk jaar werd Godelieve De Meyer geboren?",
-      "options": [
-        "1937",
         "1945",
-        "1920",
-        "1950"
+        "1946",
+        "1947",
+        "1948"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Op welke datum is Luc Versluig overleden?",
+      "options": [
+        "01/11/2025",
+        "02/11/2025",
+        "03/11/2025",
+        "04/11/2025"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat was de volledige naam van de overledene?",
+      "options": [
+        "Luc Versluig",
+        "Piet Versluig",
+        "Jan Versluig",
+        "Kees Versluig"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Godelieve De Meyer overleed op 1 november 2025.",
+      "statement": "Luc Versluig is geboren in 1946.",
       "isTrue": true
     },
     {
-      "statement": "Het binnenland van een land is altijd het gebied dat grenst aan de zee.",
+      "statement": "Luc Versluig overleed op 01/11/2025.",
       "isTrue": false
     },
     {
-      "statement": "Beroemdheden zijn per definitie personen die bekend zijn bij het grote publiek.",
+      "statement": "De volledige naam van de overledene is Luc Versluig.",
       "isTrue": true
     }
   ]

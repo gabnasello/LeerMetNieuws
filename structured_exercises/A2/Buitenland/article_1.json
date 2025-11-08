@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Supreme Court beslist over Trumps tarieven",
+  "title": "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
   "topicNumber": 1,
   "article": {
-    "title": "Supreme Court beslist over Trumps tarieven",
-    "summary": "Het Supreme Court beslist over de tarieven van Donald Trump. Meestal steunen de rechters Trump, maar in dit geval zijn enkele rechters kritisch."
+    "title": "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
+    "summary": "In iedere race, in iedere staat kregen de Republikeinen dinsdag zware klappen. Het krachtige signaal van de kiezer plaatst hen voor een dilemma. Ze kunnen niet zonder Trump en ze kunnen niet mét hem."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "beslist",
-        "definition": "heeft bepaald, heeft een beslissing genomen",
-        "sentence": "De rechter ___ over de zaak.",
-        "answer": "beslist"
+        "word": "plaatst",
+        "definition": "zet of stopt iets",
+        "sentence": "Hij ___ het boek op de tafel.",
+        "answer": "plaatst"
       },
       {
-        "word": "tarieven",
-        "definition": "de prijzen of kosten voor iets",
-        "sentence": "De ___ voor elektriciteit zijn gestegen.",
-        "answer": "tarieven"
+        "word": "dilemma",
+        "definition": "een moeilijke keuze tussen twee dingen",
+        "sentence": "Het was een echt ___: gaan of blijven?",
+        "answer": "dilemma"
       },
       {
-        "word": "steunen",
-        "definition": "helpen of ondersteunen",
-        "sentence": "Vrienden ___ elkaar in moeilijke tijden.",
-        "answer": "steunen"
+        "word": "staat",
+        "definition": "een gebied in een land, zoals een provincie",
+        "sentence": "Elke ___ heeft zijn eigen regels.",
+        "answer": "staat"
       },
       {
-        "word": "rechters",
-        "definition": "personen die beslissen over recht en wet",
-        "sentence": "De ___ zijn onpartijdig.",
-        "answer": "rechters"
+        "word": "signaal",
+        "definition": "een teken of bericht",
+        "sentence": "Het ___ was duidelijk: stop nu.",
+        "answer": "signaal"
       },
       {
-        "word": "kritisch",
-        "definition": "ietwat negatief of veeleisend",
-        "sentence": "De recensie was ___ over de nieuwe film.",
-        "answer": "kritisch"
+        "word": "klappen",
+        "definition": "harde geluiden, of moeilijke momenten",
+        "sentence": "Hij kreeg veel ___ tijdens de wedstrijd.",
+        "answer": "klappen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Vrienden ___ elkaar in moeilijke tijden.",
-        "answer": "steunen"
+        "sentence": "Elke ___ heeft zijn eigen regels.",
+        "answer": "staat"
       },
       {
-        "sentence": "De recensie was ___ over de nieuwe film.",
-        "answer": "kritisch"
+        "sentence": "Het ___ was duidelijk: stop nu.",
+        "answer": "signaal"
       },
       {
-        "sentence": "De rechter ___ over de zaak.",
-        "answer": "beslist"
+        "sentence": "Het was een echt ___: gaan of blijven?",
+        "answer": "dilemma"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'steunen' in deze context?",
+      "question": "Wat betekent het woord 'race' in deze context?",
       "options": [
-        "laten vallen",
-        "ondersteunen",
-        "negeren",
-        "bekritiseren"
+        "een snel bewegend voertuig",
+        "een wedstrijd of competitie",
+        "een type dier",
+        "een hard geluid"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar staat 'SCOTUS' voor?",
+      "question": "Wat is de betekenis van 'dilemma'?",
       "options": [
-        "Supreme Court Of The United States",
-        "Senior Court of Texas",
-        "Special Council of the United States",
-        "Supreme Council of the United States"
+        "een gemakkelijke keuze",
+        "een moeilijke keuze tussen twee dingen",
+        "een soort dier",
+        "een groot feest"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de hoofdtaak van het Supreme Court?",
+      "question": "Waar gaat de tekst over?",
       "options": [
-        "wetten maken",
-        "wetten interpreteren",
-        "verkiezingen organiseren",
-        "strafen uitdelen"
+        "Koken en eten",
+        "Politiek en verkiezingen",
+        "Sport en wedstrijden",
+        "Muziek en dans"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het Supreme Court heeft de macht om presidenten te vervolgen.",
+      "statement": "Trump is nog steeds een sterke leider voor de Republikeinen.",
       "isTrue": false
     },
     {
-      "statement": "Rechters in het Supreme Court worden voor het leven benoemd.",
+      "statement": "De Republikeinen verloren sterk bij de verkiezingen.",
       "isTrue": true
     },
     {
-      "statement": "Trump is de huidige president van de Verenigde Staten.",
+      "statement": "Trump kan niet meer meedoen aan verkiezingen.",
       "isTrue": false
     }
   ]

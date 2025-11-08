@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Zohran Mamdani, de burgemeester van New York",
+  "title": "Politicus wint verkiezingen",
   "topicNumber": 1,
   "article": {
-    "title": "Zohran Mamdani, de burgemeester van New York",
-    "summary": "Zohran Mamdani is de burgemeester van New York. Hij heeft grote plannen. Maar hij heeft ook een vijand. Die vijand is de president. De president wil niet dat de plannen lukken. Zohran moet geld vinden voor zijn plannen."
+    "title": "Politicus wint verkiezingen",
+    "summary": "Een politicus wint een verkiezing. Hij is nu burgemeester van New York. Hij laat zien dat progressieven ook kunnen winnen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "plannen",
-        "definition": "wat je van plan bent te doen",
-        "sentence": "Hij heeft grote ___ voor de stad.",
-        "answer": "plannen"
+        "word": "wint",
+        "definition": "heeft succes in een wedstrijd of verkiezing",
+        "sentence": "Hij ___ de verkiezing en wordt burgemeester.",
+        "answer": "wint"
+      },
+      {
+        "word": "winnen",
+        "definition": "iets halen of succes hebben",
+        "sentence": "Zij ___ de wedstrijd en zijn erg blij.",
+        "answer": "winnen"
+      },
+      {
+        "word": "progressieven",
+        "definition": "mensen die willen veranderen en verbeteren",
+        "sentence": "De ___ willen helpen en verbeteren.",
+        "answer": "progressieven"
       },
       {
         "word": "burgemeester",
-        "definition": "de leider van een stad",
-        "sentence": "De ___ van New York heet Zohran Mamdani.",
+        "definition": "de leider van een stad of gemeente",
+        "sentence": "De ___ leidt de stad en helpt de mensen.",
         "answer": "burgemeester"
       },
       {
-        "word": "vijand",
-        "definition": "iemand die tegen je is",
-        "sentence": "De president is zijn ___.",
-        "answer": "vijand"
-      },
-      {
-        "word": "zijn",
-        "definition": "hetzelfde als 'be' in het Engels",
-        "sentence": "Hij ___ de burgemeester van New York.",
-        "answer": "is"
-      },
-      {
-        "word": "geld",
-        "definition": "wat je gebruikt om dingen te kopen",
-        "sentence": "Hij heeft veel ___ nodig voor zijn plannen.",
-        "answer": "geld"
+        "word": "verkiezing",
+        "definition": "een keer dat mensen stemmen voor een nieuwe leider",
+        "sentence": "De ___ is belangrijk voor democratie.",
+        "answer": "verkiezing"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij heeft veel ___ nodig voor zijn plannen.",
-        "answer": "geld"
+        "sentence": "De ___ is belangrijk voor democratie.",
+        "answer": "verkiezing"
       },
       {
-        "sentence": "De ___ van New York heet Zohran Mamdani.",
+        "sentence": "Hij ___ de verkiezing en wordt burgemeester.",
+        "answer": "wint"
+      },
+      {
+        "sentence": "De ___ leidt de stad en helpt de mensen.",
         "answer": "burgemeester"
-      },
-      {
-        "sentence": "Hij heeft grote ___ voor de stad.",
-        "answer": "plannen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wie is Zohran Mamdani?",
+      "question": "Wat is een burgemeester?",
       "options": [
-        "De burgemeester van New York",
-        "De president van Amerika",
-        "Een leraar",
-        "Een dokter"
+        "Een soort dier",
+        "De leider van een stad",
+        "Een type auto",
+        "Iemand die alleen in het verleden leeft"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat wil de president niet?",
+      "question": "Wat betekent het om een verkiezing te winnen?",
       "options": [
-        "Dat de plannen van Zohran lukken",
-        "Dat Zohran geld heeft",
-        "Dat Zohran burgemeester is",
-        "Dat Zohran een vijand heeft"
+        "Je verliest iets",
+        "Je krijgt een nieuwe taak of positie",
+        "Je gaat naar huis",
+        "Je stopt met werken"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Waar heeft Zohran geld voor nodig?",
+      "question": "Wat is 'hol van de leeuw'?",
       "options": [
-        "Voor zijn plannen",
-        "Om een huis te kopen",
-        "Om eten te kopen",
-        "Om de president te betalen"
+        "Een veilige plek",
+        "Een gevaarlijke plek",
+        "Een restaurant",
+        "Een sportschool"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Zohran Mamdani is de burgemeester van New York.",
-      "isTrue": true
-    },
-    {
-      "statement": "De president is de vijand van Zohran.",
-      "isTrue": true
-    },
-    {
-      "statement": "Zohran heeft geen geld nodig voor zijn plannen.",
+      "statement": "Een burgemeester is de leider van een land.",
       "isTrue": false
+    },
+    {
+      "statement": "Progressieven zijn mensen die willen veranderen en verbeteren.",
+      "isTrue": true
+    },
+    {
+      "statement": "De burgemeester van New York woont in een hol.",
+      "isItrue": false
     }
   ]
 }

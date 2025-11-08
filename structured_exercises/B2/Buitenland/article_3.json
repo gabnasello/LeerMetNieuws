@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Soedan-experte: “Het is te laat om de rebellen in Darfour te stoppen: dit is een losgeslagen moordmachine”",
+  "title": "Abu Dhabi levert wapens voor een genocide en zijn westerse bondgenoten zwijgen",
   "topicNumber": 1,
   "article": {
-    "title": "Soedan-experte: “Het is te laat om de rebellen in Darfour te stoppen: dit is een losgeslagen moordmachine”",
-    "summary": "De gerenommeerde Soedan-experte Hager Ali zegt dat het genocidale geweld in Al-Fasher de afgelopen dagen nog is toegenomen. “De logica van de rebellen is dat iedereen die zich nu nog in Al-Fasher bevindt een vijand is. Iedereen is een doelwit: mannen, vrouwen, kinderen.”"
+    "title": "Abu Dhabi levert wapens voor een genocide en zijn westerse bondgenoten zwijgen",
+    "summary": "In ruil voor goud leveren de Verenigde Arabische Emiraten de wapens waarmee de Rapid Support Forces in Noord-Darfour een genocidale massamoord aanrichten. Toch wijst niet één wereldleider de sjeiks van Abu Dhabi terecht."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "experte",
-        "definition": "een deskundige of specialist in een bepaald gebied",
-        "sentence": "De ___ gaf een duidelijk overzicht van de situatie.",
-        "answer": "experte"
+        "word": "goud",
+        "definition": "een zeer waardevol, glanzend metaal",
+        "sentence": "Ze betaalden met repen ___ in plaats van geld.",
+        "answer": "goud"
       },
       {
-        "word": "geweld",
-        "definition": "het gebruik van fysieke kracht, vaak met als doel te beschadigen",
-        "sentence": "Het ___ escaleerde snel na de protesten.",
-        "answer": "geweld"
+        "word": "wapens",
+        "definition": "voorwerpen om mee te vechten, zoals geweren",
+        "sentence": "De rebellen hadden zware ___ gekregen van buitenaf.",
+        "answer": "wapens"
       },
       {
-        "word": "logica",
-        "definition": "de manier waarop iets redelijk of logisch is",
-        "sentence": "De ___ achter het besluit was voor niemand duidelijk.",
-        "answer": "logica"
+        "word": "genocide",
+        "definition": "het opzettelijk uitmoorden van een hele bevolkingsgroep",
+        "sentence": "De massamoord op die bevolkingsgroep was een daad van ___.",
+        "answer": "genocide"
       },
       {
-        "word": "vijand",
-        "definition": "iemand die tegen je is of waarmee je in conflict bent",
-        "sentence": "Hij beschouwde haar als zijn grootste ___.",
-        "answer": "vijand"
+        "word": "emiraten",
+        "definition": "staten of gebieden die door een emir geregeerd worden",
+        "sentence": "De Verenigde Arabische ___ zijn zeven in totaal.",
+        "answer": "emiraten"
       },
       {
-        "word": "rebellen",
-        "definition": "mensen die tegen de gevestigde macht vechten, vaak in een oorlog",
-        "sentence": "De ___ trokken zich terug uit de stad.",
-        "answer": "rebellen"
+        "word": "bondgenoten",
+        "definition": "partners in een alliantie of oorlog",
+        "sentence": "Onze ___ in die regio steunen ons niet langer.",
+        "answer": "bondgenoten"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ gaf een duidelijk overzicht van de situatie.",
-        "answer": "experte"
+        "sentence": "De massamoord op die bevolkingsgroep was een daad van ___.",
+        "answer": "genocide"
       },
       {
-        "sentence": "De ___ achter het besluit was voor niemand duidelijk.",
-        "answer": "logica"
+        "sentence": "Onze ___ in die regio steunen ons niet langer.",
+        "answer": "bondgenoten"
       },
       {
-        "sentence": "Hij beschouwde haar als zijn grootste ___.",
-        "answer": "vijand"
+        "sentence": "De rebellen hadden zware ___ gekregen van buitenaf.",
+        "answer": "wapens"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waaruit bestaat de genocidale actie in Al-Fasher volgens de expert?",
+      "question": "Wat is een mogelijke reden waarom westerse bondgenoten zwijgen over de wapenleveranties?",
       "options": [
-        "Uit het stelen van voedselvoorraden",
-        "Uit het richten van geweld op iedereen, inclusief burgers",
-        "Uit het negeren van internationale wetten",
-        "Uit het alleen aanvallen van militaire doelen"
+        "Ze zijn bang voor economische sancties.",
+        "Ze steunen de acties van de Emiraten.",
+        "Ze hebben geen kennis van de situatie.",
+        "Ze zijn bezig met andere internationale conflicten."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van de rebellen in Darfoer volgens deze context?",
+      "question": "Hoe worden de wapens verkregen door de strijdende partij?",
       "options": [
-        "Ze bouwen scholen en ziekenhuizen",
-        "Ze handhaven vrede en stabiliteit",
-        "Ze voeren een genocidaal geweld uit waarin iedereen een doelwit is",
-        "Ze werken samen met internationale vredestroepen"
+        "Door directe levering vanuit de Emiraten.",
+        "Via een derde land dat bemiddelt.",
+        "Door diefstal uit een militaire basis.",
+        "Door aankoop met gestolen geld."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Hoe beschrijft de expert de situatie in Al-Fasher?",
+      "question": "Wat is de rol van de Verenigde Arabische Emiraten in dit conflict?",
       "options": [
-        "Als een vreedzaam protest",
-        "Als een chaotische maar geweldloze situatie",
-        "Als genocidaal geweld dat de afgelopen dagen is toegenomen",
-        "Als een tijd van grote vreugde en feest"
+        "Ze bemiddelen alleen maar vredesgesprekken.",
+        "Ze zijn neutraal en doen niet mee.",
+        "Ze zijn de belangrijkste wapenleverancier.",
+        "Ze bieden humanitaire hulp aan slachtoffers."
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De rebellen in Darfour beschouwen alleen mannen als hun vijanden.",
-      "isTrue": false
-    },
-    {
-      "statement": "Het geweld in Al-Fasher is de afgelopen dagen toegenomen, volgens de expert.",
+      "statement": "De Verenigde Arabische Emiraten leveren wapens in ruil voor goud, niet voor andere goederen.",
       "isTrue": true
     },
     {
-      "statement": "De rebellen zien iedereen in Al-Fasher als een vriend en bondgenoot.",
+      "statement": "Alle westerse landen hebben luidkeels hun afkeuring uitgesproken over deze wapenleveranties.",
       "isTrue": false
+    },
+    {
+      "statement": "Enkel de Verenigde Arabische Emiraten zijn verantwoordelijk voor de wapenleveranties, geen andere landen.",
+      "isTrue": true
     }
   ]
 }

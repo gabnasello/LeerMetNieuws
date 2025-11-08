@@ -3,104 +3,104 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Godelieve De Meyer, 87 jaar",
+  "title": "Luc Versluys, 78 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Godelieve De Meyer, 87 jaar",
-    "summary": "Geboren in 1937, overleden op 01/11/2025."
+    "title": "Luc Versluys, 78 jaar",
+    "summary": "Hij is geboren in 1946. Hij is overleden op 2 november 2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "Geboren worden, het begin van het leven",
-        "sentence": "Zij is ___ in 1937.",
-        "answer": "geboren"
+        "word": "Hij",
+        "definition": "verwijst naar een man",
+        "sentence": "___ is een man.",
+        "answer": "Hij"
       },
       {
-        "word": "Godelieve",
-        "definition": "Een voornaam, een naam van een persoon",
-        "sentence": "___ is een vrouw.",
-        "answer": "Godelieve"
+        "word": "is",
+        "definition": "zijn (to be)",
+        "sentence": "Hij ___ een man.",
+        "answer": "is"
+      },
+      {
+        "word": "in",
+        "definition": "in (locatie)",
+        "sentence": "Hij woonde ___ een huis.",
+        "answer": "in"
       },
       {
         "word": "op",
-        "definition": "Een voorzetsel, hier gebruikt met een datum",
-        "sentence": "Zij is overleden ___ 01/11/2025.",
+        "definition": "op (tijdstip)",
+        "sentence": "Hij overleed ___ 2 november 2025.",
         "answer": "op"
       },
       {
-        "word": "87",
-        "definition": "Een getal, de leeftijd",
-        "sentence": "Zij is ___ jaar oud.",
-        "answer": "87"
-      },
-      {
-        "word": "overleden",
-        "definition": "Niet meer leven, dood zijn",
-        "sentence": "Zij is ___ op 01/11/2025.",
-        "answer": "overleden"
+        "word": "jaar",
+        "definition": "eenheid van tijd (365 dagen)",
+        "sentence": "Hij werd 78 ___ oud.",
+        "answer": "jaar"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Zij is ___ in 1937.",
-        "answer": "geboren"
+        "sentence": "Hij ___ een man.",
+        "answer": "is"
       },
       {
-        "sentence": "Zij is overleden ___ 01/11/2025.",
+        "sentence": "Hij overleed ___ 2 november 2025.",
         "answer": "op"
       },
       {
-        "sentence": "Zij is ___ op 01/11/2025.",
-        "answer": "overleden"
+        "sentence": "Hij woonde ___ een huis.",
+        "answer": "in"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de leeftijd van Godelieve De Meyer?",
+      "question": "Wanneer is Luc Versluys geboren?",
       "options": [
-        "87",
-        "100",
-        "90",
-        "75"
+        "In 1946",
+        "In 1945",
+        "In 1947",
+        "In 1948"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "In welk jaar is Godelieve De Meyer geboren?",
+      "question": "Hoe oud was Luc Versluys toen hij overleed?",
       "options": [
-        "1937",
-        "1945",
-        "1920",
-        "1950"
+        "78 jaar",
+        "77 jaar",
+        "79 jaar",
+        "80 jaar"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Is Godelieve De Meyer nog in leven?",
+      "question": "Op welke datum overleed Luc Versluys?",
       "options": [
-        "Ja",
-        "Nee",
-        "Misschien",
-        "Geen idee"
+        "2 november 2025",
+        "3 november 2025",
+        "2 december 2025",
+        "3 december 2025"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Godelieve De Meyer is 87 jaar oud.",
-      "isTrue": true
-    },
-    {
-      "statement": "Godelieve De Meyer is geboren in 1940.",
+      "statement": "Luc Versluys is geboren in 1945.",
       "isTrue": false
     },
     {
-      "statement": "Godelieve De Meyer is overleden op 01/11/2025.",
+      "statement": "Luc Versluys overleed op 2 november 2025.",
       "isTrue": true
+    },
+    {
+      "statement": "Luc Versluys werd 80 jaar oud.",
+      "isTrue": false
     }
   ]
 }

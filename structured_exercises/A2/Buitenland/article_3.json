@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Soedan-experte: “Het is te laat om de rebellen in Darfour te stoppen: dit is een losgeslagen moordmachine”",
+  "title": "Abu Dhabi levert wapens voor een genocide",
   "topicNumber": 1,
   "article": {
-    "title": "Soedan-experte: “Het is te laat om de rebellen in Darfour te stoppen: dit is een losgeslagen moordmachine”",
-    "summary": "De gerenommeerde Soedan-experte Hager Ali zegt dat het genocidale geweld in Al-Fasher de afgelopen dagen nog is toegenomen. “De logica van de rebellen is dat iedereen die zich nu nog in Al-Fasher bevindt een vijand is. Iedereen is een doelwit: mannen, vrouwen, kinderen.”"
+    "title": "Abu Dhabi levert wapens voor een genocide",
+    "summary": "In ruil voor goud leveren de Verenigde Arabische Emiraten de wapens waarmee de Rapid Support Forces in Noord-Darfour een genocidale massamoord aanrichten. Toch wijst niet één wereldleider de sjeiks van Abu Dhabi terecht."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "experte",
-        "definition": "een deskundige, iemand die veel weet over een onderwerp",
-        "sentence": "De ___ Hager Ali spreekt over de situatie in Soedan.",
-        "answer": "experte"
+        "word": "wapens",
+        "definition": "dingen waarmee je kunt schieten, zoals een geweer",
+        "sentence": "Soms geven landen ___ aan andere landen.",
+        "answer": "wapens"
       },
       {
-        "word": "experte",
-        "definition": "een deskundige, iemand die veel weet over een onderwerp",
-        "sentence": "De ___ geeft uitleg over de situatie in Soedan.",
-        "answer": "experte"
+        "word": "levert",
+        "definition": "geeft iets aan iemand, zoals een product of dienst",
+        "sentence": "De supermarkt ___ boodschappen aan klanten.",
+        "answer": "levert"
       },
       {
-        "word": "genocidale",
-        "definition": "gerelateerd aan genocide, het opzettelijk doden van een hele groep mensen",
-        "sentence": "Het geweld in Al-Fasher is ___ en wreed.",
-        "answer": "genocidale"
+        "word": "genocide",
+        "definition": "het opzettelijk doden van een hele groep mensen",
+        "sentence": "In een ___ worden veel onschuldige mensen gedood.",
+        "answer": "genocide"
       },
       {
-        "word": "vijand",
-        "definition": "iemand die tegen je is en kwaad wil doen",
-        "sentence": "Iedereen in Al-Fasher wordt gezien als een ___ door de rebellen.",
-        "answer": "vijand"
+        "word": "massamoord",
+        "definition": "het doden van veel mensen in één keer",
+        "sentence": "Een ___ is een verschrikkelijke gebeurtenis.",
+        "answer": "massamoord"
       },
       {
-        "word": "logica",
-        "definition": "de manier van denken of redeneren",
-        "sentence": "De ___ van de rebellen is dat iedereen een vijand is.",
-        "answer": "logica"
+        "word": "sjeiks",
+        "definition": "een belangrijke leider in sommige Arabische landen",
+        "sentence": "De ___ hebben veel invloed in hun land.",
+        "answer": "sjeiks"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het geweld in Al-Fasher is ___ en wreed.",
-        "answer": "genocidale"
+        "sentence": "In een ___ worden veel onschuldige mensen gedood.",
+        "answer": "genocide"
       },
       {
-        "sentence": "Iedereen in Al-Fasher wordt gezien als een ___ door de rebellen.",
-        "answer": "vijand"
+        "sentence": "De supermarkt ___ boodschappen aan klanten.",
+        "answer": "levert"
       },
       {
-        "sentence": "De ___ geeft uitleg over de situatie in Soedan.",
-        "answer": "experte"
+        "sentence": "Soms geven landen ___ aan andere landen.",
+        "answer": "wapens"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarover spreekt de Soedan-experte Hager Ali?",
+      "question": "Wat betekent 'levert' in deze tekst?",
       "options": [
-        "Over de politiek in Nederland",
-        "Over het geweld in Al-Fasher, Soedan",
-        "Over de geschiedenis van Frankrijk",
-        "Over de economie van Japan"
+        "geeft",
+        "neemt",
+        "verkoopt",
+        "verbergt"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de houding van de rebellen in Darfour?",
+      "question": "Waarom zwijgen de bondgenoten volgens de tekst?",
       "options": [
-        "Ze willen vrede sluiten",
-        "Ze zijn een losgeslagen moordmachine",
-        "Ze geven veel geld aan de bevolking",
-        "Ze werken samen met andere landen"
+        "Ze zijn niet betrokken",
+        "Ze steunen de actie",
+        "Ze zijn het ermee eens",
+        "Ze weten het niet"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wie wordt getroffen door het geweld in Al-Fasher?",
+      "question": "Wat is een 'sjeik'?",
       "options": [
-        "Alleen soldaten",
-        "Alleen mannen",
-        "Alleen kinderen",
-        "Iedereen: mannen, vrouwen, kinderen"
+        "Een soort wapen",
+        "Een soort voedsel",
+        "Een soort leider",
+        "Een soort gebouw"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De rebellen in Darfour zijn makkelijk te stoppen.",
-      "isTrue": false
-    },
-    {
-      "statement": "Het geweld in Al-Fasher is de afgelopen dagen toegenomen.",
+      "statement": "Abu Dhabi levert wapens aan de Rapid Support Forces.",
       "isTrue": true
     },
     {
-      "statement": "Hager Ali is een Soedan-experte die zegt dat alleen mannen worden aangevallen.",
+      "statement": "Alle wereldleiders keuren de acties van Abu Dhabi af.",
       "isTrue": false
+    },
+    {
+      "statement": "Er wordt goud gebruikt in de ruil voor wapens.",
+      "isTrue": true
     }
   ]
 }

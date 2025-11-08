@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Zohran Mamdani, de nieuwe burgemeester van New York, heeft grote plannen, maar een even grote vijand",
+  "title": "Mamdani heeft getoond dat progressieven campagne kunnen voeren met dezelfde kunde als uiterst rechts",
   "topicNumber": 1,
   "article": {
-    "title": "Zohran Mamdani, de nieuwe burgemeester van New York, heeft grote plannen, maar een even grote vijand",
-    "summary": "Winnen is één ding, het waarmaken iets anders. Zohran Mamdani wordt een heel andere burgemeester van New York, maar staat voor één grote uitdaging: geld vinden voor zijn plannen, met een president die hem wil saboteren."
+    "title": "Mamdani heeft getoond dat progressieven campagne kunnen voeren met dezelfde kunde als uiterst rechts",
+    "summary": "Links Europa is klaar om te leren uit de campagne van de succesvolle Amerikaanse socialist Zohran Mamdani, die burgemeester van New York wordt. “Hij toont hoe een progressief kan winnen in het hol van de leeuw.”"
   },
   "vocabulary": {
     "words": [
       {
+        "word": "campagne",
+        "definition": "een georganiseerde actie om een doel te bereiken, vaak in politiek",
+        "sentence": "Hij startte een ___ om meer stemmen te winnen.",
+        "answer": "campagne"
+      },
+      {
+        "word": "uiterst",
+        "definition": "heel erg, in de hoogste mate",
+        "sentence": "De situatie was ___ gevaarlijk zonder hulp.",
+        "answer": "uiterst"
+      },
+      {
+        "word": "rechts",
+        "definition": "aan de rechterkant, of politiek conservatief",
+        "sentence": "De partij was ___ en stond voor traditionele waarden.",
+        "answer": "rechts"
+      },
+      {
+        "word": "kunde",
+        "definition": "kennis en vaardigheid in een bepaald gebied",
+        "sentence": "Zijn grote ___ was onmisbaar voor het project.",
+        "answer": "kunde"
+      },
+      {
         "word": "winnen",
-        "definition": "het bereiken van een overwinning, zoals in een wedstrijd",
-        "sentence": "Hij hoopte de verkiezing te ___.",
+        "definition": "een overwinning behalen, succes hebben",
+        "sentence": "Hij hoopte de verkiezing te ___ met zijn plannen.",
         "answer": "winnen"
-      },
-      {
-        "word": "geld",
-        "definition": "wat je gebruikt om dingen te kopen, zoals munten en briefjes",
-        "sentence": "Hij spaart ___ voor een nieuwe fiets.",
-        "answer": "geld"
-      },
-      {
-        "word": "plannen",
-        "definition": "ideeën over wat je in de toekomst wilt doen",
-        "sentence": "Hun ___ voor het weekend zijn nog niet bekend.",
-        "answer": "plannen"
-      },
-      {
-        "word": "vijand",
-        "definition": "iemand die tegen je is en kwaad wil",
-        "sentence": "De detective ontdekte wie de echte ___ was.",
-        "answer": "vijand"
-      },
-      {
-        "word": "burgemeester",
-        "definition": "de leider van een stad of gemeente",
-        "sentence": "De ___ opent het nieuwe park.",
-        "answer": "burgemeester"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij spaart ___ voor een nieuwe fiets.",
-        "answer": "geld"
+        "sentence": "Hij startte een ___ om meer stemmen te winnen.",
+        "answer": "campagne"
       },
       {
-        "sentence": "De ___ opent het nieuwe park.",
-        "answer": "burgemeester"
-      },
-      {
-        "sentence": "Hij hoopte de verkiezing te ___.",
+        "sentence": "Hij hoopte de verkiezing te ___ met zijn plannen.",
         "answer": "winnen"
+      },
+      {
+        "sentence": "De situatie was ___ gevaarlijk zonder hulp.",
+        "answer": "uiterst"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarover gaat dit artikel?",
+      "question": "Wat betekent het als politici campagne voeren?",
       "options": [
-        "Over reizen",
-        "Over een nieuwe burgemeester",
-        "Over sport",
-        "Over koken"
+        "Ze organiseren een verkiezingscampagne",
+        "Ze gaan met vakantie",
+        "Ze spelen een spel",
+        "Ze doen niets"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Waarom is Zohran Mamdani in het nieuws?",
+      "question": "Wat is een synoniem voor 'leren' in deze context?",
       "options": [
-        "Hij won een prijs",
-        "Hij is de nieuwe burgemeester",
-        "Hij is een filmster",
-        "Hij is een kok"
+        "Studeren",
+        "Onderwijzen",
+        "Afkijken",
+        "Ontdekken"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     },
     {
-      "question": "Wat is een belangrijke uitdaging voor hem?",
+      "question": "Wat betekent 'uiterst' in de titel?",
       "options": [
-        "Hij heeft geen vrienden",
-        "Hij heeft te veel geld",
-        "Hij moet geld vinden voor zijn plannen",
-        "Hij spreekt geen Nederlands"
+        "Heel, zeer",
+        "Bijna niet",
+        "Een klein beetje",
+        "Alleen"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Zohran Mamdani is de burgemeester van New York.",
+      "statement": "Mamdani is een progressieve politicus.",
       "isTrue": true
     },
     {
-      "statement": "De president wil de burgemeester helpen met zijn plannen.",
+      "statement": "De tekst stelt dat rechts altijd wint van links.",
       "isTrue": false
     },
     {
-      "statement": "Het artikel zegt dat winnen niet hetzelfde is als de plannen waarmaken.",
+      "statement": "Europa kan leren van Amerikaanse campagnes.",
       "isTrue": true
     }
   ]

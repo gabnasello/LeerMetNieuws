@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Expert over Soedan",
+  "title": "Abu Dhabi levert wapens",
   "topicNumber": 1,
   "article": {
-    "title": "Expert over Soedan",
-    "summary": "Een deskundige zegt dat het geweld in Soedan erg is. Iedereen is in gevaar: mannen, vrouwen en kinderen."
+    "title": "Abu Dhabi levert wapens",
+    "summary": "Abu Dhabi levert wapens. Andere landen zijn stil."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "mannen",
-        "definition": "volwassen personen van het mannelijk geslacht",
-        "sentence": "De ___ werken vaak buitenshuis.",
-        "answer": "mannen"
+        "word": "zijn",
+        "definition": "het werkwoord van zijn",
+        "sentence": "Zij ___ vrienden.",
+        "answer": "zijn"
       },
       {
-        "word": "geweld",
-        "definition": "situatie waarin mensen gewond raken of sterven",
-        "sentence": "Het ___ in Soedan is erg.",
-        "answer": "geweld"
+        "word": "levert",
+        "definition": "geeft iets aan iemand",
+        "sentence": "Hij ___ een pakje.",
+        "answer": "levert"
       },
       {
-        "word": "kinderen",
-        "definition": "jonge mensen, meestal onder de 18 jaar",
-        "sentence": "De ___ spelen en leren op school.",
-        "answer": "kinderen"
+        "word": "Dhabi",
+        "definition": "deel van de naam van de stad",
+        "sentence": "Abu ___ is een stad.",
+        "answer": "Dhabi"
       },
       {
-        "word": "vrouwen",
-        "definition": "volwassen personen van het vrouwelijk geslacht",
-        "sentence": "De ___ zorgen vaak voor het gezin.",
-        "answer": "vrouwen"
+        "word": "Abu",
+        "definition": "een naam van een plaats",
+        "sentence": "___ Dhabi is een stad.",
+        "answer": "Abu"
       },
       {
-        "word": "iedereen",
-        "definition": "alle mensen",
-        "sentence": "___ moet veilig zijn.",
-        "answer": "iedereen"
+        "word": "en",
+        "definition": "woord om twee zinnen te verbinden",
+        "sentence": "Ik heb een pen ___ een boek.",
+        "answer": "en"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ werken vaak buitenshuis.",
-        "answer": "mannen"
+        "sentence": "Hij ___ een pakje.",
+        "answer": "levert"
       },
       {
-        "sentence": "De ___ zorgen vaak voor het gezin.",
-        "answer": "vrouwen"
+        "sentence": "___ Dhabi is een stad.",
+        "answer": "Abu"
       },
       {
-        "sentence": "___ moet veilig zijn.",
-        "answer": "iedereen"
+        "sentence": "Ik heb een pen ___ een boek.",
+        "answer": "en"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat zegt de expert over Soedan?",
+      "question": "Wat levert Abu Dhabi?",
       "options": [
-        "Het is een veilig land.",
-        "Er is veel geweld.",
-        "Het is een klein land.",
-        "De mensen zijn erg vriendelijk."
+        "wapens",
+        "eten",
+        "auto's",
+        "boeken"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat doen de bondgenoten?",
+      "options": [
+        "ze praten",
+        "ze zwijgen",
+        "ze lachen",
+        "ze rennen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wie is in gevaar volgens de tekst?",
+      "question": "Waar is Abu Dhabi?",
       "options": [
-        "Alleen mannen",
-        "Alleen kinderen",
-        "Alleen vrouwen",
-        "Iedereen"
+        "in Azië",
+        "in Afrika",
+        "in Europa",
+        "in Nederland"
       ],
-      "correctAnswer": 4
-    },
-    {
-      "question": "Wat is de boodschap van de tekst?",
-      "options": [
-        "Soedan is een veilig land.",
-        "Iedereen moet voorzichtig zijn.",
-        "Soedan is een groot land.",
-        "Er is te veel geweld in Soedan."
-      ],
-      "correctAnswer": 4
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De expert zegt dat Soedan veilig is.",
-      "isTrue": false
-    },
-    {
-      "statement": "Vrouwen en kinderen zijn in gevaar.",
+      "statement": "Abu Dhabi levert wapens.",
       "isTrue": true
     },
     {
-      "statement": "Soedan is een land in Europa.",
+      "statement": "De bondgenoten praten veel.",
       "isTrue": false
+    },
+    {
+      "statement": "Abu Dhabi is een stad.",
+      "isTrue": true
     }
   ]
 }

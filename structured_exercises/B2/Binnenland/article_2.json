@@ -3,103 +3,103 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Etienne Wijnant, 89 jaar",
+  "title": "Nanette Tassin, 96 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Etienne Wijnant, 89 jaar",
-    "summary": "Etienne Wijnant werd geboren in 1936 en overleed op 03/11/2025. Hij heeft zijn hele leven in Nederland gewoond."
+    "title": "Nanette Tassin, 96 jaar",
+    "summary": "Geboren in 1928, overleden op 29/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Etienne",
-        "definition": "een voornaam, vaak van Franse oorsprong",
-        "sentence": "___ was de voornaam van de overleden man.",
-        "answer": "Etienne"
-      },
-      {
-        "word": "Wijnant",
-        "definition": "een achternaam, waarschijnlijk van Nederlandse oorsprong",
-        "sentence": "Zijn achternaam was ___.",
-        "answer": "Wijnant"
-      },
-      {
-        "word": "89",
-        "definition": "het getal negenentachtig, tussen 88 en 90",
-        "sentence": "Hij werd ___ jaar oud.",
-        "answer": "89"
-      },
-      {
-        "word": "1936",
-        "definition": "het jaar negentienhonderdzesendertig, een jaartal",
-        "sentence": "Hij werd geboren in het jaar ___.",
-        "answer": "1936"
-      },
-      {
         "word": "2025",
-        "definition": "het jaar tweeduizend vijfentwintig, een jaartal",
-        "sentence": "Hij overleed in het jaar ___.",
+        "definition": "Het jaartal twintighonderdvijfentwintig.",
+        "sentence": "Ze overleed in ___.",
         "answer": "2025"
+      },
+      {
+        "word": "geboren",
+        "definition": "Geboren worden, het ter wereld komen.",
+        "sentence": "Ze werd ___ in 1928.",
+        "answer": "geboren"
+      },
+      {
+        "word": "Nanette",
+        "definition": "Een eigennaam, hier de voornaam van de overledene.",
+        "sentence": "___ Tassin werd 96 jaar.",
+        "answer": "Nanette"
+      },
+      {
+        "word": "96",
+        "definition": "Het getal zesennegentig, hier de leeftijd.",
+        "sentence": "Ze werd ___ jaar oud.",
+        "answer": "96"
+      },
+      {
+        "word": "29",
+        "definition": "Het getal negenentwintig, hier de dag van overlijden.",
+        "sentence": "Ze overleed op ___ oktober.",
+        "answer": "29"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Zijn achternaam was ___.",
-        "answer": "Wijnant"
+        "sentence": "Ze werd ___ in 1928.",
+        "answer": "geboren"
       },
       {
-        "sentence": "Hij overleed in het jaar ___.",
+        "sentence": "Ze overleed in ___.",
         "answer": "2025"
       },
       {
-        "sentence": "Hij werd geboren in het jaar ___.",
-        "answer": "1936"
+        "sentence": "___ Tassin werd 96 jaar.",
+        "answer": "Nanette"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Etienne Wijnant geboren?",
+      "question": "In welk jaar is Nanette Tassin geboren?",
       "options": [
-        "1920",
-        "1936",
-        "1940",
-        "1950"
+        "1928",
+        "1945",
+        "1930",
+        "1920"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Hoe oud was Etienne Wijnant toen hij overleed?",
+      "question": "Hoe oud werd Nanette Tassin?",
       "options": [
-        "75 jaar",
-        "80 jaar",
-        "89 jaar",
-        "90 jaar"
+        "96 jaar",
+        "100 jaar",
+        "90 jaar",
+        "85 jaar"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Waar heeft Etienne Wijnant zijn hele leven gewoond?",
+      "question": "Op welke datum overleed Nanette Tassin?",
       "options": [
-        "België",
-        "Duitsland",
-        "Nederland",
-        "Frankrijk"
+        "29 oktober 2025",
+        "29 november 2025",
+        "30 oktober 2025",
+        "29 september 2025"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Etienne Wijnant is overleden in 2025.",
+      "statement": "Nanette Tassin werd 96 jaar oud.",
       "isTrue": true
     },
     {
-      "statement": "Etienne Wijnant werd 100 jaar oud.",
+      "statement": "Nanette Tassin overleed in 2024.",
       "isTrue": false
     },
     {
-      "statement": "Etienne Wijnant is geboren in Nederland.",
+      "statement": "Nanette Tassin werd geboren in 1928.",
       "isTrue": true
     }
   ]

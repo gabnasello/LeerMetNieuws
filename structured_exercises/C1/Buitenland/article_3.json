@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Soedan-experte: “Het is te laat om de rebellen in Darfour te stoppen: dit is een losgeslagen moordmachine”",
+  "title": "Abu Dhabi levert wapens voor een genocide en hun westerse bondgenoten zwijgen",
   "topicNumber": 1,
   "article": {
-    "title": "Soedan-experte: “Het is te laat om de rebellen in Darfour te stoppen: dit is een losgeslagen moordmachine”",
-    "summary": "De gerenommeerde Soedan-experte Hager Ali zegt dat het genocidale geweld in Al-Fasher de afgelopen dagen nog is toegenomen. “De logica van de rebellen is dat iedereen die zich nu nog in Al-Fasher bevindt een vijand is. Iedereen is een doelwit: mannen, vrouwen, kinderen.”"
+    "title": "Abu Dhabi levert wapens voor een genocide en hun westerse bondgenoten zwijgen",
+    "summary": "In ruil voor goud leveren de Verenigde Arabische Emiraten de wapens waarmee de Rapid Support Forces in Noord-Darfour een genocidale massamoord aanrichten. Toch wijst niet één wereldleider de sjeiks van Abu Dhabi terecht."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "doelwit",
-        "definition": "iemand of iets dat het doel is van een aanval",
-        "sentence": "Hij was het ___ van pesterijen op school.",
-        "answer": "doelwit"
+        "word": "genocide",
+        "definition": "opzettelijke massamoord op een bepaalde groep",
+        "sentence": "De VN onderzoekt of er sprake is van ___ in het conflict.",
+        "answer": "genocide"
       },
       {
-        "word": "losgeslagen",
-        "definition": "niet meer onder controle, onbeheersbaar geworden",
-        "sentence": "De situatie is volledig ___ en onomkeerbaar.",
-        "answer": "losgeslagen"
+        "word": "massamoord",
+        "definition": "het op grote schaal doden van mensen",
+        "sentence": "De massagraven getuigen van de ___ die plaatsvond.",
+        "answer": "massamoord"
       },
       {
-        "word": "toegenomen",
-        "definition": "groter, sterker, of meer geworden",
-        "sentence": "Het geweld is de afgelopen week sterk ___.",
-        "answer": "toegenomen"
+        "word": "levert",
+        "definition": "verstrekt of geeft iets",
+        "sentence": "De organisatie ___ medische hulp aan de getroffen regio.",
+        "answer": "levert"
       },
       {
-        "word": "stoppen",
-        "definition": "doen ophouden, tot een einde brengen",
-        "sentence": "De vredesmacht probeerde het geweld te ___.",
-        "answer": "stoppen"
+        "word": "sjeiks",
+        "definition": "leiders of hooggeplaatste personen in sommige Arabische landen",
+        "sentence": "De ___ onderhandelden over de nieuwe olieprijzen.",
+        "answer": "sjeiks"
       },
       {
-        "word": "bevindt",
-        "definition": "zich bevindt, is gelegen, is aanwezig",
-        "sentence": "Iedereen die zich nu in Al-Fasher ___ is een doelwit.",
-        "answer": "bevindt"
+        "word": "bondgenoten",
+        "definition": "landen of partijen die samenwerken, vaak in een oorlog",
+        "sentence": "De ___ van het pact kwamen bijeen om de strategie te bespreken.",
+        "answer": "bondgenoten"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De vredesmacht probeerde het geweld te ___.",
-        "answer": "stoppen"
+        "sentence": "De organisatie ___ medische hulp aan de getroffen regio.",
+        "answer": "levert"
       },
       {
-        "sentence": "De situatie is volledig ___ en onomkeerbaar.",
-        "answer": "losgeslagen"
+        "sentence": "De ___ van het pact kwamen bijeen om de strategie te bespreken.",
+        "answer": "bondgenoten"
       },
       {
-        "sentence": "Hij was het ___ van pesterijen op school.",
-        "answer": "doelwit"
+        "sentence": "De VN onderzoekt of er sprake is van ___ in het conflict.",
+        "answer": "genocide"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdreden dat de rebellen in Al-Fasher iedereen als doelwit zien?",
+      "question": "Wat is de hoofdreden dat de Verenigde Arabische Emiraten wapens leveren aan Rapid Support Forces?",
       "options": [
-        "Omdat ze etnisch zuiver willen zijn",
-        "Omdat ze hulpbronnen willen beheersen",
-        "Omdat ze de regering omver willen werpen",
-        "Omdat ze iedereen als vijand beschouwen, ongeacht hun rol"
-      ],
-      "correctAnswer": 4
-    },
-    {
-      "question": "Wat wordt er bedoeld met 'losgeslagen' in de context van de titel?",
-      "options": [
-        "De rebellen zijn fysiek uit elkaar gedreven",
-        "De rebellen hebben hun morele remmingen verloren",
-        "De situatie is onherstelbaar veranderd",
-        "De rebellen zijn niet meer te controleren"
-      ],
-      "correctAnswer": 4
-    },
-    {
-      "question": "Wat is de rol van de Soedan-expert Hager Ali in dit artikel?",
-      "options": [
-        "Ze leidt de rebellen in Darfour",
-        "Ze analyseert en rapporteert over de situatie",
-        "Ze is een slachtoffer van het geweld in Al-Fasher",
-        "Ze is een internationaal bemiddelaar"
+        "Om humanitaire redenen",
+        "Vanwege een economisch akkoord voor goud",
+        "Omdat de VAE zelf wordt aangevallen",
+        "Op verzoek van de Verenigde Naties"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de reactie van westerse leiders op de wapenleveranties door de VAE?",
+      "options": [
+        "Ze steunen de VAE openlijk",
+        "Ze veroordelen de VAE unaniem",
+        "Ze ondernemen geen actie en zwijgen",
+        "Ze sturen hun eigen troepen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is een gevolg van de wapenleveranties aan de Rapid Support Forces?",
+      "options": [
+        "Er breekt vrede uit in de regio",
+        "De VAE wordt internationaal geprezen",
+        "Er vinden grootschalige mensenrechtenschendingen plaats",
+        "De VAE stopt onmiddellijk met leveren"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het geweld in Al-Fasher is de afgelopen dagen afgenomen.",
-      "isTrue": false
-    },
-    {
-      "statement": "De rebellen beschouwen iedereen in Al-Fasher als een vijand, ongeacht leeftijd of geslacht.",
+      "statement": "De Verenigde Arabische Emiraten leveren wapens in ruil voor goud.",
       "isTrue": true
     },
     {
-      "statement": "Hager Ali is de leider van de rebellen in Darfour.",
+      "statement": "Westerse bondgenoten spreken zich uniek uit tegen de wapenleveranties.",
       "isTrue": false
+    },
+    {
+      "statement": "De Rapid Support Forces plegen massamoorden in Noord-Darfour.",
+      "isTrue": true
     }
   ]
 }

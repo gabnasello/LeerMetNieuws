@@ -3,104 +3,92 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Etienne Wijnant, 89 jaar",
+  "title": "Nanette Tassin, 96 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Etienne Wijnant, 89 jaar",
-    "summary": "Hij is geboren in 1936 en overleden op 03/11/2025."
+    "title": "Nanette Tassin, 96 jaar",
+    "summary": "Ze is geboren in 1928. Ze is overleden op 29 oktober 2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Wijnant",
-        "definition": "Een achternaam, een familienaam",
-        "sentence": "Etienne ___ is zijn volledige naam.",
-        "answer": "Wijnant"
-      },
-      {
         "word": "geboren",
-        "definition": "Het begin van het leven, wanneer iemand wordt geboren",
-        "sentence": "Hij is ___ in 1936.",
+        "definition": "Wanneer iemand is geboren, betekent dit dat die persoon op die dag is geboren.",
+        "sentence": "Ze is ___ in 1928.",
         "answer": "geboren"
       },
       {
         "word": "overleden",
-        "definition": "Niet meer leven, gestorven zijn",
-        "sentence": "Hij is ___ op 03/11/2025.",
+        "definition": "Iemand is overleden wanneer die persoon is gestorven.",
+        "sentence": "Ze is ___ op 29 oktober 2025.",
         "answer": "overleden"
       },
       {
-        "word": "Etienne",
-        "definition": "Een voornaam, een naam van een persoon",
-        "sentence": "___ Wijnant is de volledige naam van de man.",
-        "answer": "Etienne"
-      },
-      {
-        "word": "2025",
-        "definition": "Het jaartal, tweeduizend vijfentwintig",
-        "sentence": "Hij overleed in het jaar ___.",
-        "answer": "2025"
+        "word": "jaar",
+        "definition": "Een jaar is een periode van 365 of 366 dagen, van 1 januari tot 31 december.",
+        "sentence": "Ze leefde 96 ___.",
+        "answer": "jaar"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ Wijnant is de volledige naam van de man.",
-        "answer": "Etienne"
+        "sentence": "Ze is ___ op 29 oktober 2025.",
+        "answer": "overleden"
       },
       {
-        "sentence": "Etienne ___ is zijn volledige naam.",
-        "answer": "Wijnant"
-      },
-      {
-        "sentence": "Hij is ___ in 1936.",
+        "sentence": "Ze is ___ in 1928.",
         "answer": "geboren"
+      },
+      {
+        "sentence": "Ze leefde 96 ___.",
+        "answer": "jaar"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar werd Etienne Wijnant geboren?",
+      "question": "In welk jaar is Nanette Tassin geboren?",
       "options": [
-        "1936",
-        "1945",
-        "1950",
-        "1960"
+        "1920",
+        "1928",
+        "1930",
+        "1935"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe oud was Etienne Wijnant geworden?",
+      "question": "Hoe oud was Nanette Tassin toen ze overleed?",
       "options": [
-        "89 jaar",
+        "80 jaar",
         "90 jaar",
-        "100 jaar",
-        "80 jaar"
+        "96 jaar",
+        "100 jaar"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Op welke datum overleed Etienne Wijnant?",
+      "question": "Op welke datum overleed Nanette Tassin?",
       "options": [
-        "03/11/2025",
-        "04/11/2025",
-        "03/12/2025",
-        "05/11/2024"
+        "29 oktober 2024",
+        "29 oktober 2025",
+        "30 oktober 2025",
+        "31 oktober 2025"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Etienne Wijnant werd geboren in 1936.",
+      "statement": "Nanette Tassin is geboren in 1928.",
       "isTrue": true
     },
     {
-      "statement": "Etienne Wijnant overleed in 2024.",
+      "statement": "Nanette Tassin overleed op 29 oktober 2025.",
+      "isTrue": true
+    },
+    {
+      "statement": "Nanette Tassin was 100 jaar oud toen ze overleed.",
       "isTrue": false
-    },
-    {
-      "statement": "Etienne Wijnant werd 89 jaar oud.",
-      "isTrue": true
     }
   ]
 }

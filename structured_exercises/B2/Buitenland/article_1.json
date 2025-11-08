@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Supreme Court op weg om Trumps tarieven te verbieden",
+  "title": "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
   "topicNumber": 1,
   "article": {
-    "title": "Supreme Court op weg om Trumps tarieven te verbieden",
-    "summary": "Verklaart het Supreme Court Donald Trumps tarieven onwettig? Meestal steunen de hoge rechters Trump, maar in dit belangrijke dossier toonden ook drie conservatieve rechters zich woensdag uiterst kritisch en sceptisch."
+    "title": "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
+    "summary": "In iedere race, in iedere staat kregen de Republikeinen dinsdag zware klappen. Het krachtige signaal van de kiezer plaatst hen voor een dilemma. Ze kunnen niet zonder Trump en ze kunnen niet mét hem."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "sceptisch",
-        "definition": "twijfelend, niet direct gelovend",
-        "sentence": "Wees ___ over te mooie beloften.",
-        "answer": "sceptisch"
+        "word": "staat",
+        "definition": "een van de gebieden die een land vormen, zoals in de VS",
+        "sentence": "Elke ___ heeft zijn eigen wetten en verkiezingen.",
+        "answer": "staat"
       },
       {
-        "word": "conservatieve",
-        "definition": "behoudend, gericht op behoud van tradities",
-        "sentence": "Hij heeft erg ___e standpunten over economie.",
-        "answer": "conservatieve"
+        "word": "kiezer",
+        "definition": "iemand die stemt, een stemmer",
+        "sentence": "Elke ___ heeft het recht om zijn stem uit te brengen.",
+        "answer": "kiezer"
       },
       {
-        "word": "steunen",
-        "definition": "ondersteunen, helpen",
-        "sentence": "Vrienden ___ elkaar in moeilijke tijden.",
-        "answer": "steunen"
+        "word": "klappen",
+        "definition": "harde slagen, vaak figuurlijk voor tegenslag",
+        "sentence": "Na de ___ moest het team zich herstellen.",
+        "answer": "klappen"
       },
       {
-        "word": "onwettig",
-        "definition": "niet volgens de wet, illegaal",
-        "sentence": "Het is ___ om zonder rijbewijs auto te rijden.",
-        "answer": "onwettig"
+        "word": "dilemma",
+        "definition": "een moeilijke keuze tussen twee opties",
+        "sentence": "Het ___ was duidelijk: vechten of vluchten.",
+        "answer": "dilemma"
       },
       {
-        "word": "tarieven",
-        "definition": "verouderd woord voor prijzen, tegenwoordig vooral gebruikt voor kosten die in rekening worden gebracht",
-        "sentence": "De meeste artsen hanteren vaste ___ voor een consult.",
-        "answer": "tarieven"
+        "word": "race",
+        "definition": "een wedstrijd of competitie, vooral in de politiek",
+        "sentence": "De politieke ___ was spannend tot het einde.",
+        "answer": "race"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Vrienden ___ elkaar in moeilijke tijden.",
-        "answer": "steunen"
+        "sentence": "Het ___ was duidelijk: vechten of vluchten.",
+        "answer": "dilemma"
       },
       {
-        "sentence": "Het is ___ om zonder rijbewijs auto te rijden.",
-        "answer": "onwettig"
+        "sentence": "Na de ___ moest het team zich herstellen.",
+        "answer": "klappen"
       },
       {
-        "sentence": "Hij heeft erg ___e standpunten over economie.",
-        "answer": "conservatieve"
+        "sentence": "Elke ___ heeft het recht om zijn stem uit te brengen.",
+        "answer": "kiezer"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het als de rechters een maatregel 'onwettig' verklaren?",
+      "question": "Wat betekent 'krijgen' in deze context?",
       "options": [
-        "Het is nooit gebeurd",
-        "Het is tegen de wet",
-        "Het is een speciale actie",
-        "Het is goedgekeurd door de regering"
+        "winnen",
+        "ontvangen",
+        "verliezen",
+        "zoeken"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een synoniem voor 'steunen' in deze context?",
+      "question": "Wat is de hoofdgedachte van de tekst?",
       "options": [
-        "Tegenwerken",
-        "Ondersteunen",
-        "Negeren",
-        "Bekritiseren"
+        "Trump wint altijd",
+        "Republikeinen verliezen altijd",
+        "Kiezers zijn onbeslist",
+        "Trump is een dilemma"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     },
     {
-      "question": "Waarom noemt de tekst sommige rechters 'conservatief'?",
+      "question": "Wat is een 'dilemma'?",
       "options": [
-        "Omdat ze erg streng zijn",
-        "Omdat ze traditionele waarden belangrijk vinden",
-        "Omdat ze tegen verandering zijn",
-        "Omdat ze de regering steunen"
+        "een soort dier",
+        "een makkelijke keuze",
+        "een moeilijke keuze tussen twee dingen",
+        "een soort feest"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het Supreme Court heeft de macht om handelingen van de president onwettig te verklaren.",
-      "isTrue": true
-    },
-    {
-      "statement": "De rechters van het Supreme Court worden allemaal voor het leven benoemd.",
-      "isTrue": true
-    },
-    {
-      "statement": "Donald Trump is momenteel de president van de Verenigde Staten.",
+      "statement": "De Republikeinen wonnen alle races dinsdag.",
       "isTrue": false
+    },
+    {
+      "statement": "Trump is een voordeel voor de Republikeinen.",
+      "isTrue": false
+    },
+    {
+      "statement": "Kiezers stuurden een signaal door Republikeinen te laten verliezen.",
+      "isTrue": true
     }
   ]
 }

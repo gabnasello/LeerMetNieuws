@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Rechters en Trump",
+  "title": "Trump en de verkiezingen",
   "topicNumber": 1,
   "article": {
-    "title": "Rechters en Trump",
-    "summary": "Rechters kunnen Trump helpen of niet. Soms zijn rechters streng. Soms zijn rechters vriendelijk. De rechters in de VS keken naar een zaak over Trump."
+    "title": "Is Trump nog een troef of juist niet?",
+    "summary": "De Republikeinen hebben problemen na de verkiezingen. Ze moeten kiezen: met Trump of zonder Trump."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "rechters",
-        "definition": "mensen die beslissen over regels",
-        "sentence": "De ___ beslisten over de zaak.",
-        "answer": "rechters"
-      },
-      {
         "word": "niet",
         "definition": "geen, ontkenning",
-        "sentence": "Hij is ___ mijn vriend.",
+        "sentence": "Het is niet waar.",
         "answer": "niet"
       },
       {
-        "word": "zaak",
-        "definition": "een situatie of geval, vooral juridisch",
-        "sentence": "De rechter hoorde de ___ gisteren.",
-        "answer": "zaak"
+        "word": "Trump",
+        "definition": "een persoonnaam, de naam van een man",
+        "sentence": "Trump was president van Amerika.",
+        "answer": "Trump"
       },
       {
-        "word": "zijn",
-        "definition": "van hem, het bezittelijk voornaamwoord",
-        "sentence": "Dat is ___ boek.",
-        "answer": "zijn"
+        "word": "is",
+        "definition": "zijn, het tegenwoordige tijd van zijn",
+        "sentence": "Hij is een man.",
+        "answer": "is"
       },
       {
-        "word": "helpen",
-        "definition": "assisteren, bijstaan",
-        "sentence": "Kan jij me ___ met deze tas?",
-        "answer": "helpen"
+        "word": "of",
+        "definition": "een voegwoord, geeft een keuze aan",
+        "sentence": "Wil je thee of koffie?",
+        "answer": "of"
+      },
+      {
+        "word": "een",
+        "definition": "een lidwoord, geeft aan dat het er een is",
+        "sentence": "Ik heb een appel.",
+        "answer": "een"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is ___ mijn vriend.",
+        "sentence": "Trump was president van Amerika.",
+        "answer": "Trump"
+      },
+      {
+        "sentence": "Het is niet waar.",
         "answer": "niet"
       },
       {
-        "sentence": "Kan jij me ___ met deze tas?",
-        "answer": "helpen"
-      },
-      {
-        "sentence": "De ___ beslisten over de zaak.",
-        "answer": "rechters"
+        "sentence": "Ik heb een appel.",
+        "answer": "een"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat doen rechters?",
-      "options": [
-        "Ze helpen mensen.",
-        "Ze spelen voetbal.",
-        "Ze kijken naar films.",
-        "Ze beslissen over regels."
-      ],
-      "correctAnswer": 4
-    },
-    {
       "question": "Wie is Trump?",
       "options": [
-        "Een leraar.",
-        "Een dokter.",
-        "Een president.",
-        "Een kok."
+        "Een soort fruit",
+        "Een voetbalteam",
+        "Een bekende persoon",
+        "Een soort auto"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat betekent 'helpen'?",
+      "question": "Wat betekent 'niet'?",
       "options": [
-        "Iemand pijn doen.",
-        "Iemand ondersteunen.",
-        "Iemand negeren.",
-        "Iemand uitlachen."
+        "Ja",
+        "Nee",
+        "Soms",
+        "Altijd"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat doen de Republikeinen?",
+      "options": [
+        "Ze werken in een winkel.",
+        "Ze hebben problemen na de verkiezingen.",
+        "Ze spelen voetbal.",
+        "Ze eten een appel."
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Rechters kunnen mensen helpen.",
+      "statement": "Trump is de naam van een persoon.",
       "isTrue": true
     },
     {
-      "statement": "Trump is een soort van fruit.",
+      "statement": "De Republikeinen hebben problemen na de verkiezingen.",
+      "isTrue": true
+    },
+    {
+      "statement": "Trump is een soort fruit.",
       "isTrue": false
-    },
-    {
-      "statement": "Rechters kunnen beslissen over een zaak.",
-      "isTrue": true
     }
   ]
 }

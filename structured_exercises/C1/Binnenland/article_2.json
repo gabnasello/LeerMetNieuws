@@ -3,104 +3,73 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Etienne Wijnant, 89 jaar",
+  "title": "Nanette Tassin, 96 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Etienne Wijnant, 89 jaar",
-    "summary": "Geboren in 1936, overleden op 03/11/2025."
+    "title": "Nanette Tassin, 96 jaar",
+    "summary": "Geboren in 1928, overleden op 29/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "89",
-        "definition": "Het getal negenentachtig, een jaartal of leeftijd.",
-        "sentence": "Hij werd ___ jaar oud, een respectabele leeftijd.",
-        "answer": "89"
+        "word": "geboren",
+        "definition": "Het begin van iemands leven; het ter wereld komen.",
+        "sentence": "Zij werd ___ in 1928.",
+        "answer": "geboren"
       },
       {
-        "word": "Etienne",
-        "definition": "Een Franse voornaam, vaak gebruikt voor mannen.",
-        "sentence": "___ was een bekende kunstenaar uit de vorige eeuw.",
-        "answer": "Etienne"
-      },
-      {
-        "word": "11",
-        "definition": "Het getal elf; de elfde van de maand.",
-        "sentence": "Hij overleed op de ___e, een dag vol betekenis.",
-        "answer": "11"
-      },
-      {
-        "word": "2025",
-        "definition": "Het jaar 2025; een jaartal.",
-        "sentence": "Hij overleed in ___, een jaar dat nog moet komen.",
-        "answer": "2025"
-      },
-      {
-        "word": "03",
-        "definition": "De derde dag van de maand; ook wel de 3e genoemd.",
-        "sentence": "Hij overleed op de ___e van de maand, een dag om te onthouden.",
-        "answer": "03"
+        "word": "overleden",
+        "definition": "Niet meer in leven zijn; gestorven.",
+        "sentence": "Hij is ___ op 15 maart.",
+        "answer": "overleden"
       }
     ],
-    "fillInBlanks": [
-      {
-        "sentence": "Hij overleed op de ___e van de maand, een dag om te onthouden.",
-        "answer": "03"
-      },
-      {
-        "sentence": "Hij werd ___ jaar oud, een respectabele leeftijd.",
-        "answer": "89"
-      },
-      {
-        "sentence": "Hij overleed in ___, een jaar dat nog moet komen.",
-        "answer": "2025"
-      }
-    ]
+    "fillInBlanks": []
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Etienne Wijnant geboren?",
+      "question": "Wat is de geboortedatum van Nanette Tassin?",
       "options": [
-        "1920",
-        "1936",
-        "1945",
-        "1950"
+        "1928",
+        "1929",
+        "1930",
+        "1931"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Hoe oud was Etienne Wijnant toen hij overleed?",
+      "question": "In welk jaar overleed Nanette Tassin?",
       "options": [
-        "75 jaar",
-        "80 jaar",
-        "89 jaar",
-        "90 jaar"
+        "2023",
+        "2024",
+        "2025",
+        "2026"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Op welke datum overleed Etienne Wijnant?",
+      "question": "Hoe oud was Nanette Tassin toen ze overleed?",
       "options": [
-        "03-11-2024",
-        "03-11-2025",
-        "04-11-2025",
-        "03-12-2025"
+        "96 jaar",
+        "95 jaar",
+        "97 jaar",
+        "98 jaar"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Etienne Wijnant werd geboren in 1936.",
+      "statement": "Nanette Tassin werd geboren in 1928.",
       "isTrue": true
     },
     {
-      "statement": "Etienne Wijnant overleed in het jaar 2024.",
+      "statement": "Nanette Tassin overleed op 29 oktober 2025.",
+      "isTrue": true
+    },
+    {
+      "statement": "Nanette Tassin was 97 jaar oud bij haar overlijden.",
       "isTrue": false
-    },
-    {
-      "statement": "Etienne Wijnant was 89 jaar oud toen hij overleed.",
-      "isTrue": true
     }
   ]
 }

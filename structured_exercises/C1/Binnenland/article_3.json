@@ -3,103 +3,97 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Belgische drugsbaron opgepakt in Dubai",
+  "title": "Patrick Brems, 64 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Belgische drugsbaron opgepakt in Dubai",
-    "summary": "Net terwijl minister van Justitie Verlinden op werkbezoek is aan de Verenigde Arabische Emiraten, heeft de politie van het land de voortvluchtige Belgische drugsbaron Omar Govers (35) gearresteerd met het oog op uitlevering."
+    "title": "Patrick Brems, 64 jaar",
+    "summary": "Geboren in 1960, overleden op 04/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "opgepakt",
-        "definition": "Gearresteerd, in hechtenis genomen.",
-        "sentence": "De verdachte werd uiteindelijk ___ door de politie.",
-        "answer": "opgepakt"
+        "word": "Patrick",
+        "definition": "Een mannelijke voornaam, afgeleid van het Latijnse 'Patricius'.",
+        "sentence": "___ was een veel voorkomende naam in de jaren zestig.",
+        "answer": "Patrick"
       },
       {
-        "word": "politie",
-        "definition": "De overheidsinstantie die verantwoordelijk is voor handhaving van de wet.",
-        "sentence": "De ___ kreeg een anonieme tip.",
-        "answer": "politie"
+        "word": "Brems",
+        "definition": "Een familienaam van waarschijnlijk Nederlandse of Belgische oorsprong.",
+        "sentence": "De familie ___ heeft een lange geschiedenis in deze regio.",
+        "answer": "Brems"
       },
       {
-        "word": "Justitie",
-        "definition": "Het ministerie of de overheidsinstantie die belast is met rechtshandhaving.",
-        "sentence": "Hij werkt al jaren bij ___.",
-        "answer": "Justitie"
+        "word": "geboren",
+        "definition": "Het begin van het leven; het ter wereld komen.",
+        "sentence": "Hij werd ___ in een klein dorp in de jaren veertig.",
+        "answer": "geboren"
       },
       {
-        "word": "uitlevering",
-        "definition": "Het proces waarbij een persoon wordt overgedragen aan een ander land voor berechting.",
-        "sentence": "Er werd een verzoek tot ___ ingediend.",
-        "answer": "uitlevering"
-      },
-      {
-        "word": "voortvluchtige",
-        "definition": "Iemand die op de vlucht is voor justitie.",
-        "sentence": "De ___ werd na maanden gevonden.",
-        "answer": "voortvluchtige"
+        "word": "overleden",
+        "definition": "Het overlijden; het beëindigen van het leven.",
+        "sentence": "Hij is recent ___ na een lang ziekbed.",
+        "answer": "overleden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ werd na maanden gevonden.",
-        "answer": "voortvluchtige"
+        "sentence": "Hij is recent ___ na een lang ziekbed.",
+        "answer": "overleden"
       },
       {
-        "sentence": "Hij werkt al jaren bij ___.",
-        "answer": "Justitie"
+        "sentence": "De familie ___ heeft een lange geschiedenis in deze regio.",
+        "answer": "Brems"
       },
       {
-        "sentence": "De ___ kreeg een anonieme tip.",
-        "answer": "politie"
+        "sentence": "___ was een veel voorkomende naam in de jaren zestig.",
+        "answer": "Patrick"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de rol van minister Verlinden in deze situatie?",
+      "question": "Wat betekent 'overleden' in deze context?",
       "options": [
-        "Hij leidt het onderzoek",
-        "Hij is op werkbezoek in het land",
-        "Hij is de gearresteerde persoon",
-        "Hij is de drugsbaron zelf"
+        "Ging slapen",
+        "Is gestorven",
+        "Verhuisde",
+        "Is geboren"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom werd Omar Govers gearresteerd?",
+      "question": "Welk jaar werd Patrick Brems geboren?",
       "options": [
-        "Voor het plegen van een bankoverval",
-        "Voor het leiden van een drugsbende",
-        "Voor het ontduiken van belastingen",
-        "Voor het plegen van fraude"
+        "1960",
+        "1961",
+        "1962",
+        "1963"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de huidige status van Omar Gavers?",
+      "question": "Hoe oud was Patrick Brems op het moment van overlijden?",
       "options": [
-        "Hij is nog steeds voortvluchtig",
-        "Hij is ontsnapt uit de gevangenis",
-        "Hij is overleden",
-        "Hij is uitgeleverd aan België"
+        "64 jaar",
+        "65 jaar",
+        "63 jaar",
+        "66 jaar"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Minister Verlinden was op werkbezoek in de Verenigde Arabische Emiraten tijdens deze gebeurtenis.",
+      "statement": "Patrick Brems stierf in de maand november.",
       "isTrue": true
     },
     {
-      "statement": "Omar Govers is een Belgische drugsbaron die nog nooit is gearresteerd.",
-      "isTrue": false
+      "statement": "Patrick Brems werd geboren in de 20e eeuw.",
+      "isTrue": true
     },
     {
-      "statement": "De arrestatie vond plaats met het oog op uitlevering, niet voor directe berechting in Dubai.",
+      "statement": "Patrick Brems leefde tot in de 21e eeuw.",
       "isTrue": true
     }
   ]
