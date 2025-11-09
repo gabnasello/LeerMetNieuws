@@ -1,74 +1,105 @@
 {
-  "id": 19,
+  "id": 18,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Luc Versluig, 78 jaar",
+  "title": "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
   "topicNumber": 1,
   "article": {
-    "title": "Luc Versluig, 78 jaar",
-    "summary": "Geboren in 1946, overleden op 02/11/2025."
+    "title": "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
+    "summary": "Zaterdag zaten vijftien overlevers van misbruik samen met paus Leo XIV. Over dat gesprek zijn de zes mensen die De Standaard nadien kon spreken voorzichtig positief. Al zijn er geen concrete afspraken gemaakt over wat er in praktijk gaat veranderen. 'Als de paus het antwoord niet wist, zei hij dat ook eerlijk.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "het begin van iemands leven; het moment dat iemand ter wereld komt",
-        "sentence": "Hij is ___ in 1946.",
-        "answer": "geboren"
+        "word": "afspraken",
+        "definition": "afspraken die gemaakt zijn om iets te regelen",
+        "sentence": "Er zijn nieuwe afspraken gemaakt om dit in de toekomst te voorkomen.",
+        "answer": "afspraken"
       },
       {
-        "word": "overleden",
-        "definition": "niet meer levend; gestorven",
-        "sentence": "Hij is ___ op 2 november 2025.",
-        "answer": "overleden"
+        "word": "gesprek",
+        "definition": "een gesprek tussen twee of meer mensen",
+        "sentence": "Tijdens het gesprek met de paus werden veel zorgen gedeeld.",
+        "answer": "gesprek"
+      },
+      {
+        "word": "misbruik",
+        "definition": "het op een verkeerde of schadelijke manier gebruiken van iets of iemand",
+        "sentence": "Het misbruik van vertrouwen leidde tot veel verdriet.",
+        "answer": "misbruik"
+      },
+      {
+        "word": "eerlijk",
+        "definition": "op een oprechte en correcte manier, zonder te bedriegen",
+        "sentence": "Wees altijd eerlijk over wat je weet of niet weet.",
+        "answer": "eerlijk"
+      },
+      {
+        "word": "overlevers",
+        "definition": "mensen die een moeilijke of gevaarlijke situatie hebben meegemaakt en nu nog leven",
+        "sentence": "De overlevers van het misbruik vertelden hun verhaal aan de paus.",
+        "answer": "overlevers"
       }
     ],
-    "fillInBlanks": []
+    "fillInBlanks": [
+      {
+        "sentence": "Tijdens het gesprek met de paus werden veel zorgen gedeeld.",
+        "answer": "gesprek"
+      },
+      {
+        "sentence": "De overlevers van het misbruik vertelden hun verhaal aan de paus.",
+        "answer": "overlevers"
+      },
+      {
+        "sentence": "Het misbruik van vertrouwen leidde tot veel verdriet.",
+        "answer": "misbruik"
+      }
+    ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Luc Versluig geboren?",
+      "question": "Wat was de houding van de overlevers na het gesprek met de paus?",
       "options": [
-        "1945",
-        "1946",
-        "1947",
-        "1948"
+        "Ze waren erg boos.",
+        "Ze waren voorzichtig positief.",
+        "Ze waren volledig negatief.",
+        "Ze waren onverschillig."
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Op welke datum is Luc Versluig overleden?",
+      "question": "Wat is een belangrijk gevolg van dit gesprek volgens de tekst?",
       "options": [
-        "1 november 2025",
-        "2 november 2025",
-        "3 november 2025",
-        "4 november 2025"
+        "Er zijn nieuwe wetten gemaakt.",
+        "Er zijn geen concrete afspraken gemaakt.",
+        "De paus heeft zich verontschuldigd.",
+        "De paus is ontslagen."
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoe oud was Luc Versluig op het moment van zijn overlijden?",
+      "question": "Hoe reageerde de paus op vragen die hij niet kon beantwoorden?",
       "options": [
-        "77 jaar",
-        "78 jaar",
-        "79 jaar",
-        "80 jaar"
+        "Hij bleef stil.",
+        "Hij verzon een antwoord.",
+        "Hij gaf dat eerlijk toe.",
+        "Hij veranderde van onderwerp."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Luc Versluig is geboren in 1946.",
+      "statement": "Het gesprek tussen de overlevers en de paus vond plaats op een zaterdag.",
       "isTrue": true
     },
     {
-      "statement": "Luc Versluig is overleden op 1 november 2025.",
+      "statement": "De paus kon alle vragen van de overlevers direct beantwoorden.",
       "isTrue": false
     },
     {
-      "statement": "Luc Versluig werd 78 jaar oud.",
+      "statement": "De overlevers waren teleurgesteld na het gesprek omdat er geen concrete afspraken werden gemaakt.",
       "isTrue": true
     }
   ]

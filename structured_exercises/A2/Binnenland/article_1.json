@@ -1,106 +1,106 @@
 {
-  "id": 17,
+  "id": 16,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Luc Versluys, 78 jaar",
+  "title": "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
   "topicNumber": 1,
   "article": {
-    "title": "Luc Versluys, 78 jaar",
-    "summary": "Hij is geboren in 1946. Hij is overleden op 2 november 2025."
+    "title": "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
+    "summary": "Zaterdag zaten vijftien overlevers van misbruik samen met paus Leo XIV. Over dat gesprek zijn de zes mensen die De Standaard nadien kon spreken voorzichtig positief. Al zijn er geen concrete afspraken gemaakt over wat er in praktijk gaat veranderen. \"Als de paus het antwoord niet wist, zei hij dat ook eerlijk.\""
   },
   "vocabulary": {
     "words": [
       {
-        "word": "overleden",
-        "definition": "overleden zijn betekent dat je niet meer leeft, dat je dood bent",
-        "sentence": "Zijn oma is ___ in 2020.",
-        "answer": "overleden"
+        "word": "eerlijk",
+        "definition": "eerlijk zijn betekent de waarheid zeggen en niet liegen",
+        "sentence": "Hij is altijd ___ tegen zijn vrienden.",
+        "answer": "eerlijk"
       },
       {
-        "word": "02",
-        "definition": "nul twee, de tweede dag van de maand",
-        "sentence": "Hij is overleden op ___ november.",
-        "answer": "02"
+        "word": "zaterdag",
+        "definition": "de vijfde dag van de week",
+        "sentence": "Op ___ ging ik naar de stad.",
+        "answer": "zaterdag"
       },
       {
-        "word": "2025",
-        "definition": "het jaar tweeduizendvijfentwintig, een jaartal",
-        "sentence": "Hij is overleden in ___.",
-        "answer": "2025"
+        "word": "overlevers",
+        "definition": "mensen die iets ergs hebben meegemaakt maar nog leven",
+        "sentence": "De ___ van het ongeluk zijn naar het ziekenhuis gebracht.",
+        "answer": "overlevers"
       },
       {
-        "word": "november",
-        "definition": "de elfde maand van het jaar",
-        "sentence": "Hij is overleden in ___.",
-        "answer": "november"
+        "word": "vijftien",
+        "definition": "het getal na veertien",
+        "sentence": "Hij is ___ jaar oud.",
+        "answer": "vijftien"
       },
       {
-        "word": "2",
-        "definition": "het getal twee, na één en voor drie",
-        "sentence": "Hij is overleden op ___ november.",
-        "answer": "2"
+        "word": "positief",
+        "definition": "goed, niet slecht",
+        "sentence": "Zij reageerde ___ op het nieuws.",
+        "answer": "positief"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is overleden op ___ november.",
-        "answer": "2"
+        "sentence": "Hij is altijd ___ tegen zijn vrienden.",
+        "answer": "eerlijk"
       },
       {
-        "sentence": "Hij is overleden op ___ november.",
-        "answer": "02"
+        "sentence": "Hij is ___ jaar oud.",
+        "answer": "vijftien"
       },
       {
-        "sentence": "Hij is overleden in ___.",
-        "answer": "2025"
+        "sentence": "Zij reageerde ___ op het nieuws.",
+        "answer": "positief"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Luc Versluys geboren?",
+      "question": "Wat is de betekenis van 'positief'?",
       "options": [
-        "In 1946",
-        "In 1947",
-        "In 1948",
-        "In 1949"
+        "niet goed",
+        "goed",
+        "slecht",
+        "moeilijk"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "In welke maand is Luc Versluys overleden?",
+      "question": "Wat betekent 'samen'?",
       "options": [
-        "In januari",
-        "In februari",
-        "In oktober",
-        "In november"
+        "alleen",
+        "met anderen",
+        "snel",
+        "langzaam"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe oud was Luc Versluys toen hij overleed?",
+      "question": "Wat is een 'gesprek'?",
       "options": [
-        "75 jaar",
-        "76 jaar",
-        "77 jaar",
-        "78 jaar"
+        "een soort sport",
+        "een gesprek is wanneer mensen met elkaar praten",
+        "een soort voedsel",
+        "een soort dier"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Luc Versluys is geboren in 1946.",
+      "statement": "De paus sprak met vijftien overlevers van misbruik.",
       "isTrue": true
     },
     {
-      "statement": "Luc Versluys is overleden in 2024.",
+      "statement": "Het gesprek was met paus Leo de Veertiende.",
+      "isTrue": true
+    },
+    {
+      "statement": "Na het gesprek waren alle mensen erg negatief.",
       "isTrue": false
-    },
-    {
-      "statement": "Luc Versluys is 78 jaar geworden.",
-      "isTrue": true
     }
   ]
 }

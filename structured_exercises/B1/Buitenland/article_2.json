@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Mamdani heeft getoond dat progressieven campagne kunnen voeren met dezelfde kunde als uiterst rechts",
+  "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
   "topicNumber": 1,
   "article": {
-    "title": "Mamdani heeft getoond dat progressieven campagne kunnen voeren met dezelfde kunde als uiterst rechts",
-    "summary": "Links Europa is klaar om te leren uit de campagne van de succesvolle Amerikaanse socialist Zohran Mamdani, die burgemeester van New York wordt. “Hij toont hoe een progressief kan winnen in het hol van de leeuw.”"
+    "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
+    "summary": "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "campagne",
-        "definition": "een georganiseerde actie om een doel te bereiken, vaak in politiek",
-        "sentence": "Hij startte een ___ om meer stemmen te winnen.",
-        "answer": "campagne"
+        "word": "aanvallen",
+        "definition": "aanvallen, het aanvallen",
+        "sentence": "De ___ waren gericht op militaire doelen.",
+        "answer": "aanvallen"
       },
       {
-        "word": "uiterst",
-        "definition": "heel erg, in de hoogste mate",
-        "sentence": "De situatie was ___ gevaarlijk zonder hulp.",
-        "answer": "uiterst"
+        "word": "Midden-Oosten",
+        "definition": "een regio waaronder landen als Israël en Libanon vallen",
+        "sentence": "Het ___ is een onrustige regio.",
+        "answer": "Midden-Oosten"
       },
       {
-        "word": "rechts",
-        "definition": "aan de rechterkant, of politiek conservatief",
-        "sentence": "De partij was ___ en stond voor traditionele waarden.",
-        "answer": "rechts"
+        "word": "gewonden",
+        "definition": "mensen die gewond zijn geraakt",
+        "sentence": "Er zijn veel ___ naar het ziekenhuis gebracht.",
+        "answer": "gewonden"
       },
       {
-        "word": "kunde",
-        "definition": "kennis en vaardigheid in een bepaald gebied",
-        "sentence": "Zijn grote ___ was onmisbaar voor het project.",
-        "answer": "kunde"
+        "word": "Israëlische",
+        "definition": "van of uit Israël",
+        "sentence": "De ___ luchtmacht voerde de aanval uit.",
+        "answer": "Israëlische"
       },
       {
-        "word": "winnen",
-        "definition": "een overwinning behalen, succes hebben",
-        "sentence": "Hij hoopte de verkiezing te ___ met zijn plannen.",
-        "answer": "winnen"
+        "word": "doden",
+        "definition": "mensen die zijn overleden",
+        "sentence": "Er vielen veel ___ bij het conflict.",
+        "answer": "doden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij startte een ___ om meer stemmen te winnen.",
-        "answer": "campagne"
+        "sentence": "De ___ waren gericht op militaire doelen.",
+        "answer": "aanvallen"
       },
       {
-        "sentence": "Hij hoopte de verkiezing te ___ met zijn plannen.",
-        "answer": "winnen"
+        "sentence": "Er vielen veel ___ bij het conflict.",
+        "answer": "doden"
       },
       {
-        "sentence": "De situatie was ___ gevaarlijk zonder hulp.",
-        "answer": "uiterst"
+        "sentence": "Er zijn veel ___ naar het ziekenhuis gebracht.",
+        "answer": "gewonden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het als politici campagne voeren?",
+      "question": "Wat betekent 'gewonden' in deze context?",
       "options": [
-        "Ze organiseren een verkiezingscampagne",
-        "Ze gaan met vakantie",
-        "Ze spelen een spel",
-        "Ze doen niets"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is een synoniem voor 'leren' in deze context?",
-      "options": [
-        "Studeren",
-        "Onderwijzen",
-        "Afkijken",
-        "Ontdekken"
+        "gewonnen hebben",
+        "blessures hebben",
+        "overleden zijn",
+        "verwond zijn"
       ],
       "correctAnswer": 4
     },
     {
-      "question": "Wat betekent 'uiterst' in de titel?",
+      "question": "Waar staat 'Midden-Oosten' voor in deze tekst?",
       "options": [
-        "Heel, zeer",
-        "Bijna niet",
-        "Een klein beetje",
-        "Alleen"
+        "een sportevenement",
+        "een muziekgenre",
+        "een geografische regio",
+        "een stad"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is de hoofdstad van Libanon?",
+      "options": [
+        "Jeruzalem",
+        "Beiroet",
+        "Amman",
+        "Bagdad"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Mamdani is een progressieve politicus.",
+      "statement": "Libanon ligt ten noorden van Israël.",
       "isTrue": true
     },
     {
-      "statement": "De tekst stelt dat rechts altijd wint van links.",
+      "statement": "De aanvallen vonden plaats in de Verenigde Staten.",
       "isTrue": false
     },
     {
-      "statement": "Europa kan leren van Amerikaanse campagnes.",
+      "statement": "Gewonden zijn personen die gewond zijn geraakt.",
       "isTrue": true
     }
   ]

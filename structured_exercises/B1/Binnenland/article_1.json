@@ -1,93 +1,105 @@
 {
-  "id": 18,
+  "id": 17,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Luc Versluig, 78 jaar",
+  "title": "Slachtoffers van misbruik voorzichtig positief na ontekken met paus",
   "topicNumber": 1,
   "article": {
-    "title": "Luc Versluig, 78 jaar",
-    "summary": "Hij is geboren in 1946 en overleden op 02/11/2025."
+    "title": "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
+    "summary": "Zaterdag zaten vijftien overlevers van misbruik samen met paus Leo XIV. Over dat gesprek zijn de zes mensen die De Standaard nadien kon spreken voorzichtig positief. Al zijn er geen concrete afspraken gemaakt over wat er in praktijk gaat veranderen. “Als de paus het antwoord niet wist, zei hij dat ook eerlijk.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "het moment dat iemand ter wereld komt",
-        "sentence": "Zijn moeder ___ hem in 1946.",
-        "answer": "geboren"
+        "word": "gesprek",
+        "definition": "Een gesprek is wanneer mensen met elkaar praten",
+        "sentence": "Het ___ was open en eerlijk.",
+        "answer": "gesprek"
       },
       {
-        "word": "overleden",
-        "definition": "niet meer in leven zijn",
-        "sentence": "Hij is ___ op 2 november 2025.",
-        "answer": "overleden"
+        "word": "Zaterdag",
+        "definition": "De dag na vrijdag en voor zondag",
+        "sentence": "Op ___ ging de groep naar de paus.",
+        "answer": "Zaterdag"
       },
       {
-        "word": "jaar",
-        "definition": "een periode van 365 dagen",
-        "sentence": "Hij werd 78 ___ oud.",
-        "answer": "jaar"
+        "word": "positief",
+        "definition": "Goed, niet slecht",
+        "sentence": "De reacties waren overwegend ___.",
+        "answer": "positief"
+      },
+      {
+        "word": "vijftien",
+        "definition": "Het getal na veertien en voor zestien",
+        "sentence": "Er waren ___ mensen aanwezig.",
+        "answer": "vijftien"
+      },
+      {
+        "word": "afspraken",
+        "definition": "Afspraken zijn dingen die je met elkaar afspreekt om te doen",
+        "sentence": "Er werden geen nieuwe ___ gemaakt.",
+        "answer": "afspraken"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij werd 78 ___ oud.",
-        "answer": "jaar"
+        "sentence": "Het ___ was open en eerlijk.",
+        "answer": "gesprek"
       },
       {
-        "sentence": "Zijn moeder ___ hem in 1946.",
-        "answer": "geboren"
+        "sentence": "De reacties waren overwegend ___.",
+        "answer": "positief"
       },
       {
-        "sentence": "Hij is ___ op 2 november 2025.",
-        "answer": "overleden"
+        "sentence": "Er werden geen nieuwe ___ gemaakt.",
+        "answer": "afspraken"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Luc Versluig geboren?",
+      "question": "Wat was de houding van de paus tijdens de ontmoeting?",
       "options": [
-        "1940",
-        "1946",
-        "1950",
-        "1956"
+        "Afwezig",
+        "Open en eerlijk",
+        "Stil en gesloten",
+        "Boos en geïrriteerd"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoe oud was Luc Versluig toen hij overleed?",
+      "question": "Hoe reageerden de overlevers na de ontmoeting?",
       "options": [
-        "75 jaar",
-        "78 jaar",
-        "80 jaar",
-        "85 jaar"
+        "Ze waren erg boos",
+        "Ze waren voorzichtig positief",
+        "Ze waren heel verdrietig",
+        "Ze waren onverschillig"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Op welke datum overleed Luc Versluig?",
+      "question": "Wat werd er besproken tijdens de ontmoeting?",
       "options": [
-        "1 november 2025",
-        "2 november 2025",
-        "3 november 2025",
-        "4 november 2025"
+        "Alleen het weer",
+        "Hun persoonlijke verhalen en ervaringen",
+        "De toekomst van de kerk",
+        "De paus vertelde alleen maar grapjes"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Luc Versluig is geboren in 1946.",
+      "statement": "De paus heeft beloofd om de overlevers financieel te steunen.",
+      "isTrue": false
+    },
+    {
+      "statement": "De overlevers waren tevreden met de openhartigheid van de paus.",
       "isTrue": true
     },
     {
-      "statement": "Luc Versluig overleed op 2 november 2025.",
-      "isTrue": true
-    },
-    {
-      "statement": "Luc Versluig was 80 jaar oud toen hij overleed.",
+      "statement": "Er werden nieuwe afspraken gemaakt over toekomstige ontmoetingen.",
       "isTrue": false
     }
   ]

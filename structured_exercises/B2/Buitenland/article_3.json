@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Abu Dhabi levert wapens voor een genocide en zijn westerse bondgenoten zwijgen",
+  "title": "Navo-baas Mark Rutte waarschuwt Poetin: 'Nucleaire oorlog kan nooit gewonnen worden'",
   "topicNumber": 1,
   "article": {
-    "title": "Abu Dhabi levert wapens voor een genocide en zijn westerse bondgenoten zwijgen",
-    "summary": "In ruil voor goud leveren de Verenigde Arabische Emiraten de wapens waarmee de Rapid Support Forces in Noord-Darfour een genocidale massamoord aanrichten. Toch wijst niet één wereldleider de sjeiks van Abu Dhabi terecht."
+    "title": "NATO-leider Mark Rutte waarschuwt Poetin: 'Nucleaire oorlog kan nooit gewonnen worden'",
+    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "goud",
-        "definition": "een zeer waardevol, glanzend metaal",
-        "sentence": "Ze betaalden met repen ___ in plaats van geld.",
-        "answer": "goud"
+        "word": "oorlog",
+        "definition": "Een gewapend conflict tussen landen of groepen",
+        "sentence": "De ___ in Oekraïne duurt nu al maanden.",
+        "answer": "oorlog"
       },
       {
-        "word": "wapens",
-        "definition": "voorwerpen om mee te vechten, zoals geweren",
-        "sentence": "De rebellen hadden zware ___ gekregen van buitenaf.",
-        "answer": "wapens"
+        "word": "Oekraïne",
+        "definition": "Een land in Oost-Europa",
+        "sentence": "___ is momenteel het centrum van internationale aandacht.",
+        "answer": "Oekraïne"
       },
       {
-        "word": "genocide",
-        "definition": "het opzettelijk uitmoorden van een hele bevolkingsgroep",
-        "sentence": "De massamoord op die bevolkingsgroep was een daad van ___.",
-        "answer": "genocide"
+        "word": "melding",
+        "definition": "Een bericht of aankondiging",
+        "sentence": "Ik kreeg een ___ op mijn telefoon dat het feest is afgelast.",
+        "answer": "melding"
       },
       {
-        "word": "emiraten",
-        "definition": "staten of gebieden die door een emir geregeerd worden",
-        "sentence": "De Verenigde Arabische ___ zijn zeven in totaal.",
-        "answer": "emiraten"
+        "word": "ontwikkelingen",
+        "definition": "Veranderingen of nieuwe gebeurtenissen",
+        "sentence": "De recente ___ in de technologie zijn verbazingwekkend.",
+        "answer": "ontwikkelingen"
       },
       {
-        "word": "bondgenoten",
-        "definition": "partners in een alliantie of oorlog",
-        "sentence": "Onze ___ in die regio steunen ons niet langer.",
-        "answer": "bondgenoten"
+        "word": "Poetin",
+        "definition": "De president van Rusland",
+        "sentence": "___ heeft de invasie van Oekraïne bevolen.",
+        "answer": "Poetin"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De massamoord op die bevolkingsgroep was een daad van ___.",
-        "answer": "genocide"
+        "sentence": "De recente ___ in de technologie zijn verbazingwekkend.",
+        "answer": "ontwikkelingen"
       },
       {
-        "sentence": "Onze ___ in die regio steunen ons niet langer.",
-        "answer": "bondgenoten"
+        "sentence": "De ___ in Oekraïne duurt nu al maanden.",
+        "answer": "oorlog"
       },
       {
-        "sentence": "De rebellen hadden zware ___ gekregen van buitenaf.",
-        "answer": "wapens"
+        "sentence": "___ heeft de invasie van Oekraïne bevolen.",
+        "answer": "Poetin"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een mogelijke reden waarom westerse bondgenoten zwijgen over de wapenleveranties?",
+      "question": "Wat betekent 'nucleaire oorlog'?",
       "options": [
-        "Ze zijn bang voor economische sancties.",
-        "Ze steunen de acties van de Emiraten.",
-        "Ze hebben geen kennis van de situatie.",
-        "Ze zijn bezig met andere internationale conflicten."
+        "Een oorlog die wordt uitgevochten met kernwapens",
+        "Een ruzie tussen twee familieleden",
+        "Een sportwedstrijd die op tv wordt uitgezonden",
+        "Een oud boek over geschiedenis"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Hoe worden de wapens verkregen door de strijdende partij?",
+      "question": "Waarom waarschuwt Mark Rutte Poetin?",
       "options": [
-        "Door directe levering vanuit de Emiraten.",
-        "Via een derde land dat bemiddelt.",
-        "Door diefstal uit een militaire basis.",
-        "Door aankoop met gestolen geld."
+        "Omdat Rusland kernwapens heeft en de situatie gevaarlijk is",
+        "Omdat Rutte een etentje met hem wil plannen",
+        "Omdat Poetin graag schaakt en Rutte hem wil uitdagen",
+        "Omdat Rutte de Russische taal leuk vindt"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van de Verenigde Arabische Emiraten in dit conflict?",
+      "question": "Wat is de hoofdstad van Oekraïne?",
       "options": [
-        "Ze bemiddelen alleen maar vredesgesprekken.",
-        "Ze zijn neutraal en doen niet mee.",
-        "Ze zijn de belangrijkste wapenleverancier.",
-        "Ze bieden humanitaire hulp aan slachtoffers."
+        "Kiev",
+        "Moskou",
+        "Berlijn",
+        "Parijs"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Verenigde Arabische Emiraten leveren wapens in ruil voor goud, niet voor andere goederen.",
-      "isTrue": true
-    },
-    {
-      "statement": "Alle westerse landen hebben luidkeels hun afkeuring uitgesproken over deze wapenleveranties.",
+      "statement": "Oekraïne is een klein land in Zuid-Amerika.",
       "isTrue": false
     },
     {
-      "statement": "Enkel de Verenigde Arabische Emiraten zijn verantwoordelijk voor de wapenleveranties, geen andere landen.",
+      "statement": "Nucleaire oorlog kan nooit gewonnen worden, daarom is het zo gevaarlijk.",
       "isTrue": true
+    },
+    {
+      "statement": "Mark Rutte is de president van de Verenigde Staten.",
+      "isTrue": false
     }
   ]
 }

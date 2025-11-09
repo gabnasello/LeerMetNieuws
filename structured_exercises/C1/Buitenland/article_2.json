@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Mamdani heeft getoond dat progressieven campagne kunnen voeren met dezelfde kunde als uiterst rechts",
+  "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
   "topicNumber": 1,
   "article": {
-    "title": "Mamdani heeft getoond dat progressieven campagne kunnen voeren met dezelfde kunde als uiterst rechts",
-    "summary": "Links Europa is klaar om te leren uit de campagne van de succesvolle Amerikaanse socialist Zohran Mamdani, die burgemeester van New York wordt. “Hij toont hoe een progressief kan winnen in het hol van de leeuw.”"
+    "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
+    "summary": "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "links",
-        "definition": "Verwijst naar de politieke richting die progressieve of socialistische ideeën nastreeft.",
-        "sentence": "Hij staat bekend als een ___ denker in de gemeenschap.",
-        "answer": "links"
+        "word": "aanvallen",
+        "definition": "militaire acties of offensieven",
+        "sentence": "De recente ___ hebben de spanningen doen toenemen.",
+        "answer": "aanvallen"
       },
       {
-        "word": "progressieven",
-        "definition": "Mensen die vooruitgang of hervorming nastreven, vaak in een politieke context.",
-        "sentence": "De ___ in het parlement hebben nieuwe wetten voorgesteld.",
-        "answer": "progressieven"
+        "word": "Israëlische",
+        "definition": "betrekking hebbend op Israël",
+        "sentence": "De ___ aanvallen troffen doelen in Libanon.",
+        "answer": "Israëlische"
       },
       {
-        "word": "hol",
-        "definition": "Een holle ruimte of een plek die beschutting biedt, vaak gebruikt in metaforen.",
-        "sentence": "Het leeuwtje verliet zijn ___ pas na een maand.",
-        "answer": "hol"
+        "word": "Midden-Oosten",
+        "definition": "een regio die onder meer Israël en Libanon omvat",
+        "sentence": "Het ___ is opnieuw het toneel van geweld.",
+        "answer": "Midden-Oosten"
       },
       {
-        "word": "leeuw",
-        "definition": "Een groot, krachtig zoogdier; vaak symbolisch voor kracht of gevaar.",
-        "sentence": "Hij voelde zich als een ___ in zijn kracht tijdens de presentatie.",
-        "answer": "leeuw"
+        "word": "gewonden",
+        "definition": "personen die gewond zijn geraakt",
+        "sentence": "De doden en ___ worden geëvacueerd.",
+        "answer": "gewonden"
       },
       {
-        "word": "rechts",
-        "definition": "Betreft de politieke richting die conservatieve of traditionele waarden benadrukt.",
-        "sentence": "De partij bevindt zich meer naar ___ op het spectrum.",
-        "answer": "rechts"
+        "word": "Libanon",
+        "definition": "een land in het Midden-Oosten",
+        "sentence": "___ is een van de landen die betrokken is bij dit conflict.",
+        "answer": "Libanon"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het leeuwtje verliet zijn ___ pas na een maand.",
-        "answer": "hol"
+        "sentence": "De ___ aanvallen troffen doelen in Libanon.",
+        "answer": "Israëlische"
       },
       {
-        "sentence": "De partij bevindt zich meer naar ___ op het spectrum.",
-        "answer": "rechts"
+        "sentence": "Het ___ is opnieuw het toneel van geweld.",
+        "answer": "Midden-Oosten"
       },
       {
-        "sentence": "De ___ in het parlement hebben nieuwe wetten voorgesteld.",
-        "answer": "progressieven"
+        "sentence": "De recente ___ hebben de spanningen doen toenemen.",
+        "answer": "aanvallen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'het hol van de leeuw' in deze context?",
+      "question": "Wat is een synoniem voor 'gewonden' in deze context?",
       "options": [
-        "Een veilige plek",
-        "Een gevaarlijke of uitdagende situatie",
-        "Een rustige omgeving",
-        "Een koninklijk paleis"
+        "Gezonde personen",
+        "Gewonde personen",
+        "Buitenlandse burgers",
+        "Gelukkige mensen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van Zohran Mamdani in deze tekst?",
+      "question": "Welk land wordt genoemd als locatie van de aanvallen?",
       "options": [
-        "Hij is een lokale activist",
-        "Hij is een professionele atleet",
-        "Hij is een politiek figuur die campagne voert",
-        "Hij is een journalist"
+        "Duitsland",
+        "Libanon",
+        "Nederland",
+        "Zwitserland"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat wordt er bedoeld met 'Links Europa is klaar om te leren'?",
+      "question": "Wat betekent het om ontwikkelingen te 'volgen'?",
       "options": [
-        "Europa is fysiek klaar om te leren",
-        "Links-politiek in Europa is bereid om lessen te trekken",
-        "Europa heeft een nieuwe educatiecampagne",
-        "Links Europa is een geografische locatie"
+        "Negeren",
+        "Observeren en bijhouden",
+        "Vermijden",
+        "Ondersteunen"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Zohran Mamdani is een Amerikaanse politicus die campagne voert.",
+      "statement": "De aanvallen vonden plaats in het Midden-Oosten.",
       "isTrue": true
     },
     {
-      "statement": "De tekst stelt dat progressieven niet in staat zijn om effectief campagne te voeren.",
+      "statement": "Nederland is het land waar de aanvallen plaatsvonden.",
       "isTrue": false
     },
     {
-      "statement": "Het begrip 'het hol van de leeuw' betekent in deze context een uitdagende of riskante situatie.",
+      "statement": "Het artikel beschrijft de laatste ontwikkelingen in de regio.",
       "isTrue": true
     }
   ]

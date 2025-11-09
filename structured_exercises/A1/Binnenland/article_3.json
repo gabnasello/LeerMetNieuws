@@ -1,106 +1,106 @@
 {
-  "id": 21,
+  "id": 20,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Patrick Brems, 64 jaar",
+  "title": "Man vindt handgranaat voor zijn deur",
   "topicNumber": 1,
   "article": {
-    "title": "Patrick Brems, 64 jaar",
-    "summary": "Geboren in 1960, overleden op 04/11/2025."
+    "title": "Man vindt handgranaat voor zijn deur",
+    "summary": "Iemand vindt een handgranaat bij zijn huis. Dit is gevaarlijk. De politie onderzoekt de zaak."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Brems",
-        "definition": "Familienaam.",
-        "sentence": "De familie ___ heeft een huis.",
-        "answer": "Brems"
+        "word": "politie",
+        "definition": "mensen die de wet handhaven",
+        "sentence": "De ___ kwam naar het huis.",
+        "answer": "politie"
       },
       {
-        "word": "Patrick",
-        "definition": "Een mannelijke naam.",
-        "sentence": "___ is een man.",
-        "answer": "Patrick"
+        "word": "gevaarlijk",
+        "definition": "niet veilig, kan pijn doen",
+        "sentence": "Vuur is ___ voor kinderen.",
+        "answer": "gevaarlijk"
       },
       {
-        "word": "gebor",
-        "definition": "Niet meer leven.",
-        "sentence": "Hij is ___ in 2025.",
-        "answer": "overleden"
+        "word": "handgranaat",
+        "definition": "een gevaarlijk wapen",
+        "sentence": "De politie vond een ___ in de tuin.",
+        "answer": "handgranaat"
       },
       {
-        "word": "11",
-        "definition": "De elfde maand van het jaar.",
-        "sentence": "Hij overleed op 04/___/2025.",
-        "answer": "11"
+        "word": "is",
+        "definition": "zijn, het werkwoord",
+        "sentence": "Hij ___ een student.",
+        "answer": "is"
       },
       {
-        "word": "04",
-        "definition": "De vierde dag van de maand.",
-        "sentence": "Hij overleed op ___ november.",
-        "answer": "04"
+        "word": "zaak",
+        "definition": "een situatie of geval",
+        "sentence": "De ___ is nog niet opgelost.",
+        "answer": "zaak"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is een man.",
-        "answer": "Patrick"
+        "sentence": "Vuur is ___ voor kinderen.",
+        "answer": "gevaarlijk"
       },
       {
-        "sentence": "Hij is ___ in 2025.",
-        "answer": "overleden"
+        "sentence": "De ___ kwam naar het huis.",
+        "answer": "politie"
       },
       {
-        "sentence": "Hij overleed op ___ november.",
-        "answer": "04"
+        "sentence": "Hij ___ een student.",
+        "answer": "is"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de geboortedatum van Patrick Brems?",
+      "question": "Waar vond de man de handgranaat?",
       "options": [
-        "1960",
-        "1961",
-        "1962",
-        "1963"
+        "In zijn huis",
+        "In zijn auto",
+        "Voor zijn deur",
+        "In de supermarkt"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "In welk jaar overleed Patrick Brems?",
+      "question": "Wat doet de politie?",
       "options": [
-        "2024",
-        "2025",
-        "2026",
-        "2027"
+        "Ze negeert het",
+        "Ze onderzoekt de zaak",
+        "Ze gaat naar huis",
+        "Ze belt de man"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de achternaam van Patrick?",
+      "question": "Is de handgranaat gevaarlijk?",
       "options": [
-        "Jansen",
-        "Pieters",
-        "Brems",
-        "de Vries"
+        "Nee, het is veilig",
+        "Ja, het is gevaarlijk",
+        "Het is een pen",
+        "Het is een huis"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Patrick Brems is geboren in 1960.",
-      "isTrue": true
-    },
-    {
-      "statement": "Patrick overleed in 2024.",
+      "statement": "De man vindt de handgranaat in zijn huis.",
       "isTrue": false
     },
     {
-      "statement": "Patrick zijn achternaam is Brems.",
+      "statement": "De politie onderzoekt de zaak.",
       "isTrue": true
+    },
+    {
+      "statement": "De handgranaat is een veilig speelgoed.",
+      "isTrue": false
     }
   ]
 }

@@ -1,75 +1,106 @@
 {
-  "id": 30,
+  "id": 29,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Nanette Tassin, 96 jaar",
+  "title": "Auto rijdt in op agenten in Schaarbeek: 'Geweld tegen politiemensen is onaanvaardbaar'",
   "topicNumber": 1,
   "article": {
-    "title": "Nanette Tassin, 96 jaar",
-    "summary": "Geboren in 1928, overleden op 29/10/2025."
+    "title": "Auto rijdt in op agenten in Schaarbeek: 'Geweld tegen politiemensen is onaanvaardbaar'",
+    "summary": "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "Het begin van iemands leven; het ter wereld komen.",
-        "sentence": "Zij werd ___ in 1928.",
-        "answer": "geboren"
+        "word": "dader",
+        "definition": "iemand die een misdrijf pleegt",
+        "sentence": "De ___ is nog niet geïdentificeerd.",
+        "answer": "dader"
       },
       {
-        "word": "overleden",
-        "definition": "Niet meer in leven zijn; gestorven.",
-        "sentence": "Hij is ___ op 15 maart.",
-        "answer": "overleden"
+        "word": "moord",
+        "definition": "het opzettelijk doden van een persoon",
+        "sentence": "Hij is verdacht van ___ op zijn buurman.",
+        "answer": "moord"
+      },
+      {
+        "word": "motief",
+        "definition": "de reden of beweegreden voor een handeling",
+        "sentence": "Wat was het ___ voor deze misdaad?",
+        "answer": "motief"
+      },
+      {
+        "word": "onderzoek",
+        "definition": "een systematisch onderzoek om feiten vast te stellen",
+        "sentence": "Het parket heeft een ___ geopend naar de gebeurtenissen.",
+        "answer": "onderzoek"
+      },
+      {
+        "word": "controleren",
+        "definition": "nagaan of controleren of iets in orde is",
+        "sentence": "Agenten ___ voertuigen op de openbare weg.",
+        "answer": "controleren"
       }
     ],
-    "fillInBlanks": []
+    "fillInBlanks": [
+      {
+        "sentence": "Hij is verdacht van ___ op zijn buurman.",
+        "answer": "moord"
+      },
+      {
+        "sentence": "Wat was het ___ voor deze misdaad?",
+        "answer": "motief"
+      },
+      {
+        "sentence": "De ___ is nog niet geïdentificeerd.",
+        "answer": "dader"
+      }
+    ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de geboortedatum van Nanette Tassin?",
+      "question": "Wat is de hoofdactiviteit van de agenten in de beschreven situatie?",
       "options": [
-        "1928",
-        "1929",
-        "1930",
-        "1931"
+        "Rellen beheersen",
+        "Voertuigen controleren",
+        "Een onderzoek leiden",
+        "Een misdaad plegen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de juridische status van de handeling tegen de agenten?",
+      "options": [
+        "Het is een misdrijf van moord.",
+        "Het is een geval van verkeersovertreding.",
+        "Het is een voorbeeld van burgermanschap.",
+        "Het is een onderzoek naar mogelijke oorzaken."
       ],
       "correctAnswer": 1
     },
     {
-      "question": "In welk jaar overleed Nanette Tassin?",
+      "question": "Wat is de huidige staat van het onderzoek naar het motief?",
       "options": [
-        "2023",
-        "2024",
-        "2025",
-        "2026"
+        "Het is afgerond met een veroordeling.",
+        "Het is in de beginfase met onduidelijkheid.",
+        "Het is al bevestigd door de dader.",
+        "Het is niet van toepassing in deze situatie."
       ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Hoe oud was Nanette Tassin toen ze overleed?",
-      "options": [
-        "96 jaar",
-        "95 jaar",
-        "97 jaar",
-        "98 jaar"
-      ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Nanette Tassin werd geboren in 1928.",
+      "statement": "De agenten waren aan het controleren van een voertuig toen de aanval plaatsvond.",
       "isTrue": true
     },
     {
-      "statement": "Nanette Tassin overleed op 29 oktober 2025.",
-      "isTrue": true
-    },
-    {
-      "statement": "Nanette Tassin was 97 jaar oud bij haar overlijden.",
+      "statement": "Het motief van de dader is al bekend bij de autoriteiten.",
       "isTrue": false
+    },
+    {
+      "statement": "De auto werd gebruikt als een wapen in de aanval.",
+      "isTrue": true
     }
   ]
 }

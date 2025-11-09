@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
+  "title": "Biden: Trump maakt niet alleen het Witte Huis kapot, maar ook het land",
   "topicNumber": 1,
   "article": {
-    "title": "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
-    "summary": "In iedere race, in iedere staat kregen de Republikeinen dinsdag zware klappen. Het krachtige signaal van de kiezer plaatst hen voor een dilemma. Ze kunnen niet zonder Trump en ze kunnen niet mét hem."
+    "title": "Biden: Trump maakt niet alleen het Witte Huis kapot, maar ook het land",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "kunnen",
-        "definition": "in staat zijn om, kunnen",
-        "sentence": "Zij ___ goed zwemmen.",
-        "answer": "kunnen"
+        "word": "Trump",
+        "definition": "De voormalige president van de Verenigde Staten.",
+        "sentence": "___ was de president van Amerika.",
+        "answer": "Trump"
       },
       {
-        "word": "dilemma",
-        "definition": "een moeilijke keuze tussen twee opties",
-        "sentence": "Ze stond voor een ___: blijven of vertrekken?",
-        "answer": "dilemma"
+        "word": "verandering",
+        "definition": "Een verandering of wijziging in de situatie.",
+        "sentence": "Er was een grote ___ in het beleid.",
+        "answer": "verandering"
       },
       {
-        "word": "staat",
-        "definition": "een gebied of gebiedsdeel met eigen bestuur, zoals in de VS",
-        "sentence": "Elke ___ heeft zijn eigen wetten.",
-        "answer": "staat"
+        "word": "land",
+        "definition": "Een gebied met een eigen regering, zoals Nederland of Amerika.",
+        "sentence": "Elk ___ heeft zijn eigen regels.",
+        "answer": "land"
       },
       {
-        "word": "klappen",
-        "definition": "geluiden van iets dat hard raakt, of een informele term voor problemen",
-        "sentence": "De auto kreeg een ___ bij de botsing.",
-        "answer": "klappen"
+        "word": "Witte Huis",
+        "definition": "De plaats waar de Amerikaanse president werkt.",
+        "sentence": "Het ___ is in Washington D.C.",
+        "answer": "Witte Huis"
       },
       {
-        "word": "race",
-        "definition": "een wedstrijd of competitie",
-        "sentence": "De hardlopers namen deel aan de ___.",
-        "answer": "race"
+        "word": "Biden",
+        "definition": "De president van de Verenigde Staten.",
+        "sentence": "___ is de president van Amerika.",
+        "answer": "Biden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De hardlopers namen deel aan de ___.",
-        "answer": "race"
+        "sentence": "Er was een grote ___ in het beleid.",
+        "answer": "verandering"
       },
       {
-        "sentence": "Zij ___ goed zwemmen.",
-        "answer": "kunnen"
+        "sentence": "___ was de president van Amerika.",
+        "answer": "Trump"
       },
       {
-        "sentence": "Ze stond voor een ___: blijven of vertrekken?",
-        "answer": "dilemma"
+        "sentence": "Elk ___ heeft zijn eigen regels.",
+        "answer": "land"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'krijgen' in de context van de tekst?",
+      "question": "Waar werkt de Amerikaanse president?",
       "options": [
-        "iets ontvangen",
-        "iets kopen",
-        "iets breken",
-        "iets maken"
+        "Het Witte Huis",
+        "Het Witte Huis",
+        "Het Witte Huis",
+        "Het Witte Huis"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is een 'staat' in de politieke context?",
+      "question": "Wat betekent 'termijn' in deze context?",
       "options": [
-        "een land",
-        "een stad",
-        "een provincie",
-        "een regio"
+        "Een periode van tijd",
+        "Een soort gebouw",
+        "Een soort dier",
+        "Een type auto"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is het tegenovergestelde van 'kunnen'?",
+      "question": "Wat is de hoofdstad van de Verenigde Staten?",
       "options": [
-        "mogen",
-        "willen",
-        "niet kunnen",
-        "stoppen"
+        "Washington D.C.",
+        "New York",
+        "Los Angeles",
+        "Chicago"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Trump is nog steeds een belangrijke figuur voor de Republikeinse partij.",
-      "isTrue": true
-    },
-    {
-      "statement": "De Republikeinen wonnen alle verkiezingen op dinsdag.",
+      "statement": "Donald Trump is de huidige president van de Verenigde Staten.",
       "isTrue": false
     },
     {
-      "statement": "Een dilemma betekent dat je moet kiezen tussen twee slechte opties.",
+      "statement": "Joe Biden is de huidige president van de Verenigde Staten.",
       "isTrue": true
+    },
+    {
+      "statement": "Het Witte Huis staat in New York.",
+      "isTrue": false
     }
   ]
 }

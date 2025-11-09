@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
+  "title": "Biden: “Trump maakt het Witte Huis en het land kapot”",
   "topicNumber": 1,
   "article": {
-    "title": "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
-    "summary": "In iedere race, in iedere staat kregen de Republikeinen dinsdag zware klappen. Het krachtige signaal van de kiezer plaatst hen voor een dilemma. Ze kunnen niet zonder Trump en ze kunnen niet mét hem."
+    "title": "Biden: “Trump maakt het Witte Huis en het land kapot”",
+    "summary": "Donald Trump was president van Amerika. Zijn tweede termijn bracht veel verandering in de wereld. Volg hier het laatste nieuws."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "plaatst",
-        "definition": "zet of stopt iets",
-        "sentence": "Hij ___ het boek op de tafel.",
-        "answer": "plaatst"
+        "word": "president",
+        "definition": "een leider van een land",
+        "sentence": "De ___ van de Verenigde Staten is Joe Biden.",
+        "answer": "president"
       },
       {
-        "word": "dilemma",
-        "definition": "een moeilijke keuze tussen twee dingen",
-        "sentence": "Het was een echt ___: gaan of blijven?",
-        "answer": "dilemma"
+        "word": "termijn",
+        "definition": "een periode van tijd, vaak voor een baan",
+        "sentence": "Hij had een tweede ___ als president.",
+        "answer": "termijn"
       },
       {
-        "word": "staat",
-        "definition": "een gebied in een land, zoals een provincie",
-        "sentence": "Elke ___ heeft zijn eigen regels.",
-        "answer": "staat"
+        "word": "wereld",
+        "definition": "de aarde en alle mensen",
+        "sentence": "De ___ keek toe naar Amerika.",
+        "answer": "wereld"
       },
       {
-        "word": "signaal",
-        "definition": "een teken of bericht",
-        "sentence": "Het ___ was duidelijk: stop nu.",
-        "answer": "signaal"
+        "word": "verandering",
+        "definition": "iets wat anders wordt dan het was",
+        "sentence": "Er was veel ___ in het beleid.",
+        "answer": "verandering"
       },
       {
-        "word": "klappen",
-        "definition": "harde geluiden, of moeilijke momenten",
-        "sentence": "Hij kreeg veel ___ tijdens de wedstrijd.",
-        "answer": "klappen"
+        "word": "nieuws",
+        "definition": "informatie over wat er gebeurt",
+        "sentence": "Het laatste ___ is net uitgekomen.",
+        "answer": "nieuws"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Elke ___ heeft zijn eigen regels.",
-        "answer": "staat"
+        "sentence": "De ___ keek toe naar Amerika.",
+        "answer": "wereld"
       },
       {
-        "sentence": "Het ___ was duidelijk: stop nu.",
-        "answer": "signaal"
+        "sentence": "Het laatste ___ is net uitgekomen.",
+        "answer": "nieuws"
       },
       {
-        "sentence": "Het was een echt ___: gaan of blijven?",
-        "answer": "dilemma"
+        "sentence": "Hij had een tweede ___ als president.",
+        "answer": "termijn"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het woord 'race' in deze context?",
+      "question": "Wie is de president van de Verenigde Staten nu?",
       "options": [
-        "een snel bewegend voertuig",
-        "een wedstrijd of competitie",
-        "een type dier",
-        "een hard geluid"
+        "Joe Biden",
+        "Donald Trump",
+        "Barack Obama",
+        "Bill Clinton"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de betekenis van 'dilemma'?",
+      "question": "Welk effect had Trump's presidentschap op de wereld?",
       "options": [
-        "een gemakkelijke keuze",
-        "een moeilijke keuze tussen twee dingen",
-        "een soort dier",
-        "een groot feest"
+        "Veel verandering",
+        "Alles bleef hetzelfde",
+        "Er was geen effect",
+        "Alleen Amerika veranderde"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Waar kan men het laatste nieuws over de verkiezingen volgen?",
       "options": [
-        "Koken en eten",
-        "Politiek en verkiezingen",
-        "Sport en wedstrijden",
-        "Muziek en dans"
+        "In de krant",
+        "Op de radio",
+        "Op deze website",
+        "In een boek"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Trump is nog steeds een sterke leider voor de Republikeinen.",
-      "isTrue": false
-    },
-    {
-      "statement": "De Republikeinen verloren sterk bij de verkiezingen.",
+      "statement": "Donald Trump was de president van Amerika.",
       "isTrue": true
     },
     {
-      "statement": "Trump kan niet meer meedoen aan verkiezingen.",
+      "statement": "Zijn eerste termijn bracht veel verandering in de wereld.",
       "isTrue": false
+    },
+    {
+      "statement": "Je kunt hier het laatste nieuws over de verkiezingen volgen.",
+      "isTrue": true
     }
   ]
 }

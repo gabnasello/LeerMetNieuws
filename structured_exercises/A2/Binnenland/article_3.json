@@ -1,94 +1,106 @@
 {
-  "id": 22,
+  "id": 21,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Patrick Brems, 64 jaar",
+  "title": "Inwoner van Kapellen vindt handgranaat voor deur",
   "topicNumber": 1,
   "article": {
-    "title": "Patrick Brems, 64 jaar",
-    "summary": "Geboren in 1960, overleden op 04/11/2025."
+    "title": "Inwoner van Kapellen vindt handgranaat voor deur",
+    "summary": "In Borgerhout is een explosief ontploft voor een woning. In Kapellen is een handgranaat gevonden voor een woning. Er is nog geen link tussen deze twee gevallen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "wanneer iemand geboren is, is dat het begin van het leven",
-        "sentence": "Hij is ___ in 1960.",
-        "answer": "geboren"
+        "word": "link",
+        "definition": "een verbinding tussen twee dingen",
+        "sentence": "Is er een ___ tussen deze twee gebeurtenissen?",
+        "answer": "link"
       },
       {
-        "word": "overleden",
-        "definition": "niet meer leven; dood zijn",
-        "sentence": "Hij is ___ op 04/11/2025.",
-        "answer": "overleden"
+        "word": "voor",
+        "definition": "aan de voorkant of bij iets",
+        "sentence": "De bal lag ___ de deur.",
+        "answer": "voor"
       },
       {
-        "word": "overleden",
-        "definition": "niet meer leven; dood zijn",
-        "sentence": "Hij is ___ op 04/11/2025.",
-        "answer": "overleden"
+        "word": "handgranaat",
+        "definition": "een soort kleine bom",
+        "sentence": "Een ___ is gevaarlijk en mag niet zomaar blijven liggen.",
+        "answer": "handgranaat"
+      },
+      {
+        "word": "inwoner",
+        "definition": "iemand die in een plaats woont",
+        "sentence": "De ___ van het dorp kent iedereen.",
+        "answer": "inwoner"
+      },
+      {
+        "word": "deur",
+        "definition": "het deel van een huis of kamer waar je door naar binnen gaat",
+        "sentence": "Hij klopte op de ___ en wachtte.",
+        "answer": "deur"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is ___ op 04/11/2025.",
-        "answer": "overleden"
+        "sentence": "De bal lag ___ de deur.",
+        "answer": "voor"
       },
       {
-        "sentence": "Hij is ___ op 04/11/2025.",
-        "answer": "overleden"
+        "sentence": "Een ___ is gevaarlijk en mag niet zomaar blijven liggen.",
+        "answer": "handgranaat"
       },
       {
-        "sentence": "Hij is ___ in 1960.",
-        "answer": "geboren"
+        "sentence": "Is er een ___ tussen deze twee gebeurtenissen?",
+        "answer": "link"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wanneer is Patrick geboren?",
+      "question": "Waar werd de handgranaat gevonden?",
       "options": [
-        "In 1960",
-        "In 1964",
-        "In 1970",
-        "In 1980"
+        "In de tuin",
+        "Aan de voordeur",
+        "Op straat",
+        "In een park"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe oud was Patrick toen hij overleed?",
+      "question": "Wat is een handgranaat?",
       "options": [
-        "64 jaar",
-        "70 jaar",
-        "75 jaar",
-        "80 jaar"
+        "Een soort fruit",
+        "Een soort groente",
+        "Een soort wapen",
+        "Een soort dier"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Waar kan je informatie over Patrick vinden?",
+      "question": "Wat is de link tussen de twee gevallen?",
       "options": [
-        "In een boek",
-        "Op een website",
-        "In een krant",
-        "Op een website"
+        "Er is geen link",
+        "Het is dezelfde persoon",
+        "Het is op dezelfde dag",
+        "Het is in dezelfde stad"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Patrick is geboren in 1960.",
+      "statement": "Er is een explosie geweest in Borgerhout.",
       "isTrue": true
     },
     {
-      "statement": "Patrick overleed in 2024.",
+      "statement": "De handgranaat in Kapellen is ontploft.",
       "isTrue": false
     },
     {
-      "statement": "Patrick was 64 jaar oud toen hij overleed.",
-      "isTrue": true
+      "statement": "Er is een link tussen de twee gebeurtenissen.",
+      "isTrue": false
     }
   ]
 }

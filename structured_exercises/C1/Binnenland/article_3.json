@@ -1,99 +1,105 @@
 {
-  "id": 25,
+  "id": 24,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Patrick Brems, 64 jaar",
+  "title": "Inwoner van Kapellen vindt een handgranaat voor zijn poort: 'Zo raar is dat toch niet, mijnheer?'",
   "topicNumber": 1,
   "article": {
-    "title": "Patrick Brems, 64 jaar",
-    "summary": "Geboren in 1960, overleden op 04/11/2025."
+    "title": "Inwoner van Kapellen vindt een handgranaat voor zijn poort: 'Zo raar is dat toch niet, mijnheer?'",
+    "summary": "In Borgerhout is zaterdagnacht een explosief ontploft voor de deur van een woning. Onbekenden hebben vannacht ook een handgranaat achtergelaten voor een woning in Kapellen. Er is voorlopig geen sprake van een link tussen de twee feiten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Patrick",
-        "definition": "Een mannelijke voornaam, afgeleid van het Latijnse 'Patricius'.",
-        "sentence": "___ was een veel voorkomende naam in de jaren zestig.",
-        "answer": "Patrick"
+        "word": "raar",
+        "definition": "Vreemd of ongebruikelijk, niet normaal.",
+        "sentence": "Het was erg ___ dat hij zo laat thuiskwam.",
+        "answer": "raar"
       },
       {
-        "word": "Brems",
-        "definition": "Een familienaam van waarschijnlijk Nederlandse of Belgische oorsprong.",
-        "sentence": "De familie ___ heeft een lange geschiedenis in deze regio.",
-        "answer": "Brems"
+        "word": "vindt",
+        "definition": "Ontdekt of aantreft, meestal per toeval.",
+        "sentence": "Hij ___ een euro op straat en was erg blij.",
+        "answer": "vindt"
       },
       {
-        "word": "geboren",
-        "definition": "Het begin van het leven; het ter wereld komen.",
-        "sentence": "Hij werd ___ in een klein dorp in de jaren veertig.",
-        "answer": "geboren"
+        "word": "ontploft",
+        "definition": "Ontploft, is ontploft; geëxplodeerd.",
+        "sentence": "De bom ___ zonder gewonden te veroorzaken.",
+        "answer": "ontploft"
       },
       {
-        "word": "overleden",
-        "definition": "Het overlijden; het beëindigen van het leven.",
-        "sentence": "Hij is recent ___ na een lang ziekbed.",
-        "answer": "overleden"
+        "word": "link",
+        "definition": "Een verbinding of verband tussen twee zaken.",
+        "sentence": "Er is een duidelijke ___ tussen roken en longkanker.",
+        "answer": "link"
+      },
+      {
+        "word": "explosief",
+        "definition": "Betrekking hebbend op of geschikt voor een explosie.",
+        "sentence": "De ___ stoffen werden veilig opgeslagen.",
+        "answer": "explosief"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is recent ___ na een lang ziekbed.",
-        "answer": "overleden"
+        "sentence": "Het was erg ___ dat hij zo laat thuiskwam.",
+        "answer": "raar"
       },
       {
-        "sentence": "De familie ___ heeft een lange geschiedenis in deze regio.",
-        "answer": "Brems"
+        "sentence": "De bom ___ zonder gewonden te veroorzaken.",
+        "answer": "ontploft"
       },
       {
-        "sentence": "___ was een veel voorkomende naam in de jaren zestig.",
-        "answer": "Patrick"
+        "sentence": "De ___ stoffen werden veilig opgeslagen.",
+        "answer": "explosief"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'overleden' in deze context?",
+      "question": "Wat betekent 'vindt' in deze context?",
       "options": [
-        "Ging slapen",
-        "Is gestorven",
-        "Verhuisde",
-        "Is geboren"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Welk jaar werd Patrick Brems geboren?",
-      "options": [
-        "1960",
-        "1961",
-        "1962",
-        "1963"
+        "Vindt",
+        "Vind",
+        "Vindt",
+        "Vindt"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Hoe oud was Patrick Brems op het moment van overlijden?",
+      "question": "Wat is een 'handgranaat'?",
       "options": [
-        "64 jaar",
-        "65 jaar",
-        "63 jaar",
-        "66 jaar"
+        "Een soort fruit",
+        "Een soort dier",
+        "Een soort wapen",
+        "Een soort boek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat betekent 'er is voorlopig geen sprake van een link'?",
+      "options": [
+        "Er is nog geen verband bewezen",
+        "Er is al een verband bewezen",
+        "Er is geen verband mogelijk",
+        "Er is een duidelijk verband"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Patrick Brems stierf in de maand november.",
+      "statement": "In Borgerhout is een explosief ontploft voor de deur van een woning.",
       "isTrue": true
     },
     {
-      "statement": "Patrick Brems werd geboren in de 20e eeuw.",
-      "isTrue": true
+      "statement": "Er is een bewezen verband tussen de incidenten in Borgerhout en Kapellen.",
+      "isTrue": false
     },
     {
-      "statement": "Patrick Brems leefde tot in de 21e eeuw.",
+      "statement": "Er is voorlopig geen sprake van een link tussen de twee feiten.",
       "isTrue": true
     }
   ]

@@ -1,15 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-11-08 04:27 UCT
+Nieuwsupdate: 2025-11-09 04:27 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Patrick Brems, 64 jaar
-Link: https://www.standaard.be/binnenland/inmemoriam/patrick-brems-64-jaar/103556923.html
-Datum: Sat, 08 Nov 2025 04:14:17 GMT
-Samenvatting: Geboren in 1960, overleden op 04/11/2025.
+Titel: Inwoner van Kapellen vindt een handgranaat voor zijn poort: “Zo raar is dat toch niet, mijnheer?”
+Link: https://www.standaard.be/binnenland/inwoner-van-kapellen-vindt-een-handgranaat-voor-zijn-poort-zo-raar-is-dat-toch-niet-mijnheer/103583309.html
+Datum: Sat, 08 Nov 2025 16:19:00 GMT
+Samenvatting: In Borgerhout is zaterdagnacht een explosief ontploft voor de deur van een woning. Onbekenden hebben vannacht ook een handgranaat achtergelaten voor een woning in Kapellen. Er is voorlopig geen sprake van een link tussen de twee feiten.
 Auteur: Geen auteur
-Categorie: Inmemoriam
-Afbeelding: https://prod-img.standaard.be/public/binnenland/inmemoriam/j21dus-article-gate-img-607506-ds-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_607506-ds-inmemoriam_0
-Premium: false
+Categorie: Binnenland
+Afbeelding: https://prod-img.standaard.be/public/nieuws/jonfdo-0ce7899f-a853-4041-8b41-41cc0a7c4b99.jpg/alternates/BASE_SIXTEEN_NINE/0ce7899f-a853-4041-8b41-41cc0a7c4b99.jpg
+Premium: true
 ------------------------------------------------------------

@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Abu Dhabi levert wapens voor een genocide",
+  "title": "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
   "topicNumber": 1,
   "article": {
-    "title": "Abu Dhabi levert wapens voor een genocide",
-    "summary": "In ruil voor goud leveren de Verenigde Arabische Emiraten de wapens waarmee de Rapid Support Forces in Noord-Darfour een genocidale massamoord aanrichten. Toch wijst niet één wereldleider de sjeiks van Abu Dhabi terecht."
+    "title": "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
+    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "wapens",
-        "definition": "dingen waarmee je kunt schieten, zoals een geweer",
-        "sentence": "Soms geven landen ___ aan andere landen.",
-        "answer": "wapens"
+        "word": "ontwikkelingen",
+        "definition": "nieuwe dingen die gebeuren of veranderen",
+        "sentence": "De technologische ___ gaan snel.",
+        "answer": "ontwikkelingen"
       },
       {
-        "word": "levert",
-        "definition": "geeft iets aan iemand, zoals een product of dienst",
-        "sentence": "De supermarkt ___ boodschappen aan klanten.",
-        "answer": "levert"
+        "word": "app",
+        "definition": "een programma op je telefoon of computer",
+        "sentence": "Deze ___ helpt je om talen te leren.",
+        "answer": "app"
       },
       {
-        "word": "genocide",
-        "definition": "het opzettelijk doden van een hele groep mensen",
-        "sentence": "In een ___ worden veel onschuldige mensen gedood.",
-        "answer": "genocide"
+        "word": "melding",
+        "definition": "een bericht dat je iets vertelt",
+        "sentence": "Ik kreeg een ___ dat de post was aangekomen.",
+        "answer": "melding"
       },
       {
-        "word": "massamoord",
-        "definition": "het doden van veel mensen in één keer",
-        "sentence": "Een ___ is een verschrikkelijke gebeurtenis.",
-        "answer": "massamoord"
+        "word": "poetin",
+        "definition": "de naam van de leider van Rusland",
+        "sentence": "___ regeerde Rusland.",
+        "answer": "poetin"
       },
       {
-        "word": "sjeiks",
-        "definition": "een belangrijke leider in sommige Arabische landen",
-        "sentence": "De ___ hebben veel invloed in hun land.",
-        "answer": "sjeiks"
+        "word": "oorlog",
+        "definition": "een situatie waar landen vechten",
+        "sentence": "De ___ duurt al lang.",
+        "answer": "oorlog"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "In een ___ worden veel onschuldige mensen gedood.",
-        "answer": "genocide"
+        "sentence": "___ regeerde Rusland.",
+        "answer": "poetin"
       },
       {
-        "sentence": "De supermarkt ___ boodschappen aan klanten.",
-        "answer": "levert"
+        "sentence": "De technologische ___ gaan snel.",
+        "answer": "ontwikkelingen"
       },
       {
-        "sentence": "Soms geven landen ___ aan andere landen.",
-        "answer": "wapens"
+        "sentence": "Ik kreeg een ___ dat de post was aangekomen.",
+        "answer": "melding"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'levert' in deze tekst?",
+      "question": "Wat betekent 'nucleaire oorlog'?",
       "options": [
-        "geeft",
-        "neemt",
-        "verkoopt",
-        "verbergt"
+        "Een oorlog in de lucht",
+        "Een oorlog met atoombommen",
+        "Een oorlog op zee",
+        "Een oorlog in de ruimte"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat betekent 'ontwikkelingen'?",
+      "options": [
+        "Nieuwe dingen die gebeuren",
+        "Oude dingen die verdwijnen",
+        "Mensen die vechten",
+        "Dieren die groeien"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waarom zwijgen de bondgenoten volgens de tekst?",
+      "question": "Waar gaat de tekst over?",
       "options": [
-        "Ze zijn niet betrokken",
-        "Ze steunen de actie",
-        "Ze zijn het ermee eens",
-        "Ze weten het niet"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat is een 'sjeik'?",
-      "options": [
-        "Een soort wapen",
-        "Een soort voedsel",
-        "Een soort leider",
-        "Een soort gebouw"
+        "Over een nieuwe app",
+        "Over een sportwedstrijd",
+        "Over een nucleaire oorlog",
+        "Over een vakantie"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Abu Dhabi levert wapens aan de Rapid Support Forces.",
+      "statement": "Poetin is de leider van Rusland.",
       "isTrue": true
     },
     {
-      "statement": "Alle wereldleiders keuren de acties van Abu Dhabi af.",
+      "statement": "Een nucleaire oorlog is gemakkelijk te winnen.",
       "isTrue": false
     },
     {
-      "statement": "Er wordt goud gebruikt in de ruil voor wapens.",
+      "statement": "Je kunt de app DS Nieuws downloaden.",
       "isTrue": true
     }
   ]

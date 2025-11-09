@@ -1,93 +1,105 @@
 {
-  "id": 27,
+  "id": 26,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Nanette Tassin, 96 jaar",
+  "title": "Auto rijdt in op agenten in Schaarbeek",
   "topicNumber": 1,
   "article": {
-    "title": "Nanette Tassin, 96 jaar",
-    "summary": "Ze is geboren in 1928. Ze is overleden op 29 oktober 2025."
+    "title": "Auto rijdt in op agenten in Schaarbeek",
+    "summary": "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "Wanneer iemand is geboren, betekent dit dat die persoon op die dag is geboren.",
-        "sentence": "Ze is ___ in 1928.",
-        "answer": "geboren"
+        "word": "moord",
+        "definition": "het opzettelijk doden van een persoon",
+        "sentence": "Het was een poging tot ___.",
+        "answer": "moord"
       },
       {
-        "word": "overleden",
-        "definition": "Iemand is overleden wanneer die persoon is gestorven.",
-        "sentence": "Ze is ___ op 29 oktober 2025.",
-        "answer": "overleden"
+        "word": "agenten",
+        "definition": "mensen die de wet handhaven",
+        "sentence": "De ___ waren een voertuig aan het controleren.",
+        "answer": "agenten"
       },
       {
-        "word": "jaar",
-        "definition": "Een jaar is een periode van 365 of 366 dagen, van 1 januari tot 31 december.",
-        "sentence": "Ze leefde 96 ___.",
-        "answer": "jaar"
+        "word": "controleren",
+        "definition": "nagaan of iets in orde is",
+        "sentence": "Ze waren het voertuig aan het ___.",
+        "answer": "controleren"
+      },
+      {
+        "word": "auto",
+        "definition": "een voertuig voor transport",
+        "sentence": "De ___ reed tegen de agenten.",
+        "answer": "auto"
+      },
+      {
+        "word": "motief",
+        "definition": "de reden waarom iemand iets doet",
+        "sentence": "Over het ___ van de dader is nog geen duidelijkheid.",
+        "answer": "motief"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze is ___ op 29 oktober 2025.",
-        "answer": "overleden"
+        "sentence": "Over het ___ van de dader is nog geen duidelijkheid.",
+        "answer": "motief"
       },
       {
-        "sentence": "Ze is ___ in 1928.",
-        "answer": "geboren"
+        "sentence": "Het was een poging tot ___.",
+        "answer": "moord"
       },
       {
-        "sentence": "Ze leefde 96 ___.",
-        "answer": "jaar"
+        "sentence": "De ___ waren een voertuig aan het controleren.",
+        "answer": "agenten"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Nanette Tassin geboren?",
+      "question": "Waar gebeurde het incident met de auto?",
       "options": [
-        "1920",
-        "1928",
-        "1930",
-        "1935"
+        "Schaarbeek",
+        "Brussel",
+        "Schilde",
+        "Antwerpen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat deden de agenten op het moment van het incident?",
+      "options": [
+        "Ze waren aan het eten",
+        "Ze waren een voertuig aan het controleren",
+        "Ze waren aan het slapen",
+        "Ze waren aan het rijden"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoe oud was Nanette Tassin toen ze overleed?",
+      "question": "Wat is het motief van de dader volgens de tekst?",
       "options": [
-        "80 jaar",
-        "90 jaar",
-        "96 jaar",
-        "100 jaar"
+        "Nog niet bekend",
+        "Wraak",
+        "Roem",
+        "Geld"
       ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Op welke datum overleed Nanette Tassin?",
-      "options": [
-        "29 oktober 2024",
-        "29 oktober 2025",
-        "30 oktober 2025",
-        "31 oktober 2025"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Nanette Tassin is geboren in 1928.",
+      "statement": "De agenten waren aan het rijden met de auto.",
+      "isTrue": false
+    },
+    {
+      "statement": "Het parket heeft een onderzoek geopend.",
       "isTrue": true
     },
     {
-      "statement": "Nanette Tassin overleed op 29 oktober 2025.",
-      "isTrue": true
-    },
-    {
-      "statement": "Nanette Tassin was 100 jaar oud toen ze overleed.",
+      "statement": "De dader heeft de auto gestolen van een politieagent.",
       "isTrue": false
     }
   ]

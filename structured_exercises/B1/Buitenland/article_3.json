@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Abu Dhabi levert wapens voor een genocide en zijn westerse bondgenoten zwijgen",
+  "title": "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
   "topicNumber": 1,
   "article": {
-    "title": "Abu Dhabi levert wapens voor een genocide en zijn westerse bondgenoten zwijgen",
-    "summary": "In ruil voor goud leveren de Verenigde Arabische Emiraten de wapens waarmee de Rapid Support Forces in Noord-Darfour een genocidale massamoord aanrichten. Toch wijst niet één wereldleider de sjeiks van Abu Dhabi terecht."
+    "title": "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
+    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "terecht",
-        "definition": "op de juiste manier, of met een goede reden",
-        "sentence": "Hij kreeg een boete en dat was helemaal ___.",
-        "answer": "terecht"
+        "word": "ontwikkelingen",
+        "definition": "Nieuwe gebeurtenissen of veranderingen in een situatie.",
+        "sentence": "De recente ___ in de technologie zijn snel.",
+        "answer": "ontwikkelingen"
       },
       {
-        "word": "levert",
-        "definition": "geeft of verstrekt iets",
-        "sentence": "De supermarkt ___ voedsel en andere producten.",
-        "answer": "levert"
+        "word": "Navo",
+        "definition": "Een militaire alliantie van landen in Europa en Noord-Amerika.",
+        "sentence": "De ___ is een belangrijke organisatie voor veiligheid.",
+        "answer": "Navo"
       },
       {
-        "word": "zwijgen",
-        "definition": "geen geluid maken, niet praten",
-        "sentence": "Wanneer de leraar boos is, moet de klas ___ en luisteren.",
-        "answer": "zwijgen"
+        "word": "baas",
+        "definition": "De persoon die de leiding heeft over een groep of organisatie.",
+        "sentence": "Hij is de ___ van het hele team.",
+        "answer": "baas"
       },
       {
-        "word": "goud",
-        "definition": "een heel waardevol, glimmend metaal",
-        "sentence": "Sieraden van ___ zijn vaak heel duur.",
-        "answer": "goud"
+        "word": "kan",
+        "definition": "Een hulpwerkwoord dat aangeeft dat iets mogelijk is.",
+        "sentence": "Hij ___ morgen komen, maar het is niet zeker.",
+        "answer": "kan"
       },
       {
-        "word": "sjeiks",
-        "definition": "een soort leider of belangrijk persoon in sommige Arabische landen",
-        "sentence": "De ___ van dat land beslisten over de nieuwe wet.",
-        "answer": "sjeiks"
+        "word": "waarschuwt",
+        "definition": "Iemand waarschuwen betekent dat je die persoon zegt om voorzichtig te zijn.",
+        "sentence": "Hij ___ zijn vriend voor het gevaar.",
+        "answer": "waarschuwt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De supermarkt ___ voedsel en andere producten.",
-        "answer": "levert"
+        "sentence": "Hij ___ zijn vriend voor het gevaar.",
+        "answer": "waarschuwt"
       },
       {
-        "sentence": "Wanneer de leraar boos is, moet de klas ___ en luisteren.",
-        "answer": "zwijgen"
+        "sentence": "De recente ___ in de technologie zijn snel.",
+        "answer": "ontwikkelingen"
       },
       {
-        "sentence": "De ___ van dat land beslisten over de nieuwe wet.",
-        "answer": "sjeiks"
+        "sentence": "De ___ is een belangrijke organisatie voor veiligheid.",
+        "answer": "Navo"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'levert' in deze context?",
+      "question": "Waar gaat dit artikel vooral over?",
       "options": [
-        "geeft of verstrekt",
-        "verbergt of verstopt",
-        "verkoopt of ruilt",
-        "verwacht of plant"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Waarom leveren de Verenigde Arabische Emiraten wapens aan de Rapid Support Forces?",
-      "options": [
-        "Omdat ze daarvoor goud krijgen",
-        "Omdat ze dezelfde religie hebben",
-        "Omdat ze een gezamenlijke vijand hebben",
-        "Omdat ze een verdrag hebben ondertekend"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is de houding van wereldleiders tegenover de sjeiks van Abu Dhabi?",
-      "options": [
-        "Ze steunen hun acties openlijk",
-        "Ze negeren de situatie volledig",
-        "Ze zeggen niets tegen de sjeiks",
-        "Ze werken samen voor meer macht"
+        "Koken en eten",
+        "Een nucleaire oorlog",
+        "De Navo en een waarschuwing",
+        "Vakantieplannen"
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "Wat betekent 'waarschuwen' in deze context?",
+      "options": [
+        "Iemand een cadeau geven",
+        "Iemand vertellen om voorzichtig te zijn",
+        "Iemand uitnodigen voor een feest",
+        "Iemand negeren"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Waarom is het belangrijk om dit nieuws te volgen?",
+      "options": [
+        "Omdat het over mode gaat",
+        "Omdat het over een belangrijke wereldgebeurtenis gaat",
+        "Omdat het alleen over sport gaat",
+        "Omdat het een grap is"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Verenigde Arabische Emiraten leveren wapens in ruil voor goud.",
+      "statement": "Mark Rutte is de baas van de Navo.",
       "isTrue": true
     },
     {
-      "statement": "Alle wereldleiders spreken de sjeiks van Abu Dhabi aan over hun daden.",
+      "statement": "Dit artikel gaat over koken en eten.",
       "isTrue": false
     },
     {
-      "statement": "De Rapid Support Forces voeren een massamoord uit in Noord-Darfour.",
+      "statement": "De Navo is een militaire alliantie.",
       "isTrue": true
     }
   ]

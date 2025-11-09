@@ -1,105 +1,105 @@
 {
-  "id": 23,
+  "id": 22,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Patrick Brems, 64 jaar",
+  "title": "Inwoner van Kapellen vindt een handgranaat voor zijn deur: “Zo raar is dat toch niet, meneer?”",
   "topicNumber": 1,
   "article": {
-    "title": "Patrick Brems, 64 jaar",
-    "summary": "Hij is geboren in 1960 en overleden op 4 november 2025."
+    "title": "Inwoner van Kapellen vindt een handgranaat voor zijn deur: “Zo raar is dat toch niet, meneer?”",
+    "summary": "In Borgerhout is zaterdagnacht een explosief ontploft voor de deur van een woning. Onbekenden hebben vannacht ook een handgranaat achtergelaten voor een woning in Kapellen. Er is voorlopig geen sprake van een link tussen de twee feiten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Brems",
-        "definition": "de achternaam van deze persoon",
-        "sentence": "Zijn achternaam is ___.",
-        "answer": "Brems"
+        "word": "deur",
+        "definition": "het deel van een huis waar je door naar binnen gaat",
+        "sentence": "De ___ staat open, dus je kunt naar binnen.",
+        "answer": "deur"
       },
       {
-        "word": "geboren",
-        "definition": "begonnen met leven, het tegenovergestelde van gestorven",
-        "sentence": "Hij is ___ in 1960.",
-        "answer": "geboren"
+        "word": "tussen",
+        "definition": "in het midden van twee dingen",
+        "sentence": "De bal lag ___ de twee stoelen in.",
+        "answer": "tussen"
       },
       {
-        "word": "Hij",
-        "definition": "verwijst naar een mannelijk persoon",
-        "sentence": "___ is een man.",
-        "answer": "Hij"
+        "word": "Inwoner",
+        "definition": "iemand die in een plaats woont",
+        "sentence": "De ___ van dit dorp zijn erg vriendelijk.",
+        "answer": "inwoner"
       },
       {
-        "word": "jaar",
-        "definition": "een periode van 365 dagen",
-        "sentence": "Hij is 64 ___ oud.",
-        "answer": "jaar"
+        "word": "niet",
+        "definition": "het tegenovergestelde van wel",
+        "sentence": "Ik heb mijn huiswerk nog ___ gemaakt, dus ik moet nu gaan werken.",
+        "answer": "niet"
       },
       {
-        "word": "op",
-        "definition": "geeft een bepaalde dag of tijd aan",
-        "sentence": "Hij stierf ___ 4 november 2025.",
-        "answer": "op"
+        "word": "vindt",
+        "definition": "ontdekt of ziet iets",
+        "sentence": "Hij ___ een euro op straat en was blij.",
+        "answer": "vindt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is 64 ___ oud.",
-        "answer": "jaar"
+        "sentence": "Ik heb mijn huiswerk nog ___ gemaakt, dus ik moet nu gaan werken.",
+        "answer": "niet"
       },
       {
-        "sentence": "___ is een man.",
-        "answer": "Hij"
+        "sentence": "De ___ van dit dorp zijn erg vriendelijk.",
+        "answer": "inwoner"
       },
       {
-        "sentence": "Zijn achternaam is ___.",
-        "answer": "Brems"
+        "sentence": "De ___ staat open, dus je kunt naar binnen.",
+        "answer": "deur"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Patrick geboren?",
+      "question": "Waar werd de handgranaat gevonden?",
       "options": [
-        "1960",
-        "1965",
-        "1970",
-        "1975"
+        "In een park",
+        "Voor een deur",
+        "In een auto",
+        "Op een dak"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de achternaam van Patrick?",
+      "question": "Wat is er gebeurd in Borgerhout?",
       "options": [
-        "Brems",
-        "Jansen",
-        "De Vries",
-        "Peters"
+        "Er was een feest",
+        "Er was een explosie",
+        "Er was een optocht",
+        "Er was niets bijzonders"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Is Patrick nog in leven?",
+      "question": "Wat is er bekend over de link tussen de twee incidenten?",
       "options": [
-        "Ja, hij leeft nog",
-        "Nee, hij is overleden",
-        "Ik weet het niet",
-        "Het artikel zegt het niet"
+        "Er is een duidelijk verband",
+        "Er is geen link gevonden",
+        "Er is maar één incident geweest",
+        "De politie weet het niet"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Patrick is geboren in 1960.",
+      "statement": "Er is een explosie geweest in Borgerhout.",
       "isTrue": true
     },
     {
-      "statement": "Patrick is overleden in 2024.",
+      "statement": "De handgranaat in Kapellen is dezelfde als die in Borgerhout.",
       "isTrue": false
     },
     {
-      "statement": "Patrick heeft de achternaam Brems.",
+      "statement": "Er is nog geen link gevonden tussen de twee incidenten.",
       "isTrue": true
     }
   ]

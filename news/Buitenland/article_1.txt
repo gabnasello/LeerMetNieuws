@@ -1,15 +1,15 @@
 Artikel 1
-Nieuwsupdate: 2025-11-08 04:27 UCT
+Nieuwsupdate: 2025-11-09 04:27 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag
-Link: https://www.standaard.be/buitenland/is-trump-nog-een-troef-of-juist-niet-republikeinen-twijfelen-na-zware-nederlaag/103401769.html
-Datum: Fri, 07 Nov 2025 22:59:00 GMT
-Samenvatting: In iedere race, in iedere staat kregen de Republikeinen dinsdag zware klappen. Het krachtige signaal van de kiezer plaatst hen voor een dilemma. Ze kunnen niet zonder Trump en ze kunnen niet mét hem.
+Titel: Biden: “Trump maakt niet alleen het Witte Huis kapot, maar ook het land”
+Link: https://www.standaard.be/buitenland/biden-trump-maakt-niet-alleen-het-witte-huis-kapot-maar-ook-het-land/35131945.html
+Datum: Sat, 08 Nov 2025 17:15:00 GMT
+Samenvatting: De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/snxj3m-2025-10-30t155804z-607197379-rc2fmhaftfmv-rtrmadp-3-usa-shutdown.jpg/alternates/BASE_SIXTEEN_NINE/2025-10-30T155804Z_607197379_RC2FMHAFTFMV_RTRMADP_3_USA-SHUTDOWN.JPG
-Premium: true
+Afbeelding: https://prod-img.standaard.be/public/nieuws/o7ae0n-donald-trump-en-joe-biden./alternates/BASE_SIXTEEN_NINE/Donald%20Trump%20en%20Joe%20Biden.
+Premium: false
 ------------------------------------------------------------

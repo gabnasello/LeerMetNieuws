@@ -1,94 +1,106 @@
 {
-  "id": 28,
+  "id": 27,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Nanette Tassin, 96 jaar",
+  "title": "Auto rijdt in op agenten in Schaarbeek",
   "topicNumber": 1,
   "article": {
-    "title": "Nanette Tassin, 96 jaar",
-    "summary": "Geboren in 1928, overleden op 29/10/2025."
+    "title": "Auto rijdt in op agenten in Schaarbeek",
+    "summary": "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "het begin van het leven",
-        "sentence": "Ze is ___ in 1928.",
-        "answer": "geboren"
+        "word": "agenten",
+        "definition": "mensen die de wet handhaven, zoals politie",
+        "sentence": "De ___ werkten in Schaarbeek.",
+        "answer": "agenten"
       },
       {
-        "word": "overleden",
-        "definition": "niet meer leven",
-        "sentence": "Ze is ___ op 29 oktober 2025.",
-        "answer": "overleden"
+        "word": "controleren",
+        "definition": "nagaan of iets in orde is",
+        "sentence": "De politie wilde het voertuig ___.",
+        "answer": "controleren"
       },
       {
-        "word": "jaar",
-        "definition": "een periode van 365 dagen",
-        "sentence": "Ze is 96 ___ oud.",
-        "answer": "jaar"
+        "word": "dader",
+        "definition": "iemand die iets (illegals) doet",
+        "sentence": "De ___ is nog niet gevonden.",
+        "answer": "dader"
+      },
+      {
+        "word": "auto",
+        "definition": "een voertuig dat op de weg rijdt",
+        "sentence": "De ___ reed tegen de politie in.",
+        "answer": "auto"
+      },
+      {
+        "word": "onderzoek",
+        "definition": "een grondige zoektocht naar informatie",
+        "sentence": "Het parket startte een ___ naar de aanval.",
+        "answer": "onderzoek"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze is 96 ___ oud.",
-        "answer": "jaar"
+        "sentence": "De ___ is nog niet gevonden.",
+        "answer": "dader"
       },
       {
-        "sentence": "Ze is ___ in 1928.",
-        "answer": "geboren"
+        "sentence": "De politie wilde het voertuig ___.",
+        "answer": "controleren"
       },
       {
-        "sentence": "Ze is ___ op 29 oktober 2025.",
-        "answer": "overleden"
+        "sentence": "De ___ reed tegen de politie in.",
+        "answer": "auto"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Nanette Tassin geboren?",
+      "question": "Wat deed de auto volgens de tekst?",
       "options": [
-        "1920",
-        "1928",
-        "1930",
-        "1940"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is de geboortedatum van Nanette Tassin?",
-      "options": [
-        "29 oktober 1928",
-        "1 januari 1928",
-        "29 oktober 1925",
-        "1 januari 1925"
+        "Reed in op agenten",
+        "Stopte naast agenten",
+        "Parkeerde naast agenten",
+        "Reed weg van agenten"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Hoe oud was Nanette Tassin toen ze overleed?",
+      "question": "Wat is de rol van het parket in deze situatie?",
       "options": [
-        "96 jaar",
-        "100 jaar",
-        "90 jaar",
-        "85 jaar"
+        "Straf de dader",
+        "Doet niets",
+        "Start een onderzoek",
+        "Arresteert de agenten"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is de huidige staat van de dader?",
+      "options": [
+        "Nog niet gevonden",
+        "Gearresteerd",
+        "Vrijgelaten",
+        "Overleden"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Nanette Tassin is geboren in 1928.",
+      "statement": "De auto reed in op de agenten tijdens de controle.",
       "isTrue": true
     },
     {
-      "statement": "Nanette Tassin overleed op 29/10/2025.",
-      "isTrue": true
-    },
-    {
-      "statement": "Nanette Tassin was 100 jaar oud bij overlijden.",
+      "statement": "Het parket heeft de dader gearresteerd.",
       "isTrue": false
+    },
+    {
+      "statement": "Het motief van de dader is nog onbekend.",
+      "isTrue": true
     }
   ]
 }

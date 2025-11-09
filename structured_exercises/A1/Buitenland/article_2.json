@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Politicus wint verkiezingen",
+  "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
   "topicNumber": 1,
   "article": {
-    "title": "Politicus wint verkiezingen",
-    "summary": "Een politicus wint een verkiezing. Hij is nu burgemeester van New York. Hij laat zien dat progressieven ook kunnen winnen."
+    "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
+    "summary": "In Libanon zijn mensen dood of gewond na Israëlische aanvallen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "wint",
-        "definition": "heeft succes in een wedstrijd of verkiezing",
-        "sentence": "Hij ___ de verkiezing en wordt burgemeester.",
-        "answer": "wint"
+        "word": "Libanon",
+        "definition": "een land in het Midden-Oosten",
+        "sentence": "___ is een land in het Midden-Oosten.",
+        "answer": "Libanon"
       },
       {
-        "word": "winnen",
-        "definition": "iets halen of succes hebben",
-        "sentence": "Zij ___ de wedstrijd en zijn erg blij.",
-        "answer": "winnen"
+        "word": "mensen",
+        "definition": "personen, mannen, vrouwen en kinderen",
+        "sentence": "Vele ___ zijn omgekomen in de aanvallen.",
+        "answer": "mensen"
       },
       {
-        "word": "progressieven",
-        "definition": "mensen die willen veranderen en verbeteren",
-        "sentence": "De ___ willen helpen en verbeteren.",
-        "answer": "progressieven"
+        "word": "aanvallen",
+        "definition": "als iemand of iets met geweld wordt aangevallen",
+        "sentence": "De ___ waren erg heftig in Libanon.",
+        "answer": "aanvallen"
       },
       {
-        "word": "burgemeester",
-        "definition": "de leider van een stad of gemeente",
-        "sentence": "De ___ leidt de stad en helpt de mensen.",
-        "answer": "burgemeester"
+        "word": "Israëlische",
+        "definition": "van of gerelateerd aan Israël",
+        "sentence": "De ___ regering is verantwoordelijk voor de aanvallen.",
+        "answer": "Israëlische"
       },
       {
-        "word": "verkiezing",
-        "definition": "een keer dat mensen stemmen voor een nieuwe leider",
-        "sentence": "De ___ is belangrijk voor democratie.",
-        "answer": "verkiezing"
+        "word": "doden",
+        "definition": "mensen die niet meer leven",
+        "sentence": "Bij de aanvallen zijn er veel ___.",
+        "answer": "doden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ is belangrijk voor democratie.",
-        "answer": "verkiezing"
+        "sentence": "De ___ regering is verantwoordelijk voor de aanvallen.",
+        "answer": "Israëlische"
       },
       {
-        "sentence": "Hij ___ de verkiezing en wordt burgemeester.",
-        "answer": "wint"
+        "sentence": "De ___ waren erg heftig in Libanon.",
+        "answer": "aanvallen"
       },
       {
-        "sentence": "De ___ leidt de stad en helpt de mensen.",
-        "answer": "burgemeester"
+        "sentence": "___ is een land in het Midden-Oosten.",
+        "answer": "Libanon"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een burgemeester?",
+      "question": "Waar vinden de aanvallen plaats?",
       "options": [
-        "Een soort dier",
-        "De leider van een stad",
-        "Een type auto",
-        "Iemand die alleen in het verleden leeft"
+        "In Nederland",
+        "In Israël",
+        "In Libanon",
+        "In Amerika"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is het resultaat van de aanvallen?",
+      "options": [
+        "Er is niets gebeurd",
+        "Er is veel schade",
+        "Iedereen is veilig",
+        "Er is feest"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat betekent het om een verkiezing te winnen?",
+      "question": "Wie is verantwoordelijk voor de aanvallen?",
       "options": [
-        "Je verliest iets",
-        "Je krijgt een nieuwe taak of positie",
-        "Je gaat naar huis",
-        "Je stopt met werken"
+        "Nederland",
+        "Libanon",
+        "Israël",
+        "De Verenigde Naties"
       ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is 'hol van de leeuw'?",
-      "options": [
-        "Een veilige plek",
-        "Een gevaarlijke plek",
-        "Een restaurant",
-        "Een sportschool"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Een burgemeester is de leider van een land.",
+      "statement": "De aanvallen vonden plaats in Nederland.",
       "isTrue": false
     },
     {
-      "statement": "Progressieven zijn mensen die willen veranderen en verbeteren.",
+      "statement": "Er waren doden en gewonden na de aanvallen.",
       "isTrue": true
     },
     {
-      "statement": "De burgemeester van New York woont in een hol.",
-      "isItrue": false
+      "statement": "Israël is verantwoordelijk voor de aanvallen.",
+      "isTrue": true
     }
   ]
 }

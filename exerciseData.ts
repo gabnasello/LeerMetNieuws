@@ -29,104 +29,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
+    title: "Biden: Trump maakt niet alleen het Witte Huis kapot, maar ook het land",
     topicNumber: 1,
     article: {
-      title: "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
-      summary: "In iedere race, in iedere staat kregen de Republikeinen dinsdag zware klappen. Het krachtige signaal van de kiezer plaatst hen voor een dilemma. Ze kunnen niet zonder Trump en ze kunnen niet mét hem."
+      title: "Biden: Trump maakt niet alleen het Witte Huis kapot, maar ook het land",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "kunnen",
-          definition: "in staat zijn om, kunnen",
-          sentence: "Zij ___ goed zwemmen.",
-          answer: "kunnen"
+          word: "Trump",
+          definition: "De voormalige president van de Verenigde Staten.",
+          sentence: "___ was de president van Amerika.",
+          answer: "Trump"
         },
         {
-          word: "dilemma",
-          definition: "een moeilijke keuze tussen twee opties",
-          sentence: "Ze stond voor een ___: blijven of vertrekken?",
-          answer: "dilemma"
+          word: "verandering",
+          definition: "Een verandering of wijziging in de situatie.",
+          sentence: "Er was een grote ___ in het beleid.",
+          answer: "verandering"
         },
         {
-          word: "staat",
-          definition: "een gebied of gebiedsdeel met eigen bestuur, zoals in de VS",
-          sentence: "Elke ___ heeft zijn eigen wetten.",
-          answer: "staat"
+          word: "land",
+          definition: "Een gebied met een eigen regering, zoals Nederland of Amerika.",
+          sentence: "Elk ___ heeft zijn eigen regels.",
+          answer: "land"
         },
         {
-          word: "klappen",
-          definition: "geluiden van iets dat hard raakt, of een informele term voor problemen",
-          sentence: "De auto kreeg een ___ bij de botsing.",
-          answer: "klappen"
+          word: "Witte Huis",
+          definition: "De plaats waar de Amerikaanse president werkt.",
+          sentence: "Het ___ is in Washington D.C.",
+          answer: "Witte Huis"
         },
         {
-          word: "race",
-          definition: "een wedstrijd of competitie",
-          sentence: "De hardlopers namen deel aan de ___.",
-          answer: "race"
+          word: "Biden",
+          definition: "De president van de Verenigde Staten.",
+          sentence: "___ is de president van Amerika.",
+          answer: "Biden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De hardlopers namen deel aan de ___.",
-          answer: "race"
+          sentence: "Er was een grote ___ in het beleid.",
+          answer: "verandering"
         },
         {
-          sentence: "Zij ___ goed zwemmen.",
-          answer: "kunnen"
+          sentence: "___ was de president van Amerika.",
+          answer: "Trump"
         },
         {
-          sentence: "Ze stond voor een ___: blijven of vertrekken?",
-          answer: "dilemma"
+          sentence: "Elk ___ heeft zijn eigen regels.",
+          answer: "land"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'krijgen' in de context van de tekst?",
+        question: "Waar werkt de Amerikaanse president?",
         options: [
-          "iets ontvangen",
-          "iets kopen",
-          "iets breken",
-          "iets maken"
+          "Het Witte Huis",
+          "Het Witte Huis",
+          "Het Witte Huis",
+          "Het Witte Huis"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is een 'staat' in de politieke context?",
+        question: "Wat betekent 'termijn' in deze context?",
         options: [
-          "een land",
-          "een stad",
-          "een provincie",
-          "een regio"
+          "Een periode van tijd",
+          "Een soort gebouw",
+          "Een soort dier",
+          "Een type auto"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Wat is het tegenovergestelde van 'kunnen'?",
+        question: "Wat is de hoofdstad van de Verenigde Staten?",
         options: [
-          "mogen",
-          "willen",
-          "niet kunnen",
-          "stoppen"
+          "Washington D.C.",
+          "New York",
+          "Los Angeles",
+          "Chicago"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Trump is nog steeds een belangrijke figuur voor de Republikeinse partij.",
-        isTrue: true
-      },
-      {
-        statement: "De Republikeinen wonnen alle verkiezingen op dinsdag.",
+        statement: "Donald Trump is de huidige president van de Verenigde Staten.",
         isTrue: false
       },
       {
-        statement: "Een dilemma betekent dat je moet kiezen tussen twee slechte opties.",
+        statement: "Joe Biden is de huidige president van de Verenigde Staten.",
         isTrue: true
+      },
+      {
+        statement: "Het Witte Huis staat in New York.",
+        isTrue: false
       }
     ]
   },
@@ -135,103 +135,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Mamdani heeft getoond dat progressieven campagne kunnen voeren met dezelfde kunde als uiterst rechts",
+    title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
     topicNumber: 1,
     article: {
-      title: "Mamdani heeft getoond dat progressieven campagne kunnen voeren met dezelfde kunde als uiterst rechts",
-      summary: "Links Europa is klaar om te leren uit de campagne van de succesvolle Amerikaanse socialist Zohran Mamdani, die burgemeester van New York wordt. “Hij toont hoe een progressief kan winnen in het hol van de leeuw.”"
+      title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
+      summary: "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
     },
     vocabulary: {
       words: [
         {
-          word: "campagne",
-          definition: "een georganiseerde actie om een doel te bereiken, vaak in politiek",
-          sentence: "Hij startte een ___ om meer stemmen te winnen.",
-          answer: "campagne"
+          word: "aanvallen",
+          definition: "aanvallen, het aanvallen",
+          sentence: "De ___ waren gericht op militaire doelen.",
+          answer: "aanvallen"
         },
         {
-          word: "uiterst",
-          definition: "heel erg, in de hoogste mate",
-          sentence: "De situatie was ___ gevaarlijk zonder hulp.",
-          answer: "uiterst"
+          word: "Midden-Oosten",
+          definition: "een regio waaronder landen als Israël en Libanon vallen",
+          sentence: "Het ___ is een onrustige regio.",
+          answer: "Midden-Oosten"
         },
         {
-          word: "rechts",
-          definition: "aan de rechterkant, of politiek conservatief",
-          sentence: "De partij was ___ en stond voor traditionele waarden.",
-          answer: "rechts"
+          word: "gewonden",
+          definition: "mensen die gewond zijn geraakt",
+          sentence: "Er zijn veel ___ naar het ziekenhuis gebracht.",
+          answer: "gewonden"
         },
         {
-          word: "kunde",
-          definition: "kennis en vaardigheid in een bepaald gebied",
-          sentence: "Zijn grote ___ was onmisbaar voor het project.",
-          answer: "kunde"
+          word: "Israëlische",
+          definition: "van of uit Israël",
+          sentence: "De ___ luchtmacht voerde de aanval uit.",
+          answer: "Israëlische"
         },
         {
-          word: "winnen",
-          definition: "een overwinning behalen, succes hebben",
-          sentence: "Hij hoopte de verkiezing te ___ met zijn plannen.",
-          answer: "winnen"
+          word: "doden",
+          definition: "mensen die zijn overleden",
+          sentence: "Er vielen veel ___ bij het conflict.",
+          answer: "doden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij startte een ___ om meer stemmen te winnen.",
-          answer: "campagne"
+          sentence: "De ___ waren gericht op militaire doelen.",
+          answer: "aanvallen"
         },
         {
-          sentence: "Hij hoopte de verkiezing te ___ met zijn plannen.",
-          answer: "winnen"
+          sentence: "Er vielen veel ___ bij het conflict.",
+          answer: "doden"
         },
         {
-          sentence: "De situatie was ___ gevaarlijk zonder hulp.",
-          answer: "uiterst"
+          sentence: "Er zijn veel ___ naar het ziekenhuis gebracht.",
+          answer: "gewonden"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent het als politici campagne voeren?",
+        question: "Wat betekent 'gewonden' in deze context?",
         options: [
-          "Ze organiseren een verkiezingscampagne",
-          "Ze gaan met vakantie",
-          "Ze spelen een spel",
-          "Ze doen niets"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is een synoniem voor 'leren' in deze context?",
-        options: [
-          "Studeren",
-          "Onderwijzen",
-          "Afkijken",
-          "Ontdekken"
+          "gewonnen hebben",
+          "blessures hebben",
+          "overleden zijn",
+          "verwond zijn"
         ],
         correctAnswer: 4
       },
       {
-        question: "Wat betekent 'uiterst' in de titel?",
+        question: "Waar staat 'Midden-Oosten' voor in deze tekst?",
         options: [
-          "Heel, zeer",
-          "Bijna niet",
-          "Een klein beetje",
-          "Alleen"
+          "een sportevenement",
+          "een muziekgenre",
+          "een geografische regio",
+          "een stad"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
+      },
+      {
+        question: "Wat is de hoofdstad van Libanon?",
+        options: [
+          "Jeruzalem",
+          "Beiroet",
+          "Amman",
+          "Bagdad"
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Mamdani is een progressieve politicus.",
+        statement: "Libanon ligt ten noorden van Israël.",
         isTrue: true
       },
       {
-        statement: "De tekst stelt dat rechts altijd wint van links.",
+        statement: "De aanvallen vonden plaats in de Verenigde Staten.",
         isTrue: false
       },
       {
-        statement: "Europa kan leren van Amerikaanse campagnes.",
+        statement: "Gewonden zijn personen die gewond zijn geraakt.",
         isTrue: true
       }
     ]
@@ -241,103 +241,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Abu Dhabi levert wapens voor een genocide en zijn westerse bondgenoten zwijgen",
+    title: "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
     topicNumber: 1,
     article: {
-      title: "Abu Dhabi levert wapens voor een genocide en zijn westerse bondgenoten zwijgen",
-      summary: "In ruil voor goud leveren de Verenigde Arabische Emiraten de wapens waarmee de Rapid Support Forces in Noord-Darfour een genocidale massamoord aanrichten. Toch wijst niet één wereldleider de sjeiks van Abu Dhabi terecht."
+      title: "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
+      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
     },
     vocabulary: {
       words: [
         {
-          word: "terecht",
-          definition: "op de juiste manier, of met een goede reden",
-          sentence: "Hij kreeg een boete en dat was helemaal ___.",
-          answer: "terecht"
+          word: "ontwikkelingen",
+          definition: "Nieuwe gebeurtenissen of veranderingen in een situatie.",
+          sentence: "De recente ___ in de technologie zijn snel.",
+          answer: "ontwikkelingen"
         },
         {
-          word: "levert",
-          definition: "geeft of verstrekt iets",
-          sentence: "De supermarkt ___ voedsel en andere producten.",
-          answer: "levert"
+          word: "Navo",
+          definition: "Een militaire alliantie van landen in Europa en Noord-Amerika.",
+          sentence: "De ___ is een belangrijke organisatie voor veiligheid.",
+          answer: "Navo"
         },
         {
-          word: "zwijgen",
-          definition: "geen geluid maken, niet praten",
-          sentence: "Wanneer de leraar boos is, moet de klas ___ en luisteren.",
-          answer: "zwijgen"
+          word: "baas",
+          definition: "De persoon die de leiding heeft over een groep of organisatie.",
+          sentence: "Hij is de ___ van het hele team.",
+          answer: "baas"
         },
         {
-          word: "goud",
-          definition: "een heel waardevol, glimmend metaal",
-          sentence: "Sieraden van ___ zijn vaak heel duur.",
-          answer: "goud"
+          word: "kan",
+          definition: "Een hulpwerkwoord dat aangeeft dat iets mogelijk is.",
+          sentence: "Hij ___ morgen komen, maar het is niet zeker.",
+          answer: "kan"
         },
         {
-          word: "sjeiks",
-          definition: "een soort leider of belangrijk persoon in sommige Arabische landen",
-          sentence: "De ___ van dat land beslisten over de nieuwe wet.",
-          answer: "sjeiks"
+          word: "waarschuwt",
+          definition: "Iemand waarschuwen betekent dat je die persoon zegt om voorzichtig te zijn.",
+          sentence: "Hij ___ zijn vriend voor het gevaar.",
+          answer: "waarschuwt"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De supermarkt ___ voedsel en andere producten.",
-          answer: "levert"
+          sentence: "Hij ___ zijn vriend voor het gevaar.",
+          answer: "waarschuwt"
         },
         {
-          sentence: "Wanneer de leraar boos is, moet de klas ___ en luisteren.",
-          answer: "zwijgen"
+          sentence: "De recente ___ in de technologie zijn snel.",
+          answer: "ontwikkelingen"
         },
         {
-          sentence: "De ___ van dat land beslisten over de nieuwe wet.",
-          answer: "sjeiks"
+          sentence: "De ___ is een belangrijke organisatie voor veiligheid.",
+          answer: "Navo"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'levert' in deze context?",
+        question: "Waar gaat dit artikel vooral over?",
         options: [
-          "geeft of verstrekt",
-          "verbergt of verstopt",
-          "verkoopt of ruilt",
-          "verwacht of plant"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Waarom leveren de Verenigde Arabische Emiraten wapens aan de Rapid Support Forces?",
-        options: [
-          "Omdat ze daarvoor goud krijgen",
-          "Omdat ze dezelfde religie hebben",
-          "Omdat ze een gezamenlijke vijand hebben",
-          "Omdat ze een verdrag hebben ondertekend"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is de houding van wereldleiders tegenover de sjeiks van Abu Dhabi?",
-        options: [
-          "Ze steunen hun acties openlijk",
-          "Ze negeren de situatie volledig",
-          "Ze zeggen niets tegen de sjeiks",
-          "Ze werken samen voor meer macht"
+          "Koken en eten",
+          "Een nucleaire oorlog",
+          "De Navo en een waarschuwing",
+          "Vakantieplannen"
         ],
         correctAnswer: 3
+      },
+      {
+        question: "Wat betekent 'waarschuwen' in deze context?",
+        options: [
+          "Iemand een cadeau geven",
+          "Iemand vertellen om voorzichtig te zijn",
+          "Iemand uitnodigen voor een feest",
+          "Iemand negeren"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Waarom is het belangrijk om dit nieuws te volgen?",
+        options: [
+          "Omdat het over mode gaat",
+          "Omdat het over een belangrijke wereldgebeurtenis gaat",
+          "Omdat het alleen over sport gaat",
+          "Omdat het een grap is"
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De Verenigde Arabische Emiraten leveren wapens in ruil voor goud.",
+        statement: "Mark Rutte is de baas van de Navo.",
         isTrue: true
       },
       {
-        statement: "Alle wereldleiders spreken de sjeiks van Abu Dhabi aan over hun daden.",
+        statement: "Dit artikel gaat over koken en eten.",
         isTrue: false
       },
       {
-        statement: "De Rapid Support Forces voeren een massamoord uit in Noord-Darfour.",
+        statement: "De Navo is een militaire alliantie.",
         isTrue: true
       }
     ]
@@ -347,91 +347,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Luc Versluig, 78 jaar",
+    title: "Slachtoffers van misbruik voorzichtig positief na ontekken met paus",
     topicNumber: 1,
     article: {
-      title: "Luc Versluig, 78 jaar",
-      summary: "Hij is geboren in 1946 en overleden op 02/11/2025."
+      title: "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
+      summary: "Zaterdag zaten vijftien overlevers van misbruik samen met paus Leo XIV. Over dat gesprek zijn de zes mensen die De Standaard nadien kon spreken voorzichtig positief. Al zijn er geen concrete afspraken gemaakt over wat er in praktijk gaat veranderen. “Als de paus het antwoord niet wist, zei hij dat ook eerlijk.”"
     },
     vocabulary: {
       words: [
         {
-          word: "geboren",
-          definition: "het moment dat iemand ter wereld komt",
-          sentence: "Zijn moeder ___ hem in 1946.",
-          answer: "geboren"
+          word: "gesprek",
+          definition: "Een gesprek is wanneer mensen met elkaar praten",
+          sentence: "Het ___ was open en eerlijk.",
+          answer: "gesprek"
         },
         {
-          word: "overleden",
-          definition: "niet meer in leven zijn",
-          sentence: "Hij is ___ op 2 november 2025.",
-          answer: "overleden"
+          word: "Zaterdag",
+          definition: "De dag na vrijdag en voor zondag",
+          sentence: "Op ___ ging de groep naar de paus.",
+          answer: "Zaterdag"
         },
         {
-          word: "jaar",
-          definition: "een periode van 365 dagen",
-          sentence: "Hij werd 78 ___ oud.",
-          answer: "jaar"
+          word: "positief",
+          definition: "Goed, niet slecht",
+          sentence: "De reacties waren overwegend ___.",
+          answer: "positief"
+        },
+        {
+          word: "vijftien",
+          definition: "Het getal na veertien en voor zestien",
+          sentence: "Er waren ___ mensen aanwezig.",
+          answer: "vijftien"
+        },
+        {
+          word: "afspraken",
+          definition: "Afspraken zijn dingen die je met elkaar afspreekt om te doen",
+          sentence: "Er werden geen nieuwe ___ gemaakt.",
+          answer: "afspraken"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij werd 78 ___ oud.",
-          answer: "jaar"
+          sentence: "Het ___ was open en eerlijk.",
+          answer: "gesprek"
         },
         {
-          sentence: "Zijn moeder ___ hem in 1946.",
-          answer: "geboren"
+          sentence: "De reacties waren overwegend ___.",
+          answer: "positief"
         },
         {
-          sentence: "Hij is ___ op 2 november 2025.",
-          answer: "overleden"
+          sentence: "Er werden geen nieuwe ___ gemaakt.",
+          answer: "afspraken"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "In welk jaar is Luc Versluig geboren?",
+        question: "Wat was de houding van de paus tijdens de ontmoeting?",
         options: [
-          "1940",
-          "1946",
-          "1950",
-          "1956"
+          "Afwezig",
+          "Open en eerlijk",
+          "Stil en gesloten",
+          "Boos en geïrriteerd"
         ],
         correctAnswer: 2
       },
       {
-        question: "Hoe oud was Luc Versluig toen hij overleed?",
+        question: "Hoe reageerden de overlevers na de ontmoeting?",
         options: [
-          "75 jaar",
-          "78 jaar",
-          "80 jaar",
-          "85 jaar"
+          "Ze waren erg boos",
+          "Ze waren voorzichtig positief",
+          "Ze waren heel verdrietig",
+          "Ze waren onverschillig"
         ],
         correctAnswer: 2
       },
       {
-        question: "Op welke datum overleed Luc Versluig?",
+        question: "Wat werd er besproken tijdens de ontmoeting?",
         options: [
-          "1 november 2025",
-          "2 november 2025",
-          "3 november 2025",
-          "4 november 2025"
+          "Alleen het weer",
+          "Hun persoonlijke verhalen en ervaringen",
+          "De toekomst van de kerk",
+          "De paus vertelde alleen maar grapjes"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Luc Versluig is geboren in 1946.",
+        statement: "De paus heeft beloofd om de overlevers financieel te steunen.",
+        isTrue: false
+      },
+      {
+        statement: "De overlevers waren tevreden met de openhartigheid van de paus.",
         isTrue: true
       },
       {
-        statement: "Luc Versluig overleed op 2 november 2025.",
-        isTrue: true
-      },
-      {
-        statement: "Luc Versluig was 80 jaar oud toen hij overleed.",
+        statement: "Er werden nieuwe afspraken gemaakt over toekomstige ontmoetingen.",
         isTrue: false
       }
     ]
@@ -441,92 +453,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Nanette Tassin, 96 jaar",
+    title: "Auto rijdt in op agenten in Schaarbeek",
     topicNumber: 1,
     article: {
-      title: "Nanette Tassin, 96 jaar",
-      summary: "Geboren in 1928, overleden op 29/10/2025."
+      title: "Auto rijdt in op agenten in Schaarbeek",
+      summary: "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
     },
     vocabulary: {
       words: [
         {
-          word: "geboren",
-          definition: "het begin van het leven",
-          sentence: "Ze is ___ in 1928.",
-          answer: "geboren"
+          word: "agenten",
+          definition: "mensen die de wet handhaven, zoals politie",
+          sentence: "De ___ werkten in Schaarbeek.",
+          answer: "agenten"
         },
         {
-          word: "overleden",
-          definition: "niet meer leven",
-          sentence: "Ze is ___ op 29 oktober 2025.",
-          answer: "overleden"
+          word: "controleren",
+          definition: "nagaan of iets in orde is",
+          sentence: "De politie wilde het voertuig ___.",
+          answer: "controleren"
         },
         {
-          word: "jaar",
-          definition: "een periode van 365 dagen",
-          sentence: "Ze is 96 ___ oud.",
-          answer: "jaar"
+          word: "dader",
+          definition: "iemand die iets (illegals) doet",
+          sentence: "De ___ is nog niet gevonden.",
+          answer: "dader"
+        },
+        {
+          word: "auto",
+          definition: "een voertuig dat op de weg rijdt",
+          sentence: "De ___ reed tegen de politie in.",
+          answer: "auto"
+        },
+        {
+          word: "onderzoek",
+          definition: "een grondige zoektocht naar informatie",
+          sentence: "Het parket startte een ___ naar de aanval.",
+          answer: "onderzoek"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Ze is 96 ___ oud.",
-          answer: "jaar"
+          sentence: "De ___ is nog niet gevonden.",
+          answer: "dader"
         },
         {
-          sentence: "Ze is ___ in 1928.",
-          answer: "geboren"
+          sentence: "De politie wilde het voertuig ___.",
+          answer: "controleren"
         },
         {
-          sentence: "Ze is ___ op 29 oktober 2025.",
-          answer: "overleden"
+          sentence: "De ___ reed tegen de politie in.",
+          answer: "auto"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "In welk jaar is Nanette Tassin geboren?",
+        question: "Wat deed de auto volgens de tekst?",
         options: [
-          "1920",
-          "1928",
-          "1930",
-          "1940"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is de geboortedatum van Nanette Tassin?",
-        options: [
-          "29 oktober 1928",
-          "1 januari 1928",
-          "29 oktober 1925",
-          "1 januari 1925"
+          "Reed in op agenten",
+          "Stopte naast agenten",
+          "Parkeerde naast agenten",
+          "Reed weg van agenten"
         ],
         correctAnswer: 1
       },
       {
-        question: "Hoe oud was Nanette Tassin toen ze overleed?",
+        question: "Wat is de rol van het parket in deze situatie?",
         options: [
-          "96 jaar",
-          "100 jaar",
-          "90 jaar",
-          "85 jaar"
+          "Straf de dader",
+          "Doet niets",
+          "Start een onderzoek",
+          "Arresteert de agenten"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat is de huidige staat van de dader?",
+        options: [
+          "Nog niet gevonden",
+          "Gearresteerd",
+          "Vrijgelaten",
+          "Overleden"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Nanette Tassin is geboren in 1928.",
+        statement: "De auto reed in op de agenten tijdens de controle.",
         isTrue: true
       },
       {
-        statement: "Nanette Tassin overleed op 29/10/2025.",
-        isTrue: true
-      },
-      {
-        statement: "Nanette Tassin was 100 jaar oud bij overlijden.",
+        statement: "Het parket heeft de dader gearresteerd.",
         isTrue: false
+      },
+      {
+        statement: "Het motief van de dader is nog onbekend.",
+        isTrue: true
       }
     ]
   },
@@ -535,103 +559,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Patrick Brems, 64 jaar",
+    title: "Inwoner van Kapellen vindt een handgranaat voor zijn deur: “Zo raar is dat toch niet, meneer?”",
     topicNumber: 1,
     article: {
-      title: "Patrick Brems, 64 jaar",
-      summary: "Hij is geboren in 1960 en overleden op 4 november 2025."
+      title: "Inwoner van Kapellen vindt een handgranaat voor zijn deur: “Zo raar is dat toch niet, meneer?”",
+      summary: "In Borgerhout is zaterdagnacht een explosief ontploft voor de deur van een woning. Onbekenden hebben vannacht ook een handgranaat achtergelaten voor een woning in Kapellen. Er is voorlopig geen sprake van een link tussen de twee feiten."
     },
     vocabulary: {
       words: [
         {
-          word: "Brems",
-          definition: "de achternaam van deze persoon",
-          sentence: "Zijn achternaam is ___.",
-          answer: "Brems"
+          word: "deur",
+          definition: "het deel van een huis waar je door naar binnen gaat",
+          sentence: "De ___ staat open, dus je kunt naar binnen.",
+          answer: "deur"
         },
         {
-          word: "geboren",
-          definition: "begonnen met leven, het tegenovergestelde van gestorven",
-          sentence: "Hij is ___ in 1960.",
-          answer: "geboren"
+          word: "tussen",
+          definition: "in het midden van twee dingen",
+          sentence: "De bal lag ___ de twee stoelen in.",
+          answer: "tussen"
         },
         {
-          word: "Hij",
-          definition: "verwijst naar een mannelijk persoon",
-          sentence: "___ is een man.",
-          answer: "Hij"
+          word: "Inwoner",
+          definition: "iemand die in een plaats woont",
+          sentence: "De ___ van dit dorp zijn erg vriendelijk.",
+          answer: "inwoner"
         },
         {
-          word: "jaar",
-          definition: "een periode van 365 dagen",
-          sentence: "Hij is 64 ___ oud.",
-          answer: "jaar"
+          word: "niet",
+          definition: "het tegenovergestelde van wel",
+          sentence: "Ik heb mijn huiswerk nog ___ gemaakt, dus ik moet nu gaan werken.",
+          answer: "niet"
         },
         {
-          word: "op",
-          definition: "geeft een bepaalde dag of tijd aan",
-          sentence: "Hij stierf ___ 4 november 2025.",
-          answer: "op"
+          word: "vindt",
+          definition: "ontdekt of ziet iets",
+          sentence: "Hij ___ een euro op straat en was blij.",
+          answer: "vindt"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij is 64 ___ oud.",
-          answer: "jaar"
+          sentence: "Ik heb mijn huiswerk nog ___ gemaakt, dus ik moet nu gaan werken.",
+          answer: "niet"
         },
         {
-          sentence: "___ is een man.",
-          answer: "Hij"
+          sentence: "De ___ van dit dorp zijn erg vriendelijk.",
+          answer: "inwoner"
         },
         {
-          sentence: "Zijn achternaam is ___.",
-          answer: "Brems"
+          sentence: "De ___ staat open, dus je kunt naar binnen.",
+          answer: "deur"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "In welk jaar is Patrick geboren?",
+        question: "Waar werd de handgranaat gevonden?",
         options: [
-          "1960",
-          "1965",
-          "1970",
-          "1975"
+          "In een park",
+          "Voor een deur",
+          "In een auto",
+          "Op een dak"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat is de achternaam van Patrick?",
+        question: "Wat is er gebeurd in Borgerhout?",
         options: [
-          "Brems",
-          "Jansen",
-          "De Vries",
-          "Peters"
+          "Er was een feest",
+          "Er was een explosie",
+          "Er was een optocht",
+          "Er was niets bijzonders"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Is Patrick nog in leven?",
+        question: "Wat is er bekend over de link tussen de twee incidenten?",
         options: [
-          "Ja, hij leeft nog",
-          "Nee, hij is overleden",
-          "Ik weet het niet",
-          "Het artikel zegt het niet"
+          "Er is een duidelijk verband",
+          "Er is geen link gevonden",
+          "Er is maar één incident geweest",
+          "De politie weet het niet"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Patrick is geboren in 1960.",
+        statement: "Er is een explosie geweest in Borgerhout.",
         isTrue: true
       },
       {
-        statement: "Patrick is overleden in 2024.",
+        statement: "De handgranaat in Kapellen is dezelfde als die in Borgerhout.",
         isTrue: false
       },
       {
-        statement: "Patrick heeft de achternaam Brems.",
+        statement: "Er is nog geen link gevonden tussen de twee incidenten.",
         isTrue: true
       }
     ]
@@ -641,103 +665,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Trump en de verkiezingen",
+    title: "Biden: Trump maakt het land kapot",
     topicNumber: 1,
     article: {
-      title: "Is Trump nog een troef of juist niet?",
-      summary: "De Republikeinen hebben problemen na de verkiezingen. Ze moeten kiezen: met Trump of zonder Trump."
+      title: "Biden: Trump maakt het land kapot",
+      summary: "Donald Trump was president van Amerika. Zijn tweede termijn bracht veranderingen over de hele wereld. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "niet",
-          definition: "geen, ontkenning",
-          sentence: "Het is niet waar.",
-          answer: "niet"
+          word: "verandering",
+          definition: "iets wat anders wordt",
+          sentence: "Er is een ___ in het beleid.",
+          answer: "verandering"
         },
         {
-          word: "Trump",
-          definition: "een persoonnaam, de naam van een man",
-          sentence: "Trump was president van Amerika.",
-          answer: "Trump"
+          word: "Biden",
+          definition: "achternaam van de huidige president",
+          sentence: "___ is nu de president.",
+          answer: "Biden"
         },
         {
-          word: "is",
-          definition: "zijn, het tegenwoordige tijd van zijn",
-          sentence: "Hij is een man.",
-          answer: "is"
+          word: "termijn",
+          definition: "periode waarin iemand een functie heeft",
+          sentence: "Hij heeft een ___ van vier jaar.",
+          answer: "termijn"
         },
         {
-          word: "of",
-          definition: "een voegwoord, geeft een keuze aan",
-          sentence: "Wil je thee of koffie?",
-          answer: "of"
+          word: "wereld",
+          definition: "de aarde en alle mensen",
+          sentence: "De ___ is groot en er gebeurt veel.",
+          answer: "wereld"
         },
         {
-          word: "een",
-          definition: "een lidwoord, geeft aan dat het er een is",
-          sentence: "Ik heb een appel.",
-          answer: "een"
+          word: "president",
+          definition: "iemand die een land bestuurt",
+          sentence: "De ___ van Amerika is Biden.",
+          answer: "president"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Trump was president van Amerika.",
-          answer: "Trump"
+          sentence: "___ is nu de president.",
+          answer: "Biden"
         },
         {
-          sentence: "Het is niet waar.",
-          answer: "niet"
+          sentence: "Hij heeft een ___ van vier jaar.",
+          answer: "termijn"
         },
         {
-          sentence: "Ik heb een appel.",
-          answer: "een"
+          sentence: "Er is een ___ in het beleid.",
+          answer: "verandering"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wie is Trump?",
+        question: "Wie is de president van Amerika nu?",
         options: [
-          "Een soort fruit",
-          "Een voetbalteam",
-          "Een bekende persoon",
-          "Een soort auto"
+          "Biden",
+          "Trump",
+          "Obama",
+          "Putin"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Wat betekent 'niet'?",
+        question: "Wat betekent 'termijn' in deze context?",
         options: [
-          "Ja",
-          "Nee",
-          "Soms",
-          "Altijd"
+          "een periode",
+          "een gebouw",
+          "een soort auto",
+          "een type voedsel"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Wat doen de Republikeinen?",
+        question: "Wat bracht Trump volgens de tekst?",
         options: [
-          "Ze werken in een winkel.",
-          "Ze hebben problemen na de verkiezingen.",
-          "Ze spelen voetbal.",
-          "Ze eten een appel."
+          "Veranderingen over de hele wereld",
+          "Vrede en geluk",
+          "Alleen problemen in Amerika",
+          "Niets, het is neutraal"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Trump is de naam van een persoon.",
+        statement: "Donald Trump was de president van Amerika.",
         isTrue: true
       },
       {
-        statement: "De Republikeinen hebben problemen na de verkiezingen.",
+        statement: "Biden is momenteel de president van Amerika.",
         isTrue: true
       },
       {
-        statement: "Trump is een soort fruit.",
+        statement: "Trump bracht alleen verandering in Amerika.",
         isTrue: false
       }
     ]
@@ -747,104 +771,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Politicus wint verkiezingen",
+    title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
     topicNumber: 1,
     article: {
-      title: "Politicus wint verkiezingen",
-      summary: "Een politicus wint een verkiezing. Hij is nu burgemeester van New York. Hij laat zien dat progressieven ook kunnen winnen."
+      title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
+      summary: "In Libanon zijn mensen dood of gewond na Israëlische aanvallen."
     },
     vocabulary: {
       words: [
         {
-          word: "wint",
-          definition: "heeft succes in een wedstrijd of verkiezing",
-          sentence: "Hij ___ de verkiezing en wordt burgemeester.",
-          answer: "wint"
+          word: "Libanon",
+          definition: "een land in het Midden-Oosten",
+          sentence: "___ is een land in het Midden-Oosten.",
+          answer: "Libanon"
         },
         {
-          word: "winnen",
-          definition: "iets halen of succes hebben",
-          sentence: "Zij ___ de wedstrijd en zijn erg blij.",
-          answer: "winnen"
+          word: "mensen",
+          definition: "personen, mannen, vrouwen en kinderen",
+          sentence: "Vele ___ zijn omgekomen in de aanvallen.",
+          answer: "mensen"
         },
         {
-          word: "progressieven",
-          definition: "mensen die willen veranderen en verbeteren",
-          sentence: "De ___ willen helpen en verbeteren.",
-          answer: "progressieven"
+          word: "aanvallen",
+          definition: "als iemand of iets met geweld wordt aangevallen",
+          sentence: "De ___ waren erg heftig in Libanon.",
+          answer: "aanvallen"
         },
         {
-          word: "burgemeester",
-          definition: "de leider van een stad of gemeente",
-          sentence: "De ___ leidt de stad en helpt de mensen.",
-          answer: "burgemeester"
+          word: "Israëlische",
+          definition: "van of gerelateerd aan Israël",
+          sentence: "De ___ regering is verantwoordelijk voor de aanvallen.",
+          answer: "Israëlische"
         },
         {
-          word: "verkiezing",
-          definition: "een keer dat mensen stemmen voor een nieuwe leider",
-          sentence: "De ___ is belangrijk voor democratie.",
-          answer: "verkiezing"
+          word: "doden",
+          definition: "mensen die niet meer leven",
+          sentence: "Bij de aanvallen zijn er veel ___.",
+          answer: "doden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ is belangrijk voor democratie.",
-          answer: "verkiezing"
+          sentence: "De ___ regering is verantwoordelijk voor de aanvallen.",
+          answer: "Israëlische"
         },
         {
-          sentence: "Hij ___ de verkiezing en wordt burgemeester.",
-          answer: "wint"
+          sentence: "De ___ waren erg heftig in Libanon.",
+          answer: "aanvallen"
         },
         {
-          sentence: "De ___ leidt de stad en helpt de mensen.",
-          answer: "burgemeester"
+          sentence: "___ is een land in het Midden-Oosten.",
+          answer: "Libanon"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is een burgemeester?",
+        question: "Waar vinden de aanvallen plaats?",
         options: [
-          "Een soort dier",
-          "De leider van een stad",
-          "Een type auto",
-          "Iemand die alleen in het verleden leeft"
+          "In Nederland",
+          "In Israël",
+          "In Libanon",
+          "In Amerika"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat is het resultaat van de aanvallen?",
+        options: [
+          "Er is niets gebeurd",
+          "Er is veel schade",
+          "Iedereen is veilig",
+          "Er is feest"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat betekent het om een verkiezing te winnen?",
+        question: "Wie is verantwoordelijk voor de aanvallen?",
         options: [
-          "Je verliest iets",
-          "Je krijgt een nieuwe taak of positie",
-          "Je gaat naar huis",
-          "Je stopt met werken"
+          "Nederland",
+          "Libanon",
+          "Israël",
+          "De Verenigde Naties"
         ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is 'hol van de leeuw'?",
-        options: [
-          "Een veilige plek",
-          "Een gevaarlijke plek",
-          "Een restaurant",
-          "Een sportschool"
-        ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Een burgemeester is de leider van een land.",
+        statement: "De aanvallen vonden plaats in Nederland.",
         isTrue: false
       },
       {
-        statement: "Progressieven zijn mensen die willen veranderen en verbeteren.",
+        statement: "Er waren doden en gewonden na de aanvallen.",
         isTrue: true
       },
       {
-        statement: "De burgemeester van New York woont in een hol.",
-        isItrue: false
+        statement: "Israël is verantwoordelijk voor de aanvallen.",
+        isTrue: true
       }
     ]
   },
@@ -853,103 +877,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Abu Dhabi levert wapens",
+    title: "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
     topicNumber: 1,
     article: {
-      title: "Abu Dhabi levert wapens",
-      summary: "Abu Dhabi levert wapens. Andere landen zijn stil."
+      title: "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
+      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
     },
     vocabulary: {
       words: [
         {
-          word: "zijn",
-          definition: "het werkwoord van zijn",
-          sentence: "Zij ___ vrienden.",
-          answer: "zijn"
+          word: "Rutte",
+          definition: "De achternaam van de Nederlandse premier.",
+          sentence: "___ is een bekende Nederlander.",
+          answer: "Rutte"
         },
         {
-          word: "levert",
-          definition: "geeft iets aan iemand",
-          sentence: "Hij ___ een pakje.",
-          answer: "levert"
+          word: "Mark",
+          definition: "Een Nederlandse voornaam.",
+          sentence: "___ Rutte is een bekende politicus.",
+          answer: "Mark"
         },
         {
-          word: "Dhabi",
-          definition: "deel van de naam van de stad",
-          sentence: "Abu ___ is een stad.",
-          answer: "Dhabi"
+          word: "Oekraïne",
+          definition: "Een land in Europa.",
+          sentence: "___ is een groot land.",
+          answer: "Oekraïne"
         },
         {
-          word: "Abu",
-          definition: "een naam van een plaats",
-          sentence: "___ Dhabi is een stad.",
-          answer: "Abu"
+          word: "oorlog",
+          definition: "Een tijd waarin landen vechten.",
+          sentence: "De ___ duurde vier jaar.",
+          answer: "oorlog"
         },
         {
-          word: "en",
-          definition: "woord om twee zinnen te verbinden",
-          sentence: "Ik heb een pen ___ een boek.",
-          answer: "en"
+          word: "waarschuwt",
+          definition: "Iemand waarschuwen betekent zeggen dat er gevaar is.",
+          sentence: "Hij ___ haar voor het onweer.",
+          answer: "waarschuwt"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij ___ een pakje.",
-          answer: "levert"
+          sentence: "De ___ duurde vier jaar.",
+          answer: "oorlog"
         },
         {
-          sentence: "___ Dhabi is een stad.",
-          answer: "Abu"
+          sentence: "___ is een bekende Nederlander.",
+          answer: "Rutte"
         },
         {
-          sentence: "Ik heb een pen ___ een boek.",
-          answer: "en"
+          sentence: "Hij ___ haar voor het onweer.",
+          answer: "waarschuwt"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat levert Abu Dhabi?",
+        question: "Waar gaat het artikel over?",
         options: [
-          "wapens",
-          "eten",
-          "auto's",
-          "boeken"
+          "Over vakantie",
+          "Over vrede",
+          "Over een waarschuwing",
+          "Over een verjaardag"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wat doen de bondgenoten?",
+        question: "Wie is Mark Rutte?",
         options: [
-          "ze praten",
-          "ze zwijgen",
-          "ze lachen",
-          "ze rennen"
+          "Een bakker",
+          "Een leraar",
+          "De baas van Nederland",
+          "Een schrijver"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Waar is Abu Dhabi?",
+        question: "Waar is Oekraïne?",
         options: [
-          "in Azië",
-          "in Afrika",
-          "in Europa",
-          "in Nederland"
+          "In Azië",
+          "In Afrika",
+          "In Europa",
+          "In Zuid-Amerika"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Abu Dhabi levert wapens.",
+        statement: "Mark Rutte is de baas van Nederland.",
         isTrue: true
       },
       {
-        statement: "De bondgenoten praten veel.",
+        statement: "Poetin is de baas van Oekraïne.",
         isTrue: false
       },
       {
-        statement: "Abu Dhabi is een stad.",
+        statement: "Een nucleaire oorlog kan nooit gewonnen worden.",
         isTrue: true
       }
     ]
@@ -1065,103 +1089,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Nanette Tassin, 96 jaar",
+    title: "Auto rijdt in op agenten in Schaarbeek: “Geweld tegen politiemensen is onaanvaardbaar”",
     topicNumber: 1,
     article: {
-      title: "Nanette Tassin, 96 jaar",
-      summary: "Geboren in 1928, overleden op 29/10/2025."
+      title: "Auto rijdt in op agenten in Schaarbeek: “Geweld tegen politiemensen is onaanvaardbaar”",
+      summary: "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
     },
     vocabulary: {
       words: [
         {
-          word: "geboren",
-          definition: "het begin van het leven",
-          sentence: "Nanette Tassin is ___ in 1928.",
-          answer: "geboren"
+          word: "dader",
+          definition: "iemand die iets slechts doet",
+          sentence: "De ___ is nog niet gevonden.",
+          answer: "dader"
         },
         {
-          word: "overleden",
-          definition: "niet meer levend, gestorven",
-          sentence: "Ze is ___ op 29 oktober 2025.",
-          answer: "overleden"
+          word: "poging",
+          definition: "een poging om iets te doen",
+          sentence: "Hij deed een ___ tot moord.",
+          answer: "poging"
         },
         {
-          word: "jaar",
-          definition: "een periode van 365 dagen",
-          sentence: "Ze was 96 ___ oud.",
-          answer: "jaar"
+          word: "agenten",
+          definition: "mensen die de wet handhaven",
+          sentence: "De ___ werken voor de politie.",
+          answer: "agenten"
         },
         {
-          word: "over",
-          definition: "voorbij, afgelopen",
-          sentence: "Het feest is al ___.",
-          answer: "over"
+          word: "controleren",
+          definition: "nakijken of iets klopt",
+          sentence: "De politie wil een voertuig ___.",
+          answer: "controleren"
         },
         {
-          word: "in",
-          definition: "een locatie, ergens binnen",
-          sentence: "Ze is geboren ___ 1928.",
-          answer: "in"
+          word: "auto",
+          definition: "een voertuig voor transport",
+          sentence: "De ___ rijdt op de weg.",
+          answer: "auto"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het feest is al ___.",
-          answer: "over"
+          sentence: "De politie wil een voertuig ___.",
+          answer: "controleren"
         },
         {
-          sentence: "Ze is geboren ___ 1928.",
-          answer: "in"
+          sentence: "De ___ werken voor de politie.",
+          answer: "agenten"
         },
         {
-          sentence: "Ze was 96 ___ oud.",
-          answer: "jaar"
+          sentence: "Hij deed een ___ tot moord.",
+          answer: "poging"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'overleden'?",
+        question: "Waarom controleerde de politie het voertuig?",
         options: [
-          "geweest op een feest",
-          "gestorven",
-          "heel oud",
-          "uitgevallen van ouderdom"
+          "Om de auto te stelen",
+          "Om de bestuurder te arresteren",
+          "Omdat het verkeerd geparkeerd was",
+          "Om een vermist persoon te vinden"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is 'geboren'?",
+        question: "Wat is de rol van het parket in deze situatie?",
         options: [
-          "begonnen met leven",
-          "gestorven",
-          "verhuisd",
-          "getrouwd"
+          "Het parket bouwt huizen",
+          "Het parket heeft een onderzoek geopend",
+          "Het parket verkoopt auto's",
+          "Het parket is een restaurant"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat betekent 'leven'?",
+        question: "Wat is de toestand van de dader?",
         options: [
-          "dood zijn",
-          "niet meer bestaan",
-          "actief zijn",
-          "slapen"
+          "De dader is gearresteerd",
+          "De dager is onbekend",
+          "De dager is op vakantie",
+          "De dader is een politieagent"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Nanette Tassin is geboren in 1928.",
+        statement: "De auto is de dader in dit incident.",
         isTrue: true
       },
       {
-        statement: "Ze is overleden in 2025.",
-        isTrue: true
+        statement: "De agenten waren aan het rijden tijdens het incident.",
+        isTrue: false
       },
       {
-        statement: "Ze is nu 100 jaar oud.",
+        statement: "Het motief van de dader is al bekend.",
         isTrue: false
       }
     ]
@@ -1171,104 +1195,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Patrick Brems, 64 jaar",
+    title: "Man vindt handgranaat voor zijn deur",
     topicNumber: 1,
     article: {
-      title: "Patrick Brems, 64 jaar",
-      summary: "Geboren in 1960, overleden op 04/11/2025."
+      title: "Man vindt handgranaat voor zijn deur",
+      summary: "Iemand vindt een handgranaat bij zijn huis. Dit is gevaarlijk. De politie onderzoekt de zaak."
     },
     vocabulary: {
       words: [
         {
-          word: "Brems",
-          definition: "Familienaam.",
-          sentence: "De familie ___ heeft een huis.",
-          answer: "Brems"
+          word: "politie",
+          definition: "mensen die de wet handhaven",
+          sentence: "De ___ kwam naar het huis.",
+          answer: "politie"
         },
         {
-          word: "Patrick",
-          definition: "Een mannelijke naam.",
-          sentence: "___ is een man.",
-          answer: "Patrick"
+          word: "gevaarlijk",
+          definition: "niet veilig, kan pijn doen",
+          sentence: "Vuur is ___ voor kinderen.",
+          answer: "gevaarlijk"
         },
         {
-          word: "gebor",
-          definition: "Niet meer leven.",
-          sentence: "Hij is ___ in 2025.",
-          answer: "overleden"
+          word: "handgranaat",
+          definition: "een gevaarlijk wapen",
+          sentence: "De politie vond een ___ in de tuin.",
+          answer: "handgranaat"
         },
         {
-          word: "11",
-          definition: "De elfde maand van het jaar.",
-          sentence: "Hij overleed op 04/___/2025.",
-          answer: "11"
+          word: "is",
+          definition: "zijn, het werkwoord",
+          sentence: "Hij ___ een student.",
+          answer: "is"
         },
         {
-          word: "04",
-          definition: "De vierde dag van de maand.",
-          sentence: "Hij overleed op ___ november.",
-          answer: "04"
+          word: "zaak",
+          definition: "een situatie of geval",
+          sentence: "De ___ is nog niet opgelost.",
+          answer: "zaak"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "___ is een man.",
-          answer: "Patrick"
+          sentence: "Vuur is ___ voor kinderen.",
+          answer: "gevaarlijk"
         },
         {
-          sentence: "Hij is ___ in 2025.",
-          answer: "overleden"
+          sentence: "De ___ kwam naar het huis.",
+          answer: "politie"
         },
         {
-          sentence: "Hij overleed op ___ november.",
-          answer: "04"
+          sentence: "Hij ___ een student.",
+          answer: "is"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de geboortedatum van Patrick Brems?",
+        question: "Waar vond de man de handgranaat?",
         options: [
-          "1960",
-          "1961",
-          "1962",
-          "1963"
+          "In zijn huis",
+          "In zijn auto",
+          "Voor zijn deur",
+          "In de supermarkt"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "In welk jaar overleed Patrick Brems?",
+        question: "Wat doet de politie?",
         options: [
-          "2024",
-          "2025",
-          "2026",
-          "2027"
+          "Ze negeert het",
+          "Ze onderzoekt de zaak",
+          "Ze gaat naar huis",
+          "Ze belt de man"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de achternaam van Patrick?",
+        question: "Is de handgranaat gevaarlijk?",
         options: [
-          "Jansen",
-          "Pieters",
-          "Brems",
-          "de Vries"
+          "Nee, het is veilig",
+          "Ja, het is gevaarlijk",
+          "Het is een pen",
+          "Het is een huis"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Patrick Brems is geboren in 1960.",
-        isTrue: true
-      },
-      {
-        statement: "Patrick overleed in 2024.",
+        statement: "De man vindt de handgranaat in zijn huis.",
         isTrue: false
       },
       {
-        statement: "Patrick zijn achternaam is Brems.",
+        statement: "De politie onderzoekt de zaak.",
         isTrue: true
+      },
+      {
+        statement: "De handgranaat is een veilig speelgoed.",
+        isTrue: false
       }
     ]
   },
@@ -1277,104 +1301,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
+    title: "Biden: 'Trump maakt niet alleen het Witte Huis kapot, maar ook het land'",
     topicNumber: 1,
     article: {
-      title: "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
-      summary: "In iedere race, in iedere staat kregen de Republikeinen dinsdag zware klappen. Het krachtige signaal van de kiezer plaatst hen voor een dilemma. Ze kunnen niet zonder Trump en ze kunnen niet mét hem."
+      title: "Biden: 'Trump maakt niet alleen het Witte Huis kapot, maar ook het land'",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "signaal",
-          definition: "Een teken of indicatie van iets",
-          sentence: "Het was een duidelijk ___ van de kiezers.",
-          answer: "signaal"
+          word: "Witte",
+          definition: "een kleur, vaak gebruikt in namen",
+          sentence: "Het Witte Huis is de officiële residentie van de president.",
+          answer: "Witte"
         },
         {
-          word: "niet",
-          definition: "Gebruikt om ontkenning aan te duiden",
-          sentence: "Ze kunnen ___ zonder hem.",
-          answer: "niet"
+          word: "alleen",
+          definition: "slechts, exclusief, zonder anderen",
+          sentence: "Hij was de enige die het wist; alleen hij had toegang.",
+          answer: "alleen"
         },
         {
-          word: "klappen",
-          definition: "Slagen of klappen, vaak figuurlijk gebruikt voor tegenslag",
-          sentence: "Na de verkiezingen kregen ze harde ___.",
-          answer: "klappen"
+          word: "maakt",
+          definition: "veroorzaakt, leidt tot",
+          sentence: "Deze situatie maakt veel problemen.",
+          answer: "maakt"
         },
         {
-          word: "race",
-          definition: "Een wedstrijd of competitie, vooral in een politieke context",
-          sentence: "De politieke ___ was intens tijdens de verkiezingen.",
-          answer: "race"
+          word: "Huis",
+          definition: "een gebouw voor bewoning, of een specifiek gebouw (zoals het Witte Huis)",
+          sentence: "Hun nieuwe huis is erg groot en modern.",
+          answer: "Huis"
         },
         {
-          word: "staat",
-          definition: "Een politieke eenheid binnen een land, zoals in de Verenigde Staten",
-          sentence: "Elke ___ heeft zijn eigen verkiezingsregels.",
-          answer: "staat"
+          word: "kapot",
+          definition: "beschadigd, niet meer functionerend",
+          sentence: "De machine is helemaal kapot na het ongeluk.",
+          answer: "kapot"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Ze kunnen ___ zonder hem.",
-          answer: "niet"
+          sentence: "Het Witte Huis is de officiële residentie van de president.",
+          answer: "Witte"
         },
         {
-          sentence: "De politieke ___ was intens tijdens de verkiezingen.",
-          answer: "race"
+          sentence: "Deze situatie maakt veel problemen.",
+          answer: "maakt"
         },
         {
-          sentence: "Elke ___ heeft zijn eigen verkiezingsregels.",
-          answer: "staat"
+          sentence: "Hun nieuwe huis is erg groot en modern.",
+          answer: "Huis"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'klappen' in deze context?",
+        question: "Wat betekent 'amptel' in de context van de tekst?",
         options: [
-          "Applaus",
-          "Tegenslag",
-          "Opstootje",
-          "Overwinning"
+          "Een soort gerecht",
+          "Een ceremonie",
+          "Een ambtstermijn",
+          "Een feestelijke gebeurtenis"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat impliceert de uitspraak over het Witte Huis?",
+        options: [
+          "Het is fysiek beschadigd.",
+          "Het is een metafoor voor de regering.",
+          "Het is verplaatst naar een andere stad.",
+          "Het is een nieuw gebouw."
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat wordt bedoeld met 'kunnen niet mét hem'?",
+        question: "Wat is de kern van de uitspraak van Biden?",
         options: [
-          "Niet in zijn nabijheid kunnen zijn",
-          "Hem niet kunnen verstaan",
-          "Niet met hem kunnen samenwerken",
-          "Hij past niet in de groep"
+          "Hij prees Trump voor zijn werk.",
+          "Hij bekritiseert Trump's effect op de VS.",
+          "Hij kondigt een nieuw plan aan.",
+          "Hij beschrijft een historische gebeurtenis."
         ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat is de hoofdgedachte van de samenvatting?",
-        options: [
-          "Trump is onmisbaar",
-          "Republikeinen zijn verdeeld",
-          "Kiezers sturen een signaal",
-          "Trump is een last"
-        ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De Republikeinen wonnen overal op dinsdag.",
+        statement: "Donald Trump is de huidige president van de Verenigde Staten.",
         isTrue: false
       },
       {
-        statement: "Trump is zowel een voordeel als een nadeel voor de Republikeinen.",
+        statement: "De tekst betreft een kritische uitspraak over Trumps presidentschap.",
         isTrue: true
       },
       {
-        statement: "De kiezer heeft duidelijk gemaakt dat verandering nodig is.",
-        isTrue: true
+        statement: "Het Witte Huis is letterlijk vernietigd in de context.",
+        isTrue: false
       }
     ]
   },
@@ -1383,103 +1407,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Mamdani heeft getoond dat progressieven campagne kunnen voeren met dezelfde kunde als uiterst rechts",
+    title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
     topicNumber: 1,
     article: {
-      title: "Mamdani heeft getoond dat progressieven campagne kunnen voeren met dezelfde kunde als uiterst rechts",
-      summary: "Links Europa is klaar om te leren uit de campagne van de succesvolle Amerikaanse socialist Zohran Mamdani, die burgemeester van New York wordt. “Hij toont hoe een progressief kan winnen in het hol van de leeuw.”"
+      title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
+      summary: "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
     },
     vocabulary: {
       words: [
         {
-          word: "links",
-          definition: "Verwijst naar de politieke richting die progressieve of socialistische ideeën nastreeft.",
-          sentence: "Hij staat bekend als een ___ denker in de gemeenschap.",
-          answer: "links"
+          word: "aanvallen",
+          definition: "militaire acties of offensieven",
+          sentence: "De recente ___ hebben de spanningen doen toenemen.",
+          answer: "aanvallen"
         },
         {
-          word: "progressieven",
-          definition: "Mensen die vooruitgang of hervorming nastreven, vaak in een politieke context.",
-          sentence: "De ___ in het parlement hebben nieuwe wetten voorgesteld.",
-          answer: "progressieven"
+          word: "Israëlische",
+          definition: "betrekking hebbend op Israël",
+          sentence: "De ___ aanvallen troffen doelen in Libanon.",
+          answer: "Israëlische"
         },
         {
-          word: "hol",
-          definition: "Een holle ruimte of een plek die beschutting biedt, vaak gebruikt in metaforen.",
-          sentence: "Het leeuwtje verliet zijn ___ pas na een maand.",
-          answer: "hol"
+          word: "Midden-Oosten",
+          definition: "een regio die onder meer Israël en Libanon omvat",
+          sentence: "Het ___ is opnieuw het toneel van geweld.",
+          answer: "Midden-Oosten"
         },
         {
-          word: "leeuw",
-          definition: "Een groot, krachtig zoogdier; vaak symbolisch voor kracht of gevaar.",
-          sentence: "Hij voelde zich als een ___ in zijn kracht tijdens de presentatie.",
-          answer: "leeuw"
+          word: "gewonden",
+          definition: "personen die gewond zijn geraakt",
+          sentence: "De doden en ___ worden geëvacueerd.",
+          answer: "gewonden"
         },
         {
-          word: "rechts",
-          definition: "Betreft de politieke richting die conservatieve of traditionele waarden benadrukt.",
-          sentence: "De partij bevindt zich meer naar ___ op het spectrum.",
-          answer: "rechts"
+          word: "Libanon",
+          definition: "een land in het Midden-Oosten",
+          sentence: "___ is een van de landen die betrokken is bij dit conflict.",
+          answer: "Libanon"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het leeuwtje verliet zijn ___ pas na een maand.",
-          answer: "hol"
+          sentence: "De ___ aanvallen troffen doelen in Libanon.",
+          answer: "Israëlische"
         },
         {
-          sentence: "De partij bevindt zich meer naar ___ op het spectrum.",
-          answer: "rechts"
+          sentence: "Het ___ is opnieuw het toneel van geweld.",
+          answer: "Midden-Oosten"
         },
         {
-          sentence: "De ___ in het parlement hebben nieuwe wetten voorgesteld.",
-          answer: "progressieven"
+          sentence: "De recente ___ hebben de spanningen doen toenemen.",
+          answer: "aanvallen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'het hol van de leeuw' in deze context?",
+        question: "Wat is een synoniem voor 'gewonden' in deze context?",
         options: [
-          "Een veilige plek",
-          "Een gevaarlijke of uitdagende situatie",
-          "Een rustige omgeving",
-          "Een koninklijk paleis"
+          "Gezonde personen",
+          "Gewonde personen",
+          "Buitenlandse burgers",
+          "Gelukkige mensen"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de rol van Zohran Mamdani in deze tekst?",
+        question: "Welk land wordt genoemd als locatie van de aanvallen?",
         options: [
-          "Hij is een lokale activist",
-          "Hij is een professionele atleet",
-          "Hij is een politiek figuur die campagne voert",
-          "Hij is een journalist"
+          "Duitsland",
+          "Libanon",
+          "Nederland",
+          "Zwitserland"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Wat wordt er bedoeld met 'Links Europa is klaar om te leren'?",
+        question: "Wat betekent het om ontwikkelingen te 'volgen'?",
         options: [
-          "Europa is fysiek klaar om te leren",
-          "Links-politiek in Europa is bereid om lessen te trekken",
-          "Europa heeft een nieuwe educatiecampagne",
-          "Links Europa is een geografische locatie"
+          "Negeren",
+          "Observeren en bijhouden",
+          "Vermijden",
+          "Ondersteunen"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Zohran Mamdani is een Amerikaanse politicus die campagne voert.",
+        statement: "De aanvallen vonden plaats in het Midden-Oosten.",
         isTrue: true
       },
       {
-        statement: "De tekst stelt dat progressieven niet in staat zijn om effectief campagne te voeren.",
+        statement: "Nederland is het land waar de aanvallen plaatsvonden.",
         isTrue: false
       },
       {
-        statement: "Het begrip 'het hol van de leeuw' betekent in deze context een uitdagende of riskante situatie.",
+        statement: "Het artikel beschrijft de laatste ontwikkelingen in de regio.",
         isTrue: true
       }
     ]
@@ -1489,104 +1513,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Abu Dhabi levert wapens voor een genocide en hun westerse bondgenoten zwijgen",
+    title: "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
     topicNumber: 1,
     article: {
-      title: "Abu Dhabi levert wapens voor een genocide en hun westerse bondgenoten zwijgen",
-      summary: "In ruil voor goud leveren de Verenigde Arabische Emiraten de wapens waarmee de Rapid Support Forces in Noord-Darfour een genocidale massamoord aanrichten. Toch wijst niet één wereldleider de sjeiks van Abu Dhabi terecht."
+      title: "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
+      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
     },
     vocabulary: {
       words: [
         {
-          word: "genocide",
-          definition: "opzettelijke massamoord op een bepaalde groep",
-          sentence: "De VN onderzoekt of er sprake is van ___ in het conflict.",
-          answer: "genocide"
+          word: "Oekraïne",
+          definition: "Een land in Oost-Europa, momenteel betrokken bij een conflict.",
+          sentence: "___ vecht voor zijn soevereiniteit.",
+          answer: "Oekraïne"
         },
         {
-          word: "massamoord",
-          definition: "het op grote schaal doden van mensen",
-          sentence: "De massagraven getuigen van de ___ die plaatsvond.",
-          answer: "massamoord"
+          word: "baas",
+          definition: "Iemand die de leiding heeft over een organisatie of groep.",
+          sentence: "De ___ van het bedrijf heeft veel ervaring.",
+          answer: "baas"
         },
         {
-          word: "levert",
-          definition: "verstrekt of geeft iets",
-          sentence: "De organisatie ___ medische hulp aan de getroffen regio.",
-          answer: "levert"
+          word: "waarschuwt",
+          definition: "Iemand waarschuwen betekent die persoon informeren over een mogelijk gevaar.",
+          sentence: "Hij ___ zijn collega voor het te laat is.",
+          answer: "waarschuwt"
         },
         {
-          word: "sjeiks",
-          definition: "leiders of hooggeplaatste personen in sommige Arabische landen",
-          sentence: "De ___ onderhandelden over de nieuwe olieprijzen.",
-          answer: "sjeiks"
+          word: "ontwikkelingen",
+          definition: "Veranderingen of vooruitgangen in een situatie.",
+          sentence: "De recente ___ in de technologie zijn verbazingwekkend.",
+          answer: "ontwikkelingen"
         },
         {
-          word: "bondgenoten",
-          definition: "landen of partijen die samenwerken, vaak in een oorlog",
-          sentence: "De ___ van het pact kwamen bijeen om de strategie te bespreken.",
-          answer: "bondgenoten"
+          word: "oorlog",
+          definition: "Een gewapend conflict tussen landen of groepen.",
+          sentence: "De ___ heeft veel levens geëist.",
+          answer: "oorlog"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De organisatie ___ medische hulp aan de getroffen regio.",
-          answer: "levert"
+          sentence: "De ___ van het bedrijf heeft veel ervaring.",
+          answer: "baas"
         },
         {
-          sentence: "De ___ van het pact kwamen bijeen om de strategie te bespreken.",
-          answer: "bondgenoten"
+          sentence: "De ___ heeft veel levens geëist.",
+          answer: "oorlog"
         },
         {
-          sentence: "De VN onderzoekt of er sprake is van ___ in het conflict.",
-          answer: "genocide"
+          sentence: "___ vecht voor zijn soevereiniteit.",
+          answer: "Oekraïne"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de hoofdreden dat de Verenigde Arabische Emiraten wapens leveren aan Rapid Support Forces?",
+        question: "Wat betekent “Navo” in deze context?",
         options: [
-          "Om humanitaire redenen",
-          "Vanwege een economisch akkoord voor goud",
-          "Omdat de VAE zelf wordt aangevallen",
-          "Op verzoek van de Verenigde Naties"
+          "Een soort auto",
+          "Een militaire alliantie",
+          "Een natuurpark",
+          "Een type voedsel"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de reactie van westerse leiders op de wapenleveranties door de VAE?",
+        question: "Waarom waarschuwt Mark Rutte Poetin?",
         options: [
-          "Ze steunen de VAE openlijk",
-          "Ze veroordelen de VAE unaniem",
-          "Ze ondernemen geen actie en zwijgen",
-          "Ze sturen hun eigen troepen"
+          "Om hem uit te nodigen voor een feest",
+          "Omdat Rutte bang is voor een nucleaire ramp",
+          "Omdat Poetin een cadeau wil",
+          "Omdat Rutte een grap maakt"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Wat is een gevolg van de wapenleveranties aan de Rapid Support Forces?",
+        question: "Wat is een kern van de boodschap in de titel?",
         options: [
-          "Er breekt vrede uit in de regio",
-          "De VAE wordt internationaal geprezen",
-          "Er vinden grootschalige mensenrechtenschendingen plaats",
-          "De VAE stopt onmiddellijk met leveren"
+          "Nucleaire oorlog is makkelijk te winnen",
+          "Niemand kan een nucleaire oorlog winnen",
+          "Alleen Rusland kan een nucleaire oorlog winnen",
+          "Oorlog is altijd geweldig"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De Verenigde Arabische Emiraten leveren wapens in ruil voor goud.",
+        statement: "Mark Rutte is de baas van de Navo.",
         isTrue: true
       },
       {
-        statement: "Westerse bondgenoten spreken zich uniek uit tegen de wapenleveranties.",
+        statement: "Poetin wordt gewaarschuwd omdat hij een nucleaire oorlog wil starten.",
+        isTrue: true
+      },
+      {
+        statement: "Oekraïne heeft de oorlog gewonnen.",
         isTrue: false
-      },
-      {
-        statement: "De Rapid Support Forces plegen massamoorden in Noord-Darfour.",
-        isTrue: true
       }
     ]
   },
@@ -1595,103 +1619,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Luc Versluig, 78 jaar oud",
+    title: "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
     topicNumber: 1,
     article: {
-      title: "Luc Versluig, 78 jaar oud",
-      summary: "Geboren in 1946, overleden op 02/11/2025"
+      title: "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
+      summary: "Zaterdag zaten vijftien overlevers van misbruik samen met paus Leo XIV. Over dat gesprek zijn de zes mensen die De Standaard nadien kon spreken voorzichtig positief. Al zijn er geen concrete afspraken gemaakt over wat er in praktijk gaat veranderen. 'Als de paus het antwoord niet wist, zei hij dat ook eerlijk.'"
     },
     vocabulary: {
       words: [
         {
-          word: "overleden",
-          definition: "Het moment waarop iemand sterft; overlijden",
-          sentence: "Hij ___ op 02/11/2025.",
-          answer: "overleden"
+          word: "positief",
+          definition: "Optimistisch of gunstig; iets dat als goed wordt ervaren.",
+          sentence: "Zijn reactie was verrassend positief na het nieuws.",
+          answer: "positief"
         },
         {
-          word: "2025",
-          definition: "Het jaar waarin de overledene stierf; jaartal",
-          sentence: "Hij stierf in het jaar ___.",
-          answer: "2025"
+          word: "misbruik",
+          definition: "Het op een ongepaste of schadelijke manier gebruiken van iets of iemand.",
+          sentence: "Het misbruik van vertrouwen leidde tot diepe wonden.",
+          answer: "misbruik"
         },
         {
-          word: "overleden",
-          definition: "Niet meer levend; gestorven",
-          sentence: "Hij is helaas ___.",
-          answer: "overleden"
+          word: "paus",
+          definition: "Het hoofd van de Rooms-Katholieke Kerk, de hoogste religieuze leider.",
+          sentence: "De paus sprak de menigte toe met wijze woorden.",
+          answer: "paus"
         },
         {
-          word: "1946",
-          definition: "Het jaar waarin de overledene geboren is; jaartal",
-          sentence: "Hij werd geboren in het jaar ___.",
-          answer: "1946"
+          word: "slachtoffers",
+          definition: "Personen die nadeel of leed ondervinden, vaak door toedoen van anderen.",
+          sentence: "De slachtoffers van het misbruik kregen eindelijk erkenning.",
+          answer: "slachtoffers"
         },
         {
-          word: "Luc",
-          definition: "Voornaam van de overledene; eigennaam",
-          sentence: "___ was de voornaam van de overledene.",
-          answer: "Luc"
+          word: "gesprek",
+          definition: "Een gesprek of discussie tussen twee of meer personen.",
+          sentence: "Het gesprek tussen hen verliep moeizaam maar respectvol.",
+          answer: "gesprek"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij werd geboren in het jaar ___.",
-          answer: "1946"
+          sentence: "De slachtoffers van het misbruik kregen eindelijk erkenning.",
+          answer: "slachtoffers"
         },
         {
-          sentence: "Hij stierf in het jaar ___.",
-          answer: "2025"
+          sentence: "Het gesprek tussen hen verliep moeizaam maar respectvol.",
+          answer: "gesprek"
         },
         {
-          sentence: "Hij ___ op 02/11/2025.",
-          answer: "overleden"
+          sentence: "Het misbruik van vertrouwen leidde tot diepe wonden.",
+          answer: "misbruik"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "In welk jaar is Luc Versluig geboren?",
+        question: "Wat was de houding van de overlevers na het gesprek met de paus?",
         options: [
-          "1945",
-          "1946",
-          "1947",
-          "1948"
+          "Extreem negatief",
+          "Uiterst positief",
+          "Voorzichtig optimistisch",
+          "Openlijk vijandig"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat was het resultaat van de ontmoeting volgens de tekst?",
+        options: [
+          "Vele concrete afspraken werden gemaakt",
+          "Er werden geen concrete afspraken gemaakt",
+          "De paus bood zijn excuses aan",
+          "Het gesprek werd afgebroken"
         ],
         correctAnswer: 2
       },
       {
-        question: "Op welke datum is Luc Versluig overleden?",
+        question: "Hoe wordt de paus beschreven in zijn reactie?",
         options: [
-          "01/11/2025",
-          "02/11/2025",
-          "03/11/2025",
-          "04/11/2025"
+          "Hij was oneerlijk en hield informatie achter",
+          "Hij was eerlijk en toegankelijk",
+          "Hij weigerde te antwoorden",
+          "Hij verontschuldigde zich herhaaldelijk"
         ],
         correctAnswer: 2
-      },
-      {
-        question: "Wat was de volledige naam van de overledene?",
-        options: [
-          "Luc Versluig",
-          "Piet Versluig",
-          "Jan Versluig",
-          "Kees Versluig"
-        ],
-        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Luc Versluig is geboren in 1946.",
+        statement: "De overlevers van het misbruik spraken met paus Leo XIV over hun ervaringen.",
         isTrue: true
       },
       {
-        statement: "Luc Versluig overleed op 01/11/2025.",
+        statement: "Na het gesprek werden er concrete afspraken gemaakt die onmiddellijk werden uitgevoerd.",
         isTrue: false
       },
       {
-        statement: "De volledige naam van de overledene is Luc Versluig.",
+        statement: "De paus gaf een eerlijk antwoord wanneer hij het niet wist.",
         isTrue: true
       }
     ]
@@ -1701,73 +1725,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Nanette Tassin, 96 jaar",
+    title: "Auto rijdt in op agenten in Schaarbeek: 'Geweld tegen politiemensen is onaanvaardbaar'",
     topicNumber: 1,
     article: {
-      title: "Nanette Tassin, 96 jaar",
-      summary: "Geboren in 1928, overleden op 29/10/2025."
+      title: "Auto rijdt in op agenten in Schaarbeek: 'Geweld tegen politiemensen is onaanvaardbaar'",
+      summary: "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
     },
     vocabulary: {
       words: [
         {
-          word: "geboren",
-          definition: "Het begin van iemands leven; het ter wereld komen.",
-          sentence: "Zij werd ___ in 1928.",
-          answer: "geboren"
+          word: "dader",
+          definition: "iemand die een misdrijf pleegt",
+          sentence: "De ___ is nog niet geïdentificeerd.",
+          answer: "dader"
         },
         {
-          word: "overleden",
-          definition: "Niet meer in leven zijn; gestorven.",
-          sentence: "Hij is ___ op 15 maart.",
-          answer: "overleden"
+          word: "moord",
+          definition: "het opzettelijk doden van een persoon",
+          sentence: "Hij is verdacht van ___ op zijn buurman.",
+          answer: "moord"
+        },
+        {
+          word: "motief",
+          definition: "de reden of beweegreden voor een handeling",
+          sentence: "Wat was het ___ voor deze misdaad?",
+          answer: "motief"
+        },
+        {
+          word: "onderzoek",
+          definition: "een systematisch onderzoek om feiten vast te stellen",
+          sentence: "Het parket heeft een ___ geopend naar de gebeurtenissen.",
+          answer: "onderzoek"
+        },
+        {
+          word: "controleren",
+          definition: "nagaan of controleren of iets in orde is",
+          sentence: "Agenten ___ voertuigen op de openbare weg.",
+          answer: "controleren"
         }
       ],
-      fillInBlanks: []
+      fillInBlanks: [
+        {
+          sentence: "Hij is verdacht van ___ op zijn buurman.",
+          answer: "moord"
+        },
+        {
+          sentence: "Wat was het ___ voor deze misdaad?",
+          answer: "motief"
+        },
+        {
+          sentence: "De ___ is nog niet geïdentificeerd.",
+          answer: "dader"
+        }
+      ]
     },
     multipleChoice: [
       {
-        question: "Wat is de geboortedatum van Nanette Tassin?",
+        question: "Wat is de hoofdactiviteit van de agenten in de beschreven situatie?",
         options: [
-          "1928",
-          "1929",
-          "1930",
-          "1931"
+          "Rellen beheersen",
+          "Voertuigen controleren",
+          "Een onderzoek leiden",
+          "Een misdaad plegen"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is de juridische status van de handeling tegen de agenten?",
+        options: [
+          "Het is een misdrijf van moord.",
+          "Het is een geval van verkeersovertreding.",
+          "Het is een voorbeeld van burgermanschap.",
+          "Het is een onderzoek naar mogelijke oorzaken."
         ],
         correctAnswer: 1
       },
       {
-        question: "In welk jaar overleed Nanette Tassin?",
+        question: "Wat is de huidige staat van het onderzoek naar het motief?",
         options: [
-          "2023",
-          "2024",
-          "2025",
-          "2026"
+          "Het is afgerond met een veroordeling.",
+          "Het is in de beginfase met onduidelijkheid.",
+          "Het is al bevestigd door de dader.",
+          "Het is niet van toepassing in deze situatie."
         ],
-        correctAnswer: 3
-      },
-      {
-        question: "Hoe oud was Nanette Tassin toen ze overleed?",
-        options: [
-          "96 jaar",
-          "95 jaar",
-          "97 jaar",
-          "98 jaar"
-        ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Nanette Tassin werd geboren in 1928.",
+        statement: "De agenten waren aan het controleren van een voertuig toen de aanval plaatsvond.",
         isTrue: true
       },
       {
-        statement: "Nanette Tassin overleed op 29 oktober 2025.",
-        isTrue: true
-      },
-      {
-        statement: "Nanette Tassin was 97 jaar oud bij haar overlijden.",
+        statement: "Het motief van de dader is al bekend bij de autoriteiten.",
         isTrue: false
+      },
+      {
+        statement: "De auto werd gebruikt als een wapen in de aanval.",
+        isTrue: true
       }
     ]
   },
@@ -1776,97 +1831,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Patrick Brems, 64 jaar",
+    title: "Inwoner van Kapellen vindt een handgranaat voor zijn poort: 'Zo raar is dat toch niet, mijnheer?'",
     topicNumber: 1,
     article: {
-      title: "Patrick Brems, 64 jaar",
-      summary: "Geboren in 1960, overleden op 04/11/2025."
+      title: "Inwoner van Kapellen vindt een handgranaat voor zijn poort: 'Zo raar is dat toch niet, mijnheer?'",
+      summary: "In Borgerhout is zaterdagnacht een explosief ontploft voor de deur van een woning. Onbekenden hebben vannacht ook een handgranaat achtergelaten voor een woning in Kapellen. Er is voorlopig geen sprake van een link tussen de twee feiten."
     },
     vocabulary: {
       words: [
         {
-          word: "Patrick",
-          definition: "Een mannelijke voornaam, afgeleid van het Latijnse 'Patricius'.",
-          sentence: "___ was een veel voorkomende naam in de jaren zestig.",
-          answer: "Patrick"
+          word: "raar",
+          definition: "Vreemd of ongebruikelijk, niet normaal.",
+          sentence: "Het was erg ___ dat hij zo laat thuiskwam.",
+          answer: "raar"
         },
         {
-          word: "Brems",
-          definition: "Een familienaam van waarschijnlijk Nederlandse of Belgische oorsprong.",
-          sentence: "De familie ___ heeft een lange geschiedenis in deze regio.",
-          answer: "Brems"
+          word: "vindt",
+          definition: "Ontdekt of aantreft, meestal per toeval.",
+          sentence: "Hij ___ een euro op straat en was erg blij.",
+          answer: "vindt"
         },
         {
-          word: "geboren",
-          definition: "Het begin van het leven; het ter wereld komen.",
-          sentence: "Hij werd ___ in een klein dorp in de jaren veertig.",
-          answer: "geboren"
+          word: "ontploft",
+          definition: "Ontploft, is ontploft; geëxplodeerd.",
+          sentence: "De bom ___ zonder gewonden te veroorzaken.",
+          answer: "ontploft"
         },
         {
-          word: "overleden",
-          definition: "Het overlijden; het beëindigen van het leven.",
-          sentence: "Hij is recent ___ na een lang ziekbed.",
-          answer: "overleden"
+          word: "link",
+          definition: "Een verbinding of verband tussen twee zaken.",
+          sentence: "Er is een duidelijke ___ tussen roken en longkanker.",
+          answer: "link"
+        },
+        {
+          word: "explosief",
+          definition: "Betrekking hebbend op of geschikt voor een explosie.",
+          sentence: "De ___ stoffen werden veilig opgeslagen.",
+          answer: "explosief"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij is recent ___ na een lang ziekbed.",
-          answer: "overleden"
+          sentence: "Het was erg ___ dat hij zo laat thuiskwam.",
+          answer: "raar"
         },
         {
-          sentence: "De familie ___ heeft een lange geschiedenis in deze regio.",
-          answer: "Brems"
+          sentence: "De bom ___ zonder gewonden te veroorzaken.",
+          answer: "ontploft"
         },
         {
-          sentence: "___ was een veel voorkomende naam in de jaren zestig.",
-          answer: "Patrick"
+          sentence: "De ___ stoffen werden veilig opgeslagen.",
+          answer: "explosief"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'overleden' in deze context?",
+        question: "Wat betekent 'vindt' in deze context?",
         options: [
-          "Ging slapen",
-          "Is gestorven",
-          "Verhuisde",
-          "Is geboren"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Welk jaar werd Patrick Brems geboren?",
-        options: [
-          "1960",
-          "1961",
-          "1962",
-          "1963"
+          "Vindt",
+          "Vind",
+          "Vindt",
+          "Vindt"
         ],
         correctAnswer: 1
       },
       {
-        question: "Hoe oud was Patrick Brems op het moment van overlijden?",
+        question: "Wat is een 'handgranaat'?",
         options: [
-          "64 jaar",
-          "65 jaar",
-          "63 jaar",
-          "66 jaar"
+          "Een soort fruit",
+          "Een soort dier",
+          "Een soort wapen",
+          "Een soort boek"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat betekent 'er is voorlopig geen sprake van een link'?",
+        options: [
+          "Er is nog geen verband bewezen",
+          "Er is al een verband bewezen",
+          "Er is geen verband mogelijk",
+          "Er is een duidelijk verband"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Patrick Brems stierf in de maand november.",
+        statement: "In Borgerhout is een explosief ontploft voor de deur van een woning.",
         isTrue: true
       },
       {
-        statement: "Patrick Brems werd geboren in de 20e eeuw.",
-        isTrue: true
+        statement: "Er is een bewezen verband tussen de incidenten in Borgerhout en Kapellen.",
+        isTrue: false
       },
       {
-        statement: "Patrick Brems leefde tot in de 21e eeuw.",
+        statement: "Er is voorlopig geen sprake van een link tussen de twee feiten.",
         isTrue: true
       }
     ]
@@ -1876,104 +1937,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
+    title: "Biden: “Trump maakt het Witte Huis en het land kapot”",
     topicNumber: 1,
     article: {
-      title: "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
-      summary: "In iedere race, in iedere staat kregen de Republikeinen dinsdag zware klappen. Het krachtige signaal van de kiezer plaatst hen voor een dilemma. Ze kunnen niet zonder Trump en ze kunnen niet mét hem."
+      title: "Biden: “Trump maakt het Witte Huis en het land kapot”",
+      summary: "Donald Trump was president van Amerika. Zijn tweede termijn bracht veel verandering in de wereld. Volg hier het laatste nieuws."
     },
     vocabulary: {
       words: [
         {
-          word: "plaatst",
-          definition: "zet of stopt iets",
-          sentence: "Hij ___ het boek op de tafel.",
-          answer: "plaatst"
+          word: "president",
+          definition: "een leider van een land",
+          sentence: "De ___ van de Verenigde Staten is Joe Biden.",
+          answer: "president"
         },
         {
-          word: "dilemma",
-          definition: "een moeilijke keuze tussen twee dingen",
-          sentence: "Het was een echt ___: gaan of blijven?",
-          answer: "dilemma"
+          word: "termijn",
+          definition: "een periode van tijd, vaak voor een baan",
+          sentence: "Hij had een tweede ___ als president.",
+          answer: "termijn"
         },
         {
-          word: "staat",
-          definition: "een gebied in een land, zoals een provincie",
-          sentence: "Elke ___ heeft zijn eigen regels.",
-          answer: "staat"
+          word: "wereld",
+          definition: "de aarde en alle mensen",
+          sentence: "De ___ keek toe naar Amerika.",
+          answer: "wereld"
         },
         {
-          word: "signaal",
-          definition: "een teken of bericht",
-          sentence: "Het ___ was duidelijk: stop nu.",
-          answer: "signaal"
+          word: "verandering",
+          definition: "iets wat anders wordt dan het was",
+          sentence: "Er was veel ___ in het beleid.",
+          answer: "verandering"
         },
         {
-          word: "klappen",
-          definition: "harde geluiden, of moeilijke momenten",
-          sentence: "Hij kreeg veel ___ tijdens de wedstrijd.",
-          answer: "klappen"
+          word: "nieuws",
+          definition: "informatie over wat er gebeurt",
+          sentence: "Het laatste ___ is net uitgekomen.",
+          answer: "nieuws"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Elke ___ heeft zijn eigen regels.",
-          answer: "staat"
+          sentence: "De ___ keek toe naar Amerika.",
+          answer: "wereld"
         },
         {
-          sentence: "Het ___ was duidelijk: stop nu.",
-          answer: "signaal"
+          sentence: "Het laatste ___ is net uitgekomen.",
+          answer: "nieuws"
         },
         {
-          sentence: "Het was een echt ___: gaan of blijven?",
-          answer: "dilemma"
+          sentence: "Hij had een tweede ___ als president.",
+          answer: "termijn"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent het woord 'race' in deze context?",
+        question: "Wie is de president van de Verenigde Staten nu?",
         options: [
-          "een snel bewegend voertuig",
-          "een wedstrijd of competitie",
-          "een type dier",
-          "een hard geluid"
+          "Joe Biden",
+          "Donald Trump",
+          "Barack Obama",
+          "Bill Clinton"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Wat is de betekenis van 'dilemma'?",
+        question: "Welk effect had Trump's presidentschap op de wereld?",
         options: [
-          "een gemakkelijke keuze",
-          "een moeilijke keuze tussen twee dingen",
-          "een soort dier",
-          "een groot feest"
+          "Veel verandering",
+          "Alles bleef hetzelfde",
+          "Er was geen effect",
+          "Alleen Amerika veranderde"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Waar gaat de tekst over?",
+        question: "Waar kan men het laatste nieuws over de verkiezingen volgen?",
         options: [
-          "Koken en eten",
-          "Politiek en verkiezingen",
-          "Sport en wedstrijden",
-          "Muziek en dans"
+          "In de krant",
+          "Op de radio",
+          "Op deze website",
+          "In een boek"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Trump is nog steeds een sterke leider voor de Republikeinen.",
-        isTrue: false
-      },
-      {
-        statement: "De Republikeinen verloren sterk bij de verkiezingen.",
+        statement: "Donald Trump was de president van Amerika.",
         isTrue: true
       },
       {
-        statement: "Trump kan niet meer meedoen aan verkiezingen.",
+        statement: "Zijn eerste termijn bracht veel verandering in de wereld.",
         isTrue: false
+      },
+      {
+        statement: "Je kunt hier het laatste nieuws over de verkiezingen volgen.",
+        isTrue: true
       }
     ]
   },
@@ -1982,97 +2043,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Mamdani laat zien hoe progressieven campagne kunnen voeren",
+    title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
     topicNumber: 1,
     article: {
-      title: "Mamdani laat zien hoe progressieven campagne kunnen voeren",
-      summary: "Links Europa is klaar om te leren uit de campagne van de succesvolle Amerikaanse socialist Zohran Mamdani, die burgemeester van New York wordt. Hij toont hoe een progressief kan winnen in het hol van de leeuw."
+      title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
+      summary: "Er is nieuws over aanvallen in Libanon. Er zijn doden en gewonden."
     },
     vocabulary: {
       words: [
         {
-          word: "progressieven",
-          definition: "mensen die vooruitgang willen, positieve verandering",
-          sentence: "De ___ willen het land verbeteren.",
-          answer: "progressieven"
+          word: "Israëlische",
+          definition: "iets of iemand uit Israël",
+          sentence: "De ___ regering heeft een verklaring uitgegeven.",
+          answer: "Israëlische"
         },
         {
-          word: "campagne",
-          definition: "een georganiseerde actie om een doel te bereiken, vaak politiek",
-          sentence: "Hij voerde een goede ___ voor de verkiezingen.",
-          answer: "campagne"
+          word: "nieuws",
+          definition: "informatie over wat er gebeurt in de wereld",
+          sentence: "Het ___ van vandaag gaat over de situatie in de wereld.",
+          answer: "nieuws"
         },
         {
-          word: "winnen",
-          definition: "iets halen, slagen in iets",
-          sentence: "Hij hoopte de verkiezingen te ___.",
-          answer: "winnen"
+          word: "Libanon",
+          definition: "een land in het Midden-Oosten",
+          sentence: "___ heeft veel schade geleden door de aanvallen.",
+          answer: "Libanon"
         },
         {
-          word: "Amerikaanse",
-          definition: "iets of iemand uit de Verenigde Staten",
-          sentence: "De ___ president sprak over het klimaat.",
-          answer: "Amerikaanse"
+          word: "gewonden",
+          definition: "mensen die gewond zijn geraakt",
+          sentence: "Er zijn veel ___ die hulp nodig hebben.",
+          answer: "gewonden"
+        },
+        {
+          word: "doden",
+          definition: "mensen die niet meer leven",
+          sentence: "Er zijn veel ___ in het conflict.",
+          answer: "doden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ president sprak over het klimaat.",
-          answer: "Amerikaanse"
+          sentence: "___ heeft veel schade geleden door de aanvallen.",
+          answer: "Libanon"
         },
         {
-          sentence: "Hij hoopte de verkiezingen te ___.",
-          answer: "winnen"
+          sentence: "Er zijn veel ___ in het conflict.",
+          answer: "doden"
         },
         {
-          sentence: "Hij voerde een goede ___ voor de verkiezingen.",
-          answer: "campagne"
+          sentence: "Er zijn veel ___ die hulp nodig hebben.",
+          answer: "gewonden"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar is Zohran Mamdani burgemeester van?",
+        question: "Waar gaat het nieuws over?",
         options: [
-          "New York",
-          "Amsterdam",
-          "Londen",
-          "Parijs"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat betekent 'winnen' in deze context?",
-        options: [
-          "verliezen",
-          "winnen",
-          "vechten",
-          "spelen"
+          "Over sport",
+          "Over een conflict in het Midden-Oosten",
+          "Over een feest",
+          "Over een nieuwe film"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de rol van Europa volgens de tekst?",
+        question: "Wat is er gebeurd in Libanon?",
         options: [
-          "leren van de campagne",
-          "negeren van de campagne",
-          "stoppen met de campagne",
-          "bekritiseren van de campagne"
+          "Er was een feest",
+          "Er was een aanval",
+          "Er was een concert",
+          "Er was een sportwedstrijd"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
+      },
+      {
+        question: "Wie heeft de aanvallen uitgevoerd?",
+        options: [
+          "Libanon",
+          "Israël",
+          "Een ander land",
+          "Niemand weet het"
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Zohran Mamdani is de burgemeester van New York.",
+        statement: "Er zijn doden en gewonden gevallen in Libanon.",
         isTrue: true
       },
       {
-        statement: "Progressieven verliezen altijd in het hol van de leeuw.",
+        statement: "De aanvallen werden uitgevoerd door Libanon.",
         isTrue: false
       },
       {
-        statement: "Europa kan leren van de campagne van Mamdani.",
+        statement: "Israëlische troepen waren verantwoordelijk voor de aanvallen.",
         isTrue: true
       }
     ]
@@ -2082,103 +2149,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Abu Dhabi levert wapens voor een genocide",
+    title: "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
     topicNumber: 1,
     article: {
-      title: "Abu Dhabi levert wapens voor een genocide",
-      summary: "In ruil voor goud leveren de Verenigde Arabische Emiraten de wapens waarmee de Rapid Support Forces in Noord-Darfour een genocidale massamoord aanrichten. Toch wijst niet één wereldleider de sjeiks van Abu Dhabi terecht."
+      title: "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
+      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
     },
     vocabulary: {
       words: [
         {
-          word: "wapens",
-          definition: "dingen waarmee je kunt schieten, zoals een geweer",
-          sentence: "Soms geven landen ___ aan andere landen.",
-          answer: "wapens"
+          word: "ontwikkelingen",
+          definition: "nieuwe dingen die gebeuren of veranderen",
+          sentence: "De technologische ___ gaan snel.",
+          answer: "ontwikkelingen"
         },
         {
-          word: "levert",
-          definition: "geeft iets aan iemand, zoals een product of dienst",
-          sentence: "De supermarkt ___ boodschappen aan klanten.",
-          answer: "levert"
+          word: "app",
+          definition: "een programma op je telefoon of computer",
+          sentence: "Deze ___ helpt je om talen te leren.",
+          answer: "app"
         },
         {
-          word: "genocide",
-          definition: "het opzettelijk doden van een hele groep mensen",
-          sentence: "In een ___ worden veel onschuldige mensen gedood.",
-          answer: "genocide"
+          word: "melding",
+          definition: "een bericht dat je iets vertelt",
+          sentence: "Ik kreeg een ___ dat de post was aangekomen.",
+          answer: "melding"
         },
         {
-          word: "massamoord",
-          definition: "het doden van veel mensen in één keer",
-          sentence: "Een ___ is een verschrikkelijke gebeurtenis.",
-          answer: "massamoord"
+          word: "poetin",
+          definition: "de naam van de leider van Rusland",
+          sentence: "___ regeerde Rusland.",
+          answer: "poetin"
         },
         {
-          word: "sjeiks",
-          definition: "een belangrijke leider in sommige Arabische landen",
-          sentence: "De ___ hebben veel invloed in hun land.",
-          answer: "sjeiks"
+          word: "oorlog",
+          definition: "een situatie waar landen vechten",
+          sentence: "De ___ duurt al lang.",
+          answer: "oorlog"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "In een ___ worden veel onschuldige mensen gedood.",
-          answer: "genocide"
+          sentence: "___ regeerde Rusland.",
+          answer: "poetin"
         },
         {
-          sentence: "De supermarkt ___ boodschappen aan klanten.",
-          answer: "levert"
+          sentence: "De technologische ___ gaan snel.",
+          answer: "ontwikkelingen"
         },
         {
-          sentence: "Soms geven landen ___ aan andere landen.",
-          answer: "wapens"
+          sentence: "Ik kreeg een ___ dat de post was aangekomen.",
+          answer: "melding"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'levert' in deze tekst?",
+        question: "Wat betekent 'nucleaire oorlog'?",
         options: [
-          "geeft",
-          "neemt",
-          "verkoopt",
-          "verbergt"
+          "Een oorlog in de lucht",
+          "Een oorlog met atoombommen",
+          "Een oorlog op zee",
+          "Een oorlog in de ruimte"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat betekent 'ontwikkelingen'?",
+        options: [
+          "Nieuwe dingen die gebeuren",
+          "Oude dingen die verdwijnen",
+          "Mensen die vechten",
+          "Dieren die groeien"
         ],
         correctAnswer: 1
       },
       {
-        question: "Waarom zwijgen de bondgenoten volgens de tekst?",
+        question: "Waar gaat de tekst over?",
         options: [
-          "Ze zijn niet betrokken",
-          "Ze steunen de actie",
-          "Ze zijn het ermee eens",
-          "Ze weten het niet"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat is een 'sjeik'?",
-        options: [
-          "Een soort wapen",
-          "Een soort voedsel",
-          "Een soort leider",
-          "Een soort gebouw"
+          "Over een nieuwe app",
+          "Over een sportwedstrijd",
+          "Over een nucleaire oorlog",
+          "Over een vakantie"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Abu Dhabi levert wapens aan de Rapid Support Forces.",
+        statement: "Poetin is de leider van Rusland.",
         isTrue: true
       },
       {
-        statement: "Alle wereldleiders keuren de acties van Abu Dhabi af.",
+        statement: "Een nucleaire oorlog is gemakkelijk te winnen.",
         isTrue: false
       },
       {
-        statement: "Er wordt goud gebruikt in de ruil voor wapens.",
+        statement: "Je kunt de app DS Nieuws downloaden.",
         isTrue: true
       }
     ]
@@ -2188,104 +2255,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Luc Versluys, 78 jaar",
+    title: "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
     topicNumber: 1,
     article: {
-      title: "Luc Versluys, 78 jaar",
-      summary: "Hij is geboren in 1946. Hij is overleden op 2 november 2025."
+      title: "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
+      summary: "Zaterdag zaten vijftien overlevers van misbruik samen met paus Leo XIV. Over dat gesprek zijn de zes mensen die De Standaard nadien kon spreken voorzichtig positief. Al zijn er geen concrete afspraken gemaakt over wat er in praktijk gaat veranderen. \"Als de paus het antwoord niet wist, zei hij dat ook eerlijk.\""
     },
     vocabulary: {
       words: [
         {
-          word: "overleden",
-          definition: "overleden zijn betekent dat je niet meer leeft, dat je dood bent",
-          sentence: "Zijn oma is ___ in 2020.",
-          answer: "overleden"
+          word: "eerlijk",
+          definition: "eerlijk zijn betekent de waarheid zeggen en niet liegen",
+          sentence: "Hij is altijd ___ tegen zijn vrienden.",
+          answer: "eerlijk"
         },
         {
-          word: "02",
-          definition: "nul twee, de tweede dag van de maand",
-          sentence: "Hij is overleden op ___ november.",
-          answer: "02"
+          word: "zaterdag",
+          definition: "de vijfde dag van de week",
+          sentence: "Op ___ ging ik naar de stad.",
+          answer: "zaterdag"
         },
         {
-          word: "2025",
-          definition: "het jaar tweeduizendvijfentwintig, een jaartal",
-          sentence: "Hij is overleden in ___.",
-          answer: "2025"
+          word: "overlevers",
+          definition: "mensen die iets ergs hebben meegemaakt maar nog leven",
+          sentence: "De ___ van het ongeluk zijn naar het ziekenhuis gebracht.",
+          answer: "overlevers"
         },
         {
-          word: "november",
-          definition: "de elfde maand van het jaar",
-          sentence: "Hij is overleden in ___.",
-          answer: "november"
+          word: "vijftien",
+          definition: "het getal na veertien",
+          sentence: "Hij is ___ jaar oud.",
+          answer: "vijftien"
         },
         {
-          word: "2",
-          definition: "het getal twee, na één en voor drie",
-          sentence: "Hij is overleden op ___ november.",
-          answer: "2"
+          word: "positief",
+          definition: "goed, niet slecht",
+          sentence: "Zij reageerde ___ op het nieuws.",
+          answer: "positief"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij is overleden op ___ november.",
-          answer: "2"
+          sentence: "Hij is altijd ___ tegen zijn vrienden.",
+          answer: "eerlijk"
         },
         {
-          sentence: "Hij is overleden op ___ november.",
-          answer: "02"
+          sentence: "Hij is ___ jaar oud.",
+          answer: "vijftien"
         },
         {
-          sentence: "Hij is overleden in ___.",
-          answer: "2025"
+          sentence: "Zij reageerde ___ op het nieuws.",
+          answer: "positief"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "In welk jaar is Luc Versluys geboren?",
+        question: "Wat is de betekenis van 'positief'?",
         options: [
-          "In 1946",
-          "In 1947",
-          "In 1948",
-          "In 1949"
+          "niet goed",
+          "goed",
+          "slecht",
+          "moeilijk"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "In welke maand is Luc Versluys overleden?",
+        question: "Wat betekent 'samen'?",
         options: [
-          "In januari",
-          "In februari",
-          "In oktober",
-          "In november"
+          "alleen",
+          "met anderen",
+          "snel",
+          "langzaam"
         ],
-        correctAnswer: 4
+        correctAnswer: 2
       },
       {
-        question: "Hoe oud was Luc Versluys toen hij overleed?",
+        question: "Wat is een 'gesprek'?",
         options: [
-          "75 jaar",
-          "76 jaar",
-          "77 jaar",
-          "78 jaar"
+          "een soort sport",
+          "een gesprek is wanneer mensen met elkaar praten",
+          "een soort voedsel",
+          "een soort dier"
         ],
-        correctAnswer: 4
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Luc Versluys is geboren in 1946.",
+        statement: "De paus sprak met vijftien overlevers van misbruik.",
         isTrue: true
       },
       {
-        statement: "Luc Versluys is overleden in 2024.",
+        statement: "Het gesprek was met paus Leo de Veertiende.",
+        isTrue: true
+      },
+      {
+        statement: "Na het gesprek waren alle mensen erg negatief.",
         isTrue: false
-      },
-      {
-        statement: "Luc Versluys is 78 jaar geworden.",
-        isTrue: true
       }
     ]
   },
@@ -2294,91 +2361,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Nanette Tassin, 96 jaar",
+    title: "Auto rijdt in op agenten in Schaarbeek",
     topicNumber: 1,
     article: {
-      title: "Nanette Tassin, 96 jaar",
-      summary: "Ze is geboren in 1928. Ze is overleden op 29 oktober 2025."
+      title: "Auto rijdt in op agenten in Schaarbeek",
+      summary: "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
     },
     vocabulary: {
       words: [
         {
-          word: "geboren",
-          definition: "Wanneer iemand is geboren, betekent dit dat die persoon op die dag is geboren.",
-          sentence: "Ze is ___ in 1928.",
-          answer: "geboren"
+          word: "moord",
+          definition: "het opzettelijk doden van een persoon",
+          sentence: "Het was een poging tot ___.",
+          answer: "moord"
         },
         {
-          word: "overleden",
-          definition: "Iemand is overleden wanneer die persoon is gestorven.",
-          sentence: "Ze is ___ op 29 oktober 2025.",
-          answer: "overleden"
+          word: "agenten",
+          definition: "mensen die de wet handhaven",
+          sentence: "De ___ waren een voertuig aan het controleren.",
+          answer: "agenten"
         },
         {
-          word: "jaar",
-          definition: "Een jaar is een periode van 365 of 366 dagen, van 1 januari tot 31 december.",
-          sentence: "Ze leefde 96 ___.",
-          answer: "jaar"
+          word: "controleren",
+          definition: "nagaan of iets in orde is",
+          sentence: "Ze waren het voertuig aan het ___.",
+          answer: "controleren"
+        },
+        {
+          word: "auto",
+          definition: "een voertuig voor transport",
+          sentence: "De ___ reed tegen de agenten.",
+          answer: "auto"
+        },
+        {
+          word: "motief",
+          definition: "de reden waarom iemand iets doet",
+          sentence: "Over het ___ van de dader is nog geen duidelijkheid.",
+          answer: "motief"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Ze is ___ op 29 oktober 2025.",
-          answer: "overleden"
+          sentence: "Over het ___ van de dader is nog geen duidelijkheid.",
+          answer: "motief"
         },
         {
-          sentence: "Ze is ___ in 1928.",
-          answer: "geboren"
+          sentence: "Het was een poging tot ___.",
+          answer: "moord"
         },
         {
-          sentence: "Ze leefde 96 ___.",
-          answer: "jaar"
+          sentence: "De ___ waren een voertuig aan het controleren.",
+          answer: "agenten"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "In welk jaar is Nanette Tassin geboren?",
+        question: "Waar gebeurde het incident met de auto?",
         options: [
-          "1920",
-          "1928",
-          "1930",
-          "1935"
+          "Schaarbeek",
+          "Brussel",
+          "Schilde",
+          "Antwerpen"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat deden de agenten op het moment van het incident?",
+        options: [
+          "Ze waren aan het eten",
+          "Ze waren een voertuig aan het controleren",
+          "Ze waren aan het slapen",
+          "Ze waren aan het rijden"
         ],
         correctAnswer: 2
       },
       {
-        question: "Hoe oud was Nanette Tassin toen ze overleed?",
+        question: "Wat is het motief van de dader volgens de tekst?",
         options: [
-          "80 jaar",
-          "90 jaar",
-          "96 jaar",
-          "100 jaar"
+          "Nog niet bekend",
+          "Wraak",
+          "Roem",
+          "Geld"
         ],
-        correctAnswer: 3
-      },
-      {
-        question: "Op welke datum overleed Nanette Tassin?",
-        options: [
-          "29 oktober 2024",
-          "29 oktober 2025",
-          "30 oktober 2025",
-          "31 oktober 2025"
-        ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Nanette Tassin is geboren in 1928.",
+        statement: "De agenten waren aan het rijden met de auto.",
+        isTrue: false
+      },
+      {
+        statement: "Het parket heeft een onderzoek geopend.",
         isTrue: true
       },
       {
-        statement: "Nanette Tassin overleed op 29 oktober 2025.",
-        isTrue: true
-      },
-      {
-        statement: "Nanette Tassin was 100 jaar oud toen ze overleed.",
+        statement: "De dader heeft de auto gestolen van een politieagent.",
         isTrue: false
       }
     ]
@@ -2388,92 +2467,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Patrick Brems, 64 jaar",
+    title: "Inwoner van Kapellen vindt handgranaat voor deur",
     topicNumber: 1,
     article: {
-      title: "Patrick Brems, 64 jaar",
-      summary: "Geboren in 1960, overleden op 04/11/2025."
+      title: "Inwoner van Kapellen vindt handgranaat voor deur",
+      summary: "In Borgerhout is een explosief ontploft voor een woning. In Kapellen is een handgranaat gevonden voor een woning. Er is nog geen link tussen deze twee gevallen."
     },
     vocabulary: {
       words: [
         {
-          word: "geboren",
-          definition: "wanneer iemand geboren is, is dat het begin van het leven",
-          sentence: "Hij is ___ in 1960.",
-          answer: "geboren"
+          word: "link",
+          definition: "een verbinding tussen twee dingen",
+          sentence: "Is er een ___ tussen deze twee gebeurtenissen?",
+          answer: "link"
         },
         {
-          word: "overleden",
-          definition: "niet meer leven; dood zijn",
-          sentence: "Hij is ___ op 04/11/2025.",
-          answer: "overleden"
+          word: "voor",
+          definition: "aan de voorkant of bij iets",
+          sentence: "De bal lag ___ de deur.",
+          answer: "voor"
         },
         {
-          word: "overleden",
-          definition: "niet meer leven; dood zijn",
-          sentence: "Hij is ___ op 04/11/2025.",
-          answer: "overleden"
+          word: "handgranaat",
+          definition: "een soort kleine bom",
+          sentence: "Een ___ is gevaarlijk en mag niet zomaar blijven liggen.",
+          answer: "handgranaat"
+        },
+        {
+          word: "inwoner",
+          definition: "iemand die in een plaats woont",
+          sentence: "De ___ van het dorp kent iedereen.",
+          answer: "inwoner"
+        },
+        {
+          word: "deur",
+          definition: "het deel van een huis of kamer waar je door naar binnen gaat",
+          sentence: "Hij klopte op de ___ en wachtte.",
+          answer: "deur"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij is ___ op 04/11/2025.",
-          answer: "overleden"
+          sentence: "De bal lag ___ de deur.",
+          answer: "voor"
         },
         {
-          sentence: "Hij is ___ op 04/11/2025.",
-          answer: "overleden"
+          sentence: "Een ___ is gevaarlijk en mag niet zomaar blijven liggen.",
+          answer: "handgranaat"
         },
         {
-          sentence: "Hij is ___ in 1960.",
-          answer: "geboren"
+          sentence: "Is er een ___ tussen deze twee gebeurtenissen?",
+          answer: "link"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wanneer is Patrick geboren?",
+        question: "Waar werd de handgranaat gevonden?",
         options: [
-          "In 1960",
-          "In 1964",
-          "In 1970",
-          "In 1980"
+          "In de tuin",
+          "Aan de voordeur",
+          "Op straat",
+          "In een park"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Hoe oud was Patrick toen hij overleed?",
+        question: "Wat is een handgranaat?",
         options: [
-          "64 jaar",
-          "70 jaar",
-          "75 jaar",
-          "80 jaar"
+          "Een soort fruit",
+          "Een soort groente",
+          "Een soort wapen",
+          "Een soort dier"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Waar kan je informatie over Patrick vinden?",
+        question: "Wat is de link tussen de twee gevallen?",
         options: [
-          "In een boek",
-          "Op een website",
-          "In een krant",
-          "Op een website"
+          "Er is geen link",
+          "Het is dezelfde persoon",
+          "Het is op dezelfde dag",
+          "Het is in dezelfde stad"
         ],
-        correctAnswer: 4
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Patrick is geboren in 1960.",
+        statement: "Er is een explosie geweest in Borgerhout.",
         isTrue: true
       },
       {
-        statement: "Patrick overleed in 2024.",
+        statement: "De handgranaat in Kapellen is ontploft.",
         isTrue: false
       },
       {
-        statement: "Patrick was 64 jaar oud toen hij overleed.",
-        isTrue: true
+        statement: "Er is een link tussen de twee gebeurtenissen.",
+        isTrue: false
       }
     ]
   },
@@ -2482,104 +2573,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
+    title: "Biden: “Trump maakt niet alleen het Witte Huis kapot, maar ook het land”",
     topicNumber: 1,
     article: {
-      title: "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
-      summary: "In iedere race, in iedere staat kregen de Republikeinen dinsdag zware klappen. Het krachtige signaal van de kiezer plaatst hen voor een dilemma. Ze kunnen niet zonder Trump en ze kunnen niet mét hem."
+      title: "Biden: “Trump maakt niet alleen het Witte Huis kapot, maar ook het land”",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "staat",
-          definition: "een van de gebieden die een land vormen, zoals in de VS",
-          sentence: "Elke ___ heeft zijn eigen wetten en verkiezingen.",
-          answer: "staat"
+          word: "Trump",
+          definition: "Een voormalige president van de Verenigde Staten.",
+          sentence: "Donald ___ was de 45ste president.",
+          answer: "Trump"
         },
         {
-          word: "kiezer",
-          definition: "iemand die stemt, een stemmer",
-          sentence: "Elke ___ heeft het recht om zijn stem uit te brengen.",
-          answer: "kiezer"
+          word: "maar",
+          definition: "Een tegenstelling; in tegenstelling tot wat zojuist is gezegd.",
+          sentence: "Hij is sterk, ___ niet erg groot.",
+          answer: "maar"
         },
         {
-          word: "klappen",
-          definition: "harde slagen, vaak figuurlijk voor tegenslag",
-          sentence: "Na de ___ moest het team zich herstellen.",
-          answer: "klappen"
+          word: "maakt",
+          definition: "Vormt of produceert iets; de derde persoon enkelvoud van 'maken'.",
+          sentence: "Hij ___ een plan voor de toekomst.",
+          answer: "maakt"
         },
         {
-          word: "dilemma",
-          definition: "een moeilijke keuze tussen twee opties",
-          sentence: "Het ___ was duidelijk: vechten of vluchten.",
-          answer: "dilemma"
+          word: "Witte",
+          definition: "Een kleur, vaak geassocieerd met zuiverheid of licht.",
+          sentence: "Het ___ Huis is de officiële woning van de president.",
+          answer: "Witte"
         },
         {
-          word: "race",
-          definition: "een wedstrijd of competitie, vooral in de politiek",
-          sentence: "De politieke ___ was spannend tot het einde.",
-          answer: "race"
+          word: "alleen",
+          definition: "Slechts; zonder anderen.",
+          sentence: "Hij was ___ thuis tijdens de storm.",
+          answer: "alleen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het ___ was duidelijk: vechten of vluchten.",
-          answer: "dilemma"
+          sentence: "Hij was ___ thuis tijdens de storm.",
+          answer: "alleen"
         },
         {
-          sentence: "Na de ___ moest het team zich herstellen.",
-          answer: "klappen"
+          sentence: "Hij is sterk, ___ niet erg groot.",
+          answer: "maar"
         },
         {
-          sentence: "Elke ___ heeft het recht om zijn stem uit te brengen.",
-          answer: "kiezer"
+          sentence: "Donald ___ was de 45ste president.",
+          answer: "Trump"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'krijgen' in deze context?",
+        question: "Wat is de rol van Donald Trump in deze context?",
         options: [
-          "winnen",
-          "ontvangen",
-          "verliezen",
-          "zoeken"
+          "Hij is een acteur",
+          "Hij is een voormalige president",
+          "Hij is een huidige president",
+          "Hij is een journalist"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de hoofdgedachte van de tekst?",
+        question: "Wat betekent de titel 'Biden: “Trump maakt niet alleen het Witte Huis kapot, maar ook het land”'?",
         options: [
-          "Trump wint altijd",
-          "Republikeinen verliezen altijd",
-          "Kiezers zijn onbeslist",
-          "Trump is een dilemma"
+          "Biden zegt dat Trump alleen het Witte Huis vernietigt",
+          "Biden zegt dat Trump het Witte Huis en het land vernielt",
+          "Biden zegt dat Trump alleen het land vernielt",
+          "Biden zegt dat Trump niets vernielt"
         ],
-        correctAnswer: 4
+        correctAnswer: 2
       },
       {
-        question: "Wat is een 'dilemma'?",
+        question: "Wat is het Witte Huis?",
         options: [
-          "een soort dier",
-          "een makkelijke keuze",
-          "een moeilijke keuze tussen twee dingen",
-          "een soort feest"
+          "Een museum in Washington",
+          "De officiële residentie van de Amerikaanse president",
+          "Een winkelcentrum in New York",
+          "Een stad in Nederland"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De Republikeinen wonnen alle races dinsdag.",
+        statement: "Donald Trump is de huidige president van de Verenigde Staten.",
         isTrue: false
       },
       {
-        statement: "Trump is een voordeel voor de Republikeinen.",
-        isTrue: false
-      },
-      {
-        statement: "Kiezers stuurden een signaal door Republikeinen te laten verliezen.",
+        statement: "Joe Biden is de huidige president van de Verenigde Staten.",
         isTrue: true
+      },
+      {
+        statement: "Donald Trump heeft alleen het Witte Huis vernietigd.",
+        isTrue: false
       }
     ]
   },
@@ -2588,104 +2679,98 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Mamdani heeft getoond dat progressieven campagne kunnen voeren met dezelfde kunde als uiterst rechts",
+    title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
     topicNumber: 1,
     article: {
-      title: "Mamdani heeft getoond dat progressieven campagne kunnen voeren met dezelfde kunde als uiterst rechts",
-      summary: "Links Europa is klaar om te leren uit de campagne van de succesvolle Amerikaanse socialist Zohran Mamdani, die burgemeester van New York wordt. Hij toont hoe een progressief kan winnen in het hol van de leeuw."
+      title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
+      summary: "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
     },
     vocabulary: {
       words: [
         {
-          word: "kunde",
-          definition: "Kennis en vaardigheid in een bepaald gebied",
-          sentence: "Zijn technische ___ was indrukwekkend tijdens het project.",
-          answer: "kunde"
+          word: "doden",
+          definition: "mensen die omgekomen zijn",
+          sentence: "Bij de aanval waren er meerdere ___.",
+          answer: "doden"
         },
         {
-          word: "links",
-          definition: "Met betrekking tot de politieke linkerzijde of progressieve ideeën",
-          sentence: "De ___ partij wil meer geld voor onderwijs en gezondheidszorg.",
-          answer: "links"
+          word: "gewonden",
+          definition: "mensen die gewond zijn geraakt",
+          sentence: "De ___ werden naar het ziekenhuis gebracht.",
+          answer: "gewonden"
         },
         {
-          word: "uiterst",
-          definition: "Zeer of in de hoogste mate",
-          sentence: "De situatie was ___ gevaarlijk, maar ze bleven doorzetten.",
-          answer: "uiterst"
+          word: "aanvallen",
+          definition: "het actief aanvallen of bestrijden",
+          sentence: "De militaire ___ gebeurden vooral 's nachts.",
+          answer: "aanvallen"
         },
         {
-          word: "Europa",
-          definition: "Het continent ten westen van Azië en ten noorden van Afrika",
-          sentence: "___ heeft een rijke geschiedenis en diverse culturen.",
-          answer: "Europa"
-        },
-        {
-          word: "leren",
-          definition: "Kennis opdoen door studie of ervaring",
-          sentence: "Ze willen ___ van elkaar om samen te groeien.",
-          answer: "leren"
+          word: "ontwikkelingen",
+          definition: "nieuwe gebeurtenissen of veranderingen in een situatie",
+          sentence: "De laatste ___ in het Midden-Oosten zijn zorgwekkend.",
+          answer: "ontwikkelingen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "___ heeft een rijke geschiedenis en diverse culturen.",
-          answer: "Europa"
+          sentence: "De laatste ___ in het Midden-Oosten zijn zorgwekkend.",
+          answer: "ontwikkelingen"
         },
         {
-          sentence: "Zijn technische ___ was indrukwekkend tijdens het project.",
-          answer: "kunde"
+          sentence: "De ___ werden naar het ziekenhuis gebracht.",
+          answer: "gewonden"
         },
         {
-          sentence: "De ___ partij wil meer geld voor onderwijs en gezondheidszorg.",
-          answer: "links"
+          sentence: "Bij de aanval waren er meerdere ___.",
+          answer: "doden"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar verwijst 'het hol van de leeuw' symbolisch naar in de tekst?",
+        question: "Waarover gaat dit artikel vooral?",
         options: [
-          "Een plaats van grote uitdaging of gevaar",
-          "Een rustige en veilige plek",
-          "Een onbelangrijke locatie",
-          "Een plek vol kansen en kansen"
+          "De economie van Libanon",
+          "Een sportevenement in Israël",
+          "Een recente militaire aanval in Libanon",
+          "Vredesonderhandelingen in de regio"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wat is de hoofdgedachte van de samenvatting?",
+        question: "Wat is de rol van de internationale gemeenschap volgens de tekst?",
         options: [
-          "Progressieven moeten niet leren van anderen",
-          "Links Europa kan leren van een succesvolle campagne in de VS",
-          "Europa moet zich isoleren van buitenlandse invloeden",
-          "Politieke campagnes zijn altijd hetzelfde wereldwijd"
+          "Die ondersteunt de aanvallen",
+          "Die is niet betrokken bij dit conflict",
+          "Die reageert met afkeuring op de situatie",
+          "Die organiseert vredesgesprekken volgende week"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Welk continent wordt genoemd in de samenvatting?",
+        question: "Hoe volgt men de ontwikkelingen in het Midden-Oosten?",
         options: [
-          "Afrika",
-          "Azië",
-          "Europa",
-          "Zuid-Amerika"
+          "Door erheen te reizen en alles zelf te zien",
+          "Door te wachten op officiële verklaringen",
+          "Via nieuwsberichten en journalisten op locatie",
+          "Door alleen naar de politiek te kijken"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De tekst stelt dat links Europa niets kan leren van de Amerikaanse campagne.",
-        isTrue: false
-      },
-      {
-        statement: "Mamdani is een politicus die campagne voerde in New York.",
+        statement: "De aanvallen vonden plaats in Libanon.",
         isTrue: true
       },
       {
-        statement: "De auteur is van mening dat uiterst rechts superieur is aan progressieven.",
+        statement: "Er zijn geen slachtoffers gevallen tijdens deze aanvallen.",
         isTrue: false
+      },
+      {
+        statement: "Journalisten proberen de ontwikkelingen op de voet te volgen.",
+        isTrue: true
       }
     ]
   },
@@ -2694,104 +2779,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Abu Dhabi levert wapens voor een genocide en zijn westerse bondgenoten zwijgen",
+    title: "Navo-baas Mark Rutte waarschuwt Poetin: 'Nucleaire oorlog kan nooit gewonnen worden'",
     topicNumber: 1,
     article: {
-      title: "Abu Dhabi levert wapens voor een genocide en zijn westerse bondgenoten zwijgen",
-      summary: "In ruil voor goud leveren de Verenigde Arabische Emiraten de wapens waarmee de Rapid Support Forces in Noord-Darfour een genocidale massamoord aanrichten. Toch wijst niet één wereldleider de sjeiks van Abu Dhabi terecht."
+      title: "NATO-leider Mark Rutte waarschuwt Poetin: 'Nucleaire oorlog kan nooit gewonnen worden'",
+      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
     },
     vocabulary: {
       words: [
         {
-          word: "goud",
-          definition: "een zeer waardevol, glanzend metaal",
-          sentence: "Ze betaalden met repen ___ in plaats van geld.",
-          answer: "goud"
+          word: "oorlog",
+          definition: "Een gewapend conflict tussen landen of groepen",
+          sentence: "De ___ in Oekraïne duurt nu al maanden.",
+          answer: "oorlog"
         },
         {
-          word: "wapens",
-          definition: "voorwerpen om mee te vechten, zoals geweren",
-          sentence: "De rebellen hadden zware ___ gekregen van buitenaf.",
-          answer: "wapens"
+          word: "Oekraïne",
+          definition: "Een land in Oost-Europa",
+          sentence: "___ is momenteel het centrum van internationale aandacht.",
+          answer: "Oekraïne"
         },
         {
-          word: "genocide",
-          definition: "het opzettelijk uitmoorden van een hele bevolkingsgroep",
-          sentence: "De massamoord op die bevolkingsgroep was een daad van ___.",
-          answer: "genocide"
+          word: "melding",
+          definition: "Een bericht of aankondiging",
+          sentence: "Ik kreeg een ___ op mijn telefoon dat het feest is afgelast.",
+          answer: "melding"
         },
         {
-          word: "emiraten",
-          definition: "staten of gebieden die door een emir geregeerd worden",
-          sentence: "De Verenigde Arabische ___ zijn zeven in totaal.",
-          answer: "emiraten"
+          word: "ontwikkelingen",
+          definition: "Veranderingen of nieuwe gebeurtenissen",
+          sentence: "De recente ___ in de technologie zijn verbazingwekkend.",
+          answer: "ontwikkelingen"
         },
         {
-          word: "bondgenoten",
-          definition: "partners in een alliantie of oorlog",
-          sentence: "Onze ___ in die regio steunen ons niet langer.",
-          answer: "bondgenoten"
+          word: "Poetin",
+          definition: "De president van Rusland",
+          sentence: "___ heeft de invasie van Oekraïne bevolen.",
+          answer: "Poetin"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De massamoord op die bevolkingsgroep was een daad van ___.",
-          answer: "genocide"
+          sentence: "De recente ___ in de technologie zijn verbazingwekkend.",
+          answer: "ontwikkelingen"
         },
         {
-          sentence: "Onze ___ in die regio steunen ons niet langer.",
-          answer: "bondgenoten"
+          sentence: "De ___ in Oekraïne duurt nu al maanden.",
+          answer: "oorlog"
         },
         {
-          sentence: "De rebellen hadden zware ___ gekregen van buitenaf.",
-          answer: "wapens"
+          sentence: "___ heeft de invasie van Oekraïne bevolen.",
+          answer: "Poetin"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is een mogelijke reden waarom westerse bondgenoten zwijgen over de wapenleveranties?",
+        question: "Wat betekent 'nucleaire oorlog'?",
         options: [
-          "Ze zijn bang voor economische sancties.",
-          "Ze steunen de acties van de Emiraten.",
-          "Ze hebben geen kennis van de situatie.",
-          "Ze zijn bezig met andere internationale conflicten."
+          "Een oorlog die wordt uitgevochten met kernwapens",
+          "Een ruzie tussen twee familieleden",
+          "Een sportwedstrijd die op tv wordt uitgezonden",
+          "Een oud boek over geschiedenis"
         ],
         correctAnswer: 1
       },
       {
-        question: "Hoe worden de wapens verkregen door de strijdende partij?",
+        question: "Waarom waarschuwt Mark Rutte Poetin?",
         options: [
-          "Door directe levering vanuit de Emiraten.",
-          "Via een derde land dat bemiddelt.",
-          "Door diefstal uit een militaire basis.",
-          "Door aankoop met gestolen geld."
+          "Omdat Rusland kernwapens heeft en de situatie gevaarlijk is",
+          "Omdat Rutte een etentje met hem wil plannen",
+          "Omdat Poetin graag schaakt en Rutte hem wil uitdagen",
+          "Omdat Rutte de Russische taal leuk vindt"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is de rol van de Verenigde Arabische Emiraten in dit conflict?",
+        question: "Wat is de hoofdstad van Oekraïne?",
         options: [
-          "Ze bemiddelen alleen maar vredesgesprekken.",
-          "Ze zijn neutraal en doen niet mee.",
-          "Ze zijn de belangrijkste wapenleverancier.",
-          "Ze bieden humanitaire hulp aan slachtoffers."
+          "Kiev",
+          "Moskou",
+          "Berlijn",
+          "Parijs"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De Verenigde Arabische Emiraten leveren wapens in ruil voor goud, niet voor andere goederen.",
-        isTrue: true
-      },
-      {
-        statement: "Alle westerse landen hebben luidkeels hun afkeuring uitgesproken over deze wapenleveranties.",
+        statement: "Oekraïne is een klein land in Zuid-Amerika.",
         isTrue: false
       },
       {
-        statement: "Enkel de Verenigde Arabische Emiraten zijn verantwoordelijk voor de wapenleveranties, geen andere landen.",
+        statement: "Nucleaire oorlog kan nooit gewonnen worden, daarom is het zo gevaarlijk.",
         isTrue: true
+      },
+      {
+        statement: "Mark Rutte is de president van de Verenigde Staten.",
+        isTrue: false
       }
     ]
   },
@@ -2800,72 +2885,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Luc Versluig, 78 jaar",
+    title: "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
     topicNumber: 1,
     article: {
-      title: "Luc Versluig, 78 jaar",
-      summary: "Geboren in 1946, overleden op 02/11/2025."
+      title: "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
+      summary: "Zaterdag zaten vijftien overlevers van misbruik samen met paus Leo XIV. Over dat gesprek zijn de zes mensen die De Standaard nadien kon spreken voorzichtig positief. Al zijn er geen concrete afspraken gemaakt over wat er in praktijk gaat veranderen. 'Als de paus het antwoord niet wist, zei hij dat ook eerlijk.'"
     },
     vocabulary: {
       words: [
         {
-          word: "geboren",
-          definition: "het begin van iemands leven; het moment dat iemand ter wereld komt",
-          sentence: "Hij is ___ in 1946.",
-          answer: "geboren"
+          word: "afspraken",
+          definition: "afspraken die gemaakt zijn om iets te regelen",
+          sentence: "Er zijn nieuwe afspraken gemaakt om dit in de toekomst te voorkomen.",
+          answer: "afspraken"
         },
         {
-          word: "overleden",
-          definition: "niet meer levend; gestorven",
-          sentence: "Hij is ___ op 2 november 2025.",
-          answer: "overleden"
+          word: "gesprek",
+          definition: "een gesprek tussen twee of meer mensen",
+          sentence: "Tijdens het gesprek met de paus werden veel zorgen gedeeld.",
+          answer: "gesprek"
+        },
+        {
+          word: "misbruik",
+          definition: "het op een verkeerde of schadelijke manier gebruiken van iets of iemand",
+          sentence: "Het misbruik van vertrouwen leidde tot veel verdriet.",
+          answer: "misbruik"
+        },
+        {
+          word: "eerlijk",
+          definition: "op een oprechte en correcte manier, zonder te bedriegen",
+          sentence: "Wees altijd eerlijk over wat je weet of niet weet.",
+          answer: "eerlijk"
+        },
+        {
+          word: "overlevers",
+          definition: "mensen die een moeilijke of gevaarlijke situatie hebben meegemaakt en nu nog leven",
+          sentence: "De overlevers van het misbruik vertelden hun verhaal aan de paus.",
+          answer: "overlevers"
         }
       ],
-      fillInBlanks: []
+      fillInBlanks: [
+        {
+          sentence: "Tijdens het gesprek met de paus werden veel zorgen gedeeld.",
+          answer: "gesprek"
+        },
+        {
+          sentence: "De overlevers van het misbruik vertelden hun verhaal aan de paus.",
+          answer: "overlevers"
+        },
+        {
+          sentence: "Het misbruik van vertrouwen leidde tot veel verdriet.",
+          answer: "misbruik"
+        }
+      ]
     },
     multipleChoice: [
       {
-        question: "In welk jaar is Luc Versluig geboren?",
+        question: "Wat was de houding van de overlevers na het gesprek met de paus?",
         options: [
-          "1945",
-          "1946",
-          "1947",
-          "1948"
+          "Ze waren erg boos.",
+          "Ze waren voorzichtig positief.",
+          "Ze waren volledig negatief.",
+          "Ze waren onverschillig."
         ],
         correctAnswer: 2
       },
       {
-        question: "Op welke datum is Luc Versluig overleden?",
+        question: "Wat is een belangrijk gevolg van dit gesprek volgens de tekst?",
         options: [
-          "1 november 2025",
-          "2 november 2025",
-          "3 november 2025",
-          "4 november 2025"
+          "Er zijn nieuwe wetten gemaakt.",
+          "Er zijn geen concrete afspraken gemaakt.",
+          "De paus heeft zich verontschuldigd.",
+          "De paus is ontslagen."
         ],
         correctAnswer: 2
       },
       {
-        question: "Hoe oud was Luc Versluig op het moment van zijn overlijden?",
+        question: "Hoe reageerde de paus op vragen die hij niet kon beantwoorden?",
         options: [
-          "77 jaar",
-          "78 jaar",
-          "79 jaar",
-          "80 jaar"
+          "Hij bleef stil.",
+          "Hij verzon een antwoord.",
+          "Hij gaf dat eerlijk toe.",
+          "Hij veranderde van onderwerp."
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Luc Versluig is geboren in 1946.",
+        statement: "Het gesprek tussen de overlevers en de paus vond plaats op een zaterdag.",
         isTrue: true
       },
       {
-        statement: "Luc Versluig is overleden op 1 november 2025.",
+        statement: "De paus kon alle vragen van de overlevers direct beantwoorden.",
         isTrue: false
       },
       {
-        statement: "Luc Versluig werd 78 jaar oud.",
+        statement: "De overlevers waren teleurgesteld na het gesprek omdat er geen concrete afspraken werden gemaakt.",
         isTrue: true
       }
     ]
@@ -2875,103 +2991,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Nanette Tassin, 96 jaar",
+    title: "Auto rijdt in op agenten in Schaarbeek: “Geweld tegen politiemensen is onaanvaardbaar”",
     topicNumber: 1,
     article: {
-      title: "Nanette Tassin, 96 jaar",
-      summary: "Geboren in 1928, overleden op 29/10/2025."
+      title: "Auto rijdt in op agenten in Schaarbeek: “Geweld tegen politiemensen is onaanvaardbaar”",
+      summary: "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
     },
     vocabulary: {
       words: [
         {
-          word: "2025",
-          definition: "Het jaartal twintighonderdvijfentwintig.",
-          sentence: "Ze overleed in ___.",
-          answer: "2025"
+          word: "auto",
+          definition: "een voertuig voor personenvervoer",
+          sentence: "De bestuurder van de ___ reed in op de agenten.",
+          answer: "auto"
         },
         {
-          word: "geboren",
-          definition: "Geboren worden, het ter wereld komen.",
-          sentence: "Ze werd ___ in 1928.",
-          answer: "geboren"
+          word: "agenten",
+          definition: "politiemensen",
+          sentence: "De ___ controleerden het verkeer toen de auto bijna hen raakte.",
+          answer: "agenten"
         },
         {
-          word: "Nanette",
-          definition: "Een eigennaam, hier de voornaam van de overledene.",
-          sentence: "___ Tassin werd 96 jaar.",
-          answer: "Nanette"
+          word: "onderzoek",
+          definition: "een systematische studie om feiten vast te stellen",
+          sentence: "Het parket heeft een ___ geopend naar wat er precies is gebeurd.",
+          answer: "onderzoek"
         },
         {
-          word: "96",
-          definition: "Het getal zesennegentig, hier de leeftijd.",
-          sentence: "Ze werd ___ jaar oud.",
-          answer: "96"
+          word: "moord",
+          definition: "het opzettelijk doden van een ander persoon",
+          sentence: "Hij wordt verdacht van ___ op zijn buurman.",
+          answer: "moord"
         },
         {
-          word: "29",
-          definition: "Het getal negenentwintig, hier de dag van overlijden.",
-          sentence: "Ze overleed op ___ oktober.",
-          answer: "29"
+          word: "motief",
+          definition: "de reden waarom iemand iets doet",
+          sentence: "Er is nog geen duidelijkheid over het ___ van de dader.",
+          answer: "motief"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Ze werd ___ in 1928.",
-          answer: "geboren"
+          sentence: "De ___ controleerden het verkeer toen de auto bijna hen raakte.",
+          answer: "agenten"
         },
         {
-          sentence: "Ze overleed in ___.",
-          answer: "2025"
+          sentence: "Het parket heeft een ___ geopend naar wat er precies is gebeurd.",
+          answer: "onderzoek"
         },
         {
-          sentence: "___ Tassin werd 96 jaar.",
-          answer: "Nanette"
+          sentence: "Er is nog geen duidelijkheid over het ___ van de dader.",
+          answer: "motief"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "In welk jaar is Nanette Tassin geboren?",
+        question: "Wat werd er in Schaarbeek afgelopen zaterdagochtend gedaan?",
         options: [
-          "1928",
-          "1945",
-          "1930",
-          "1920"
+          "Er werd een auto ingereden op agenten.",
+          "Er werd een feest georganiseerd.",
+          "De politie hield een controle.",
+          "Er was een verkeersongeval."
         ],
         correctAnswer: 1
       },
       {
-        question: "Hoe oud werd Nanette Tassin?",
+        question: "Wat is de rol van het parket in deze situatie?",
         options: [
-          "96 jaar",
-          "100 jaar",
-          "90 jaar",
-          "85 jaar"
+          "Het parket heeft een onderzoek geopend naar poging tot moord.",
+          "Het parket organiseert een feest voor de agenten.",
+          "Het parket stelt de dader voor in de rechtbank.",
+          "Het parket geeft een verklaring over het motief."
         ],
         correctAnswer: 1
       },
       {
-        question: "Op welke datum overleed Nanette Tassin?",
+        question: "Wat is er op dit moment bekend over het motief van de dader?",
         options: [
-          "29 oktober 2025",
-          "29 november 2025",
-          "30 oktober 2025",
-          "29 september 2025"
+          "Er is nog geen duidelijkheid over het motief.",
+          "Het motief is bekend en wordt vrijgegeven.",
+          "Het motief is onbelangrijk voor het onderzoek.",
+          "Het motief is al diepgaand onderzocht."
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Nanette Tassin werd 96 jaar oud.",
+        statement: "De agenten waren aan het controleren van een voertuig toen het incident plaatsvond.",
         isTrue: true
       },
       {
-        statement: "Nanette Tassin overleed in 2024.",
+        statement: "Het motief van de dader is al volledig bekend en bevestigd.",
         isTrue: false
       },
       {
-        statement: "Nanette Tassin werd geboren in 1928.",
+        statement: "Het parket heeft een onderzoek geopend naar poging tot moord.",
         isTrue: true
       }
     ]
@@ -2981,91 +3097,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Patrick Brems, 64 jaar",
+    title: "Inwoner van Kapellen vindt een handgranaat voor zijn poort: “Zo raar is dat toch niet, mijnheer?”",
     topicNumber: 1,
     article: {
-      title: "Patrick Brems, 64 jaar",
-      summary: "Geboren in 1960, overleden op 04/11/2025."
+      title: "Inwoner van Kapellen vindt een handgranaat voor zijn poort: “Zo raar is dat toch niet, mijnheer?”",
+      summary: "In Borgerhout is zaterdagnacht een explosief ontploft voor de deur van een woning. Onbekenden hebben vannacht ook een handgranaat achtergelaten voor een woning in Kapellen. Er is voorlopig geen sprake van een link tussen de twee feiten."
     },
     vocabulary: {
       words: [
         {
-          word: "geboren",
-          definition: "Het begin van iemands leven; geboren worden.",
-          sentence: "Hij is ___ in 1960.",
-          answer: "geboren"
+          word: "link",
+          definition: "een verbinding of verband",
+          sentence: "Is er een ___ tussen beide incidenten?",
+          answer: "link"
         },
         {
-          word: "overleden",
-          definition: "Niet meer levend; gestorven zijn.",
-          sentence: "Hij is ___ op 04/11/2025.",
-          answer: "overleden"
+          word: "Inwoner",
+          definition: "iemand die in een bepaalde plaats woont",
+          sentence: "De ___ van dit dorp zijn erg vriendelijk.",
+          answer: "Inwoner"
         },
         {
-          word: "jaar",
-          definition: "Een periode van 365 dagen; 12 maanden.",
-          sentence: "Hij was 64 ___ oud.",
-          answer: "jaar"
+          word: "poort",
+          definition: "een grote deur, vaak van hout of ijzer",
+          sentence: "Hij opende de ___ om de tuin te zien.",
+          answer: "poort"
+        },
+        {
+          word: "handgranaat",
+          definition: "een soort explosief wapen",
+          sentence: "De politie vond een ___ in zijn tas.",
+          answer: "handgranaat"
+        },
+        {
+          word: "vindt",
+          definition: "ontdekt of ziet iets",
+          sentence: "Hij ___ een euro op straat en was blij.",
+          answer: "vindt"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij is ___ op 04/11/2025.",
-          answer: "overleden"
+          sentence: "Is er een ___ tussen beide incidenten?",
+          answer: "link"
         },
         {
-          sentence: "Hij was 64 ___ oud.",
-          answer: "jaar"
+          sentence: "De ___ van dit dorp zijn erg vriendelijk.",
+          answer: "Inwoner"
         },
         {
-          sentence: "Hij is ___ in 1960.",
-          answer: "geboren"
+          sentence: "Hij opende de ___ om de tuin te zien.",
+          answer: "poort"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'overleden'?",
+        question: "Wat vond de man in Kapellen voor zijn poort?",
         options: [
-          "Nog in leven",
-          "Gestorven",
-          "Jong geboren",
-          "Heel oud"
+          "Een brief",
+          "Een fiets",
+          "Een handgranaat",
+          "Een hond"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat gebeurde er in Borgerhout volgens de samenvatting?",
+        options: [
+          "Er was een brand",
+          "Er ontplofte een explosief",
+          "Er was een feest",
+          "Er was niets gebeurd"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een 'geboortedatum'?",
+        question: "Wat is de huidige situatie volgens de samenvatting?",
         options: [
-          "De dag dat je sterft",
-          "De dag dat je geboren wordt",
-          "De dag dat je trouwt",
-          "De dag dat je verhuist"
+          "Er is een link bewezen",
+          "Er is geen link nog",
+          "Er zijn arrestaties",
+          "Er is niets bekend"
         ],
         correctAnswer: 2
-      },
-      {
-        question: "Hoe oud was Patrick Brems?",
-        options: [
-          "64 jaar",
-          "100 jaar",
-          "50 jaar",
-          "75 jaar"
-        ],
-        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Patrick Brems is overleden in 2025.",
+        statement: "De man in Kapellen vond een handgranaat voor zijn deur.",
         isTrue: true
       },
       {
-        statement: "Patrick Brems werd 65 jaar oud.",
+        statement: "Er is al een link bewezen tussen de twee incidenten.",
         isTrue: false
       },
       {
-        statement: "Patrick Brems is geboren in 1960.",
+        statement: "Er was een explosie in Borgerhout.",
         isTrue: true
       }
     ]

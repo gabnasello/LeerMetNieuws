@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Trump en de verkiezingen",
+  "title": "Biden: Trump maakt het land kapot",
   "topicNumber": 1,
   "article": {
-    "title": "Is Trump nog een troef of juist niet?",
-    "summary": "De Republikeinen hebben problemen na de verkiezingen. Ze moeten kiezen: met Trump of zonder Trump."
+    "title": "Biden: Trump maakt het land kapot",
+    "summary": "Donald Trump was president van Amerika. Zijn tweede termijn bracht veranderingen over de hele wereld. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "niet",
-        "definition": "geen, ontkenning",
-        "sentence": "Het is niet waar.",
-        "answer": "niet"
+        "word": "verandering",
+        "definition": "iets wat anders wordt",
+        "sentence": "Er is een ___ in het beleid.",
+        "answer": "verandering"
       },
       {
-        "word": "Trump",
-        "definition": "een persoonnaam, de naam van een man",
-        "sentence": "Trump was president van Amerika.",
-        "answer": "Trump"
+        "word": "Biden",
+        "definition": "achternaam van de huidige president",
+        "sentence": "___ is nu de president.",
+        "answer": "Biden"
       },
       {
-        "word": "is",
-        "definition": "zijn, het tegenwoordige tijd van zijn",
-        "sentence": "Hij is een man.",
-        "answer": "is"
+        "word": "termijn",
+        "definition": "periode waarin iemand een functie heeft",
+        "sentence": "Hij heeft een ___ van vier jaar.",
+        "answer": "termijn"
       },
       {
-        "word": "of",
-        "definition": "een voegwoord, geeft een keuze aan",
-        "sentence": "Wil je thee of koffie?",
-        "answer": "of"
+        "word": "wereld",
+        "definition": "de aarde en alle mensen",
+        "sentence": "De ___ is groot en er gebeurt veel.",
+        "answer": "wereld"
       },
       {
-        "word": "een",
-        "definition": "een lidwoord, geeft aan dat het er een is",
-        "sentence": "Ik heb een appel.",
-        "answer": "een"
+        "word": "president",
+        "definition": "iemand die een land bestuurt",
+        "sentence": "De ___ van Amerika is Biden.",
+        "answer": "president"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Trump was president van Amerika.",
-        "answer": "Trump"
+        "sentence": "___ is nu de president.",
+        "answer": "Biden"
       },
       {
-        "sentence": "Het is niet waar.",
-        "answer": "niet"
+        "sentence": "Hij heeft een ___ van vier jaar.",
+        "answer": "termijn"
       },
       {
-        "sentence": "Ik heb een appel.",
-        "answer": "een"
+        "sentence": "Er is een ___ in het beleid.",
+        "answer": "verandering"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wie is Trump?",
+      "question": "Wie is de president van Amerika nu?",
       "options": [
-        "Een soort fruit",
-        "Een voetbalteam",
-        "Een bekende persoon",
-        "Een soort auto"
+        "Biden",
+        "Trump",
+        "Obama",
+        "Putin"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat betekent 'niet'?",
+      "question": "Wat betekent 'termijn' in deze context?",
       "options": [
-        "Ja",
-        "Nee",
-        "Soms",
-        "Altijd"
+        "een periode",
+        "een gebouw",
+        "een soort auto",
+        "een type voedsel"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat doen de Republikeinen?",
+      "question": "Wat bracht Trump volgens de tekst?",
       "options": [
-        "Ze werken in een winkel.",
-        "Ze hebben problemen na de verkiezingen.",
-        "Ze spelen voetbal.",
-        "Ze eten een appel."
+        "Veranderingen over de hele wereld",
+        "Vrede en geluk",
+        "Alleen problemen in Amerika",
+        "Niets, het is neutraal"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Trump is de naam van een persoon.",
+      "statement": "Donald Trump was de president van Amerika.",
       "isTrue": true
     },
     {
-      "statement": "De Republikeinen hebben problemen na de verkiezingen.",
+      "statement": "Biden is momenteel de president van Amerika.",
       "isTrue": true
     },
     {
-      "statement": "Trump is een soort fruit.",
+      "statement": "Trump bracht alleen verandering in Amerika.",
       "isTrue": false
     }
   ]

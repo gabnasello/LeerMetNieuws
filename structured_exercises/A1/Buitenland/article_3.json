@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Abu Dhabi levert wapens",
+  "title": "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
   "topicNumber": 1,
   "article": {
-    "title": "Abu Dhabi levert wapens",
-    "summary": "Abu Dhabi levert wapens. Andere landen zijn stil."
+    "title": "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
+    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "zijn",
-        "definition": "het werkwoord van zijn",
-        "sentence": "Zij ___ vrienden.",
-        "answer": "zijn"
+        "word": "Rutte",
+        "definition": "De achternaam van de Nederlandse premier.",
+        "sentence": "___ is een bekende Nederlander.",
+        "answer": "Rutte"
       },
       {
-        "word": "levert",
-        "definition": "geeft iets aan iemand",
-        "sentence": "Hij ___ een pakje.",
-        "answer": "levert"
+        "word": "Mark",
+        "definition": "Een Nederlandse voornaam.",
+        "sentence": "___ Rutte is een bekende politicus.",
+        "answer": "Mark"
       },
       {
-        "word": "Dhabi",
-        "definition": "deel van de naam van de stad",
-        "sentence": "Abu ___ is een stad.",
-        "answer": "Dhabi"
+        "word": "Oekraïne",
+        "definition": "Een land in Europa.",
+        "sentence": "___ is een groot land.",
+        "answer": "Oekraïne"
       },
       {
-        "word": "Abu",
-        "definition": "een naam van een plaats",
-        "sentence": "___ Dhabi is een stad.",
-        "answer": "Abu"
+        "word": "oorlog",
+        "definition": "Een tijd waarin landen vechten.",
+        "sentence": "De ___ duurde vier jaar.",
+        "answer": "oorlog"
       },
       {
-        "word": "en",
-        "definition": "woord om twee zinnen te verbinden",
-        "sentence": "Ik heb een pen ___ een boek.",
-        "answer": "en"
+        "word": "waarschuwt",
+        "definition": "Iemand waarschuwen betekent zeggen dat er gevaar is.",
+        "sentence": "Hij ___ haar voor het onweer.",
+        "answer": "waarschuwt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij ___ een pakje.",
-        "answer": "levert"
+        "sentence": "De ___ duurde vier jaar.",
+        "answer": "oorlog"
       },
       {
-        "sentence": "___ Dhabi is een stad.",
-        "answer": "Abu"
+        "sentence": "___ is een bekende Nederlander.",
+        "answer": "Rutte"
       },
       {
-        "sentence": "Ik heb een pen ___ een boek.",
-        "answer": "en"
+        "sentence": "Hij ___ haar voor het onweer.",
+        "answer": "waarschuwt"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat levert Abu Dhabi?",
+      "question": "Waar gaat het artikel over?",
       "options": [
-        "wapens",
-        "eten",
-        "auto's",
-        "boeken"
+        "Over vakantie",
+        "Over vrede",
+        "Over een waarschuwing",
+        "Over een verjaardag"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat doen de bondgenoten?",
+      "question": "Wie is Mark Rutte?",
       "options": [
-        "ze praten",
-        "ze zwijgen",
-        "ze lachen",
-        "ze rennen"
+        "Een bakker",
+        "Een leraar",
+        "De baas van Nederland",
+        "Een schrijver"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Waar is Abu Dhabi?",
+      "question": "Waar is Oekraïne?",
       "options": [
-        "in Azië",
-        "in Afrika",
-        "in Europa",
-        "in Nederland"
+        "In Azië",
+        "In Afrika",
+        "In Europa",
+        "In Zuid-Amerika"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Abu Dhabi levert wapens.",
+      "statement": "Mark Rutte is de baas van Nederland.",
       "isTrue": true
     },
     {
-      "statement": "De bondgenoten praten veel.",
+      "statement": "Poetin is de baas van Oekraïne.",
       "isTrue": false
     },
     {
-      "statement": "Abu Dhabi is een stad.",
+      "statement": "Een nucleaire oorlog kan nooit gewonnen worden.",
       "isTrue": true
     }
   ]

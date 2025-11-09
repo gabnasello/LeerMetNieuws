@@ -1,93 +1,105 @@
 {
-  "id": 24,
+  "id": 23,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Patrick Brems, 64 jaar",
+  "title": "Inwoner van Kapellen vindt een handgranaat voor zijn poort: “Zo raar is dat toch niet, mijnheer?”",
   "topicNumber": 1,
   "article": {
-    "title": "Patrick Brems, 64 jaar",
-    "summary": "Geboren in 1960, overleden op 04/11/2025."
+    "title": "Inwoner van Kapellen vindt een handgranaat voor zijn poort: “Zo raar is dat toch niet, mijnheer?”",
+    "summary": "In Borgerhout is zaterdagnacht een explosief ontploft voor de deur van een woning. Onbekenden hebben vannacht ook een handgranaat achtergelaten voor een woning in Kapellen. Er is voorlopig geen sprake van een link tussen de twee feiten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "Het begin van iemands leven; geboren worden.",
-        "sentence": "Hij is ___ in 1960.",
-        "answer": "geboren"
+        "word": "link",
+        "definition": "een verbinding of verband",
+        "sentence": "Is er een ___ tussen beide incidenten?",
+        "answer": "link"
       },
       {
-        "word": "overleden",
-        "definition": "Niet meer levend; gestorven zijn.",
-        "sentence": "Hij is ___ op 04/11/2025.",
-        "answer": "overleden"
+        "word": "Inwoner",
+        "definition": "iemand die in een bepaalde plaats woont",
+        "sentence": "De ___ van dit dorp zijn erg vriendelijk.",
+        "answer": "Inwoner"
       },
       {
-        "word": "jaar",
-        "definition": "Een periode van 365 dagen; 12 maanden.",
-        "sentence": "Hij was 64 ___ oud.",
-        "answer": "jaar"
+        "word": "poort",
+        "definition": "een grote deur, vaak van hout of ijzer",
+        "sentence": "Hij opende de ___ om de tuin te zien.",
+        "answer": "poort"
+      },
+      {
+        "word": "handgranaat",
+        "definition": "een soort explosief wapen",
+        "sentence": "De politie vond een ___ in zijn tas.",
+        "answer": "handgranaat"
+      },
+      {
+        "word": "vindt",
+        "definition": "ontdekt of ziet iets",
+        "sentence": "Hij ___ een euro op straat en was blij.",
+        "answer": "vindt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is ___ op 04/11/2025.",
-        "answer": "overleden"
+        "sentence": "Is er een ___ tussen beide incidenten?",
+        "answer": "link"
       },
       {
-        "sentence": "Hij was 64 ___ oud.",
-        "answer": "jaar"
+        "sentence": "De ___ van dit dorp zijn erg vriendelijk.",
+        "answer": "Inwoner"
       },
       {
-        "sentence": "Hij is ___ in 1960.",
-        "answer": "geboren"
+        "sentence": "Hij opende de ___ om de tuin te zien.",
+        "answer": "poort"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'overleden'?",
+      "question": "Wat vond de man in Kapellen voor zijn poort?",
       "options": [
-        "Nog in leven",
-        "Gestorven",
-        "Jong geboren",
-        "Heel oud"
+        "Een brief",
+        "Een fiets",
+        "Een handgranaat",
+        "Een hond"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat gebeurde er in Borgerhout volgens de samenvatting?",
+      "options": [
+        "Er was een brand",
+        "Er ontplofte een explosief",
+        "Er was een feest",
+        "Er was niets gebeurd"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een 'geboortedatum'?",
+      "question": "Wat is de huidige situatie volgens de samenvatting?",
       "options": [
-        "De dag dat je sterft",
-        "De dag dat je geboren wordt",
-        "De dag dat je trouwt",
-        "De dag dat je verhuist"
+        "Er is een link bewezen",
+        "Er is geen link nog",
+        "Er zijn arrestaties",
+        "Er is niets bekend"
       ],
       "correctAnswer": 2
-    },
-    {
-      "question": "Hoe oud was Patrick Brems?",
-      "options": [
-        "64 jaar",
-        "100 jaar",
-        "50 jaar",
-        "75 jaar"
-      ],
-      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Patrick Brems is overleden in 2025.",
+      "statement": "De man in Kapellen vond een handgranaat voor zijn deur.",
       "isTrue": true
     },
     {
-      "statement": "Patrick Brems werd 65 jaar oud.",
+      "statement": "Er is al een link bewezen tussen de twee incidenten.",
       "isTrue": false
     },
     {
-      "statement": "Patrick Brems is geboren in 1960.",
+      "statement": "Er was een explosie in Borgerhout.",
       "isTrue": true
     }
   ]

@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Abu Dhabi levert wapens voor een genocide en hun westerse bondgenoten zwijgen",
+  "title": "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
   "topicNumber": 1,
   "article": {
-    "title": "Abu Dhabi levert wapens voor een genocide en hun westerse bondgenoten zwijgen",
-    "summary": "In ruil voor goud leveren de Verenigde Arabische Emiraten de wapens waarmee de Rapid Support Forces in Noord-Darfour een genocidale massamoord aanrichten. Toch wijst niet één wereldleider de sjeiks van Abu Dhabi terecht."
+    "title": "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
+    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "genocide",
-        "definition": "opzettelijke massamoord op een bepaalde groep",
-        "sentence": "De VN onderzoekt of er sprake is van ___ in het conflict.",
-        "answer": "genocide"
+        "word": "Oekraïne",
+        "definition": "Een land in Oost-Europa, momenteel betrokken bij een conflict.",
+        "sentence": "___ vecht voor zijn soevereiniteit.",
+        "answer": "Oekraïne"
       },
       {
-        "word": "massamoord",
-        "definition": "het op grote schaal doden van mensen",
-        "sentence": "De massagraven getuigen van de ___ die plaatsvond.",
-        "answer": "massamoord"
+        "word": "baas",
+        "definition": "Iemand die de leiding heeft over een organisatie of groep.",
+        "sentence": "De ___ van het bedrijf heeft veel ervaring.",
+        "answer": "baas"
       },
       {
-        "word": "levert",
-        "definition": "verstrekt of geeft iets",
-        "sentence": "De organisatie ___ medische hulp aan de getroffen regio.",
-        "answer": "levert"
+        "word": "waarschuwt",
+        "definition": "Iemand waarschuwen betekent die persoon informeren over een mogelijk gevaar.",
+        "sentence": "Hij ___ zijn collega voor het te laat is.",
+        "answer": "waarschuwt"
       },
       {
-        "word": "sjeiks",
-        "definition": "leiders of hooggeplaatste personen in sommige Arabische landen",
-        "sentence": "De ___ onderhandelden over de nieuwe olieprijzen.",
-        "answer": "sjeiks"
+        "word": "ontwikkelingen",
+        "definition": "Veranderingen of vooruitgangen in een situatie.",
+        "sentence": "De recente ___ in de technologie zijn verbazingwekkend.",
+        "answer": "ontwikkelingen"
       },
       {
-        "word": "bondgenoten",
-        "definition": "landen of partijen die samenwerken, vaak in een oorlog",
-        "sentence": "De ___ van het pact kwamen bijeen om de strategie te bespreken.",
-        "answer": "bondgenoten"
+        "word": "oorlog",
+        "definition": "Een gewapend conflict tussen landen of groepen.",
+        "sentence": "De ___ heeft veel levens geëist.",
+        "answer": "oorlog"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De organisatie ___ medische hulp aan de getroffen regio.",
-        "answer": "levert"
+        "sentence": "De ___ van het bedrijf heeft veel ervaring.",
+        "answer": "baas"
       },
       {
-        "sentence": "De ___ van het pact kwamen bijeen om de strategie te bespreken.",
-        "answer": "bondgenoten"
+        "sentence": "De ___ heeft veel levens geëist.",
+        "answer": "oorlog"
       },
       {
-        "sentence": "De VN onderzoekt of er sprake is van ___ in het conflict.",
-        "answer": "genocide"
+        "sentence": "___ vecht voor zijn soevereiniteit.",
+        "answer": "Oekraïne"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdreden dat de Verenigde Arabische Emiraten wapens leveren aan Rapid Support Forces?",
+      "question": "Wat betekent “Navo” in deze context?",
       "options": [
-        "Om humanitaire redenen",
-        "Vanwege een economisch akkoord voor goud",
-        "Omdat de VAE zelf wordt aangevallen",
-        "Op verzoek van de Verenigde Naties"
+        "Een soort auto",
+        "Een militaire alliantie",
+        "Een natuurpark",
+        "Een type voedsel"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de reactie van westerse leiders op de wapenleveranties door de VAE?",
+      "question": "Waarom waarschuwt Mark Rutte Poetin?",
       "options": [
-        "Ze steunen de VAE openlijk",
-        "Ze veroordelen de VAE unaniem",
-        "Ze ondernemen geen actie en zwijgen",
-        "Ze sturen hun eigen troepen"
+        "Om hem uit te nodigen voor een feest",
+        "Omdat Rutte bang is voor een nucleaire ramp",
+        "Omdat Poetin een cadeau wil",
+        "Omdat Rutte een grap maakt"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is een gevolg van de wapenleveranties aan de Rapid Support Forces?",
+      "question": "Wat is een kern van de boodschap in de titel?",
       "options": [
-        "Er breekt vrede uit in de regio",
-        "De VAE wordt internationaal geprezen",
-        "Er vinden grootschalige mensenrechtenschendingen plaats",
-        "De VAE stopt onmiddellijk met leveren"
+        "Nucleaire oorlog is makkelijk te winnen",
+        "Niemand kan een nucleaire oorlog winnen",
+        "Alleen Rusland kan een nucleaire oorlog winnen",
+        "Oorlog is altijd geweldig"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Verenigde Arabische Emiraten leveren wapens in ruil voor goud.",
+      "statement": "Mark Rutte is de baas van de Navo.",
       "isTrue": true
     },
     {
-      "statement": "Westerse bondgenoten spreken zich uniek uit tegen de wapenleveranties.",
+      "statement": "Poetin wordt gewaarschuwd omdat hij een nucleaire oorlog wil starten.",
+      "isTrue": true
+    },
+    {
+      "statement": "Oekraïne heeft de oorlog gewonnen.",
       "isTrue": false
-    },
-    {
-      "statement": "De Rapid Support Forces plegen massamoorden in Noord-Darfour.",
-      "isTrue": true
     }
   ]
 }

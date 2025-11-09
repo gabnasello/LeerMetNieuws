@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
+  "title": "Biden: 'Trump maakt niet alleen het Witte Huis kapot, maar ook het land'",
   "topicNumber": 1,
   "article": {
-    "title": "Is Trump nog een troef of juist niet? Republikeinen twijfelen na zware nederlaag",
-    "summary": "In iedere race, in iedere staat kregen de Republikeinen dinsdag zware klappen. Het krachtige signaal van de kiezer plaatst hen voor een dilemma. Ze kunnen niet zonder Trump en ze kunnen niet mét hem."
+    "title": "Biden: 'Trump maakt niet alleen het Witte Huis kapot, maar ook het land'",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "signaal",
-        "definition": "Een teken of indicatie van iets",
-        "sentence": "Het was een duidelijk ___ van de kiezers.",
-        "answer": "signaal"
+        "word": "Witte",
+        "definition": "een kleur, vaak gebruikt in namen",
+        "sentence": "Het Witte Huis is de officiële residentie van de president.",
+        "answer": "Witte"
       },
       {
-        "word": "niet",
-        "definition": "Gebruikt om ontkenning aan te duiden",
-        "sentence": "Ze kunnen ___ zonder hem.",
-        "answer": "niet"
+        "word": "alleen",
+        "definition": "slechts, exclusief, zonder anderen",
+        "sentence": "Hij was de enige die het wist; alleen hij had toegang.",
+        "answer": "alleen"
       },
       {
-        "word": "klappen",
-        "definition": "Slagen of klappen, vaak figuurlijk gebruikt voor tegenslag",
-        "sentence": "Na de verkiezingen kregen ze harde ___.",
-        "answer": "klappen"
+        "word": "maakt",
+        "definition": "veroorzaakt, leidt tot",
+        "sentence": "Deze situatie maakt veel problemen.",
+        "answer": "maakt"
       },
       {
-        "word": "race",
-        "definition": "Een wedstrijd of competitie, vooral in een politieke context",
-        "sentence": "De politieke ___ was intens tijdens de verkiezingen.",
-        "answer": "race"
+        "word": "Huis",
+        "definition": "een gebouw voor bewoning, of een specifiek gebouw (zoals het Witte Huis)",
+        "sentence": "Hun nieuwe huis is erg groot en modern.",
+        "answer": "Huis"
       },
       {
-        "word": "staat",
-        "definition": "Een politieke eenheid binnen een land, zoals in de Verenigde Staten",
-        "sentence": "Elke ___ heeft zijn eigen verkiezingsregels.",
-        "answer": "staat"
+        "word": "kapot",
+        "definition": "beschadigd, niet meer functionerend",
+        "sentence": "De machine is helemaal kapot na het ongeluk.",
+        "answer": "kapot"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze kunnen ___ zonder hem.",
-        "answer": "niet"
+        "sentence": "Het Witte Huis is de officiële residentie van de president.",
+        "answer": "Witte"
       },
       {
-        "sentence": "De politieke ___ was intens tijdens de verkiezingen.",
-        "answer": "race"
+        "sentence": "Deze situatie maakt veel problemen.",
+        "answer": "maakt"
       },
       {
-        "sentence": "Elke ___ heeft zijn eigen verkiezingsregels.",
-        "answer": "staat"
+        "sentence": "Hun nieuwe huis is erg groot en modern.",
+        "answer": "Huis"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'klappen' in deze context?",
+      "question": "Wat betekent 'amptel' in de context van de tekst?",
       "options": [
-        "Applaus",
-        "Tegenslag",
-        "Opstootje",
-        "Overwinning"
+        "Een soort gerecht",
+        "Een ceremonie",
+        "Een ambtstermijn",
+        "Een feestelijke gebeurtenis"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat impliceert de uitspraak over het Witte Huis?",
+      "options": [
+        "Het is fysiek beschadigd.",
+        "Het is een metafoor voor de regering.",
+        "Het is verplaatst naar een andere stad.",
+        "Het is een nieuw gebouw."
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat wordt bedoeld met 'kunnen niet mét hem'?",
+      "question": "Wat is de kern van de uitspraak van Biden?",
       "options": [
-        "Niet in zijn nabijheid kunnen zijn",
-        "Hem niet kunnen verstaan",
-        "Niet met hem kunnen samenwerken",
-        "Hij past niet in de groep"
+        "Hij prees Trump voor zijn werk.",
+        "Hij bekritiseert Trump's effect op de VS.",
+        "Hij kondigt een nieuw plan aan.",
+        "Hij beschrijft een historische gebeurtenis."
       ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat is de hoofdgedachte van de samenvatting?",
-      "options": [
-        "Trump is onmisbaar",
-        "Republikeinen zijn verdeeld",
-        "Kiezers sturen een signaal",
-        "Trump is een last"
-      ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Republikeinen wonnen overal op dinsdag.",
+      "statement": "Donald Trump is de huidige president van de Verenigde Staten.",
       "isTrue": false
     },
     {
-      "statement": "Trump is zowel een voordeel als een nadeel voor de Republikeinen.",
+      "statement": "De tekst betreft een kritische uitspraak over Trumps presidentschap.",
       "isTrue": true
     },
     {
-      "statement": "De kiezer heeft duidelijk gemaakt dat verandering nodig is.",
-      "isTrue": true
+      "statement": "Het Witte Huis is letterlijk vernietigd in de context.",
+      "isTrue": false
     }
   ]
 }

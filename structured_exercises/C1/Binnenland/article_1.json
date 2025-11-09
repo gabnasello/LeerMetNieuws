@@ -1,105 +1,105 @@
 {
-  "id": 20,
+  "id": 19,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Luc Versluig, 78 jaar oud",
+  "title": "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
   "topicNumber": 1,
   "article": {
-    "title": "Luc Versluig, 78 jaar oud",
-    "summary": "Geboren in 1946, overleden op 02/11/2025"
+    "title": "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
+    "summary": "Zaterdag zaten vijftien overlevers van misbruik samen met paus Leo XIV. Over dat gesprek zijn de zes mensen die De Standaard nadien kon spreken voorzichtig positief. Al zijn er geen concrete afspraken gemaakt over wat er in praktijk gaat veranderen. 'Als de paus het antwoord niet wist, zei hij dat ook eerlijk.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "overleden",
-        "definition": "Het moment waarop iemand sterft; overlijden",
-        "sentence": "Hij ___ op 02/11/2025.",
-        "answer": "overleden"
+        "word": "positief",
+        "definition": "Optimistisch of gunstig; iets dat als goed wordt ervaren.",
+        "sentence": "Zijn reactie was verrassend positief na het nieuws.",
+        "answer": "positief"
       },
       {
-        "word": "2025",
-        "definition": "Het jaar waarin de overledene stierf; jaartal",
-        "sentence": "Hij stierf in het jaar ___.",
-        "answer": "2025"
+        "word": "misbruik",
+        "definition": "Het op een ongepaste of schadelijke manier gebruiken van iets of iemand.",
+        "sentence": "Het misbruik van vertrouwen leidde tot diepe wonden.",
+        "answer": "misbruik"
       },
       {
-        "word": "overleden",
-        "definition": "Niet meer levend; gestorven",
-        "sentence": "Hij is helaas ___.",
-        "answer": "overleden"
+        "word": "paus",
+        "definition": "Het hoofd van de Rooms-Katholieke Kerk, de hoogste religieuze leider.",
+        "sentence": "De paus sprak de menigte toe met wijze woorden.",
+        "answer": "paus"
       },
       {
-        "word": "1946",
-        "definition": "Het jaar waarin de overledene geboren is; jaartal",
-        "sentence": "Hij werd geboren in het jaar ___.",
-        "answer": "1946"
+        "word": "slachtoffers",
+        "definition": "Personen die nadeel of leed ondervinden, vaak door toedoen van anderen.",
+        "sentence": "De slachtoffers van het misbruik kregen eindelijk erkenning.",
+        "answer": "slachtoffers"
       },
       {
-        "word": "Luc",
-        "definition": "Voornaam van de overledene; eigennaam",
-        "sentence": "___ was de voornaam van de overledene.",
-        "answer": "Luc"
+        "word": "gesprek",
+        "definition": "Een gesprek of discussie tussen twee of meer personen.",
+        "sentence": "Het gesprek tussen hen verliep moeizaam maar respectvol.",
+        "answer": "gesprek"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij werd geboren in het jaar ___.",
-        "answer": "1946"
+        "sentence": "De slachtoffers van het misbruik kregen eindelijk erkenning.",
+        "answer": "slachtoffers"
       },
       {
-        "sentence": "Hij stierf in het jaar ___.",
-        "answer": "2025"
+        "sentence": "Het gesprek tussen hen verliep moeizaam maar respectvol.",
+        "answer": "gesprek"
       },
       {
-        "sentence": "Hij ___ op 02/11/2025.",
-        "answer": "overleden"
+        "sentence": "Het misbruik van vertrouwen leidde tot diepe wonden.",
+        "answer": "misbruik"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Luc Versluig geboren?",
+      "question": "Wat was de houding van de overlevers na het gesprek met de paus?",
       "options": [
-        "1945",
-        "1946",
-        "1947",
-        "1948"
+        "Extreem negatief",
+        "Uiterst positief",
+        "Voorzichtig optimistisch",
+        "Openlijk vijandig"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat was het resultaat van de ontmoeting volgens de tekst?",
+      "options": [
+        "Vele concrete afspraken werden gemaakt",
+        "Er werden geen concrete afspraken gemaakt",
+        "De paus bood zijn excuses aan",
+        "Het gesprek werd afgebroken"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Op welke datum is Luc Versluig overleden?",
+      "question": "Hoe wordt de paus beschreven in zijn reactie?",
       "options": [
-        "01/11/2025",
-        "02/11/2025",
-        "03/11/2025",
-        "04/11/2025"
+        "Hij was oneerlijk en hield informatie achter",
+        "Hij was eerlijk en toegankelijk",
+        "Hij weigerde te antwoorden",
+        "Hij verontschuldigde zich herhaaldelijk"
       ],
       "correctAnswer": 2
-    },
-    {
-      "question": "Wat was de volledige naam van de overledene?",
-      "options": [
-        "Luc Versluig",
-        "Piet Versluig",
-        "Jan Versluig",
-        "Kees Versluig"
-      ],
-      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Luc Versluig is geboren in 1946.",
+      "statement": "De overlevers van het misbruik spraken met paus Leo XIV over hun ervaringen.",
       "isTrue": true
     },
     {
-      "statement": "Luc Versluig overleed op 01/11/2025.",
+      "statement": "Na het gesprek werden er concrete afspraken gemaakt die onmiddellijk werden uitgevoerd.",
       "isTrue": false
     },
     {
-      "statement": "De volledige naam van de overledene is Luc Versluig.",
+      "statement": "De paus gaf een eerlijk antwoord wanneer hij het niet wist.",
       "isTrue": true
     }
   ]

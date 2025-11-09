@@ -1,105 +1,105 @@
 {
-  "id": 26,
+  "id": 25,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Nanette Tassin, 96 jaar",
+  "title": "Auto rijdt in op agenten in Schaarbeek: “Geweld tegen politiemensen is onaanvaardbaar”",
   "topicNumber": 1,
   "article": {
-    "title": "Nanette Tassin, 96 jaar",
-    "summary": "Geboren in 1928, overleden op 29/10/2025."
+    "title": "Auto rijdt in op agenten in Schaarbeek: “Geweld tegen politiemensen is onaanvaardbaar”",
+    "summary": "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "het begin van het leven",
-        "sentence": "Nanette Tassin is ___ in 1928.",
-        "answer": "geboren"
+        "word": "dader",
+        "definition": "iemand die iets slechts doet",
+        "sentence": "De ___ is nog niet gevonden.",
+        "answer": "dader"
       },
       {
-        "word": "overleden",
-        "definition": "niet meer levend, gestorven",
-        "sentence": "Ze is ___ op 29 oktober 2025.",
-        "answer": "overleden"
+        "word": "poging",
+        "definition": "een poging om iets te doen",
+        "sentence": "Hij deed een ___ tot moord.",
+        "answer": "poging"
       },
       {
-        "word": "jaar",
-        "definition": "een periode van 365 dagen",
-        "sentence": "Ze was 96 ___ oud.",
-        "answer": "jaar"
+        "word": "agenten",
+        "definition": "mensen die de wet handhaven",
+        "sentence": "De ___ werken voor de politie.",
+        "answer": "agenten"
       },
       {
-        "word": "over",
-        "definition": "voorbij, afgelopen",
-        "sentence": "Het feest is al ___.",
-        "answer": "over"
+        "word": "controleren",
+        "definition": "nakijken of iets klopt",
+        "sentence": "De politie wil een voertuig ___.",
+        "answer": "controleren"
       },
       {
-        "word": "in",
-        "definition": "een locatie, ergens binnen",
-        "sentence": "Ze is geboren ___ 1928.",
-        "answer": "in"
+        "word": "auto",
+        "definition": "een voertuig voor transport",
+        "sentence": "De ___ rijdt op de weg.",
+        "answer": "auto"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het feest is al ___.",
-        "answer": "over"
+        "sentence": "De politie wil een voertuig ___.",
+        "answer": "controleren"
       },
       {
-        "sentence": "Ze is geboren ___ 1928.",
-        "answer": "in"
+        "sentence": "De ___ werken voor de politie.",
+        "answer": "agenten"
       },
       {
-        "sentence": "Ze was 96 ___ oud.",
-        "answer": "jaar"
+        "sentence": "Hij deed een ___ tot moord.",
+        "answer": "poging"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'overleden'?",
+      "question": "Waarom controleerde de politie het voertuig?",
       "options": [
-        "geweest op een feest",
-        "gestorven",
-        "heel oud",
-        "uitgevallen van ouderdom"
+        "Om de auto te stelen",
+        "Om de bestuurder te arresteren",
+        "Omdat het verkeerd geparkeerd was",
+        "Om een vermist persoon te vinden"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is 'geboren'?",
+      "question": "Wat is de rol van het parket in deze situatie?",
       "options": [
-        "begonnen met leven",
-        "gestorven",
-        "verhuisd",
-        "getrouwd"
+        "Het parket bouwt huizen",
+        "Het parket heeft een onderzoek geopend",
+        "Het parket verkoopt auto's",
+        "Het parket is een restaurant"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'leven'?",
+      "question": "Wat is de toestand van de dader?",
       "options": [
-        "dood zijn",
-        "niet meer bestaan",
-        "actief zijn",
-        "slapen"
+        "De dader is gearresteerd",
+        "De dager is onbekend",
+        "De dager is op vakantie",
+        "De dader is een politieagent"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Nanette Tassin is geboren in 1928.",
+      "statement": "De auto is de dader in dit incident.",
       "isTrue": true
     },
     {
-      "statement": "Ze is overleden in 2025.",
-      "isTrue": true
+      "statement": "De agenten waren aan het rijden tijdens het incident.",
+      "isTrue": false
     },
     {
-      "statement": "Ze is nu 100 jaar oud.",
+      "statement": "Het motief van de dader is al bekend.",
       "isTrue": false
     }
   ]

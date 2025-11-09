@@ -3,104 +3,98 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Mamdani heeft getoond dat progressieven campagne kunnen voeren met dezelfde kunde als uiterst rechts",
+  "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
   "topicNumber": 1,
   "article": {
-    "title": "Mamdani heeft getoond dat progressieven campagne kunnen voeren met dezelfde kunde als uiterst rechts",
-    "summary": "Links Europa is klaar om te leren uit de campagne van de succesvolle Amerikaanse socialist Zohran Mamdani, die burgemeester van New York wordt. Hij toont hoe een progressief kan winnen in het hol van de leeuw."
+    "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
+    "summary": "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "kunde",
-        "definition": "Kennis en vaardigheid in een bepaald gebied",
-        "sentence": "Zijn technische ___ was indrukwekkend tijdens het project.",
-        "answer": "kunde"
+        "word": "doden",
+        "definition": "mensen die omgekomen zijn",
+        "sentence": "Bij de aanval waren er meerdere ___.",
+        "answer": "doden"
       },
       {
-        "word": "links",
-        "definition": "Met betrekking tot de politieke linkerzijde of progressieve ideeën",
-        "sentence": "De ___ partij wil meer geld voor onderwijs en gezondheidszorg.",
-        "answer": "links"
+        "word": "gewonden",
+        "definition": "mensen die gewond zijn geraakt",
+        "sentence": "De ___ werden naar het ziekenhuis gebracht.",
+        "answer": "gewonden"
       },
       {
-        "word": "uiterst",
-        "definition": "Zeer of in de hoogste mate",
-        "sentence": "De situatie was ___ gevaarlijk, maar ze bleven doorzetten.",
-        "answer": "uiterst"
+        "word": "aanvallen",
+        "definition": "het actief aanvallen of bestrijden",
+        "sentence": "De militaire ___ gebeurden vooral 's nachts.",
+        "answer": "aanvallen"
       },
       {
-        "word": "Europa",
-        "definition": "Het continent ten westen van Azië en ten noorden van Afrika",
-        "sentence": "___ heeft een rijke geschiedenis en diverse culturen.",
-        "answer": "Europa"
-      },
-      {
-        "word": "leren",
-        "definition": "Kennis opdoen door studie of ervaring",
-        "sentence": "Ze willen ___ van elkaar om samen te groeien.",
-        "answer": "leren"
+        "word": "ontwikkelingen",
+        "definition": "nieuwe gebeurtenissen of veranderingen in een situatie",
+        "sentence": "De laatste ___ in het Midden-Oosten zijn zorgwekkend.",
+        "answer": "ontwikkelingen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ heeft een rijke geschiedenis en diverse culturen.",
-        "answer": "Europa"
+        "sentence": "De laatste ___ in het Midden-Oosten zijn zorgwekkend.",
+        "answer": "ontwikkelingen"
       },
       {
-        "sentence": "Zijn technische ___ was indrukwekkend tijdens het project.",
-        "answer": "kunde"
+        "sentence": "De ___ werden naar het ziekenhuis gebracht.",
+        "answer": "gewonden"
       },
       {
-        "sentence": "De ___ partij wil meer geld voor onderwijs en gezondheidszorg.",
-        "answer": "links"
+        "sentence": "Bij de aanval waren er meerdere ___.",
+        "answer": "doden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar verwijst 'het hol van de leeuw' symbolisch naar in de tekst?",
+      "question": "Waarover gaat dit artikel vooral?",
       "options": [
-        "Een plaats van grote uitdaging of gevaar",
-        "Een rustige en veilige plek",
-        "Een onbelangrijke locatie",
-        "Een plek vol kansen en kansen"
+        "De economie van Libanon",
+        "Een sportevenement in Israël",
+        "Een recente militaire aanval in Libanon",
+        "Vredesonderhandelingen in de regio"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de hoofdgedachte van de samenvatting?",
+      "question": "Wat is de rol van de internationale gemeenschap volgens de tekst?",
       "options": [
-        "Progressieven moeten niet leren van anderen",
-        "Links Europa kan leren van een succesvolle campagne in de VS",
-        "Europa moet zich isoleren van buitenlandse invloeden",
-        "Politieke campagnes zijn altijd hetzelfde wereldwijd"
+        "Die ondersteunt de aanvallen",
+        "Die is niet betrokken bij dit conflict",
+        "Die reageert met afkeuring op de situatie",
+        "Die organiseert vredesgesprekken volgende week"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Welk continent wordt genoemd in de samenvatting?",
+      "question": "Hoe volgt men de ontwikkelingen in het Midden-Oosten?",
       "options": [
-        "Afrika",
-        "Azië",
-        "Europa",
-        "Zuid-Amerika"
+        "Door erheen te reizen en alles zelf te zien",
+        "Door te wachten op officiële verklaringen",
+        "Via nieuwsberichten en journalisten op locatie",
+        "Door alleen naar de politiek te kijken"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De tekst stelt dat links Europa niets kan leren van de Amerikaanse campagne.",
-      "isTrue": false
-    },
-    {
-      "statement": "Mamdani is een politicus die campagne voerde in New York.",
+      "statement": "De aanvallen vonden plaats in Libanon.",
       "isTrue": true
     },
     {
-      "statement": "De auteur is van mening dat uiterst rechts superieur is aan progressieven.",
+      "statement": "Er zijn geen slachtoffers gevallen tijdens deze aanvallen.",
       "isTrue": false
+    },
+    {
+      "statement": "Journalisten proberen de ontwikkelingen op de voet te volgen.",
+      "isTrue": true
     }
   ]
 }

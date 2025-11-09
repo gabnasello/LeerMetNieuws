@@ -3,97 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Mamdani laat zien hoe progressieven campagne kunnen voeren",
+  "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
   "topicNumber": 1,
   "article": {
-    "title": "Mamdani laat zien hoe progressieven campagne kunnen voeren",
-    "summary": "Links Europa is klaar om te leren uit de campagne van de succesvolle Amerikaanse socialist Zohran Mamdani, die burgemeester van New York wordt. Hij toont hoe een progressief kan winnen in het hol van de leeuw."
+    "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
+    "summary": "Er is nieuws over aanvallen in Libanon. Er zijn doden en gewonden."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "progressieven",
-        "definition": "mensen die vooruitgang willen, positieve verandering",
-        "sentence": "De ___ willen het land verbeteren.",
-        "answer": "progressieven"
+        "word": "Israëlische",
+        "definition": "iets of iemand uit Israël",
+        "sentence": "De ___ regering heeft een verklaring uitgegeven.",
+        "answer": "Israëlische"
       },
       {
-        "word": "campagne",
-        "definition": "een georganiseerde actie om een doel te bereiken, vaak politiek",
-        "sentence": "Hij voerde een goede ___ voor de verkiezingen.",
-        "answer": "campagne"
+        "word": "nieuws",
+        "definition": "informatie over wat er gebeurt in de wereld",
+        "sentence": "Het ___ van vandaag gaat over de situatie in de wereld.",
+        "answer": "nieuws"
       },
       {
-        "word": "winnen",
-        "definition": "iets halen, slagen in iets",
-        "sentence": "Hij hoopte de verkiezingen te ___.",
-        "answer": "winnen"
+        "word": "Libanon",
+        "definition": "een land in het Midden-Oosten",
+        "sentence": "___ heeft veel schade geleden door de aanvallen.",
+        "answer": "Libanon"
       },
       {
-        "word": "Amerikaanse",
-        "definition": "iets of iemand uit de Verenigde Staten",
-        "sentence": "De ___ president sprak over het klimaat.",
-        "answer": "Amerikaanse"
+        "word": "gewonden",
+        "definition": "mensen die gewond zijn geraakt",
+        "sentence": "Er zijn veel ___ die hulp nodig hebben.",
+        "answer": "gewonden"
+      },
+      {
+        "word": "doden",
+        "definition": "mensen die niet meer leven",
+        "sentence": "Er zijn veel ___ in het conflict.",
+        "answer": "doden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ president sprak over het klimaat.",
-        "answer": "Amerikaanse"
+        "sentence": "___ heeft veel schade geleden door de aanvallen.",
+        "answer": "Libanon"
       },
       {
-        "sentence": "Hij hoopte de verkiezingen te ___.",
-        "answer": "winnen"
+        "sentence": "Er zijn veel ___ in het conflict.",
+        "answer": "doden"
       },
       {
-        "sentence": "Hij voerde een goede ___ voor de verkiezingen.",
-        "answer": "campagne"
+        "sentence": "Er zijn veel ___ die hulp nodig hebben.",
+        "answer": "gewonden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar is Zohran Mamdani burgemeester van?",
+      "question": "Waar gaat het nieuws over?",
       "options": [
-        "New York",
-        "Amsterdam",
-        "Londen",
-        "Parijs"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat betekent 'winnen' in deze context?",
-      "options": [
-        "verliezen",
-        "winnen",
-        "vechten",
-        "spelen"
+        "Over sport",
+        "Over een conflict in het Midden-Oosten",
+        "Over een feest",
+        "Over een nieuwe film"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van Europa volgens de tekst?",
+      "question": "Wat is er gebeurd in Libanon?",
       "options": [
-        "leren van de campagne",
-        "negeren van de campagne",
-        "stoppen met de campagne",
-        "bekritiseren van de campagne"
+        "Er was een feest",
+        "Er was een aanval",
+        "Er was een concert",
+        "Er was een sportwedstrijd"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wie heeft de aanvallen uitgevoerd?",
+      "options": [
+        "Libanon",
+        "Israël",
+        "Een ander land",
+        "Niemand weet het"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Zohran Mamdani is de burgemeester van New York.",
+      "statement": "Er zijn doden en gewonden gevallen in Libanon.",
       "isTrue": true
     },
     {
-      "statement": "Progressieven verliezen altijd in het hol van de leeuw.",
+      "statement": "De aanvallen werden uitgevoerd door Libanon.",
       "isTrue": false
     },
     {
-      "statement": "Europa kan leren van de campagne van Mamdani.",
+      "statement": "Israëlische troepen waren verantwoordelijk voor de aanvallen.",
       "isTrue": true
     }
   ]
