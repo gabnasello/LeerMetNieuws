@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Biden: 'Trump maakt niet alleen het Witte Huis kapot, maar ook het land'",
+  "title": "Oekraïne",
   "topicNumber": 1,
   "article": {
-    "title": "Biden: 'Trump maakt niet alleen het Witte Huis kapot, maar ook het land'",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "Vertrouweling Zelensky verwikkeld in corruptieonderzoek",
+    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Witte",
-        "definition": "een kleur, vaak gebruikt in namen",
-        "sentence": "Het Witte Huis is de officiële residentie van de president.",
-        "answer": "Witte"
+        "word": "ontwikkelingen",
+        "definition": "Veranderingen of nieuwe gebeurtenissen in een situatie of proces.",
+        "sentence": "De recente ___ in de oorlog tonen een escalatie aan het front.",
+        "answer": "ontwikkelingen"
       },
       {
-        "word": "alleen",
-        "definition": "slechts, exclusief, zonder anderen",
-        "sentence": "Hij was de enige die het wist; alleen hij had toegang.",
-        "answer": "alleen"
+        "word": "melding",
+        "definition": "Een bericht of signaal dat iemand informeert over iets belangrijks.",
+        "sentence": "Krijg een ___ wanneer er belangrijk nieuws is.",
+        "answer": "melding"
       },
       {
-        "word": "maakt",
-        "definition": "veroorzaakt, leidt tot",
-        "sentence": "Deze situatie maakt veel problemen.",
-        "answer": "maakt"
+        "word": "Oekraïne",
+        "definition": "Een land in Oost-Europa, momenteel betrokken bij een conflict.",
+        "sentence": "___ heeft internationale steun gekregen voor zijn verdediging.",
+        "answer": "Oekraïne"
       },
       {
-        "word": "Huis",
-        "definition": "een gebouw voor bewoning, of een specifiek gebouw (zoals het Witte Huis)",
-        "sentence": "Hun nieuwe huis is erg groot en modern.",
-        "answer": "Huis"
+        "word": "app",
+        "definition": "Een applicatie op een smartphone of computer, vaak voor informatie of entertainment.",
+        "sentence": "Download de ___ om op de hoogte te blijven van het laatste nieuws.",
+        "answer": "app"
       },
       {
-        "word": "kapot",
-        "definition": "beschadigd, niet meer functionerend",
-        "sentence": "De machine is helemaal kapot na het ongeluk.",
-        "answer": "kapot"
+        "word": "Vertrouweling",
+        "definition": "Een persoon die in vertrouwen wordt genomen of die zeer vertrouwd is met iemand.",
+        "sentence": "De president beschouwt hem als een ___ die altijd discreet handelt.",
+        "answer": "Vertrouweling"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het Witte Huis is de officiële residentie van de president.",
-        "answer": "Witte"
+        "sentence": "___ heeft internationale steun gekregen voor zijn verdediging.",
+        "answer": "Oekraïne"
       },
       {
-        "sentence": "Deze situatie maakt veel problemen.",
-        "answer": "maakt"
+        "sentence": "De recente ___ in de oorlog tonen een escalatie aan het front.",
+        "answer": "ontwikkelingen"
       },
       {
-        "sentence": "Hun nieuwe huis is erg groot en modern.",
-        "answer": "Huis"
+        "sentence": "De president beschouwt hem als een ___ die altijd discreet handelt.",
+        "answer": "Vertrouweling"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'amptel' in de context van de tekst?",
+      "question": "Waarover gaat het corruptieonderzoek waar Zelensky's vertrouweling bij betrokken is?",
       "options": [
-        "Een soort gerecht",
-        "Een ceremonie",
-        "Een ambtstermijn",
-        "Een feestelijke gebeurtenis"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat impliceert de uitspraak over het Witte Huis?",
-      "options": [
-        "Het is fysiek beschadigd.",
-        "Het is een metafoor voor de regering.",
-        "Het is verplaatst naar een andere stad.",
-        "Het is een nieuw gebouw."
+        "Het gaat over mogelijke fraude in de verkiezingen",
+        "Het betreft vermeende omkoping van hoge overheidsfunctionarissen",
+        "Het is een onderzoek naar witwaspraktijken via een stichting",
+        "Het richt zich op fraude bij defensiecontracten"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de kern van de uitspraak van Biden?",
+      "question": "Hoe reageert de Oekraïense regering op de beschuldigingen?",
       "options": [
-        "Hij prees Trump voor zijn werk.",
-        "Hij bekritiseert Trump's effect op de VS.",
-        "Hij kondigt een nieuw plan aan.",
-        "Hij beschrijft een historische gebeurtenis."
+        "Ze ontkennen alles volledig",
+        "Er wordt een onafhankelijke commissie opgericht",
+        "Ze eisen bewijzen van de aanklagers",
+        "Ze stellen een onderzoek in en benadrukken transparantie"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "Wat is een gevolg van de ontwikkelingen in de oorlog voor Oekraïne?",
+      "options": [
+        "De economie groeit exponentieel",
+        "Internationale steun neemt toe, ook al zijn er uitdagingen",
+        "Alle steden zijn volledig verwoest",
+        "De regering trekt zich volledig terug"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Donald Trump is de huidige president van de Verenigde Staten.",
+      "statement": "Zelensky's vertrouweling werd direct gearresteerd na de onthullingen.",
       "isTrue": false
     },
     {
-      "statement": "De tekst betreft een kritische uitspraak over Trumps presidentschap.",
+      "statement": "Het corruptieonderzoek leidde tot een tijdelijke bevriezing van sommige buitenlandse fondsen.",
       "isTrue": true
     },
     {
-      "statement": "Het Witte Huis is letterlijk vernietigd in de context.",
+      "statement": "De Oekraïense regering ontkent alle aantijgingen en weigert samen te werken met internationale organisaties.",
       "isTrue": false
     }
   ]

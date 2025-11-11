@@ -3,103 +3,103 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
+  "title": "Antwerpse protesten",
   "topicNumber": 1,
   "article": {
-    "title": "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
-    "summary": "Zaterdag zaten vijftien overlevers van misbruik samen met paus Leo XIV. Over dat gesprek zijn de zes mensen die De Standaard nadien kon spreken voorzichtig positief. Al zijn er geen concrete afspraken gemaakt over wat er in praktijk gaat veranderen. \"Als de paus het antwoord niet wist, zei hij dat ook eerlijk.\""
+    "title": "Antwerpse protesten",
+    "summary": "In Antwerpen waren er protesten. De politie en de demonstranten kwamen met elkaar in conflict. De politie hield zeven mensen aan. Meestal verliep het protest vreedzaam."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "eerlijk",
-        "definition": "eerlijk zijn betekent de waarheid zeggen en niet liegen",
-        "sentence": "Hij is altijd ___ tegen zijn vrienden.",
-        "answer": "eerlijk"
+        "word": "conflict",
+        "definition": "een meningsverschil of strijd",
+        "sentence": "Er was een ___ tussen de politie en de demonstranten.",
+        "answer": "conflict"
       },
       {
-        "word": "zaterdag",
-        "definition": "de vijfde dag van de week",
-        "sentence": "Op ___ ging ik naar de stad.",
-        "answer": "zaterdag"
+        "word": "demonstranten",
+        "definition": "mensen die protesteren",
+        "sentence": "De ___ wilden hun mening laten horen.",
+        "answer": "demonstranten"
       },
       {
-        "word": "overlevers",
-        "definition": "mensen die iets ergs hebben meegemaakt maar nog leven",
-        "sentence": "De ___ van het ongeluk zijn naar het ziekenhuis gebracht.",
-        "answer": "overlevers"
+        "word": "meestal",
+        "definition": "meer dan de helft van de keren",
+        "sentence": "___ is het protest vreedzaam.",
+        "answer": "meestal"
       },
       {
-        "word": "vijftien",
-        "definition": "het getal na veertien",
-        "sentence": "Hij is ___ jaar oud.",
-        "answer": "vijftien"
+        "word": "politie",
+        "definition": "mensen die de wet handhaven",
+        "sentence": "De ___ kwam naar de protesten.",
+        "answer": "politie"
       },
       {
-        "word": "positief",
-        "definition": "goed, niet slecht",
-        "sentence": "Zij reageerde ___ op het nieuws.",
-        "answer": "positief"
+        "word": "vreedzaam",
+        "definition": "zonder geweld",
+        "sentence": "Het protest verliep ___.",
+        "answer": "vreedzaam"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is altijd ___ tegen zijn vrienden.",
-        "answer": "eerlijk"
+        "sentence": "Er was een ___ tussen de politie en de demonstranten.",
+        "answer": "conflict"
       },
       {
-        "sentence": "Hij is ___ jaar oud.",
-        "answer": "vijftien"
+        "sentence": "De ___ kwam naar de protesten.",
+        "answer": "politie"
       },
       {
-        "sentence": "Zij reageerde ___ op het nieuws.",
-        "answer": "positief"
+        "sentence": "De ___ wilden hun mening laten horen.",
+        "answer": "demonstranten"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de betekenis van 'positief'?",
+      "question": "Waar ging het protest over?",
       "options": [
-        "niet goed",
-        "goed",
-        "slecht",
-        "moeilijk"
+        "Over een voetbalwedstrijd",
+        "Over de prijs van brood",
+        "Over politieke kwesties",
+        "Over een feest"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Hoe verliep het protest meestal?",
+      "options": [
+        "Heel gewelddadig",
+        "Heel rustig en vreedzaam",
+        "Heel chaotisch",
+        "Heel snel"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'samen'?",
+      "question": "Wat deed de politie met enkele demonstranten?",
       "options": [
-        "alleen",
-        "met anderen",
-        "snel",
-        "langzaam"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een 'gesprek'?",
-      "options": [
-        "een soort sport",
-        "een gesprek is wanneer mensen met elkaar praten",
-        "een soort voedsel",
-        "een soort dier"
+        "Gaf hen een prijs",
+        "Hield hen aan voor vragen",
+        "Negeerde hen volledig",
+        "Liet hen direct vrij"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De paus sprak met vijftien overlevers van misbruik.",
+      "statement": "Het protest was altijd vreedzaam.",
+      "isTrue": false
+    },
+    {
+      "statement": "De politie hield mensen aan.",
       "isTrue": true
     },
     {
-      "statement": "Het gesprek was met paus Leo de Veertiende.",
-      "isTrue": true
-    },
-    {
-      "statement": "Na het gesprek waren alle mensen erg negatief.",
+      "statement": "Het protest ging over een voetbalwedstrijd.",
       "isTrue": false
     }
   ]

@@ -1,106 +1,106 @@
 {
-  "id": 21,
+  "id": 20,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Inwoner van Kapellen vindt handgranaat voor deur",
+  "title": "Ook in de gevangenis van Haren komen er stapelbedden",
   "topicNumber": 1,
   "article": {
-    "title": "Inwoner van Kapellen vindt handgranaat voor deur",
-    "summary": "In Borgerhout is een explosief ontploft voor een woning. In Kapellen is een handgranaat gevonden voor een woning. Er is nog geen link tussen deze twee gevallen."
+    "title": "Ook in de gevangenis van Haren komen er stapelbedden",
+    "summary": "In de gevangenis van Haren komen er stapelbedden. De vakbonden van cipiers hebben een staking aangekondigd. De gevangenis is eigenlijk ontworpen voor individuele detentie, niet voor stapelbedden."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "link",
-        "definition": "een verbinding tussen twee dingen",
-        "sentence": "Is er een ___ tussen deze twee gebeurtenissen?",
-        "answer": "link"
+        "word": "ontworpen",
+        "definition": "gepland of gemaakt met een bepaald doel",
+        "sentence": "Het gebouw was ___ om veel natuurlijk licht binnen te laten.",
+        "answer": "ontworpen"
       },
       {
-        "word": "voor",
-        "definition": "aan de voorkant of bij iets",
-        "sentence": "De bal lag ___ de deur.",
-        "answer": "voor"
+        "word": "cipiers",
+        "definition": "de mensen die in een gevangenis werken en toezicht houden op de gevangenen",
+        "sentence": "De ___ hebben extra personeel gevraagd vanwege de drukte.",
+        "answer": "cipiers"
       },
       {
-        "word": "handgranaat",
-        "definition": "een soort kleine bom",
-        "sentence": "Een ___ is gevaarlijk en mag niet zomaar blijven liggen.",
-        "answer": "handgranaat"
+        "word": "individuele",
+        "definition": "alleen, voor of van één persoon",
+        "sentence": "In de nieuwe gevangenis heeft elke gevangene een ___ cel.",
+        "answer": "individuele"
       },
       {
-        "word": "inwoner",
-        "definition": "iemand die in een plaats woont",
-        "sentence": "De ___ van het dorp kent iedereen.",
-        "answer": "inwoner"
+        "word": "detentie",
+        "definition": "de staat van iemand die gevangen wordt gehouden",
+        "sentence": "Hij werd in ___ genomen na het incident.",
+        "answer": "detentie"
       },
       {
-        "word": "deur",
-        "definition": "het deel van een huis of kamer waar je door naar binnen gaat",
-        "sentence": "Hij klopte op de ___ en wachtte.",
-        "answer": "deur"
+        "word": "gevangenis",
+        "definition": "een plaats waar mensen die een misdaad hebben gedaan, worden opgesloten",
+        "sentence": "Hij moet voor twee jaar naar de ___.",
+        "answer": "gevangenis"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De bal lag ___ de deur.",
-        "answer": "voor"
+        "sentence": "Hij werd in ___ genomen na het incident.",
+        "answer": "detentie"
       },
       {
-        "sentence": "Een ___ is gevaarlijk en mag niet zomaar blijven liggen.",
-        "answer": "handgranaat"
+        "sentence": "In de nieuwe gevangenis heeft elke gevangene een ___ cel.",
+        "answer": "individuele"
       },
       {
-        "sentence": "Is er een ___ tussen deze twee gebeurtenissen?",
-        "answer": "link"
+        "sentence": "De ___ hebben extra personeel gevraagd vanwege de drukte.",
+        "answer": "cipiers"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar werd de handgranaat gevonden?",
+      "question": "Waarom hebben de vakbonden een staking aangekondigd?",
       "options": [
-        "In de tuin",
-        "Aan de voordeur",
-        "Op straat",
-        "In een park"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een handgranaat?",
-      "options": [
-        "Een soort fruit",
-        "Een soort groente",
-        "Een soort wapen",
-        "Een soort dier"
+        "Omdat er te weinig cipiers zijn",
+        "Omdat de gevangenis te klein is",
+        "Omdat er stapelbedden worden geplaatst",
+        "Omdat de gevangenen in opstand zijn gekomen"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is de link tussen de twee gevallen?",
+      "question": "Wat is het oorspronkelijke ontwerp van de gevangenis in Haren?",
       "options": [
-        "Er is geen link",
-        "Het is dezelfde persoon",
-        "Het is op dezelfde dag",
-        "Het is in dezelfde stad"
+        "Het is een open ruimte met veel bedden",
+        "Het is een grote kamer met stapelbedden",
+        "Het is gebouwd voor individuele cellen",
+        "Het is ontworpen voor groepscellen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is het gevolg van de staking door de cipiers?",
+      "options": [
+        "De gevangenis zal gesloten worden",
+        "De cipiers krijgen een loonsverhoging",
+        "Er worden minder stapelbedden geplaatst",
+        "De staking wordt onbeperkt voortgezet"
+      ],
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "Er is een explosie geweest in Borgerhout.",
+      "statement": "De gevangenis van Haren is ontworpen voor individuele detentie.",
       "isTrue": true
     },
     {
-      "statement": "De handgranaat in Kapellen is ontploft.",
+      "statement": "De vakbonden hebben de staking aangekondigd omdat er te weinig cipiers zijn.",
       "isTrue": false
     },
     {
-      "statement": "Er is een link tussen de twee gebeurtenissen.",
-      "isTrue": false
+      "statement": "Stapelbedden worden geplaatst om meer gevangenen te kunnen huisvesten.",
+      "isTrue": true
     }
   ]
 }

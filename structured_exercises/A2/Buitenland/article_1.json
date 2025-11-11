@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Biden: “Trump maakt het Witte Huis en het land kapot”",
+  "title": "Zelensky en Oekraïne in het nieuws",
   "topicNumber": 1,
   "article": {
-    "title": "Biden: “Trump maakt het Witte Huis en het land kapot”",
-    "summary": "Donald Trump was president van Amerika. Zijn tweede termijn bracht veel verandering in de wereld. Volg hier het laatste nieuws."
+    "title": "Zelensky en Oekraïne in het nieuws",
+    "summary": "Lees het laatste nieuws over de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "president",
-        "definition": "een leider van een land",
-        "sentence": "De ___ van de Verenigde Staten is Joe Biden.",
-        "answer": "president"
+        "word": "belangrijk",
+        "definition": "iets dat heel veel waarde heeft",
+        "sentence": "Het is ___ om op de hoogte te blijven van het nieuws.",
+        "answer": "belangrijk"
       },
       {
-        "word": "termijn",
-        "definition": "een periode van tijd, vaak voor een baan",
-        "sentence": "Hij had een tweede ___ als president.",
-        "answer": "termijn"
+        "word": "oorlog",
+        "definition": "een situatie waarin landen of groepen vechten",
+        "sentence": "Er is een ___ in Oekraïne, en dat is heel erg.",
+        "answer": "oorlog"
       },
       {
-        "word": "wereld",
-        "definition": "de aarde en alle mensen",
-        "sentence": "De ___ keek toe naar Amerika.",
-        "answer": "wereld"
-      },
-      {
-        "word": "verandering",
-        "definition": "iets wat anders wordt dan het was",
-        "sentence": "Er was veel ___ in het beleid.",
-        "answer": "verandering"
+        "word": "app",
+        "definition": "een programma op je telefoon of computer",
+        "sentence": "Ik download een nieuwe ___ om nieuws te lezen.",
+        "answer": "app"
       },
       {
         "word": "nieuws",
-        "definition": "informatie over wat er gebeurt",
-        "sentence": "Het laatste ___ is net uitgekomen.",
+        "definition": "informatie over wat er in de wereld gebeurt",
+        "sentence": "Ik lees het ___ elke ochtend om op de hoogte te blijven.",
         "answer": "nieuws"
+      },
+      {
+        "word": "melding",
+        "definition": "een bericht dat je iets laat weten",
+        "sentence": "Ik krijg een ___ als er belangrijk nieuws is.",
+        "answer": "melding"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ keek toe naar Amerika.",
-        "answer": "wereld"
+        "sentence": "Ik download een nieuwe ___ om nieuws te lezen.",
+        "answer": "app"
       },
       {
-        "sentence": "Het laatste ___ is net uitgekomen.",
-        "answer": "nieuws"
+        "sentence": "Ik krijg een ___ als er belangrijk nieuws is.",
+        "answer": "melding"
       },
       {
-        "sentence": "Hij had een tweede ___ als president.",
-        "answer": "termijn"
+        "sentence": "Er is een ___ in Oekraïne, en dat is heel erg.",
+        "answer": "oorlog"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wie is de president van de Verenigde Staten nu?",
+      "question": "Waar gaat het artikel over?",
       "options": [
-        "Joe Biden",
-        "Donald Trump",
-        "Barack Obama",
-        "Bill Clinton"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Welk effect had Trump's presidentschap op de wereld?",
-      "options": [
-        "Veel verandering",
-        "Alles bleef hetzelfde",
-        "Er was geen effect",
-        "Alleen Amerika veranderde"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Waar kan men het laatste nieuws over de verkiezingen volgen?",
-      "options": [
-        "In de krant",
-        "Op de radio",
-        "Op deze website",
-        "In een boek"
+        "Koken",
+        "Sport",
+        "Oorlog in Oekraïne",
+        "Kunst"
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "Wat kun je doen met de app DS Nieuws?",
+      "options": [
+        "Muziek luisteren",
+        "Foto's maken",
+        "Nieuws lezen en meldingen krijgen",
+        "Videogames spelen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is de hoofdstad van Oekraïne?",
+      "options": [
+        "Kiev",
+        "Parijs",
+        "Berlijn",
+        "Rome"
+      ],
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Donald Trump was de president van Amerika.",
-      "isTrue": true
-    },
-    {
-      "statement": "Zijn eerste termijn bracht veel verandering in de wereld.",
+      "statement": "Oekraïne is een stad.",
       "isTrue": false
     },
     {
-      "statement": "Je kunt hier het laatste nieuws over de verkiezingen volgen.",
+      "statement": "Je kunt de app DS Nieuws downloaden om nieuws te lezen.",
       "isTrue": true
+    },
+    {
+      "statement": "De hoofdstad van Oekraïne is Parijs.",
+      "isTrue": false
     }
   ]
 }

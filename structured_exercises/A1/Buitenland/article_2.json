@@ -3,103 +3,91 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
+  "title": "Israël en Libanon",
   "topicNumber": 1,
   "article": {
-    "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
-    "summary": "In Libanon zijn mensen dood of gewond na Israëlische aanvallen."
+    "title": "Israël en Libanon",
+    "summary": "Er gebeuren dingen tussen Israël en Libanon."
   },
   "vocabulary": {
     "words": [
       {
+        "word": "Israël",
+        "definition": "een land",
+        "sentence": "___ ligt in het Midden-Oosten.",
+        "answer": "Israël"
+      },
+      {
         "word": "Libanon",
-        "definition": "een land in het Midden-Oosten",
-        "sentence": "___ is een land in het Midden-Oosten.",
+        "definition": "een ander land",
+        "sentence": "___ is een buurland van Israël.",
         "answer": "Libanon"
       },
       {
-        "word": "mensen",
-        "definition": "personen, mannen, vrouwen en kinderen",
-        "sentence": "Vele ___ zijn omgekomen in de aanvallen.",
-        "answer": "mensen"
-      },
-      {
-        "word": "aanvallen",
-        "definition": "als iemand of iets met geweld wordt aangevallen",
-        "sentence": "De ___ waren erg heftig in Libanon.",
-        "answer": "aanvallen"
-      },
-      {
-        "word": "Israëlische",
-        "definition": "van of gerelateerd aan Israël",
-        "sentence": "De ___ regering is verantwoordelijk voor de aanvallen.",
-        "answer": "Israëlische"
-      },
-      {
-        "word": "doden",
-        "definition": "mensen die niet meer leven",
-        "sentence": "Bij de aanvallen zijn er veel ___.",
-        "answer": "doden"
+        "word": "gebeuren",
+        "definition": "iets wat plaatsvindt",
+        "sentence": "Wat ___ er in het nieuws?",
+        "answer": "gebeuren"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ regering is verantwoordelijk voor de aanvallen.",
-        "answer": "Israëlische"
+        "sentence": "Wat ___ er in het nieuws?",
+        "answer": "gebeuren"
       },
       {
-        "sentence": "De ___ waren erg heftig in Libanon.",
-        "answer": "aanvallen"
-      },
-      {
-        "sentence": "___ is een land in het Midden-Oosten.",
+        "sentence": "___ is een buurland van Israël.",
         "answer": "Libanon"
+      },
+      {
+        "sentence": "___ ligt in het Midden-Oosten.",
+        "answer": "Israël"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar vinden de aanvallen plaats?",
+      "question": "Waar ligt Israël?",
       "options": [
-        "In Nederland",
-        "In Israël",
-        "In Libanon",
-        "In Amerika"
+        "In Azië",
+        "In Europa",
+        "In Afrika",
+        "In het Midden-Oosten"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     },
     {
-      "question": "Wat is het resultaat van de aanvallen?",
+      "question": "Wat is een aanval?",
       "options": [
-        "Er is niets gebeurd",
-        "Er is veel schade",
-        "Iedereen is veilig",
-        "Er is feest"
+        "Een soort dier",
+        "Een soort plant",
+        "Een soort weer",
+        "Een soort geweld"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     },
     {
-      "question": "Wie is verantwoordelijk voor de aanvallen?",
+      "question": "Wat is het Midden-Oosten?",
       "options": [
-        "Nederland",
-        "Libanon",
-        "Israël",
-        "De Verenigde Naties"
+        "Een continent",
+        "Een stad",
+        "Een gebied",
+        "Een rivier"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De aanvallen vonden plaats in Nederland.",
-      "isTrue": false
-    },
-    {
-      "statement": "Er waren doden en gewonden na de aanvallen.",
+      "statement": "Israël ligt in het Midden-Oosten.",
       "isTrue": true
     },
     {
-      "statement": "Israël is verantwoordelijk voor de aanvallen.",
+      "statement": "Libanon is een stad.",
+      "isTrue": false
+    },
+    {
+      "statement": "Een aanval kan dodelijk zijn.",
       "isTrue": true
     }
   ]

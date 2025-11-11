@@ -1,105 +1,105 @@
 {
-  "id": 18,
+  "id": 17,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
+  "title": "Net hierdoor voel ik mij als brave burger radicaliseren: pro-Palestijns protest in Antwerpen opnieuw weggespoeld met waterkanon",
   "topicNumber": 1,
   "article": {
-    "title": "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
-    "summary": "Zaterdag zaten vijftien overlevers van misbruik samen met paus Leo XIV. Over dat gesprek zijn de zes mensen die De Standaard nadien kon spreken voorzichtig positief. Al zijn er geen concrete afspraken gemaakt over wat er in praktijk gaat veranderen. 'Als de paus het antwoord niet wist, zei hij dat ook eerlijk.'"
+    "title": "Net hierdoor voel ik mij als brave burger radicaliseren: pro-Palestijns protest in Antwerpen opnieuw weggespoeld met waterkanon",
+    "summary": "Voor de tweede week op rij is pro-Palestijns protest in Antwerpen uitgedraaid op een confrontatie tussen betogers en de oproerpolitie. Zeven manifestanten werden bestuurlijk aangehouden. 'Tot voor kort verliep alles nochtans heel gemoedelijk.'"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "afspraken",
-        "definition": "afspraken die gemaakt zijn om iets te regelen",
-        "sentence": "Er zijn nieuwe afspraken gemaakt om dit in de toekomst te voorkomen.",
-        "answer": "afspraken"
+        "word": "bestuurlijk",
+        "definition": "op bestuurlijk of organisatorisch vlak",
+        "sentence": "De maatregel was vooral ___ van aard.",
+        "answer": "bestuurlijk"
       },
       {
-        "word": "gesprek",
-        "definition": "een gesprek tussen twee of meer mensen",
-        "sentence": "Tijdens het gesprek met de paus werden veel zorgen gedeeld.",
-        "answer": "gesprek"
+        "word": "radicaliseren",
+        "definition": "radicaal of extreem worden in gedrag of ideeën",
+        "sentence": "Hij begon te ___ na de incidenten.",
+        "answer": "radicaliseren"
       },
       {
-        "word": "misbruik",
-        "definition": "het op een verkeerde of schadelijke manier gebruiken van iets of iemand",
-        "sentence": "Het misbruik van vertrouwen leidde tot veel verdriet.",
-        "answer": "misbruik"
+        "word": "waterkanon",
+        "definition": "een voertuig dat water spuit om mensen uiteen te drijven",
+        "sentence": "Het ___ werd ingezet tegen de betogers.",
+        "answer": "waterkanon"
       },
       {
-        "word": "eerlijk",
-        "definition": "op een oprechte en correcte manier, zonder te bedriegen",
-        "sentence": "Wees altijd eerlijk over wat je weet of niet weet.",
-        "answer": "eerlijk"
+        "word": "betogers",
+        "definition": "mensen die demonstreren of protesteren",
+        "sentence": "De ___ voerden actie voor hun rechten.",
+        "answer": "betogers"
       },
       {
-        "word": "overlevers",
-        "definition": "mensen die een moeilijke of gevaarlijke situatie hebben meegemaakt en nu nog leven",
-        "sentence": "De overlevers van het misbruik vertelden hun verhaal aan de paus.",
-        "answer": "overlevers"
+        "word": "confrontatie",
+        "definition": "een conflict of botsing tussen partijen",
+        "sentence": "De ___ leidde tot verschillende arrestaties.",
+        "answer": "confrontatie"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Tijdens het gesprek met de paus werden veel zorgen gedeeld.",
-        "answer": "gesprek"
+        "sentence": "Hij begon te ___ na de incidenten.",
+        "answer": "radicaliseren"
       },
       {
-        "sentence": "De overlevers van het misbruik vertelden hun verhaal aan de paus.",
-        "answer": "overlevers"
+        "sentence": "De maatregel was vooral ___ van aard.",
+        "answer": "bestuurlijk"
       },
       {
-        "sentence": "Het misbruik van vertrouwen leidde tot veel verdriet.",
-        "answer": "misbruik"
+        "sentence": "Het ___ werd ingezet tegen de betogers.",
+        "answer": "waterkanon"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat was de houding van de overlevers na het gesprek met de paus?",
+      "question": "Waarom werden de manifestanten aangehouden?",
       "options": [
-        "Ze waren erg boos.",
-        "Ze waren voorzichtig positief.",
-        "Ze waren volledig negatief.",
-        "Ze waren onverschillig."
+        "Omdat ze vreedzaam demonstreerden",
+        "Omdat ze de wet overtraden tijdens de protesten",
+        "Omdat ze te laat waren voor de start",
+        "Omdat ze met te veel mensen waren"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een belangrijk gevolg van dit gesprek volgens de tekst?",
+      "question": "Wat was de houding van de politie tijdens het incident?",
       "options": [
-        "Er zijn nieuwe wetten gemaakt.",
-        "Er zijn geen concrete afspraken gemaakt.",
-        "De paus heeft zich verontschuldigd.",
-        "De paus is ontslagen."
+        "Ze bleven volledig afzijdig",
+        "Ze werkten nauw samen met de betogers",
+        "Ze grepen in met onder andere een waterkanon",
+        "Ze versterkten de manifestanten in hun acties"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Hoe reageerde de paus op vragen die hij niet kon beantwoorden?",
+      "question": "Hoe verliep de situatie volgens de beschrijving?",
       "options": [
-        "Hij bleef stil.",
-        "Hij verzon een antwoord.",
-        "Hij gaf dat eerlijk toe.",
-        "Hij veranderde van onderwerp."
+        "Er was alleen maar samenwerking",
+        "Het ging om geweld van beide kanten",
+        "Het verliep gemoedelijk tot kort voor het einde",
+        "De politie was de hele tijd afwezig"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het gesprek tussen de overlevers en de paus vond plaats op een zaterdag.",
-      "isTrue": true
-    },
-    {
-      "statement": "De paus kon alle vragen van de overlevers direct beantwoorden.",
+      "statement": "De betoging in Antwerpen verliep zonder enig probleem voor het einde.",
       "isTrue": false
     },
     {
-      "statement": "De overlevers waren teleurgesteld na het gesprek omdat er geen concrete afspraken werden gemaakt.",
+      "statement": "Er werden zeven manifestanten aangehouden door de politie.",
+      "isTrue": true
+    },
+    {
+      "statement": "Het incident vond plaats tijdens een pro-Palestijnse betoging.",
       "isTrue": true
     }
   ]

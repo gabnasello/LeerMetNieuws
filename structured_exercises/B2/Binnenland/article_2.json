@@ -1,106 +1,106 @@
 {
-  "id": 28,
+  "id": 27,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Auto rijdt in op agenten in Schaarbeek: “Geweld tegen politiemensen is onaanvaardbaar”",
+  "title": "Politie zet opnieuw waterkanon in bij pro-Palestijns protest in Antwerpen",
   "topicNumber": 1,
   "article": {
-    "title": "Auto rijdt in op agenten in Schaarbeek: “Geweld tegen politiemensen is onaanvaardbaar”",
-    "summary": "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
+    "title": "Politie zet opnieuw waterkanon in bij pro-Palestijns protest in Antwerpen",
+    "summary": "De Antwerpse Coalitie voor Palestina betoogt maandagavond in de Antwerpse binnenstad opnieuw tegen de genocide in Gaza. De politie heeft de demonstranten richting het Steenplein verdreven, verschillende betogers zijn opgepakt."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "auto",
-        "definition": "een voertuig voor personenvervoer",
-        "sentence": "De bestuurder van de ___ reed in op de agenten.",
-        "answer": "auto"
+        "word": "verdreven",
+        "definition": "Gedwongen weggejaagd of verspreid.",
+        "sentence": "De menigte werd ___ door de politie naar de zijstraten.",
+        "answer": "verdreven"
       },
       {
-        "word": "agenten",
-        "definition": "politiemensen",
-        "sentence": "De ___ controleerden het verkeer toen de auto bijna hen raakte.",
-        "answer": "agenten"
+        "word": "genocide",
+        "definition": "Een geplande vernietiging van een hele bevolkingsgroep.",
+        "sentence": "De VN onderzoekt de beschuldigingen van ___ in de regio.",
+        "answer": "genocide"
       },
       {
-        "word": "onderzoek",
-        "definition": "een systematische studie om feiten vast te stellen",
-        "sentence": "Het parket heeft een ___ geopend naar wat er precies is gebeurd.",
-        "answer": "onderzoek"
+        "word": "demonstranten",
+        "definition": "Mensen die deelnemen aan een protest of betoging.",
+        "sentence": "De ___ hielden borden met leuzen erop.",
+        "answer": "demonstranten"
       },
       {
-        "word": "moord",
-        "definition": "het opzettelijk doden van een ander persoon",
-        "sentence": "Hij wordt verdacht van ___ op zijn buurman.",
-        "answer": "moord"
+        "word": "politie",
+        "definition": "De organisatie die zorgt voor openbare veiligheid en handhaving van de wet.",
+        "sentence": "De ___ trad op met waterkanonnen tijdens het protest.",
+        "answer": "politie"
       },
       {
-        "word": "motief",
-        "definition": "de reden waarom iemand iets doet",
-        "sentence": "Er is nog geen duidelijkheid over het ___ van de dader.",
-        "answer": "motief"
+        "word": "betoogt",
+        "definition": "Vecht voor of spreekt zich uit voor een zaak.",
+        "sentence": "Hij ___ voor dierenrechten tijdens de vergadering.",
+        "answer": "betoogt"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ controleerden het verkeer toen de auto bijna hen raakte.",
-        "answer": "agenten"
+        "sentence": "De VN onderzoekt de beschuldigingen van ___ in de regio.",
+        "answer": "genocide"
       },
       {
-        "sentence": "Het parket heeft een ___ geopend naar wat er precies is gebeurd.",
-        "answer": "onderzoek"
+        "sentence": "Hij ___ voor dierenrechten tijdens de vergadering.",
+        "answer": "betoogt"
       },
       {
-        "sentence": "Er is nog geen duidelijkheid over het ___ van de dader.",
-        "answer": "motief"
+        "sentence": "De ___ trad op met waterkanonnen tijdens het protest.",
+        "answer": "politie"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat werd er in Schaarbeek afgelopen zaterdagochtend gedaan?",
+      "question": "Waarom gebruikte de politie een waterkanon tijdens het protest?",
       "options": [
-        "Er werd een auto ingereden op agenten.",
-        "Er werd een feest georganiseerd.",
-        "De politie hield een controle.",
-        "Er was een verkeersongeval."
+        "Om de demonstranten te vermaken",
+        "Om de menigte uiteen te drijven",
+        "Om water te besparen",
+        "Om de aandacht af te leiden"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van het parket in deze situatie?",
+      "question": "Wat was het hoofddoel van de betoging in Antwerpen?",
       "options": [
-        "Het parket heeft een onderzoek geopend naar poging tot moord.",
-        "Het parket organiseert een feest voor de agenten.",
-        "Het parket stelt de dader voor in de rechtbank.",
-        "Het parket geeft een verklaring over het motief."
+        "Tegen dierenrechten",
+        "Tegen de genocide in Gaza",
+        "Voor meer toerisme",
+        "Tegen de lokale politie"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is er op dit moment bekend over het motief van de dader?",
+      "question": "Hoe reageerde de politie op de demonstratie?",
       "options": [
-        "Er is nog geen duidelijkheid over het motief.",
-        "Het motief is bekend en wordt vrijgegeven.",
-        "Het motief is onbelangrijk voor het onderzoek.",
-        "Het motief is al diepgaand onderzocht."
+        "Door niets te doen",
+        "Door de groep te verdrijven en sommigen aan te houden",
+        "Door iedereen direct aan te houden",
+        "Door de groep uit te nodigen voor een feest"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De agenten waren aan het controleren van een voertuig toen het incident plaatsvond.",
-      "isTrue": true
-    },
-    {
-      "statement": "Het motief van de dader is al volledig bekend en bevestigd.",
+      "statement": "De politie heeft geen waterkanon ingezet tijdens het protest.",
       "isTrue": false
     },
     {
-      "statement": "Het parket heeft een onderzoek geopend naar poging tot moord.",
+      "statement": "De betoging vond plaats in Antwerpen tegen de situatie in Gaza.",
       "isTrue": true
+    },
+    {
+      "statement": "Er werden geen demonstranten aangehouden.",
+      "isTrue": false
     }
   ]
 }

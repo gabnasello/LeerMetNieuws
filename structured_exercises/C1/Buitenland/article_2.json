@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
+  "title": "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
   "topicNumber": 1,
   "article": {
-    "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
+    "title": "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
     "summary": "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "aanvallen",
-        "definition": "militaire acties of offensieven",
-        "sentence": "De recente ___ hebben de spanningen doen toenemen.",
-        "answer": "aanvallen"
-      },
-      {
-        "word": "Israëlische",
-        "definition": "betrekking hebbend op Israël",
-        "sentence": "De ___ aanvallen troffen doelen in Libanon.",
-        "answer": "Israëlische"
-      },
-      {
         "word": "Midden-Oosten",
-        "definition": "een regio die onder meer Israël en Libanon omvat",
-        "sentence": "Het ___ is opnieuw het toneel van geweld.",
+        "definition": "Een regio die onder andere Israël, Libanon en Syrië omvat.",
+        "sentence": "De crisis in het ___ trekt wereldwijd aandacht.",
         "answer": "Midden-Oosten"
       },
       {
-        "word": "gewonden",
-        "definition": "personen die gewond zijn geraakt",
-        "sentence": "De doden en ___ worden geëvacueerd.",
-        "answer": "gewonden"
+        "word": "Israëlisch",
+        "definition": "Betrekking hebbend op Israël, het land in het Midden-Oosten.",
+        "sentence": "Het ___ leger voerde aanvallen uit op Libanon.",
+        "answer": "Israëlisch"
       },
       {
-        "word": "Libanon",
-        "definition": "een land in het Midden-Oosten",
-        "sentence": "___ is een van de landen die betrokken is bij dit conflict.",
-        "answer": "Libanon"
+        "word": "dodelijk",
+        "definition": "Met als gevolg dat er iemand overlijdt, dodelijk.",
+        "sentence": "De aanvallen hadden een ___ effect.",
+        "answer": "dodelijk"
+      },
+      {
+        "word": "aanvallen",
+        "definition": "Offensieve acties, vaak militair, gericht tegen een doel.",
+        "sentence": "De ___ waren gericht op doelen in Libanon.",
+        "answer": "aanvallen"
+      },
+      {
+        "word": "leger",
+        "definition": "Een georganiseerde groep gewapende personen die een land verdedigt of aanvallen uitvoert.",
+        "sentence": "Het Israëlische ___ voerde de aanvallen uit.",
+        "answer": "leger"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ aanvallen troffen doelen in Libanon.",
-        "answer": "Israëlische"
+        "sentence": "Het Israëlische ___ voerde de aanvallen uit.",
+        "answer": "leger"
       },
       {
-        "sentence": "Het ___ is opnieuw het toneel van geweld.",
+        "sentence": "De crisis in het ___ trekt wereldwijd aandacht.",
         "answer": "Midden-Oosten"
       },
       {
-        "sentence": "De recente ___ hebben de spanningen doen toenemen.",
-        "answer": "aanvallen"
+        "sentence": "Het ___ leger voerde aanvallen uit op Libanon.",
+        "answer": "Israëlisch"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een synoniem voor 'gewonden' in deze context?",
+      "question": "Wat is de hoofdstad van Libanon?",
       "options": [
-        "Gezonde personen",
-        "Gewonde personen",
-        "Buitenlandse burgers",
-        "Gelukkige mensen"
+        "Jeruzalem",
+        "Beiroet",
+        "Amman",
+        "Damascus"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Welk land wordt genoemd als locatie van de aanvallen?",
+      "question": "Welk land voerde de aanvallen uit?",
       "options": [
-        "Duitsland",
         "Libanon",
-        "Nederland",
-        "Zwitserland"
+        "Israël",
+        "Syrië",
+        "Iran"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat betekent het om ontwikkelingen te 'volgen'?",
+      "question": "Wat betekent 'dodelijk' in deze context?",
       "options": [
-        "Negeren",
-        "Observeren en bijhouden",
-        "Vermijden",
-        "Ondersteunen"
+        "Leidend tot doden",
+        "Onbedoeld",
+        "Onschadelijk",
+        "Onbeduidend"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De aanvallen vonden plaats in het Midden-Oosten.",
+      "statement": "Israël voerde de aanvallen uit op Libanon.",
       "isTrue": true
     },
     {
-      "statement": "Nederland is het land waar de aanvallen plaatsvonden.",
+      "statement": "De aanvallen hadden geen dodelijke gevolgen.",
       "isTrue": false
     },
     {
-      "statement": "Het artikel beschrijft de laatste ontwikkelingen in de regio.",
+      "statement": "De situatie in het Midden-Oosten wordt nauwlettend gevolgd.",
       "isTrue": true
     }
   ]

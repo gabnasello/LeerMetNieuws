@@ -1,106 +1,106 @@
 {
-  "id": 20,
+  "id": 19,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Man vindt handgranaat voor zijn deur",
+  "title": "Ook in Haren zijn stapelbedden",
   "topicNumber": 1,
   "article": {
-    "title": "Man vindt handgranaat voor zijn deur",
-    "summary": "Iemand vindt een handgranaat bij zijn huis. Dit is gevaarlijk. De politie onderzoekt de zaak."
+    "title": "Ook in Haren zijn stapelbedden",
+    "summary": "In de gevangenis in Haren komen stapelbedden. De cipiers gaan staken. In Haren is de gevangenis anders. Mensen slapen daar apart."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "politie",
-        "definition": "mensen die de wet handhaven",
-        "sentence": "De ___ kwam naar het huis.",
-        "answer": "politie"
+        "word": "Haren",
+        "definition": "een plaatsnaam, hier: de stad Haren",
+        "sentence": "In ___ is een gevangenis.",
+        "answer": "Haren"
       },
       {
-        "word": "gevaarlijk",
-        "definition": "niet veilig, kan pijn doen",
-        "sentence": "Vuur is ___ voor kinderen.",
-        "answer": "gevaarlijk"
+        "word": "gevangenis",
+        "definition": "een plek waar mensen die de wet hebben gebroken, naartoe gaan",
+        "sentence": "De ___ is een gebouw.",
+        "answer": "gevangenis"
       },
       {
-        "word": "handgranaat",
-        "definition": "een gevaarlijk wapen",
-        "sentence": "De politie vond een ___ in de tuin.",
-        "answer": "handgranaat"
+        "word": "Haren",
+        "definition": "een plaatsnaam, hier: de stad Haren",
+        "sentence": "In ___ is een gevangenis.",
+        "answer": "Haren"
       },
       {
-        "word": "is",
-        "definition": "zijn, het werkwoord",
-        "sentence": "Hij ___ een student.",
-        "answer": "is"
+        "word": "stapelbedden",
+        "definition": "meerdere bedden op elkaar",
+        "sentence": "In de gevangenis staan ___.",
+        "answer": "stapelbedden"
       },
       {
-        "word": "zaak",
-        "definition": "een situatie of geval",
-        "sentence": "De ___ is nog niet opgelost.",
-        "answer": "zaak"
+        "word": "gevangenis",
+        "definition": "een plek waar mensen die de wet hebben gebroken, naartoe gaan",
+        "sentence": "De ___ is een gebouw.",
+        "answer": "gevangenis"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Vuur is ___ voor kinderen.",
-        "answer": "gevaarlijk"
+        "sentence": "De ___ is een gebouw.",
+        "answer": "gevangenis"
       },
       {
-        "sentence": "De ___ kwam naar het huis.",
-        "answer": "politie"
+        "sentence": "De ___ is een gebouw.",
+        "answer": "gevangenis"
       },
       {
-        "sentence": "Hij ___ een student.",
-        "answer": "is"
+        "sentence": "In ___ is een gevangenis.",
+        "answer": "Haren"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar vond de man de handgranaat?",
+      "question": "Waarom gaan de cipiers staken?",
       "options": [
-        "In zijn huis",
-        "In zijn auto",
-        "Voor zijn deur",
-        "In de supermarkt"
+        "Omdat er stapelbedden zijn",
+        "Omdat het te warm is",
+        "Omdat ze meer geld willen",
+        "Omdat ze willen feesten"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat doet de politie?",
+      "question": "Wat is er in Haren?",
       "options": [
-        "Ze negeert het",
-        "Ze onderzoekt de zaak",
-        "Ze gaat naar huis",
-        "Ze belt de man"
+        "Een gevangenis",
+        "Een school",
+        "Een park",
+        "Een restaurant"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Is de handgranaat gevaarlijk?",
+      "question": "Wat is een stapelbed?",
       "options": [
-        "Nee, het is veilig",
-        "Ja, het is gevaarlijk",
-        "Het is een pen",
-        "Het is een huis"
+        "Meerdere bedden op elkaar",
+        "Een groot bed",
+        "Een bed voor kinderen",
+        "Een bed voor dieren"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De man vindt de handgranaat in zijn huis.",
-      "isTrue": false
-    },
-    {
-      "statement": "De politie onderzoekt de zaak.",
+      "statement": "In Haren is er een gevangenis.",
       "isTrue": true
     },
     {
-      "statement": "De handgranaat is een veilig speelgoed.",
+      "statement": "Cipiers werken in een school.",
       "isTrue": false
+    },
+    {
+      "statement": "Stapelbedden zijn bedden die op elkaar staan.",
+      "isTrue": true
     }
   ]
 }

@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
+  "title": "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
   "topicNumber": 1,
   "article": {
-    "title": "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
-    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+    "title": "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijk veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "ontwikkelingen",
-        "definition": "Nieuwe gebeurtenissen of veranderingen in een situatie.",
-        "sentence": "De recente ___ in de technologie zijn snel.",
-        "answer": "ontwikkelingen"
+        "word": "sancties",
+        "definition": "Straffen die een land geeft aan een ander land",
+        "sentence": "De Verenigde Naties kunnen ___ opleggen aan een land.",
+        "answer": "sancties"
       },
       {
-        "word": "Navo",
-        "definition": "Een militaire alliantie van landen in Europa en Noord-Amerika.",
-        "sentence": "De ___ is een belangrijke organisatie voor veiligheid.",
-        "answer": "Navo"
+        "word": "VS",
+        "definition": "Verenigde Staten van Amerika",
+        "sentence": "De ___ zijn een land in Noord-Amerika.",
+        "answer": "VS"
       },
       {
-        "word": "baas",
-        "definition": "De persoon die de leiding heeft over een groep of organisatie.",
-        "sentence": "Hij is de ___ van het hele team.",
-        "answer": "baas"
+        "word": "heffen",
+        "definition": "iets officieel maken of stoppen",
+        "sentence": "De regering besloot de belastingen te ___.",
+        "answer": "heffen"
       },
       {
-        "word": "kan",
-        "definition": "Een hulpwerkwoord dat aangeeft dat iets mogelijk is.",
-        "sentence": "Hij ___ morgen komen, maar het is niet zeker.",
-        "answer": "kan"
+        "word": "op",
+        "definition": "niet meer actief of aanwezig",
+        "sentence": "Het feest is ___ voor de hele buurt.",
+        "answer": "op"
       },
       {
-        "word": "waarschuwt",
-        "definition": "Iemand waarschuwen betekent dat je die persoon zegt om voorzichtig te zijn.",
-        "sentence": "Hij ___ zijn vriend voor het gevaar.",
-        "answer": "waarschuwt"
+        "word": "Trump",
+        "definition": "De achternaam van de voormalige president van de VS",
+        "sentence": "___ was president van 2017 tot 2021.",
+        "answer": "Trump"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij ___ zijn vriend voor het gevaar.",
-        "answer": "waarschuwt"
+        "sentence": "De ___ zijn een land in Noord-Amerika.",
+        "answer": "VS"
       },
       {
-        "sentence": "De recente ___ in de technologie zijn snel.",
-        "answer": "ontwikkelingen"
+        "sentence": "De regering besloot de belastingen te ___.",
+        "answer": "heffen"
       },
       {
-        "sentence": "De ___ is een belangrijke organisatie voor veiligheid.",
-        "answer": "Navo"
+        "sentence": "De Verenigde Naties kunnen ___ opleggen aan een land.",
+        "answer": "sancties"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat dit artikel vooral over?",
+      "question": "Waar verwijst 'VS' naar in deze context?",
       "options": [
-        "Koken en eten",
-        "Een nucleaire oorlog",
-        "De Navo en een waarschuwing",
-        "Vakantieplannen"
+        "Verenigde Staten",
+        "Verenigde Naties",
+        "Europa",
+        "Aziz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat betekent 'heffen' in deze titel?",
+      "options": [
+        "Optillen",
+        "Starten",
+        "Beëindigen",
+        "Veranderen"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat betekent 'waarschuwen' in deze context?",
+      "question": "Wat is de rol van Al-Sharaa in de titel?",
       "options": [
-        "Iemand een cadeau geven",
-        "Iemand vertellen om voorzichtig te zijn",
-        "Iemand uitnodigen voor een feest",
-        "Iemand negeren"
+        "Een politieke leider",
+        "Een plaatselijke bewoner",
+        "Een bekende acteur",
+        "Een historisch figuur"
       ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Waarom is het belangrijk om dit nieuws te volgen?",
-      "options": [
-        "Omdat het over mode gaat",
-        "Omdat het over een belangrijke wereldgebeurtenis gaat",
-        "Omdat het alleen over sport gaat",
-        "Omdat het een grap is"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Mark Rutte is de baas van de Navo.",
-      "isTrue": true
-    },
-    {
-      "statement": "Dit artikel gaat over koken en eten.",
+      "statement": "De VS heeft de sancties tegen Syrië volledig verwijderd.",
       "isTrue": false
     },
     {
-      "statement": "De Navo is een militaire alliantie.",
+      "statement": "Donald Trump had een ontmoeting met Al-Sharaa.",
       "isTrue": true
+    },
+    {
+      "statement": "Al-Sharaa is de president van Syrië.",
+      "isTrue": false
     }
   ]
 }

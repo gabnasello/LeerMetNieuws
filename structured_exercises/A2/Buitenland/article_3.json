@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
+  "title": "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
   "topicNumber": 1,
   "article": {
-    "title": "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
-    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+    "title": "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "ontwikkelingen",
-        "definition": "nieuwe dingen die gebeuren of veranderen",
-        "sentence": "De technologische ___ gaan snel.",
-        "answer": "ontwikkelingen"
+        "word": "heffen",
+        "definition": "iets officieel maken of stoppen",
+        "sentence": "De regering wil de belastingen ___ voor kleine bedrijven.",
+        "answer": "heffen"
       },
       {
-        "word": "app",
-        "definition": "een programma op je telefoon of computer",
-        "sentence": "Deze ___ helpt je om talen te leren.",
-        "answer": "app"
+        "word": "VS",
+        "definition": "Verenigde Staten, een land",
+        "sentence": "De ___ willen samenwerken met andere landen.",
+        "answer": "VS"
       },
       {
-        "word": "melding",
-        "definition": "een bericht dat je iets vertelt",
-        "sentence": "Ik kreeg een ___ dat de post was aangekomen.",
-        "answer": "melding"
+        "word": "Syrië",
+        "definition": "een land in het Midden-Oosten",
+        "sentence": "___ heeft veel historische steden.",
+        "answer": "Syrië"
       },
       {
-        "word": "poetin",
-        "definition": "de naam van de leider van Rusland",
-        "sentence": "___ regeerde Rusland.",
-        "answer": "poetin"
+        "word": "sancties",
+        "definition": "straffen die een land geeft aan een ander land",
+        "sentence": "De Verenigde Naties hebben nieuwe ___ ingesteld tegen het land.",
+        "answer": "sancties"
       },
       {
-        "word": "oorlog",
-        "definition": "een situatie waar landen vechten",
-        "sentence": "De ___ duurt al lang.",
-        "answer": "oorlog"
+        "word": "Trump",
+        "definition": "de familienaam van de voormalige president van de VS",
+        "sentence": "___ is bekend om zijn uitspraken op sociale media.",
+        "answer": "Trump"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ regeerde Rusland.",
-        "answer": "poetin"
+        "sentence": "De Verenigde Naties hebben nieuwe ___ ingesteld tegen het land.",
+        "answer": "sancties"
       },
       {
-        "sentence": "De technologische ___ gaan snel.",
-        "answer": "ontwikkelingen"
+        "sentence": "De ___ willen samenwerken met andere landen.",
+        "answer": "VS"
       },
       {
-        "sentence": "Ik kreeg een ___ dat de post was aangekomen.",
-        "answer": "melding"
+        "sentence": "___ heeft veel historische steden.",
+        "answer": "Syrië"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'nucleaire oorlog'?",
+      "question": "Wat betekent 'heffen' in deze context?",
       "options": [
-        "Een oorlog in de lucht",
-        "Een oorlog met atoombommen",
-        "Een oorlog op zee",
-        "Een oorlog in de ruimte"
+        "optillen",
+        "officieel maken",
+        "veranderen",
+        "stoppen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat betekent 'ontwikkelingen'?",
+      "question": "Waarom heft de VS sancties tegen Syrië op?",
       "options": [
-        "Nieuwe dingen die gebeuren",
-        "Oude dingen die verdwijnen",
-        "Mensen die vechten",
-        "Dieren die groeien"
+        "Omdat Syrië vrede wil",
+        "Vanwege nieuwe afspraken met andere landen",
+        "Omdat de president het wil",
+        "Om de economie te helpen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Waar gaat de tekst over?",
+      "question": "Wat is een 'sanctie'?",
       "options": [
-        "Over een nieuwe app",
-        "Over een sportwedstrijd",
-        "Over een nucleaire oorlog",
-        "Over een vakantie"
+        "Een soort feest",
+        "Een economische straf",
+        "Een soort belasting",
+        "Een internationale overeenkomst"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Poetin is de leider van Rusland.",
-      "isTrue": true
-    },
-    {
-      "statement": "Een nucleaire oorlog is gemakkelijk te winnen.",
+      "statement": "De VS heft sancties tegen Syrië op omdat ze vrienden willen zijn.",
       "isTrue": false
     },
     {
-      "statement": "Je kunt de app DS Nieuws downloaden.",
+      "statement": "Trump heeft een ontmoeting met Al-Sharaa over de sancties.",
       "isTrue": true
+    },
+    {
+      "statement": "De sancties zijn al volledig verwijderd.",
+      "isTrue": false
     }
   ]
 }

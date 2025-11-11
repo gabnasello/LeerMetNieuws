@@ -1,106 +1,106 @@
 {
-  "id": 22,
+  "id": 21,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Inwoner van Kapellen vindt een handgranaat voor zijn deur: “Zo raar is dat toch niet, meneer?”",
+  "title": "Ook in “de gevangenis van de toekomst” in Haren, die zou inzetten op individuele detentie, komen er nu stapelbedden",
   "topicNumber": 1,
   "article": {
-    "title": "Inwoner van Kapellen vindt een handgranaat voor zijn deur: “Zo raar is dat toch niet, meneer?”",
-    "summary": "In Borgerhout is zaterdagnacht een explosief ontploft voor de deur van een woning. Onbekenden hebben vannacht ook een handgranaat achtergelaten voor een woning in Kapellen. Er is voorlopig geen sprake van een link tussen de twee feiten."
+    "title": "Ook in “de gevangenis van de toekomst” in Haren, die zou inzetten op individuele detentie, komen er nu stapelbedden",
+    "summary": "De cipiersvakbonden hebben een stakingsaanzegging ingediend omdat nu ook in de gevangenis van Haren stapelbedden worden geplaatst. Nochtans is de gevangenis ontworpen rond het idee van “individuele detentie”."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "deur",
-        "definition": "het deel van een huis waar je door naar binnen gaat",
-        "sentence": "De ___ staat open, dus je kunt naar binnen.",
-        "answer": "deur"
+        "word": "stapelbedden",
+        "definition": "meerdere bedden op elkaar gestapeld om ruimte te besparen",
+        "sentence": "In kleine kamers worden soms ___ gebruikt om meer mensen te laten slapen.",
+        "answer": "stapelbedden"
       },
       {
-        "word": "tussen",
-        "definition": "in het midden van twee dingen",
-        "sentence": "De bal lag ___ de twee stoelen in.",
-        "answer": "tussen"
+        "word": "stakingsaanzegging",
+        "definition": "een formele aankondiging dat er gestaakt zal worden",
+        "sentence": "De vakbond heeft een ___ gedaan om hun eisen kracht bij te zetten.",
+        "answer": "stakingsaanzegging"
       },
       {
-        "word": "Inwoner",
-        "definition": "iemand die in een plaats woont",
-        "sentence": "De ___ van dit dorp zijn erg vriendelijk.",
-        "answer": "inwoner"
+        "word": "gevangenis",
+        "definition": "een plaats waar mensen worden vastgehouden als straf",
+        "sentence": "De ___ is een plek waar mensen niet vrijuit mogen gaan.",
+        "answer": "gevangenis"
       },
       {
-        "word": "niet",
-        "definition": "het tegenovergestelde van wel",
-        "sentence": "Ik heb mijn huiswerk nog ___ gemaakt, dus ik moet nu gaan werken.",
-        "answer": "niet"
+        "word": "ontworpen",
+        "definition": "gepland of gemaakt met een bepaald doel",
+        "sentence": "Het park was ___ om natuurlijk en rustgevend te zijn.",
+        "answer": "ontworpen"
       },
       {
-        "word": "vindt",
-        "definition": "ontdekt of ziet iets",
-        "sentence": "Hij ___ een euro op straat en was blij.",
-        "answer": "vindt"
+        "word": "individuele",
+        "definition": "alleen, voor één persoon",
+        "sentence": "Sommige mensen geven de voorkeur aan ___ activiteiten in plaats van teamsporten.",
+        "answer": "individuele"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ik heb mijn huiswerk nog ___ gemaakt, dus ik moet nu gaan werken.",
-        "answer": "niet"
+        "sentence": "Sommige mensen geven de voorkeur aan ___ activiteiten in plaats van teamsporten.",
+        "answer": "individuele"
       },
       {
-        "sentence": "De ___ van dit dorp zijn erg vriendelijk.",
-        "answer": "inwoner"
+        "sentence": "Het park was ___ om natuurlijk en rustgevend te zijn.",
+        "answer": "ontworpen"
       },
       {
-        "sentence": "De ___ staat open, dus je kunt naar binnen.",
-        "answer": "deur"
+        "sentence": "De ___ is een plek waar mensen niet vrijuit mogen gaan.",
+        "answer": "gevangenis"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar werd de handgranaat gevonden?",
+      "question": "Waar gaat de tekst hoofdzakelijk over?",
       "options": [
-        "In een park",
-        "Voor een deur",
-        "In een auto",
-        "Op een dak"
+        "Over gevangenen die willen protesteren",
+        "Over personeel van een gevangenis die gaat staken",
+        "Over de opening van een nieuwe gevangenis",
+        "Over een vakantiepark in Haren"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is er gebeurd in Borgerhout?",
+      "question": "Wat is de situatie in de gevangenis van Haren momenteel?",
       "options": [
-        "Er was een feest",
-        "Er was een explosie",
-        "Er was een optocht",
-        "Er was niets bijzonders"
+        "Er zijn te weinig cellen",
+        "Er is een tekort aan bewakers",
+        "Er worden stapelbedden geplaatst",
+        "De gevangenis wordt gesloten"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is er bekend over de link tussen de twee incidenten?",
+      "question": "Wat is het hoofddoel van de tekst?",
       "options": [
-        "Er is een duidelijk verband",
-        "Er is geen link gevonden",
-        "Er is maar één incident geweest",
-        "De politie weet het niet"
+        "Mensen waarschuwen over de gevangenis",
+        "Uitleggen waarom men stakt",
+        "Promoten van individuele detentie",
+        "Laten zien hoe goed de gevangenis is"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Er is een explosie geweest in Borgerhout.",
+      "statement": "De gevangenis in Haren is ontworpen voor individuele detentie.",
       "isTrue": true
     },
     {
-      "statement": "De handgranaat in Kapellen is dezelfde als die in Borgerhout.",
+      "statement": "De staking is veroorzaakt omdat er te veel gevangenen zijn.",
+      "isTrue": true
+    },
+    {
+      "statement": "Stapelbedden worden gebruikt om meer ruimte te creëren.",
       "isTrue": false
-    },
-    {
-      "statement": "Er is nog geen link gevonden tussen de twee incidenten.",
-      "isTrue": true
     }
   ]
 }

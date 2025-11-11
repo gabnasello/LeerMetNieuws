@@ -3,104 +3,98 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
+  "title": "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Shariyad",
   "topicNumber": 1,
   "article": {
-    "title": "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
-    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+    "title": "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Shariyad",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Oekraïne",
-        "definition": "Een land in Oost-Europa, momenteel betrokken bij een conflict.",
-        "sentence": "___ vecht voor zijn soevereiniteit.",
-        "answer": "Oekraïne"
+        "word": "sancties",
+        "definition": "maatregelen die een land neemt tegen een ander land, vaak om politieke redenen",
+        "sentence": "De Verenigde Staten hebben nieuwe ___ tegen Rusland aangekondigd.",
+        "answer": "sancties"
       },
       {
-        "word": "baas",
-        "definition": "Iemand die de leiding heeft over een organisatie of groep.",
-        "sentence": "De ___ van het bedrijf heeft veel ervaring.",
-        "answer": "baas"
+        "word": "Syrië",
+        "definition": "een land in het Midden-Oosten, officieel de Syrische Arabische Republiek",
+        "sentence": "___ is een land dat al jaren te maken heeft met conflicten.",
+        "answer": "Syrië"
       },
       {
-        "word": "waarschuwt",
-        "definition": "Iemand waarschuwen betekent die persoon informeren over een mogelijk gevaar.",
-        "sentence": "Hij ___ zijn collega voor het te laat is.",
-        "answer": "waarschuwt"
+        "word": "Trump",
+        "definition": "de familienaam van de voormalige president van de Verenigde Staten",
+        "sentence": "___ was de 45e president van de Verenigde Staten.",
+        "answer": "Trump"
       },
       {
-        "word": "ontwikkelingen",
-        "definition": "Veranderingen of vooruitgangen in een situatie.",
-        "sentence": "De recente ___ in de technologie zijn verbazingwekkend.",
-        "answer": "ontwikkelingen"
-      },
-      {
-        "word": "oorlog",
-        "definition": "Een gewapend conflict tussen landen of groepen.",
-        "sentence": "De ___ heeft veel levens geëist.",
-        "answer": "oorlog"
+        "word": "updates",
+        "definition": "bijgewerkte informatie of nieuwsberichten",
+        "sentence": "Volg de ___ op onze website voor het laatste nieuws.",
+        "answer": "updates"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ van het bedrijf heeft veel ervaring.",
-        "answer": "baas"
+        "sentence": "Volg de ___ op onze website voor het laatste nieuws.",
+        "answer": "updates"
       },
       {
-        "sentence": "De ___ heeft veel levens geëist.",
-        "answer": "oorlog"
+        "sentence": "De Verenigde Staten hebben nieuwe ___ tegen Rusland aangekondigd.",
+        "answer": "sancties"
       },
       {
-        "sentence": "___ vecht voor zijn soevereiniteit.",
-        "answer": "Oekraïne"
+        "sentence": "___ is een land dat al jaren te maken heeft met conflicten.",
+        "answer": "Syrië"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent “Navo” in deze context?",
+      "question": "Waarom heft de VS sancties tegen Syrië op?",
       "options": [
-        "Een soort auto",
-        "Een militaire alliantie",
-        "Een natuurpark",
-        "Een type voedsel"
+        "Om economische steun te bieden",
+        "Als onderdeel van een vredesakkoord",
+        "Vanwege een natuurlijke ramp in Syrië",
+        "Omdat de sancties niet langer nodig zijn"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat is een mogelijk gevolg van het opheffen van sancties?",
+      "options": [
+        "Toenemende internationale spanningen",
+        "Verbeterde economische samenwerking",
+        "Verdere isolatie van het land",
+        "Geen enkel effect, het is symbolisch"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom waarschuwt Mark Rutte Poetin?",
+      "question": "Hoe reageerde de internationale gemeenschap op deze stap?",
       "options": [
-        "Om hem uit te nodigen voor een feest",
-        "Omdat Rutte bang is voor een nucleaire ramp",
-        "Omdat Poetin een cadeau wil",
-        "Omdat Rutte een grap maakt"
+        "Met scepsis, het is te vroeg voor optimisme",
+        "Met volledige steun, iedereen is het erover eens",
+        "Met verwarring, het is onduidelijk waarom het gebeurt",
+        "Met onverschilligheid, het maakt weinig uit"
       ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een kern van de boodschap in de titel?",
-      "options": [
-        "Nucleaire oorlog is makkelijk te winnen",
-        "Niemand kan een nucleaire oorlog winnen",
-        "Alleen Rusland kan een nucleaire oorlog winnen",
-        "Oorlog is altijd geweldig"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Mark Rutte is de baas van de Navo.",
+      "statement": "De sancties tegen Syrië werden opgeheven als onderdeel van een breder vredesakkoord.",
       "isTrue": true
     },
     {
-      "statement": "Poetin wordt gewaarschuwd omdat hij een nucleaire oorlog wil starten.",
-      "isTrue": true
-    },
-    {
-      "statement": "Oekraïne heeft de oorlog gewonnen.",
+      "statement": "Deze actie betekent dat Syrië nu volledig zelfvoorzienend is zonder internationale hulp.",
       "isTrue": false
+    },
+    {
+      "statement": "President Trump noemde de opheffing een 'humanitaire stap'.",
+      "isTrue": true
     }
   ]
 }

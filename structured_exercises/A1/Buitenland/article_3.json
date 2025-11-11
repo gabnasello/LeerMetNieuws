@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
+  "title": "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
   "topicNumber": 1,
   "article": {
-    "title": "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
-    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+    "title": "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Rutte",
-        "definition": "De achternaam van de Nederlandse premier.",
-        "sentence": "___ is een bekende Nederlander.",
-        "answer": "Rutte"
+        "word": "tijdens",
+        "definition": "in de tijd van, gedurende",
+        "sentence": "We ontmoeten elkaar ___ de vergadering.",
+        "answer": "tijdens"
       },
       {
-        "word": "Mark",
-        "definition": "Een Nederlandse voornaam.",
-        "sentence": "___ Rutte is een bekende politicus.",
-        "answer": "Mark"
+        "word": "sancties",
+        "definition": "straffen of beperkingen die een land oplegt",
+        "sentence": "De regering kondigt nieuwe ___ aan.",
+        "answer": "sancties"
       },
       {
-        "word": "Oekraïne",
-        "definition": "Een land in Europa.",
-        "sentence": "___ is een groot land.",
-        "answer": "Oekraïne"
+        "word": "VS",
+        "definition": "een land, Verenigde Staten",
+        "sentence": "De ___ en andere landen werken samen.",
+        "answer": "VS"
       },
       {
-        "word": "oorlog",
-        "definition": "Een tijd waarin landen vechten.",
-        "sentence": "De ___ duurde vier jaar.",
-        "answer": "oorlog"
+        "word": "heffen",
+        "definition": "iets niet meer gebruiken, stoppen met iets",
+        "sentence": "De regering besluit om de sancties te ___.",
+        "answer": "heffen"
       },
       {
-        "word": "waarschuwt",
-        "definition": "Iemand waarschuwen betekent zeggen dat er gevaar is.",
-        "sentence": "Hij ___ haar voor het onweer.",
-        "answer": "waarschuwt"
+        "word": "op",
+        "definition": "beginnen, starten",
+        "sentence": "De vergadering gaat zo ___.",
+        "answer": "op"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ duurde vier jaar.",
-        "answer": "oorlog"
+        "sentence": "De ___ en andere landen werken samen.",
+        "answer": "VS"
       },
       {
-        "sentence": "___ is een bekende Nederlander.",
-        "answer": "Rutte"
+        "sentence": "De regering kondigt nieuwe ___ aan.",
+        "answer": "sancties"
       },
       {
-        "sentence": "Hij ___ haar voor het onweer.",
-        "answer": "waarschuwt"
+        "sentence": "De vergadering gaat zo ___.",
+        "answer": "op"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat het artikel over?",
+      "question": "Wat betekent 'heffen' in deze context?",
       "options": [
-        "Over vakantie",
-        "Over vrede",
-        "Over een waarschuwing",
-        "Over een verjaardag"
+        "ophouden met",
+        "beginnen met",
+        "steunen",
+        "vergeten"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wie is Mark Rutte?",
+      "question": "Waar is Syrië gelegen?",
       "options": [
-        "Een bakker",
-        "Een leraar",
-        "De baas van Nederland",
-        "Een schrijver"
+        "Europa",
+        "Azië",
+        "Afrika",
+        "Zuid-Amerika"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Waar is Oekraïne?",
+      "question": "Wat is een 'ontmoeting'?",
       "options": [
-        "In Azië",
-        "In Afrika",
-        "In Europa",
-        "In Zuid-Amerika"
+        "een soort sport",
+        "een feest",
+        "een belangrijke bijeenkomst",
+        "een soort voedsel"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Mark Rutte is de baas van Nederland.",
-      "isTrue": true
-    },
-    {
-      "statement": "Poetin is de baas van Oekraïne.",
+      "statement": "VS is een land in Europa.",
       "isTrue": false
     },
     {
-      "statement": "Een nucleaire oorlog kan nooit gewonnen worden.",
+      "statement": "Sancties zijn straffen die een land oplegt.",
       "isTrue": true
+    },
+    {
+      "statement": "Syrië ligt in Zuid-Amerika.",
+      "isTrue": false
     }
   ]
 }

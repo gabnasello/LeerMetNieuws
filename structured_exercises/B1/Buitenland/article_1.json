@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Biden: Trump maakt niet alleen het Witte Huis kapot, maar ook het land",
+  "title": "Zelensky-vertrouweling in corruptieonderzoek",
   "topicNumber": 1,
   "article": {
-    "title": "Biden: Trump maakt niet alleen het Witte Huis kapot, maar ook het land",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "Zelensky-vertrouweling in corruptieonderzoek",
+    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Trump",
-        "definition": "De voormalige president van de Verenigde Staten.",
-        "sentence": "___ was de president van Amerika.",
-        "answer": "Trump"
+        "word": "corruptie",
+        "definition": "wanneer mensen misbruik maken van hun macht voor persoonlijk voordeel",
+        "sentence": "Er is een onderzoek naar mogelijke ___ in de regering.",
+        "answer": "corruptie"
       },
       {
-        "word": "verandering",
-        "definition": "Een verandering of wijziging in de situatie.",
-        "sentence": "Er was een grote ___ in het beleid.",
-        "answer": "verandering"
+        "word": "ontwikkelingen",
+        "definition": "nieuwe gebeurtenissen of veranderingen in een situatie",
+        "sentence": "Volg de laatste ___ in dit verhaal op onze website.",
+        "answer": "ontwikkelingen"
       },
       {
-        "word": "land",
-        "definition": "Een gebied met een eigen regering, zoals Nederland of Amerika.",
-        "sentence": "Elk ___ heeft zijn eigen regels.",
-        "answer": "land"
+        "word": "vertrouweling",
+        "definition": "iemand die je vertrouwt en die dicht bij je staat",
+        "sentence": "Hij is een belangrijke ___ van de president.",
+        "answer": "vertrouweling"
       },
       {
-        "word": "Witte Huis",
-        "definition": "De plaats waar de Amerikaanse president werkt.",
-        "sentence": "Het ___ is in Washington D.C.",
-        "answer": "Witte Huis"
+        "word": "Oekraïne",
+        "definition": "een land in Europa, momenteel in conflict",
+        "sentence": "De oorlog in ___ duurt al lang.",
+        "answer": "Oekraïne"
       },
       {
-        "word": "Biden",
-        "definition": "De president van de Verenigde Staten.",
-        "sentence": "___ is de president van Amerika.",
-        "answer": "Biden"
+        "word": "app",
+        "definition": "een applicatie op je telefoon of computer, vaak om informatie te krijgen",
+        "sentence": "Download de ___ om updates te ontvangen.",
+        "answer": "app"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Er was een grote ___ in het beleid.",
-        "answer": "verandering"
+        "sentence": "De oorlog in ___ duurt al lang.",
+        "answer": "Oekraïne"
       },
       {
-        "sentence": "___ was de president van Amerika.",
-        "answer": "Trump"
+        "sentence": "Volg de laatste ___ in dit verhaal op onze website.",
+        "answer": "ontwikkelingen"
       },
       {
-        "sentence": "Elk ___ heeft zijn eigen regels.",
-        "answer": "land"
+        "sentence": "Download de ___ om updates te ontvangen.",
+        "answer": "app"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar werkt de Amerikaanse president?",
+      "question": "Waar gaat het artikel over?",
       "options": [
-        "Het Witte Huis",
-        "Het Witte Huis",
-        "Het Witte Huis",
-        "Het Witte Huis"
+        "Een nieuwe film over Oekraïne",
+        "Een sportevenement in Oekraïne",
+        "Een corruptieonderzoek in Oekraïne",
+        "Een vakantiebestemming in Oekraïne"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat betekent 'termijn' in deze context?",
+      "question": "Hoe kan men updates over de oorlog ontvangen?",
       "options": [
-        "Een periode van tijd",
-        "Een soort gebouw",
-        "Een soort dier",
-        "Een type auto"
+        "Door een brief te sturen",
+        "Door een bericht via de postduif",
+        "Door de DS Nieuws app te downloaden",
+        "Door een bezoek aan Oekraïne"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de hoofdstad van de Verenigde Staten?",
+      "question": "Wat is de relatie tussen Zelensky en de vertrouweling?",
       "options": [
-        "Washington D.C.",
-        "New York",
-        "Los Angeles",
-        "Chicago"
+        "Zij zijn broers",
+        "Hij is zijn leraar",
+        "De vertrouweling is een naaste medewerker van Zelensky",
+        "Zij zijn buren"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Donald Trump is de huidige president van de Verenigde Staten.",
-      "isTrue": false
-    },
-    {
-      "statement": "Joe Biden is de huidige president van de Verenigde Staten.",
+      "statement": "Het artikel gaat over een corruptieonderzoek in Oekraïne.",
       "isTrue": true
     },
     {
-      "statement": "Het Witte Huis staat in New York.",
+      "statement": "Zelensky is de president van de Verenigde Staten.",
       "isTrue": false
+    },
+    {
+      "statement": "Je kunt de DS Nieuws app downloaden voor updates.",
+      "isTrue": true
     }
   ]
 }

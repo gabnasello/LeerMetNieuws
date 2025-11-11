@@ -3,98 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
+  "title": "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
   "topicNumber": 1,
   "article": {
-    "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
+    "title": "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
     "summary": "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "doden",
-        "definition": "mensen die omgekomen zijn",
-        "sentence": "Bij de aanval waren er meerdere ___.",
-        "answer": "doden"
+        "word": "Israëlisch",
+        "definition": "Betrekking hebbend op Israël, een land.",
+        "sentence": "Het ___ leger voert aanvallen uit.",
+        "answer": "Israëlisch"
       },
       {
-        "word": "gewonden",
-        "definition": "mensen die gewond zijn geraakt",
-        "sentence": "De ___ werden naar het ziekenhuis gebracht.",
-        "answer": "gewonden"
+        "word": "Libanon",
+        "definition": "Een land in het Midden-Oosten.",
+        "sentence": "___ ligt ten noorden van Israël.",
+        "answer": "Libanon"
       },
       {
         "word": "aanvallen",
-        "definition": "het actief aanvallen of bestrijden",
-        "sentence": "De militaire ___ gebeurden vooral 's nachts.",
+        "definition": "Acties om schade toe te brengen of aan te vallen.",
+        "sentence": "De ___ waren gericht op militaire doelen.",
         "answer": "aanvallen"
       },
       {
-        "word": "ontwikkelingen",
-        "definition": "nieuwe gebeurtenissen of veranderingen in een situatie",
-        "sentence": "De laatste ___ in het Midden-Oosten zijn zorgwekkend.",
-        "answer": "ontwikkelingen"
+        "word": "leger",
+        "definition": "Een groep mensen die een land verdedigt en vecht.",
+        "sentence": "Het ___ van een land voert oorlogen.",
+        "answer": "leger"
+      },
+      {
+        "word": "dodelijke",
+        "definition": "Waardoor iemand overlijdt.",
+        "sentence": "Een ___ aanval eist levens.",
+        "answer": "dodelijke"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De laatste ___ in het Midden-Oosten zijn zorgwekkend.",
-        "answer": "ontwikkelingen"
+        "sentence": "Het ___ leger voert aanvallen uit.",
+        "answer": "Israëlisch"
       },
       {
-        "sentence": "De ___ werden naar het ziekenhuis gebracht.",
-        "answer": "gewonden"
+        "sentence": "Een ___ aanval eist levens.",
+        "answer": "dodelijke"
       },
       {
-        "sentence": "Bij de aanval waren er meerdere ___.",
-        "answer": "doden"
+        "sentence": "Het ___ van een land voert oorlogen.",
+        "answer": "leger"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarover gaat dit artikel vooral?",
+      "question": "Waar voert het Israëlische leger aanvallen uit?",
       "options": [
-        "De economie van Libanon",
-        "Een sportevenement in Israël",
-        "Een recente militaire aanval in Libanon",
-        "Vredesonderhandelingen in de regio"
+        "Nederland",
+        "Libanon",
+        "Duitsland",
+        "België"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van de internationale gemeenschap volgens de tekst?",
+      "question": "Wat is de betekenis van 'dodelijke' in deze context?",
       "options": [
-        "Die ondersteunt de aanvallen",
-        "Die is niet betrokken bij dit conflict",
-        "Die reageert met afkeuring op de situatie",
-        "Die organiseert vredesgesprekken volgende week"
+        "Levensbedreigend",
+        "Gezond",
+        "Vriendelijk",
+        "Onbelangrijk"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Hoe volgt men de ontwikkelingen in het Midden-Oosten?",
+      "question": "Waar ligt Libanon ten opzichte van Israël?",
       "options": [
-        "Door erheen te reizen en alles zelf te zien",
-        "Door te wachten op officiële verklaringen",
-        "Via nieuwsberichten en journalisten op locatie",
-        "Door alleen naar de politiek te kijken"
+        "Ten noorden van",
+        "Ten zuiden van",
+        "Ten oosten van",
+        "Ten westen van"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De aanvallen vonden plaats in Libanon.",
-      "isTrue": true
-    },
-    {
-      "statement": "Er zijn geen slachtoffers gevallen tijdens deze aanvallen.",
+      "statement": "Het Israëlische leger voert aanvallen uit in Nederland.",
       "isTrue": false
     },
     {
-      "statement": "Journalisten proberen de ontwikkelingen op de voet te volgen.",
+      "statement": "Libanon ligt ten noorden van Israël.",
       "isTrue": true
+    },
+    {
+      "statement": "Het Midden-Oosten is een regio zonder conflicten.",
+      "isTrue": false
     }
   ]
 }

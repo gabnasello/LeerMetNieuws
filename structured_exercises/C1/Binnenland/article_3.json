@@ -1,106 +1,106 @@
 {
-  "id": 24,
+  "id": 23,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Inwoner van Kapellen vindt een handgranaat voor zijn poort: 'Zo raar is dat toch niet, mijnheer?'",
+  "title": "Ook in “de gevangenis van de toekomst” in Haren, die zou inzetten op individuele detentie, komen er nu stapelbedden",
   "topicNumber": 1,
   "article": {
-    "title": "Inwoner van Kapellen vindt een handgranaat voor zijn poort: 'Zo raar is dat toch niet, mijnheer?'",
-    "summary": "In Borgerhout is zaterdagnacht een explosief ontploft voor de deur van een woning. Onbekenden hebben vannacht ook een handgranaat achtergelaten voor een woning in Kapellen. Er is voorlopig geen sprake van een link tussen de twee feiten."
+    "title": "Ook in “de gevangenis van de toekomst” in Haren, die zou inzetten op individuele detentie, komen er nu stapelbedden",
+    "summary": "De cipiersvakbonden hebben een stakingsaanzegging ingediend omdat nu ook in de gevangenis van Haren stapelbedden worden geplaatst. Nochtans is de gevangenis ontworpen rond het idee van “individuele detentie”."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "raar",
-        "definition": "Vreemd of ongebruikelijk, niet normaal.",
-        "sentence": "Het was erg ___ dat hij zo laat thuiskwam.",
-        "answer": "raar"
+        "word": "ontworpen",
+        "definition": "Gemaakt, gepland of bedacht volgens een plan.",
+        "sentence": "Het systeem was zo ___ voor maximale efficiëntie.",
+        "answer": "ontworpen"
       },
       {
-        "word": "vindt",
-        "definition": "Ontdekt of aantreft, meestal per toeval.",
-        "sentence": "Hij ___ een euro op straat en was erg blij.",
-        "answer": "vindt"
+        "word": "stakingsaanzegging",
+        "definition": "Een officiële mededeling dat er een staking plaatsvindt.",
+        "sentence": "De werknemers overhandigden de ___ aan het management.",
+        "answer": "stakingsaanzegging"
       },
       {
-        "word": "ontploft",
-        "definition": "Ontploft, is ontploft; geëxplodeerd.",
-        "sentence": "De bom ___ zonder gewonden te veroorzaken.",
-        "answer": "ontploft"
+        "word": "Haren",
+        "definition": "De naam van een plaats, in deze context een gevangenis.",
+        "sentence": "In ___ is de situatie voor gevangenen erg slecht.",
+        "answer": "Haren"
       },
       {
-        "word": "link",
-        "definition": "Een verbinding of verband tussen twee zaken.",
-        "sentence": "Er is een duidelijke ___ tussen roken en longkanker.",
-        "answer": "link"
+        "word": "detentie",
+        "definition": "De periode waarin iemand vastgehouden wordt, bijvoorbeeld in een gevangenis.",
+        "sentence": "Hij zat in ___ voor drie jaar wegens diefstal.",
+        "answer": "detentie"
       },
       {
-        "word": "explosief",
-        "definition": "Betrekking hebbend op of geschikt voor een explosie.",
-        "sentence": "De ___ stoffen werden veilig opgeslagen.",
-        "answer": "explosief"
+        "word": "individuele",
+        "definition": "Alleenstaand, voor één persoon bedoeld.",
+        "sentence": "Elke gevangene heeft recht op ___ bezoekuren.",
+        "answer": "individuele"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het was erg ___ dat hij zo laat thuiskwam.",
-        "answer": "raar"
+        "sentence": "Hij zat in ___ voor drie jaar wegens diefstal.",
+        "answer": "detentie"
       },
       {
-        "sentence": "De bom ___ zonder gewonden te veroorzaken.",
-        "answer": "ontploft"
+        "sentence": "Elke gevangene heeft recht op ___ bezoekuren.",
+        "answer": "individuele"
       },
       {
-        "sentence": "De ___ stoffen werden veilig opgeslagen.",
-        "answer": "explosief"
+        "sentence": "De werknemers overhandigden de ___ aan het management.",
+        "answer": "stakingsaanzegging"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'vindt' in deze context?",
+      "question": "Wat is de hoofdreden voor de stakingsaanzegging door de cipiersvakbonden?",
       "options": [
-        "Vindt",
-        "Vind",
-        "Vindt",
-        "Vindt"
+        "De komst van stapelbedden in de gevangenis van Haren",
+        "Een loonsverlaging van 10% voor alle bewakers",
+        "Het sluiten van de gevangenis van Haren zelf",
+        "De wens voor betere koffiemachines op de werkvloer"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is een 'handgranaat'?",
+      "question": "Hoe is de gevangenis van Haren oorspronkelijk ontworpen?",
       "options": [
-        "Een soort fruit",
-        "Een soort dier",
-        "Een soort wapen",
-        "Een soort boek"
+        "Rond het idee van individuele detentie",
+        "Voor collectieve detentie met stapelbedden",
+        "Zonder enige vorm van detentie",
+        "Als een open kamp zonder bewakers"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat betekent 'er is voorlopig geen sprake van een link'?",
+      "question": "Wat is de toestand van de gevangenis in Haren momenteel?",
       "options": [
-        "Er is nog geen verband bewezen",
-        "Er is al een verband bewezen",
-        "Er is geen verband mogelijk",
-        "Er is een duidelijk verband"
+        "Het gebruikt stapelbedden om meer gevangenen te herbergen",
+        "Het is onlangs volledig gerenoveerd met nieuwe technologie",
+        "De gevangenis is gesloten en leeg sinds 2020",
+        "Alleen bewaard als museumstuk sinds 1990"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "In Borgerhout is een explosief ontploft voor de deur van een woning.",
+      "statement": "De gevangenis van Haren is recentelijk begonnen met het plaatsen van stapelbedden.",
       "isTrue": true
     },
     {
-      "statement": "Er is een bewezen verband tussen de incidenten in Borgerhout en Kapellen.",
+      "statement": "De cipiersvakbonden hebben een stakingsaanzegging ingediend om de gevangenis van Haren geheel te sluiten.",
       "isTrue": false
     },
     {
-      "statement": "Er is voorlopig geen sprake van een link tussen de twee feiten.",
-      "isTrue": true
+      "statement": "De gevangenis van Haren is oorspronkelijk ontworpen voor collectieve detentie met stapelbedden.",
+      "isTrue": false
     }
   ]
 }

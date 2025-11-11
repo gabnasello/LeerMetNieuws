@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Biden: “Trump maakt niet alleen het Witte Huis kapot, maar ook het land”",
+  "title": "Vertrouweling Zelensky verwikkeld in corruptieonderzoek",
   "topicNumber": 1,
   "article": {
-    "title": "Biden: “Trump maakt niet alleen het Witte Huis kapot, maar ook het land”",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "Vertrouweling Zelensky verwikkeld in corruptieonderzoek",
+    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Trump",
-        "definition": "Een voormalige president van de Verenigde Staten.",
-        "sentence": "Donald ___ was de 45ste president.",
-        "answer": "Trump"
+        "word": "updates",
+        "definition": "Nieuwe informatie over een onderwerp.",
+        "sentence": "Volg de ___ om op de hoogte te blijven.",
+        "answer": "updates"
       },
       {
-        "word": "maar",
-        "definition": "Een tegenstelling; in tegenstelling tot wat zojuist is gezegd.",
-        "sentence": "Hij is sterk, ___ niet erg groot.",
-        "answer": "maar"
+        "word": "verwikkeld",
+        "definition": "Betrokken of geïmpliceerd in een situatie, vaak negatief.",
+        "sentence": "Hij is ___ in een groot schandaal.",
+        "answer": "verwikkeld"
       },
       {
-        "word": "maakt",
-        "definition": "Vormt of produceert iets; de derde persoon enkelvoud van 'maken'.",
-        "sentence": "Hij ___ een plan voor de toekomst.",
-        "answer": "maakt"
+        "word": "app",
+        "definition": "Een applicatie op een smartphone of computer.",
+        "sentence": "Download de ___ om het nieuws te volgen.",
+        "answer": "app"
       },
       {
-        "word": "Witte",
-        "definition": "Een kleur, vaak geassocieerd met zuiverheid of licht.",
-        "sentence": "Het ___ Huis is de officiële woning van de president.",
-        "answer": "Witte"
+        "word": "Vertrouweling",
+        "definition": "Iemand die vertrouwd is, vaak in een informele of persoonlijke context.",
+        "sentence": "Hij was een oude ___ van de president.",
+        "answer": "Vertrouweling"
       },
       {
-        "word": "alleen",
-        "definition": "Slechts; zonder anderen.",
-        "sentence": "Hij was ___ thuis tijdens de storm.",
-        "answer": "alleen"
+        "word": "oorlog",
+        "definition": "Een gewapend conflict tussen landen of groepen.",
+        "sentence": "De ___ in Oekraïne duurt nu al maanden.",
+        "answer": "oorlog"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij was ___ thuis tijdens de storm.",
-        "answer": "alleen"
+        "sentence": "Volg de ___ om op de hoogte te blijven.",
+        "answer": "updates"
       },
       {
-        "sentence": "Hij is sterk, ___ niet erg groot.",
-        "answer": "maar"
+        "sentence": "De ___ in Oekraïne duurt nu al maanden.",
+        "answer": "oorlog"
       },
       {
-        "sentence": "Donald ___ was de 45ste president.",
-        "answer": "Trump"
+        "sentence": "Download de ___ om het nieuws te volgen.",
+        "answer": "app"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de rol van Donald Trump in deze context?",
+      "question": "Waar gaat het artikel vooral over?",
       "options": [
-        "Hij is een acteur",
-        "Hij is een voormalige president",
-        "Hij is een huidige president",
-        "Hij is een journalist"
+        "Een nieuwe app",
+        "Oorlog in Oekraïne",
+        "Een sportevenement",
+        "Kooktips"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat betekent de titel 'Biden: “Trump maakt niet alleen het Witte Huis kapot, maar ook het land”'?",
+      "question": "Wat is de rol van de app DS Nieuws?",
       "options": [
-        "Biden zegt dat Trump alleen het Witte Huis vernietigt",
-        "Biden zegt dat Trump het Witte Huis en het land vernielt",
-        "Biden zegt dat Trump alleen het land vernielt",
-        "Biden zegt dat Trump niets vernielt"
+        "Het is een social media platform",
+        "Het biedt nieuwsupdates over belangrijke gebeurtenissen",
+        "Het is een game-app",
+        "Het is een restaurantgids"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het Witte Huis?",
+      "question": "Wat is de houding van de auteur?",
       "options": [
-        "Een museum in Washington",
-        "De officiële residentie van de Amerikaanse president",
-        "Een winkelcentrum in New York",
-        "Een stad in Nederland"
+        "Positief over de oorlog",
+        "Neutraal, informeert alleen",
+        "Negatief over Oekraïne",
+        "Promoot de app actief"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "Donald Trump is de huidige president van de Verenigde Staten.",
-      "isTrue": false
-    },
-    {
-      "statement": "Joe Biden is de huidige president van de Verenigde Staten.",
+      "statement": "Het artikel gaat over een nieuwe app die gelanceerd is.",
       "isTrue": true
     },
     {
-      "statement": "Donald Trump heeft alleen het Witte Huis vernietigd.",
+      "statement": "De auteur is tegen de oorlog in Oekraïne.",
       "isTrue": false
+    },
+    {
+      "statement": "De app DS Nieuws biedt updates over de oorlog.",
+      "isTrue": true
     }
   ]
 }

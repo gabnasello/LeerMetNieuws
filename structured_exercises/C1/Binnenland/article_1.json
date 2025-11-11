@@ -1,105 +1,105 @@
 {
-  "id": 19,
+  "id": 18,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
+  "title": "Net hierdoor voel ik mij als brave burger radicaliseren: pro-Palestijns protest in Antwerpen opnieuw weggespoeld met waterkanon",
   "topicNumber": 1,
   "article": {
-    "title": "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
-    "summary": "Zaterdag zaten vijftien overlevers van misbruik samen met paus Leo XIV. Over dat gesprek zijn de zes mensen die De Standaard nadien kon spreken voorzichtig positief. Al zijn er geen concrete afspraken gemaakt over wat er in praktijk gaat veranderen. 'Als de paus het antwoord niet wist, zei hij dat ook eerlijk.'"
+    "title": "Net hierdoor voel ik mij als brave burger radicaliseren: pro-Palestijns protest in Antwerpen opnieuw weggespoeld met waterkanon",
+    "summary": "Voor de tweede week op rij is pro-Palestijns protest in Antwerpen uitgedraaid op een confrontatie tussen betogers en de oproerpolitie. Zeven manifestanten werden bestuurlijk aangehouden. “Tot voor kort verliep alles nochtans heel gemoedelijk.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "positief",
-        "definition": "Optimistisch of gunstig; iets dat als goed wordt ervaren.",
-        "sentence": "Zijn reactie was verrassend positief na het nieuws.",
-        "answer": "positief"
+        "word": "oproerpolitie",
+        "definition": "Politie-eenheid die gespecialiseerd is in het beheersen van onrust en rellen",
+        "sentence": "De ___ trad hardhandig op tegen de demonstranten.",
+        "answer": "oproerpolitie"
       },
       {
-        "word": "misbruik",
-        "definition": "Het op een ongepaste of schadelijke manier gebruiken van iets of iemand.",
-        "sentence": "Het misbruik van vertrouwen leidde tot diepe wonden.",
-        "answer": "misbruik"
+        "word": "confrontatie",
+        "definition": "Een conflict of botsing tussen twee of meer partijen",
+        "sentence": "De ___ tussen de twee groepen leidde tot geweld.",
+        "answer": "confrontatie"
       },
       {
-        "word": "paus",
-        "definition": "Het hoofd van de Rooms-Katholieke Kerk, de hoogste religieuze leider.",
-        "sentence": "De paus sprak de menigte toe met wijze woorden.",
-        "answer": "paus"
+        "word": "gemoedelijk",
+        "definition": "Vriendelijk en zonder spanning of conflict",
+        "sentence": "De sfeer was erg ___ ondanks de meningsverschillen.",
+        "answer": "gemoedelijk"
       },
       {
-        "word": "slachtoffers",
-        "definition": "Personen die nadeel of leed ondervinden, vaak door toedoen van anderen.",
-        "sentence": "De slachtoffers van het misbruik kregen eindelijk erkenning.",
-        "answer": "slachtoffers"
+        "word": "aangehouden",
+        "definition": "Gearresteerd of vastgehouden door de politie",
+        "sentence": "Hij werd ___ voor verdere ondervraging.",
+        "answer": "aangehouden"
       },
       {
-        "word": "gesprek",
-        "definition": "Een gesprek of discussie tussen twee of meer personen.",
-        "sentence": "Het gesprek tussen hen verliep moeizaam maar respectvol.",
-        "answer": "gesprek"
+        "word": "betogers",
+        "definition": "Mensen die deelnemen aan een protestactie of betoging",
+        "sentence": "De ___ hielden spandoeken vast tijdens de mars.",
+        "answer": "betogers"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De slachtoffers van het misbruik kregen eindelijk erkenning.",
-        "answer": "slachtoffers"
+        "sentence": "De ___ tussen de twee groepen leidde tot geweld.",
+        "answer": "confrontatie"
       },
       {
-        "sentence": "Het gesprek tussen hen verliep moeizaam maar respectvol.",
-        "answer": "gesprek"
+        "sentence": "Hij werd ___ voor verdere ondervraging.",
+        "answer": "aangehouden"
       },
       {
-        "sentence": "Het misbruik van vertrouwen leidde tot diepe wonden.",
-        "answer": "misbruik"
+        "sentence": "De sfeer was erg ___ ondanks de meningsverschillen.",
+        "answer": "gemoedelijk"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat was de houding van de overlevers na het gesprek met de paus?",
+      "question": "Wat is de hoofdreden voor de confrontatie tussen de betogers en de politie in Antwerpen?",
       "options": [
-        "Extreem negatief",
-        "Uiterst positief",
-        "Voorzichtig optimistisch",
-        "Openlijk vijandig"
+        "Een meningsverschil over sport",
+        "Een ruzie over een persoonlijke kwestie",
+        "De aanwezigheid van de oproerpolitie bij de protesten",
+        "Een misverstand over de locatie"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat was het resultaat van de ontmoeting volgens de tekst?",
+      "question": "Hoe werden de manifestanten behandeld door de autoriteiten?",
       "options": [
-        "Vele concrete afspraken werden gemaakt",
-        "Er werden geen concrete afspraken gemaakt",
-        "De paus bood zijn excuses aan",
-        "Het gesprek werd afgebroken"
+        "Ze werden allemaal direct vrijgelaten zonder voorwaarden.",
+        "Ze werden overgebracht naar een feestelijke bijeenkomst.",
+        "Ze werden bestuurlijk aangehouden voor verder onderzoek.",
+        "Ze werden beloond voor hun moed."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Hoe wordt de paus beschreven in zijn reactie?",
+      "question": "Wat was de algemene sfeer tijdens de meeste protesten volgens de samenvatting?",
       "options": [
-        "Hij was oneerlijk en hield informatie achter",
-        "Hij was eerlijk en toegankelijk",
-        "Hij weigerde te antwoorden",
-        "Hij verontschuldigde zich herhaaldelijk"
+        "Heel gewelddadig en angstaanjagend",
+        "Zeer formeel en afstandelijk",
+        "Heel gemoedelijk en vreedzaam",
+        "Extreem competitief en individualistisch"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De overlevers van het misbruik spraken met paus Leo XIV over hun ervaringen.",
-      "isTrue": true
-    },
-    {
-      "statement": "Na het gesprek werden er concrete afspraken gemaakt die onmiddellijk werden uitgevoerd.",
+      "statement": "De protesten in Antwerpen verliepen volledig zonder enige confrontatie met de autoriteiten.",
       "isTrue": false
     },
     {
-      "statement": "De paus gaf een eerlijk antwoord wanneer hij het niet wist.",
+      "statement": "De oproerpolitie had alleen de taak om toeschouwers te beschermen tijdens de protesten.",
+      "isTrue": false
+    },
+    {
+      "statement": "Voor het recente incident verliepen de protesten over het algemeen in een gemoedelijke sfeer.",
       "isTrue": true
     }
   ]

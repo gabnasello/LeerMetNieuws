@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Navo-baas Mark Rutte waarschuwt Poetin: 'Nucleaire oorlog kan nooit gewonnen worden'",
+  "title": "VS heffen sancties tegen Syrië op",
   "topicNumber": 1,
   "article": {
-    "title": "NATO-leider Mark Rutte waarschuwt Poetin: 'Nucleaire oorlog kan nooit gewonnen worden'",
-    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+    "title": "VS heffen sancties tegen Syrië op",
+    "summary": "De Amerikaanse president Donald Trump heeft tijdens een ontmoeting met de Syrische minister van Buitenlandse Zaken, Walid al-Moallem, aangekondigd dat de Verenigde Staten de sancties tegen Syrië zullen opschorten. Dit gebeurt in de hoop op een vreedzame oplossing voor het conflict. De internationale gemeenschap volgt de situatie nauwlettend."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "oorlog",
-        "definition": "Een gewapend conflict tussen landen of groepen",
-        "sentence": "De ___ in Oekraïne duurt nu al maanden.",
-        "answer": "oorlog"
+        "word": "sancties",
+        "definition": "straffen die een land aan een ander land oplegt",
+        "sentence": "De Verenigde Naties hebben nieuwe ___ opgelegd aan het land.",
+        "answer": "sancties"
       },
       {
-        "word": "Oekraïne",
-        "definition": "Een land in Oost-Europa",
-        "sentence": "___ is momenteel het centrum van internationale aandacht.",
-        "answer": "Oekraïne"
+        "word": "Syrische",
+        "definition": "betreffende Syrië",
+        "sentence": "De ___ regering heeft een verklaring uitgegeven.",
+        "answer": "Syrische"
       },
       {
-        "word": "melding",
-        "definition": "Een bericht of aankondiging",
-        "sentence": "Ik kreeg een ___ op mijn telefoon dat het feest is afgelast.",
-        "answer": "melding"
+        "word": "op",
+        "definition": "hier als deel van 'heffen op', maar op zichzelf heeft het geen losse definitie in deze context",
+        "sentence": "De regering heeft de wet ___ laten gaan.",
+        "answer": "op"
       },
       {
-        "word": "ontwikkelingen",
-        "definition": "Veranderingen of nieuwe gebeurtenissen",
-        "sentence": "De recente ___ in de technologie zijn verbazingwekkend.",
-        "answer": "ontwikkelingen"
+        "word": "op",
+        "definition": "hier gebruikt als deel van 'heffen op', wat betekent 'intrekken' of 'niet meer van kracht laten zijn'",
+        "sentence": "De regering heeft de maatregel ___ laten gaan.",
+        "answer": "op"
       },
       {
-        "word": "Poetin",
-        "definition": "De president van Rusland",
-        "sentence": "___ heeft de invasie van Oekraïne bevolen.",
-        "answer": "Poetin"
+        "word": "Syrië",
+        "definition": "een land in het Midden-Oosten",
+        "sentence": "___ wordt al jaren geteisterd door oorlog.",
+        "answer": "Syrië"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De recente ___ in de technologie zijn verbazingwekkend.",
-        "answer": "ontwikkelingen"
+        "sentence": "De regering heeft de maatregel ___ laten gaan.",
+        "answer": "op"
       },
       {
-        "sentence": "De ___ in Oekraïne duurt nu al maanden.",
-        "answer": "oorlog"
+        "sentence": "De Verenigde Naties hebben nieuwe ___ opgelegd aan het land.",
+        "answer": "sancties"
       },
       {
-        "sentence": "___ heeft de invasie van Oekraïne bevolen.",
-        "answer": "Poetin"
+        "sentence": "De regering heeft de wet ___ laten gaan.",
+        "answer": "op"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'nucleaire oorlog'?",
+      "question": "Wat betekent 'heffen' in deze context?",
       "options": [
-        "Een oorlog die wordt uitgevochten met kernwapens",
-        "Een ruzie tussen twee familieleden",
-        "Een sportwedstrijd die op tv wordt uitgezonden",
-        "Een oud boek over geschiedenis"
+        "vernietigen",
+        "bekrachtigen",
+        "intrekken",
+        "afkondigen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Waarom waarschuwt Mark Rutte Poetin?",
+      "question": "Waarom heft de VS de sancties tegen Syrië op?",
       "options": [
-        "Omdat Rusland kernwapens heeft en de situatie gevaarlijk is",
-        "Omdat Rutte een etentje met hem wil plannen",
-        "Omdat Poetin graag schaakt en Rutte hem wil uitdagen",
-        "Omdat Rutte de Russische taal leuk vindt"
+        "Om Syrië te straffen",
+        "Om een signaal te geven",
+        "Vanwege een akkoord",
+        "Op verzoek van de VN"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Wat is de hoofdstad van Oekraïne?",
+      "question": "Wat is de rol van de internationale gemeenschap?",
       "options": [
-        "Kiev",
-        "Moskou",
-        "Berlijn",
-        "Parijs"
+        "De sancties opleggen",
+        "De situatie volgen",
+        "De VS adviseren",
+        "Geen rol spelen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Oekraïne is een klein land in Zuid-Amerika.",
-      "isTrue": false
-    },
-    {
-      "statement": "Nucleaire oorlog kan nooit gewonnen worden, daarom is het zo gevaarlijk.",
+      "statement": "De VS heft de sancties op om Syrië te helpen.",
       "isTrue": true
     },
     {
-      "statement": "Mark Rutte is de president van de Verenigde Staten.",
+      "statement": "De sancties zijn permanent ingetrokken.",
       "isTrue": false
+    },
+    {
+      "statement": "De internationale gemeenschap ondersteunt deze stap.",
+      "isTrue": true
     }
   ]
 }

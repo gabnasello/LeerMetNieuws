@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
+  "title": "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
   "topicNumber": 1,
   "article": {
-    "title": "Doden en gewonden bij Israëlische aanvallen op Libanon",
-    "summary": "Er is nieuws over aanvallen in Libanon. Er zijn doden en gewonden."
+    "title": "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
+    "summary": "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Israëlische",
-        "definition": "iets of iemand uit Israël",
-        "sentence": "De ___ regering heeft een verklaring uitgegeven.",
-        "answer": "Israëlische"
-      },
-      {
-        "word": "nieuws",
-        "definition": "informatie over wat er gebeurt in de wereld",
-        "sentence": "Het ___ van vandaag gaat over de situatie in de wereld.",
-        "answer": "nieuws"
+        "word": "dodelijk",
+        "definition": "dood veroorzakend",
+        "sentence": "Het ongeluk was ___ voor twee mensen.",
+        "answer": "dodelijk"
       },
       {
         "word": "Libanon",
         "definition": "een land in het Midden-Oosten",
-        "sentence": "___ heeft veel schade geleden door de aanvallen.",
+        "sentence": "___ is een land naast Israël.",
         "answer": "Libanon"
       },
       {
-        "word": "gewonden",
-        "definition": "mensen die gewond zijn geraakt",
-        "sentence": "Er zijn veel ___ die hulp nodig hebben.",
-        "answer": "gewonden"
+        "word": "leger",
+        "definition": "een groep mensen die voor een land vechten",
+        "sentence": "Het ___ van het land verdedigt de grenzen.",
+        "answer": "leger"
       },
       {
-        "word": "doden",
-        "definition": "mensen die niet meer leven",
-        "sentence": "Er zijn veel ___ in het conflict.",
-        "answer": "doden"
+        "word": "ontwikkelingen",
+        "definition": "nieuwe dingen die gebeuren",
+        "sentence": "De laatste ___ in de technologie zijn snel.",
+        "answer": "ontwikkelingen"
+      },
+      {
+        "word": "Midden-Oosten",
+        "definition": "een gebied op de wereld met veel landen",
+        "sentence": "Het ___ heeft een droog klimaat.",
+        "answer": "Midden-Oosten"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ heeft veel schade geleden door de aanvallen.",
+        "sentence": "Het ___ van het land verdedigt de grenzen.",
+        "answer": "leger"
+      },
+      {
+        "sentence": "___ is een land naast Israël.",
         "answer": "Libanon"
       },
       {
-        "sentence": "Er zijn veel ___ in het conflict.",
-        "answer": "doden"
-      },
-      {
-        "sentence": "Er zijn veel ___ die hulp nodig hebben.",
-        "answer": "gewonden"
+        "sentence": "Het ongeluk was ___ voor twee mensen.",
+        "answer": "dodelijk"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat het nieuws over?",
+      "question": "Wat betekent 'dodelijk'?",
       "options": [
-        "Over sport",
-        "Over een conflict in het Midden-Oosten",
-        "Over een feest",
-        "Over een nieuwe film"
+        "leuk",
+        "gevaarlijk",
+        "snel",
+        "makkelijk"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is er gebeurd in Libanon?",
+      "question": "Wat is 'Libanon'?",
       "options": [
-        "Er was een feest",
-        "Er was een aanval",
-        "Er was een concert",
-        "Er was een sportwedstrijd"
+        "een stad",
+        "een rivier",
+        "een land",
+        "een berg"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wie heeft de aanvallen uitgevoerd?",
+      "question": "Wat betekent 'ontwikkelingen'?",
       "options": [
-        "Libanon",
-        "Israël",
-        "Een ander land",
-        "Niemand weet het"
+        "oude dingen",
+        "nieuwe dingen die gebeuren",
+        "moeilijke problemen",
+        "leuke activiteiten"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Er zijn doden en gewonden gevallen in Libanon.",
+      "statement": "Israël en Libanon zijn twee verschillende landen.",
       "isTrue": true
     },
     {
-      "statement": "De aanvallen werden uitgevoerd door Libanon.",
+      "statement": "Het Midden-Oosten heeft een nat klimaat.",
       "isTrue": false
     },
     {
-      "statement": "Israëlische troepen waren verantwoordelijk voor de aanvallen.",
+      "statement": "Ontwikkelingen kunnen snel of langzaam zijn.",
       "isTrue": true
     }
   ]

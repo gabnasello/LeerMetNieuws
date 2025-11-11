@@ -1,106 +1,106 @@
 {
-  "id": 26,
+  "id": 25,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Auto rijdt in op agenten in Schaarbeek",
+  "title": "Politie gebruikt waterkanon tijdens protest in Antwerpen",
   "topicNumber": 1,
   "article": {
-    "title": "Auto rijdt in op agenten in Schaarbeek",
-    "summary": "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
+    "title": "Politie gebruikt waterkanon tijdens protest in Antwerpen",
+    "summary": "De politie heeft een waterkanon gebruikt tijdens een pro-Palestijns protest in Antwerpen. Verschillende betogers zijn opgepakt."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "moord",
-        "definition": "het opzettelijk doden van een persoon",
-        "sentence": "Het was een poging tot ___.",
-        "answer": "moord"
+        "word": "Antwerpen",
+        "definition": "Een stad in België.",
+        "sentence": "___ is een grote stad met veel mensen.",
+        "answer": "Antwerpen"
       },
       {
-        "word": "agenten",
-        "definition": "mensen die de wet handhaven",
-        "sentence": "De ___ waren een voertuig aan het controleren.",
-        "answer": "agenten"
+        "word": "protest",
+        "definition": "Een bijeenkomst waar mensen hun ongenoegen uiten.",
+        "sentence": "Het ___ was vreedzaam tot de politie kwam.",
+        "answer": "protest"
       },
       {
-        "word": "controleren",
-        "definition": "nagaan of iets in orde is",
-        "sentence": "Ze waren het voertuig aan het ___.",
-        "answer": "controleren"
+        "word": "waterkanon",
+        "definition": "Een apparaat dat water spuit, vaak voor controle van menigten.",
+        "sentence": "Het ___ spuit water om mensen weg te jagen.",
+        "answer": "waterkanon"
       },
       {
-        "word": "auto",
-        "definition": "een voertuig voor transport",
-        "sentence": "De ___ reed tegen de agenten.",
-        "answer": "auto"
+        "word": "Politie",
+        "definition": "Mensen die de wet handhaven.",
+        "sentence": "De ___ controleert de stad.",
+        "answer": "Politie"
       },
       {
-        "word": "motief",
-        "definition": "de reden waarom iemand iets doet",
-        "sentence": "Over het ___ van de dader is nog geen duidelijkheid.",
-        "answer": "motief"
+        "word": "protest",
+        "definition": "Een uiting van ontevredenheid, vaak publiekelijk.",
+        "sentence": "Het ___ was vreedzaam ondanks de drukte.",
+        "answer": "protest"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Over het ___ van de dader is nog geen duidelijkheid.",
-        "answer": "motief"
+        "sentence": "Het ___ spuit water om mensen weg te jagen.",
+        "answer": "waterkanon"
       },
       {
-        "sentence": "Het was een poging tot ___.",
-        "answer": "moord"
+        "sentence": "De ___ controleert de stad.",
+        "answer": "Politie"
       },
       {
-        "sentence": "De ___ waren een voertuig aan het controleren.",
-        "answer": "agenten"
+        "sentence": "Het ___ was vreedzaam ondanks de drukte.",
+        "answer": "protest"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gebeurde het incident met de auto?",
+      "question": "Wat is een waterkanon?",
       "options": [
-        "Schaarbeek",
-        "Brussel",
-        "Schilde",
-        "Antwerpen"
+        "Een soort wapen",
+        "Een type auto",
+        "Een gebouw",
+        "Een park"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat deden de agenten op het moment van het incident?",
+      "question": "Waarom werd er een waterkanon ingezet?",
       "options": [
-        "Ze waren aan het eten",
-        "Ze waren een voertuig aan het controleren",
-        "Ze waren aan het slapen",
-        "Ze waren aan het rijden"
+        "Om planten water te geven",
+        "Tegen betogers",
+        "Voor een feest",
+        "Omdat het regende"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het motief van de dader volgens de tekst?",
+      "question": "Wat gebeurde er met sommige betogers?",
       "options": [
-        "Nog niet bekend",
-        "Wraak",
-        "Roem",
-        "Geld"
+        "Zij gingen naar huis",
+        "Ze werden opgepakt",
+        "Ze wonnen een prijs",
+        "Ze gingen eten"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De agenten waren aan het rijden met de auto.",
-      "isTrue": false
-    },
-    {
-      "statement": "Het parket heeft een onderzoek geopend.",
+      "statement": "De politie gebruikte een waterkanon tijdens het protest.",
       "isTrue": true
     },
     {
-      "statement": "De dader heeft de auto gestolen van een politieagent.",
+      "statement": "Het protest vond plaats in Brussel.",
       "isTrue": false
+    },
+    {
+      "statement": "Enkele betogers werden opgepakt door de politie.",
+      "isTrue": true
     }
   ]
 }

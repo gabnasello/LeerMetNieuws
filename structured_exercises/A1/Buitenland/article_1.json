@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Biden: Trump maakt het land kapot",
+  "title": "Oorlog in Oekraïne",
   "topicNumber": 1,
   "article": {
-    "title": "Biden: Trump maakt het land kapot",
-    "summary": "Donald Trump was president van Amerika. Zijn tweede termijn bracht veranderingen over de hele wereld. Volg hier alle updates."
+    "title": "Oorlog in Oekraïne",
+    "summary": "Volg het nieuws over de oorlog in Oekraïne. Download de app DS Nieuws voor updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "verandering",
-        "definition": "iets wat anders wordt",
-        "sentence": "Er is een ___ in het beleid.",
-        "answer": "verandering"
+        "word": "download",
+        "definition": "Iets van internet halen.",
+        "sentence": "___ de app om nieuws te lezen.",
+        "answer": "Download"
       },
       {
-        "word": "Biden",
-        "definition": "achternaam van de huidige president",
-        "sentence": "___ is nu de president.",
-        "answer": "Biden"
+        "word": "nieuws",
+        "definition": "Informatie over wat er gebeurt in de wereld.",
+        "sentence": "Ik lees het ___ online.",
+        "answer": "nieuws"
       },
       {
-        "word": "termijn",
-        "definition": "periode waarin iemand een functie heeft",
-        "sentence": "Hij heeft een ___ van vier jaar.",
-        "answer": "termijn"
+        "word": "update",
+        "definition": "Nieuwe informatie.",
+        "sentence": "Krijg een ___ over het nieuws.",
+        "answer": "update"
       },
       {
-        "word": "wereld",
-        "definition": "de aarde en alle mensen",
-        "sentence": "De ___ is groot en er gebeurt veel.",
-        "answer": "wereld"
+        "word": "oorlog",
+        "definition": "Een situatie waarin landen vechten.",
+        "sentence": "Er is een ___ in Oekraïne.",
+        "answer": "oorlog"
       },
       {
-        "word": "president",
-        "definition": "iemand die een land bestuurt",
-        "sentence": "De ___ van Amerika is Biden.",
-        "answer": "president"
+        "word": "Oekraïne",
+        "definition": "Een land in Europa.",
+        "sentence": "Er is oorlog in ___.",
+        "answer": "Oekraïne"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is nu de president.",
-        "answer": "Biden"
+        "sentence": "Er is oorlog in ___.",
+        "answer": "Oekraïne"
       },
       {
-        "sentence": "Hij heeft een ___ van vier jaar.",
-        "answer": "termijn"
+        "sentence": "Er is een ___ in Oekraïne.",
+        "answer": "oorlog"
       },
       {
-        "sentence": "Er is een ___ in het beleid.",
-        "answer": "verandering"
+        "sentence": "Ik lees het ___ online.",
+        "answer": "nieuws"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wie is de president van Amerika nu?",
+      "question": "Waar is er oorlog?",
       "options": [
-        "Biden",
-        "Trump",
-        "Obama",
-        "Putin"
+        "Oekraïne",
+        "Nederland",
+        "Duitsland",
+        "Frankrijk"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat betekent 'termijn' in deze context?",
+      "question": "Wat kun je downloaden?",
       "options": [
-        "een periode",
-        "een gebouw",
-        "een soort auto",
-        "een type voedsel"
+        "Een app",
+        "Een boek",
+        "Een fiets",
+        "Een huis"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat bracht Trump volgens de tekst?",
+      "question": "Wat is een update?",
       "options": [
-        "Veranderingen over de hele wereld",
-        "Vrede en geluk",
-        "Alleen problemen in Amerika",
-        "Niets, het is neutraal"
+        "Oud nieuws",
+        "Oude informatie",
+        "Geen nieuws",
+        "Nieuwe informatie"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "Donald Trump was de president van Amerika.",
+      "statement": "Er is oorlog in Oekraïne.",
       "isTrue": true
     },
     {
-      "statement": "Biden is momenteel de president van Amerika.",
-      "isTrue": true
-    },
-    {
-      "statement": "Trump bracht alleen verandering in Amerika.",
+      "statement": "Je kunt een auto downloaden.",
       "isTrue": false
+    },
+    {
+      "statement": "Een app geeft je nieuws.",
+      "isTrue": true
     }
   ]
 }

@@ -1,106 +1,100 @@
 {
-  "id": 29,
+  "id": 28,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Auto rijdt in op agenten in Schaarbeek: 'Geweld tegen politiemensen is onaanvaardbaar'",
+  "title": "Politie zet opnieuw waterkanon in bij pro-Palestijns protest in Antwerpen",
   "topicNumber": 1,
   "article": {
-    "title": "Auto rijdt in op agenten in Schaarbeek: 'Geweld tegen politiemensen is onaanvaardbaar'",
-    "summary": "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
+    "title": "Politie zet opnieuw waterkanon in bij pro-Palestijns protest in Antwerpen",
+    "summary": "De Antwerpse Coalitie voor Palestina betoogt maandagavond in de Antwerpse binnenstad opnieuw tegen de genocide in Gaza. De politie heeft de demonstranten richting het Steenplein verdreven, verschillende betogers zijn opgepakt."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "dader",
-        "definition": "iemand die een misdrijf pleegt",
-        "sentence": "De ___ is nog niet geïdentificeerd.",
-        "answer": "dader"
+        "word": "Politie",
+        "definition": "De organisatie die belast is met het handhaven van de openbare orde en veiligheid.",
+        "sentence": "De ___ trad hardhandig op tijdens de demonstratie.",
+        "answer": "Politie"
       },
       {
-        "word": "moord",
-        "definition": "het opzettelijk doden van een persoon",
-        "sentence": "Hij is verdacht van ___ op zijn buurman.",
-        "answer": "moord"
+        "word": "waterkanon",
+        "definition": "Een apparaat dat water onder hoge druk spuit, vaak gebruikt voor crowd control.",
+        "sentence": "Om de menigte uiteen te drijven, zette de politie het ___ in.",
+        "answer": "waterkanon"
       },
       {
-        "word": "motief",
-        "definition": "de reden of beweegreden voor een handeling",
-        "sentence": "Wat was het ___ voor deze misdaad?",
-        "answer": "motief"
+        "word": "Antwerpen",
+        "definition": "Een grote stad in België, bekend om zijn haven en historische centrum.",
+        "sentence": "De protesten vonden plaats in de stad ___.",
+        "answer": "Antwerpen"
       },
       {
-        "word": "onderzoek",
-        "definition": "een systematisch onderzoek om feiten vast te stellen",
-        "sentence": "Het parket heeft een ___ geopend naar de gebeurtenissen.",
-        "answer": "onderzoek"
-      },
-      {
-        "word": "controleren",
-        "definition": "nagaan of controleren of iets in orde is",
-        "sentence": "Agenten ___ voertuigen op de openbare weg.",
-        "answer": "controleren"
+        "word": "betogers",
+        "definition": "Mensen die deelnemen aan een protest of demonstratie.",
+        "sentence": "De ___ hielden spandoeken vast tijdens de mars.",
+        "answer": "betogers"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is verdacht van ___ op zijn buurman.",
-        "answer": "moord"
+        "sentence": "De ___ hielden spandoeken vast tijdens de mars.",
+        "answer": "betogers"
       },
       {
-        "sentence": "Wat was het ___ voor deze misdaad?",
-        "answer": "motief"
+        "sentence": "De protesten vonden plaats in de stad ___.",
+        "answer": "Antwerpen"
       },
       {
-        "sentence": "De ___ is nog niet geïdentificeerd.",
-        "answer": "dader"
+        "sentence": "Om de menigte uiteen te drijven, zette de politie het ___ in.",
+        "answer": "waterkanon"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdactiviteit van de agenten in de beschreven situatie?",
+      "question": "Waar vond de protestactie plaats?",
       "options": [
-        "Rellen beheersen",
-        "Voertuigen controleren",
-        "Een onderzoek leiden",
-        "Een misdaad plegen"
+        "Brussel",
+        "Antwerpen",
+        "Gent",
+        "Luik"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de juridische status van de handeling tegen de agenten?",
+      "question": "Wat was de reactie van de politie op de demonstratie?",
       "options": [
-        "Het is een misdrijf van moord.",
-        "Het is een geval van verkeersovertreding.",
-        "Het is een voorbeeld van burgermanschap.",
-        "Het is een onderzoek naar mogelijke oorzaken."
+        "Ze gebruikten traangas",
+        "Ze zetten een waterkanon in",
+        "Ze arresteerden niemand",
+        "Ze keken alleen maar toe"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de huidige staat van het onderzoek naar het motief?",
+      "question": "Wat was het hoofddoel van de betogers?",
       "options": [
-        "Het is afgerond met een veroordeling.",
-        "Het is in de beginfase met onduidelijkheid.",
-        "Het is al bevestigd door de dader.",
-        "Het is niet van toepassing in deze situatie."
+        "Tegen de regering protesteren",
+        "Steun betuigen aan de Palestijnse bevolking",
+        "De stad Antwerpen bezetten",
+        "Geen specifiek doel"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De agenten waren aan het controleren van een voertuig toen de aanval plaatsvond.",
+      "statement": "De politie heeft tijdens de protesten waterkanonnen ingezet.",
       "isTrue": true
     },
     {
-      "statement": "Het motief van de dader is al bekend bij de autoriteiten.",
+      "statement": "De protesten vonden plaats in de stad Brussel.",
       "isTrue": false
     },
     {
-      "statement": "De auto werd gebruikt als een wapen in de aanval.",
-      "isTrue": true
+      "statement": "Er werden geen betogers gearresteerd tijdens de demonstratie.",
+      "isTrue": false
     }
   ]
 }

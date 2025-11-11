@@ -29,104 +29,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Biden: Trump maakt niet alleen het Witte Huis kapot, maar ook het land",
+    title: "Zelensky-vertrouweling in corruptieonderzoek",
     topicNumber: 1,
     article: {
-      title: "Biden: Trump maakt niet alleen het Witte Huis kapot, maar ook het land",
-      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+      title: "Zelensky-vertrouweling in corruptieonderzoek",
+      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
     },
     vocabulary: {
       words: [
         {
-          word: "Trump",
-          definition: "De voormalige president van de Verenigde Staten.",
-          sentence: "___ was de president van Amerika.",
-          answer: "Trump"
+          word: "corruptie",
+          definition: "wanneer mensen misbruik maken van hun macht voor persoonlijk voordeel",
+          sentence: "Er is een onderzoek naar mogelijke ___ in de regering.",
+          answer: "corruptie"
         },
         {
-          word: "verandering",
-          definition: "Een verandering of wijziging in de situatie.",
-          sentence: "Er was een grote ___ in het beleid.",
-          answer: "verandering"
+          word: "ontwikkelingen",
+          definition: "nieuwe gebeurtenissen of veranderingen in een situatie",
+          sentence: "Volg de laatste ___ in dit verhaal op onze website.",
+          answer: "ontwikkelingen"
         },
         {
-          word: "land",
-          definition: "Een gebied met een eigen regering, zoals Nederland of Amerika.",
-          sentence: "Elk ___ heeft zijn eigen regels.",
-          answer: "land"
+          word: "vertrouweling",
+          definition: "iemand die je vertrouwt en die dicht bij je staat",
+          sentence: "Hij is een belangrijke ___ van de president.",
+          answer: "vertrouweling"
         },
         {
-          word: "Witte Huis",
-          definition: "De plaats waar de Amerikaanse president werkt.",
-          sentence: "Het ___ is in Washington D.C.",
-          answer: "Witte Huis"
+          word: "Oekraïne",
+          definition: "een land in Europa, momenteel in conflict",
+          sentence: "De oorlog in ___ duurt al lang.",
+          answer: "Oekraïne"
         },
         {
-          word: "Biden",
-          definition: "De president van de Verenigde Staten.",
-          sentence: "___ is de president van Amerika.",
-          answer: "Biden"
+          word: "app",
+          definition: "een applicatie op je telefoon of computer, vaak om informatie te krijgen",
+          sentence: "Download de ___ om updates te ontvangen.",
+          answer: "app"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Er was een grote ___ in het beleid.",
-          answer: "verandering"
+          sentence: "De oorlog in ___ duurt al lang.",
+          answer: "Oekraïne"
         },
         {
-          sentence: "___ was de president van Amerika.",
-          answer: "Trump"
+          sentence: "Volg de laatste ___ in dit verhaal op onze website.",
+          answer: "ontwikkelingen"
         },
         {
-          sentence: "Elk ___ heeft zijn eigen regels.",
-          answer: "land"
+          sentence: "Download de ___ om updates te ontvangen.",
+          answer: "app"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar werkt de Amerikaanse president?",
+        question: "Waar gaat het artikel over?",
         options: [
-          "Het Witte Huis",
-          "Het Witte Huis",
-          "Het Witte Huis",
-          "Het Witte Huis"
+          "Een nieuwe film over Oekraïne",
+          "Een sportevenement in Oekraïne",
+          "Een corruptieonderzoek in Oekraïne",
+          "Een vakantiebestemming in Oekraïne"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wat betekent 'termijn' in deze context?",
+        question: "Hoe kan men updates over de oorlog ontvangen?",
         options: [
-          "Een periode van tijd",
-          "Een soort gebouw",
-          "Een soort dier",
-          "Een type auto"
+          "Door een brief te sturen",
+          "Door een bericht via de postduif",
+          "Door de DS Nieuws app te downloaden",
+          "Door een bezoek aan Oekraïne"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wat is de hoofdstad van de Verenigde Staten?",
+        question: "Wat is de relatie tussen Zelensky en de vertrouweling?",
         options: [
-          "Washington D.C.",
-          "New York",
-          "Los Angeles",
-          "Chicago"
+          "Zij zijn broers",
+          "Hij is zijn leraar",
+          "De vertrouweling is een naaste medewerker van Zelensky",
+          "Zij zijn buren"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Donald Trump is de huidige president van de Verenigde Staten.",
-        isTrue: false
-      },
-      {
-        statement: "Joe Biden is de huidige president van de Verenigde Staten.",
+        statement: "Het artikel gaat over een corruptieonderzoek in Oekraïne.",
         isTrue: true
       },
       {
-        statement: "Het Witte Huis staat in New York.",
+        statement: "Zelensky is de president van de Verenigde Staten.",
         isTrue: false
+      },
+      {
+        statement: "Je kunt de DS Nieuws app downloaden voor updates.",
+        isTrue: true
       }
     ]
   },
@@ -135,103 +135,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
+    title: "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
     topicNumber: 1,
     article: {
-      title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
+      title: "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
       summary: "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
     },
     vocabulary: {
       words: [
         {
+          word: "ontwikkelingen",
+          definition: "veranderingen of gebeurtenissen die plaatsvinden",
+          sentence: "De laatste ___ in de regio zijn zorgwekkend.",
+          answer: "ontwikkelingen"
+        },
+        {
           word: "aanvallen",
-          definition: "aanvallen, het aanvallen",
-          sentence: "De ___ waren gericht op militaire doelen.",
+          definition: "acties om iets of iemand aan te vallen",
+          sentence: "De ___ waren hevig en gericht.",
           answer: "aanvallen"
         },
         {
+          word: "leger",
+          definition: "een groep mensen die voor een land vecht",
+          sentence: "Het ___ voert aanvallen uit.",
+          answer: "leger"
+        },
+        {
           word: "Midden-Oosten",
-          definition: "een regio waaronder landen als Israël en Libanon vallen",
-          sentence: "Het ___ is een onrustige regio.",
+          definition: "een regio die onder andere het Midden-Oosten omvat",
+          sentence: "Het conflict in het ___ is complex.",
           answer: "Midden-Oosten"
         },
         {
-          word: "gewonden",
-          definition: "mensen die gewond zijn geraakt",
-          sentence: "Er zijn veel ___ naar het ziekenhuis gebracht.",
-          answer: "gewonden"
-        },
-        {
-          word: "Israëlische",
-          definition: "van of uit Israël",
-          sentence: "De ___ luchtmacht voerde de aanval uit.",
-          answer: "Israëlische"
-        },
-        {
-          word: "doden",
-          definition: "mensen die zijn overleden",
-          sentence: "Er vielen veel ___ bij het conflict.",
-          answer: "doden"
+          word: "dodelijk",
+          definition: "iets of iemand dat de dood veroorzaakt",
+          sentence: "De operatie was ___ en zorgde voor veel slachtoffers.",
+          answer: "dodelijk"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ waren gericht op militaire doelen.",
-          answer: "aanvallen"
+          sentence: "Het ___ voert aanvallen uit.",
+          answer: "leger"
         },
         {
-          sentence: "Er vielen veel ___ bij het conflict.",
-          answer: "doden"
+          sentence: "De operatie was ___ en zorgde voor veel slachtoffers.",
+          answer: "dodelijk"
         },
         {
-          sentence: "Er zijn veel ___ naar het ziekenhuis gebracht.",
-          answer: "gewonden"
+          sentence: "Het conflict in het ___ is complex.",
+          answer: "Midden-Oosten"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'gewonden' in deze context?",
+        question: "Wat betekent 'dodelijk'?",
         options: [
-          "gewonnen hebben",
-          "blessures hebben",
-          "overleden zijn",
-          "verwond zijn"
+          "levend",
+          "dodelijk",
+          "vriendelijk",
+          "onbekend"
         ],
-        correctAnswer: 4
+        correctAnswer: 2
       },
       {
-        question: "Waar staat 'Midden-Oosten' voor in deze tekst?",
+        question: "Waar voert het Israëlische leger aanvallen op uit?",
         options: [
-          "een sportevenement",
-          "een muziekgenre",
-          "een geografische regio",
-          "een stad"
+          "Nederland",
+          "Duitsland",
+          "Libanon",
+          "Frankrijk"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is de hoofdstad van Libanon?",
+        question: "Wat betekent 'ontwikkelingen' in deze context?",
         options: [
-          "Jeruzalem",
-          "Beiroet",
-          "Amman",
-          "Bagdad"
+          "nieuwe uitvindingen",
+          "veranderingen in de situatie",
+          "een soort fruit",
+          "een soort auto"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Libanon ligt ten noorden van Israël.",
+        statement: "Het Israëlische leger voert aanvallen uit op Libanon.",
         isTrue: true
       },
       {
-        statement: "De aanvallen vonden plaats in de Verenigde Staten.",
+        statement: "Nederland is het land waar de aanvallen plaatsvinden.",
         isTrue: false
       },
       {
-        statement: "Gewonden zijn personen die gewond zijn geraakt.",
+        statement: "Het Midden-Oosten is een regio met complexe geopolitieke situaties.",
         isTrue: true
       }
     ]
@@ -241,104 +241,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
+    title: "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
     topicNumber: 1,
     article: {
-      title: "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
-      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+      title: "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijk veranderingen teweeg. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "ontwikkelingen",
-          definition: "Nieuwe gebeurtenissen of veranderingen in een situatie.",
-          sentence: "De recente ___ in de technologie zijn snel.",
-          answer: "ontwikkelingen"
+          word: "sancties",
+          definition: "Straffen die een land geeft aan een ander land",
+          sentence: "De Verenigde Naties kunnen ___ opleggen aan een land.",
+          answer: "sancties"
         },
         {
-          word: "Navo",
-          definition: "Een militaire alliantie van landen in Europa en Noord-Amerika.",
-          sentence: "De ___ is een belangrijke organisatie voor veiligheid.",
-          answer: "Navo"
+          word: "VS",
+          definition: "Verenigde Staten van Amerika",
+          sentence: "De ___ zijn een land in Noord-Amerika.",
+          answer: "VS"
         },
         {
-          word: "baas",
-          definition: "De persoon die de leiding heeft over een groep of organisatie.",
-          sentence: "Hij is de ___ van het hele team.",
-          answer: "baas"
+          word: "heffen",
+          definition: "iets officieel maken of stoppen",
+          sentence: "De regering besloot de belastingen te ___.",
+          answer: "heffen"
         },
         {
-          word: "kan",
-          definition: "Een hulpwerkwoord dat aangeeft dat iets mogelijk is.",
-          sentence: "Hij ___ morgen komen, maar het is niet zeker.",
-          answer: "kan"
+          word: "op",
+          definition: "niet meer actief of aanwezig",
+          sentence: "Het feest is ___ voor de hele buurt.",
+          answer: "op"
         },
         {
-          word: "waarschuwt",
-          definition: "Iemand waarschuwen betekent dat je die persoon zegt om voorzichtig te zijn.",
-          sentence: "Hij ___ zijn vriend voor het gevaar.",
-          answer: "waarschuwt"
+          word: "Trump",
+          definition: "De achternaam van de voormalige president van de VS",
+          sentence: "___ was president van 2017 tot 2021.",
+          answer: "Trump"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij ___ zijn vriend voor het gevaar.",
-          answer: "waarschuwt"
+          sentence: "De ___ zijn een land in Noord-Amerika.",
+          answer: "VS"
         },
         {
-          sentence: "De recente ___ in de technologie zijn snel.",
-          answer: "ontwikkelingen"
+          sentence: "De regering besloot de belastingen te ___.",
+          answer: "heffen"
         },
         {
-          sentence: "De ___ is een belangrijke organisatie voor veiligheid.",
-          answer: "Navo"
+          sentence: "De Verenigde Naties kunnen ___ opleggen aan een land.",
+          answer: "sancties"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat dit artikel vooral over?",
+        question: "Waar verwijst 'VS' naar in deze context?",
         options: [
-          "Koken en eten",
-          "Een nucleaire oorlog",
-          "De Navo en een waarschuwing",
-          "Vakantieplannen"
+          "Verenigde Staten",
+          "Verenigde Naties",
+          "Europa",
+          "Aziz"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat betekent 'heffen' in deze titel?",
+        options: [
+          "Optillen",
+          "Starten",
+          "Beëindigen",
+          "Veranderen"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat betekent 'waarschuwen' in deze context?",
+        question: "Wat is de rol van Al-Sharaa in de titel?",
         options: [
-          "Iemand een cadeau geven",
-          "Iemand vertellen om voorzichtig te zijn",
-          "Iemand uitnodigen voor een feest",
-          "Iemand negeren"
+          "Een politieke leider",
+          "Een plaatselijke bewoner",
+          "Een bekende acteur",
+          "Een historisch figuur"
         ],
-        correctAnswer: 2
-      },
-      {
-        question: "Waarom is het belangrijk om dit nieuws te volgen?",
-        options: [
-          "Omdat het over mode gaat",
-          "Omdat het over een belangrijke wereldgebeurtenis gaat",
-          "Omdat het alleen over sport gaat",
-          "Omdat het een grap is"
-        ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Mark Rutte is de baas van de Navo.",
-        isTrue: true
-      },
-      {
-        statement: "Dit artikel gaat over koken en eten.",
+        statement: "De VS heeft de sancties tegen Syrië volledig verwijderd.",
         isTrue: false
       },
       {
-        statement: "De Navo is een militaire alliantie.",
+        statement: "Donald Trump had een ontmoeting met Al-Sharaa.",
         isTrue: true
+      },
+      {
+        statement: "Al-Sharaa is de president van Syrië.",
+        isTrue: false
       }
     ]
   },
@@ -453,104 +453,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Auto rijdt in op agenten in Schaarbeek",
+    title: "Politie gebruikt waterkanon bij protest in Antwerpen",
     topicNumber: 1,
     article: {
-      title: "Auto rijdt in op agenten in Schaarbeek",
-      summary: "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
+      title: "Politie gebruikt waterkanon bij protest in Antwerpen",
+      summary: "De politie heeft een waterkanon ingezet tijdens een pro-Palestijns protest in Antwerpen. Verschillende betogers zijn opgepakt. De demonstratie was tegen de oorlog in Gaza."
     },
     vocabulary: {
       words: [
         {
-          word: "agenten",
-          definition: "mensen die de wet handhaven, zoals politie",
-          sentence: "De ___ werkten in Schaarbeek.",
-          answer: "agenten"
+          word: "betogers",
+          definition: "Mensen die deelnemen aan een protest of demonstratie",
+          sentence: "Verschillende ___ werden gearresteerd.",
+          answer: "betogers"
         },
         {
-          word: "controleren",
-          definition: "nagaan of iets in orde is",
-          sentence: "De politie wilde het voertuig ___.",
-          answer: "controleren"
+          word: "politie",
+          definition: "Zie 'Politie' hierboven; herhaald voor consistentie",
+          sentence: "De ___ hield toezicht op de menigte.",
+          answer: "politie"
         },
         {
-          word: "dader",
-          definition: "iemand die iets (illegals) doet",
-          sentence: "De ___ is nog niet gevonden.",
-          answer: "dader"
+          word: "Gaza",
+          definition: "Een gebied in het Midden-Oosten, vaak in conflict",
+          sentence: "De situatie in ___ is zeer ernstig.",
+          answer: "Gaza"
         },
         {
-          word: "auto",
-          definition: "een voertuig dat op de weg rijdt",
-          sentence: "De ___ reed tegen de politie in.",
-          answer: "auto"
+          word: "Politie",
+          definition: "De mensen die de wet handhaven",
+          sentence: "De ___ kwam tussenbeide tijdens het protest.",
+          answer: "Politie"
         },
         {
-          word: "onderzoek",
-          definition: "een grondige zoektocht naar informatie",
-          sentence: "Het parket startte een ___ naar de aanval.",
-          answer: "onderzoek"
+          word: "waterkanon",
+          definition: "Een apparaat dat water spuit, vaak gebruikt door politie",
+          sentence: "De politie gebruikte een ___ om de menigte uiteen te drijven.",
+          answer: "waterkanon"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ is nog niet gevonden.",
-          answer: "dader"
+          sentence: "De ___ hield toezicht op de menigte.",
+          answer: "politie"
         },
         {
-          sentence: "De politie wilde het voertuig ___.",
-          answer: "controleren"
+          sentence: "Verschillende ___ werden gearresteerd.",
+          answer: "betogers"
         },
         {
-          sentence: "De ___ reed tegen de politie in.",
-          answer: "auto"
+          sentence: "De situatie in ___ is zeer ernstig.",
+          answer: "Gaza"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat deed de auto volgens de tekst?",
+        question: "Waar vond het protest plaats?",
         options: [
-          "Reed in op agenten",
-          "Stopte naast agenten",
-          "Parkeerde naast agenten",
-          "Reed weg van agenten"
+          "Antwerpen",
+          "Brussel",
+          "Amsterdam",
+          "Parijs"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is de rol van het parket in deze situatie?",
+        question: "Wat gebruikte de politie om de menigte uiteen te drijven?",
         options: [
-          "Straf de dader",
-          "Doet niets",
-          "Start een onderzoek",
-          "Arresteert de agenten"
+          "Waterkanon",
+          "Traangas",
+          "Knuppels",
+          "Een hek"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Wat is de huidige staat van de dader?",
+        question: "Waar was het protest tegen?",
         options: [
-          "Nog niet gevonden",
-          "Gearresteerd",
-          "Vrijgelaten",
-          "Overleden"
+          "De oorlog in Gaza",
+          "Belgisch beleid",
+          "Klimaatverandering",
+          "Hogere belastingen"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De auto reed in op de agenten tijdens de controle.",
+        statement: "De politie gebruikte een waterkanon tijdens het protest.",
         isTrue: true
       },
       {
-        statement: "Het parket heeft de dader gearresteerd.",
+        statement: "Het protest was tegen de Belgische regering.",
         isTrue: false
       },
       {
-        statement: "Het motief van de dader is nog onbekend.",
-        isTrue: true
+        statement: "Er werden geen betogers gearresteerd.",
+        isTrue: false
       }
     ]
   },
@@ -559,104 +559,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Inwoner van Kapellen vindt een handgranaat voor zijn deur: “Zo raar is dat toch niet, meneer?”",
+    title: "Ook in “de gevangenis van de toekomst” in Haren, die zou inzetten op individuele detentie, komen er nu stapelbedden",
     topicNumber: 1,
     article: {
-      title: "Inwoner van Kapellen vindt een handgranaat voor zijn deur: “Zo raar is dat toch niet, meneer?”",
-      summary: "In Borgerhout is zaterdagnacht een explosief ontploft voor de deur van een woning. Onbekenden hebben vannacht ook een handgranaat achtergelaten voor een woning in Kapellen. Er is voorlopig geen sprake van een link tussen de twee feiten."
+      title: "Ook in “de gevangenis van de toekomst” in Haren, die zou inzetten op individuele detentie, komen er nu stapelbedden",
+      summary: "De cipiersvakbonden hebben een stakingsaanzegging ingediend omdat nu ook in de gevangenis van Haren stapelbedden worden geplaatst. Nochtans is de gevangenis ontworpen rond het idee van “individuele detentie”."
     },
     vocabulary: {
       words: [
         {
-          word: "deur",
-          definition: "het deel van een huis waar je door naar binnen gaat",
-          sentence: "De ___ staat open, dus je kunt naar binnen.",
-          answer: "deur"
+          word: "stapelbedden",
+          definition: "meerdere bedden op elkaar gestapeld om ruimte te besparen",
+          sentence: "In kleine kamers worden soms ___ gebruikt om meer mensen te laten slapen.",
+          answer: "stapelbedden"
         },
         {
-          word: "tussen",
-          definition: "in het midden van twee dingen",
-          sentence: "De bal lag ___ de twee stoelen in.",
-          answer: "tussen"
+          word: "stakingsaanzegging",
+          definition: "een formele aankondiging dat er gestaakt zal worden",
+          sentence: "De vakbond heeft een ___ gedaan om hun eisen kracht bij te zetten.",
+          answer: "stakingsaanzegging"
         },
         {
-          word: "Inwoner",
-          definition: "iemand die in een plaats woont",
-          sentence: "De ___ van dit dorp zijn erg vriendelijk.",
-          answer: "inwoner"
+          word: "gevangenis",
+          definition: "een plaats waar mensen worden vastgehouden als straf",
+          sentence: "De ___ is een plek waar mensen niet vrijuit mogen gaan.",
+          answer: "gevangenis"
         },
         {
-          word: "niet",
-          definition: "het tegenovergestelde van wel",
-          sentence: "Ik heb mijn huiswerk nog ___ gemaakt, dus ik moet nu gaan werken.",
-          answer: "niet"
+          word: "ontworpen",
+          definition: "gepland of gemaakt met een bepaald doel",
+          sentence: "Het park was ___ om natuurlijk en rustgevend te zijn.",
+          answer: "ontworpen"
         },
         {
-          word: "vindt",
-          definition: "ontdekt of ziet iets",
-          sentence: "Hij ___ een euro op straat en was blij.",
-          answer: "vindt"
+          word: "individuele",
+          definition: "alleen, voor één persoon",
+          sentence: "Sommige mensen geven de voorkeur aan ___ activiteiten in plaats van teamsporten.",
+          answer: "individuele"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Ik heb mijn huiswerk nog ___ gemaakt, dus ik moet nu gaan werken.",
-          answer: "niet"
+          sentence: "Sommige mensen geven de voorkeur aan ___ activiteiten in plaats van teamsporten.",
+          answer: "individuele"
         },
         {
-          sentence: "De ___ van dit dorp zijn erg vriendelijk.",
-          answer: "inwoner"
+          sentence: "Het park was ___ om natuurlijk en rustgevend te zijn.",
+          answer: "ontworpen"
         },
         {
-          sentence: "De ___ staat open, dus je kunt naar binnen.",
-          answer: "deur"
+          sentence: "De ___ is een plek waar mensen niet vrijuit mogen gaan.",
+          answer: "gevangenis"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar werd de handgranaat gevonden?",
+        question: "Waar gaat de tekst hoofdzakelijk over?",
         options: [
-          "In een park",
-          "Voor een deur",
-          "In een auto",
-          "Op een dak"
+          "Over gevangenen die willen protesteren",
+          "Over personeel van een gevangenis die gaat staken",
+          "Over de opening van een nieuwe gevangenis",
+          "Over een vakantiepark in Haren"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is er gebeurd in Borgerhout?",
+        question: "Wat is de situatie in de gevangenis van Haren momenteel?",
         options: [
-          "Er was een feest",
-          "Er was een explosie",
-          "Er was een optocht",
-          "Er was niets bijzonders"
+          "Er zijn te weinig cellen",
+          "Er is een tekort aan bewakers",
+          "Er worden stapelbedden geplaatst",
+          "De gevangenis wordt gesloten"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Wat is er bekend over de link tussen de twee incidenten?",
+        question: "Wat is het hoofddoel van de tekst?",
         options: [
-          "Er is een duidelijk verband",
-          "Er is geen link gevonden",
-          "Er is maar één incident geweest",
-          "De politie weet het niet"
+          "Mensen waarschuwen over de gevangenis",
+          "Uitleggen waarom men stakt",
+          "Promoten van individuele detentie",
+          "Laten zien hoe goed de gevangenis is"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Er is een explosie geweest in Borgerhout.",
+        statement: "De gevangenis in Haren is ontworpen voor individuele detentie.",
         isTrue: true
       },
       {
-        statement: "De handgranaat in Kapellen is dezelfde als die in Borgerhout.",
+        statement: "De staking is veroorzaakt omdat er te veel gevangenen zijn.",
+        isTrue: true
+      },
+      {
+        statement: "Stapelbedden worden gebruikt om meer ruimte te creëren.",
         isTrue: false
-      },
-      {
-        statement: "Er is nog geen link gevonden tussen de twee incidenten.",
-        isTrue: true
       }
     ]
   },
@@ -665,104 +665,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Biden: Trump maakt het land kapot",
+    title: "Oorlog in Oekraïne",
     topicNumber: 1,
     article: {
-      title: "Biden: Trump maakt het land kapot",
-      summary: "Donald Trump was president van Amerika. Zijn tweede termijn bracht veranderingen over de hele wereld. Volg hier alle updates."
+      title: "Oorlog in Oekraïne",
+      summary: "Volg het nieuws over de oorlog in Oekraïne. Download de app DS Nieuws voor updates."
     },
     vocabulary: {
       words: [
         {
-          word: "verandering",
-          definition: "iets wat anders wordt",
-          sentence: "Er is een ___ in het beleid.",
-          answer: "verandering"
+          word: "download",
+          definition: "Iets van internet halen.",
+          sentence: "___ de app om nieuws te lezen.",
+          answer: "Download"
         },
         {
-          word: "Biden",
-          definition: "achternaam van de huidige president",
-          sentence: "___ is nu de president.",
-          answer: "Biden"
+          word: "nieuws",
+          definition: "Informatie over wat er gebeurt in de wereld.",
+          sentence: "Ik lees het ___ online.",
+          answer: "nieuws"
         },
         {
-          word: "termijn",
-          definition: "periode waarin iemand een functie heeft",
-          sentence: "Hij heeft een ___ van vier jaar.",
-          answer: "termijn"
+          word: "update",
+          definition: "Nieuwe informatie.",
+          sentence: "Krijg een ___ over het nieuws.",
+          answer: "update"
         },
         {
-          word: "wereld",
-          definition: "de aarde en alle mensen",
-          sentence: "De ___ is groot en er gebeurt veel.",
-          answer: "wereld"
+          word: "oorlog",
+          definition: "Een situatie waarin landen vechten.",
+          sentence: "Er is een ___ in Oekraïne.",
+          answer: "oorlog"
         },
         {
-          word: "president",
-          definition: "iemand die een land bestuurt",
-          sentence: "De ___ van Amerika is Biden.",
-          answer: "president"
+          word: "Oekraïne",
+          definition: "Een land in Europa.",
+          sentence: "Er is oorlog in ___.",
+          answer: "Oekraïne"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "___ is nu de president.",
-          answer: "Biden"
+          sentence: "Er is oorlog in ___.",
+          answer: "Oekraïne"
         },
         {
-          sentence: "Hij heeft een ___ van vier jaar.",
-          answer: "termijn"
+          sentence: "Er is een ___ in Oekraïne.",
+          answer: "oorlog"
         },
         {
-          sentence: "Er is een ___ in het beleid.",
-          answer: "verandering"
+          sentence: "Ik lees het ___ online.",
+          answer: "nieuws"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wie is de president van Amerika nu?",
+        question: "Waar is er oorlog?",
         options: [
-          "Biden",
-          "Trump",
-          "Obama",
-          "Putin"
+          "Oekraïne",
+          "Nederland",
+          "Duitsland",
+          "Frankrijk"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat betekent 'termijn' in deze context?",
+        question: "Wat kun je downloaden?",
         options: [
-          "een periode",
-          "een gebouw",
-          "een soort auto",
-          "een type voedsel"
+          "Een app",
+          "Een boek",
+          "Een fiets",
+          "Een huis"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat bracht Trump volgens de tekst?",
+        question: "Wat is een update?",
         options: [
-          "Veranderingen over de hele wereld",
-          "Vrede en geluk",
-          "Alleen problemen in Amerika",
-          "Niets, het is neutraal"
+          "Oud nieuws",
+          "Oude informatie",
+          "Geen nieuws",
+          "Nieuwe informatie"
         ],
-        correctAnswer: 1
+        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "Donald Trump was de president van Amerika.",
+        statement: "Er is oorlog in Oekraïne.",
         isTrue: true
       },
       {
-        statement: "Biden is momenteel de president van Amerika.",
-        isTrue: true
-      },
-      {
-        statement: "Trump bracht alleen verandering in Amerika.",
+        statement: "Je kunt een auto downloaden.",
         isTrue: false
+      },
+      {
+        statement: "Een app geeft je nieuws.",
+        isTrue: true
       }
     ]
   },
@@ -771,103 +771,91 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
+    title: "Israël en Libanon",
     topicNumber: 1,
     article: {
-      title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
-      summary: "In Libanon zijn mensen dood of gewond na Israëlische aanvallen."
+      title: "Israël en Libanon",
+      summary: "Er gebeuren dingen tussen Israël en Libanon."
     },
     vocabulary: {
       words: [
         {
+          word: "Israël",
+          definition: "een land",
+          sentence: "___ ligt in het Midden-Oosten.",
+          answer: "Israël"
+        },
+        {
           word: "Libanon",
-          definition: "een land in het Midden-Oosten",
-          sentence: "___ is een land in het Midden-Oosten.",
+          definition: "een ander land",
+          sentence: "___ is een buurland van Israël.",
           answer: "Libanon"
         },
         {
-          word: "mensen",
-          definition: "personen, mannen, vrouwen en kinderen",
-          sentence: "Vele ___ zijn omgekomen in de aanvallen.",
-          answer: "mensen"
-        },
-        {
-          word: "aanvallen",
-          definition: "als iemand of iets met geweld wordt aangevallen",
-          sentence: "De ___ waren erg heftig in Libanon.",
-          answer: "aanvallen"
-        },
-        {
-          word: "Israëlische",
-          definition: "van of gerelateerd aan Israël",
-          sentence: "De ___ regering is verantwoordelijk voor de aanvallen.",
-          answer: "Israëlische"
-        },
-        {
-          word: "doden",
-          definition: "mensen die niet meer leven",
-          sentence: "Bij de aanvallen zijn er veel ___.",
-          answer: "doden"
+          word: "gebeuren",
+          definition: "iets wat plaatsvindt",
+          sentence: "Wat ___ er in het nieuws?",
+          answer: "gebeuren"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ regering is verantwoordelijk voor de aanvallen.",
-          answer: "Israëlische"
+          sentence: "Wat ___ er in het nieuws?",
+          answer: "gebeuren"
         },
         {
-          sentence: "De ___ waren erg heftig in Libanon.",
-          answer: "aanvallen"
-        },
-        {
-          sentence: "___ is een land in het Midden-Oosten.",
+          sentence: "___ is een buurland van Israël.",
           answer: "Libanon"
+        },
+        {
+          sentence: "___ ligt in het Midden-Oosten.",
+          answer: "Israël"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar vinden de aanvallen plaats?",
+        question: "Waar ligt Israël?",
         options: [
-          "In Nederland",
-          "In Israël",
-          "In Libanon",
-          "In Amerika"
+          "In Azië",
+          "In Europa",
+          "In Afrika",
+          "In het Midden-Oosten"
         ],
-        correctAnswer: 3
+        correctAnswer: 4
       },
       {
-        question: "Wat is het resultaat van de aanvallen?",
+        question: "Wat is een aanval?",
         options: [
-          "Er is niets gebeurd",
-          "Er is veel schade",
-          "Iedereen is veilig",
-          "Er is feest"
+          "Een soort dier",
+          "Een soort plant",
+          "Een soort weer",
+          "Een soort geweld"
         ],
-        correctAnswer: 2
+        correctAnswer: 4
       },
       {
-        question: "Wie is verantwoordelijk voor de aanvallen?",
+        question: "Wat is het Midden-Oosten?",
         options: [
-          "Nederland",
-          "Libanon",
-          "Israël",
-          "De Verenigde Naties"
+          "Een continent",
+          "Een stad",
+          "Een gebied",
+          "Een rivier"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De aanvallen vonden plaats in Nederland.",
-        isTrue: false
-      },
-      {
-        statement: "Er waren doden en gewonden na de aanvallen.",
+        statement: "Israël ligt in het Midden-Oosten.",
         isTrue: true
       },
       {
-        statement: "Israël is verantwoordelijk voor de aanvallen.",
+        statement: "Libanon is een stad.",
+        isTrue: false
+      },
+      {
+        statement: "Een aanval kan dodelijk zijn.",
         isTrue: true
       }
     ]
@@ -877,104 +865,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
+    title: "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
     topicNumber: 1,
     article: {
-      title: "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
-      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+      title: "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "Rutte",
-          definition: "De achternaam van de Nederlandse premier.",
-          sentence: "___ is een bekende Nederlander.",
-          answer: "Rutte"
+          word: "tijdens",
+          definition: "in de tijd van, gedurende",
+          sentence: "We ontmoeten elkaar ___ de vergadering.",
+          answer: "tijdens"
         },
         {
-          word: "Mark",
-          definition: "Een Nederlandse voornaam.",
-          sentence: "___ Rutte is een bekende politicus.",
-          answer: "Mark"
+          word: "sancties",
+          definition: "straffen of beperkingen die een land oplegt",
+          sentence: "De regering kondigt nieuwe ___ aan.",
+          answer: "sancties"
         },
         {
-          word: "Oekraïne",
-          definition: "Een land in Europa.",
-          sentence: "___ is een groot land.",
-          answer: "Oekraïne"
+          word: "VS",
+          definition: "een land, Verenigde Staten",
+          sentence: "De ___ en andere landen werken samen.",
+          answer: "VS"
         },
         {
-          word: "oorlog",
-          definition: "Een tijd waarin landen vechten.",
-          sentence: "De ___ duurde vier jaar.",
-          answer: "oorlog"
+          word: "heffen",
+          definition: "iets niet meer gebruiken, stoppen met iets",
+          sentence: "De regering besluit om de sancties te ___.",
+          answer: "heffen"
         },
         {
-          word: "waarschuwt",
-          definition: "Iemand waarschuwen betekent zeggen dat er gevaar is.",
-          sentence: "Hij ___ haar voor het onweer.",
-          answer: "waarschuwt"
+          word: "op",
+          definition: "beginnen, starten",
+          sentence: "De vergadering gaat zo ___.",
+          answer: "op"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ duurde vier jaar.",
-          answer: "oorlog"
+          sentence: "De ___ en andere landen werken samen.",
+          answer: "VS"
         },
         {
-          sentence: "___ is een bekende Nederlander.",
-          answer: "Rutte"
+          sentence: "De regering kondigt nieuwe ___ aan.",
+          answer: "sancties"
         },
         {
-          sentence: "Hij ___ haar voor het onweer.",
-          answer: "waarschuwt"
+          sentence: "De vergadering gaat zo ___.",
+          answer: "op"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat het artikel over?",
+        question: "Wat betekent 'heffen' in deze context?",
         options: [
-          "Over vakantie",
-          "Over vrede",
-          "Over een waarschuwing",
-          "Over een verjaardag"
+          "ophouden met",
+          "beginnen met",
+          "steunen",
+          "vergeten"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Wie is Mark Rutte?",
+        question: "Waar is Syrië gelegen?",
         options: [
-          "Een bakker",
-          "Een leraar",
-          "De baas van Nederland",
-          "Een schrijver"
+          "Europa",
+          "Azië",
+          "Afrika",
+          "Zuid-Amerika"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Waar is Oekraïne?",
+        question: "Wat is een 'ontmoeting'?",
         options: [
-          "In Azië",
-          "In Afrika",
-          "In Europa",
-          "In Zuid-Amerika"
+          "een soort sport",
+          "een feest",
+          "een belangrijke bijeenkomst",
+          "een soort voedsel"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Mark Rutte is de baas van Nederland.",
-        isTrue: true
-      },
-      {
-        statement: "Poetin is de baas van Oekraïne.",
+        statement: "VS is een land in Europa.",
         isTrue: false
       },
       {
-        statement: "Een nucleaire oorlog kan nooit gewonnen worden.",
+        statement: "Sancties zijn straffen die een land oplegt.",
         isTrue: true
+      },
+      {
+        statement: "Syrië ligt in Zuid-Amerika.",
+        isTrue: false
       }
     ]
   },
@@ -1089,103 +1077,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Auto rijdt in op agenten in Schaarbeek: “Geweld tegen politiemensen is onaanvaardbaar”",
+    title: "Politie gebruikt waterkanon bij protest in Antwerpen",
     topicNumber: 1,
     article: {
-      title: "Auto rijdt in op agenten in Schaarbeek: “Geweld tegen politiemensen is onaanvaardbaar”",
-      summary: "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
+      title: "Politie gebruikt waterkanon bij protest in Antwerpen",
+      summary: "De politie gebruikte een waterkanon tijdens een protest in Antwerpen. Mensen demonstreerden voor Palestina. De politie heeft enkele demonstranten opgepakt."
     },
     vocabulary: {
       words: [
         {
-          word: "dader",
-          definition: "iemand die iets slechts doet",
-          sentence: "De ___ is nog niet gevonden.",
-          answer: "dader"
+          word: "Antwerpen",
+          definition: "Een stad in België",
+          sentence: "Het protest was in ___.",
+          answer: "Antwerpen"
         },
         {
-          word: "poging",
-          definition: "een poging om iets te doen",
-          sentence: "Hij deed een ___ tot moord.",
-          answer: "poging"
+          word: "gebruikte",
+          definition: "Heeft gebruikt, het verleden van gebruiken",
+          sentence: "De politie ___ een waterkanon.",
+          answer: "gebruikte"
         },
         {
-          word: "agenten",
-          definition: "mensen die de wet handhaven",
-          sentence: "De ___ werken voor de politie.",
-          answer: "agenten"
+          word: "protest",
+          definition: "Een actie om onvrede te uiten",
+          sentence: "Het ___ was vreedzaam.",
+          answer: "protest"
         },
         {
-          word: "controleren",
-          definition: "nakijken of iets klopt",
-          sentence: "De politie wil een voertuig ___.",
-          answer: "controleren"
+          word: "waterkanon",
+          definition: "Een apparaat dat water spuit",
+          sentence: "Een ___ spuit water om mensen te verjagen.",
+          answer: "waterkanon"
         },
         {
-          word: "auto",
-          definition: "een voertuig voor transport",
-          sentence: "De ___ rijdt op de weg.",
-          answer: "auto"
+          word: "demonstreerden",
+          definition: "Zij lieten hun mening zien in het openbaar",
+          sentence: "De groep ___ voor hun rechten.",
+          answer: "demonstreerden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De politie wil een voertuig ___.",
-          answer: "controleren"
+          sentence: "Het ___ was vreedzaam.",
+          answer: "protest"
         },
         {
-          sentence: "De ___ werken voor de politie.",
-          answer: "agenten"
+          sentence: "Een ___ spuit water om mensen te verjagen.",
+          answer: "waterkanon"
         },
         {
-          sentence: "Hij deed een ___ tot moord.",
-          answer: "poging"
+          sentence: "Het protest was in ___.",
+          answer: "Antwerpen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom controleerde de politie het voertuig?",
+        question: "Waar was het protest?",
         options: [
-          "Om de auto te stelen",
-          "Om de bestuurder te arresteren",
-          "Omdat het verkeerd geparkeerd was",
-          "Om een vermist persoon te vinden"
+          "Amsterdam",
+          "Antwerpen",
+          "Brussel",
+          "Parijs"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de rol van het parket in deze situatie?",
+        question: "Wat gebruikte de politie?",
         options: [
-          "Het parket bouwt huizen",
-          "Het parket heeft een onderzoek geopend",
-          "Het parket verkoopt auto's",
-          "Het parket is een restaurant"
+          "Een auto",
+          "Een waterkanon",
+          "Een vlag",
+          "Een camera"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de toestand van de dader?",
+        question: "Wat deden sommige demonstranten?",
         options: [
-          "De dader is gearresteerd",
-          "De dager is onbekend",
-          "De dager is op vakantie",
-          "De dader is een politieagent"
+          "Ze gingen naar huis",
+          "Ze werden opgepakt",
+          "Ze gingen dansen",
+          "Ze gingen sporten"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De auto is de dader in dit incident.",
+        statement: "Het protest was in Antwerpen.",
         isTrue: true
       },
       {
-        statement: "De agenten waren aan het rijden tijdens het incident.",
-        isTrue: false
+        statement: "De politie gebruikte een waterkanon.",
+        isTrue: true
       },
       {
-        statement: "Het motief van de dader is al bekend.",
+        statement: "Alle demonstraten werden opgepakt.",
         isTrue: false
       }
     ]
@@ -1195,104 +1183,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Man vindt handgranaat voor zijn deur",
+    title: "Ook in Haren zijn stapelbedden",
     topicNumber: 1,
     article: {
-      title: "Man vindt handgranaat voor zijn deur",
-      summary: "Iemand vindt een handgranaat bij zijn huis. Dit is gevaarlijk. De politie onderzoekt de zaak."
+      title: "Ook in Haren zijn stapelbedden",
+      summary: "In de gevangenis in Haren komen stapelbedden. De cipiers gaan staken. In Haren is de gevangenis anders. Mensen slapen daar apart."
     },
     vocabulary: {
       words: [
         {
-          word: "politie",
-          definition: "mensen die de wet handhaven",
-          sentence: "De ___ kwam naar het huis.",
-          answer: "politie"
+          word: "Haren",
+          definition: "een plaatsnaam, hier: de stad Haren",
+          sentence: "In ___ is een gevangenis.",
+          answer: "Haren"
         },
         {
-          word: "gevaarlijk",
-          definition: "niet veilig, kan pijn doen",
-          sentence: "Vuur is ___ voor kinderen.",
-          answer: "gevaarlijk"
+          word: "gevangenis",
+          definition: "een plek waar mensen die de wet hebben gebroken, naartoe gaan",
+          sentence: "De ___ is een gebouw.",
+          answer: "gevangenis"
         },
         {
-          word: "handgranaat",
-          definition: "een gevaarlijk wapen",
-          sentence: "De politie vond een ___ in de tuin.",
-          answer: "handgranaat"
+          word: "Haren",
+          definition: "een plaatsnaam, hier: de stad Haren",
+          sentence: "In ___ is een gevangenis.",
+          answer: "Haren"
         },
         {
-          word: "is",
-          definition: "zijn, het werkwoord",
-          sentence: "Hij ___ een student.",
-          answer: "is"
+          word: "stapelbedden",
+          definition: "meerdere bedden op elkaar",
+          sentence: "In de gevangenis staan ___.",
+          answer: "stapelbedden"
         },
         {
-          word: "zaak",
-          definition: "een situatie of geval",
-          sentence: "De ___ is nog niet opgelost.",
-          answer: "zaak"
+          word: "gevangenis",
+          definition: "een plek waar mensen die de wet hebben gebroken, naartoe gaan",
+          sentence: "De ___ is een gebouw.",
+          answer: "gevangenis"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Vuur is ___ voor kinderen.",
-          answer: "gevaarlijk"
+          sentence: "De ___ is een gebouw.",
+          answer: "gevangenis"
         },
         {
-          sentence: "De ___ kwam naar het huis.",
-          answer: "politie"
+          sentence: "De ___ is een gebouw.",
+          answer: "gevangenis"
         },
         {
-          sentence: "Hij ___ een student.",
-          answer: "is"
+          sentence: "In ___ is een gevangenis.",
+          answer: "Haren"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar vond de man de handgranaat?",
+        question: "Waarom gaan de cipiers staken?",
         options: [
-          "In zijn huis",
-          "In zijn auto",
-          "Voor zijn deur",
-          "In de supermarkt"
+          "Omdat er stapelbedden zijn",
+          "Omdat het te warm is",
+          "Omdat ze meer geld willen",
+          "Omdat ze willen feesten"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Wat doet de politie?",
+        question: "Wat is er in Haren?",
         options: [
-          "Ze negeert het",
-          "Ze onderzoekt de zaak",
-          "Ze gaat naar huis",
-          "Ze belt de man"
+          "Een gevangenis",
+          "Een school",
+          "Een park",
+          "Een restaurant"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Is de handgranaat gevaarlijk?",
+        question: "Wat is een stapelbed?",
         options: [
-          "Nee, het is veilig",
-          "Ja, het is gevaarlijk",
-          "Het is een pen",
-          "Het is een huis"
+          "Meerdere bedden op elkaar",
+          "Een groot bed",
+          "Een bed voor kinderen",
+          "Een bed voor dieren"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De man vindt de handgranaat in zijn huis.",
-        isTrue: false
-      },
-      {
-        statement: "De politie onderzoekt de zaak.",
+        statement: "In Haren is er een gevangenis.",
         isTrue: true
       },
       {
-        statement: "De handgranaat is een veilig speelgoed.",
+        statement: "Cipiers werken in een school.",
         isTrue: false
+      },
+      {
+        statement: "Stapelbedden zijn bedden die op elkaar staan.",
+        isTrue: true
       }
     ]
   },
@@ -1301,103 +1289,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Biden: 'Trump maakt niet alleen het Witte Huis kapot, maar ook het land'",
+    title: "Oekraïne",
     topicNumber: 1,
     article: {
-      title: "Biden: 'Trump maakt niet alleen het Witte Huis kapot, maar ook het land'",
-      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+      title: "Vertrouweling Zelensky verwikkeld in corruptieonderzoek",
+      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
     },
     vocabulary: {
       words: [
         {
-          word: "Witte",
-          definition: "een kleur, vaak gebruikt in namen",
-          sentence: "Het Witte Huis is de officiële residentie van de president.",
-          answer: "Witte"
+          word: "ontwikkelingen",
+          definition: "Veranderingen of nieuwe gebeurtenissen in een situatie of proces.",
+          sentence: "De recente ___ in de oorlog tonen een escalatie aan het front.",
+          answer: "ontwikkelingen"
         },
         {
-          word: "alleen",
-          definition: "slechts, exclusief, zonder anderen",
-          sentence: "Hij was de enige die het wist; alleen hij had toegang.",
-          answer: "alleen"
+          word: "melding",
+          definition: "Een bericht of signaal dat iemand informeert over iets belangrijks.",
+          sentence: "Krijg een ___ wanneer er belangrijk nieuws is.",
+          answer: "melding"
         },
         {
-          word: "maakt",
-          definition: "veroorzaakt, leidt tot",
-          sentence: "Deze situatie maakt veel problemen.",
-          answer: "maakt"
+          word: "Oekraïne",
+          definition: "Een land in Oost-Europa, momenteel betrokken bij een conflict.",
+          sentence: "___ heeft internationale steun gekregen voor zijn verdediging.",
+          answer: "Oekraïne"
         },
         {
-          word: "Huis",
-          definition: "een gebouw voor bewoning, of een specifiek gebouw (zoals het Witte Huis)",
-          sentence: "Hun nieuwe huis is erg groot en modern.",
-          answer: "Huis"
+          word: "app",
+          definition: "Een applicatie op een smartphone of computer, vaak voor informatie of entertainment.",
+          sentence: "Download de ___ om op de hoogte te blijven van het laatste nieuws.",
+          answer: "app"
         },
         {
-          word: "kapot",
-          definition: "beschadigd, niet meer functionerend",
-          sentence: "De machine is helemaal kapot na het ongeluk.",
-          answer: "kapot"
+          word: "Vertrouweling",
+          definition: "Een persoon die in vertrouwen wordt genomen of die zeer vertrouwd is met iemand.",
+          sentence: "De president beschouwt hem als een ___ die altijd discreet handelt.",
+          answer: "Vertrouweling"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het Witte Huis is de officiële residentie van de president.",
-          answer: "Witte"
+          sentence: "___ heeft internationale steun gekregen voor zijn verdediging.",
+          answer: "Oekraïne"
         },
         {
-          sentence: "Deze situatie maakt veel problemen.",
-          answer: "maakt"
+          sentence: "De recente ___ in de oorlog tonen een escalatie aan het front.",
+          answer: "ontwikkelingen"
         },
         {
-          sentence: "Hun nieuwe huis is erg groot en modern.",
-          answer: "Huis"
+          sentence: "De president beschouwt hem als een ___ die altijd discreet handelt.",
+          answer: "Vertrouweling"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'amptel' in de context van de tekst?",
+        question: "Waarover gaat het corruptieonderzoek waar Zelensky's vertrouweling bij betrokken is?",
         options: [
-          "Een soort gerecht",
-          "Een ceremonie",
-          "Een ambtstermijn",
-          "Een feestelijke gebeurtenis"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat impliceert de uitspraak over het Witte Huis?",
-        options: [
-          "Het is fysiek beschadigd.",
-          "Het is een metafoor voor de regering.",
-          "Het is verplaatst naar een andere stad.",
-          "Het is een nieuw gebouw."
+          "Het gaat over mogelijke fraude in de verkiezingen",
+          "Het betreft vermeende omkoping van hoge overheidsfunctionarissen",
+          "Het is een onderzoek naar witwaspraktijken via een stichting",
+          "Het richt zich op fraude bij defensiecontracten"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de kern van de uitspraak van Biden?",
+        question: "Hoe reageert de Oekraïense regering op de beschuldigingen?",
         options: [
-          "Hij prees Trump voor zijn werk.",
-          "Hij bekritiseert Trump's effect op de VS.",
-          "Hij kondigt een nieuw plan aan.",
-          "Hij beschrijft een historische gebeurtenis."
+          "Ze ontkennen alles volledig",
+          "Er wordt een onafhankelijke commissie opgericht",
+          "Ze eisen bewijzen van de aanklagers",
+          "Ze stellen een onderzoek in en benadrukken transparantie"
+        ],
+        correctAnswer: 4
+      },
+      {
+        question: "Wat is een gevolg van de ontwikkelingen in de oorlog voor Oekraïne?",
+        options: [
+          "De economie groeit exponentieel",
+          "Internationale steun neemt toe, ook al zijn er uitdagingen",
+          "Alle steden zijn volledig verwoest",
+          "De regering trekt zich volledig terug"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Donald Trump is de huidige president van de Verenigde Staten.",
+        statement: "Zelensky's vertrouweling werd direct gearresteerd na de onthullingen.",
         isTrue: false
       },
       {
-        statement: "De tekst betreft een kritische uitspraak over Trumps presidentschap.",
+        statement: "Het corruptieonderzoek leidde tot een tijdelijke bevriezing van sommige buitenlandse fondsen.",
         isTrue: true
       },
       {
-        statement: "Het Witte Huis is letterlijk vernietigd in de context.",
+        statement: "De Oekraïense regering ontkent alle aantijgingen en weigert samen te werken met internationale organisaties.",
         isTrue: false
       }
     ]
@@ -1407,103 +1395,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
+    title: "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
     topicNumber: 1,
     article: {
-      title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
+      title: "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
       summary: "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
     },
     vocabulary: {
       words: [
         {
-          word: "aanvallen",
-          definition: "militaire acties of offensieven",
-          sentence: "De recente ___ hebben de spanningen doen toenemen.",
-          answer: "aanvallen"
-        },
-        {
-          word: "Israëlische",
-          definition: "betrekking hebbend op Israël",
-          sentence: "De ___ aanvallen troffen doelen in Libanon.",
-          answer: "Israëlische"
-        },
-        {
           word: "Midden-Oosten",
-          definition: "een regio die onder meer Israël en Libanon omvat",
-          sentence: "Het ___ is opnieuw het toneel van geweld.",
+          definition: "Een regio die onder andere Israël, Libanon en Syrië omvat.",
+          sentence: "De crisis in het ___ trekt wereldwijd aandacht.",
           answer: "Midden-Oosten"
         },
         {
-          word: "gewonden",
-          definition: "personen die gewond zijn geraakt",
-          sentence: "De doden en ___ worden geëvacueerd.",
-          answer: "gewonden"
+          word: "Israëlisch",
+          definition: "Betrekking hebbend op Israël, het land in het Midden-Oosten.",
+          sentence: "Het ___ leger voerde aanvallen uit op Libanon.",
+          answer: "Israëlisch"
         },
         {
-          word: "Libanon",
-          definition: "een land in het Midden-Oosten",
-          sentence: "___ is een van de landen die betrokken is bij dit conflict.",
-          answer: "Libanon"
+          word: "dodelijk",
+          definition: "Met als gevolg dat er iemand overlijdt, dodelijk.",
+          sentence: "De aanvallen hadden een ___ effect.",
+          answer: "dodelijk"
+        },
+        {
+          word: "aanvallen",
+          definition: "Offensieve acties, vaak militair, gericht tegen een doel.",
+          sentence: "De ___ waren gericht op doelen in Libanon.",
+          answer: "aanvallen"
+        },
+        {
+          word: "leger",
+          definition: "Een georganiseerde groep gewapende personen die een land verdedigt of aanvallen uitvoert.",
+          sentence: "Het Israëlische ___ voerde de aanvallen uit.",
+          answer: "leger"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ aanvallen troffen doelen in Libanon.",
-          answer: "Israëlische"
+          sentence: "Het Israëlische ___ voerde de aanvallen uit.",
+          answer: "leger"
         },
         {
-          sentence: "Het ___ is opnieuw het toneel van geweld.",
+          sentence: "De crisis in het ___ trekt wereldwijd aandacht.",
           answer: "Midden-Oosten"
         },
         {
-          sentence: "De recente ___ hebben de spanningen doen toenemen.",
-          answer: "aanvallen"
+          sentence: "Het ___ leger voerde aanvallen uit op Libanon.",
+          answer: "Israëlisch"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is een synoniem voor 'gewonden' in deze context?",
+        question: "Wat is de hoofdstad van Libanon?",
         options: [
-          "Gezonde personen",
-          "Gewonde personen",
-          "Buitenlandse burgers",
-          "Gelukkige mensen"
+          "Jeruzalem",
+          "Beiroet",
+          "Amman",
+          "Damascus"
         ],
         correctAnswer: 2
       },
       {
-        question: "Welk land wordt genoemd als locatie van de aanvallen?",
+        question: "Welk land voerde de aanvallen uit?",
         options: [
-          "Duitsland",
           "Libanon",
-          "Nederland",
-          "Zwitserland"
+          "Israël",
+          "Syrië",
+          "Iran"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat betekent het om ontwikkelingen te 'volgen'?",
+        question: "Wat betekent 'dodelijk' in deze context?",
         options: [
-          "Negeren",
-          "Observeren en bijhouden",
-          "Vermijden",
-          "Ondersteunen"
+          "Leidend tot doden",
+          "Onbedoeld",
+          "Onschadelijk",
+          "Onbeduidend"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De aanvallen vonden plaats in het Midden-Oosten.",
+        statement: "Israël voerde de aanvallen uit op Libanon.",
         isTrue: true
       },
       {
-        statement: "Nederland is het land waar de aanvallen plaatsvonden.",
+        statement: "De aanvallen hadden geen dodelijke gevolgen.",
         isTrue: false
       },
       {
-        statement: "Het artikel beschrijft de laatste ontwikkelingen in de regio.",
+        statement: "De situatie in het Midden-Oosten wordt nauwlettend gevolgd.",
         isTrue: true
       }
     ]
@@ -1513,104 +1501,98 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
+    title: "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Shariyad",
     topicNumber: 1,
     article: {
-      title: "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
-      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+      title: "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Shariyad",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "Oekraïne",
-          definition: "Een land in Oost-Europa, momenteel betrokken bij een conflict.",
-          sentence: "___ vecht voor zijn soevereiniteit.",
-          answer: "Oekraïne"
+          word: "sancties",
+          definition: "maatregelen die een land neemt tegen een ander land, vaak om politieke redenen",
+          sentence: "De Verenigde Staten hebben nieuwe ___ tegen Rusland aangekondigd.",
+          answer: "sancties"
         },
         {
-          word: "baas",
-          definition: "Iemand die de leiding heeft over een organisatie of groep.",
-          sentence: "De ___ van het bedrijf heeft veel ervaring.",
-          answer: "baas"
+          word: "Syrië",
+          definition: "een land in het Midden-Oosten, officieel de Syrische Arabische Republiek",
+          sentence: "___ is een land dat al jaren te maken heeft met conflicten.",
+          answer: "Syrië"
         },
         {
-          word: "waarschuwt",
-          definition: "Iemand waarschuwen betekent die persoon informeren over een mogelijk gevaar.",
-          sentence: "Hij ___ zijn collega voor het te laat is.",
-          answer: "waarschuwt"
+          word: "Trump",
+          definition: "de familienaam van de voormalige president van de Verenigde Staten",
+          sentence: "___ was de 45e president van de Verenigde Staten.",
+          answer: "Trump"
         },
         {
-          word: "ontwikkelingen",
-          definition: "Veranderingen of vooruitgangen in een situatie.",
-          sentence: "De recente ___ in de technologie zijn verbazingwekkend.",
-          answer: "ontwikkelingen"
-        },
-        {
-          word: "oorlog",
-          definition: "Een gewapend conflict tussen landen of groepen.",
-          sentence: "De ___ heeft veel levens geëist.",
-          answer: "oorlog"
+          word: "updates",
+          definition: "bijgewerkte informatie of nieuwsberichten",
+          sentence: "Volg de ___ op onze website voor het laatste nieuws.",
+          answer: "updates"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ van het bedrijf heeft veel ervaring.",
-          answer: "baas"
+          sentence: "Volg de ___ op onze website voor het laatste nieuws.",
+          answer: "updates"
         },
         {
-          sentence: "De ___ heeft veel levens geëist.",
-          answer: "oorlog"
+          sentence: "De Verenigde Staten hebben nieuwe ___ tegen Rusland aangekondigd.",
+          answer: "sancties"
         },
         {
-          sentence: "___ vecht voor zijn soevereiniteit.",
-          answer: "Oekraïne"
+          sentence: "___ is een land dat al jaren te maken heeft met conflicten.",
+          answer: "Syrië"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent “Navo” in deze context?",
+        question: "Waarom heft de VS sancties tegen Syrië op?",
         options: [
-          "Een soort auto",
-          "Een militaire alliantie",
-          "Een natuurpark",
-          "Een type voedsel"
+          "Om economische steun te bieden",
+          "Als onderdeel van een vredesakkoord",
+          "Vanwege een natuurlijke ramp in Syrië",
+          "Omdat de sancties niet langer nodig zijn"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Wat is een mogelijk gevolg van het opheffen van sancties?",
+        options: [
+          "Toenemende internationale spanningen",
+          "Verbeterde economische samenwerking",
+          "Verdere isolatie van het land",
+          "Geen enkel effect, het is symbolisch"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waarom waarschuwt Mark Rutte Poetin?",
+        question: "Hoe reageerde de internationale gemeenschap op deze stap?",
         options: [
-          "Om hem uit te nodigen voor een feest",
-          "Omdat Rutte bang is voor een nucleaire ramp",
-          "Omdat Poetin een cadeau wil",
-          "Omdat Rutte een grap maakt"
+          "Met scepsis, het is te vroeg voor optimisme",
+          "Met volledige steun, iedereen is het erover eens",
+          "Met verwarring, het is onduidelijk waarom het gebeurt",
+          "Met onverschilligheid, het maakt weinig uit"
         ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is een kern van de boodschap in de titel?",
-        options: [
-          "Nucleaire oorlog is makkelijk te winnen",
-          "Niemand kan een nucleaire oorlog winnen",
-          "Alleen Rusland kan een nucleaire oorlog winnen",
-          "Oorlog is altijd geweldig"
-        ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Mark Rutte is de baas van de Navo.",
+        statement: "De sancties tegen Syrië werden opgeheven als onderdeel van een breder vredesakkoord.",
         isTrue: true
       },
       {
-        statement: "Poetin wordt gewaarschuwd omdat hij een nucleaire oorlog wil starten.",
-        isTrue: true
-      },
-      {
-        statement: "Oekraïne heeft de oorlog gewonnen.",
+        statement: "Deze actie betekent dat Syrië nu volledig zelfvoorzienend is zonder internationale hulp.",
         isTrue: false
+      },
+      {
+        statement: "President Trump noemde de opheffing een 'humanitaire stap'.",
+        isTrue: true
       }
     ]
   },
@@ -1619,103 +1601,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
+    title: "Net hierdoor voel ik mij als brave burger radicaliseren: pro-Palestijns protest in Antwerpen opnieuw weggespoeld met waterkanon",
     topicNumber: 1,
     article: {
-      title: "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
-      summary: "Zaterdag zaten vijftien overlevers van misbruik samen met paus Leo XIV. Over dat gesprek zijn de zes mensen die De Standaard nadien kon spreken voorzichtig positief. Al zijn er geen concrete afspraken gemaakt over wat er in praktijk gaat veranderen. 'Als de paus het antwoord niet wist, zei hij dat ook eerlijk.'"
+      title: "Net hierdoor voel ik mij als brave burger radicaliseren: pro-Palestijns protest in Antwerpen opnieuw weggespoeld met waterkanon",
+      summary: "Voor de tweede week op rij is pro-Palestijns protest in Antwerpen uitgedraaid op een confrontatie tussen betogers en de oproerpolitie. Zeven manifestanten werden bestuurlijk aangehouden. “Tot voor kort verliep alles nochtans heel gemoedelijk.”"
     },
     vocabulary: {
       words: [
         {
-          word: "positief",
-          definition: "Optimistisch of gunstig; iets dat als goed wordt ervaren.",
-          sentence: "Zijn reactie was verrassend positief na het nieuws.",
-          answer: "positief"
+          word: "oproerpolitie",
+          definition: "Politie-eenheid die gespecialiseerd is in het beheersen van onrust en rellen",
+          sentence: "De ___ trad hardhandig op tegen de demonstranten.",
+          answer: "oproerpolitie"
         },
         {
-          word: "misbruik",
-          definition: "Het op een ongepaste of schadelijke manier gebruiken van iets of iemand.",
-          sentence: "Het misbruik van vertrouwen leidde tot diepe wonden.",
-          answer: "misbruik"
+          word: "confrontatie",
+          definition: "Een conflict of botsing tussen twee of meer partijen",
+          sentence: "De ___ tussen de twee groepen leidde tot geweld.",
+          answer: "confrontatie"
         },
         {
-          word: "paus",
-          definition: "Het hoofd van de Rooms-Katholieke Kerk, de hoogste religieuze leider.",
-          sentence: "De paus sprak de menigte toe met wijze woorden.",
-          answer: "paus"
+          word: "gemoedelijk",
+          definition: "Vriendelijk en zonder spanning of conflict",
+          sentence: "De sfeer was erg ___ ondanks de meningsverschillen.",
+          answer: "gemoedelijk"
         },
         {
-          word: "slachtoffers",
-          definition: "Personen die nadeel of leed ondervinden, vaak door toedoen van anderen.",
-          sentence: "De slachtoffers van het misbruik kregen eindelijk erkenning.",
-          answer: "slachtoffers"
+          word: "aangehouden",
+          definition: "Gearresteerd of vastgehouden door de politie",
+          sentence: "Hij werd ___ voor verdere ondervraging.",
+          answer: "aangehouden"
         },
         {
-          word: "gesprek",
-          definition: "Een gesprek of discussie tussen twee of meer personen.",
-          sentence: "Het gesprek tussen hen verliep moeizaam maar respectvol.",
-          answer: "gesprek"
+          word: "betogers",
+          definition: "Mensen die deelnemen aan een protestactie of betoging",
+          sentence: "De ___ hielden spandoeken vast tijdens de mars.",
+          answer: "betogers"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De slachtoffers van het misbruik kregen eindelijk erkenning.",
-          answer: "slachtoffers"
+          sentence: "De ___ tussen de twee groepen leidde tot geweld.",
+          answer: "confrontatie"
         },
         {
-          sentence: "Het gesprek tussen hen verliep moeizaam maar respectvol.",
-          answer: "gesprek"
+          sentence: "Hij werd ___ voor verdere ondervraging.",
+          answer: "aangehouden"
         },
         {
-          sentence: "Het misbruik van vertrouwen leidde tot diepe wonden.",
-          answer: "misbruik"
+          sentence: "De sfeer was erg ___ ondanks de meningsverschillen.",
+          answer: "gemoedelijk"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat was de houding van de overlevers na het gesprek met de paus?",
+        question: "Wat is de hoofdreden voor de confrontatie tussen de betogers en de politie in Antwerpen?",
         options: [
-          "Extreem negatief",
-          "Uiterst positief",
-          "Voorzichtig optimistisch",
-          "Openlijk vijandig"
+          "Een meningsverschil over sport",
+          "Een ruzie over een persoonlijke kwestie",
+          "De aanwezigheid van de oproerpolitie bij de protesten",
+          "Een misverstand over de locatie"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat was het resultaat van de ontmoeting volgens de tekst?",
+        question: "Hoe werden de manifestanten behandeld door de autoriteiten?",
         options: [
-          "Vele concrete afspraken werden gemaakt",
-          "Er werden geen concrete afspraken gemaakt",
-          "De paus bood zijn excuses aan",
-          "Het gesprek werd afgebroken"
+          "Ze werden allemaal direct vrijgelaten zonder voorwaarden.",
+          "Ze werden overgebracht naar een feestelijke bijeenkomst.",
+          "Ze werden bestuurlijk aangehouden voor verder onderzoek.",
+          "Ze werden beloond voor hun moed."
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Hoe wordt de paus beschreven in zijn reactie?",
+        question: "Wat was de algemene sfeer tijdens de meeste protesten volgens de samenvatting?",
         options: [
-          "Hij was oneerlijk en hield informatie achter",
-          "Hij was eerlijk en toegankelijk",
-          "Hij weigerde te antwoorden",
-          "Hij verontschuldigde zich herhaaldelijk"
+          "Heel gewelddadig en angstaanjagend",
+          "Zeer formeel en afstandelijk",
+          "Heel gemoedelijk en vreedzaam",
+          "Extreem competitief en individualistisch"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De overlevers van het misbruik spraken met paus Leo XIV over hun ervaringen.",
-        isTrue: true
-      },
-      {
-        statement: "Na het gesprek werden er concrete afspraken gemaakt die onmiddellijk werden uitgevoerd.",
+        statement: "De protesten in Antwerpen verliepen volledig zonder enige confrontatie met de autoriteiten.",
         isTrue: false
       },
       {
-        statement: "De paus gaf een eerlijk antwoord wanneer hij het niet wist.",
+        statement: "De oproerpolitie had alleen de taak om toeschouwers te beschermen tijdens de protesten.",
+        isTrue: false
+      },
+      {
+        statement: "Voor het recente incident verliepen de protesten over het algemeen in een gemoedelijke sfeer.",
         isTrue: true
       }
     ]
@@ -1725,104 +1707,98 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Auto rijdt in op agenten in Schaarbeek: 'Geweld tegen politiemensen is onaanvaardbaar'",
+    title: "Politie zet opnieuw waterkanon in bij pro-Palestijns protest in Antwerpen",
     topicNumber: 1,
     article: {
-      title: "Auto rijdt in op agenten in Schaarbeek: 'Geweld tegen politiemensen is onaanvaardbaar'",
-      summary: "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
+      title: "Politie zet opnieuw waterkanon in bij pro-Palestijns protest in Antwerpen",
+      summary: "De Antwerpse Coalitie voor Palestina betoogt maandagavond in de Antwerpse binnenstad opnieuw tegen de genocide in Gaza. De politie heeft de demonstranten richting het Steenplein verdreven, verschillende betogers zijn opgepakt."
     },
     vocabulary: {
       words: [
         {
-          word: "dader",
-          definition: "iemand die een misdrijf pleegt",
-          sentence: "De ___ is nog niet geïdentificeerd.",
-          answer: "dader"
+          word: "Politie",
+          definition: "De organisatie die belast is met het handhaven van de openbare orde en veiligheid.",
+          sentence: "De ___ trad hardhandig op tijdens de demonstratie.",
+          answer: "Politie"
         },
         {
-          word: "moord",
-          definition: "het opzettelijk doden van een persoon",
-          sentence: "Hij is verdacht van ___ op zijn buurman.",
-          answer: "moord"
+          word: "waterkanon",
+          definition: "Een apparaat dat water onder hoge druk spuit, vaak gebruikt voor crowd control.",
+          sentence: "Om de menigte uiteen te drijven, zette de politie het ___ in.",
+          answer: "waterkanon"
         },
         {
-          word: "motief",
-          definition: "de reden of beweegreden voor een handeling",
-          sentence: "Wat was het ___ voor deze misdaad?",
-          answer: "motief"
+          word: "Antwerpen",
+          definition: "Een grote stad in België, bekend om zijn haven en historische centrum.",
+          sentence: "De protesten vonden plaats in de stad ___.",
+          answer: "Antwerpen"
         },
         {
-          word: "onderzoek",
-          definition: "een systematisch onderzoek om feiten vast te stellen",
-          sentence: "Het parket heeft een ___ geopend naar de gebeurtenissen.",
-          answer: "onderzoek"
-        },
-        {
-          word: "controleren",
-          definition: "nagaan of controleren of iets in orde is",
-          sentence: "Agenten ___ voertuigen op de openbare weg.",
-          answer: "controleren"
+          word: "betogers",
+          definition: "Mensen die deelnemen aan een protest of demonstratie.",
+          sentence: "De ___ hielden spandoeken vast tijdens de mars.",
+          answer: "betogers"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij is verdacht van ___ op zijn buurman.",
-          answer: "moord"
+          sentence: "De ___ hielden spandoeken vast tijdens de mars.",
+          answer: "betogers"
         },
         {
-          sentence: "Wat was het ___ voor deze misdaad?",
-          answer: "motief"
+          sentence: "De protesten vonden plaats in de stad ___.",
+          answer: "Antwerpen"
         },
         {
-          sentence: "De ___ is nog niet geïdentificeerd.",
-          answer: "dader"
+          sentence: "Om de menigte uiteen te drijven, zette de politie het ___ in.",
+          answer: "waterkanon"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de hoofdactiviteit van de agenten in de beschreven situatie?",
+        question: "Waar vond de protestactie plaats?",
         options: [
-          "Rellen beheersen",
-          "Voertuigen controleren",
-          "Een onderzoek leiden",
-          "Een misdaad plegen"
+          "Brussel",
+          "Antwerpen",
+          "Gent",
+          "Luik"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de juridische status van de handeling tegen de agenten?",
+        question: "Wat was de reactie van de politie op de demonstratie?",
         options: [
-          "Het is een misdrijf van moord.",
-          "Het is een geval van verkeersovertreding.",
-          "Het is een voorbeeld van burgermanschap.",
-          "Het is een onderzoek naar mogelijke oorzaken."
+          "Ze gebruikten traangas",
+          "Ze zetten een waterkanon in",
+          "Ze arresteerden niemand",
+          "Ze keken alleen maar toe"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat is de huidige staat van het onderzoek naar het motief?",
+        question: "Wat was het hoofddoel van de betogers?",
         options: [
-          "Het is afgerond met een veroordeling.",
-          "Het is in de beginfase met onduidelijkheid.",
-          "Het is al bevestigd door de dader.",
-          "Het is niet van toepassing in deze situatie."
+          "Tegen de regering protesteren",
+          "Steun betuigen aan de Palestijnse bevolking",
+          "De stad Antwerpen bezetten",
+          "Geen specifiek doel"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De agenten waren aan het controleren van een voertuig toen de aanval plaatsvond.",
+        statement: "De politie heeft tijdens de protesten waterkanonnen ingezet.",
         isTrue: true
       },
       {
-        statement: "Het motief van de dader is al bekend bij de autoriteiten.",
+        statement: "De protesten vonden plaats in de stad Brussel.",
         isTrue: false
       },
       {
-        statement: "De auto werd gebruikt als een wapen in de aanval.",
-        isTrue: true
+        statement: "Er werden geen betogers gearresteerd tijdens de demonstratie.",
+        isTrue: false
       }
     ]
   },
@@ -1831,104 +1807,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Inwoner van Kapellen vindt een handgranaat voor zijn poort: 'Zo raar is dat toch niet, mijnheer?'",
+    title: "Ook in “de gevangenis van de toekomst” in Haren, die zou inzetten op individuele detentie, komen er nu stapelbedden",
     topicNumber: 1,
     article: {
-      title: "Inwoner van Kapellen vindt een handgranaat voor zijn poort: 'Zo raar is dat toch niet, mijnheer?'",
-      summary: "In Borgerhout is zaterdagnacht een explosief ontploft voor de deur van een woning. Onbekenden hebben vannacht ook een handgranaat achtergelaten voor een woning in Kapellen. Er is voorlopig geen sprake van een link tussen de twee feiten."
+      title: "Ook in “de gevangenis van de toekomst” in Haren, die zou inzetten op individuele detentie, komen er nu stapelbedden",
+      summary: "De cipiersvakbonden hebben een stakingsaanzegging ingediend omdat nu ook in de gevangenis van Haren stapelbedden worden geplaatst. Nochtans is de gevangenis ontworpen rond het idee van “individuele detentie”."
     },
     vocabulary: {
       words: [
         {
-          word: "raar",
-          definition: "Vreemd of ongebruikelijk, niet normaal.",
-          sentence: "Het was erg ___ dat hij zo laat thuiskwam.",
-          answer: "raar"
+          word: "ontworpen",
+          definition: "Gemaakt, gepland of bedacht volgens een plan.",
+          sentence: "Het systeem was zo ___ voor maximale efficiëntie.",
+          answer: "ontworpen"
         },
         {
-          word: "vindt",
-          definition: "Ontdekt of aantreft, meestal per toeval.",
-          sentence: "Hij ___ een euro op straat en was erg blij.",
-          answer: "vindt"
+          word: "stakingsaanzegging",
+          definition: "Een officiële mededeling dat er een staking plaatsvindt.",
+          sentence: "De werknemers overhandigden de ___ aan het management.",
+          answer: "stakingsaanzegging"
         },
         {
-          word: "ontploft",
-          definition: "Ontploft, is ontploft; geëxplodeerd.",
-          sentence: "De bom ___ zonder gewonden te veroorzaken.",
-          answer: "ontploft"
+          word: "Haren",
+          definition: "De naam van een plaats, in deze context een gevangenis.",
+          sentence: "In ___ is de situatie voor gevangenen erg slecht.",
+          answer: "Haren"
         },
         {
-          word: "link",
-          definition: "Een verbinding of verband tussen twee zaken.",
-          sentence: "Er is een duidelijke ___ tussen roken en longkanker.",
-          answer: "link"
+          word: "detentie",
+          definition: "De periode waarin iemand vastgehouden wordt, bijvoorbeeld in een gevangenis.",
+          sentence: "Hij zat in ___ voor drie jaar wegens diefstal.",
+          answer: "detentie"
         },
         {
-          word: "explosief",
-          definition: "Betrekking hebbend op of geschikt voor een explosie.",
-          sentence: "De ___ stoffen werden veilig opgeslagen.",
-          answer: "explosief"
+          word: "individuele",
+          definition: "Alleenstaand, voor één persoon bedoeld.",
+          sentence: "Elke gevangene heeft recht op ___ bezoekuren.",
+          answer: "individuele"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het was erg ___ dat hij zo laat thuiskwam.",
-          answer: "raar"
+          sentence: "Hij zat in ___ voor drie jaar wegens diefstal.",
+          answer: "detentie"
         },
         {
-          sentence: "De bom ___ zonder gewonden te veroorzaken.",
-          answer: "ontploft"
+          sentence: "Elke gevangene heeft recht op ___ bezoekuren.",
+          answer: "individuele"
         },
         {
-          sentence: "De ___ stoffen werden veilig opgeslagen.",
-          answer: "explosief"
+          sentence: "De werknemers overhandigden de ___ aan het management.",
+          answer: "stakingsaanzegging"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'vindt' in deze context?",
+        question: "Wat is de hoofdreden voor de stakingsaanzegging door de cipiersvakbonden?",
         options: [
-          "Vindt",
-          "Vind",
-          "Vindt",
-          "Vindt"
+          "De komst van stapelbedden in de gevangenis van Haren",
+          "Een loonsverlaging van 10% voor alle bewakers",
+          "Het sluiten van de gevangenis van Haren zelf",
+          "De wens voor betere koffiemachines op de werkvloer"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is een 'handgranaat'?",
+        question: "Hoe is de gevangenis van Haren oorspronkelijk ontworpen?",
         options: [
-          "Een soort fruit",
-          "Een soort dier",
-          "Een soort wapen",
-          "Een soort boek"
+          "Rond het idee van individuele detentie",
+          "Voor collectieve detentie met stapelbedden",
+          "Zonder enige vorm van detentie",
+          "Als een open kamp zonder bewakers"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Wat betekent 'er is voorlopig geen sprake van een link'?",
+        question: "Wat is de toestand van de gevangenis in Haren momenteel?",
         options: [
-          "Er is nog geen verband bewezen",
-          "Er is al een verband bewezen",
-          "Er is geen verband mogelijk",
-          "Er is een duidelijk verband"
+          "Het gebruikt stapelbedden om meer gevangenen te herbergen",
+          "Het is onlangs volledig gerenoveerd met nieuwe technologie",
+          "De gevangenis is gesloten en leeg sinds 2020",
+          "Alleen bewaard als museumstuk sinds 1990"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "In Borgerhout is een explosief ontploft voor de deur van een woning.",
+        statement: "De gevangenis van Haren is recentelijk begonnen met het plaatsen van stapelbedden.",
         isTrue: true
       },
       {
-        statement: "Er is een bewezen verband tussen de incidenten in Borgerhout en Kapellen.",
+        statement: "De cipiersvakbonden hebben een stakingsaanzegging ingediend om de gevangenis van Haren geheel te sluiten.",
         isTrue: false
       },
       {
-        statement: "Er is voorlopig geen sprake van een link tussen de twee feiten.",
-        isTrue: true
+        statement: "De gevangenis van Haren is oorspronkelijk ontworpen voor collectieve detentie met stapelbedden.",
+        isTrue: false
       }
     ]
   },
@@ -1937,104 +1913,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Biden: “Trump maakt het Witte Huis en het land kapot”",
+    title: "Zelensky en Oekraïne in het nieuws",
     topicNumber: 1,
     article: {
-      title: "Biden: “Trump maakt het Witte Huis en het land kapot”",
-      summary: "Donald Trump was president van Amerika. Zijn tweede termijn bracht veel verandering in de wereld. Volg hier het laatste nieuws."
+      title: "Zelensky en Oekraïne in het nieuws",
+      summary: "Lees het laatste nieuws over de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
     },
     vocabulary: {
       words: [
         {
-          word: "president",
-          definition: "een leider van een land",
-          sentence: "De ___ van de Verenigde Staten is Joe Biden.",
-          answer: "president"
+          word: "belangrijk",
+          definition: "iets dat heel veel waarde heeft",
+          sentence: "Het is ___ om op de hoogte te blijven van het nieuws.",
+          answer: "belangrijk"
         },
         {
-          word: "termijn",
-          definition: "een periode van tijd, vaak voor een baan",
-          sentence: "Hij had een tweede ___ als president.",
-          answer: "termijn"
+          word: "oorlog",
+          definition: "een situatie waarin landen of groepen vechten",
+          sentence: "Er is een ___ in Oekraïne, en dat is heel erg.",
+          answer: "oorlog"
         },
         {
-          word: "wereld",
-          definition: "de aarde en alle mensen",
-          sentence: "De ___ keek toe naar Amerika.",
-          answer: "wereld"
-        },
-        {
-          word: "verandering",
-          definition: "iets wat anders wordt dan het was",
-          sentence: "Er was veel ___ in het beleid.",
-          answer: "verandering"
+          word: "app",
+          definition: "een programma op je telefoon of computer",
+          sentence: "Ik download een nieuwe ___ om nieuws te lezen.",
+          answer: "app"
         },
         {
           word: "nieuws",
-          definition: "informatie over wat er gebeurt",
-          sentence: "Het laatste ___ is net uitgekomen.",
+          definition: "informatie over wat er in de wereld gebeurt",
+          sentence: "Ik lees het ___ elke ochtend om op de hoogte te blijven.",
           answer: "nieuws"
+        },
+        {
+          word: "melding",
+          definition: "een bericht dat je iets laat weten",
+          sentence: "Ik krijg een ___ als er belangrijk nieuws is.",
+          answer: "melding"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ keek toe naar Amerika.",
-          answer: "wereld"
+          sentence: "Ik download een nieuwe ___ om nieuws te lezen.",
+          answer: "app"
         },
         {
-          sentence: "Het laatste ___ is net uitgekomen.",
-          answer: "nieuws"
+          sentence: "Ik krijg een ___ als er belangrijk nieuws is.",
+          answer: "melding"
         },
         {
-          sentence: "Hij had een tweede ___ als president.",
-          answer: "termijn"
+          sentence: "Er is een ___ in Oekraïne, en dat is heel erg.",
+          answer: "oorlog"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wie is de president van de Verenigde Staten nu?",
+        question: "Waar gaat het artikel over?",
         options: [
-          "Joe Biden",
-          "Donald Trump",
-          "Barack Obama",
-          "Bill Clinton"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Welk effect had Trump's presidentschap op de wereld?",
-        options: [
-          "Veel verandering",
-          "Alles bleef hetzelfde",
-          "Er was geen effect",
-          "Alleen Amerika veranderde"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Waar kan men het laatste nieuws over de verkiezingen volgen?",
-        options: [
-          "In de krant",
-          "Op de radio",
-          "Op deze website",
-          "In een boek"
+          "Koken",
+          "Sport",
+          "Oorlog in Oekraïne",
+          "Kunst"
         ],
         correctAnswer: 3
+      },
+      {
+        question: "Wat kun je doen met de app DS Nieuws?",
+        options: [
+          "Muziek luisteren",
+          "Foto's maken",
+          "Nieuws lezen en meldingen krijgen",
+          "Videogames spelen"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat is de hoofdstad van Oekraïne?",
+        options: [
+          "Kiev",
+          "Parijs",
+          "Berlijn",
+          "Rome"
+        ],
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Donald Trump was de president van Amerika.",
-        isTrue: true
-      },
-      {
-        statement: "Zijn eerste termijn bracht veel verandering in de wereld.",
+        statement: "Oekraïne is een stad.",
         isTrue: false
       },
       {
-        statement: "Je kunt hier het laatste nieuws over de verkiezingen volgen.",
+        statement: "Je kunt de app DS Nieuws downloaden om nieuws te lezen.",
         isTrue: true
+      },
+      {
+        statement: "De hoofdstad van Oekraïne is Parijs.",
+        isTrue: false
       }
     ]
   },
@@ -2043,103 +2019,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
+    title: "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
     topicNumber: 1,
     article: {
-      title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
-      summary: "Er is nieuws over aanvallen in Libanon. Er zijn doden en gewonden."
+      title: "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
+      summary: "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
     },
     vocabulary: {
       words: [
         {
-          word: "Israëlische",
-          definition: "iets of iemand uit Israël",
-          sentence: "De ___ regering heeft een verklaring uitgegeven.",
-          answer: "Israëlische"
-        },
-        {
-          word: "nieuws",
-          definition: "informatie over wat er gebeurt in de wereld",
-          sentence: "Het ___ van vandaag gaat over de situatie in de wereld.",
-          answer: "nieuws"
+          word: "dodelijk",
+          definition: "dood veroorzakend",
+          sentence: "Het ongeluk was ___ voor twee mensen.",
+          answer: "dodelijk"
         },
         {
           word: "Libanon",
           definition: "een land in het Midden-Oosten",
-          sentence: "___ heeft veel schade geleden door de aanvallen.",
+          sentence: "___ is een land naast Israël.",
           answer: "Libanon"
         },
         {
-          word: "gewonden",
-          definition: "mensen die gewond zijn geraakt",
-          sentence: "Er zijn veel ___ die hulp nodig hebben.",
-          answer: "gewonden"
+          word: "leger",
+          definition: "een groep mensen die voor een land vechten",
+          sentence: "Het ___ van het land verdedigt de grenzen.",
+          answer: "leger"
         },
         {
-          word: "doden",
-          definition: "mensen die niet meer leven",
-          sentence: "Er zijn veel ___ in het conflict.",
-          answer: "doden"
+          word: "ontwikkelingen",
+          definition: "nieuwe dingen die gebeuren",
+          sentence: "De laatste ___ in de technologie zijn snel.",
+          answer: "ontwikkelingen"
+        },
+        {
+          word: "Midden-Oosten",
+          definition: "een gebied op de wereld met veel landen",
+          sentence: "Het ___ heeft een droog klimaat.",
+          answer: "Midden-Oosten"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "___ heeft veel schade geleden door de aanvallen.",
+          sentence: "Het ___ van het land verdedigt de grenzen.",
+          answer: "leger"
+        },
+        {
+          sentence: "___ is een land naast Israël.",
           answer: "Libanon"
         },
         {
-          sentence: "Er zijn veel ___ in het conflict.",
-          answer: "doden"
-        },
-        {
-          sentence: "Er zijn veel ___ die hulp nodig hebben.",
-          answer: "gewonden"
+          sentence: "Het ongeluk was ___ voor twee mensen.",
+          answer: "dodelijk"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat het nieuws over?",
+        question: "Wat betekent 'dodelijk'?",
         options: [
-          "Over sport",
-          "Over een conflict in het Midden-Oosten",
-          "Over een feest",
-          "Over een nieuwe film"
+          "leuk",
+          "gevaarlijk",
+          "snel",
+          "makkelijk"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is er gebeurd in Libanon?",
+        question: "Wat is 'Libanon'?",
         options: [
-          "Er was een feest",
-          "Er was een aanval",
-          "Er was een concert",
-          "Er was een sportwedstrijd"
+          "een stad",
+          "een rivier",
+          "een land",
+          "een berg"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Wie heeft de aanvallen uitgevoerd?",
+        question: "Wat betekent 'ontwikkelingen'?",
         options: [
-          "Libanon",
-          "Israël",
-          "Een ander land",
-          "Niemand weet het"
+          "oude dingen",
+          "nieuwe dingen die gebeuren",
+          "moeilijke problemen",
+          "leuke activiteiten"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Er zijn doden en gewonden gevallen in Libanon.",
+        statement: "Israël en Libanon zijn twee verschillende landen.",
         isTrue: true
       },
       {
-        statement: "De aanvallen werden uitgevoerd door Libanon.",
+        statement: "Het Midden-Oosten heeft een nat klimaat.",
         isTrue: false
       },
       {
-        statement: "Israëlische troepen waren verantwoordelijk voor de aanvallen.",
+        statement: "Ontwikkelingen kunnen snel of langzaam zijn.",
         isTrue: true
       }
     ]
@@ -2149,104 +2125,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
+    title: "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
     topicNumber: 1,
     article: {
-      title: "Navo-baas Mark Rutte waarschuwt Poetin: “Nucleaire oorlog kan nooit gewonnen worden”",
-      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+      title: "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
+      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
     },
     vocabulary: {
       words: [
         {
-          word: "ontwikkelingen",
-          definition: "nieuwe dingen die gebeuren of veranderen",
-          sentence: "De technologische ___ gaan snel.",
-          answer: "ontwikkelingen"
+          word: "heffen",
+          definition: "iets officieel maken of stoppen",
+          sentence: "De regering wil de belastingen ___ voor kleine bedrijven.",
+          answer: "heffen"
         },
         {
-          word: "app",
-          definition: "een programma op je telefoon of computer",
-          sentence: "Deze ___ helpt je om talen te leren.",
-          answer: "app"
+          word: "VS",
+          definition: "Verenigde Staten, een land",
+          sentence: "De ___ willen samenwerken met andere landen.",
+          answer: "VS"
         },
         {
-          word: "melding",
-          definition: "een bericht dat je iets vertelt",
-          sentence: "Ik kreeg een ___ dat de post was aangekomen.",
-          answer: "melding"
+          word: "Syrië",
+          definition: "een land in het Midden-Oosten",
+          sentence: "___ heeft veel historische steden.",
+          answer: "Syrië"
         },
         {
-          word: "poetin",
-          definition: "de naam van de leider van Rusland",
-          sentence: "___ regeerde Rusland.",
-          answer: "poetin"
+          word: "sancties",
+          definition: "straffen die een land geeft aan een ander land",
+          sentence: "De Verenigde Naties hebben nieuwe ___ ingesteld tegen het land.",
+          answer: "sancties"
         },
         {
-          word: "oorlog",
-          definition: "een situatie waar landen vechten",
-          sentence: "De ___ duurt al lang.",
-          answer: "oorlog"
+          word: "Trump",
+          definition: "de familienaam van de voormalige president van de VS",
+          sentence: "___ is bekend om zijn uitspraken op sociale media.",
+          answer: "Trump"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "___ regeerde Rusland.",
-          answer: "poetin"
+          sentence: "De Verenigde Naties hebben nieuwe ___ ingesteld tegen het land.",
+          answer: "sancties"
         },
         {
-          sentence: "De technologische ___ gaan snel.",
-          answer: "ontwikkelingen"
+          sentence: "De ___ willen samenwerken met andere landen.",
+          answer: "VS"
         },
         {
-          sentence: "Ik kreeg een ___ dat de post was aangekomen.",
-          answer: "melding"
+          sentence: "___ heeft veel historische steden.",
+          answer: "Syrië"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'nucleaire oorlog'?",
+        question: "Wat betekent 'heffen' in deze context?",
         options: [
-          "Een oorlog in de lucht",
-          "Een oorlog met atoombommen",
-          "Een oorlog op zee",
-          "Een oorlog in de ruimte"
+          "optillen",
+          "officieel maken",
+          "veranderen",
+          "stoppen"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat betekent 'ontwikkelingen'?",
+        question: "Waarom heft de VS sancties tegen Syrië op?",
         options: [
-          "Nieuwe dingen die gebeuren",
-          "Oude dingen die verdwijnen",
-          "Mensen die vechten",
-          "Dieren die groeien"
+          "Omdat Syrië vrede wil",
+          "Vanwege nieuwe afspraken met andere landen",
+          "Omdat de president het wil",
+          "Om de economie te helpen"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Waar gaat de tekst over?",
+        question: "Wat is een 'sanctie'?",
         options: [
-          "Over een nieuwe app",
-          "Over een sportwedstrijd",
-          "Over een nucleaire oorlog",
-          "Over een vakantie"
+          "Een soort feest",
+          "Een economische straf",
+          "Een soort belasting",
+          "Een internationale overeenkomst"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Poetin is de leider van Rusland.",
-        isTrue: true
-      },
-      {
-        statement: "Een nucleaire oorlog is gemakkelijk te winnen.",
+        statement: "De VS heft sancties tegen Syrië op omdat ze vrienden willen zijn.",
         isTrue: false
       },
       {
-        statement: "Je kunt de app DS Nieuws downloaden.",
+        statement: "Trump heeft een ontmoeting met Al-Sharaa over de sancties.",
         isTrue: true
+      },
+      {
+        statement: "De sancties zijn al volledig verwijderd.",
+        isTrue: false
       }
     ]
   },
@@ -2255,103 +2231,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
+    title: "Antwerpse protesten",
     topicNumber: 1,
     article: {
-      title: "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
-      summary: "Zaterdag zaten vijftien overlevers van misbruik samen met paus Leo XIV. Over dat gesprek zijn de zes mensen die De Standaard nadien kon spreken voorzichtig positief. Al zijn er geen concrete afspraken gemaakt over wat er in praktijk gaat veranderen. \"Als de paus het antwoord niet wist, zei hij dat ook eerlijk.\""
+      title: "Antwerpse protesten",
+      summary: "In Antwerpen waren er protesten. De politie en de demonstranten kwamen met elkaar in conflict. De politie hield zeven mensen aan. Meestal verliep het protest vreedzaam."
     },
     vocabulary: {
       words: [
         {
-          word: "eerlijk",
-          definition: "eerlijk zijn betekent de waarheid zeggen en niet liegen",
-          sentence: "Hij is altijd ___ tegen zijn vrienden.",
-          answer: "eerlijk"
+          word: "conflict",
+          definition: "een meningsverschil of strijd",
+          sentence: "Er was een ___ tussen de politie en de demonstranten.",
+          answer: "conflict"
         },
         {
-          word: "zaterdag",
-          definition: "de vijfde dag van de week",
-          sentence: "Op ___ ging ik naar de stad.",
-          answer: "zaterdag"
+          word: "demonstranten",
+          definition: "mensen die protesteren",
+          sentence: "De ___ wilden hun mening laten horen.",
+          answer: "demonstranten"
         },
         {
-          word: "overlevers",
-          definition: "mensen die iets ergs hebben meegemaakt maar nog leven",
-          sentence: "De ___ van het ongeluk zijn naar het ziekenhuis gebracht.",
-          answer: "overlevers"
+          word: "meestal",
+          definition: "meer dan de helft van de keren",
+          sentence: "___ is het protest vreedzaam.",
+          answer: "meestal"
         },
         {
-          word: "vijftien",
-          definition: "het getal na veertien",
-          sentence: "Hij is ___ jaar oud.",
-          answer: "vijftien"
+          word: "politie",
+          definition: "mensen die de wet handhaven",
+          sentence: "De ___ kwam naar de protesten.",
+          answer: "politie"
         },
         {
-          word: "positief",
-          definition: "goed, niet slecht",
-          sentence: "Zij reageerde ___ op het nieuws.",
-          answer: "positief"
+          word: "vreedzaam",
+          definition: "zonder geweld",
+          sentence: "Het protest verliep ___.",
+          answer: "vreedzaam"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij is altijd ___ tegen zijn vrienden.",
-          answer: "eerlijk"
+          sentence: "Er was een ___ tussen de politie en de demonstranten.",
+          answer: "conflict"
         },
         {
-          sentence: "Hij is ___ jaar oud.",
-          answer: "vijftien"
+          sentence: "De ___ kwam naar de protesten.",
+          answer: "politie"
         },
         {
-          sentence: "Zij reageerde ___ op het nieuws.",
-          answer: "positief"
+          sentence: "De ___ wilden hun mening laten horen.",
+          answer: "demonstranten"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de betekenis van 'positief'?",
+        question: "Waar ging het protest over?",
         options: [
-          "niet goed",
-          "goed",
-          "slecht",
-          "moeilijk"
+          "Over een voetbalwedstrijd",
+          "Over de prijs van brood",
+          "Over politieke kwesties",
+          "Over een feest"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Hoe verliep het protest meestal?",
+        options: [
+          "Heel gewelddadig",
+          "Heel rustig en vreedzaam",
+          "Heel chaotisch",
+          "Heel snel"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat betekent 'samen'?",
+        question: "Wat deed de politie met enkele demonstranten?",
         options: [
-          "alleen",
-          "met anderen",
-          "snel",
-          "langzaam"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is een 'gesprek'?",
-        options: [
-          "een soort sport",
-          "een gesprek is wanneer mensen met elkaar praten",
-          "een soort voedsel",
-          "een soort dier"
+          "Gaf hen een prijs",
+          "Hield hen aan voor vragen",
+          "Negeerde hen volledig",
+          "Liet hen direct vrij"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De paus sprak met vijftien overlevers van misbruik.",
+        statement: "Het protest was altijd vreedzaam.",
+        isTrue: false
+      },
+      {
+        statement: "De politie hield mensen aan.",
         isTrue: true
       },
       {
-        statement: "Het gesprek was met paus Leo de Veertiende.",
-        isTrue: true
-      },
-      {
-        statement: "Na het gesprek waren alle mensen erg negatief.",
+        statement: "Het protest ging over een voetbalwedstrijd.",
         isTrue: false
       }
     ]
@@ -2361,104 +2337,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Auto rijdt in op agenten in Schaarbeek",
+    title: "Politie gebruikt waterkanon tijdens protest in Antwerpen",
     topicNumber: 1,
     article: {
-      title: "Auto rijdt in op agenten in Schaarbeek",
-      summary: "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
+      title: "Politie gebruikt waterkanon tijdens protest in Antwerpen",
+      summary: "De politie heeft een waterkanon gebruikt tijdens een pro-Palestijns protest in Antwerpen. Verschillende betogers zijn opgepakt."
     },
     vocabulary: {
       words: [
         {
-          word: "moord",
-          definition: "het opzettelijk doden van een persoon",
-          sentence: "Het was een poging tot ___.",
-          answer: "moord"
+          word: "Antwerpen",
+          definition: "Een stad in België.",
+          sentence: "___ is een grote stad met veel mensen.",
+          answer: "Antwerpen"
         },
         {
-          word: "agenten",
-          definition: "mensen die de wet handhaven",
-          sentence: "De ___ waren een voertuig aan het controleren.",
-          answer: "agenten"
+          word: "protest",
+          definition: "Een bijeenkomst waar mensen hun ongenoegen uiten.",
+          sentence: "Het ___ was vreedzaam tot de politie kwam.",
+          answer: "protest"
         },
         {
-          word: "controleren",
-          definition: "nagaan of iets in orde is",
-          sentence: "Ze waren het voertuig aan het ___.",
-          answer: "controleren"
+          word: "waterkanon",
+          definition: "Een apparaat dat water spuit, vaak voor controle van menigten.",
+          sentence: "Het ___ spuit water om mensen weg te jagen.",
+          answer: "waterkanon"
         },
         {
-          word: "auto",
-          definition: "een voertuig voor transport",
-          sentence: "De ___ reed tegen de agenten.",
-          answer: "auto"
+          word: "Politie",
+          definition: "Mensen die de wet handhaven.",
+          sentence: "De ___ controleert de stad.",
+          answer: "Politie"
         },
         {
-          word: "motief",
-          definition: "de reden waarom iemand iets doet",
-          sentence: "Over het ___ van de dader is nog geen duidelijkheid.",
-          answer: "motief"
+          word: "protest",
+          definition: "Een uiting van ontevredenheid, vaak publiekelijk.",
+          sentence: "Het ___ was vreedzaam ondanks de drukte.",
+          answer: "protest"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Over het ___ van de dader is nog geen duidelijkheid.",
-          answer: "motief"
+          sentence: "Het ___ spuit water om mensen weg te jagen.",
+          answer: "waterkanon"
         },
         {
-          sentence: "Het was een poging tot ___.",
-          answer: "moord"
+          sentence: "De ___ controleert de stad.",
+          answer: "Politie"
         },
         {
-          sentence: "De ___ waren een voertuig aan het controleren.",
-          answer: "agenten"
+          sentence: "Het ___ was vreedzaam ondanks de drukte.",
+          answer: "protest"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gebeurde het incident met de auto?",
+        question: "Wat is een waterkanon?",
         options: [
-          "Schaarbeek",
-          "Brussel",
-          "Schilde",
-          "Antwerpen"
+          "Een soort wapen",
+          "Een type auto",
+          "Een gebouw",
+          "Een park"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat deden de agenten op het moment van het incident?",
+        question: "Waarom werd er een waterkanon ingezet?",
         options: [
-          "Ze waren aan het eten",
-          "Ze waren een voertuig aan het controleren",
-          "Ze waren aan het slapen",
-          "Ze waren aan het rijden"
+          "Om planten water te geven",
+          "Tegen betogers",
+          "Voor een feest",
+          "Omdat het regende"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is het motief van de dader volgens de tekst?",
+        question: "Wat gebeurde er met sommige betogers?",
         options: [
-          "Nog niet bekend",
-          "Wraak",
-          "Roem",
-          "Geld"
+          "Zij gingen naar huis",
+          "Ze werden opgepakt",
+          "Ze wonnen een prijs",
+          "Ze gingen eten"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De agenten waren aan het rijden met de auto.",
-        isTrue: false
-      },
-      {
-        statement: "Het parket heeft een onderzoek geopend.",
+        statement: "De politie gebruikte een waterkanon tijdens het protest.",
         isTrue: true
       },
       {
-        statement: "De dader heeft de auto gestolen van een politieagent.",
+        statement: "Het protest vond plaats in Brussel.",
         isTrue: false
+      },
+      {
+        statement: "Enkele betogers werden opgepakt door de politie.",
+        isTrue: true
       }
     ]
   },
@@ -2467,104 +2443,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Inwoner van Kapellen vindt handgranaat voor deur",
+    title: "Ook in de gevangenis van Haren komen er stapelbedden",
     topicNumber: 1,
     article: {
-      title: "Inwoner van Kapellen vindt handgranaat voor deur",
-      summary: "In Borgerhout is een explosief ontploft voor een woning. In Kapellen is een handgranaat gevonden voor een woning. Er is nog geen link tussen deze twee gevallen."
+      title: "Ook in de gevangenis van Haren komen er stapelbedden",
+      summary: "In de gevangenis van Haren komen er stapelbedden. De vakbonden van cipiers hebben een staking aangekondigd. De gevangenis is eigenlijk ontworpen voor individuele detentie, niet voor stapelbedden."
     },
     vocabulary: {
       words: [
         {
-          word: "link",
-          definition: "een verbinding tussen twee dingen",
-          sentence: "Is er een ___ tussen deze twee gebeurtenissen?",
-          answer: "link"
+          word: "ontworpen",
+          definition: "gepland of gemaakt met een bepaald doel",
+          sentence: "Het gebouw was ___ om veel natuurlijk licht binnen te laten.",
+          answer: "ontworpen"
         },
         {
-          word: "voor",
-          definition: "aan de voorkant of bij iets",
-          sentence: "De bal lag ___ de deur.",
-          answer: "voor"
+          word: "cipiers",
+          definition: "de mensen die in een gevangenis werken en toezicht houden op de gevangenen",
+          sentence: "De ___ hebben extra personeel gevraagd vanwege de drukte.",
+          answer: "cipiers"
         },
         {
-          word: "handgranaat",
-          definition: "een soort kleine bom",
-          sentence: "Een ___ is gevaarlijk en mag niet zomaar blijven liggen.",
-          answer: "handgranaat"
+          word: "individuele",
+          definition: "alleen, voor of van één persoon",
+          sentence: "In de nieuwe gevangenis heeft elke gevangene een ___ cel.",
+          answer: "individuele"
         },
         {
-          word: "inwoner",
-          definition: "iemand die in een plaats woont",
-          sentence: "De ___ van het dorp kent iedereen.",
-          answer: "inwoner"
+          word: "detentie",
+          definition: "de staat van iemand die gevangen wordt gehouden",
+          sentence: "Hij werd in ___ genomen na het incident.",
+          answer: "detentie"
         },
         {
-          word: "deur",
-          definition: "het deel van een huis of kamer waar je door naar binnen gaat",
-          sentence: "Hij klopte op de ___ en wachtte.",
-          answer: "deur"
+          word: "gevangenis",
+          definition: "een plaats waar mensen die een misdaad hebben gedaan, worden opgesloten",
+          sentence: "Hij moet voor twee jaar naar de ___.",
+          answer: "gevangenis"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De bal lag ___ de deur.",
-          answer: "voor"
+          sentence: "Hij werd in ___ genomen na het incident.",
+          answer: "detentie"
         },
         {
-          sentence: "Een ___ is gevaarlijk en mag niet zomaar blijven liggen.",
-          answer: "handgranaat"
+          sentence: "In de nieuwe gevangenis heeft elke gevangene een ___ cel.",
+          answer: "individuele"
         },
         {
-          sentence: "Is er een ___ tussen deze twee gebeurtenissen?",
-          answer: "link"
+          sentence: "De ___ hebben extra personeel gevraagd vanwege de drukte.",
+          answer: "cipiers"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar werd de handgranaat gevonden?",
+        question: "Waarom hebben de vakbonden een staking aangekondigd?",
         options: [
-          "In de tuin",
-          "Aan de voordeur",
-          "Op straat",
-          "In een park"
-        ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is een handgranaat?",
-        options: [
-          "Een soort fruit",
-          "Een soort groente",
-          "Een soort wapen",
-          "Een soort dier"
+          "Omdat er te weinig cipiers zijn",
+          "Omdat de gevangenis te klein is",
+          "Omdat er stapelbedden worden geplaatst",
+          "Omdat de gevangenen in opstand zijn gekomen"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is de link tussen de twee gevallen?",
+        question: "Wat is het oorspronkelijke ontwerp van de gevangenis in Haren?",
         options: [
-          "Er is geen link",
-          "Het is dezelfde persoon",
-          "Het is op dezelfde dag",
-          "Het is in dezelfde stad"
+          "Het is een open ruimte met veel bedden",
+          "Het is een grote kamer met stapelbedden",
+          "Het is gebouwd voor individuele cellen",
+          "Het is ontworpen voor groepscellen"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
+      },
+      {
+        question: "Wat is het gevolg van de staking door de cipiers?",
+        options: [
+          "De gevangenis zal gesloten worden",
+          "De cipiers krijgen een loonsverhoging",
+          "Er worden minder stapelbedden geplaatst",
+          "De staking wordt onbeperkt voortgezet"
+        ],
+        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "Er is een explosie geweest in Borgerhout.",
+        statement: "De gevangenis van Haren is ontworpen voor individuele detentie.",
         isTrue: true
       },
       {
-        statement: "De handgranaat in Kapellen is ontploft.",
+        statement: "De vakbonden hebben de staking aangekondigd omdat er te weinig cipiers zijn.",
         isTrue: false
       },
       {
-        statement: "Er is een link tussen de twee gebeurtenissen.",
-        isTrue: false
+        statement: "Stapelbedden worden geplaatst om meer gevangenen te kunnen huisvesten.",
+        isTrue: true
       }
     ]
   },
@@ -2573,104 +2549,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Biden: “Trump maakt niet alleen het Witte Huis kapot, maar ook het land”",
+    title: "Vertrouweling Zelensky verwikkeld in corruptieonderzoek",
     topicNumber: 1,
     article: {
-      title: "Biden: “Trump maakt niet alleen het Witte Huis kapot, maar ook het land”",
-      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+      title: "Vertrouweling Zelensky verwikkeld in corruptieonderzoek",
+      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
     },
     vocabulary: {
       words: [
         {
-          word: "Trump",
-          definition: "Een voormalige president van de Verenigde Staten.",
-          sentence: "Donald ___ was de 45ste president.",
-          answer: "Trump"
+          word: "updates",
+          definition: "Nieuwe informatie over een onderwerp.",
+          sentence: "Volg de ___ om op de hoogte te blijven.",
+          answer: "updates"
         },
         {
-          word: "maar",
-          definition: "Een tegenstelling; in tegenstelling tot wat zojuist is gezegd.",
-          sentence: "Hij is sterk, ___ niet erg groot.",
-          answer: "maar"
+          word: "verwikkeld",
+          definition: "Betrokken of geïmpliceerd in een situatie, vaak negatief.",
+          sentence: "Hij is ___ in een groot schandaal.",
+          answer: "verwikkeld"
         },
         {
-          word: "maakt",
-          definition: "Vormt of produceert iets; de derde persoon enkelvoud van 'maken'.",
-          sentence: "Hij ___ een plan voor de toekomst.",
-          answer: "maakt"
+          word: "app",
+          definition: "Een applicatie op een smartphone of computer.",
+          sentence: "Download de ___ om het nieuws te volgen.",
+          answer: "app"
         },
         {
-          word: "Witte",
-          definition: "Een kleur, vaak geassocieerd met zuiverheid of licht.",
-          sentence: "Het ___ Huis is de officiële woning van de president.",
-          answer: "Witte"
+          word: "Vertrouweling",
+          definition: "Iemand die vertrouwd is, vaak in een informele of persoonlijke context.",
+          sentence: "Hij was een oude ___ van de president.",
+          answer: "Vertrouweling"
         },
         {
-          word: "alleen",
-          definition: "Slechts; zonder anderen.",
-          sentence: "Hij was ___ thuis tijdens de storm.",
-          answer: "alleen"
+          word: "oorlog",
+          definition: "Een gewapend conflict tussen landen of groepen.",
+          sentence: "De ___ in Oekraïne duurt nu al maanden.",
+          answer: "oorlog"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij was ___ thuis tijdens de storm.",
-          answer: "alleen"
+          sentence: "Volg de ___ om op de hoogte te blijven.",
+          answer: "updates"
         },
         {
-          sentence: "Hij is sterk, ___ niet erg groot.",
-          answer: "maar"
+          sentence: "De ___ in Oekraïne duurt nu al maanden.",
+          answer: "oorlog"
         },
         {
-          sentence: "Donald ___ was de 45ste president.",
-          answer: "Trump"
+          sentence: "Download de ___ om het nieuws te volgen.",
+          answer: "app"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de rol van Donald Trump in deze context?",
+        question: "Waar gaat het artikel vooral over?",
         options: [
-          "Hij is een acteur",
-          "Hij is een voormalige president",
-          "Hij is een huidige president",
-          "Hij is een journalist"
+          "Een nieuwe app",
+          "Oorlog in Oekraïne",
+          "Een sportevenement",
+          "Kooktips"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat betekent de titel 'Biden: “Trump maakt niet alleen het Witte Huis kapot, maar ook het land”'?",
+        question: "Wat is de rol van de app DS Nieuws?",
         options: [
-          "Biden zegt dat Trump alleen het Witte Huis vernietigt",
-          "Biden zegt dat Trump het Witte Huis en het land vernielt",
-          "Biden zegt dat Trump alleen het land vernielt",
-          "Biden zegt dat Trump niets vernielt"
+          "Het is een social media platform",
+          "Het biedt nieuwsupdates over belangrijke gebeurtenissen",
+          "Het is een game-app",
+          "Het is een restaurantgids"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is het Witte Huis?",
+        question: "Wat is de houding van de auteur?",
         options: [
-          "Een museum in Washington",
-          "De officiële residentie van de Amerikaanse president",
-          "Een winkelcentrum in New York",
-          "Een stad in Nederland"
+          "Positief over de oorlog",
+          "Neutraal, informeert alleen",
+          "Negatief over Oekraïne",
+          "Promoot de app actief"
         ],
-        correctAnswer: 2
+        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "Donald Trump is de huidige president van de Verenigde Staten.",
-        isTrue: false
-      },
-      {
-        statement: "Joe Biden is de huidige president van de Verenigde Staten.",
+        statement: "Het artikel gaat over een nieuwe app die gelanceerd is.",
         isTrue: true
       },
       {
-        statement: "Donald Trump heeft alleen het Witte Huis vernietigd.",
+        statement: "De auteur is tegen de oorlog in Oekraïne.",
         isTrue: false
+      },
+      {
+        statement: "De app DS Nieuws biedt updates over de oorlog.",
+        isTrue: true
       }
     ]
   },
@@ -2679,98 +2655,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
+    title: "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
     topicNumber: 1,
     article: {
-      title: "Doden en gewonden bij Israëlische aanvallen op Libanon",
+      title: "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
       summary: "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
     },
     vocabulary: {
       words: [
         {
-          word: "doden",
-          definition: "mensen die omgekomen zijn",
-          sentence: "Bij de aanval waren er meerdere ___.",
-          answer: "doden"
+          word: "Israëlisch",
+          definition: "Betrekking hebbend op Israël, een land.",
+          sentence: "Het ___ leger voert aanvallen uit.",
+          answer: "Israëlisch"
         },
         {
-          word: "gewonden",
-          definition: "mensen die gewond zijn geraakt",
-          sentence: "De ___ werden naar het ziekenhuis gebracht.",
-          answer: "gewonden"
+          word: "Libanon",
+          definition: "Een land in het Midden-Oosten.",
+          sentence: "___ ligt ten noorden van Israël.",
+          answer: "Libanon"
         },
         {
           word: "aanvallen",
-          definition: "het actief aanvallen of bestrijden",
-          sentence: "De militaire ___ gebeurden vooral 's nachts.",
+          definition: "Acties om schade toe te brengen of aan te vallen.",
+          sentence: "De ___ waren gericht op militaire doelen.",
           answer: "aanvallen"
         },
         {
-          word: "ontwikkelingen",
-          definition: "nieuwe gebeurtenissen of veranderingen in een situatie",
-          sentence: "De laatste ___ in het Midden-Oosten zijn zorgwekkend.",
-          answer: "ontwikkelingen"
+          word: "leger",
+          definition: "Een groep mensen die een land verdedigt en vecht.",
+          sentence: "Het ___ van een land voert oorlogen.",
+          answer: "leger"
+        },
+        {
+          word: "dodelijke",
+          definition: "Waardoor iemand overlijdt.",
+          sentence: "Een ___ aanval eist levens.",
+          answer: "dodelijke"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De laatste ___ in het Midden-Oosten zijn zorgwekkend.",
-          answer: "ontwikkelingen"
+          sentence: "Het ___ leger voert aanvallen uit.",
+          answer: "Israëlisch"
         },
         {
-          sentence: "De ___ werden naar het ziekenhuis gebracht.",
-          answer: "gewonden"
+          sentence: "Een ___ aanval eist levens.",
+          answer: "dodelijke"
         },
         {
-          sentence: "Bij de aanval waren er meerdere ___.",
-          answer: "doden"
+          sentence: "Het ___ van een land voert oorlogen.",
+          answer: "leger"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarover gaat dit artikel vooral?",
+        question: "Waar voert het Israëlische leger aanvallen uit?",
         options: [
-          "De economie van Libanon",
-          "Een sportevenement in Israël",
-          "Een recente militaire aanval in Libanon",
-          "Vredesonderhandelingen in de regio"
+          "Nederland",
+          "Libanon",
+          "Duitsland",
+          "België"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Wat is de rol van de internationale gemeenschap volgens de tekst?",
+        question: "Wat is de betekenis van 'dodelijke' in deze context?",
         options: [
-          "Die ondersteunt de aanvallen",
-          "Die is niet betrokken bij dit conflict",
-          "Die reageert met afkeuring op de situatie",
-          "Die organiseert vredesgesprekken volgende week"
+          "Levensbedreigend",
+          "Gezond",
+          "Vriendelijk",
+          "Onbelangrijk"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Hoe volgt men de ontwikkelingen in het Midden-Oosten?",
+        question: "Waar ligt Libanon ten opzichte van Israël?",
         options: [
-          "Door erheen te reizen en alles zelf te zien",
-          "Door te wachten op officiële verklaringen",
-          "Via nieuwsberichten en journalisten op locatie",
-          "Door alleen naar de politiek te kijken"
+          "Ten noorden van",
+          "Ten zuiden van",
+          "Ten oosten van",
+          "Ten westen van"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De aanvallen vonden plaats in Libanon.",
-        isTrue: true
-      },
-      {
-        statement: "Er zijn geen slachtoffers gevallen tijdens deze aanvallen.",
+        statement: "Het Israëlische leger voert aanvallen uit in Nederland.",
         isTrue: false
       },
       {
-        statement: "Journalisten proberen de ontwikkelingen op de voet te volgen.",
+        statement: "Libanon ligt ten noorden van Israël.",
         isTrue: true
+      },
+      {
+        statement: "Het Midden-Oosten is een regio zonder conflicten.",
+        isTrue: false
       }
     ]
   },
@@ -2779,104 +2761,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Navo-baas Mark Rutte waarschuwt Poetin: 'Nucleaire oorlog kan nooit gewonnen worden'",
+    title: "VS heffen sancties tegen Syrië op",
     topicNumber: 1,
     article: {
-      title: "NATO-leider Mark Rutte waarschuwt Poetin: 'Nucleaire oorlog kan nooit gewonnen worden'",
-      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+      title: "VS heffen sancties tegen Syrië op",
+      summary: "De Amerikaanse president Donald Trump heeft tijdens een ontmoeting met de Syrische minister van Buitenlandse Zaken, Walid al-Moallem, aangekondigd dat de Verenigde Staten de sancties tegen Syrië zullen opschorten. Dit gebeurt in de hoop op een vreedzame oplossing voor het conflict. De internationale gemeenschap volgt de situatie nauwlettend."
     },
     vocabulary: {
       words: [
         {
-          word: "oorlog",
-          definition: "Een gewapend conflict tussen landen of groepen",
-          sentence: "De ___ in Oekraïne duurt nu al maanden.",
-          answer: "oorlog"
+          word: "sancties",
+          definition: "straffen die een land aan een ander land oplegt",
+          sentence: "De Verenigde Naties hebben nieuwe ___ opgelegd aan het land.",
+          answer: "sancties"
         },
         {
-          word: "Oekraïne",
-          definition: "Een land in Oost-Europa",
-          sentence: "___ is momenteel het centrum van internationale aandacht.",
-          answer: "Oekraïne"
+          word: "Syrische",
+          definition: "betreffende Syrië",
+          sentence: "De ___ regering heeft een verklaring uitgegeven.",
+          answer: "Syrische"
         },
         {
-          word: "melding",
-          definition: "Een bericht of aankondiging",
-          sentence: "Ik kreeg een ___ op mijn telefoon dat het feest is afgelast.",
-          answer: "melding"
+          word: "op",
+          definition: "hier als deel van 'heffen op', maar op zichzelf heeft het geen losse definitie in deze context",
+          sentence: "De regering heeft de wet ___ laten gaan.",
+          answer: "op"
         },
         {
-          word: "ontwikkelingen",
-          definition: "Veranderingen of nieuwe gebeurtenissen",
-          sentence: "De recente ___ in de technologie zijn verbazingwekkend.",
-          answer: "ontwikkelingen"
+          word: "op",
+          definition: "hier gebruikt als deel van 'heffen op', wat betekent 'intrekken' of 'niet meer van kracht laten zijn'",
+          sentence: "De regering heeft de maatregel ___ laten gaan.",
+          answer: "op"
         },
         {
-          word: "Poetin",
-          definition: "De president van Rusland",
-          sentence: "___ heeft de invasie van Oekraïne bevolen.",
-          answer: "Poetin"
+          word: "Syrië",
+          definition: "een land in het Midden-Oosten",
+          sentence: "___ wordt al jaren geteisterd door oorlog.",
+          answer: "Syrië"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De recente ___ in de technologie zijn verbazingwekkend.",
-          answer: "ontwikkelingen"
+          sentence: "De regering heeft de maatregel ___ laten gaan.",
+          answer: "op"
         },
         {
-          sentence: "De ___ in Oekraïne duurt nu al maanden.",
-          answer: "oorlog"
+          sentence: "De Verenigde Naties hebben nieuwe ___ opgelegd aan het land.",
+          answer: "sancties"
         },
         {
-          sentence: "___ heeft de invasie van Oekraïne bevolen.",
-          answer: "Poetin"
+          sentence: "De regering heeft de wet ___ laten gaan.",
+          answer: "op"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'nucleaire oorlog'?",
+        question: "Wat betekent 'heffen' in deze context?",
         options: [
-          "Een oorlog die wordt uitgevochten met kernwapens",
-          "Een ruzie tussen twee familieleden",
-          "Een sportwedstrijd die op tv wordt uitgezonden",
-          "Een oud boek over geschiedenis"
+          "vernietigen",
+          "bekrachtigen",
+          "intrekken",
+          "afkondigen"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Waarom waarschuwt Mark Rutte Poetin?",
+        question: "Waarom heft de VS de sancties tegen Syrië op?",
         options: [
-          "Omdat Rusland kernwapens heeft en de situatie gevaarlijk is",
-          "Omdat Rutte een etentje met hem wil plannen",
-          "Omdat Poetin graag schaakt en Rutte hem wil uitdagen",
-          "Omdat Rutte de Russische taal leuk vindt"
+          "Om Syrië te straffen",
+          "Om een signaal te geven",
+          "Vanwege een akkoord",
+          "Op verzoek van de VN"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
-        question: "Wat is de hoofdstad van Oekraïne?",
+        question: "Wat is de rol van de internationale gemeenschap?",
         options: [
-          "Kiev",
-          "Moskou",
-          "Berlijn",
-          "Parijs"
+          "De sancties opleggen",
+          "De situatie volgen",
+          "De VS adviseren",
+          "Geen rol spelen"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Oekraïne is een klein land in Zuid-Amerika.",
-        isTrue: false
-      },
-      {
-        statement: "Nucleaire oorlog kan nooit gewonnen worden, daarom is het zo gevaarlijk.",
+        statement: "De VS heft de sancties op om Syrië te helpen.",
         isTrue: true
       },
       {
-        statement: "Mark Rutte is de president van de Verenigde Staten.",
+        statement: "De sancties zijn permanent ingetrokken.",
         isTrue: false
+      },
+      {
+        statement: "De internationale gemeenschap ondersteunt deze stap.",
+        isTrue: true
       }
     ]
   },
@@ -2885,103 +2867,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
+    title: "Net hierdoor voel ik mij als brave burger radicaliseren: pro-Palestijns protest in Antwerpen opnieuw weggespoeld met waterkanon",
     topicNumber: 1,
     article: {
-      title: "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
-      summary: "Zaterdag zaten vijftien overlevers van misbruik samen met paus Leo XIV. Over dat gesprek zijn de zes mensen die De Standaard nadien kon spreken voorzichtig positief. Al zijn er geen concrete afspraken gemaakt over wat er in praktijk gaat veranderen. 'Als de paus het antwoord niet wist, zei hij dat ook eerlijk.'"
+      title: "Net hierdoor voel ik mij als brave burger radicaliseren: pro-Palestijns protest in Antwerpen opnieuw weggespoeld met waterkanon",
+      summary: "Voor de tweede week op rij is pro-Palestijns protest in Antwerpen uitgedraaid op een confrontatie tussen betogers en de oproerpolitie. Zeven manifestanten werden bestuurlijk aangehouden. 'Tot voor kort verliep alles nochtans heel gemoedelijk.'"
     },
     vocabulary: {
       words: [
         {
-          word: "afspraken",
-          definition: "afspraken die gemaakt zijn om iets te regelen",
-          sentence: "Er zijn nieuwe afspraken gemaakt om dit in de toekomst te voorkomen.",
-          answer: "afspraken"
+          word: "bestuurlijk",
+          definition: "op bestuurlijk of organisatorisch vlak",
+          sentence: "De maatregel was vooral ___ van aard.",
+          answer: "bestuurlijk"
         },
         {
-          word: "gesprek",
-          definition: "een gesprek tussen twee of meer mensen",
-          sentence: "Tijdens het gesprek met de paus werden veel zorgen gedeeld.",
-          answer: "gesprek"
+          word: "radicaliseren",
+          definition: "radicaal of extreem worden in gedrag of ideeën",
+          sentence: "Hij begon te ___ na de incidenten.",
+          answer: "radicaliseren"
         },
         {
-          word: "misbruik",
-          definition: "het op een verkeerde of schadelijke manier gebruiken van iets of iemand",
-          sentence: "Het misbruik van vertrouwen leidde tot veel verdriet.",
-          answer: "misbruik"
+          word: "waterkanon",
+          definition: "een voertuig dat water spuit om mensen uiteen te drijven",
+          sentence: "Het ___ werd ingezet tegen de betogers.",
+          answer: "waterkanon"
         },
         {
-          word: "eerlijk",
-          definition: "op een oprechte en correcte manier, zonder te bedriegen",
-          sentence: "Wees altijd eerlijk over wat je weet of niet weet.",
-          answer: "eerlijk"
+          word: "betogers",
+          definition: "mensen die demonstreren of protesteren",
+          sentence: "De ___ voerden actie voor hun rechten.",
+          answer: "betogers"
         },
         {
-          word: "overlevers",
-          definition: "mensen die een moeilijke of gevaarlijke situatie hebben meegemaakt en nu nog leven",
-          sentence: "De overlevers van het misbruik vertelden hun verhaal aan de paus.",
-          answer: "overlevers"
+          word: "confrontatie",
+          definition: "een conflict of botsing tussen partijen",
+          sentence: "De ___ leidde tot verschillende arrestaties.",
+          answer: "confrontatie"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Tijdens het gesprek met de paus werden veel zorgen gedeeld.",
-          answer: "gesprek"
+          sentence: "Hij begon te ___ na de incidenten.",
+          answer: "radicaliseren"
         },
         {
-          sentence: "De overlevers van het misbruik vertelden hun verhaal aan de paus.",
-          answer: "overlevers"
+          sentence: "De maatregel was vooral ___ van aard.",
+          answer: "bestuurlijk"
         },
         {
-          sentence: "Het misbruik van vertrouwen leidde tot veel verdriet.",
-          answer: "misbruik"
+          sentence: "Het ___ werd ingezet tegen de betogers.",
+          answer: "waterkanon"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat was de houding van de overlevers na het gesprek met de paus?",
+        question: "Waarom werden de manifestanten aangehouden?",
         options: [
-          "Ze waren erg boos.",
-          "Ze waren voorzichtig positief.",
-          "Ze waren volledig negatief.",
-          "Ze waren onverschillig."
+          "Omdat ze vreedzaam demonstreerden",
+          "Omdat ze de wet overtraden tijdens de protesten",
+          "Omdat ze te laat waren voor de start",
+          "Omdat ze met te veel mensen waren"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een belangrijk gevolg van dit gesprek volgens de tekst?",
+        question: "Wat was de houding van de politie tijdens het incident?",
         options: [
-          "Er zijn nieuwe wetten gemaakt.",
-          "Er zijn geen concrete afspraken gemaakt.",
-          "De paus heeft zich verontschuldigd.",
-          "De paus is ontslagen."
+          "Ze bleven volledig afzijdig",
+          "Ze werkten nauw samen met de betogers",
+          "Ze grepen in met onder andere een waterkanon",
+          "Ze versterkten de manifestanten in hun acties"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Hoe reageerde de paus op vragen die hij niet kon beantwoorden?",
+        question: "Hoe verliep de situatie volgens de beschrijving?",
         options: [
-          "Hij bleef stil.",
-          "Hij verzon een antwoord.",
-          "Hij gaf dat eerlijk toe.",
-          "Hij veranderde van onderwerp."
+          "Er was alleen maar samenwerking",
+          "Het ging om geweld van beide kanten",
+          "Het verliep gemoedelijk tot kort voor het einde",
+          "De politie was de hele tijd afwezig"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Het gesprek tussen de overlevers en de paus vond plaats op een zaterdag.",
-        isTrue: true
-      },
-      {
-        statement: "De paus kon alle vragen van de overlevers direct beantwoorden.",
+        statement: "De betoging in Antwerpen verliep zonder enig probleem voor het einde.",
         isTrue: false
       },
       {
-        statement: "De overlevers waren teleurgesteld na het gesprek omdat er geen concrete afspraken werden gemaakt.",
+        statement: "Er werden zeven manifestanten aangehouden door de politie.",
+        isTrue: true
+      },
+      {
+        statement: "Het incident vond plaats tijdens een pro-Palestijnse betoging.",
         isTrue: true
       }
     ]
@@ -2991,104 +2973,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Auto rijdt in op agenten in Schaarbeek: “Geweld tegen politiemensen is onaanvaardbaar”",
+    title: "Politie zet opnieuw waterkanon in bij pro-Palestijns protest in Antwerpen",
     topicNumber: 1,
     article: {
-      title: "Auto rijdt in op agenten in Schaarbeek: “Geweld tegen politiemensen is onaanvaardbaar”",
-      summary: "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
+      title: "Politie zet opnieuw waterkanon in bij pro-Palestijns protest in Antwerpen",
+      summary: "De Antwerpse Coalitie voor Palestina betoogt maandagavond in de Antwerpse binnenstad opnieuw tegen de genocide in Gaza. De politie heeft de demonstranten richting het Steenplein verdreven, verschillende betogers zijn opgepakt."
     },
     vocabulary: {
       words: [
         {
-          word: "auto",
-          definition: "een voertuig voor personenvervoer",
-          sentence: "De bestuurder van de ___ reed in op de agenten.",
-          answer: "auto"
+          word: "verdreven",
+          definition: "Gedwongen weggejaagd of verspreid.",
+          sentence: "De menigte werd ___ door de politie naar de zijstraten.",
+          answer: "verdreven"
         },
         {
-          word: "agenten",
-          definition: "politiemensen",
-          sentence: "De ___ controleerden het verkeer toen de auto bijna hen raakte.",
-          answer: "agenten"
+          word: "genocide",
+          definition: "Een geplande vernietiging van een hele bevolkingsgroep.",
+          sentence: "De VN onderzoekt de beschuldigingen van ___ in de regio.",
+          answer: "genocide"
         },
         {
-          word: "onderzoek",
-          definition: "een systematische studie om feiten vast te stellen",
-          sentence: "Het parket heeft een ___ geopend naar wat er precies is gebeurd.",
-          answer: "onderzoek"
+          word: "demonstranten",
+          definition: "Mensen die deelnemen aan een protest of betoging.",
+          sentence: "De ___ hielden borden met leuzen erop.",
+          answer: "demonstranten"
         },
         {
-          word: "moord",
-          definition: "het opzettelijk doden van een ander persoon",
-          sentence: "Hij wordt verdacht van ___ op zijn buurman.",
-          answer: "moord"
+          word: "politie",
+          definition: "De organisatie die zorgt voor openbare veiligheid en handhaving van de wet.",
+          sentence: "De ___ trad op met waterkanonnen tijdens het protest.",
+          answer: "politie"
         },
         {
-          word: "motief",
-          definition: "de reden waarom iemand iets doet",
-          sentence: "Er is nog geen duidelijkheid over het ___ van de dader.",
-          answer: "motief"
+          word: "betoogt",
+          definition: "Vecht voor of spreekt zich uit voor een zaak.",
+          sentence: "Hij ___ voor dierenrechten tijdens de vergadering.",
+          answer: "betoogt"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ controleerden het verkeer toen de auto bijna hen raakte.",
-          answer: "agenten"
+          sentence: "De VN onderzoekt de beschuldigingen van ___ in de regio.",
+          answer: "genocide"
         },
         {
-          sentence: "Het parket heeft een ___ geopend naar wat er precies is gebeurd.",
-          answer: "onderzoek"
+          sentence: "Hij ___ voor dierenrechten tijdens de vergadering.",
+          answer: "betoogt"
         },
         {
-          sentence: "Er is nog geen duidelijkheid over het ___ van de dader.",
-          answer: "motief"
+          sentence: "De ___ trad op met waterkanonnen tijdens het protest.",
+          answer: "politie"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat werd er in Schaarbeek afgelopen zaterdagochtend gedaan?",
+        question: "Waarom gebruikte de politie een waterkanon tijdens het protest?",
         options: [
-          "Er werd een auto ingereden op agenten.",
-          "Er werd een feest georganiseerd.",
-          "De politie hield een controle.",
-          "Er was een verkeersongeval."
+          "Om de demonstranten te vermaken",
+          "Om de menigte uiteen te drijven",
+          "Om water te besparen",
+          "Om de aandacht af te leiden"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat is de rol van het parket in deze situatie?",
+        question: "Wat was het hoofddoel van de betoging in Antwerpen?",
         options: [
-          "Het parket heeft een onderzoek geopend naar poging tot moord.",
-          "Het parket organiseert een feest voor de agenten.",
-          "Het parket stelt de dader voor in de rechtbank.",
-          "Het parket geeft een verklaring over het motief."
+          "Tegen dierenrechten",
+          "Tegen de genocide in Gaza",
+          "Voor meer toerisme",
+          "Tegen de lokale politie"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat is er op dit moment bekend over het motief van de dader?",
+        question: "Hoe reageerde de politie op de demonstratie?",
         options: [
-          "Er is nog geen duidelijkheid over het motief.",
-          "Het motief is bekend en wordt vrijgegeven.",
-          "Het motief is onbelangrijk voor het onderzoek.",
-          "Het motief is al diepgaand onderzocht."
+          "Door niets te doen",
+          "Door de groep te verdrijven en sommigen aan te houden",
+          "Door iedereen direct aan te houden",
+          "Door de groep uit te nodigen voor een feest"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De agenten waren aan het controleren van een voertuig toen het incident plaatsvond.",
-        isTrue: true
-      },
-      {
-        statement: "Het motief van de dader is al volledig bekend en bevestigd.",
+        statement: "De politie heeft geen waterkanon ingezet tijdens het protest.",
         isTrue: false
       },
       {
-        statement: "Het parket heeft een onderzoek geopend naar poging tot moord.",
+        statement: "De betoging vond plaats in Antwerpen tegen de situatie in Gaza.",
         isTrue: true
+      },
+      {
+        statement: "Er werden geen demonstranten aangehouden.",
+        isTrue: false
       }
     ]
   },
@@ -3097,103 +3079,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Inwoner van Kapellen vindt een handgranaat voor zijn poort: “Zo raar is dat toch niet, mijnheer?”",
+    title: "Ook in de gevangenis van de toekomst in Haren komen stapelbedden",
     topicNumber: 1,
     article: {
-      title: "Inwoner van Kapellen vindt een handgranaat voor zijn poort: “Zo raar is dat toch niet, mijnheer?”",
-      summary: "In Borgerhout is zaterdagnacht een explosief ontploft voor de deur van een woning. Onbekenden hebben vannacht ook een handgranaat achtergelaten voor een woning in Kapellen. Er is voorlopig geen sprake van een link tussen de twee feiten."
+      title: "Ook in de gevangenis van de toekomst in Haren komen stapelbedden",
+      summary: "De cipiersvakbonden hebben een stakingsaanzegging ingediend omdat nu ook in de gevangenis van Haren stapelbedden worden geplaatst. Nochtans is de gevangenis ontworpen rond het idee van 'individuele detentie'."
     },
     vocabulary: {
       words: [
         {
-          word: "link",
-          definition: "een verbinding of verband",
-          sentence: "Is er een ___ tussen beide incidenten?",
-          answer: "link"
+          word: "Haren",
+          definition: "De naam van een plaats, hier de gevangenis van Haren.",
+          sentence: "De gevangenis in ___ is modern.",
+          answer: "Haren"
         },
         {
-          word: "Inwoner",
-          definition: "iemand die in een bepaalde plaats woont",
-          sentence: "De ___ van dit dorp zijn erg vriendelijk.",
-          answer: "Inwoner"
+          word: "ontworpen",
+          definition: "Gemaakt, bedacht, of gepland.",
+          sentence: "Het gebouw was ___ voor 100 mensen.",
+          answer: "ontworpen"
         },
         {
-          word: "poort",
-          definition: "een grote deur, vaak van hout of ijzer",
-          sentence: "Hij opende de ___ om de tuin te zien.",
-          answer: "poort"
+          word: "gevangenis",
+          definition: "Een plaats waar mensen worden vastgehouden als straf voor een misdrijf.",
+          sentence: "Hij zat vijf jaar in de ___.",
+          answer: "gevangenis"
         },
         {
-          word: "handgranaat",
-          definition: "een soort explosief wapen",
-          sentence: "De politie vond een ___ in zijn tas.",
-          answer: "handgranaat"
+          word: "stapelbedden",
+          definition: "Bedden die boven op elkaar zijn geplaatst, om ruimte te besparen.",
+          sentence: "In de kleine kamer stond een ___.",
+          answer: "stapelbedden"
         },
         {
-          word: "vindt",
-          definition: "ontdekt of ziet iets",
-          sentence: "Hij ___ een euro op straat en was blij.",
-          answer: "vindt"
+          word: "detentie",
+          definition: "De vrijheidsstraf waarbij iemand wordt vastgehouden.",
+          sentence: "Hij zat in ___ voor drie jaar.",
+          answer: "detentie"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Is er een ___ tussen beide incidenten?",
-          answer: "link"
+          sentence: "De gevangenis in ___ is modern.",
+          answer: "Haren"
         },
         {
-          sentence: "De ___ van dit dorp zijn erg vriendelijk.",
-          answer: "Inwoner"
+          sentence: "In de kleine kamer stond een ___.",
+          answer: "stapelbedden"
         },
         {
-          sentence: "Hij opende de ___ om de tuin te zien.",
-          answer: "poort"
+          sentence: "Hij zat in ___ voor drie jaar.",
+          answer: "detentie"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat vond de man in Kapellen voor zijn poort?",
+        question: "Waarom hebben de cipiersvakbonden een stakingsaanzegging ingediend?",
         options: [
-          "Een brief",
-          "Een fiets",
-          "Een handgranaat",
-          "Een hond"
+          "Omdat de gevangenis te koud is",
+          "Omdat er stapelbedden worden geplaatst",
+          "Omdat de cipiers te weinig betaald worden",
+          "Omdat er een nieuw gevangenisbeleid is"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is het tegenovergestelde van individuele detentie?",
+        options: [
+          "Gedeelde detentie",
+          "Gezamenlijke detentie",
+          "Collectieve detentie",
+          "Geen detentie"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat gebeurde er in Borgerhout volgens de samenvatting?",
+        question: "Wat is de hoofdgedachte van de tekst?",
         options: [
-          "Er was een brand",
-          "Er ontplofte een explosief",
-          "Er was een feest",
-          "Er was niets gebeurd"
+          "De gevangenis is een vakantieoord",
+          "Stapelbedden zijn oncomfortabel",
+          "Individuele detentie wordt niet toegepast in Haren",
+          "De cipiers zijn in staking"
         ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat is de huidige situatie volgens de samenvatting?",
-        options: [
-          "Er is een link bewezen",
-          "Er is geen link nog",
-          "Er zijn arrestaties",
-          "Er is niets bekend"
-        ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De man in Kapellen vond een handgranaat voor zijn deur.",
+        statement: "De gevangenis van Haren gebruikt stapelbedden.",
         isTrue: true
       },
       {
-        statement: "Er is al een link bewezen tussen de twee incidenten.",
+        statement: "De cipiersvakbonden zijn tevreden met de situatie.",
         isTrue: false
       },
       {
-        statement: "Er was een explosie in Borgerhout.",
+        statement: "De gevangenis is ontworpen voor individuele detentie.",
         isTrue: true
       }
     ]

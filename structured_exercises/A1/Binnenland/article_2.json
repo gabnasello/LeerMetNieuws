@@ -1,105 +1,105 @@
 {
-  "id": 25,
+  "id": 24,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Auto rijdt in op agenten in Schaarbeek: “Geweld tegen politiemensen is onaanvaardbaar”",
+  "title": "Politie gebruikt waterkanon bij protest in Antwerpen",
   "topicNumber": 1,
   "article": {
-    "title": "Auto rijdt in op agenten in Schaarbeek: “Geweld tegen politiemensen is onaanvaardbaar”",
-    "summary": "In Schaarbeek is zaterdagochtend een auto ingereden op agenten die een voertuig aan het controleren waren. Het parket heeft een onderzoek geopend naar poging tot moord. Over het motief van de dader is nog geen duidelijkheid."
+    "title": "Politie gebruikt waterkanon bij protest in Antwerpen",
+    "summary": "De politie gebruikte een waterkanon tijdens een protest in Antwerpen. Mensen demonstreerden voor Palestina. De politie heeft enkele demonstranten opgepakt."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "dader",
-        "definition": "iemand die iets slechts doet",
-        "sentence": "De ___ is nog niet gevonden.",
-        "answer": "dader"
+        "word": "Antwerpen",
+        "definition": "Een stad in België",
+        "sentence": "Het protest was in ___.",
+        "answer": "Antwerpen"
       },
       {
-        "word": "poging",
-        "definition": "een poging om iets te doen",
-        "sentence": "Hij deed een ___ tot moord.",
-        "answer": "poging"
+        "word": "gebruikte",
+        "definition": "Heeft gebruikt, het verleden van gebruiken",
+        "sentence": "De politie ___ een waterkanon.",
+        "answer": "gebruikte"
       },
       {
-        "word": "agenten",
-        "definition": "mensen die de wet handhaven",
-        "sentence": "De ___ werken voor de politie.",
-        "answer": "agenten"
+        "word": "protest",
+        "definition": "Een actie om onvrede te uiten",
+        "sentence": "Het ___ was vreedzaam.",
+        "answer": "protest"
       },
       {
-        "word": "controleren",
-        "definition": "nakijken of iets klopt",
-        "sentence": "De politie wil een voertuig ___.",
-        "answer": "controleren"
+        "word": "waterkanon",
+        "definition": "Een apparaat dat water spuit",
+        "sentence": "Een ___ spuit water om mensen te verjagen.",
+        "answer": "waterkanon"
       },
       {
-        "word": "auto",
-        "definition": "een voertuig voor transport",
-        "sentence": "De ___ rijdt op de weg.",
-        "answer": "auto"
+        "word": "demonstreerden",
+        "definition": "Zij lieten hun mening zien in het openbaar",
+        "sentence": "De groep ___ voor hun rechten.",
+        "answer": "demonstreerden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De politie wil een voertuig ___.",
-        "answer": "controleren"
+        "sentence": "Het ___ was vreedzaam.",
+        "answer": "protest"
       },
       {
-        "sentence": "De ___ werken voor de politie.",
-        "answer": "agenten"
+        "sentence": "Een ___ spuit water om mensen te verjagen.",
+        "answer": "waterkanon"
       },
       {
-        "sentence": "Hij deed een ___ tot moord.",
-        "answer": "poging"
+        "sentence": "Het protest was in ___.",
+        "answer": "Antwerpen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom controleerde de politie het voertuig?",
+      "question": "Waar was het protest?",
       "options": [
-        "Om de auto te stelen",
-        "Om de bestuurder te arresteren",
-        "Omdat het verkeerd geparkeerd was",
-        "Om een vermist persoon te vinden"
+        "Amsterdam",
+        "Antwerpen",
+        "Brussel",
+        "Parijs"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van het parket in deze situatie?",
+      "question": "Wat gebruikte de politie?",
       "options": [
-        "Het parket bouwt huizen",
-        "Het parket heeft een onderzoek geopend",
-        "Het parket verkoopt auto's",
-        "Het parket is een restaurant"
+        "Een auto",
+        "Een waterkanon",
+        "Een vlag",
+        "Een camera"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de toestand van de dader?",
+      "question": "Wat deden sommige demonstranten?",
       "options": [
-        "De dader is gearresteerd",
-        "De dager is onbekend",
-        "De dager is op vakantie",
-        "De dader is een politieagent"
+        "Ze gingen naar huis",
+        "Ze werden opgepakt",
+        "Ze gingen dansen",
+        "Ze gingen sporten"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De auto is de dader in dit incident.",
+      "statement": "Het protest was in Antwerpen.",
       "isTrue": true
     },
     {
-      "statement": "De agenten waren aan het rijden tijdens het incident.",
-      "isTrue": false
+      "statement": "De politie gebruikte een waterkanon.",
+      "isTrue": true
     },
     {
-      "statement": "Het motief van de dader is al bekend.",
+      "statement": "Alle demonstraten werden opgepakt.",
       "isTrue": false
     }
   ]
