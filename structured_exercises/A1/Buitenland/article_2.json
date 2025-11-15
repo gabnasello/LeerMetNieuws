@@ -1,94 +1,106 @@
 {
-  "id": 11,
+  "id": 10,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Israël en Libanon",
+  "title": "Chinese hackers gebruiken AI",
   "topicNumber": 1,
   "article": {
-    "title": "Israël en Libanon",
-    "summary": "Er gebeuren dingen tussen Israël en Libanon."
+    "title": "Chinese hackers gebruiken AI",
+    "summary": "Chinese hackers gebruiken AI voor aanvallen. Dit is een groot probleem."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Israël",
-        "definition": "een land",
-        "sentence": "___ ligt in het Midden-Oosten.",
-        "answer": "Israël"
+        "word": "aanvallen",
+        "definition": "iemand of iets met geweld aanvallen",
+        "sentence": "Ze ___ andere computers.",
+        "answer": "aanvallen"
       },
       {
-        "word": "Libanon",
-        "definition": "een ander land",
-        "sentence": "___ is een buurland van Israël.",
-        "answer": "Libanon"
+        "word": "Chinese",
+        "definition": "uit China",
+        "sentence": "___ hackers gebruiken AI.",
+        "answer": "Chinese"
       },
       {
-        "word": "gebeuren",
-        "definition": "iets wat plaatsvindt",
-        "sentence": "Wat ___ er in het nieuws?",
-        "answer": "gebeuren"
+        "word": "groot",
+        "definition": "niet klein, maar van grote omvang",
+        "sentence": "Dit is een ___ probleem.",
+        "answer": "groot"
+      },
+      {
+        "word": "gebruiken",
+        "definition": "iets doen met iets",
+        "sentence": "Ze ___ AI voor aanvallen.",
+        "answer": "gebruiken"
+      },
+      {
+        "word": "AI",
+        "definition": "kunstmatige intelligentie, zoals een robotbrein",
+        "sentence": "Ze gebruiken ___ voor aanvallen.",
+        "answer": "AI"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Wat ___ er in het nieuws?",
-        "answer": "gebeuren"
+        "sentence": "Dit is een ___ probleem.",
+        "answer": "groot"
       },
       {
-        "sentence": "___ is een buurland van Israël.",
-        "answer": "Libanon"
+        "sentence": "Ze gebruiken ___ voor aanvallen.",
+        "answer": "AI"
       },
       {
-        "sentence": "___ ligt in het Midden-Oosten.",
-        "answer": "Israël"
+        "sentence": "___ hackers gebruiken AI.",
+        "answer": "Chinese"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar ligt Israël?",
+      "question": "Wat gebruiken de hackers?",
       "options": [
-        "In Azië",
-        "In Europa",
-        "In Afrika",
-        "In het Midden-Oosten"
-      ],
-      "correctAnswer": 4
-    },
-    {
-      "question": "Wat is een aanval?",
-      "options": [
-        "Een soort dier",
-        "Een soort plant",
-        "Een soort weer",
-        "Een soort geweld"
-      ],
-      "correctAnswer": 4
-    },
-    {
-      "question": "Wat is het Midden-Oosten?",
-      "options": [
-        "Een continent",
-        "Een stad",
-        "Een gebied",
-        "Een rivier"
+        "eten",
+        "drinken",
+        "AI",
+        "auto"
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "Wat is het tegenovergestelde van veiligheid?",
+      "options": [
+        "gevaar",
+        "geluk",
+        "vrede",
+        "zon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Is dit een klein probleem?",
+      "options": [
+        "Ja",
+        "Nee",
+        "Soms",
+        "Misschien"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Israël ligt in het Midden-Oosten.",
+      "statement": "De hackers gebruiken AI.",
       "isTrue": true
     },
     {
-      "statement": "Libanon is een stad.",
+      "statement": "Cyberveiligheid is niet belangrijk.",
       "isTrue": false
     },
     {
-      "statement": "Een aanval kan dodelijk zijn.",
-      "isTrue": true
+      "statement": "Dit is een klein probleem.",
+      "isTrue": false
     }
   ]
 }

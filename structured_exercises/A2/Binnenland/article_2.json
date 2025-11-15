@@ -1,105 +1,105 @@
 {
-  "id": 25,
+  "id": 26,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Politie gebruikt waterkanon tijdens protest in Antwerpen",
+  "title": "Lieve C. (88) overleden",
   "topicNumber": 1,
   "article": {
-    "title": "Politie gebruikt waterkanon tijdens protest in Antwerpen",
-    "summary": "De politie heeft een waterkanon gebruikt tijdens een pro-Palestijns protest in Antwerpen. Verschillende betogers zijn opgepakt."
+    "title": "Lieve C. (88) overleden",
+    "summary": "Lieve Cerstelotte is overleden. Ze was 88 jaar. Ze is geboren in 1937 en overleden op 12 november 2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Antwerpen",
-        "definition": "Een stad in België.",
-        "sentence": "___ is een grote stad met veel mensen.",
-        "answer": "Antwerpen"
+        "word": "geboren",
+        "definition": "begonnen met leven, uitgekomen uit de moeder",
+        "sentence": "Ze werd ___ in 1937.",
+        "answer": "geboren"
       },
       {
-        "word": "protest",
-        "definition": "Een bijeenkomst waar mensen hun ongenoegen uiten.",
-        "sentence": "Het ___ was vreedzaam tot de politie kwam.",
-        "answer": "protest"
+        "word": "overleden",
+        "definition": "niet meer levend, dood",
+        "sentence": "Hij is ___ na een ongeluk.",
+        "answer": "overleden"
       },
       {
-        "word": "waterkanon",
-        "definition": "Een apparaat dat water spuit, vaak voor controle van menigten.",
-        "sentence": "Het ___ spuit water om mensen weg te jagen.",
-        "answer": "waterkanon"
+        "word": "Cerstelotte",
+        "definition": "een naam van een persoon",
+        "sentence": "___ was de achternaam van de overledene.",
+        "answer": "Cerstelotte"
       },
       {
-        "word": "Politie",
-        "definition": "Mensen die de wet handhaven.",
-        "sentence": "De ___ controleert de stad.",
-        "answer": "Politie"
+        "word": "Lieve",
+        "definition": "een manier om iemand aan te spreken, vriendelijk",
+        "sentence": "___ is een woord dat vaak wordt gebruikt in brieven.",
+        "answer": "Lieve"
       },
       {
-        "word": "protest",
-        "definition": "Een uiting van ontevredenheid, vaak publiekelijk.",
-        "sentence": "Het ___ was vreedzaam ondanks de drukte.",
-        "answer": "protest"
+        "word": "overleden",
+        "definition": "niet meer levend, dood",
+        "sentence": "Hij is ___ na een lang ziekbed.",
+        "answer": "overleden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ spuit water om mensen weg te jagen.",
-        "answer": "waterkanon"
+        "sentence": "Ze werd ___ in 1937.",
+        "answer": "geboren"
       },
       {
-        "sentence": "De ___ controleert de stad.",
-        "answer": "Politie"
+        "sentence": "___ is een woord dat vaak wordt gebruikt in brieven.",
+        "answer": "Lieve"
       },
       {
-        "sentence": "Het ___ was vreedzaam ondanks de drukte.",
-        "answer": "protest"
+        "sentence": "Hij is ___ na een lang ziekbed.",
+        "answer": "overleden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is een waterkanon?",
+      "question": "In welke maand overleed Lieve Cerstelotte?",
       "options": [
-        "Een soort wapen",
-        "Een type auto",
-        "Een gebouw",
-        "Een park"
+        "januari",
+        "februari",
+        "november",
+        "december"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Hoe oud was Lieve Cerstelotte toen ze overleed?",
+      "options": [
+        "88 jaar",
+        "89 jaar",
+        "90 jaar",
+        "91 jaar"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waarom werd er een waterkanon ingezet?",
+      "question": "In welk jaar is Lieve Cerstelotte geboren?",
       "options": [
-        "Om planten water te geven",
-        "Tegen betogers",
-        "Voor een feest",
-        "Omdat het regende"
+        "1935",
+        "1936",
+        "1937",
+        "1938"
       ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat gebeurde er met sommige betogers?",
-      "options": [
-        "Zij gingen naar huis",
-        "Ze werden opgepakt",
-        "Ze wonnen een prijs",
-        "Ze gingen eten"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De politie gebruikte een waterkanon tijdens het protest.",
+      "statement": "Lieve Cerstelotte overleed in november.",
       "isTrue": true
     },
     {
-      "statement": "Het protest vond plaats in Brussel.",
+      "statement": "Lieve Cerstelotte was 90 jaar oud toen ze overleed.",
       "isTrue": false
     },
     {
-      "statement": "Enkele betogers werden opgepakt door de politie.",
+      "statement": "Lieve Cerstelotte werd geboren in 1937.",
       "isTrue": true
     }
   ]

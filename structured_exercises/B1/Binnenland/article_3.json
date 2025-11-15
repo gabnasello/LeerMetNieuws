@@ -1,106 +1,75 @@
 {
-  "id": 21,
+  "id": 22,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Ook in “de gevangenis van de toekomst” in Haren, die zou inzetten op individuele detentie, komen er nu stapelbedden",
+  "title": "Marguerite Destrooper, 92 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Ook in “de gevangenis van de toekomst” in Haren, die zou inzetten op individuele detentie, komen er nu stapelbedden",
-    "summary": "De cipiersvakbonden hebben een stakingsaanzegging ingediend omdat nu ook in de gevangenis van Haren stapelbedden worden geplaatst. Nochtans is de gevangenis ontworpen rond het idee van “individuele detentie”."
+    "title": "Marguerite Destrooper, 92 jaar",
+    "summary": "Geboren in 1933, overleden op 20/10/2025"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "stapelbedden",
-        "definition": "meerdere bedden op elkaar gestapeld om ruimte te besparen",
-        "sentence": "In kleine kamers worden soms ___ gebruikt om meer mensen te laten slapen.",
-        "answer": "stapelbedden"
+        "word": "geboren",
+        "definition": "het moment dat iemand wordt geboren",
+        "sentence": "Ze werd ___ in 1933.",
+        "answer": "geboren"
       },
       {
-        "word": "stakingsaanzegging",
-        "definition": "een formele aankondiging dat er gestaakt zal worden",
-        "sentence": "De vakbond heeft een ___ gedaan om hun eisen kracht bij te zetten.",
-        "answer": "stakingsaanzegging"
-      },
-      {
-        "word": "gevangenis",
-        "definition": "een plaats waar mensen worden vastgehouden als straf",
-        "sentence": "De ___ is een plek waar mensen niet vrijuit mogen gaan.",
-        "answer": "gevangenis"
-      },
-      {
-        "word": "ontworpen",
-        "definition": "gepland of gemaakt met een bepaald doel",
-        "sentence": "Het park was ___ om natuurlijk en rustgevend te zijn.",
-        "answer": "ontworpen"
-      },
-      {
-        "word": "individuele",
-        "definition": "alleen, voor één persoon",
-        "sentence": "Sommige mensen geven de voorkeur aan ___ activiteiten in plaats van teamsporten.",
-        "answer": "individuele"
+        "word": "overleden",
+        "definition": "niet meer levend, gestorven",
+        "sentence": "Hij is ___ op 20 oktober 2025.",
+        "answer": "overleden"
       }
     ],
-    "fillInBlanks": [
-      {
-        "sentence": "Sommige mensen geven de voorkeur aan ___ activiteiten in plaats van teamsporten.",
-        "answer": "individuele"
-      },
-      {
-        "sentence": "Het park was ___ om natuurlijk en rustgevend te zijn.",
-        "answer": "ontworpen"
-      },
-      {
-        "sentence": "De ___ is een plek waar mensen niet vrijuit mogen gaan.",
-        "answer": "gevangenis"
-      }
-    ]
+    "fillInBlanks": []
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat de tekst hoofdzakelijk over?",
+      "question": "In welk jaar is Marguerite Destrooper geboren?",
       "options": [
-        "Over gevangenen die willen protesteren",
-        "Over personeel van een gevangenis die gaat staken",
-        "Over de opening van een nieuwe gevangenis",
-        "Over een vakantiepark in Haren"
+        "1930",
+        "1933",
+        "1940",
+        "1950"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de situatie in de gevangenis van Haren momenteel?",
+      "question": "Wat is de overlijdensdatum van Marguerite Destrooper?",
       "options": [
-        "Er zijn te weinig cellen",
-        "Er is een tekort aan bewakers",
-        "Er worden stapelbedden geplaatst",
-        "De gevangenis wordt gesloten"
+        "20 oktober 2025",
+        "20 november 2025",
+        "20 december 2025",
+        "20 januari 2026"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Hoe oud was Marguerite Destrooper op het moment van overlijden?",
+      "options": [
+        "90 jaar",
+        "91 jaar",
+        "92 jaar",
+        "93 jaar"
       ],
       "correctAnswer": 3
-    },
-    {
-      "question": "Wat is het hoofddoel van de tekst?",
-      "options": [
-        "Mensen waarschuwen over de gevangenis",
-        "Uitleggen waarom men stakt",
-        "Promoten van individuele detentie",
-        "Laten zien hoe goed de gevangenis is"
-      ],
-      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De gevangenis in Haren is ontworpen voor individuele detentie.",
+      "statement": "Marguerite Destrooper is geboren in 1933.",
       "isTrue": true
     },
     {
-      "statement": "De staking is veroorzaakt omdat er te veel gevangenen zijn.",
-      "isTrue": true
-    },
-    {
-      "statement": "Stapelbedden worden gebruikt om meer ruimte te creëren.",
+      "statement": "Marguerite Destrooper is overleden in 2026.",
       "isTrue": false
+    },
+    {
+      "statement": "Marguerite Destrooper werd 92 jaar oud.",
+      "isTrue": true
     }
   ]
 }

@@ -1,100 +1,106 @@
 {
-  "id": 10,
+  "id": 9,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Shariyad",
+  "title": "Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”",
   "topicNumber": 1,
   "article": {
-    "title": "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Shariyad",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”",
+    "summary": "Het duizend jaar oude dorp Moerdijk verdwijnt. 1.100 inwoners moeten plaatsmaken voor de energietransitie en de verduurzaming van de haven. “Moet de industrie altijd het laatste woord hebben?”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "sancties",
-        "definition": "maatregelen die een land neemt tegen een ander land, vaak om politieke redenen",
-        "sentence": "De Verenigde Staten hebben nieuwe ___ tegen Rusland aangekondigd.",
-        "answer": "sancties"
+        "word": "verduurzaming",
+        "definition": "het proces om iets duurzaam, dus langdurig houdbaar, te maken",
+        "sentence": "De ___ van de haven is belangrijk voor het milieu.",
+        "answer": "verduurzaming"
       },
       {
-        "word": "Syrië",
-        "definition": "een land in het Midden-Oosten, officieel de Syrische Arabische Republiek",
-        "sentence": "___ is een land dat al jaren te maken heeft met conflicten.",
-        "answer": "Syrië"
+        "word": "dorp",
+        "definition": "een kleine woonplaats, kleiner dan een stad",
+        "sentence": "Het kleine ___ heeft een rijke geschiedenis.",
+        "answer": "dorp"
       },
       {
-        "word": "Trump",
-        "definition": "de familienaam van de voormalige president van de Verenigde Staten",
-        "sentence": "___ was de 45e president van de Verenigde Staten.",
-        "answer": "Trump"
+        "word": "wijken",
+        "definition": "een gebied verlaten, vaak onder druk",
+        "sentence": "De inwoners moeten ___ vanwege de uitbreiding van de haven.",
+        "answer": "wijken"
       },
       {
-        "word": "updates",
-        "definition": "bijgewerkte informatie of nieuwsberichten",
-        "sentence": "Volg de ___ op onze website voor het laatste nieuws.",
-        "answer": "updates"
+        "word": "industrie",
+        "definition": "alle bedrijven en activiteiten die producten maken of diensten leveren",
+        "sentence": "De ___ in deze regio is erg belangrijk voor de werkgelegenheid.",
+        "answer": "industrie"
+      },
+      {
+        "word": "energietransitie",
+        "definition": "de overgang naar het gebruik van duurzame energiebronnen",
+        "sentence": "De ___ is essentieel om klimaatverandering tegen te gaan.",
+        "answer": "energietransitie"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Volg de ___ op onze website voor het laatste nieuws.",
-        "answer": "updates"
+        "sentence": "De inwoners moeten ___ vanwege de uitbreiding van de haven.",
+        "answer": "wijken"
       },
       {
-        "sentence": "De Verenigde Staten hebben nieuwe ___ tegen Rusland aangekondigd.",
-        "answer": "sancties"
+        "sentence": "Het kleine ___ heeft een rijke geschiedenis.",
+        "answer": "dorp"
       },
       {
-        "sentence": "___ is een land dat al jaren te maken heeft met conflicten.",
-        "answer": "Syrië"
+        "sentence": "De ___ van de haven is belangrijk voor het milieu.",
+        "answer": "verduurzaming"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom heft de VS sancties tegen Syrië op?",
+      "question": "Waarom moeten de inwoners van Moerdijk hun dorp verlaten?",
       "options": [
-        "Om economische steun te bieden",
-        "Als onderdeel van een vredesakkoord",
-        "Vanwege een natuurlijke ramp in Syrië",
-        "Omdat de sancties niet langer nodig zijn"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is een mogelijk gevolg van het opheffen van sancties?",
-      "options": [
-        "Toenemende internationale spanningen",
-        "Verbeterde economische samenwerking",
-        "Verdere isolatie van het land",
-        "Geen enkel effect, het is symbolisch"
+        "Omdat er een nieuwe snelweg wordt aangelegd.",
+        "Omdat de overheid het gebied wil gebruiken voor de energietransitie.",
+        "Omdat het dorp verplaatst wordt voor de bouw van een groot winkelcentrum.",
+        "Omdat er een nieuwe luchthaven gepland is."
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoe reageerde de internationale gemeenschap op deze stap?",
+      "question": "Wat is de historische betekenis van het dorp Moerdijk?",
       "options": [
-        "Met scepsis, het is te vroeg voor optimisme",
-        "Met volledige steun, iedereen is het erover eens",
-        "Met verwarring, het is onduidelijk waarom het gebeurt",
-        "Met onverschilligheid, het maakt weinig uit"
+        "Het is een eeuwenoud dorp met een geschiedenis van duizend jaar.",
+        "Het is een modern dorp, gebouwd in de jaren negentig.",
+        "Het is vooral bekend als toeristische attractie.",
+        "Het heeft geen bijzondere historische achtergrond."
       ],
       "correctAnswer": 1
+    },
+    {
+      "question": "Hoe reageren de inwoners op de plannen?",
+      "options": [
+        "Ze zijn enthousiast en werken mee.",
+        "Ze zijn neutraal en wachten af.",
+        "Ze zijn boos en protesteren actief.",
+        "Ze zijn onverschillig en trekken zich niets aan."
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De sancties tegen Syrië werden opgeheven als onderdeel van een breder vredesakkoord.",
-      "isTrue": true
-    },
-    {
-      "statement": "Deze actie betekent dat Syrië nu volledig zelfvoorzienend is zonder internationale hulp.",
+      "statement": "Het dorp Moerdijk werd volledig verwoest tijdens de Watersnoodramp.",
       "isTrue": false
     },
     {
-      "statement": "President Trump noemde de opheffing een 'humanitaire stap'.",
+      "statement": "De energietransitie is een van de redenen dat het dorp moet verdwijnen.",
       "isTrue": true
+    },
+    {
+      "statement": "De haven van Moerdijk is de grootste van Europa.",
+      "isTrue": false
     }
   ]
 }

@@ -1,99 +1,105 @@
 {
-  "id": 28,
+  "id": 29,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Politie zet opnieuw waterkanon in bij pro-Palestijns protest in Antwerpen",
+  "title": "Lieve Cerstelotte, 88 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Politie zet opnieuw waterkanon in bij pro-Palestijns protest in Antwerpen",
-    "summary": "De Antwerpse Coalitie voor Palestina betoogt maandagavond in de Antwerpse binnenstad opnieuw tegen de genocide in Gaza. De politie heeft de demonstranten richting het Steenplein verdreven, verschillende betogers zijn opgepakt."
+    "title": "Lieve Cerstelotte, 88 jaar",
+    "summary": "Geboren in 1937, overleden op 12/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Politie",
-        "definition": "De organisatie die belast is met het handhaven van de openbare orde en veiligheid.",
-        "sentence": "De ___ trad hardhandig op tijdens de demonstratie.",
-        "answer": "Politie"
+        "word": "11",
+        "definition": "Het getal elf, hier de maand van overlijden.",
+        "sentence": "De maand van overlijden was ___, de elfde maand.",
+        "answer": "11"
       },
       {
-        "word": "waterkanon",
-        "definition": "Een apparaat dat water onder hoge druk spuit, vaak gebruikt voor crowd control.",
-        "sentence": "Om de menigte uiteen te drijven, zette de politie het ___ in.",
-        "answer": "waterkanon"
+        "word": "12",
+        "definition": "Het getal twaalf, hier de dag van overlijden.",
+        "sentence": "Overleden op de ___e, een dag om te herdenken.",
+        "answer": "12"
       },
       {
-        "word": "Antwerpen",
-        "definition": "Een grote stad in België, bekend om zijn haven en historische centrum.",
-        "sentence": "De protesten vonden plaats in de stad ___.",
-        "answer": "Antwerpen"
+        "word": "1937",
+        "definition": "Het jaar negentienhonderdzevenendertig, hier het geboortejaar.",
+        "sentence": "Geboren in ___, was ze getuige van vele historische gebeurtenissen.",
+        "answer": "1937"
       },
       {
-        "word": "betogers",
-        "definition": "Mensen die deelnemen aan een protest of demonstratie.",
-        "sentence": "De ___ hielden spandoeken vast tijdens de mars.",
-        "answer": "betogers"
+        "word": "2025",
+        "definition": "Het jaar tweeduizend vijfentwintig, hier het jaar van overlijden.",
+        "sentence": "Overleden in ___, markeert het einde van een tijdperk.",
+        "answer": "2025"
+      },
+      {
+        "word": "Cerstelotte",
+        "definition": "Een familienaam, waarschijnlijk van Nederlandse of Duitse oorsprong.",
+        "sentence": "De familie van ___ heeft een lange geschiedenis in deze regio.",
+        "answer": "Cerstelotte"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ hielden spandoeken vast tijdens de mars.",
-        "answer": "betogers"
+        "sentence": "Geboren in ___, was ze getuige van vele historische gebeurtenissen.",
+        "answer": "1937"
       },
       {
-        "sentence": "De protesten vonden plaats in de stad ___.",
-        "answer": "Antwerpen"
+        "sentence": "Overleden op de ___e, een dag om te herdenken.",
+        "answer": "12"
       },
       {
-        "sentence": "Om de menigte uiteen te drijven, zette de politie het ___ in.",
-        "answer": "waterkanon"
+        "sentence": "De maand van overlijden was ___, de elfde maand.",
+        "answer": "11"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar vond de protestactie plaats?",
+      "question": "In welk jaar is Lieve Cerstelotte geboren?",
       "options": [
-        "Brussel",
-        "Antwerpen",
-        "Gent",
-        "Luik"
+        "1920",
+        "1937",
+        "1945",
+        "1950"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat was de reactie van de politie op de demonstratie?",
+      "question": "Hoe oud was Lieve Cerstelotte geworden?",
       "options": [
-        "Ze gebruikten traangas",
-        "Ze zetten een waterkanon in",
-        "Ze arresteerden niemand",
-        "Ze keken alleen maar toe"
+        "77 jaar",
+        "88 jaar",
+        "90 jaar",
+        "100 jaar"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat was het hoofddoel van de betogers?",
+      "question": "Op welke datum is Lieve Cerstelotte overleden?",
       "options": [
-        "Tegen de regering protesteren",
-        "Steun betuigen aan de Palestijnse bevolking",
-        "De stad Antwerpen bezetten",
-        "Geen specifiek doel"
+        "1 januari 2025",
+        "12 november 2025",
+        "31 december 2025",
+        "1 januari 2026"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De politie heeft tijdens de protesten waterkanonnen ingezet.",
+      "statement": "Lieve Cerstelotte werd geboren in 1937 en overleed in 2025.",
       "isTrue": true
     },
     {
-      "statement": "De protesten vonden plaats in de stad Brussel.",
-      "isTrue": false
+      "statement": "Lieve Cerstelotte overleed op 12 november 2025, wat betekent dat ze stierf op die specifieke datum.",
+      "isTrue": true
     },
     {
-      "statement": "Er werden geen betogers gearresteerd tijdens de demonstratie.",
+      "statement": "Lieve Cerstelotte was 90 jaar oud toen ze overleed.",
       "isTrue": false
     }
   ]

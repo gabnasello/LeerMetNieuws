@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Vertrouweling Zelensky verwikkeld in corruptieonderzoek",
+  "title": "Waarom kritiek op de Emiraten uitblijft: de miljardendeals tussen de sjeiks en de westerse wapenindustrie in kaart gebracht",
   "topicNumber": 1,
   "article": {
-    "title": "Vertrouweling Zelensky verwikkeld in corruptieonderzoek",
-    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+    "title": "Waarom kritiek op de Emiraten uitblijft: de miljardendeals tussen de sjeiks en de westerse wapenindustrie in kaart gebracht",
+    "summary": "Alle westerse leiders zijn geschokt door de gruwel in Soedan, maar geen van hen durft te wijzen op de medeplichtigheid van de Emiraten. Een blik op de forse investeringen van de sjeiks in de westerse wapenindustrie toont aan waarom ze zullen blijven zwijgen."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "updates",
-        "definition": "Nieuwe informatie over een onderwerp.",
-        "sentence": "Volg de ___ om op de hoogte te blijven.",
-        "answer": "updates"
+        "word": "wapenindustrie",
+        "definition": "de industrie die wapens en munitie produceert",
+        "sentence": "De wapenindustrie is een belangrijke sector in veel landen.",
+        "answer": "wapenindustrie"
       },
       {
-        "word": "verwikkeld",
-        "definition": "Betrokken of geïmpliceerd in een situatie, vaak negatief.",
-        "sentence": "Hij is ___ in een groot schandaal.",
-        "answer": "verwikkeld"
+        "word": "Emiraten",
+        "definition": "een land in het Midden-Oosten, officieel de Verenigde Arabische Emiraten",
+        "sentence": "De Emiraten zijn bekend om hun moderne steden en olie-export.",
+        "answer": "Emiraten"
       },
       {
-        "word": "app",
-        "definition": "Een applicatie op een smartphone of computer.",
-        "sentence": "Download de ___ om het nieuws te volgen.",
-        "answer": "app"
+        "word": "sjeiks",
+        "definition": "een titel voor een leider in sommige Arabische landen",
+        "sentence": "De sjeiks van de regio bespraken de nieuwe handelsovereenkomst.",
+        "answer": "sjeiks"
       },
       {
-        "word": "Vertrouweling",
-        "definition": "Iemand die vertrouwd is, vaak in een informele of persoonlijke context.",
-        "sentence": "Hij was een oude ___ van de president.",
-        "answer": "Vertrouweling"
+        "word": "miljardendeals",
+        "definition": "grote zakelijke overeenkomsten die miljarden waard zijn",
+        "sentence": "De miljardendeals tussen de twee landen werden vorige week ondertekend.",
+        "answer": "miljardendeals"
       },
       {
-        "word": "oorlog",
-        "definition": "Een gewapend conflict tussen landen of groepen.",
-        "sentence": "De ___ in Oekraïne duurt nu al maanden.",
-        "answer": "oorlog"
+        "word": "kritiek",
+        "definition": "een beoordeling of mening, vaak kritisch",
+        "sentence": "De kritiek op het nieuwe beleid was erg negatief.",
+        "answer": "kritiek"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Volg de ___ om op de hoogte te blijven.",
-        "answer": "updates"
+        "sentence": "De miljardendeals tussen de twee landen werden vorige week ondertekend.",
+        "answer": "miljardendeals"
       },
       {
-        "sentence": "De ___ in Oekraïne duurt nu al maanden.",
-        "answer": "oorlog"
+        "sentence": "De sjeiks van de regio bespraken de nieuwe handelsovereenkomst.",
+        "answer": "sjeiks"
       },
       {
-        "sentence": "Download de ___ om het nieuws te volgen.",
-        "answer": "app"
+        "sentence": "De kritiek op het nieuwe beleid was erg negatief.",
+        "answer": "kritiek"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat het artikel vooral over?",
+      "question": "Waarover gaat de kritiek op de Emiraten?",
       "options": [
-        "Een nieuwe app",
-        "Oorlog in Oekraïne",
-        "Een sportevenement",
-        "Kooktips"
+        "Over hun mensenrechtenbeleid",
+        "Over hun steun aan bepaalde groepen in Soedan",
+        "Over hun investeringen in de wapenindustrie",
+        "Over hun cultuur en geschiedenis"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van de app DS Nieuws?",
+      "question": "Wat is een van de redenen waarom westerse leiders zwijgen over de Emiraten?",
       "options": [
-        "Het is een social media platform",
-        "Het biedt nieuwsupdates over belangrijke gebeurtenissen",
-        "Het is een game-app",
-        "Het is een restaurantgids"
+        "Ze zijn bang voor kritiek",
+        "Ze profiteren zelf van de deals",
+        "Ze weten er te weinig over",
+        "Ze zijn het ermee eens"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de houding van de auteur?",
+      "question": "Wat toont de analyse van de investeringen van de sjeiks?",
       "options": [
-        "Positief over de oorlog",
-        "Neutraal, informeert alleen",
-        "Negatief over Oekraïne",
-        "Promoot de app actief"
+        "Dat ze alleen in de wapenindustrie investeren",
+        "Dat ze veel geld in westerse landen pompen",
+        "Dat ze niet geïnteresseerd zijn in andere sectoren",
+        "Dat ze alleen in Azië investeren"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het artikel gaat over een nieuwe app die gelanceerd is.",
+      "statement": "De Emiraten worden niet bekritiseerd omdat westerse landen ook profiteren van hun deals.",
       "isTrue": true
     },
     {
-      "statement": "De auteur is tegen de oorlog in Oekraïne.",
+      "statement": "Soedan is een van de grootste bondgenoten van de Emiraten.",
       "isTrue": false
     },
     {
-      "statement": "De app DS Nieuws biedt updates over de oorlog.",
-      "isTrue": true
+      "statement": "De sjeiks investeren alleen in de wapenindustrie.",
+      "isTrue": false
     }
   ]
 }

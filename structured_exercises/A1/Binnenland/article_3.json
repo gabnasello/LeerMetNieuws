@@ -1,105 +1,93 @@
 {
-  "id": 19,
+  "id": 20,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Ook in Haren zijn stapelbedden",
+  "title": "Marguerite Destrooper, 92 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Ook in Haren zijn stapelbedden",
-    "summary": "In de gevangenis in Haren komen stapelbedden. De cipiers gaan staken. In Haren is de gevangenis anders. Mensen slapen daar apart."
+    "title": "Marguerite Destrooper, 92 jaar",
+    "summary": "Geboren in 1933, overleden op 20/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Haren",
-        "definition": "een plaatsnaam, hier: de stad Haren",
-        "sentence": "In ___ is een gevangenis.",
-        "answer": "Haren"
+        "word": "geboren",
+        "definition": "geboren worden betekent: beginnen te leven",
+        "sentence": "Zij werd ___ in 1933.",
+        "answer": "geboren"
       },
       {
-        "word": "gevangenis",
-        "definition": "een plek waar mensen die de wet hebben gebroken, naartoe gaan",
-        "sentence": "De ___ is een gebouw.",
-        "answer": "gevangenis"
+        "word": "overleden",
+        "definition": "overleden zijn betekent: niet meer leven",
+        "sentence": "Hij is ___ op 20 oktober.",
+        "answer": "overleden"
       },
       {
-        "word": "Haren",
-        "definition": "een plaatsnaam, hier: de stad Haren",
-        "sentence": "In ___ is een gevangenis.",
-        "answer": "Haren"
-      },
-      {
-        "word": "stapelbedden",
-        "definition": "meerdere bedden op elkaar",
-        "sentence": "In de gevangenis staan ___.",
-        "answer": "stapelbedden"
-      },
-      {
-        "word": "gevangenis",
-        "definition": "een plek waar mensen die de wet hebben gebroken, naartoe gaan",
-        "sentence": "De ___ is een gebouw.",
-        "answer": "gevangenis"
+        "word": "jaar",
+        "definition": "een jaar is 365 dagen",
+        "sentence": "Zij is 92 ___ oud.",
+        "answer": "jaar"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ is een gebouw.",
-        "answer": "gevangenis"
+        "sentence": "Zij werd ___ in 1933.",
+        "answer": "geboren"
       },
       {
-        "sentence": "De ___ is een gebouw.",
-        "answer": "gevangenis"
+        "sentence": "Zij is 92 ___ oud.",
+        "answer": "jaar"
       },
       {
-        "sentence": "In ___ is een gevangenis.",
-        "answer": "Haren"
+        "sentence": "Hij is ___ op 20 oktober.",
+        "answer": "overleden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom gaan de cipiers staken?",
+      "question": "Wat betekent 'geboren worden'?",
       "options": [
-        "Omdat er stapelbedden zijn",
-        "Omdat het te warm is",
-        "Omdat ze meer geld willen",
-        "Omdat ze willen feesten"
+        "beginnen te leven",
+        "eindigen met leven",
+        "werken in een ziekenhuis",
+        "een feest vieren"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is er in Haren?",
+      "question": "Hoe oud was Marguerite Destrooper?",
       "options": [
-        "Een gevangenis",
-        "Een school",
-        "Een park",
-        "Een restaurant"
+        "92 jaar",
+        "100 jaar",
+        "85 jaar",
+        "78 jaar"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is een stapelbed?",
+      "question": "In welk jaar werd Marguerite geboren?",
       "options": [
-        "Meerdere bedden op elkaar",
-        "Een groot bed",
-        "Een bed voor kinderen",
-        "Een bed voor dieren"
+        "1933",
+        "1920",
+        "1945",
+        "1950"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "In Haren is er een gevangenis.",
+      "statement": "Marguerite Destrooper is overleden.",
       "isTrue": true
     },
     {
-      "statement": "Cipiers werken in een school.",
+      "statement": "Marguerite Destrooper is 100 jaar oud.",
       "isTrue": false
     },
     {
-      "statement": "Stapelbedden zijn bedden die op elkaar staan.",
+      "statement": "Marguerite Destrooper is geboren in 1933.",
       "isTrue": true
     }
   ]

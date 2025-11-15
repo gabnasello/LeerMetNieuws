@@ -1,106 +1,106 @@
 {
-  "id": 7,
+  "id": 6,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
+  "title": "Nederlands dorp Moerdijk moet wijken",
   "topicNumber": 1,
   "article": {
-    "title": "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "Nederlands dorp Moerdijk moet wijken",
+    "summary": "Het dorp Moerdijk moet verdwijnen. De inwoners moeten verhuizen. Dit komt door de energietransitie en de haven."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "heffen",
-        "definition": "iets officieel maken of stoppen",
-        "sentence": "De regering wil de belastingen ___ voor kleine bedrijven.",
-        "answer": "heffen"
+        "word": "energietransitie",
+        "definition": "de overstap naar schone energie, zoals wind- of zonne-energie",
+        "sentence": "Nederland werkt hard aan de ___.",
+        "answer": "energietransitie"
       },
       {
-        "word": "VS",
-        "definition": "Verenigde Staten, een land",
-        "sentence": "De ___ willen samenwerken met andere landen.",
-        "answer": "VS"
+        "word": "verhuizen",
+        "definition": "naar een andere plaats gaan wonen",
+        "sentence": "We moeten ___ naar een nieuwe woning.",
+        "answer": "verhuizen"
       },
       {
-        "word": "Syrië",
-        "definition": "een land in het Midden-Oosten",
-        "sentence": "___ heeft veel historische steden.",
-        "answer": "Syrië"
+        "word": "inwoners",
+        "definition": "mensen die in een plaats wonen",
+        "sentence": "De ___ van het dorp zijn erg vriendelijk.",
+        "answer": "inwoners"
       },
       {
-        "word": "sancties",
-        "definition": "straffen die een land geeft aan een ander land",
-        "sentence": "De Verenigde Naties hebben nieuwe ___ ingesteld tegen het land.",
-        "answer": "sancties"
+        "word": "haven",
+        "definition": "een plaats waar schepen kunnen aanleggen",
+        "sentence": "De ___ in Rotterdam is erg druk.",
+        "answer": "haven"
       },
       {
-        "word": "Trump",
-        "definition": "de familienaam van de voormalige president van de VS",
-        "sentence": "___ is bekend om zijn uitspraken op sociale media.",
-        "answer": "Trump"
+        "word": "dorp",
+        "definition": "een plaats waar mensen wonen, kleiner dan een stad",
+        "sentence": "Het ___ is niet groot, maar wel gezellig.",
+        "answer": "dorp"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De Verenigde Naties hebben nieuwe ___ ingesteld tegen het land.",
-        "answer": "sancties"
+        "sentence": "De ___ in Rotterdam is erg druk.",
+        "answer": "haven"
       },
       {
-        "sentence": "De ___ willen samenwerken met andere landen.",
-        "answer": "VS"
+        "sentence": "We moeten ___ naar een nieuwe woning.",
+        "answer": "verhuizen"
       },
       {
-        "sentence": "___ heeft veel historische steden.",
-        "answer": "Syrië"
+        "sentence": "Nederland werkt hard aan de ___.",
+        "answer": "energietransitie"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'heffen' in deze context?",
+      "question": "Waarom moet het dorp Moerdijk wijken?",
       "options": [
-        "optillen",
-        "officieel maken",
-        "veranderen",
-        "stoppen"
+        "Voor meer groen",
+        "Voor de energietransitie",
+        "Omdat er te weinig mensen wonen",
+        "Omdat het dorp te oud is"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom heft de VS sancties tegen Syrië op?",
+      "question": "Wat is 'verduurzaming'?",
       "options": [
-        "Omdat Syrië vrede wil",
-        "Vanwege nieuwe afspraken met andere landen",
-        "Omdat de president het wil",
-        "Om de economie te helpen"
+        "Het bouwen van nieuwe huizen",
+        "Het duurzamer maken van iets",
+        "Het slopen van oude gebouwen",
+        "Het planten van bomen"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een 'sanctie'?",
+      "question": "Wat gebeurt er met de inwoners van Moerdijk?",
       "options": [
-        "Een soort feest",
-        "Een economische straf",
-        "Een soort belasting",
-        "Een internationale overeenkomst"
+        "Ze blijven in hun huizen",
+        "Ze verhuizen naar een andere plaats",
+        "Ze krijgen een nieuwe baan",
+        "Ze gaan op vakantie"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De VS heft sancties tegen Syrië op omdat ze vrienden willen zijn.",
+      "statement": "Het dorp Moerdijk is pas een jaar oud.",
       "isTrue": false
     },
     {
-      "statement": "Trump heeft een ontmoeting met Al-Sharaa over de sancties.",
+      "statement": "De inwoners van Moerdijk moeten verhuizen vanwege de energietransitie.",
       "isTrue": true
     },
     {
-      "statement": "De sancties zijn al volledig verwijderd.",
-      "isTrue": false
+      "statement": "De haven van Moerdijk wordt groter gemaakt.",
+      "isTrue": true
     }
   ]
 }

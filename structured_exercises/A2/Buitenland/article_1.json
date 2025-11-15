@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Zelensky en Oekraïne in het nieuws",
+  "title": "Waarom is er weinig kritiek op de Emiraten?",
   "topicNumber": 1,
   "article": {
-    "title": "Zelensky en Oekraïne in het nieuws",
-    "summary": "Lees het laatste nieuws over de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+    "title": "Waarom is er weinig kritiek op de Emiraten?",
+    "summary": "De Emiraten investeren veel geld in westerse wapenfabrikanten. Daardoor durven westerse leiders geen kritiek te geven."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "belangrijk",
-        "definition": "iets dat heel veel waarde heeft",
-        "sentence": "Het is ___ om op de hoogte te blijven van het nieuws.",
-        "answer": "belangrijk"
+        "word": "kritiek",
+        "definition": "een negatieve mening over iets of iemand",
+        "sentence": "Hij kreeg veel ___ op zijn nieuwe boek.",
+        "answer": "kritiek"
       },
       {
-        "word": "oorlog",
-        "definition": "een situatie waarin landen of groepen vechten",
-        "sentence": "Er is een ___ in Oekraïne, en dat is heel erg.",
-        "answer": "oorlog"
+        "word": "Emiraten",
+        "definition": "een land in het Midden-Oosten, rijk door olie",
+        "sentence": "De ___ zijn rijk door hun olie.",
+        "answer": "Emiraten"
       },
       {
-        "word": "app",
-        "definition": "een programma op je telefoon of computer",
-        "sentence": "Ik download een nieuwe ___ om nieuws te lezen.",
-        "answer": "app"
+        "word": "durven",
+        "definition": "genoeg moed hebben om iets te doen",
+        "sentence": "Ze ___ niet te zeggen wat ze echt denken.",
+        "answer": "durven"
       },
       {
-        "word": "nieuws",
-        "definition": "informatie over wat er in de wereld gebeurt",
-        "sentence": "Ik lees het ___ elke ochtend om op de hoogte te blijven.",
-        "answer": "nieuws"
+        "word": "investeren",
+        "definition": "geld uitgeven om later meer terug te krijgen",
+        "sentence": "Hij wil veel ___ in nieuwe technologie.",
+        "answer": "investeren"
       },
       {
-        "word": "melding",
-        "definition": "een bericht dat je iets laat weten",
-        "sentence": "Ik krijg een ___ als er belangrijk nieuws is.",
-        "answer": "melding"
+        "word": "leiders",
+        "definition": "mensen die een groep of land leiden",
+        "sentence": "De ___ van de landen bespreken de problemen.",
+        "answer": "leiders"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ik download een nieuwe ___ om nieuws te lezen.",
-        "answer": "app"
+        "sentence": "De ___ van de landen bespreken de problemen.",
+        "answer": "leiders"
       },
       {
-        "sentence": "Ik krijg een ___ als er belangrijk nieuws is.",
-        "answer": "melding"
+        "sentence": "Ze ___ niet te zeggen wat ze echt denken.",
+        "answer": "durven"
       },
       {
-        "sentence": "Er is een ___ in Oekraïne, en dat is heel erg.",
-        "answer": "oorlog"
+        "sentence": "Hij wil veel ___ in nieuwe technologie.",
+        "answer": "investeren"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat het artikel over?",
+      "question": "Waarom geven westerse leiders geen kritiek op de Emiraten?",
       "options": [
-        "Koken",
-        "Sport",
-        "Oorlog in Oekraïne",
-        "Kunst"
+        "Omdat ze de Emiraten niet kennen",
+        "Omdat ze bang zijn voor de macht van de Emiraten",
+        "Omdat ze het warm hebben",
+        "Omdat ze de Emiraten steunen"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat kun je doen met de app DS Nieuws?",
+      "question": "Wat is de rol van de sjeiks in de Emiraten?",
       "options": [
-        "Muziek luisteren",
-        "Foto's maken",
-        "Nieuws lezen en meldingen krijgen",
-        "Videogames spelen"
+        "Ze zijn gewone burgers",
+        "Ze zijn de leiders van het land",
+        "Ze zijn buitenlandse toeristen",
+        "Ze zijn historische figuren"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is de hoofdstad van Oekraïne?",
+      "question": "Wat doet de wapenindustrie?",
       "options": [
-        "Kiev",
-        "Parijs",
-        "Berlijn",
-        "Rome"
+        "Ze maakt en verkoopt wapens",
+        "Ze kookt eten voor het leger",
+        "Ze bouwt huizen voor soldaten",
+        "Ze onderwijst kinderen over vrede"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Oekraïne is een stad.",
-      "isTrue": false
-    },
-    {
-      "statement": "Je kunt de app DS Nieuws downloaden om nieuws te lezen.",
+      "statement": "De Emiraten investeren in westerse wapenfabrikanten.",
       "isTrue": true
     },
     {
-      "statement": "De hoofdstad van Oekraïne is Parijs.",
+      "statement": "Westerse leiders bekritiseren de Emiraten vaak.",
       "isTrue": false
+    },
+    {
+      "statement": "De sjeiks zijn de leiders van de Emiraten.",
+      "isTrue": true
     }
   ]
 }

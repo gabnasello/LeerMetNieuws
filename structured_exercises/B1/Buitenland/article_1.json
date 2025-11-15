@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Zelensky-vertrouweling in corruptieonderzoek",
+  "title": "Waarom is er weinig kritiek op de Emiraten? Een blik op de banden met de wapenindustrie.",
   "topicNumber": 1,
   "article": {
-    "title": "Zelensky-vertrouweling in corruptieonderzoek",
-    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+    "title": "Waarom is er weinig kritiek op de Emiraten? Een blik op de banden met de wapenindustrie.",
+    "summary": "Westerse leiders zijn geschokt door het geweld in Soedan, maar geven de Emiraten niet de schuld. Dit komt door grote investeringen van de Emiraten in westerse wapenbedrijven."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "corruptie",
-        "definition": "wanneer mensen misbruik maken van hun macht voor persoonlijk voordeel",
-        "sentence": "Er is een onderzoek naar mogelijke ___ in de regering.",
-        "answer": "corruptie"
+        "word": "leiders",
+        "definition": "mensen die een groep of land leiden",
+        "sentence": "De ___ van de vergadering bespraken het nieuwe plan.",
+        "answer": "leiders"
       },
       {
-        "word": "ontwikkelingen",
-        "definition": "nieuwe gebeurtenissen of veranderingen in een situatie",
-        "sentence": "Volg de laatste ___ in dit verhaal op onze website.",
-        "answer": "ontwikkelingen"
+        "word": "kritiek",
+        "definition": "negatieve opmerkingen of commentaar",
+        "sentence": "Hij kreeg veel ___ op zijn werk omdat het niet goed was.",
+        "answer": "kritiek"
       },
       {
-        "word": "vertrouweling",
-        "definition": "iemand die je vertrouwt en die dicht bij je staat",
-        "sentence": "Hij is een belangrijke ___ van de president.",
-        "answer": "vertrouweling"
+        "word": "Emiraten",
+        "definition": "een land in het Midden-Oosten, rijk door olie",
+        "sentence": "De ___ zijn rijk door hun olie-inkomsten.",
+        "answer": "Emiraten"
       },
       {
-        "word": "Oekraïne",
-        "definition": "een land in Europa, momenteel in conflict",
-        "sentence": "De oorlog in ___ duurt al lang.",
-        "answer": "Oekraïne"
+        "word": "wapenindustrie",
+        "definition": "industrie die wapens maakt en verkoopt",
+        "sentence": "De ___ groeit snel tijdens oorlogen.",
+        "answer": "wapenindustrie"
       },
       {
-        "word": "app",
-        "definition": "een applicatie op je telefoon of computer, vaak om informatie te krijgen",
-        "sentence": "Download de ___ om updates te ontvangen.",
-        "answer": "app"
+        "word": "investeringen",
+        "definition": "geld dat in iets wordt gestopt om meer geld te verdienen",
+        "sentence": "Hun ___ in technologie bracht veel winst.",
+        "answer": "investeringen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De oorlog in ___ duurt al lang.",
-        "answer": "Oekraïne"
+        "sentence": "Hij kreeg veel ___ op zijn werk omdat het niet goed was.",
+        "answer": "kritiek"
       },
       {
-        "sentence": "Volg de laatste ___ in dit verhaal op onze website.",
-        "answer": "ontwikkelingen"
+        "sentence": "De ___ groeit snel tijdens oorlogen.",
+        "answer": "wapenindustrie"
       },
       {
-        "sentence": "Download de ___ om updates te ontvangen.",
-        "answer": "app"
+        "sentence": "Hun ___ in technologie bracht veel winst.",
+        "answer": "investeringen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar gaat het artikel over?",
+      "question": "Waarom geven westerse leiders de Emiraten niet de schuld voor het geweld in Soedan?",
       "options": [
-        "Een nieuwe film over Oekraïne",
-        "Een sportevenement in Oekraïne",
-        "Een corruptieonderzoek in Oekraïne",
-        "Een vakantiebestemming in Oekraïne"
+        "Omdat de Emiraten hun vrienden zijn",
+        "Omdat de Emiraten veel geld geven aan westerse wapenfabrikanten",
+        "Omdat Soedan te ver weg is",
+        "Omdat ze het niet weten"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de rol van de Emiraten in de wapenindustrie?",
+      "options": [
+        "Ze maken zelf wapens",
+        "Ze kopen wapens uit andere landen",
+        "Ze investeren in buitenlandse wapenfabrikanten",
+        "Ze verkopen wapens aan de hele wereld"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Hoe kan men updates over de oorlog ontvangen?",
+      "question": "Hoe reageren de Emiraten op de situatie in Soedan?",
       "options": [
-        "Door een brief te sturen",
-        "Door een bericht via de postduif",
-        "Door de DS Nieuws app te downloaden",
-        "Door een bezoek aan Oekraïne"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat is de relatie tussen Zelensky en de vertrouweling?",
-      "options": [
-        "Zij zijn broers",
-        "Hij is zijn leraar",
-        "De vertrouweling is een naaste medewerker van Zelensky",
-        "Zij zijn buren"
+        "Ze sturen troepen om te helpen",
+        "Ze geven geld aan hulporganisaties",
+        "Ze negeren het en doen niets",
+        "Ze bespreken het met de VN"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het artikel gaat over een corruptieonderzoek in Oekraïne.",
-      "isTrue": true
-    },
-    {
-      "statement": "Zelensky is de president van de Verenigde Staten.",
+      "statement": "De Emiraten worden bekritiseerd door alle westerse leiders voor hun rol in Soedan.",
       "isTrue": false
     },
     {
-      "statement": "Je kunt de DS Nieuws app downloaden voor updates.",
+      "statement": "De Emiraten investeren in westerse wapenbedrijven, en daarom zwijgen westerse leiders over de Emiraten.",
       "isTrue": true
+    },
+    {
+      "statement": "Soedan is een stad in de Emiraten.",
+      "isTrue": false
     }
   ]
 }

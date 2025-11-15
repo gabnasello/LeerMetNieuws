@@ -1,106 +1,106 @@
 {
-  "id": 8,
+  "id": 7,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
+  "title": "Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”",
   "topicNumber": 1,
   "article": {
-    "title": "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijk veranderingen teweeg. Volg hier alle updates."
+    "title": "Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”",
+    "summary": "Het duizend jaar oude dorp Moerdijk verdwijnt. 1.100 inwoners moeten plaatsmaken voor de energietransitie en de verduurzaming van de haven. “Moet de industrie altijd het laatste woord hebben?”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "sancties",
-        "definition": "Straffen die een land geeft aan een ander land",
-        "sentence": "De Verenigde Naties kunnen ___ opleggen aan een land.",
-        "answer": "sancties"
+        "word": "heropbouwen",
+        "definition": "opnieuw opbouwen, weer opbouwen",
+        "sentence": "Na de oorlog werd de stad snel ___.",
+        "answer": "heropbouwen"
       },
       {
-        "word": "VS",
-        "definition": "Verenigde Staten van Amerika",
-        "sentence": "De ___ zijn een land in Noord-Amerika.",
-        "answer": "VS"
+        "word": "industrie",
+        "definition": "bedrijven die goederen produceren, fabrieken",
+        "sentence": "De zware ___ in dit gebied zorgt voor veel banen.",
+        "answer": "industrie"
       },
       {
-        "word": "heffen",
-        "definition": "iets officieel maken of stoppen",
-        "sentence": "De regering besloot de belastingen te ___.",
-        "answer": "heffen"
+        "word": "plaatsmaken",
+        "definition": "vervangen worden door iets anders, ruimte geven",
+        "sentence": "De oude huizen moeten ___ voor een groot nieuw project.",
+        "answer": "plaatsmaken"
       },
       {
-        "word": "op",
-        "definition": "niet meer actief of aanwezig",
-        "sentence": "Het feest is ___ voor de hele buurt.",
-        "answer": "op"
+        "word": "wijk",
+        "definition": "een gedeelte van een stad of dorp",
+        "sentence": "De oude ___ bestaat uit kleine huisjes en smalle straatjes.",
+        "answer": "wijk"
       },
       {
-        "word": "Trump",
-        "definition": "De achternaam van de voormalige president van de VS",
-        "sentence": "___ was president van 2017 tot 2021.",
-        "answer": "Trump"
+        "word": "dorp",
+        "definition": "een plaats waar mensen wonen, kleiner dan een stad",
+        "sentence": "Het kleine ___ heeft een kerk en een school.",
+        "answer": "dorp"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ zijn een land in Noord-Amerika.",
-        "answer": "VS"
+        "sentence": "De zware ___ in dit gebied zorgt voor veel banen.",
+        "answer": "industrie"
       },
       {
-        "sentence": "De regering besloot de belastingen te ___.",
-        "answer": "heffen"
+        "sentence": "De oude ___ bestaat uit kleine huisjes en smalle straatjes.",
+        "answer": "wijk"
       },
       {
-        "sentence": "De Verenigde Naties kunnen ___ opleggen aan een land.",
-        "answer": "sancties"
+        "sentence": "Na de oorlog werd de stad snel ___.",
+        "answer": "heropbouwen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar verwijst 'VS' naar in deze context?",
+      "question": "Waarom moeten de inwoners van Moerdijk verhuizen?",
       "options": [
-        "Verenigde Staten",
-        "Verenigde Naties",
-        "Europa",
-        "Aziz"
+        "Er is een nieuwe wet",
+        "Er is geen ruimte meer",
+        "Er komt een groot winkelcentrum",
+        "De grond is vervuild"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat betekent 'heffen' in deze titel?",
+      "question": "Wat is de rol van de industrie in deze situatie?",
       "options": [
-        "Optillen",
-        "Starten",
-        "Beëindigen",
-        "Veranderen"
+        "Ze bieden nieuwe huizen aan",
+        "Ze geven werk aan iedereen",
+        "Ze hebben het gebied gekozen voor uitbreiding",
+        "Ze helpen met de verhuizing"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is de rol van Al-Sharaa in de titel?",
+      "question": "Hoe reageerden de inwoners op het nieuws?",
       "options": [
-        "Een politieke leider",
-        "Een plaatselijke bewoner",
-        "Een bekende acteur",
-        "Een historisch figuur"
+        "Ze zijn heel boos",
+        "Ze zijn blij met de vooruitgang",
+        "Ze zijn bezorgd over hun toekomst",
+        "Ze willen niet verhuizen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De VS heeft de sancties tegen Syrië volledig verwijderd.",
-      "isTrue": false
-    },
-    {
-      "statement": "Donald Trump had een ontmoeting met Al-Sharaa.",
+      "statement": "Het dorp Moerdijk bestaat al duizend jaar.",
       "isTrue": true
     },
     {
-      "statement": "Al-Sharaa is de president van Syrië.",
+      "statement": "Alle inwoners weigeren te vertrekken.",
       "isTrue": false
+    },
+    {
+      "statement": "De industrie wil het dorp uitbreiden.",
+      "isTrue": true
     }
   ]
 }

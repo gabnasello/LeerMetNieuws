@@ -3,104 +3,92 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Slachtoffers van misbruik voorzichtig positief na ontekken met paus",
+  "title": "Flora Loos, 84 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
-    "summary": "Zaterdag zaten vijftien overlevers van misbruik samen met paus Leo XIV. Over dat gesprek zijn de zes mensen die De Standaard nadien kon spreken voorzichtig positief. Al zijn er geen concrete afspraken gemaakt over wat er in praktijk gaat veranderen. “Als de paus het antwoord niet wist, zei hij dat ook eerlijk.”"
+    "title": "Flora Loos, 84 jaar",
+    "summary": "Geboren in 1941, overleden op 11/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "gesprek",
-        "definition": "Een gesprek is wanneer mensen met elkaar praten",
-        "sentence": "Het ___ was open en eerlijk.",
-        "answer": "gesprek"
+        "word": "geboren",
+        "definition": "het begin van het leven",
+        "sentence": "Flora Loos is ___ in 1941.",
+        "answer": "geboren"
       },
       {
-        "word": "Zaterdag",
-        "definition": "De dag na vrijdag en voor zondag",
-        "sentence": "Op ___ ging de groep naar de paus.",
-        "answer": "Zaterdag"
+        "word": "overleden",
+        "definition": "niet meer levend, gestorven",
+        "sentence": "Ze is ___ op 11 november 2025.",
+        "answer": "overleden"
       },
       {
-        "word": "positief",
-        "definition": "Goed, niet slecht",
-        "sentence": "De reacties waren overwegend ___.",
-        "answer": "positief"
-      },
-      {
-        "word": "vijftien",
-        "definition": "Het getal na veertien en voor zestien",
-        "sentence": "Er waren ___ mensen aanwezig.",
-        "answer": "vijftien"
-      },
-      {
-        "word": "afspraken",
-        "definition": "Afspraken zijn dingen die je met elkaar afspreekt om te doen",
-        "sentence": "Er werden geen nieuwe ___ gemaakt.",
-        "answer": "afspraken"
+        "word": "overleden",
+        "definition": "gestorven, niet meer levend",
+        "sentence": "Ze is in 2025 ___.",
+        "answer": "overleden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ was open en eerlijk.",
-        "answer": "gesprek"
+        "sentence": "Ze is in 2025 ___.",
+        "answer": "overleden"
       },
       {
-        "sentence": "De reacties waren overwegend ___.",
-        "answer": "positief"
+        "sentence": "Flora Loos is ___ in 1941.",
+        "answer": "geboren"
       },
       {
-        "sentence": "Er werden geen nieuwe ___ gemaakt.",
-        "answer": "afspraken"
+        "sentence": "Ze is ___ op 11 november 2025.",
+        "answer": "overleden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat was de houding van de paus tijdens de ontmoeting?",
+      "question": "In welk jaar is Flora Loos geboren?",
       "options": [
-        "Afwezig",
-        "Open en eerlijk",
-        "Stil en gesloten",
-        "Boos en geïrriteerd"
+        "1940",
+        "1941",
+        "1942",
+        "1943"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoe reageerden de overlevers na de ontmoeting?",
+      "question": "Hoe oud was Flora Loos toen ze overleed?",
       "options": [
-        "Ze waren erg boos",
-        "Ze waren voorzichtig positief",
-        "Ze waren heel verdrietig",
-        "Ze waren onverschillig"
+        "82 jaar",
+        "83 jaar",
+        "84 jaar",
+        "85 jaar"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Wat werd er besproken tijdens de ontmoeting?",
+      "question": "Op welke datum overleed Flora Loos?",
       "options": [
-        "Alleen het weer",
-        "Hun persoonlijke verhalen en ervaringen",
-        "De toekomst van de kerk",
-        "De paus vertelde alleen maar grapjes"
+        "11 november 2024",
+        "11 november 2025",
+        "11 december 2025",
+        "11 januari 2026"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De paus heeft beloofd om de overlevers financieel te steunen.",
-      "isTrue": false
-    },
-    {
-      "statement": "De overlevers waren tevreden met de openhartigheid van de paus.",
+      "statement": "Flora Loos is geboren in 1941.",
       "isTrue": true
     },
     {
-      "statement": "Er werden nieuwe afspraken gemaakt over toekomstige ontmoetingen.",
+      "statement": "Flora Loos overleed in 2024.",
       "isTrue": false
+    },
+    {
+      "statement": "Flora Loos werd 84 jaar oud.",
+      "isTrue": true
     }
   ]
 }

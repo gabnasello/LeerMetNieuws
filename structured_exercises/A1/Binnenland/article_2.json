@@ -1,106 +1,106 @@
 {
-  "id": 24,
+  "id": 25,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Politie gebruikt waterkanon bij protest in Antwerpen",
+  "title": "Lieve Cerstelotte, 88 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Politie gebruikt waterkanon bij protest in Antwerpen",
-    "summary": "De politie gebruikte een waterkanon tijdens een protest in Antwerpen. Mensen demonstreerden voor Palestina. De politie heeft enkele demonstranten opgepakt."
+    "title": "Lieve Cerstelotte, 88 jaar",
+    "summary": "Geboren in 1937, overleden op 12/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Antwerpen",
-        "definition": "Een stad in België",
-        "sentence": "Het protest was in ___.",
-        "answer": "Antwerpen"
+        "word": "88",
+        "definition": "een getal, hier de leeftijd",
+        "sentence": "Hij is ___ jaar oud.",
+        "answer": "88"
       },
       {
-        "word": "gebruikte",
-        "definition": "Heeft gebruikt, het verleden van gebruiken",
-        "sentence": "De politie ___ een waterkanon.",
-        "answer": "gebruikte"
+        "word": "overleden",
+        "definition": "niet meer leven, dood zijn",
+        "sentence": "Hij is ___ op 1 januari.",
+        "answer": "overleden"
       },
       {
-        "word": "protest",
-        "definition": "Een actie om onvrede te uiten",
-        "sentence": "Het ___ was vreedzaam.",
-        "answer": "protest"
+        "word": "op",
+        "definition": "een voorzetsel, hier gebruikt met een datum",
+        "sentence": "We zien elkaar ___ maandag.",
+        "answer": "op"
       },
       {
-        "word": "waterkanon",
-        "definition": "Een apparaat dat water spuit",
-        "sentence": "Een ___ spuit water om mensen te verjagen.",
-        "answer": "waterkanon"
+        "word": "Lieve",
+        "definition": "een liefdevol woord, vaak gebruikt in brieven of om iemand aan te spreken",
+        "sentence": "___ is een liefdevol woord.",
+        "answer": "Lieve"
       },
       {
-        "word": "demonstreerden",
-        "definition": "Zij lieten hun mening zien in het openbaar",
-        "sentence": "De groep ___ voor hun rechten.",
-        "answer": "demonstreerden"
+        "word": "jaar",
+        "definition": "een tijdseenheid, 12 maanden",
+        "sentence": "Een ___ heeft 365 dagen.",
+        "answer": "jaar"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ was vreedzaam.",
-        "answer": "protest"
+        "sentence": "Hij is ___ jaar oud.",
+        "answer": "88"
       },
       {
-        "sentence": "Een ___ spuit water om mensen te verjagen.",
-        "answer": "waterkanon"
+        "sentence": "Hij is ___ op 1 januari.",
+        "answer": "overleden"
       },
       {
-        "sentence": "Het protest was in ___.",
-        "answer": "Antwerpen"
+        "sentence": "We zien elkaar ___ maandag.",
+        "answer": "op"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar was het protest?",
+      "question": "Wat betekent 'overleden'?",
       "options": [
-        "Amsterdam",
-        "Antwerpen",
-        "Brussel",
-        "Parijs"
+        "geboren zijn",
+        "getrouwd zijn",
+        "overleden zijn",
+        "werken"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is '88'?",
+      "options": [
+        "een naam",
+        "een getal",
+        "een plaats",
+        "een kleur"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat gebruikte de politie?",
+      "question": "Wat is 'op' in deze context?",
       "options": [
-        "Een auto",
-        "Een waterkanon",
-        "Een vlag",
-        "Een camera"
+        "een voorzetsel",
+        "een werkwoord",
+        "een naamwoord",
+        "een bijwoord"
       ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat deden sommige demonstranten?",
-      "options": [
-        "Ze gingen naar huis",
-        "Ze werden opgepakt",
-        "Ze gingen dansen",
-        "Ze gingen sporten"
-      ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het protest was in Antwerpen.",
-      "isTrue": true
-    },
-    {
-      "statement": "De politie gebruikte een waterkanon.",
-      "isTrue": true
-    },
-    {
-      "statement": "Alle demonstraten werden opgepakt.",
+      "statement": "Cerstelotte is een plaats.",
       "isTrue": false
+    },
+    {
+      "statement": "12/11/2025 is de overlijdensdatum.",
+      "isTrue": true
+    },
+    {
+      "statement": "Lieve is een familielid.",
+      "isTrue": true
     }
   ]
 }

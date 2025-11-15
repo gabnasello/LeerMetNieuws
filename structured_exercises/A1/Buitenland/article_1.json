@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Oorlog in Oekraïne",
+  "title": "Waarom kritiek op de Emiraten uitblijft",
   "topicNumber": 1,
   "article": {
-    "title": "Oorlog in Oekraïne",
-    "summary": "Volg het nieuws over de oorlog in Oekraïne. Download de app DS Nieuws voor updates."
+    "title": "Waarom kritiek op de Emiraten uitblijft",
+    "summary": "De Emiraten investeren in westerse wapenfabrieken. Daarom zijn westerse landen stil over kritiek op de Emiraten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "download",
-        "definition": "Iets van internet halen.",
-        "sentence": "___ de app om nieuws te lezen.",
-        "answer": "Download"
+        "word": "landen",
+        "definition": "andere woorden voor staten, zoals Nederland of België",
+        "sentence": "De ___ in Europa werken vaak samen.",
+        "answer": "landen"
       },
       {
-        "word": "nieuws",
-        "definition": "Informatie over wat er gebeurt in de wereld.",
-        "sentence": "Ik lees het ___ online.",
-        "answer": "nieuws"
+        "word": "stil",
+        "definition": "geen geluid makend, niet praten",
+        "sentence": "De klas is ___ als de leraar binnenkomt.",
+        "answer": "stil"
       },
       {
-        "word": "update",
-        "definition": "Nieuwe informatie.",
-        "sentence": "Krijg een ___ over het nieuws.",
-        "answer": "update"
+        "word": "kritiek",
+        "definition": "dat wat je ervan vindt, een mening over iets",
+        "sentence": "De minister gaf geen ___ op de vraag.",
+        "answer": "kritiek"
       },
       {
-        "word": "oorlog",
-        "definition": "Een situatie waarin landen vechten.",
-        "sentence": "Er is een ___ in Oekraïne.",
-        "answer": "oorlog"
+        "word": "Emiraten",
+        "definition": "een land in het Midden-Oosten",
+        "sentence": "De ___ zijn rijk door olie.",
+        "answer": "Emiraten"
       },
       {
-        "word": "Oekraïne",
-        "definition": "Een land in Europa.",
-        "sentence": "Er is oorlog in ___.",
-        "answer": "Oekraïne"
+        "word": "westers",
+        "definition": "van of uit Europa en Amerika",
+        "sentence": "De ___ landen zijn vaak rijk.",
+        "answer": "westers"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Er is oorlog in ___.",
-        "answer": "Oekraïne"
+        "sentence": "De klas is ___ als de leraar binnenkomt.",
+        "answer": "stil"
       },
       {
-        "sentence": "Er is een ___ in Oekraïne.",
-        "answer": "oorlog"
+        "sentence": "De minister gaf geen ___ op de vraag.",
+        "answer": "kritiek"
       },
       {
-        "sentence": "Ik lees het ___ online.",
-        "answer": "nieuws"
+        "sentence": "De ___ landen zijn vaak rijk.",
+        "answer": "westers"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar is er oorlog?",
+      "question": "Wat investeren de Emiraten in?",
       "options": [
-        "Oekraïne",
-        "Nederland",
-        "Duitsland",
-        "Frankrijk"
+        "auto's",
+        "wapens",
+        "huizen",
+        "fabrieken"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Wat kun je downloaden?",
+      "question": "Waarom zijn westerse landen stil over de Emiraten?",
       "options": [
-        "Een app",
-        "Een boek",
-        "Een fiets",
-        "Een huis"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Wat is een update?",
-      "options": [
-        "Oud nieuws",
-        "Oude informatie",
-        "Geen nieuws",
-        "Nieuwe informatie"
+        "Ze zijn verlegen",
+        "Ze zijn bang",
+        "Ze hebben er geen mening over",
+        "Ze profiteren ervan"
       ],
       "correctAnswer": 4
+    },
+    {
+      "question": "Wat is een voorbeeld van iets 'westers'?",
+      "options": [
+        "Een oude tempel in Azië",
+        "Een moderne flat in Dubai",
+        "Een auto uit Duitsland",
+        "Een traditioneel gerecht uit India"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Er is oorlog in Oekraïne.",
+      "statement": "De Emiraten investeren in Europese fabrieken.",
       "isTrue": true
     },
     {
-      "statement": "Je kunt een auto downloaden.",
+      "statement": "Westerse landen praten veel over de Emiraten.",
       "isTrue": false
     },
     {
-      "statement": "Een app geeft je nieuws.",
+      "statement": "De Emiraten zijn een land in Azië.",
       "isTrue": true
     }
   ]

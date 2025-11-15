@@ -1,15 +1,15 @@
 Artikel 2
-Nieuwsupdate: 2025-11-11 04:29 UCT
+Nieuwsupdate: 2025-11-15 04:27 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Israëlisch leger voert dodelijke aanvallen uit op Libanon
-Link: https://www.standaard.be/buitenland/israelisch-leger-voert-dodelijke-aanvallen-uit-op-libanon/35173881.html
-Datum: Mon, 10 Nov 2025 18:58:34 GMT
-Samenvatting: Volg hier de laatste ontwikkelingen in het Midden-Oosten.
+Titel: Chinese hackers automatiseren spionage met Amerikaans AI-model Claude
+Link: https://www.standaard.be/buitenland/chinese-hackers-automatiseren-spionage-met-amerikaans-ai-model-claude/105039313.html
+Datum: Fri, 14 Nov 2025 22:59:00 GMT
+Samenvatting: Chinese hackers worden ervan verdacht Claude te hebben ingezet bij aanvallen op bedrijven en overheden. Door een rollenspel en de ‘salamitechniek’ konden ze het AI-model het vuile werk laten opknappen. “Dit is een keerpunt in cyberveiligheid en AI.”
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/hlhezv-file837d7jraots17zd1zsav/alternates/BASE_SIXTEEN_NINE/file837d7jraots17zd1zsav
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/wthv-claude.jpg/alternates/BASE_SIXTEEN_NINE/claude.jpg
+Premium: true
 ------------------------------------------------------------

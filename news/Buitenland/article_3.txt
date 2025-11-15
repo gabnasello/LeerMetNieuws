@@ -1,15 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-11-11 04:29 UCT
+Nieuwsupdate: 2025-11-15 04:27 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa
-Link: https://www.standaard.be/buitenland/vs-heffen-sancties-tegen-syrie-op-tijdens-ontmoeting-trump-en-al-sharaa/35131945.html
-Datum: Mon, 10 Nov 2025 18:33:50 GMT
-Samenvatting: De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates.
+Titel: Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”
+Link: https://www.standaard.be/buitenland/nederlands-dorp-moerdijk-moet-wijken-na-de-watersnoodramp-konden-we-ons-dorp-nog-heropbouwen.-nu-moeten-we-voorgoed-weg/105024946.html
+Datum: Fri, 14 Nov 2025 22:59:00 GMT
+Samenvatting: Het duizend jaar oude dorp Moerdijk verdwijnt. 1.100 inwoners moeten plaatsmaken voor de energietransitie en de verduurzaming van de haven. “Moet de industrie altijd het laatste woord hebben?”
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/ruddlh-us-supreme-court-declines-to-hear-case-challenging-same-sex-marriage/alternates/BASE_SIXTEEN_NINE/US%20Supreme%20Court%20declines%20to%20hear%20case%20challenging%20same-sex%20marriage
-Premium: false
+Afbeelding: https://prod-img.standaard.be/public/nieuws/23fmxa-reportage-over-moerdijk-nederland-dat-zal-verdwijnen-door-industrie-hier-portret-van-bert-jan-botteren-foto-jimmy-kets/alternates/BASE_SIXTEEN_NINE/Reportage%20over%20Moerdijk%20Nederland%20dat%20zal%20verdwijnen%20door%20industrie%20hier%20portret%20van%20Bert%20Jan%20Botteren%20Foto%20Jimmy%20Kets
+Premium: true
 ------------------------------------------------------------

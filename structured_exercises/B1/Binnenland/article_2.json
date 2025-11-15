@@ -1,106 +1,106 @@
 {
-  "id": 26,
+  "id": 27,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Politie gebruikt waterkanon bij protest in Antwerpen",
+  "title": "Lieve Celestine, 88 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Politie gebruikt waterkanon bij protest in Antwerpen",
-    "summary": "De politie heeft een waterkanon ingezet tijdens een pro-Palestijns protest in Antwerpen. Verschillende betogers zijn opgepakt. De demonstratie was tegen de oorlog in Gaza."
+    "title": "Lieve Celestine, 88 jaar",
+    "summary": "Geboren in 1937, overleden op 12 november 2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "betogers",
-        "definition": "Mensen die deelnemen aan een protest of demonstratie",
-        "sentence": "Verschillende ___ werden gearresteerd.",
-        "answer": "betogers"
+        "word": "88",
+        "definition": "Het getal tussen 87 en 89",
+        "sentence": "Hij is 88 jaar oud.",
+        "answer": "88"
       },
       {
-        "word": "politie",
-        "definition": "Zie 'Politie' hierboven; herhaald voor consistentie",
-        "sentence": "De ___ hield toezicht op de menigte.",
-        "answer": "politie"
+        "word": "op",
+        "definition": "Een voorzetsel dat tijd of plaats aangeeft",
+        "sentence": "We zien elkaar op maandag.",
+        "answer": "op"
       },
       {
-        "word": "Gaza",
-        "definition": "Een gebied in het Midden-Oosten, vaak in conflict",
-        "sentence": "De situatie in ___ is zeer ernstig.",
-        "answer": "Gaza"
+        "word": "12",
+        "definition": "Het getal na 11 en voor 13",
+        "sentence": "Er zijn 12 maanden in een jaar.",
+        "answer": "12"
       },
       {
-        "word": "Politie",
-        "definition": "De mensen die de wet handhaven",
-        "sentence": "De ___ kwam tussenbeide tijdens het protest.",
-        "answer": "Politie"
+        "word": "Lieve",
+        "definition": "Een manier om iemand liefkozend aan te spreken",
+        "sentence": "Lieve mensen zijn altijd vriendelijk.",
+        "answer": "Lieve"
       },
       {
-        "word": "waterkanon",
-        "definition": "Een apparaat dat water spuit, vaak gebruikt door politie",
-        "sentence": "De politie gebruikte een ___ om de menigte uiteen te drijven.",
-        "answer": "waterkanon"
+        "word": "Celestine",
+        "definition": "Een vrouwelijke voornaam, afgeleid van Celestijn",
+        "sentence": "Celestine was een oude dame.",
+        "answer": "Celestine"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ hield toezicht op de menigte.",
-        "answer": "politie"
+        "sentence": "Lieve mensen zijn altijd vriendelijk.",
+        "answer": "Lieve"
       },
       {
-        "sentence": "Verschillende ___ werden gearresteerd.",
-        "answer": "betogers"
+        "sentence": "We zien elkaar op maandag.",
+        "answer": "op"
       },
       {
-        "sentence": "De situatie in ___ is zeer ernstig.",
-        "answer": "Gaza"
+        "sentence": "Hij is 88 jaar oud.",
+        "answer": "88"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar vond het protest plaats?",
+      "question": "Wat betekent de naam Celestine?",
       "options": [
-        "Antwerpen",
-        "Brussel",
-        "Amsterdam",
-        "Parijs"
+        "Hemels",
+        "Aards",
+        "Mannelijk",
+        "Onbekend"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat gebruikte de politie om de menigte uiteen te drijven?",
+      "question": "In welk jaar is Celestine geboren?",
       "options": [
-        "Waterkanon",
-        "Traangas",
-        "Knuppels",
-        "Een hek"
+        "1937",
+        "1945",
+        "1950",
+        "1960"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Waar was het protest tegen?",
+      "question": "Is Celestine nog in leven?",
       "options": [
-        "De oorlog in Gaza",
-        "Belgisch beleid",
-        "Klimaatverandering",
-        "Hogere belastingen"
+        "Ja",
+        "Nee",
+        "Soms",
+        "Niet bekend"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De politie gebruikte een waterkanon tijdens het protest.",
+      "statement": "Celestine is een mannelijke naam.",
+      "isTrue": false
+    },
+    {
+      "statement": "Celestine is in 2025 overleden.",
       "isTrue": true
     },
     {
-      "statement": "Het protest was tegen de Belgische regering.",
-      "isTrue": false
-    },
-    {
-      "statement": "Er werden geen betogers gearresteerd.",
-      "isTrue": false
+      "statement": "Celestine is geboren in 1937.",
+      "isTrue": true
     }
   ]
 }

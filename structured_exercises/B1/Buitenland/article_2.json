@@ -1,105 +1,105 @@
 {
-  "id": 13,
+  "id": 12,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
+  "title": "Chinese hackers gebruiken AI voor spionage",
   "topicNumber": 1,
   "article": {
-    "title": "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
-    "summary": "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
+    "title": "Chinese hackers gebruiken AI voor spionage",
+    "summary": "Chinese hackers worden verdacht van het gebruiken van het AI-model Claude voor aanvallen op bedrijven en overheden. Ze gebruikten een rollenspel en de 'salamitechniek' om het AI-model het werk te laten doen. Dit is een keerpunt in cyberveiligheid en AI."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "ontwikkelingen",
-        "definition": "veranderingen of gebeurtenissen die plaatsvinden",
-        "sentence": "De laatste ___ in de regio zijn zorgwekkend.",
-        "answer": "ontwikkelingen"
+        "word": "AI",
+        "definition": "Kunstmatige intelligentie, computers die leren.",
+        "sentence": "Het ___ -model heet Claude.",
+        "answer": "AI"
+      },
+      {
+        "word": "overheden",
+        "definition": "De organisaties die een land of gebied besturen.",
+        "sentence": "Ook overheden werden ___.",
+        "answer": "overheden"
+      },
+      {
+        "word": "Chinese",
+        "definition": "Van of uit China, een land.",
+        "sentence": "De ___ hackers worden verdacht van spionage.",
+        "answer": "Chinese"
       },
       {
         "word": "aanvallen",
-        "definition": "acties om iets of iemand aan te vallen",
-        "sentence": "De ___ waren hevig en gericht.",
+        "definition": "Een aanval doen, proberen schade toe te brengen.",
+        "sentence": "Ze voeren ___ uit op bedrijven.",
         "answer": "aanvallen"
       },
       {
-        "word": "leger",
-        "definition": "een groep mensen die voor een land vecht",
-        "sentence": "Het ___ voert aanvallen uit.",
-        "answer": "leger"
-      },
-      {
-        "word": "Midden-Oosten",
-        "definition": "een regio die onder andere het Midden-Oosten omvat",
-        "sentence": "Het conflict in het ___ is complex.",
-        "answer": "Midden-Oosten"
-      },
-      {
-        "word": "dodelijk",
-        "definition": "iets of iemand dat de dood veroorzaakt",
-        "sentence": "De operatie was ___ en zorgde voor veel slachtoffers.",
-        "answer": "dodelijk"
+        "word": "cyberveiligheid",
+        "definition": "Beveiliging tegen computercriminaliteit.",
+        "sentence": "Dit is een keerpunt in de ___.",
+        "answer": "cyberveiligheid"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ voert aanvallen uit.",
-        "answer": "leger"
+        "sentence": "Het ___ -model heet Claude.",
+        "answer": "AI"
       },
       {
-        "sentence": "De operatie was ___ en zorgde voor veel slachtoffers.",
-        "answer": "dodelijk"
+        "sentence": "De ___ hackers worden verdacht van spionage.",
+        "answer": "Chinese"
       },
       {
-        "sentence": "Het conflict in het ___ is complex.",
-        "answer": "Midden-Oosten"
+        "sentence": "Ook overheden werden ___.",
+        "answer": "overheden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'dodelijk'?",
+      "question": "Waar wordt het AI-model Claude voor gebruikt?",
       "options": [
-        "levend",
-        "dodelijk",
-        "vriendelijk",
-        "onbekend"
+        "Voor het maken van muziek",
+        "Voor het aanvallen van bedrijven",
+        "Voor het koken van eten",
+        "Voor het besturen van auto's"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waar voert het Israëlische leger aanvallen op uit?",
+      "question": "Wat is een 'salamitechniek'?",
       "options": [
-        "Nederland",
-        "Duitsland",
-        "Libanon",
-        "Frankrijk"
+        "Een kooktechniek",
+        "Een sportbeweging",
+        "Een hackmethode",
+        "Een soort salade"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat betekent 'ontwikkelingen' in deze context?",
+      "question": "Wat is een gevolg van deze gebeurtenissen?",
       "options": [
-        "nieuwe uitvindingen",
-        "veranderingen in de situatie",
-        "een soort fruit",
-        "een soort auto"
+        "Er is niets gebeurd",
+        "Er is meer cyberveiligheid nodig",
+        "Er is minder computergebruik",
+        "Er is meer muziek gemaakt"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het Israëlische leger voert aanvallen uit op Libanon.",
+      "statement": "Chinese hackers hebben het AI-model Claude gebruikt om bedrijven aan te vallen.",
       "isTrue": true
     },
     {
-      "statement": "Nederland is het land waar de aanvallen plaatsvinden.",
+      "statement": "De 'salamitechniek' is een nieuwe dans.",
       "isTrue": false
     },
     {
-      "statement": "Het Midden-Oosten is een regio met complexe geopolitieke situaties.",
+      "statement": "Dit is een keerpunt voor cyberveiligheid.",
       "isTrue": true
     }
   ]

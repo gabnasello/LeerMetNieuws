@@ -1,106 +1,106 @@
 {
-  "id": 27,
+  "id": 28,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Politie zet opnieuw waterkanon in bij pro-Palestijns protest in Antwerpen",
+  "title": "Lieve Cerstelotte, 88 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Politie zet opnieuw waterkanon in bij pro-Palestijns protest in Antwerpen",
-    "summary": "De Antwerpse Coalitie voor Palestina betoogt maandagavond in de Antwerpse binnenstad opnieuw tegen de genocide in Gaza. De politie heeft de demonstranten richting het Steenplein verdreven, verschillende betogers zijn opgepakt."
+    "title": "Lieve Cerstelotte, 88 jaar",
+    "summary": "Geboren in 1937, overleden op 12/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "verdreven",
-        "definition": "Gedwongen weggejaagd of verspreid.",
-        "sentence": "De menigte werd ___ door de politie naar de zijstraten.",
-        "answer": "verdreven"
+        "word": "Cerstelotte",
+        "definition": "Een ongebruikelijke naam, mogelijk een variant van Charlotte.",
+        "sentence": "___ is een meisjesnaam met een Duitse oorsprong.",
+        "answer": "Cerstelotte"
       },
       {
-        "word": "genocide",
-        "definition": "Een geplande vernietiging van een hele bevolkingsgroep.",
-        "sentence": "De VN onderzoekt de beschuldigingen van ___ in de regio.",
-        "answer": "genocide"
+        "word": "12/11",
+        "definition": "De datum 12 november.",
+        "sentence": "Ze overleed op ___ 2025.",
+        "answer": "12/11"
       },
       {
-        "word": "demonstranten",
-        "definition": "Mensen die deelnemen aan een protest of betoging.",
-        "sentence": "De ___ hielden borden met leuzen erop.",
-        "answer": "demonstranten"
+        "word": "Lieve",
+        "definition": "Een liefdevolle of vriendelijke uitdrukking, vaak gebruikt in namen.",
+        "sentence": "___ is een meisjesnaam die 'geliefde' betekent.",
+        "answer": "Lieve"
       },
       {
-        "word": "politie",
-        "definition": "De organisatie die zorgt voor openbare veiligheid en handhaving van de wet.",
-        "sentence": "De ___ trad op met waterkanonnen tijdens het protest.",
-        "answer": "politie"
+        "word": "2025",
+        "definition": "Een jaartal, het jaar 2025.",
+        "sentence": "Hij overleed in ___.",
+        "answer": "2025"
       },
       {
-        "word": "betoogt",
-        "definition": "Vecht voor of spreekt zich uit voor een zaak.",
-        "sentence": "Hij ___ voor dierenrechten tijdens de vergadering.",
-        "answer": "betoogt"
+        "word": "overleden",
+        "definition": "Niet meer levend, gestorven.",
+        "sentence": "Hij is ___ in 2020.",
+        "answer": "overleden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De VN onderzoekt de beschuldigingen van ___ in de regio.",
-        "answer": "genocide"
+        "sentence": "Hij overleed in ___.",
+        "answer": "2025"
       },
       {
-        "sentence": "Hij ___ voor dierenrechten tijdens de vergadering.",
-        "answer": "betoogt"
+        "sentence": "___ is een meisjesnaam die 'geliefde' betekent.",
+        "answer": "Lieve"
       },
       {
-        "sentence": "De ___ trad op met waterkanonnen tijdens het protest.",
-        "answer": "politie"
+        "sentence": "Ze overleed op ___ 2025.",
+        "answer": "12/11"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom gebruikte de politie een waterkanon tijdens het protest?",
+      "question": "In welk jaar is Lieve Cerstelotte geboren?",
       "options": [
-        "Om de demonstranten te vermaken",
-        "Om de menigte uiteen te drijven",
-        "Om water te besparen",
-        "Om de aandacht af te leiden"
+        "1920",
+        "1937",
+        "1945",
+        "1950"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat was het hoofddoel van de betoging in Antwerpen?",
+      "question": "Wat is de betekenis van de naam 'Lieve'?",
       "options": [
-        "Tegen dierenrechten",
-        "Tegen de genocide in Gaza",
-        "Voor meer toerisme",
-        "Tegen de lokale politie"
+        "Liefdevol",
+        "Oud",
+        "Kort",
+        "Gelukkig"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Hoe reageerde de politie op de demonstratie?",
+      "question": "Op welke datum overleed Lieve Cerstelotte?",
       "options": [
-        "Door niets te doen",
-        "Door de groep te verdrijven en sommigen aan te houden",
-        "Door iedereen direct aan te houden",
-        "Door de groep uit te nodigen voor een feest"
+        "1 januari",
+        "12 november",
+        "31 december",
+        "1 mei"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De politie heeft geen waterkanon ingezet tijdens het protest.",
-      "isTrue": false
-    },
-    {
-      "statement": "De betoging vond plaats in Antwerpen tegen de situatie in Gaza.",
+      "statement": "Lieve Cerstelotte was 88 jaar oud toen ze overleed.",
       "isTrue": true
     },
     {
-      "statement": "Er werden geen demonstranten aangehouden.",
+      "statement": "Lieve Cerstelotte werd geboren in 1920.",
       "isTrue": false
+    },
+    {
+      "statement": "De datum van overlijden is 12 november 2025.",
+      "isTrue": true
     }
   ]
 }

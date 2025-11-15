@@ -29,104 +29,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Zelensky-vertrouweling in corruptieonderzoek",
+    title: "Waarom is er weinig kritiek op de Emiraten? Een blik op de banden met de wapenindustrie.",
     topicNumber: 1,
     article: {
-      title: "Zelensky-vertrouweling in corruptieonderzoek",
-      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+      title: "Waarom is er weinig kritiek op de Emiraten? Een blik op de banden met de wapenindustrie.",
+      summary: "Westerse leiders zijn geschokt door het geweld in Soedan, maar geven de Emiraten niet de schuld. Dit komt door grote investeringen van de Emiraten in westerse wapenbedrijven."
     },
     vocabulary: {
       words: [
         {
-          word: "corruptie",
-          definition: "wanneer mensen misbruik maken van hun macht voor persoonlijk voordeel",
-          sentence: "Er is een onderzoek naar mogelijke ___ in de regering.",
-          answer: "corruptie"
+          word: "leiders",
+          definition: "mensen die een groep of land leiden",
+          sentence: "De ___ van de vergadering bespraken het nieuwe plan.",
+          answer: "leiders"
         },
         {
-          word: "ontwikkelingen",
-          definition: "nieuwe gebeurtenissen of veranderingen in een situatie",
-          sentence: "Volg de laatste ___ in dit verhaal op onze website.",
-          answer: "ontwikkelingen"
+          word: "kritiek",
+          definition: "negatieve opmerkingen of commentaar",
+          sentence: "Hij kreeg veel ___ op zijn werk omdat het niet goed was.",
+          answer: "kritiek"
         },
         {
-          word: "vertrouweling",
-          definition: "iemand die je vertrouwt en die dicht bij je staat",
-          sentence: "Hij is een belangrijke ___ van de president.",
-          answer: "vertrouweling"
+          word: "Emiraten",
+          definition: "een land in het Midden-Oosten, rijk door olie",
+          sentence: "De ___ zijn rijk door hun olie-inkomsten.",
+          answer: "Emiraten"
         },
         {
-          word: "Oekraïne",
-          definition: "een land in Europa, momenteel in conflict",
-          sentence: "De oorlog in ___ duurt al lang.",
-          answer: "Oekraïne"
+          word: "wapenindustrie",
+          definition: "industrie die wapens maakt en verkoopt",
+          sentence: "De ___ groeit snel tijdens oorlogen.",
+          answer: "wapenindustrie"
         },
         {
-          word: "app",
-          definition: "een applicatie op je telefoon of computer, vaak om informatie te krijgen",
-          sentence: "Download de ___ om updates te ontvangen.",
-          answer: "app"
+          word: "investeringen",
+          definition: "geld dat in iets wordt gestopt om meer geld te verdienen",
+          sentence: "Hun ___ in technologie bracht veel winst.",
+          answer: "investeringen"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De oorlog in ___ duurt al lang.",
-          answer: "Oekraïne"
+          sentence: "Hij kreeg veel ___ op zijn werk omdat het niet goed was.",
+          answer: "kritiek"
         },
         {
-          sentence: "Volg de laatste ___ in dit verhaal op onze website.",
-          answer: "ontwikkelingen"
+          sentence: "De ___ groeit snel tijdens oorlogen.",
+          answer: "wapenindustrie"
         },
         {
-          sentence: "Download de ___ om updates te ontvangen.",
-          answer: "app"
+          sentence: "Hun ___ in technologie bracht veel winst.",
+          answer: "investeringen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat het artikel over?",
+        question: "Waarom geven westerse leiders de Emiraten niet de schuld voor het geweld in Soedan?",
         options: [
-          "Een nieuwe film over Oekraïne",
-          "Een sportevenement in Oekraïne",
-          "Een corruptieonderzoek in Oekraïne",
-          "Een vakantiebestemming in Oekraïne"
+          "Omdat de Emiraten hun vrienden zijn",
+          "Omdat de Emiraten veel geld geven aan westerse wapenfabrikanten",
+          "Omdat Soedan te ver weg is",
+          "Omdat ze het niet weten"
+        ],
+        correctAnswer: 2
+      },
+      {
+        question: "Wat is de rol van de Emiraten in de wapenindustrie?",
+        options: [
+          "Ze maken zelf wapens",
+          "Ze kopen wapens uit andere landen",
+          "Ze investeren in buitenlandse wapenfabrikanten",
+          "Ze verkopen wapens aan de hele wereld"
         ],
         correctAnswer: 3
       },
       {
-        question: "Hoe kan men updates over de oorlog ontvangen?",
+        question: "Hoe reageren de Emiraten op de situatie in Soedan?",
         options: [
-          "Door een brief te sturen",
-          "Door een bericht via de postduif",
-          "Door de DS Nieuws app te downloaden",
-          "Door een bezoek aan Oekraïne"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat is de relatie tussen Zelensky en de vertrouweling?",
-        options: [
-          "Zij zijn broers",
-          "Hij is zijn leraar",
-          "De vertrouweling is een naaste medewerker van Zelensky",
-          "Zij zijn buren"
+          "Ze sturen troepen om te helpen",
+          "Ze geven geld aan hulporganisaties",
+          "Ze negeren het en doen niets",
+          "Ze bespreken het met de VN"
         ],
         correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Het artikel gaat over een corruptieonderzoek in Oekraïne.",
-        isTrue: true
-      },
-      {
-        statement: "Zelensky is de president van de Verenigde Staten.",
+        statement: "De Emiraten worden bekritiseerd door alle westerse leiders voor hun rol in Soedan.",
         isTrue: false
       },
       {
-        statement: "Je kunt de DS Nieuws app downloaden voor updates.",
+        statement: "De Emiraten investeren in westerse wapenbedrijven, en daarom zwijgen westerse leiders over de Emiraten.",
         isTrue: true
+      },
+      {
+        statement: "Soedan is een stad in de Emiraten.",
+        isTrue: false
       }
     ]
   },
@@ -135,103 +135,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
+    title: "Chinese hackers gebruiken AI voor spionage",
     topicNumber: 1,
     article: {
-      title: "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
-      summary: "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
+      title: "Chinese hackers gebruiken AI voor spionage",
+      summary: "Chinese hackers worden verdacht van het gebruiken van het AI-model Claude voor aanvallen op bedrijven en overheden. Ze gebruikten een rollenspel en de 'salamitechniek' om het AI-model het werk te laten doen. Dit is een keerpunt in cyberveiligheid en AI."
     },
     vocabulary: {
       words: [
         {
-          word: "ontwikkelingen",
-          definition: "veranderingen of gebeurtenissen die plaatsvinden",
-          sentence: "De laatste ___ in de regio zijn zorgwekkend.",
-          answer: "ontwikkelingen"
+          word: "AI",
+          definition: "Kunstmatige intelligentie, computers die leren.",
+          sentence: "Het ___ -model heet Claude.",
+          answer: "AI"
+        },
+        {
+          word: "overheden",
+          definition: "De organisaties die een land of gebied besturen.",
+          sentence: "Ook overheden werden ___.",
+          answer: "overheden"
+        },
+        {
+          word: "Chinese",
+          definition: "Van of uit China, een land.",
+          sentence: "De ___ hackers worden verdacht van spionage.",
+          answer: "Chinese"
         },
         {
           word: "aanvallen",
-          definition: "acties om iets of iemand aan te vallen",
-          sentence: "De ___ waren hevig en gericht.",
+          definition: "Een aanval doen, proberen schade toe te brengen.",
+          sentence: "Ze voeren ___ uit op bedrijven.",
           answer: "aanvallen"
         },
         {
-          word: "leger",
-          definition: "een groep mensen die voor een land vecht",
-          sentence: "Het ___ voert aanvallen uit.",
-          answer: "leger"
-        },
-        {
-          word: "Midden-Oosten",
-          definition: "een regio die onder andere het Midden-Oosten omvat",
-          sentence: "Het conflict in het ___ is complex.",
-          answer: "Midden-Oosten"
-        },
-        {
-          word: "dodelijk",
-          definition: "iets of iemand dat de dood veroorzaakt",
-          sentence: "De operatie was ___ en zorgde voor veel slachtoffers.",
-          answer: "dodelijk"
+          word: "cyberveiligheid",
+          definition: "Beveiliging tegen computercriminaliteit.",
+          sentence: "Dit is een keerpunt in de ___.",
+          answer: "cyberveiligheid"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het ___ voert aanvallen uit.",
-          answer: "leger"
+          sentence: "Het ___ -model heet Claude.",
+          answer: "AI"
         },
         {
-          sentence: "De operatie was ___ en zorgde voor veel slachtoffers.",
-          answer: "dodelijk"
+          sentence: "De ___ hackers worden verdacht van spionage.",
+          answer: "Chinese"
         },
         {
-          sentence: "Het conflict in het ___ is complex.",
-          answer: "Midden-Oosten"
+          sentence: "Ook overheden werden ___.",
+          answer: "overheden"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'dodelijk'?",
+        question: "Waar wordt het AI-model Claude voor gebruikt?",
         options: [
-          "levend",
-          "dodelijk",
-          "vriendelijk",
-          "onbekend"
+          "Voor het maken van muziek",
+          "Voor het aanvallen van bedrijven",
+          "Voor het koken van eten",
+          "Voor het besturen van auto's"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waar voert het Israëlische leger aanvallen op uit?",
+        question: "Wat is een 'salamitechniek'?",
         options: [
-          "Nederland",
-          "Duitsland",
-          "Libanon",
-          "Frankrijk"
+          "Een kooktechniek",
+          "Een sportbeweging",
+          "Een hackmethode",
+          "Een soort salade"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat betekent 'ontwikkelingen' in deze context?",
+        question: "Wat is een gevolg van deze gebeurtenissen?",
         options: [
-          "nieuwe uitvindingen",
-          "veranderingen in de situatie",
-          "een soort fruit",
-          "een soort auto"
+          "Er is niets gebeurd",
+          "Er is meer cyberveiligheid nodig",
+          "Er is minder computergebruik",
+          "Er is meer muziek gemaakt"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Het Israëlische leger voert aanvallen uit op Libanon.",
+        statement: "Chinese hackers hebben het AI-model Claude gebruikt om bedrijven aan te vallen.",
         isTrue: true
       },
       {
-        statement: "Nederland is het land waar de aanvallen plaatsvinden.",
+        statement: "De 'salamitechniek' is een nieuwe dans.",
         isTrue: false
       },
       {
-        statement: "Het Midden-Oosten is een regio met complexe geopolitieke situaties.",
+        statement: "Dit is een keerpunt voor cyberveiligheid.",
         isTrue: true
       }
     ]
@@ -241,104 +241,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B1",
-    title: "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
+    title: "Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”",
     topicNumber: 1,
     article: {
-      title: "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
-      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijk veranderingen teweeg. Volg hier alle updates."
+      title: "Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”",
+      summary: "Het duizend jaar oude dorp Moerdijk verdwijnt. 1.100 inwoners moeten plaatsmaken voor de energietransitie en de verduurzaming van de haven. “Moet de industrie altijd het laatste woord hebben?”"
     },
     vocabulary: {
       words: [
         {
-          word: "sancties",
-          definition: "Straffen die een land geeft aan een ander land",
-          sentence: "De Verenigde Naties kunnen ___ opleggen aan een land.",
-          answer: "sancties"
+          word: "heropbouwen",
+          definition: "opnieuw opbouwen, weer opbouwen",
+          sentence: "Na de oorlog werd de stad snel ___.",
+          answer: "heropbouwen"
         },
         {
-          word: "VS",
-          definition: "Verenigde Staten van Amerika",
-          sentence: "De ___ zijn een land in Noord-Amerika.",
-          answer: "VS"
+          word: "industrie",
+          definition: "bedrijven die goederen produceren, fabrieken",
+          sentence: "De zware ___ in dit gebied zorgt voor veel banen.",
+          answer: "industrie"
         },
         {
-          word: "heffen",
-          definition: "iets officieel maken of stoppen",
-          sentence: "De regering besloot de belastingen te ___.",
-          answer: "heffen"
+          word: "plaatsmaken",
+          definition: "vervangen worden door iets anders, ruimte geven",
+          sentence: "De oude huizen moeten ___ voor een groot nieuw project.",
+          answer: "plaatsmaken"
         },
         {
-          word: "op",
-          definition: "niet meer actief of aanwezig",
-          sentence: "Het feest is ___ voor de hele buurt.",
-          answer: "op"
+          word: "wijk",
+          definition: "een gedeelte van een stad of dorp",
+          sentence: "De oude ___ bestaat uit kleine huisjes en smalle straatjes.",
+          answer: "wijk"
         },
         {
-          word: "Trump",
-          definition: "De achternaam van de voormalige president van de VS",
-          sentence: "___ was president van 2017 tot 2021.",
-          answer: "Trump"
+          word: "dorp",
+          definition: "een plaats waar mensen wonen, kleiner dan een stad",
+          sentence: "Het kleine ___ heeft een kerk en een school.",
+          answer: "dorp"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ zijn een land in Noord-Amerika.",
-          answer: "VS"
+          sentence: "De zware ___ in dit gebied zorgt voor veel banen.",
+          answer: "industrie"
         },
         {
-          sentence: "De regering besloot de belastingen te ___.",
-          answer: "heffen"
+          sentence: "De oude ___ bestaat uit kleine huisjes en smalle straatjes.",
+          answer: "wijk"
         },
         {
-          sentence: "De Verenigde Naties kunnen ___ opleggen aan een land.",
-          answer: "sancties"
+          sentence: "Na de oorlog werd de stad snel ___.",
+          answer: "heropbouwen"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar verwijst 'VS' naar in deze context?",
+        question: "Waarom moeten de inwoners van Moerdijk verhuizen?",
         options: [
-          "Verenigde Staten",
-          "Verenigde Naties",
-          "Europa",
-          "Aziz"
+          "Er is een nieuwe wet",
+          "Er is geen ruimte meer",
+          "Er komt een groot winkelcentrum",
+          "De grond is vervuild"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat betekent 'heffen' in deze titel?",
+        question: "Wat is de rol van de industrie in deze situatie?",
         options: [
-          "Optillen",
-          "Starten",
-          "Beëindigen",
-          "Veranderen"
+          "Ze bieden nieuwe huizen aan",
+          "Ze geven werk aan iedereen",
+          "Ze hebben het gebied gekozen voor uitbreiding",
+          "Ze helpen met de verhuizing"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is de rol van Al-Sharaa in de titel?",
+        question: "Hoe reageerden de inwoners op het nieuws?",
         options: [
-          "Een politieke leider",
-          "Een plaatselijke bewoner",
-          "Een bekende acteur",
-          "Een historisch figuur"
+          "Ze zijn heel boos",
+          "Ze zijn blij met de vooruitgang",
+          "Ze zijn bezorgd over hun toekomst",
+          "Ze willen niet verhuizen"
         ],
-        correctAnswer: 1
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De VS heeft de sancties tegen Syrië volledig verwijderd.",
-        isTrue: false
-      },
-      {
-        statement: "Donald Trump had een ontmoeting met Al-Sharaa.",
+        statement: "Het dorp Moerdijk bestaat al duizend jaar.",
         isTrue: true
       },
       {
-        statement: "Al-Sharaa is de president van Syrië.",
+        statement: "Alle inwoners weigeren te vertrekken.",
         isTrue: false
+      },
+      {
+        statement: "De industrie wil het dorp uitbreiden.",
+        isTrue: true
       }
     ]
   },
@@ -347,104 +347,92 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Slachtoffers van misbruik voorzichtig positief na ontekken met paus",
+    title: "Flora Loos, 84 jaar",
     topicNumber: 1,
     article: {
-      title: "Slachtoffers van misbruik voorzichtig positief na ontmoeting met paus",
-      summary: "Zaterdag zaten vijftien overlevers van misbruik samen met paus Leo XIV. Over dat gesprek zijn de zes mensen die De Standaard nadien kon spreken voorzichtig positief. Al zijn er geen concrete afspraken gemaakt over wat er in praktijk gaat veranderen. “Als de paus het antwoord niet wist, zei hij dat ook eerlijk.”"
+      title: "Flora Loos, 84 jaar",
+      summary: "Geboren in 1941, overleden op 11/11/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "gesprek",
-          definition: "Een gesprek is wanneer mensen met elkaar praten",
-          sentence: "Het ___ was open en eerlijk.",
-          answer: "gesprek"
+          word: "geboren",
+          definition: "het begin van het leven",
+          sentence: "Flora Loos is ___ in 1941.",
+          answer: "geboren"
         },
         {
-          word: "Zaterdag",
-          definition: "De dag na vrijdag en voor zondag",
-          sentence: "Op ___ ging de groep naar de paus.",
-          answer: "Zaterdag"
+          word: "overleden",
+          definition: "niet meer levend, gestorven",
+          sentence: "Ze is ___ op 11 november 2025.",
+          answer: "overleden"
         },
         {
-          word: "positief",
-          definition: "Goed, niet slecht",
-          sentence: "De reacties waren overwegend ___.",
-          answer: "positief"
-        },
-        {
-          word: "vijftien",
-          definition: "Het getal na veertien en voor zestien",
-          sentence: "Er waren ___ mensen aanwezig.",
-          answer: "vijftien"
-        },
-        {
-          word: "afspraken",
-          definition: "Afspraken zijn dingen die je met elkaar afspreekt om te doen",
-          sentence: "Er werden geen nieuwe ___ gemaakt.",
-          answer: "afspraken"
+          word: "overleden",
+          definition: "gestorven, niet meer levend",
+          sentence: "Ze is in 2025 ___.",
+          answer: "overleden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het ___ was open en eerlijk.",
-          answer: "gesprek"
+          sentence: "Ze is in 2025 ___.",
+          answer: "overleden"
         },
         {
-          sentence: "De reacties waren overwegend ___.",
-          answer: "positief"
+          sentence: "Flora Loos is ___ in 1941.",
+          answer: "geboren"
         },
         {
-          sentence: "Er werden geen nieuwe ___ gemaakt.",
-          answer: "afspraken"
+          sentence: "Ze is ___ op 11 november 2025.",
+          answer: "overleden"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat was de houding van de paus tijdens de ontmoeting?",
+        question: "In welk jaar is Flora Loos geboren?",
         options: [
-          "Afwezig",
-          "Open en eerlijk",
-          "Stil en gesloten",
-          "Boos en geïrriteerd"
+          "1940",
+          "1941",
+          "1942",
+          "1943"
         ],
         correctAnswer: 2
       },
       {
-        question: "Hoe reageerden de overlevers na de ontmoeting?",
+        question: "Hoe oud was Flora Loos toen ze overleed?",
         options: [
-          "Ze waren erg boos",
-          "Ze waren voorzichtig positief",
-          "Ze waren heel verdrietig",
-          "Ze waren onverschillig"
+          "82 jaar",
+          "83 jaar",
+          "84 jaar",
+          "85 jaar"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       },
       {
-        question: "Wat werd er besproken tijdens de ontmoeting?",
+        question: "Op welke datum overleed Flora Loos?",
         options: [
-          "Alleen het weer",
-          "Hun persoonlijke verhalen en ervaringen",
-          "De toekomst van de kerk",
-          "De paus vertelde alleen maar grapjes"
+          "11 november 2024",
+          "11 november 2025",
+          "11 december 2025",
+          "11 januari 2026"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De paus heeft beloofd om de overlevers financieel te steunen.",
-        isTrue: false
-      },
-      {
-        statement: "De overlevers waren tevreden met de openhartigheid van de paus.",
+        statement: "Flora Loos is geboren in 1941.",
         isTrue: true
       },
       {
-        statement: "Er werden nieuwe afspraken gemaakt over toekomstige ontmoetingen.",
+        statement: "Flora Loos overleed in 2024.",
         isTrue: false
+      },
+      {
+        statement: "Flora Loos werd 84 jaar oud.",
+        isTrue: true
       }
     ]
   },
@@ -453,104 +441,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Politie gebruikt waterkanon bij protest in Antwerpen",
+    title: "Lieve Celestine, 88 jaar",
     topicNumber: 1,
     article: {
-      title: "Politie gebruikt waterkanon bij protest in Antwerpen",
-      summary: "De politie heeft een waterkanon ingezet tijdens een pro-Palestijns protest in Antwerpen. Verschillende betogers zijn opgepakt. De demonstratie was tegen de oorlog in Gaza."
+      title: "Lieve Celestine, 88 jaar",
+      summary: "Geboren in 1937, overleden op 12 november 2025."
     },
     vocabulary: {
       words: [
         {
-          word: "betogers",
-          definition: "Mensen die deelnemen aan een protest of demonstratie",
-          sentence: "Verschillende ___ werden gearresteerd.",
-          answer: "betogers"
+          word: "88",
+          definition: "Het getal tussen 87 en 89",
+          sentence: "Hij is 88 jaar oud.",
+          answer: "88"
         },
         {
-          word: "politie",
-          definition: "Zie 'Politie' hierboven; herhaald voor consistentie",
-          sentence: "De ___ hield toezicht op de menigte.",
-          answer: "politie"
+          word: "op",
+          definition: "Een voorzetsel dat tijd of plaats aangeeft",
+          sentence: "We zien elkaar op maandag.",
+          answer: "op"
         },
         {
-          word: "Gaza",
-          definition: "Een gebied in het Midden-Oosten, vaak in conflict",
-          sentence: "De situatie in ___ is zeer ernstig.",
-          answer: "Gaza"
+          word: "12",
+          definition: "Het getal na 11 en voor 13",
+          sentence: "Er zijn 12 maanden in een jaar.",
+          answer: "12"
         },
         {
-          word: "Politie",
-          definition: "De mensen die de wet handhaven",
-          sentence: "De ___ kwam tussenbeide tijdens het protest.",
-          answer: "Politie"
+          word: "Lieve",
+          definition: "Een manier om iemand liefkozend aan te spreken",
+          sentence: "Lieve mensen zijn altijd vriendelijk.",
+          answer: "Lieve"
         },
         {
-          word: "waterkanon",
-          definition: "Een apparaat dat water spuit, vaak gebruikt door politie",
-          sentence: "De politie gebruikte een ___ om de menigte uiteen te drijven.",
-          answer: "waterkanon"
+          word: "Celestine",
+          definition: "Een vrouwelijke voornaam, afgeleid van Celestijn",
+          sentence: "Celestine was een oude dame.",
+          answer: "Celestine"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ hield toezicht op de menigte.",
-          answer: "politie"
+          sentence: "Lieve mensen zijn altijd vriendelijk.",
+          answer: "Lieve"
         },
         {
-          sentence: "Verschillende ___ werden gearresteerd.",
-          answer: "betogers"
+          sentence: "We zien elkaar op maandag.",
+          answer: "op"
         },
         {
-          sentence: "De situatie in ___ is zeer ernstig.",
-          answer: "Gaza"
+          sentence: "Hij is 88 jaar oud.",
+          answer: "88"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar vond het protest plaats?",
+        question: "Wat betekent de naam Celestine?",
         options: [
-          "Antwerpen",
-          "Brussel",
-          "Amsterdam",
-          "Parijs"
+          "Hemels",
+          "Aards",
+          "Mannelijk",
+          "Onbekend"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat gebruikte de politie om de menigte uiteen te drijven?",
+        question: "In welk jaar is Celestine geboren?",
         options: [
-          "Waterkanon",
-          "Traangas",
-          "Knuppels",
-          "Een hek"
+          "1937",
+          "1945",
+          "1950",
+          "1960"
         ],
         correctAnswer: 1
       },
       {
-        question: "Waar was het protest tegen?",
+        question: "Is Celestine nog in leven?",
         options: [
-          "De oorlog in Gaza",
-          "Belgisch beleid",
-          "Klimaatverandering",
-          "Hogere belastingen"
+          "Ja",
+          "Nee",
+          "Soms",
+          "Niet bekend"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De politie gebruikte een waterkanon tijdens het protest.",
+        statement: "Celestine is een mannelijke naam.",
+        isTrue: false
+      },
+      {
+        statement: "Celestine is in 2025 overleden.",
         isTrue: true
       },
       {
-        statement: "Het protest was tegen de Belgische regering.",
-        isTrue: false
-      },
-      {
-        statement: "Er werden geen betogers gearresteerd.",
-        isTrue: false
+        statement: "Celestine is geboren in 1937.",
+        isTrue: true
       }
     ]
   },
@@ -559,104 +547,73 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B1",
-    title: "Ook in “de gevangenis van de toekomst” in Haren, die zou inzetten op individuele detentie, komen er nu stapelbedden",
+    title: "Marguerite Destrooper, 92 jaar",
     topicNumber: 1,
     article: {
-      title: "Ook in “de gevangenis van de toekomst” in Haren, die zou inzetten op individuele detentie, komen er nu stapelbedden",
-      summary: "De cipiersvakbonden hebben een stakingsaanzegging ingediend omdat nu ook in de gevangenis van Haren stapelbedden worden geplaatst. Nochtans is de gevangenis ontworpen rond het idee van “individuele detentie”."
+      title: "Marguerite Destrooper, 92 jaar",
+      summary: "Geboren in 1933, overleden op 20/10/2025"
     },
     vocabulary: {
       words: [
         {
-          word: "stapelbedden",
-          definition: "meerdere bedden op elkaar gestapeld om ruimte te besparen",
-          sentence: "In kleine kamers worden soms ___ gebruikt om meer mensen te laten slapen.",
-          answer: "stapelbedden"
+          word: "geboren",
+          definition: "het moment dat iemand wordt geboren",
+          sentence: "Ze werd ___ in 1933.",
+          answer: "geboren"
         },
         {
-          word: "stakingsaanzegging",
-          definition: "een formele aankondiging dat er gestaakt zal worden",
-          sentence: "De vakbond heeft een ___ gedaan om hun eisen kracht bij te zetten.",
-          answer: "stakingsaanzegging"
-        },
-        {
-          word: "gevangenis",
-          definition: "een plaats waar mensen worden vastgehouden als straf",
-          sentence: "De ___ is een plek waar mensen niet vrijuit mogen gaan.",
-          answer: "gevangenis"
-        },
-        {
-          word: "ontworpen",
-          definition: "gepland of gemaakt met een bepaald doel",
-          sentence: "Het park was ___ om natuurlijk en rustgevend te zijn.",
-          answer: "ontworpen"
-        },
-        {
-          word: "individuele",
-          definition: "alleen, voor één persoon",
-          sentence: "Sommige mensen geven de voorkeur aan ___ activiteiten in plaats van teamsporten.",
-          answer: "individuele"
+          word: "overleden",
+          definition: "niet meer levend, gestorven",
+          sentence: "Hij is ___ op 20 oktober 2025.",
+          answer: "overleden"
         }
       ],
-      fillInBlanks: [
-        {
-          sentence: "Sommige mensen geven de voorkeur aan ___ activiteiten in plaats van teamsporten.",
-          answer: "individuele"
-        },
-        {
-          sentence: "Het park was ___ om natuurlijk en rustgevend te zijn.",
-          answer: "ontworpen"
-        },
-        {
-          sentence: "De ___ is een plek waar mensen niet vrijuit mogen gaan.",
-          answer: "gevangenis"
-        }
-      ]
+      fillInBlanks: []
     },
     multipleChoice: [
       {
-        question: "Waar gaat de tekst hoofdzakelijk over?",
+        question: "In welk jaar is Marguerite Destrooper geboren?",
         options: [
-          "Over gevangenen die willen protesteren",
-          "Over personeel van een gevangenis die gaat staken",
-          "Over de opening van een nieuwe gevangenis",
-          "Over een vakantiepark in Haren"
+          "1930",
+          "1933",
+          "1940",
+          "1950"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de situatie in de gevangenis van Haren momenteel?",
+        question: "Wat is de overlijdensdatum van Marguerite Destrooper?",
         options: [
-          "Er zijn te weinig cellen",
-          "Er is een tekort aan bewakers",
-          "Er worden stapelbedden geplaatst",
-          "De gevangenis wordt gesloten"
+          "20 oktober 2025",
+          "20 november 2025",
+          "20 december 2025",
+          "20 januari 2026"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Hoe oud was Marguerite Destrooper op het moment van overlijden?",
+        options: [
+          "90 jaar",
+          "91 jaar",
+          "92 jaar",
+          "93 jaar"
         ],
         correctAnswer: 3
-      },
-      {
-        question: "Wat is het hoofddoel van de tekst?",
-        options: [
-          "Mensen waarschuwen over de gevangenis",
-          "Uitleggen waarom men stakt",
-          "Promoten van individuele detentie",
-          "Laten zien hoe goed de gevangenis is"
-        ],
-        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De gevangenis in Haren is ontworpen voor individuele detentie.",
+        statement: "Marguerite Destrooper is geboren in 1933.",
         isTrue: true
       },
       {
-        statement: "De staking is veroorzaakt omdat er te veel gevangenen zijn.",
-        isTrue: true
-      },
-      {
-        statement: "Stapelbedden worden gebruikt om meer ruimte te creëren.",
+        statement: "Marguerite Destrooper is overleden in 2026.",
         isTrue: false
+      },
+      {
+        statement: "Marguerite Destrooper werd 92 jaar oud.",
+        isTrue: true
       }
     ]
   },
@@ -665,103 +622,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Oorlog in Oekraïne",
+    title: "Waarom kritiek op de Emiraten uitblijft",
     topicNumber: 1,
     article: {
-      title: "Oorlog in Oekraïne",
-      summary: "Volg het nieuws over de oorlog in Oekraïne. Download de app DS Nieuws voor updates."
+      title: "Waarom kritiek op de Emiraten uitblijft",
+      summary: "De Emiraten investeren in westerse wapenfabrieken. Daarom zijn westerse landen stil over kritiek op de Emiraten."
     },
     vocabulary: {
       words: [
         {
-          word: "download",
-          definition: "Iets van internet halen.",
-          sentence: "___ de app om nieuws te lezen.",
-          answer: "Download"
+          word: "landen",
+          definition: "andere woorden voor staten, zoals Nederland of België",
+          sentence: "De ___ in Europa werken vaak samen.",
+          answer: "landen"
         },
         {
-          word: "nieuws",
-          definition: "Informatie over wat er gebeurt in de wereld.",
-          sentence: "Ik lees het ___ online.",
-          answer: "nieuws"
+          word: "stil",
+          definition: "geen geluid makend, niet praten",
+          sentence: "De klas is ___ als de leraar binnenkomt.",
+          answer: "stil"
         },
         {
-          word: "update",
-          definition: "Nieuwe informatie.",
-          sentence: "Krijg een ___ over het nieuws.",
-          answer: "update"
+          word: "kritiek",
+          definition: "dat wat je ervan vindt, een mening over iets",
+          sentence: "De minister gaf geen ___ op de vraag.",
+          answer: "kritiek"
         },
         {
-          word: "oorlog",
-          definition: "Een situatie waarin landen vechten.",
-          sentence: "Er is een ___ in Oekraïne.",
-          answer: "oorlog"
+          word: "Emiraten",
+          definition: "een land in het Midden-Oosten",
+          sentence: "De ___ zijn rijk door olie.",
+          answer: "Emiraten"
         },
         {
-          word: "Oekraïne",
-          definition: "Een land in Europa.",
-          sentence: "Er is oorlog in ___.",
-          answer: "Oekraïne"
+          word: "westers",
+          definition: "van of uit Europa en Amerika",
+          sentence: "De ___ landen zijn vaak rijk.",
+          answer: "westers"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Er is oorlog in ___.",
-          answer: "Oekraïne"
+          sentence: "De klas is ___ als de leraar binnenkomt.",
+          answer: "stil"
         },
         {
-          sentence: "Er is een ___ in Oekraïne.",
-          answer: "oorlog"
+          sentence: "De minister gaf geen ___ op de vraag.",
+          answer: "kritiek"
         },
         {
-          sentence: "Ik lees het ___ online.",
-          answer: "nieuws"
+          sentence: "De ___ landen zijn vaak rijk.",
+          answer: "westers"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar is er oorlog?",
+        question: "Wat investeren de Emiraten in?",
         options: [
-          "Oekraïne",
-          "Nederland",
-          "Duitsland",
-          "Frankrijk"
+          "auto's",
+          "wapens",
+          "huizen",
+          "fabrieken"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Wat kun je downloaden?",
+        question: "Waarom zijn westerse landen stil over de Emiraten?",
         options: [
-          "Een app",
-          "Een boek",
-          "Een fiets",
-          "Een huis"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is een update?",
-        options: [
-          "Oud nieuws",
-          "Oude informatie",
-          "Geen nieuws",
-          "Nieuwe informatie"
+          "Ze zijn verlegen",
+          "Ze zijn bang",
+          "Ze hebben er geen mening over",
+          "Ze profiteren ervan"
         ],
         correctAnswer: 4
+      },
+      {
+        question: "Wat is een voorbeeld van iets 'westers'?",
+        options: [
+          "Een oude tempel in Azië",
+          "Een moderne flat in Dubai",
+          "Een auto uit Duitsland",
+          "Een traditioneel gerecht uit India"
+        ],
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Er is oorlog in Oekraïne.",
+        statement: "De Emiraten investeren in Europese fabrieken.",
         isTrue: true
       },
       {
-        statement: "Je kunt een auto downloaden.",
+        statement: "Westerse landen praten veel over de Emiraten.",
         isTrue: false
       },
       {
-        statement: "Een app geeft je nieuws.",
+        statement: "De Emiraten zijn een land in Azië.",
         isTrue: true
       }
     ]
@@ -771,92 +728,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "Israël en Libanon",
+    title: "Chinese hackers gebruiken AI",
     topicNumber: 1,
     article: {
-      title: "Israël en Libanon",
-      summary: "Er gebeuren dingen tussen Israël en Libanon."
+      title: "Chinese hackers gebruiken AI",
+      summary: "Chinese hackers gebruiken AI voor aanvallen. Dit is een groot probleem."
     },
     vocabulary: {
       words: [
         {
-          word: "Israël",
-          definition: "een land",
-          sentence: "___ ligt in het Midden-Oosten.",
-          answer: "Israël"
+          word: "aanvallen",
+          definition: "iemand of iets met geweld aanvallen",
+          sentence: "Ze ___ andere computers.",
+          answer: "aanvallen"
         },
         {
-          word: "Libanon",
-          definition: "een ander land",
-          sentence: "___ is een buurland van Israël.",
-          answer: "Libanon"
+          word: "Chinese",
+          definition: "uit China",
+          sentence: "___ hackers gebruiken AI.",
+          answer: "Chinese"
         },
         {
-          word: "gebeuren",
-          definition: "iets wat plaatsvindt",
-          sentence: "Wat ___ er in het nieuws?",
-          answer: "gebeuren"
+          word: "groot",
+          definition: "niet klein, maar van grote omvang",
+          sentence: "Dit is een ___ probleem.",
+          answer: "groot"
+        },
+        {
+          word: "gebruiken",
+          definition: "iets doen met iets",
+          sentence: "Ze ___ AI voor aanvallen.",
+          answer: "gebruiken"
+        },
+        {
+          word: "AI",
+          definition: "kunstmatige intelligentie, zoals een robotbrein",
+          sentence: "Ze gebruiken ___ voor aanvallen.",
+          answer: "AI"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Wat ___ er in het nieuws?",
-          answer: "gebeuren"
+          sentence: "Dit is een ___ probleem.",
+          answer: "groot"
         },
         {
-          sentence: "___ is een buurland van Israël.",
-          answer: "Libanon"
+          sentence: "Ze gebruiken ___ voor aanvallen.",
+          answer: "AI"
         },
         {
-          sentence: "___ ligt in het Midden-Oosten.",
-          answer: "Israël"
+          sentence: "___ hackers gebruiken AI.",
+          answer: "Chinese"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar ligt Israël?",
+        question: "Wat gebruiken de hackers?",
         options: [
-          "In Azië",
-          "In Europa",
-          "In Afrika",
-          "In het Midden-Oosten"
-        ],
-        correctAnswer: 4
-      },
-      {
-        question: "Wat is een aanval?",
-        options: [
-          "Een soort dier",
-          "Een soort plant",
-          "Een soort weer",
-          "Een soort geweld"
-        ],
-        correctAnswer: 4
-      },
-      {
-        question: "Wat is het Midden-Oosten?",
-        options: [
-          "Een continent",
-          "Een stad",
-          "Een gebied",
-          "Een rivier"
+          "eten",
+          "drinken",
+          "AI",
+          "auto"
         ],
         correctAnswer: 3
+      },
+      {
+        question: "Wat is het tegenovergestelde van veiligheid?",
+        options: [
+          "gevaar",
+          "geluk",
+          "vrede",
+          "zon"
+        ],
+        correctAnswer: 1
+      },
+      {
+        question: "Is dit een klein probleem?",
+        options: [
+          "Ja",
+          "Nee",
+          "Soms",
+          "Misschien"
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Israël ligt in het Midden-Oosten.",
+        statement: "De hackers gebruiken AI.",
         isTrue: true
       },
       {
-        statement: "Libanon is een stad.",
+        statement: "Cyberveiligheid is niet belangrijk.",
         isTrue: false
       },
       {
-        statement: "Een aanval kan dodelijk zijn.",
-        isTrue: true
+        statement: "Dit is een klein probleem.",
+        isTrue: false
       }
     ]
   },
@@ -865,103 +834,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A1",
-    title: "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
+    title: "Nederlands dorp Moerdijk moet wijken",
     topicNumber: 1,
     article: {
-      title: "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
-      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+      title: "Nederlands dorp Moerdijk moet wijken",
+      summary: "Het dorp Moerdijk moet verdwijnen. De mensen moeten weg. Het dorp is heel oud. De industrie wil groeien. De mensen moeten plaatsmaken voor de industrie."
     },
     vocabulary: {
       words: [
         {
-          word: "tijdens",
-          definition: "in de tijd van, gedurende",
-          sentence: "We ontmoeten elkaar ___ de vergadering.",
-          answer: "tijdens"
+          word: "industrie",
+          definition: "bedrijven die producten maken",
+          sentence: "De ___ maakt veel spullen.",
+          answer: "industrie"
         },
         {
-          word: "sancties",
-          definition: "straffen of beperkingen die een land oplegt",
-          sentence: "De regering kondigt nieuwe ___ aan.",
-          answer: "sancties"
+          word: "dorp",
+          definition: "een kleine plaats waar mensen wonen",
+          sentence: "Ik woon in een klein ___.",
+          answer: "dorp"
         },
         {
-          word: "VS",
-          definition: "een land, Verenigde Staten",
-          sentence: "De ___ en andere landen werken samen.",
-          answer: "VS"
+          word: "mensen",
+          definition: "personen, individuen",
+          sentence: "De ___ in het dorp zijn vriendelijk.",
+          answer: "mensen"
         },
         {
-          word: "heffen",
-          definition: "iets niet meer gebruiken, stoppen met iets",
-          sentence: "De regering besluit om de sancties te ___.",
-          answer: "heffen"
+          word: "wijken",
+          definition: "verplaatsen, ergens anders naartoe gaan",
+          sentence: "Soms moet je ___ voor iets nieuws.",
+          answer: "wijken"
         },
         {
-          word: "op",
-          definition: "beginnen, starten",
-          sentence: "De vergadering gaat zo ___.",
-          answer: "op"
+          word: "maken",
+          definition: "creëren, produceren",
+          sentence: "Kinderen ___ vaak een hut van kleden.",
+          answer: "maken"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ en andere landen werken samen.",
-          answer: "VS"
+          sentence: "Ik woon in een klein ___.",
+          answer: "dorp"
         },
         {
-          sentence: "De regering kondigt nieuwe ___ aan.",
-          answer: "sancties"
+          sentence: "De ___ in het dorp zijn vriendelijk.",
+          answer: "mensen"
         },
         {
-          sentence: "De vergadering gaat zo ___.",
-          answer: "op"
+          sentence: "Kinderen ___ vaak een hut van kleden.",
+          answer: "maken"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'heffen' in deze context?",
+        question: "Wat betekent het als een dorp moet 'wijken'?",
         options: [
-          "ophouden met",
-          "beginnen met",
-          "steunen",
-          "vergeten"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Waar is Syrië gelegen?",
-        options: [
-          "Europa",
-          "Azië",
-          "Afrika",
-          "Zuid-Amerika"
+          "Het dorp wordt mooier",
+          "Het dorp verdwijnt",
+          "Het dorp wordt groter",
+          "Het dorp verandert van naam"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een 'ontmoeting'?",
+        question: "Waarom moeten de mensen uit Moerdijk weg?",
         options: [
-          "een soort sport",
-          "een feest",
-          "een belangrijke bijeenkomst",
-          "een soort voedsel"
+          "Er is te weinig werk",
+          "De huizen zijn te oud",
+          "De industrie wil de ruimte",
+          "Er is geen water meer"
         ],
         correctAnswer: 3
+      },
+      {
+        question: "Wat is de 'industrie'?",
+        options: [
+          "Een soort supermarkt",
+          "Een groot bedrijf dat producten maakt",
+          "Een grote tuin",
+          "Een sportteam"
+        ],
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "VS is een land in Europa.",
-        isTrue: false
-      },
-      {
-        statement: "Sancties zijn straffen die een land oplegt.",
+        statement: "Het dorp Moerdijk is heel oud.",
         isTrue: true
       },
       {
-        statement: "Syrië ligt in Zuid-Amerika.",
+        statement: "De mensen in Moerdijk willen niet weg.",
+        isTrue: false
+      },
+      {
+        statement: "De industrie helpt de mensen in Moerdijk.",
         isTrue: false
       }
     ]
@@ -971,103 +940,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Luc Versluys, 78 jaar",
+    title: "Flora Loos, 84 jaar",
     topicNumber: 1,
     article: {
-      title: "Luc Versluys, 78 jaar",
-      summary: "Hij is geboren in 1946. Hij is overleden op 2 november 2025."
+      title: "Flora Loos, 84 jaar",
+      summary: "Geboren in 1941, overleden op 11 november 2025."
     },
     vocabulary: {
       words: [
         {
-          word: "Hij",
-          definition: "verwijst naar een man",
-          sentence: "___ is een man.",
-          answer: "Hij"
+          word: "Flora",
+          definition: "een vrouwelijke naam",
+          sentence: "___ is een mooie naam.",
+          answer: "Flora"
         },
         {
-          word: "is",
-          definition: "zijn (to be)",
-          sentence: "Hij ___ een man.",
-          answer: "is"
+          word: "11",
+          definition: "het getal na 10",
+          sentence: "November is de ___de maand.",
+          answer: "11"
         },
         {
-          word: "in",
-          definition: "in (locatie)",
-          sentence: "Hij woonde ___ een huis.",
-          answer: "in"
+          word: "84",
+          definition: "een getal, tussen 83 en 85",
+          sentence: "Hij is ___ jaar oud.",
+          answer: "84"
         },
         {
-          word: "op",
-          definition: "op (tijdstip)",
-          sentence: "Hij overleed ___ 2 november 2025.",
-          answer: "op"
+          word: "overleden",
+          definition: "niet meer levend, gestorven",
+          sentence: "Zij is ___ in 2025.",
+          answer: "overleden"
         },
         {
           word: "jaar",
-          definition: "eenheid van tijd (365 dagen)",
-          sentence: "Hij werd 78 ___ oud.",
+          definition: "een periode van 365 dagen",
+          sentence: "Een ___ heeft 12 maanden.",
           answer: "jaar"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij ___ een man.",
-          answer: "is"
+          sentence: "___ is een mooie naam.",
+          answer: "Flora"
         },
         {
-          sentence: "Hij overleed ___ 2 november 2025.",
-          answer: "op"
+          sentence: "Hij is ___ jaar oud.",
+          answer: "84"
         },
         {
-          sentence: "Hij woonde ___ een huis.",
-          answer: "in"
+          sentence: "November is de ___de maand.",
+          answer: "11"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wanneer is Luc Versluys geboren?",
+        question: "Wanneer is Flora geboren?",
         options: [
-          "In 1946",
-          "In 1945",
-          "In 1947",
-          "In 1948"
+          "In 1941",
+          "In 1942",
+          "In 1943",
+          "In 1944"
         ],
         correctAnswer: 1
       },
       {
-        question: "Hoe oud was Luc Versluys toen hij overleed?",
+        question: "Hoe oud is Flora geworden?",
         options: [
-          "78 jaar",
-          "77 jaar",
-          "79 jaar",
-          "80 jaar"
+          "83 jaar",
+          "84 jaar",
+          "85 jaar",
+          "86 jaar"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       },
       {
-        question: "Op welke datum overleed Luc Versluys?",
+        question: "Op welke dag is Flora overleden?",
         options: [
-          "2 november 2025",
-          "3 november 2025",
-          "2 december 2025",
-          "3 december 2025"
+          "10 november",
+          "11 november",
+          "12 november",
+          "13 november"
         ],
-        correctAnswer: 1
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Luc Versluys is geboren in 1945.",
-        isTrue: false
-      },
-      {
-        statement: "Luc Versluys overleed op 2 november 2025.",
+        statement: "Flora is geboren in 1941.",
         isTrue: true
       },
       {
-        statement: "Luc Versluys werd 80 jaar oud.",
+        statement: "Flora is overleden in 2025.",
+        isTrue: true
+      },
+      {
+        statement: "Flora is 85 jaar oud.",
         isTrue: false
       }
     ]
@@ -1077,104 +1046,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Politie gebruikt waterkanon bij protest in Antwerpen",
+    title: "Lieve Cerstelotte, 88 jaar",
     topicNumber: 1,
     article: {
-      title: "Politie gebruikt waterkanon bij protest in Antwerpen",
-      summary: "De politie gebruikte een waterkanon tijdens een protest in Antwerpen. Mensen demonstreerden voor Palestina. De politie heeft enkele demonstranten opgepakt."
+      title: "Lieve Cerstelotte, 88 jaar",
+      summary: "Geboren in 1937, overleden op 12/11/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "Antwerpen",
-          definition: "Een stad in België",
-          sentence: "Het protest was in ___.",
-          answer: "Antwerpen"
+          word: "88",
+          definition: "een getal, hier de leeftijd",
+          sentence: "Hij is ___ jaar oud.",
+          answer: "88"
         },
         {
-          word: "gebruikte",
-          definition: "Heeft gebruikt, het verleden van gebruiken",
-          sentence: "De politie ___ een waterkanon.",
-          answer: "gebruikte"
+          word: "overleden",
+          definition: "niet meer leven, dood zijn",
+          sentence: "Hij is ___ op 1 januari.",
+          answer: "overleden"
         },
         {
-          word: "protest",
-          definition: "Een actie om onvrede te uiten",
-          sentence: "Het ___ was vreedzaam.",
-          answer: "protest"
+          word: "op",
+          definition: "een voorzetsel, hier gebruikt met een datum",
+          sentence: "We zien elkaar ___ maandag.",
+          answer: "op"
         },
         {
-          word: "waterkanon",
-          definition: "Een apparaat dat water spuit",
-          sentence: "Een ___ spuit water om mensen te verjagen.",
-          answer: "waterkanon"
+          word: "Lieve",
+          definition: "een liefdevol woord, vaak gebruikt in brieven of om iemand aan te spreken",
+          sentence: "___ is een liefdevol woord.",
+          answer: "Lieve"
         },
         {
-          word: "demonstreerden",
-          definition: "Zij lieten hun mening zien in het openbaar",
-          sentence: "De groep ___ voor hun rechten.",
-          answer: "demonstreerden"
+          word: "jaar",
+          definition: "een tijdseenheid, 12 maanden",
+          sentence: "Een ___ heeft 365 dagen.",
+          answer: "jaar"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het ___ was vreedzaam.",
-          answer: "protest"
+          sentence: "Hij is ___ jaar oud.",
+          answer: "88"
         },
         {
-          sentence: "Een ___ spuit water om mensen te verjagen.",
-          answer: "waterkanon"
+          sentence: "Hij is ___ op 1 januari.",
+          answer: "overleden"
         },
         {
-          sentence: "Het protest was in ___.",
-          answer: "Antwerpen"
+          sentence: "We zien elkaar ___ maandag.",
+          answer: "op"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar was het protest?",
+        question: "Wat betekent 'overleden'?",
         options: [
-          "Amsterdam",
-          "Antwerpen",
-          "Brussel",
-          "Parijs"
+          "geboren zijn",
+          "getrouwd zijn",
+          "overleden zijn",
+          "werken"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat is '88'?",
+        options: [
+          "een naam",
+          "een getal",
+          "een plaats",
+          "een kleur"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat gebruikte de politie?",
+        question: "Wat is 'op' in deze context?",
         options: [
-          "Een auto",
-          "Een waterkanon",
-          "Een vlag",
-          "Een camera"
+          "een voorzetsel",
+          "een werkwoord",
+          "een naamwoord",
+          "een bijwoord"
         ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat deden sommige demonstranten?",
-        options: [
-          "Ze gingen naar huis",
-          "Ze werden opgepakt",
-          "Ze gingen dansen",
-          "Ze gingen sporten"
-        ],
-        correctAnswer: 2
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Het protest was in Antwerpen.",
-        isTrue: true
-      },
-      {
-        statement: "De politie gebruikte een waterkanon.",
-        isTrue: true
-      },
-      {
-        statement: "Alle demonstraten werden opgepakt.",
+        statement: "Cerstelotte is een plaats.",
         isTrue: false
+      },
+      {
+        statement: "12/11/2025 is de overlijdensdatum.",
+        isTrue: true
+      },
+      {
+        statement: "Lieve is een familielid.",
+        isTrue: true
       }
     ]
   },
@@ -1183,103 +1152,91 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A1",
-    title: "Ook in Haren zijn stapelbedden",
+    title: "Marguerite Destrooper, 92 jaar",
     topicNumber: 1,
     article: {
-      title: "Ook in Haren zijn stapelbedden",
-      summary: "In de gevangenis in Haren komen stapelbedden. De cipiers gaan staken. In Haren is de gevangenis anders. Mensen slapen daar apart."
+      title: "Marguerite Destrooper, 92 jaar",
+      summary: "Geboren in 1933, overleden op 20/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "Haren",
-          definition: "een plaatsnaam, hier: de stad Haren",
-          sentence: "In ___ is een gevangenis.",
-          answer: "Haren"
+          word: "geboren",
+          definition: "geboren worden betekent: beginnen te leven",
+          sentence: "Zij werd ___ in 1933.",
+          answer: "geboren"
         },
         {
-          word: "gevangenis",
-          definition: "een plek waar mensen die de wet hebben gebroken, naartoe gaan",
-          sentence: "De ___ is een gebouw.",
-          answer: "gevangenis"
+          word: "overleden",
+          definition: "overleden zijn betekent: niet meer leven",
+          sentence: "Hij is ___ op 20 oktober.",
+          answer: "overleden"
         },
         {
-          word: "Haren",
-          definition: "een plaatsnaam, hier: de stad Haren",
-          sentence: "In ___ is een gevangenis.",
-          answer: "Haren"
-        },
-        {
-          word: "stapelbedden",
-          definition: "meerdere bedden op elkaar",
-          sentence: "In de gevangenis staan ___.",
-          answer: "stapelbedden"
-        },
-        {
-          word: "gevangenis",
-          definition: "een plek waar mensen die de wet hebben gebroken, naartoe gaan",
-          sentence: "De ___ is een gebouw.",
-          answer: "gevangenis"
+          word: "jaar",
+          definition: "een jaar is 365 dagen",
+          sentence: "Zij is 92 ___ oud.",
+          answer: "jaar"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ is een gebouw.",
-          answer: "gevangenis"
+          sentence: "Zij werd ___ in 1933.",
+          answer: "geboren"
         },
         {
-          sentence: "De ___ is een gebouw.",
-          answer: "gevangenis"
+          sentence: "Zij is 92 ___ oud.",
+          answer: "jaar"
         },
         {
-          sentence: "In ___ is een gevangenis.",
-          answer: "Haren"
+          sentence: "Hij is ___ op 20 oktober.",
+          answer: "overleden"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom gaan de cipiers staken?",
+        question: "Wat betekent 'geboren worden'?",
         options: [
-          "Omdat er stapelbedden zijn",
-          "Omdat het te warm is",
-          "Omdat ze meer geld willen",
-          "Omdat ze willen feesten"
+          "beginnen te leven",
+          "eindigen met leven",
+          "werken in een ziekenhuis",
+          "een feest vieren"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is er in Haren?",
+        question: "Hoe oud was Marguerite Destrooper?",
         options: [
-          "Een gevangenis",
-          "Een school",
-          "Een park",
-          "Een restaurant"
+          "92 jaar",
+          "100 jaar",
+          "85 jaar",
+          "78 jaar"
         ],
         correctAnswer: 1
       },
       {
-        question: "Wat is een stapelbed?",
+        question: "In welk jaar werd Marguerite geboren?",
         options: [
-          "Meerdere bedden op elkaar",
-          "Een groot bed",
-          "Een bed voor kinderen",
-          "Een bed voor dieren"
+          "1933",
+          "1920",
+          "1945",
+          "1950"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "In Haren is er een gevangenis.",
+        statement: "Marguerite Destrooper is overleden.",
         isTrue: true
       },
       {
-        statement: "Cipiers werken in een school.",
+        statement: "Marguerite Destrooper is 100 jaar oud.",
         isTrue: false
       },
       {
-        statement: "Stapelbedden zijn bedden die op elkaar staan.",
+        statement: "Marguerite Destrooper is geboren in 1933.",
         isTrue: true
       }
     ]
@@ -1395,103 +1352,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
+    title: "Chinese hackers automatiseren spionage met Amerikaans AI-model Claude",
     topicNumber: 1,
     article: {
-      title: "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
-      summary: "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
+      title: "Chinese hackers automatiseren spionage met Amerikaans AI-model Claude",
+      summary: "Chinese hackers worden ervan verdacht Claude te hebben ingezet bij aanvallen op bedrijven en overheden. Door een rollenspel en de ‘salamitechniek’ konden ze het AI-model het vuile werk laten opknappen. “Dit is een keerpunt in cyberveiligheid en AI.”"
     },
     vocabulary: {
       words: [
         {
-          word: "Midden-Oosten",
-          definition: "Een regio die onder andere Israël, Libanon en Syrië omvat.",
-          sentence: "De crisis in het ___ trekt wereldwijd aandacht.",
-          answer: "Midden-Oosten"
+          word: "verdacht",
+          definition: "waarvan men denkt of vermoedt dat het iets verkeerds of onwettigs is",
+          sentence: "Hij werd ___ van het lekken van gevoelige informatie.",
+          answer: "verdacht"
         },
         {
-          word: "Israëlisch",
-          definition: "Betrekking hebbend op Israël, het land in het Midden-Oosten.",
-          sentence: "Het ___ leger voerde aanvallen uit op Libanon.",
-          answer: "Israëlisch"
+          word: "ingezet",
+          definition: "gebruikt of toegepast voor een specifiek doel",
+          sentence: "De technologie werd ___ om de processen te stroomlijnen.",
+          answer: "ingezet"
         },
         {
-          word: "dodelijk",
-          definition: "Met als gevolg dat er iemand overlijdt, dodelijk.",
-          sentence: "De aanvallen hadden een ___ effect.",
-          answer: "dodelijk"
+          word: "spionage",
+          definition: "het stiekem verzamelen van informatie, vaak van strategisch belang",
+          sentence: "Moderne ___ maakt gebruik van geavanceerde technologie.",
+          answer: "spionage"
         },
         {
-          word: "aanvallen",
-          definition: "Offensieve acties, vaak militair, gericht tegen een doel.",
-          sentence: "De ___ waren gericht op doelen in Libanon.",
-          answer: "aanvallen"
+          word: "keerpunt",
+          definition: "een moment of punt waarop een significante verandering plaatsvindt",
+          sentence: "De ontdekking was een ___ in het onderzoek.",
+          answer: "keerpunt"
         },
         {
-          word: "leger",
-          definition: "Een georganiseerde groep gewapende personen die een land verdedigt of aanvallen uitvoert.",
-          sentence: "Het Israëlische ___ voerde de aanvallen uit.",
-          answer: "leger"
+          word: "model",
+          definition: "een voorbeeld of blauwdruk dat als basis dient",
+          sentence: "Het AI-___ is ontworpen om complexe taken te vereenvoudigen.",
+          answer: "model"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het Israëlische ___ voerde de aanvallen uit.",
-          answer: "leger"
+          sentence: "De ontdekking was een ___ in het onderzoek.",
+          answer: "keerpunt"
         },
         {
-          sentence: "De crisis in het ___ trekt wereldwijd aandacht.",
-          answer: "Midden-Oosten"
+          sentence: "Hij werd ___ van het lekken van gevoelige informatie.",
+          answer: "verdacht"
         },
         {
-          sentence: "Het ___ leger voerde aanvallen uit op Libanon.",
-          answer: "Israëlisch"
+          sentence: "Moderne ___ maakt gebruik van geavanceerde technologie.",
+          answer: "spionage"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de hoofdstad van Libanon?",
+        question: "Waarom wordt Claude specifiek genoemd in de titel?",
         options: [
-          "Jeruzalem",
-          "Beiroet",
-          "Amman",
-          "Damascus"
+          "Het is een veelgebruikt AI-model",
+          "Het is een prototype voor toekomstige AI",
+          "Het werd gebruikt door Chinese hackers",
+          "Het is een codenaam voor een operatie"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Wat is de 'salamitechniek' in deze context?",
+        options: [
+          "Een kooktechniek",
+          "Een social engineering tactiek",
+          "Een methode om informatie te verbergen",
+          "Een codenaam voor een cyberaanval"
         ],
         correctAnswer: 2
       },
       {
-        question: "Welk land voerde de aanvallen uit?",
+        question: "Wat maakt deze gebeurtenis tot een keerpunt?",
         options: [
-          "Libanon",
-          "Israël",
-          "Syrië",
-          "Iran"
+          "Het is de eerste keer dat AI wordt gebruikt voor spionage",
+          "Het markeert een verandering in hoe AI wordt misbruikt",
+          "Het is de grootste cyberaanval ooit",
+          "Er is geen bijzonderheid, het is routine"
         ],
         correctAnswer: 2
-      },
-      {
-        question: "Wat betekent 'dodelijk' in deze context?",
-        options: [
-          "Leidend tot doden",
-          "Onbedoeld",
-          "Onschadelijk",
-          "Onbeduidend"
-        ],
-        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Israël voerde de aanvallen uit op Libanon.",
-        isTrue: true
-      },
-      {
-        statement: "De aanvallen hadden geen dodelijke gevolgen.",
+        statement: "Claude is een AI-model ontwikkeld door Chinese hackers.",
         isTrue: false
       },
       {
-        statement: "De situatie in het Midden-Oosten wordt nauwlettend gevolgd.",
+        statement: "De 'salamitechniek' verwijst naar een methode om informatie te verbergen in schijnbaar onschuldige communicatie.",
+        isTrue: true
+      },
+      {
+        statement: "Dit incident is het eerste gedocumenteerde geval waarin AI wordt gebruikt voor grootschalige spionage.",
         isTrue: true
       }
     ]
@@ -1501,98 +1458,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "C1",
-    title: "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Shariyad",
+    title: "Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”",
     topicNumber: 1,
     article: {
-      title: "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Shariyad",
-      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+      title: "Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”",
+      summary: "Het duizend jaar oude dorp Moerdijk verdwijnt. 1.100 inwoners moeten plaatsmaken voor de energietransitie en de verduurzaming van de haven. “Moet de industrie altijd het laatste woord hebben?”"
     },
     vocabulary: {
       words: [
         {
-          word: "sancties",
-          definition: "maatregelen die een land neemt tegen een ander land, vaak om politieke redenen",
-          sentence: "De Verenigde Staten hebben nieuwe ___ tegen Rusland aangekondigd.",
-          answer: "sancties"
+          word: "verduurzaming",
+          definition: "het proces om iets duurzaam, dus langdurig houdbaar, te maken",
+          sentence: "De ___ van de haven is belangrijk voor het milieu.",
+          answer: "verduurzaming"
         },
         {
-          word: "Syrië",
-          definition: "een land in het Midden-Oosten, officieel de Syrische Arabische Republiek",
-          sentence: "___ is een land dat al jaren te maken heeft met conflicten.",
-          answer: "Syrië"
+          word: "dorp",
+          definition: "een kleine woonplaats, kleiner dan een stad",
+          sentence: "Het kleine ___ heeft een rijke geschiedenis.",
+          answer: "dorp"
         },
         {
-          word: "Trump",
-          definition: "de familienaam van de voormalige president van de Verenigde Staten",
-          sentence: "___ was de 45e president van de Verenigde Staten.",
-          answer: "Trump"
+          word: "wijken",
+          definition: "een gebied verlaten, vaak onder druk",
+          sentence: "De inwoners moeten ___ vanwege de uitbreiding van de haven.",
+          answer: "wijken"
         },
         {
-          word: "updates",
-          definition: "bijgewerkte informatie of nieuwsberichten",
-          sentence: "Volg de ___ op onze website voor het laatste nieuws.",
-          answer: "updates"
+          word: "industrie",
+          definition: "alle bedrijven en activiteiten die producten maken of diensten leveren",
+          sentence: "De ___ in deze regio is erg belangrijk voor de werkgelegenheid.",
+          answer: "industrie"
+        },
+        {
+          word: "energietransitie",
+          definition: "de overgang naar het gebruik van duurzame energiebronnen",
+          sentence: "De ___ is essentieel om klimaatverandering tegen te gaan.",
+          answer: "energietransitie"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Volg de ___ op onze website voor het laatste nieuws.",
-          answer: "updates"
+          sentence: "De inwoners moeten ___ vanwege de uitbreiding van de haven.",
+          answer: "wijken"
         },
         {
-          sentence: "De Verenigde Staten hebben nieuwe ___ tegen Rusland aangekondigd.",
-          answer: "sancties"
+          sentence: "Het kleine ___ heeft een rijke geschiedenis.",
+          answer: "dorp"
         },
         {
-          sentence: "___ is een land dat al jaren te maken heeft met conflicten.",
-          answer: "Syrië"
+          sentence: "De ___ van de haven is belangrijk voor het milieu.",
+          answer: "verduurzaming"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom heft de VS sancties tegen Syrië op?",
+        question: "Waarom moeten de inwoners van Moerdijk hun dorp verlaten?",
         options: [
-          "Om economische steun te bieden",
-          "Als onderdeel van een vredesakkoord",
-          "Vanwege een natuurlijke ramp in Syrië",
-          "Omdat de sancties niet langer nodig zijn"
-        ],
-        correctAnswer: 1
-      },
-      {
-        question: "Wat is een mogelijk gevolg van het opheffen van sancties?",
-        options: [
-          "Toenemende internationale spanningen",
-          "Verbeterde economische samenwerking",
-          "Verdere isolatie van het land",
-          "Geen enkel effect, het is symbolisch"
+          "Omdat er een nieuwe snelweg wordt aangelegd.",
+          "Omdat de overheid het gebied wil gebruiken voor de energietransitie.",
+          "Omdat het dorp verplaatst wordt voor de bouw van een groot winkelcentrum.",
+          "Omdat er een nieuwe luchthaven gepland is."
         ],
         correctAnswer: 2
       },
       {
-        question: "Hoe reageerde de internationale gemeenschap op deze stap?",
+        question: "Wat is de historische betekenis van het dorp Moerdijk?",
         options: [
-          "Met scepsis, het is te vroeg voor optimisme",
-          "Met volledige steun, iedereen is het erover eens",
-          "Met verwarring, het is onduidelijk waarom het gebeurt",
-          "Met onverschilligheid, het maakt weinig uit"
+          "Het is een eeuwenoud dorp met een geschiedenis van duizend jaar.",
+          "Het is een modern dorp, gebouwd in de jaren negentig.",
+          "Het is vooral bekend als toeristische attractie.",
+          "Het heeft geen bijzondere historische achtergrond."
         ],
         correctAnswer: 1
+      },
+      {
+        question: "Hoe reageren de inwoners op de plannen?",
+        options: [
+          "Ze zijn enthousiast en werken mee.",
+          "Ze zijn neutraal en wachten af.",
+          "Ze zijn boos en protesteren actief.",
+          "Ze zijn onverschillig en trekken zich niets aan."
+        ],
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De sancties tegen Syrië werden opgeheven als onderdeel van een breder vredesakkoord.",
-        isTrue: true
-      },
-      {
-        statement: "Deze actie betekent dat Syrië nu volledig zelfvoorzienend is zonder internationale hulp.",
+        statement: "Het dorp Moerdijk werd volledig verwoest tijdens de Watersnoodramp.",
         isTrue: false
       },
       {
-        statement: "President Trump noemde de opheffing een 'humanitaire stap'.",
+        statement: "De energietransitie is een van de redenen dat het dorp moet verdwijnen.",
         isTrue: true
+      },
+      {
+        statement: "De haven van Moerdijk is de grootste van Europa.",
+        isTrue: false
       }
     ]
   },
@@ -1601,103 +1564,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Net hierdoor voel ik mij als brave burger radicaliseren: pro-Palestijns protest in Antwerpen opnieuw weggespoeld met waterkanon",
+    title: "Flora Loos, 84 jaar",
     topicNumber: 1,
     article: {
-      title: "Net hierdoor voel ik mij als brave burger radicaliseren: pro-Palestijns protest in Antwerpen opnieuw weggespoeld met waterkanon",
-      summary: "Voor de tweede week op rij is pro-Palestijns protest in Antwerpen uitgedraaid op een confrontatie tussen betogers en de oproerpolitie. Zeven manifestanten werden bestuurlijk aangehouden. “Tot voor kort verliep alles nochtans heel gemoedelijk.”"
+      title: "Flora Loos, 84 jaar",
+      summary: "Geboren in 1941, overleden op 11/11/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "oproerpolitie",
-          definition: "Politie-eenheid die gespecialiseerd is in het beheersen van onrust en rellen",
-          sentence: "De ___ trad hardhandig op tegen de demonstranten.",
-          answer: "oproerpolitie"
+          word: "geboren",
+          definition: "Geboren worden; het begin van het leven.",
+          sentence: "Ze werd ___ in een klein dorp.",
+          answer: "geboren"
         },
         {
-          word: "confrontatie",
-          definition: "Een conflict of botsing tussen twee of meer partijen",
-          sentence: "De ___ tussen de twee groepen leidde tot geweld.",
-          answer: "confrontatie"
+          word: "84",
+          definition: "Het getal vierentachtig; tussen tachtig en negentig.",
+          sentence: "Ze werd ___ jaar oud, wat respectabel is.",
+          answer: "84"
         },
         {
-          word: "gemoedelijk",
-          definition: "Vriendelijk en zonder spanning of conflict",
-          sentence: "De sfeer was erg ___ ondanks de meningsverschillen.",
-          answer: "gemoedelijk"
+          word: "2025",
+          definition: "Het jaar tweeduizend vijfentwintig.",
+          sentence: "Zij stierf in ___, na een lang leven.",
+          answer: "2025"
         },
         {
-          word: "aangehouden",
-          definition: "Gearresteerd of vastgehouden door de politie",
-          sentence: "Hij werd ___ voor verdere ondervraging.",
-          answer: "aangehouden"
+          word: "Flora",
+          definition: "Een vrouwelijke voornaam; ook een term voor plantengroei.",
+          sentence: "___ was een veelvoorkomende naam in de jaren 40.",
+          answer: "Flora"
         },
         {
-          word: "betogers",
-          definition: "Mensen die deelnemen aan een protestactie of betoging",
-          sentence: "De ___ hielden spandoeken vast tijdens de mars.",
-          answer: "betogers"
+          word: "overleden",
+          definition: "Overleden zijn; niet meer in leven zijn.",
+          sentence: "Helaas is zij nu ___, maar haar erfenis leeft voort.",
+          answer: "overleden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ tussen de twee groepen leidde tot geweld.",
-          answer: "confrontatie"
+          sentence: "Ze werd ___ in een klein dorp.",
+          answer: "geboren"
         },
         {
-          sentence: "Hij werd ___ voor verdere ondervraging.",
-          answer: "aangehouden"
+          sentence: "Helaas is zij nu ___, maar haar erfenis leeft voort.",
+          answer: "overleden"
         },
         {
-          sentence: "De sfeer was erg ___ ondanks de meningsverschillen.",
-          answer: "gemoedelijk"
+          sentence: "___ was een veelvoorkomende naam in de jaren 40.",
+          answer: "Flora"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de hoofdreden voor de confrontatie tussen de betogers en de politie in Antwerpen?",
+        question: "In welk jaar is Flora Loos geboren?",
         options: [
-          "Een meningsverschil over sport",
-          "Een ruzie over een persoonlijke kwestie",
-          "De aanwezigheid van de oproerpolitie bij de protesten",
-          "Een misverstand over de locatie"
+          "1939",
+          "1940",
+          "1941",
+          "1942"
         ],
         correctAnswer: 3
       },
       {
-        question: "Hoe werden de manifestanten behandeld door de autoriteiten?",
+        question: "Wat is de betekenis van de achternaam 'Loos'?",
         options: [
-          "Ze werden allemaal direct vrijgelaten zonder voorwaarden.",
-          "Ze werden overgebracht naar een feestelijke bijeenkomst.",
-          "Ze werden bestuurlijk aangehouden voor verder onderzoek.",
-          "Ze werden beloond voor hun moed."
+          "Vast",
+          "Streng",
+          "Los",
+          "Geheim"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat was de algemene sfeer tijdens de meeste protesten volgens de samenvatting?",
+        question: "Hoe oud was Flora Loos geworden?",
         options: [
-          "Heel gewelddadig en angstaanjagend",
-          "Zeer formeel en afstandelijk",
-          "Heel gemoedelijk en vreedzaam",
-          "Extreem competitief en individualistisch"
+          "83 jaar",
+          "84 jaar",
+          "85 jaar",
+          "86 jaar"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De protesten in Antwerpen verliepen volledig zonder enige confrontatie met de autoriteiten.",
+        statement: "Flora Loos overleed in 2025.",
+        isTrue: true
+      },
+      {
+        statement: "Flora Loos was 85 jaar oud bij haar overlijden.",
         isTrue: false
       },
       {
-        statement: "De oproerpolitie had alleen de taak om toeschouwers te beschermen tijdens de protesten.",
-        isTrue: false
-      },
-      {
-        statement: "Voor het recente incident verliepen de protesten over het algemeen in een gemoedelijke sfeer.",
+        statement: "Flora Loos werd geboren tijdens de Tweede Wereldoorlog.",
         isTrue: true
       }
     ]
@@ -1707,97 +1670,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Politie zet opnieuw waterkanon in bij pro-Palestijns protest in Antwerpen",
+    title: "Lieve Cerstelotte, 88 jaar",
     topicNumber: 1,
     article: {
-      title: "Politie zet opnieuw waterkanon in bij pro-Palestijns protest in Antwerpen",
-      summary: "De Antwerpse Coalitie voor Palestina betoogt maandagavond in de Antwerpse binnenstad opnieuw tegen de genocide in Gaza. De politie heeft de demonstranten richting het Steenplein verdreven, verschillende betogers zijn opgepakt."
+      title: "Lieve Cerstelotte, 88 jaar",
+      summary: "Geboren in 1937, overleden op 12/11/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "Politie",
-          definition: "De organisatie die belast is met het handhaven van de openbare orde en veiligheid.",
-          sentence: "De ___ trad hardhandig op tijdens de demonstratie.",
-          answer: "Politie"
+          word: "11",
+          definition: "Het getal elf, hier de maand van overlijden.",
+          sentence: "De maand van overlijden was ___, de elfde maand.",
+          answer: "11"
         },
         {
-          word: "waterkanon",
-          definition: "Een apparaat dat water onder hoge druk spuit, vaak gebruikt voor crowd control.",
-          sentence: "Om de menigte uiteen te drijven, zette de politie het ___ in.",
-          answer: "waterkanon"
+          word: "12",
+          definition: "Het getal twaalf, hier de dag van overlijden.",
+          sentence: "Overleden op de ___e, een dag om te herdenken.",
+          answer: "12"
         },
         {
-          word: "Antwerpen",
-          definition: "Een grote stad in België, bekend om zijn haven en historische centrum.",
-          sentence: "De protesten vonden plaats in de stad ___.",
-          answer: "Antwerpen"
+          word: "1937",
+          definition: "Het jaar negentienhonderdzevenendertig, hier het geboortejaar.",
+          sentence: "Geboren in ___, was ze getuige van vele historische gebeurtenissen.",
+          answer: "1937"
         },
         {
-          word: "betogers",
-          definition: "Mensen die deelnemen aan een protest of demonstratie.",
-          sentence: "De ___ hielden spandoeken vast tijdens de mars.",
-          answer: "betogers"
+          word: "2025",
+          definition: "Het jaar tweeduizend vijfentwintig, hier het jaar van overlijden.",
+          sentence: "Overleden in ___, markeert het einde van een tijdperk.",
+          answer: "2025"
+        },
+        {
+          word: "Cerstelotte",
+          definition: "Een familienaam, waarschijnlijk van Nederlandse of Duitse oorsprong.",
+          sentence: "De familie van ___ heeft een lange geschiedenis in deze regio.",
+          answer: "Cerstelotte"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De ___ hielden spandoeken vast tijdens de mars.",
-          answer: "betogers"
+          sentence: "Geboren in ___, was ze getuige van vele historische gebeurtenissen.",
+          answer: "1937"
         },
         {
-          sentence: "De protesten vonden plaats in de stad ___.",
-          answer: "Antwerpen"
+          sentence: "Overleden op de ___e, een dag om te herdenken.",
+          answer: "12"
         },
         {
-          sentence: "Om de menigte uiteen te drijven, zette de politie het ___ in.",
-          answer: "waterkanon"
+          sentence: "De maand van overlijden was ___, de elfde maand.",
+          answer: "11"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar vond de protestactie plaats?",
+        question: "In welk jaar is Lieve Cerstelotte geboren?",
         options: [
-          "Brussel",
-          "Antwerpen",
-          "Gent",
-          "Luik"
+          "1920",
+          "1937",
+          "1945",
+          "1950"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat was de reactie van de politie op de demonstratie?",
+        question: "Hoe oud was Lieve Cerstelotte geworden?",
         options: [
-          "Ze gebruikten traangas",
-          "Ze zetten een waterkanon in",
-          "Ze arresteerden niemand",
-          "Ze keken alleen maar toe"
+          "77 jaar",
+          "88 jaar",
+          "90 jaar",
+          "100 jaar"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat was het hoofddoel van de betogers?",
+        question: "Op welke datum is Lieve Cerstelotte overleden?",
         options: [
-          "Tegen de regering protesteren",
-          "Steun betuigen aan de Palestijnse bevolking",
-          "De stad Antwerpen bezetten",
-          "Geen specifiek doel"
+          "1 januari 2025",
+          "12 november 2025",
+          "31 december 2025",
+          "1 januari 2026"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De politie heeft tijdens de protesten waterkanonnen ingezet.",
+        statement: "Lieve Cerstelotte werd geboren in 1937 en overleed in 2025.",
         isTrue: true
       },
       {
-        statement: "De protesten vonden plaats in de stad Brussel.",
-        isTrue: false
+        statement: "Lieve Cerstelotte overleed op 12 november 2025, wat betekent dat ze stierf op die specifieke datum.",
+        isTrue: true
       },
       {
-        statement: "Er werden geen betogers gearresteerd tijdens de demonstratie.",
+        statement: "Lieve Cerstelotte was 90 jaar oud toen ze overleed.",
         isTrue: false
       }
     ]
@@ -1807,104 +1776,98 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "C1",
-    title: "Ook in “de gevangenis van de toekomst” in Haren, die zou inzetten op individuele detentie, komen er nu stapelbedden",
+    title: "Marguerite Destrooper, 92 jaar",
     topicNumber: 1,
     article: {
-      title: "Ook in “de gevangenis van de toekomst” in Haren, die zou inzetten op individuele detentie, komen er nu stapelbedden",
-      summary: "De cipiersvakbonden hebben een stakingsaanzegging ingediend omdat nu ook in de gevangenis van Haren stapelbedden worden geplaatst. Nochtans is de gevangenis ontworpen rond het idee van “individuele detentie”."
+      title: "Marguerite Destrooper, 92 jaar",
+      summary: "Geboren in 1933, overleden op 20/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "ontworpen",
-          definition: "Gemaakt, gepland of bedacht volgens een plan.",
-          sentence: "Het systeem was zo ___ voor maximale efficiëntie.",
-          answer: "ontworpen"
+          word: "Geboren",
+          definition: "Het begin van het leven; het moment waarop iemand ter wereld komt.",
+          sentence: "Ze werd ___ in 1933.",
+          answer: "geboren"
         },
         {
-          word: "stakingsaanzegging",
-          definition: "Een officiële mededeling dat er een staking plaatsvindt.",
-          sentence: "De werknemers overhandigden de ___ aan het management.",
-          answer: "stakingsaanzegging"
+          word: "Overleden",
+          definition: "Niet meer in leven; gestorven.",
+          sentence: "Hij is ___ in 2020.",
+          answer: "overleden"
         },
         {
-          word: "Haren",
-          definition: "De naam van een plaats, in deze context een gevangenis.",
-          sentence: "In ___ is de situatie voor gevangenen erg slecht.",
-          answer: "Haren"
+          word: "1933",
+          definition: "Een jaartal; verwijst naar het jaar 1933 na Christus.",
+          sentence: "De grote depressie was in volle gang in ___.",
+          answer: "1933"
         },
         {
-          word: "detentie",
-          definition: "De periode waarin iemand vastgehouden wordt, bijvoorbeeld in een gevangenis.",
-          sentence: "Hij zat in ___ voor drie jaar wegens diefstal.",
-          answer: "detentie"
-        },
-        {
-          word: "individuele",
-          definition: "Alleenstaand, voor één persoon bedoeld.",
-          sentence: "Elke gevangene heeft recht op ___ bezoekuren.",
-          answer: "individuele"
+          word: "2025",
+          definition: "Een jaartal; verwijst naar het jaar 2025 na Christus.",
+          sentence: "Ze verwachten de oplevering in ___.",
+          answer: "2025"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij zat in ___ voor drie jaar wegens diefstal.",
-          answer: "detentie"
+          sentence: "De grote depressie was in volle gang in ___.",
+          answer: "1933"
         },
         {
-          sentence: "Elke gevangene heeft recht op ___ bezoekuren.",
-          answer: "individuele"
+          sentence: "Hij is ___ in 2020.",
+          answer: "overleden"
         },
         {
-          sentence: "De werknemers overhandigden de ___ aan het management.",
-          answer: "stakingsaanzegging"
+          sentence: "Ze verwachten de oplevering in ___.",
+          answer: "2025"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is de hoofdreden voor de stakingsaanzegging door de cipiersvakbonden?",
+        question: "In welk jaar is Marguerite Destrooper geboren?",
         options: [
-          "De komst van stapelbedden in de gevangenis van Haren",
-          "Een loonsverlaging van 10% voor alle bewakers",
-          "Het sluiten van de gevangenis van Haren zelf",
-          "De wens voor betere koffiemachines op de werkvloer"
+          "1933",
+          "1945",
+          "1920",
+          "1950"
         ],
         correctAnswer: 1
       },
       {
-        question: "Hoe is de gevangenis van Haren oorspronkelijk ontworpen?",
+        question: "Wat is de geboortemaand van Marguerite Destrooper?",
         options: [
-          "Rond het idee van individuele detentie",
-          "Voor collectieve detentie met stapelbedden",
-          "Zonder enige vorm van detentie",
-          "Als een open kamp zonder bewakers"
+          "Januari",
+          "Februari",
+          "Maart",
+          "Onbekend"
         ],
-        correctAnswer: 1
+        correctAnswer: 4
       },
       {
-        question: "Wat is de toestand van de gevangenis in Haren momenteel?",
+        question: "Hoe oud was Marguerite Destrooper geworden?",
         options: [
-          "Het gebruikt stapelbedden om meer gevangenen te herbergen",
-          "Het is onlangs volledig gerenoveerd met nieuwe technologie",
-          "De gevangenis is gesloten en leeg sinds 2020",
-          "Alleen bewaard als museumstuk sinds 1990"
+          "92 jaar",
+          "93 jaar",
+          "94 jaar",
+          "95 jaar"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De gevangenis van Haren is recentelijk begonnen met het plaatsen van stapelbedden.",
+        statement: "Marguerite Destrooper is geboren in 1933.",
         isTrue: true
       },
       {
-        statement: "De cipiersvakbonden hebben een stakingsaanzegging ingediend om de gevangenis van Haren geheel te sluiten.",
+        statement: "Marguerite Destrooper overleed in juni 2025.",
         isTrue: false
       },
       {
-        statement: "De gevangenis van Haren is oorspronkelijk ontworpen voor collectieve detentie met stapelbedden.",
-        isTrue: false
+        statement: "De overlijdensdatum van Marguerite Destrooper is 20/10/2025.",
+        isTrue: true
       }
     ]
   },
@@ -1913,104 +1876,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Zelensky en Oekraïne in het nieuws",
+    title: "Waarom is er weinig kritiek op de Emiraten?",
     topicNumber: 1,
     article: {
-      title: "Zelensky en Oekraïne in het nieuws",
-      summary: "Lees het laatste nieuws over de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+      title: "Waarom is er weinig kritiek op de Emiraten?",
+      summary: "De Emiraten investeren veel geld in westerse wapenfabrikanten. Daardoor durven westerse leiders geen kritiek te geven."
     },
     vocabulary: {
       words: [
         {
-          word: "belangrijk",
-          definition: "iets dat heel veel waarde heeft",
-          sentence: "Het is ___ om op de hoogte te blijven van het nieuws.",
-          answer: "belangrijk"
+          word: "kritiek",
+          definition: "een negatieve mening over iets of iemand",
+          sentence: "Hij kreeg veel ___ op zijn nieuwe boek.",
+          answer: "kritiek"
         },
         {
-          word: "oorlog",
-          definition: "een situatie waarin landen of groepen vechten",
-          sentence: "Er is een ___ in Oekraïne, en dat is heel erg.",
-          answer: "oorlog"
+          word: "Emiraten",
+          definition: "een land in het Midden-Oosten, rijk door olie",
+          sentence: "De ___ zijn rijk door hun olie.",
+          answer: "Emiraten"
         },
         {
-          word: "app",
-          definition: "een programma op je telefoon of computer",
-          sentence: "Ik download een nieuwe ___ om nieuws te lezen.",
-          answer: "app"
+          word: "durven",
+          definition: "genoeg moed hebben om iets te doen",
+          sentence: "Ze ___ niet te zeggen wat ze echt denken.",
+          answer: "durven"
         },
         {
-          word: "nieuws",
-          definition: "informatie over wat er in de wereld gebeurt",
-          sentence: "Ik lees het ___ elke ochtend om op de hoogte te blijven.",
-          answer: "nieuws"
+          word: "investeren",
+          definition: "geld uitgeven om later meer terug te krijgen",
+          sentence: "Hij wil veel ___ in nieuwe technologie.",
+          answer: "investeren"
         },
         {
-          word: "melding",
-          definition: "een bericht dat je iets laat weten",
-          sentence: "Ik krijg een ___ als er belangrijk nieuws is.",
-          answer: "melding"
+          word: "leiders",
+          definition: "mensen die een groep of land leiden",
+          sentence: "De ___ van de landen bespreken de problemen.",
+          answer: "leiders"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Ik download een nieuwe ___ om nieuws te lezen.",
-          answer: "app"
+          sentence: "De ___ van de landen bespreken de problemen.",
+          answer: "leiders"
         },
         {
-          sentence: "Ik krijg een ___ als er belangrijk nieuws is.",
-          answer: "melding"
+          sentence: "Ze ___ niet te zeggen wat ze echt denken.",
+          answer: "durven"
         },
         {
-          sentence: "Er is een ___ in Oekraïne, en dat is heel erg.",
-          answer: "oorlog"
+          sentence: "Hij wil veel ___ in nieuwe technologie.",
+          answer: "investeren"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat het artikel over?",
+        question: "Waarom geven westerse leiders geen kritiek op de Emiraten?",
         options: [
-          "Koken",
-          "Sport",
-          "Oorlog in Oekraïne",
-          "Kunst"
+          "Omdat ze de Emiraten niet kennen",
+          "Omdat ze bang zijn voor de macht van de Emiraten",
+          "Omdat ze het warm hebben",
+          "Omdat ze de Emiraten steunen"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Wat kun je doen met de app DS Nieuws?",
+        question: "Wat is de rol van de sjeiks in de Emiraten?",
         options: [
-          "Muziek luisteren",
-          "Foto's maken",
-          "Nieuws lezen en meldingen krijgen",
-          "Videogames spelen"
+          "Ze zijn gewone burgers",
+          "Ze zijn de leiders van het land",
+          "Ze zijn buitenlandse toeristen",
+          "Ze zijn historische figuren"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Wat is de hoofdstad van Oekraïne?",
+        question: "Wat doet de wapenindustrie?",
         options: [
-          "Kiev",
-          "Parijs",
-          "Berlijn",
-          "Rome"
+          "Ze maakt en verkoopt wapens",
+          "Ze kookt eten voor het leger",
+          "Ze bouwt huizen voor soldaten",
+          "Ze onderwijst kinderen over vrede"
         ],
         correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Oekraïne is een stad.",
-        isTrue: false
-      },
-      {
-        statement: "Je kunt de app DS Nieuws downloaden om nieuws te lezen.",
+        statement: "De Emiraten investeren in westerse wapenfabrikanten.",
         isTrue: true
       },
       {
-        statement: "De hoofdstad van Oekraïne is Parijs.",
+        statement: "Westerse leiders bekritiseren de Emiraten vaak.",
         isTrue: false
+      },
+      {
+        statement: "De sjeiks zijn de leiders van de Emiraten.",
+        isTrue: true
       }
     ]
   },
@@ -2019,104 +1982,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
+    title: "Chinese hackers gebruiken AI voor spionage",
     topicNumber: 1,
     article: {
-      title: "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
-      summary: "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
+      title: "Chinese hackers gebruiken AI voor spionage",
+      summary: "Chinese hackers gebruiken het AI-systeem Claude om bedrijven en overheden aan te vallen. Ze laten de AI het gevaarlijke werk doen. Experts zeggen: dit is een groot probleem voor cyberveiligheid."
     },
     vocabulary: {
       words: [
         {
-          word: "dodelijk",
-          definition: "dood veroorzakend",
-          sentence: "Het ongeluk was ___ voor twee mensen.",
-          answer: "dodelijk"
+          word: "veiligheid",
+          definition: "veilig zijn, niet in gevaar zijn",
+          sentence: "___ is belangrijk in het verkeer.",
+          answer: "veiligheid"
         },
         {
-          word: "Libanon",
-          definition: "een land in het Midden-Oosten",
-          sentence: "___ is een land naast Israël.",
-          answer: "Libanon"
+          word: "experts",
+          definition: "mensen die veel weten over een onderwerp",
+          sentence: "De ___ weten veel over computers.",
+          answer: "experts"
         },
         {
-          word: "leger",
-          definition: "een groep mensen die voor een land vechten",
-          sentence: "Het ___ van het land verdedigt de grenzen.",
-          answer: "leger"
+          word: "experts",
+          definition: "mensen die veel weten over een onderwerp",
+          sentence: "De ___ geven advies over gezondheid.",
+          answer: "experts"
         },
         {
-          word: "ontwikkelingen",
-          definition: "nieuwe dingen die gebeuren",
-          sentence: "De laatste ___ in de technologie zijn snel.",
-          answer: "ontwikkelingen"
+          word: "probleem",
+          definition: "iets dat niet goed gaat of moeilijk is",
+          sentence: "Hij heeft een ___ met zijn auto.",
+          answer: "probleem"
         },
         {
-          word: "Midden-Oosten",
-          definition: "een gebied op de wereld met veel landen",
-          sentence: "Het ___ heeft een droog klimaat.",
-          answer: "Midden-Oosten"
+          word: "experts",
+          definition: "mensen die veel weten over een onderwerp",
+          sentence: "We vragen advies aan de ___.",
+          answer: "experts"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het ___ van het land verdedigt de grenzen.",
-          answer: "leger"
+          sentence: "___ is belangrijk in het verkeer.",
+          answer: "veiligheid"
         },
         {
-          sentence: "___ is een land naast Israël.",
-          answer: "Libanon"
+          sentence: "De ___ weten veel over computers.",
+          answer: "experts"
         },
         {
-          sentence: "Het ongeluk was ___ voor twee mensen.",
-          answer: "dodelijk"
+          sentence: "De ___ geven advies over gezondheid.",
+          answer: "experts"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'dodelijk'?",
+        question: "Wat gebruiken de hackers?",
         options: [
-          "leuk",
-          "gevaarlijk",
-          "snel",
-          "makkelijk"
+          "Een computer",
+          "Een auto",
+          "Een fiets",
+          "Een AI-systeem"
         ],
-        correctAnswer: 2
+        correctAnswer: 4
       },
       {
-        question: "Wat is 'Libanon'?",
+        question: "Wat is het gevolg van deze aanvallen?",
         options: [
-          "een stad",
-          "een rivier",
-          "een land",
-          "een berg"
+          "Het is leuk voor de hackers",
+          "Er is geen gevolg",
+          "Er is een groot probleem voor de cyberveiligheid",
+          "De hackers worden beroemd"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat betekent 'ontwikkelingen'?",
+        question: "Wat doen de experts?",
         options: [
-          "oude dingen",
-          "nieuwe dingen die gebeuren",
-          "moeilijke problemen",
-          "leuke activiteiten"
+          "Ze praten alleen",
+          "Ze spelen een spel",
+          "Ze geven advies en helpen bij het oplossen van problemen",
+          "Ze gaan op vakantie"
         ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "Israël en Libanon zijn twee verschillende landen.",
-        isTrue: true
-      },
-      {
-        statement: "Het Midden-Oosten heeft een nat klimaat.",
+        statement: "De hackers gebruiken een auto voor de aanvallen.",
         isTrue: false
       },
       {
-        statement: "Ontwikkelingen kunnen snel of langzaam zijn.",
+        statement: "De experts zeggen dat dit een groot probleem is.",
         isTrue: true
+      },
+      {
+        statement: "Cyberveiligheid is niet belangrijk voor de hackers.",
+        isTrue: false
       }
     ]
   },
@@ -2125,104 +2088,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "A2",
-    title: "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
+    title: "Nederlands dorp Moerdijk moet wijken",
     topicNumber: 1,
     article: {
-      title: "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
-      summary: "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+      title: "Nederlands dorp Moerdijk moet wijken",
+      summary: "Het dorp Moerdijk moet verdwijnen. De inwoners moeten verhuizen. Dit komt door de energietransitie en de haven."
     },
     vocabulary: {
       words: [
         {
-          word: "heffen",
-          definition: "iets officieel maken of stoppen",
-          sentence: "De regering wil de belastingen ___ voor kleine bedrijven.",
-          answer: "heffen"
+          word: "energietransitie",
+          definition: "de overstap naar schone energie, zoals wind- of zonne-energie",
+          sentence: "Nederland werkt hard aan de ___.",
+          answer: "energietransitie"
         },
         {
-          word: "VS",
-          definition: "Verenigde Staten, een land",
-          sentence: "De ___ willen samenwerken met andere landen.",
-          answer: "VS"
+          word: "verhuizen",
+          definition: "naar een andere plaats gaan wonen",
+          sentence: "We moeten ___ naar een nieuwe woning.",
+          answer: "verhuizen"
         },
         {
-          word: "Syrië",
-          definition: "een land in het Midden-Oosten",
-          sentence: "___ heeft veel historische steden.",
-          answer: "Syrië"
+          word: "inwoners",
+          definition: "mensen die in een plaats wonen",
+          sentence: "De ___ van het dorp zijn erg vriendelijk.",
+          answer: "inwoners"
         },
         {
-          word: "sancties",
-          definition: "straffen die een land geeft aan een ander land",
-          sentence: "De Verenigde Naties hebben nieuwe ___ ingesteld tegen het land.",
-          answer: "sancties"
+          word: "haven",
+          definition: "een plaats waar schepen kunnen aanleggen",
+          sentence: "De ___ in Rotterdam is erg druk.",
+          answer: "haven"
         },
         {
-          word: "Trump",
-          definition: "de familienaam van de voormalige president van de VS",
-          sentence: "___ is bekend om zijn uitspraken op sociale media.",
-          answer: "Trump"
+          word: "dorp",
+          definition: "een plaats waar mensen wonen, kleiner dan een stad",
+          sentence: "Het ___ is niet groot, maar wel gezellig.",
+          answer: "dorp"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De Verenigde Naties hebben nieuwe ___ ingesteld tegen het land.",
-          answer: "sancties"
+          sentence: "De ___ in Rotterdam is erg druk.",
+          answer: "haven"
         },
         {
-          sentence: "De ___ willen samenwerken met andere landen.",
-          answer: "VS"
+          sentence: "We moeten ___ naar een nieuwe woning.",
+          answer: "verhuizen"
         },
         {
-          sentence: "___ heeft veel historische steden.",
-          answer: "Syrië"
+          sentence: "Nederland werkt hard aan de ___.",
+          answer: "energietransitie"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'heffen' in deze context?",
+        question: "Waarom moet het dorp Moerdijk wijken?",
         options: [
-          "optillen",
-          "officieel maken",
-          "veranderen",
-          "stoppen"
+          "Voor meer groen",
+          "Voor de energietransitie",
+          "Omdat er te weinig mensen wonen",
+          "Omdat het dorp te oud is"
         ],
         correctAnswer: 2
       },
       {
-        question: "Waarom heft de VS sancties tegen Syrië op?",
+        question: "Wat is 'verduurzaming'?",
         options: [
-          "Omdat Syrië vrede wil",
-          "Vanwege nieuwe afspraken met andere landen",
-          "Omdat de president het wil",
-          "Om de economie te helpen"
+          "Het bouwen van nieuwe huizen",
+          "Het duurzamer maken van iets",
+          "Het slopen van oude gebouwen",
+          "Het planten van bomen"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is een 'sanctie'?",
+        question: "Wat gebeurt er met de inwoners van Moerdijk?",
         options: [
-          "Een soort feest",
-          "Een economische straf",
-          "Een soort belasting",
-          "Een internationale overeenkomst"
+          "Ze blijven in hun huizen",
+          "Ze verhuizen naar een andere plaats",
+          "Ze krijgen een nieuwe baan",
+          "Ze gaan op vakantie"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De VS heft sancties tegen Syrië op omdat ze vrienden willen zijn.",
+        statement: "Het dorp Moerdijk is pas een jaar oud.",
         isTrue: false
       },
       {
-        statement: "Trump heeft een ontmoeting met Al-Sharaa over de sancties.",
+        statement: "De inwoners van Moerdijk moeten verhuizen vanwege de energietransitie.",
         isTrue: true
       },
       {
-        statement: "De sancties zijn al volledig verwijderd.",
-        isTrue: false
+        statement: "De haven van Moerdijk wordt groter gemaakt.",
+        isTrue: true
       }
     ]
   },
@@ -2231,104 +2194,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Antwerpse protesten",
+    title: "Vrouw van 84 overleden",
     topicNumber: 1,
     article: {
-      title: "Antwerpse protesten",
-      summary: "In Antwerpen waren er protesten. De politie en de demonstranten kwamen met elkaar in conflict. De politie hield zeven mensen aan. Meestal verliep het protest vreedzaam."
+      title: "Vrouw van 84 overleden",
+      summary: "Een vrouw is overleden. Ze is 84 jaar oud geworden. Ze heet Flora Loos."
     },
     vocabulary: {
       words: [
         {
-          word: "conflict",
-          definition: "een meningsverschil of strijd",
-          sentence: "Er was een ___ tussen de politie en de demonstranten.",
-          answer: "conflict"
+          word: "vrouw",
+          definition: "een volwassen persoon van het vrouwelijk geslacht",
+          sentence: "De ___ was heel oud.",
+          answer: "vrouw"
         },
         {
-          word: "demonstranten",
-          definition: "mensen die protesteren",
-          sentence: "De ___ wilden hun mening laten horen.",
-          answer: "demonstranten"
+          word: "overleden",
+          definition: "niet meer leven; dood zijn",
+          sentence: "Hij is ___ en begraven.",
+          answer: "overleden"
         },
         {
-          word: "meestal",
-          definition: "meer dan de helft van de keren",
-          sentence: "___ is het protest vreedzaam.",
-          answer: "meestal"
+          word: "geworden",
+          definition: "geweest; veranderd in iets anders",
+          sentence: "Hij is vader ___.",
+          answer: "geworden"
         },
         {
-          word: "politie",
-          definition: "mensen die de wet handhaven",
-          sentence: "De ___ kwam naar de protesten.",
-          answer: "politie"
+          word: "jaar",
+          definition: "een periode van 365 of 366 dagen",
+          sentence: "Hij is 70 ___ oud.",
+          answer: "jaar"
         },
         {
-          word: "vreedzaam",
-          definition: "zonder geweld",
-          sentence: "Het protest verliep ___.",
-          answer: "vreedzaam"
+          word: "oud",
+          definition: "niet jong; veel leeftijd hebbend",
+          sentence: "Ze is heel ___ maar nog gezond.",
+          answer: "oud"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Er was een ___ tussen de politie en de demonstranten.",
-          answer: "conflict"
+          sentence: "De ___ was heel oud.",
+          answer: "vrouw"
         },
         {
-          sentence: "De ___ kwam naar de protesten.",
-          answer: "politie"
+          sentence: "Ze is heel ___ maar nog gezond.",
+          answer: "oud"
         },
         {
-          sentence: "De ___ wilden hun mening laten horen.",
-          answer: "demonstranten"
+          sentence: "Hij is 70 ___ oud.",
+          answer: "jaar"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar ging het protest over?",
+        question: "Wie is Flora Loos?",
         options: [
-          "Over een voetbalwedstrijd",
-          "Over de prijs van brood",
-          "Over politieke kwesties",
-          "Over een feest"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Hoe verliep het protest meestal?",
-        options: [
-          "Heel gewelddadig",
-          "Heel rustig en vreedzaam",
-          "Heel chaotisch",
-          "Heel snel"
+          "Een kind",
+          "Een vrouw",
+          "Een man",
+          "Een dier"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat deed de politie met enkele demonstranten?",
+        question: "Hoe oud was Flora Loos?",
         options: [
-          "Gaf hen een prijs",
-          "Hield hen aan voor vragen",
-          "Negeerde hen volledig",
-          "Liet hen direct vrij"
+          "84 jaar",
+          "100 jaar",
+          "50 jaar",
+          "30 jaar"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
+      },
+      {
+        question: "Wanneer overleed Flora Loos?",
+        options: [
+          "11 november 2025",
+          "11 november 1941",
+          "11 november 2000",
+          "11 november 2024"
+        ],
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "Het protest was altijd vreedzaam.",
-        isTrue: false
-      },
-      {
-        statement: "De politie hield mensen aan.",
+        statement: "Flora Loos is overleden.",
         isTrue: true
       },
       {
-        statement: "Het protest ging over een voetbalwedstrijd.",
+        statement: "Flora Loos was 100 jaar oud.",
         isTrue: false
+      },
+      {
+        statement: "Flora Loos stierf in november.",
+        isTrue: true
       }
     ]
   },
@@ -2337,103 +2300,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Politie gebruikt waterkanon tijdens protest in Antwerpen",
+    title: "Lieve C. (88) overleden",
     topicNumber: 1,
     article: {
-      title: "Politie gebruikt waterkanon tijdens protest in Antwerpen",
-      summary: "De politie heeft een waterkanon gebruikt tijdens een pro-Palestijns protest in Antwerpen. Verschillende betogers zijn opgepakt."
+      title: "Lieve C. (88) overleden",
+      summary: "Lieve Cerstelotte is overleden. Ze was 88 jaar. Ze is geboren in 1937 en overleden op 12 november 2025."
     },
     vocabulary: {
       words: [
         {
-          word: "Antwerpen",
-          definition: "Een stad in België.",
-          sentence: "___ is een grote stad met veel mensen.",
-          answer: "Antwerpen"
+          word: "geboren",
+          definition: "begonnen met leven, uitgekomen uit de moeder",
+          sentence: "Ze werd ___ in 1937.",
+          answer: "geboren"
         },
         {
-          word: "protest",
-          definition: "Een bijeenkomst waar mensen hun ongenoegen uiten.",
-          sentence: "Het ___ was vreedzaam tot de politie kwam.",
-          answer: "protest"
+          word: "overleden",
+          definition: "niet meer levend, dood",
+          sentence: "Hij is ___ na een ongeluk.",
+          answer: "overleden"
         },
         {
-          word: "waterkanon",
-          definition: "Een apparaat dat water spuit, vaak voor controle van menigten.",
-          sentence: "Het ___ spuit water om mensen weg te jagen.",
-          answer: "waterkanon"
+          word: "Cerstelotte",
+          definition: "een naam van een persoon",
+          sentence: "___ was de achternaam van de overledene.",
+          answer: "Cerstelotte"
         },
         {
-          word: "Politie",
-          definition: "Mensen die de wet handhaven.",
-          sentence: "De ___ controleert de stad.",
-          answer: "Politie"
+          word: "Lieve",
+          definition: "een manier om iemand aan te spreken, vriendelijk",
+          sentence: "___ is een woord dat vaak wordt gebruikt in brieven.",
+          answer: "Lieve"
         },
         {
-          word: "protest",
-          definition: "Een uiting van ontevredenheid, vaak publiekelijk.",
-          sentence: "Het ___ was vreedzaam ondanks de drukte.",
-          answer: "protest"
+          word: "overleden",
+          definition: "niet meer levend, dood",
+          sentence: "Hij is ___ na een lang ziekbed.",
+          answer: "overleden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het ___ spuit water om mensen weg te jagen.",
-          answer: "waterkanon"
+          sentence: "Ze werd ___ in 1937.",
+          answer: "geboren"
         },
         {
-          sentence: "De ___ controleert de stad.",
-          answer: "Politie"
+          sentence: "___ is een woord dat vaak wordt gebruikt in brieven.",
+          answer: "Lieve"
         },
         {
-          sentence: "Het ___ was vreedzaam ondanks de drukte.",
-          answer: "protest"
+          sentence: "Hij is ___ na een lang ziekbed.",
+          answer: "overleden"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat is een waterkanon?",
+        question: "In welke maand overleed Lieve Cerstelotte?",
         options: [
-          "Een soort wapen",
-          "Een type auto",
-          "Een gebouw",
-          "Een park"
+          "januari",
+          "februari",
+          "november",
+          "december"
+        ],
+        correctAnswer: 3
+      },
+      {
+        question: "Hoe oud was Lieve Cerstelotte toen ze overleed?",
+        options: [
+          "88 jaar",
+          "89 jaar",
+          "90 jaar",
+          "91 jaar"
         ],
         correctAnswer: 1
       },
       {
-        question: "Waarom werd er een waterkanon ingezet?",
+        question: "In welk jaar is Lieve Cerstelotte geboren?",
         options: [
-          "Om planten water te geven",
-          "Tegen betogers",
-          "Voor een feest",
-          "Omdat het regende"
+          "1935",
+          "1936",
+          "1937",
+          "1938"
         ],
-        correctAnswer: 2
-      },
-      {
-        question: "Wat gebeurde er met sommige betogers?",
-        options: [
-          "Zij gingen naar huis",
-          "Ze werden opgepakt",
-          "Ze wonnen een prijs",
-          "Ze gingen eten"
-        ],
-        correctAnswer: 2
+        correctAnswer: 3
       }
     ],
     trueFalse: [
       {
-        statement: "De politie gebruikte een waterkanon tijdens het protest.",
+        statement: "Lieve Cerstelotte overleed in november.",
         isTrue: true
       },
       {
-        statement: "Het protest vond plaats in Brussel.",
+        statement: "Lieve Cerstelotte was 90 jaar oud toen ze overleed.",
         isTrue: false
       },
       {
-        statement: "Enkele betogers werden opgepakt door de politie.",
+        statement: "Lieve Cerstelotte werd geboren in 1937.",
         isTrue: true
       }
     ]
@@ -2443,103 +2406,103 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "A2",
-    title: "Ook in de gevangenis van Haren komen er stapelbedden",
+    title: "Marguerite Destrooper, 92 jaar",
     topicNumber: 1,
     article: {
-      title: "Ook in de gevangenis van Haren komen er stapelbedden",
-      summary: "In de gevangenis van Haren komen er stapelbedden. De vakbonden van cipiers hebben een staking aangekondigd. De gevangenis is eigenlijk ontworpen voor individuele detentie, niet voor stapelbedden."
+      title: "Marguerite Destrooper, 92 jaar",
+      summary: "Geboren in 1933, overleden op 20/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "ontworpen",
-          definition: "gepland of gemaakt met een bepaald doel",
-          sentence: "Het gebouw was ___ om veel natuurlijk licht binnen te laten.",
-          answer: "ontworpen"
+          word: "Marguerite",
+          definition: "Een vrouwelijke naam, een voornaam.",
+          sentence: "__ is een mooie naam voor een meisje.",
+          answer: "Marguerite"
         },
         {
-          word: "cipiers",
-          definition: "de mensen die in een gevangenis werken en toezicht houden op de gevangenen",
-          sentence: "De ___ hebben extra personeel gevraagd vanwege de drukte.",
-          answer: "cipiers"
+          word: "Destrooper",
+          definition: "Een familienaam, de achternaam.",
+          sentence: "De familie __ is bekend in deze stad.",
+          answer: "Destrooper"
         },
         {
-          word: "individuele",
-          definition: "alleen, voor of van één persoon",
-          sentence: "In de nieuwe gevangenis heeft elke gevangene een ___ cel.",
-          answer: "individuele"
+          word: "geboren",
+          definition: "Wanneer iemand is geboren, is die persoon ter wereld gekomen.",
+          sentence: "Ik ben __ in 1990.",
+          answer: "geboren"
         },
         {
-          word: "detentie",
-          definition: "de staat van iemand die gevangen wordt gehouden",
-          sentence: "Hij werd in ___ genomen na het incident.",
-          answer: "detentie"
+          word: "overleden",
+          definition: "Niet meer levend; gestorven.",
+          sentence: "Mijn opa is __ in 2020.",
+          answer: "overleden"
         },
         {
-          word: "gevangenis",
-          definition: "een plaats waar mensen die een misdaad hebben gedaan, worden opgesloten",
-          sentence: "Hij moet voor twee jaar naar de ___.",
-          answer: "gevangenis"
+          word: "jaar",
+          definition: "Een periode van 365 of 366 dagen.",
+          sentence: "Een __ heeft 365 of 366 dagen.",
+          answer: "jaar"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij werd in ___ genomen na het incident.",
-          answer: "detentie"
+          sentence: "__ is een mooie naam voor een meisje.",
+          answer: "Marguerite"
         },
         {
-          sentence: "In de nieuwe gevangenis heeft elke gevangene een ___ cel.",
-          answer: "individuele"
+          sentence: "De familie __ is bekend in deze stad.",
+          answer: "Destrooper"
         },
         {
-          sentence: "De ___ hebben extra personeel gevraagd vanwege de drukte.",
-          answer: "cipiers"
+          sentence: "Een __ heeft 365 of 366 dagen.",
+          answer: "jaar"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom hebben de vakbonden een staking aangekondigd?",
+        question: "In welke maand stierf Marguerite Destrooper?",
         options: [
-          "Omdat er te weinig cipiers zijn",
-          "Omdat de gevangenis te klein is",
-          "Omdat er stapelbedden worden geplaatst",
-          "Omdat de gevangenen in opstand zijn gekomen"
+          "Januari",
+          "Februari",
+          "Maart",
+          "Oktober"
+        ],
+        correctAnswer: 4
+      },
+      {
+        question: "Hoe oud was Marguerite Destrooper toen ze overleed?",
+        options: [
+          "90 jaar",
+          "91 jaar",
+          "92 jaar",
+          "93 jaar"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is het oorspronkelijke ontwerp van de gevangenis in Haren?",
+        question: "In welk jaar werd Marguerite Destrooper geboren?",
         options: [
-          "Het is een open ruimte met veel bedden",
-          "Het is een grote kamer met stapelbedden",
-          "Het is gebouwd voor individuele cellen",
-          "Het is ontworpen voor groepscellen"
-        ],
-        correctAnswer: 3
-      },
-      {
-        question: "Wat is het gevolg van de staking door de cipiers?",
-        options: [
-          "De gevangenis zal gesloten worden",
-          "De cipiers krijgen een loonsverhoging",
-          "Er worden minder stapelbedden geplaatst",
-          "De staking wordt onbeperkt voortgezet"
+          "1930",
+          "1931",
+          "1932",
+          "1933"
         ],
         correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "De gevangenis van Haren is ontworpen voor individuele detentie.",
+        statement: "Marguerite Destrooper werd geboren in 1933.",
         isTrue: true
       },
       {
-        statement: "De vakbonden hebben de staking aangekondigd omdat er te weinig cipiers zijn.",
+        statement: "Marguerite Destrooper overleed in mei.",
         isTrue: false
       },
       {
-        statement: "Stapelbedden worden geplaatst om meer gevangenen te kunnen huisvesten.",
+        statement: "Marguerite Destrooper was 92 jaar oud toen ze overleed.",
         isTrue: true
       }
     ]
@@ -2549,104 +2512,104 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Vertrouweling Zelensky verwikkeld in corruptieonderzoek",
+    title: "Waarom kritiek op de Emiraten uitblijft: de miljardendeals tussen de sjeiks en de westerse wapenindustrie in kaart gebracht",
     topicNumber: 1,
     article: {
-      title: "Vertrouweling Zelensky verwikkeld in corruptieonderzoek",
-      summary: "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+      title: "Waarom kritiek op de Emiraten uitblijft: de miljardendeals tussen de sjeiks en de westerse wapenindustrie in kaart gebracht",
+      summary: "Alle westerse leiders zijn geschokt door de gruwel in Soedan, maar geen van hen durft te wijzen op de medeplichtigheid van de Emiraten. Een blik op de forse investeringen van de sjeiks in de westerse wapenindustrie toont aan waarom ze zullen blijven zwijgen."
     },
     vocabulary: {
       words: [
         {
-          word: "updates",
-          definition: "Nieuwe informatie over een onderwerp.",
-          sentence: "Volg de ___ om op de hoogte te blijven.",
-          answer: "updates"
+          word: "wapenindustrie",
+          definition: "de industrie die wapens en munitie produceert",
+          sentence: "De wapenindustrie is een belangrijke sector in veel landen.",
+          answer: "wapenindustrie"
         },
         {
-          word: "verwikkeld",
-          definition: "Betrokken of geïmpliceerd in een situatie, vaak negatief.",
-          sentence: "Hij is ___ in een groot schandaal.",
-          answer: "verwikkeld"
+          word: "Emiraten",
+          definition: "een land in het Midden-Oosten, officieel de Verenigde Arabische Emiraten",
+          sentence: "De Emiraten zijn bekend om hun moderne steden en olie-export.",
+          answer: "Emiraten"
         },
         {
-          word: "app",
-          definition: "Een applicatie op een smartphone of computer.",
-          sentence: "Download de ___ om het nieuws te volgen.",
-          answer: "app"
+          word: "sjeiks",
+          definition: "een titel voor een leider in sommige Arabische landen",
+          sentence: "De sjeiks van de regio bespraken de nieuwe handelsovereenkomst.",
+          answer: "sjeiks"
         },
         {
-          word: "Vertrouweling",
-          definition: "Iemand die vertrouwd is, vaak in een informele of persoonlijke context.",
-          sentence: "Hij was een oude ___ van de president.",
-          answer: "Vertrouweling"
+          word: "miljardendeals",
+          definition: "grote zakelijke overeenkomsten die miljarden waard zijn",
+          sentence: "De miljardendeals tussen de twee landen werden vorige week ondertekend.",
+          answer: "miljardendeals"
         },
         {
-          word: "oorlog",
-          definition: "Een gewapend conflict tussen landen of groepen.",
-          sentence: "De ___ in Oekraïne duurt nu al maanden.",
-          answer: "oorlog"
+          word: "kritiek",
+          definition: "een beoordeling of mening, vaak kritisch",
+          sentence: "De kritiek op het nieuwe beleid was erg negatief.",
+          answer: "kritiek"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Volg de ___ om op de hoogte te blijven.",
-          answer: "updates"
+          sentence: "De miljardendeals tussen de twee landen werden vorige week ondertekend.",
+          answer: "miljardendeals"
         },
         {
-          sentence: "De ___ in Oekraïne duurt nu al maanden.",
-          answer: "oorlog"
+          sentence: "De sjeiks van de regio bespraken de nieuwe handelsovereenkomst.",
+          answer: "sjeiks"
         },
         {
-          sentence: "Download de ___ om het nieuws te volgen.",
-          answer: "app"
+          sentence: "De kritiek op het nieuwe beleid was erg negatief.",
+          answer: "kritiek"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar gaat het artikel vooral over?",
+        question: "Waarover gaat de kritiek op de Emiraten?",
         options: [
-          "Een nieuwe app",
-          "Oorlog in Oekraïne",
-          "Een sportevenement",
-          "Kooktips"
+          "Over hun mensenrechtenbeleid",
+          "Over hun steun aan bepaalde groepen in Soedan",
+          "Over hun investeringen in de wapenindustrie",
+          "Over hun cultuur en geschiedenis"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de rol van de app DS Nieuws?",
+        question: "Wat is een van de redenen waarom westerse leiders zwijgen over de Emiraten?",
         options: [
-          "Het is een social media platform",
-          "Het biedt nieuwsupdates over belangrijke gebeurtenissen",
-          "Het is een game-app",
-          "Het is een restaurantgids"
+          "Ze zijn bang voor kritiek",
+          "Ze profiteren zelf van de deals",
+          "Ze weten er te weinig over",
+          "Ze zijn het ermee eens"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is de houding van de auteur?",
+        question: "Wat toont de analyse van de investeringen van de sjeiks?",
         options: [
-          "Positief over de oorlog",
-          "Neutraal, informeert alleen",
-          "Negatief over Oekraïne",
-          "Promoot de app actief"
+          "Dat ze alleen in de wapenindustrie investeren",
+          "Dat ze veel geld in westerse landen pompen",
+          "Dat ze niet geïnteresseerd zijn in andere sectoren",
+          "Dat ze alleen in Azië investeren"
         ],
-        correctAnswer: 4
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "Het artikel gaat over een nieuwe app die gelanceerd is.",
+        statement: "De Emiraten worden niet bekritiseerd omdat westerse landen ook profiteren van hun deals.",
         isTrue: true
       },
       {
-        statement: "De auteur is tegen de oorlog in Oekraïne.",
+        statement: "Soedan is een van de grootste bondgenoten van de Emiraten.",
         isTrue: false
       },
       {
-        statement: "De app DS Nieuws biedt updates over de oorlog.",
-        isTrue: true
+        statement: "De sjeiks investeren alleen in de wapenindustrie.",
+        isTrue: false
       }
     ]
   },
@@ -2655,103 +2618,103 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
+    title: "Chinese hackers gebruiken AI voor spionage",
     topicNumber: 1,
     article: {
-      title: "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
-      summary: "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
+      title: "Chinese hackers gebruiken AI voor spionage",
+      summary: "Chinese hackers zijn ervan verdacht het AI-model Claude te gebruiken om bedrijven en overheden aan te vallen. Ze gebruikten een rollenspel en de 'salamitechniek' om het AI-model het werk te laten doen. Dit is een belangrijk moment voor cyberveiligheid en AI."
     },
     vocabulary: {
       words: [
         {
-          word: "Israëlisch",
-          definition: "Betrekking hebbend op Israël, een land.",
-          sentence: "Het ___ leger voert aanvallen uit.",
-          answer: "Israëlisch"
+          word: "Chinese",
+          definition: "betreft China of zijn inwoners",
+          sentence: "___ hackers worden verdacht van spionage.",
+          answer: "Chinese"
         },
         {
-          word: "Libanon",
-          definition: "Een land in het Midden-Oosten.",
-          sentence: "___ ligt ten noorden van Israël.",
-          answer: "Libanon"
+          word: "gebruiken",
+          definition: "iets inzetten of toepassen voor een doel",
+          sentence: "Ze ___ een speciale techniek om het systeem te misleiden.",
+          answer: "gebruiken"
         },
         {
-          word: "aanvallen",
-          definition: "Acties om schade toe te brengen of aan te vallen.",
-          sentence: "De ___ waren gericht op militaire doelen.",
-          answer: "aanvallen"
+          word: "AI",
+          definition: "kunstmatige intelligentie, computers die zelfstandig kunnen leren",
+          sentence: "Het ___ -model heet Claude.",
+          answer: "AI"
         },
         {
-          word: "leger",
-          definition: "Een groep mensen die een land verdedigt en vecht.",
-          sentence: "Het ___ van een land voert oorlogen.",
-          answer: "leger"
+          word: "model",
+          definition: "een voorbeeld of versie van iets, vaak software",
+          sentence: "Het AI-___ heet Claude en is geavanceerd.",
+          answer: "model"
         },
         {
-          word: "dodelijke",
-          definition: "Waardoor iemand overlijdt.",
-          sentence: "Een ___ aanval eist levens.",
-          answer: "dodelijke"
+          word: "techniek",
+          definition: "een methode of manier om iets te doen, vaak technisch van aard",
+          sentence: "De 'salamit___' is een slimme aanpak.",
+          answer: "techniek"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Het ___ leger voert aanvallen uit.",
-          answer: "Israëlisch"
+          sentence: "Ze ___ een speciale techniek om het systeem te misleiden.",
+          answer: "gebruiken"
         },
         {
-          sentence: "Een ___ aanval eist levens.",
-          answer: "dodelijke"
+          sentence: "De 'salamit___' is een slimme aanpak.",
+          answer: "techniek"
         },
         {
-          sentence: "Het ___ van een land voert oorlogen.",
-          answer: "leger"
+          sentence: "Het ___ -model heet Claude.",
+          answer: "AI"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waar voert het Israëlische leger aanvallen uit?",
+        question: "Wat is de 'salamitechniek' in deze context?",
         options: [
-          "Nederland",
-          "Libanon",
-          "Duitsland",
-          "België"
+          "Een kooktechniek",
+          "Een veiligheidsprotocol",
+          "Een type encryptie",
+          "Een hackingmethode"
         ],
-        correctAnswer: 2
+        correctAnswer: 4
       },
       {
-        question: "Wat is de betekenis van 'dodelijke' in deze context?",
+        question: "Waarom is deze gebeurtenis een keerpunt?",
         options: [
-          "Levensbedreigend",
-          "Gezond",
-          "Vriendelijk",
-          "Onbelangrijk"
+          "Omdat het de eerste AI-aanval is",
+          "Omdat het de snelste computer betreft",
+          "Omdat het de sterkste encryptie breekt",
+          "Omdat het aantoont hoe AI misbruikt kan worden"
         ],
-        correctAnswer: 1
+        correctAnswer: 4
       },
       {
-        question: "Waar ligt Libanon ten opzichte van Israël?",
+        question: "Wat is een 'rollenspel' in cybersecurity?",
         options: [
-          "Ten noorden van",
-          "Ten zuiden van",
-          "Ten oosten van",
-          "Ten westen van"
+          "Een online game met vrienden",
+          "Een trainingsoefening voor teams",
+          "Een tactiek om systemen te testen",
+          "Een methode om gebruikers te misleiden"
         ],
-        correctAnswer: 1
+        correctAnswer: 4
       }
     ],
     trueFalse: [
       {
-        statement: "Het Israëlische leger voert aanvallen uit in Nederland.",
+        statement: "De hackers gebruikten Claude om directe aanvallen uit te voeren zonder sporen na te laten.",
         isTrue: false
       },
       {
-        statement: "Libanon ligt ten noorden van Israël.",
+        statement: "De 'salamitechniek' verwijst naar een manier om informatie in kleine stukjes te verdelen.",
         isTrue: true
       },
       {
-        statement: "Het Midden-Oosten is een regio zonder conflicten.",
+        statement: "Dit incident heeft geen invloed op de ontwikkelingen in de beveiliging van AI-systemen.",
         isTrue: false
       }
     ]
@@ -2761,103 +2724,91 @@ export const exercises: Exercise[] = [
     section: "Buitenland",
     topic: "Buitenland",
     level: "B2",
-    title: "VS heffen sancties tegen Syrië op",
+    title: "Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”",
     topicNumber: 1,
     article: {
-      title: "VS heffen sancties tegen Syrië op",
-      summary: "De Amerikaanse president Donald Trump heeft tijdens een ontmoeting met de Syrische minister van Buitenlandse Zaken, Walid al-Moallem, aangekondigd dat de Verenigde Staten de sancties tegen Syrië zullen opschorten. Dit gebeurt in de hoop op een vreedzame oplossing voor het conflict. De internationale gemeenschap volgt de situatie nauwlettend."
+      title: "Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”",
+      summary: "Het duizend jaar oude dorp Moerdijk verdwijnt. 1.100 inwoners moeten plaatsmaken voor de energietransitie en de verduurzaming van de haven. “Moet de industrie altijd het laatste woord hebben?”"
     },
     vocabulary: {
       words: [
         {
-          word: "sancties",
-          definition: "straffen die een land aan een ander land oplegt",
-          sentence: "De Verenigde Naties hebben nieuwe ___ opgelegd aan het land.",
-          answer: "sancties"
+          word: "dorp",
+          definition: "een plaats of gemeenschap, kleiner dan een stad",
+          sentence: "Het kleine ___ ligt aan de rivier.",
+          answer: "dorp"
         },
         {
-          word: "Syrische",
-          definition: "betreffende Syrië",
-          sentence: "De ___ regering heeft een verklaring uitgegeven.",
-          answer: "Syrische"
+          word: "wijk",
+          definition: "een deel van een stad of dorp, of een buurt",
+          sentence: "De nieuwe ___ wordt gebouwd op de plaats van het oude dorp.",
+          answer: "wijk"
         },
         {
-          word: "op",
-          definition: "hier als deel van 'heffen op', maar op zichzelf heeft het geen losse definitie in deze context",
-          sentence: "De regering heeft de wet ___ laten gaan.",
-          answer: "op"
-        },
-        {
-          word: "op",
-          definition: "hier gebruikt als deel van 'heffen op', wat betekent 'intrekken' of 'niet meer van kracht laten zijn'",
-          sentence: "De regering heeft de maatregel ___ laten gaan.",
-          answer: "op"
-        },
-        {
-          word: "Syrië",
-          definition: "een land in het Midden-Oosten",
-          sentence: "___ wordt al jaren geteisterd door oorlog.",
-          answer: "Syrië"
+          word: "industrie",
+          definition: "bedrijven en fabrieken die samen producten maken",
+          sentence: "De nieuwe ___ biedt banen, maar vervuilt ook de lucht.",
+          answer: "industrie"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De regering heeft de maatregel ___ laten gaan.",
-          answer: "op"
+          sentence: "Het kleine ___ ligt aan de rivier.",
+          answer: "dorp"
         },
         {
-          sentence: "De Verenigde Naties hebben nieuwe ___ opgelegd aan het land.",
-          answer: "sancties"
+          sentence: "De nieuwe ___ wordt gebouwd op de plaats van het oude dorp.",
+          answer: "wijk"
         },
         {
-          sentence: "De regering heeft de wet ___ laten gaan.",
-          answer: "op"
+          sentence: "De nieuwe ___ biedt banen, maar vervuilt ook de lucht.",
+          answer: "industrie"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Wat betekent 'heffen' in deze context?",
+        question: "Waarom moeten de inwoners van Moerdijk hun dorp verlaten?",
         options: [
-          "vernietigen",
-          "bekrachtigen",
-          "intrekken",
-          "afkondigen"
+          "Vanwege de Watersnoodramp",
+          "Voor de bouw van een nieuwe snelweg",
+          "Voor de uitbreiding van de haven en energietransitie",
+          "Omdat ze een nieuw dorp willen bouwen"
         ],
         correctAnswer: 3
       },
       {
-        question: "Waarom heft de VS de sancties tegen Syrië op?",
+        question: "Wat is de houding van de inwoners ten opzichte van de verhuizing?",
         options: [
-          "Om Syrië te straffen",
-          "Om een signaal te geven",
-          "Vanwege een akkoord",
-          "Op verzoek van de VN"
+          "Ze zijn blij met de verandering",
+          "Ze voelen zich machteloos en verdrietig",
+          "Ze zijn onverschillig",
+          "Ze zijn boos en willen vechten"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       },
       {
-        question: "Wat is de rol van de internationale gemeenschap?",
+        question: "Wat is een belangrijk verschil tussen de Watersnoodramp en de huidige situatie?",
         options: [
-          "De sancties opleggen",
-          "De situatie volgen",
-          "De VS adviseren",
-          "Geen rol spelen"
+          "Er is geen verschil, beide zijn natuurrampen",
+          "De Watersnoodramp was natuurlijk, nu is de oorzaak de industrie",
+          "De Watersnoodramp trof een groter gebied",
+          "Nu is er meer internationale hulp"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De VS heft de sancties op om Syrië te helpen.",
+        statement: "Het dorp Moerdijk is duizend jaar oud.",
         isTrue: true
       },
       {
-        statement: "De sancties zijn permanent ingetrokken.",
+        statement: "De inwoners mogen zelf kiezen of ze willen verhuizen.",
         isTrue: false
       },
       {
-        statement: "De internationale gemeenschap ondersteunt deze stap.",
+        statement: "Na de Watersnoodramp kon het dorp worden heropgebouwd.",
         isTrue: true
       }
     ]
@@ -2867,103 +2818,97 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Net hierdoor voel ik mij als brave burger radicaliseren: pro-Palestijns protest in Antwerpen opnieuw weggespoeld met waterkanon",
+    title: "Flora Loos, 84 jaar",
     topicNumber: 1,
     article: {
-      title: "Net hierdoor voel ik mij als brave burger radicaliseren: pro-Palestijns protest in Antwerpen opnieuw weggespoeld met waterkanon",
-      summary: "Voor de tweede week op rij is pro-Palestijns protest in Antwerpen uitgedraaid op een confrontatie tussen betogers en de oproerpolitie. Zeven manifestanten werden bestuurlijk aangehouden. 'Tot voor kort verliep alles nochtans heel gemoedelijk.'"
+      title: "Flora Loos, 84 jaar",
+      summary: "Geboren in 1941, overleden op 11/11/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "bestuurlijk",
-          definition: "op bestuurlijk of organisatorisch vlak",
-          sentence: "De maatregel was vooral ___ van aard.",
-          answer: "bestuurlijk"
+          word: "geboren",
+          definition: "Geboren zijn betekent dat je op een bepaalde dag ter wereld bent gekomen.",
+          sentence: "Flora is ___ in 1941.",
+          answer: "geboren"
         },
         {
-          word: "radicaliseren",
-          definition: "radicaal of extreem worden in gedrag of ideeën",
-          sentence: "Hij begon te ___ na de incidenten.",
-          answer: "radicaliseren"
+          word: "overleden",
+          definition: "Overleden zijn betekent dat je niet meer leeft.",
+          sentence: "Ze is ___ op 11 november 2025.",
+          answer: "overleden"
         },
         {
-          word: "waterkanon",
-          definition: "een voertuig dat water spuit om mensen uiteen te drijven",
-          sentence: "Het ___ werd ingezet tegen de betogers.",
-          answer: "waterkanon"
+          word: "jaar",
+          definition: "Een jaar is een periode van 365 dagen, of soms 366.",
+          sentence: "Ze werd 84 ___ oud.",
+          answer: "jaar"
         },
         {
-          word: "betogers",
-          definition: "mensen die demonstreren of protesteren",
-          sentence: "De ___ voerden actie voor hun rechten.",
-          answer: "betogers"
-        },
-        {
-          word: "confrontatie",
-          definition: "een conflict of botsing tussen partijen",
-          sentence: "De ___ leidde tot verschillende arrestaties.",
-          answer: "confrontatie"
+          word: "overleden",
+          definition: "Overleden zijn betekent dat je niet meer leeft.",
+          sentence: "Ze is ___ op 11 november 2025.",
+          answer: "overleden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "Hij begon te ___ na de incidenten.",
-          answer: "radicaliseren"
+          sentence: "Ze werd 84 ___ oud.",
+          answer: "jaar"
         },
         {
-          sentence: "De maatregel was vooral ___ van aard.",
-          answer: "bestuurlijk"
+          sentence: "Ze is ___ op 11 november 2025.",
+          answer: "overleden"
         },
         {
-          sentence: "Het ___ werd ingezet tegen de betogers.",
-          answer: "waterkanon"
+          sentence: "Flora is ___ in 1941.",
+          answer: "geboren"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom werden de manifestanten aangehouden?",
+        question: "In welk jaar is Flora Loos geboren?",
         options: [
-          "Omdat ze vreedzaam demonstreerden",
-          "Omdat ze de wet overtraden tijdens de protesten",
-          "Omdat ze te laat waren voor de start",
-          "Omdat ze met te veel mensen waren"
+          "In 1920",
+          "In 1941",
+          "In 1960",
+          "In 1980"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat was de houding van de politie tijdens het incident?",
+        question: "Wat is de overlijdensdatum van Flora Loos?",
         options: [
-          "Ze bleven volledig afzijdig",
-          "Ze werkten nauw samen met de betogers",
-          "Ze grepen in met onder andere een waterkanon",
-          "Ze versterkten de manifestanten in hun acties"
+          "11 november 2025",
+          "12 november 2025",
+          "11 december 2025",
+          "11 november 2024"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       },
       {
-        question: "Hoe verliep de situatie volgens de beschrijving?",
+        question: "Hoe oud was Flora Loos toen ze overleed?",
         options: [
-          "Er was alleen maar samenwerking",
-          "Het ging om geweld van beide kanten",
-          "Het verliep gemoedelijk tot kort voor het einde",
-          "De politie was de hele tijd afwezig"
+          "84 jaar",
+          "85 jaar",
+          "83 jaar",
+          "86 jaar"
         ],
-        correctAnswer: 3
+        correctAnswer: 1
       }
     ],
     trueFalse: [
       {
-        statement: "De betoging in Antwerpen verliep zonder enig probleem voor het einde.",
-        isTrue: false
-      },
-      {
-        statement: "Er werden zeven manifestanten aangehouden door de politie.",
+        statement: "Flora Loos is overleden op 11 november 2025.",
         isTrue: true
       },
       {
-        statement: "Het incident vond plaats tijdens een pro-Palestijnse betoging.",
+        statement: "Flora Loos werd geboren in 1940.",
+        isTrue: false
+      },
+      {
+        statement: "Flora Loos werd 84 jaar oud.",
         isTrue: true
       }
     ]
@@ -2973,104 +2918,104 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Politie zet opnieuw waterkanon in bij pro-Palestijns protest in Antwerpen",
+    title: "Lieve Cerstelotte, 88 jaar",
     topicNumber: 1,
     article: {
-      title: "Politie zet opnieuw waterkanon in bij pro-Palestijns protest in Antwerpen",
-      summary: "De Antwerpse Coalitie voor Palestina betoogt maandagavond in de Antwerpse binnenstad opnieuw tegen de genocide in Gaza. De politie heeft de demonstranten richting het Steenplein verdreven, verschillende betogers zijn opgepakt."
+      title: "Lieve Cerstelotte, 88 jaar",
+      summary: "Geboren in 1937, overleden op 12/11/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "verdreven",
-          definition: "Gedwongen weggejaagd of verspreid.",
-          sentence: "De menigte werd ___ door de politie naar de zijstraten.",
-          answer: "verdreven"
+          word: "Cerstelotte",
+          definition: "Een ongebruikelijke naam, mogelijk een variant van Charlotte.",
+          sentence: "___ is een meisjesnaam met een Duitse oorsprong.",
+          answer: "Cerstelotte"
         },
         {
-          word: "genocide",
-          definition: "Een geplande vernietiging van een hele bevolkingsgroep.",
-          sentence: "De VN onderzoekt de beschuldigingen van ___ in de regio.",
-          answer: "genocide"
+          word: "12/11",
+          definition: "De datum 12 november.",
+          sentence: "Ze overleed op ___ 2025.",
+          answer: "12/11"
         },
         {
-          word: "demonstranten",
-          definition: "Mensen die deelnemen aan een protest of betoging.",
-          sentence: "De ___ hielden borden met leuzen erop.",
-          answer: "demonstranten"
+          word: "Lieve",
+          definition: "Een liefdevolle of vriendelijke uitdrukking, vaak gebruikt in namen.",
+          sentence: "___ is een meisjesnaam die 'geliefde' betekent.",
+          answer: "Lieve"
         },
         {
-          word: "politie",
-          definition: "De organisatie die zorgt voor openbare veiligheid en handhaving van de wet.",
-          sentence: "De ___ trad op met waterkanonnen tijdens het protest.",
-          answer: "politie"
+          word: "2025",
+          definition: "Een jaartal, het jaar 2025.",
+          sentence: "Hij overleed in ___.",
+          answer: "2025"
         },
         {
-          word: "betoogt",
-          definition: "Vecht voor of spreekt zich uit voor een zaak.",
-          sentence: "Hij ___ voor dierenrechten tijdens de vergadering.",
-          answer: "betoogt"
+          word: "overleden",
+          definition: "Niet meer levend, gestorven.",
+          sentence: "Hij is ___ in 2020.",
+          answer: "overleden"
         }
       ],
       fillInBlanks: [
         {
-          sentence: "De VN onderzoekt de beschuldigingen van ___ in de regio.",
-          answer: "genocide"
+          sentence: "Hij overleed in ___.",
+          answer: "2025"
         },
         {
-          sentence: "Hij ___ voor dierenrechten tijdens de vergadering.",
-          answer: "betoogt"
+          sentence: "___ is een meisjesnaam die 'geliefde' betekent.",
+          answer: "Lieve"
         },
         {
-          sentence: "De ___ trad op met waterkanonnen tijdens het protest.",
-          answer: "politie"
+          sentence: "Ze overleed op ___ 2025.",
+          answer: "12/11"
         }
       ]
     },
     multipleChoice: [
       {
-        question: "Waarom gebruikte de politie een waterkanon tijdens het protest?",
+        question: "In welk jaar is Lieve Cerstelotte geboren?",
         options: [
-          "Om de demonstranten te vermaken",
-          "Om de menigte uiteen te drijven",
-          "Om water te besparen",
-          "Om de aandacht af te leiden"
+          "1920",
+          "1937",
+          "1945",
+          "1950"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat was het hoofddoel van de betoging in Antwerpen?",
+        question: "Wat is de betekenis van de naam 'Lieve'?",
         options: [
-          "Tegen dierenrechten",
-          "Tegen de genocide in Gaza",
-          "Voor meer toerisme",
-          "Tegen de lokale politie"
+          "Liefdevol",
+          "Oud",
+          "Kort",
+          "Gelukkig"
         ],
-        correctAnswer: 2
+        correctAnswer: 1
       },
       {
-        question: "Hoe reageerde de politie op de demonstratie?",
+        question: "Op welke datum overleed Lieve Cerstelotte?",
         options: [
-          "Door niets te doen",
-          "Door de groep te verdrijven en sommigen aan te houden",
-          "Door iedereen direct aan te houden",
-          "Door de groep uit te nodigen voor een feest"
+          "1 januari",
+          "12 november",
+          "31 december",
+          "1 mei"
         ],
         correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De politie heeft geen waterkanon ingezet tijdens het protest.",
-        isTrue: false
-      },
-      {
-        statement: "De betoging vond plaats in Antwerpen tegen de situatie in Gaza.",
+        statement: "Lieve Cerstelotte was 88 jaar oud toen ze overleed.",
         isTrue: true
       },
       {
-        statement: "Er werden geen demonstranten aangehouden.",
+        statement: "Lieve Cerstelotte werd geboren in 1920.",
         isTrue: false
+      },
+      {
+        statement: "De datum van overlijden is 12 november 2025.",
+        isTrue: true
       }
     ]
   },
@@ -3079,103 +3024,72 @@ export const exercises: Exercise[] = [
     section: "Binnenland",
     topic: "Binnenland",
     level: "B2",
-    title: "Ook in de gevangenis van de toekomst in Haren komen stapelbedden",
+    title: "Marguerite Destrooper, 92 jaar",
     topicNumber: 1,
     article: {
-      title: "Ook in de gevangenis van de toekomst in Haren komen stapelbedden",
-      summary: "De cipiersvakbonden hebben een stakingsaanzegging ingediend omdat nu ook in de gevangenis van Haren stapelbedden worden geplaatst. Nochtans is de gevangenis ontworpen rond het idee van 'individuele detentie'."
+      title: "Marguerite Destrooper, 92 jaar",
+      summary: "Geboren in 1933, overleden op 20/10/2025."
     },
     vocabulary: {
       words: [
         {
-          word: "Haren",
-          definition: "De naam van een plaats, hier de gevangenis van Haren.",
-          sentence: "De gevangenis in ___ is modern.",
-          answer: "Haren"
+          word: "Geboren",
+          definition: "Geboren zijn betekent dat je op een bepaalde datum ter wereld bent gekomen.",
+          sentence: "Marguerite Destrooper is ___ in 1933.",
+          answer: "geboren"
         },
         {
-          word: "ontworpen",
-          definition: "Gemaakt, bedacht, of gepland.",
-          sentence: "Het gebouw was ___ voor 100 mensen.",
-          answer: "ontworpen"
-        },
-        {
-          word: "gevangenis",
-          definition: "Een plaats waar mensen worden vastgehouden als straf voor een misdrijf.",
-          sentence: "Hij zat vijf jaar in de ___.",
-          answer: "gevangenis"
-        },
-        {
-          word: "stapelbedden",
-          definition: "Bedden die boven op elkaar zijn geplaatst, om ruimte te besparen.",
-          sentence: "In de kleine kamer stond een ___.",
-          answer: "stapelbedden"
-        },
-        {
-          word: "detentie",
-          definition: "De vrijheidsstraf waarbij iemand wordt vastgehouden.",
-          sentence: "Hij zat in ___ voor drie jaar.",
-          answer: "detentie"
+          word: "Overleden",
+          definition: "Overleden zijn betekent dat iemand niet meer leeft.",
+          sentence: "Ze is ___ op 20 oktober 2025.",
+          answer: "overleden"
         }
       ],
-      fillInBlanks: [
-        {
-          sentence: "De gevangenis in ___ is modern.",
-          answer: "Haren"
-        },
-        {
-          sentence: "In de kleine kamer stond een ___.",
-          answer: "stapelbedden"
-        },
-        {
-          sentence: "Hij zat in ___ voor drie jaar.",
-          answer: "detentie"
-        }
-      ]
+      fillInBlanks: []
     },
     multipleChoice: [
       {
-        question: "Waarom hebben de cipiersvakbonden een stakingsaanzegging ingediend?",
+        question: "In welk jaar is Marguerite Destrooper geboren?",
         options: [
-          "Omdat de gevangenis te koud is",
-          "Omdat er stapelbedden worden geplaatst",
-          "Omdat de cipiers te weinig betaald worden",
-          "Omdat er een nieuw gevangenisbeleid is"
+          "1923",
+          "1933",
+          "1943",
+          "1953"
         ],
         correctAnswer: 2
       },
       {
-        question: "Wat is het tegenovergestelde van individuele detentie?",
+        question: "Hoe oud was Marguerite Destrooper toen ze overleed?",
         options: [
-          "Gedeelde detentie",
-          "Gezamenlijke detentie",
-          "Collectieve detentie",
-          "Geen detentie"
+          "82 jaar",
+          "90 jaar",
+          "92 jaar",
+          "100 jaar"
         ],
         correctAnswer: 3
       },
       {
-        question: "Wat is de hoofdgedachte van de tekst?",
+        question: "Wat is de betekenis van 'overleden'?",
         options: [
-          "De gevangenis is een vakantieoord",
-          "Stapelbedden zijn oncomfortabel",
-          "Individuele detentie wordt niet toegepast in Haren",
-          "De cipiers zijn in staking"
+          "Net geboren zijn",
+          "Niet meer leven",
+          "Heel oud zijn",
+          "Verhuisd zijn"
         ],
-        correctAnswer: 3
+        correctAnswer: 2
       }
     ],
     trueFalse: [
       {
-        statement: "De gevangenis van Haren gebruikt stapelbedden.",
+        statement: "Marguerite Destrooper overleed op 92-jarige leeftijd.",
         isTrue: true
       },
       {
-        statement: "De cipiersvakbonden zijn tevreden met de situatie.",
+        statement: "Marguerite Destrooper werd geboren in de 18e eeuw.",
         isTrue: false
       },
       {
-        statement: "De gevangenis is ontworpen voor individuele detentie.",
+        statement: "Marguerite Destrooper overleed in het jaar 2025.",
         isTrue: true
       }
     ]

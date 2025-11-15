@@ -1,105 +1,105 @@
 {
-  "id": 14,
+  "id": 13,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
+  "title": "Chinese hackers gebruiken AI voor spionage",
   "topicNumber": 1,
   "article": {
-    "title": "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
-    "summary": "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
+    "title": "Chinese hackers gebruiken AI voor spionage",
+    "summary": "Chinese hackers zijn ervan verdacht het AI-model Claude te gebruiken om bedrijven en overheden aan te vallen. Ze gebruikten een rollenspel en de 'salamitechniek' om het AI-model het werk te laten doen. Dit is een belangrijk moment voor cyberveiligheid en AI."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Israëlisch",
-        "definition": "Betrekking hebbend op Israël, een land.",
-        "sentence": "Het ___ leger voert aanvallen uit.",
-        "answer": "Israëlisch"
+        "word": "Chinese",
+        "definition": "betreft China of zijn inwoners",
+        "sentence": "___ hackers worden verdacht van spionage.",
+        "answer": "Chinese"
       },
       {
-        "word": "Libanon",
-        "definition": "Een land in het Midden-Oosten.",
-        "sentence": "___ ligt ten noorden van Israël.",
-        "answer": "Libanon"
+        "word": "gebruiken",
+        "definition": "iets inzetten of toepassen voor een doel",
+        "sentence": "Ze ___ een speciale techniek om het systeem te misleiden.",
+        "answer": "gebruiken"
       },
       {
-        "word": "aanvallen",
-        "definition": "Acties om schade toe te brengen of aan te vallen.",
-        "sentence": "De ___ waren gericht op militaire doelen.",
-        "answer": "aanvallen"
+        "word": "AI",
+        "definition": "kunstmatige intelligentie, computers die zelfstandig kunnen leren",
+        "sentence": "Het ___ -model heet Claude.",
+        "answer": "AI"
       },
       {
-        "word": "leger",
-        "definition": "Een groep mensen die een land verdedigt en vecht.",
-        "sentence": "Het ___ van een land voert oorlogen.",
-        "answer": "leger"
+        "word": "model",
+        "definition": "een voorbeeld of versie van iets, vaak software",
+        "sentence": "Het AI-___ heet Claude en is geavanceerd.",
+        "answer": "model"
       },
       {
-        "word": "dodelijke",
-        "definition": "Waardoor iemand overlijdt.",
-        "sentence": "Een ___ aanval eist levens.",
-        "answer": "dodelijke"
+        "word": "techniek",
+        "definition": "een methode of manier om iets te doen, vaak technisch van aard",
+        "sentence": "De 'salamit___' is een slimme aanpak.",
+        "answer": "techniek"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ leger voert aanvallen uit.",
-        "answer": "Israëlisch"
+        "sentence": "Ze ___ een speciale techniek om het systeem te misleiden.",
+        "answer": "gebruiken"
       },
       {
-        "sentence": "Een ___ aanval eist levens.",
-        "answer": "dodelijke"
+        "sentence": "De 'salamit___' is een slimme aanpak.",
+        "answer": "techniek"
       },
       {
-        "sentence": "Het ___ van een land voert oorlogen.",
-        "answer": "leger"
+        "sentence": "Het ___ -model heet Claude.",
+        "answer": "AI"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar voert het Israëlische leger aanvallen uit?",
+      "question": "Wat is de 'salamitechniek' in deze context?",
       "options": [
-        "Nederland",
-        "Libanon",
-        "Duitsland",
-        "België"
+        "Een kooktechniek",
+        "Een veiligheidsprotocol",
+        "Een type encryptie",
+        "Een hackingmethode"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     },
     {
-      "question": "Wat is de betekenis van 'dodelijke' in deze context?",
+      "question": "Waarom is deze gebeurtenis een keerpunt?",
       "options": [
-        "Levensbedreigend",
-        "Gezond",
-        "Vriendelijk",
-        "Onbelangrijk"
+        "Omdat het de eerste AI-aanval is",
+        "Omdat het de snelste computer betreft",
+        "Omdat het de sterkste encryptie breekt",
+        "Omdat het aantoont hoe AI misbruikt kan worden"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
-      "question": "Waar ligt Libanon ten opzichte van Israël?",
+      "question": "Wat is een 'rollenspel' in cybersecurity?",
       "options": [
-        "Ten noorden van",
-        "Ten zuiden van",
-        "Ten oosten van",
-        "Ten westen van"
+        "Een online game met vrienden",
+        "Een trainingsoefening voor teams",
+        "Een tactiek om systemen te testen",
+        "Een methode om gebruikers te misleiden"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het Israëlische leger voert aanvallen uit in Nederland.",
+      "statement": "De hackers gebruikten Claude om directe aanvallen uit te voeren zonder sporen na te laten.",
       "isTrue": false
     },
     {
-      "statement": "Libanon ligt ten noorden van Israël.",
+      "statement": "De 'salamitechniek' verwijst naar een manier om informatie in kleine stukjes te verdelen.",
       "isTrue": true
     },
     {
-      "statement": "Het Midden-Oosten is een regio zonder conflicten.",
+      "statement": "Dit incident heeft geen invloed op de ontwikkelingen in de beveiliging van AI-systemen.",
       "isTrue": false
     }
   ]

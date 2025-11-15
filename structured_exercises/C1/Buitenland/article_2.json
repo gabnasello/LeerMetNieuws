@@ -1,105 +1,105 @@
 {
-  "id": 15,
+  "id": 14,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
+  "title": "Chinese hackers automatiseren spionage met Amerikaans AI-model Claude",
   "topicNumber": 1,
   "article": {
-    "title": "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
-    "summary": "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
+    "title": "Chinese hackers automatiseren spionage met Amerikaans AI-model Claude",
+    "summary": "Chinese hackers worden ervan verdacht Claude te hebben ingezet bij aanvallen op bedrijven en overheden. Door een rollenspel en de ‘salamitechniek’ konden ze het AI-model het vuile werk laten opknappen. “Dit is een keerpunt in cyberveiligheid en AI.”"
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Midden-Oosten",
-        "definition": "Een regio die onder andere Israël, Libanon en Syrië omvat.",
-        "sentence": "De crisis in het ___ trekt wereldwijd aandacht.",
-        "answer": "Midden-Oosten"
+        "word": "verdacht",
+        "definition": "waarvan men denkt of vermoedt dat het iets verkeerds of onwettigs is",
+        "sentence": "Hij werd ___ van het lekken van gevoelige informatie.",
+        "answer": "verdacht"
       },
       {
-        "word": "Israëlisch",
-        "definition": "Betrekking hebbend op Israël, het land in het Midden-Oosten.",
-        "sentence": "Het ___ leger voerde aanvallen uit op Libanon.",
-        "answer": "Israëlisch"
+        "word": "ingezet",
+        "definition": "gebruikt of toegepast voor een specifiek doel",
+        "sentence": "De technologie werd ___ om de processen te stroomlijnen.",
+        "answer": "ingezet"
       },
       {
-        "word": "dodelijk",
-        "definition": "Met als gevolg dat er iemand overlijdt, dodelijk.",
-        "sentence": "De aanvallen hadden een ___ effect.",
-        "answer": "dodelijk"
+        "word": "spionage",
+        "definition": "het stiekem verzamelen van informatie, vaak van strategisch belang",
+        "sentence": "Moderne ___ maakt gebruik van geavanceerde technologie.",
+        "answer": "spionage"
       },
       {
-        "word": "aanvallen",
-        "definition": "Offensieve acties, vaak militair, gericht tegen een doel.",
-        "sentence": "De ___ waren gericht op doelen in Libanon.",
-        "answer": "aanvallen"
+        "word": "keerpunt",
+        "definition": "een moment of punt waarop een significante verandering plaatsvindt",
+        "sentence": "De ontdekking was een ___ in het onderzoek.",
+        "answer": "keerpunt"
       },
       {
-        "word": "leger",
-        "definition": "Een georganiseerde groep gewapende personen die een land verdedigt of aanvallen uitvoert.",
-        "sentence": "Het Israëlische ___ voerde de aanvallen uit.",
-        "answer": "leger"
+        "word": "model",
+        "definition": "een voorbeeld of blauwdruk dat als basis dient",
+        "sentence": "Het AI-___ is ontworpen om complexe taken te vereenvoudigen.",
+        "answer": "model"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het Israëlische ___ voerde de aanvallen uit.",
-        "answer": "leger"
+        "sentence": "De ontdekking was een ___ in het onderzoek.",
+        "answer": "keerpunt"
       },
       {
-        "sentence": "De crisis in het ___ trekt wereldwijd aandacht.",
-        "answer": "Midden-Oosten"
+        "sentence": "Hij werd ___ van het lekken van gevoelige informatie.",
+        "answer": "verdacht"
       },
       {
-        "sentence": "Het ___ leger voerde aanvallen uit op Libanon.",
-        "answer": "Israëlisch"
+        "sentence": "Moderne ___ maakt gebruik van geavanceerde technologie.",
+        "answer": "spionage"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdstad van Libanon?",
+      "question": "Waarom wordt Claude specifiek genoemd in de titel?",
       "options": [
-        "Jeruzalem",
-        "Beiroet",
-        "Amman",
-        "Damascus"
+        "Het is een veelgebruikt AI-model",
+        "Het is een prototype voor toekomstige AI",
+        "Het werd gebruikt door Chinese hackers",
+        "Het is een codenaam voor een operatie"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is de 'salamitechniek' in deze context?",
+      "options": [
+        "Een kooktechniek",
+        "Een social engineering tactiek",
+        "Een methode om informatie te verbergen",
+        "Een codenaam voor een cyberaanval"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Welk land voerde de aanvallen uit?",
+      "question": "Wat maakt deze gebeurtenis tot een keerpunt?",
       "options": [
-        "Libanon",
-        "Israël",
-        "Syrië",
-        "Iran"
+        "Het is de eerste keer dat AI wordt gebruikt voor spionage",
+        "Het markeert een verandering in hoe AI wordt misbruikt",
+        "Het is de grootste cyberaanval ooit",
+        "Er is geen bijzonderheid, het is routine"
       ],
       "correctAnswer": 2
-    },
-    {
-      "question": "Wat betekent 'dodelijk' in deze context?",
-      "options": [
-        "Leidend tot doden",
-        "Onbedoeld",
-        "Onschadelijk",
-        "Onbeduidend"
-      ],
-      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Israël voerde de aanvallen uit op Libanon.",
-      "isTrue": true
-    },
-    {
-      "statement": "De aanvallen hadden geen dodelijke gevolgen.",
+      "statement": "Claude is een AI-model ontwikkeld door Chinese hackers.",
       "isTrue": false
     },
     {
-      "statement": "De situatie in het Midden-Oosten wordt nauwlettend gevolgd.",
+      "statement": "De 'salamitechniek' verwijst naar een methode om informatie te verbergen in schijnbaar onschuldige communicatie.",
+      "isTrue": true
+    },
+    {
+      "statement": "Dit incident is het eerste gedocumenteerde geval waarin AI wordt gebruikt voor grootschalige spionage.",
       "isTrue": true
     }
   ]

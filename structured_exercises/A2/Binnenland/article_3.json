@@ -1,105 +1,105 @@
 {
-  "id": 20,
+  "id": 21,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Ook in de gevangenis van Haren komen er stapelbedden",
+  "title": "Marguerite Destrooper, 92 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Ook in de gevangenis van Haren komen er stapelbedden",
-    "summary": "In de gevangenis van Haren komen er stapelbedden. De vakbonden van cipiers hebben een staking aangekondigd. De gevangenis is eigenlijk ontworpen voor individuele detentie, niet voor stapelbedden."
+    "title": "Marguerite Destrooper, 92 jaar",
+    "summary": "Geboren in 1933, overleden op 20/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "ontworpen",
-        "definition": "gepland of gemaakt met een bepaald doel",
-        "sentence": "Het gebouw was ___ om veel natuurlijk licht binnen te laten.",
-        "answer": "ontworpen"
+        "word": "Marguerite",
+        "definition": "Een vrouwelijke naam, een voornaam.",
+        "sentence": "__ is een mooie naam voor een meisje.",
+        "answer": "Marguerite"
       },
       {
-        "word": "cipiers",
-        "definition": "de mensen die in een gevangenis werken en toezicht houden op de gevangenen",
-        "sentence": "De ___ hebben extra personeel gevraagd vanwege de drukte.",
-        "answer": "cipiers"
+        "word": "Destrooper",
+        "definition": "Een familienaam, de achternaam.",
+        "sentence": "De familie __ is bekend in deze stad.",
+        "answer": "Destrooper"
       },
       {
-        "word": "individuele",
-        "definition": "alleen, voor of van één persoon",
-        "sentence": "In de nieuwe gevangenis heeft elke gevangene een ___ cel.",
-        "answer": "individuele"
+        "word": "geboren",
+        "definition": "Wanneer iemand is geboren, is die persoon ter wereld gekomen.",
+        "sentence": "Ik ben __ in 1990.",
+        "answer": "geboren"
       },
       {
-        "word": "detentie",
-        "definition": "de staat van iemand die gevangen wordt gehouden",
-        "sentence": "Hij werd in ___ genomen na het incident.",
-        "answer": "detentie"
+        "word": "overleden",
+        "definition": "Niet meer levend; gestorven.",
+        "sentence": "Mijn opa is __ in 2020.",
+        "answer": "overleden"
       },
       {
-        "word": "gevangenis",
-        "definition": "een plaats waar mensen die een misdaad hebben gedaan, worden opgesloten",
-        "sentence": "Hij moet voor twee jaar naar de ___.",
-        "answer": "gevangenis"
+        "word": "jaar",
+        "definition": "Een periode van 365 of 366 dagen.",
+        "sentence": "Een __ heeft 365 of 366 dagen.",
+        "answer": "jaar"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij werd in ___ genomen na het incident.",
-        "answer": "detentie"
+        "sentence": "__ is een mooie naam voor een meisje.",
+        "answer": "Marguerite"
       },
       {
-        "sentence": "In de nieuwe gevangenis heeft elke gevangene een ___ cel.",
-        "answer": "individuele"
+        "sentence": "De familie __ is bekend in deze stad.",
+        "answer": "Destrooper"
       },
       {
-        "sentence": "De ___ hebben extra personeel gevraagd vanwege de drukte.",
-        "answer": "cipiers"
+        "sentence": "Een __ heeft 365 of 366 dagen.",
+        "answer": "jaar"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom hebben de vakbonden een staking aangekondigd?",
+      "question": "In welke maand stierf Marguerite Destrooper?",
       "options": [
-        "Omdat er te weinig cipiers zijn",
-        "Omdat de gevangenis te klein is",
-        "Omdat er stapelbedden worden geplaatst",
-        "Omdat de gevangenen in opstand zijn gekomen"
+        "Januari",
+        "Februari",
+        "Maart",
+        "Oktober"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "Hoe oud was Marguerite Destrooper toen ze overleed?",
+      "options": [
+        "90 jaar",
+        "91 jaar",
+        "92 jaar",
+        "93 jaar"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is het oorspronkelijke ontwerp van de gevangenis in Haren?",
+      "question": "In welk jaar werd Marguerite Destrooper geboren?",
       "options": [
-        "Het is een open ruimte met veel bedden",
-        "Het is een grote kamer met stapelbedden",
-        "Het is gebouwd voor individuele cellen",
-        "Het is ontworpen voor groepscellen"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Wat is het gevolg van de staking door de cipiers?",
-      "options": [
-        "De gevangenis zal gesloten worden",
-        "De cipiers krijgen een loonsverhoging",
-        "Er worden minder stapelbedden geplaatst",
-        "De staking wordt onbeperkt voortgezet"
+        "1930",
+        "1931",
+        "1932",
+        "1933"
       ],
       "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "De gevangenis van Haren is ontworpen voor individuele detentie.",
+      "statement": "Marguerite Destrooper werd geboren in 1933.",
       "isTrue": true
     },
     {
-      "statement": "De vakbonden hebben de staking aangekondigd omdat er te weinig cipiers zijn.",
+      "statement": "Marguerite Destrooper overleed in mei.",
       "isTrue": false
     },
     {
-      "statement": "Stapelbedden worden geplaatst om meer gevangenen te kunnen huisvesten.",
+      "statement": "Marguerite Destrooper was 92 jaar oud toen ze overleed.",
       "isTrue": true
     }
   ]

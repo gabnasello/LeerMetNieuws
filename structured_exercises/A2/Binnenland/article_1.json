@@ -3,104 +3,104 @@
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Antwerpse protesten",
+  "title": "Vrouw van 84 overleden",
   "topicNumber": 1,
   "article": {
-    "title": "Antwerpse protesten",
-    "summary": "In Antwerpen waren er protesten. De politie en de demonstranten kwamen met elkaar in conflict. De politie hield zeven mensen aan. Meestal verliep het protest vreedzaam."
+    "title": "Vrouw van 84 overleden",
+    "summary": "Een vrouw is overleden. Ze is 84 jaar oud geworden. Ze heet Flora Loos."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "conflict",
-        "definition": "een meningsverschil of strijd",
-        "sentence": "Er was een ___ tussen de politie en de demonstranten.",
-        "answer": "conflict"
+        "word": "vrouw",
+        "definition": "een volwassen persoon van het vrouwelijk geslacht",
+        "sentence": "De ___ was heel oud.",
+        "answer": "vrouw"
       },
       {
-        "word": "demonstranten",
-        "definition": "mensen die protesteren",
-        "sentence": "De ___ wilden hun mening laten horen.",
-        "answer": "demonstranten"
+        "word": "overleden",
+        "definition": "niet meer leven; dood zijn",
+        "sentence": "Hij is ___ en begraven.",
+        "answer": "overleden"
       },
       {
-        "word": "meestal",
-        "definition": "meer dan de helft van de keren",
-        "sentence": "___ is het protest vreedzaam.",
-        "answer": "meestal"
+        "word": "geworden",
+        "definition": "geweest; veranderd in iets anders",
+        "sentence": "Hij is vader ___.",
+        "answer": "geworden"
       },
       {
-        "word": "politie",
-        "definition": "mensen die de wet handhaven",
-        "sentence": "De ___ kwam naar de protesten.",
-        "answer": "politie"
+        "word": "jaar",
+        "definition": "een periode van 365 of 366 dagen",
+        "sentence": "Hij is 70 ___ oud.",
+        "answer": "jaar"
       },
       {
-        "word": "vreedzaam",
-        "definition": "zonder geweld",
-        "sentence": "Het protest verliep ___.",
-        "answer": "vreedzaam"
+        "word": "oud",
+        "definition": "niet jong; veel leeftijd hebbend",
+        "sentence": "Ze is heel ___ maar nog gezond.",
+        "answer": "oud"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Er was een ___ tussen de politie en de demonstranten.",
-        "answer": "conflict"
+        "sentence": "De ___ was heel oud.",
+        "answer": "vrouw"
       },
       {
-        "sentence": "De ___ kwam naar de protesten.",
-        "answer": "politie"
+        "sentence": "Ze is heel ___ maar nog gezond.",
+        "answer": "oud"
       },
       {
-        "sentence": "De ___ wilden hun mening laten horen.",
-        "answer": "demonstranten"
+        "sentence": "Hij is 70 ___ oud.",
+        "answer": "jaar"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar ging het protest over?",
+      "question": "Wie is Flora Loos?",
       "options": [
-        "Over een voetbalwedstrijd",
-        "Over de prijs van brood",
-        "Over politieke kwesties",
-        "Over een feest"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Hoe verliep het protest meestal?",
-      "options": [
-        "Heel gewelddadig",
-        "Heel rustig en vreedzaam",
-        "Heel chaotisch",
-        "Heel snel"
+        "Een kind",
+        "Een vrouw",
+        "Een man",
+        "Een dier"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat deed de politie met enkele demonstranten?",
+      "question": "Hoe oud was Flora Loos?",
       "options": [
-        "Gaf hen een prijs",
-        "Hield hen aan voor vragen",
-        "Negeerde hen volledig",
-        "Liet hen direct vrij"
+        "84 jaar",
+        "100 jaar",
+        "50 jaar",
+        "30 jaar"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wanneer overleed Flora Loos?",
+      "options": [
+        "11 november 2025",
+        "11 november 1941",
+        "11 november 2000",
+        "11 november 2024"
+      ],
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het protest was altijd vreedzaam.",
-      "isTrue": false
-    },
-    {
-      "statement": "De politie hield mensen aan.",
+      "statement": "Flora Loos is overleden.",
       "isTrue": true
     },
     {
-      "statement": "Het protest ging over een voetbalwedstrijd.",
+      "statement": "Flora Loos was 100 jaar oud.",
       "isTrue": false
+    },
+    {
+      "statement": "Flora Loos stierf in november.",
+      "isTrue": true
     }
   ]
 }

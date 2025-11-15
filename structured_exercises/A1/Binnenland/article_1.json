@@ -1,105 +1,105 @@
 {
-  "id": 16,
+  "id": 15,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Luc Versluys, 78 jaar",
+  "title": "Flora Loos, 84 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Luc Versluys, 78 jaar",
-    "summary": "Hij is geboren in 1946. Hij is overleden op 2 november 2025."
+    "title": "Flora Loos, 84 jaar",
+    "summary": "Geboren in 1941, overleden op 11 november 2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Hij",
-        "definition": "verwijst naar een man",
-        "sentence": "___ is een man.",
-        "answer": "Hij"
+        "word": "Flora",
+        "definition": "een vrouwelijke naam",
+        "sentence": "___ is een mooie naam.",
+        "answer": "Flora"
       },
       {
-        "word": "is",
-        "definition": "zijn (to be)",
-        "sentence": "Hij ___ een man.",
-        "answer": "is"
+        "word": "11",
+        "definition": "het getal na 10",
+        "sentence": "November is de ___de maand.",
+        "answer": "11"
       },
       {
-        "word": "in",
-        "definition": "in (locatie)",
-        "sentence": "Hij woonde ___ een huis.",
-        "answer": "in"
+        "word": "84",
+        "definition": "een getal, tussen 83 en 85",
+        "sentence": "Hij is ___ jaar oud.",
+        "answer": "84"
       },
       {
-        "word": "op",
-        "definition": "op (tijdstip)",
-        "sentence": "Hij overleed ___ 2 november 2025.",
-        "answer": "op"
+        "word": "overleden",
+        "definition": "niet meer levend, gestorven",
+        "sentence": "Zij is ___ in 2025.",
+        "answer": "overleden"
       },
       {
         "word": "jaar",
-        "definition": "eenheid van tijd (365 dagen)",
-        "sentence": "Hij werd 78 ___ oud.",
+        "definition": "een periode van 365 dagen",
+        "sentence": "Een ___ heeft 12 maanden.",
         "answer": "jaar"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij ___ een man.",
-        "answer": "is"
+        "sentence": "___ is een mooie naam.",
+        "answer": "Flora"
       },
       {
-        "sentence": "Hij overleed ___ 2 november 2025.",
-        "answer": "op"
+        "sentence": "Hij is ___ jaar oud.",
+        "answer": "84"
       },
       {
-        "sentence": "Hij woonde ___ een huis.",
-        "answer": "in"
+        "sentence": "November is de ___de maand.",
+        "answer": "11"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wanneer is Luc Versluys geboren?",
+      "question": "Wanneer is Flora geboren?",
       "options": [
-        "In 1946",
-        "In 1945",
-        "In 1947",
-        "In 1948"
+        "In 1941",
+        "In 1942",
+        "In 1943",
+        "In 1944"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Hoe oud was Luc Versluys toen hij overleed?",
+      "question": "Hoe oud is Flora geworden?",
       "options": [
-        "78 jaar",
-        "77 jaar",
-        "79 jaar",
-        "80 jaar"
+        "83 jaar",
+        "84 jaar",
+        "85 jaar",
+        "86 jaar"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
-      "question": "Op welke datum overleed Luc Versluys?",
+      "question": "Op welke dag is Flora overleden?",
       "options": [
-        "2 november 2025",
-        "3 november 2025",
-        "2 december 2025",
-        "3 december 2025"
+        "10 november",
+        "11 november",
+        "12 november",
+        "13 november"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Luc Versluys is geboren in 1945.",
-      "isTrue": false
-    },
-    {
-      "statement": "Luc Versluys overleed op 2 november 2025.",
+      "statement": "Flora is geboren in 1941.",
       "isTrue": true
     },
     {
-      "statement": "Luc Versluys werd 80 jaar oud.",
+      "statement": "Flora is overleden in 2025.",
+      "isTrue": true
+    },
+    {
+      "statement": "Flora is 85 jaar oud.",
       "isTrue": false
     }
   ]

@@ -1,105 +1,105 @@
 {
-  "id": 18,
+  "id": 19,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Net hierdoor voel ik mij als brave burger radicaliseren: pro-Palestijns protest in Antwerpen opnieuw weggespoeld met waterkanon",
+  "title": "Flora Loos, 84 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Net hierdoor voel ik mij als brave burger radicaliseren: pro-Palestijns protest in Antwerpen opnieuw weggespoeld met waterkanon",
-    "summary": "Voor de tweede week op rij is pro-Palestijns protest in Antwerpen uitgedraaid op een confrontatie tussen betogers en de oproerpolitie. Zeven manifestanten werden bestuurlijk aangehouden. “Tot voor kort verliep alles nochtans heel gemoedelijk.”"
+    "title": "Flora Loos, 84 jaar",
+    "summary": "Geboren in 1941, overleden op 11/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "oproerpolitie",
-        "definition": "Politie-eenheid die gespecialiseerd is in het beheersen van onrust en rellen",
-        "sentence": "De ___ trad hardhandig op tegen de demonstranten.",
-        "answer": "oproerpolitie"
+        "word": "geboren",
+        "definition": "Geboren worden; het begin van het leven.",
+        "sentence": "Ze werd ___ in een klein dorp.",
+        "answer": "geboren"
       },
       {
-        "word": "confrontatie",
-        "definition": "Een conflict of botsing tussen twee of meer partijen",
-        "sentence": "De ___ tussen de twee groepen leidde tot geweld.",
-        "answer": "confrontatie"
+        "word": "84",
+        "definition": "Het getal vierentachtig; tussen tachtig en negentig.",
+        "sentence": "Ze werd ___ jaar oud, wat respectabel is.",
+        "answer": "84"
       },
       {
-        "word": "gemoedelijk",
-        "definition": "Vriendelijk en zonder spanning of conflict",
-        "sentence": "De sfeer was erg ___ ondanks de meningsverschillen.",
-        "answer": "gemoedelijk"
+        "word": "2025",
+        "definition": "Het jaar tweeduizend vijfentwintig.",
+        "sentence": "Zij stierf in ___, na een lang leven.",
+        "answer": "2025"
       },
       {
-        "word": "aangehouden",
-        "definition": "Gearresteerd of vastgehouden door de politie",
-        "sentence": "Hij werd ___ voor verdere ondervraging.",
-        "answer": "aangehouden"
+        "word": "Flora",
+        "definition": "Een vrouwelijke voornaam; ook een term voor plantengroei.",
+        "sentence": "___ was een veelvoorkomende naam in de jaren 40.",
+        "answer": "Flora"
       },
       {
-        "word": "betogers",
-        "definition": "Mensen die deelnemen aan een protestactie of betoging",
-        "sentence": "De ___ hielden spandoeken vast tijdens de mars.",
-        "answer": "betogers"
+        "word": "overleden",
+        "definition": "Overleden zijn; niet meer in leven zijn.",
+        "sentence": "Helaas is zij nu ___, maar haar erfenis leeft voort.",
+        "answer": "overleden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ tussen de twee groepen leidde tot geweld.",
-        "answer": "confrontatie"
+        "sentence": "Ze werd ___ in een klein dorp.",
+        "answer": "geboren"
       },
       {
-        "sentence": "Hij werd ___ voor verdere ondervraging.",
-        "answer": "aangehouden"
+        "sentence": "Helaas is zij nu ___, maar haar erfenis leeft voort.",
+        "answer": "overleden"
       },
       {
-        "sentence": "De sfeer was erg ___ ondanks de meningsverschillen.",
-        "answer": "gemoedelijk"
+        "sentence": "___ was een veelvoorkomende naam in de jaren 40.",
+        "answer": "Flora"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdreden voor de confrontatie tussen de betogers en de politie in Antwerpen?",
+      "question": "In welk jaar is Flora Loos geboren?",
       "options": [
-        "Een meningsverschil over sport",
-        "Een ruzie over een persoonlijke kwestie",
-        "De aanwezigheid van de oproerpolitie bij de protesten",
-        "Een misverstand over de locatie"
+        "1939",
+        "1940",
+        "1941",
+        "1942"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Hoe werden de manifestanten behandeld door de autoriteiten?",
+      "question": "Wat is de betekenis van de achternaam 'Loos'?",
       "options": [
-        "Ze werden allemaal direct vrijgelaten zonder voorwaarden.",
-        "Ze werden overgebracht naar een feestelijke bijeenkomst.",
-        "Ze werden bestuurlijk aangehouden voor verder onderzoek.",
-        "Ze werden beloond voor hun moed."
+        "Vast",
+        "Streng",
+        "Los",
+        "Geheim"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat was de algemene sfeer tijdens de meeste protesten volgens de samenvatting?",
+      "question": "Hoe oud was Flora Loos geworden?",
       "options": [
-        "Heel gewelddadig en angstaanjagend",
-        "Zeer formeel en afstandelijk",
-        "Heel gemoedelijk en vreedzaam",
-        "Extreem competitief en individualistisch"
+        "83 jaar",
+        "84 jaar",
+        "85 jaar",
+        "86 jaar"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De protesten in Antwerpen verliepen volledig zonder enige confrontatie met de autoriteiten.",
+      "statement": "Flora Loos overleed in 2025.",
+      "isTrue": true
+    },
+    {
+      "statement": "Flora Loos was 85 jaar oud bij haar overlijden.",
       "isTrue": false
     },
     {
-      "statement": "De oproerpolitie had alleen de taak om toeschouwers te beschermen tijdens de protesten.",
-      "isTrue": false
-    },
-    {
-      "statement": "Voor het recente incident verliepen de protesten over het algemeen in een gemoedelijke sfeer.",
+      "statement": "Flora Loos werd geboren tijdens de Tweede Wereldoorlog.",
       "isTrue": true
     }
   ]

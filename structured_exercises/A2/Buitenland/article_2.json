@@ -1,106 +1,106 @@
 {
-  "id": 12,
+  "id": 11,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
+  "title": "Chinese hackers gebruiken AI voor spionage",
   "topicNumber": 1,
   "article": {
-    "title": "Israëlisch leger voert dodelijke aanvallen uit op Libanon",
-    "summary": "Volg hier de laatste ontwikkelingen in het Midden-Oosten."
+    "title": "Chinese hackers gebruiken AI voor spionage",
+    "summary": "Chinese hackers gebruiken het AI-systeem Claude om bedrijven en overheden aan te vallen. Ze laten de AI het gevaarlijke werk doen. Experts zeggen: dit is een groot probleem voor cyberveiligheid."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "dodelijk",
-        "definition": "dood veroorzakend",
-        "sentence": "Het ongeluk was ___ voor twee mensen.",
-        "answer": "dodelijk"
+        "word": "veiligheid",
+        "definition": "veilig zijn, niet in gevaar zijn",
+        "sentence": "___ is belangrijk in het verkeer.",
+        "answer": "veiligheid"
       },
       {
-        "word": "Libanon",
-        "definition": "een land in het Midden-Oosten",
-        "sentence": "___ is een land naast Israël.",
-        "answer": "Libanon"
+        "word": "experts",
+        "definition": "mensen die veel weten over een onderwerp",
+        "sentence": "De ___ weten veel over computers.",
+        "answer": "experts"
       },
       {
-        "word": "leger",
-        "definition": "een groep mensen die voor een land vechten",
-        "sentence": "Het ___ van het land verdedigt de grenzen.",
-        "answer": "leger"
+        "word": "experts",
+        "definition": "mensen die veel weten over een onderwerp",
+        "sentence": "De ___ geven advies over gezondheid.",
+        "answer": "experts"
       },
       {
-        "word": "ontwikkelingen",
-        "definition": "nieuwe dingen die gebeuren",
-        "sentence": "De laatste ___ in de technologie zijn snel.",
-        "answer": "ontwikkelingen"
+        "word": "probleem",
+        "definition": "iets dat niet goed gaat of moeilijk is",
+        "sentence": "Hij heeft een ___ met zijn auto.",
+        "answer": "probleem"
       },
       {
-        "word": "Midden-Oosten",
-        "definition": "een gebied op de wereld met veel landen",
-        "sentence": "Het ___ heeft een droog klimaat.",
-        "answer": "Midden-Oosten"
+        "word": "experts",
+        "definition": "mensen die veel weten over een onderwerp",
+        "sentence": "We vragen advies aan de ___.",
+        "answer": "experts"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ van het land verdedigt de grenzen.",
-        "answer": "leger"
+        "sentence": "___ is belangrijk in het verkeer.",
+        "answer": "veiligheid"
       },
       {
-        "sentence": "___ is een land naast Israël.",
-        "answer": "Libanon"
+        "sentence": "De ___ weten veel over computers.",
+        "answer": "experts"
       },
       {
-        "sentence": "Het ongeluk was ___ voor twee mensen.",
-        "answer": "dodelijk"
+        "sentence": "De ___ geven advies over gezondheid.",
+        "answer": "experts"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'dodelijk'?",
+      "question": "Wat gebruiken de hackers?",
       "options": [
-        "leuk",
-        "gevaarlijk",
-        "snel",
-        "makkelijk"
+        "Een computer",
+        "Een auto",
+        "Een fiets",
+        "Een AI-systeem"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
     },
     {
-      "question": "Wat is 'Libanon'?",
+      "question": "Wat is het gevolg van deze aanvallen?",
       "options": [
-        "een stad",
-        "een rivier",
-        "een land",
-        "een berg"
+        "Het is leuk voor de hackers",
+        "Er is geen gevolg",
+        "Er is een groot probleem voor de cyberveiligheid",
+        "De hackers worden beroemd"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat betekent 'ontwikkelingen'?",
+      "question": "Wat doen de experts?",
       "options": [
-        "oude dingen",
-        "nieuwe dingen die gebeuren",
-        "moeilijke problemen",
-        "leuke activiteiten"
+        "Ze praten alleen",
+        "Ze spelen een spel",
+        "Ze geven advies en helpen bij het oplossen van problemen",
+        "Ze gaan op vakantie"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Israël en Libanon zijn twee verschillende landen.",
-      "isTrue": true
-    },
-    {
-      "statement": "Het Midden-Oosten heeft een nat klimaat.",
+      "statement": "De hackers gebruiken een auto voor de aanvallen.",
       "isTrue": false
     },
     {
-      "statement": "Ontwikkelingen kunnen snel of langzaam zijn.",
+      "statement": "De experts zeggen dat dit een groot probleem is.",
       "isTrue": true
+    },
+    {
+      "statement": "Cyberveiligheid is niet belangrijk voor de hackers.",
+      "isTrue": false
     }
   ]
 }

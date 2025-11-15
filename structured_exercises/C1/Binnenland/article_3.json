@@ -1,106 +1,100 @@
 {
-  "id": 23,
+  "id": 24,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Ook in “de gevangenis van de toekomst” in Haren, die zou inzetten op individuele detentie, komen er nu stapelbedden",
+  "title": "Marguerite Destrooper, 92 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Ook in “de gevangenis van de toekomst” in Haren, die zou inzetten op individuele detentie, komen er nu stapelbedden",
-    "summary": "De cipiersvakbonden hebben een stakingsaanzegging ingediend omdat nu ook in de gevangenis van Haren stapelbedden worden geplaatst. Nochtans is de gevangenis ontworpen rond het idee van “individuele detentie”."
+    "title": "Marguerite Destrooper, 92 jaar",
+    "summary": "Geboren in 1933, overleden op 20/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "ontworpen",
-        "definition": "Gemaakt, gepland of bedacht volgens een plan.",
-        "sentence": "Het systeem was zo ___ voor maximale efficiëntie.",
-        "answer": "ontworpen"
+        "word": "Geboren",
+        "definition": "Het begin van het leven; het moment waarop iemand ter wereld komt.",
+        "sentence": "Ze werd ___ in 1933.",
+        "answer": "geboren"
       },
       {
-        "word": "stakingsaanzegging",
-        "definition": "Een officiële mededeling dat er een staking plaatsvindt.",
-        "sentence": "De werknemers overhandigden de ___ aan het management.",
-        "answer": "stakingsaanzegging"
+        "word": "Overleden",
+        "definition": "Niet meer in leven; gestorven.",
+        "sentence": "Hij is ___ in 2020.",
+        "answer": "overleden"
       },
       {
-        "word": "Haren",
-        "definition": "De naam van een plaats, in deze context een gevangenis.",
-        "sentence": "In ___ is de situatie voor gevangenen erg slecht.",
-        "answer": "Haren"
+        "word": "1933",
+        "definition": "Een jaartal; verwijst naar het jaar 1933 na Christus.",
+        "sentence": "De grote depressie was in volle gang in ___.",
+        "answer": "1933"
       },
       {
-        "word": "detentie",
-        "definition": "De periode waarin iemand vastgehouden wordt, bijvoorbeeld in een gevangenis.",
-        "sentence": "Hij zat in ___ voor drie jaar wegens diefstal.",
-        "answer": "detentie"
-      },
-      {
-        "word": "individuele",
-        "definition": "Alleenstaand, voor één persoon bedoeld.",
-        "sentence": "Elke gevangene heeft recht op ___ bezoekuren.",
-        "answer": "individuele"
+        "word": "2025",
+        "definition": "Een jaartal; verwijst naar het jaar 2025 na Christus.",
+        "sentence": "Ze verwachten de oplevering in ___.",
+        "answer": "2025"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij zat in ___ voor drie jaar wegens diefstal.",
-        "answer": "detentie"
+        "sentence": "De grote depressie was in volle gang in ___.",
+        "answer": "1933"
       },
       {
-        "sentence": "Elke gevangene heeft recht op ___ bezoekuren.",
-        "answer": "individuele"
+        "sentence": "Hij is ___ in 2020.",
+        "answer": "overleden"
       },
       {
-        "sentence": "De werknemers overhandigden de ___ aan het management.",
-        "answer": "stakingsaanzegging"
+        "sentence": "Ze verwachten de oplevering in ___.",
+        "answer": "2025"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de hoofdreden voor de stakingsaanzegging door de cipiersvakbonden?",
+      "question": "In welk jaar is Marguerite Destrooper geboren?",
       "options": [
-        "De komst van stapelbedden in de gevangenis van Haren",
-        "Een loonsverlaging van 10% voor alle bewakers",
-        "Het sluiten van de gevangenis van Haren zelf",
-        "De wens voor betere koffiemachines op de werkvloer"
+        "1933",
+        "1945",
+        "1920",
+        "1950"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Hoe is de gevangenis van Haren oorspronkelijk ontworpen?",
+      "question": "Wat is de geboortemaand van Marguerite Destrooper?",
       "options": [
-        "Rond het idee van individuele detentie",
-        "Voor collectieve detentie met stapelbedden",
-        "Zonder enige vorm van detentie",
-        "Als een open kamp zonder bewakers"
+        "Januari",
+        "Februari",
+        "Maart",
+        "Onbekend"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
-      "question": "Wat is de toestand van de gevangenis in Haren momenteel?",
+      "question": "Hoe oud was Marguerite Destrooper geworden?",
       "options": [
-        "Het gebruikt stapelbedden om meer gevangenen te herbergen",
-        "Het is onlangs volledig gerenoveerd met nieuwe technologie",
-        "De gevangenis is gesloten en leeg sinds 2020",
-        "Alleen bewaard als museumstuk sinds 1990"
+        "92 jaar",
+        "93 jaar",
+        "94 jaar",
+        "95 jaar"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De gevangenis van Haren is recentelijk begonnen met het plaatsen van stapelbedden.",
+      "statement": "Marguerite Destrooper is geboren in 1933.",
       "isTrue": true
     },
     {
-      "statement": "De cipiersvakbonden hebben een stakingsaanzegging ingediend om de gevangenis van Haren geheel te sluiten.",
+      "statement": "Marguerite Destrooper overleed in juni 2025.",
       "isTrue": false
     },
     {
-      "statement": "De gevangenis van Haren is oorspronkelijk ontworpen voor collectieve detentie met stapelbedden.",
-      "isTrue": false
+      "statement": "De overlijdensdatum van Marguerite Destrooper is 20/10/2025.",
+      "isTrue": true
     }
   ]
 }

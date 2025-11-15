@@ -1,105 +1,99 @@
 {
-  "id": 17,
+  "id": 18,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Net hierdoor voel ik mij als brave burger radicaliseren: pro-Palestijns protest in Antwerpen opnieuw weggespoeld met waterkanon",
+  "title": "Flora Loos, 84 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Net hierdoor voel ik mij als brave burger radicaliseren: pro-Palestijns protest in Antwerpen opnieuw weggespoeld met waterkanon",
-    "summary": "Voor de tweede week op rij is pro-Palestijns protest in Antwerpen uitgedraaid op een confrontatie tussen betogers en de oproerpolitie. Zeven manifestanten werden bestuurlijk aangehouden. 'Tot voor kort verliep alles nochtans heel gemoedelijk.'"
+    "title": "Flora Loos, 84 jaar",
+    "summary": "Geboren in 1941, overleden op 11/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "bestuurlijk",
-        "definition": "op bestuurlijk of organisatorisch vlak",
-        "sentence": "De maatregel was vooral ___ van aard.",
-        "answer": "bestuurlijk"
+        "word": "geboren",
+        "definition": "Geboren zijn betekent dat je op een bepaalde dag ter wereld bent gekomen.",
+        "sentence": "Flora is ___ in 1941.",
+        "answer": "geboren"
       },
       {
-        "word": "radicaliseren",
-        "definition": "radicaal of extreem worden in gedrag of ideeën",
-        "sentence": "Hij begon te ___ na de incidenten.",
-        "answer": "radicaliseren"
+        "word": "overleden",
+        "definition": "Overleden zijn betekent dat je niet meer leeft.",
+        "sentence": "Ze is ___ op 11 november 2025.",
+        "answer": "overleden"
       },
       {
-        "word": "waterkanon",
-        "definition": "een voertuig dat water spuit om mensen uiteen te drijven",
-        "sentence": "Het ___ werd ingezet tegen de betogers.",
-        "answer": "waterkanon"
+        "word": "jaar",
+        "definition": "Een jaar is een periode van 365 dagen, of soms 366.",
+        "sentence": "Ze werd 84 ___ oud.",
+        "answer": "jaar"
       },
       {
-        "word": "betogers",
-        "definition": "mensen die demonstreren of protesteren",
-        "sentence": "De ___ voerden actie voor hun rechten.",
-        "answer": "betogers"
-      },
-      {
-        "word": "confrontatie",
-        "definition": "een conflict of botsing tussen partijen",
-        "sentence": "De ___ leidde tot verschillende arrestaties.",
-        "answer": "confrontatie"
+        "word": "overleden",
+        "definition": "Overleden zijn betekent dat je niet meer leeft.",
+        "sentence": "Ze is ___ op 11 november 2025.",
+        "answer": "overleden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij begon te ___ na de incidenten.",
-        "answer": "radicaliseren"
+        "sentence": "Ze werd 84 ___ oud.",
+        "answer": "jaar"
       },
       {
-        "sentence": "De maatregel was vooral ___ van aard.",
-        "answer": "bestuurlijk"
+        "sentence": "Ze is ___ op 11 november 2025.",
+        "answer": "overleden"
       },
       {
-        "sentence": "Het ___ werd ingezet tegen de betogers.",
-        "answer": "waterkanon"
+        "sentence": "Flora is ___ in 1941.",
+        "answer": "geboren"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom werden de manifestanten aangehouden?",
+      "question": "In welk jaar is Flora Loos geboren?",
       "options": [
-        "Omdat ze vreedzaam demonstreerden",
-        "Omdat ze de wet overtraden tijdens de protesten",
-        "Omdat ze te laat waren voor de start",
-        "Omdat ze met te veel mensen waren"
+        "In 1920",
+        "In 1941",
+        "In 1960",
+        "In 1980"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat was de houding van de politie tijdens het incident?",
+      "question": "Wat is de overlijdensdatum van Flora Loos?",
       "options": [
-        "Ze bleven volledig afzijdig",
-        "Ze werkten nauw samen met de betogers",
-        "Ze grepen in met onder andere een waterkanon",
-        "Ze versterkten de manifestanten in hun acties"
+        "11 november 2025",
+        "12 november 2025",
+        "11 december 2025",
+        "11 november 2024"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Hoe verliep de situatie volgens de beschrijving?",
+      "question": "Hoe oud was Flora Loos toen ze overleed?",
       "options": [
-        "Er was alleen maar samenwerking",
-        "Het ging om geweld van beide kanten",
-        "Het verliep gemoedelijk tot kort voor het einde",
-        "De politie was de hele tijd afwezig"
+        "84 jaar",
+        "85 jaar",
+        "83 jaar",
+        "86 jaar"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De betoging in Antwerpen verliep zonder enig probleem voor het einde.",
-      "isTrue": false
-    },
-    {
-      "statement": "Er werden zeven manifestanten aangehouden door de politie.",
+      "statement": "Flora Loos is overleden op 11 november 2025.",
       "isTrue": true
     },
     {
-      "statement": "Het incident vond plaats tijdens een pro-Palestijnse betoging.",
+      "statement": "Flora Loos werd geboren in 1940.",
+      "isTrue": false
+    },
+    {
+      "statement": "Flora Loos werd 84 jaar oud.",
       "isTrue": true
     }
   ]

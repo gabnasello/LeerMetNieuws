@@ -1,105 +1,74 @@
 {
-  "id": 22,
+  "id": 23,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Ook in de gevangenis van de toekomst in Haren komen stapelbedden",
+  "title": "Marguerite Destrooper, 92 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Ook in de gevangenis van de toekomst in Haren komen stapelbedden",
-    "summary": "De cipiersvakbonden hebben een stakingsaanzegging ingediend omdat nu ook in de gevangenis van Haren stapelbedden worden geplaatst. Nochtans is de gevangenis ontworpen rond het idee van 'individuele detentie'."
+    "title": "Marguerite Destrooper, 92 jaar",
+    "summary": "Geboren in 1933, overleden op 20/10/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Haren",
-        "definition": "De naam van een plaats, hier de gevangenis van Haren.",
-        "sentence": "De gevangenis in ___ is modern.",
-        "answer": "Haren"
+        "word": "Geboren",
+        "definition": "Geboren zijn betekent dat je op een bepaalde datum ter wereld bent gekomen.",
+        "sentence": "Marguerite Destrooper is ___ in 1933.",
+        "answer": "geboren"
       },
       {
-        "word": "ontworpen",
-        "definition": "Gemaakt, bedacht, of gepland.",
-        "sentence": "Het gebouw was ___ voor 100 mensen.",
-        "answer": "ontworpen"
-      },
-      {
-        "word": "gevangenis",
-        "definition": "Een plaats waar mensen worden vastgehouden als straf voor een misdrijf.",
-        "sentence": "Hij zat vijf jaar in de ___.",
-        "answer": "gevangenis"
-      },
-      {
-        "word": "stapelbedden",
-        "definition": "Bedden die boven op elkaar zijn geplaatst, om ruimte te besparen.",
-        "sentence": "In de kleine kamer stond een ___.",
-        "answer": "stapelbedden"
-      },
-      {
-        "word": "detentie",
-        "definition": "De vrijheidsstraf waarbij iemand wordt vastgehouden.",
-        "sentence": "Hij zat in ___ voor drie jaar.",
-        "answer": "detentie"
+        "word": "Overleden",
+        "definition": "Overleden zijn betekent dat iemand niet meer leeft.",
+        "sentence": "Ze is ___ op 20 oktober 2025.",
+        "answer": "overleden"
       }
     ],
-    "fillInBlanks": [
-      {
-        "sentence": "De gevangenis in ___ is modern.",
-        "answer": "Haren"
-      },
-      {
-        "sentence": "In de kleine kamer stond een ___.",
-        "answer": "stapelbedden"
-      },
-      {
-        "sentence": "Hij zat in ___ voor drie jaar.",
-        "answer": "detentie"
-      }
-    ]
+    "fillInBlanks": []
   },
   "multipleChoice": [
     {
-      "question": "Waarom hebben de cipiersvakbonden een stakingsaanzegging ingediend?",
+      "question": "In welk jaar is Marguerite Destrooper geboren?",
       "options": [
-        "Omdat de gevangenis te koud is",
-        "Omdat er stapelbedden worden geplaatst",
-        "Omdat de cipiers te weinig betaald worden",
-        "Omdat er een nieuw gevangenisbeleid is"
+        "1923",
+        "1933",
+        "1943",
+        "1953"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is het tegenovergestelde van individuele detentie?",
+      "question": "Hoe oud was Marguerite Destrooper toen ze overleed?",
       "options": [
-        "Gedeelde detentie",
-        "Gezamenlijke detentie",
-        "Collectieve detentie",
-        "Geen detentie"
+        "82 jaar",
+        "90 jaar",
+        "92 jaar",
+        "100 jaar"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is de hoofdgedachte van de tekst?",
+      "question": "Wat is de betekenis van 'overleden'?",
       "options": [
-        "De gevangenis is een vakantieoord",
-        "Stapelbedden zijn oncomfortabel",
-        "Individuele detentie wordt niet toegepast in Haren",
-        "De cipiers zijn in staking"
+        "Net geboren zijn",
+        "Niet meer leven",
+        "Heel oud zijn",
+        "Verhuisd zijn"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "De gevangenis van Haren gebruikt stapelbedden.",
+      "statement": "Marguerite Destrooper overleed op 92-jarige leeftijd.",
       "isTrue": true
     },
     {
-      "statement": "De cipiersvakbonden zijn tevreden met de situatie.",
+      "statement": "Marguerite Destrooper werd geboren in de 18e eeuw.",
       "isTrue": false
     },
     {
-      "statement": "De gevangenis is ontworpen voor individuele detentie.",
+      "statement": "Marguerite Destrooper overleed in het jaar 2025.",
       "isTrue": true
     }
   ]

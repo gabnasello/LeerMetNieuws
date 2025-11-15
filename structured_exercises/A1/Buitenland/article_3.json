@@ -1,105 +1,105 @@
 {
-  "id": 6,
+  "id": 5,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
+  "title": "Nederlands dorp Moerdijk moet wijken",
   "topicNumber": 1,
   "article": {
-    "title": "VS heffen sancties tegen Syrië op tijdens ontmoeting Trump en Al-Sharaa",
-    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
+    "title": "Nederlands dorp Moerdijk moet wijken",
+    "summary": "Het dorp Moerdijk moet verdwijnen. De mensen moeten weg. Het dorp is heel oud. De industrie wil groeien. De mensen moeten plaatsmaken voor de industrie."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "tijdens",
-        "definition": "in de tijd van, gedurende",
-        "sentence": "We ontmoeten elkaar ___ de vergadering.",
-        "answer": "tijdens"
+        "word": "industrie",
+        "definition": "bedrijven die producten maken",
+        "sentence": "De ___ maakt veel spullen.",
+        "answer": "industrie"
       },
       {
-        "word": "sancties",
-        "definition": "straffen of beperkingen die een land oplegt",
-        "sentence": "De regering kondigt nieuwe ___ aan.",
-        "answer": "sancties"
+        "word": "dorp",
+        "definition": "een kleine plaats waar mensen wonen",
+        "sentence": "Ik woon in een klein ___.",
+        "answer": "dorp"
       },
       {
-        "word": "VS",
-        "definition": "een land, Verenigde Staten",
-        "sentence": "De ___ en andere landen werken samen.",
-        "answer": "VS"
+        "word": "mensen",
+        "definition": "personen, individuen",
+        "sentence": "De ___ in het dorp zijn vriendelijk.",
+        "answer": "mensen"
       },
       {
-        "word": "heffen",
-        "definition": "iets niet meer gebruiken, stoppen met iets",
-        "sentence": "De regering besluit om de sancties te ___.",
-        "answer": "heffen"
+        "word": "wijken",
+        "definition": "verplaatsen, ergens anders naartoe gaan",
+        "sentence": "Soms moet je ___ voor iets nieuws.",
+        "answer": "wijken"
       },
       {
-        "word": "op",
-        "definition": "beginnen, starten",
-        "sentence": "De vergadering gaat zo ___.",
-        "answer": "op"
+        "word": "maken",
+        "definition": "creëren, produceren",
+        "sentence": "Kinderen ___ vaak een hut van kleden.",
+        "answer": "maken"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ en andere landen werken samen.",
-        "answer": "VS"
+        "sentence": "Ik woon in een klein ___.",
+        "answer": "dorp"
       },
       {
-        "sentence": "De regering kondigt nieuwe ___ aan.",
-        "answer": "sancties"
+        "sentence": "De ___ in het dorp zijn vriendelijk.",
+        "answer": "mensen"
       },
       {
-        "sentence": "De vergadering gaat zo ___.",
-        "answer": "op"
+        "sentence": "Kinderen ___ vaak een hut van kleden.",
+        "answer": "maken"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'heffen' in deze context?",
+      "question": "Wat betekent het als een dorp moet 'wijken'?",
       "options": [
-        "ophouden met",
-        "beginnen met",
-        "steunen",
-        "vergeten"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Waar is Syrië gelegen?",
-      "options": [
-        "Europa",
-        "Azië",
-        "Afrika",
-        "Zuid-Amerika"
+        "Het dorp wordt mooier",
+        "Het dorp verdwijnt",
+        "Het dorp wordt groter",
+        "Het dorp verandert van naam"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is een 'ontmoeting'?",
+      "question": "Waarom moeten de mensen uit Moerdijk weg?",
       "options": [
-        "een soort sport",
-        "een feest",
-        "een belangrijke bijeenkomst",
-        "een soort voedsel"
+        "Er is te weinig werk",
+        "De huizen zijn te oud",
+        "De industrie wil de ruimte",
+        "Er is geen water meer"
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "Wat is de 'industrie'?",
+      "options": [
+        "Een soort supermarkt",
+        "Een groot bedrijf dat producten maakt",
+        "Een grote tuin",
+        "Een sportteam"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "VS is een land in Europa.",
-      "isTrue": false
-    },
-    {
-      "statement": "Sancties zijn straffen die een land oplegt.",
+      "statement": "Het dorp Moerdijk is heel oud.",
       "isTrue": true
     },
     {
-      "statement": "Syrië ligt in Zuid-Amerika.",
+      "statement": "De mensen in Moerdijk willen niet weg.",
+      "isTrue": false
+    },
+    {
+      "statement": "De industrie helpt de mensen in Moerdijk.",
       "isTrue": false
     }
   ]
