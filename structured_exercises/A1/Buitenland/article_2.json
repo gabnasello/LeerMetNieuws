@@ -1,105 +1,74 @@
 {
-  "id": 10,
+  "id": 11,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Chinese hackers gebruiken AI",
+  "title": "Politieke onrust in Amerika",
   "topicNumber": 1,
   "article": {
-    "title": "Chinese hackers gebruiken AI",
-    "summary": "Chinese hackers gebruiken AI voor aanvallen. Dit is een groot probleem."
+    "title": "Politieke onrust in Amerika",
+    "summary": "Twee politici hebben ruzie over een onderwerp."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "aanvallen",
-        "definition": "iemand of iets met geweld aanvallen",
-        "sentence": "Ze ___ andere computers.",
-        "answer": "aanvallen"
+        "word": "politici",
+        "definition": "mensen die in de regering werken",
+        "sentence": "In veel landen hebben ___ belangrijke functies.",
+        "answer": "politici"
       },
       {
-        "word": "Chinese",
-        "definition": "uit China",
-        "sentence": "___ hackers gebruiken AI.",
-        "answer": "Chinese"
-      },
-      {
-        "word": "groot",
-        "definition": "niet klein, maar van grote omvang",
-        "sentence": "Dit is een ___ probleem.",
-        "answer": "groot"
-      },
-      {
-        "word": "gebruiken",
-        "definition": "iets doen met iets",
-        "sentence": "Ze ___ AI voor aanvallen.",
-        "answer": "gebruiken"
-      },
-      {
-        "word": "AI",
-        "definition": "kunstmatige intelligentie, zoals een robotbrein",
-        "sentence": "Ze gebruiken ___ voor aanvallen.",
-        "answer": "AI"
+        "word": "hebben",
+        "definition": "iets in bezit of onder beheer hebben",
+        "sentence": "Zij ___ een meningsverschil over een dossier.",
+        "answer": "hebben"
       }
     ],
-    "fillInBlanks": [
-      {
-        "sentence": "Dit is een ___ probleem.",
-        "answer": "groot"
-      },
-      {
-        "sentence": "Ze gebruiken ___ voor aanvallen.",
-        "answer": "AI"
-      },
-      {
-        "sentence": "___ hackers gebruiken AI.",
-        "answer": "Chinese"
-      }
-    ]
+    "fillInBlanks": []
   },
   "multipleChoice": [
     {
-      "question": "Wat gebruiken de hackers?",
+      "question": "Wat is een dossier?",
       "options": [
-        "eten",
-        "drinken",
-        "AI",
-        "auto"
+        "een soort eten",
+        "een verzameling documenten",
+        "een soort auto",
+        "een soort gebouw"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is het tegenovergestelde van veiligheid?",
+      "question": "Wat betekent 'gebruiken'?",
       "options": [
-        "gevaar",
-        "geluk",
-        "vrede",
-        "zon"
+        "iets inzetten voor een doel",
+        "iets verliezen",
+        "iets breken",
+        "iets verbergen"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Is dit een klein probleem?",
+      "question": "Wat is een kenmerk van politici?",
       "options": [
-        "Ja",
-        "Nee",
-        "Soms",
-        "Misschien"
+        "Ze hebben een belangrijke functie.",
+        "Ze koken heel goed.",
+        "Ze zijn altijd alleen.",
+        "Ze hebben nooit documenten."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "De hackers gebruiken AI.",
-      "isTrue": true
-    },
-    {
-      "statement": "Cyberveiligheid is niet belangrijk.",
+      "statement": "Politici werken altijd samen zonder ruzie.",
       "isTrue": false
     },
     {
-      "statement": "Dit is een klein probleem.",
+      "statement": "Een dossier kan gevoelige informatie bevatten.",
+      "isTrue": true
+    },
+    {
+      "statement": "Politici hebben nooit meningsverschillen.",
       "isTrue": false
     }
   ]

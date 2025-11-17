@@ -1,105 +1,105 @@
 {
-  "id": 29,
+  "id": 30,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Lieve Cerstelotte, 88 jaar",
+  "title": "Willy Braspenninckx, 89 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Lieve Cerstelotte, 88 jaar",
-    "summary": "Geboren in 1937, overleden op 12/11/2025."
+    "title": "Willy Braspenninckx, 89 jaar",
+    "summary": "Geboren in 1936, overleden op 09/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "11",
-        "definition": "Het getal elf, hier de maand van overlijden.",
-        "sentence": "De maand van overlijden was ___, de elfde maand.",
-        "answer": "11"
+        "word": "overleden",
+        "definition": "Het einde van het leven; gestorven.",
+        "sentence": "Hij is ___ op hoge leeftijd, omringd door familie.",
+        "answer": "overleden"
       },
       {
-        "word": "12",
-        "definition": "Het getal twaalf, hier de dag van overlijden.",
-        "sentence": "Overleden op de ___e, een dag om te herdenken.",
-        "answer": "12"
+        "word": "geboren",
+        "definition": "Het begin van het leven, het moment van iemands geboorte.",
+        "sentence": "Hij werd ___ in een klein dorp in de jaren dertig.",
+        "answer": "geboren"
       },
       {
-        "word": "1937",
-        "definition": "Het jaar negentienhonderdzevenendertig, hier het geboortejaar.",
-        "sentence": "Geboren in ___, was ze getuige van vele historische gebeurtenissen.",
-        "answer": "1937"
+        "word": "overleden",
+        "definition": "Niet meer levend; gestorven.",
+        "sentence": "Hij is recentelijk ___ na een lang en vol leven.",
+        "answer": "overleden"
       },
       {
-        "word": "2025",
-        "definition": "Het jaar tweeduizend vijfentwintig, hier het jaar van overlijden.",
-        "sentence": "Overleden in ___, markeert het einde van een tijdperk.",
-        "answer": "2025"
+        "word": "Geboren",
+        "definition": "Het moment waarop iemand ter wereld is gekomen.",
+        "sentence": "Zij werd ___ in een tijd van grote veranderingen.",
+        "answer": "Geboren"
       },
       {
-        "word": "Cerstelotte",
-        "definition": "Een familienaam, waarschijnlijk van Nederlandse of Duitse oorsprong.",
-        "sentence": "De familie van ___ heeft een lange geschiedenis in deze regio.",
-        "answer": "Cerstelotte"
+        "word": "Willy",
+        "definition": "Een voornaam, vaak gebruikt als verkorte vorm van Willem.",
+        "sentence": "___ was een veel voorkomende naam in de vorige eeuw.",
+        "answer": "Willy"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Geboren in ___, was ze getuige van vele historische gebeurtenissen.",
-        "answer": "1937"
+        "sentence": "___ was een veel voorkomende naam in de vorige eeuw.",
+        "answer": "Willy"
       },
       {
-        "sentence": "Overleden op de ___e, een dag om te herdenken.",
-        "answer": "12"
+        "sentence": "Hij is ___ op hoge leeftijd, omringd door familie.",
+        "answer": "overleden"
       },
       {
-        "sentence": "De maand van overlijden was ___, de elfde maand.",
-        "answer": "11"
+        "sentence": "Zij werd ___ in een tijd van grote veranderingen.",
+        "answer": "Geboren"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Lieve Cerstelotte geboren?",
+      "question": "Wat symboliseert de naam 'Willy Braspenninckx' in deze context?",
       "options": [
-        "1920",
-        "1937",
+        "Een actuele politicus",
+        "Een personage uit een boek",
+        "Een overleden persoon uit een nieuwsartikel",
+        "Een fictief karakter in een film"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Welk jaar markeert het overlijden van Willy Braspenninckx?",
+      "options": [
+        "1936",
         "1945",
-        "1950"
+        "2025",
+        "2000"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Hoe oud was Lieve Cerstelotte geworden?",
+      "question": "Wat is de betekenis van 'overleden' in deze tekst?",
       "options": [
-        "77 jaar",
-        "88 jaar",
-        "90 jaar",
-        "100 jaar"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Op welke datum is Lieve Cerstelotte overleden?",
-      "options": [
-        "1 januari 2025",
-        "12 november 2025",
-        "31 december 2025",
-        "1 januari 2026"
+        "Geboren worden",
+        "Sterven",
+        "Verhuizen",
+        "Veranderen van naam"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Lieve Cerstelotte werd geboren in 1937 en overleed in 2025.",
+      "statement": "Willy Braspenninckx overleed in het jaar 2025.",
       "isTrue": true
     },
     {
-      "statement": "Lieve Cerstelotte overleed op 12 november 2025, wat betekent dat ze stierf op die specifieke datum.",
+      "statement": "Willy Braspenninckx werd geboren in 1936, wat betekent dat hij 89 jaar werd.",
       "isTrue": true
     },
     {
-      "statement": "Lieve Cerstelotte was 90 jaar oud toen ze overleed.",
+      "statement": "De titel gebruikt de volledige naam 'Willy Braspenninckx' om te verwijzen naar een fictief persoon.",
       "isTrue": false
     }
   ]

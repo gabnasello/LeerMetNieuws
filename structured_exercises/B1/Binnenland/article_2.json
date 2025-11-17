@@ -1,105 +1,105 @@
 {
-  "id": 27,
+  "id": 28,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Lieve Celestine, 88 jaar",
+  "title": "Willy Braspenninckx, 89 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Lieve Celestine, 88 jaar",
-    "summary": "Geboren in 1937, overleden op 12 november 2025."
+    "title": "Willy Braspenninckx, 89 jaar",
+    "summary": "Geboren in 1936, overleden op 09/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "88",
-        "definition": "Het getal tussen 87 en 89",
-        "sentence": "Hij is 88 jaar oud.",
-        "answer": "88"
+        "word": "1936",
+        "definition": "Een jaartal, uit de vorige eeuw.",
+        "sentence": "Hij is geboren in het jaar ___.",
+        "answer": "1936"
       },
       {
-        "word": "op",
-        "definition": "Een voorzetsel dat tijd of plaats aangeeft",
-        "sentence": "We zien elkaar op maandag.",
-        "answer": "op"
+        "word": "jaar",
+        "definition": "Een periode van 365 dagen, of 12 maanden.",
+        "sentence": "Hij is 89 ___ oud.",
+        "answer": "jaar"
       },
       {
-        "word": "12",
-        "definition": "Het getal na 11 en voor 13",
-        "sentence": "Er zijn 12 maanden in een jaar.",
-        "answer": "12"
+        "word": "89",
+        "definition": "Een getal, bijna negentig.",
+        "sentence": "Hij is ___ jaar geworden.",
+        "answer": "89"
       },
       {
-        "word": "Lieve",
-        "definition": "Een manier om iemand liefkozend aan te spreken",
-        "sentence": "Lieve mensen zijn altijd vriendelijk.",
-        "answer": "Lieve"
+        "word": "overleden",
+        "definition": "Niet meer levend, gestorven.",
+        "sentence": "Hij is ___ op 9 november 2025.",
+        "answer": "overleden"
       },
       {
-        "word": "Celestine",
-        "definition": "Een vrouwelijke voornaam, afgeleid van Celestijn",
-        "sentence": "Celestine was een oude dame.",
-        "answer": "Celestine"
+        "word": "2025",
+        "definition": "Een jaartal, in de toekomst.",
+        "sentence": "Hij stierf in het jaar ___.",
+        "answer": "2025"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Lieve mensen zijn altijd vriendelijk.",
-        "answer": "Lieve"
+        "sentence": "Hij stierf in het jaar ___.",
+        "answer": "2025"
       },
       {
-        "sentence": "We zien elkaar op maandag.",
-        "answer": "op"
+        "sentence": "Hij is ___ op 9 november 2025.",
+        "answer": "overleden"
       },
       {
-        "sentence": "Hij is 88 jaar oud.",
-        "answer": "88"
+        "sentence": "Hij is 89 ___ oud.",
+        "answer": "jaar"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent de naam Celestine?",
+      "question": "In welk jaar is Willy geboren?",
       "options": [
-        "Hemels",
-        "Aards",
-        "Mannelijk",
-        "Onbekend"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "In welk jaar is Celestine geboren?",
-      "options": [
-        "1937",
-        "1945",
-        "1950",
-        "1960"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Is Celestine nog in leven?",
-      "options": [
-        "Ja",
-        "Nee",
-        "Soms",
-        "Niet bekend"
+        "1920",
+        "1936",
+        "1940",
+        "1950"
       ],
       "correctAnswer": 2
+    },
+    {
+      "question": "Hoe oud was Willy toen hij stierf?",
+      "options": [
+        "75 jaar",
+        "89 jaar",
+        "90 jaar",
+        "100 jaar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat is de familienaam van Willy?",
+      "options": [
+        "Janssen",
+        "De Vries",
+        "Braspenninckx",
+        "Peters"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Celestine is een mannelijke naam.",
-      "isTrue": false
-    },
-    {
-      "statement": "Celestine is in 2025 overleden.",
+      "statement": "Willy stierf op 9 november 2025.",
       "isTrue": true
     },
     {
-      "statement": "Celestine is geboren in 1937.",
+      "statement": "Willy was 90 jaar oud toen hij stierf.",
+      "isTrue": false
+    },
+    {
+      "statement": "Willy is een mannelijke naam.",
       "isTrue": true
     }
   ]

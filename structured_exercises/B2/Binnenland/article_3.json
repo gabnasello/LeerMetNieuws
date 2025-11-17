@@ -1,74 +1,105 @@
 {
-  "id": 23,
+  "id": 24,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Marguerite Destrooper, 92 jaar",
+  "title": "Waarom is gezond eten zoveel duurder dan kant-en-klaar?",
   "topicNumber": 1,
   "article": {
-    "title": "Marguerite Destrooper, 92 jaar",
-    "summary": "Geboren in 1933, overleden op 20/10/2025."
+    "title": "Waarom is gezond eten zoveel duurder dan kant-en-klaar?",
+    "summary": "Gezonde voeding volgens de Hoge Gezondheidsraad is duurder dan kant-en-klaar maaltijden, wat mensen kan beïnvloeden in hun keuze."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Geboren",
-        "definition": "Geboren zijn betekent dat je op een bepaalde datum ter wereld bent gekomen.",
-        "sentence": "Marguerite Destrooper is ___ in 1933.",
-        "answer": "geboren"
+        "word": "eten",
+        "definition": "voedsel, dat wat je consumeert",
+        "sentence": "Gezond ___ is belangrijk voor je lichaam.",
+        "answer": "eten"
       },
       {
-        "word": "Overleden",
-        "definition": "Overleden zijn betekent dat iemand niet meer leeft.",
-        "sentence": "Ze is ___ op 20 oktober 2025.",
-        "answer": "overleden"
+        "word": "gezond",
+        "definition": "goed voor je lichaam, niet ziek",
+        "sentence": "Een ___ lichaam heeft veel energie.",
+        "answer": "gezond"
+      },
+      {
+        "word": "duurder",
+        "definition": "meer geld kostend",
+        "sentence": "De auto is ___ dan de fiets.",
+        "answer": "duurder"
+      },
+      {
+        "word": "kant-en-klaar",
+        "definition": "voedsel dat al is bereid en alleen nog opgewarmd moet worden",
+        "sentence": "Ik heb geen tijd om te koken, dus eet ik een ___ maaltijd.",
+        "answer": "kant-en-klaar"
+      },
+      {
+        "word": "Hoge",
+        "definition": "groot in hoogte of belangrijk",
+        "sentence": "De ___ Raad geeft belangrijke richtlijnen.",
+        "answer": "Hoge"
       }
     ],
-    "fillInBlanks": []
+    "fillInBlanks": [
+      {
+        "sentence": "De auto is ___ dan de fiets.",
+        "answer": "duurder"
+      },
+      {
+        "sentence": "Een ___ lichaam heeft veel energie.",
+        "answer": "gezond"
+      },
+      {
+        "sentence": "Ik heb geen tijd om te koken, dus eet ik een ___ maaltijd.",
+        "answer": "kant-en-klaar"
+      }
+    ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Marguerite Destrooper geboren?",
+      "question": "Wat is een belangrijk punt uit de tekst?",
       "options": [
-        "1923",
-        "1933",
-        "1943",
-        "1953"
+        "Gezond eten is duurder dan kant-en-klaar maaltijden.",
+        "Iedereen eet graag kant-en-klaar maaltijden.",
+        "De Hoge Gezondheidsraad is een restaurant.",
+        "Gezond eten is altijd goedkoop."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Hoe oud was Marguerite Destrooper toen ze overleed?",
+      "question": "Wat is de rol van de Hoge Gezondheidsraad?",
       "options": [
-        "82 jaar",
-        "90 jaar",
-        "92 jaar",
-        "100 jaar"
+        "Ze adviseren over gezond eten.",
+        "Ze verkopen kant-en-klaar maaltijden.",
+        "Ze maken de regels voor sporten.",
+        "Ze zijn een soort supermarkt."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de betekenis van 'overleden'?",
+      "question": "Wat is een gevolg volgens de tekst?",
       "options": [
-        "Net geboren zijn",
-        "Niet meer leven",
-        "Heel oud zijn",
-        "Verhuisd zijn"
+        "Mensen kiezen vaker voor kant-en-klaar omdat het goedkoper is.",
+        "Gezond eten wordt steeds goedkoper.",
+        "De Hoge Gezondheidsraad verkoopt eten.",
+        "Kant-en-klaar maaltijden zijn altijd gezond."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Marguerite Destrooper overleed op 92-jarige leeftijd.",
+      "statement": "Gezond eten is duurder dan kant-en-klaar maaltijden.",
       "isTrue": true
     },
     {
-      "statement": "Marguerite Destrooper werd geboren in de 18e eeuw.",
+      "statement": "De Hoge Gezondheidsraad verkoopt kant-en-klaar maaltijden.",
       "isTrue": false
     },
     {
-      "statement": "Marguerite Destrooper overleed in het jaar 2025.",
+      "statement": "Mensen kiezen soms voor kant-en-klaar vanwege de prijs.",
       "isTrue": true
     }
   ]

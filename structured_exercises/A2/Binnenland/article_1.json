@@ -1,105 +1,74 @@
 {
-  "id": 16,
+  "id": 17,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Vrouw van 84 overleden",
+  "title": "Lucie Goetinck, 97 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Vrouw van 84 overleden",
-    "summary": "Een vrouw is overleden. Ze is 84 jaar oud geworden. Ze heet Flora Loos."
+    "title": "Lucie Goetinck, 97 jaar",
+    "summary": "Geboren in 1928, overleden op 08/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "vrouw",
-        "definition": "een volwassen persoon van het vrouwelijk geslacht",
-        "sentence": "De ___ was heel oud.",
-        "answer": "vrouw"
+        "word": "geboren",
+        "definition": "Wanneer iemand geboren is, is dat het begin van zijn of haar leven.",
+        "sentence": "Lucie is ___ in 1928.",
+        "answer": "geboren"
       },
       {
         "word": "overleden",
-        "definition": "niet meer leven; dood zijn",
-        "sentence": "Hij is ___ en begraven.",
+        "definition": "Niet meer levend; gestorven.",
+        "sentence": "Helaas is ze ___ op 8 november 2025.",
         "answer": "overleden"
-      },
-      {
-        "word": "geworden",
-        "definition": "geweest; veranderd in iets anders",
-        "sentence": "Hij is vader ___.",
-        "answer": "geworden"
-      },
-      {
-        "word": "jaar",
-        "definition": "een periode van 365 of 366 dagen",
-        "sentence": "Hij is 70 ___ oud.",
-        "answer": "jaar"
-      },
-      {
-        "word": "oud",
-        "definition": "niet jong; veel leeftijd hebbend",
-        "sentence": "Ze is heel ___ maar nog gezond.",
-        "answer": "oud"
       }
     ],
-    "fillInBlanks": [
-      {
-        "sentence": "De ___ was heel oud.",
-        "answer": "vrouw"
-      },
-      {
-        "sentence": "Ze is heel ___ maar nog gezond.",
-        "answer": "oud"
-      },
-      {
-        "sentence": "Hij is 70 ___ oud.",
-        "answer": "jaar"
-      }
-    ]
+    "fillInBlanks": []
   },
   "multipleChoice": [
     {
-      "question": "Wie is Flora Loos?",
+      "question": "In welk jaar werd Lucie Goetinck geboren?",
       "options": [
-        "Een kind",
-        "Een vrouw",
-        "Een man",
-        "Een dier"
+        "1920",
+        "1928",
+        "1930",
+        "1935"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Hoe oud was Flora Loos?",
+      "question": "Hoe oud werd Lucie Goetinck?",
       "options": [
-        "84 jaar",
+        "97 jaar",
         "100 jaar",
-        "50 jaar",
-        "30 jaar"
+        "95 jaar",
+        "102 jaar"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wanneer overleed Flora Loos?",
+      "question": "Wat is de geboortedatum van Lucie Goetinck?",
       "options": [
-        "11 november 2025",
-        "11 november 1941",
-        "11 november 2000",
-        "11 november 2024"
+        "1 januari 1928",
+        "31 december 1928",
+        "De tekst zegt het niet",
+        "1 januari 1920"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Flora Loos is overleden.",
+      "statement": "Lucie Goetinck werd geboren in 1928.",
       "isTrue": true
     },
     {
-      "statement": "Flora Loos was 100 jaar oud.",
+      "statement": "Lucie Goetinck overleed in 2020.",
       "isTrue": false
     },
     {
-      "statement": "Flora Loos stierf in november.",
+      "statement": "Lucie Goetinck leefde tot 2025.",
       "isTrue": true
     }
   ]

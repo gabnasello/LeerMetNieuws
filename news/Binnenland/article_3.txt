@@ -1,15 +1,15 @@
 Artikel 3
-Nieuwsupdate: 2025-11-15 04:27 UCT
+Nieuwsupdate: 2025-11-17 04:31 UCT
 ==================================================
 
 De Standaard - Binnenland Nieuws:
 ==================================================
-Titel: Marguerite Destrooper, 92 jaar
-Link: https://www.standaard.be/binnenland/inmemoriam/marguerite-destrooper-92-jaar/105225046.html
-Datum: Sat, 15 Nov 2025 04:06:43 GMT
-Samenvatting: Geboren in 1933, overleden op 20/10/2025.
+Titel: Waarom is gezond eten zoveel duurder dan kant-en-klaar?
+Link: https://www.standaard.be/binnenland/waarom-is-gezond-eten-zoveel-duurder-dan-kant-en-klaar/92566397.html
+Datum: Sun, 16 Nov 2025 22:59:00 GMT
+Samenvatting: Groenten, fruit, rijst, melk ... Wie het advies van de Hoge Gezondheidsraad wil naleven, zal meer betalen dan wie daar zijn voeten aan veegt en vaker uit een aluminium bakje eet.
 Auteur: Geen auteur
-Categorie: Inmemoriam
-Afbeelding: https://prod-img.standaard.be/public/binnenland/inmemoriam/x6lxq9-article-gate-img-607622-ds-inmemoriam-0/alternates/BASE_SIXTEEN_NINE/article_gate_img_607622-ds-inmemoriam_0
-Premium: false
+Categorie: Binnenland
+Afbeelding: https://prod-img.standaard.be/public/nieuws/aqo3h6--87a0711.jpg/alternates/BASE_SIXTEEN_NINE/_87A0711.jpg
+Premium: true
 ------------------------------------------------------------

@@ -1,75 +1,106 @@
 {
-  "id": 22,
+  "id": 23,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B1",
-  "title": "Marguerite Destrooper, 92 jaar",
+  "title": "Waarom is gezond eten zoveel duurder dan kant-en-klaar?",
   "topicNumber": 1,
   "article": {
-    "title": "Marguerite Destrooper, 92 jaar",
-    "summary": "Geboren in 1933, overleden op 20/10/2025"
+    "title": "Waarom is gezond eten zoveel duurder dan kant-en-klaar?",
+    "summary": "Gezond eten is vaak veel duurder dan kant-en-klaar maaltijden. Dit komt omdat verse groenten en fruit meer kosten dan bewerkt voedsel. Mensen die gezond eten willen kopen, betalen meer dan mensen die vaak fastfood eten."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "het moment dat iemand wordt geboren",
-        "sentence": "Ze werd ___ in 1933.",
-        "answer": "geboren"
+        "word": "duurder",
+        "definition": "meer geld kostend",
+        "sentence": "De nieuwe telefoon is ___ dan de oude.",
+        "answer": "duurder"
       },
       {
-        "word": "overleden",
-        "definition": "niet meer levend, gestorven",
-        "sentence": "Hij is ___ op 20 oktober 2025.",
-        "answer": "overleden"
+        "word": "gezond",
+        "definition": "goed voor je lichaam, niet ziek",
+        "sentence": "Sporten is ___ voor je.",
+        "answer": "gezond"
+      },
+      {
+        "word": "mensen",
+        "definition": "personen, individuen",
+        "sentence": "Sommige ___ houden van harde muziek.",
+        "answer": "mensen"
+      },
+      {
+        "word": "kosten",
+        "definition": "geld dat je moet betalen",
+        "sentence": "Hoeveel ___ een nieuwe fiets?",
+        "answer": "kost"
+      },
+      {
+        "word": "eten",
+        "definition": "voedsel, wat je eet",
+        "sentence": "Ik heb honger, ik wil iets ___.",
+        "answer": "eten"
       }
     ],
-    "fillInBlanks": []
+    "fillInBlanks": [
+      {
+        "sentence": "Hoeveel ___ een nieuwe fiets?",
+        "answer": "kost"
+      },
+      {
+        "sentence": "De nieuwe telefoon is ___ dan de oude.",
+        "answer": "duurder"
+      },
+      {
+        "sentence": "Ik heb honger, ik wil iets ___.",
+        "answer": "eten"
+      }
+    ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Marguerite Destrooper geboren?",
+      "question": "Waarom is gezond eten duurder volgens de tekst?",
       "options": [
-        "1930",
-        "1933",
-        "1940",
-        "1950"
+        "Omdat het minder lekker is",
+        "Omdat het meer kost om verse producten te kopen",
+        "Omdat mensen het niet willen kopen",
+        "Omdat het niet in de winkel ligt"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de overlijdensdatum van Marguerite Destrooper?",
+      "question": "Wat is een voorbeeld van kant-en-klaar eten?",
       "options": [
-        "20 oktober 2025",
-        "20 november 2025",
-        "20 december 2025",
-        "20 januari 2026"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Hoe oud was Marguerite Destrooper op het moment van overlijden?",
-      "options": [
-        "90 jaar",
-        "91 jaar",
-        "92 jaar",
-        "93 jaar"
+        "Een appel",
+        "Een salade van thuis",
+        "Een pizza die je bestelt",
+        "Een broodje van de bakker"
       ],
       "correctAnswer": 3
+    },
+    {
+      "question": "Wat is het tegenovergestelde van 'kant-en-klaar'?",
+      "options": [
+        "Snel klaar",
+        "Zelfgemaakt",
+        "Duur",
+        "Ongezond"
+      ],
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Marguerite Destrooper is geboren in 1933.",
-      "isTrue": true
-    },
-    {
-      "statement": "Marguerite Destrooper is overleden in 2026.",
+      "statement": "Gezond eten is goedkoper dan kant-en-klaar maaltijden.",
       "isTrue": false
     },
     {
-      "statement": "Marguerite Destrooper werd 92 jaar oud.",
+      "statement": "Verse groenten en fruit zijn vaak duurder dan bewerkt voedsel.",
       "isTrue": true
+    },
+    {
+      "statement": "Mensen die gezond eten kopen, betalen minder dan fastfood-eters.",
+      "isTrue": false
     }
   ]
 }

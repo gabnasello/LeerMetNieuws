@@ -1,105 +1,105 @@
 {
-  "id": 7,
+  "id": 8,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”",
+  "title": "Speurtocht naar ‘eerste’ drones in Noorwegen en Denemarken levert vooral vragen op",
   "topicNumber": 1,
   "article": {
-    "title": "Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”",
-    "summary": "Het duizend jaar oude dorp Moerdijk verdwijnt. 1.100 inwoners moeten plaatsmaken voor de energietransitie en de verduurzaming van de haven. “Moet de industrie altijd het laatste woord hebben?”"
+    "title": "Speurtocht naar ‘eerste’ drones in Noorwegen en Denemarken levert vooral vragen op",
+    "summary": "De Denen en Noren sloten als eersten in Europa hun luchthavens wegens drones. Maar bijna twee maanden later is nog niet bevestigd dat er daar effectief vlogen. De Noorse politie staakte haar onderzoek zelfs wegens gebrek aan bewijs. In België worden minstens zeventien incidenten onderzocht."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "heropbouwen",
-        "definition": "opnieuw opbouwen, weer opbouwen",
-        "sentence": "Na de oorlog werd de stad snel ___.",
-        "answer": "heropbouwen"
+        "word": "bewijs",
+        "definition": "materiaal of informatie die iets bevestigt",
+        "sentence": "Zonder ___ kan de politie niets doen.",
+        "answer": "bewijs"
       },
       {
-        "word": "industrie",
-        "definition": "bedrijven die goederen produceren, fabrieken",
-        "sentence": "De zware ___ in dit gebied zorgt voor veel banen.",
-        "answer": "industrie"
+        "word": "incidenten",
+        "definition": "gebeurtenissen of voorvallen, meestal ongelukkig",
+        "sentence": "Er waren verschillende ___ tijdens het festival.",
+        "answer": "incidenten"
       },
       {
-        "word": "plaatsmaken",
-        "definition": "vervangen worden door iets anders, ruimte geven",
-        "sentence": "De oude huizen moeten ___ voor een groot nieuw project.",
-        "answer": "plaatsmaken"
+        "word": "luchthavens",
+        "definition": "plaatsen waar vliegtuigen landen en opstijgen",
+        "sentence": "We wachten in de ___ tot ons vliegtuig vertrekt.",
+        "answer": "luchthavens"
       },
       {
-        "word": "wijk",
-        "definition": "een gedeelte van een stad of dorp",
-        "sentence": "De oude ___ bestaat uit kleine huisjes en smalle straatjes.",
-        "answer": "wijk"
+        "word": "effectief",
+        "definition": "echt, daadwerkelijk",
+        "sentence": "De maatregel was ___ nuttig.",
+        "answer": "effectief"
       },
       {
-        "word": "dorp",
-        "definition": "een plaats waar mensen wonen, kleiner dan een stad",
-        "sentence": "Het kleine ___ heeft een kerk en een school.",
-        "answer": "dorp"
+        "word": "onderzoek",
+        "definition": "het bestuderen of uitzoeken van iets",
+        "sentence": "Het politie- ___ naar de diefstal duurt lang.",
+        "answer": "onderzoek"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De zware ___ in dit gebied zorgt voor veel banen.",
-        "answer": "industrie"
+        "sentence": "Zonder ___ kan de politie niets doen.",
+        "answer": "bewijs"
       },
       {
-        "sentence": "De oude ___ bestaat uit kleine huisjes en smalle straatjes.",
-        "answer": "wijk"
+        "sentence": "We wachten in de ___ tot ons vliegtuig vertrekt.",
+        "answer": "luchthavens"
       },
       {
-        "sentence": "Na de oorlog werd de stad snel ___.",
-        "answer": "heropbouwen"
+        "sentence": "Het politie- ___ naar de diefstal duurt lang.",
+        "answer": "onderzoek"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom moeten de inwoners van Moerdijk verhuizen?",
+      "question": "Waarom sloten Denemarken en Noorwegen hun luchthavens?",
       "options": [
-        "Er is een nieuwe wet",
-        "Er is geen ruimte meer",
-        "Er komt een groot winkelcentrum",
-        "De grond is vervuild"
+        "Vanwege sneeuw",
+        "Vanwege drones",
+        "Vanwege vakantie",
+        "Vanwege een feest"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Wat deed de Noorse politie met het onderzoek?",
+      "options": [
+        "Stopte het",
+        "Startte het",
+        "Vergat het",
+        "Vierde het"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is de rol van de industrie in deze situatie?",
+      "question": "Waar worden incidenten onderzocht?",
       "options": [
-        "Ze bieden nieuwe huizen aan",
-        "Ze geven werk aan iedereen",
-        "Ze hebben het gebied gekozen voor uitbreiding",
-        "Ze helpen met de verhuizing"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Hoe reageerden de inwoners op het nieuws?",
-      "options": [
-        "Ze zijn heel boos",
-        "Ze zijn blij met de vooruitgang",
-        "Ze zijn bezorgd over hun toekomst",
-        "Ze willen niet verhuizen"
+        "In Nederland",
+        "In Luxemburg",
+        "In België",
+        "In Duitsland"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het dorp Moerdijk bestaat al duizend jaar.",
+      "statement": "Noorwegen en Denemarken hadden als eerste last van drones.",
       "isTrue": true
     },
     {
-      "statement": "Alle inwoners weigeren te vertrekken.",
+      "statement": "De Noorse politie stopte het onderzoek omdat het klaar was.",
       "isTrue": false
     },
     {
-      "statement": "De industrie wil het dorp uitbreiden.",
+      "statement": "In België worden minstens zeventien incidenten onderzocht.",
       "isTrue": true
     }
   ]

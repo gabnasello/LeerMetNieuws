@@ -1,105 +1,105 @@
 {
-  "id": 14,
+  "id": 15,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Chinese hackers automatiseren spionage met Amerikaans AI-model Claude",
+  "title": "Epstein-dossier drijft Trump en “gekke” Marjorie Taylor Greene uit elkaar",
   "topicNumber": 1,
   "article": {
-    "title": "Chinese hackers automatiseren spionage met Amerikaans AI-model Claude",
-    "summary": "Chinese hackers worden ervan verdacht Claude te hebben ingezet bij aanvallen op bedrijven en overheden. Door een rollenspel en de ‘salamitechniek’ konden ze het AI-model het vuile werk laten opknappen. “Dit is een keerpunt in cyberveiligheid en AI.”"
+    "title": "Epstein-dossier drijft Trump en “gekke” Marjorie Taylor Greene uit elkaar",
+    "summary": "Complotdenkster Marjorie Taylor Greene was een van Trumps ferventste bondgenoten in het Congres. Nu ze zijn niet nagekomen beloftes tegen hem lijkt te gebruiken, noemt Trump haar een “verraadster”."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "verdacht",
-        "definition": "waarvan men denkt of vermoedt dat het iets verkeerds of onwettigs is",
-        "sentence": "Hij werd ___ van het lekken van gevoelige informatie.",
-        "answer": "verdacht"
+        "word": "ferventste",
+        "definition": "Meest enthousiaste, gepassioneerde",
+        "sentence": "Zij was een van zijn ___ supporters.",
+        "answer": "ferventste"
       },
       {
-        "word": "ingezet",
-        "definition": "gebruikt of toegepast voor een specifiek doel",
-        "sentence": "De technologie werd ___ om de processen te stroomlijnen.",
-        "answer": "ingezet"
+        "word": "gekke",
+        "definition": "Informeel voor iemand die onvoorspelbaar of irrationeel gedrag vertoont",
+        "sentence": "Hij noemde haar een ___ in de media.",
+        "answer": "gekke"
       },
       {
-        "word": "spionage",
-        "definition": "het stiekem verzamelen van informatie, vaak van strategisch belang",
-        "sentence": "Moderne ___ maakt gebruik van geavanceerde technologie.",
-        "answer": "spionage"
+        "word": "bondgenoten",
+        "definition": "Mensen of groepen die samenwerken voor een gemeenschappelijk doel",
+        "sentence": "De twee partijen waren ooit sterke politieke ___.",
+        "answer": "bondgenoten"
       },
       {
-        "word": "keerpunt",
-        "definition": "een moment of punt waarop een significante verandering plaatsvindt",
-        "sentence": "De ontdekking was een ___ in het onderzoek.",
-        "answer": "keerpunt"
+        "word": "bondgenoten",
+        "definition": "Personen of groepen die samenwerken voor een gemeenschappelijk doel, vaak in politieke of militaire context.",
+        "sentence": "Tijdens de verkiezingen waren ze hechte politieke ___.",
+        "answer": "bondgenoten"
       },
       {
-        "word": "model",
-        "definition": "een voorbeeld of blauwdruk dat als basis dient",
-        "sentence": "Het AI-___ is ontworpen om complexe taken te vereenvoudigen.",
-        "answer": "model"
+        "word": "drijft",
+        "definition": "Vormt de oorzaak van, leidt tot",
+        "sentence": "Het conflict ___ hen uit elkaar.",
+        "answer": "drijft"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ontdekking was een ___ in het onderzoek.",
-        "answer": "keerpunt"
+        "sentence": "Tijdens de verkiezingen waren ze hechte politieke ___.",
+        "answer": "bondgenoten"
       },
       {
-        "sentence": "Hij werd ___ van het lekken van gevoelige informatie.",
-        "answer": "verdacht"
+        "sentence": "Het conflict ___ hen uit elkaar.",
+        "answer": "drijft"
       },
       {
-        "sentence": "Moderne ___ maakt gebruik van geavanceerde technologie.",
-        "answer": "spionage"
+        "sentence": "Zij was een van zijn ___ supporters.",
+        "answer": "ferventste"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom wordt Claude specifiek genoemd in de titel?",
+      "question": "Waarom noemt Trump Marjorie Taylor Greene een verraadster?",
       "options": [
-        "Het is een veelgebruikt AI-model",
-        "Het is een prototype voor toekomstige AI",
-        "Het werd gebruikt door Chinese hackers",
-        "Het is een codenaam voor een operatie"
+        "Omdat ze zich tegen hem keert",
+        "Omdat ze een geheim verklapt",
+        "Omdat ze een bondgenoot verraadt",
+        "Omdat ze beloftes niet nakomt"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 4
     },
     {
-      "question": "Wat is de 'salamitechniek' in deze context?",
+      "question": "Wat is de relatie tussen Trump en Greene na het conflict?",
       "options": [
-        "Een kooktechniek",
-        "Een social engineering tactiek",
-        "Een methode om informatie te verbergen",
-        "Een codenaam voor een cyberaanval"
+        "Ze zijn vijanden geworden",
+        "Ze werken weer samen",
+        "Ze hebben geen contact meer",
+        "Ze zijn bondgenoten gebleven"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat maakt deze gebeurtenis tot een keerpunt?",
+      "question": "Wat is de toon van de titel?",
       "options": [
-        "Het is de eerste keer dat AI wordt gebruikt voor spionage",
-        "Het markeert een verandering in hoe AI wordt misbruikt",
-        "Het is de grootste cyberaanval ooit",
-        "Er is geen bijzonderheid, het is routine"
+        "Neutraal en informatief",
+        "Spottend en denigrerend",
+        "Formeel en afstandelijk",
+        "Emotioneel en beschuldigend"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Claude is een AI-model ontwikkeld door Chinese hackers.",
-      "isTrue": false
-    },
-    {
-      "statement": "De 'salamitechniek' verwijst naar een methode om informatie te verbergen in schijnbaar onschuldige communicatie.",
+      "statement": "Marjorie Taylor Greene en Donald Trump zijn nu politieke tegenstanders.",
       "isTrue": true
     },
     {
-      "statement": "Dit incident is het eerste gedocumenteerde geval waarin AI wordt gebruikt voor grootschalige spionage.",
+      "statement": "De titel gebruikt het woord “gekke” als een objectieve beschrijving.",
+      "isTrue": false
+    },
+    {
+      "statement": "Trump noemt Greene een verraadster omdat ze beloften niet heeft nagekomen.",
       "isTrue": true
     }
   ]

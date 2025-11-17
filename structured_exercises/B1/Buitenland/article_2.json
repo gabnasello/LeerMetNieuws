@@ -1,106 +1,106 @@
 {
-  "id": 12,
+  "id": 13,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Chinese hackers gebruiken AI voor spionage",
+  "title": "Epstein-dossier drijft Trump en “gekke” Marjorie Taylor Greene uit elkaar",
   "topicNumber": 1,
   "article": {
-    "title": "Chinese hackers gebruiken AI voor spionage",
-    "summary": "Chinese hackers worden verdacht van het gebruiken van het AI-model Claude voor aanvallen op bedrijven en overheden. Ze gebruikten een rollenspel en de 'salamitechniek' om het AI-model het werk te laten doen. Dit is een keerpunt in cyberveiligheid en AI."
+    "title": "Epstein-dossier drijft Trump en “gekke” Marjorie Taylor Greene uit elkaar",
+    "summary": "Complotdenkster Marjorie Taylor Greene was een van Trumps ferventste bondgenoten in het Congres. Nu ze zijn niet nagekomen beloftes tegen hem lijkt te gebruiken, noemt Trump haar een “verraadster”."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "AI",
-        "definition": "Kunstmatige intelligentie, computers die leren.",
-        "sentence": "Het ___ -model heet Claude.",
-        "answer": "AI"
+        "word": "niet nagekomen",
+        "definition": "Niet gedaan wat beloofd is.",
+        "sentence": "Hij ___ zijn belofte om te helpen.",
+        "answer": "niet nagekomen"
       },
       {
-        "word": "overheden",
-        "definition": "De organisaties die een land of gebied besturen.",
-        "sentence": "Ook overheden werden ___.",
-        "answer": "overheden"
+        "word": "Marjorie",
+        "definition": "Een voornaam, hier van de politicus.",
+        "sentence": "___ Taylor Greene is een Amerikaans congreslid.",
+        "answer": "Marjorie"
       },
       {
-        "word": "Chinese",
-        "definition": "Van of uit China, een land.",
-        "sentence": "De ___ hackers worden verdacht van spionage.",
-        "answer": "Chinese"
+        "word": "gekke",
+        "definition": "Iemand die zich vreemd of onverstandig gedraagt.",
+        "sentence": "Hij noemde haar een ___ in het debat.",
+        "answer": "gekke"
       },
       {
-        "word": "aanvallen",
-        "definition": "Een aanval doen, proberen schade toe te brengen.",
-        "sentence": "Ze voeren ___ uit op bedrijven.",
-        "answer": "aanvallen"
+        "word": "Marjorie",
+        "definition": "Een voornaam, hier van de politicus.",
+        "sentence": "___ Taylor Greene is een Amerikaans congreslid.",
+        "answer": "Marjorie"
       },
       {
-        "word": "cyberveiligheid",
-        "definition": "Beveiliging tegen computercriminaliteit.",
-        "sentence": "Dit is een keerpunt in de ___.",
-        "answer": "cyberveiligheid"
+        "word": "drijft",
+        "definition": "Zorgt dat iets gebeurt of verandert.",
+        "sentence": "De wind ___ de wolken weg.",
+        "answer": "drijft"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het ___ -model heet Claude.",
-        "answer": "AI"
+        "sentence": "De wind ___ de wolken weg.",
+        "answer": "drijft"
       },
       {
-        "sentence": "De ___ hackers worden verdacht van spionage.",
-        "answer": "Chinese"
+        "sentence": "___ Taylor Greene is een Amerikaans congreslid.",
+        "answer": "Marjorie"
       },
       {
-        "sentence": "Ook overheden werden ___.",
-        "answer": "overheden"
+        "sentence": "___ Taylor Greene is een Amerikaans congreslid.",
+        "answer": "Marjorie"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waar wordt het AI-model Claude voor gebruikt?",
+      "question": "Waarom noemt Trump Marjorie Taylor Greene een “verraadster”?",
       "options": [
-        "Voor het maken van muziek",
-        "Voor het aanvallen van bedrijven",
-        "Voor het koken van eten",
-        "Voor het besturen van auto's"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een 'salamitechniek'?",
-      "options": [
-        "Een kooktechniek",
-        "Een sportbeweging",
-        "Een hackmethode",
-        "Een soort salade"
+        "Omdat ze hem hielp",
+        "Omdat ze een geheim vertelde",
+        "Omdat ze haar beloften niet nakwam",
+        "Omdat ze een feest organiseerde"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is een gevolg van deze gebeurtenissen?",
+      "question": "Wat is de rol van Marjorie Taylor Greene in deze situatie?",
       "options": [
-        "Er is niets gebeurd",
-        "Er is meer cyberveiligheid nodig",
-        "Er is minder computergebruik",
-        "Er is meer muziek gemaakt"
+        "Ze is een leider",
+        "Ze is een bondgenoot geworden",
+        "Ze is een tegenstander",
+        "Ze is een verraadster"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 4
+    },
+    {
+      "question": "Wat betekent het als beloftes niet nagekomen worden?",
+      "options": [
+        "Het is goed",
+        "Het is neutraal",
+        "Het is slecht",
+        "Het is onbekend"
+      ],
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Chinese hackers hebben het AI-model Claude gebruikt om bedrijven aan te vallen.",
-      "isTrue": true
-    },
-    {
-      "statement": "De 'salamitechniek' is een nieuwe dans.",
+      "statement": "Marjorie Taylor Greene en Donald Trump werken nu samen.",
       "isTrue": false
     },
     {
-      "statement": "Dit is een keerpunt voor cyberveiligheid.",
+      "statement": "Marjorie Taylor Greene is een politicus uit de Verenigde Staten.",
       "isTrue": true
+    },
+    {
+      "statement": "De titel van dit artikel is in het Engels.",
+      "isTrue": false
     }
   ]
 }

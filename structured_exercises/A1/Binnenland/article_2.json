@@ -1,58 +1,58 @@
 {
-  "id": 25,
+  "id": 26,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Lieve Cerstelotte, 88 jaar",
+  "title": "Willy Braspenninckx, 89 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Lieve Cerstelotte, 88 jaar",
-    "summary": "Geboren in 1937, overleden op 12/11/2025."
+    "title": "Willy Braspenninckx, 89 jaar",
+    "summary": "Hij is geboren in 1936. Hij is overleden op 09/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "88",
-        "definition": "een getal, hier de leeftijd",
-        "sentence": "Hij is ___ jaar oud.",
-        "answer": "88"
-      },
-      {
         "word": "overleden",
-        "definition": "niet meer leven, dood zijn",
-        "sentence": "Hij is ___ op 1 januari.",
+        "definition": "niet meer levend, gestorven",
+        "sentence": "Zij is ___ in 2020.",
         "answer": "overleden"
       },
       {
         "word": "op",
-        "definition": "een voorzetsel, hier gebruikt met een datum",
-        "sentence": "We zien elkaar ___ maandag.",
+        "definition": "een voorzetsel dat vaak een plaats of tijd aangeeft",
+        "sentence": "We komen ___ 5 uur aan.",
         "answer": "op"
       },
       {
-        "word": "Lieve",
-        "definition": "een liefdevol woord, vaak gebruikt in brieven of om iemand aan te spreken",
-        "sentence": "___ is een liefdevol woord.",
-        "answer": "Lieve"
+        "word": "in",
+        "definition": "een voorzetsel dat plaats of tijd aangeeft",
+        "sentence": "Hij woont ___ Amsterdam.",
+        "answer": "in"
       },
       {
-        "word": "jaar",
-        "definition": "een tijdseenheid, 12 maanden",
-        "sentence": "Een ___ heeft 365 dagen.",
-        "answer": "jaar"
+        "word": "2025",
+        "definition": "een jaartal",
+        "sentence": "Het jaar ___ is nog niet begonnen.",
+        "answer": "2025"
+      },
+      {
+        "word": "is",
+        "definition": "zijn (van het werkwoord 'zijn')",
+        "sentence": "Hij ___ een man.",
+        "answer": "is"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij is ___ jaar oud.",
-        "answer": "88"
-      },
-      {
-        "sentence": "Hij is ___ op 1 januari.",
+        "sentence": "Zij is ___ in 2020.",
         "answer": "overleden"
       },
       {
-        "sentence": "We zien elkaar ___ maandag.",
+        "sentence": "Het jaar ___ is nog niet begonnen.",
+        "answer": "2025"
+      },
+      {
+        "sentence": "We komen ___ 5 uur aan.",
         "answer": "op"
       }
     ]
@@ -61,46 +61,46 @@
     {
       "question": "Wat betekent 'overleden'?",
       "options": [
-        "geboren zijn",
-        "getrouwd zijn",
-        "overleden zijn",
-        "werken"
+        "gestorven",
+        "geweest",
+        "geweest",
+        "gegaan"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is '88'?",
+      "question": "Waar gaat de tekst over?",
       "options": [
-        "een naam",
-        "een getal",
-        "een plaats",
-        "een kleur"
+        "Een persoon die overleden is",
+        "Een nieuwe auto",
+        "Een feest",
+        "Een reis"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is 'op' in deze context?",
+      "question": "Wanneer is Willy geboren?",
       "options": [
-        "een voorzetsel",
-        "een werkwoord",
-        "een naamwoord",
-        "een bijwoord"
+        "In 1936",
+        "In 2025",
+        "In 1980",
+        "In 2000"
       ],
       "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Cerstelotte is een plaats.",
+      "statement": "Willy is een vrouw.",
       "isTrue": false
     },
     {
-      "statement": "12/11/2025 is de overlijdensdatum.",
+      "statement": "Willy is overleden.",
       "isTrue": true
     },
     {
-      "statement": "Lieve is een familielid.",
-      "isTrue": true
+      "statement": "Willy is geboren in 2025.",
+      "isTrue": false
     }
   ]
 }

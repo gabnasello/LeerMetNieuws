@@ -1,106 +1,106 @@
 {
-  "id": 11,
+  "id": 12,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Chinese hackers gebruiken AI voor spionage",
+  "title": "Epstein-dossier drijft Trump en “gekke” Marjorie Taylor Greene uit elkaar",
   "topicNumber": 1,
   "article": {
-    "title": "Chinese hackers gebruiken AI voor spionage",
-    "summary": "Chinese hackers gebruiken het AI-systeem Claude om bedrijven en overheden aan te vallen. Ze laten de AI het gevaarlijke werk doen. Experts zeggen: dit is een groot probleem voor cyberveiligheid."
+    "title": "Epstein-dossier drijft Trump en “gekke” Marjorie Taylor Greene uit elkaar",
+    "summary": "Complotdenkster Marjorie Taylor Greene was een van Trumps ferventste bondgenoten in het Congres. Nu ze zijn niet nagekomen beloftes tegen hem lijkt te gebruiken, noemt Trump haar een “verraadster”."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "veiligheid",
-        "definition": "veilig zijn, niet in gevaar zijn",
-        "sentence": "___ is belangrijk in het verkeer.",
-        "answer": "veiligheid"
+        "word": "drijft",
+        "definition": "doet dat iets of iemand beweegt of scheidt",
+        "sentence": "Een beslissing kan een persoon ___ om iets te doen.",
+        "answer": "drijft"
       },
       {
-        "word": "experts",
-        "definition": "mensen die veel weten over een onderwerp",
-        "sentence": "De ___ weten veel over computers.",
-        "answer": "experts"
+        "word": "niet",
+        "definition": "ontkenning; het tegenovergestelde van wel",
+        "sentence": "Ze kon haar beloften ___ houden.",
+        "answer": "niet"
       },
       {
-        "word": "experts",
-        "definition": "mensen die veel weten over een onderwerp",
-        "sentence": "De ___ geven advies over gezondheid.",
-        "answer": "experts"
+        "word": "gebruiken",
+        "definition": "iets op een bepaalde manier inzetten",
+        "sentence": "Hij wil zijn invloed ___ om steun te krijgen.",
+        "answer": "gebruiken"
       },
       {
-        "word": "probleem",
-        "definition": "iets dat niet goed gaat of moeilijk is",
-        "sentence": "Hij heeft een ___ met zijn auto.",
-        "answer": "probleem"
+        "word": "gekke",
+        "definition": "iemand die niet normaal denkt of doet",
+        "sentence": "Hij noemde haar een ___ in zijn toespraak.",
+        "answer": "gekke"
       },
       {
-        "word": "experts",
-        "definition": "mensen die veel weten over een onderwerp",
-        "sentence": "We vragen advies aan de ___.",
-        "answer": "experts"
+        "word": "nagekomen",
+        "definition": "gevolgd, gedaan wat beloofd is",
+        "sentence": "Hij heeft zijn beloften ___.",
+        "answer": "nagekomen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is belangrijk in het verkeer.",
-        "answer": "veiligheid"
+        "sentence": "Ze kon haar beloften ___ houden.",
+        "answer": "niet"
       },
       {
-        "sentence": "De ___ weten veel over computers.",
-        "answer": "experts"
+        "sentence": "Een beslissing kan een persoon ___ om iets te doen.",
+        "answer": "drijft"
       },
       {
-        "sentence": "De ___ geven advies over gezondheid.",
-        "answer": "experts"
+        "sentence": "Hij heeft zijn beloften ___.",
+        "answer": "nagekomen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat gebruiken de hackers?",
+      "question": "Wat betekent het als Trump iemand een “verraadster” noemt?",
       "options": [
-        "Een computer",
-        "Een auto",
-        "Een fiets",
-        "Een AI-systeem"
+        "Hij vindt die persoon heel leuk",
+        "Hij vertrouwt die persoon niet meer",
+        "Hij wil die persoon helpen",
+        "Hij geeft die persoon een prijs"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is het gevolg van deze aanvallen?",
+      "question": "Waarom noemde Trump Marjorie Taylor Greene een “verraadster”?",
       "options": [
-        "Het is leuk voor de hackers",
-        "Er is geen gevolg",
-        "Er is een groot probleem voor de cyberveiligheid",
-        "De hackers worden beroemd"
+        "Omdat ze hem hielp",
+        "Omdat ze zijn beloften niet nakwam",
+        "Omdat ze veel geld gaf",
+        "Omdat ze zijn vriend was"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
-      "question": "Wat doen de experts?",
+      "question": "Wat was het gevolg van Greene’s handelen voor haar relatie met Trump?",
       "options": [
-        "Ze praten alleen",
-        "Ze spelen een spel",
-        "Ze geven advies en helpen bij het oplossen van problemen",
-        "Ze gaan op vakantie"
+        "Ze werden vrienden",
+        "Ze gingen samenwerken",
+        "Hij keerde zich tegen haar",
+        "Hij gaf haar een prijs"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De hackers gebruiken een auto voor de aanvallen.",
-      "isTrue": false
-    },
-    {
-      "statement": "De experts zeggen dat dit een groot probleem is.",
+      "statement": "Marjorie Taylor Greene en Donald Trump zijn nu vijanden.",
       "isTrue": true
     },
     {
-      "statement": "Cyberveiligheid is niet belangrijk voor de hackers.",
+      "statement": "Trump noemde Greene een “verraadster” omdat ze hem hielp.",
       "isTrue": false
+    },
+    {
+      "statement": "Greene kon haar beloften niet nakomen, en dat maakte Trump boos.",
+      "isTrue": true
     }
   ]
 }

@@ -1,94 +1,106 @@
 {
-  "id": 20,
+  "id": 21,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Marguerite Destrooper, 92 jaar",
+  "title": "Waarom is gezond eten zoveel duurder dan kant-en-klaar?",
   "topicNumber": 1,
   "article": {
-    "title": "Marguerite Destrooper, 92 jaar",
-    "summary": "Geboren in 1933, overleden op 20/10/2025."
+    "title": "Waarom is gezond eten zoveel duurder dan kant-en-klaar?",
+    "summary": "Gezond eten is duurder dan kant-en-klaar maaltijden. Wie gezond eet, betaalt meer dan wie dat niet doet."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "geboren worden betekent: beginnen te leven",
-        "sentence": "Zij werd ___ in 1933.",
-        "answer": "geboren"
+        "word": "eten",
+        "definition": "iets wat je kunt opeten, zoals brood of fruit",
+        "sentence": "Ik eet gezond ___ met groenten en fruit.",
+        "answer": "eten"
       },
       {
-        "word": "overleden",
-        "definition": "overleden zijn betekent: niet meer leven",
-        "sentence": "Hij is ___ op 20 oktober.",
-        "answer": "overleden"
+        "word": "gezond",
+        "definition": "goed voor je lichaam, niet ziek",
+        "sentence": "Sporten is goed om ___ te blijven.",
+        "answer": "gezond"
       },
       {
-        "word": "jaar",
-        "definition": "een jaar is 365 dagen",
-        "sentence": "Zij is 92 ___ oud.",
-        "answer": "jaar"
+        "word": "duur",
+        "definition": "kost veel geld, niet goedkoop",
+        "sentence": "Die auto is erg ___ en niet voor iedereen betaalbaar.",
+        "answer": "duur"
+      },
+      {
+        "word": "maaltijd",
+        "definition": "het eten dat je op een moment eet, zoals ontbijt of diner",
+        "sentence": "De warme ___ bestond uit soep en een hoofdgerecht.",
+        "answer": "maaltijd"
+      },
+      {
+        "word": "eten",
+        "definition": "iets wat je kunt opeten, zoals brood of fruit",
+        "sentence": "Ik eet gezond ___ met groenten en fruit.",
+        "answer": "eten"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Zij werd ___ in 1933.",
-        "answer": "geboren"
+        "sentence": "Sporten is goed om ___ te blijven.",
+        "answer": "gezond"
       },
       {
-        "sentence": "Zij is 92 ___ oud.",
-        "answer": "jaar"
+        "sentence": "Ik eet gezond ___ met groenten en fruit.",
+        "answer": "eten"
       },
       {
-        "sentence": "Hij is ___ op 20 oktober.",
-        "answer": "overleden"
+        "sentence": "De warme ___ bestond uit soep en een hoofdgerecht.",
+        "answer": "maaltijd"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent 'geboren worden'?",
+      "question": "Wat betekent 'gezond' in deze context?",
       "options": [
-        "beginnen te leven",
-        "eindigen met leven",
-        "werken in een ziekenhuis",
-        "een feest vieren"
+        "snel",
+        "sterk",
+        "goed voor het lichaam",
+        "oud"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "Hoe oud was Marguerite Destrooper?",
+      "question": "Waarom is gezond eten duurder?",
       "options": [
-        "92 jaar",
-        "100 jaar",
-        "85 jaar",
-        "78 jaar"
+        "Omdat het populair is",
+        "Omdat het moeilijk te maken is",
+        "Omdat het veel grondstoffen vereist",
+        "Omdat het zwaar is"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
-      "question": "In welk jaar werd Marguerite geboren?",
+      "question": "Wat is een 'maaltijd'?",
       "options": [
-        "1933",
-        "1920",
-        "1945",
-        "1950"
+        "Een soort sport",
+        "Een moment van eten",
+        "Een type boek",
+        "Een soort dier"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Marguerite Destrooper is overleden.",
+      "statement": "Gezond eten kost meer geld dan fastfood.",
       "isTrue": true
     },
     {
-      "statement": "Marguerite Destrooper is 100 jaar oud.",
+      "statement": "Gezond eten is makkelijk te koken.",
       "isTrue": false
     },
     {
-      "statement": "Marguerite Destrooper is geboren in 1933.",
-      "isTrue": true
+      "statement": "Iedereen kan gezond eten betalen.",
+      "isTrue": false
     }
   ]
 }

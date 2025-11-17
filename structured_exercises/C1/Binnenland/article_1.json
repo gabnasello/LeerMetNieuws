@@ -1,105 +1,105 @@
 {
-  "id": 19,
+  "id": 20,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Flora Loos, 84 jaar",
+  "title": "Lucie Goetinck, 97 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Flora Loos, 84 jaar",
-    "summary": "Geboren in 1941, overleden op 11/11/2025."
+    "title": "Lucie Goetinck, 97 jaar",
+    "summary": "Geboren in 1928, overleden op 08/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "Geboren worden; het begin van het leven.",
-        "sentence": "Ze werd ___ in een klein dorp.",
-        "answer": "geboren"
-      },
-      {
-        "word": "84",
-        "definition": "Het getal vierentachtig; tussen tachtig en negentig.",
-        "sentence": "Ze werd ___ jaar oud, wat respectabel is.",
-        "answer": "84"
-      },
-      {
-        "word": "2025",
-        "definition": "Het jaar tweeduizend vijfentwintig.",
-        "sentence": "Zij stierf in ___, na een lang leven.",
-        "answer": "2025"
-      },
-      {
-        "word": "Flora",
-        "definition": "Een vrouwelijke voornaam; ook een term voor plantengroei.",
-        "sentence": "___ was een veelvoorkomende naam in de jaren 40.",
-        "answer": "Flora"
+        "word": "Lucie",
+        "definition": "Voornaam van de overledene, afgeleid van Lucia.",
+        "sentence": "___ Goetinck werd 97 jaar oud.",
+        "answer": "Lucie"
       },
       {
         "word": "overleden",
-        "definition": "Overleden zijn; niet meer in leven zijn.",
-        "sentence": "Helaas is zij nu ___, maar haar erfenis leeft voort.",
+        "definition": "Overleden zijn, niet meer in leven zijn.",
+        "sentence": "Ze is ___ op 08/11/2025.",
         "answer": "overleden"
+      },
+      {
+        "word": "geboren",
+        "definition": "Geboren zijn, het begin van het leven.",
+        "sentence": "Ze werd ___ in 1928.",
+        "answer": "geboren"
+      },
+      {
+        "word": "2025",
+        "definition": "Het jaartal waarin ze overleed.",
+        "sentence": "Ze overleed in ___.",
+        "answer": "2025"
+      },
+      {
+        "word": "jaar",
+        "definition": "Eenheid van tijd, gelijk aan 12 maanden.",
+        "sentence": "Ze leefde 97 ___.",
+        "answer": "jaar"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze werd ___ in een klein dorp.",
-        "answer": "geboren"
+        "sentence": "___ Goetinck werd 97 jaar oud.",
+        "answer": "Lucie"
       },
       {
-        "sentence": "Helaas is zij nu ___, maar haar erfenis leeft voort.",
+        "sentence": "Ze leefde 97 ___.",
+        "answer": "jaar"
+      },
+      {
+        "sentence": "Ze is ___ op 08/11/2025.",
         "answer": "overleden"
-      },
-      {
-        "sentence": "___ was een veelvoorkomende naam in de jaren 40.",
-        "answer": "Flora"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Flora Loos geboren?",
+      "question": "Wat betekent het als iemand is overleden?",
       "options": [
-        "1939",
-        "1940",
-        "1941",
-        "1942"
+        "Die persoon is net geboren",
+        "Die persoon is verhuisd naar een andere stad",
+        "Die persoon is niet meer in leven",
+        "Die persoon is op vakantie gegaan"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "Wat is de betekenis van de achternaam 'Loos'?",
+      "question": "In welk jaar is Lucie Goetinck geboren?",
       "options": [
-        "Vast",
-        "Streng",
-        "Los",
-        "Geheim"
+        "1928",
+        "1945",
+        "1930",
+        "2025"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Hoe oud was Flora Loos geworden?",
+      "question": "Welke van deze is een jaartal?",
       "options": [
-        "83 jaar",
-        "84 jaar",
-        "85 jaar",
-        "86 jaar"
+        "Lucie",
+        "97",
+        "2025",
+        "overleden"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Flora Loos overleed in 2025.",
+      "statement": "Lucie Goetinck werd 97 jaar oud.",
       "isTrue": true
     },
     {
-      "statement": "Flora Loos was 85 jaar oud bij haar overlijden.",
+      "statement": "Lucie Goetinck is geboren in 2025.",
       "isTrue": false
     },
     {
-      "statement": "Flora Loos werd geboren tijdens de Tweede Wereldoorlog.",
+      "statement": "De overlijdensdatum was 08/11/2025.",
       "isTrue": true
     }
   ]

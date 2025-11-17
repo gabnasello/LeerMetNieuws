@@ -1,106 +1,106 @@
 {
-  "id": 13,
+  "id": 14,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Chinese hackers gebruiken AI voor spionage",
+  "title": "Epstein-dossier drijft Trump en “gekke” Marjorie Taylor Greene uit elkaar",
   "topicNumber": 1,
   "article": {
-    "title": "Chinese hackers gebruiken AI voor spionage",
-    "summary": "Chinese hackers zijn ervan verdacht het AI-model Claude te gebruiken om bedrijven en overheden aan te vallen. Ze gebruikten een rollenspel en de 'salamitechniek' om het AI-model het werk te laten doen. Dit is een belangrijk moment voor cyberveiligheid en AI."
+    "title": "Epstein-dossier drijft Trump en “gekke” Marjorie Taylor Greene uit elkaar",
+    "summary": "Complotdenkster Marjorie Taylor Greene was een van Trumps ferventste bondgenoten in het Congress. Nu ze zijn niet nagekomen beloftes tegen hem lijkt te gebruiken, noemt Trump haar een “verraadster”."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Chinese",
-        "definition": "betreft China of zijn inwoners",
-        "sentence": "___ hackers worden verdacht van spionage.",
-        "answer": "Chinese"
+        "word": "bondgenoten",
+        "definition": "Mensen die samenwerken voor een doel",
+        "sentence": "Tijdens de oorlog hadden ze veel internationale ___.",
+        "answer": "bondgenoten"
       },
       {
-        "word": "gebruiken",
-        "definition": "iets inzetten of toepassen voor een doel",
-        "sentence": "Ze ___ een speciale techniek om het systeem te misleiden.",
-        "answer": "gebruiken"
+        "word": "congres",
+        "definition": "Een grote, formele vergadering",
+        "sentence": "Het ___ duurde langer dan verwacht.",
+        "answer": "congres"
       },
       {
-        "word": "AI",
-        "definition": "kunstmatige intelligentie, computers die zelfstandig kunnen leren",
-        "sentence": "Het ___ -model heet Claude.",
-        "answer": "AI"
+        "word": "niet nagekomen",
+        "definition": "Niet gedaan wat beloofd is",
+        "sentence": "Hij bleek ___ beloften te hebben.",
+        "answer": "niet nagekomen"
       },
       {
-        "word": "model",
-        "definition": "een voorbeeld of versie van iets, vaak software",
-        "sentence": "Het AI-___ heet Claude en is geavanceerd.",
-        "answer": "model"
+        "word": "gekke",
+        "definition": "Iemand die niet goed bij zinnen is",
+        "sentence": "Hij gedraagt zich als een echte ___.",
+        "answer": "gekke"
       },
       {
-        "word": "techniek",
-        "definition": "een methode of manier om iets te doen, vaak technisch van aard",
-        "sentence": "De 'salamit___' is een slimme aanpak.",
-        "answer": "techniek"
+        "word": "drijft",
+        "definition": "Zet aan het werk of in beweging",
+        "sentence": "De motor ___ de machine aan.",
+        "answer": "drijft"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze ___ een speciale techniek om het systeem te misleiden.",
-        "answer": "gebruiken"
+        "sentence": "De motor ___ de machine aan.",
+        "answer": "drijft"
       },
       {
-        "sentence": "De 'salamit___' is een slimme aanpak.",
-        "answer": "techniek"
+        "sentence": "Tijdens de oorlog hadden ze veel internationale ___.",
+        "answer": "bondgenoten"
       },
       {
-        "sentence": "Het ___ -model heet Claude.",
-        "answer": "AI"
+        "sentence": "Hij bleek ___ beloften te hebben.",
+        "answer": "niet nagekomen"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat is de 'salamitechniek' in deze context?",
+      "question": "Waarom noemde Trump Marjorie Taylor Greene een “verraadster”?",
       "options": [
-        "Een kooktechniek",
-        "Een veiligheidsprotocol",
-        "Een type encryptie",
-        "Een hackingmethode"
+        "Omdat ze een spion was",
+        "Omdat ze haar beloften niet nakwam",
+        "Omdat ze een andere politieke partij steunde",
+        "Omdat ze informatie lekte"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     },
     {
-      "question": "Waarom is deze gebeurtenis een keerpunt?",
+      "question": "Wat was de rol van Marjorie Taylor Greene in het Congress voor de ruzie?",
       "options": [
-        "Omdat het de eerste AI-aanval is",
-        "Omdat het de snelste computer betreft",
-        "Omdat het de sterkste encryptie breekt",
-        "Omdat het aantoont hoe AI misbruikt kan worden"
+        "Ze was de president",
+        "Ze was een bondgenoot van Trump",
+        "Ze was een spion",
+        "Ze was de leider van de oppositie"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     },
     {
-      "question": "Wat is een 'rollenspel' in cybersecurity?",
+      "question": "Hoe reageerde Trump op het gedrag van Marjorie Taylor Greene?",
       "options": [
-        "Een online game met vrienden",
-        "Een trainingsoefening voor teams",
-        "Een tactiek om systemen te testen",
-        "Een methode om gebruikers te misleiden"
+        "Hij prees haar",
+        "Hij negeerde haar",
+        "Hij noemde haar een “verraadster”",
+        "Hij gaf haar een medaille"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De hackers gebruikten Claude om directe aanvallen uit te voeren zonder sporen na te laten.",
-      "isTrue": false
-    },
-    {
-      "statement": "De 'salamitechniek' verwijst naar een manier om informatie in kleine stukjes te verdelen.",
+      "statement": "Marjorie Taylor Greene was een bondgenoot van Trump in het Congress.",
       "isTrue": true
     },
     {
-      "statement": "Dit incident heeft geen invloed op de ontwikkelingen in de beveiliging van AI-systemen.",
+      "statement": "Trump noemde Greene een “verraadster” omdat ze informatie lekte.",
       "isTrue": false
+    },
+    {
+      "statement": "Greene en Trump werden uit elkaar gedreven door het Epstein-dossier.",
+      "isTrue": true
     }
   ]
 }

@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Waarom kritiek op de Emiraten uitblijft",
+  "title": "Trump vraagt om stemmen",
   "topicNumber": 1,
   "article": {
-    "title": "Waarom kritiek op de Emiraten uitblijft",
-    "summary": "De Emiraten investeren in westerse wapenfabrieken. Daarom zijn westerse landen stil over kritiek op de Emiraten."
+    "title": "Trump vraagt om stemmen",
+    "summary": "Donald Trump wil dat mensen stemmen in Amerika. De wereld kijkt mee. Hier lees je het laatste nieuws."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "landen",
-        "definition": "andere woorden voor staten, zoals Nederland of België",
-        "sentence": "De ___ in Europa werken vaak samen.",
-        "answer": "landen"
+        "word": "Trump",
+        "definition": "een persoon, de naam van een man",
+        "sentence": "___ is een man uit Amerika.",
+        "answer": "Trump"
       },
       {
-        "word": "stil",
-        "definition": "geen geluid makend, niet praten",
-        "sentence": "De klas is ___ als de leraar binnenkomt.",
-        "answer": "stil"
+        "word": "Amerika",
+        "definition": "een land, de Verenigde Staten",
+        "sentence": "Hij komt uit ___.",
+        "answer": "Amerika"
       },
       {
-        "word": "kritiek",
-        "definition": "dat wat je ervan vindt, een mening over iets",
-        "sentence": "De minister gaf geen ___ op de vraag.",
-        "answer": "kritiek"
+        "word": "nieuws",
+        "definition": "informatie, wat er gebeurt",
+        "sentence": "Het ___ is vandaag belangrijk.",
+        "answer": "nieuws"
       },
       {
-        "word": "Emiraten",
-        "definition": "een land in het Midden-Oosten",
-        "sentence": "De ___ zijn rijk door olie.",
-        "answer": "Emiraten"
+        "word": "vraagt",
+        "definition": "vragen, iets willen weten",
+        "sentence": "Hij ___ om hulp.",
+        "answer": "vraagt"
       },
       {
-        "word": "westers",
-        "definition": "van of uit Europa en Amerika",
-        "sentence": "De ___ landen zijn vaak rijk.",
-        "answer": "westers"
+        "word": "mensen",
+        "definition": "meerdere personen, groep personen",
+        "sentence": "De ___ werken samen.",
+        "answer": "mensen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De klas is ___ als de leraar binnenkomt.",
-        "answer": "stil"
+        "sentence": "De ___ werken samen.",
+        "answer": "mensen"
       },
       {
-        "sentence": "De minister gaf geen ___ op de vraag.",
-        "answer": "kritiek"
+        "sentence": "___ is een man uit Amerika.",
+        "answer": "Trump"
       },
       {
-        "sentence": "De ___ landen zijn vaak rijk.",
-        "answer": "westers"
+        "sentence": "Hij komt uit ___.",
+        "answer": "Amerika"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat investeren de Emiraten in?",
+      "question": "Waar komt Donald Trump vandaan?",
       "options": [
-        "auto's",
-        "wapens",
-        "huizen",
-        "fabrieken"
+        "Nederland",
+        "Duitsland",
+        "Amerika",
+        "Frankrijk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat betekent 'stemmen'?",
+      "options": [
+        "rennen",
+        "kiesten",
+        "lezen",
+        "werken"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Waarom zijn westerse landen stil over de Emiraten?",
+      "question": "Wat is 'nieuws'?",
       "options": [
-        "Ze zijn verlegen",
-        "Ze zijn bang",
-        "Ze hebben er geen mening over",
-        "Ze profiteren ervan"
-      ],
-      "correctAnswer": 4
-    },
-    {
-      "question": "Wat is een voorbeeld van iets 'westers'?",
-      "options": [
-        "Een oude tempel in Azië",
-        "Een moderne flat in Dubai",
-        "Een auto uit Duitsland",
-        "Een traditioneel gerecht uit India"
+        "een soort eten",
+        "een soort sport",
+        "informatie over wat er gebeurt",
+        "een soort dier"
       ],
       "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Emiraten investeren in Europese fabrieken.",
+      "statement": "Trump komt uit Amerika.",
       "isTrue": true
     },
     {
-      "statement": "Westerse landen praten veel over de Emiraten.",
+      "statement": "Stemmen betekent dansen.",
       "isTrue": false
     },
     {
-      "statement": "De Emiraten zijn een land in Azië.",
+      "statement": "Nieuws gaat over wat er gebeurt in de wereld.",
       "isTrue": true
     }
   ]

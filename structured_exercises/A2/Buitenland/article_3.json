@@ -1,105 +1,105 @@
 {
-  "id": 6,
+  "id": 7,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Nederlands dorp Moerdijk moet wijken",
+  "title": "Drones in Noorwegen en Denemarken",
   "topicNumber": 1,
   "article": {
-    "title": "Nederlands dorp Moerdijk moet wijken",
-    "summary": "Het dorp Moerdijk moet verdwijnen. De inwoners moeten verhuizen. Dit komt door de energietransitie en de haven."
+    "title": "Drones in Noorwegen en Denemarken",
+    "summary": "In Noorwegen en Denemarken zagen mensen drones, maar het is niet zeker. De politie in Noorwegen stopte het onderzoek omdat er geen bewijs was. In België wordt er ook naar drones gezocht."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "energietransitie",
-        "definition": "de overstap naar schone energie, zoals wind- of zonne-energie",
-        "sentence": "Nederland werkt hard aan de ___.",
-        "answer": "energietransitie"
+        "word": "onderzoek",
+        "definition": "proberen iets te weten te komen",
+        "sentence": "De politie doet ___ naar de drones.",
+        "answer": "onderzoek"
       },
       {
-        "word": "verhuizen",
-        "definition": "naar een andere plaats gaan wonen",
-        "sentence": "We moeten ___ naar een nieuwe woning.",
-        "answer": "verhuizen"
+        "word": "drones",
+        "definition": "kleine vliegende machines zonder piloot",
+        "sentence": "Sommige mensen zien ___ in de lucht.",
+        "answer": "drones"
       },
       {
-        "word": "inwoners",
-        "definition": "mensen die in een plaats wonen",
-        "sentence": "De ___ van het dorp zijn erg vriendelijk.",
-        "answer": "inwoners"
+        "word": "Denemarken",
+        "definition": "een land in Europa",
+        "sentence": "___ ligt naast Duitsland.",
+        "answer": "Denemarken"
       },
       {
-        "word": "haven",
-        "definition": "een plaats waar schepen kunnen aanleggen",
-        "sentence": "De ___ in Rotterdam is erg druk.",
-        "answer": "haven"
+        "word": "Noorwegen",
+        "definition": "een land in Europa",
+        "sentence": "___ is een land in het noorden van Europa.",
+        "answer": "Noorwegen"
       },
       {
-        "word": "dorp",
-        "definition": "een plaats waar mensen wonen, kleiner dan een stad",
-        "sentence": "Het ___ is niet groot, maar wel gezellig.",
-        "answer": "dorp"
+        "word": "politie",
+        "definition": "mensen die de wet handhaven",
+        "sentence": "De ___ zorgt voor veiligheid.",
+        "answer": "politie"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ in Rotterdam is erg druk.",
-        "answer": "haven"
+        "sentence": "___ ligt naast Duitsland.",
+        "answer": "Denemarken"
       },
       {
-        "sentence": "We moeten ___ naar een nieuwe woning.",
-        "answer": "verhuizen"
+        "sentence": "De ___ zorgt voor veiligheid.",
+        "answer": "politie"
       },
       {
-        "sentence": "Nederland werkt hard aan de ___.",
-        "answer": "energietransitie"
+        "sentence": "De politie doet ___ naar de drones.",
+        "answer": "onderzoek"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom moet het dorp Moerdijk wijken?",
+      "question": "Waarom stopte de politie in Noorwegen het onderzoek naar de drones?",
       "options": [
-        "Voor meer groen",
-        "Voor de energietransitie",
-        "Omdat er te weinig mensen wonen",
-        "Omdat het dorp te oud is"
+        "Omdat er geen bewijs was",
+        "Omdat het te duur was",
+        "Omdat ze het niet wilde",
+        "Omdat er te veel drones waren"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is 'verduurzaming'?",
+      "question": "Wat is een drone?",
       "options": [
-        "Het bouwen van nieuwe huizen",
-        "Het duurzamer maken van iets",
-        "Het slopen van oude gebouwen",
-        "Het planten van bomen"
+        "Een soort vliegtuig zonder piloot",
+        "Een soort auto",
+        "Een soort fiets",
+        "Een soort boot"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Wat gebeurt er met de inwoners van Moerdijk?",
+      "question": "In welk land werd het onderzoek naar drones gestopt?",
       "options": [
-        "Ze blijven in hun huizen",
-        "Ze verhuizen naar een andere plaats",
-        "Ze krijgen een nieuwe baan",
-        "Ze gaan op vakantie"
+        "Noorwegen",
+        "Duitsland",
+        "Frankrijk",
+        "Spanje"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het dorp Moerdijk is pas een jaar oud.",
-      "isTrue": false
-    },
-    {
-      "statement": "De inwoners van Moerdijk moeten verhuizen vanwege de energietransitie.",
+      "statement": "In Denemarken zagen mensen drones in de lucht.",
       "isTrue": true
     },
     {
-      "statement": "De haven van Moerdijk wordt groter gemaakt.",
+      "statement": "De politie in Noorwegen vond veel bewijs van drones.",
+      "isTrue": false
+    },
+    {
+      "statement": "Er zijn incidenten met drones in België.",
       "isTrue": true
     }
   ]

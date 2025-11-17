@@ -1,15 +1,15 @@
 Artikel 2
-Nieuwsupdate: 2025-11-15 04:27 UCT
+Nieuwsupdate: 2025-11-17 04:31 UCT
 ==================================================
 
 De Standaard - Buitenland Nieuws:
 ==================================================
-Titel: Chinese hackers automatiseren spionage met Amerikaans AI-model Claude
-Link: https://www.standaard.be/buitenland/chinese-hackers-automatiseren-spionage-met-amerikaans-ai-model-claude/105039313.html
-Datum: Fri, 14 Nov 2025 22:59:00 GMT
-Samenvatting: Chinese hackers worden ervan verdacht Claude te hebben ingezet bij aanvallen op bedrijven en overheden. Door een rollenspel en de ‘salamitechniek’ konden ze het AI-model het vuile werk laten opknappen. “Dit is een keerpunt in cyberveiligheid en AI.”
+Titel: Epstein-dossier drijft Trump en “gekke” Marjorie Taylor Greene uit elkaar
+Link: https://www.standaard.be/buitenland/epstein-dossier-drijft-trump-en-gekke-marjorie-taylor-greene-uit-elkaar/105374246.html
+Datum: Sun, 16 Nov 2025 22:59:00 GMT
+Samenvatting: Complotdenkster Marjorie Taylor Greene was een van Trumps ferventste bondgenoten in het Congres. Nu ze zijn niet nagekomen beloftes tegen hem lijkt te gebruiken, noemt Trump haar een “verraadster”.
 Auteur: Geen auteur
 Categorie: Buitenland
-Afbeelding: https://prod-img.standaard.be/public/nieuws/wthv-claude.jpg/alternates/BASE_SIXTEEN_NINE/claude.jpg
+Afbeelding: https://prod-img.standaard.be/public/nieuws/qfwxi5-12870258.jpg/alternates/BASE_SIXTEEN_NINE/12870258.jpg
 Premium: true
 ------------------------------------------------------------

@@ -1,106 +1,106 @@
 {
-  "id": 5,
+  "id": 6,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A1",
-  "title": "Nederlands dorp Moerdijk moet wijken",
+  "title": "Drone-opschudding in Scandinavië",
   "topicNumber": 1,
   "article": {
-    "title": "Nederlands dorp Moerdijk moet wijken",
-    "summary": "Het dorp Moerdijk moet verdwijnen. De mensen moeten weg. Het dorp is heel oud. De industrie wil groeien. De mensen moeten plaatsmaken voor de industrie."
+    "title": "Drone-opschudding in Scandinavië",
+    "summary": "Drones zorgen voor problemen op luchthavens in Noorwegen en Denemarken. De politie vindt het moeilijk om de daders te vinden. In België zijn er ook problemen met drones."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "industrie",
-        "definition": "bedrijven die producten maken",
-        "sentence": "De ___ maakt veel spullen.",
-        "answer": "industrie"
+        "word": "België",
+        "definition": "een land in Europa",
+        "sentence": "___ ligt naast Nederland.",
+        "answer": "België"
       },
       {
-        "word": "dorp",
-        "definition": "een kleine plaats waar mensen wonen",
-        "sentence": "Ik woon in een klein ___.",
-        "answer": "dorp"
+        "word": "luchthaven",
+        "definition": "een plaats waar vliegtuigen landen en opstijgen",
+        "sentence": "Op de ___ landen vliegtuigen.",
+        "answer": "luchthaven"
       },
       {
-        "word": "mensen",
-        "definition": "personen, individuen",
-        "sentence": "De ___ in het dorp zijn vriendelijk.",
-        "answer": "mensen"
+        "word": "politie",
+        "definition": "mensen die de wet handhaven en misdaad onderzoeken",
+        "sentence": "De ___ zoekt naar de drone.",
+        "answer": "politie"
       },
       {
-        "word": "wijken",
-        "definition": "verplaatsen, ergens anders naartoe gaan",
-        "sentence": "Soms moet je ___ voor iets nieuws.",
-        "answer": "wijken"
+        "word": "moeilijk",
+        "definition": "niet gemakkelijk, hard werken",
+        "sentence": "De test was erg ___.",
+        "answer": "moeilijk"
       },
       {
-        "word": "maken",
-        "definition": "creëren, produceren",
-        "sentence": "Kinderen ___ vaak een hut van kleden.",
-        "answer": "maken"
+        "word": "drone",
+        "definition": "een klein vliegend apparaat zonder piloot",
+        "sentence": "Een ___ vliegt in de lucht.",
+        "answer": "drone"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ik woon in een klein ___.",
-        "answer": "dorp"
+        "sentence": "De test was erg ___.",
+        "answer": "moeilijk"
       },
       {
-        "sentence": "De ___ in het dorp zijn vriendelijk.",
-        "answer": "mensen"
+        "sentence": "___ ligt naast Nederland.",
+        "answer": "België"
       },
       {
-        "sentence": "Kinderen ___ vaak een hut van kleden.",
-        "answer": "maken"
+        "sentence": "De ___ zoekt naar de drone.",
+        "answer": "politie"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wat betekent het als een dorp moet 'wijken'?",
+      "question": "Waar zijn er problemen met drones?",
       "options": [
-        "Het dorp wordt mooier",
-        "Het dorp verdwijnt",
-        "Het dorp wordt groter",
-        "Het dorp verandert van naam"
+        "Op luchthavens in Noorwegen en Denemarken",
+        "In alle parken en tuinen",
+        "Alleen in de Verenigde Staten",
+        "Nergens, het is veilig"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
-      "question": "Waarom moeten de mensen uit Moerdijk weg?",
+      "question": "Wat doet de politie?",
       "options": [
-        "Er is te weinig werk",
-        "De huizen zijn te oud",
-        "De industrie wil de ruimte",
-        "Er is geen water meer"
+        "Ze zoekt naar de drones",
+        "Ze geeft iedereen een bon",
+        "Ze sluit de luchthaven",
+        "Ze doet niets"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is de 'industrie'?",
+      "question": "Waar is België?",
       "options": [
-        "Een soort supermarkt",
-        "Een groot bedrijf dat producten maakt",
-        "Een grote tuin",
-        "Een sportteam"
+        "Het is een land in Europa",
+        "Het is een stad in Nederland",
+        "Het is een woord voor 'drone'",
+        "Het is een soort drone"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het dorp Moerdijk is heel oud.",
+      "statement": "Drones vliegen op luchthavens in Noorwegen en Denemarken.",
       "isTrue": true
     },
     {
-      "statement": "De mensen in Moerdijk willen niet weg.",
+      "statement": "De politie in Noorwegen heeft de drones gevonden.",
       "isTrue": false
     },
     {
-      "statement": "De industrie helpt de mensen in Moerdijk.",
-      "isTrue": false
+      "statement": "In België zijn er ook incidenten met drones.",
+      "isTrue": true
     }
   ]
 }

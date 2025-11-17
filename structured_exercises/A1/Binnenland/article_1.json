@@ -1,106 +1,106 @@
 {
-  "id": 15,
+  "id": 16,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A1",
-  "title": "Flora Loos, 84 jaar",
+  "title": "Lucie Goetinck, 97 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Flora Loos, 84 jaar",
-    "summary": "Geboren in 1941, overleden op 11 november 2025."
+    "title": "Lucie Goetinck, 97 jaar",
+    "summary": "Geboren in 1928, overleden op 08/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Flora",
-        "definition": "een vrouwelijke naam",
-        "sentence": "___ is een mooie naam.",
-        "answer": "Flora"
-      },
-      {
-        "word": "11",
-        "definition": "het getal na 10",
-        "sentence": "November is de ___de maand.",
-        "answer": "11"
-      },
-      {
-        "word": "84",
-        "definition": "een getal, tussen 83 en 85",
-        "sentence": "Hij is ___ jaar oud.",
-        "answer": "84"
-      },
-      {
         "word": "overleden",
-        "definition": "niet meer levend, gestorven",
-        "sentence": "Zij is ___ in 2025.",
+        "definition": "Niet meer levend, dood zijn",
+        "sentence": "Hij is ___ in 2020.",
         "answer": "overleden"
       },
       {
-        "word": "jaar",
-        "definition": "een periode van 365 dagen",
-        "sentence": "Een ___ heeft 12 maanden.",
-        "answer": "jaar"
+        "word": "Lucie",
+        "definition": "Een vrouwelijke naam",
+        "sentence": "___ is een vrouw.",
+        "answer": "Lucie"
+      },
+      {
+        "word": "op",
+        "definition": "Een voorzetsel, bijvoorbeeld in 'op maandag'",
+        "sentence": "Hij is overleden ___ 08/11/2025.",
+        "answer": "op"
+      },
+      {
+        "word": "2025",
+        "definition": "Een jaartal",
+        "sentence": "Ze overleed in ___.",
+        "answer": "2025"
+      },
+      {
+        "word": "97",
+        "definition": "Een getal",
+        "sentence": "Zij werd ___ jaar oud.",
+        "answer": "97"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ is een mooie naam.",
-        "answer": "Flora"
+        "sentence": "Hij is overleden ___ 08/11/2025.",
+        "answer": "op"
       },
       {
-        "sentence": "Hij is ___ jaar oud.",
-        "answer": "84"
+        "sentence": "Ze overleed in ___.",
+        "answer": "2025"
       },
       {
-        "sentence": "November is de ___de maand.",
-        "answer": "11"
+        "sentence": "Hij is ___ in 2020.",
+        "answer": "overleden"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Wanneer is Flora geboren?",
+      "question": "In welk jaar is Lucie Goetinck geboren?",
       "options": [
-        "In 1941",
-        "In 1942",
-        "In 1943",
-        "In 1944"
+        "1928",
+        "1945",
+        "1950",
+        "1960"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Hoe oud is Flora geworden?",
+      "question": "Hoe oud werd Lucie Goetinck?",
       "options": [
-        "83 jaar",
-        "84 jaar",
-        "85 jaar",
-        "86 jaar"
+        "80 jaar",
+        "97 jaar",
+        "100 jaar",
+        "105 jaar"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Op welke dag is Flora overleden?",
+      "question": "Is Lucie Goetinck nog in leven?",
       "options": [
-        "10 november",
-        "11 november",
-        "12 november",
-        "13 november"
+        "Ja, zij leeft nog",
+        "Nee, zij is overleden",
+        "Zij is nog jong",
+        "Zij is 50 jaar"
       ],
       "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Flora is geboren in 1941.",
+      "statement": "Lucie Goetinck is geboren in 1928.",
       "isTrue": true
     },
     {
-      "statement": "Flora is overleden in 2025.",
+      "statement": "Lucie Goetinck is overleden in 2025.",
       "isTrue": true
     },
     {
-      "statement": "Flora is 85 jaar oud.",
-      "isTrue": false
+      "statement": "Lucie Goetinck is nu 97 jaar.",
+      "isTrue": true
     }
   ]
 }

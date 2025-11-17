@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Oekraïne",
+  "title": "Trump roept Republikeinen op te stemmen voor vrijgeven Epstein-dossiers",
   "topicNumber": 1,
   "article": {
-    "title": "Vertrouweling Zelensky verwikkeld in corruptieonderzoek",
-    "summary": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates."
+    "title": "Trump roept Republikeinen op te stemmen voor vrijgeven Epstein-dossiers",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "ontwikkelingen",
-        "definition": "Veranderingen of nieuwe gebeurtenissen in een situatie of proces.",
-        "sentence": "De recente ___ in de oorlog tonen een escalatie aan het front.",
-        "answer": "ontwikkelingen"
+        "word": "president",
+        "definition": "het staatshoofd van een republiek, meestal de hoogste politieke functionaris",
+        "sentence": "De ___ van de Verenigde Staten heeft een belangrijke rol in de buitenlandse politiek.",
+        "answer": "president"
       },
       {
-        "word": "melding",
-        "definition": "Een bericht of signaal dat iemand informeert over iets belangrijks.",
-        "sentence": "Krijg een ___ wanneer er belangrijk nieuws is.",
-        "answer": "melding"
+        "word": "stemmen",
+        "definition": "een stem uitbrengen, kiezen voor een kandidaat of partij",
+        "sentence": "Tijdens de verkiezingen kunnen burgers hun ___ uitbrengen op hun favoriete kandidaat.",
+        "answer": "stemmen"
       },
       {
-        "word": "Oekraïne",
-        "definition": "Een land in Oost-Europa, momenteel betrokken bij een conflict.",
-        "sentence": "___ heeft internationale steun gekregen voor zijn verdediging.",
-        "answer": "Oekraïne"
+        "word": "dossiers",
+        "definition": "een verzameling van documenten over een bepaald onderwerp of persoon",
+        "sentence": "Journalisten hebben toegang gekregen tot de geheime ___ over het schandaal.",
+        "answer": "dossiers"
       },
       {
-        "word": "app",
-        "definition": "Een applicatie op een smartphone of computer, vaak voor informatie of entertainment.",
-        "sentence": "Download de ___ om op de hoogte te blijven van het laatste nieuws.",
-        "answer": "app"
+        "word": "Epstein",
+        "definition": "verwijst naar Jeffrey Epstein, een controversieel figuur in recente geschiedenis",
+        "sentence": "Het ___ schandaal heeft wereldwijd aandacht getrokken vanwege de betrokkenheid van hooggeplaatste personen.",
+        "answer": "Epstein"
       },
       {
-        "word": "Vertrouweling",
-        "definition": "Een persoon die in vertrouwen wordt genomen of die zeer vertrouwd is met iemand.",
-        "sentence": "De president beschouwt hem als een ___ die altijd discreet handelt.",
-        "answer": "Vertrouweling"
+        "word": "Republikeinen",
+        "definition": "een van de twee grote politieke partijen in de Verenigde Staten",
+        "sentence": "De ___ en Democraten hebben fundamenteel verschillende visies op buitenlands beleid.",
+        "answer": "Republikeinen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "___ heeft internationale steun gekregen voor zijn verdediging.",
-        "answer": "Oekraïne"
+        "sentence": "De ___ en Democraten hebben fundamenteel verschillende visies op buitenlands beleid.",
+        "answer": "Republikeinen"
       },
       {
-        "sentence": "De recente ___ in de oorlog tonen een escalatie aan het front.",
-        "answer": "ontwikkelingen"
+        "sentence": "Het ___ schandaal heeft wereldwijd aandacht getrokken vanwege de betrokkenheid van hooggeplaatste personen.",
+        "answer": "Epstein"
       },
       {
-        "sentence": "De president beschouwt hem als een ___ die altijd discreet handelt.",
-        "answer": "Vertrouweling"
+        "sentence": "De ___ van de Verenigde Staten heeft een belangrijke rol in de buitenlandse politiek.",
+        "answer": "president"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarover gaat het corruptieonderzoek waar Zelensky's vertrouweling bij betrokken is?",
+      "question": "Wat is de rol van de president in de buitenlandse politiek volgens de tekst?",
       "options": [
-        "Het gaat over mogelijke fraude in de verkiezingen",
-        "Het betreft vermeende omkoping van hoge overheidsfunctionarissen",
-        "Het is een onderzoek naar witwaspraktijken via een stichting",
-        "Het richt zich op fraude bij defensiecontracten"
+        "Heeft geen rol",
+        "Is alleen ceremonieel aanwezig",
+        "Draagt verantwoordelijkheid voor internationale besluiten",
+        "Wordt in de tekst niet genoemd"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
-      "question": "Hoe reageert de Oekraïense regering op de beschuldigingen?",
+      "question": "Welke term wordt gebruikt voor het proces waarbij burgers hun keuze uiten?",
       "options": [
-        "Ze ontkennen alles volledig",
-        "Er wordt een onafhankelijke commissie opgericht",
-        "Ze eisen bewijzen van de aanklagers",
-        "Ze stellen een onderzoek in en benadrukken transparantie"
+        "Stemmen",
+        "Kiezen",
+        "Selecteren",
+        "Bepalen"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 1
     },
     {
-      "question": "Wat is een gevolg van de ontwikkelingen in de oorlog voor Oekraïne?",
+      "question": "Wat is een belangrijk thema in de tekst in verband met Epstein?",
       "options": [
-        "De economie groeit exponentieel",
-        "Internationale steun neemt toe, ook al zijn er uitdagingen",
-        "Alle steden zijn volledig verwoest",
-        "De regering trekt zich volledig terug"
+        "Zijn muzikale carrière",
+        "Zijn filantropische werk",
+        "Het schandaal rond zijn persoon",
+        "Zijn wetenschappelijke ontdekkingen"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Zelensky's vertrouweling werd direct gearresteerd na de onthullingen.",
-      "isTrue": false
-    },
-    {
-      "statement": "Het corruptieonderzoek leidde tot een tijdelijke bevriezing van sommige buitenlandse fondsen.",
+      "statement": "Donald Trump is de voormalige president van de Verenigde Staten.",
       "isTrue": true
     },
     {
-      "statement": "De Oekraïense regering ontkent alle aantijgingen en weigert samen te werken met internationale organisaties.",
+      "statement": "De tekst stelt dat Trump nog steeds de huidige president is.",
+      "isTrue": false
+    },
+    {
+      "statement": "De Epstein-dossiers zijn volledig openbaar gemaakt volgens de tekst.",
       "isTrue": false
     }
   ]

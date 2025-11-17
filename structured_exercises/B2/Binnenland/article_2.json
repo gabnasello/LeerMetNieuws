@@ -1,105 +1,105 @@
 {
-  "id": 28,
+  "id": 29,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "B2",
-  "title": "Lieve Cerstelotte, 88 jaar",
+  "title": "Willy Braspenninckx, 89 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Lieve Cerstelotte, 88 jaar",
-    "summary": "Geboren in 1937, overleden op 12/11/2025."
+    "title": "Willy Braspenninckx, 89 jaar",
+    "summary": "Geboren in 1936, overleden op 09/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Cerstelotte",
-        "definition": "Een ongebruikelijke naam, mogelijk een variant van Charlotte.",
-        "sentence": "___ is een meisjesnaam met een Duitse oorsprong.",
-        "answer": "Cerstelotte"
-      },
-      {
-        "word": "12/11",
-        "definition": "De datum 12 november.",
-        "sentence": "Ze overleed op ___ 2025.",
-        "answer": "12/11"
-      },
-      {
-        "word": "Lieve",
-        "definition": "Een liefdevolle of vriendelijke uitdrukking, vaak gebruikt in namen.",
-        "sentence": "___ is een meisjesnaam die 'geliefde' betekent.",
-        "answer": "Lieve"
-      },
-      {
-        "word": "2025",
-        "definition": "Een jaartal, het jaar 2025.",
-        "sentence": "Hij overleed in ___.",
-        "answer": "2025"
-      },
-      {
         "word": "overleden",
         "definition": "Niet meer levend, gestorven.",
-        "sentence": "Hij is ___ in 2020.",
+        "sentence": "Hij is ___ op 89-jarige leeftijd, na een lang leven.",
         "answer": "overleden"
+      },
+      {
+        "word": "1936",
+        "definition": "Een jaartal, bijna een eeuw geleden.",
+        "sentence": "In het jaar ___ begon de economische crisis te verminderen.",
+        "answer": "1936"
+      },
+      {
+        "word": "09/11/2025",
+        "definition": "Een datum, de elfde van de elfde? Nee, het is een specifieke dag in de toekomst.",
+        "sentence": "Hij stierf op ___, een datum die nog moet komen.",
+        "answer": "09/11/2025"
+      },
+      {
+        "word": "89",
+        "definition": "Een getal, negenentachtig, tussen 88 en 90.",
+        "sentence": "Hij werd ___ jaar oud, een respectabele leeftijd.",
+        "answer": "89"
+      },
+      {
+        "word": "Braspenninckx",
+        "definition": "Een familienaam, waarschijnlijk van Belgische of Nederlandse oorsprong.",
+        "sentence": "De familie ___ woonde al generaties in hetzelfde dorp.",
+        "answer": "Braspenninckx"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij overleed in ___.",
-        "answer": "2025"
+        "sentence": "De familie ___ woonde al generaties in hetzelfde dorp.",
+        "answer": "Braspenninckx"
       },
       {
-        "sentence": "___ is een meisjesnaam die 'geliefde' betekent.",
-        "answer": "Lieve"
+        "sentence": "Hij stierf op ___, een datum die nog moet komen.",
+        "answer": "09/11/2025"
       },
       {
-        "sentence": "Ze overleed op ___ 2025.",
-        "answer": "12/11"
+        "sentence": "In het jaar ___ begon de economische crisis te verminderen.",
+        "answer": "1936"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Lieve Cerstelotte geboren?",
+      "question": "In welk jaar werd Willy geboren?",
       "options": [
         "1920",
-        "1937",
-        "1945",
-        "1950"
+        "1930",
+        "1936",
+        "1940"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat is de geboortedatum van Willy?",
+      "options": [
+        "09/11/2025",
+        "09/11/1936",
+        "01/01/1936",
+        "31/12/1936"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de betekenis van de naam 'Lieve'?",
+      "question": "Hoe oud werd Willy?",
       "options": [
-        "Liefdevol",
-        "Oud",
-        "Kort",
-        "Gelukkig"
+        "89 jaar",
+        "90 jaar",
+        "100 jaar",
+        "85 jaar"
       ],
       "correctAnswer": 1
-    },
-    {
-      "question": "Op welke datum overleed Lieve Cerstelotte?",
-      "options": [
-        "1 januari",
-        "12 november",
-        "31 december",
-        "1 mei"
-      ],
-      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Lieve Cerstelotte was 88 jaar oud toen ze overleed.",
+      "statement": "Willy overleed op 09/11/2025.",
       "isTrue": true
     },
     {
-      "statement": "Lieve Cerstelotte werd geboren in 1920.",
+      "statement": "Willy werd geboren in 1940.",
       "isTrue": false
     },
     {
-      "statement": "De datum van overlijden is 12 november 2025.",
+      "statement": "Willy was 89 jaar oud toen hij stierf.",
       "isTrue": true
     }
   ]

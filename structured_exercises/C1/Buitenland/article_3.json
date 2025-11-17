@@ -1,106 +1,106 @@
 {
-  "id": 9,
+  "id": 10,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "C1",
-  "title": "Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”",
+  "title": "Speurtocht naar ‘eerste’ drones in Noorwegen en Denemarken levert vooral vragen op",
   "topicNumber": 1,
   "article": {
-    "title": "Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”",
-    "summary": "Het duizend jaar oude dorp Moerdijk verdwijnt. 1.100 inwoners moeten plaatsmaken voor de energietransitie en de verduurzaming van de haven. “Moet de industrie altijd het laatste woord hebben?”"
+    "title": "Speurtocht naar ‘eerste’ drones in Noorwegen en Denemarken levert vooral vragen op",
+    "summary": "De Denen en Noren sloten als eersten in Europa hun luchthavens wegens drones. Maar bijna twee maanden later is nog niet bevestigd dat er daar effectief vlogen. De Noorse politie staakte haar onderzoek zelfs wegens gebrek aan bewijs. In België worden minstens zeventien incidenten onderzocht."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "verduurzaming",
-        "definition": "het proces om iets duurzaam, dus langdurig houdbaar, te maken",
-        "sentence": "De ___ van de haven is belangrijk voor het milieu.",
-        "answer": "verduurzaming"
+        "word": "speurtocht",
+        "definition": "Een zoektocht of onderzoek, vaak met als doel iets te vinden of te ontdekken.",
+        "sentence": "De politie startte een ___ naar de vermiste persoon.",
+        "answer": "speurtocht"
       },
       {
-        "word": "dorp",
-        "definition": "een kleine woonplaats, kleiner dan een stad",
-        "sentence": "Het kleine ___ heeft een rijke geschiedenis.",
-        "answer": "dorp"
+        "word": "bewijs",
+        "definition": "Informatie of materiaal dat aantoont dat iets waar of gebeurd is.",
+        "sentence": "De politie heeft nog geen ___ van zijn betrokkenheid.",
+        "answer": "bewijs"
       },
       {
-        "word": "wijken",
-        "definition": "een gebied verlaten, vaak onder druk",
-        "sentence": "De inwoners moeten ___ vanwege de uitbreiding van de haven.",
-        "answer": "wijken"
+        "word": "incidenten",
+        "definition": "Gebeurtenissen of voorvallen, vaak onverwachts of met negatieve gevolgen.",
+        "sentence": "Er werden verschillende ___ gemeld tijdens het festival.",
+        "answer": "incidenten"
       },
       {
-        "word": "industrie",
-        "definition": "alle bedrijven en activiteiten die producten maken of diensten leveren",
-        "sentence": "De ___ in deze regio is erg belangrijk voor de werkgelegenheid.",
-        "answer": "industrie"
+        "word": "onderzocht",
+        "definition": "Onderzocht; onderwerp van onderzoek of analyse.",
+        "sentence": "De zaak wordt nog steeds ___ door de politie.",
+        "answer": "onderzocht"
       },
       {
-        "word": "energietransitie",
-        "definition": "de overgang naar het gebruik van duurzame energiebronnen",
-        "sentence": "De ___ is essentieel om klimaatverandering tegen te gaan.",
-        "answer": "energietransitie"
+        "word": "vlogen",
+        "definition": "Verleden tijd van vliegen; het zich door de lucht verplaatsen.",
+        "sentence": "De vogels ___ over het meer naar warmer weer.",
+        "answer": "vlogen"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De inwoners moeten ___ vanwege de uitbreiding van de haven.",
-        "answer": "wijken"
+        "sentence": "Er werden verschillende ___ gemeld tijdens het festival.",
+        "answer": "incidenten"
       },
       {
-        "sentence": "Het kleine ___ heeft een rijke geschiedenis.",
-        "answer": "dorp"
+        "sentence": "De vogels ___ over het meer naar warmer weer.",
+        "answer": "vlogen"
       },
       {
-        "sentence": "De ___ van de haven is belangrijk voor het milieu.",
-        "answer": "verduurzaming"
+        "sentence": "De politie startte een ___ naar de vermiste persoon.",
+        "answer": "speurtocht"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom moeten de inwoners van Moerdijk hun dorp verlaten?",
+      "question": "Wat was de voornaamste reden waarom de luchthavens in Noorwegen en Denemarken werden gesloten?",
       "options": [
-        "Omdat er een nieuwe snelweg wordt aangelegd.",
-        "Omdat de overheid het gebied wil gebruiken voor de energietransitie.",
-        "Omdat het dorp verplaatst wordt voor de bouw van een groot winkelcentrum.",
-        "Omdat er een nieuwe luchthaven gepland is."
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is de historische betekenis van het dorp Moerdijk?",
-      "options": [
-        "Het is een eeuwenoud dorp met een geschiedenis van duizend jaar.",
-        "Het is een modern dorp, gebouwd in de jaren negentig.",
-        "Het is vooral bekend als toeristische attractie.",
-        "Het heeft geen bijzondere historische achtergrond."
+        "Vanwege een drone die gesignaleerd was",
+        "Omdat er een protest plaatsvond",
+        "Vanwege slechte weersomstandigheden",
+        "Omdat er onderhoud nodig was"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Hoe reageren de inwoners op de plannen?",
+      "question": "Wat was het resultaat van het onderzoek door de Noorse politie?",
       "options": [
-        "Ze zijn enthousiast en werken mee.",
-        "Ze zijn neutraal en wachten af.",
-        "Ze zijn boos en protesteren actief.",
-        "Ze zijn onverschillig en trekken zich niets aan."
+        "Ze vonden voldoende bewijs om de zaak op te lossen",
+        "Ze staakten het onderzoek vanwege gebrek aan bewijs",
+        "Ze vonden de drone en arresteerden de operator",
+        "Ze sloten de luchthaven permanent"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
+    },
+    {
+      "question": "Hoeveel incidenten worden er in België onderzocht volgens de tekst?",
+      "options": [
+        "Minder dan tien",
+        "Precies tien",
+        "Meer dan vijftien",
+        "Minimaal zeventien"
+      ],
+      "correctAnswer": 4
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het dorp Moerdijk werd volledig verwoest tijdens de Watersnoodramp.",
-      "isTrue": false
-    },
-    {
-      "statement": "De energietransitie is een van de redenen dat het dorp moet verdwijnen.",
+      "statement": "De Deense en Noorse autoriteiten hebben hun luchthavens gesloten omdat er drones werden waargenomen.",
       "isTrue": true
     },
     {
-      "statement": "De haven van Moerdijk is de grootste van Europa.",
+      "statement": "Het onderzoek van de Noorse politie heeft geleid tot de arrestatie van de drone-operator.",
       "isTrue": false
+    },
+    {
+      "statement": "In België worden momenteel meer dan tien incidenten onderzocht die verband houden met drones.",
+      "isTrue": true
     }
   ]
 }

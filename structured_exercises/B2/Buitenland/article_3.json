@@ -1,93 +1,105 @@
 {
-  "id": 8,
+  "id": 9,
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B2",
-  "title": "Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”",
+  "title": "Speurtocht naar ‘eerste’ drones in Noorwegen en Denemarken levert vooral vragen op",
   "topicNumber": 1,
   "article": {
-    "title": "Nederlands dorp Moerdijk moet wijken: “Na de Watersnoodramp konden we ons dorp nog heropbouwen. Nu moeten we voorgoed weg”",
-    "summary": "Het duizend jaar oude dorp Moerdijk verdwijnt. 1.100 inwoners moeten plaatsmaken voor de energietransitie en de verduurzaming van de haven. “Moet de industrie altijd het laatste woord hebben?”"
+    "title": "Speurtocht naar ‘eerste’ drones in Noorwegen en Denemarken levert vooral vragen op",
+    "summary": "De Denen en Noren sloten als eersten in Europa hun luchthavens wegens drones. Maar bijna twee maanden later is nog niet bevestigd dat er daar effectief vlogen. De Noorse politie staakte haar onderzoek zelfs wegens gebrek aan bewijs. In België worden minstens zeventien incidenten onderzocht."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "dorp",
-        "definition": "een plaats of gemeenschap, kleiner dan een stad",
-        "sentence": "Het kleine ___ ligt aan de rivier.",
-        "answer": "dorp"
+        "word": "drone",
+        "definition": "een onbemand vliegtuigje op afstand bestuurd",
+        "sentence": "Hij filmde de bruiloft met een ___.",
+        "answer": "drone"
       },
       {
-        "word": "wijk",
-        "definition": "een deel van een stad of dorp, of een buurt",
-        "sentence": "De nieuwe ___ wordt gebouwd op de plaats van het oude dorp.",
-        "answer": "wijk"
+        "word": "incidenten",
+        "definition": "gebeurtenissen of voorvallen, vaak ongelukkig",
+        "sentence": "De politie registreerde drie ___ op straat.",
+        "answer": "incidenten"
       },
       {
-        "word": "industrie",
-        "definition": "bedrijven en fabrieken die samen producten maken",
-        "sentence": "De nieuwe ___ biedt banen, maar vervuilt ook de lucht.",
-        "answer": "industrie"
+        "word": "incidenten",
+        "definition": "gebeurtenissen of voorvallen, vaak ongelukken",
+        "sentence": "Er waren meerdere ___ tijdens het festival.",
+        "answer": "incidenten"
+      },
+      {
+        "word": "onderzoek",
+        "definition": "een studie of inspectie om iets te weten te komen",
+        "sentence": "Het wetenschappelijk ___ naar de drone gaat door.",
+        "answer": "onderzoek"
+      },
+      {
+        "word": "bewijs",
+        "definition": "bewijsstukken of informatie die iets aantoont",
+        "sentence": "Zonder ___ kan de rechter niet oordelen.",
+        "answer": "bewijs"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Het kleine ___ ligt aan de rivier.",
-        "answer": "dorp"
+        "sentence": "Hij filmde de bruiloft met een ___.",
+        "answer": "drone"
       },
       {
-        "sentence": "De nieuwe ___ wordt gebouwd op de plaats van het oude dorp.",
-        "answer": "wijk"
+        "sentence": "Er waren meerdere ___ tijdens het festival.",
+        "answer": "incidenten"
       },
       {
-        "sentence": "De nieuwe ___ biedt banen, maar vervuilt ook de lucht.",
-        "answer": "industrie"
+        "sentence": "Het wetenschappelijk ___ naar de drone gaat door.",
+        "answer": "onderzoek"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom moeten de inwoners van Moerdijk hun dorp verlaten?",
+      "question": "Waarom werden de luchthavens in Noorwegen en Denemarken gesloten?",
       "options": [
-        "Vanwege de Watersnoodramp",
-        "Voor de bouw van een nieuwe snelweg",
-        "Voor de uitbreiding van de haven en energietransitie",
-        "Omdat ze een nieuw dorp willen bouwen"
+        "Vanwege drones",
+        "Vanwege slecht weer",
+        "Vanwege een staking",
+        "Vanwege een virusuitbraak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Wat was het resultaat van het onderzoek van de Noorse politie?",
+      "options": [
+        "Vond niets",
+        "Vond bewijs van drones",
+        "Leidde tot arrestaties",
+        "Was nog niet afgerond"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "In welk land worden momenteel incidenten met drones onderzocht?",
+      "options": [
+        "Noorwegen",
+        "Denemarken",
+        "België",
+        "Nederland"
       ],
       "correctAnswer": 3
-    },
-    {
-      "question": "Wat is de houding van de inwoners ten opzichte van de verhuizing?",
-      "options": [
-        "Ze zijn blij met de verandering",
-        "Ze voelen zich machteloos en verdrietig",
-        "Ze zijn onverschillig",
-        "Ze zijn boos en willen vechten"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Wat is een belangrijk verschil tussen de Watersnoodramp en de huidige situatie?",
-      "options": [
-        "Er is geen verschil, beide zijn natuurrampen",
-        "De Watersnoodramp was natuurlijk, nu is de oorzaak de industrie",
-        "De Watersnoodramp trof een groter gebied",
-        "Nu is er meer internationale hulp"
-      ],
-      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Het dorp Moerdijk is duizend jaar oud.",
-      "isTrue": true
-    },
-    {
-      "statement": "De inwoners mogen zelf kiezen of ze willen verhuizen.",
+      "statement": "De politie in Noorwegen stopte het onderzoek omdat ze drones vonden.",
       "isTrue": false
     },
     {
-      "statement": "Na de Watersnoodramp kon het dorp worden heropgebouwd.",
+      "statement": "Er zijn in België minstens zeventien incidenten met drones die worden onderzocht.",
+      "isTrue": true
+    },
+    {
+      "statement": "Denemarken en Noorwegen hadden de eerste drone-incidenten in Europa.",
       "isTrue": true
     }
   ]

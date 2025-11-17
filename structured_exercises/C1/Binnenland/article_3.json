@@ -1,100 +1,106 @@
 {
-  "id": 24,
+  "id": 25,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "C1",
-  "title": "Marguerite Destrooper, 92 jaar",
+  "title": "Waarom is gezond eten zoveel duurder dan kant-en-klaar?",
   "topicNumber": 1,
   "article": {
-    "title": "Marguerite Destrooper, 92 jaar",
-    "summary": "Geboren in 1933, overleden op 20/10/2025."
+    "title": "Waarom is gezond eten zoveel duurder dan kant-en-klaar?",
+    "summary": "Groenten, fruit, rijst, melk ... Wie het advies van de Hoge Gezondheidsraad wil naleven, zal meer betalen dan wie daar zijn voeten aan veegt en vaker uit een aluminium bakje eet."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Geboren",
-        "definition": "Het begin van het leven; het moment waarop iemand ter wereld komt.",
-        "sentence": "Ze werd ___ in 1933.",
-        "answer": "geboren"
+        "word": "eten",
+        "definition": "voedsel; dat wat men nuttigt",
+        "sentence": "Gezond ___ is belangrijk voor een goede gezondheid.",
+        "answer": "eten"
       },
       {
-        "word": "Overleden",
-        "definition": "Niet meer in leven; gestorven.",
-        "sentence": "Hij is ___ in 2020.",
-        "answer": "overleden"
+        "word": "kant-en-klaar",
+        "definition": "reeds bereid en verpakt; direct klaar voor consumptie",
+        "sentence": "___ maaltijden zijn handig maar vaak minder voedzaam.",
+        "answer": "kant-en-klaar"
       },
       {
-        "word": "1933",
-        "definition": "Een jaartal; verwijst naar het jaar 1933 na Christus.",
-        "sentence": "De grote depressie was in volle gang in ___.",
-        "answer": "1933"
+        "word": "advies",
+        "definition": "een aanbeveling of suggestie; raad",
+        "sentence": "De arts gaf ___ over een gezonde levensstijl.",
+        "answer": "advies"
       },
       {
-        "word": "2025",
-        "definition": "Een jaartal; verwijst naar het jaar 2025 na Christus.",
-        "sentence": "Ze verwachten de oplevering in ___.",
-        "answer": "2025"
+        "word": "duurder",
+        "definition": "met een hogere prijs; kostbaarder",
+        "sentence": "Vers fruit is vaak ___ dan conserven.",
+        "answer": "duurder"
+      },
+      {
+        "word": "gezond",
+        "definition": "in goede gezondheid verkerend; goed voor het lichaam",
+        "sentence": "Een ___ dieet bevat veel groenten en fruit.",
+        "answer": "gezond"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De grote depressie was in volle gang in ___.",
-        "answer": "1933"
+        "sentence": "___ maaltijden zijn handig maar vaak minder voedzaam.",
+        "answer": "kant-en-klaar"
       },
       {
-        "sentence": "Hij is ___ in 2020.",
-        "answer": "overleden"
+        "sentence": "De arts gaf ___ over een gezonde levensstijl.",
+        "answer": "advies"
       },
       {
-        "sentence": "Ze verwachten de oplevering in ___.",
-        "answer": "2025"
+        "sentence": "Een ___ dieet bevat veel groenten en fruit.",
+        "answer": "gezond"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welk jaar is Marguerite Destrooper geboren?",
+      "question": "Wat betekent het als voedsel 'kant-en-klaar' is?",
       "options": [
-        "1933",
-        "1945",
-        "1920",
-        "1950"
+        "Het is direct eetbaar zonder voorbereiding",
+        "Het is alleen verkrijgbaar in speciale winkels",
+        "Het is exclusief voor kinderen",
+        "Het is altijd gezond en vers"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Wat is de geboortemaand van Marguerite Destrooper?",
+      "question": "Waarom zou iemand kiezen voor kant-en-klaar maaltijden?",
       "options": [
-        "Januari",
-        "Februari",
-        "Maart",
-        "Onbekend"
+        "Omdat ze altijd goedkoper zijn dan andere opties",
+        "Omdat ze gemak bieden en tijd besparen",
+        "Omdat ze duurzaam en milieuvriendelijk verpakt zijn",
+        "Omdat ze per definitie gezonder zijn dan zelfgemaakt voedsel"
       ],
-      "correctAnswer": 4
+      "correctAnswer": 2
     },
     {
-      "question": "Hoe oud was Marguerite Destrooper geworden?",
+      "question": "Wat suggereert de auteur over de voedingswaarde van kant-en-klaar maaltijden?",
       "options": [
-        "92 jaar",
-        "93 jaar",
-        "94 jaar",
-        "95 jaar"
+        "Ze zijn altijd evenwichtig en voedzaam",
+        "Ze zijn meestal minder voedzaam dan vers bereide maaltijden",
+        "Ze zijn verrijkt met extra vitaminen en mineralen",
+        "Ze zijn vooral bedoeld voor mensen met veel tijd om te koken"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ],
   "trueFalse": [
     {
-      "statement": "Marguerite Destrooper is geboren in 1933.",
-      "isTrue": true
-    },
-    {
-      "statement": "Marguerite Destrooper overleed in juni 2025.",
+      "statement": "Kant-en-klaarmaaltijden zijn altijd duurder dan zelfgemaakte maaltijden.",
       "isTrue": false
     },
     {
-      "statement": "De overlijdensdatum van Marguerite Destrooper is 20/10/2025.",
+      "statement": "De auteur suggereert dat kant-en-klaarmaaltijden handig zijn maar mogelijk minder voedzaam.",
       "isTrue": true
+    },
+    {
+      "statement": "Gezond eten volgens de Hoge Gezondheidsraad vereist het kopen van exclusief geïmporteerde producten.",
+      "isTrue": false
     }
   ]
 }

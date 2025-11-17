@@ -1,105 +1,105 @@
 {
-  "id": 26,
+  "id": 27,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Lieve C. (88) overleden",
+  "title": "Willy Braspenninckx, 89 jaar",
   "topicNumber": 1,
   "article": {
-    "title": "Lieve C. (88) overleden",
-    "summary": "Lieve Cerstelotte is overleden. Ze was 88 jaar. Ze is geboren in 1937 en overleden op 12 november 2025."
+    "title": "Willy Braspenninckx, 89 jaar",
+    "summary": "Geboren in 1936, overleden op 09/11/2025."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "geboren",
-        "definition": "begonnen met leven, uitgekomen uit de moeder",
-        "sentence": "Ze werd ___ in 1937.",
-        "answer": "geboren"
+        "word": "Braspenninckx",
+        "definition": "Een familienaam, de achternaam van iemand.",
+        "sentence": "De familie ___ woont in België.",
+        "answer": "Braspenninckx"
+      },
+      {
+        "word": "09",
+        "definition": "Het getal negen, na acht en voor tien.",
+        "sentence": "De maand oktober heeft ___ dagen? Nee, oktober heeft 31 dagen.",
+        "answer": "09"
+      },
+      {
+        "word": "Willy",
+        "definition": "Een voornaam, zoals de naam van een persoon.",
+        "sentence": "___ is een mannelijke naam.",
+        "answer": "Willy"
+      },
+      {
+        "word": "11",
+        "definition": "Het getal elf, na tien en voor twaalf.",
+        "sentence": "November is de ___de maand van het jaar.",
+        "answer": "11"
       },
       {
         "word": "overleden",
-        "definition": "niet meer levend, dood",
-        "sentence": "Hij is ___ na een ongeluk.",
-        "answer": "overleden"
-      },
-      {
-        "word": "Cerstelotte",
-        "definition": "een naam van een persoon",
-        "sentence": "___ was de achternaam van de overledene.",
-        "answer": "Cerstelotte"
-      },
-      {
-        "word": "Lieve",
-        "definition": "een manier om iemand aan te spreken, vriendelijk",
-        "sentence": "___ is een woord dat vaak wordt gebruikt in brieven.",
-        "answer": "Lieve"
-      },
-      {
-        "word": "overleden",
-        "definition": "niet meer levend, dood",
-        "sentence": "Hij is ___ na een lang ziekbed.",
+        "definition": "Niet meer levend, gestorven.",
+        "sentence": "Hij is ___ in 2023.",
         "answer": "overleden"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Ze werd ___ in 1937.",
-        "answer": "geboren"
+        "sentence": "November is de ___de maand van het jaar.",
+        "answer": "11"
       },
       {
-        "sentence": "___ is een woord dat vaak wordt gebruikt in brieven.",
-        "answer": "Lieve"
+        "sentence": "De maand oktober heeft ___ dagen? Nee, oktober heeft 31 dagen.",
+        "answer": "09"
       },
       {
-        "sentence": "Hij is ___ na een lang ziekbed.",
-        "answer": "overleden"
+        "sentence": "___ is een mannelijke naam.",
+        "answer": "Willy"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welke maand overleed Lieve Cerstelotte?",
+      "question": "In welk jaar is Willy geboren?",
       "options": [
-        "januari",
-        "februari",
-        "november",
-        "december"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Hoe oud was Lieve Cerstelotte toen ze overleed?",
-      "options": [
-        "88 jaar",
-        "89 jaar",
-        "90 jaar",
-        "91 jaar"
+        "In 1936",
+        "In 1945",
+        "In 1989",
+        "In 2000"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "In welk jaar is Lieve Cerstelotte geboren?",
+      "question": "Wat is de familienaam van Willy?",
       "options": [
-        "1935",
-        "1936",
-        "1937",
-        "1938"
+        "Janssens",
+        "Braspenninckx",
+        "Peeters",
+        "Verbeeck"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
+    },
+    {
+      "question": "Op welke datum is Willy overleden?",
+      "options": [
+        "09-11-2025",
+        "11-09-2025",
+        "09-11-2024",
+        "10-11-2025"
+      ],
+      "correctAnswer": 1
     }
   ],
   "trueFalse": [
     {
-      "statement": "Lieve Cerstelotte overleed in november.",
-      "isTrue": true
-    },
-    {
-      "statement": "Lieve Cerstelotte was 90 jaar oud toen ze overleed.",
+      "statement": "Willy was een vrouw.",
       "isTrue": false
     },
     {
-      "statement": "Lieve Cerstelotte werd geboren in 1937.",
+      "statement": "Willy overleed in 2025.",
+      "isTrue": true
+    },
+    {
+      "statement": "Willy is geboren in 1936.",
       "isTrue": true
     }
   ]

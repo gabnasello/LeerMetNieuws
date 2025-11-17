@@ -1,106 +1,106 @@
 {
-  "id": 21,
+  "id": 22,
   "section": "Binnenland",
   "topic": "Binnenland",
   "level": "A2",
-  "title": "Marguerite Destrooper, 92 jaar",
+  "title": "Waarom is gezond eten duurder dan kant-en-klaarmaaltijden?",
   "topicNumber": 1,
   "article": {
-    "title": "Marguerite Destrooper, 92 jaar",
-    "summary": "Geboren in 1933, overleden op 20/10/2025."
+    "title": "Waarom is gezond eten duurder dan kant-en-klaarmaaltijden?",
+    "summary": "Wie gezond wil eten volgens de regels, betaalt meer dan wie kant-en-klaarmaaltijden eet."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "Marguerite",
-        "definition": "Een vrouwelijke naam, een voornaam.",
-        "sentence": "__ is een mooie naam voor een meisje.",
-        "answer": "Marguerite"
+        "word": "betaalt",
+        "definition": "geld geven voor iets, betalen",
+        "sentence": "Hij ___ voor zijn brood bij de bakker.",
+        "answer": "betaalt"
       },
       {
-        "word": "Destrooper",
-        "definition": "Een familienaam, de achternaam.",
-        "sentence": "De familie __ is bekend in deze stad.",
-        "answer": "Destrooper"
+        "word": "eten",
+        "definition": "voedsel dat je opeet",
+        "sentence": "Ik heb honger, ik wil iets ___.",
+        "answer": "eten"
       },
       {
-        "word": "geboren",
-        "definition": "Wanneer iemand is geboren, is die persoon ter wereld gekomen.",
-        "sentence": "Ik ben __ in 1990.",
-        "answer": "geboren"
+        "word": "regels",
+        "definition": "afspraken of instructies die je moet volgen",
+        "sentence": "Volg de ___ van het spel om te winnen.",
+        "answer": "regels"
       },
       {
-        "word": "overleden",
-        "definition": "Niet meer levend; gestorven.",
-        "sentence": "Mijn opa is __ in 2020.",
-        "answer": "overleden"
+        "word": "klaar",
+        "definition": "gereed, afgerond",
+        "sentence": "Mijn huiswerk is ___, ik kan nu spelen.",
+        "answer": "klaar"
       },
       {
-        "word": "jaar",
-        "definition": "Een periode van 365 of 366 dagen.",
-        "sentence": "Een __ heeft 365 of 366 dagen.",
-        "answer": "jaar"
+        "word": "gezond",
+        "definition": "goed voor je lichaam, niet ziek",
+        "sentence": "Sporten is ___ voor je.",
+        "answer": "gezond"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "__ is een mooie naam voor een meisje.",
-        "answer": "Marguerite"
+        "sentence": "Mijn huiswerk is ___, ik kan nu spelen.",
+        "answer": "klaar"
       },
       {
-        "sentence": "De familie __ is bekend in deze stad.",
-        "answer": "Destrooper"
+        "sentence": "Volg de ___ van het spel om te winnen.",
+        "answer": "regels"
       },
       {
-        "sentence": "Een __ heeft 365 of 366 dagen.",
-        "answer": "jaar"
+        "sentence": "Sporten is ___ voor je.",
+        "answer": "gezond"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "In welke maand stierf Marguerite Destrooper?",
+      "question": "Waarom is gezond eten soms duurder?",
       "options": [
-        "Januari",
-        "Februari",
-        "Maart",
-        "Oktober"
+        "Omdat het meer vitaminen heeft.",
+        "Omdat het in de aanbieding is.",
+        "Omdat het langer meegaat.",
+        "Omdat het duurder is om te maken."
       ],
       "correctAnswer": 4
     },
     {
-      "question": "Hoe oud was Marguerite Destrooper toen ze overleed?",
+      "question": "Wat betekent 'niet' in deze context?",
       "options": [
-        "90 jaar",
-        "91 jaar",
-        "92 jaar",
-        "93 jaar"
+        "Niet betekent altijd 'geen'.",
+        "Niet is een soort fruit.",
+        "Niet is een tegenstelling van 'wel'.",
+        "Niet is een vorm van groente."
       ],
       "correctAnswer": 3
     },
     {
-      "question": "In welk jaar werd Marguerite Destrooper geboren?",
+      "question": "Wat is een voorbeeld van 'volgen'?",
       "options": [
-        "1930",
-        "1931",
-        "1932",
-        "1933"
+        "Iets heel zwaar tillen.",
+        "De regels van een spel negeren.",
+        "Naar de leraar luisteren.",
+        "Hard wegrennen voor een leeuw."
       ],
-      "correctAnswer": 4
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "Marguerite Destrooper werd geboren in 1933.",
-      "isTrue": true
-    },
-    {
-      "statement": "Marguerite Destrooper overleed in mei.",
+      "statement": "Gezond eten is vaak goedkoper dan kant-en-klaarmaaltijden.",
       "isTrue": false
     },
     {
-      "statement": "Marguerite Destrooper was 92 jaar oud toen ze overleed.",
+      "statement": "Wie gezond eet, betaalt meer dan wie kant-en-klaar eet.",
       "isTrue": true
+    },
+    {
+      "statement": "Kant-en-klaarmaaltijden zijn altijd duurder dan zelf koken.",
+      "isTrue": false
     }
   ]
 }

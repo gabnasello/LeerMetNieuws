@@ -3,104 +3,104 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "A2",
-  "title": "Waarom is er weinig kritiek op de Emiraten?",
+  "title": "Trump roept Republikeinen op te stemmen voor vrijgeven Epstein-dossiers",
   "topicNumber": 1,
   "article": {
-    "title": "Waarom is er weinig kritiek op de Emiraten?",
-    "summary": "De Emiraten investeren veel geld in westerse wapenfabrikanten. Daardoor durven westerse leiders geen kritiek te geven."
+    "title": "Trump roept Republikeinen op te stemmen voor vrijgeven Epstein-dossiers",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "kritiek",
-        "definition": "een negatieve mening over iets of iemand",
-        "sentence": "Hij kreeg veel ___ op zijn nieuwe boek.",
-        "answer": "kritiek"
+        "word": "stemmen",
+        "definition": "Je stem uitbrengen bij een verkiezing.",
+        "sentence": "We gaan ___ bij de verkiezingen.",
+        "answer": "stemmen"
       },
       {
-        "word": "Emiraten",
-        "definition": "een land in het Midden-Oosten, rijk door olie",
-        "sentence": "De ___ zijn rijk door hun olie.",
-        "answer": "Emiraten"
+        "word": "vrijgeven",
+        "definition": "Iets openbaar maken, bijvoorbeeld een document.",
+        "sentence": "De regering besloot het rapport te ___.",
+        "answer": "vrijgeven"
       },
       {
-        "word": "durven",
-        "definition": "genoeg moed hebben om iets te doen",
-        "sentence": "Ze ___ niet te zeggen wat ze echt denken.",
-        "answer": "durven"
+        "word": "dossiers",
+        "definition": "Een verzameling van documenten over een onderwerp.",
+        "sentence": "De politie heeft de ___ over de zaak.",
+        "answer": "dossiers"
       },
       {
-        "word": "investeren",
-        "definition": "geld uitgeven om later meer terug te krijgen",
-        "sentence": "Hij wil veel ___ in nieuwe technologie.",
-        "answer": "investeren"
+        "word": "Trump",
+        "definition": "De familienaam van de voormalige president van Amerika.",
+        "sentence": "___ was president van Amerika.",
+        "answer": "Trump"
       },
       {
-        "word": "leiders",
-        "definition": "mensen die een groep of land leiden",
-        "sentence": "De ___ van de landen bespreken de problemen.",
-        "answer": "leiders"
+        "word": "updates",
+        "definition": "Nieuwe informatie of het laatste nieuws over iets.",
+        "sentence": "Volg de website voor de laatste ___.",
+        "answer": "updates"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "De ___ van de landen bespreken de problemen.",
-        "answer": "leiders"
+        "sentence": "We gaan ___ bij de verkiezingen.",
+        "answer": "stemmen"
       },
       {
-        "sentence": "Ze ___ niet te zeggen wat ze echt denken.",
-        "answer": "durven"
+        "sentence": "Volg de website voor de laatste ___.",
+        "answer": "updates"
       },
       {
-        "sentence": "Hij wil veel ___ in nieuwe technologie.",
-        "answer": "investeren"
+        "sentence": "___ was president van Amerika.",
+        "answer": "Trump"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom geven westerse leiders geen kritiek op de Emiraten?",
+      "question": "Wat is de hoofdstad van Frankrijk?",
       "options": [
-        "Omdat ze de Emiraten niet kennen",
-        "Omdat ze bang zijn voor de macht van de Emiraten",
-        "Omdat ze het warm hebben",
-        "Omdat ze de Emiraten steunen"
+        "Berlijn",
+        "Parijs",
+        "Londen",
+        "Rome"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat is de rol van de sjeiks in de Emiraten?",
+      "question": "Welke taal wordt in Brazilië gesproken?",
       "options": [
-        "Ze zijn gewone burgers",
-        "Ze zijn de leiders van het land",
-        "Ze zijn buitenlandse toeristen",
-        "Ze zijn historische figuren"
+        "Spaans",
+        "Portugees",
+        "Engels",
+        "Frans"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Wat doet de wapenindustrie?",
+      "question": "Wat betekent 'vrijgeven'?",
       "options": [
-        "Ze maakt en verkoopt wapens",
-        "Ze kookt eten voor het leger",
-        "Ze bouwt huizen voor soldaten",
-        "Ze onderwijst kinderen over vrede"
+        "Opslaan",
+        "Verbergen",
+        "Openbaar maken",
+        "Verliezen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Emiraten investeren in westerse wapenfabrikanten.",
-      "isTrue": true
-    },
-    {
-      "statement": "Westerse leiders bekritiseren de Emiraten vaak.",
+      "statement": "Donald Trump is de president van Frankrijk.",
       "isTrue": false
     },
     {
-      "statement": "De sjeiks zijn de leiders van de Emiraten.",
+      "statement": "Epstein is de naam van een persoon.",
       "isTrue": true
+    },
+    {
+      "statement": "Updates zijn altijd positief.",
+      "isTrue": false
     }
   ]
 }

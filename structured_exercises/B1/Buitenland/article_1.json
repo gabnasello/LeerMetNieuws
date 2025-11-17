@@ -3,103 +3,103 @@
   "section": "Buitenland",
   "topic": "Buitenland",
   "level": "B1",
-  "title": "Waarom is er weinig kritiek op de Emiraten? Een blik op de banden met de wapenindustrie.",
+  "title": "Trump roept Republikeinen op te stemmen voor vrijgeven Epstein-dossiers",
   "topicNumber": 1,
   "article": {
-    "title": "Waarom is er weinig kritiek op de Emiraten? Een blik op de banden met de wapenindustrie.",
-    "summary": "Westerse leiders zijn geschokt door het geweld in Soedan, maar geven de Emiraten niet de schuld. Dit komt door grote investeringen van de Emiraten in westerse wapenbedrijven."
+    "title": "Trump roept Republikeinen op te stemmen voor vrijgeven Epstein-dossiers",
+    "summary": "De tweede ambtstermijn van Donald Trump als Amerikaans president brengt wereldwijd veranderingen teweeg. Volg hier alle updates."
   },
   "vocabulary": {
     "words": [
       {
-        "word": "leiders",
-        "definition": "mensen die een groep of land leiden",
-        "sentence": "De ___ van de vergadering bespraken het nieuwe plan.",
-        "answer": "leiders"
+        "word": "stemmen",
+        "definition": "Je stem uitbrengen bij een verkiezing.",
+        "sentence": "We moeten gaan ___ om onze voorkeur aan te geven.",
+        "answer": "stemmen"
       },
       {
-        "word": "kritiek",
-        "definition": "negatieve opmerkingen of commentaar",
-        "sentence": "Hij kreeg veel ___ op zijn werk omdat het niet goed was.",
-        "answer": "kritiek"
+        "word": "Republikeinen",
+        "definition": "Leden van een van de twee grote politieke partijen in de VS.",
+        "sentence": "De ___ hebben een meerderheid in het Huis van Afgevaardigden.",
+        "answer": "Republikeinen"
       },
       {
-        "word": "Emiraten",
-        "definition": "een land in het Midden-Oosten, rijk door olie",
-        "sentence": "De ___ zijn rijk door hun olie-inkomsten.",
-        "answer": "Emiraten"
+        "word": "vrijgeven",
+        "definition": "Iets openbaar maken, bekendmaken.",
+        "sentence": "De overheid zal de documenten ___ voor het publiek.",
+        "answer": "vrijgeven"
       },
       {
-        "word": "wapenindustrie",
-        "definition": "industrie die wapens maakt en verkoopt",
-        "sentence": "De ___ groeit snel tijdens oorlogen.",
-        "answer": "wapenindustrie"
+        "word": "Epstein",
+        "definition": "Een achternaam, hier van een persoon die betrokken was bij een schandaal.",
+        "sentence": "Het ___-dossier bevat gevoelige informatie.",
+        "answer": "Epstein"
       },
       {
-        "word": "investeringen",
-        "definition": "geld dat in iets wordt gestopt om meer geld te verdienen",
-        "sentence": "Hun ___ in technologie bracht veel winst.",
-        "answer": "investeringen"
+        "word": "updates",
+        "definition": "Nieuwe informatie of het laatste nieuws over een onderwerp.",
+        "sentence": "Volg de ___ over de situatie op onze website.",
+        "answer": "updates"
       }
     ],
     "fillInBlanks": [
       {
-        "sentence": "Hij kreeg veel ___ op zijn werk omdat het niet goed was.",
-        "answer": "kritiek"
+        "sentence": "De overheid zal de documenten ___ voor het publiek.",
+        "answer": "vrijgeven"
       },
       {
-        "sentence": "De ___ groeit snel tijdens oorlogen.",
-        "answer": "wapenindustrie"
+        "sentence": "Het ___-dossier bevat gevoelige informatie.",
+        "answer": "Epstein"
       },
       {
-        "sentence": "Hun ___ in technologie bracht veel winst.",
-        "answer": "investeringen"
+        "sentence": "Volg de ___ over de situatie op onze website.",
+        "answer": "updates"
       }
     ]
   },
   "multipleChoice": [
     {
-      "question": "Waarom geven westerse leiders de Emiraten niet de schuld voor het geweld in Soedan?",
+      "question": "Wat is de rol van Donald Trump in deze tekst?",
       "options": [
-        "Omdat de Emiraten hun vrienden zijn",
-        "Omdat de Emiraten veel geld geven aan westerse wapenfabrikanten",
-        "Omdat Soedan te ver weg is",
-        "Omdat ze het niet weten"
+        "Hij is een journalist",
+        "Hij is de president van de VS",
+        "Hij is een voormalige president die nu iets doet",
+        "Hij is een acteur in een film"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Wat wordt er met de Epstein-dossiers gedaan?",
+      "options": [
+        "Ze worden vernietigd",
+        "Ze worden geheim gehouden",
+        "Ze worden vrijgegeven voor het publiek",
+        "Ze worden verkocht"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Waar gaat de tekst over?",
+      "options": [
+        "Over koken",
+        "Over politiek en nieuws",
+        "Over sport",
+        "Over geschiedenis"
       ],
       "correctAnswer": 2
-    },
-    {
-      "question": "Wat is de rol van de Emiraten in de wapenindustrie?",
-      "options": [
-        "Ze maken zelf wapens",
-        "Ze kopen wapens uit andere landen",
-        "Ze investeren in buitenlandse wapenfabrikanten",
-        "Ze verkopen wapens aan de hele wereld"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "Hoe reageren de Emiraten op de situatie in Soedan?",
-      "options": [
-        "Ze sturen troepen om te helpen",
-        "Ze geven geld aan hulporganisaties",
-        "Ze negeren het en doen niets",
-        "Ze bespreken het met de VN"
-      ],
-      "correctAnswer": 3
     }
   ],
   "trueFalse": [
     {
-      "statement": "De Emiraten worden bekritiseerd door alle westerse leiders voor hun rol in Soedan.",
+      "statement": "Donald Trump is de huidige president van de VS.",
       "isTrue": false
     },
     {
-      "statement": "De Emiraten investeren in westerse wapenbedrijven, en daarom zwijgen westerse leiders over de Emiraten.",
+      "statement": "De tekst gaat over het vrijgeven van documenten over Epstein.",
       "isTrue": true
     },
     {
-      "statement": "Soedan is een stad in de Emiraten.",
+      "statement": "De tekst is geschreven in het Engels.",
       "isTrue": false
     }
   ]
